@@ -1,0 +1,37 @@
+id: emamgholizadeh-arshia-2006
+name_latin: "Arshia Emamgholizadeh Alamdari"
+name_farsi: "آرشیا امام قلی‌زاده آلمداری"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: Azerbaijani
+photo: null
+
+# --- DEATH ---
+date_of_death: 2022-11-25
+age_at_death: 16
+place_of_death: "Jolfa"
+province: "East Azerbaijan"
+cause_of_death: "Suicide 2 days after release from detention"
+circumstances: >
+  Arrested November 12 for flicking a cleric's turban during the nationwide
+  turban-tossing campaign. Held 11 days in Tabriz Central Prison despite being
+  a minor. Told friends after release that detainees were "given pills at night
+  and tortured by beating the soles of their feet." Died by suicide 2 days after
+  release on bail.
+event_context: "Woman, Life, Freedom movement (2022 Mahsa Amini protests)"
+responsible_forces: "Security forces, Tabriz Central Prison"
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://iranhr.net/en/articles/6200/"
+    name: "Iran Human Rights — One Year Protest Report"
+    date: 2023-09-16
+    type: ngo_report
+  - url: "https://iranhumanrights.org/2023/01/suicides-suspicious-deaths-of-released-protesters-in-iran-should-be-investigated-by-un/"
+    name: "Center for Human Rights in Iran — Suspicious Deaths"
+    date: 2023-01-01
+    type: ngo_report
+last_updated: 2026-02-09
+updated_by: "iran-memorial project"

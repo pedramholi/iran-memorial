@@ -1,0 +1,42 @@
+id: ghobadlou-mohammad-2001
+name_latin: "Mohammad Ghobadlou"
+name_farsi: "محمد قبادلو"
+date_of_birth: 2001-01-01
+place_of_birth: "Parand, Tehran Province"
+gender: male
+ethnicity: null
+photo: null
+
+# --- LIFE ---
+occupation: "Barber"
+
+# --- DEATH ---
+date_of_death: 2024-01-23
+age_at_death: 23
+place_of_death: "Qazal Hesar Prison, Karaj"
+province: "Alborz"
+cause_of_death: "Judicial execution by hanging"
+circumstances: >
+  Accused of running over police Special Units with a car in Parand during protests,
+  killing one officer and injuring five. Had been under psychiatric supervision for
+  bipolar disorder since age 15. Fifty Iranian psychiatrists confirmed need for
+  thorough reexamination. Branch 1 of the Supreme Court initially annulled the death
+  sentence and referred it for retrial, but he was executed anyway. His bipolar
+  medications were reportedly withheld in detention and he was denied access to his
+  attorney during the first month. Charged with moharebeh.
+event_context: "Woman, Life, Freedom movement (2022 Mahsa Amini protests)"
+responsible_forces: "Islamic Republic judiciary, Revolutionary Court"
+
+# --- VERIFICATION ---
+status: verified
+sources:
+  - url: "https://en.wikipedia.org/wiki/Mohammad_Ghobadloo"
+    name: "Wikipedia — Mohammad Ghobadlou"
+    date: null
+    type: encyclopedia
+  - url: "https://www.amnesty.org/en/latest/news/2024/01/iran-executions-of-protester-with-mental-disability-and-kurdish-man-mark-plunge-into-new-realms-of-cruelty/"
+    name: "Amnesty International — Execution of Protester with Mental Disability"
+    date: 2024-01-23
+    type: ngo_report
+last_updated: 2026-02-09
+updated_by: "iran-memorial project"

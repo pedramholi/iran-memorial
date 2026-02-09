@@ -1,0 +1,29 @@
+id: heydari-amirali-2009
+name_latin: "Amirali Heydari"
+name_farsi: "امیرعلی حیدری"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 17
+place_of_death: "Kermanshah"
+province: "Kermanshah"
+cause_of_death: "Shot in the heart by IRGC forces during protests"
+circumstances: >
+  Killed during protests in Kermanshah on January 8, 2026.
+event_context: "2026 Iranian protests"
+responsible_forces: "IRGC"
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://kurdistanhumanrights.org/en/publications/2026/01/19/at-least-150-kurdish-citizens-killed-in-iran-protest-crackdown"
+    name: "KHRN — At Least 150 Kurdish Citizens Killed"
+    date: 2026-01-19
+    type: ngo_report
+last_updated: 2026-02-09
+updated_by: "iran-memorial project"

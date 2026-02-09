@@ -1,0 +1,32 @@
+id: ghanbari-reza-2010
+name_latin: "Reza Ghanbari"
+name_farsi: "رضا قنبری"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+photo: null
+
+# --- LIFE ---
+occupation: "Child laborer"
+
+# --- DEATH ---
+date_of_death: 2026-01-03
+age_at_death: 16
+place_of_death: "Kermanshah"
+province: "Kermanshah"
+cause_of_death: "Shot during protests"
+circumstances: >
+  Killed during protests on Artesh Street in Jafarabad neighbourhood, Kermanshah.
+event_context: "2026 Iranian protests"
+responsible_forces: "Security forces"
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://kurdistanhumanrights.org/en/publications/2026/01/19/at-least-150-kurdish-citizens-killed-in-iran-protest-crackdown"
+    name: "KHRN — At Least 150 Kurdish Citizens Killed"
+    date: 2026-01-19
+    type: ngo_report
+last_updated: 2026-02-09
+updated_by: "iran-memorial project"

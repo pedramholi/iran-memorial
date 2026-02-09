@@ -1,0 +1,40 @@
+id: rigi-ebrahim-1999
+name_latin: "Ebrahim Rigi"
+name_farsi: "ابراهیم ریگی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: Baloch
+photo: null
+
+# --- LIFE ---
+occupation: "Doctor"
+
+# --- DEATH ---
+date_of_death: 2023-02-22
+age_at_death: 24
+place_of_death: "Zahedan"
+province: "Sistan-Baluchestan"
+cause_of_death: "Beaten to death inside police station within one hour"
+circumstances: >
+  First arrested October 13, 2022, for helping injured on "Bloody Friday"
+  (September 30 Zahedan massacre). Released on bail. Re-arrested February 22,
+  2023, on street by two agents. Taken to Police Station 12 in Baath district.
+  Beaten to death within one hour. Judge and forensic pathologist confirmed
+  death from beating inside the police station.
+event_context: "Woman, Life, Freedom movement (2022 Mahsa Amini protests)"
+responsible_forces: "Police Station 12, Zahedan"
+
+# --- VERIFICATION ---
+status: verified
+sources:
+  - url: "https://iranhr.net/en/articles/5744/"
+    name: "Iran Human Rights — UN Must Investigate Ebrahim Rigi"
+    date: null
+    type: ngo_report
+  - url: "https://www.rferl.org/a/iran-protester-dies-police-custody-rigi/32287015.html"
+    name: "RFERL — Iranian Protester Dies in Custody Soon After Rearrest"
+    date: null
+    type: news
+last_updated: 2026-02-09
+updated_by: "iran-memorial project"

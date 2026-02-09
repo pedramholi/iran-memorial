@@ -1,0 +1,34 @@
+id: fallahpour-shahab-2007
+name_latin: "Shahab Fallahpour"
+name_farsi: "شهاب فلاح‌پور"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+photo: null
+
+# --- LIFE ---
+occupation: "Wrestler"
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: 19
+place_of_death: "Andimeshk"
+province: "Khuzestan"
+cause_of_death: "Sniper fire from rooftop on Parto Street, without warning"
+circumstances: >
+  Killed by sniper fire from a rooftop on Parto Street in Andimeshk during protests.
+  Body buried at 4 AM on January 12 in the presence of his parents only, without
+  funeral ceremony, under government supervision.
+event_context: "2026 Iranian protests"
+responsible_forces: "Security forces (sniper)"
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://kurdistanhumanrights.org/en/publications/2026/01/19/at-least-150-kurdish-citizens-killed-in-iran-protest-crackdown"
+    name: "KHRN — At Least 150 Kurdish Citizens Killed"
+    date: 2026-01-19
+    type: ngo_report
+last_updated: 2026-02-09
+updated_by: "iran-memorial project"

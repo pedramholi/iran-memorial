@@ -182,6 +182,7 @@
 - **Prisma v7 ohne Migration:** Breaking Change bei Config-Format. Downgrade auf v6 war die richtige Entscheidung. (→ BUG-002)
 - **`"type": "commonjs"` mit Next.js:** Inkompatibel mit ESM-Syntax die TypeScript/Next.js verwenden. (→ BUG-003)
 - **Wikipedia-Parser erfasst nur Protest-Tote, keine Hingerichteten:** Der Parser für "Deaths during the Mahsa Amini protests" extrahiert nur während der Proteste Getötete (erschossen, geschlagen). Juristisch Hingerichtete stehen auf einer separaten Wikipedia-Seite ("Death sentences during the Mahsa Amini protests"). Mindestens 12 Hingerichtete (Shekari, Rahnavard, Karami, Hosseini, Mirhashemi, Kazemi, Yaghoubi, Ghobadlou, Rasaei, u.a.) fehlten komplett. **Lesson:** Vor jedem Datenimport prüfen, ob die Quelle den gesamten Scope abdeckt. Bei Wikipedia: verwandte Artikel systematisch identifizieren.
+- **Einzelne Quelle = systematische Blindspots:** Eine einzelne Wikipedia-Seite erfasst nur eine Kategorie von Opfern. Tatsächlich gibt es mindestens 5 Opferkategorien die jeweils eigene Quellen brauchen: (1) Protest-Tote, (2) Juristisch Hingerichtete, (3) Tode in Haft / unter Folter, (4) Verdächtige "Suizide" nach Freilassung, (5) Hijab-Enforcement-Tode. **Lesson:** Bei jedem Datenimport eine Vollständigkeits-Checkliste gegen alle Opferkategorien durchgehen. Nie annehmen dass eine Quelle den gesamten Scope abdeckt.
 
 ---
 
@@ -233,28 +234,39 @@ Die bestehenden YAML-Dateien verwenden ein flaches Format mit verschachtelten Ob
 
 ### Fehlende WLF-Opfer: Lückenanalyse und Strategie (2026-02-09)
 
-**Aktueller Stand:** 426 Opfer (422 aus Wikipedia-Parser + 4 manuell ergänzte Hingerichtete)
+**Aktueller Stand:** 466 Opfer (422 Wikipedia-Parser + 35 manuell recherchiert + 9 2025/2026-Proteste)
 **Geschätzte Gesamtzahl WLF-Tote:** mindestens 551 (IHR-Zählung) + 12 Hingerichtete + 22 verdächtige Todesfälle = ~585
 
-**Fehlende Kategorien:**
-1. **Hingerichtete Protestler:** 12 bestätigt, davon 4 jetzt erfasst, 8 fehlen noch (Mirhashemi, Kazemi, Yaghoubi, Ghobadlou, Rasaei, Kourkour, Bahramian, Zohrevand-Update)
-2. **Wikipedia-Lücken:** ~100 Opfer auf der "Deaths during"-Seite die der Parser nicht erfasst hat (Format-Probleme, nachträglich hinzugefügt)
-3. **Tode in Haft / unter Folter:** ~22 verdächtige Todesfälle laut IHR, kaum erfasst
-4. **Spätere Protestwellen 2023+:** nicht erfasst
+**Bereits erfasste Kategorien (nach manueller Recherche 2026-02-09):**
+1. **Hingerichtete Protestler:** Alle 12 bestätigten erfasst (Shekari, Rahnavard, Karami, Hosseini, Mirhashemi, Kazemi, Yaghoubi, Zohrevand, Ghobadlou, Rasaei, Kourkour, Bahramian)
+2. **Tode in Haft / unter Folter:** 7 Fälle erfasst (Rouhi, Rigi, Fuladiwanda, Ahmadinejad, Esmaili, Galvani, Rakhshani)
+3. **Verdächtige "Suizide" nach Freilassung:** 10 Fälle erfasst (Aghafazli, Emamgholizadeh, Naami, Mansouri, u.a.)
+4. **Hijab-Enforcement:** 1 Fall (Armita Geravand)
+5. **2025/2026-Proteste:** 9 namentlich identifizierte Opfer erfasst (Aminian, Fallahpour, u.a.)
+
+**Noch fehlende Kategorien:**
+1. **Wikipedia-Lücken:** ~100 Opfer auf der "Deaths during"-Seite die der Parser nicht erfasst hat
+2. **IHR/HRANA-Daten:** ~100-150 verifizierte Opfer die nur in NGO-Berichten dokumentiert sind
+3. **2025/2026-Proteste:** Geschätzt 3.000-36.000 Tote, bisher nur 9 namentlich erfasst
 
 **Strategie nach Priorität:**
 
 | Prio | Quelle | Erwartete neue Opfer | Aufwand | Datenqualität |
 |------|--------|---------------------|---------|---------------|
-| 1 | Wikipedia "Death sentences during the Mahsa Amini protests" | ~8 | 1 Tag | Hoch (strukturiert) |
-| 2 | Wikipedia "Deaths during" — Re-Parse auf Lücken | ~100 | 1 Tag | Hoch |
-| 3 | Iran Human Rights (iranhr.net) Artikel | ~100-150 | 3-5 Tage | Hoch (verifiziert) |
-| 4 | Boroumand Foundation (iranrights.org/memorial) | ~50-200 + Enrichment | 5-7 Tage | Höchste (detailliert) |
-| 5 | HRANA (en-hrana.org) | ~50-80 | 3-5 Tage | Mittel-Hoch |
-| 6 | Wikipedia "Detainees" Seite | ~5-15 | 0.5 Tag | Mittel |
-| 7 | Amnesty International Berichte | ~10-30 | 2-3 Tage | Hoch |
+| 1 | Wikipedia "Deaths during" — Re-Parse auf Lücken | ~100 | 1 Tag | Hoch |
+| 2 | Iran Human Rights (iranhr.net) Artikel | ~100-150 | 3-5 Tage | Hoch (verifiziert) |
+| 3 | Boroumand Foundation (iranrights.org/memorial) | ~50-200 + Enrichment | 5-7 Tage | Höchste (detailliert) |
+| 4 | HRANA (en-hrana.org) | ~50-80 | 3-5 Tage | Mittel-Hoch |
+| 5 | KHRN + IHR für 2025/2026-Proteste | Tausende | Laufend | Mittel |
+| 6 | Amnesty International Berichte | ~10-30 | 2-3 Tage | Hoch |
 
-**Ziel:** Von 426 → ~750-1.000 WLF-Opfer, nahe an IHR-Gesamtzählung von 585+.
+**Vollständigkeits-Checkliste für jeden Datenimport:**
+Vor jedem Import gegen diese 5 Opferkategorien prüfen:
+- [ ] Protest-Tote (erschossen, geschlagen während Demos)
+- [ ] Juristisch Hingerichtete (nach Festnahme bei Protesten)
+- [ ] Tode in Haft (Folter, medizinische Vernachlässigung, "verdächtige" Tode)
+- [ ] Verdächtige Tode nach Freilassung (erzwungene "Suizide", Überdosen, Morde)
+- [ ] Hijab-Enforcement-Tode (Sittenpolizei, außerhalb von Protesten)
 
 **Deduplizierung:** Namens-Transliteration ist das größte Problem (Mohammad/Muhammad, Hossein/Hosseini). Jeder Cross-Reference braucht Fuzzy-Matching. Beispiel: "Seyyed Mohammad Hosseini" existiert zweimal — einmal Protesttoter (22.10.2022), einmal Hingerichteter (07.01.2023).
 

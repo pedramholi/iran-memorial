@@ -1,0 +1,31 @@
+id: galvani-peyman-1999
+name_latin: "Peyman Galvani"
+name_farsi: "پیمان گلوانی"
+date_of_birth: null
+place_of_birth: "Mahabad"
+gender: male
+ethnicity: Kurdish
+photo: null
+
+# --- DEATH ---
+date_of_death: 2023-07-09
+age_at_death: 24
+place_of_death: "Urmia"
+province: "West Azerbaijan"
+cause_of_death: "Tortured to death in Urmia Intelligence detention center"
+circumstances: >
+  Arrested June 25, 2023. Died from torture with unmistakable marks on his body.
+  Authorities claimed he was arrested on fraud charges and passed away due to illness.
+  His funeral became a protest.
+event_context: "Woman, Life, Freedom movement (2022 Mahsa Amini protests)"
+responsible_forces: "Urmia Intelligence Department"
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://hengaw.net/en/news/2024/02/hengaws-statistical-report-on-the-state-of-irans-prisons-in-2023-reveals-the-deaths-of-11-prisoners-under-torture"
+    name: "Hengaw — 2023 Prison Report"
+    date: 2024-02-01
+    type: ngo_report
+last_updated: 2026-02-09
+updated_by: "iran-memorial project"

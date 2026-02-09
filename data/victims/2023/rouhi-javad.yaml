@@ -1,0 +1,39 @@
+id: rouhi-javad
+name_latin: "Javad Rouhi"
+name_farsi: "جواد روحی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2023-08-31
+age_at_death: 33
+place_of_death: "Nowshahr Central Prison"
+province: "Mazandaran"
+cause_of_death: "Suspicious death in custody — officially 'heart attack'"
+circumstances: >
+  Arrested September 21, 2022, during protest in Nowshahr. Originally sentenced to
+  three death sentences, all overturned by Supreme Court. Held in "temporary detention"
+  awaiting re-sentencing. Subjected to extreme torture: freezing temperatures, ice
+  cubes placed on testicles for 48-hour periods, severe beatings with batons,
+  whipping of feet while tied to pole. Died in custody. Official cause contradictory:
+  "heart attack" (forensic) vs "stroke" (IRGC). Human Rights Watch called for
+  UN investigation.
+event_context: "Woman, Life, Freedom movement (2022 Mahsa Amini protests)"
+responsible_forces: "Nowshahr Central Prison, IRGC"
+
+# --- VERIFICATION ---
+status: verified
+sources:
+  - url: "https://www.hrw.org/news/2023/09/01/iran-suspicious-death-imprisoned-protester"
+    name: "Human Rights Watch — Suspicious Death of Imprisoned Protester"
+    date: 2023-09-01
+    type: ngo_report
+  - url: "https://iranhr.net/en/articles/6181/"
+    name: "Iran Human Rights — Calls for UN Investigation into Javad Rouhi"
+    date: null
+    type: ngo_report
+last_updated: 2026-02-09
+updated_by: "iran-memorial project"

@@ -1,0 +1,40 @@
+id: aminian-rubina-2003
+name_latin: "Rubina Aminian"
+name_farsi: "روبینا امینیان"
+date_of_birth: null
+place_of_birth: "Marivan, Kurdistan Province"
+gender: female
+ethnicity: Kurdish
+photo: null
+
+# --- LIFE ---
+occupation: "Student of textile and fashion design at Shariati Technical College"
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 23
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Shot in the head from close range from behind"
+circumstances: >
+  Left college and joined protests in Tehran. Shot in the head from close range
+  from behind. Her mother searched through hundreds of bodies to find her. Family
+  was barred from taking remains, then prevented from burying her. Forced to bury
+  her body along the roadside between Kermanshah and Kamyaran because intelligence
+  forces surrounded the family home.
+event_context: "2026 Iranian protests"
+responsible_forces: "Security forces"
+
+# --- VERIFICATION ---
+status: verified
+sources:
+  - url: "https://iranhr.net/en/articles/8525/"
+    name: "Iran Human Rights — Rubina Aminian"
+    date: null
+    type: ngo_report
+  - url: "https://www.cbsnews.com/news/iran-protester-killed-rubina-aminian/"
+    name: "CBS News — Iranian Student Shot in Head"
+    date: null
+    type: news
+last_updated: 2026-02-09
+updated_by: "iran-memorial project"

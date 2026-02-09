@@ -1,0 +1,34 @@
+id: sobhani-bayat
+name_latin: "Bayat Sobhani"
+name_farsi: "بایت سبحانی"
+date_of_birth: null
+place_of_birth: "Village of Shamshir, Paveh"
+gender: male
+ethnicity: Kurdish
+photo: null
+
+# --- LIFE ---
+family:
+  notes: "Father of two"
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 40
+place_of_death: "Kermanshah (Darreh Drezh neighbourhood)"
+province: "Kermanshah"
+cause_of_death: "Shot by IRGC gunfire during protests"
+circumstances: >
+  Killed during protests in Kermanshah on January 8. Funeral held January 11
+  in Shamshir.
+event_context: "2026 Iranian protests"
+responsible_forces: "IRGC"
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://kurdistanhumanrights.org/en/publications/2026/01/19/at-least-150-kurdish-citizens-killed-in-iran-protest-crackdown"
+    name: "KHRN — At Least 150 Kurdish Citizens Killed"
+    date: 2026-01-19
+    type: ngo_report
+last_updated: 2026-02-09
+updated_by: "iran-memorial project"

@@ -1,0 +1,47 @@
+id: rasaei-reza-1990
+name_latin: "Reza Rasaei"
+name_farsi: "رضا رسایی"
+aliases: ["Gholamreza Rasaei"]
+date_of_birth: null
+place_of_birth: "Sahneh, Kermanshah Province"
+gender: male
+ethnicity: Kurdish
+photo: null
+
+# --- LIFE ---
+occupation: "Human rights activist"
+
+# --- DEATH ---
+date_of_death: 2024-08-06
+age_at_death: 34
+place_of_death: "Dizelabad Prison, Kermanshah"
+province: "Kermanshah"
+cause_of_death: "Judicial execution by hanging (secret execution at 5:00 AM)"
+circumstances: >
+  On November 18, 2022, attended a commemoration in Sahneh marking the death of a
+  Yarsani spiritual leader. The memorial developed into a protest in memory of Kian
+  Pirfalak. Accused of killing an IRGC officer. Confessions extracted through
+  torture: beatings, electric shocks, suffocation, suspension, and sexual violence.
+  Executed secretly at 5:00 AM without prior notice to family or lawyer. Family
+  forced to bury his body far from his hometown under security escort. Maintained
+  innocence until death. 10th WLF protester executed.
+event_context: "Woman, Life, Freedom movement (2022 Mahsa Amini protests)"
+responsible_forces: "Islamic Republic judiciary, Revolutionary Court"
+
+# --- VERIFICATION ---
+status: verified
+sources:
+  - url: "https://en.wikipedia.org/wiki/Reza_Rasaei"
+    name: "Wikipedia — Reza Rasaei"
+    date: null
+    type: encyclopedia
+  - url: "https://www.amnesty.org/en/latest/news/2024/08/iran-shocking-secret-execution-of-young-man-in-relation-to-woman-life-freedom-uprising/"
+    name: "Amnesty International — Secret Execution of Reza Rasaei"
+    date: 2024-08-06
+    type: ngo_report
+  - url: "https://iranhr.net/en/articles/6834/"
+    name: "Iran Human Rights — Reza Rasaei Executed"
+    date: 2024-08-06
+    type: ngo_report
+last_updated: 2026-02-09
+updated_by: "iran-memorial project"

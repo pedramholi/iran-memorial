@@ -1,0 +1,40 @@
+id: naami-atefeh-1985
+name_latin: "Atefeh Na'ami"
+name_farsi: "عاطفه نعامی"
+date_of_birth: null
+place_of_birth: "Ahvaz"
+gender: female
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2022-11-26
+age_at_death: 37
+place_of_death: "Karaj (Azimiyeh)"
+province: "Alborz"
+cause_of_death: "Staged suicide — torture marks on body"
+circumstances: >
+  Active protester who distributed WLF slogans. Disappeared November 21, 2022.
+  Body found on apartment balcony on November 26 with gas pipe in mouth (staged
+  suicide). Family reported torture marks on body and rejected the suicide narrative.
+  Secretly buried November 28 in Ahvaz by security officers without family consent.
+event_context: "Woman, Life, Freedom movement (2022 Mahsa Amini protests)"
+responsible_forces: "Security forces"
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://en.wikipedia.org/wiki/Atefeh_Naami"
+    name: "Wikipedia — Atefeh Naami"
+    date: null
+    type: encyclopedia
+  - url: "https://iranwire.com/en/special-features/135364-tortured-to-death-the-story-of-atefeh-naami/"
+    name: "IranWire — Tortured to Death: The Story of Atefeh Na'ami"
+    date: null
+    type: news
+  - url: "https://www.iranrights.org/memorial/story/-8937/atefeh-naami"
+    name: "Abdorrahman Boroumand Center — Atefeh Naami"
+    date: null
+    type: ngo_report
+last_updated: 2026-02-09
+updated_by: "iran-memorial project"

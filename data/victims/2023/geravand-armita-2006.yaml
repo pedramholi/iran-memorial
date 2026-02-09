@@ -1,0 +1,55 @@
+id: geravand-armita-2006
+name_latin: "Armita Geravand"
+name_farsi: "آرمیتا گراوند"
+date_of_birth: 2006-04-01
+place_of_birth: null
+gender: female
+ethnicity: null
+photo: null
+
+# --- LIFE ---
+occupation: "Student (11th grade, art high school); Taekwondo athlete (Dan 3)"
+
+# --- DEATH ---
+date_of_death: 2023-10-28
+age_at_death: 16
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Brain death from head trauma after morality police encounter on Tehran Metro"
+circumstances: >
+  On October 1, 2023, Geravand was boarding a subway train at Shohada station on
+  her way to school. Human rights activists say female morality police officers
+  confronted her about her hijab, resulting in a physical altercation that caused
+  her to collapse and sustain severe head trauma. Iranian authorities claim she
+  fainted from low blood pressure. CCTV footage released by authorities was
+  heavily edited and inconclusive. She was taken to Fajr Army Hospital where she
+  was kept in ICU. Declared brain dead October 22. Died October 28. Burial
+  conducted under heavy security presence. Her case drew comparisons to Mahsa
+  Amini exactly one year earlier.
+event_context: "Hijab enforcement — continuation of Woman, Life, Freedom movement"
+responsible_forces: "Morality police (Gasht-e Ershad)"
+
+# --- AFTERMATH ---
+burial:
+  location: null
+  date: null
+  circumstances: "Buried under heavy security; family surveilled"
+  grave_status: null
+
+# --- VERIFICATION ---
+status: verified
+sources:
+  - url: "https://en.wikipedia.org/wiki/Death_of_Armita_Geravand"
+    name: "Wikipedia — Death of Armita Geravand"
+    date: null
+    type: encyclopedia
+  - url: "https://www.cnn.com/2023/10/28/world/armita-geravand-iranian-teen-dies-intl/index.html"
+    name: "CNN — Armita Geravand Iranian Teen Dies"
+    date: 2023-10-28
+    type: news
+  - url: "https://iranhr.net/en/articles/6220/"
+    name: "Iran Human Rights — Calls for Investigation"
+    date: null
+    type: ngo_report
+last_updated: 2026-02-09
+updated_by: "iran-memorial project"

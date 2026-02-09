@@ -1,0 +1,30 @@
+id: gheisvandi-pouya
+name_latin: "Pouya Gheisvandi"
+name_farsi: "پویا قیصوندی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: Kurdish
+photo: null
+
+# --- DEATH ---
+date_of_death: 2022-09-21
+age_at_death: 26
+place_of_death: "Kamyaran"
+province: "Kurdistan"
+cause_of_death: "Suspicious death after detention"
+circumstances: >
+  Arrested September 21, 2022, during protests in Kamyaran. His lifeless body was
+  found at his home after being released from detention.
+event_context: "Woman, Life, Freedom movement (2022 Mahsa Amini protests)"
+responsible_forces: "Security forces"
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://iranhr.net/en/articles/6200/"
+    name: "Iran Human Rights — One Year Protest Report"
+    date: 2023-09-16
+    type: ngo_report
+last_updated: 2026-02-09
+updated_by: "iran-memorial project"

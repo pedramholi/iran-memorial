@@ -1,0 +1,40 @@
+id: arvin-maryam-1994
+name_latin: "Maryam Arvin"
+name_farsi: "مریم آروین"
+date_of_birth: null
+place_of_birth: null
+gender: female
+ethnicity: null
+photo: null
+
+# --- LIFE ---
+occupation: "Human rights lawyer (member of Kerman Lawyers Association)"
+
+# --- DEATH ---
+date_of_death: 2023-02-07
+age_at_death: 29
+place_of_death: "Sirjan"
+province: "Kerman"
+cause_of_death: "Death after release — injected with drugs in prison"
+circumstances: >
+  Arrested November 30, 2022, at prosecutor's office while defending detained
+  protesters. Released on bail December 12. Her mother stated Maryam was injected
+  with drugs in prison under guise of sedatives. Prison doctor confirmed injuries
+  sustained in detention. Died approximately 2 months later. Prosecutor claimed
+  suicide by medication.
+event_context: "Woman, Life, Freedom movement (2022 Mahsa Amini protests)"
+responsible_forces: "Security forces, Kerman prison system"
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://wncri.org/2023/08/02/maryam-arvin/"
+    name: "WNCRI — Maryam Arvin, Humanitarian Lawyer"
+    date: 2023-08-02
+    type: ngo_report
+  - url: "https://protect-lawyers.org/en/item/iran-tribute-to-maryam-arvin-lawyer-who-died-in-february-2023-after-release-from-prison/"
+    name: "Protect Lawyers — Tribute to Maryam Arvin"
+    date: null
+    type: ngo_report
+last_updated: 2026-02-09
+updated_by: "iran-memorial project"

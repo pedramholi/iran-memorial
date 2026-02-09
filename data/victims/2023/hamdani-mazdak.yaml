@@ -1,0 +1,32 @@
+id: hamdani-mazdak
+name_latin: "Mazdak Marianeh Hamdani"
+name_farsi: "مزدک ماریانه حمدانی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2023-03-15
+age_at_death: 16
+place_of_death: "Rasht"
+province: "Gilan"
+cause_of_death: "Died in adult prison despite being a minor"
+circumstances: >
+  Arrested during WLF protests for "assaulting a police officer." Despite being
+  underage, incarcerated in adult prison of Lakan Rasht. Subjected to severe
+  interrogation with visible bruises on face. Died under unclear circumstances.
+  Authorities barred friends from his funeral.
+event_context: "Woman, Life, Freedom movement (2022 Mahsa Amini protests)"
+responsible_forces: "Security forces, Lakan Prison Rasht"
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://iranwire.com/en/features/126540-defendant-did-not-express-remorse-suspicious-deaths-of-young-protesters-after-release-from-prison/"
+    name: "IranWire — Suspicious Deaths of Young Protesters"
+    date: null
+    type: news
+last_updated: 2026-02-09
+updated_by: "iran-memorial project"

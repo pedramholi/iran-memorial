@@ -1,0 +1,32 @@
+id: ebrahimpour-ahad-1992
+name_latin: "Ahad Ebrahimpour Abdoli"
+name_farsi: "احد ابراهیم‌پور عبدلی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+photo: null
+
+# --- LIFE ---
+occupation: "Worker"
+
+# --- DEATH ---
+date_of_death: 2026-01-01
+age_at_death: 34
+place_of_death: "Nurabad-e Delfan"
+province: "Lorestan"
+cause_of_death: "Shot in the chest by IRGC forces during protests"
+circumstances: >
+  Killed during protests on Azadi Boulevard in Nurabad-e Delfan.
+event_context: "2026 Iranian protests"
+responsible_forces: "IRGC"
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.hrw.org/news/2026/01/08/iran-authorities-renewed-cycle-of-protest-bloodshed"
+    name: "Human Rights Watch — Iran: Renewed Cycle of Protest Bloodshed"
+    date: 2026-01-08
+    type: ngo_report
+last_updated: 2026-02-09
+updated_by: "iran-memorial project"

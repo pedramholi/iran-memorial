@@ -1,0 +1,40 @@
+id: kazemi-majid-1992
+name_latin: "Majid Kazemi"
+name_farsi: "مجید کاظمی شیخ‌شبانی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: Lur
+photo: null
+
+# --- LIFE ---
+occupation: "Copper bending handicrafts workshop owner"
+
+# --- DEATH ---
+date_of_death: 2023-05-19
+age_at_death: 30
+place_of_death: "Dastgerd Prison, Isfahan"
+province: "Isfahan"
+cause_of_death: "Judicial execution by hanging"
+circumstances: >
+  Part of "Khane Isfahan" case. Arrested November 21, 2022, at the home of his
+  brother Hossein. Tortured: suspended upside down, shown video of his brother
+  being tortured, subjected to mock executions at least 15 times. Beaten, electric
+  shocks, threatened with rape and execution of his brothers. Executed alongside
+  Saleh Mirhashemi and Saeed Yaghoubi.
+event_context: "Woman, Life, Freedom movement (2022 Mahsa Amini protests)"
+responsible_forces: "Islamic Republic judiciary, Revolutionary Court"
+
+# --- VERIFICATION ---
+status: verified
+sources:
+  - url: "https://en.wikipedia.org/wiki/Execution_of_Majid_Kazemi"
+    name: "Wikipedia — Execution of Majid Kazemi"
+    date: null
+    type: encyclopedia
+  - url: "https://www.amnesty.org/en/latest/news/2023/05/iran-executions-of-tortured-protesters-must-trigger-a-robust-reaction-from-the-international-community/"
+    name: "Amnesty International — Executions of Tortured Protesters"
+    date: 2023-05-19
+    type: ngo_report
+last_updated: 2026-02-09
+updated_by: "iran-memorial project"

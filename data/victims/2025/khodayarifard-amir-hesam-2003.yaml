@@ -1,0 +1,31 @@
+id: khodayarifard-amir-hesam-2003
+name_latin: "Amir-Hesam Khodayarifard"
+name_farsi: "امیرحسام خدایاری‌فرد"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: Yarsani
+photo: null
+
+# --- DEATH ---
+date_of_death: 2025-12-31
+age_at_death: 22
+place_of_death: "Kuhdasht"
+province: "Lorestan"
+cause_of_death: "Shot by IRGC forces during protests"
+circumstances: >
+  Killed during protests in Kuhdasht. Authorities initially refused to hand over
+  his body and pressured the family to present him as a member of the Basij militia.
+  His father later publicly rejected this claim.
+event_context: "2026 Iranian protests"
+responsible_forces: "IRGC"
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.hrw.org/news/2026/01/08/iran-authorities-renewed-cycle-of-protest-bloodshed"
+    name: "Human Rights Watch — Iran: Renewed Cycle of Protest Bloodshed"
+    date: 2026-01-08
+    type: ngo_report
+last_updated: 2026-02-09
+updated_by: "iran-memorial project"

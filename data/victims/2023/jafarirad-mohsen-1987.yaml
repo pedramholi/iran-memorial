@@ -1,0 +1,34 @@
+id: jafarirad-mohsen-1987
+name_latin: "Mohsen Jafarirad"
+name_farsi: "محسن جعفری‌راد"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+photo: null
+
+# --- LIFE ---
+occupation: "Film director, journalist, screenwriter"
+
+# --- DEATH ---
+date_of_death: 2023-01-08
+age_at_death: 36
+place_of_death: "Karaj"
+province: "Alborz"
+cause_of_death: "Suicide by pills after release from detention"
+circumstances: >
+  Arrested for taking part in protests in Karaj. Detained for approximately
+  2 weeks. Reportedly committed suicide by pill overdose on January 8, 2023,
+  after release.
+event_context: "Woman, Life, Freedom movement (2022 Mahsa Amini protests)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://iranhr.net/en/articles/6200/"
+    name: "Iran Human Rights — One Year Protest Report"
+    date: 2023-09-16
+    type: ngo_report
+last_updated: 2026-02-09
+updated_by: "iran-memorial project"

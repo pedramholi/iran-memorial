@@ -1,0 +1,33 @@
+id: salehi-navid-1998
+name_latin: "Navid Salehi"
+name_farsi: "نوید صالحی"
+date_of_birth: null
+place_of_birth: "Paveh"
+gender: male
+ethnicity: Kurdish
+photo: null
+
+# --- LIFE ---
+occupation: "Radiology graduate, nurse at Farabi Hospital"
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 28
+place_of_death: "Kermanshah"
+province: "Kermanshah"
+cause_of_death: "Shot by IRGC gunfire during protests"
+circumstances: >
+  Killed during protests in Kermanshah on January 8. Funeral held January 11
+  in village of Mazidi in Paveh.
+event_context: "2026 Iranian protests"
+responsible_forces: "IRGC"
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://kurdistanhumanrights.org/en/publications/2026/01/19/at-least-150-kurdish-citizens-killed-in-iran-protest-crackdown"
+    name: "KHRN — At Least 150 Kurdish Citizens Killed"
+    date: 2026-01-19
+    type: ngo_report
+last_updated: 2026-02-09
+updated_by: "iran-memorial project"

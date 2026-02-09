@@ -1,30 +1,51 @@
 id: zohrevand-milad-2002
 name_latin: "Milad Zohrevand"
-name_farsi: null
+name_farsi: "میلاد زهره‌وند"
 date_of_birth: null  # est. birth year: 2002
-place_of_birth: null
+place_of_birth: "Malayer, Hamedan Province"
 gender: male
 ethnicity: null
 photo: null
 
 # --- DEATH ---
-date_of_death: 2023-11-23
+date_of_death: 2023-11-22
 age_at_death: 21
-place_of_death: "Hamedan"
+place_of_death: "Hamedan Central Prison"
 province: "Hamedan"
-cause_of_death: null
+cause_of_death: "Judicial execution by hanging"
 circumstances: >
-    Charge of murdering a member of the Islamic Revolutionary Guard Corps named
-  "Ali Nazari"
+  Arrested October 27, 2022, the 40th-day anniversary of Mahsa Amini's death.
+  Accused of killing IRGC officer Ali Nazari during protests in Malayer. Denied
+  access to a lawyer throughout detention. Executed secretly without family
+  notification. He was married and became a father while in prison; it is unclear
+  if he ever saw his child. His mother Afsaneh was arrested at his funeral for
+  "wailing." His father Rouhollah was arrested after burial. His body was denied
+  burial in a Muslim cemetery and buried in an Armenian Christian cemetery instead.
+  8th WLF protester executed.
 event_context: "Woman, Life, Freedom movement (2022 Mahsa Amini protests)"
-responsible_forces: null
+responsible_forces: "Islamic Republic judiciary, Revolutionary Court"
+
+# --- AFTERMATH ---
+burial:
+  location: "Armenian (Christian) cemetery"
+  circumstances: >
+    Body denied burial in Muslim cemetery. Mother arrested at funeral for wailing.
+    Father arrested after burial.
 
 # --- VERIFICATION ---
-status: "unverified"
+status: verified
 sources:
   - url: "https://en.wikipedia.org/wiki/Deaths_during_the_Mahsa_Amini_protests"
     name: "Wikipedia — Deaths during the Mahsa Amini protests"
     date: null
     type: encyclopedia
+  - url: "https://iranhr.net/en/articles/6339/"
+    name: "Iran Human Rights — 8th Protester Executed: Milad Zohrevand"
+    date: null
+    type: ngo_report
+  - url: "https://iranhr.net/en/articles/6354/"
+    name: "Iran Human Rights — Zohrevand Follow-up"
+    date: null
+    type: ngo_report
 last_updated: 2026-02-09
-updated_by: "wikipedia-parser-script"
+updated_by: "iran-memorial project"

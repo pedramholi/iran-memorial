@@ -1,0 +1,33 @@
+id: zarinjouyi-hossein-1993
+name_latin: "Hossein Zarinjouyi"
+name_farsi: "حسین زرین‌جویی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+photo: null
+
+# --- LIFE ---
+occupation: "Blogger and comedian"
+
+# --- DEATH ---
+date_of_death: 2022-11-22
+age_at_death: 29
+place_of_death: "Khorramabad"
+province: "Lorestan"
+cause_of_death: "Alleged suicide"
+circumstances: >
+  Blogger and comedian who wrote in support of WLF protests online.
+  Allegedly committed suicide.
+event_context: "Woman, Life, Freedom movement (2022 Mahsa Amini protests)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://iranhr.net/en/articles/6200/"
+    name: "Iran Human Rights — One Year Protest Report"
+    date: 2023-09-16
+    type: ngo_report
+last_updated: 2026-02-09
+updated_by: "iran-memorial project"

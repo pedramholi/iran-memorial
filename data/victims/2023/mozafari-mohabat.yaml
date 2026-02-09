@@ -1,0 +1,34 @@
+id: mozafari-mohabat
+name_latin: "Mohabat Mozafari"
+name_farsi: "محبت مظفری"
+date_of_birth: null
+place_of_birth: null
+gender: female
+ethnicity: null
+photo: null
+
+# --- LIFE ---
+occupation: "Human rights lawyer"
+
+# --- DEATH ---
+date_of_death: 2023-02-02
+age_at_death: 33
+place_of_death: null
+province: null
+cause_of_death: "Died of bleeding in sleep after release from detention"
+circumstances: >
+  Human rights lawyer who was representing WLF protesters when arrested at her
+  home. Had bruises and signs of torture on body after release from prison.
+  Died of bleeding in her sleep.
+event_context: "Woman, Life, Freedom movement (2022 Mahsa Amini protests)"
+responsible_forces: "Security forces"
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://iranhr.net/en/articles/6200/"
+    name: "Iran Human Rights — One Year Protest Report"
+    date: 2023-09-16
+    type: ngo_report
+last_updated: 2026-02-09
+updated_by: "iran-memorial project"

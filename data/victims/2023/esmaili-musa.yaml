@@ -1,0 +1,35 @@
+id: esmaili-musa
+name_latin: "Musa Esmaili"
+name_farsi: "موسی اسماعیلی"
+date_of_birth: null
+place_of_birth: "Piranshahr"
+gender: male
+ethnicity: Kurdish
+photo: null
+
+# --- DEATH ---
+date_of_death: 2023-07-08
+age_at_death: 33
+place_of_death: "Urmia"
+province: "West Azerbaijan"
+cause_of_death: "Tortured to death in Urmia Intelligence detention center"
+circumstances: >
+  Arrested May 7, 2023, without a court order on suspicion of association with
+  opposition groups. Died from torture by security interrogators. Authorities
+  falsely claimed he was "killed while armed in a scuffle." Photos proved torture.
+event_context: "Woman, Life, Freedom movement (2022 Mahsa Amini protests)"
+responsible_forces: "Urmia Intelligence Department"
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.rferl.org/a/iran-activist-dies-custody-urmia-detention-center/32497243.html"
+    name: "RFERL — Iranian Activist Dies in Custody at Urmia"
+    date: null
+    type: news
+  - url: "https://hengaw.net/en/news/2024/02/hengaws-statistical-report-on-the-state-of-irans-prisons-in-2023-reveals-the-deaths-of-11-prisoners-under-torture"
+    name: "Hengaw — 2023 Prison Report"
+    date: 2024-02-01
+    type: ngo_report
+last_updated: 2026-02-09
+updated_by: "iran-memorial project"

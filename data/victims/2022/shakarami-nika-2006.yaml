@@ -1,7 +1,7 @@
 id: shakarami-nika-2006
 name_latin: "Nika Shakarami"
-name_farsi: null
-date_of_birth: null  # est. birth year: 2006
+name_farsi: "نیکا شاکرمی"
+date_of_birth: 2006-01-01
 place_of_birth: null
 gender: female
 ethnicity: null
@@ -12,23 +12,44 @@ date_of_death: 2022-09-20
 age_at_death: 16
 place_of_death: "Tehran"
 province: "Tehran"
-cause_of_death: "Beating"
+cause_of_death: "Beaten to death with batons after sexual assault in custody"
 circumstances: >
-    Standing on top of a dumpster at the head of a student protest downtown, she
-  burned her hijab, was chased by Basijis, disappeared without a trace and was
-  handed over dead to her family nine days later. She allegedly fell from an
-  unoccupied house; however, according to an autopsy, she suffered many broken
-  bones from severe beatings. According to witnesses, she was interrogated by
-  the IRGC and then taken to Evin prison.
+  On September 20, 2022, standing on top of a dumpster at a student protest in
+  downtown Tehran, she burned her hijab. She was chased by Basijis and disappeared.
+  Leaked IRGC documents obtained by BBC in 2024 revealed she was captured, placed
+  in an undercover van, sexually assaulted while handcuffed by a security member,
+  then beaten to death with batons when she fought back. Named perpetrators from
+  leaked documents: Arash Kalhor, Sadegh Monjazy, Behrooz Sadeghy. Captain
+  Mohammad Zamani ordered her body "dumped on the street." Family found her body
+  10 days later showing signs of severe beating and many broken bones. Authorities
+  claimed she fell from a building.
 event_context: "Woman, Life, Freedom movement (2022 Mahsa Amini protests)"
-responsible_forces: null
+responsible_forces: "IRGC, Basij — named: Arash Kalhor, Sadegh Monjazy, Behrooz Sadeghy, Cpt. Mohammad Zamani"
+
+# --- AFTERMATH ---
+burial:
+  location: null
+  circumstances: >
+    Body held for 10 days before being handed to family. Authorities attempted
+    to force false narrative of accidental fall.
+tributes:
+  - "Her image became one of the most iconic symbols of the WLF movement"
+  - "Her burning hijab moment was reproduced in murals and art worldwide"
 
 # --- VERIFICATION ---
-status: "unverified"
+status: verified
 sources:
+  - url: "https://en.wikipedia.org/wiki/Killing_of_Nika_Shakarami"
+    name: "Wikipedia — Killing of Nika Shakarami"
+    date: null
+    type: encyclopedia
   - url: "https://en.wikipedia.org/wiki/Deaths_during_the_Mahsa_Amini_protests"
     name: "Wikipedia — Deaths during the Mahsa Amini protests"
     date: null
     type: encyclopedia
+  - url: "https://www.rferl.org/a/bbc-documents-iranian-forces-teen-killed-custody/32928048.html"
+    name: "RFERL — BBC Secret Documents: Iranian Forces Killed Teen in Custody"
+    date: 2024-02-21
+    type: news
 last_updated: 2026-02-09
-updated_by: "wikipedia-parser-script"
+updated_by: "iran-memorial project"
