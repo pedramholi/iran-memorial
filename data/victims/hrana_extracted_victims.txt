@@ -1,0 +1,3555 @@
+================================================================================
+HRANA REPORTS - EXTRACTED VICTIM DATA
+Woman, Life, Freedom Protests - Iran 2022
+================================================================================
+
+SOURCE REPORTS:
+1. HRANA 82-Day Comprehensive Report (Sep 17 - Dec 7, 2022)
+   URL: https://www.en-hrana.org/wp-content/uploads/2022/12/82-Day-WLF-Protest-in-Iran-2022-English.pdf
+   ISBN: 978-1-7370668-5-9
+2. HRANA 20-Day Report (Sep 17 - Oct 5, 2022)
+   URL: https://archive.org/details/mahsa-amini-20-days-of-protests-englisht
+   ISBN: 978-1-7370668-4-2
+
+TOTAL NAMED/IDENTIFIED VICTIMS EXTRACTED: 501
+  - From 82-day report (Category 1): 481 identified victims
+  - Additional from 20-day report: 19 victims not in 82-day list
+  - Mahsa (Zhina) Amini: listed separately as catalyst of the movement
+
+NOTE: The 82-day report also references additional unnamed casualties:
+  - Category 2: Statistics from officials/media without individual names
+  - IRGC Air Force Commander claimed ~300 total deaths
+  - Category 3: 61 security/military personnel killed (listed separately)
+  - The actual civilian death toll is believed to be significantly higher
+
+CHILD VICTIMS (under 18): 68 named in the 82-day report
+
+================================================================================
+SECTION 1: VICTIMS FROM 82-DAY REPORT (481 identified)
+================================================================================
+
+NAME: Mohsen Mohammadi
+AGE: 28
+DATE: 19-Sep-2022
+LOCATION: Divandarreh
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #1 | Confirmation: Confirmed
+---
+NAME: Foad Ghadimi
+AGE: About 40
+DATE: 21-Sep-2022
+LOCATION: Divandarreh
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #2 | Confirmation: Confirmed
+---
+NAME: Zakaria Khayal (Soleimani)
+AGE: 16
+DATE: 20-Sep-2022
+LOCATION: Piranshahr
+CAUSE: Bullet wound
+DETAILS: Gender: Boy | HRANA 82-day report entry #3 | Confirmation: Confirmed
+---
+NAME: Reza Lotfi
+AGE: About 25
+DATE: 19-Sep-2022
+LOCATION: Dehgolan
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #4 | Confirmation: Unknown
+---
+NAME: Mino Majidi
+AGE: 62
+DATE: 20-Sep-2022
+LOCATION: Kermanshah
+CAUSE: Bullet wound
+DETAILS: Gender: Woman | HRANA 82-day report entry #5 | Confirmation: Confirmed
+---
+NAME: Fereydoun Mahmoudi
+AGE: 32
+DATE: 19-Sep-2022
+LOCATION: Saqez
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #6 | Confirmation: Confirmed
+---
+NAME: Farjad Darvishi
+AGE: 23
+DATE: 5-Oct-2022
+LOCATION: Urmia
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #7 | Confirmation: Confirmed
+---
+NAME: Mohsen Kaysari
+AGE: 31
+DATE: 17-Oct-2022
+LOCATION: Ilam
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #8 | Confirmation: Confirmed
+---
+NAME: Amir Mohammad Nowrozi
+AGE: 18
+DATE: 21-Sep-2022
+LOCATION: Bandar Anzali
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #9 | Confirmation: Confirmed
+---
+NAME: Abdullah Mahmoudpour
+AGE: 16
+DATE: 10-Oct-2022
+LOCATION: Urmia
+CAUSE: Bullet wound
+DETAILS: Gender: Boy | HRANA 82-day report entry #10 | Confirmation: Confirmed
+---
+NAME: Fardin Bakhtiari
+AGE: Unknown
+DATE: 2-Nov-2022
+LOCATION: Sanandaj
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #11 | Confirmation: Confirmed
+---
+NAME: Amin Maarof i (Knowledge)
+AGE: 16
+DATE: 21-Sep-2022
+LOCATION: Oshnavieh
+CAUSE: Bullet wound
+DETAILS: Gender: Boy | HRANA 82-day report entry #12 | Confirmation: Confirmed
+---
+NAME: Sadruddin Litani
+AGE: 27
+DATE: 21-Sep-2022
+LOCATION: Oshnavieh
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #13 | Confirmation: Confirmed
+---
+NAME: Danesh Rahnama
+AGE: 25
+DATE: 20-Sep-2022
+LOCATION: Urmia
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #14 | Confirmation: Confirmed
+---
+NAME: Rozbeh Khadamiyan
+AGE: 31
+DATE: 21-Sep-2022
+LOCATION: Karaj
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #15 | Confirmation: Confirmed
+---
+NAME: Milan Haghighi
+AGE: 21
+DATE: 21-Sep-2022
+LOCATION: Oshnavieh
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #16 | Confirmation: Confirmed
+---
+NAME: Mohammad Hossein Sarvi
+AGE: Unknown
+DATE: 20-Sep-2022
+LOCATION: Garmsar
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #17 | Confirmation: Confirmed
+---
+NAME: Milad Zare
+AGE: 25
+DATE: 21-Sep-2022
+LOCATION: Babol
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #18 | Confirmation: Confirmed
+---
+NAME: Pedram Azarnoosh
+AGE: 18
+DATE: 22-Sep-2022
+LOCATION: Dehdasht
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #19 | Confirmation: Confirmed
+---
+NAME: Mehrdad Behnam Asl
+AGE: About 27
+DATE: 22-Sep-2022
+LOCATION: Dehdasht
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #20 | Confirmation: Confirmed
+---
+NAME: Hanane Kiakajuri (Kia)
+AGE: 22
+DATE: 21-Sep-2022
+LOCATION: Nowshahr
+CAUSE: Bullet wound
+DETAILS: Gender: Woman | HRANA 82-day report entry #21 | Confirmation: Confirmed
+---
+NAME: Ghazaleh Chalavi
+AGE: 33
+DATE: 21-Sep-2022
+LOCATION: Amol
+CAUSE: Bullet wound
+DETAILS: Gender: Woman | HRANA 82-day report entry #22 | Confirmation: Confirmed
+---
+NAME: Reza Shahparnia
+AGE: 23
+DATE: 20-Sep-2022
+LOCATION: Kermanshah
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #23 | Confirmation: Confirmed
+---
+NAME: Farzin Lotfi
+AGE: 26
+DATE: 20-Sep-2022
+LOCATION: Rezvanshahr
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #24 | Confirmation: Confirmed
+---
+NAME: Sasan Ghorbani
+AGE: 31
+DATE: 22-Sep-2022
+LOCATION: Rezvanshahr
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #25 | Confirmation: Confirmed
+---
+NAME: Yasin Jamalzadeh
+AGE: 29
+DATE: 22-Sep-2022
+LOCATION: Rezvanshahr
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #26 | Confirmation: Confirmed
+---
+NAME: Hajar Abbasi
+AGE: About 70
+DATE: 19-Sep-2022
+LOCATION: Mahabad
+CAUSE: Bullet wound
+DETAILS: Gender: Woman | HRANA 82-day report entry #27 | Confirmation: Confirmed
+---
+NAME: Yasser Jafari
+AGE: Unknown
+DATE: 21-Sep-2022
+LOCATION: Ilam
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #28 | Confirmation: Under review
+---
+NAME: Erfan Rezaei Navai
+AGE: 21
+DATE: 21-Sep-2022
+LOCATION: Amol
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #29 | Confirmation: Confirmed
+---
+NAME: Mohammad Falah
+AGE: 33
+DATE: 21-Sep-2022
+LOCATION: Amol
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #30 | Confirmation: Confirmed
+---
+NAME: Amir Ali (Anoushirvan) Fuladi
+AGE: 16
+DATE: Unknown
+LOCATION: Eslamabad-e-Gharb
+CAUSE: Unknown
+DETAILS: Gender: Boy | HRANA 82-day report entry #31 | Confirmation: Unknown
+---
+NAME: Saeed Mohammadi
+AGE: 21
+DATE: 21-Sep-2022
+LOCATION: Eslamabad-e-Gharb
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #32 | Confirmation: Confirmed
+---
+NAME: Parsa Rezadoo st
+AGE: 18
+DATE: 22-Sep-2022
+LOCATION: Hashtgerd
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #33 | Confirmation: Confirmed
+---
+NAME: Javad Heydari
+AGE: 39
+DATE: 21-Sep-2022
+LOCATION: Qazvin
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #34 | Confirmation: Confirmed
+---
+NAME: Mahsa Mogo yi
+AGE: 18
+DATE: 22-Sep-2022
+LOCATION: Fooladshahr
+CAUSE: Bullet wound
+DETAILS: Gender: Woman | HRANA 82-day report entry #35 | Confirmation: Confirmed
+---
+NAME: Hadis Najafi
+AGE: 22
+DATE: 21-Sep-2022
+LOCATION: Karaj
+CAUSE: Bullet wound
+DETAILS: Gender: Woman | HRANA 82-day report entry #36 | Confirmation: Confirmed
+---
+NAME: Seyed Sina Loh Mousavi
+AGE: About 20
+DATE: 22-Sep-2022
+LOCATION: Amol
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #37 | Confirmation: Unknown
+---
+NAME: Mehdi Asgari
+AGE: 25
+DATE: 21-Sep-2022
+LOCATION: Garmsar
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #38 | Confirmation: Confirmed
+---
+NAME: Iman Mohammadi
+AGE: About 30
+DATE: 21-Sep-2022
+LOCATION: Eslamabad-e-Gharb
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #39 | Confirmation: Confirmed
+---
+NAME: Hossein Ali kia kajuri
+AGE: 23
+DATE: 21-Sep-2022
+LOCATION: Nowshahr
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #40 | Confirmation: Confirmed
+---
+NAME: Abdolsalam ghader golvani
+AGE: 32
+DATE: 26-Sep-2022
+LOCATION: Oshnavieh
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #41 | Confirmation: Confirmed
+---
+NAME: Mohammad Reza Eskandari
+AGE: 25
+DATE: 22-Sep-2022
+LOCATION: Varamin
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #42 | Confirmation: Confirmed
+---
+NAME: Mohammad Zamani
+AGE: 16
+DATE: 7-Oct-2022
+LOCATION: Tehran
+CAUSE: Unknown
+DETAILS: Gender: Boy | HRANA 82-day report entry #43 | Confirmation: Confirmed
+---
+NAME: Kanan Aghaei
+AGE: 20
+DATE: 21-Sep-2022
+LOCATION: Karaj
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #44 | Confirmation: Unknown
+---
+NAME: Hamid Foulavand
+AGE: Unknown
+DATE: 23-Sep-2022
+LOCATION: Varamin
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #45 | Confirmation: Confirmed
+---
+NAME: Behnam Layegh por
+AGE: 36
+DATE: 23-Sep-2022
+LOCATION: Rasht
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #46 | Confirmation: Confirmed
+---
+NAME: Seyed Mehdi Mousavi Niko
+AGE: 16
+DATE: 22-Sep-2022
+LOCATION: Zanjan
+CAUSE: Bullet wound
+DETAILS: Gender: Boy | HRANA 82-day report entry #47 | Confirmation: Under review
+---
+NAME: Mehrdad Ghorbani
+AGE: 18
+DATE: 21-Sep-2022
+LOCATION: Zanjan
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #48 | Confirmation: Confirmed
+---
+NAME: Mohammad Hasan Turkaman
+AGE: 27
+DATE: 21-Sep-2022
+LOCATION: Babol
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #49 | Confirmation: Confirmed
+---
+NAME: Samad Barghinia
+AGE: 52
+DATE: 28-Sep-2022
+LOCATION: Piranshahr
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #50 | Confirmation: Confirmed
+---
+NAME: Maziar Salmanian
+AGE: Unknown
+DATE: 23-Sep-2022
+LOCATION: Rasht
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #51 | Confirmation: Confirmed
+---
+NAME: Erfan Nazarbeigi
+AGE: Unknown
+DATE: 23-Sep-2022
+LOCATION: Tehran
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #52 | Confirmation: Confirmed
+---
+NAME: Arian moridi
+AGE: About 20
+DATE: 9-Oct-2022
+LOCATION: Salas Babajan i
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #53 | Confirmation: Under review
+---
+NAME: Seyedeh Amene Vahdat Hosseini
+AGE: Unknown
+DATE: 23-Sep-2022
+LOCATION: Karaj
+CAUSE: Unknown
+DETAILS: Gender: Woman | HRANA 82-day report entry #54 | Confirmation: Confirmed
+---
+NAME: Mahmoud Keshvari
+AGE: 35
+DATE: Unknown
+LOCATION: Karaj
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #55 | Confirmation: Confirmed
+---
+NAME: Afshin Shahamat
+AGE: Unknown
+DATE: 23-Sep-2022
+LOCATION: Tehran
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #56 | Confirmation: Confirmed
+---
+NAME: Siavash Mahmoudi
+AGE: 16
+DATE: 4-Nov-2022
+LOCATION: Tehran
+CAUSE: Bullet wound
+DETAILS: Gender: Boy | HRANA 82-day report entry #57 | Confirmation: Confirmed
+---
+NAME: Nika Shakarami
+AGE: 16
+DATE: 8-Oct-2022
+LOCATION: Tehran
+CAUSE: Unknown
+DETAILS: Gender: Girl | HRANA 82-day report entry #58 | Confirmation: Confirmed
+---
+NAME: Mahmoud Brahui
+AGE: 18
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #59 | Confirmation: Confirmed
+---
+NAME: Khalil Ghanbarzahi tanha
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #60 | Confirmation: Under review
+---
+NAME: Mohammad Sedigh (Rafe) Naroei
+AGE: 23
+DATE: Unknown
+LOCATION: Unknown
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #61 | Confirmation: Unknown
+---
+NAME: Sarina Ismailzadeh
+AGE: 16
+DATE: 29-Sep-2022
+LOCATION: Karaj
+CAUSE: Unknown
+DETAILS: Gender: Girl | HRANA 82-day report entry #62 | Confirmation: Confirmed
+---
+NAME: Mohammad Javad Farmani
+AGE: 24
+DATE: 8-Oct-2022
+LOCATION: Tehran
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #63 | Confirmation: Confirmed
+---
+NAME: Mehrzad Avazpour Kakrodi (Behnam Rad)
+AGE: Unknown
+DATE: 21-Sep-2022
+LOCATION: Nowshahr
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #64 | Confirmation: Confirmed
+---
+NAME: Jalil Rakhshani
+AGE: About 20
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #65 | Confirmation: Confirmed
+---
+NAME: Abdul Majid Rigi (Shahouzehi)
+AGE: 27
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #66 | Confirmation: Confirmed
+---
+NAME: Mohammad Ali Gamshadzehi
+AGE: 21
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #67 | Confirmation: Confirmed
+---
+NAME: Yaser Shah Bakhsh
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #68 | Confirmation: Confirmed
+---
+NAME: Mokhtar Ahmadi
+AGE: 19
+DATE: 1-Oct-2022
+LOCATION: Marivan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #69 | Confirmation: Confirmed
+---
+NAME: Hamzeh Naroei
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #70 | Confirmation: Confirmed
+---
+NAME: Hamid Naroei
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #71 | Confirmation: Under review
+---
+NAME: Hamzeh Naroei
+AGE: 26
+DATE: 30-Sep-2022
+LOCATION: Unknown
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #72 | Confirmation: Under review
+---
+NAME: Yunus Naroei
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #73 | Confirmation: Under review
+---
+NAME: Mansour Rakhshani
+AGE: 23
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #74 | Confirmation: Unknown
+---
+NAME: Ali Agheli (Naroei)
+AGE: 28
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #75 | Confirmation: Confirmed
+---
+NAME: umran Shah Bakhsh
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #76 | Confirmation: Under review
+---
+NAME: Farzad Shah Bakhsh
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #77 | Confirmation: Confirmed
+---
+NAME: Ahmad Shah Bakhsh
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #78 | Confirmation: Under review
+---
+NAME: Abdul Malek Shah Bakhsh
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #79 | Confirmation: Under review
+---
+NAME: Mohammad Amin Gamshadzehi
+AGE: 17
+DATE: Unknown
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Boy | HRANA 82-day report entry #80 | Confirmation: Unknown
+---
+NAME: Salahedin Gamshadzehi
+AGE: 27
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #81 | Confirmation: Confirmed
+---
+NAME: Poya Rajab Nia
+AGE: 24
+DATE: 1-Oct-2022
+LOCATION: Babolsar
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #82 | Confirmation: Under review
+---
+NAME: Balal Anshini
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #83 | Confirmation: Under review
+---
+NAME: Abdul Ghafoor Noorbrahoei
+AGE: 39
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #84 | Confirmation: Confirmed
+---
+NAME: Mohammad Brahoei
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #85 | Confirmation: Confirmed
+---
+NAME: Abdul Samad Brahoei (eydozehi)
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #86 | Confirmation: Confirmed
+---
+NAME: Lal Mohammad Ali Zehi
+AGE: Un known
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #87 | Confirmation: Under review
+---
+NAME: Abubakr Nahtani
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #88 | Confirmation: Under review
+---
+NAME: Musa Nahtani (Anshini)
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #89 | Confirmation: Confirmed
+---
+NAME: Mohammad gholjaei
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #90 | Confirmation: Under review
+---
+NAME: Aminullah gholjaei
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #91 | Confirmation: under review
+---
+NAME: Mohammad Rigi
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #92 | Confirmation: Under review
+---
+NAME: Samer Hashemzehi
+AGE: 16
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Bullet wound
+DETAILS: Gender: Boy | HRANA 82-day report entry #93 | Confirmation: Confirmed
+---
+NAME: Sami Hashemzehi
+AGE: 33
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #94 | Confirmation: Under review
+---
+NAME: Abdul Rahman Balochi Khah
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #95 | Confirmation: Under review
+---
+NAME: Mohammad Reza Adib Totazehi
+AGE: 25
+DATE: Unknown
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #96 | Confirmation: Unknown
+---
+NAME: Mohammad Omar Shahnavazi
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #97 | Confirmation: Under review
+---
+NAME: Abdul Khalegh (Omar) Shahnavazi
+AGE: 35
+DATE: Unknown
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #98 | Confirmation: Unknown
+---
+NAME: Amirhamzeh Shahnavazi
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #99 | Confirmation: Under review
+---
+NAME: Ali Akbar Brahoei
+AGE: Unknown
+DATE: Unknown
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #100 | Confirmation: Under review
+---
+NAME: Jalil Ghanbarzehi
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #101 | Confirmation: Confirmed
+---
+NAME: Nematullah Kabdani
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #102 | Confirmation: Confirmed
+---
+NAME: Abdul Samad Sabeti zadeh (Shahouzehi)
+AGE: 27
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #103 | Confirmation: Confirmed
+---
+NAME: Ebrahim Gargij
+AGE: Unkn own
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #104 | Confirmation: Under review
+---
+NAME: Ahmad Sargolzaei
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #105 | Confirmation: Under review
+---
+NAME: Mohammad Farogh Rakhshani
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #106 | Confirmation: Under review
+---
+NAME: Ali Akbar halghe begosh
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #107 | Confirmation: Under review
+---
+NAME: Abubakr Alizehi
+AGE: 25
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #108 | Confirmation: Unknown
+---
+NAME: Hamid Isa Zehi
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #109 | Confirmation: Under review
+---
+NAME: Jalil Mohammadzehi
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #110 | Confirmation: Under review
+---
+NAME: Omid Shahnavazi
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #111 | Confirmation: Under review
+---
+NAME: Amin gale bache
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #112 | Confirmation: Under review
+---
+NAME: Amir Hossein Basati
+AGE: 15
+DATE: 21-Sep-2022
+LOCATION: Kermanshah
+CAUSE: Bullet wound
+DETAILS: Gender: Boy | HRANA 82-day report entry #113 | Confirmation: Confirmed
+---
+NAME: Poya Sheyda
+AGE: About 18
+DATE: 21-Sep-2022
+LOCATION: Urmia
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #114 | Confirmation: Un der review
+---
+NAME: Umran Hassan Zehi
+AGE: 18
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #115 | Confirmation: Confirmed
+---
+NAME: Mohsen Gamshadzehi
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #116 | Confirmation: Confirmed
+---
+NAME: Mahmoud Shahnavazi
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #117 | Confirmation: Under review
+---
+NAME: (unknown first name) Gangozehi Rigi
+AGE: Unknown
+DATE: Unknown
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #118 | Confirmation: Unknown
+---
+NAME: Hasti Naroei
+AGE: 6
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Hit by tear gas grenade and suffocation
+DETAILS: Gender: Girl | HRANA 82-day report entry #119 | Confirmation: Confirmed
+---
+NAME: Amirhossein Parnian (Mirkazehi Rigi)
+AGE: 19
+DATE: Unknown
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #120 | Confirmation: Unknown
+---
+NAME: Esmaeil Hossein Zehi
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #121 | Confirmation: Under review
+---
+NAME: Omid Sarani
+AGE: 13
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Boy | HRANA 82-day report entry #122 | Confirmation: Confirmed
+---
+NAME: Shirin Alizadeh
+AGE: 35
+DATE: 22-Sep-2022
+LOCATION: Chalus
+CAUSE: Bullet wound
+DETAILS: Gender: Woman | HRANA 82-day report entry #123 | Confirmation: Confirmed
+---
+NAME: Salman Maleki
+AGE: 25
+DATE: 2-Oct-2022
+LOCATION: Zahedan
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #124 | Confirmation: Confirmed
+---
+NAME: Jamal Abdul Naser Mohammad Hasani (Brahoei)
+AGE: Unknown
+DATE: 2-Oct-2022
+LOCATION: Zahedan
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #125 | Confirmation: Confirmed
+---
+NAME: Mohammadreza Sarvari
+AGE: 14
+DATE: 22-Sep-2022
+LOCATION: Rey
+CAUSE: Bullet wound
+DETAILS: Gender: Boy | HRANA 82-day report entry #126 | Confirmation: Confirmed
+---
+NAME: Ali Mozafari Salanghoch
+AGE: 17
+DATE: Unknown
+LOCATION: Quchan
+CAUSE: Bullet wound
+DETAILS: Gender: Boy | HRANA 82-day report entry #127 | Confirmation: Under review
+---
+NAME: Mehrab Dolat Panah
+AGE: Unknown
+DATE: 22-Sep-2022
+LOCATION: Talesh
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #128 | Confirmation: Confirmed
+---
+NAME: Amirreza Naderzadeh
+AGE: 19
+DATE: 28-Sep-2022
+LOCATION: Nowshahr
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #129 | Confirmation: Under review
+---
+NAME: Hamid Naroei
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #130 | Confirmation: Unknown
+---
+NAME: Abdullah Naroei
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #131 | Confirmation: Confirmed
+---
+NAME: Mohammad Ali Ismail Zehi (Sheh Bakh sh)
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #132 | Confirmation: Under review
+---
+NAME: Majid Balochzehi Shah Bakhsh
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #133 | Confirmation: Under review
+---
+NAME: Mehdi Anshini
+AGE: Unknown
+DATE: Unknown
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #134 | Confirmation: Under review
+---
+NAME: Balal Rakhshani
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #135 | Confirmation: Under review
+---
+NAME: Mohammad eghbal Nayebzehi Shahnavazi
+AGE: 16
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Bullet wound
+DETAILS: Gender: Boy | HRANA 82-day report entry #136 | Confirmation: Unknown
+---
+NAME: Arman Hassan Zehi
+AGE: Unknown
+DATE: 2-Oct-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #137 | Confirmation: Under review
+---
+NAME: Morteza Hassan Zehi
+AGE: Unknown
+DATE: 2-Oct-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #138 | Confirmation: Under review
+---
+NAME: Zulfaghar Hasan Zehi
+AGE: Unknown
+DATE: 2-Oct-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #139 | Confirmation: Under review
+---
+NAME: Mahmoud Hassan Zehi
+AGE: Unknown
+DATE: 2-Oct-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #140 | Confirmation: Under review
+---
+NAME: Sadis Keshani
+AGE: 14
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Boy | HRANA 82-day report entry #141 | Confirmation: Confirmed
+---
+NAME: Abdul Ghafoor Dehmordeh
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #142 | Confirmation: Confirmed
+---
+NAME: Esmail Abil
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #143 | Confirmation: Confirmed
+---
+NAME: Suleiman Arab
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #144 | Confirmation: Confirmed
+---
+NAME: Ahmad Sarani (Jama Alizehi)
+AGE: 26
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #145 | Confirmation: Confirmed
+---
+NAME: Javad Posheh
+AGE: 11
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Bullet wound
+DETAILS: Gender: Boy | HRANA 82-day report entry #146 | Confirmation: Confirmed
+---
+NAME: Mahedin Shirouzehi
+AGE: Unknown
+DATE: 3-Oct-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #147 | Confirmation: Under review
+---
+NAME: Jaber Shirouzehi
+AGE: 12
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Boy | HRANA 82-day report entry #148 | Confirmation: Under review
+---
+NAME: Saeed Gargij
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #149 | Confirmation: Under review
+---
+NAME: Lal Mohammad Anshini
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #150 | Confirmation: Confirmed
+---
+NAME: Khodanoor Lajei
+AGE: 27
+DATE: Unknown
+LOCATION: Zahedan
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #151 | Confirmation: Confirmed
+---
+NAME: Ehsan Khan Mohammadi
+AGE: 29
+DATE: 24-Oct-2022
+LOCATION: Tehran
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #152 | Confirmation: Confirmed
+---
+NAME: Amir Mahdi Farokhipour
+AGE: 17
+DATE: 19-Oct-2022
+LOCATION: Tehran
+CAUSE: Unknown
+DETAILS: Gender: Boy | HRANA 82-day report entry #153 | Confirmation: Unknown
+---
+NAME: Mohammad Zarei
+AGE: Unknown
+DATE: 22-Sep-2022
+LOCATION: Qarchak
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #154 | Confirmation: Under review
+---
+NAME: Abdul Jalil Rakhshani
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #155 | Confirmation: Under review
+---
+NAME: Musa Doira (Naroei)
+AGE: 18
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Bullet wound to heart and lung
+DETAILS: Gender: Man | HRANA 82-day report entry #156 | Confirmation: Confirmed
+---
+NAME: Matin Ghanbarzehi
+AGE: 18
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #157 | Confirmation: Confirmed
+---
+NAME: Abdulmanan Rakhshani
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #158 | Confirmation: Confirmed
+---
+NAME: (uncertain first name) Mirshekar
+AGE: 2
+DATE: Unknown
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Girl | HRANA 82-day report entry #159 | Confirmation: Unknown
+---
+NAME: Arash Pahlavan
+AGE: 27
+DATE: 21-Sep-2022
+LOCATION: Mashhad
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #160 | Confirmation: Under review
+---
+NAME: Mohsen Mal Mir
+AGE: Unknown
+DATE: 21-Sep-2022
+LOCATION: Nowshahr
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #161 | Confirmation: Confirmed
+---
+NAME: Mehdi Leilazi
+AGE: Unknown
+DATE: 22-Sep-2022
+LOCATION: Karaj
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #162 | Confirmation: Under review
+---
+NAME: Hadiye Naimani
+AGE: 25
+DATE: 23-Sep-2022
+LOCATION: Nowshahr
+CAUSE: Bullet wound
+DETAILS: Gender: Woman | HRANA 82-day report entry #163 | Confirmation: Under review
+---
+NAME: Abolfazl Mehdipour Roshan
+AGE: About 20
+DATE: 21-Sep-2022
+LOCATION: Babol
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #164 | Confirmation: Confirmed
+---
+NAME: Amirhossein Shams Nateri
+AGE: Unknown
+DATE: 21-Sep-2022
+LOCATION: Nowshahr
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #165 | Confirmation: Confirmed
+---
+NAME: Saeed Iranmanesh
+AGE: Unknown
+DATE: Unknown
+LOCATION: Kerman
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #166 | Confirmation: Under revi ew
+---
+NAME: Gholam Nabi Notizehi
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #167 | Confirmation: Confirmed
+---
+NAME: Abulfazl Akbari Dost
+AGE: Unknown
+DATE: Unknown
+LOCATION: Unknown
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #168 | Confirmation: Confirmed
+---
+NAME: Erfan Khazai
+AGE: 30
+DATE: 21-Sep-2022
+LOCATION: Shahriar
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #169 | Confirmation: Confirmed
+---
+NAME: Mehdi Bebrnejhad
+AGE: 22
+DATE: 21-Sep-2022
+LOCATION: Quchan
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #170 | Confirmation: Under review
+---
+NAME: Roshana Ahmadi
+AGE: Unknown
+DATE: 12-Oct-2022
+LOCATION: Bukan
+CAUSE: Bullet wound
+DETAILS: Gender: Woman | HRANA 82-day report entry #171 | Confirmation: Under review
+---
+NAME: Moham mad Hosseini Khah
+AGE: About 20
+DATE: 22-Sep-2022
+LOCATION: Sari
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #172 | Confirmation: Under review
+---
+NAME: Mehrdad Avazpour
+AGE: Unknown
+DATE: 22-Sep-2022
+LOCATION: Nowshahr
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #173 | Confirmation: Under review
+---
+NAME: Mohammad Rasul Momenizadeh
+AGE: 23
+DATE: 12-Oct-2022
+LOCATION: Unknown
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #174 | Confirmation: Confirmed
+---
+NAME: Mohsen Pazouki
+AGE: 22
+DATE: 21-Sep-2022
+LOCATION: Varamin
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #175 | Confirmation: Under review
+---
+NAME: Emad Heydari
+AGE: 31
+DATE: 5-Nov-2022
+LOCATION: Ahvaz
+CAUSE: Died in custody
+DETAILS: Gender: Man | HRANA 82-day report entry #176 | Confirmation: Under review
+---
+NAME: Behzad Rigi
+AGE: 30
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #177 | Confirmation: Confirmed
+---
+NAME: Mohammad Jameh Bozorg
+AGE: Unknown
+DATE: 25-Sep-2022
+LOCATION: Karaj
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #178 | Confirmation: Confirmed
+---
+NAME: Sasan Bagheri
+AGE: Unknown
+DATE: 22-Sep-2022
+LOCATION: Rezvanshahr
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #179 | Confirmation: Under review
+---
+NAME: Alireza Fathi
+AGE: 26
+DATE: 21-Sep-2022
+LOCATION: Q azvin
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #180 | Confirmation: Under review
+---
+NAME: Seyed Abbas Mirmousavi
+AGE: Unknown
+DATE: 21-Sep-2022
+LOCATION: Langrud
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #181 | Confirmation: Confirmed
+---
+NAME: Seyed Alireza Hosseini
+AGE: 26
+DATE: 20-Sep-2022
+LOCATION: Tehran
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #182 | Confirmation: Under review
+---
+NAME: Javad Khansari
+AGE: 36
+DATE: 22-Sep-2022
+LOCATION: Tehran
+CAUSE: Hit by tear gas grenade
+DETAILS: Gender: Man | HRANA 82-day report entry #183 | Confirmation: Unknown
+---
+NAME: Abdul Vahid Tohid Nia
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #184 | Confirmation: Confirmed
+---
+NAME: Amir Hossein Mahdavi
+AGE: Unknown
+DATE: 21-Sep-2022
+LOCATION: Rasht
+CAUSE: Assault
+DETAILS: Gender: Man | HRANA 82-day report entry #185 | Confirmation: Under review
+---
+NAME: Ehsan Alibazi
+AGE: 16
+DATE: 23-Sep-2022
+LOCATION: Qods
+CAUSE: Bullet wound
+DETAILS: Gender: Boy | HRANA 82-day report entry #186 | Confirmation: Under review
+---
+NAME: Morteza Nowrozi
+AGE: 22
+DATE: 24-Sep-2022
+LOCATION: L angrud
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #187 | Confirmation: Confirmed
+---
+NAME: Mohammad Hossein Marevatti
+AGE: 18
+DATE: Unknown
+LOCATION: Varamin
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #188 | Confirmation: Unknown
+---
+NAME: Pooya (Ali) Ahmadpour Pasikhani
+AGE: 17
+DATE: 21-Sep-2022
+LOCATION: Rasht
+CAUSE: Bullet wound
+DETAILS: Gender: Boy | HRANA 82-day report entry #189 | Confirmation: Under review
+---
+NAME: Mohsen Mohammadi Kochaksaraei
+AGE: 37
+DATE: Unknown
+LOCATION: Qaemshahr
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #190 | Confirmation: Unknown
+---
+NAME: Hamid Saneipour
+AGE: 30
+DATE: 29-Sep-2022
+LOCATION: Hamedan
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #191 | Confirmation: Confirmed
+---
+NAME: Mohammad Amin Takeli
+AGE: Unknown
+DATE: 21-Sep-2022
+LOCATION: Tehran
+CAUSE: Hit by tear gas grenade
+DETAILS: Gender: Man | HRANA 82-day report entry #192 | Confirmation: Confirmed
+---
+NAME: Aisan Madan pasand
+AGE: Unknown
+DATE: 19-Sep-2022
+LOCATION: Tabriz
+CAUSE: Assault
+DETAILS: Gender: Woman | HRANA 82-day report entry #193 | Confirmation: Under review
+---
+NAME: Omid Safarzehi
+AGE: 17
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Bullet wound
+DETAILS: Gender: Boy | HRANA 82-day report entry #194 | Confirmation: Confirmed
+---
+NAME: Najmeddin Tajik
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #195 | Confirmation: Confirmed
+---
+NAME: Lal Mohammad Anshani
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #196 | Confirmation: Under review
+---
+NAME: Nima Shafagh Dost
+AGE: 16
+DATE: 21-Sep-2022
+LOCATION: Urmia
+CAUSE: Bullet wound
+DETAILS: Gender: Boy | HRANA 82-day report entry #197 | Confirmation: Under review
+---
+NAME: Peyman Manbari
+AGE: 29
+DATE: 8-Oct-2022
+LOCATION: Sanandaj
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #198 | Confirmation: Confirmed
+---
+NAME: Dariush Alizadeh
+AGE: Unknown
+DATE: 8-Oct-2022
+LOCATION: Sanandaj
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #199 | Confirmation: Unknown
+---
+NAME: Mohammad Amini
+AGE: About 33
+DATE: 8-Oct-2022
+LOCATION: Sanandaj
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #200 | Confirmation: Confirmed
+---
+NAME: Yahya Rahimi ( sarabshahrak)
+AGE: 31
+DATE: 8-Oct-2022
+LOCATION: Sanandaj
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #201 | Confirmation: Confirmed
+---
+NAME: Mohammad Javad Zahedi Saravi
+AGE: 20
+DATE: 23-Sep-2022
+LOCATION: Sari
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #202 | Confirmation: Confirmed
+---
+NAME: Mohsen Mousavi
+AGE: 32
+DATE: 21-Sep-2022
+LOCATION: Tehran
+CAUSE: Assault
+DETAILS: Gender: Man | HRANA 82-day report entry #203 | Confirmation: Confirmed
+---
+NAME: Mohammad Rakhshani
+AGE: 12
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Bullet wound
+DETAILS: Gender: Boy | HRANA 82-day report entry #204 | Confirmation: Confirmed
+---
+NAME: Esmail Dezvar
+AGE: Unknown
+DATE: 10-Oct-2022
+LOCATION: Saqez
+CAUSE: Died in custody
+DETAILS: Gender: Man | HRANA 82-day report entry #205 | Confirmation: Under review
+---
+NAME: Seyed Ahmad Shokrollahi
+AGE: 24
+DATE: 2-Oct-2022
+LOCATION: Isfahan
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #206 | Confirmation: Confirmed
+---
+NAME: Yaser Shahouzehi
+AGE: 16
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Bullet wound
+DETAILS: Gender: Boy | HRANA 82-day report entry #207 | Confirmation: Confirmed
+---
+NAME: Mustafa Berichi
+AGE: 24
+DATE: 30-Sep-2022
+LOCATION: Zaheda n
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #208 | Confirmation: Confirmed
+---
+NAME: Mehrab Najafi
+AGE: Unknown
+DATE: 21-Sep-2022
+LOCATION: Zarinshahr
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #209 | Confirmation: Under review
+---
+NAME: Maten Abdullahpour
+AGE: Unknown
+DATE: 21-Sep-2022
+LOCATION: Urmia
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #210 | Confirmation: Under review
+---
+NAME: Abdullah Shah Bakhsh
+AGE: Unknown
+DATE: 1-Oct-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #211 | Confirmation: Under review
+---
+NAME: Azizullah Kebdani
+AGE: Unknow n
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #212 | Confirmation: Confirmed
+---
+NAME: Sina Naderi
+AGE: 23
+DATE: 12-Oct-2022
+LOCATION: Kermanshah
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #213 | Confirmation: Confirmed
+---
+NAME: Armin Sayadi
+AGE: 17
+DATE: 12-Oct-2022
+LOCATION: Kermanshah
+CAUSE: Bullet wound
+DETAILS: Gender: Boy | HRANA 82-day report entry #214 | Confirmation: Confirmed
+---
+NAME: Aziz Moradi
+AGE: About 50
+DATE: 12-Oct-2022
+LOCATION: Sanandaj
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #215 | Confirmation: Confirmed
+---
+NAME: Kamal Faghhi
+AGE: 46
+DATE: 12-Oct-2022
+LOCATION: Bukan
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #216 | Confirmation: Confirmed
+---
+NAME: Ali Brahoei
+AGE: 14
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Bullet wound
+DETAILS: Gender: Boy | HRANA 82-day report entry #217 | Confirmation: Confirmed
+---
+NAME: Abolfazl Adinezadeh
+AGE: 17
+DATE: 8-Oct-2022
+LOCATION: Mashhad
+CAUSE: Bullet wound
+DETAILS: Gender: Boy | HRANA 82-day report entry #218 | Confirmation: Confirmed
+---
+NAME: Setareh Tajik
+AGE: 17
+DATE: 22-Sep-2022
+LOCATION: Tehran
+CAUSE: Assault
+DETAILS: Gender: Girl | HRANA 82-day report entry #219 | Confirmation: Confirmed
+---
+NAME: Mustafa Shamlou
+AGE: 21
+DATE: 22-Sep-2022
+LOCATION: Tehran
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #220 | Confirmation: Under review
+---
+NAME: Hadis Abdi
+AGE: 16
+DATE: 21-Sep-2022
+LOCATION: Urmia
+CAUSE: Assault
+DETAILS: Gender: Girl | HRANA 82-day report entry #221 | Confirmation: Under review
+---
+NAME: Danial Shah Bakhsh
+AGE: 11
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Bullet wound
+DETAILS: Gender: Boy | HRANA 82-day report entry #222 | Confirmation: Confirmed
+---
+NAME: Omid Mahdavi
+AGE: Unknown
+DATE: 28-Oct-2022
+LOCATION: Tehran
+CAUSE: Assault
+DETAILS: Gender: Man | HRANA 82-day report entry #223 | Confirmation: Under review
+---
+NAME: Ali Akbar Rabiei
+AGE: 40
+DATE: 9-Oct-2022
+LOCATION: Isfahan
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #224 | Confirmation: Confirmed
+---
+NAME: Arvin Malmali Golzari
+AGE: About 18
+DATE: 22-Sep-2022
+LOCATION: Fooladshahr
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #225 | Confirmation: Confirmed
+---
+NAME: Farzin Farrokhi
+AGE: Unknown
+DATE: 19-Sep-2022
+LOCATION: Saqez
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #226 | Confirmation: Confirmed
+---
+NAME: Iman Behzadpour
+AGE: 25
+DATE: 19-Sep-2022
+LOCATION: Tehran
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #227 | Confirmation: Under review
+---
+NAME: Negin Salehi
+AGE: 26
+DATE: 28-Sep-2022
+LOCATION: Tehran
+CAUSE: Assault
+DETAILS: Gender: Woman | HRANA 82-day report entry #228 | Confirmation: Under review
+---
+NAME: Heder Naroei Rashid
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #229 | Confirmation: Under review
+---
+NAME: Mohiuddin Shah Bakhsh
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #230 | Confirmation: Under review
+---
+NAME: Amir Mohammad Gamshadzehi
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #231 | Confirmation: Under review
+---
+NAME: Mehregan Zahmatkesh
+AGE: Unknown
+DATE: 22-Sep-2022
+LOCATION: Rasht
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #232 | Confirmation: Confirmed
+---
+NAME: Sepehr Sharifi Torgaba
+AGE: 20
+DATE: 29-Sep-2022
+LOCATION: Tehran
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #233 | Confirmation: Unknown
+---
+NAME: Ramin Karami
+AGE: 31
+DATE: 19-Sep-2022
+LOCATION: Kermanshah
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #234 | Confirmation: Confirmed
+---
+NAME: Seyed Mohammad Hosseini
+AGE: Unknown
+DATE: 21-Sep-2022
+LOCATION: Bukan
+CAUSE: Hit by a car
+DETAILS: Gender: Man | HRANA 82-day report entry #235 | Confirmation: Under review
+---
+NAME: Asra Panahi Khangah
+AGE: 15
+DATE: 12-Oct-2022
+LOCATION: Ardabil
+CAUSE: Assault
+DETAILS: Gender: Girl | HRANA 82-day report entry #236 | Confirmation: Confirmed
+---
+NAME: Hamed Baji Zehi (Brahoei)
+AGE: Unknown
+DATE: 17-Oct-2022
+LOCATION: Zahedan
+CAUSE: Bullet wound and died in custody
+DETAILS: Gender: Man | HRANA 82-day report entry #237 | Confirmation: Under review
+---
+NAME: Morteza (surname unknown)
+AGE: 14
+DATE: 27-Oct-2022
+LOCATION: Jam
+CAUSE: Bullet wound to the head
+DETAILS: Gender: Boy | HRANA 82-day report entry #238 | Confirmation: Under review
+---
+NAME: Ramin Fathi
+AGE: About 50
+DATE: 20-Sep-2022
+LOCATION: Sanandaj
+CAUSE: Died in custody
+DETAILS: Gender: Man | HRANA 82-day report entry #239 | Confirmation: Confirmed
+---
+NAME: Seyed Alireza Hosseini
+AGE: 23
+DATE: 29-Sep-2022
+LOCATION: Tehran
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #240 | Confirmation: Und er review
+---
+NAME: Arnika ghaem maghami
+AGE: 17
+DATE: 22-Oct-2022
+LOCATION: Tehran
+CAUSE: Assault
+DETAILS: Gender: Girl | HRANA 82-day report entry #241 | Confirmation: Under review
+---
+NAME: Mohammad Abdullahi
+AGE: 36
+DATE: 22-Sep-2022
+LOCATION: Ilam
+CAUSE: Died in custody
+DETAILS: Gender: Man | HRANA 82-day report entry #242 | Confirmation: Under review
+---
+NAME: Mohammad Reza Mohtasham
+AGE: Unknown
+DATE: 22-Sep-2022
+LOCATION: Qazvin
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #243 | Confirmation: Under review
+---
+NAME: Nagin Abdul Maleki
+AGE: 21
+DATE: 12-Oct-2022
+LOCATION: Hamedan
+CAUSE: Assault
+DETAILS: Gender: Woman | HRANA 82-day report entry #244 | Confirmation: Under review
+---
+NAME: Sina Malayeri
+AGE: About 34
+DATE: 22-Oct-2022
+LOCATION: Arak
+CAUSE: Assault
+DETAILS: Gender: Man | HRANA 82-day report entry #245 | Confirmation: Confirmed
+---
+NAME: Mohammad Khajavi dareh balaei
+AGE: 38
+DATE: Unknown
+LOCATION: Dezful
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #246 | Confirmation: Unknown
+---
+NAME: Hossein Mohammadi
+AGE: Unknown
+DATE: 20-Sep-2022
+LOCATION: Kermanshah
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #247 | Confirmation: Under review
+---
+NAME: Meghdad Azizi
+AGE: Unknown
+DATE: Unknown
+LOCATION: Tehran
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #248 | Confirmation: Under review
+---
+NAME: Esmail (Semko) Molodi
+AGE: 35
+DATE: 26-Oct-2022
+LOCATION: Mahabad
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #249 | Confirmation: Confirmed
+---
+NAME: Mohammad Shariati
+AGE: 25
+DATE: 21-Sep-2022
+LOCATION: Sanandaj
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #250 | Confirmation: Confirmed
+---
+NAME: Abulfazl Baho
+AGE: 17
+DATE: 21-Sep-2022
+LOCATION: Qaemshahr
+CAUSE: Bullet wound
+DETAILS: Gender: Boy | HRANA 82-day report entry #251 | Confirmation: Under review
+---
+NAME: Rahim Kalij
+AGE: 25
+DATE: 21-Sep-2022
+LOCATION: Qaemshahr
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #252 | Confirmation: Confirmed
+---
+NAME: Afshin Asham
+AGE: 28
+DATE: 26-Oct-2022
+LOCATION: Qasr-e Shirin
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #253 | Confirmation: Confirmed
+---
+NAME: Kubra Sheikh Sagha (Sheikhi)
+AGE: 52
+DATE: 27-Oct-2022
+LOCATION: Mahabad
+CAUSE: Bullet wound
+DETAILS: Gender: Woman | HRANA 82-day report entry #254 | Confirmation: Confirmed
+---
+NAME: Shahu Khezri
+AGE: Unknown
+DATE: 27-Oct-2022
+LOCATION: Mahabad
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #255 | Confirmation: Confirmed
+---
+NAME: Zaniar Abubakri
+AGE: Unknown
+DATE: 27-Oct-2022
+LOCATION: Mahabad
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #256 | Confirmation: Confirmed
+---
+NAME: Motaleb Saeedpir o
+AGE: 40
+DATE: 27-Oct-2022
+LOCATION: Baneh
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #257 | Confirmation: Confirmed
+---
+NAME: Maedeh Javanfar
+AGE: 28
+DATE: 26-Oct-2022
+LOCATION: Rasht
+CAUSE: Unknown
+DETAILS: Gender: Woman | HRANA 82-day report entry #258 | Confirmation: Confirmed
+---
+NAME: Mehrshad Shahidinejhad Monfared Tehrani
+AGE: 19
+DATE: Unknown
+LOCATION: Arak
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #259 | Confirmation: Unknown
+---
+NAME: Fereydoun Faraji
+AGE: 28
+DATE: 27-Oct-2022
+LOCATION: Baneh
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #260 | Confirmation: Confirmed
+---
+NAME: Mohammad Keyvan Darvishi
+AGE: 42
+DATE: 26-Oct-2022
+LOCATION: Sanandaj
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #261 | Confirmation: Confirmed
+---
+NAME: Mohammad Lotf Elahi
+AGE: Unknown
+DATE: 26-Oct-2022
+LOCATION: Sanandaj
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #262 | Confirmation: Under review
+---
+NAME: Dastan Rasol
+AGE: Unknown
+DATE: 27-Oct-2022
+LOCATION: Baneh
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #263 | Confirmation: Under review
+---
+NAME: Sadaf Movahedi
+AGE: 17
+DATE: 1-Oct-2022
+LOCATION: Tehran
+CAUSE: Assault
+DETAILS: Gender: Girl | HRANA 82-day report entry #264 | Confirmation: Under review
+---
+NAME: Sarina Saedi
+AGE: 16
+DATE: 26-Oct-2022
+LOCATION: Sanandaj
+CAUSE: Assault
+DETAILS: Gender: Girl | HRANA 82-day report entry #265 | Confirmation: Confirmed
+---
+NAME: Masoud Ahmadzadeh
+AGE: Unknown
+DATE: 27-Oct-2022
+LOCATION: Mahabad
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #266 | Confirmation: Confirmed
+---
+NAME: Seyed Ali Seyedi
+AGE: 25
+DATE: 26-Oct-2022
+LOCATION: Parand
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #267 | Confirmation: Unknown
+---
+NAME: Fereshte Ahmadi
+AGE: 33
+DATE: 28-Oct-2022
+LOCATION: Mahabad
+CAUSE: Bullet wound
+DETAILS: Gender: Woman | HRANA 82-day report entry #268 | Confirmation: Confirmed
+---
+NAME: (unknown first name) Kebdani
+AGE: About 12
+DATE: Unknown
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: Gender: Boy | HRANA 82-day report entry #269 | Confirmation: Unknown
+---
+NAME: Reza E smailzadeh
+AGE: About 30
+DATE: Unknown
+LOCATION: Tehran
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #270 | Confirmation: Under review
+---
+NAME: Mehdi Farahani
+AGE: Unknown
+DATE: Unknown
+LOCATION: Khorramshahr
+CAUSE: Unknown
+DETAILS: Gender: Unknown | HRANA 82-day report entry #271 | Confirmation: Under review
+---
+NAME: Parisa Bahmani
+AGE: Unknown
+DATE: Unknown
+LOCATION: Tehran
+CAUSE: Bullet wound
+DETAILS: Gender: Woman | HRANA 82-day report entry #272 | Confirmation: Under review
+---
+NAME: Adel Kochakzaei (Berichi)
+AGE: 15
+DATE: 2 8-Oct-2022
+LOCATION: Zahedan
+CAUSE: Bullet wound
+DETAILS: Gender: Boy | HRANA 82-day report entry #273 | Confirmation: Confirmed
+---
+NAME: Aynaz Javaheri
+AGE: 15
+DATE: 8-Oct-2022
+LOCATION: Kermanshah
+CAUSE: Unknown
+DETAILS: Gender: Girl | HRANA 82-day report entry #274 | Confirmation: Under review
+---
+NAME: Sarina Shiri
+AGE: 19
+DATE: Unknown
+LOCATION: Javanrud
+CAUSE: Unknown
+DETAILS: Gender: Woman | HRANA 82-day report entry #275 | Confirmation: Under review
+---
+NAME: Omid Naroei
+AGE: 15
+DATE: 28-Oct-2022
+LOCATION: Zahedan
+CAUSE: Bullet wound
+DETAILS: Gender: Boy | HRANA 82-day report entry #276 | Confirmation: Confirmed
+---
+NAME: Hadi Haghshenas
+AGE: Unknown
+DATE: 26-Oct-2022
+LOCATION: Isfahan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #277 | Confirmation: Unde r review
+---
+NAME: Aref Gholampour
+AGE: Unknown
+DATE: 3-Nov-2022
+LOCATION: Lasht -e Nesha
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #278 | Confirmation: Confirmed
+---
+NAME: Behnaz Afshari
+AGE: About 20
+DATE: 26-Oct-2022
+LOCATION: Pakdasht
+CAUSE: Unknown
+DETAILS: Gender: Woman | HRANA 82-day report entry #279 | Confirmation: Under review
+---
+NAME: Parmis Homnava
+AGE: About 14
+DATE: 25-Oct-2022
+LOCATION: Unknown
+CAUSE: Beating by security forces
+DETAILS: Gender: Girl | HRANA 82-day report entry #280 | Confirmation: Under review
+---
+NAME: Kumar Daroftadeh
+AGE: 16
+DATE: 29-Oct-2022
+LOCATION: Piranshahr
+CAUSE: Bullet wound
+DETAILS: Gender: Boy | HRANA 82-day report entry #281 | Confirmation: Confirmed
+---
+NAME: Hamidreza Malmir
+AGE: Unknown
+DATE: 26-Oct-2022
+LOCATION: Malard
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #282 | Confirmation: Under review
+---
+NAME: Ebrahim Mirzaei
+AGE: 42
+DATE: 26-Oct-2022
+LOCATION: Sanandaj
+CAUSE: Hit by tear gas grenade
+DETAILS: Gender: Man | HRANA 82-day report entry #283 | Confirmation: Under review
+---
+NAME: Helen Ahmadi
+AGE: 7
+DATE: Unknown
+LOCATION: Bukan
+CAUSE: Bullet wound
+DETAILS: Gender: Girl | HRANA 82-day report entry #284 | Confirmation: Under review
+---
+NAME: Fardin Abdkhoda
+AGE: Unknown
+DATE: 21-Sep-2022
+LOCATION: Saqez
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #285 | Confirmation: Confirmed
+---
+NAME: Mohammad Saremi
+AGE: Unknown
+DATE: 31-Oct-2022
+LOCATION: Borujerd
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #286 | Confirmation: Under review
+---
+NAME: Yousef Raisi
+AGE: Unknown
+DATE: 31-Oct-2022
+LOCATION: Lashar
+CAUSE: Died in custody
+DETAILS: Gender: Man | HRANA 82-day report entry #287 | Confirmation: Under review
+---
+NAME: Diana Mahmoudi
+AGE: About 8
+DATE: 30-Oct-2022
+LOCATION: Piranshahr
+CAUSE: Bullet wound
+DETAILS: Gender: Girl | HRANA 82-day report entry #288 | Confirmation: Under review
+---
+NAME: Saman Ghadirpour
+AGE: 37
+DATE: 29-Sep-2022
+LOCATION: Tehran
+CAUSE: Died in custody
+DETAILS: Gender: Man | HRANA 82-day report entry #289 | Confirmation: Under review
+---
+NAME: Marziyeh Doshen Ziyari
+AGE: 22
+DATE: 25-Oct-2022
+LOCATION: Shiraz
+CAUSE: Assault
+DETAILS: Gender: Woman | HRANA 82-day report entry #290 | Confirmation: Under revi ew
+---
+NAME: Esmail Heydari
+AGE: 18
+DATE: 22-Sep-2022
+LOCATION: Chalus
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #291 | Confirmation: Under review
+---
+NAME: Milad Javidpour
+AGE: Unknown
+DATE: Unknown
+LOCATION: Tehran
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #292 | Confirmation: Under review
+---
+NAME: Amir Hossein Rumiani Nazari
+AGE: About 26
+DATE: Unknown
+LOCATION: Unknown
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #293 | Confirmation: Under review
+---
+NAME: Maysam Hadipur
+AGE: 33
+DATE: 2-Nov-2022
+LOCATION: Nowshahr
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #294 | Confirmation: Under review
+---
+NAME: Momen Zand Karimi
+AGE: 18
+DATE: 26-Oct-2022
+LOCATION: Sanandaj
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #295 | Confirmation: Unknown
+---
+NAME: Nasim Sedghi
+AGE: 23
+DATE: 31-Oct-2022
+LOCATION: Urmia
+CAUSE: Bullet wound
+DETAILS: Gender: Woman | HRANA 82-day report entry #296 | Confirmation: Under review
+---
+NAME: Erfan Zamani
+AGE: About 23
+DATE: 3-Nov-2022
+LOCATION: Lahijan
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #297 | Confirmation: Confirmed
+---
+NAME: Yaser Naroei
+AGE: 25
+DATE: 3-Nov-2022
+LOCATION: Zahedan
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #298 | Confirmation: Under review
+---
+NAME: Sadegh Aramesh (Brahoei)
+AGE: Unknown
+DATE: 4-Nov-2022
+LOCATION: Khash
+CAUSE: Bullet wound
+DETAILS: Gender: Ma n | HRANA 82-day report entry #299 | Confirmation: Under review
+---
+NAME: Mehran Shekari (Noei)
+AGE: Unknown
+DATE: 3-Nov-2022
+LOCATION: Karaj
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #300 | Confirmation: Confirmed
+---
+NAME: Nasrin Ghaderi
+AGE: 38
+DATE: Unknown
+LOCATION: Tehran
+CAUSE: Assault
+DETAILS: Gender: Woman | HRANA 82-day report entry #301 | Confirmation: Unknown
+---
+NAME: Nima Noori
+AGE: 18
+DATE: 3-Nov-2022
+LOCATION: Karaj
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #302 | Confirmation: Confirmed
+---
+NAME: Mohammad Shah Bakhsh (Mirbalochzehi)
+AGE: Unknown
+DATE: Unknown
+LOCATION: Khash
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #303 | Confirmation: Unknown
+---
+NAME: Mobin Mirkazehi
+AGE: 14
+DATE: 4-Nov-2022
+LOCATION: Khash
+CAUSE: Unknown
+DETAILS: Gender: Boy | HRANA 82-day report entry #304 | Confirmation: Under review
+---
+NAME: Azim Mahmoudzehi
+AGE: 37
+DATE: 4-Nov-2022
+LOCATION: Khash
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #305 | Confirmation: Confirmed
+---
+NAME: Rahim Dad Shahlibar
+AGE: Unknown
+DATE: 4-Nov-2022
+LOCATION: Khash
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #306 | Confirmation: Under review
+---
+NAME: Kambiz Rigi
+AGE: Unknown
+DATE: Unknown
+LOCATION: Khash
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #307 | Confirmation: Under review
+---
+NAME: Saeed Sohrab Zahi
+AGE: Unknown
+DATE: 4-Nov-2022
+LOCATION: Khash
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #308 | Confirmation: Under review
+---
+NAME: Ali Kurd Kulahouri (Moradzehi)
+AGE: 25
+DATE: 4-Nov-2022
+LOCATION: Khash
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #309 | Confirmation: Confirmed
+---
+NAME: Yaser Bahadurzehi
+AGE: 17
+DATE: 4-Nov-2022
+LOCATION: Khash
+CAUSE: Unknown
+DETAILS: Gender: Boy | HRANA 82-day report entry #310 | Confirmation: Confirmed
+---
+NAME: Abdul Malek Shahnavazi (Kamal Khan Zehi)
+AGE: Unknown
+DATE: Unknown
+LOCATION: Khash
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #311 | Confirmation: Unknown
+---
+NAME: Yunes Salahshuran (Mirbaluch Zehi)
+AGE: Unknown
+DATE: 4-Nov-2022
+LOCATION: Khash
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #312 | Confirmation: Unknown
+---
+NAME: Mohammad Hossein Salari
+AGE: Unknown
+DATE: 6-Nov-2022
+LOCATION: Mahshahr
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #313 | Confirmation: Under review
+---
+NAME: Ahmadr eza Gholji
+AGE: 17
+DATE: 22-Sep-2022
+LOCATION: Hamedan
+CAUSE: Unknown
+DETAILS: Gender: Boy | HRANA 82-day report entry #314 | Confirmation: Under review
+---
+NAME: Elahe Saeeidi
+AGE: 18
+DATE: 30-Oct-2022
+LOCATION: Saqez
+CAUSE: Unknown
+DETAILS: Gender: Woman | HRANA 82-day report entry #315 | Confirmation: Under review
+---
+NAME: Mohammad Ghaemi Far
+AGE: 18
+DATE: 6-Nov-2022
+LOCATION: Dezful
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #316 | Confirmation: Confirmed
+---
+NAME: Ali Rozbahani
+AGE: About 34
+DATE: 26-Oct-2022
+LOCATION: Tehran
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #317 | Confirmation: Confirmed
+---
+NAME: Navid Badpa
+AGE: 23
+DATE: Unknown
+LOCATION: Tehran
+CAUSE: Hit on head
+DETAILS: Gender: Man | HRANA 82-day report entry #318 | Confirmation: Unknown
+---
+NAME: Mehdi Hazrati
+AGE: 17
+DATE: Unknown
+LOCATION: Karaj
+CAUSE: Unknown
+DETAILS: Gender: Boy | HRANA 82-day report entry #319 | Confirmation: Confirmed
+---
+NAME: Omid Barzegar
+AGE: Unknown
+DATE: 21-Sep-2022
+LOCATION: Tehran
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #320 | Confirmation: Under review
+---
+NAME: Mohammad Amin Hashmatian
+AGE: Unknown
+DATE: 3-Nov-2022
+LOCATION: Karaj
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #321 | Confirmation: Under review
+---
+NAME: Mohammad Hossein Faraji
+AGE: Unknown
+DATE: 1-Nov-2022
+LOCATION: Tehran
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #322 | Confirmation: Under review
+---
+NAME: Abbas Luyemi
+AGE: 22
+DATE: 5-Nov-2022
+LOCATION: Ahvaz
+CAUSE: Hit by a car
+DETAILS: Gender: Man | HRANA 82-day report entry #323 | Confirmation: Under review
+---
+NAME: Morteza Shirmohammadi
+AGE: Unknown
+DATE: Unknown
+LOCATION: Tabriz
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #324 | Confirmation: Under review
+---
+NAME: Mohammad Reza Ferdowsi
+AGE: 24
+DATE: 8-Nov-2022
+LOCATION: Qarchak
+CAUSE: Self-immolation
+DETAILS: Gender: Man | HRANA 82-day report entry #325 | Confirmation: Under review
+---
+NAME: Fayegh Mamghaderi
+AGE: 37
+DATE: 9-Nov-2022
+LOCATION: Mahabad
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #326 | Confirmation: Confirmed
+---
+NAME: Sam (Sephehr) Biranvand
+AGE: 20
+DATE: 9-Nov-2022
+LOCATION: Khorramabad
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #327 | Confirmation: Confirmed
+---
+NAME: Morteza Soltanian
+AGE: 34
+DATE: Unknown
+LOCATION: Tehran
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #328 | Confirmation: Confirmed
+---
+NAME: Komeil Amirkhanlo
+AGE: 27
+DATE: 8-Nov-2022
+LOCATION: Karaj
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #329 | Confirmation: Under review
+---
+NAME: Alireza Karimi
+AGE: 20
+DATE: 9-Nov-2022
+LOCATION: Arak
+CAUSE: Assault
+DETAILS: Gender: Man | HRANA 82-day report entry #330 | Confirmation: Under review
+---
+NAME: Mehdi Heydari
+AGE: Unknown
+DATE: Unknown
+LOCATION: Tehran
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #331 | Confirmation: Under review
+---
+NAME: Meysam Moghadasi
+AGE: Unknown
+DATE: Unknown
+LOCATION: Tehran
+CAUSE: Hit by a car
+DETAILS: Gender: Man | HRANA 82-day report entry #332 | Confirmation: Under review
+---
+NAME: Kamran Shahbazi
+AGE: About 35
+DATE: 2-Oct-2022
+LOCATION: Unknown
+CAUSE: Assault
+DETAILS: Gender: Man | HRANA 82-day report entry #333 | Confirmation: Confirmed
+---
+NAME: Farzaneh Kazemi
+AGE: Unknown
+DATE: 12-Oct-2022
+LOCATION: Qazvin
+CAUSE: Bullet wound
+DETAILS: Gender: Woman | HRANA 82-day report entry #334 | Confirmation: Under review
+---
+NAME: Rasul Haddadi
+AGE: About 60
+DATE: Unknown
+LOCATION: Unknown
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #335 | Confirmation: Under review
+---
+NAME: Mohammad Salehi
+AGE: Unknown
+DATE: 5-Nov-2022
+LOCATION: Sari
+CAUSE: Assault
+DETAILS: Gender: Man | HRANA 82-day report entry #336 | Confirmation: Under review
+---
+NAME: Mohammadreza Bali Lashek (Lasheki)
+AGE: Unknown
+DATE: Unknown
+LOCATION: Nowshahr
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #337 | Confirmation: Unknown
+---
+NAME: Bahar Khorshidi
+AGE: Unknown
+DATE: Unknown
+LOCATION: Tehran
+CAUSE: Unknown
+DETAILS: Gender: Woman | HRANA 82-day report entry #338 | Confirmation: Under review
+---
+NAME: Ardalan Ghasemi
+AGE: 48
+DATE: 10-Nov-2022
+LOCATION: Kermanshah
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #339 | Confirmation: Under review
+---
+NAME: Mohammad Hossein Hajiani
+AGE: About 27
+DATE: Unknown
+LOCATION: Bushehr
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #340 | Confirmation: Unknown
+---
+NAME: Ali Abiyar
+AGE: 17
+DATE: Unknown
+LOCATION: Takab
+CAUSE: Unknown
+DETAILS: Gender: Boy | HRANA 82-day report entry #341 | Confirmation: Under review
+---
+NAME: Darya Nazmdeh
+AGE: 26
+DATE: 3-Nov-2022
+LOCATION: Karaj
+CAUSE: Assault
+DETAILS: Gender: Woman | HRANA 82-day report entry #342 | Confirmation: Under review
+---
+NAME: Saman Rahmani
+AGE: 28
+DATE: 11-Nov-2022
+LOCATION: Tehran
+CAUSE: Assault
+DETAILS: Gender: Man | HRANA 82-day report entry #343 | Confirmation: Under review
+---
+NAME: Hamid Goli
+AGE: 46
+DATE: Unknown
+LOCATION: Tehran
+CAUSE: Assault
+DETAILS: Gender: Man | HRANA 82-day report entry #344 | Confirmation: Confirmed
+---
+NAME: Hamid Nastar Jahan
+AGE: Unknown
+DATE: Unknown
+LOCATION: Mashhad
+CAUSE: Assault
+DETAILS: Gender: Man | HRANA 82-day report entry #345 | Confirmation: Under review
+---
+NAME: Esmail Sattari
+AGE: 28
+DATE: Unknown
+LOCATION: Mashhad
+CAUSE: Died in custody
+DETAILS: Gender: Man | HRANA 82-day report entry #346 | Confirmation: Under review
+---
+NAME: Mehrshad Talatof
+AGE: 22
+DATE: Unknown
+LOCATION: Bampur
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #347 | Confirmation: Under review
+---
+NAME: Fuad Mohammadi
+AGE: About 38
+DATE: 15-Nov-2022
+LOCATION: Kamyaran
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #348 | Confirmation: Confirmed
+---
+NAME: Zaniar Allah Moradi
+AGE: 26
+DATE: 15-Nov-2022
+LOCATION: Sanandaj
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #349 | Confirmation: Confirmed
+---
+NAME: Isa Bigleri
+AGE: 39
+DATE: 15-Nov-2022
+LOCATION: Sanandaj
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #350 | Confirmation: Confirmed
+---
+NAME: Milad Saeidi
+AGE: 16
+DATE: 15-Nov-2022
+LOCATION: Tonekabon
+CAUSE: Bullet wound
+DETAILS: Gender: Boy | HRANA 82-day report entry #351 | Confirmation: Under review
+---
+NAME: Saman Ghaderbeigi
+AGE: 33
+DATE: 15-Nov-2022
+LOCATION: Bukan
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #352 | Confirmation: Confirmed
+---
+NAME: Borhan Karami
+AGE: 30
+DATE: 16-Nov-2022
+LOCATION: Kamyaran
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #353 | Confirmation: Confirmed
+---
+NAME: Daniel Pabandi
+AGE: 17
+DATE: 16-Nov-2022
+LOCATION: Saqez
+CAUSE: Bullet wound
+DETAILS: Gender: Boy | HRANA 82-day report entry #354 | Confirmation: Confirmed
+---
+NAME: Salar Mojaver
+AGE: 30
+DATE: 16-Nov-2022
+LOCATION: Bukan
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #355 | Confirmation: Confirmed
+---
+NAME: Milad Khoshkam
+AGE: 27
+DATE: Unknown
+LOCATION: Shiraz
+CAUSE: Died in custody
+DETAILS: Gender: Man | HRANA 82-day report entry #356 | Confirmation: Confirmed
+---
+NAME: Kian Pirfalak
+AGE: 10
+DATE: 16-Nov-2022
+LOCATION: Izeh
+CAUSE: Bullet wound
+DETAILS: Gender: Boy | HRANA 82-day report entry #357 | Confirmation: C onfirmed
+---
+NAME: Artin Rahmani Payani
+AGE: 13
+DATE: 16-Nov-2022
+LOCATION: Izeh
+CAUSE: Unknown
+DETAILS: Gender: Boy | HRANA 82-day report entry #358 | Confirmation: Confirmed
+---
+NAME: Reza Shariati
+AGE: 25
+DATE: 16-Nov-2022
+LOCATION: Izeh
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #359 | Confirmation: Confirmed
+---
+NAME: Ashraf Nikbakht
+AGE: 45
+DATE: 16-Nov-2022
+LOCATION: Izeh
+CAUSE: Unknown
+DETAILS: Gender: Woman | HRANA 82-day report entry #360 | Confirmation: Confirmed
+---
+NAME: Mohammad Hassanzadeh
+AGE: 28
+DATE: 16-Nov-2022
+LOCATION: Bukan
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #361 | Confirmation: Confirmed
+---
+NAME: Ali Abbasi
+AGE: About 23
+DATE: 16-Nov-2022
+LOCATION: Semirom
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #362 | Confirmation: Confirmed
+---
+NAME: Murad Bahramian
+AGE: Unknown
+DATE: 16-Nov-2022
+LOCATION: Semirom
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #363 | Confirmation: Confirmed
+---
+NAME: Moslem Hoshangi
+AGE: Unknown
+DATE: 16-Nov-2022
+LOCATION: Semirom
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #364 | Confirmation: Confirmed
+---
+NAME: Sajad Rashidi
+AGE: Unknown
+DATE: 16-Nov-2022
+LOCATION: Semirom
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #365 | Confirmation: Under review
+---
+NAME: Mohammad Soltani
+AGE: Unknown
+DATE: 16-Nov-2022
+LOCATION: Semirom
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #366 | Confirmation: Under review
+---
+NAME: Asad Rahimi
+AGE: 30
+DATE: Unknown
+LOCATION: Bukan
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #367 | Confirmation: Confirmed
+---
+NAME: Milad Asefi
+AGE: 32
+DATE: 16-Nov-2022
+LOCATION: Semirom
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #368 | Confirmation: Under review
+---
+NAME: Ali Moulai
+AGE: 23
+DATE: 16-Nov-2022
+LOCATION: Izeh
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #369 | Confirmation: Confirmed
+---
+NAME: Abbas Shafiei
+AGE: 43
+DATE: 5-Nov-2022
+LOCATION: Kamalshahr
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #370 | Confirmation: Confirmed
+---
+NAME: Esmail Shanbedi
+AGE: 29
+DATE: 19-Oct-2022
+LOCATION: Shiraz
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #371 | Confirmation: Under review
+---
+NAME: Sepehr Maghsoodi
+AGE: 14
+DATE: 16-Nov-2022
+LOCATION: Unknown
+CAUSE: Bullet wound
+DETAILS: Gender: Boy | HRANA 82-day report entry #372 | Confirmation: Under review
+---
+NAME: Aram Habibi
+AGE: Unknown
+DATE: 17-Nov-2022
+LOCATION: Sanandaj
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #373 | Confirmation: Confirmed
+---
+NAME: Shahu Bahmani
+AGE: 24
+DATE: 17-Nov-2022
+LOCATION: Sanandaj
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #374 | Confirmation: Unknown
+---
+NAME: Aylar Haghi
+AGE: About 24
+DATE: 16-Nov-2022
+LOCATION: Tabriz
+CAUSE: Thrown from building by security forces
+DETAILS: Gender: Woman | HRANA 82-day report entry #375 | Confirmation: Under review
+---
+NAME: Abdulrahman Bakhtiari
+AGE: 66
+DATE: 17-Nov-2022
+LOCATION: Saqez
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #376 | Confirmation: Confirmed
+---
+NAME: Ghafoor Molodi
+AGE: About 65
+DATE: 17-Nov-2022
+LOCATION: Bukan
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #377 | Confirmation: Confirmed
+---
+NAME: Seyed Ali Araghi
+AGE: 22
+DATE: 15-Nov-2022
+LOCATION: Tabriz
+CAUSE: Beating by security forces
+DETAILS: Gender: Man | HRANA 82-day report entry #378 | Confirmation: Under review
+---
+NAME: Sajad Ghaemi Bahman Biglo
+AGE: 30
+DATE: 16-Nov-2022
+LOCATION: Shiraz
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #379 | Confirmation: Confirmed
+---
+NAME: Asghar Aghaei
+AGE: Unknown
+DATE: 16-Nov-2022
+LOCATION: Tehran
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #380 | Confirmation: Unknown
+---
+NAME: Javad Rezaei
+AGE: 50
+DATE: 16-Nov-2022
+LOCATION: Lahijan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #381 | Confirmation: Confirmed
+---
+NAME: Amjad Enayati
+AGE: 18
+DATE: 17-Nov-2022
+LOCATION: Bukan
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #382 | Confirmation: Confirmed
+---
+NAME: Hiva Jan Jan (Janan)
+AGE: Unknown
+DATE: 17-Nov-2022
+LOCATION: Bukan
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #383 | Confirmation: Confirmed
+---
+NAME: Hajhar Mam Khosravi
+AGE: About 21
+DATE: 17-Nov-2022
+LOCATION: Buka n
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #384 | Confirmation: Under review
+---
+NAME: Azad Hosseinpouri
+AGE: Unknown
+DATE: 17-Nov-2022
+LOCATION: Mahabad
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #385 | Confirmation: Confirmed
+---
+NAME: Hamidreza Rouhi
+AGE: 19
+DATE: 17-Nov-2022
+LOCATION: Tehran
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #386 | Confirmation: Confirmed
+---
+NAME: Aso Ghaderi
+AGE: Unknown
+DATE: 17-Nov-2022
+LOCATION: Baneh
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #387 | Confirmation: Confirmed
+---
+NAME: Mohammad Ahmadi Gagesh
+AGE: 43
+DATE: 18-Nov-2022
+LOCATION: Mahabad
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #388 | Confirmation: Confirmed
+---
+NAME: Mustafa Shabani
+AGE: Unknown
+DATE: 17-Nov-2022
+LOCATION: Bukan
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #389 | Confirmation: Under review
+---
+NAME: Milad Marofi
+AGE: 23
+DATE: 18-Nov-2022
+LOCATION: Bukan
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #390 | Confirmation: Confirmed
+---
+NAME: Saeed Asadi
+AGE: About 23
+DATE: 15-Nov-2022
+LOCATION: Bojnurd
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #391 | Confirmation: Under review
+---
+NAME: Arshaya (Arshaya) Soltanieh
+AGE: 12
+DATE: 16-Nov-2022
+LOCATION: Zanjan
+CAUSE: Bullet wound
+DETAILS: Gender: Boy | HRANA 82-day report entry #392 | Confirmation: Under review
+---
+NAME: Hamed Molai
+AGE: About 35
+DATE: 17-Nov-2022
+LOCATION: Dashti
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #393 | Confirmation: Confirmed
+---
+NAME: Omid Moeidi
+AGE: 19
+DATE: 15-Nov-2022
+LOCATION: Shiraz
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #394 | Confirmation: Under review
+---
+NAME: Amir Farasati shad
+AGE: Unknown
+DATE: 18-Nov-2022
+LOCATION: Piranshahr
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #395 | Confirmation: Confirmed
+---
+NAME: Kamal Ahmedpour
+AGE: Unknown
+DATE: 18-Nov-2022
+LOCATION: Mahabad
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #396 | Confirmation: Confirmed
+---
+NAME: Mehran Rahmani
+AGE: Unknown
+DATE: 18-Nov-2022
+LOCATION: Mahabad
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #397 | Confirmation: Confi rmed
+---
+NAME: Arman Emadi
+AGE: 27
+DATE: 19-Nov-2022
+LOCATION: Marvdasht
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #398 | Confirmation: Confirmed
+---
+NAME: Shahriar Mohammadi
+AGE: About 30
+DATE: 18-Nov-2022
+LOCATION: Bukan
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #399 | Confirmation: Confirmed
+---
+NAME: Omid Hasani
+AGE: 22
+DATE: 18-Nov-2022
+LOCATION: Sanandaj
+CAUSE: Died in custody
+DETAILS: Gender: Man | HRANA 82-day report entry #400 | Confirmation: Under review
+---
+NAME: Samaneh Niknam
+AGE: 36
+DATE: 16-Nov-2022
+LOCATION: Shiraz
+CAUSE: Bullet wound
+DETAILS: Gender: Woman | HRANA 82-day report entry #401 | Confirmation: Under review
+---
+NAME: Vahid Khani
+AGE: Unknown
+DATE: Unknown
+LOCATION: Zarinshahr
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #402 | Confirmation: Under review
+---
+NAME: Shirko Soltani
+AGE: 25
+DATE: 18-Nov-2022
+LOCATION: Bukan
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #403 | Confirmation: Unknown
+---
+NAME: Rasool Ghafouri
+AGE: Unknown
+DATE: 18-Nov-2022
+LOCATION: Mahabad
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #404 | Confirmation: Under review
+---
+NAME: Seyed Javad Mosavi
+AGE: 38
+DATE: 18-Nov-2022
+LOCATION: Isfahan
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #405 | Confirmation: Confirmed
+---
+NAME: Mohammad Barzgar
+AGE: Unknown
+DATE: 16-Nov-2022
+LOCATION: Unknown
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #406 | Confirmation: Under review
+---
+NAME: Habibullah Fathi
+AGE: About 50
+DATE: 19-Nov-2022
+LOCATION: Divandarreh
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #407 | Confirmation: Confirmed
+---
+NAME: Fuad Savari
+AGE: Unknown
+DATE: 19-Nov-2022
+LOCATION: Divandarreh
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #408 | Confirmation: Unknown
+---
+NAME: Hamed Sedighi
+AGE: About 20
+DATE: 17-Nov-2022
+LOCATION: Qeshm
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #409 | Confirmation: Under review
+---
+NAME: Amir Hossein (Amir Mohammad) Daliri Langroudi
+AGE: Unknown
+DATE: 16-Nov-2022
+LOCATION: Langrud
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #410 | Confirmation: Under review
+---
+NAME: Hossein Abd Panah
+AGE: 70
+DATE: 19-Nov-2022
+LOCATION: Sanandaj
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #411 | Confirmation: Under review
+---
+NAME: Rashid Rashidi
+AGE: Unknown
+DATE: Unknown
+LOCATION: Shushtar
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #412 | Confirmation: Under review
+---
+NAME: Mehran Basir Tavana
+AGE: 29
+DATE: 19-Nov-2022
+LOCATION: Somehsara
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #413 | Confirmation: Under review
+---
+NAME: Erfan Kakaei
+AGE: About 50
+DATE: 20-Nov-2022
+LOCATION: Javanrud
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #414 | Confirmation: Confirmed
+---
+NAME: Bahauddin Veisi
+AGE: 16
+DATE: 20-Nov-2022
+LOCATION: Javanrud
+CAUSE: Bullet wound
+DETAILS: Gender: Boy | HRANA 82-day report entry #415 | Confirmation: Confirmed
+---
+NAME: Loghman Kakai
+AGE: Unknown
+DATE: 20-Nov-2022
+LOCATION: Javanrud
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #416 | Confirmation: Under review
+---
+NAME: Taher Azizi
+AGE: 30
+DATE: 20-Nov-2022
+LOCATION: Piranshahr
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #417 | Confirmation: Confirmed
+---
+NAME: Karvan Ghader Shukri
+AGE: 16
+DATE: 20-Nov-2022
+LOCATION: Piranshahr
+CAUSE: Bullet wound
+DETAILS: Gender: Boy | HRANA 82-day report entry #418 | Confirmation: Confirmed
+---
+NAME: Reza Sharafi
+AGE: Unknown
+DATE: 20-Nov-2022
+LOCATION: Sisakht
+CAUSE: Died in custody
+DETAILS: Gender: Man | HRANA 82-day report entry #419 | Confirmation: Confirmed
+---
+NAME: Mohsen Niazi
+AGE: 25
+DATE: 20-Nov-2022
+LOCATION: Dehgolan
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #420 | Confirmation: Unknown
+---
+NAME: Satar Rahimi
+AGE: Unknown
+DATE: 20-Nov-2022
+LOCATION: Marivan
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #421 | Confirmation: Under review
+---
+NAME: Suleiman Shukri Yasikandi
+AGE: 22
+DATE: 20-Nov-2022
+LOCATION: Bukan
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #422 | Confirmation: Confirmed
+---
+NAME: Jalal Ghorbani Kotal
+AGE: About 55
+DATE: 20-Nov-2022
+LOCATION: Unknown
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #423 | Confirmation: Under review
+---
+NAME: Tahsin Miri
+AGE: About 45
+DATE: 21-Nov-2022
+LOCATION: Javanrud
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #424 | Confirmation: Confirmed
+---
+NAME: Johar Fatahi Mirki
+AGE: Unknown
+DATE: 21-Nov-2022
+LOCATION: Javanrud
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #425 | Confirmation: Unknown
+---
+NAME: Jamal Azami
+AGE: Unknown
+DATE: 21-Nov-2022
+LOCATION: Javanrud
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #426 | Confirmation: Confirmed
+---
+NAME: Esmail Gol Anbar
+AGE: Unknown
+DATE: 21-Nov-2022
+LOCATION: Javanrud
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #427 | Confirmation: Confirmed
+---
+NAME: Masoud Teimuri
+AGE: Unknown
+DATE: 21-Nov-2022
+LOCATION: Javanrud
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #428 | Confirmation: Confirmed
+---
+NAME: Moin Ghasempour
+AGE: Unknown
+DATE: Unknown
+LOCATION: Mashhad
+CAUSE: Beating by security forces
+DETAILS: Gender: Man | HRANA 82-day report entry #429 | Confirmation: Under review
+---
+NAME: Farhad Khosravi
+AGE: 35
+DATE: 16-Nov-2022
+LOCATION: Sanandaj
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #430 | Confirmation: Confirmed
+---
+NAME: Farshid Mousavi
+AGE: 24
+DATE: 20-Nov-2022
+LOCATION: Amol
+CAUSE: Beating by security forces
+DETAILS: Gender: Man | HRANA 82-day report entry #431 | Confirmation: Under review
+---
+NAME: Haider Mahali
+AGE: Unknown
+DATE: 20-Nov-2022
+LOCATION: Piranshahr
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #432 | Confirmation: Under review
+---
+NAME: Ribaz Salehi Vand
+AGE: Unknown
+DATE: 22-Nov-2022
+LOCATION: Mahabad
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #433 | Confirmation: Under review
+---
+NAME: Koresh Pazhakh
+AGE: 20
+DATE: 22-Nov-2022
+LOCATION: Kermanshah
+CAUSE: Died in custody
+DETAILS: Gender: Man | HRANA 82-day report entry #434 | Confirmation: Confirmed
+---
+NAME: Shoaib Heydari
+AGE: Unknown
+DATE: 19-Nov-2022
+LOCATION: Tehran
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #435 | Confirmation: Under review
+---
+NAME: Amirjavad Asadzadeh
+AGE: 36
+DATE: 19-Nov-2022
+LOCATION: Mashhad
+CAUSE: Died in custody
+DETAILS: Gender: Man | HRANA 82-day report entry #436 | Confirmation: Under review
+---
+NAME: Edris Gharibzadeh
+AGE: 38
+DATE: 16-Nov-2022
+LOCATION: Bandar Abbas
+CAUSE: Died in custody
+DETAILS: Gender: Man | HRANA 82-day report entry #437 | Confirmation: Under review
+---
+NAME: Mehdi kaboli kafshgiri
+AGE: 15
+DATE: 22-Nov-2022
+LOCATION: Gorgan
+CAUSE: Died in custody
+DETAILS: Gender: Boy | HRANA 82-day report entry #438 | Confirmation: Under review
+---
+NAME: Aram Majd
+AGE: Unknown
+DATE: 21-Nov-2022
+LOCATION: Qaemshahr
+CAUSE: Bullet wound
+DETAILS: Gender: Woman | HRANA 82-day report entry #439 | Confirmation: Under review
+---
+NAME: Shomal Khadiri pur
+AGE: 32
+DATE: 24-Nov-2022
+LOCATION: Mahabad
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #440 | Confirmation: Under review
+---
+NAME: hosein shirazi por
+AGE: 39
+DATE: 19-Nov-2022
+LOCATION: Shiraz
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #441 | Confirmation: Under review
+---
+NAME: Alireza Shojaei
+AGE: 24
+DATE: 16-Nov-2022
+LOCATION: Behbahan
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #442 | Confirmation: Under review
+---
+NAME: Ali Akbar Heydarzadeh
+AGE: Unknown
+DATE: 23-Nov-2022
+LOCATION: Kashmar
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #443 | Confirmation: Under review
+---
+NAME: Sa'di Shahrokhi Pour
+AGE: About 40
+DATE: November 22, 2022
+LOCATION: Bukan
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #444 | Confirmation: Under review
+---
+NAME: Maryam Ghorbani Pour
+AGE: Unknown
+DATE: Unknown
+LOCATION: Shahrekord
+CAUSE: Assault
+DETAILS: Gender: Woman | HRANA 82-day report entry #445 | Confirmation: Under review
+---
+NAME: Mariya (mahsa) ghavasiye
+AGE: 24
+DATE: Unknown
+LOCATION: Shiraz
+CAUSE: Unknown
+DETAILS: Gender: Woman | HRANA 82-day report entry #446 | Confirmation: Under review
+---
+NAME: Himan Aman
+AGE: 26
+DATE: 24-Nov-2022
+LOCATION: Bukan
+CAUSE: Died in custody
+DETAILS: Gender: Man | HRANA 82-day report entry #447 | Confirmation: Confirmed
+---
+NAME: Milad Saeidiyan jo
+AGE: 27
+DATE: 16-Nov-2022
+LOCATION: Izeh
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #448 | Confirmation: Under review
+---
+NAME: Mohammad Khalili
+AGE: 21
+DATE: 23-Nov-2022
+LOCATION: Mashhad
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #449 | Confirmation: Under review
+---
+NAME: Mohammad Hossein kamandlo
+AGE: 17
+DATE: Unknown
+LOCATION: Tehran
+CAUSE: Unknown
+DETAILS: Gender: Boy | HRANA 82-day report entry #450 | Confirmation: Unknown
+---
+NAME: Shoresh Niknam
+AGE: 34
+DATE: 27-Nov-2022
+LOCATION: Mahabad
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #451 | Confirmation: Under review
+---
+NAME: Reza Kazemi
+AGE: 16
+DATE: 27-Nov-2022
+LOCATION: Kamyaran
+CAUSE: Bullet wound
+DETAILS: Gender: Boy | HRANA 82-day report entry #452 | Confirmation: Under review
+---
+NAME: Masuod Dolatshahi
+AGE: 38
+DATE: 28-Nov-2022
+LOCATION: Tehran
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #453 | Confirmation: Unknown
+---
+NAME: Amir Mahdi Hasani
+AGE: 23
+DATE: 7-Oct-2022
+LOCATION: Quchan
+CAUSE: Burns
+DETAILS: Gender: Man | HRANA 82-day report entry #454 | Confirmation: Under review
+---
+NAME: Ebrahim Sharifi
+AGE: 29
+DATE: 29-Nov-2022
+LOCATION: Bukan
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #455 | Confirmation: Under review
+---
+NAME: Atefe Naami
+AGE: 37
+DATE: Unknown
+LOCATION: Karaj
+CAUSE: Unknown
+DETAILS: Gender: Woman | HRANA 82-day report entry #456 | Confirmation: Under review
+---
+NAME: Amin Khanlo
+AGE: 16
+DATE: Unknown
+LOCATION: Tehran
+CAUSE: Died in custody
+DETAILS: Gender: Boy | HRANA 82-day report entry #457 | Confirmation: Under review
+---
+NAME: Jabar Farghizadeh
+AGE: 36
+DATE: 24-Nov-2022
+LOCATION: Marivan
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #458 | Confirmation: Under review
+---
+NAME: Negin Radfar
+AGE: 22
+DATE: 19-Nov-2022
+LOCATION: Sanandaj
+CAUSE: Bullet wound
+DETAILS: Gender: Woman | HRANA 82-day report entry #459 | Confirmation: Under review
+---
+NAME: Mehran Samaak
+AGE: 27
+DATE: 30-Nov-2022
+LOCATION: Bandar Anzali
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #460 | Confirmation: Confirmed
+---
+NAME: Hasan Naserikhor
+AGE: Unknown
+DATE: 26-Nov-2022
+LOCATION: Mashhad
+CAUSE: Died in custody
+DETAILS: Gender: Man | HRANA 82-day report entry #461 | Confirmation: Under review
+---
+NAME: Avat Ghaderpor
+AGE: 20
+DATE: 30-Nov-2022
+LOCATION: Bukan
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #462 | Confirmation: Under review
+---
+NAME: Farzin Marofi
+AGE: Unknown
+DATE: 30-Nov-2022
+LOCATION: Tehran
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #463 | Confirmation: Under review
+---
+NAME: Hamed Salahshor
+AGE: 25
+DATE: Unknown
+LOCATION: Izeh
+CAUSE: Died in custody
+DETAILS: Gender: Man | HRANA 82-day report entry #464 | Confirmation: Confirmed
+---
+NAME: Ehsan Ghasemifard
+AGE: Unknown
+DATE: 30-Nov-2022
+LOCATION: Karaj
+CAUSE: Assault
+DETAILS: Gender: Man | HRANA 82-day report entry #465 | Confirmation: Under review
+---
+NAME: Sanaz Keshavarz
+AGE: Unknown
+DATE: 26-Nov-2022
+LOCATION: Karaj
+CAUSE: Bullet wound
+DETAILS: Gender: Woman | HRANA 82-day report entry #466 | Confirmation: Under review
+---
+NAME: Mona Chamani
+AGE: Unknown
+DATE: 29-Nov-2022
+LOCATION: Rasht
+CAUSE: Unknown
+DETAILS: Gender: Woman | HRANA 82-day report entry #467 | Confirmation: Under review
+---
+NAME: Yusef Ghanbarzadegan Darabi
+AGE: Unknown
+DATE: 17-Nov-2022
+LOCATION: S hiraz
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #468 | Confirmation: Under review
+---
+NAME: Asghar Hajhir Lotf
+AGE: 39
+DATE: 16-Nov-2022
+LOCATION: Tehran
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #469 | Confirmation: Under review
+---
+NAME: Hainye Moradi Nejhad
+AGE: 24
+DATE: 16-Nov-2022
+LOCATION: Yazd
+CAUSE: Bullet wound
+DETAILS: Gender: Woman | HRANA 82-day report entry #470 | Confirmation: Under review
+---
+NAME: Mohammad Moradi
+AGE: Unknown
+DATE: Unknown
+LOCATION: Tehran
+CAUSE: Unknown
+DETAILS: Gender: Man | HRANA 82-day report entry #471 | Confirmation: Under review
+---
+NAME: Rohallah Abedini
+AGE: Unknown
+DATE: 1-Dec-2022
+LOCATION: Tehran
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #472 | Confirmation: Under review
+---
+NAME: Yazdan Aghajani
+AGE: 38
+DATE: Unknown
+LOCATION: Shahriar
+CAUSE: Unknown
+DETAILS: Gender: Unknown | HRANA 82-day report entry #473 | Confirmation: Under review
+---
+NAME: Milad Zamani
+AGE: 31
+DATE: 1-Nov-2022
+LOCATION: Karaj
+CAUSE: Assault
+DETAILS: Gender: Man | HRANA 82-day report entry #474 | Confirmation: Under review
+---
+NAME: Reza Dehbovaid
+AGE: 29
+DATE: 4-Dec-2022
+LOCATION: Sari
+CAUSE: Died in custody
+DETAILS: Gender: Man | HRANA 82-day report entry #475 | Confirmation: Under review
+---
+NAME: Amir Mohammad Rahmanipor
+AGE: 16
+DATE: Unknown
+LOCATION: Unknown
+CAUSE: Died in custody
+DETAILS: Gender: Boy | HRANA 82-day report entry #476 | Confirmation: Under review
+---
+NAME: Sepehr Azami
+AGE: 24
+DATE: 6-Dec-2022
+LOCATION: Karaj
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #477 | Confirmation: Under review
+---
+NAME: Mohammad reza Ghorbani
+AGE: Unknown
+DATE: Unknown
+LOCATION: Karaj
+CAUSE: Died in custody
+DETAILS: Gender: Man | HRANA 82-day report entry #478 | Confirmation: Under review
+---
+NAME: Mehdi Eydivandi
+AGE: Unknown
+DATE: 4-Dec-2022
+LOCATION: Yazdanshahr
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #479 | Confirmation: Under review
+---
+NAME: Hooman Abdolahi
+AGE: 21
+DATE: 7-Dec-2022
+LOCATION: Sanandaj
+CAUSE: Bullet wound
+DETAILS: Gender: Man | HRANA 82-day report entry #480 | Confirmation: Under review
+---
+NAME: Yunes Fazel beigi
+AGE: Unknown
+DATE: 7-Dec-2022
+LOCATION: Kermanshah
+CAUSE: Assault
+DETAILS: Gender: Man | HRANA 82-day report entry #481 | Confirmation: Under review
+---
+
+================================================================================
+SECTION 2: ADDITIONAL VICTIMS FROM 20-DAY REPORT (19 additional)
+These victims appear in the 20-day report but were not found in the 82-day report.
+They may have been removed from the later report due to verification issues,
+or they may be distinct individuals with different transliterations.
+================================================================================
+
+NAME: Mohsen Gomshadzehi
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: HRANA 20-day report entry #118 | Source: 20-day report only
+---
+NAME: Vahid Hout
+AGE: Unknown
+DATE: Unknown
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: HRANA 20-day report entry #119 | Source: 20-day report only
+---
+NAME: Salman Maleki (Arab)
+AGE: 25
+DATE: 2-Oct-2022
+LOCATION: Zahedan
+CAUSE: Bullet wound
+DETAILS: HRANA 20-day report entry #126 | Source: 20-day report only
+---
+NAME: Abdullah Narouei
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: HRANA 20-day report entry #133 | Source: 20-day report only
+---
+NAME: Mahdi Anashtani
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: HRANA 20-day report entry #136 | Source: 20-day report only
+---
+NAME: Soleyman Arab
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: HRANA 20-day report entry #146 | Source: 20-day report only
+---
+NAME: Khodanour Lajaei
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: HRANA 20-day report entry #154 | Source: 20-day report only
+---
+NAME: Mousa Vira (Narouei)
+AGE: 18
+DATE: Unknown
+LOCATION: Zahedan
+CAUSE: Unknown
+DETAILS: HRANA 20-day report entry #159 | Source: 20-day report only
+---
+NAME: Mehdi Leylazi
+AGE: Unknown
+DATE: 22-Sep-2022
+LOCATION: Marlik, Karaj
+CAUSE: Bullet wound
+DETAILS: HRANA 20-day report entry #165 | Source: 20-day report only
+---
+NAME: Hedieh Naeimani
+AGE: 25
+DATE: Unknown
+LOCATION: Nowshahr
+CAUSE: Unknown
+DETAILS: HRANA 20-day report entry #166 | Source: 20-day report only
+---
+NAME: Abolfazl Mehdipour
+AGE: Unknown
+DATE: Unknown
+LOCATION: Babol
+CAUSE: Bullet wound
+DETAILS: HRANA 20-day report entry #167 | Source: 20-day report only
+---
+NAME: Amir Hossein Shams
+AGE: Unknown
+DATE: 21-Sep-2022
+LOCATION: Nowshahr
+CAUSE: Bullet wound
+DETAILS: HRANA 20-day report entry #168 | Source: 20-day report only
+---
+NAME: Abolfazl Akbari Doust
+AGE: Unknown
+DATE: Unknown
+LOCATION: Langarud
+CAUSE: Bullet wound
+DETAILS: HRANA 20-day report entry #171 | Source: 20-day report only
+---
+NAME: Mehdi Babrnjad
+AGE: Unknown
+DATE: Unknown
+LOCATION: Quchan
+CAUSE: Bullet wound
+DETAILS: HRANA 20-day report entry #173 | Source: 20-day report only
+---
+NAME: Abdolvahid Tohid Nia
+AGE: Unknown
+DATE: 30-Sep-2022
+LOCATION: Zahedan
+CAUSE: Bullet wound
+DETAILS: HRANA 20-day report entry #187 | Source: 20-day report only
+---
+NAME: Hossein Morovoti
+AGE: Unknown
+DATE: 23-Sep-2022
+LOCATION: Qarchak, Varamin
+CAUSE: Bullet wound to heart and lung
+DETAILS: HRANA 20-day report entry #191 | Source: 20-day report only
+---
+NAME: Mohsen Mohammadi Kochsaraei
+AGE: Unknown
+DATE: 21-Sep-2022
+LOCATION: Qaemshahr
+CAUSE: Bullet wound
+DETAILS: HRANA 20-day report entry #193 | Source: 20-day report only
+---
+NAME: Mohammadamin Takali
+AGE: Unknown
+DATE: 23-Sep-2022
+LOCATION: Unknown
+CAUSE: Unknown
+DETAILS: HRANA 20-day report entry #195 | Source: 20-day report only
+---
+NAME: Aysan Madanpasand
+AGE: Unknown
+DATE: 19-Sep-2022
+LOCATION: Tabriz
+CAUSE: Beating by security forces
+DETAILS: HRANA 20-day report entry #196 | Source: 20-day report only
+---
+
+================================================================================
+SPECIAL ENTRY: MAHSA (ZHINA) AMINI
+The death that sparked the Woman, Life, Freedom movement
+================================================================================
+
+NAME: Mahsa (Zhina) Amini
+AGE: 22
+DATE: 16-Sep-2022
+LOCATION: Tehran (originally from Saqqez, Kurdistan)
+CAUSE: Death in custody of Morality Police (Gasht-e Ershad)
+DETAILS: Arrested Sep 13, 2022 at Haqqani metro station in Tehran for alleged improper hijab. Taken to Vozara detention center. Fell into coma with level 3 concussion. Transferred to Kasra Hospital ICU. Died Sep 16, 2022. Official cause claimed as 'underlying illness' and 'heart rhythm disorder' - widely disputed. Her death sparked nationwide protests across all 31 provinces of Iran.
+---
+
+================================================================================
+END OF EXTRACTED DATA
+================================================================================
