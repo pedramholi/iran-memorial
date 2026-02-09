@@ -1,0 +1,32 @@
+id: bahadurzehi-yaser-2005
+name_latin: "Yaser Bahadurzehi"
+name_farsi: null
+date_of_birth: null  # est. birth year: 2005
+place_of_birth: null
+gender: male
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2022-11-04
+age_at_death: 17
+place_of_death: "Khash"
+province: "Sistan-Baluchestan"
+cause_of_death: "Unknown"
+circumstances: null
+event_context: "Woman, Life, Freedom movement (2022 Mahsa Amini protests)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "verified"
+sources:
+  - url: "https://www.en-hrana.org/wp-content/uploads/2022/12/82-Day-WLF-Protest-in-Iran-2022-English.pdf"
+    name: "HRANA — 82-Day Comprehensive Report"
+    date: 2022-12-01
+    type: ngo_report
+  - url: "https://en.wikipedia.org/wiki/Deaths_during_the_Mahsa_Amini_protests"
+    name: "Wikipedia — Deaths during the Mahsa Amini protests"
+    date: null
+    type: encyclopedia
+last_updated: 2026-02-09
+updated_by: "hrana-82day-import"
