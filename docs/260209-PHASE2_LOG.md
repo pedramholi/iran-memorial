@@ -321,6 +321,142 @@ Ergebnis: ERFOLG
 
 ---
 
+#### LOG-P2-012 | 2026-02-09 | LEARNINGS NACHARBEIT
+
+**Was:** 3 fehlende Learnings in LEARNINGS.md ergänzt
+**Warum:** BUG-005, Gender-Pattern und Feldabdeckung waren noch nicht dokumentiert
+
+```
+Einträge hinzugefügt:
+  - BUG-005: Seed-Script province: null hardcoded
+  - Pattern: Iterative Namenslisten (64% → 99.8%)
+  - Data Import: Gender 0% → 99.8%
+Commit: 496d556
+```
+
+---
+
+#### LOG-P2-013 | 2026-02-09 | 4 HINGERICHTETE WLF-PROTESTLER ERGÄNZT
+
+**Was:** YAML-Dateien für die 4 bekanntesten Hingerichteten der WLF-Bewegung erstellt
+**Warum:** Wikipedia-Parser erfasst nur Protest-Tote, keine juristischen Hinrichtungen
+
+```
+Neue Dateien:
+  - 2022/shekari-mohsen-2000.yaml (erster Hingerichteter, 08.12.2022)
+  - 2022/rahnavard-majidreza-1999.yaml (öffentlich erhängt, 12.12.2022)
+  - 2023/karami-mohammad-mehdi-2001.yaml (Karate-Champion, 07.01.2023)
+  - 2023/hosseini-seyyed-mohammad-1983.yaml (Kampfsport-Trainer, 07.01.2023)
+Verzeichnis: data/victims/2023/ neu erstellt
+Commit: 5f063d8
+```
+
+**Lesson Learned:** Wikipedia-Parser hat systematischen Blindspot — separate Seite für Hinrichtungen. → LEARNINGS.md aktualisiert
+
+---
+
+#### LOG-P2-014 | 2026-02-09 | SYSTEMATISCHE OPFER-RECHERCHE
+
+**Was:** 3 parallele Recherche-Agents für fehlende WLF-Opfer
+**Warum:** Lückenanalyse zeigte 5 bisher nicht erfasste Opferkategorien
+
+```
+Recherche-Ergebnisse:
+  1. Tode in Haft/Folter: 7 Fälle identifiziert (Rouhi, Rigi, Fuladiwanda, etc.)
+  2. Verdächtige "Suizide" nach Haft: 10+ Fälle (Aghafazli, Emamgholizadeh, etc.)
+  3. Weitere Hinrichtungen: 8 fehlende (Mirhashemi, Kazemi, Yaghoubi, etc.)
+  4. Hijab-Enforcement: 1 Fall (Armita Geravand)
+  5. 2025/2026-Proteste: 9 namentlich identifizierte Opfer
+  6. BBC-Leak zu Nika Shakarami: Sexueller Übergriff vor Ermordung
+```
+
+---
+
+#### LOG-P2-015 | 2026-02-09 | 35 NEUE OPFER + 2 UPDATES
+
+**Was:** YAML-Dateien für alle recherchierten Opfer erstellt
+**Warum:** Datenbank muss alle identifizierbaren Opferkategorien abdecken
+
+```
+Neue Dateien (35):
+  2022/: 10 verdächtige Tode (Aghafazli, Emamgholizadeh, Na'ami, etc.)
+  2023/: 18 (Hinrichtungen: Mirhashemi, Kazemi, Yaghoubi + Hafttode:
+         Rouhi, Rigi + Geravand + weitere)
+  2024/: 2 (Ghobadlou, Rasaei — Hinrichtungen)
+  2025/: 3 (Kourkour, Bahramian — Hinrichtungen + Khodayarifard)
+  2026/: 9 (Aminian, Fallahpour, Ghanbari, etc. — neue Proteste)
+
+Aktualisierte Dateien (2):
+  - shakarami-nika-2006.yaml: BBC-Leak 2024, Täternamen, sexueller Übergriff
+  - zohrevand-milad-2002.yaml: Hinrichtungsdetails, Farsi-Name, Bestattung
+
+Verzeichnisse neu erstellt: data/victims/2024/, data/victims/2025/
+
+Alle 12 bestätigten WLF-Hinrichtungen jetzt komplett erfasst.
+48 Dateien geändert, +1.707 Zeilen
+Commit: f74d30a
+```
+
+**Lesson Learned:** Einzelne Quelle = systematische Blindspots. 5-Kategorien-Checkliste eingeführt. → LEARNINGS.md
+
+---
+
+#### LOG-P2-016 | 2026-02-09 | DUNKELZIFFER-KONTEXT DOKUMENTIERT
+
+**Was:** Einordnung der IHR-Zahl von 551 als verifiziertes Minimum
+**Warum:** Interne Quellen sprechen von 1.500–3.000, wahre Zahl vermutlich vierstellig
+
+```
+Dokumentiert in LEARNINGS.md:
+  - 551 = Boden, nicht Decke
+  - 5 Gründe für hohe Dunkelziffer
+  - Konsequenz: "Mindestens X verifiziert" statt absolute Zahlen
+Commit: 85b02d1
+```
+
+---
+
+#### LOG-P2-017 | 2026-02-09 | IRAN KNOWLEDGE BASE ERSTELLT
+
+**Was:** Neues Dokument `docs/IRAN_KNOWLEDGE.md` — chronologische Faktenbasis
+**Warum:** Strukturierte Wissensdatenbank für alle Zeiträume der Islamischen Republik
+
+```
+Inhalt:
+  - 11 chronologische Abschnitte (1979–2026)
+  - Pro Abschnitt: Verifizierte Zahlen + Schätzungen + Quellen
+  - Gesamtbilanz: 21.000+ verifiziert, 60.000–90.000+ geschätzt
+  - Vertrauenshierarchie der Quellen (5 Stufen)
+  - Methodik-Hinweise für Zahlen-Darstellung auf der Website
+  - 10 Schlüsselorganisationen dokumentiert
+Commit: 437348c
+```
+
+---
+
+### Phase 2B — Zusammenfassung
+
+| Metrik | Ziel | Ergebnis |
+|--------|------|----------|
+| Seed-Script province fix | Bug fixen | ✅ 1-Zeilen-Fix |
+| UI Sparse-Data Guards | Keine leeren Sections | ✅ 3 Guards |
+| Docker-Port Isolation | Port 5433 | ✅ docker-compose.yml |
+| Gender-Inferenz | >80% | ✅ **99.8%** |
+| Hinrichtungen komplett | Alle 12 | ✅ **12/12** |
+| Opfer-Kategorien komplett | Alle 5 Kategorien | ✅ 5/5 abgedeckt |
+| Gesamtzahl Opfer in DB | >422 | ✅ **473** |
+| Knowledge Base | Chronologische Fakten | ✅ IRAN_KNOWLEDGE.md |
+
+### Schlüsselerkenntnisse Phase 2B
+
+1. **Wikipedia-Parser hatte systematischen Blindspot:** Nur Protest-Tote, keine Hinrichtungen, keine Hafttode
+2. **5 Opferkategorien statt 1:** Protest-Tote, Hinrichtungen, Hafttode, verdächtige "Suizide", Hijab-Enforcement
+3. **551 ist ein Boden, nicht die Decke:** Wahre Zahl vermutlich vierstellig
+4. **~100 Opfer noch auf Wikipedia-Seite, aber nicht im Parser:** Re-Parse steht aus
+5. **Nika Shakarami:** BBC-Leak 2024 enthüllte sexuellen Übergriff — aktualisiert
+
+---
+
 ## Phase 2C: Deployment
 
 ### Infrastruktur-Entscheidungen (bereits getroffen)
@@ -336,7 +472,7 @@ Ergebnis: ERFOLG
 - [ ] Docker-Netzwerk `memorial-net` auf VPS erstellen
 - [ ] PostgreSQL-Container starten (Port 5433)
 - [ ] Prisma-Migrationen ausführen
-- [ ] Seed-Script mit 422 YAML-Dateien laufen lassen
+- [ ] Seed-Script mit 473 YAML-Dateien laufen lassen
 - [ ] Next.js App deployen
 - [ ] Nginx + SSL konfigurieren
 - [ ] Domain + DNS einrichten
