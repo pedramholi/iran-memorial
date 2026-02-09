@@ -144,6 +144,13 @@
 - **Fix:** `curl` als Fallback nutzen (hat eigene CA-Zertifikate), Output als Cache-File speichern, dann in Python einlesen.
 - **Prevention:** Parser-Scripts immer mit Cache-File-Fallback bauen (`scripts/.wiki_cache.txt`, in `.gitignore`).
 
+### BUG-005: Seed-Script ignoriert `province` aus YAML (2026-02-09)
+
+- **Symptom:** Alle Opfer haben `province: null` in der Datenbank, obwohl die YAML-Dateien ein `province`-Feld enthalten.
+- **Root Cause:** Im Seed-Script (`prisma/seed.ts`) wurde `province` nicht aus dem YAML gemappt, sondern fehlte im Mapping komplett.
+- **Fix:** `province: data.province || null` im Victim-Mapping ergänzt.
+- **Prevention:** Bei jedem neuen YAML-Feld: Seed-Script 1:1 gegen das YAML-Schema prüfen. Checkliste: Jedes Feld im YAML muss ein Mapping im Seed-Script haben.
+
 ---
 
 ## Deployment Gotchas
@@ -164,6 +171,7 @@
 - **ISR mit stündlicher Revalidierung:** `export const revalidate = 3600` auf Detail-Seiten. Seiten werden beim ersten Aufruf generiert und dann stündlich aktualisiert. Skaliert auf 500k+ Seiten.
 - **Upsert im Seed-Script:** `prisma.victim.upsert()` statt `create()` — Seed kann mehrfach laufen ohne Duplikate zu erzeugen.
 - **Event-Context Mapping im Seed:** Hardcoded Map von YAML `event_context` Strings zu Event-Slugs. Ermöglicht automatische Verknüpfung von Opfern mit Ereignissen beim Import.
+- **Iterative Namenslisten für Gender-Inferenz:** Gender-Abdeckung von 64% → 99.8% in 4 Iterationen. Methode: Unknowns analysieren → häufigste Namen identifizieren → Liste erweitern → erneut laufen lassen. Jede Iteration liefert abnehmende Erträge, aber 4 Runden reichen für nahezu vollständige Abdeckung.
 - **Font-Strategie:** Inter (Google Fonts) für LTR, Vazirmatn für Farsi RTL — geladen via `<link>` im Locale-Layout, kein @font-face nötig.
 
 ---
@@ -217,7 +225,8 @@ Die bestehenden YAML-Dateien verwenden ein flaches Format mit verschachtelten Ob
 **Feldabdeckung aus Wikipedia allein:**
 - 100%: Name, 99%: Datum + Ort, 96%: Provinz (auto-gemappt)
 - 30%: Alter, 27%: Todesursache, 29%: Umstände
-- 0%: Farsi-Name, Geschlecht, Ethnie, Foto, Beruf, Familie, alle "Life"-Felder
+- 99.8%: Geschlecht (via `scripts/infer_gender.py`)
+- 0%: Farsi-Name, Ethnie, Foto, Beruf, Familie, alle "Life"-Felder
 
 **City-to-Province Mapping:** Manuell gepflegt in `determine_province()` — ~80 Städte gemappt. Bei neuen Importen erweitern.
 
