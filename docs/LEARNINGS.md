@@ -151,6 +151,13 @@
 - **Fix:** `province: data.province || null` im Victim-Mapping ergänzt.
 - **Prevention:** Bei jedem neuen YAML-Feld: Seed-Script 1:1 gegen das YAML-Schema prüfen. Checkliste: Jedes Feld im YAML muss ein Mapping im Seed-Script haben.
 
+### BUG-006: HRANA Parser fand 0 Opfer — ToC vs Content Section-Header (2026-02-09)
+
+- **Symptom:** `parse_hrana_82day.py` parste 0 Opfer aus einem 15.233-Zeilen-Dokument, obwohl 481 erwartet.
+- **Root Cause:** Der Section-Marker "First category – identity of 481 people" erschien zweimal im pdftotext-Output — einmal im Inhaltsverzeichnis (mit Punktlinie), einmal im eigentlichen Content. `text.find(marker)` traf das ToC-Vorkommen, wo keine Opfer-Einträge folgen.
+- **Fix:** Zweites Vorkommen nutzen: `first_idx = text.find(marker); start_idx = text.find(marker, first_idx + 1)`
+- **Prevention:** Bei PDF-Parsing immer prüfen ob Section-Header auch im ToC vorkommen. `text.find()` liefert das erste Vorkommen — bei strukturierten Dokumenten ist das oft das falsche.
+
 ---
 
 ## Deployment Gotchas
@@ -160,6 +167,7 @@
 - **pg_trgm Extension:** Muss manuell oder via `init.sql` aktiviert werden (`CREATE EXTENSION IF NOT EXISTS pg_trgm;`). Ohne pg_trgm keine Fuzzy-Suche.
 - **next-intl Middleware vs Proxy:** Next.js 16 zeigt Deprecation-Warning für `middleware.ts`. next-intl hat noch keinen Proxy-Support. Warnung ist kosmetisch, Middleware funktioniert.
 - **.env nicht in Git:** `.env` ist in `.gitignore`. Template in `.env.example`. Auf Server muss `.env` manuell erstellt werden.
+- **poppler für PDF-Parsing:** `pdftotext` (aus dem poppler-Paket) wird zum Extrahieren von Text aus NGO-PDFs benötigt. Installation: `brew install poppler` (macOS). Ohne poppler scheitern alle PDF-Import-Scripts.
 
 ---
 
@@ -175,6 +183,7 @@
 - **Font-Strategie:** Inter (Google Fonts) für LTR, Vazirmatn für Farsi RTL — geladen via `<link>` im Locale-Layout, kein @font-face nötig.
 - **Multi-Source-Import vor PDF-Parsing:** Immer zuerst nach maschinenlesbaren Quellen suchen (CSVs, APIs, Wikitables). Community-Projekte wie iranvictims.com haben oft Download-Buttons. PDFs nur als letzte Option — pdftotext + Regex funktioniert aber gut für strukturierte NGO-Reports.
 - **Name-based Dedup reicht für Erstimport:** `name.lower()` Matching fängt ~95% der Duplikate. Für die restlichen 5% (Transliterations-Varianten wie "Shirouzi" vs "Shirouzehi") braucht es ein dediziertes Dedup-Script.
+- **Wayback Machine als Cloudflare-Bypass:** Wenn eine Website (z.B. iranhr.net) hinter Cloudflare blockiert ist, kann `web.archive.org/web/URL` oft noch auf gecachte Versionen zugreifen. Hat funktioniert um IHRs 22 Suspicious Deaths zu extrahieren, obwohl die Live-Site 403 zurückgab.
 
 ---
 
