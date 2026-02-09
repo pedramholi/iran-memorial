@@ -5,7 +5,7 @@
 A digital memorial for the victims of the Islamic Republic of Iran (1979–present). Every victim gets their own Wikipedia-style page, embedded in a chronological timeline. Trilingual (Farsi, English, German). Open source, community-driven.
 
 **Repository:** [github.com/pedramholi/iran-memorial](https://github.com/pedramholi/iran-memorial)
-**Status:** Phase 1 complete (local dev), Phase 2 pending (deployment)
+**Status:** Phase 2A complete (data collection), Phase 2B/2C pending (enrichment & deployment)
 
 ---
 
@@ -232,7 +232,7 @@ border-start: 2px solid;     /* NOT border-left */
 | Events | 12 | `data/events/timeline.yaml` |
 | Victims | 4,378 | `data/victims/{year}/slug.yaml` |
 
-**Victims:** 4,378 YAML files across 6 sources (Wikipedia, HRANA, IHR, iranvictims.com, Amnesty International, manual). Fully deduplicated via `scripts/dedup_victims.py` (206 duplicates removed). 44 child victims enriched with Amnesty data.
+**Victims:** 4,378 YAML files across 7 sources (Wikipedia, HRANA, IHR, iranvictims.com, Amnesty International, Boroumand Foundation, manual). Fully deduplicated via `scripts/dedup_victims.py` (206 duplicates removed). 44 child victims enriched with Amnesty data. 203 victims enriched with Boroumand data (64 Farsi names, 33 photos, 202 source links).
 **Events:** Revolution 1979, Reign of Terror 1981–85, Iran-Iraq War, 1988 Massacre, Chain Murders, Student Protests 1999, Green Movement 2009, Bloody November 2019, Woman Life Freedom 2022, 2026 Massacres
 
 ---
@@ -253,10 +253,37 @@ border-start: 2px solid;     /* NOT border-left */
 | Version | Date | Highlights |
 |---------|------|------------|
 | v0.1.0 | 2026-02-09 | Phase 1: Full project setup — Next.js 16, Prisma, i18n, 8 pages, seed script, Docker, docs |
+| v0.2.0 | 2026-02-09 | Phase 2A: Multi-source data collection — 7 sources, 4,378 victims, dedup, enrichment |
 
-**Current:** v0.1.0 | Next.js 16 | TypeScript | Prisma 6 | Tailwind v4 | 3 languages | 0 tests
+**Current:** v0.2.0 | Next.js 16 | TypeScript | Prisma 6 | Tailwind v4 | 3 languages | 0 tests
 
 ---
+
+## Data Pipeline Scripts
+
+| Script | Purpose | Output |
+|--------|---------|--------|
+| `scripts/parse_wiki_wlf.py` | Wikipedia WLF table parser | 422 YAML files |
+| `scripts/parse_hrana_82day.py` | HRANA 82-Day PDF parser | 352 new victims |
+| `scripts/import_iranvictims_csv.py` | iranvictims.com CSV import | 3,752 victims |
+| `scripts/parse_amnesty_children.py` | Amnesty children report | 41 enriched + 3 new |
+| `scripts/dedup_victims.py` | Deduplication (3 strategies) | -206 duplicates |
+| `scripts/scrape_boroumand.py` | Boroumand Foundation scraper | 203 enriched |
+
+## Data Collection Status
+
+| Source | Type | New Victims | Enrichment | Status |
+|--------|------|-------------|------------|--------|
+| Wikipedia WLF | Table parse | 422 | — | DONE |
+| HRANA 82-Day Report | PDF parse | 352 | — | DONE |
+| iranvictims.com CSV | CSV import | 3,752 | — | DONE |
+| IHR Suspicious Deaths | Manual | 4 | 18 cross-validated | DONE |
+| Amnesty Children Report | PDF parse | 3 | 41 enriched (155 fields) | DONE |
+| Boroumand Foundation | HTML scrape | 0 | 203 enriched (64 FA, 33 photos) | DONE |
+| Deduplication | Script | -206 | — | DONE |
+| **Total** | | **4,378** | | |
+
+**Open:** Boroumand historical (1979–2021, ~26K potential), HRANA 20-Day (~0–20), Amnesty other reports (~10–30), IHR direct contact, KHRN 2025/2026
 
 ## Detailed Documentation
 
@@ -268,6 +295,7 @@ border-start: 2px solid;     /* NOT border-left */
 | `docs/LEARNINGS.md` | Bugs, Architecture Decisions, Patterns |
 | `docs/260209-PHASE1_PLAN.md` | Phase 1–4 Roadmap mit Metriken |
 | `docs/260209-PHASE1_LOG.md` | Phase 1 Ausführungslog (14 Einträge) |
+| `docs/260209-PHASE2_LOG.md` | Phase 2 Ausführungslog (26 Einträge) |
 
 ---
 
