@@ -1,0 +1,30 @@
+id: nikpour-farham-2004
+name_latin: "Farham (Ebrahim) Nikpour"
+name_farsi: null
+date_of_birth: null  # est. birth year: 2004
+place_of_birth: null
+gender: male
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2023-02-15
+age_at_death: 19
+place_of_death: "Amol, Mazandaran"
+province: "Mazandaran"
+cause_of_death: "Suspicious death after release"
+circumstances: >
+  Amol protester arrested during WLF protests and later released on bail.
+  Died under suspicious circumstances following release on 15 February 2023.
+event_context: "Woman, Life, Freedom movement (2022 Mahsa Amini protests)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: verified
+sources:
+  - url: "https://iranhr.net/en/articles/6200/"
+    name: "IHR — One Year Protest Report: At Least 551 Killed and 22 Suspicious Deaths"
+    date: 2023-09-15
+    type: ngo_report
+last_updated: 2026-02-09
+updated_by: "ihr-suspicious-deaths-import"

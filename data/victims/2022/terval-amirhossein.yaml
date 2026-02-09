@@ -1,0 +1,29 @@
+id: terval-amirhossein
+name_latin: "Amirhossein Terval"
+name_farsi: null
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: null
+place_of_death: null
+cause_of_death: "Suspicious death"
+circumstances: >
+  Died under suspicious circumstances in connection with the Woman, Life,
+  Freedom protests. Listed in IHR's 22 suspicious deaths category.
+event_context: "Woman, Life, Freedom movement (2022 Mahsa Amini protests)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: verified
+sources:
+  - url: "https://iranhr.net/en/articles/6200/"
+    name: "IHR — One Year Protest Report: At Least 551 Killed and 22 Suspicious Deaths"
+    date: 2023-09-15
+    type: ngo_report
+last_updated: 2026-02-09
+updated_by: "ihr-suspicious-deaths-import"

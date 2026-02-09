@@ -1,0 +1,3561 @@
+# IHR Extracted Victims - Woman, Life, Freedom Protests (2022-2023)
+# Sources: IHR One Year Report (iranhr.net/en/articles/6200/)
+#          IHR Annual Report on Death Penalty in Iran 2022 (PDF)
+#          IHR 200 Days Report (iranhr.net/en/articles/5795/)
+#          Wikipedia - Deaths during the Mahsa Amini protests
+# Total named victims in this file: 444
+# Note: IHR verified at least 551 killed + 22 suspicious deaths = 573 total
+#       Many victims remain unidentified or names not publicly available
+
+NAME_EN: Pouya Gheisvandi
+NAME_FA: 
+AGE: 26
+DATE: 2022-09-21
+LOCATION: Kamyaran, Kurdistan
+CAUSE: Suspicious death - lifeless body found at home after release from arrest
+DETAILS: Arrested on 21 September 2022, lifeless body found at home after being released. Source: IHR One Year Report
+---
+NAME_EN: Alireza Fili
+NAME_FA: 
+AGE: 17
+DATE: 2022-10-21
+LOCATION: Unknown
+CAUSE: Suspicious death - body found hanging at father's shop with torn clothes
+DETAILS: Body found hanging at his father's shop with clothes torn on 21 October 2022 after security forces found images of him tearing up Khamenei's photo at school. Source: IHR One Year Report
+---
+NAME_EN: Yalda Aghafazli Iradmousa
+NAME_FA: 
+AGE: 19
+DATE: 2022-11
+LOCATION: Tehran
+CAUSE: Suspicious death - died of unknown cause days after release from 10-day detention
+DETAILS: Arrested on 26 October in Tehran and detained for 10 days, died of unknown cause days after release. Source: IHR One Year Report
+---
+NAME_EN: Reza Sharafi
+NAME_FA: 
+AGE: 36
+DATE: 2022-11-20
+LOCATION: Sisakht, Kohgiluyeh and Boyer-Ahmad
+CAUSE: Suspicious death - died hours after release from prison
+DETAILS: Father of three arrested in Sisakht on 18 November 2022, released after two days, died under suspicious circumstances hours later. Source: IHR One Year Report
+---
+NAME_EN: Hossein Zarinjouyi
+NAME_FA: 
+AGE: 29
+DATE: 2022-11-22
+LOCATION: Khorramabad, Lorestan
+CAUSE: Suspicious death - allegedly committed suicide
+DETAILS: Blogger and comedian from Lorestan who wrote in support of protests. Allegedly committed suicide on 22 November 2022. Source: IHR One Year Report
+---
+NAME_EN: Arshia Emamgholizadeh Alamdari
+NAME_FA: 
+AGE: 16
+DATE: 2022-11-26
+LOCATION: Jolfa, West Azerbaijan
+CAUSE: Suspicious death - reported suicide two days after release on bail
+DETAILS: Jolfa protester arrested after flicking a mullah's turban during a nationwide campaign. Detained for ten days and on 26 November, two days after being released on bail, was reported to have committed suicide. Source: IHR One Year Report
+---
+NAME_EN: Mohsen Jafarirad
+NAME_FA: 
+AGE: 36
+DATE: 2023-01-08
+LOCATION: Karaj, Alborz
+CAUSE: Suspicious death - reportedly committed suicide
+DETAILS: Film director, journalist and screenwriter arrested for taking part in protests in Karaj. Reportedly committed suicide on 8 January 2023. Source: IHR One Year Report
+---
+NAME_EN: Setayesh Sharifinia
+NAME_FA: 
+AGE: 16
+DATE: 2022
+LOCATION: Kordkuy, Golestan
+CAUSE: Suspicious death - died under suspicious circumstances in hospital
+DETAILS: Died under suspicious circumstances in hospital after taking part in Kordkuy protests in Golestan province. Source: IHR One Year Report
+---
+NAME_EN: Maryam Arvin
+NAME_FA: 
+AGE: 29
+DATE: 2023-02-08
+LOCATION: Kerman
+CAUSE: Suspicious death - died under suspicious circumstances after release
+DETAILS: Human rights lawyer from Kerman arrested in court while defending protesters on 30 November 2022. Released on bail on 12 December. Died under suspicious circumstances on 8 February 2023. Source: IHR One Year Report
+---
+NAME_EN: Farham (Ebrahim) Nikpour
+NAME_FA: 
+AGE: 19
+DATE: 2023-02-15
+LOCATION: Amol, Mazandaran
+CAUSE: Suspicious death - died under suspicious circumstances after release
+DETAILS: Amol protester arrested and later released on bail. Died under suspicious circumstances following release on 15 February 2023. Source: IHR One Year Report
+---
+NAME_EN: Arash Forouzandeh
+NAME_FA: 
+AGE: 32
+DATE: 2023-03-19
+LOCATION: Tehran
+CAUSE: Suspicious death - died under suspicious circumstances after detention
+DETAILS: Tehran resident active on social media, arrested on 10 March 2023 and detained for hours. Died under suspicious circumstances on 19 March. Source: IHR One Year Report
+---
+NAME_EN: Maryam Salimian
+NAME_FA: 
+AGE: 25
+DATE: 2023-01-02
+LOCATION: Tehran
+CAUSE: Suspicious death - reportedly committed suicide
+DETAILS: Artist from Tehran who shared her work on social media. Reported to have committed suicide on 2 January 2023 after she was prevented from leaving for Austria to pursue her education. Source: IHR One Year Report
+---
+NAME_EN: Bamshad Soleimankhani
+NAME_FA: 
+AGE: 20
+DATE: 2023-05-28
+LOCATION: Abdanan, Ilam
+CAUSE: Suspicious death - died under suspicious circumstances after prison release
+DETAILS: Elite student arrested in Abdanan in Ilam province on 24 May 2023. Died under suspicious circumstances following release from prison on 28 May. Source: IHR One Year Report
+---
+NAME_EN: Mansoureh Sogvand
+NAME_FA: 
+AGE: 19
+DATE: 2023-06-04
+LOCATION: Abdanan, Ilam
+CAUSE: Suspicious death - died under suspicious circumstances
+DETAILS: From Abdanan who previously served as voluntary police and had reported being threatened for attending protests. Died under suspicious circumstances on 4 June 2023. Source: IHR One Year Report
+---
+NAME_EN: Matin Naderkhani
+NAME_FA: 
+AGE: 20
+DATE: 2023-05-16
+LOCATION: Gilan
+CAUSE: Suspicious death - body found with two bullets in head after prison release
+DETAILS: Damash Gilan FC goalkeeper who was arrested during protests. Body was found after his release from prison on 16 May 2023 with two bullets in his head. Source: IHR One Year Report
+---
+NAME_EN: Abbas Mansouri
+NAME_FA: 
+AGE: 19
+DATE: 2022-12-11
+LOCATION: Shoush, Khuzestan
+CAUSE: Suspicious death - reported suicide days after release
+DETAILS: Shoush protester extrajudicially arrested by security forces on 16 November 2022. Days after release, reported to have committed suicide on 11 December. Source: IHR One Year Report
+---
+NAME_EN: Shahabedin Hashemi
+NAME_FA: 
+AGE: 25
+DATE: 2022-12-08
+LOCATION: Tehran
+CAUSE: Suspicious death - body found hanging in student dorms
+DETAILS: Alameh Tabatabai University student whose lifeless body was found hanging in student dorms on 8 December 2022. State media reported suicide but his brother called it a "suspicious killing." Source: IHR One Year Report
+---
+NAME_EN: Ali Nazari
+NAME_FA: 
+AGE: 21
+DATE: 2022-12
+LOCATION: Bilvar, Kermanshah
+CAUSE: Suspicious death - died under suspicious circumstances after arrest
+DETAILS: Protester arrested in early December 2022 and released two weeks later. Died under suspicious circumstances a week later. State media reported heart attack, cousin called death "suspicious." Source: IHR One Year Report
+---
+NAME_EN: Mohabat Mozafari
+NAME_FA: 
+AGE: 33
+DATE: 2023-02-02
+LOCATION: Unknown
+CAUSE: Suspicious death - died of bleeding in sleep after torture in prison
+DETAILS: Human rights lawyer representing protesters, arrested at home. Had bruises and signs of torture on body following release from prison. Died of bleeding in her sleep on 2 February 2023. Source: IHR One Year Report
+---
+NAME_EN: Mahsa Zarinchang
+NAME_FA: 
+AGE: 32
+DATE: 2023-03
+LOCATION: Ilam / Tehran
+CAUSE: Suspicious death - body found in mountains near Tehran
+DETAILS: Civil activist and protester from Ilam arrested multiple times during protests. Body found in mountains near Tehran in March 2023. Family home raided, told to declare cause of death as "falling from mountain during hike." Source: IHR One Year Report
+---
+NAME_EN: Arnika Ghaem Maghami
+NAME_FA: 
+AGE: 17
+DATE: 2022-10-22
+LOCATION: Tehran
+CAUSE: Suspicious death - body found after participating in protests
+DETAILS: Body found on 22 October 2022 after participating in protests. Authorities said she had died after falling from the fourth floor, while other sources stated she had been beaten to death with batons. Source: IHR One Year Report
+---
+NAME_EN: Amirhossein Terval
+NAME_FA: 
+AGE: 20
+DATE: 2023-05-16
+LOCATION: Unknown
+CAUSE: Suspicious death - died after torture and ill-treatment
+DETAILS: Arrested on 24 October 2022, subjected to torture and ill-treatment to force false confessions, faced death penalty charges. Released on bail on 7 May 2023, died under suspicious circumstances on 16 May. Official cause: heart attack. Source: IHR One Year Report
+---
+NAME_EN: Mohsen Shekari
+NAME_FA: محسن شکاری
+AGE: 23
+DATE: 2022-12-08
+LOCATION: Tehran
+CAUSE: Executed by hanging - charged with moharebeh (enmity against God)
+DETAILS: First protester executed. Charged with moharebeh after grossly unfair show trial by the Revolutionary Court in Tehran. Source: IHR Annual Report on Death Penalty 2022
+---
+NAME_EN: Majidreza Rahnavard
+NAME_FA: مجیدرضا رهنورد
+AGE: 23
+DATE: 2022-12-12
+LOCATION: Mashhad
+CAUSE: Executed by public hanging - charged with moharebeh
+DETAILS: Second protester executed. Public execution after grossly unfair show trial by the Revolutionary Court in Mashhad. Source: IHR Annual Report on Death Penalty 2022
+---
+NAME_EN: Milad Zohrevand
+NAME_FA: 
+AGE: 21
+DATE: 2023-11-23
+LOCATION: Hamedan
+CAUSE: Secretly executed - charged with murder of an IRGC member
+DETAILS: 21-year-old Malayer protester arrested on 27 October 2022. Secretly executed in Hamedan Central Prison. 8th protester executed. Source: IHR
+---
+NAME_EN: Mahsa Jina Amini
+NAME_FA: 
+AGE: 22
+DATE: 2022-09-16
+LOCATION: Tehran
+CAUSE: She was arrested because a headscarf had slipped and was transferred to a hospital after an hour's detention. She died there after three days in a coma, probably as a result of severe blows to the head. A CT scan of it shows a skull fracture, cerebral hemorrhage and bruising.
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 16 September 2022
+---
+NAME_EN: Fouad Ghadimi
+NAME_FA: 
+AGE: ~40
+DATE: 2022-09-18
+LOCATION: Divandareh
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 18 September 2022
+---
+NAME_EN: Hajar Abbasi
+NAME_FA: 
+AGE: ~70
+DATE: 2022-09-19
+LOCATION: Mahabad
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 19 September 2022
+---
+NAME_EN: Fardin Bakhtiari
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-19
+LOCATION: Sanandaj
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 19 September 2022
+---
+NAME_EN: Iman Behzadpour
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-19
+LOCATION: Sanandaj
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 19 September 2022
+---
+NAME_EN: Reza Lotfi
+NAME_FA: 
+AGE: ~25
+DATE: 2022-09-19
+LOCATION: Sanandaj
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 19 September 2022
+---
+NAME_EN: Aysan Madanpasand
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-19
+LOCATION: Tabriz
+CAUSE: Beating
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 19 September 2022
+---
+NAME_EN: Fereydoun Mahmoudi
+NAME_FA: 
+AGE: 32
+DATE: 2022-09-19
+LOCATION: Saqqez
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 19 September 2022
+---
+NAME_EN: Mohsen Mohammadi
+NAME_FA: 
+AGE: 28
+DATE: 2022-09-19
+LOCATION: Divandareh
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 19 September 2022
+---
+NAME_EN: Sasan Bagheri
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-20
+LOCATION: Rezvanshahr
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 20 September 2022
+---
+NAME_EN: Farjad Darvishi
+NAME_FA: 
+AGE: 23
+DATE: 2022-09-20
+LOCATION: Balo, Urmia
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 20 September 2022
+---
+NAME_EN: Zakaria Khial / Khayal
+NAME_FA: 
+AGE: 16
+DATE: 2022-09-20
+LOCATION: Piranshahr
+CAUSE: Targeted close-range shots and club blows inflicted serious wounds on him, causing him to bleed to death.
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 20 September 2022
+---
+NAME_EN: Erfan Khazaei
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-20
+LOCATION: Zahedan
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 20 September 2022
+---
+NAME_EN: Farzin Lotfi
+NAME_FA: 
+AGE: 35
+DATE: 2022-09-20
+LOCATION: Rezvan Shahr
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 20 September 2022
+---
+NAME_EN: Minoo Majidi
+NAME_FA: 
+AGE: 62
+DATE: 2022-09-20
+LOCATION: Kermanshah
+CAUSE: The mother of three was shot by Basijis. A photo of her youngest daughter with her hair shaved and no hijab at her grave was widely shared on social media.
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 20 September 2022
+---
+NAME_EN: Diako Mehrnavaei
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-20
+LOCATION: Bukan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 20 September 2022
+---
+NAME_EN: Nika Shakarami
+NAME_FA: 
+AGE: 16/17
+DATE: 2022-09-20
+LOCATION: Tehran
+CAUSE: Standing on top of a dumpster at the head of a student protest downtown, she burned her hijab, was chased by Basijis, disappeared without a trace and was handed over dead to her family nine days later. She allegedly fell from an unoccupied house; however, according to an autopsy, she suffered many broken bones from severe beatings. According to witnesses, she was interrogated by the IRGC and then taken to Evin prison.
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 20 September 2022
+---
+NAME_EN: Reza Shahparnia
+NAME_FA: 
+AGE: 20
+DATE: 2022-09-20
+LOCATION: Kermanshah
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 20 September 2022
+---
+NAME_EN: Abdolsamad Sabeti Zadeh (Shahu Zahie)
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-20
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 20 September 2022
+---
+NAME_EN: Milad Zare
+NAME_FA: 
+AGE: 25
+DATE: 2022-09-20
+LOCATION: Babol
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 20 September 2022
+---
+NAME_EN: Matin Abdollahpour
+NAME_FA: 
+AGE: 16
+DATE: 2022-09-21
+LOCATION: Balo, Urmia
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 21 September 2022
+---
+NAME_EN: Fereydoun Ahmadi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-21
+LOCATION: Saqqez
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 21 September 2022
+---
+NAME_EN: Roshana Ahmadi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-21
+LOCATION: Bukan
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 21 September 2022
+---
+NAME_EN: Mehdi Babr-Nejad
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-21
+LOCATION: Quchan
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 21 September 2022
+---
+NAME_EN: Amir Hossein Basati
+NAME_FA: 
+AGE: 15
+DATE: 2022-09-21
+LOCATION: Kermanshah
+CAUSE: Targeted close-range shots with metal balls killed him directly.
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 21 September 2022
+---
+NAME_EN: Amir Bastami
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-21
+LOCATION: Kermanshah
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 21 September 2022
+---
+NAME_EN: Ghazaleh Chalavi
+NAME_FA: 
+AGE: 32/33
+DATE: 2022-09-21
+LOCATION: Amol
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 21 September 2022
+---
+NAME_EN: Abdolfazl Akbari Doust
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-21
+LOCATION: Langroud
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 21 September 2022
+---
+NAME_EN: Mehdi Mohammad Fallah
+NAME_FA: 
+AGE: 33
+DATE: 2022-09-21
+LOCATION: Amol
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 21 September 2022
+---
+NAME_EN: Mohammad Farmani
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-21
+LOCATION: Shahr-e-Ray
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 21 September 2022
+---
+NAME_EN: Alireza Fathi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-21
+LOCATION: Sanfar
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 21 September 2022
+---
+NAME_EN: Amir Ali Fouladi
+NAME_FA: 
+AGE: 16
+DATE: 2022-09-21
+LOCATION: Eslamabad-e Gharb
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 21 September 2022
+---
+NAME_EN: Mohsen Geysari
+NAME_FA: 
+AGE: 32
+DATE: 2022-09-21
+LOCATION: Ilam
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 21 September 2022
+---
+NAME_EN: Mehrdad Ghorbani
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-21
+LOCATION: Zanjan
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 21 September 2022
+---
+NAME_EN: Milan Haghighi
+NAME_FA: 
+AGE: 21
+DATE: 2022-09-21
+LOCATION: Oshnavieh
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 21 September 2022
+---
+NAME_EN: Saeed Iranmensh
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-21
+LOCATION: Kerman
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 21 September 2022
+---
+NAME_EN: Yasin Jamalzadeh
+NAME_FA: 
+AGE: ~28
+DATE: 2022-09-21
+LOCATION: Rezvan Shahr
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 21 September 2022
+---
+NAME_EN: Erfan Khazaee
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-21
+LOCATION: Shahriar
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 21 September 2022
+---
+NAME_EN: Hannaneh Kia
+NAME_FA: 
+AGE: 22 / 23
+DATE: 2022-09-21
+LOCATION: Nowshahr
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 21 September 2022
+---
+NAME_EN: Mohsen Mohammadi Kochsaraei / Kochaksarai
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-21
+LOCATION: Qaem Shahr
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 21 September 2022
+---
+NAME_EN: Behnam Layeghpour
+NAME_FA: 
+AGE: 37
+DATE: 2022-09-21
+LOCATION: Rasht
+CAUSE: Targeted close shots in the heart
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 21 September 2022
+---
+NAME_EN: Sadreddin Litani
+NAME_FA: 
+AGE: 27
+DATE: 2022-09-21
+LOCATION: Oshnavieh
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 21 September 2022
+---
+NAME_EN: Amir Hossein Mahdavi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-21
+LOCATION: Rasht
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 21 September 2022
+---
+NAME_EN: Abdollah Mahmoudpour /Mohammadpour
+NAME_FA: 
+AGE: 16-18
+DATE: 2022-09-21
+LOCATION: Balo, Urmia
+CAUSE: He was shot from behind while retreating from a Basij office.
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 21 September 2022
+---
+NAME_EN: Mohsen Mal Mir
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-21
+LOCATION: Nowshahr
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 21 September 2022
+---
+NAME_EN: Amin Maroufi / M'arefat
+NAME_FA: 
+AGE: 16
+DATE: 2022-09-21
+LOCATION: Oshnavieh
+CAUSE: Shot by IRGC
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 21 September 2022
+---
+NAME_EN: Abdolfazl Mehdipour
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-21
+LOCATION: Babol
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 21 September 2022
+---
+NAME_EN: Seyyed Abbas Mirmousa / Mir-Mousavi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-21
+LOCATION: Langroud
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 21 September 2022
+---
+NAME_EN: Mahsa Mogouei
+NAME_FA: 
+AGE: 18
+DATE: 2022-09-21
+LOCATION: Fulad Shahr
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 21 September 2022
+---
+NAME_EN: Amir Mehdi Malak Mohammadi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-21
+LOCATION: Tehran
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 21 September 2022
+---
+NAME_EN: Iman Mohammadi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-21
+LOCATION: Islamabad-e Gharb / Kermanshah
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 21 September 2022
+---
+NAME_EN: Saeid Mohammadi
+NAME_FA: 
+AGE: 21
+DATE: 2022-09-21
+LOCATION: Islamabad-e-gharb
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 21 September 2022
+---
+NAME_EN: Seyed Mehdi Mousavi
+NAME_FA: 
+AGE: 15-16
+DATE: 2022-09-21
+LOCATION: Zanjan
+CAUSE: Was shot from behind and then beaten up.
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 21 September 2022
+---
+NAME_EN: Seyyed Sina Mousavi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-21
+LOCATION: Amol
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 21 September 2022
+---
+NAME_EN: Hadis Najafi
+NAME_FA: 
+AGE: 22 / 23
+DATE: 2022-09-21
+LOCATION: Karaj
+CAUSE: She had posted dance and music videos on TikTok and was shot dead at a demonstration in Karaj.
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 21 September 2022
+---
+NAME_EN: Mehrab Najafi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-21
+LOCATION: Zarrin Shahr
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 21 September 2022
+---
+NAME_EN: Mahdi Mousavi Nikou
+NAME_FA: 
+AGE: 16
+DATE: 2022-09-21
+LOCATION: Zanjan
+CAUSE: Died while being transported to the hospital after being shot in the back and being beaten with clubs to the head and body.
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 21 September 2022
+---
+NAME_EN: Amir Nowrozi
+NAME_FA: 
+AGE: 16
+DATE: 2022-09-21
+LOCATION: Bandar-e Anzali
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 21 September 2022
+---
+NAME_EN: Arash Pahlavan
+NAME_FA: 
+AGE: 27
+DATE: 2022-09-21
+LOCATION: Machad
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 21 September 2022
+---
+NAME_EN: Danesh Rahnema
+NAME_FA: 
+AGE: 25
+DATE: 2022-09-21
+LOCATION: Balo, Urmia
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 21 September 2022
+---
+NAME_EN: Parza Rezadoust
+NAME_FA: 
+AGE: 17
+DATE: 2022-09-21
+LOCATION: Karaj
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 21 September 2022
+---
+NAME_EN: Erfan Rezaei
+NAME_FA: 
+AGE: 21
+DATE: 2022-09-21
+LOCATION: Amol
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 21 September 2022
+---
+NAME_EN: Ali Mozaffari Salanghouch
+NAME_FA: 
+AGE: 17
+DATE: 2022-09-21
+LOCATION: Quchan
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 21 September 2022
+---
+NAME_EN: Mohammad Mam Saleh
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-21
+LOCATION: Sardasht
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 21 September 2022
+---
+NAME_EN: Mohammed Reza Savari
+NAME_FA: 
+AGE: 14
+DATE: 2022-09-21
+LOCATION: Hashtgerd / Shahr-e Rey, Tehran
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 21 September 2022
+---
+NAME_EN: Amir Hossein Shams
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-21
+LOCATION: Nowshahr
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 21 September 2022
+---
+NAME_EN: Pouya Sheida
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-21
+LOCATION: Urmia
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 21 September 2022
+---
+NAME_EN: Morteza Soltanian
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-21
+LOCATION: Esfahan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 21 September 2022
+---
+NAME_EN: Mohammad Hassan Torkaman
+NAME_FA: 
+AGE: 27
+DATE: 2022-09-21
+LOCATION: Babol
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 21 September 2022
+---
+NAME_EN: Mehdi Zahedi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-21
+LOCATION: Urmia
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 21 September 2022
+---
+NAME_EN: Mohammad Zamani
+NAME_FA: 
+AGE: 16
+DATE: 2022-09-21
+LOCATION: Tehran
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 21 September 2022
+---
+NAME_EN: Mohammad Zarei
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-21
+LOCATION: Qrachak / Sanqar
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 21 September 2022
+---
+NAME_EN: Kanaan Aghaei
+NAME_FA: 
+AGE: 18
+DATE: 2022-09-22
+LOCATION: Karaj
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 22 September 2022
+---
+NAME_EN: Mehrdad Avazpour
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-22
+LOCATION: Nowshahr
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 22 September 2022
+---
+NAME_EN: Pedram Azarnoush
+NAME_FA: 
+AGE: 16
+DATE: 2022-09-22
+LOCATION: Dehdasht
+CAUSE: He was fatally wounded as a spectator by indiscriminate ICRG gunfire into the crowd.
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 22 September 2022
+---
+NAME_EN: Mehrdad Behnam-Asl
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-22
+LOCATION: Kohgiluyeh, Boyer-Ahmad / Dehdasht
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 22 September 2022
+---
+NAME_EN: Mohammad Reza Eskandari
+NAME_FA: 
+AGE: 25
+DATE: 2022-09-22
+LOCATION: Pakdasht / Alborz
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 22 September 2022
+---
+NAME_EN: Sasan Ghorbani
+NAME_FA: 
+AGE: 31-32
+DATE: 2022-09-22
+LOCATION: Rezvanshahr
+CAUSE: Shot while helping a wounded protester, beaten in custody, denied medical attention
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 22 September 2022
+---
+NAME_EN: Arvin Malamali Golzari
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-22
+LOCATION: Fuladshahr
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 22 September 2022
+---
+NAME_EN: Esmail Heydari
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-22
+LOCATION: Ardabil
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 22 September 2022
+---
+NAME_EN: Javad Heydari
+NAME_FA: 
+AGE: 36
+DATE: 2022-09-22
+LOCATION: Qazvin
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 22 September 2022
+---
+NAME_EN: Mohammad Hosseinkhah
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-22
+LOCATION: Mazandaran
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 22 September 2022
+---
+NAME_EN: Yaser Jafari
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-22
+LOCATION: Ilam
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 22 September 2022
+---
+NAME_EN: Rouzbeh Khademi
+NAME_FA: 
+AGE: 32
+DATE: 2022-09-22
+LOCATION: Karaj
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 22 September 2022
+---
+NAME_EN: Shirin Alizadeh Khansari
+NAME_FA: 
+AGE: 35
+DATE: 2022-09-22
+LOCATION: Chalus
+CAUSE: Was killed by an aimed shot in the head.
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 22 September 2022
+---
+NAME_EN: Mehdi Leylazi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-22
+LOCATION: Karaj
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 22 September 2022
+---
+NAME_EN: Mohammad Rasoul Momenizadeh
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-22
+LOCATION: Rasht
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 22 September 2022
+---
+NAME_EN: Mohsen Pazouki
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-22
+LOCATION: Pakdascht / Varamin
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 22 September 2022
+---
+NAME_EN: Maziar Salmanian / Soleimanian
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-22
+LOCATION: Rasht
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 22 September 2022
+---
+NAME_EN: Mohammad Reza Sarvari
+NAME_FA: 
+AGE: 14
+DATE: 2022-09-22
+LOCATION: Shahr-e Ray
+CAUSE: Cerebral hemorrhage as a result of a shot in the back of the head. Original cause of death listed as suicide: this was refuted by the release of his burial certificate.
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 22 September 2022
+---
+NAME_EN: Setareh Tajik
+NAME_FA: 
+AGE: 17
+DATE: 2022-09-22
+LOCATION: Tehran
+CAUSE: She was beaten with clubs in the face, head and body. Her family was forced to remain silent.
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 22 September 2022
+---
+NAME_EN: Mohammad Amin Takoli
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-22
+LOCATION: Tehran
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 22 September 2022
+---
+NAME_EN: Ehsan Alibazi
+NAME_FA: 
+AGE: 16
+DATE: 2022-09-23
+LOCATION: Shahr-e-Qods
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 23 September 2022
+---
+NAME_EN: Sarina Esmailzadeh
+NAME_FA: 
+AGE: 16
+DATE: 2022-09-23
+LOCATION: Gohardasht in Karaj / Mehrshahr
+CAUSE: She was beaten to the head with a club. The judiciary claimed that she committed suicide by jumping from the roof of a house. In order to be able to bury the dead woman, her family was not allowed to open the coffin and had to confirm the information given by the authorities under death threats from the IRGC.
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 23 September 2022
+---
+NAME_EN: Hamid Fouladvand
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-23
+LOCATION: Pakdascht
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 23 September 2022
+---
+NAME_EN: Alireza Hosseini
+NAME_FA: 
+AGE: 26
+DATE: 2022-09-23
+LOCATION: Tehran
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 23 September 2022
+---
+NAME_EN: Seyyedeh Ameneh Vahdat Hosseini
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-23
+LOCATION: Karaj
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 23 September 2022
+---
+NAME_EN: Javad Khansari
+NAME_FA: 
+AGE: 36
+DATE: 2022-09-23
+LOCATION: Tehran
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 23 September 2022
+---
+NAME_EN: Hossein Morovati
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-23
+LOCATION: Qrachak Varamin
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 23 September 2022
+---
+NAME_EN: Hediyeh Naeimani
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-23
+LOCATION: Nowshahr
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 23 September 2022
+---
+NAME_EN: Pouya (Ali) Ahmadpour Pasikhani
+NAME_FA: 
+AGE: 17
+DATE: 2022-09-23
+LOCATION: Rasht
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 23 September 2022
+---
+NAME_EN: Ahmad Reza Qoliji
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-23
+LOCATION: Hamedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 23 September 2022
+---
+NAME_EN: Parsa Rezadoust
+NAME_FA: 
+AGE: 17
+DATE: 2022-09-23
+LOCATION: Hashtgerd / Alborz
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 23 September 2022
+---
+NAME_EN: Mohammad Javad Zahedi
+NAME_FA: 
+AGE: 16
+DATE: 2022-09-23
+LOCATION: Sari
+CAUSE: Targeted head and neck shots
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 23 September 2022
+---
+NAME_EN: Mehdi Asgari
+NAME_FA: 
+AGE: 25
+DATE: 2022-09-24
+LOCATION: Garmsar
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 24 September 2022
+---
+NAME_EN: Mehrzad Avazpour
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-24
+LOCATION: Nowshahr
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 24 September 2022
+---
+NAME_EN: Mohammad Hosseinikhah
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-24
+LOCATION: Sari
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 24 September 2022
+---
+NAME_EN: Hossein Ali Kia Kanjouri
+NAME_FA: 
+AGE: 23
+DATE: 2022-09-24
+LOCATION: Nowshahr
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 24 September 2022
+---
+NAME_EN: Mahmoud Keshvari
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-24
+LOCATION: Karaj
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 24 September 2022
+---
+NAME_EN: Lina Namour
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-24
+LOCATION: Tehran
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 24 September 2022
+---
+NAME_EN: Morteza Nowroozi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-24
+LOCATION: Langaroud
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 24 September 2022
+---
+NAME_EN: Reza Saed
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-24
+LOCATION: Tehran
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 24 September 2022
+---
+NAME_EN: Mohammad Hossein Sarvi / Savari-Rad
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-24
+LOCATION: Garmsar / Tehran
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 24 September 2022
+---
+NAME_EN: Mohammad Jameh Bozorg
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-25
+LOCATION: Marlik Karaj
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 25 September 2022
+---
+NAME_EN: Hamin Foulavand
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-25
+LOCATION: Varamin
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 25 September 2022
+---
+NAME_EN: Nader Kokar
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-25
+LOCATION: Rudsar
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 25 September 2022
+---
+NAME_EN: Siavash Mahmoudi
+NAME_FA: 
+AGE: 16
+DATE: 2022-09-25
+LOCATION: Naziabad, Tehran
+CAUSE: Headshot
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 25 September 2022
+---
+NAME_EN: Milad Ostad-Hashem
+NAME_FA: 
+AGE: 37
+DATE: 2022-09-25
+LOCATION: Tehran
+CAUSE: Milad was shot as he rode a motorbike after taking part in protests in the capital. His parents alleged security forces pressured them to go along with state media reports that he was a Basij member killed by "rioters" and that security forces threatened to kill their two other sons and bury Milad's body secretly in a remote place if they did not co-operate.
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 25 September 2022
+---
+NAME_EN: Abdolsalam Ghader Galvani / Abdussalam Qadir Galvan
+NAME_FA: 
+AGE: 32
+DATE: 2022-09-26
+LOCATION: Oshnavieh
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 26 September 2022
+---
+NAME_EN: Samad Barginia
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-28
+LOCATION: Piranshahr
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 28 September 2022
+---
+NAME_EN: Amir Mehdi Farkhipour / Farrokhipour
+NAME_FA: 
+AGE: 17
+DATE: 2022-09-28
+LOCATION: Tehran, Keshavarz Boulevard
+CAUSE: He was shot with metal bullets and live ammunition. His father had to name a car accident as the cause; otherwise his daughters will be murdered.
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 28 September 2022
+---
+NAME_EN: Amir Reza Naderzadeh
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-28
+LOCATION: Nowshahr
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 28 September 2022
+---
+NAME_EN: Erfan Nazarbeigi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-29
+LOCATION: Tehran
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 29 September 2022
+---
+NAME_EN: Esmail Abil
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Ali Agheli (Narui)
+NAME_FA: 
+AGE: 28
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Mukhtar Ahmadi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Marivan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Lal Mohammad Alizehi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Abu Bakr Ali-Zehei
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Balal Anshini
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Lal Mohammad Anshini
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Mehdi Anshini
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Musa Anshini
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Ali Aqli (Naroui)
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Suleiman Arab
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Amin Goleh Bacheh
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Amin (Badr al-Uloum Seminary)
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Riassat (Badel) Balouch
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Abdorrahman Balouchi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Abdolrahman Baluchikhah
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Ali Barahouie
+NAME_FA: 
+AGE: 14
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: During Friday prayers in Mossala Mosque, he was shot in the neck and chest.
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Abdol Samad Barahui (Aidouzehi)
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Ali Akbar Barahui
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Mahmoud Barahui
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Mohammad Barahui
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Zacharie Barahui
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Mustafa Barichi
+NAME_FA: 
+AGE: 24
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: (Lal) Mahmoud / Mohammad Brahoui
+NAME_FA: 
+AGE: 18
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Abdulghafoor Dahmarde / Abdol Ghafoor Dehmordeh
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Mansour Dehmardeh
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Musa Doveira
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Mohammad Farough-Rakhsh
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Mohammad Ali Gamshad-Zehei
+NAME_FA: 
+AGE: 18
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Mohammad Amin Gamshad-Zehei
+NAME_FA: 
+AGE: 17
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: On the way home from Friday prayers, he was shot in the heart.
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Mohsen Gamshadzehei
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Vahed Gamshadzehi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Salahuddin Gamshad-Zehei
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Saeed Gergige
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Aminollah Ghaljaei
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Mohammad Ghaljei
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Matin Ghanbarzehi
+NAME_FA: 
+AGE: 13-14
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Ibrahim Gorgij
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Matine Qanbar Zehi Gorgij
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Amir Mohammad Gumshadzehi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Ali Akbar Halgheh-Begoosh
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Omran Hassanzehei
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Vahid Hovat / Hout
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Hamid Isa-Zehei
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Azizollah Kabdani
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Nematollah Kabedani / Kubdani
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Azizullah Kubdani
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Sodeys / Sedis Keshani
+NAME_FA: 
+AGE: 14
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: After Friday prayers, the police shot him in the head and heart in front of the police station opposite the Grand Mosque.
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Mirshekar(i) / Mireshkar
+NAME_FA: 
+AGE: 2
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Jalil Mohammad-Zehei
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Abubakr Nahtani
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Musa Nahtani
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Abdol Majid Naroui
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Hamid Narouei
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Hamzeh Narouei
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Mohammad Sediq / Sadigh Narouei
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Younes Narouei
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Abdollah Naroui
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Rafi Naroui
+NAME_FA: 
+AGE: 23
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Hasti Narui
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Musa Dovira Narui
+NAME_FA: 
+AGE: 18
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Abdol Vahid Tohid Nia
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Abdulghafoor Noor-Barahui
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Javad Pousheh
+NAME_FA: 
+AGE: 11/12
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: After Friday prayers in the Mosalla Mosque, he received several shots in the head outside a police station.
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Aminullah Qoljai
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Mohammad Qoljaei
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Abdolmanan Rakhshani
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Balal Rakhshani
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Jalil Rakhshani
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Mansour Rakhshani
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Mohammad Rakhshani
+NAME_FA: 
+AGE: 12
+DATE: 2022-09-30
+LOCATION: Kawsar in Zahedan
+CAUSE: He was shot in the head during a police attack on a protest.
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Heydar Narui Rashid
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Abdol Majid Rigi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Behzad Rigi
+NAME_FA: 
+AGE: 30
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Mohammad Rigi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Gungo Zehi Rigi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Amir Hossein Mir Kazehi Riggi
+NAME_FA: 
+AGE: 19
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Hamid Reza Saneipour
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Hamedan
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Ahmad (Jamma) Sarani (Alizehi)
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Omid Sarani
+NAME_FA: 
+AGE: 12/13
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: In an attack on a protest, police shot him in the chest.
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Omid Safarzehi
+NAME_FA: 
+AGE: 17
+DATE: 2022-09-30
+LOCATION: Shirabad in Zahedan
+CAUSE: Killed by two shots to the neck.
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Ahmad Sargolzaei
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Abdolmalek Shahbakhsh
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Abdullah Shahbakhsh
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Ahmad Shahbakhsh
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Danial/Daniel Shahbakhsh
+NAME_FA: 
+AGE: 11
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Farzad Shahbakhsh
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Imran Shahbakhsh
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Majid Shahbakhsh
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Mohiuddin Shahbakhsh
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Omran Shahbakhsh
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Yaser Shahbakhsh
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Abdol Khaleq Shahnavazi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Amir Hamzeh Shahnavazi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Mahmoud Shahnavazi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Mohammad Eghbal (Iqbal) Naebzehei Shahnavazi
+NAME_FA: 
+AGE: 16
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Omar Shahnavazi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Omid Shahnavazi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Thamer Shahnavazi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Yaser Shahouzehi
+NAME_FA: 
+AGE: 16
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: After Friday prayers, he was shot in the head outside a police station.
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Samad Shahuzehei / Abdol Samad Thabitizadeh
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Jaber Shirouzi / Shiroozehi
+NAME_FA: 
+AGE: 12
+DATE: 2022-09-30
+LOCATION: Shirabad in Zahedan
+CAUSE: Headshot
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Najm al-Din Tajik
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Najmuddin Tajik
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Abdul Wahid Tohidnia
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Mohammad Reza Adib Toutazehi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Esmail Hossein Zahi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Majid Baloch Zehi (Sheh Bakhsh)
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Mohammad Ali Esmail Zehi (Shah Bakhsh)
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Samer (Sami) Hashem Zehie
+NAME_FA: 
+AGE: 16
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: He was shot dead outside a police station after Friday prayers; his family was threatened.
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Mohammad Eqbal Naib Zehi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Gholam Nabi Noti Zehi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Abdol Jalil Qanbar Zehi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Khalil Qanbar Zehi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-09-30
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 30 September 2022
+---
+NAME_EN: Mokhtar Ahmadi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-01
+LOCATION: Marivan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 1 October 2022
+---
+NAME_EN: Ali Bani Assad
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-01
+LOCATION: Ahvaz
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 1 October 2022
+---
+NAME_EN: Khodanour Laje’i
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-01
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 1 October 2022
+---
+NAME_EN: Ehsan Khan Mohammadi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-01
+LOCATION: Tehran
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 1 October 2022
+---
+NAME_EN: Pouya Rajab Nia
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-01
+LOCATION: Babol
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 1 October 2022
+---
+NAME_EN: Mehrab Dolat Panah
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-01
+LOCATION: Talesh
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 1 October 2022
+---
+NAME_EN: Jamal Abdol Naser Mohammad Hasani Barahui
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-02
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 2 October 2022
+---
+NAME_EN: Saamer Hashemzehie
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-02
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 2 October 2022
+---
+NAME_EN: Arman Hassanzani / Hasan Zaee
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-02
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 2 October 2022
+---
+NAME_EN: Zolfaghar Jan Hassanzani / Zolfaqar Hasan Zaee
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-02
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 2 October 2022
+---
+NAME_EN: Khodanur Lajai
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-02
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 2 October 2022
+---
+NAME_EN: Salman Maleki
+NAME_FA: 
+AGE: 25
+DATE: 2022-10-02
+LOCATION: Zahedan
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 2 October 2022
+---
+NAME_EN: Ali Akbar Rabi’i
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-02
+LOCATION: Isfahan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 2 October 2022
+---
+NAME_EN: Mahuddin Shirouzehi / Maheddin Shiro Zehi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-02
+LOCATION: Karimabad, Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 2 October 2022
+---
+NAME_EN: Mohammad Mehrdadi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-03
+LOCATION: Tehran
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 3 October 2022
+---
+NAME_EN: Mostafa Beriji
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-03
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 3 October 2022
+---
+NAME_EN: Abdolghader Pahlavan
+NAME_FA: 
+AGE: 25
+DATE: 2022-10-03
+LOCATION: Zahedan
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 3 October 2022
+---
+NAME_EN: Nima Shafagh Doust / Nemia Shafiqdoust
+NAME_FA: 
+AGE: 16
+DATE: 2022-10-05
+LOCATION: Salmas / Urmia
+CAUSE: He died from gunshot wounds from metal bullets aimed at him. His family had to keep this secret and was threatened.
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 5 October 2022
+---
+NAME_EN: Reza Bonyadi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-06
+LOCATION: Tehran
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 6 October 2022
+---
+NAME_EN: Emad Heydari
+NAME_FA: 
+AGE: 31
+DATE: 2022-10-06
+LOCATION: Ahvaz
+CAUSE: Beatings in custody
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 6 October 2022
+---
+NAME_EN: Abolfazi Adinehzadeh / Abdulfazi Adina
+NAME_FA: 
+AGE: 16
+DATE: 2022-10-08
+LOCATION: Mashhad
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 8 October 2022
+---
+NAME_EN: Daryoush Alizadeh
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-08
+LOCATION: Sanandaj
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 8 October 2022
+---
+NAME_EN: Mohammad Amini
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-08
+LOCATION: Sanandaj
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 8 October 2022
+---
+NAME_EN: Maryam Ghavasi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-08
+LOCATION: Mashhad
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 8 October 2022
+---
+NAME_EN: Sajjad Jafari
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-08
+LOCATION: Shiraz
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 8 October 2022
+---
+NAME_EN: Ainaz Javaheri
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-08
+LOCATION: Kermanshah
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 8 October 2022
+---
+NAME_EN: Simeh Mahmoudinejad
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-08
+LOCATION: Kerman
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 8 October 2022
+---
+NAME_EN: Peyman Manbari
+NAME_FA: 
+AGE: 29
+DATE: 2022-10-08
+LOCATION: Sanandaj
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 8 October 2022
+---
+NAME_EN: Mohsen Mousavi
+NAME_FA: 
+AGE: 30
+DATE: 2022-10-08
+LOCATION: Tehran
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 8 October 2022
+---
+NAME_EN: Yahya Rahimi
+NAME_FA: 
+AGE: 31
+DATE: 2022-10-08
+LOCATION: Sanandaj
+CAUSE: Targeted close-up because the driver had honked for the protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 8 October 2022
+---
+NAME_EN: Nagin Salehi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-08
+LOCATION: Tehran
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 8 October 2022
+---
+NAME_EN: Kamran Shahbazi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-08
+LOCATION: Tehran
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 8 October 2022
+---
+NAME_EN: Sopher Sharifi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-08
+LOCATION: Tehran
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 8 October 2022
+---
+NAME_EN: Nadia Arefani
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-09
+LOCATION: Fardis in Karaj
+CAUSE: Succumbed to serious injuries during a demonstration the previous day
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 9 October 2022
+---
+NAME_EN: Aref Ashouri
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-09
+LOCATION: Rasht, Lakan-Prison
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 9 October 2022
+---
+NAME_EN: Mehrzad Behrouz
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-09
+LOCATION: Rasht, Lakan-Prison
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 9 October 2022
+---
+NAME_EN: Milad Derakhshan
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-09
+LOCATION: Rasht, Lakan-Prison
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 9 October 2022
+---
+NAME_EN: Esmail Dezvar
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-09
+LOCATION: Saqqez
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 9 October 2022
+---
+NAME_EN: Arian Moridi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-09
+LOCATION: Salas-e Babajani
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 9 October 2022
+---
+NAME_EN: Mohammad Anoush Niya
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-09
+LOCATION: Rasht, Lakan-Prison
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 9 October 2022
+---
+NAME_EN: Mehran Rajabi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-09
+LOCATION: Rasht, Lakan-Prison
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 9 October 2022
+---
+NAME_EN: Seyyed Ahmad Shokrollahi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-09
+LOCATION: Isfahan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 9 October 2022
+---
+NAME_EN: Abolfazl Adinezadeh
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-10
+LOCATION: Mashhad
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 10 October 2022
+---
+NAME_EN: Farzin Farrokhi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-10
+LOCATION: Saqqez
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 10 October 2022
+---
+NAME_EN: Omid Mahdavi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-10
+LOCATION: Tehran
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 10 October 2022
+---
+NAME_EN: Elaheh Sa’idi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-10
+LOCATION: Saqqez
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 10 October 2022
+---
+NAME_EN: Kamal Fegghi / Feqhi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-12
+LOCATION: Bukan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 12 October 2022
+---
+NAME_EN: Asra Panahi Jangah
+NAME_FA: 
+AGE: 15/16
+DATE: 2022-10-12
+LOCATION: Ardabil
+CAUSE: She was beaten to death by Basij because she didn't want to sing along to a propaganda song
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 12 October 2022
+---
+NAME_EN: Aziz Moradi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-12
+LOCATION: Sanandaj
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 12 October 2022
+---
+NAME_EN: Sina Naderi
+NAME_FA: 
+AGE: 22
+DATE: 2022-10-12
+LOCATION: Kermanshah
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 12 October 2022
+---
+NAME_EN: Armin Sayadi
+NAME_FA: 
+AGE: 18
+DATE: 2022-10-12
+LOCATION: Kermanshah
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 12 October 2022
+---
+NAME_EN: Mehrgan Zahmatkesh
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-12
+LOCATION: Rasht
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 12 October 2022
+---
+NAME_EN: Negin Abdolmaleki
+NAME_FA: 
+AGE: 21
+DATE: 2022-10-13
+LOCATION: Hamedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 13 October 2022
+---
+NAME_EN: Parisa Asgari
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-13
+LOCATION: Tehran
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 13 October 2022
+---
+NAME_EN: Reza Esmailzadeh
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-13
+LOCATION: Tehran
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 13 October 2022
+---
+NAME_EN: Ali Basaki
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-15
+LOCATION: Tehran
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 15 October 2022
+---
+NAME_EN: Seyyed Farhad Hosseini
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-15
+LOCATION: Tehran, Evin prison
+CAUSE: Evin prison fire
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 15 October 2022
+---
+NAME_EN: Hossein Jezi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-15
+LOCATION: Tehran, Evin prison
+CAUSE: Evin prison fire
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 15 October 2022
+---
+NAME_EN: Hamid Saeed Mozafari
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-15
+LOCATION: Tehran, Evin prison
+CAUSE: Evin prison fire
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 15 October 2022
+---
+NAME_EN: Hossein Akbarzadeh
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-16
+LOCATION: Tehran, Evin prison
+CAUSE: Evin prison fire
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 16 October 2022
+---
+NAME_EN: Atika Gaem Magham
+NAME_FA: 
+AGE: 17
+DATE: 2022-10-16
+LOCATION: Tehran
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 16 October 2022
+---
+NAME_EN: Mohammad Abdollahi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-17
+LOCATION: Ilam
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 17 October 2022
+---
+NAME_EN: Hamed Baji Zehi / Zahi (Brahoui)
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-17
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 17 October 2022
+---
+NAME_EN: Ali Bani Asadi
+NAME_FA: 
+AGE: 20
+DATE: 2022-10-19
+LOCATION: Ahvaz
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 19 October 2022
+---
+NAME_EN: Ali Jalili
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-20
+LOCATION: Tehran
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 20 October 2022
+---
+NAME_EN: Ramin Karami
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-20
+LOCATION: Kermanshah
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 20 October 2022
+---
+NAME_EN: Abolfazl Bahu
+NAME_FA: 
+AGE: unknown
+DATE: Until 22 October
+LOCATION: Qaimshahr
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: Until 22 October 2022
+---
+NAME_EN: Mehdi Farahani
+NAME_FA: 
+AGE: unknown
+DATE: Until 22 October
+LOCATION: Khorramshahr
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: Until 22 October 2022
+---
+NAME_EN: Seyyed Mohammad Hosseini
+NAME_FA: 
+AGE: unknown
+DATE: Until 22 October
+LOCATION: Saqqez
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: Until 22 October 2022
+---
+NAME_EN: Maisam Jafari
+NAME_FA: 
+AGE: unknown
+DATE: Until 22 October
+LOCATION: unknown
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: Until 22 October 2022
+---
+NAME_EN: Rahim Kalij
+NAME_FA: 
+AGE: unknown
+DATE: Until 22 October
+LOCATION: Qaimshahr
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: Until 22 October 2022
+---
+NAME_EN: Poriya Kayani
+NAME_FA: 
+AGE: unknown
+DATE: Until 22 October
+LOCATION: Shushtar
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: Until 22 October 2022
+---
+NAME_EN: Mohammad Khawajui
+NAME_FA: 
+AGE: unknown
+DATE: Until 22 October
+LOCATION: Dezful
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: Until 22 October 2022
+---
+NAME_EN: Sina Malayeri
+NAME_FA: 
+AGE: unknown
+DATE: Until 22 October
+LOCATION: Arak
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: Until 22 October 2022
+---
+NAME_EN: Farid Maleki
+NAME_FA: 
+AGE: unknown
+DATE: Until 22 October
+LOCATION: Tehran
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: Until 22 October 2022
+---
+NAME_EN: Arnica Kaem Maqami
+NAME_FA: 
+AGE: 17
+DATE: Until 22 October
+LOCATION: Tehran
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: Until 22 October 2022
+---
+NAME_EN: Messam Moghadasi
+NAME_FA: 
+AGE: unknown
+DATE: Until 22 October
+LOCATION: Tehran
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: Until 22 October 2022
+---
+NAME_EN: Milad Javidpour Mogoie
+NAME_FA: 
+AGE: unknown
+DATE: Until 22 October
+LOCATION: unknown
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: Until 22 October 2022
+---
+NAME_EN: Ezzatollah Shahbazi
+NAME_FA: 
+AGE: unknown
+DATE: Until 22 October
+LOCATION: Tehran, Evin prison
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: Until 22 October 2022
+---
+NAME_EN: Sarina Shiri
+NAME_FA: 
+AGE: unknown
+DATE: Until 22 October
+LOCATION: Kermanshah
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: Until 22 October 2022
+---
+NAME_EN: Ramin Fatehi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-23
+LOCATION: Sanandaj
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 23 October 2022
+---
+NAME_EN: Ehsan Khawajui
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-23
+LOCATION: Dezful
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 23 October 2022
+---
+NAME_EN: Nahid Mostafapour
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-23
+LOCATION: Yasouj
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 23 October 2022
+---
+NAME_EN: Mona Naghib
+NAME_FA: 
+AGE: 8
+DATE: 2022-10-23
+LOCATION: Saravan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 23 October 2022
+---
+NAME_EN: Sadaf Movahedi
+NAME_FA: 
+AGE: 17
+DATE: 2022-10-24
+LOCATION: Tehran
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 24 October 2022
+---
+NAME_EN: Parisa Bahmani
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-25
+LOCATION: Tehran
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 25 October 2022
+---
+NAME_EN: Parmis Hamnava
+NAME_FA: 
+AGE: 14
+DATE: 2022-10-25
+LOCATION: Iranshahr
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 25 October 2022
+---
+NAME_EN: Ebrahim Mirzaei
+NAME_FA: 
+AGE: 42
+DATE: 2022-10-25
+LOCATION: Sanandaj
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 25 October 2022
+---
+NAME_EN: Marzieh Doshman Ziyari
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-25
+LOCATION: Bushehr
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 25 October 2022
+---
+NAME_EN: Behnaz Afshari
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-26
+LOCATION: Tehran, Evin prison
+CAUSE: Evin prison fire
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 26 October 2022
+---
+NAME_EN: Afshin Asham
+NAME_FA: 
+AGE: 28
+DATE: 2022-10-26
+LOCATION: Qasr-e Shirin
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 26 October 2022
+---
+NAME_EN: Rasoul Haddadi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-26
+LOCATION: Zanjan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 26 October 2022
+---
+NAME_EN: Hadi Haqshenas
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-26
+LOCATION: Isfahan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 26 October 2022
+---
+NAME_EN: Mohammad Lotfollahi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-26
+LOCATION: Sanandaj
+CAUSE: IRGC seriously injured him, transported him to an unknown location and handed him over dead to his family the following day. The dead man had severe neck wounds, possibly from torture.
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 26 October 2022
+---
+NAME_EN: Hamid Reza Malmir
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-26
+LOCATION: Karaj
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 26 October 2022
+---
+NAME_EN: Ismail Mauludi / Esmail Moloudi
+NAME_FA: 
+AGE: 35
+DATE: 2022-10-26
+LOCATION: Mahabad
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 26 October 2022
+---
+NAME_EN: Amirhossein Rumiani Nazari
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-26
+LOCATION: Tehran
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 26 October 2022
+---
+NAME_EN: Ali Rouzbahani
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-26
+LOCATION: Tehran
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 26 October 2022
+---
+NAME_EN: Sarina Saedi
+NAME_FA: 
+AGE: 16/17
+DATE: 2022-10-26
+LOCATION: Sanandaj
+CAUSE: She received severe blows to the head and died the following day.
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 26 October 2022
+---
+NAME_EN: Seyed Ali Seiedi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-26
+LOCATION: Tehran
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 26 October 2022
+---
+NAME_EN: Mohammad Shariati
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-26
+LOCATION: Sanandaj
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 26 October 2022
+---
+NAME_EN: Ermita Abbasi
+NAME_FA: 
+AGE: 20
+DATE: 2022-10-27
+LOCATION: Karaj
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 27 October 2022
+---
+NAME_EN: Zaniar Aboubekri / Abu Bakri
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-27
+LOCATION: Mahabad
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 27 October 2022
+---
+NAME_EN: Fereshteh Ahmadi
+NAME_FA: 
+AGE: 32
+DATE: 2022-10-27
+LOCATION: Mahabad
+CAUSE: When the mother of two tried to protect two young men from attacks by the military, they shot her.
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 27 October 2022
+---
+NAME_EN: Keyvan Darvishi
+NAME_FA: 
+AGE: 18
+DATE: 2022-10-27
+LOCATION: Sanandaj
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 27 October 2022
+---
+NAME_EN: Fereydon Faraji
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-27
+LOCATION: Baneh
+CAUSE: He was hit and killed by IRGC gunfire in the crowd.
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 27 October 2022
+---
+NAME_EN: Shahou Khezri
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-27
+LOCATION: Mahabad
+CAUSE: He was shot in the head while trying to help guide fellow protestors to safety
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 27 October 2022
+---
+NAME_EN: Motalleb Saeed Pirou / Matlab Saeed Peyrow / Peyro
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-27
+LOCATION: Baneh
+CAUSE: He was hit by shots fired into the crowd by the IRGC.
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 27 October 2022
+---
+NAME_EN: Mehrshad Shahidi
+NAME_FA: 
+AGE: 19
+DATE: 2022-10-27
+LOCATION: Arak
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 27 October 2022
+---
+NAME_EN: Kobra Sheikheh / Sheikh Saqqa
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-27
+LOCATION: Mahabad
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 27 October 2022
+---
+NAME_EN: Dastan Rasul Mohammad Agha
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-28
+LOCATION: Baneh
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 28 October 2022
+---
+NAME_EN: Masoud Ahmadzadeh
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-28
+LOCATION: Mahabad
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 28 October 2022
+---
+NAME_EN: Ali Fazeli
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-28
+LOCATION: Amol
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 28 October 2022
+---
+NAME_EN: Kabdani, son of Khodabakhsh
+NAME_FA: 
+AGE: 12
+DATE: 2022-10-28
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 28 October 2022
+---
+NAME_EN: Adel Kochakzaei
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-28
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 28 October 2022
+---
+NAME_EN: Farid Koravand
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-28
+LOCATION: Asaluyeh
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 28 October 2022
+---
+NAME_EN: Omid Narouie
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-28
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 28 October 2022
+---
+NAME_EN: Amir Shahnavazi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-28
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 28 October 2022
+---
+NAME_EN: Aref Gholampour
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-29
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 29 October 2022
+---
+NAME_EN: Saman Qadirpour
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-29
+LOCATION: Tehran
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 29 October 2022
+---
+NAME_EN: Diana Mahmoudi
+NAME_FA: 
+AGE: 8
+DATE: 2022-10-29
+LOCATION: Piranshahr
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 29 October 2022
+---
+NAME_EN: Kumar Daroftadeh
+NAME_FA: 
+AGE: 16
+DATE: 2022-10-31
+LOCATION: Piranshahr
+CAUSE: Purposefully shot
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 31 October 2022
+---
+NAME_EN: Jafar Qurbani
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-31
+LOCATION: Kamyaran
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 31 October 2022
+---
+NAME_EN: Moulavi Youssef Raisi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-31
+LOCATION: Lashar
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 31 October 2022
+---
+NAME_EN: Mohammad Saremi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-10-31
+LOCATION: Borujerd
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 31 October 2022
+---
+NAME_EN: Mohammad Hossein Faraji
+NAME_FA: 
+AGE: unknown
+DATE: 2022-11-01
+LOCATION: Tehran
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 1 November 2022
+---
+NAME_EN: Nasim Sedghi
+NAME_FA: 
+AGE: 22
+DATE: 2022-11-01
+LOCATION: Urmia
+CAUSE: shot
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 1 November 2022
+---
+NAME_EN: Momen Zand Karimi
+NAME_FA: 
+AGE: 18
+DATE: 2022-11-02
+LOCATION: Sanandaj
+CAUSE: He was shot dead at a funeral for Hadis Najafi.
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 2 November 2022
+---
+NAME_EN: Milad Khavari
+NAME_FA: 
+AGE: unknown
+DATE: 2022-11-02
+LOCATION: Bandar Abbas
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 2 November 2022
+---
+NAME_EN: Morteza Shirmohammadi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-11-02
+LOCATION: Shahin Dez
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 2 November 2022
+---
+NAME_EN: Shoaib Darghale
+NAME_FA: 
+AGE: unknown
+DATE: 2022-11-03
+LOCATION: Chabahar
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 3 November 2022
+---
+NAME_EN: Mehdi Hazrati
+NAME_FA: 
+AGE: unknown
+DATE: 2022-11-03
+LOCATION: Karaj
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 3 November 2022
+---
+NAME_EN: Mehdis Hosseini
+NAME_FA: 
+AGE: unknown
+DATE: 2022-11-03
+LOCATION: Amol
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 3 November 2022
+---
+NAME_EN: Mohammadreza Bali Lashak
+NAME_FA: 
+AGE: unknown
+DATE: 2022-11-03
+LOCATION: Nowshahr
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 3 November 2022
+---
+NAME_EN: Prasto Mouradkhani
+NAME_FA: 
+AGE: unknown
+DATE: 2022-11-03
+LOCATION: Karaj
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 3 November 2022
+---
+NAME_EN: Yaser Naroi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-11-03
+LOCATION: Zahedan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 3 November 2022
+---
+NAME_EN: Mohammad Reza Sarvi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-11-03
+LOCATION: Shahr-e Rey
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 3 November 2022
+---
+NAME_EN: Mehran Shekari
+NAME_FA: 
+AGE: unknown
+DATE: 2022-11-03
+LOCATION: Karaj
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 3 November 2022
+---
+NAME_EN: Erfan Zamani
+NAME_FA: 
+AGE: unknown
+DATE: 2022-11-03
+LOCATION: Lahijan
+CAUSE: Shot and bled to death because the perpetrators prevented first aid. Police actions prevented a vigil a few days later.
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 3 November 2022
+---
+NAME_EN: Shahli Bar
+NAME_FA: 
+AGE: unknown
+DATE: 2022-11-04
+LOCATION: Khash
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 4 November 2022
+---
+NAME_EN: Sohn von Haj Khoda Murad Brahoi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-11-04
+LOCATION: Khash
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 4 November 2022
+---
+NAME_EN: Sadegh Brahui
+NAME_FA: 
+AGE: unknown
+DATE: 2022-11-04
+LOCATION: Khash
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 4 November 2022
+---
+NAME_EN: Mohammad Amin Heshmatian
+NAME_FA: 
+AGE: unknown
+DATE: 2022-11-04
+LOCATION: Karaj
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 4 November 2022
+---
+NAME_EN: Ali Kurd Kalahori
+NAME_FA: 
+AGE: unknown
+DATE: 2022-11-04
+LOCATION: Khash
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 4 November 2022
+---
+NAME_EN: Mobin Mirkazehi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-11-04
+LOCATION: Khash
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 4 November 2022
+---
+NAME_EN: Nima Nouri
+NAME_FA: 
+AGE: 17
+DATE: 2022-11-04
+LOCATION: Karaj
+CAUSE: The teenager was purposefully shot. This gave rise to new protest calls.
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 4 November 2022
+---
+NAME_EN: Kambiz Regi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-11-04
+LOCATION: Khash
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 4 November 2022
+---
+NAME_EN: Sohn von Anwar Salahshuran
+NAME_FA: 
+AGE: unknown
+DATE: 2022-11-04
+LOCATION: Khash
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 4 November 2022
+---
+NAME_EN: Mohammad Selahshuran
+NAME_FA: 
+AGE: unknown
+DATE: 2022-11-04
+LOCATION: Khash
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 4 November 2022
+---
+NAME_EN: Mohammad Shahbakhsh
+NAME_FA: 
+AGE: unknown
+DATE: 2022-11-04
+LOCATION: Khash
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 4 November 2022
+---
+NAME_EN: Yunus Shahbakhsh
+NAME_FA: 
+AGE: unknown
+DATE: 2022-11-04
+LOCATION: Khash
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 4 November 2022
+---
+NAME_EN: Rahim Dad Shahli
+NAME_FA: 
+AGE: unknown
+DATE: 2022-11-04
+LOCATION: Khash
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 4 November 2022
+---
+NAME_EN: Abdul Malik Shahnawazi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-11-04
+LOCATION: Kash
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 4 November 2022
+---
+NAME_EN: Azim Mahmoud Zahi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-11-04
+LOCATION: Khash
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 4 November 2022
+---
+NAME_EN: Murad Zahi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-11-04
+LOCATION: Khash
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 4 November 2022
+---
+NAME_EN: Saeed Sohrab Zehi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-11-04
+LOCATION: Khash
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 4 November 2022
+---
+NAME_EN: Yasir Bahadur Zehi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-11-04
+LOCATION: Khash
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 4 November 2022
+---
+NAME_EN: Maria Gavasieh
+NAME_FA: 
+AGE: unknown
+DATE: 2022-11-05
+LOCATION: Shiraz
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 5 November 2022
+---
+NAME_EN: Pegah Gavasieh
+NAME_FA: 
+AGE: unknown
+DATE: 2022-11-05
+LOCATION: Shiraz
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 5 November 2022
+---
+NAME_EN: Nasrin Ghaderi
+NAME_FA: 
+AGE: 35
+DATE: 2022-11-05
+LOCATION: Marivan
+CAUSE: The Kurdish doctoral student was shot in the head several times during a protest, fell into a coma and died in a hospital. Her family was not allowed to bury her in Marivan. The Secret Service ordered a funeral without anyone present.
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 5 November 2022
+---
+NAME_EN: Mozhgan Kadkhodaei
+NAME_FA: 
+AGE: unknown
+DATE: 2022-11-05
+LOCATION: Tehran
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 5 November 2022
+---
+NAME_EN: Abbas Louiemi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-11-05
+LOCATION: Ahvaz
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 5 November 2022
+---
+NAME_EN: Mohammad Hossein Salari
+NAME_FA: 
+AGE: unknown
+DATE: 2022-11-05
+LOCATION: Mahshahr
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 5 November 2022
+---
+NAME_EN: Mohammad Ghaemi Far Asterki
+NAME_FA: 
+AGE: unknown
+DATE: 2022-11-06
+LOCATION: Dezful
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 6 November 2022
+---
+NAME_EN: Oveis Shekarze’i
+NAME_FA: 
+AGE: unknown
+DATE: 2022-11-06
+LOCATION: Sarbaz
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 6 November 2022
+---
+NAME_EN: Sina Firouzabadi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-11-07
+LOCATION: Shiraz
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 7 November 2022
+---
+NAME_EN: Zia Mir Baloch Zehi
+NAME_FA: 
+AGE: unknown
+DATE: 2022-11-07
+LOCATION: Saravan
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 7 November 2022
+---
+NAME_EN: Komeil Amir Khanlou
+NAME_FA: 
+AGE: unknown
+DATE: 2022-11-08
+LOCATION: Karaj
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 8 November 2022
+---
+NAME_EN: Mohammad Reza (Hessam)
+NAME_FA: 
+AGE: unknown
+DATE: 2022-11-08
+LOCATION: Tehran
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 8 November 2022
+---
+NAME_EN: Sepehr Biranvand
+NAME_FA: 
+AGE: unknown
+DATE: 2022-11-09
+LOCATION: Khorramabad
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 9 November 2022
+---
+NAME_EN: Alireza Karimi
+NAME_FA: 
+AGE: 20
+DATE: 2022-11-09
+LOCATION: Arak
+CAUSE: Beaten to death with police batons during student protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 9 November 2022
+---
+NAME_EN: Matin Nasri
+NAME_FA: 
+AGE: unknown
+DATE: 2022-11-09
+LOCATION: Sanandaj
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 9 November 2022
+---
+NAME_EN: Faieq Mom Qadri
+NAME_FA: 
+AGE: unknown
+DATE: 2022-11-09
+LOCATION: Mahabad
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 9 November 2022
+---
+NAME_EN: Hemin Hamzeh
+NAME_FA: 
+AGE: 30
+DATE: 2022-11-09
+LOCATION: Sardasht
+CAUSE: Killed by border guards in the village of Boyuran
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 9 November 2022
+---
+NAME_EN: Daniel/Daniyal Pabandi
+NAME_FA: 
+AGE: 17
+DATE: 2022-11-15
+LOCATION: Saqqez
+CAUSE: Gunshot in stomach. His body was stolen by government agents after his death and buried without his family's approval.
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 15 November 2022
+---
+NAME_EN: Kian Pirfalak
+NAME_FA: 
+AGE: 9
+DATE: 2022-11-16
+LOCATION: Izeh
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 16 November 2022
+---
+NAME_EN: Artin Rahmani Piyani
+NAME_FA: 
+AGE: 17
+DATE: 2022-11-16
+LOCATION: Izeh
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 16 November 2022
+---
+NAME_EN: Aylar Haghi
+NAME_FA: 
+AGE: 23
+DATE: 2022-11-16
+LOCATION: Tabriz
+CAUSE: Haghi participated in the anti-government protest that took place in Tabriz on November 16, 2022, as part of the 2022 Iran protests. Government forces began to disperse the demonstration by using violence against the demonstrators. After the intervention of the police, Haghi took refuge in a building to escape the violence. Several officers who were chasing her followed her into the building and shot her in the back of the head, killing her. Her body was then thrown from a high-rise building.
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: 16 November 2022
+---
+NAME_EN: Saeid Iranmanesh
+NAME_FA: 
+AGE: unknown
+DATE: dateless
+LOCATION: Kerman
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: dateless 2022
+---
+NAME_EN: Omid Safarzahi
+NAME_FA: 
+AGE: 17
+DATE: dateless
+LOCATION: unknown
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: dateless 2022
+---
+NAME_EN: Afshin Shahamat
+NAME_FA: 
+AGE: 16
+DATE: dateless
+LOCATION: Tehran
+CAUSE: Gunshot wound
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: dateless 2022
+---
+NAME_EN: Jabir Shirouzahi
+NAME_FA: 
+AGE: 12
+DATE: dateless
+LOCATION: unknown
+CAUSE: Killed during WLF protests
+DETAILS: Source: Wikipedia - Deaths during Mahsa Amini protests. Date context: dateless 2022
+---
