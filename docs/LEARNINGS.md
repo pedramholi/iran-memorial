@@ -248,8 +248,8 @@ Die bestehenden YAML-Dateien verwenden ein flaches Format mit verschachtelten Ob
 
 ### Fehlende WLF-Opfer: Lückenanalyse und Strategie (2026-02-09)
 
-**Aktueller Stand (nach Multi-Source-Import + Deduplizierung):** 4.375 Opfer total
-- ~755 WLF 2022 (Wikipedia 422 + HRANA 352 + Manuell 12 + IHR 1, nach Dedup)
+**Aktueller Stand (nach Multi-Source-Import + Deduplizierung + Amnesty-Enrichment):** 4.378 Opfer total
+- ~758 WLF 2022 (Wikipedia 422 + HRANA 352 + Manuell 12 + IHR 1 + Amnesty 3 neue, nach Dedup)
 - 26 WLF 2023 (Hinrichtungen + Hafttode + IHR Suspicious Deaths 3)
 - 2 WLF 2024 (Hinrichtungen)
 - 20 in 2025 (3 WLF-Hinrichtungen + 17 aus iranvictims.com)
@@ -287,7 +287,7 @@ Die 551 Toten (IHR, Stand Sept. 2023) sind das **verifizierte Minimum**, nicht d
 |------|--------|---------------------|---------|--------|
 | 1 | IHR (iranhr.net) — Direktkontakt | ~0-50 Enrichment | E-Mail senden | Offen |
 | 2 | Boroumand Foundation (iranrights.org/memorial) | ~50-200 + Enrichment | API/Scrape | Offen |
-| 3 | Amnesty International PDFs | ~44 Kinder namentlich | PDF-Parse | Offen |
+| 3 | ~~Amnesty International MDE 13/6104/2022~~ | ~~41 enriched + 3 neue~~ | ~~PDF-Parse~~ | **ERLEDIGT** |
 | 4 | HRANA 20-Day Report (archive.org) | ~0-20 | PDF-Parse | Offen |
 | 5 | ~~Deduplizierung & Name-Normalisierung~~ | ~~206 Duplikate entfernt~~ | ~~Script~~ | **ERLEDIGT** |
 | 5 | KHRN + IHR für 2025/2026-Proteste | Tausende | Laufend | Mittel |
