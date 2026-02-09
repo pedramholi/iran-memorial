@@ -131,14 +131,39 @@ Seit 1979 hat die Islamische Republik Iran Hunderttausende Menschen getötet —
 - [ ] **"Ein Name, ein Gesicht"** — Startseite zeigt bei jedem Besuch ein zufälliges Opfer. Personalisiert die Erfahrung.
 - [ ] **Statistische Dashboards** — Tötungen nach Jahr, Provinz, Alter, Geschlecht, Todesart. Visualisiert das Ausmaß.
 - [ ] **Interaktive Karte** — Todesorte, Gefängnisse, Massengräber, Protestorte auf einer Karte. Heatmap der Gewalt.
-- [ ] **"An diesem Tag"** — Tägliche Anzeige: Wer wurde an diesem Kalendertag getötet? Wiederkehrendes Gedenken.
-- [ ] **Virtuelle Kerzen** — Besucher können symbolisch eine Kerze für ein Opfer anzünden. Zähler sichtbar.
+- [ ] **"An diesem Tag"** — Tägliche Anzeige: Wer wurde an diesem Kalendertag getötet? Fakten + Datum. Bringt vergessene Opfer ans Licht. Kein Algorithmus, keine Personalisierung.
 - [ ] **Gedenkkalender** — Markierte Tage im Kalender (16. September = Mahsa Amini, 19. Juli = Beginn 1988 Massaker, etc.)
 - [ ] **Audio-Testimonies** — Aufgezeichnete Erinnerungen von Familienmitgliedern. Stimmen statt nur Text.
 - [ ] **Foto-Galerie** — Vor dem Tod: lebensfrohe Bilder. Nicht nur Passfotos. Die Person zeigen, nicht das Opfer.
 - [ ] **Timeline-Animation** — Beim Scrollen durch den Zeitstrahl erscheinen Opfer als Punkte, die sich verdichten. Visuell das Ausmaß zeigen.
 - [ ] **Vergleichsperspektive** — Kontextualisierung: "In der Zeit, die Sie zum Lesen dieser Seite gebraucht haben, wurden im Sommer 1988 durchschnittlich X Menschen hingerichtet."
 - [ ] **Dunkelheit als Design** — Hintergrund wird dunkler bei den schlimmsten Perioden (1988, 2019, 2026). Subtile emotionale Führung.
+
+### User-Engagement — Gedenken und Wahrheitsfindung
+
+> **Oberstes Gebot: Maximum Truth-Seeking.** Jede Interaktionsmöglichkeit muss entweder dem Gedenken oder der Wahrheitsfindung dienen. Wenn sie keines von beiden tut, gehört sie nicht auf die Seite. Die Seite bleibt clean — kein Social-Media-Rauschen, keine Engagement-Metriken, keine Gamification.
+
+**Gedenken:**
+
+- [ ] **Virtuelle Kerze** — Ein Klick, ein Zähler. "4.328 Menschen gedenken Mahsa Amini." Keine Registrierung nötig. Subtile Kerzenschein-Animation auf der Opfer-Seite. Kein Like-Button, kein Social Feature — ein stiller Akt des Gedenkens.
+
+**Wahrheitsfindung (crowdsourced):**
+
+- [ ] **"Ich kannte diese Person"** — Verifizierte Augenzeugenberichte direkt auf der Opfer-Seite. Nicht Kommentare, sondern strukturierte Testimonies: "Ich war sein Nachbar / ihre Kommilitonin / sein Zellengenosse." Durchläuft Editorial Review. Gleichzeitig Engagement UND Beweissicherung.
+- [ ] **Quellen-Beitrag** — "Sie haben eine Quelle zu dieser Person?" Button auf jeder Opfer-Seite. Strukturiert: URL + Quellentyp + Datum. Direkt ans Verifizierungsteam. Macht User zu Wahrheits-Suchern.
+- [ ] **Korrekturen melden** — "Etwas stimmt nicht?" Diskreter Link. Strukturiertes Formular: Welches Feld? Was ist falsch? Was ist korrekt? Quelle? Crowdsourced Fact-Checking im Dienst der Wahrheit.
+- [ ] **Fehlende Informationen ergänzen** — Opfer-Seiten zeigen transparent, welche Felder noch leer sind. "Geburtsort: unbekannt. Können Sie helfen?" Motiviert zur gezielten Recherche.
+
+**Bewusst NICHT umgesetzt:**
+
+| Ausgeschlossen | Warum |
+|---|---|
+| Kommentare / Gästebuch | Moderations-Alptraum. Kann von Trollen und Regime-Sympathisanten gekapert werden. |
+| Likes / Reactions / Emojis | Trivialisiert Gedenken. "123 Likes auf einem Massaker-Opfer" ist unangemessen. |
+| Share-Zähler | Engagement-Metriken gehören nicht auf eine Gedenkstätte. |
+| User-Profile / Accounts | Kein Social Network. Anonymität schützt Besucher (besonders aus dem Iran). |
+| Gamification / Punkte / Badges | Unvereinbar mit der Würde der Opfer. |
+| Benachrichtigungen / Newsletter | Kein Engagement-Optimierung. Wer wiederkommen will, kommt wieder. |
 
 ### Daten und Forschung
 
@@ -242,21 +267,27 @@ Seit 1979 hat die Islamische Republik Iran Hunderttausende Menschen getötet —
 
 > Leitplanken für alle zukünftigen Entscheidungen.
 
-1. **Würde vor allem.** Jede Designentscheidung muss die Frage beantworten: Würde die Familie des Opfers dies als angemessen empfinden?
+1. **Maximum Truth-Seeking.** Das oberste Gebot. Jede Funktion, jedes Feature, jede Designentscheidung muss der Wahrheitsfindung dienen. Was die Wahrheit nicht voranbringt, hat auf der Seite nichts zu suchen.
 
-2. **Ein Mensch, nicht eine Zahl.** Wo immer möglich, zeigen wir den Menschen — seinen Namen, sein Gesicht, seinen Traum. Statistiken dienen dem Kontext, nie der Kerndarstellung.
+2. **Würde vor allem.** Jede Designentscheidung muss die Frage beantworten: Würde die Familie des Opfers dies als angemessen empfinden?
 
-3. **Daten vor Features.** Ein Opfer mehr in der Datenbank ist immer wichtiger als ein Feature mehr im Interface. Die Datenbank ist das Denkmal. Das Interface ist nur das Fenster.
+3. **Ein Mensch, nicht eine Zahl.** Wo immer möglich, zeigen wir den Menschen — seinen Namen, sein Gesicht, seinen Traum. Statistiken dienen dem Kontext, nie der Kerndarstellung.
 
-4. **Offen und transparent.** Code ist offen. Daten sind offen. Methoden sind dokumentiert. Quellen sind nachprüfbar. Wer etwas verbergen will, hat kein Vertrauen verdient.
+4. **Daten vor Features.** Ein Opfer mehr in der Datenbank ist immer wichtiger als ein Feature mehr im Interface. Die Datenbank ist das Denkmal. Das Interface ist nur das Fenster.
 
-5. **Zugänglich für alle.** Mehrsprachig, barrierefrei, performant auch bei langsamer Verbindung. Keine Paywall, kein Login-Zwang.
+5. **Offen und transparent.** Code ist offen. Daten sind offen. Methoden sind dokumentiert. Quellen sind nachprüfbar. Wer etwas verbergen will, hat kein Vertrauen verdient.
 
-6. **Resilient gegen Zensur.** Das Denkmal muss überleben — auch wenn eine Domain gesperrt wird, ein Server beschlagnahmt wird, oder ein Hosting-Anbieter den Dienst kündigt.
+6. **Clean und fokussiert.** Keine Feature-Überfrachtung. Jedes Element auf der Seite muss seinen Platz verdienen. Weniger ist mehr — Klarheit schlägt Komplexität.
 
-7. **Gemeinschaft als Fundament.** Dieses Projekt kann nur mit der Beteiligung von Familien, Zeitzeugen, Forschern und Freiwilligen wachsen. Einzelkämpfertum skaliert nicht.
+7. **Engagement = Gedenken oder Wahrheitsfindung.** Keine Interaktion um der Interaktion willen. Kein Social-Media-Rauschen. Jede Nutzer-Aktion muss entweder ein Akt des Gedenkens oder ein Beitrag zur Dokumentation sein.
 
-8. **Fakten, nicht Meinungen.** Wir dokumentieren, was geschehen ist. Wir beurteilen nicht, welche Opposition "besser" ist. Wir nehmen keine Seite ein außer die der Opfer.
+8. **Zugänglich für alle.** Mehrsprachig, barrierefrei, performant auch bei langsamer Verbindung. Keine Paywall, kein Login-Zwang.
+
+9. **Resilient gegen Zensur.** Das Denkmal muss überleben — auch wenn eine Domain gesperrt wird, ein Server beschlagnahmt wird, oder ein Hosting-Anbieter den Dienst kündigt.
+
+10. **Gemeinschaft als Fundament.** Dieses Projekt kann nur mit der Beteiligung von Familien, Zeitzeugen, Forschern und Freiwilligen wachsen. Einzelkämpfertum skaliert nicht.
+
+11. **Fakten, nicht Meinungen.** Wir dokumentieren, was geschehen ist. Wir beurteilen nicht, welche Opposition "besser" ist. Wir nehmen keine Seite ein außer die der Opfer.
 
 ---
 
