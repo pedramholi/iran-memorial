@@ -1,0 +1,78 @@
+id: karami-mohammad-mehdi-2001
+name_latin: "Mohammad Mehdi Karami"
+name_farsi: "محمدمهدی کرمی"
+aliases: []
+date_of_birth: 2001-11-01
+place_of_birth: "Bijar, Kurdistan Province"
+gender: male
+ethnicity: Kurdish
+photo: null
+
+# --- LIFE ---
+occupation: "Karate champion (4th ranked on Iran's national team)"
+education: "Vocational diploma in architectural drawing"
+family:
+  marital_status: "Single"
+  children: null
+  notes: >
+    His father was a street vendor selling paper tissues to support his son's
+    athletic career. His father was later sentenced to 6 years in prison.
+dreams: null
+beliefs: null
+personality: null
+
+# --- DEATH ---
+date_of_death: 2023-01-07
+age_at_death: 21
+place_of_death: "Karaj Central Prison (Nedamatgah), Karaj"
+province: "Alborz"
+cause_of_death: "Judicial execution by hanging"
+circumstances: >
+  Karami was arrested on November 3, 2022, following protests on the Karaj-Qazvin
+  Freeway during the 40th-day memorial of protester Hadis Najafi. He was accused
+  of involvement in the killing of a Basij member during a crowd confrontation.
+  His trial lasted three sessions; he was given less than 15 minutes to defend
+  himself. He was denied his chosen lawyer and assigned a court-appointed attorney.
+  His parents reported he was severely tortured in detention. He went on a dry
+  hunger strike three days before his execution. He was executed alongside Seyyed
+  Mohammad Hosseini on January 7, 2023, on the charge of efsad-e fel-arz
+  ("corruption on Earth").
+event_context: "Woman, Life, Freedom movement (2022 Mahsa Amini protests)"
+responsible_forces: "Islamic Republic judiciary, Revolutionary Court"
+witnesses: []
+last_seen: null
+
+# --- AFTERMATH ---
+burial:
+  location: null
+  date: null
+  circumstances: null
+  grave_status: null
+family_persecution: >
+  His father was sentenced to 6 years in prison after speaking out about
+  his son's execution.
+legal_proceedings: >
+  Sentenced to death for efsad-e fel-arz ("corruption on Earth") by Revolutionary
+  Court. Denied his chosen lawyer. Given less than 15 minutes to defend himself.
+  Reported severe torture in detention to extract confessions.
+tributes:
+  - "His execution as a young athlete drew massive international solidarity"
+  - "Condemned by the International Olympic Committee and sports organizations worldwide"
+
+# --- VERIFICATION ---
+status: verified
+sources:
+  - url: "https://en.wikipedia.org/wiki/Execution_of_Mohammad_Mehdi_Karami"
+    name: "Wikipedia — Execution of Mohammad Mehdi Karami"
+    date: null
+    type: encyclopedia
+  - url: "https://www.amnesty.org/en/latest/news/2023/01/iran-young-man-at-grave-risk-of-execution-in-connection-with-protests-amid-killing-spree/"
+    name: "Amnesty International — Young man at grave risk of execution"
+    date: 2023-01-06
+    type: ngo_report
+  - url: "https://iranhr.net/en/articles/5685/"
+    name: "Iran Human Rights — Executions of Karami and Hosseini"
+    date: 2023-01-07
+    type: ngo_report
+last_updated: 2026-02-09
+updated_by: "iran-memorial project"

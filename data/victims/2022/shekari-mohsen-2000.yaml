@@ -1,0 +1,73 @@
+id: shekari-mohsen-2000
+name_latin: "Mohsen Shekari"
+name_farsi: "محسن شکاری"
+aliases: []
+date_of_birth: 2000-02-24
+place_of_birth: "Tehran"
+gender: male
+ethnicity: Persian
+photo: null
+
+# --- LIFE ---
+occupation: "Cafe worker"
+education: null
+family:
+  marital_status: null
+  children: null
+  notes: null
+dreams: null
+beliefs: null
+personality: null
+
+# --- DEATH ---
+date_of_death: 2022-12-08
+age_at_death: 22
+place_of_death: "Rajaee Shahr Prison, Karaj"
+province: "Alborz"
+cause_of_death: "Judicial execution by hanging"
+circumstances: >
+  On September 25, 2022, Shekari attended a protest on Sattar Khan Street in Tehran.
+  He was accused of blocking the road and wounding a Basij militiaman. He was tried
+  before Judge Abolqasem Salavati at Branch 28 of Tehran Revolutionary Court and
+  sentenced to death on the charge of moharebeh ("enmity against God"). The Supreme
+  Court upheld the sentence while his lawyer was absent. He was transferred from
+  Evin Prison to Rajaee Shahr Prison in Karaj and executed by hanging on December 8 —
+  only 74 days after his arrest. He was the first protester executed in connection
+  with the Woman, Life, Freedom movement.
+event_context: "Woman, Life, Freedom movement (2022 Mahsa Amini protests)"
+responsible_forces: "Islamic Republic judiciary, Revolutionary Court (Judge Abolqasem Salavati)"
+witnesses: []
+last_seen: null
+
+# --- AFTERMATH ---
+burial:
+  location: "Section 92, Behesht-e Zahra Cemetery, Tehran"
+  date: 2022-12-09
+  circumstances: >
+    Buried under heavy security presence with limited family attendance.
+  grave_status: null
+family_persecution: null
+legal_proceedings: >
+  Sentenced to death for moharebeh by Tehran Revolutionary Court (Judge Salavati).
+  Supreme Court upheld the sentence while his lawyer was absent from proceedings.
+tributes:
+  - "First protester executed during WLF — his death sparked international outrage"
+  - "His execution was condemned by the UN, EU, and governments worldwide"
+
+# --- VERIFICATION ---
+status: verified
+sources:
+  - url: "https://en.wikipedia.org/wiki/Execution_of_Mohsen_Shekari"
+    name: "Wikipedia — Execution of Mohsen Shekari"
+    date: null
+    type: encyclopedia
+  - url: "https://www.amnesty.org/en/latest/news/2022/12/iran-horrifying-execution-of-young-protester-exposes-authorities-cruelty-and-risk-of-further-bloodshed/"
+    name: "Amnesty International — Horrifying execution of young protester"
+    date: 2022-12-08
+    type: ngo_report
+  - url: "https://iranhr.net/en/articles/5624/"
+    name: "Iran Human Rights — Protester Mohsen Shekari's Execution"
+    date: 2022-12-08
+    type: ngo_report
+last_updated: 2026-02-09
+updated_by: "iran-memorial project"
