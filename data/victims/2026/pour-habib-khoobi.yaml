@@ -9,7 +9,7 @@ photo: null
 
 # --- DEATH ---
 date_of_death: 2026-01-10
-age_at_death: null
+age_at_death: 47
 place_of_death: "Likak, Bahmei County"
 cause_of_death: "Gunshot"
 circumstances: >
@@ -40,6 +40,18 @@ sources:
     date: null
     type: primary
   - url: "https://x.com/hemadnazari/status/2014999801884975539"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/i/status/2017968735642923503"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/irannewsagency0/status/2018612543732809803"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/IranNewsAgency0/status/2018612543732809803"
     name: "Source"
     date: null
     type: primary

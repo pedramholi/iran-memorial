@@ -38,5 +38,17 @@ sources:
     name: "Source"
     date: null
     type: primary
+  - url: "https://x.com/IranNewsAgency0/status/2018673632092770783"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/tavaana/status/2014474638831845616"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/iranwire/status/2014678993283203577"
+    name: "Source"
+    date: null
+    type: primary
 last_updated: 2026-02-09
 updated_by: "iranvictims-csv-import"

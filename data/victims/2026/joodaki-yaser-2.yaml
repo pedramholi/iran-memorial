@@ -8,7 +8,7 @@ ethnicity: null
 photo: null
 
 # --- DEATH ---
-date_of_death: null
+date_of_death: 2026-01-08
 age_at_death: 32
 place_of_death: "Shahr-e Rey"
 province: "Tehran"
@@ -27,6 +27,14 @@ sources:
     type: community_database
   - url: "https://javidnaman.iranintl.com/memorial/e3ffac77-a59c-4fcf-aada-9fa061d93ccf"
     name: "Iran International"
+    date: null
+    type: primary
+  - url: "https://x.com/HeKasrehCrisis/status/2017821406214410388"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/208"
+    name: "Source"
     date: null
     type: primary
 last_updated: 2026-02-09

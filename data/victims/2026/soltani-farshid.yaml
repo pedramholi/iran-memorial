@@ -8,7 +8,7 @@ ethnicity: null
 photo: null
 
 # --- DEATH ---
-date_of_death: null
+date_of_death: 2026-01-08
 age_at_death: 29
 place_of_death: "Shahrghods (Ghaleh Hassan Khan)"
 cause_of_death: "Gunshot"
@@ -30,6 +30,18 @@ sources:
     date: null
     type: primary
   - url: "https://x.com/letmechangee/status/2015839638917648425"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://javidnaman.iranintl.com/memorial/vN7MNz32cVvzOpuuClVRXK"
+    name: "Iran International"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/1123"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/pouyajegarvnd/status/2014789636959150348"
     name: "Source"
     date: null
     type: primary

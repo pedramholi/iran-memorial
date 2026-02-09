@@ -29,5 +29,9 @@ sources:
     name: "Source"
     date: null
     type: primary
+  - url: "https://x.com/ashkvuo7000/status/2016542352450502879"
+    name: "Source"
+    date: null
+    type: primary
 last_updated: 2026-02-09
 updated_by: "iranvictims-csv-import"

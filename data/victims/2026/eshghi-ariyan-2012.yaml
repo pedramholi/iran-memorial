@@ -38,5 +38,13 @@ sources:
     name: "Source"
     date: null
     type: primary
+  - url: "https://x.com/abelbalb/status/2015609855709413790"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/iranwire/status/2019726517698285569"
+    name: "Source"
+    date: null
+    type: primary
 last_updated: 2026-02-09
 updated_by: "iranvictims-csv-import"

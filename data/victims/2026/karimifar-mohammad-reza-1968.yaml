@@ -41,5 +41,17 @@ sources:
     name: "Source"
     date: null
     type: primary
+  - url: "https://x.com/hengawo/status/2014761950320713730"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+  - url: "https://x.com/HengawO/status/2015022203226513772"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+  - url: "https://t.me/persian_picture/4126"
+    name: "Source"
+    date: null
+    type: primary
 last_updated: 2026-02-09
 updated_by: "iranvictims-csv-import"

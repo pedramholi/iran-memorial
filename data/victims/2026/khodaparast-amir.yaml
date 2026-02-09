@@ -9,7 +9,7 @@ photo: null
 
 # --- DEATH ---
 date_of_death: 2026-01-08
-age_at_death: null
+age_at_death: 18
 place_of_death: "Koochsefehan, Gilan"
 province: "Gilan"
 cause_of_death: "Gunshot"
@@ -28,6 +28,10 @@ sources:
     type: community_database
   - url: "https://x.com/hyrcanihrm/status/2014967769557536968"
     name: "Source"
+    date: null
+    type: primary
+  - url: "https://javidnaman.iranintl.com/memorial/faVC3p6tCxw9DOdQYFvos8"
+    name: "Iran International"
     date: null
     type: primary
 last_updated: 2026-02-09

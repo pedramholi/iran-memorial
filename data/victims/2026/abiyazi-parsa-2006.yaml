@@ -40,5 +40,13 @@ sources:
     name: "Hengaw Organization"
     date: null
     type: primary
+  - url: "https://x.com/hengawo/status/2013224113272135817"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+  - url: "https://x.com/outofken/status/2013212013271691343"
+    name: "Source"
+    date: null
+    type: primary
 last_updated: 2026-02-09
 updated_by: "iranvictims-csv-import"

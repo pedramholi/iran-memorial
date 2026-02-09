@@ -39,5 +39,9 @@ sources:
     name: "Source"
     date: null
     type: primary
+  - url: "https://x.com/ebrahim_mote/status/2017566133738516882"
+    name: "Source"
+    date: null
+    type: primary
 last_updated: 2026-02-09
 updated_by: "iranvictims-csv-import"

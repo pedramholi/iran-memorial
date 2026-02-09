@@ -31,5 +31,17 @@ sources:
     name: "Source"
     date: null
     type: primary
+  - url: "https://x.com/HengawO/status/2012521048164434197"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+  - url: "https://x.com/autnews_org/status/2014766638151717098"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/javad_behravesh/status/2015694418985251001"
+    name: "Source"
+    date: null
+    type: primary
 last_updated: 2026-02-09
 updated_by: "iranvictims-csv-import"

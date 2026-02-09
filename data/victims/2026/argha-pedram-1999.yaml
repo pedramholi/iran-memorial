@@ -43,5 +43,13 @@ sources:
     name: "Source"
     date: null
     type: primary
+  - url: "https://x.com/kurdpa_farsi/status/2014649171093901402"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/815"
+    name: "Source"
+    date: null
+    type: primary
 last_updated: 2026-02-09
 updated_by: "iranvictims-csv-import"

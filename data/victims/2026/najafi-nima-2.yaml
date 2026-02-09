@@ -8,7 +8,7 @@ ethnicity: null
 photo: null
 
 # --- DEATH ---
-date_of_death: null
+date_of_death: 2026-01-08
 age_at_death: 26
 place_of_death: "Qods - Tehran"
 province: "Tehran"
@@ -32,6 +32,10 @@ sources:
     date: null
     type: primary
   - url: "https://t.me/javidnamhamedan/99"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/1240"
     name: "Source"
     date: null
     type: primary

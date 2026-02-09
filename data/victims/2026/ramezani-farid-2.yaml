@@ -8,7 +8,7 @@ ethnicity: null
 photo: null
 
 # --- DEATH ---
-date_of_death: null
+date_of_death: 2026-01-08
 age_at_death: 29
 place_of_death: "Ariashahr, Tehran"
 province: "Tehran"
@@ -31,6 +31,18 @@ sources:
     date: null
     type: primary
   - url: "https://x.com/ghazal_bateh/status/2016306275450073189"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/gh0lch0magh/status/2013532933512937929"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/NickSotoudeh/status/2014085293377515972"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/nicksotoudeh/status/2014085293377515972"
     name: "Source"
     date: null
     type: primary

@@ -35,5 +35,21 @@ sources:
     name: "Iran International"
     date: null
     type: primary
+  - url: "https://x.com/florashere/status/2017699678523941118"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/hengawo/status/2013015289240125666"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+  - url: "https://x.com/HengawO/status/2013015289240125666"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+  - url: "https://x.com/free_no2ir/status/2017088262842831182"
+    name: "Source"
+    date: null
+    type: primary
 last_updated: 2026-02-09
 updated_by: "iranvictims-csv-import"

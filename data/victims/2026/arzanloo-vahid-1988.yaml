@@ -43,5 +43,13 @@ sources:
     name: "Source"
     date: null
     type: primary
+  - url: "https://x.com/noamagid/status/2012637561257160767"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/Hamidrezavessa1/status/2012583492685574628"
+    name: "Source"
+    date: null
+    type: primary
 last_updated: 2026-02-09
 updated_by: "iranvictims-csv-import"

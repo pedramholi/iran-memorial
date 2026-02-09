@@ -8,7 +8,7 @@ ethnicity: null
 photo: null
 
 # --- DEATH ---
-date_of_death: null
+date_of_death: 2026-01-08
 age_at_death: 22
 place_of_death: "Tehran"
 province: "Tehran"
@@ -36,6 +36,14 @@ sources:
     date: null
     type: primary
   - url: "https://x.com/foxyparfox/status/2015744442469072955"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/HeKasrehCrisis/status/2018937560509055087"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/1077"
     name: "Source"
     date: null
     type: primary

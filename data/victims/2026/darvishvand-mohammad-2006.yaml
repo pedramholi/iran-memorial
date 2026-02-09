@@ -32,5 +32,17 @@ sources:
     name: "Source"
     date: null
     type: primary
+  - url: "https://t.me/RememberTheirNames/1628"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://www.instagram.com/p/DTvP2CtEgsr"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/indypersian/status/2013641179762504085"
+    name: "Source"
+    date: null
+    type: primary
 last_updated: 2026-02-09
 updated_by: "iranvictims-csv-import"

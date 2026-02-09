@@ -38,5 +38,21 @@ sources:
     name: "Amnesty International — Execution of Protester with Mental Disability"
     date: 2024-01-23
     type: ngo_report
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #4094"
+    date: null
+    type: community_database
+  - url: "https://t.me/iliaen/203"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/iliaen/204"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/iliaen/206"
+    name: "Source"
+    date: null
+    type: primary
 last_updated: 2026-02-09
 updated_by: "iran-memorial project"

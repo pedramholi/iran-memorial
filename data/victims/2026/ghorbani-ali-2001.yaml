@@ -46,5 +46,13 @@ sources:
     name: "Source"
     date: null
     type: primary
+  - url: "https://x.com/historyinpik/status/2018065177816506579"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/1782"
+    name: "Source"
+    date: null
+    type: primary
 last_updated: 2026-02-09
 updated_by: "iranvictims-csv-import"

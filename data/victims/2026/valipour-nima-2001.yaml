@@ -32,5 +32,17 @@ sources:
     name: "Source"
     date: null
     type: primary
+  - url: "https://x.com/persephone7597/status/2016941788079022381"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/i/status/2016941788079022381"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/HeKasrehCrisis/status/2018036085410951581"
+    name: "Source"
+    date: null
+    type: primary
 last_updated: 2026-02-09
 updated_by: "iranvictims-csv-import"

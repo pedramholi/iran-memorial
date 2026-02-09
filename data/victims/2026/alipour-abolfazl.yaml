@@ -40,5 +40,13 @@ sources:
     name: "Source"
     date: null
     type: primary
+  - url: "https://x.com/FSeifikaran/status/2013395127335588112"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/inthemaz/status/2014708202068201743"
+    name: "Source"
+    date: null
+    type: primary
 last_updated: 2026-02-09
 updated_by: "iranvictims-csv-import"

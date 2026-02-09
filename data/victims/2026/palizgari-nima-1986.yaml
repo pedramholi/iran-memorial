@@ -38,5 +38,9 @@ sources:
     name: "Source"
     date: null
     type: primary
+  - url: "https://x.com/soranmansournia/status/2012249572823720305"
+    name: "Source"
+    date: null
+    type: primary
 last_updated: 2026-02-09
 updated_by: "iranvictims-csv-import"

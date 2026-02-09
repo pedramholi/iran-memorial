@@ -9,7 +9,7 @@ photo: null
 
 # --- DEATH ---
 date_of_death: 2026-01-01
-age_at_death: null
+age_at_death: 33
 place_of_death: "Marvdasht"
 province: "Fars"
 cause_of_death: null
@@ -27,6 +27,10 @@ sources:
     type: community_database
   - url: "https://t.me/RememberTheirNames/11"
     name: "Source"
+    date: null
+    type: primary
+  - url: "https://javidnaman.iranintl.com/memorial/vN7MNz32cVvzOpuuClUQIv"
+    name: "Iran International"
     date: null
     type: primary
 last_updated: 2026-02-09

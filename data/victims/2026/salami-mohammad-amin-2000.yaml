@@ -39,5 +39,17 @@ sources:
     name: "Source"
     date: null
     type: primary
+  - url: "https://x.com/kavehkermashani/status/2014001479133049164"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/banafshehviola/status/2014021339124998188"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://www.instagram.com/p/DTyXm8zCPjs"
+    name: "Source"
+    date: null
+    type: primary
 last_updated: 2026-02-09
 updated_by: "iranvictims-csv-import"

@@ -12,7 +12,7 @@ date_of_death: 2026-01-08
 age_at_death: 33
 place_of_death: "Andisheh, Phase 3"
 province: "Tehran"
-cause_of_death: null
+cause_of_death: "Gunshot (headshot)"
 circumstances: >
     Commemorated as a victim, context suggests death during protests
 event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
@@ -30,6 +30,10 @@ sources:
     date: null
     type: primary
   - url: "https://x.com/fmmajd/status/2016634206177087647"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/javidnamhamedan/39"
     name: "Source"
     date: null
     type: primary

@@ -9,7 +9,7 @@ photo: null
 
 # --- DEATH ---
 date_of_death: 2026-01-19
-age_at_death: null
+age_at_death: 27
 place_of_death: "Shahrak Andisheh"
 province: "Tehran"
 cause_of_death: null
@@ -31,6 +31,14 @@ sources:
     type: primary
   - url: "https://t.me/RememberTheirNames/1687"
     name: "Source"
+    date: null
+    type: primary
+  - url: "https://javidnaman.iranintl.com/memorial/6fdnU2KKCNcBWVCaTDB17R"
+    name: "Iran International"
+    date: null
+    type: primary
+  - url: "https://javidnaman.iranintl.com/memorial/7G0E78pdgELSDZc0D1ST2s"
+    name: "Iran International"
     date: null
     type: primary
 last_updated: 2026-02-09

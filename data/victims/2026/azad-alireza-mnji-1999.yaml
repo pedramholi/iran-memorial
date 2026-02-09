@@ -32,5 +32,13 @@ sources:
     name: "Source"
     date: null
     type: primary
+  - url: "https://t.me/RememberTheirNames/568"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/hekasrehcrisis/status/2019630319326953902"
+    name: "Source"
+    date: null
+    type: primary
 last_updated: 2026-02-09
 updated_by: "iranvictims-csv-import"

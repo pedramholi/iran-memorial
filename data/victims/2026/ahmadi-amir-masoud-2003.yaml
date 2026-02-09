@@ -38,5 +38,9 @@ sources:
     name: "Source"
     date: null
     type: primary
+  - url: "https://x.com/ManotoNews/status/2018382873728778734"
+    name: "Source"
+    date: null
+    type: primary
 last_updated: 2026-02-09
 updated_by: "iranvictims-csv-import"

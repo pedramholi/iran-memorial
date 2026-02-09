@@ -8,7 +8,7 @@ ethnicity: null
 photo: null
 
 # --- DEATH ---
-date_of_death: null
+date_of_death: 2026-01-09
 age_at_death: 36
 place_of_death: "Hassan-Abad, Rask"
 province: "Sistan-Baluchestan"
@@ -28,6 +28,18 @@ sources:
     date: null
     type: community_database
   - url: "https://x.com/shiraninaroui/status/2014391779601035670"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/kalbalouchi/status/2014605814716301494"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/TheBalochWorld/status/2014464360333402434"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/hamalilalin/status/2015846726897176972"
     name: "Source"
     date: null
     type: primary

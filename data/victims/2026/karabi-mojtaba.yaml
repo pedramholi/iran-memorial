@@ -9,7 +9,7 @@ photo: null
 
 # --- DEATH ---
 date_of_death: 2026-01-10
-age_at_death: null
+age_at_death: 30
 place_of_death: "Nazi-Abad, Tehran"
 province: "Tehran"
 cause_of_death: null
@@ -27,6 +27,10 @@ sources:
     type: community_database
   - url: "https://t.me/RememberTheirNames/722"
     name: "Source"
+    date: null
+    type: primary
+  - url: "https://javidnaman.iranintl.com/memorial/6fdnU2KKCNcBWVCaTH1IkF"
+    name: "Iran International"
     date: null
     type: primary
 last_updated: 2026-02-09
