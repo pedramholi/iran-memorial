@@ -236,9 +236,9 @@ Die bestehenden YAML-Dateien verwenden ein flaches Format mit verschachtelten Ob
 
 ### Fehlende WLF-Opfer: Lückenanalyse und Strategie (2026-02-09)
 
-**Aktueller Stand (nach Multi-Source-Import):** 4.577 Opfer total
-- 786 WLF 2022 (Wikipedia 422 + HRANA 352 + Manuell 12)
-- 23 WLF 2023 (Hinrichtungen + Hafttode)
+**Aktueller Stand (nach Multi-Source-Import):** 4.581 Opfer total
+- 787 WLF 2022 (Wikipedia 422 + HRANA 352 + Manuell 12 + IHR 1)
+- 26 WLF 2023 (Hinrichtungen + Hafttode + IHR Suspicious Deaths 3)
 - 2 WLF 2024 (Hinrichtungen)
 - 20 in 2025 (3 WLF-Hinrichtungen + 17 aus iranvictims.com)
 - 3.744 in 2026 (iranvictims.com CSV-Import)

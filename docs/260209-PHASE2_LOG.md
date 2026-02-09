@@ -516,6 +516,53 @@ Status: NICHT MÖGLICH — aber auch NICHT MEHR NÖTIG
 
 ---
 
+#### LOG-P2-021 | 2026-02-09 | IHR VERDÄCHTIGE TODE: 4 NEUE OPFER
+
+**Was:** 4 fehlende Opfer aus IHRs "22 Suspicious Deaths" Kategorie ergänzt
+**Warum:** IHR Background-Agent konnte via Wayback Machine auf den One-Year Report zugreifen
+
+```
+Quelle: IHR — One Year Protest Report (via archive.org Wayback Machine)
+  - 22 verdächtige Tode gelistet, 18 bereits in DB
+  - 4 fehlende identifiziert und als YAML erstellt
+
+Neue Dateien (4):
+  - 2022/terval-amirhossein.yaml — verdächtiger Tod
+  - 2023/nikpour-farham-2004.yaml — 19, Amol, verdächtiger Tod nach Freilassung
+  - 2023/forouzandeh-arash-1991.yaml — 32, Tehran, verdächtiger Tod nach Haft
+  - 2023/sogvand-mansoureh-2004.yaml — 19, Abdanan/Ilam, verdächtiger Tod
+
+Ergebnis:
+  - 2022-Verzeichnis: 786 → 787 Dateien
+  - 2023-Verzeichnis: 23 → 26 Dateien
+  - Gesamtzahl: 4.577 → 4.581
+
+Commit: d7678c6
+```
+
+---
+
+#### LOG-P2-022 | 2026-02-09 | HRANA 20-TAGE-REPORT CROSS-VALIDATION
+
+**Was:** HRANA 20-Day Report (19 Opfer + Mahsa Amini) gegen bestehende DB abgeglichen
+**Warum:** Sicherstellen dass keine Opfer aus dem kürzeren Report fehlen
+
+```
+Ergebnis: KEINE NEUEN OPFER
+  - Alle 15 "fehlenden" Namen waren Transliterations-Varianten existierender Einträge
+  - Beispiele: "Shirouzi" vs "Shirouzehi", "Mohammadpour" vs "Mahmoudpour"
+  - Verifiziert via Fuzzy-Matching auf Familienname-Teile
+  - Mahsa Amini: Bereits seit Phase 2A in DB
+
+Referenz-Dateien committed:
+  - data/victims/ihr_extracted_victims.txt (444 IHR-Opfer, Commit: d7678c6)
+  - data/victims/hrana_extracted_victims.txt (501 HRANA-Opfer, Commit: 927b4e8)
+```
+
+**Lesson Learned:** Transliterations-Varianten machen einfaches Name-Matching unzuverlässig. Fuzzy-Matching auf Familienname-Teile fängt die meisten Duplikate.
+
+---
+
 ### Phase 2B — Zusammenfassung
 
 | Metrik | Ziel | Ergebnis |
@@ -526,9 +573,11 @@ Status: NICHT MÖGLICH — aber auch NICHT MEHR NÖTIG
 | Gender-Inferenz | >80% | ✅ **99.8%** |
 | Hinrichtungen komplett | Alle 12 | ✅ **12/12** |
 | Opfer-Kategorien komplett | Alle 5 Kategorien | ✅ 5/5 abgedeckt |
-| WLF-Opfer in DB (2022) | >551 (IHR) | ✅ **786** |
+| WLF-Opfer in DB (2022) | >551 (IHR) | ✅ **787** |
+| WLF-Opfer 2023 (Hinricht./Haft/Susp.) | Alle Kategorien | ✅ **26** |
 | 2025-2026-Proteste | Neue Quelle | ✅ **3.752 aus iranvictims.com** |
-| Gesamtzahl Opfer in DB | >422 | ✅ **4.577** |
+| IHR Suspicious Deaths | 22 gelistet | ✅ **22/22 abgeglichen** |
+| Gesamtzahl Opfer in DB | >422 | ✅ **4.581** |
 | Knowledge Base | Chronologische Fakten | ✅ IRAN_KNOWLEDGE.md |
 
 ### Schlüsselerkenntnisse Phase 2B
@@ -541,7 +590,9 @@ Status: NICHT MÖGLICH — aber auch NICHT MEHR NÖTIG
 6. **iranvictims.com:** Einzige maschinenlesbare CSV-Quelle, 3.752 Opfer der 2025-2026 Proteste
 7. **IHR Cloudflare-Blockade:** Website nicht zugänglich, aber Coverage bereits über IHR-Minimum
 8. **Nika Shakarami:** BBC-Leak 2024 enthüllte sexuellen Übergriff — aktualisiert
-9. **Datenbank-Explosion:** Von 473 → 4.577 Opfer in einer Session durch Multi-Source-Import
+9. **Datenbank-Explosion:** Von 473 → 4.581 Opfer in einer Session durch Multi-Source-Import
+10. **IHR Suspicious Deaths komplett:** Alle 22 verdächtigen Tode aus dem IHR One-Year Report abgeglichen — 4 fehlten, jetzt erfasst
+11. **HRANA 20-Day Cross-Validation:** Alle 15 "fehlenden" Namen waren Transliterations-Varianten — 0 echte Lücken
 
 ---
 
@@ -560,7 +611,7 @@ Status: NICHT MÖGLICH — aber auch NICHT MEHR NÖTIG
 - [ ] Docker-Netzwerk `memorial-net` auf VPS erstellen
 - [ ] PostgreSQL-Container starten (Port 5433)
 - [ ] Prisma-Migrationen ausführen
-- [ ] Seed-Script mit 4.577 YAML-Dateien laufen lassen
+- [ ] Seed-Script mit 4.581 YAML-Dateien laufen lassen
 - [ ] Next.js App deployen
 - [ ] Nginx + SSL konfigurieren
 - [ ] Domain + DNS einrichten
