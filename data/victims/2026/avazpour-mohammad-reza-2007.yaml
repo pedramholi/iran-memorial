@@ -40,5 +40,9 @@ sources:
     name: "Hengaw Organization"
     date: null
     type: primary
+  - url: "https://x.com/pouyajegarvnd/status/2016594810254008479"
+    name: "Source"
+    date: null
+    type: primary
 last_updated: 2026-02-09
 updated_by: "iranvictims-csv-import"

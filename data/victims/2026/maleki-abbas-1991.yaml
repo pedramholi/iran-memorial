@@ -35,5 +35,17 @@ sources:
     name: "Source"
     date: null
     type: primary
+  - url: "https://x.com/monfaredashkan/status/2014803155507413100"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/MonfaredAshkan/status/2014803155507413100"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/javidnamhamedan/197"
+    name: "Source"
+    date: null
+    type: primary
 last_updated: 2026-02-09
 updated_by: "iranvictims-csv-import"

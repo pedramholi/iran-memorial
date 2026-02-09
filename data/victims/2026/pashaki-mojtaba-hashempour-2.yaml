@@ -8,7 +8,7 @@ ethnicity: null
 photo: null
 
 # --- DEATH ---
-date_of_death: null
+date_of_death: 2026-01-10
 age_at_death: 39
 place_of_death: "Siahkal"
 province: "Gilan"
@@ -25,6 +25,10 @@ sources:
     date: null
     type: community_database
   - url: "https://x.com/kyokushinsoofi/status/2018690648530993520"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/1748"
     name: "Source"
     date: null
     type: primary

@@ -41,5 +41,9 @@ sources:
     name: "Iran International"
     date: null
     type: primary
+  - url: "https://x.com/kyokushinsoofi/status/2019815918566523005"
+    name: "Source"
+    date: null
+    type: primary
 last_updated: 2026-02-09
 updated_by: "iranvictims-csv-import"
