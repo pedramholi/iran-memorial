@@ -625,6 +625,82 @@ Commit: bbb8179
 
 ---
 
+#### LOG-P2-024 | 2026-02-09 | DEDUPLIZIERUNG: 4.581 → 4.375
+
+**Was:** Vollständige Deduplizierung aller YAML-Dateien in 3 Runden
+**Warum:** Multi-Source-Import erzeugt Transliterations-Duplikate und Cross-Source-Überlappungen
+
+```
+Script: scripts/dedup_victims.py
+  Strategien:
+  A. Gleicher Familienname + ähnliche Vornamen (Levenshtein ≤ 1, gleicher Anfangsbuchstabe)
+  B. Normalisierter Vollname-Match (Transliterations-Mapping)
+  C. Cross-Year Slug-Match
+
+  Scoring: Todesdatum (+50), Farsi-Name (+50), Provinz (+20), Alter (+15),
+           verschiedene Todesdaten (-100), verschiedenes Alter (-30)
+
+Runde 1: 172 HIGH-confidence Merges (score ≥ 50, automatisch)
+  - Union-Find Clustering: 178 Paare → 158 Cluster (14 mit 3+ Dateien)
+  - 4.581 → 4.409
+  - Commit: 199a737
+
+Runde 2: 6 manuelle Transliterations-Merges (MEDIUM, Cat 1)
+  - z.B. "Shirouzi" vs "Shirouzehi", "Pouriya" vs "Pouria"
+  - 4.409 → 4.403
+  - Commit: e1d0275
+
+Runde 3: 27 manuelle MEDIUM-Merges nach Datei-Review
+  - 55 MEDIUM-Paare geprüft: 27 gemergt, 28 als verschiedene Personen bestätigt
+  - Key Pattern: "getötet in Stadt A, beerdigt/gedenkt in Stadt B" (iranvictims.com listet Begräbnisort)
+  - 49% false positive rate bei Score 30-49
+  - 4.403 → 4.375
+  - Commit: 24ac955
+
+Ergebnis: 206 Duplikate entfernt, 0 Fehler, 0 Datenverlust
+Docs: 50315ca (LEARNINGS.md + CLAUDE.md aktualisiert)
+```
+
+**Hauptursachen:** iranvictims.com Doppellistungen (~120), Cross-Source WLF-Überlappung (~35), Cross-Year Slugs korrekt NICHT gemergt (~15)
+
+---
+
+#### LOG-P2-025 | 2026-02-09 | AMNESTY CHILDREN REPORT ENRICHMENT
+
+**Was:** 44 Kinder-Opfer aus Amnesty Report MDE 13/6104/2022 geparst und angereichert
+**Warum:** Detaillierte Umstände, Ethnie und verifizierte Todesursachen ergänzen
+
+```
+Quelle: "Iran: Killings of children during youthful anti-establishment protests"
+  - 49-seitiges PDF, heruntergeladen und mit pdftotext extrahiert
+  - 44 Kinder mit individuellen Profilen (Name, Alter, Ethnie, Stadt, Todesursache, Umstände)
+
+Script: scripts/parse_amnesty_children.py
+  - Manuelle Mapping-Tabelle (Amnesty-Nummer → YAML-Dateiname)
+  - 41/44 zu existierenden Dateien gemappt (viele hatten andere Slug-Varianten)
+  - 3 neue YAML-Dateien erstellt
+
+Enrichment (41 bestehende Dateien):
+  - Umstände: 41x durch Amnesty-Detail ersetzt/erweitert
+  - Todesursache: 39x präzisiert (z.B. "Gunshot" → "Gunshot (headshot, live ammunition)")
+  - Ethnie: 23x ergänzt (Baluchi, Kurdish, Afghan, Persian)
+  - Alter: 6x ergänzt
+  - Quelle: 44x Amnesty MDE 13/6104/2022 als Source hinzugefügt
+
+Neue Dateien (3):
+  - shahbakhsh-danial-2011.yaml (Baluchi, 11, Zahedan, Bloody Friday)
+  - qeleji-ahmadreza-2005.yaml (17, Tehran)
+  - marefat-amin-2006.yaml (Kurdish, 16, Oshnavieh)
+
+Ergebnis: 4.375 → 4.378 Opfer, 155 Feld-Änderungen
+Commit: 7b7f2d0
+Docs: 3a402e7 (LEARNINGS.md + CLAUDE.md aktualisiert)
+```
+
+**Lesson Learned:** NGO-PDF-Reports lohnen sich vor allem für Enrichment, nicht für neue Opfer — 41 von 44 waren bereits in der DB, aber mit dünneren Daten.
+
+---
+
 ## Phase 2C: Deployment
 
 ### Infrastruktur-Entscheidungen (bereits getroffen)
