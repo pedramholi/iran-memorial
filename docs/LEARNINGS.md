@@ -235,7 +235,17 @@ Die bestehenden YAML-Dateien verwenden ein flaches Format mit verschachtelten Ob
 ### Fehlende WLF-Opfer: Lückenanalyse und Strategie (2026-02-09)
 
 **Aktueller Stand:** 466 Opfer (422 Wikipedia-Parser + 35 manuell recherchiert + 9 2025/2026-Proteste)
-**Geschätzte Gesamtzahl WLF-Tote:** mindestens 551 (IHR-Zählung) + 12 Hingerichtete + 22 verdächtige Todesfälle = ~585
+
+**Zur Einordnung der Zahlen:**
+Die 551 Toten (IHR, Stand Sept. 2023) sind das **verifizierte Minimum**, nicht die Realität. IHR zählt nur Fälle die durch zwei unabhängige Quellen, Sterbeurkunden oder Bildmaterial belegbar sind. HRANA meldete bereits Jan. 2023 über 512 Tote. Interne Quellen (Gesundheitsministerium, Gerichtsmedizin) sprechen von 1.500-3.000 Toten. Die wahre Zahl liegt mit hoher Wahrscheinlichkeit im vierstelligen Bereich.
+
+**Warum die Dunkelziffer so hoch ist:**
+- Sicherheitskräfte erzwingen Schweigen der Familien im Austausch für Herausgabe der Leichen
+- Krankenhäuser waren Gefahrenzonen (Verhaftung drohte) — viele Verletzte starben zu Hause und tauchen in keiner Statistik auf
+- Internet-Blackouts während der heftigsten Protestwellen verhinderten Echtzeit-Dokumentation
+- Familien wurden gezwungen, Todesursache als "Unfall" oder "natürlich" anzugeben
+
+**Konsequenz für das Projekt:** Unser Ziel kann nicht "alle Opfer erfassen" sein — das ist unter diesen Umständen unmöglich. Stattdessen: so viele namentlich Identifizierte wie möglich dokumentieren, und die Dunkelziffer als Teil der Erzählung sichtbar machen ("Mindestens 551 verifiziert — die wahre Zahl liegt im vierstelligen Bereich").
 
 **Bereits erfasste Kategorien (nach manueller Recherche 2026-02-09):**
 1. **Hingerichtete Protestler:** Alle 12 bestätigten erfasst (Shekari, Rahnavard, Karami, Hosseini, Mirhashemi, Kazemi, Yaghoubi, Zohrevand, Ghobadlou, Rasaei, Kourkour, Bahramian)
