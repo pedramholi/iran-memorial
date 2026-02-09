@@ -1,0 +1,55 @@
+{
+  "name": "iran-memorial",
+  "version": "1.0.0",
+  "description": "**A living memorial for the victims of the Islamic Republic of Iran (1979–present)**",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "db:migrate": "npx prisma migrate dev",
+    "db:seed": "npx prisma db seed",
+    "db:studio": "npx prisma studio",
+    "postinstall": "npx prisma generate"
+  },
+  "prisma": {
+    "seed": "npx tsx prisma/seed.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedramholi/iran-memorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/pedramholi/iran-memorial/issues"
+  },
+  "homepage": "https://github.com/pedramholi/iran-memorial#readme",
+  "dependencies": {
+    "@prisma/client": "^6.19.2",
+    "next": "^16.1.6",
+    "next-intl": "^4.8.2",
+    "prisma": "^6.19.2",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "yaml": "^2.8.2"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.18",
+    "@types/node": "^25.2.2",
+    "@types/react": "^19.2.13",
+    "@types/react-dom": "^19.2.3",
+    "eslint": "^9.39.2",
+    "eslint-config-next": "^16.1.6",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.18",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}

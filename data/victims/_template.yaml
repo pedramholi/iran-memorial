@@ -1,0 +1,62 @@
+# =============================================================================
+# VICTIM RECORD TEMPLATE
+# =============================================================================
+# Copy this file and fill in all known fields.
+# Leave unknown fields as null or remove them.
+# All dates in ISO format: YYYY-MM-DD
+# =============================================================================
+
+# --- IDENTITY ---
+id: ""                          # Unique ID: lastname-firstname-birthyear (e.g., amini-mahsa-2000)
+name_latin: ""                  # Full name in Latin script
+name_farsi: ""                  # Full name in Farsi script نام فارسی
+aliases: []                     # Other known names (e.g., Zhina for Mahsa Amini)
+date_of_birth: null             # YYYY-MM-DD
+place_of_birth: ""              # City, Province
+gender: ""                      # male / female / other
+ethnicity: ""                   # Kurdish, Azerbaijani, Baluch, Persian, Arab, etc.
+religion: ""                    # If relevant and known
+photo: null                     # Path to photo file or URL
+
+# --- LIFE ---
+occupation: ""                  # Student, worker, teacher, etc.
+education: ""                   # School, university, field of study
+family:                         # Family context
+  marital_status: ""
+  children: null                # Number of children
+  notes: ""                     # e.g., "Mother of three"
+dreams: ""                      # What they aspired to, wanted to become
+beliefs: ""                     # Political views, activism, what they stood for
+personality: ""                 # How friends and family described them
+quotes: []                      # Their own words, if known
+
+# --- DEATH ---
+date_of_death: null             # YYYY-MM-DD
+age_at_death: null              # Integer
+place_of_death: ""              # City, Province, specific location
+cause_of_death: ""              # Gunshot, beating, execution, torture, etc.
+circumstances: ""               # Detailed description of what happened
+event_context: ""               # Which protest/event/crackdown (e.g., "2022 Mahsa Amini protests")
+responsible_forces: ""          # IRGC, Basij, police, intelligence ministry, etc.
+witnesses: []                   # Names or descriptions of witnesses
+last_seen: ""                   # Where/when last seen alive
+
+# --- AFTERMATH ---
+burial:
+  location: ""                  # Cemetery, city
+  date: null                    # YYYY-MM-DD
+  circumstances: ""             # e.g., "Buried secretly at night under security forces watch"
+  grave_status: ""              # Intact, destroyed, unknown
+family_persecution: ""          # What happened to the family after the death
+legal_proceedings: ""           # Any trials, investigations, verdicts
+tributes: []                    # Memorials, artworks, songs, naming of streets, etc.
+
+# --- VERIFICATION ---
+status: "unverified"            # unverified / verified / disputed
+sources:
+  - url: ""
+    name: ""                    # e.g., "Amnesty International Report 2022"
+    date: null
+    type: ""                    # news / ngo_report / witness_testimony / court_document / social_media
+last_updated: null              # YYYY-MM-DD
+updated_by: ""                  # Contributor name or handle

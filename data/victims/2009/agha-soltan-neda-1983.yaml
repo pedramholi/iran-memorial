@@ -1,0 +1,95 @@
+id: agha-soltan-neda-1983
+name_latin: "Neda Agha-Soltan"
+name_farsi: "ندا آقاسلطان"
+aliases: []
+date_of_birth: 1983-01-23
+place_of_birth: "Tehran"
+gender: female
+ethnicity: Persian
+photo: null
+
+# --- LIFE ---
+occupation: "Student of philosophy, aspiring travel agent"
+education: "Studied philosophy at Azad University, took Turkish language classes"
+family:
+  marital_status: "Single (engaged at time of death)"
+  children: null
+  notes: "Daughter of Ali and Hajar Agha-Soltan. Had one sister and one brother."
+dreams: >
+  Neda dreamed of traveling the world. She was studying Turkish to become
+  a travel agent. She loved music, particularly singing and playing the
+  piano. She wanted a free Iran where young people could live without fear.
+beliefs: >
+  Neda was not a political activist, but she believed in freedom and
+  justice. She joined the protests because, like millions of Iranians,
+  she could not stay silent in the face of a stolen election.
+personality: >
+  Described as vibrant, curious, and full of energy. She loved learning
+  new things — from languages to music. Friends called her brave and
+  warm-hearted.
+quotes:
+  - "I don't want to live like this anymore."
+
+# --- DEATH ---
+date_of_death: 2009-06-20
+age_at_death: 26
+place_of_death: "Kargar Avenue, near Amir Abad, Tehran"
+cause_of_death: "Gunshot wound to the chest"
+circumstances: >
+  During the Green Movement protests on June 20, 2009, Neda was standing
+  near the sidelines of a demonstration with her music teacher, Hamid
+  Panahi, when she was shot in the chest by a Basij militiaman. The bullet
+  pierced her heart. She collapsed and died within minutes. Her death was
+  filmed on a mobile phone by a bystander, Dr. Arash Hejazi, and the
+  video was uploaded to the internet, becoming one of the most-watched
+  videos in history. Her dying eyes, staring into the camera, became the
+  defining image of the Green Movement.
+event_context: "2009 Green Movement / Post-election protests"
+responsible_forces: "Basij militia"
+witnesses:
+  - "Dr. Arash Hejazi (attempted to save her, later fled Iran)"
+  - "Hamid Panahi (her music teacher, present at the scene)"
+  - "Multiple bystanders who filmed the event"
+last_seen: "Kargar Avenue, Tehran, moments before being shot"
+
+# --- AFTERMATH ---
+burial:
+  location: "Behesht-e Zahra Cemetery, Tehran"
+  date: 2009-06-22
+  circumstances: >
+    Authorities attempted to prevent a public funeral. Her family was
+    pressured to bury her quickly and quietly. Security forces were
+    deployed around the cemetery. Despite this, her grave became a
+    pilgrimage site for Iranians.
+  grave_status: "Under surveillance by security forces"
+family_persecution: >
+  Her family was forced to move from their home. They were banned from
+  holding memorial services. Her mother was reportedly arrested for
+  visiting the grave. Authorities vandalized the grave site on multiple
+  occasions.
+legal_proceedings: >
+  No one was ever held accountable. The regime initially denied her death
+  was caused by security forces, then attempted to blame protesters.
+  Dr. Arash Hejazi, who tried to save her and witnessed the shooting,
+  was forced to flee Iran and was sentenced in absentia.
+tributes:
+  - "Named 'Person of the Year' runner-up by Time magazine (2009)"
+  - "The Oxford English Dictionary cited her death under 'citizen journalism'"
+  - "Songs, films, and artworks dedicated to her worldwide"
+  - "Her image became the symbol of the Green Movement"
+  - "Streets named after her in several countries"
+  - "'Neda' means 'voice' or 'calling' in Farsi — she became Iran's voice"
+
+# --- VERIFICATION ---
+status: verified
+sources:
+  - url: "https://en.wikipedia.org/wiki/Death_of_Neda_Agha-Soltan"
+    name: "Wikipedia — Death of Neda Agha-Soltan"
+    date: null
+    type: encyclopedia
+  - url: "https://time.com/6234429/iran-protests-revolution-history/"
+    name: "TIME — Iran's History of Protest"
+    date: 2022-10-01
+    type: news
+last_updated: 2026-02-09
+updated_by: "iran-memorial project"

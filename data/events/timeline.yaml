@@ -1,0 +1,172 @@
+# =============================================================================
+# TIMELINE OF MAJOR EVENTS — Islamic Republic of Iran (1979–present)
+# =============================================================================
+
+- id: revolution-1979
+  date_start: 1979-02-11
+  date_end: null
+  title_en: "Islamic Revolution"
+  title_fa: "انقلاب اسلامی"
+  description: >
+    The Iranian Revolution overthrew the Pahlavi dynasty. Ayatollah Ruhollah
+    Khomeini established the Islamic Republic, which immediately began
+    consolidating power through systematic repression.
+  estimated_killed: null
+  tags: [revolution, regime-change]
+
+- id: post-revolution-executions
+  date_start: 1979-02-15
+  date_end: 1979-12-31
+  title_en: "Post-Revolution Summary Executions"
+  title_fa: "اعدام‌های پس از انقلاب"
+  description: >
+    Mass summary executions of former Shah officials, military officers,
+    and perceived enemies of the revolution. Trials lasted minutes.
+    Sadegh Khalkhali, known as the "Hanging Judge," oversaw many executions.
+  estimated_killed: 438
+  source: "Amnesty International"
+  tags: [executions, political-prisoners]
+
+- id: cultural-revolution-1980
+  date_start: 1980-04-18
+  date_end: 1983-01-01
+  title_en: "Iranian Cultural Revolution"
+  title_fa: "انقلاب فرهنگی"
+  description: >
+    All universities were closed for three years. Students and professors
+    deemed un-Islamic were purged. Curricula were rewritten to align with
+    Islamic ideology. Hundreds of academics were fired or fled the country.
+  estimated_killed: null
+  tags: [universities, students, cultural-repression]
+
+- id: reign-of-terror-1981-1985
+  date_start: 1981-06-20
+  date_end: 1985-12-31
+  title_en: "Reign of Terror (1981–1985)"
+  title_fa: "سلطه وحشت"
+  description: >
+    Following the power struggle with the MEK and other opposition groups,
+    the regime launched a campaign of mass executions. Over 7,900 political
+    prisoners were executed in this period — compared to fewer than 100
+    in the entire decade before the revolution.
+  estimated_killed: 7900
+  source: "Various human rights organizations"
+  tags: [executions, political-prisoners, mass-killing]
+
+- id: iran-iraq-war
+  date_start: 1980-09-22
+  date_end: 1988-08-20
+  title_en: "Iran-Iraq War"
+  title_fa: "جنگ ایران و عراق"
+  description: >
+    Eight-year war with Iraq. The regime sent waves of poorly equipped
+    soldiers, including child soldiers (basiji), to the front. Children as
+    young as 12 were given plastic "keys to paradise" and sent to clear
+    minefields. Estimated 500,000–1,000,000 Iranian casualties.
+  estimated_killed: 500000
+  tags: [war, child-soldiers]
+
+- id: massacre-1988
+  date_start: 1988-07-19
+  date_end: 1988-12-31
+  title_en: "1988 Prison Massacres"
+  title_fa: "کشتار ۶۷"
+  description: >
+    On Khomeini's orders, "Death Commissions" were formed across Iran.
+    Political prisoners were brought before three-member panels and asked
+    if they renounced their beliefs. Those who refused were executed —
+    often within hours. Bodies were buried in mass graves. Families were
+    not informed. The UN classified this as genocide in 2024.
+  estimated_killed_low: 5000
+  estimated_killed_high: 30000
+  source: "Amnesty International, Human Rights Watch, UN Special Rapporteur"
+  tags: [massacre, political-prisoners, genocide, mass-graves]
+
+- id: chain-murders
+  date_start: 1988-01-01
+  date_end: 1998-12-31
+  title_en: "Chain Murders of Intellectuals"
+  title_fa: "قتل‌های زنجیره‌ای"
+  description: >
+    Systematic assassination of Iranian dissident intellectuals, writers,
+    poets, and political activists by agents of the Ministry of Intelligence.
+    Victims include Dariush Forouhar, Parvaneh Eskandari, Mohammad Mokhtari,
+    and Mohammad Jafar Pouyandeh.
+  estimated_killed: 80
+  tags: [assassinations, intellectuals, writers]
+
+- id: student-protests-1999
+  date_start: 1999-07-08
+  date_end: 1999-07-13
+  title_en: "1999 Student Protests (18 Tir)"
+  title_fa: "۱۸ تیر ۱۳۷۸"
+  description: >
+    Peaceful student protests against newspaper closures were met with
+    violent raids on Tehran University dormitories by Basij and Ansar-e
+    Hezbollah. Students were beaten, thrown from windows, and arrested.
+  estimated_killed: 4
+  estimated_injured: 200
+  tags: [students, protests, university]
+
+- id: green-movement-2009
+  date_start: 2009-06-13
+  date_end: 2010-02-11
+  title_en: "Green Movement"
+  title_fa: "جنبش سبز"
+  description: >
+    Millions protested the disputed re-election of Mahmoud Ahmadinejad.
+    Security forces killed dozens, including Neda Agha-Soltan, whose death
+    was filmed and shared worldwide. Thousands were arrested and tortured.
+    Opposition leaders Mousavi and Karroubi were placed under house arrest
+    where they remain to this day.
+  estimated_killed: 72
+  source: "Opposition sources"
+  tags: [protests, election-fraud, green-movement]
+
+- id: bloody-november-2019
+  date_start: 2019-11-15
+  date_end: 2019-11-19
+  title_en: "Bloody November (Aban 98)"
+  title_fa: "آبان خونین"
+  description: >
+    Protests triggered by fuel price hikes were crushed in less than five
+    days with live ammunition. The internet was shut down nationwide for
+    six days to prevent information from spreading. Most victims were
+    young people from working-class neighborhoods.
+  estimated_killed_low: 1500
+  estimated_killed_high: 3000
+  estimated_arrested: 20000
+  tags: [massacre, protests, internet-shutdown]
+
+- id: woman-life-freedom-2022
+  date_start: 2022-09-16
+  date_end: 2023-03-01
+  title_en: "Woman, Life, Freedom Movement"
+  title_fa: "زن، زندگی، آزادی"
+  description: >
+    The death of 22-year-old Mahsa (Zhina) Amini in morality police custody
+    sparked the largest protests since 1979. The UN found crimes against
+    humanity including murder, torture, rape, and sexual violence. At least
+    23 children were among the first victims. The movement united all
+    ethnicities and social classes across Iran.
+  estimated_killed: 500
+  estimated_arrested: 22000
+  estimated_children_killed: 23
+  tags: [protests, women-rights, children, crimes-against-humanity]
+
+- id: massacres-2026
+  date_start: 2026-01-05
+  date_end: null
+  title_en: "2026 Massacres"
+  title_fa: "کشتار ۱۴۰۴"
+  description: >
+    Nationwide protests met with the deadliest crackdown since 1979.
+    Security forces used live ammunition against protesters across 31
+    provinces and 110 cities. At least 153 identified children among the
+    dead. Internet shut down. Hospitals attacked. The UN Special Rapporteur
+    estimated deaths may exceed 20,000.
+  estimated_killed_low: 3428
+  estimated_killed_high: 20000
+  estimated_children_killed: 153
+  source: "Iran Human Rights, HRANA, Amnesty International, UN"
+  tags: [massacre, protests, children, internet-shutdown]

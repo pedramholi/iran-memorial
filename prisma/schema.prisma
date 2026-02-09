@@ -1,0 +1,122 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Event {
+  id                 String    @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  slug               String    @unique
+  dateStart          DateTime  @map("date_start") @db.Date
+  dateEnd            DateTime? @map("date_end") @db.Date
+  titleEn            String    @map("title_en")
+  titleFa            String?   @map("title_fa")
+  titleDe            String?   @map("title_de")
+  descriptionEn      String?   @map("description_en")
+  descriptionFa      String?   @map("description_fa")
+  descriptionDe      String?   @map("description_de")
+  estimatedKilledLow  Int?     @map("estimated_killed_low")
+  estimatedKilledHigh Int?     @map("estimated_killed_high")
+  tags               String[]
+  createdAt          DateTime  @default(now()) @map("created_at") @db.Timestamptz()
+  updatedAt          DateTime  @default(now()) @updatedAt @map("updated_at") @db.Timestamptz()
+
+  victims Victim[]
+  sources Source[]
+
+  @@map("events")
+}
+
+model Victim {
+  id                    String    @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  slug                  String    @unique
+  nameLatin             String    @map("name_latin")
+  nameFarsi             String?   @map("name_farsi")
+  aliases               String[]
+  dateOfBirth           DateTime? @map("date_of_birth") @db.Date
+  placeOfBirth          String?   @map("place_of_birth")
+  gender                String?
+  ethnicity             String?
+  religion              String?
+  photoUrl              String?   @map("photo_url")
+
+  // Life
+  occupationEn          String?   @map("occupation_en")
+  occupationFa          String?   @map("occupation_fa")
+  education             String?
+  familyInfo            Json?     @map("family_info")
+  dreamsEn              String?   @map("dreams_en")
+  dreamsFa              String?   @map("dreams_fa")
+  beliefsEn             String?   @map("beliefs_en")
+  beliefsFa             String?   @map("beliefs_fa")
+  personalityEn         String?   @map("personality_en")
+  personalityFa         String?   @map("personality_fa")
+  quotes                String[]
+
+  // Death
+  dateOfDeath           DateTime? @map("date_of_death") @db.Date
+  ageAtDeath            Int?      @map("age_at_death")
+  placeOfDeath          String?   @map("place_of_death")
+  province              String?
+  causeOfDeath          String?   @map("cause_of_death")
+  circumstancesEn       String?   @map("circumstances_en")
+  circumstancesFa       String?   @map("circumstances_fa")
+  eventId               String?   @map("event_id") @db.Uuid
+  event                 Event?    @relation(fields: [eventId], references: [id])
+  responsibleForces     String?   @map("responsible_forces")
+
+  // Aftermath
+  burialLocation        String?   @map("burial_location")
+  burialDate            DateTime? @map("burial_date") @db.Date
+  burialCircumstancesEn String?   @map("burial_circumstances_en")
+  burialCircumstancesFa String?   @map("burial_circumstances_fa")
+  familyPersecutionEn   String?   @map("family_persecution_en")
+  familyPersecutionFa   String?   @map("family_persecution_fa")
+  legalProceedings      String?   @map("legal_proceedings")
+  tributes              String[]
+
+  // Admin
+  verificationStatus    String    @default("unverified") @map("verification_status")
+  createdAt             DateTime  @default(now()) @map("created_at") @db.Timestamptz()
+  updatedAt             DateTime  @default(now()) @updatedAt @map("updated_at") @db.Timestamptz()
+
+  sources Source[]
+
+  @@index([slug])
+  @@index([dateOfDeath])
+  @@index([eventId])
+  @@index([province])
+  @@map("victims")
+}
+
+model Source {
+  id            String    @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  victimId      String?   @map("victim_id") @db.Uuid
+  victim        Victim?   @relation(fields: [victimId], references: [id], onDelete: Cascade)
+  eventId       String?   @map("event_id") @db.Uuid
+  event         Event?    @relation(fields: [eventId], references: [id], onDelete: Cascade)
+  url           String?
+  name          String
+  sourceType    String?   @map("source_type")
+  publishedDate DateTime? @map("published_date") @db.Date
+  createdAt     DateTime  @default(now()) @map("created_at") @db.Timestamptz()
+
+  @@map("sources")
+}
+
+model Submission {
+  id              String    @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  victimData      Json      @map("victim_data")
+  submitterEmail  String?   @map("submitter_email")
+  submitterName   String?   @map("submitter_name")
+  status          String    @default("pending")
+  reviewerNotes   String?   @map("reviewer_notes")
+  reviewedBy      String?   @map("reviewed_by")
+  createdAt       DateTime  @default(now()) @map("created_at") @db.Timestamptz()
+  reviewedAt      DateTime? @map("reviewed_at") @db.Timestamptz()
+
+  @@map("submissions")
+}

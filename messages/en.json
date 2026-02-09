@@ -1,0 +1,113 @@
+{
+  "common": {
+    "siteName": "Iran Memorial",
+    "siteDescription": "A living memorial for the victims of the Islamic Republic of Iran (1979–present)",
+    "home": "Home",
+    "timeline": "Timeline",
+    "victims": "Victims",
+    "events": "Events",
+    "about": "About",
+    "submit": "Submit",
+    "search": "Search",
+    "language": "Language",
+    "loading": "Loading...",
+    "noResults": "No results found",
+    "backToHome": "Back to Home"
+  },
+  "home": {
+    "heroTitle": "Every victim has a name.",
+    "heroSubtitle": "A living memorial for the victims of the Islamic Republic of Iran.",
+    "heroDescription": "Since 1979, the Islamic Republic has systematically silenced, imprisoned, tortured, and killed its own people. This memorial exists so that no victim is forgotten.",
+    "searchPlaceholder": "Search by name, place, or event...",
+    "statsTitle": "The Numbers",
+    "totalVictims": "Documented Victims",
+    "totalEvents": "Major Events",
+    "timespan": "Years of Repression",
+    "browseTimeline": "Browse Timeline",
+    "browseVictims": "Browse All Victims",
+    "recentlyAdded": "Recently Added"
+  },
+  "victim": {
+    "life": "Life",
+    "death": "Death",
+    "aftermath": "Aftermath",
+    "sources": "Sources",
+    "born": "Born",
+    "died": "Died",
+    "age": "Age",
+    "occupation": "Occupation",
+    "education": "Education",
+    "family": "Family",
+    "dreams": "Dreams & Aspirations",
+    "beliefs": "Beliefs & Convictions",
+    "personality": "Personality",
+    "quotes": "In Their Own Words",
+    "placeOfDeath": "Place of Death",
+    "causeOfDeath": "Cause of Death",
+    "circumstances": "Circumstances",
+    "responsibleForces": "Responsible Forces",
+    "burial": "Burial",
+    "familyPersecution": "Family Persecution",
+    "legalProceedings": "Legal Proceedings",
+    "tributes": "Tributes & Legacy",
+    "verified": "Verified",
+    "unverified": "Unverified",
+    "disputed": "Disputed",
+    "relatedEvent": "Related Event"
+  },
+  "event": {
+    "estimatedKilled": "Estimated Killed",
+    "dateRange": "Date Range",
+    "relatedVictims": "Documented Victims",
+    "tags": "Tags"
+  },
+  "timeline": {
+    "title": "Timeline",
+    "subtitle": "Major events under the Islamic Republic (1979–present)",
+    "zoomIn": "Zoom In",
+    "zoomOut": "Zoom Out",
+    "killed": "killed"
+  },
+  "search": {
+    "title": "Search",
+    "placeholder": "Search victims by name, place, or details...",
+    "filters": "Filters",
+    "province": "Province",
+    "year": "Year",
+    "gender": "Gender",
+    "allProvinces": "All Provinces",
+    "allYears": "All Years",
+    "allGenders": "All Genders",
+    "male": "Male",
+    "female": "Female",
+    "results": "results",
+    "showing": "Showing"
+  },
+  "submit": {
+    "title": "Submit Information",
+    "description": "Help us document the victims. Every name matters.",
+    "nameLabel": "Full Name (Latin script)",
+    "nameFarsiLabel": "Full Name (Farsi)",
+    "emailLabel": "Your Email (optional)",
+    "yourNameLabel": "Your Name (optional)",
+    "detailsLabel": "Details",
+    "sourcesLabel": "Sources / Links",
+    "submitButton": "Submit",
+    "thankYou": "Thank you. Your submission will be reviewed.",
+    "error": "Something went wrong. Please try again."
+  },
+  "about": {
+    "title": "About This Memorial",
+    "mission": "Our Mission",
+    "missionText": "This memorial exists to document and preserve the memory of every person killed by the Islamic Republic of Iran since 1979. Every victim was a human being with dreams, loved ones, and a story that deserves to be told.",
+    "openSource": "Open Source",
+    "openSourceText": "This project is open source and community-driven. Anyone can contribute by submitting information about victims, correcting existing entries, or helping with translations.",
+    "methodology": "Methodology",
+    "methodologyText": "All entries are verified against multiple sources including human rights organizations (Amnesty International, Human Rights Watch), news reports, witness testimonies, and court documents. Entries are marked as verified, unverified, or disputed."
+  },
+  "footer": {
+    "remembrance": "So that no one is forgotten.",
+    "openSource": "Open Source on GitHub",
+    "contact": "Contact"
+  }
+}

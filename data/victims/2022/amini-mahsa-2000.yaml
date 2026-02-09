@@ -1,0 +1,95 @@
+id: amini-mahsa-2000
+name_latin: "Mahsa Amini"
+name_farsi: "مهسا امینی"
+aliases: ["Zhina Amini", "ژینا امینی"]
+date_of_birth: 1999-09-21
+place_of_birth: "Saqqez, Kurdistan Province"
+gender: female
+ethnicity: Kurdish
+photo: null
+
+# --- LIFE ---
+occupation: "Student"
+education: "Studying to enter university"
+family:
+  marital_status: "Single"
+  children: null
+  notes: "Daughter of Amjad Amini and Mozhgan Eftekhari. Had one brother, Kiarash."
+dreams: >
+  Mahsa dreamed of continuing her education and building a life of her own
+  choosing. She was described as a quiet, gentle young woman who loved life.
+beliefs: >
+  Like many young Iranian women, Mahsa wanted the freedom to live without
+  the constant surveillance and control of the morality police. Her death
+  became the catalyst for the "Woman, Life, Freedom" movement — not because
+  she was an activist, but because she was an ordinary young woman whose
+  only "crime" was existing.
+personality: >
+  Described by family and friends as kind, gentle, and full of life.
+  She was visiting Tehran with her family when she was arrested.
+
+# --- DEATH ---
+date_of_death: 2022-09-16
+age_at_death: 22
+place_of_death: "Kasra Hospital, Tehran"
+cause_of_death: "Head injuries sustained in morality police custody"
+circumstances: >
+  On September 13, 2022, Mahsa was arrested by Iran's Guidance Patrol
+  (morality police) at the Shahid Haghani Expressway in Tehran for
+  allegedly wearing her hijab "improperly." She was taken to the Vozara
+  Detention Center. Within hours, she collapsed and was transferred to
+  Kasra Hospital in a coma. A CT scan confirmed traumatic head injuries.
+  She never regained consciousness and was pronounced dead on September 16.
+  Authorities claimed she died of a heart attack, but her family and
+  medical evidence contradicted this. A UN investigation concluded Iran
+  was responsible for "physical violence" that killed her.
+event_context: "Arrest by Guidance Patrol (morality police)"
+responsible_forces: "Guidance Patrol (Gasht-e Ershad), Iran Police"
+witnesses:
+  - "Multiple women detained at Vozara reported seeing Mahsa beaten"
+  - "Her brother Kiarash was waiting outside and saw her taken away in an ambulance"
+last_seen: "Vozara Detention Center, Tehran, September 13, 2022"
+
+# --- AFTERMATH ---
+burial:
+  location: "Aichi Cemetery, Saqqez, Kurdistan Province"
+  date: 2022-09-17
+  circumstances: >
+    Her funeral in Saqqez became the first major protest. Thousands
+    gathered at her grave, women removed their headscarves, and the
+    chant "Woman, Life, Freedom" (Zan, Zendegi, Azadi) was born.
+    Security forces attempted to prevent the funeral.
+  grave_status: "Intact but under surveillance"
+family_persecution: >
+  Her family was pressured by authorities to accept the official narrative.
+  Her father, Amjad Amini, has been repeatedly summoned and threatened.
+  Despite this, the family has continued to speak out.
+legal_proceedings: >
+  Iran's government claimed she died of pre-existing conditions. An
+  independent UN Fact-Finding Mission concluded that Iran bore responsibility
+  for her death through physical violence. No Iranian official has been
+  held accountable.
+tributes:
+  - "Her death sparked the global 'Woman, Life, Freedom' movement"
+  - "Streets and squares named after her in multiple countries"
+  - "Nominated for the Nobel Peace Prize (posthumously)"
+  - "Her image became an icon of resistance worldwide"
+  - "Anniversary commemorations held globally every September"
+
+# --- VERIFICATION ---
+status: verified
+sources:
+  - url: "https://www.amnesty.org/en/latest/news/2023/09/what-happened-to-mahsa-zhina-amini/"
+    name: "Amnesty International — What happened to Mahsa Amini?"
+    date: 2023-09-16
+    type: ngo_report
+  - url: "https://www.pbs.org/newshour/world/iran-is-responsible-for-the-physical-violence-that-killed-mahsa-amini-in-2022-un-probe-finds"
+    name: "PBS — UN probe finds Iran responsible"
+    date: 2024-03-19
+    type: news
+  - url: "https://en.wikipedia.org/wiki/Mahsa_Amini"
+    name: "Wikipedia — Mahsa Amini"
+    date: null
+    type: encyclopedia
+last_updated: 2026-02-09
+updated_by: "iran-memorial project"

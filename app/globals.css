@@ -1,0 +1,63 @@
+@import "tailwindcss";
+
+@theme {
+  --color-memorial-950: #0a0a0f;
+  --color-memorial-900: #111118;
+  --color-memorial-800: #1a1a24;
+  --color-memorial-700: #252532;
+  --color-memorial-600: #3a3a4a;
+  --color-memorial-500: #6b6b80;
+  --color-memorial-400: #9090a8;
+  --color-memorial-300: #b8b8cc;
+  --color-memorial-200: #d4d4e0;
+  --color-memorial-100: #ebebf0;
+  --color-memorial-50: #f5f5f8;
+
+  --color-gold-500: #c9a84c;
+  --color-gold-400: #d4b95e;
+  --color-gold-300: #e0ca7a;
+
+  --color-blood-600: #8b1a1a;
+  --color-blood-500: #b91c1c;
+  --color-blood-400: #dc2626;
+
+  --font-sans: "Inter", system-ui, -apple-system, sans-serif;
+  --font-farsi: "Vazirmatn", "Tahoma", "Arial", sans-serif;
+}
+
+body {
+  background-color: var(--color-memorial-950);
+  color: var(--color-memorial-100);
+}
+
+/* Farsi font for RTL locale */
+[dir="rtl"] {
+  font-family: var(--font-farsi);
+}
+
+/* Smooth scroll */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Memorial candle animation */
+@keyframes flicker {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.8; }
+}
+
+.candle-flicker {
+  animation: flicker 3s ease-in-out infinite;
+}
+
+/* Timeline line */
+.timeline-line {
+  background: linear-gradient(
+    to bottom,
+    transparent,
+    var(--color-memorial-600),
+    var(--color-blood-600),
+    var(--color-memorial-600),
+    transparent
+  );
+}

@@ -1,0 +1,113 @@
+{
+  "common": {
+    "siteName": "Iran Memorial",
+    "siteDescription": "Ein lebendiges Mahnmal für die Opfer der Islamischen Republik Iran (1979–heute)",
+    "home": "Startseite",
+    "timeline": "Zeitstrahl",
+    "victims": "Opfer",
+    "events": "Ereignisse",
+    "about": "Über uns",
+    "submit": "Einreichen",
+    "search": "Suche",
+    "language": "Sprache",
+    "loading": "Laden...",
+    "noResults": "Keine Ergebnisse gefunden",
+    "backToHome": "Zurück zur Startseite"
+  },
+  "home": {
+    "heroTitle": "Jedes Opfer hat einen Namen.",
+    "heroSubtitle": "Ein lebendiges Mahnmal für die Opfer der Islamischen Republik Iran.",
+    "heroDescription": "Seit 1979 hat die Islamische Republik systematisch ihr eigenes Volk unterdrückt, inhaftiert, gefoltert und getötet. Dieses Mahnmal existiert, damit kein Opfer vergessen wird.",
+    "searchPlaceholder": "Suche nach Name, Ort oder Ereignis...",
+    "statsTitle": "Die Zahlen",
+    "totalVictims": "Dokumentierte Opfer",
+    "totalEvents": "Wichtige Ereignisse",
+    "timespan": "Jahre der Unterdrückung",
+    "browseTimeline": "Zeitstrahl ansehen",
+    "browseVictims": "Alle Opfer ansehen",
+    "recentlyAdded": "Zuletzt hinzugefügt"
+  },
+  "victim": {
+    "life": "Leben",
+    "death": "Tod",
+    "aftermath": "Nachwirkung",
+    "sources": "Quellen",
+    "born": "Geboren",
+    "died": "Gestorben",
+    "age": "Alter",
+    "occupation": "Beruf",
+    "education": "Bildung",
+    "family": "Familie",
+    "dreams": "Träume & Ziele",
+    "beliefs": "Überzeugungen",
+    "personality": "Persönlichkeit",
+    "quotes": "In eigenen Worten",
+    "placeOfDeath": "Sterbeort",
+    "causeOfDeath": "Todesursache",
+    "circumstances": "Umstände",
+    "responsibleForces": "Verantwortliche Kräfte",
+    "burial": "Bestattung",
+    "familyPersecution": "Verfolgung der Familie",
+    "legalProceedings": "Rechtliche Verfahren",
+    "tributes": "Gedenken & Vermächtnis",
+    "verified": "Verifiziert",
+    "unverified": "Nicht verifiziert",
+    "disputed": "Umstritten",
+    "relatedEvent": "Zugehöriges Ereignis"
+  },
+  "event": {
+    "estimatedKilled": "Geschätzte Todesopfer",
+    "dateRange": "Zeitraum",
+    "relatedVictims": "Dokumentierte Opfer",
+    "tags": "Schlagwörter"
+  },
+  "timeline": {
+    "title": "Zeitstrahl",
+    "subtitle": "Wichtige Ereignisse unter der Islamischen Republik (1979–heute)",
+    "zoomIn": "Vergrößern",
+    "zoomOut": "Verkleinern",
+    "killed": "getötet"
+  },
+  "search": {
+    "title": "Suche",
+    "placeholder": "Opfer nach Name, Ort oder Details suchen...",
+    "filters": "Filter",
+    "province": "Provinz",
+    "year": "Jahr",
+    "gender": "Geschlecht",
+    "allProvinces": "Alle Provinzen",
+    "allYears": "Alle Jahre",
+    "allGenders": "Alle",
+    "male": "Männlich",
+    "female": "Weiblich",
+    "results": "Ergebnisse",
+    "showing": "Anzeige"
+  },
+  "submit": {
+    "title": "Informationen einreichen",
+    "description": "Helfen Sie uns, die Opfer zu dokumentieren. Jeder Name zählt.",
+    "nameLabel": "Vollständiger Name (lateinische Schrift)",
+    "nameFarsiLabel": "Vollständiger Name (Farsi)",
+    "emailLabel": "Ihre E-Mail (optional)",
+    "yourNameLabel": "Ihr Name (optional)",
+    "detailsLabel": "Details",
+    "sourcesLabel": "Quellen / Links",
+    "submitButton": "Einreichen",
+    "thankYou": "Vielen Dank. Ihre Einreichung wird geprüft.",
+    "error": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut."
+  },
+  "about": {
+    "title": "Über dieses Mahnmal",
+    "mission": "Unsere Mission",
+    "missionText": "Dieses Mahnmal existiert, um das Andenken an jeden Menschen zu bewahren, der seit 1979 von der Islamischen Republik Iran getötet wurde. Jedes Opfer war ein Mensch mit Träumen, Angehörigen und einer Geschichte, die erzählt werden muss.",
+    "openSource": "Open Source",
+    "openSourceText": "Dieses Projekt ist Open Source und wird von der Gemeinschaft getragen. Jeder kann beitragen, indem er Informationen über Opfer einreicht, bestehende Einträge korrigiert oder bei Übersetzungen hilft.",
+    "methodology": "Methodik",
+    "methodologyText": "Alle Einträge werden anhand mehrerer Quellen verifiziert, darunter Menschenrechtsorganisationen (Amnesty International, Human Rights Watch), Nachrichtenberichte, Zeugenaussagen und Gerichtsdokumente."
+  },
+  "footer": {
+    "remembrance": "Damit niemand vergessen wird.",
+    "openSource": "Open Source auf GitHub",
+    "contact": "Kontakt"
+  }
+}
