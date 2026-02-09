@@ -1,6 +1,6 @@
 id: shahbakhsh-danial-2011
 name_latin: "Danial Shahbakhsh"
-name_farsi: null
+name_farsi: "دانیال شه‌بخش"
 date_of_birth: null  # est. birth year: 2011
 place_of_birth: null
 gender: male
@@ -21,9 +21,12 @@ responsible_forces: null
 # --- VERIFICATION ---
 status: "verified"
 sources:
+  - url: "https://www.iranrights.org/memorial/story/86759/danial-shahbakhsh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
   - url: "https://www.amnesty.org/en/documents/mde13/6104/2022/en/"
     name: "Amnesty International — Killings of children (MDE 13/6104/2022)"
     date: 2022-12-09
     type: ngo_report
 last_updated: 2026-02-09
-updated_by: "amnesty-children-import"
+updated_by: "boroumand-import"

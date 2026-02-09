@@ -21,6 +21,27 @@ responsible_forces: null
 # --- VERIFICATION ---
 status: "unverified"
 sources:
+  - url: "https://www.iranrights.org/memorial/story/11438/ahmad-mohammadi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+  - url: "https://www.iranrights.org/memorial/story/17710/ahmad-mohammadi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+  - url: "https://www.iranrights.org/memorial/story/61478/ahmad-mohammadi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+  - url: "https://www.iranrights.org/memorial/story/71606/ahmad-mohammadi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+  - url: "https://www.iranrights.org/memorial/story/71605/ahmad-mohammadi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+  - url: "https://www.iranrights.org/memorial/story/71607/ahmad-mohammadi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+  - url: "https://www.iranrights.org/memorial/story/13003/ahmad-mohammadi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
   - url: "https://iranvictims.com"
     name: "iranvictims.com — Victim #2938"
     date: null
@@ -30,4 +51,4 @@ sources:
     date: null
     type: primary
 last_updated: 2026-02-09
-updated_by: "iranvictims-csv-import"
+updated_by: "boroumand-import"

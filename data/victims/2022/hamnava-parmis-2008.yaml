@@ -1,6 +1,6 @@
 id: hamnava-parmis-2008
 name_latin: "Parmis Hamnava"
-name_farsi: null
+name_farsi: "پارمیس همنوا"
 date_of_birth: null  # est. birth year: 2008
 place_of_birth: null
 gender: female
@@ -20,9 +20,12 @@ responsible_forces: null
 # --- VERIFICATION ---
 status: "unverified"
 sources:
+  - url: "https://www.iranrights.org/memorial/story/86309/parmis-hamnava"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
   - url: "https://en.wikipedia.org/wiki/Deaths_during_the_Mahsa_Amini_protests"
     name: "Wikipedia — Deaths during the Mahsa Amini protests"
     date: null
     type: encyclopedia
 last_updated: 2026-02-09
-updated_by: "wikipedia-parser-script"
+updated_by: "boroumand-import"

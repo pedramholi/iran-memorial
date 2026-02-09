@@ -1,12 +1,11 @@
 id: shahbakhsh-farzad
 name_latin: "Farzad Shahbakhsh"
-name_farsi: null
+name_farsi: "فرزاد شه‌بخش"
 date_of_birth: null
 place_of_birth: null
 gender: male
 ethnicity: null
-photo: null
-
+photo: "https://www.iranrights.org/actorphotos/87108_thumb.jpeg"
 # --- DEATH ---
 date_of_death: 2022-09-30
 age_at_death: null
@@ -20,9 +19,12 @@ responsible_forces: null
 # --- VERIFICATION ---
 status: "unverified"
 sources:
+  - url: "https://www.iranrights.org/memorial/story/-9069/farzad-shahbakhsh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
   - url: "https://en.wikipedia.org/wiki/Deaths_during_the_Mahsa_Amini_protests"
     name: "Wikipedia — Deaths during the Mahsa Amini protests"
     date: null
     type: encyclopedia
 last_updated: 2026-02-09
-updated_by: "wikipedia-parser-script"
+updated_by: "boroumand-import"

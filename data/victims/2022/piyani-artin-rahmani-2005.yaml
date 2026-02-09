@@ -1,12 +1,11 @@
 id: piyani-artin-rahmani-2005
 name_latin: "Artin Rahmani Piyani"
-name_farsi: null
+name_farsi: "آرتین رحمانی پیانی"
 date_of_birth: null  # est. birth year: 2005
 place_of_birth: null
 gender: male
 ethnicity: null
-photo: null
-
+photo: "https://www.iranrights.org/actorphotos/86861_thumb.jpeg"
 # --- DEATH ---
 date_of_death: 2022-11-16
 age_at_death: 17
@@ -20,9 +19,12 @@ responsible_forces: null
 # --- VERIFICATION ---
 status: "unverified"
 sources:
+  - url: "https://www.iranrights.org/memorial/story/-9016/artin-rahmani-piyani"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
   - url: "https://en.wikipedia.org/wiki/Deaths_during_the_Mahsa_Amini_protests"
     name: "Wikipedia — Deaths during the Mahsa Amini protests"
     date: null
     type: encyclopedia
 last_updated: 2026-02-09
-updated_by: "wikipedia-parser-script"
+updated_by: "boroumand-import"

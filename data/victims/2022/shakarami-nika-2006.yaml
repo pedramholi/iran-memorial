@@ -5,8 +5,7 @@ date_of_birth: 2006-01-01
 place_of_birth: null
 gender: female
 ethnicity: Persian
-photo: null
-
+photo: "https://www.iranrights.org/actorphotos/85326_thumb.jpeg"
 # --- DEATH ---
 date_of_death: 2022-09-20
 age_at_death: 16
@@ -37,6 +36,9 @@ tributes:
 # --- VERIFICATION ---
 status: verified
 sources:
+  - url: "https://www.iranrights.org/memorial/story/-8756/nika-shakarami"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
   - url: "https://en.wikipedia.org/wiki/Killing_of_Nika_Shakarami"
     name: "Wikipedia — Killing of Nika Shakarami"
     date: null
@@ -66,4 +68,4 @@ sources:
     date: 2022-12-09
     type: ngo_report
 last_updated: 2026-02-09
-updated_by: "iran-memorial project"
+updated_by: "boroumand-import"

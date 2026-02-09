@@ -1,12 +1,11 @@
 id: karami-borhan-1992
 name_latin: "Borhan Karami"
-name_farsi: null
+name_farsi: "برهان کرمی"
 date_of_birth: null  # est. birth year: 1992
 place_of_birth: null
 gender: male
 ethnicity: null
-photo: null
-
+photo: "https://www.iranrights.org/actorphotos/85836_thumb.jpeg"
 # --- DEATH ---
 date_of_death: 2022-11-16
 age_at_death: 30
@@ -20,6 +19,9 @@ responsible_forces: null
 # --- VERIFICATION ---
 status: "verified"
 sources:
+  - url: "https://www.iranrights.org/memorial/story/-8947/borhan-karami"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
   - url: "https://www.en-hrana.org/wp-content/uploads/2022/12/82-Day-WLF-Protest-in-Iran-2022-English.pdf"
     name: "HRANA — 82-Day Comprehensive Report"
     date: 2022-12-01
@@ -29,4 +31,4 @@ sources:
     date: null
     type: encyclopedia
 last_updated: 2026-02-09
-updated_by: "hrana-82day-import"
+updated_by: "boroumand-import"

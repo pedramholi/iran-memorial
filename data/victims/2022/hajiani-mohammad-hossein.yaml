@@ -1,12 +1,11 @@
 id: hajiani-mohammad-hossein
 name_latin: "Mohammad Hossein Hajiani"
-name_farsi: null
+name_farsi: "محمد حسین حاجیانی"
 date_of_birth: null
 place_of_birth: null
 gender: male
 ethnicity: null
-photo: null
-
+photo: "https://www.iranrights.org/actorphotos/86419_thumb.jpeg"
 # --- DEATH ---
 date_of_death: null
 age_at_death: null
@@ -20,6 +19,9 @@ responsible_forces: null
 # --- VERIFICATION ---
 status: "verified"
 sources:
+  - url: "https://www.iranrights.org/memorial/story/86419/mohammad-hossein-hajiani"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
   - url: "https://www.en-hrana.org/wp-content/uploads/2022/12/82-Day-WLF-Protest-in-Iran-2022-English.pdf"
     name: "HRANA — 82-Day Comprehensive Report"
     date: 2022-12-01
@@ -29,4 +31,4 @@ sources:
     date: null
     type: encyclopedia
 last_updated: 2026-02-09
-updated_by: "hrana-82day-import"
+updated_by: "boroumand-import"

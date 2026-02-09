@@ -1,6 +1,6 @@
 id: enayati-amjad-2004
 name_latin: "Amjad Enayati"
-name_farsi: null
+name_farsi: "امجمد عنایتی"
 date_of_birth: null  # est. birth year: 2004
 place_of_birth: null
 gender: male
@@ -20,6 +20,9 @@ responsible_forces: null
 # --- VERIFICATION ---
 status: "verified"
 sources:
+  - url: "https://www.iranrights.org/memorial/story/86430/amjad-enayati"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
   - url: "https://www.en-hrana.org/wp-content/uploads/2022/12/82-Day-WLF-Protest-in-Iran-2022-English.pdf"
     name: "HRANA — 82-Day Comprehensive Report"
     date: 2022-12-01
@@ -29,4 +32,4 @@ sources:
     date: null
     type: encyclopedia
 last_updated: 2026-02-09
-updated_by: "hrana-82day-import"
+updated_by: "boroumand-import"

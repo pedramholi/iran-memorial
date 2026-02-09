@@ -1,6 +1,6 @@
 id: chalavi-ghazaleh-1990
 name_latin: "Ghazaleh Chalavi"
-name_farsi: null
+name_farsi: "غزاله چلاوی"
 date_of_birth: null  # est. birth year: 1990
 place_of_birth: null
 gender: female
@@ -21,9 +21,12 @@ responsible_forces: null
 # --- VERIFICATION ---
 status: "unverified"
 sources:
+  - url: "https://www.iranrights.org/memorial/story/86272/ghazaleh-chalavi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
   - url: "https://en.wikipedia.org/wiki/Deaths_during_the_Mahsa_Amini_protests"
     name: "Wikipedia — Deaths during the Mahsa Amini protests"
     date: null
     type: encyclopedia
 last_updated: 2026-02-09
-updated_by: "wikipedia-parser-script"
+updated_by: "boroumand-import"

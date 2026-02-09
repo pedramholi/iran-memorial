@@ -44,4 +44,8 @@ prisma/migrations/migration_lock.toml
 
 # script caches
 scripts/.wiki_cache.txt
+scripts/.boroumand_cache/
+scripts/boroumand_master.json
+scripts/boroumand_matches.json
+scripts/boroumand_details.json
 scripts/__pycache__/

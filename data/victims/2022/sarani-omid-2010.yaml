@@ -1,6 +1,6 @@
 id: sarani-omid-2010
 name_latin: "Omid Sarani"
-name_farsi: null
+name_farsi: "امید سارانی"
 date_of_birth: null  # est. birth year: 2010
 place_of_birth: null
 gender: male
@@ -23,6 +23,9 @@ responsible_forces: null
 # --- VERIFICATION ---
 status: "unverified"
 sources:
+  - url: "https://www.iranrights.org/memorial/story/86756/omid-sarani"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
   - url: "https://en.wikipedia.org/wiki/Deaths_during_the_Mahsa_Amini_protests"
     name: "Wikipedia — Deaths during the Mahsa Amini protests"
     date: null
@@ -32,4 +35,4 @@ sources:
     date: 2022-12-09
     type: ngo_report
 last_updated: 2026-02-09
-updated_by: "wikipedia-parser-script"
+updated_by: "boroumand-import"

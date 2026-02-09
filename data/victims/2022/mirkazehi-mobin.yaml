@@ -1,12 +1,11 @@
 id: mirkazehi-mobin
 name_latin: "Mobin Mirkazehi"
-name_farsi: null
+name_farsi: "مبین میرکازهی"
 date_of_birth: null
 place_of_birth: null
 gender: male
 ethnicity: Baluchi
-photo: null
-
+photo: "https://www.iranrights.org/actorphotos/86879_thumb.jpeg"
 # --- DEATH ---
 date_of_death: 2022-11-04
 age_at_death: 14
@@ -24,6 +23,9 @@ responsible_forces: null
 # --- VERIFICATION ---
 status: "unverified"
 sources:
+  - url: "https://www.iranrights.org/memorial/story/-9018/mobin-mirkazehi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
   - url: "https://en.wikipedia.org/wiki/Deaths_during_the_Mahsa_Amini_protests"
     name: "Wikipedia — Deaths during the Mahsa Amini protests"
     date: null
@@ -33,4 +35,4 @@ sources:
     date: 2022-12-09
     type: ngo_report
 last_updated: 2026-02-09
-updated_by: "wikipedia-parser-script"
+updated_by: "boroumand-import"

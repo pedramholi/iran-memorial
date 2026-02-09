@@ -27,6 +27,9 @@ responsible_forces: null
 # --- VERIFICATION ---
 status: "unverified"
 sources:
+  - url: "https://www.iranrights.org/memorial/story/-3179/ali-sadeghi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
   - url: "https://iranvictims.com"
     name: "iranvictims.com — Victim #361"
     date: null
@@ -44,4 +47,4 @@ sources:
     date: null
     type: primary
 last_updated: 2026-02-09
-updated_by: "iranvictims-csv-import"
+updated_by: "boroumand-import"

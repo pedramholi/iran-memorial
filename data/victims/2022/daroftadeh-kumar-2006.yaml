@@ -1,6 +1,6 @@
 id: daroftadeh-kumar-2006
 name_latin: "Kumar Daroftadeh"
-name_farsi: null
+name_farsi: "کومار درافتاده"
 date_of_birth: null  # est. birth year: 2006
 place_of_birth: null
 gender: male
@@ -28,6 +28,9 @@ responsible_forces: null
 # --- VERIFICATION ---
 status: "unverified"
 sources:
+  - url: "https://www.iranrights.org/memorial/story/86440/kumar-daroftadeh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
   - url: "https://en.wikipedia.org/wiki/Deaths_during_the_Mahsa_Amini_protests"
     name: "Wikipedia — Deaths during the Mahsa Amini protests"
     date: null
@@ -37,4 +40,4 @@ sources:
     date: 2022-12-09
     type: ngo_report
 last_updated: 2026-02-09
-updated_by: "wikipedia-parser-script"
+updated_by: "boroumand-import"

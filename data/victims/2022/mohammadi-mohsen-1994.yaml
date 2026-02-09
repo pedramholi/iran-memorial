@@ -1,6 +1,6 @@
 id: mohammadi-mohsen-1994
 name_latin: "Mohsen Mohammadi"
-name_farsi: null
+name_farsi: "محسن محمدی"
 date_of_birth: null  # est. birth year: 1994
 place_of_birth: null
 gender: male
@@ -21,9 +21,15 @@ responsible_forces: null
 # --- VERIFICATION ---
 status: "unverified"
 sources:
+  - url: "https://www.iranrights.org/memorial/story/86387/mohsen-mohammadi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+  - url: "https://www.iranrights.org/memorial/story/-3027/mohsen-mohammadi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
   - url: "https://en.wikipedia.org/wiki/Deaths_during_the_Mahsa_Amini_protests"
     name: "Wikipedia — Deaths during the Mahsa Amini protests"
     date: null
     type: encyclopedia
 last_updated: 2026-02-09
-updated_by: "wikipedia-parser-script"
+updated_by: "boroumand-import"

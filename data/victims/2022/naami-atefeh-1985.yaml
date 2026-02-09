@@ -5,8 +5,7 @@ date_of_birth: null
 place_of_birth: "Ahvaz"
 gender: female
 ethnicity: null
-photo: null
-
+photo: "https://www.iranrights.org/actorphotos/85804_thumb.jpeg"
 # --- DEATH ---
 date_of_death: 2022-11-26
 age_at_death: 37
@@ -45,4 +44,4 @@ sources:
     date: null
     type: encyclopedia
 last_updated: 2026-02-09
-updated_by: "iran-memorial project"
+updated_by: "boroumand-import"

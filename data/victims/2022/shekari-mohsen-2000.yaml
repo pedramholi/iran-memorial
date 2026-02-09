@@ -6,8 +6,7 @@ date_of_birth: 2000-02-24
 place_of_birth: "Tehran"
 gender: male
 ethnicity: Persian
-photo: null
-
+photo: "https://www.iranrights.org/actorphotos/85278_thumb.jpeg"
 # --- LIFE ---
 occupation: "Cafe worker"
 education: null
@@ -57,6 +56,9 @@ tributes:
 # --- VERIFICATION ---
 status: verified
 sources:
+  - url: "https://www.iranrights.org/memorial/story/-8734/mohsen-shekari"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
   - url: "https://en.wikipedia.org/wiki/Execution_of_Mohsen_Shekari"
     name: "Wikipedia — Execution of Mohsen Shekari"
     date: null
@@ -82,4 +84,4 @@ sources:
     date: null
     type: primary
 last_updated: 2026-02-09
-updated_by: "iran-memorial project"
+updated_by: "boroumand-import"
