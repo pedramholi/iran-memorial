@@ -112,7 +112,7 @@ iran-memorial/
 │   └── init.sql                 # pg_trgm extension
 ├── data/                        # Seed data (YAML)
 │   ├── events/timeline.yaml     # 12 historical events
-│   └── victims/                 # 3 exemplary entries + template
+│   └── victims/                 # 4,403 victim YAML files + template
 ├── docs/                        # All documentation
 ├── docker-compose.yml           # PostgreSQL 16 + Next.js app
 ├── Dockerfile                   # Multi-stage production build
@@ -230,9 +230,9 @@ border-start: 2px solid;     /* NOT border-left */
 | Type | Count | Files |
 |------|-------|-------|
 | Events | 12 | `data/events/timeline.yaml` |
-| Victims | 3 | `data/victims/{year}/slug.yaml` |
+| Victims | 4,403 | `data/victims/{year}/slug.yaml` |
 
-**Victims:** Mahsa Amini (2022), Neda Agha-Soltan (2009), Maryam Kazemi (1988 representative)
+**Victims:** 4,403 YAML files across 5 sources (Wikipedia, HRANA, IHR, iranvictims.com, manual). Deduplicated via `scripts/dedup_victims.py`. ~55 medium-confidence pairs remain for manual review.
 **Events:** Revolution 1979, Reign of Terror 1981–85, Iran-Iraq War, 1988 Massacre, Chain Murders, Student Protests 1999, Green Movement 2009, Bloody November 2019, Woman Life Freedom 2022, 2026 Massacres
 
 ---
