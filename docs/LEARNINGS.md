@@ -182,10 +182,10 @@
 - **Iterative Namenslisten für Gender-Inferenz:** Gender-Abdeckung von 64% → 100% in 6 Iterationen über 2 Sessions. Methode: Unknowns analysieren → häufigste Namen identifizieren → Liste erweitern → erneut laufen lassen. Jede Iteration liefert abnehmende Erträge. ~500 persische/kurdische/baluchische Vornamen decken 4.581 Opfer zu 100% ab. Tippfehler-Varianten (aboalfzl, behruz, fa'zh) müssen explizit aufgenommen werden.
 - **Font-Strategie:** Inter (Google Fonts) für LTR, Vazirmatn für Farsi RTL — geladen via `<link>` im Locale-Layout, kein @font-face nötig.
 - **Multi-Source-Import vor PDF-Parsing:** Immer zuerst nach maschinenlesbaren Quellen suchen (CSVs, APIs, Wikitables). Community-Projekte wie iranvictims.com haben oft Download-Buttons. PDFs nur als letzte Option — pdftotext + Regex funktioniert aber gut für strukturierte NGO-Reports.
-- **Name-based Dedup reicht für Erstimport:** `name.lower()` Matching fängt ~95% der Duplikate. Für die restlichen 5% (Transliterations-Varianten wie "Shirouzi" vs "Shirouzehi") braucht es ein dediziertes Dedup-Script. → Erledigt: `scripts/dedup_victims.py` hat 178 Duplikate in 4.581 Dateien gefunden (3.9%).
+- **Name-based Dedup reicht für Erstimport:** `name.lower()` Matching fängt ~95% der Duplikate. Für die restlichen 5% (Transliterations-Varianten wie "Shirouzi" vs "Shirouzehi") braucht es ein dediziertes Dedup-Script. → Erledigt: `scripts/dedup_victims.py` hat 206 Duplikate in 4.581 Dateien gefunden (4.5%).
 - **Dedup-Scoring mit negativen Signalen:** Verschiedene Todesdaten (beide non-null) = -100 verhindert zuverlässig falsche Merges bei Namenszwillingen (z.B. "Mohammad Amini" in 2022 und 2026 — verschiedene Personen). Gleiches Farsi-Name (+50) + gleiches Todesdatum (+50) = fast sichere Duplikate.
 - **Union-Find für transitive Duplikat-Cluster:** Paarweise Duplikat-Erkennung erzeugt transitive Ketten (A≈B, B≈C → A,B,C sind ein Cluster). Union-Find gruppiert diese korrekt und verhindert Konflikte beim Merge (z.B. "Nima Khan Ahmadi" existierte 4x → 1 Cluster, 3 gelöscht).
-- **Province-Diskrepanz als Warnsignal:** iranvictims.com listet viele Opfer mit falscher/generischer Provinz (oft "Tehran" als Default). Gleicher Farsi-Name + verschiedene Provinz (score 35) ist kein sicherer Match — ~55 solcher Paare bleiben offen und brauchen manuelle Prüfung.
+- **Province-Diskrepanz als Warnsignal:** iranvictims.com listet viele Opfer mit falscher/generischer Provinz (oft "Tehran" als Default). Gleicher Farsi-Name + verschiedene Provinz (score 35) ist kein sicherer Match — manuelle Prüfung aller 55 Paare ergab 27 echte Duplikate und 28 verschiedene Personen (49% false positive rate bei Score 30-49).
 - **Wayback Machine als Cloudflare-Bypass:** Wenn eine Website (z.B. iranhr.net) hinter Cloudflare blockiert ist, kann `web.archive.org/web/URL` oft noch auf gecachte Versionen zugreifen. Hat funktioniert um IHRs 22 Suspicious Deaths zu extrahieren, obwohl die Live-Site 403 zurückgab.
 
 ---
@@ -248,12 +248,12 @@ Die bestehenden YAML-Dateien verwenden ein flaches Format mit verschachtelten Ob
 
 ### Fehlende WLF-Opfer: Lückenanalyse und Strategie (2026-02-09)
 
-**Aktueller Stand (nach Multi-Source-Import + Deduplizierung):** 4.403 Opfer total
-- ~770 WLF 2022 (Wikipedia 422 + HRANA 352 + Manuell 12 + IHR 1, nach Dedup)
+**Aktueller Stand (nach Multi-Source-Import + Deduplizierung):** 4.375 Opfer total
+- ~755 WLF 2022 (Wikipedia 422 + HRANA 352 + Manuell 12 + IHR 1, nach Dedup)
 - 26 WLF 2023 (Hinrichtungen + Hafttode + IHR Suspicious Deaths 3)
 - 2 WLF 2024 (Hinrichtungen)
 - 20 in 2025 (3 WLF-Hinrichtungen + 17 aus iranvictims.com)
-- ~3.583 in 2026 (iranvictims.com CSV-Import, nach Dedup)
+- ~3.570 in 2026 (iranvictims.com CSV-Import, nach Dedup)
 - 2 historisch (1988, 2009)
 
 **Zur Einordnung der Zahlen:**
@@ -279,7 +279,7 @@ Die 551 Toten (IHR, Stand Sept. 2023) sind das **verifizierte Minimum**, nicht d
 2. ~~HRANA 82-Day Report~~ → ERLEDIGT: 352 neue Opfer importiert (scripts/parse_hrana_82day.py)
 3. ~~iranvictims.com CSV~~ → ERLEDIGT: 3.752 Opfer der 2025-2026 Proteste (scripts/import_iranvictims_csv.py)
 4. ~~IHR One-Year Report~~ → BLOCKIERT: Cloudflare, aber Coverage bereits > IHR 551
-5. ~~Deduplizierung~~ → ERLEDIGT: 178 Duplikate entfernt (scripts/dedup_victims.py), 4.581 → 4.403
+5. ~~Deduplizierung~~ → ERLEDIGT: 206 Duplikate entfernt (scripts/dedup_victims.py), 4.581 → 4.375
 
 **Noch offene Quellen:**
 
@@ -289,7 +289,7 @@ Die 551 Toten (IHR, Stand Sept. 2023) sind das **verifizierte Minimum**, nicht d
 | 2 | Boroumand Foundation (iranrights.org/memorial) | ~50-200 + Enrichment | API/Scrape | Offen |
 | 3 | Amnesty International PDFs | ~44 Kinder namentlich | PDF-Parse | Offen |
 | 4 | HRANA 20-Day Report (archive.org) | ~0-20 | PDF-Parse | Offen |
-| 5 | ~~Deduplizierung & Name-Normalisierung~~ | ~~178 Duplikate entfernt~~ | ~~Script~~ | **ERLEDIGT** |
+| 5 | ~~Deduplizierung & Name-Normalisierung~~ | ~~206 Duplikate entfernt~~ | ~~Script~~ | **ERLEDIGT** |
 | 5 | KHRN + IHR für 2025/2026-Proteste | Tausende | Laufend | Mittel |
 | 6 | Amnesty International Berichte | ~10-30 | 2-3 Tage | Hoch |
 
@@ -305,11 +305,11 @@ Vor jedem Import gegen diese 5 Opferkategorien prüfen:
 
 **Script:** `scripts/dedup_victims.py` — findet und merged Duplikate via 3 Strategien + Scoring.
 
-**Ergebnis:** 4.581 → 4.403 Opfer (178 Duplikate entfernt, 0 Fehler)
-- 158 Cluster (davon 14 mit 3+ Dateien, z.B. Nika Shakarami 3x, Mohammad Mehdi Karami 3x)
+**Ergebnis:** 4.581 → 4.375 Opfer (206 Duplikate entfernt, 0 Fehler)
+- 158 Cluster in Runde 1 (davon 14 mit 3+ Dateien, z.B. Nika Shakarami 3x, Mohammad Mehdi Karami 3x)
 - Runde 1: 172 HIGH-confidence Merges (score ≥ 50, automatisch)
 - Runde 2: 6 manuelle Transliterations-Merges (MEDIUM, manuell geprüft)
-- 55 MEDIUM-Paare bleiben offen (gleicher Farsi-Name, verschiedene Provinzen)
+- Runde 3: 27 manuelle MEDIUM-Merges nach Datei-für-Datei-Review (55 Paare geprüft, 27 gemergt, 28 als verschiedene Personen bestätigt)
 
 **3 Matching-Strategien:**
 1. **Gleicher Familienname + ähnliche Vornamen** (Levenshtein ≤ 1 pro Namensteil, erster Buchstabe muss übereinstimmen)
@@ -340,7 +340,12 @@ Vor jedem Import gegen diese 5 Opferkategorien prüfen:
 
 **Überraschende Erkenntnis:** iranvictims.com listet WLF-2022-Opfer (Nika Shakarami, Karami, Hosseini, Shekari, etc.) erneut in ihrem 2025-2026-Datensatz — vermutlich als "heroes" ohne separates Todesdatum. Das Scoring-System hat diese korrekt erkannt und in die bestehenden, detaillierteren 2022/2023-Einträge gemergt.
 
-**Offene Fälle (55 MEDIUM-Paare):** Gleicher Farsi-Name + verschiedene Provinzen. Typisches Pattern: Ein Eintrag hat `province: Tehran` (vermutlich Default), der andere eine spezifische Provinz. Ohne weitere Bestätigung nicht sicher zu mergen — könnten verschiedene Personen mit gleichem Namen sein (besonders bei häufigen Namen wie Ali Moradi, Mehdi Ahmadi).
+**Offene Fälle (28 SKIP-Paare):** Nach manueller Prüfung aller 55 MEDIUM-Paare bestätigt als verschiedene Personen — unterschiedliche Todesdaten, Provinzen oder Umstände trotz ähnlicher Namen. Typisch: häufige Namen wie Ali Moradi, Mehdi Ahmadi existieren mehrfach als tatsächlich verschiedene Opfer.
+
+**Erkenntnisse aus MEDIUM-Review:**
+- **"Killed in city A, memorialized in city B"**: iranvictims.com listet oft den Begräbnis-/Gedenkort, andere Quellen den Todesort. Das erklärt Provinz-Diskrepanzen bei echten Duplikaten.
+- **`javidnamhamedan` Telegram-Kanal** als Quelle in iranvictims.com erzeugt systematisch Duplikate mit Tehran-Region-Einträgen.
+- **Score 30-49 erfordert Datei-Prüfung**: Automatisches Mergen in diesem Bereich würde ~50% falsche Merges erzeugen.
 
 ### Zukünftige Imports
 
@@ -362,4 +367,4 @@ Boroumand Foundation, Iran Human Rights (IHR) und HRANA haben eigene Datenformat
 ---
 
 *Erstellt: 2026-02-09*
-*Letzte Aktualisierung: 2026-02-09 (Dedup-Erkenntnisse ergänzt)*
+*Letzte Aktualisierung: 2026-02-09 (MEDIUM-Dedup abgeschlossen: 206 Duplikate total)*
