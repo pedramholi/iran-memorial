@@ -1,0 +1,44 @@
+id: shadabi-amirhossein-2006
+name_latin: "Amirhossein Shadabi"
+name_farsi: "امیرحسین شادابی"
+date_of_birth: null  # est. birth year: 2006
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: 20
+place_of_death: "Shahroud"
+province: "Semnan"
+cause_of_death: "Gunshot"
+circumstances: >
+    21-year-old soldier who was on leave. Was outside on Thursday 18 Dey
+  (January 8, 2026) when he fled from suppression forces but they caught up with
+  him in Hammam Sheik alley in Shahroud where he was hit by a war bullet. Was
+  taken to hospital too late to save his life.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2184"
+    date: null
+    type: community_database
+  - url: "https://x.com/hekasrehcrisis/status/2017107349274501399"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/HeKasrehCrisis/status/2016595467539267915"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/i/status/2017107349274501399"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

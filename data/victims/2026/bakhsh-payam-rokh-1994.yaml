@@ -1,0 +1,44 @@
+id: bakhsh-payam-rokh-1994
+name_latin: "Payam Rokh Bakhsh"
+name_farsi: "پیام رخ‌بخش"
+date_of_birth: null  # est. birth year: 1994
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 32
+place_of_death: "Shiraz"
+province: "Fars"
+cause_of_death: "Gunshot"
+circumstances: >
+    31-year-old who fell while fleeing and was shot with pellets at close range,
+  died from severe bleeding due to lack of medical care at Namazi Hospital in
+  Shiraz. Authorities imposed many conditions and harassment for the handover of
+  the body
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2573"
+    date: null
+    type: community_database
+  - url: "https://x.com/MayaThefish/status/2015532220610412551"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/sssccpp/status/2017685687005286573"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/Sssccpp/status/2017685687005286573"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

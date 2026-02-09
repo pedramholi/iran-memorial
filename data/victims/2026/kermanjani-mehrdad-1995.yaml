@@ -1,0 +1,44 @@
+id: kermanjani-mehrdad-1995
+name_latin: "Mehrdad Kermanjani"
+name_farsi: "مهرداد کرماجانی"
+date_of_birth: null  # est. birth year: 1995
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: 31
+place_of_death: "Gohardasht, Karaj, Alborz"
+province: "Alborz"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot with live ammunition by Islamic Republic suppression forces during
+  popular protests in Karaj. Kurdish citizen originally from Kangavar,
+  Kermanshah Province, of Lak ethnicity. Body may not yet have been returned to
+  family.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #902"
+    date: null
+    type: community_database
+  - url: "https://x.com/HengawO/status/2014429661707542927"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+  - url: "https://x.com/iranwire/status/2016247397655957589"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/KurdistanHRN/status/2016177480659353720"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

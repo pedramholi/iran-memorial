@@ -1,0 +1,43 @@
+id: arbabpouri-amir-mohammad-2011
+name_latin: "Amir Mohammad Arbabpouri"
+name_farsi: "امیرمحمد اربابپوری"
+date_of_birth: null  # est. birth year: 2011
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 15
+place_of_death: "Kermanshah"
+province: "Kermanshah"
+cause_of_death: "Gunshot"
+circumstances: >
+    Kurdish child from Harsin, shot by Islamic Republic military-security forces
+  during popular protests in Moalem neighborhood of Kermanshah. His burial
+  ceremony was held on January 10th in Pariwah Sofla village.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #668"
+    date: null
+    type: community_database
+  - url: "https://x.com/noamagid/status/2012879178161385833"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/NoaMagid/status/2012879178161385833"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/HengawO/status/2012641346142572662"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

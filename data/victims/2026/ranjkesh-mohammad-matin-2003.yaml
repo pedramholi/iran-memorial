@@ -1,0 +1,44 @@
+id: ranjkesh-mohammad-matin-2003
+name_latin: "Mohammad Matin Ranjkesh"
+name_farsi: "محمد متین رنجکش"
+date_of_birth: null  # est. birth year: 2003
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 23
+place_of_death: "Isfahan"
+province: "Isfahan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Computer engineering student who recently transferred from Yazd University
+  to Isfahan University. Killed by shotgun pellets fired by suppressive forces
+  during protests. Was active in web design and user interface work, focusing on
+  making digital product user experiences simpler and more practical.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1164"
+    date: null
+    type: community_database
+  - url: "https://www.instagram.com/p/DT69mz9DDo6"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/anjmotahed/status/2015883038740107393"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/missmarpel75/status/2015357313180143678"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

@@ -1,0 +1,47 @@
+id: mohammadifar-hassan-1986
+name_latin: "Hassan Mohammadifar"
+name_farsi: "حسن محمدفر"
+date_of_birth: null  # est. birth year: 1986
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 40
+place_of_death: "Khorramabad, Lorestan"
+province: "Lorestan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot in the side during protests in Khorramabad, Lorestan. Died from severe
+  bleeding while being transported to hospital. Security officials tried to
+  present him as a 'martyred Basij member' which the family rejected. Family was
+  asked to pay 300 million tomans for the body's return, which they couldn't
+  afford. He was buried at 5 AM under security measures at the end of Sarab-yas
+  cemetery in Khorramabad with only his parents present. He was a plumber with
+  two daughters aged 6 and 13, and his wife is pregnant.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1774"
+    date: null
+    type: community_database
+  - url: "https://x.com/chaawtimes/status/2016228937672634652"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://javidnaman.iranintl.com/memorial/7G0E78pdgELSDZc0D9Rg4U"
+    name: "Iran International"
+    date: null
+    type: primary
+  - url: "https://x.com/me_azadi/status/2018223695756407158"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

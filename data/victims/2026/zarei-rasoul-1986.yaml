@@ -1,0 +1,42 @@
+id: zarei-rasoul-1986
+name_latin: "Rasoul Zarei"
+name_farsi: "رسول زارعی"
+date_of_birth: null  # est. birth year: 1986
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 40
+place_of_death: "Karaj"
+province: "Alborz"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot and killed in Karaj. According to reports, the shooting occurred from
+  the rooftop of a police station and he was killed by gunshot.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #964"
+    date: null
+    type: community_database
+  - url: "https://x.com/allahbakhshii/status/2014777854957900203"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/dadban4/status/2015662797082751412"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/HeKasrehCrisis/status/2018562830501589399"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

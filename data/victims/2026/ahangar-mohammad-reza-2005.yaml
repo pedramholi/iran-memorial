@@ -1,0 +1,46 @@
+id: ahangar-mohammad-reza-2005
+name_latin: "Mohammad Reza Ahangar"
+name_farsi: "محمدرضا آهنگر"
+date_of_birth: null  # est. birth year: 2005
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 21
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Gunshot (headshot)"
+circumstances: >
+    Shot and killed by government forces during protests on Kashani Street in
+  Sadeghieh's second circle. Eyewitnesses reported that the bullet was fired
+  from above the Goldis complex opposite Ibn Sina Hospital and directly targeted
+  his head. Before joining the protests, he had posted a video on Instagram
+  saying: 'I'm going for the freedom of my homeland, for my people not to
+  migrate. Don't you want Iran to be free? So let's go for Iran's freedom.'
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #404"
+    date: null
+    type: community_database
+  - url: "https://x.com/sssccpp/status/2013299534743429277"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/fseifikaran/status/2013706011186454528"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/FSeifikaran/status/2013549886277357659"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

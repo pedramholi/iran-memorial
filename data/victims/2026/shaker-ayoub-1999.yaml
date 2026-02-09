@@ -1,0 +1,35 @@
+id: shaker-ayoub-1999
+name_latin: "Ayoub Shaker"
+name_farsi: "ایوب شاکر"
+date_of_birth: null  # est. birth year: 1999
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-19
+age_at_death: 27
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Gunshot"
+circumstances: >
+    Kurdish citizen from Sarkhzu village in Bojnord, motorcycle delivery worker,
+  shot by military-security forces of the Islamic Republic during people's
+  protests in Tehran. His burial ceremony was held in Bojnord.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #3737"
+    date: null
+    type: community_database
+  - url: "https://x.com/KurdistanHRN/status/2018705664227287533"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

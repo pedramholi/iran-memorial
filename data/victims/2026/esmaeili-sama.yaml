@@ -1,0 +1,40 @@
+id: esmaeili-sama
+name_latin: "Sama Esmaeili"
+name_farsi: "سیما اسماعیلی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: 20
+place_of_death: null
+cause_of_death: null
+circumstances: >
+    Murdered by the Islamic Regime for demanding freedom
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1361"
+    date: null
+    type: community_database
+  - url: "https://x.com/isamanyasin/status/2014846226865230033"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/hiitsmemooneh/status/2014587654713888858"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/noamagid/status/2014053017268449610"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

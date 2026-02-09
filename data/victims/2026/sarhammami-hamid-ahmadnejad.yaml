@@ -1,0 +1,41 @@
+id: sarhammami-hamid-ahmadnejad
+name_latin: "Hamid Ahmadnejad Sarhammami"
+name_farsi: "حمید احمدنژاد سرحمامی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: null
+place_of_death: "Babol"
+province: "Mazandaran"
+cause_of_death: "Gunshot"
+circumstances: >
+    From the Pazvar area of Babol, went looking for his two sons near
+  Noshiravani Park. Shot by sniper in his side with the bullet exiting through
+  the other side of his body. Dragged himself to near Mehregan Hospital in
+  Babol. Three people attacked him with rifle butts, then finally shot him with
+  a shotgun
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2795"
+    date: null
+    type: community_database
+  - url: "https://javidnaman.iranintl.com/memorial/255P39jiXgM2t3lNmMh5za"
+    name: "Iran International"
+    date: null
+    type: primary
+  - url: "https://x.com/mamlekate/status/2018475303702544608"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

@@ -1,0 +1,43 @@
+id: harchegani-reza-mohammad-kiani-1994
+name_latin: "Reza Mohammad Kiani Harchegani"
+name_farsi: "رضا محمد کیانی هرچگانی"
+date_of_birth: null  # est. birth year: 1994
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: 32
+place_of_death: "Isfahan"
+province: "Isfahan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot directly by Islamic Republic suppression forces on Keshavarzi Street in
+  Isfahan. The bullet hit his heart area causing immediate death. After this
+  crime, security forces put his family under pressure and threats.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1851"
+    date: null
+    type: community_database
+  - url: "https://x.com/allahbakhshii/status/2015944599785623712"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/visfehan/status/2016474197694750721"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/1417"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

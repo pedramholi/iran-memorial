@@ -1,0 +1,43 @@
+id: magham-ramatin-bozorg-2000
+name_latin: "Ramatin Bozorg Magham"
+name_farsi: "رامتین بزرگمقام"
+date_of_birth: null  # est. birth year: 2000
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 26
+place_of_death: "Chalus"
+province: "Mazandaran"
+cause_of_death: "Gunshot (headshot)"
+circumstances: >
+    Worked at a pharmacy. Was present at protests with his friend. First his
+  friend was shot and killed on the spot, then Ramtin was killed by a direct
+  shot to the head while trying to lift his friend from the ground.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #754"
+    date: null
+    type: community_database
+  - url: "https://x.com/faiiiiiiiiiiry/status/2014445717063139594"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/maryammoqaddam/status/2014711935275536389"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/hyrcanihrm/status/2015419215969210808"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

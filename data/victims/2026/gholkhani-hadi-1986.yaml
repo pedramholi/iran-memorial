@@ -1,0 +1,43 @@
+id: gholkhani-hadi-1986
+name_latin: "Hadi Gholkhani"
+name_farsi: "هادی قلخانی"
+date_of_birth: null  # est. birth year: 1986
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 40
+place_of_death: "Shahrqods, Tehran"
+province: "Tehran"
+cause_of_death: "Gunshot (headshot)"
+circumstances: >
+    Shot in the head while trying to help someone who had been hit by pellets in
+  front of the Shahrqods governor's office. He was buried two days later in his
+  birthplace Tuyserkan. He owned a barbershop on Imamzadeh Street.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1652"
+    date: null
+    type: community_database
+  - url: "https://x.com/fseifikaran/status/2016133335769063567"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/1486"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://javidnaman.iranintl.com/memorial/h22nTBad3K42WBHvEvkmBA"
+    name: "Iran International"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

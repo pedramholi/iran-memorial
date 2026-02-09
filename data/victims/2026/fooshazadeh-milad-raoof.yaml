@@ -1,0 +1,38 @@
+id: fooshazadeh-milad-raoof
+name_latin: "Milad Raoof Fooshazadeh"
+name_farsi: "میلاد رئوف فوشازده"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: null
+place_of_death: "Karaj"
+province: "Alborz"
+cause_of_death: "Gunshot (headshot)"
+circumstances: >
+    Gilak citizen living in Karaj and father of two daughters, shot directly
+  with live ammunition to the forehead by forces of the Islamic Republic of Iran
+  during nationwide protests in the Sarasiyab area of Karaj on Enghelab
+  Boulevard. His body was buried anonymously in Behesht Zahra and his family was
+  prevented from holding public ceremonies and freely informing about how he was
+  killed.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1049"
+    date: null
+    type: community_database
+  - url: "https://x.com/hyrcanihrm/status/2014959362947580269"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

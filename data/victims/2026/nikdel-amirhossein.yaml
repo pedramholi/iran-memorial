@@ -1,0 +1,39 @@
+id: nikdel-amirhossein
+name_latin: "Amirhossein Nikdel"
+name_farsi: "امیرحسین نیکدل"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: null
+circumstances: >
+    Killed in Tehran. Family was threatened by authorities, and if his friend
+  who went to the street with him hadn't been there, no one would have ever
+  found out about his death.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2522"
+    date: null
+    type: community_database
+  - url: "https://x.com/hashshaashin/status/2017248595867468124"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/2300"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

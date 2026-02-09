@@ -1,0 +1,48 @@
+id: lashkari-parisa-1996
+name_latin: "Parisa Lashkari"
+name_farsi: "پریسا لشکری"
+date_of_birth: null  # est. birth year: 1996
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-10
+age_at_death: 30
+place_of_death: "Noorabad Mamassani"
+cause_of_death: "Gunshot"
+circumstances: >
+    Mother of a 7-year-old daughter, shot by suppression forces during protests
+  in Nurabad Mamasani. After being hit by a bullet, she called her husband and
+  brother saying 'come take me', but minutes later was targeted by more gunfire.
+  IRGC-affiliated forces transported the wounded and killed together, and Parisa
+  was among those transferred. Her body was returned to the family after several
+  days under security conditions, including restrictions on who could perform
+  the ritual washing, burial in early morning hours, and prohibition on chanting
+  by relatives. Multiple bullets were found in her body, including a shot to the
+  heart that evidence suggests occurred after her phone call.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #719"
+    date: null
+    type: community_database
+  - url: "https://x.com/vahidmirzaeii/status/2014101283645300963"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/iranintl/status/2014605969607503889"
+    name: "Iran International"
+    date: null
+    type: primary
+  - url: "https://x.com/IranIntl/status/2014605969607503889"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

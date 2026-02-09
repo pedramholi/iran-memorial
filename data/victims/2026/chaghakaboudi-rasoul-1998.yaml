@@ -1,0 +1,43 @@
+id: chaghakaboudi-rasoul-1998
+name_latin: "Rasoul Chaghakaboudi"
+name_farsi: "رسول چقاکبودی"
+date_of_birth: null  # est. birth year: 1998
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: 28
+place_of_death: "Karaj"
+province: "Alborz"
+cause_of_death: "Gunshot"
+circumstances: >
+    Young Kurdish man from Kermanshah killed by direct gunshot from Islamic
+  Republic suppression forces during popular protests in Karaj on Friday evening
+  19 Dey 1404. Shot with war bullets by regime forces.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #866"
+    date: null
+    type: community_database
+  - url: "https://www.instagram.com/p/DTzvKwiCC_U"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/HengawO/status/2014429661707542927"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+  - url: "https://x.com/KurdistanHRN/status/2013985376872878373"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

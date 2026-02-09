@@ -1,0 +1,45 @@
+id: alizadeh-mohammad-2001
+name_latin: "Mohammad Alizadeh"
+name_farsi: "محمد علی‌زاده"
+date_of_birth: null  # est. birth year: 2001
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 25
+place_of_death: "Rasht"
+province: "Gilan"
+cause_of_death: "Gunshot"
+circumstances: >
+    25-year-old protester from Fouman in Gilan province who was the leader of
+  Ettehad Fouman football club supporters. Shot and killed by suppressive forces
+  of the Islamic Republic in Rasht on Thursday. His family was threatened by
+  security agents and forced to bury him without holding funeral ceremonies and
+  at night.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #4343"
+    date: null
+    type: community_database
+  - url: "https://x.com/indypersian/status/2013736529068192228"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/452"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/emhaash/status/2016554477415764300"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

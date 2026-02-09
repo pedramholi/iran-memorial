@@ -1,0 +1,43 @@
+id: vand-mohammad-rezagholi-2009
+name_latin: "Mohammad Rezagholi-vand"
+name_farsi: "محمد رضاقلی‌وند"
+date_of_birth: null  # est. birth year: 2009
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 17
+place_of_death: "Karaj"
+province: "Alborz"
+cause_of_death: null
+circumstances: >
+    Died on January 8th in Karaj during the protests. Family is under pressure
+  not to speak about it or write anything. Father only made one Instagram post
+  without explanation.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2158"
+    date: null
+    type: community_database
+  - url: "https://x.com/hashshaashin/status/2017113741129642331"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/i/status/2017113741129642331"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/2254"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

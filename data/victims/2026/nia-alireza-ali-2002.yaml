@@ -1,0 +1,43 @@
+id: nia-alireza-ali-2002
+name_latin: "Alireza Ali Nia"
+name_farsi: "علیرضا علی‌نیا"
+date_of_birth: null  # est. birth year: 2002
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-10
+age_at_death: 24
+place_of_death: "Mashhad"
+province: "Razavi Khorasan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot directly by suppressive forces of the Islamic Republic in Ahmadabad
+  area. He was a merchant and bazaari from Mashhad who owned a men's clothing
+  store. He was married and his wife was seven months pregnant at the time of
+  his death. After his killing, his family kept his body at his father's house
+  for a period to prevent it from being taken by security forces. His burial
+  ceremony was eventually held in Behesht-e Reza cemetery in Mashhad, block 48,
+  row 21.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #3556"
+    date: null
+    type: community_database
+  - url: "https://x.com/vahidmirzaeii/status/2018446853348405288"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/hekasrehcrisis/status/2018942526099480907"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

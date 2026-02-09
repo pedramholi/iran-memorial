@@ -1,0 +1,55 @@
+id: ramezani-abbas-ali-1952
+name_latin: "Abbas Ali Ramezani"
+name_farsi: "عباسعلی رمضانی"
+date_of_birth: null  # est. birth year: 1952
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-19
+age_at_death: 74
+place_of_death: "Mashhad"
+province: "Razavi Khorasan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Former political prisoner and long-time civil activist from Mashhad, killed
+  during Iran's national revolution. Shot by security forces while participating
+  in unprecedented protests in Mashhad on Vakil Abad street. He was wearing an
+  electronic ankle monitor used for controlling prisoners at the time. He was a
+  political prisoner in the 1980s and had been repeatedly targeted by security
+  forces and arrested in recent years. In 2011, he was arrested while trying to
+  organize a commemoration for Ferdowsi in Mashhad and was held in solitary
+  confinement for over seven months. Last summer he was arrested to serve a
+  sentence of 3 years and 7 months. Mashhad Revolutionary Court had sentenced
+  him for financially supporting families of political prisoners and charges of
+  propaganda and action against the system. He was an associate of Hussein
+  Barazandeh, a famous religious reformist from Mashhad who was kidnapped in Dey
+  month 1373 (December 1994/January 1995) in Mashhad and killed as part of the
+  political murders of intellectuals and dissidents by Intelligence Ministry
+  forces.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #259"
+    date: null
+    type: community_database
+  - url: "https://x.com/iranintl/status/2012531856562884930"
+    name: "Iran International"
+    date: null
+    type: primary
+  - url: "https://x.com/hengawo/status/2012846909497430064"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+  - url: "https://x.com/iranhrs99/status/2013173488169734446"
+    name: "Iran Human Rights Society"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

@@ -1,0 +1,43 @@
+id: amini-amir-abbas
+name_latin: "Amir-Abbas Amini"
+name_farsi: "عباس امینی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: 12
+place_of_death: "Saveh"
+province: "Markazi"
+cause_of_death: "Gunshot"
+circumstances: >
+    12-year-old child shot and killed by agents of the Islamic Republic while
+  riding on a motorcycle with his father. After the child was shot and fell, his
+  father stopped to see what happened and was also shot and killed.
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1060"
+    date: null
+    type: community_database
+  - url: "https://x.com/farangissbayat/status/2014721127541551213"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://www.instagram.com/p/DT2-huDDpgp"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/esmaeils1169/status/2014718346575421539"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

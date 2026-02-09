@@ -1,0 +1,46 @@
+id: arian-saeed-1971
+name_latin: "Saeed Arian"
+name_farsi: "سعید آریان"
+date_of_birth: null  # est. birth year: 1971
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 55
+place_of_death: "Arak"
+province: "Markazi"
+cause_of_death: null
+circumstances: >
+    Engineer at Arak Refinery who disappeared on January 8, 2026 during protests
+  on Shariati Street in Arak. His family had no information about his
+  whereabouts for 6 days until his lifeless body was handed over to them at the
+  Arak morgue on January 14, 2026. Authorities provided no clear explanation
+  regarding the circumstances of his death or whether he had been detained prior
+  to his killing.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1449"
+    date: null
+    type: community_database
+  - url: "https://x.com/behnam_chegini/status/2015553286149992868"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/saeidvafa/status/2018923259660534110"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/SaeidVafa/status/2018923259660534110"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

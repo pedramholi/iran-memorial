@@ -1,0 +1,45 @@
+id: kadivarian-rasoul-2009
+name_latin: "Rasoul Kadivarian"
+name_farsi: "رسول کدیوریان"
+date_of_birth: null  # est. birth year: 2009
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-03
+age_at_death: 17
+place_of_death: "Kermanshah"
+province: "Kermanshah"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot by IRGC forces on Artesh Street in Jafarabad, Kermanshah. Transferred
+  to Taleghani Hospital where he died shortly afterward. After his death,
+  security agencies, the governor's office, and Kermanshah provincial
+  authorities pressured the family to publicly announce that Rasoul was a
+  government Basij member and to attribute his death to thugs and rioters.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #194"
+    date: null
+    type: community_database
+  - url: "https://www.hrw.org/news/2026/01/08/iran-authorities-renewed-cycle-of-protest-bloodshed"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/KurdistanHRN/status/2008214640791064873"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/KurdistanHRN/status/2015538579116642517"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

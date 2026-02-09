@@ -1,0 +1,44 @@
+id: kari-erfan-2006
+name_latin: "Erfan Kari"
+name_farsi: "عرفان کاری"
+date_of_birth: null  # est. birth year: 2006
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 20
+place_of_death: "Persian Gulf neighborhood, Tehran"
+province: "Tehran"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot by three bullets in Tehran's Persian Gulf district, fired by forces of
+  the Islamic Republic regime. Body retrieved by family from Kahrizak three days
+  later on January 11. Was a dedicated athlete and wrestler, former champion in
+  youth category with passion for professional motorcycling.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #676"
+    date: null
+    type: community_database
+  - url: "https://x.com/hoorieh81/status/2014309748988948810"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/M_Zan_Zendegi/status/2015112366740885510"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/longlosthills/status/2015486699623907432"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

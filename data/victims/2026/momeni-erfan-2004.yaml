@@ -1,0 +1,47 @@
+id: momeni-erfan-2004
+name_latin: "Erfan Momeni"
+name_farsi: "عرفان مومنی"
+date_of_birth: null  # est. birth year: 2004
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: 22
+place_of_death: "Dehanoui, Isfahan"
+province: "Isfahan"
+cause_of_death: "Gunshot"
+circumstances: >
+    23-year-old foundry worker from Dehanoui, Isfahan who was a protester in the
+  freedom movement. He was wounded by a bullet to the left thigh area. Despite
+  family reports that his physical condition was improving and there was talk of
+  'complete recovery', he was suddenly transferred to ICU after his condition
+  deteriorated and died the next morning. Family was forced to pay 1.3 billion
+  tomans to retrieve his body. Death occurred in suspicious circumstances with
+  sudden transfer to ICU.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1102"
+    date: null
+    type: community_database
+  - url: "https://x.com/visfehan/status/2015142600974483763"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/VIsfehan/status/2015363372800147472"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/VIsfehan/status/2015142600974483763"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

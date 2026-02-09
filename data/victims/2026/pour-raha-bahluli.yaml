@@ -1,0 +1,33 @@
+id: pour-raha-bahluli
+name_latin: "Raha Bahluli Pour"
+name_farsi: "رها بهلولی‌ پور"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: 23
+place_of_death: null
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot from behind in the lung. Was 23 years old, full of enthusiasm for life,
+  was learning Italian, and used to say 'I'm very much in favor of life'
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1579"
+    date: null
+    type: community_database
+  - url: "https://x.com/dariush_Zand/status/2013647969816305797"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

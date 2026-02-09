@@ -1,0 +1,51 @@
+id: saghoori-moeen-2001
+name_latin: "Moeen Saghoori"
+name_farsi: "معین سقوری"
+date_of_birth: null  # est. birth year: 2001
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 25
+place_of_death: "Mashhad"
+province: "Razavi Khorasan"
+cause_of_death: null
+circumstances: >
+    Barista and cafe industry activist from Mashhad. Had been regularly
+  bodybuilding for more than seven years and was known by friends and relatives
+  as an energetic, kind and brave young man. Despite warnings from those around
+  him, he insisted on active participation and believed that everyone should
+  stand together to begin fundamental changes. He was patient in the face of
+  pressures and physical pain and would not back down from his decision.
+  According to local accounts, Moeen became a martyr in the Haft Tir area of
+  Mashhad during the Sun and Lion Revolution. After being transferred to Velayat
+  Hospital in Mashhad, he lost his life due to the severity of his injuries.
+  Some witnesses also said that he was among the first people to take protest
+  action in the vicinity of Haft Tir police station.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #3526"
+    date: null
+    type: community_database
+  - url: "https://x.com/HeKasrehCrisis/status/2017331856606146733"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/masoudkazemi81/status/2019774215780487671"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/iranintl/status/2019800509624799305"
+    name: "Iran International"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

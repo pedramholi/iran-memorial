@@ -1,0 +1,43 @@
+id: rabiei-hossein-2002
+name_latin: "Hossein Rabiei"
+name_farsi: "حسین ربیعی"
+date_of_birth: null  # est. birth year: 2002
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-02
+age_at_death: 24
+place_of_death: "Qom"
+province: "Qom"
+cause_of_death: "Gunshot (headshot)"
+circumstances: >
+    Shot in the head with a bullet in Tehran. He was from Bandar Abbas and was a
+  graduate student in electrical engineering in Tehran and was his mother's only
+  support. Friends have not been able to retrieve his body so far.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2571"
+    date: null
+    type: community_database
+  - url: "https://x.com/longlosthills/status/2010007572301132135"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/mousavi1355/status/2017588671495471608"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/ardalanmousavi/status/2017724222311637056"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

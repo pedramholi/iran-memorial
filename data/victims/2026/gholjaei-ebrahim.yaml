@@ -1,0 +1,36 @@
+id: gholjaei-ebrahim
+name_latin: "Ebrahim Gholjaei"
+name_farsi: "ابراهیم قلجایی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-20
+age_at_death: null
+place_of_death: "Mashhad"
+province: "Razavi Khorasan"
+cause_of_death: "Gunshot (headshot)"
+circumstances: >
+    Baluch citizen who was severely wounded on 24 Dey 1404 during protests in
+  Mashhad by shotgun pellets fired by military forces to the head, neck, chest
+  and abdomen. He hid for 8 days out of fear of arrest and finally died on 1
+  Bahman.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2557"
+    date: null
+    type: community_database
+  - url: "https://x.com/hamalilalin/status/2017678150604357796"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

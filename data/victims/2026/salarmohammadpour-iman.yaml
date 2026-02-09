@@ -1,0 +1,33 @@
+id: salarmohammadpour-iman
+name_latin: "Iman Salarmohammadpour"
+name_farsi: "ایمان سالارمحمدپور"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-01
+age_at_death: null
+place_of_death: "Bandar Abbas"
+province: "Hormozgan"
+cause_of_death: null
+circumstances: >
+    Died in Bandar Abbas during Dey 1404
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #3996"
+    date: null
+    type: community_database
+  - url: "https://t.me/RememberTheirNames/2030"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

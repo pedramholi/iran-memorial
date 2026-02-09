@@ -1,0 +1,39 @@
+id: gorji-sajjad
+name_latin: "Sajjad Gorji"
+name_farsi: "سجاد گرجی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot by Islamic Republic mercenary forces. He was from Dinavar, Kermanshah
+  province, and had come to Tehran to earn a living. Left behind a 5-year-old
+  daughter.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2347"
+    date: null
+    type: community_database
+  - url: "https://t.me/javanmardi77/154301"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/1906"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

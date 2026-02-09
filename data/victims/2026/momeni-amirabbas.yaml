@@ -1,0 +1,33 @@
+id: momeni-amirabbas
+name_latin: "Amirabbas Momeni"
+name_farsi: "امیرعباس مومنی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: 17
+place_of_death: "Eslamshahr"
+province: "Tehran"
+cause_of_death: null
+circumstances: >
+    Died in Dey 1404 in Eslamshahr
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #3854"
+    date: null
+    type: community_database
+  - url: "https://t.me/RememberTheirNames/1682"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

@@ -1,0 +1,43 @@
+id: goldasteh-amirhossein-safari-2006
+name_latin: "Amirhossein Safari Goldasteh"
+name_farsi: "امیرحسین صفری گلدسته"
+date_of_birth: null  # est. birth year: 2006
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 20
+place_of_death: "Kermanshah"
+province: "Kermanshah"
+cause_of_death: "Gunshot"
+circumstances: >
+    20-year-old student from Kermanshah shot and killed with three war bullets
+  from a Kalashnikov rifle by government forces on Thursday evening around 20:30
+  on Maskan Street in Kermanshah, Bahner intersection area
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2482"
+    date: null
+    type: community_database
+  - url: "https://x.com/tavaana/status/2017476385720160554"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/autnews_org/status/2017640446114103754"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://javidnaman.iranintl.com/memorial/yEYwvbhpDrCFHYzchO7fol"
+    name: "Iran International"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

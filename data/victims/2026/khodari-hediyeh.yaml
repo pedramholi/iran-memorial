@@ -1,0 +1,50 @@
+id: khodari-hediyeh
+name_latin: "Hediyeh Khodari"
+name_farsi: "هدیه خدری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: 17
+place_of_death: "Saveh"
+province: "Markazi"
+cause_of_death: "Beating"
+circumstances: >
+    17-year-old resident of Saveh who lived with her mother and two sisters.
+  Kidnapped by security forces during Dey month protests. Family was kept in
+  complete uncertainty for 6 days until the regime falsely claimed to her father
+  in Ganaveh that 'your daughter had a heart attack', while her body was
+  delivered with clear signs of torture and beatings. Family was forced to sign
+  a silence agreement and threatened to have a quiet burial. During the funeral
+  procession in Ganaveh, her mother held her daughter's wedding dress in her
+  arms; women were wailing and the mother was spinning around with the wedding
+  dress - a burning image of dreams extinguished by torture. She was killed
+  under torture, not from a 'heart attack'.
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #3703"
+    date: null
+    type: community_database
+  - url: "https://x.com/irannewsagency0/status/2018591465518112806"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/HeKasrehCrisis/status/2018566227438834149"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/IranNewsAgency0/status/2018591465518112806"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

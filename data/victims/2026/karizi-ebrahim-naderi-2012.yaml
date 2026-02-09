@@ -1,0 +1,43 @@
+id: karizi-ebrahim-naderi-2012
+name_latin: "Ebrahim Naderi Karizi"
+name_farsi: "ابراهیم نادری"
+date_of_birth: null  # est. birth year: 2012
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: 14
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot with live ammunition by government forces during popular protests in
+  Saadat Abad area, bullet hit heart region. Child of Afghan father and Iranian
+  mother. Was a child laborer working as mechanic apprentice.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2250"
+    date: null
+    type: community_database
+  - url: "https://x.com/bhfak46419/status/2017030177222496380"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/hengawo/status/2017280442597015558"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+  - url: "https://x.com/i/status/2017013881600639314"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

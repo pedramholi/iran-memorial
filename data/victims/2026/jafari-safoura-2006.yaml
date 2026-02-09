@@ -1,0 +1,45 @@
+id: jafari-safoura-2006
+name_latin: "Safoura Jafari"
+name_farsi: "صفورا جعفری"
+date_of_birth: null  # est. birth year: 2006
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-10
+age_at_death: 20
+place_of_death: "Qazvin"
+province: "Qazvin"
+cause_of_death: null
+circumstances: >
+    Mathematics student at Khomeini International University in Qazvin, killed
+  by Islamic Republic suppression forces. University attempted to introduce her
+  as a 'government martyr' after her death, which contradicts her personal views
+  and writings. Her last message on her Telegram channel was 'Be aware that
+  freedom is near.'
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1195"
+    date: null
+    type: community_database
+  - url: "https://x.com/shaya9000/status/2015522356861829630"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/anjmotahed/status/2015507082154553592"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/hekasrehcrisis/status/2015797646661763480"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

@@ -1,0 +1,39 @@
+id: pourkarim-mehdi
+name_latin: "Mehdi (Mohammad Javad) Pourkarim"
+name_farsi: "مهدی (محمدجواد) پورکریم"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: null
+place_of_death: "Astaneh-ye Ashrafiyeh"
+province: "Gilan"
+cause_of_death: null
+circumstances: >
+    Killed during government forces' attack on Thursday Bazaar in Astaneh-ye
+  Ashrafiyeh. Body was transferred to Lahijan and buried there. Gilaki citizen
+  from Lahijan.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1063"
+    date: null
+    type: community_database
+  - url: "https://x.com/hyrcanihrm/status/2015059289891602476"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/pkhwshhal/status/2014514390943269219"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

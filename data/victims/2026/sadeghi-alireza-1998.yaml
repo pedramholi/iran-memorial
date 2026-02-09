@@ -1,0 +1,43 @@
+id: sadeghi-alireza-1998
+name_latin: "Alireza Sadeghi"
+name_farsi: "علیرضا صادقی"
+date_of_birth: null  # est. birth year: 1998
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 28
+place_of_death: "Qeytarieh, Tehran"
+province: "Tehran"
+cause_of_death: "Gunshot"
+circumstances: >
+    28-year-old monarchist and opponent of the Islamic Republic, shot by Islamic
+  Republic suppressive forces on Andarzgoo Boulevard in Tehran alongside his
+  close friend Mohammad Golriz. Funeral held on Wednesday 24 Dey in Lavasan.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #674"
+    date: null
+    type: community_database
+  - url: "https://x.com/manotonews/status/2014299506796384369"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/Mousavi1355/status/2016002240213860355"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/hekasrehcrisis/status/2017250279830212989"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

@@ -1,0 +1,43 @@
+id: poursafar-kian-2000
+name_latin: "Kian Poursafar"
+name_farsi: "کیان پورصفار"
+date_of_birth: null  # est. birth year: 2000
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 26
+place_of_death: "Anzali"
+province: "Gilan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot directly by security forces while protesting with hope in his heart and
+  empty hands. Authorities did not allow a funeral ceremony to be held for him,
+  and he was buried in silence under government pressure.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1027"
+    date: null
+    type: community_database
+  - url: "https://x.com/iwasshiin/status/2014807465125191926"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://www.instagram.com/p/DT3S4FhCH71"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/Soranmansournia/status/2014864832370212993"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

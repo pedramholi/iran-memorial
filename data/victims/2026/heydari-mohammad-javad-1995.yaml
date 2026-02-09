@@ -1,0 +1,45 @@
+id: heydari-mohammad-javad-1995
+name_latin: "Mohammad Javad Heydari"
+name_farsi: "محمدجواد حیدری"
+date_of_birth: null  # est. birth year: 1995
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: 31
+place_of_death: "Masjed Soleyman, Khuzestan"
+province: "Khuzestan"
+cause_of_death: "Gunshot"
+circumstances: >
+    MMA athlete shot directly by suppression forces while helping a wounded
+  protester at 9:30 PM in Pasdaran neighborhood of Masjed Soleyman. Security
+  forces later buried him as a 'martyred Basiji' with security arrangements at
+  Behesht-e Zahra cemetery in Charbisheh on Dey 25, 1404 at 4 AM. His Instagram
+  photos and videos were removed by security forces.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1240"
+    date: null
+    type: community_database
+  - url: "https://x.com/iranintlsport/status/2015504213363609636"
+    name: "Iran International"
+    date: null
+    type: primary
+  - url: "https://javidnaman.iranintl.com/memorial/3Fy5sC7qrylDAVNVjWj2xP"
+    name: "Iran International"
+    date: null
+    type: primary
+  - url: "https://x.com/yaldarta/status/2014816290448310736"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

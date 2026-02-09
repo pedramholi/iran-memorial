@@ -1,0 +1,47 @@
+id: bakhshi-youssef-1999
+name_latin: "Youssef Bakhshi"
+name_farsi: "یوسف بخشی"
+date_of_birth: null  # est. birth year: 1999
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 27
+place_of_death: "Chalus"
+province: "Mazandaran"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot directly in the heart by war bullet from Islamic Republic suppression
+  forces during popular protests. 27-year-old merchant from Chalous who had
+  migrated there with his family several years prior. His parents' origins trace
+  back to Kermanj people from Quchan city in Razavi Khorasan province, and his
+  body was buried in that city. Described by relatives as a calm, oppressed, and
+  unarmed young man who went to the streets only for peaceful protest and
+  solidarity with other citizens.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1755"
+    date: null
+    type: community_database
+  - url: "https://t.me/persian_picture/4126"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/kyokushinsoofi/status/2016289113021043161"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/kurdpa_farsi/status/2016539014887551220"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

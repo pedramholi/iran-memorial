@@ -1,0 +1,47 @@
+id: yaghmouri-abolfazl-2009
+name_latin: "Abolfazl Yaghmouri"
+name_farsi: "ابوالفضل یغموری"
+date_of_birth: null  # est. birth year: 2009
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: 17
+place_of_death: "Fardis, Karaj"
+province: "Alborz"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot directly in the heart by Islamic Republic forces during protest.
+  Security forces prevented anyone from helping him for about forty minutes
+  while he was bleeding, threatening anyone who tried to assist. After the
+  killing, security forces collected and removed all CCTV cameras from homes and
+  shops on 15th Street in Fardis to destroy evidence. He was an aspiring rapper
+  who had built a small recording studio in his bedroom closet and wrote lyrics
+  about the pain of his generation.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #69"
+    date: null
+    type: community_database
+  - url: "https://x.com/IranProtestsCom/status/2011853640642818479"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/Daikatuo/status/2011843247153246303"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/loabatk/status/2012030090834821607"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

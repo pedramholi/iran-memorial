@@ -1,0 +1,36 @@
+id: azad-alireza-mnji-1999
+name_latin: "Alireza Mnji Azad"
+name_farsi: "علیرضا منجی‌آزاد"
+date_of_birth: null  # est. birth year: 1999
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 27
+place_of_death: "Rasht"
+province: "Gilan"
+cause_of_death: null
+circumstances: >
+    27-year-old Gilaki citizen from Rasht who was killed. He was a footballer
+  with great passion for football, but had stopped professional activity in this
+  field to provide for his family. His body was handed over to the family three
+  days after being killed and was buried at night.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #4678"
+    date: null
+    type: community_database
+  - url: "https://x.com/hyrcanihrm/status/2016462710523740502"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

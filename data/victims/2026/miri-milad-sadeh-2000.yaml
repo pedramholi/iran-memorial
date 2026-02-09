@@ -1,0 +1,43 @@
+id: miri-milad-sadeh-2000
+name_latin: "Milad Sadeh-Miri"
+name_farsi: "میعاد ساده‌میری"
+date_of_birth: null  # est. birth year: 2000
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: 26
+place_of_death: "Ilam"
+province: "Ilam"
+cause_of_death: "Gunshot"
+circumstances: >
+    Kurdish citizen from Ilam, killed by being shot in the neck with a war
+  bullet by Islamic Republic forces. Family was forced to pay 600 million tomans
+  in cash as 'bullet money' to receive his body
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #748"
+    date: null
+    type: community_database
+  - url: "https://x.com/namahsos1979/status/2014488584590618680"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://www.instagram.com/p/DT09BxziraP"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/HengawO/status/2014688455331086748"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

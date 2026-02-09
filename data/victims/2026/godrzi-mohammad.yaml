@@ -1,0 +1,33 @@
+id: godrzi-mohammad
+name_latin: "Mohammad Godrzi"
+name_farsi: "محمد گودرزی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: 25
+place_of_death: "Borujerd"
+province: "Lorestan"
+cause_of_death: null
+circumstances: >
+    25-year-old from Borujerd
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #4676"
+    date: null
+    type: community_database
+  - url: "https://x.com/kyokushinsoofi/status/2016295737017983304"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

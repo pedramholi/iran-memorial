@@ -1,0 +1,46 @@
+id: keshavarz-shahin-ramtin-1994
+name_latin: "Shahin Ramtin Keshavarz"
+name_farsi: "رامتین کشاورز"
+date_of_birth: null  # est. birth year: 1994
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 32
+place_of_death: "Ghasem Abad village, Kalachai"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot and killed by plainclothes officers in a white Samand car on the night
+  of 18th Dey. Family retrieved his body with great difficulty and buried him at
+  3-4 AM without anyone present, under complete media silence. Intelligence
+  officers threatened the family that if anyone held ceremonies or posted
+  announcements, they would arrest his brother and father. He had completed all
+  his marriage and engagement preparations and was planning to finalize
+  arrangements in the coming days when he was killed by the Islamic Republic.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1310"
+    date: null
+    type: community_database
+  - url: "https://x.com/HyrcaniHRM/status/2015725416229536212"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://www.instagram.com/p/DUA40gCgn9I"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/ariakeoxer/status/2016444935202030078"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

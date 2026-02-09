@@ -1,0 +1,48 @@
+id: mohammadi-armin-sultan-2001
+name_latin: "Armin Sultan Mohammadi"
+name_farsi: "آرمین سلطان‌محمدی"
+date_of_birth: null  # est. birth year: 2001
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 25
+place_of_death: "Tehranpars, Tehran"
+province: "Tehran"
+cause_of_death: "Gunshot (headshot)"
+circumstances: >
+    Shot in the head with a war bullet at Felakeh-ye Sevom (Third Circle) in
+  Tehran-Pars area of eastern Tehran around 11 PM while participating in
+  protests. His body was taken to a hospital and family was contacted at 2 AM.
+  He was a worker who had previously worked in mechanics and recently changed
+  his profession to building painting. He had posted a story before the protest
+  saying 'This Thursday-Friday we're going to walk the city with friends. If
+  there's a one percent chance I go and don't return, celebrate for me in the
+  upcoming festivities.' He was buried in Behesht-e Zahra cemetery in Tehran.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1525"
+    date: null
+    type: community_database
+  - url: "https://x.com/iranwire/status/2015829467835572539"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://javidnaman.iranintl.com/memorial/vN7MNz32cVvzOpuuClZcO3"
+    name: "Iran International"
+    date: null
+    type: primary
+  - url: "https://x.com/kyokushinsoofi/status/2018315080211873948"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

@@ -1,0 +1,33 @@
+id: ahangari-mohammadreza
+name_latin: "Mohammadreza Ahangari"
+name_farsi: "محمدرضا اهنگری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: 20
+place_of_death: "Ferdows Boulevard"
+cause_of_death: null
+circumstances: >
+    Killed on Ferdows Boulevard. Persian name Mohammadreza indicates male
+  gender.
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1209"
+    date: null
+    type: community_database
+  - url: "https://x.com/Sashtyani/status/2015552388304601276"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

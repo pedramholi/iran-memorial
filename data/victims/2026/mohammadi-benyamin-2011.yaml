@@ -1,0 +1,43 @@
+id: mohammadi-benyamin-2011
+name_latin: "Benyamin Mohammadi"
+name_farsi: "بنیامین محمدی"
+date_of_birth: null  # est. birth year: 2011
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 15
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Gunshot"
+circumstances: >
+    16-year-old from Fallah, Tehran, killed by gunshot. A notice was posted at
+  his grandmother's house door. His father had recently passed away. The exact
+  date is uncertain but was around 18 or 19 Dey.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #696"
+    date: null
+    type: community_database
+  - url: "https://x.com/hashshaashin/status/2014356827689943118"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/Hashshaashin/status/2014356827689943118"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/iranianplateau/status/2014370655496511853"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

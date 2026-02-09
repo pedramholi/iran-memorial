@@ -1,0 +1,38 @@
+id: bahrami-abollfazl
+name_latin: "Abollfazl Bahrami"
+name_farsi: "ابوالفضل بهرامی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: 26
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: null
+circumstances: >
+    Mentioned in memorial context with phrase 'may his name be eternal' (جاوید
+  نام)
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1682"
+    date: null
+    type: community_database
+  - url: "https://x.com/HeKasrehCrisis/status/2015916208634085439"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/Maral27539217/status/2015906833433534690"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

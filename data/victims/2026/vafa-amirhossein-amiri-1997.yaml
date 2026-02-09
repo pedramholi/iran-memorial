@@ -1,0 +1,38 @@
+id: vafa-amirhossein-amiri-1997
+name_latin: "Amirhossein Amiri Vafa"
+name_farsi: "امیرحسین امیری‌وفا"
+date_of_birth: null  # est. birth year: 1997
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 29
+place_of_death: "Mashhad"
+province: "Razavi Khorasan"
+cause_of_death: null
+circumstances: >
+    Killed by government forces on Haft-e Tir Boulevard in Mashhad, buried
+  behind Ferdowsi's tomb in the city of Tus
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1702"
+    date: null
+    type: community_database
+  - url: "https://x.com/iranintlbrk/status/2016137179072798836"
+    name: "Iran International"
+    date: null
+    type: primary
+  - url: "https://x.com/historyinpik/status/2019451538255557014"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

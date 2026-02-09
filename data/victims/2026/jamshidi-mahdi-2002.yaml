@@ -1,0 +1,47 @@
+id: jamshidi-mahdi-2002
+name_latin: "Mahdi Jamshidi"
+name_farsi: "مهدی جمشیدی"
+date_of_birth: null  # est. birth year: 2002
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 24
+place_of_death: "Rostamabad, Gilan"
+province: "Gilan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot directly by Basij forces in Rostamabad (Gilan). Hit by a bullet at 8:30
+  AM and also had pellets hit his back. Suffered severe bleeding as they hit his
+  main leg artery. Underwent surgery by a general surgeon at midnight but
+  hospital lacked a vascular surgeon and blood supplies. He regained
+  consciousness at 3 AM asking 'Am I okay, is it over?' but went into a coma
+  three hours later and died at 11:30 AM. He had just opened his own shop two
+  days before his death.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #3520"
+    date: null
+    type: community_database
+  - url: "https://x.com/HeKasrehCrisis/status/2017804908469051610"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/IranNewsAgency0/status/2018150295218315771"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/1919"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

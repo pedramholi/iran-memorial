@@ -1,0 +1,40 @@
+id: ghaydari-hassan-1985
+name_latin: "Hassan Ghaydari"
+name_farsi: "حسن قیداری"
+date_of_birth: null  # est. birth year: 1985
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 41
+place_of_death: "Karaj"
+province: "Alborz"
+cause_of_death: "Gunshot (headshot)"
+circumstances: >
+    Shot in the chest with a war bullet at the first roundabout of Fardis. Born
+  in Zanjan. Before leaving, he told his wife: 'After I'm gone, be proud of me
+  and hold your head high. I'm going for my daughter and girls like my
+  daughter.'
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2619"
+    date: null
+    type: community_database
+  - url: "https://x.com/m_saeedy44360/status/2017705961767469331"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://javidnaman.iranintl.com/memorial/7G0E78pdgELSDZc0D3hAMz"
+    name: "Iran International"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

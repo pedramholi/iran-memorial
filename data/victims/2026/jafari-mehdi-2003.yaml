@@ -1,0 +1,48 @@
+id: jafari-mehdi-2003
+name_latin: "Mehdi Jafari"
+name_farsi: "مهدی جعفری"
+date_of_birth: null  # est. birth year: 2003
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: 23
+place_of_death: "Tehran, District 19, Khaniabad"
+province: "Tehran"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot with a war bullet in the waist from behind in District 19 of Tehran,
+  Khaniabad, in front of Shekar Banu pastry shop. Despite the possibility of
+  survival, agents prevented his rapid transfer to hospital, and this delay
+  caused him to die from the severity of his injuries. His body was eventually
+  handed over to his family after receiving a 'bullet fee' and was buried on
+  Sunday in Behesht Zahra, section 225. Family and friends described him as a
+  peaceful, kind person who loved animals and nature, who died innocently and in
+  silence.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #3964"
+    date: null
+    type: community_database
+  - url: "https://x.com/Realneo101/status/2014459493375955394"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/mrhiccup42/status/2014433060037480578"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/hyli_x/status/2014434372582039800"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

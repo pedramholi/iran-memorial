@@ -1,0 +1,38 @@
+id: ghlami-mohammad-2001
+name_latin: "Mohammad (Milad) Ghlami"
+name_farsi: "محمد (میلاد) غلامی"
+date_of_birth: null  # est. birth year: 2001
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 25
+place_of_death: "Mashhad"
+province: "Razavi Khorasan"
+cause_of_death: "Gunshot (headshot)"
+circumstances: >
+    25-year-old computer science student shot in the head with war bullets by
+  Islamic Republic suppressors in the evening on Thursday in east Tehran area
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #4339"
+    date: null
+    type: community_database
+  - url: "https://x.com/iranwire/status/2013698851073376393"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/909"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

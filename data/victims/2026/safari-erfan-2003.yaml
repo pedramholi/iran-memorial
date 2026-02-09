@@ -1,0 +1,44 @@
+id: safari-erfan-2003
+name_latin: "Erfan Safari"
+name_farsi: "عرفان صفری"
+date_of_birth: null  # est. birth year: 2003
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-10
+age_at_death: 23
+place_of_death: "Islamshahr, Tehran"
+province: "Tehran"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot with war ammunition. Friend took him to clinic but they said it wasn't
+  their job. Friend went to get a car, when he returned authorities had arrived
+  and taken Erfan away. The next day his body was found dumped in front of
+  hospital entrance.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2394"
+    date: null
+    type: community_database
+  - url: "https://x.com/iliaaaa66/status/2016879095112499623"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/hekasrehcrisis/status/2017469549130502644"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/gigii_coo/status/2016862256676430034"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

@@ -1,0 +1,37 @@
+id: nasirolmahalle-ghasem-voldi-1974
+name_latin: "Ghasem Voldi Nasirolmahalle"
+name_farsi: "قاسم ولدی نصیرمحله"
+date_of_birth: null  # est. birth year: 1974
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-11
+age_at_death: 52
+place_of_death: "Rasht"
+province: "Gilan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot with bullets in the Zia Abri area of Rasht city. After his death,
+  security agencies prevented any public ceremonies for him. His family was
+  pressured and forced to sign a written commitment to introduce his body as a
+  'Basiji'. His body was buried in the Nasirolmahalle mosque in Shaft without
+  public ceremonies. He was a 52-year-old Gilak citizen from Shaft.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2765"
+    date: null
+    type: community_database
+  - url: "https://x.com/HyrcaniHRM/status/2017927045863326034"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

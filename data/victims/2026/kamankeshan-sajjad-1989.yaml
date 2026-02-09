@@ -1,0 +1,44 @@
+id: kamankeshan-sajjad-1989
+name_latin: "Sajjad Kamankeshan"
+name_farsi: "سجاد کمان‌کش"
+date_of_birth: null  # est. birth year: 1989
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 37
+place_of_death: "Khomein"
+province: "Markazi"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot and killed during Iran's national uprising. Friends say his name was
+  deliberately removed from narratives and the regime wants this crime buried in
+  silence. On his last night, he told his friend 'you take my daughter, I'll
+  come' and never returned.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2737"
+    date: null
+    type: community_database
+  - url: "https://x.com/SaeidVafa/status/2017756454896243109"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://javidnaman.iranintl.com/memorial/tCKl8UDDdoQQUGMvcb0LZw"
+    name: "Iran International"
+    date: null
+    type: primary
+  - url: "https://x.com/HeKasrehCrisis/status/2018062556867252371"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

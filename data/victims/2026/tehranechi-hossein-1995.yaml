@@ -1,0 +1,47 @@
+id: tehranechi-hossein-1995
+name_latin: "Hossein Tehranechi"
+name_farsi: "حسن تهرانچی"
+date_of_birth: null  # est. birth year: 1995
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 31
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Gunshot"
+circumstances: >
+    32-year-old musician and computer science graduate who was shot during
+  protests in Narmak neighborhood. Security forces were shooting from the top of
+  Haft-Houz Narmak mosque toward the crowd. He was hit by a bullet, likely from
+  there, targeting the eyebrow area and completely destroying his left eye. His
+  body was identified through fingerprints after his father searched through
+  morgues including Kahrizak. He was a guitarist, pianist and singer who had a
+  music shop in Narmak.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1464"
+    date: null
+    type: community_database
+  - url: "https://x.com/i/status/2015578294343684368"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/abulfazlmoshiri/status/2015585444331671587"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/iranwire/status/2016220271561110009"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

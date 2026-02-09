@@ -1,0 +1,38 @@
+id: enayat-behnam
+name_latin: "Behnam Enayat"
+name_farsi: "بهنام عنایت"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: null
+place_of_death: "Kazerun, Fars Province"
+province: "Fars"
+cause_of_death: null
+circumstances: >
+    Murdered by Islamic Republic while fighting to liberate Iran. His parents
+  were forced to declare he died in a car accident.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1939"
+    date: null
+    type: community_database
+  - url: "https://x.com/i/status/2016132143924052249"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/jhgjdffdgdgsetr/status/2016071164674584683"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

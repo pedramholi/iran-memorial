@@ -1,0 +1,39 @@
+id: shahri-abolfazl-2007
+name_latin: "Abolfazl Shahri"
+name_farsi: "ابوالفضل شهری"
+date_of_birth: null  # est. birth year: 2007
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-18
+age_at_death: 19
+place_of_death: "Shahin Shahr"
+province: "Isfahan"
+cause_of_death: null
+circumstances: >
+    19-year-old from Malek Shahr who participated in protests on 18-19 Dey
+  month. After participating in protests, he received threatening calls from
+  security agencies. On 28 Dey month, while working as a Snapp driver, he was
+  kidnapped by unknown individuals in Shahin Shahr area. Local sources say he
+  died after being injected with a toxic substance following his abduction. His
+  body was found hours later on the side of a street in Shahin Shahr. His family
+  has been threatened by security forces to remain silent about his death.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #4455"
+    date: null
+    type: community_database
+  - url: "https://x.com/tavaana/status/2015645389966184515"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

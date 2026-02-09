@@ -1,0 +1,35 @@
+id: maghsoudlou-shahram
+name_latin: "Shahram Maghsoudlou"
+name_farsi: "شهرام مقصودلو"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: null
+place_of_death: "Isfahan"
+province: "Isfahan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Two-time national powerlifting champion from Izeh, shot in the chest by
+  government forces during a protest in Baharestan Isfahan. Mohsen Rashidi was
+  killed while trying to help him.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #599"
+    date: null
+    type: community_database
+  - url: "https://x.com/Dialogue1402/status/2013853650292990250"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

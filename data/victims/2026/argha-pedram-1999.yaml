@@ -1,0 +1,47 @@
+id: argha-pedram-1999
+name_latin: "Pedram Argha"
+name_farsi: "پدرام ارغا"
+date_of_birth: null  # est. birth year: 1999
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 27
+place_of_death: "Kermanshah"
+province: "Kermanshah"
+cause_of_death: "Gunshot"
+circumstances: >
+    31-year-old dentist shot during protests after intervening to protect
+  another individual being assaulted by security forces. Shot from two
+  directions - one bullet from behind and another from the front. Taken to
+  private hospital where he fell into a coma and died. Adherent of the Yarsani
+  faith. Authorities pressured family to pay one billion tomans or identify him
+  as Basij member to release body; family was compelled to accept regime
+  supporter designation due to inability to pay.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #772"
+    date: null
+    type: community_database
+  - url: "https://www.instagram.com/p/DTybwESDMc9"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://www.instagram.com/p/DT2mgdFCMjm"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://www.instagram.com/p/DT2arwkimIR"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

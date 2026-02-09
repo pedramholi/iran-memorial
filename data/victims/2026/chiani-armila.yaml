@@ -1,0 +1,33 @@
+id: chiani-armila
+name_latin: "Armila Chiani"
+name_farsi: "آرمیلا چیانی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: null
+place_of_death: "Isfahan"
+province: "Isfahan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Rapper shot in the leg on 18 Dey in Isfahan and died from severe bleeding
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2405"
+    date: null
+    type: community_database
+  - url: "https://x.com/VIsfehan/status/2015432913760719144"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

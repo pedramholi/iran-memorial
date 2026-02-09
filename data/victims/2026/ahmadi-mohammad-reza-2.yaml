@@ -1,0 +1,33 @@
+id: ahmadi-mohammad-reza-2
+name_latin: "Mohammad Reza Ahmadi"
+name_farsi: "محمدرضا احمدی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: 23
+place_of_death: "Tehransar, Tehran"
+province: "Tehran"
+cause_of_death: null
+circumstances: >
+    Listed in Iran International Memorial
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #3025"
+    date: null
+    type: community_database
+  - url: "https://javidnaman.iranintl.com/memorial/arh0kOme1YEvhe6nV4mb9f"
+    name: "Iran International"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

@@ -1,0 +1,44 @@
+id: karimi-farid-1990
+name_latin: "Farid Karimi"
+name_farsi: "فرید کریمی"
+date_of_birth: null  # est. birth year: 1990
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-13
+age_at_death: 36
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Beating"
+circumstances: >
+    Beaten with batons on Enqelab Street in Tehran on Thursday, 18 Dey (January
+  8, 2026) until his skull was shattered. Ambulance was prevented from reaching
+  him. Was transported to Imam Khomeini Hospital by private car but died on 24
+  Dey (February 13, 2026).
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1052"
+    date: null
+    type: community_database
+  - url: "https://x.com/rezatalebijamal/status/2014967354514370613"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/RezaTalebijamal/status/2014967354514370613"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/Realneo101/status/2015718402451460127"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

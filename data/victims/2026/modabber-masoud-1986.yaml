@@ -1,0 +1,43 @@
+id: modabber-masoud-1986
+name_latin: "Masoud Modabber"
+name_farsi: "مسعود مدبر"
+date_of_birth: null  # est. birth year: 1986
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-27
+age_at_death: 40
+place_of_death: "Isfahan"
+province: "Isfahan"
+cause_of_death: "Gunshot (headshot)"
+circumstances: >
+    Doctor and architect shot with one bullet to the back/waist and one bullet
+  to the head in Khane Isfahan neighborhood. Has two daughters. Died one week
+  after being shot and was buried without notice in Shahinshahr, Isfahan.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2187"
+    date: null
+    type: community_database
+  - url: "https://x.com/visfehan/status/2016839941427188000"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/iranintl/status/2017064817257759068"
+    name: "Iran International"
+    date: null
+    type: primary
+  - url: "https://x.com/VIsfehan/status/2016839941427188000"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

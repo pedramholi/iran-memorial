@@ -1,0 +1,41 @@
+id: ayouzi-farhad-1996
+name_latin: "Farhad Ayouzi"
+name_farsi: "فرهاد عیوضی"
+date_of_birth: null  # est. birth year: 1996
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-07
+age_at_death: 30
+place_of_death: "Lordegan, Chaharmahal and Bakhtiari"
+province: "Chaharmahal and Bakhtiari"
+cause_of_death: null
+circumstances: >
+    30-year-old from Lordegan in Chaharmahal and Bakhtiari province
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1198"
+    date: null
+    type: community_database
+  - url: "https://x.com/_ziZi_Zizi/status/2015208544652468277"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://javidnaman.iranintl.com/memorial/3Fy5sC7qrylDAVNVjWhGPc"
+    name: "Iran International"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/73"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

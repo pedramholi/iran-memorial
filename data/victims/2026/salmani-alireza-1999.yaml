@@ -1,0 +1,45 @@
+id: salmani-alireza-1999
+name_latin: "Alireza Salmani"
+name_farsi: "علیرضا سلمانی"
+date_of_birth: null  # est. birth year: 1999
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 27
+place_of_death: "Andisheh, Tehran"
+province: "Tehran"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot by security forces during protests in Shahrak Andisheh Phase 1. Was
+  chanting slogans with friends when security forces suddenly opened fire from
+  an unknown location. Four war bullets hit him. Friends dragged him home where
+  he was still able to speak, asked his mother for water, said he was hungry,
+  then suddenly blood came out of his nose and mouth.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #120"
+    date: null
+    type: community_database
+  - url: "https://x.com/Daikatuo/status/2011855746544136648"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/Daikatuo/status/2011864053380010383"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/Tavaana/status/2011732413244960780"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

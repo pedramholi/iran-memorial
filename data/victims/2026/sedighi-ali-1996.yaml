@@ -1,0 +1,43 @@
+id: sedighi-ali-1996
+name_latin: "Ali Sedighi"
+name_farsi: "علی صدیقی"
+date_of_birth: null  # est. birth year: 1996
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 30
+place_of_death: "Lahijan"
+province: "Gilan"
+cause_of_death: "Gunshot (headshot)"
+circumstances: >
+    Shot by snipers who targeted tall individuals with headshots during protests
+  near the city television/screen. The incident occurred near Lahijan
+  governorate.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #88"
+    date: null
+    type: community_database
+  - url: "https://x.com/Daikatuo/status/2011474379490652481"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://iranhrs.org/جانباختگان-اعتراضات-۱۴۰۴/"
+    name: "Iran Human Rights Society"
+    date: null
+    type: primary
+  - url: "https://x.com/pkhwshhal/status/2011430907761312179"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

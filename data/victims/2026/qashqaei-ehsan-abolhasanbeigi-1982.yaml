@@ -1,0 +1,48 @@
+id: qashqaei-ehsan-abolhasanbeigi-1982
+name_latin: "Ehsan Abolhasanbeigi Qashqaei"
+name_farsi: "احسان ابوالحسن‌بیگی قشقایی"
+date_of_birth: null  # est. birth year: 1982
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 44
+place_of_death: "Shiraz"
+province: "Fars"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot with war bullets by Islamic Republic security forces during popular
+  protests in the evening of Thursday 18 Dey 1404 in the Falkeh Qahramanan
+  Miyanrud area of Shiraz. He was hit in the neck with a war bullet, also shot
+  in the arm, and his hands and feet were severely wounded with pellets. Born in
+  Firouzabad, residing in Shiraz, had a diploma degree and owned a leather bag
+  production unit. Had returned to Shiraz only one year ago after about 20 years
+  away from family. After being wounded, he gave phone numbers he remembered to
+  someone present to contact his family with his mobile phone. His body was only
+  handed over to the family about a week later. Security forces pressured the
+  family to hold the funeral quietly without announcements and only in early
+  morning hours within a family framework. He was buried in his birthplace next
+  to the grave of Raha Bahloulipour.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2740"
+    date: null
+    type: community_database
+  - url: "https://x.com/Tavaana/status/2017806792336560171"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/irannewsagency0/status/2019750024394232237"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

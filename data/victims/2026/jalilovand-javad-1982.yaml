@@ -1,0 +1,45 @@
+id: jalilovand-javad-1982
+name_latin: "Javad Jalilovand"
+name_farsi: "جواد جلیلوند"
+date_of_birth: null  # est. birth year: 1982
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 44
+place_of_death: "Fardis, Karaj, Alborz"
+province: "Alborz"
+cause_of_death: "Gunshot (headshot)"
+circumstances: >
+    Shot in the head with a war bullet around 9 PM on Friday night in Mehrshahr,
+  Karaj. Father of a 6-year-old son named Pendar and a 6-month-old daughter
+  named Panah. Family retrieved his body after 2 days but were denied permission
+  to bury him in Tehran or Karaj unless he was declared a martyr, which the
+  family refused. He was ultimately buried in Tuyserkan.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2006"
+    date: null
+    type: community_database
+  - url: "https://t.me/RememberTheirNames/1599"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://javidnaman.iranintl.com/memorial/z0JmINcmTJe7Ul3GOSAMQN"
+    name: "Iran International"
+    date: null
+    type: primary
+  - url: "https://x.com/justchangingun/status/2016842527903567985"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

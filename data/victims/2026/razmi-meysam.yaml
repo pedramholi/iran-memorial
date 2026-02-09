@@ -1,0 +1,42 @@
+id: razmi-meysam
+name_latin: "Meysam Razmi"
+name_farsi: "میثم رزمی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: null
+place_of_death: "Bushehr"
+province: "Bushehr"
+cause_of_death: null
+circumstances: >
+    Commemorated with the phrase 'eternal name' suggesting death, but specific
+  details not provided
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #219"
+    date: null
+    type: community_database
+  - url: "https://x.com/FSeifikaran/status/2011734542428885036"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/ferchewc/status/2013521878787244276"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://www.instagram.com/p/DT05Mwvkli0"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

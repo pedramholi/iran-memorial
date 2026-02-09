@@ -1,0 +1,43 @@
+id: sichani-mohammad-salari-1983
+name_latin: "Mohammad Salari Sichani"
+name_farsi: "محمد سالاری سیچانی"
+date_of_birth: null  # est. birth year: 1983
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 43
+place_of_death: "Isfahan"
+province: "Isfahan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot by suppressive forces on Rabat Street in Isfahan during national
+  uprising protests. Directly targeted by regime's street killing policy as part
+  of systematic pattern of eliminating and suppressing protesting people.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #3329"
+    date: null
+    type: community_database
+  - url: "https://x.com/VIsfehan/status/2018271186983993709"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/visfehan/status/2018271186983993709"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/irannewsagency0/status/2018385258929061910"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

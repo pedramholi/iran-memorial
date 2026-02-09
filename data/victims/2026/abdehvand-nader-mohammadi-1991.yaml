@@ -1,0 +1,41 @@
+id: abdehvand-nader-mohammadi-1991
+name_latin: "Nader Mohammadi Abdehvand"
+name_farsi: "نادر محمدی عبده‌وند"
+date_of_birth: null  # est. birth year: 1991
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 35
+place_of_death: "Joyabad"
+cause_of_death: null
+circumstances: >
+    Father of three children (two daughters and one son), killed by direct
+  shooting by Khamenei's forces. Body was buried in Khomeini Shahr cemetery
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #861"
+    date: null
+    type: community_database
+  - url: "https://x.com/hirman__/status/2014572087789207580"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/SalarvandN21943/status/2015433254803751162"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/2167"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

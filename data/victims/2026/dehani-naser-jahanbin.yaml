@@ -1,0 +1,44 @@
+id: dehani-naser-jahanbin
+name_latin: "Naser Jahanbin Dehani"
+name_farsi: "ناصر جهان‌بین"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: null
+place_of_death: "Qeshm Island, Hormozgan"
+province: "Hormozgan"
+cause_of_death: null
+circumstances: >
+    Baloch citizen killed during Qeshm protests. Son of Abdolghader, also known
+  as Dehani. Originally from Ahmadabad village in central district of Iranshahr,
+  Baluchestan. Worked as a street sweeper for Qeshm municipality. His wife had
+  died one year earlier.
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1490"
+    date: null
+    type: community_database
+  - url: "https://x.com/hamalilalin/status/2015846726897176972"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/TheBalochWorld/status/2014708738591228238"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/hamalilalin/status/2015853984586604592"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

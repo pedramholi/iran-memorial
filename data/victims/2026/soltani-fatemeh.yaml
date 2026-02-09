@@ -1,0 +1,41 @@
+id: soltani-fatemeh
+name_latin: "Fatemeh Soltani"
+name_farsi: "فاطمه سلطانی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: null
+place_of_death: "Esfarayen"
+province: "North Khorasan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Kurdish citizen from Esfarayen city in North Khorasan province, killed by
+  direct gunfire from government forces during popular protests on one of the
+  city streets. Hours before being killed, she had written in her last social
+  media story: 'Tonight I'm going out for my children, because they have the
+  right to have a good life.'
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1566"
+    date: null
+    type: community_database
+  - url: "https://x.com/HengawO/status/2015906412832993768"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/1399"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

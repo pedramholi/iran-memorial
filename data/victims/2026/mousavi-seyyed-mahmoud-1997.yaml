@@ -1,0 +1,47 @@
+id: mousavi-seyyed-mahmoud-1997
+name_latin: "Seyyed Mahmoud Mousavi"
+name_farsi: "محمود موسوی"
+date_of_birth: null  # est. birth year: 1997
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 29
+place_of_death: "Qeshm"
+province: "Hormozgan"
+cause_of_death: "Gunshot (headshot)"
+circumstances: >
+    30-year-old electrical engineer and resident of Qeshm Island, shot from
+  behind by Islamic Republic forces while unarmed during suppression of popular
+  protests. He was an ordinary citizen living a simple and peaceful life,
+  interested in mountaineering, ran a shop in Qeshm, and was known by friends as
+  kind, humanitarian, and animal-loving, especially cats. He was unmarried with
+  a bright future ahead. Local witnesses say he was directly shot from behind on
+  January 8th without being armed or posing any threat to anyone.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2877"
+    date: null
+    type: community_database
+  - url: "https://javidnaman.iranintl.com/memorial/3Fy5sC7qrylDAVNVjWhduG"
+    name: "Iran International"
+    date: null
+    type: primary
+  - url: "https://javidnaman.iranintl.com/memorial/ZBUVI2NrkWUZFuhpRBHlDU"
+    name: "Iran International"
+    date: null
+    type: primary
+  - url: "https://x.com/realneo101/status/2015478029485547570"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

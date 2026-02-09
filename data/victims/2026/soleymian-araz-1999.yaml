@@ -1,0 +1,44 @@
+id: soleymian-araz-1999
+name_latin: "Araz Soleymian"
+name_farsi: "آراز سلیمیان"
+date_of_birth: null  # est. birth year: 1999
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 27
+place_of_death: "Chalous"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot in throat area by war bullets during protests in Chalous. He was
+  targeted by barrage of gunfire from Islamic Republic forces in the upper bank
+  area of Chalous. His mother searched for his body from around 9 PM until 8 AM
+  and after hours of uncertainty, found his body. Gilak citizen from Chalous,
+  law student and hairdresser.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1189"
+    date: null
+    type: community_database
+  - url: "https://x.com/hyrcanihrm/status/2015365756469309843"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/persian_picture/4126"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/Tavaana/status/2018121750496895002"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

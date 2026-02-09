@@ -1,0 +1,46 @@
+id: karimi-latif-1967
+name_latin: "Latif Karimi"
+name_farsi: "لطیف کریمی"
+date_of_birth: null  # est. birth year: 1967
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-03
+age_at_death: 59
+place_of_death: "Malekshahi, Ilam"
+province: "Ilam"
+cause_of_death: "Gunshot"
+circumstances: >
+    Retired brigadier general of the Islamic Revolutionary Guard Corps and
+  Kurdish citizen who was participating in protests when he was shot and killed
+  by live ammunition fired by IRGC forces. He was specifically targeted by the
+  shooters according to reports. He was transferred to Imam Khomeini Hospital in
+  Ilam where he later succumbed to his injuries. His son confirmed on social
+  media that his father was killed directly by government forces.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #55"
+    date: null
+    type: community_database
+  - url: "https://en.wikipedia.org/wiki/2026_Malekshahi_massacre"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://www.iran-emrooz.net/index.php/news2/125134/"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/Daikatuo/status/2007848960887755083"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

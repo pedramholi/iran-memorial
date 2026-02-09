@@ -1,0 +1,43 @@
+id: zarei-amir-ali-1991
+name_latin: "Amir Ali Zarei"
+name_farsi: "امیرعلی زارعی"
+date_of_birth: null  # est. birth year: 1991
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 35
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Gunshot (headshot)"
+circumstances: >
+    Art university student and life coach/healing practitioner. Born in 1369
+  (Persian calendar), resident of Majidiyeh neighborhood in Tehran. Shot
+  directly in the head in Majidiyeh neighborhood in front of his sister's eyes.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #342"
+    date: null
+    type: community_database
+  - url: "https://x.com/fseifikaran/status/2012986010200650052"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/loabatk/status/2013144099012976888"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/FSeifikaran/status/2012976039979295076"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

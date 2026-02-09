@@ -1,0 +1,45 @@
+id: shafiei-setayesh-2006
+name_latin: "Setayesh Shafiei"
+name_farsi: "ستایش شفیعی"
+date_of_birth: null  # est. birth year: 2006
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 20
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot by the regime in the streets for protesting. Was an orphan with no
+  family to receive her body after paying the $4,500 fine demanded by the IRGC
+  for removing bullets from bodies of murdered protesters before burial. Buried
+  in an unmarked mass grave. Her Telegram channel was called 'The Girl Who Was a
+  Sun'.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #33"
+    date: null
+    type: community_database
+  - url: "https://x.com/longlosthills/status/2011415117703860644"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/Daikatuo/status/2011479730583724347"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/loabatk/status/2011890447057404157"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

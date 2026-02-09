@@ -1,0 +1,34 @@
+id: ahmadparast-mohammad-reza
+name_latin: "Mohammad Reza Ahmadparast"
+name_farsi: "محمدرضا احمدپرست"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: null
+place_of_death: "Taybad"
+province: "Razavi Khorasan"
+cause_of_death: null
+circumstances: >
+    From Taybad city, commemorated as a martyr (جاویدنام) in connection with
+  Iran protests
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #3266"
+    date: null
+    type: community_database
+  - url: "https://x.com/i/status/2016643067210592430"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

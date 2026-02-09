@@ -1,0 +1,43 @@
+id: saffar-parsa
+name_latin: "Parsa Saffar"
+name_farsi: "پارسا صفار"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-10
+age_at_death: null
+place_of_death: "Mashhad"
+province: "Razavi Khorasan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot with war bullets by Islamic Republic suppressors during protests. Was a
+  gifted student and 5th semester medical student at Mashhad University of
+  Medical Sciences.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #13"
+    date: null
+    type: community_database
+  - url: "https://x.com/sharifizarchi/status/2011457107485442509"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/Daikatuo/status/2012217391527117076"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/hengawo/status/2012846909497430064"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

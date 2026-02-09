@@ -1,0 +1,39 @@
+id: ershiy-behruz
+name_latin: "Behruz Ershiy"
+name_farsi: "بهروز عرشی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: null
+place_of_death: "Mashhad"
+province: "Razavi Khorasan"
+cause_of_death: "Gunshot (headshot)"
+circumstances: >
+    Teacher in lower Mashhad. Shot on the first night of July 9 (18th of Tir).
+  Body was severely mutilated, head missing. Family searched for him until
+  Saturday of the following week. Body was not found in Behesht-e Reza cemetery
+  initially. His name was not among the prisoners. Body was eventually found
+  among unidentified corpses brought from Behesht-e Razvan. Wife identified him
+  by his socks and shoes. Sister was in such shock she refused to accept it was
+  him and wouldn't allow burial for 3-4 days.
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #3513"
+    date: null
+    type: community_database
+  - url: "https://x.com/HeKasrehCrisis/status/2018029552681861486"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

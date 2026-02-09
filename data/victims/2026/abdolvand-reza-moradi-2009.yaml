@@ -1,0 +1,43 @@
+id: abdolvand-reza-moradi-2009
+name_latin: "Reza Moradi Abdolvand"
+name_farsi: "رضا مرادی عبدلوند"
+date_of_birth: null  # est. birth year: 2009
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-01
+age_at_death: 17
+place_of_death: "Azna, Lorestan"
+province: "Lorestan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot by security forces during peaceful protest near the county governor's
+  office in Azadegan Square. One of at least six protesters killed in Azna when
+  IRGC agents opened fire on peaceful protesters.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #191"
+    date: null
+    type: community_database
+  - url: "https://www.hrw.org/news/2026/01/08/iran-authorities-renewed-cycle-of-protest-bloodshed"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/IsraelWarRoom/status/2012652786027036832"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/israelwarroom/status/2012652786027036832"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

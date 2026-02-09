@@ -1,0 +1,43 @@
+id: khosravi-ali-1998
+name_latin: "Ali Khosravi"
+name_farsi: "علی خسروی"
+date_of_birth: null  # est. birth year: 1998
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-01
+age_at_death: 28
+place_of_death: "Shahinshahr, Isfahan"
+province: "Isfahan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot directly by government suppression forces during people's protests. Was
+  a resident of Shahin Shahr, had been married for less than a year and a half,
+  was expecting his first child in the coming months
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #3864"
+    date: null
+    type: community_database
+  - url: "https://t.me/RememberTheirNames/1704"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/visfehan/status/2018992994784075982"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/manotonews/status/2019395593961951592"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

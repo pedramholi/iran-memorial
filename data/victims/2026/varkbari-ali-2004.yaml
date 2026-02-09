@@ -1,0 +1,40 @@
+id: varkbari-ali-2004
+name_latin: "Ali Varkbari"
+name_farsi: "علی ورک‌باری"
+date_of_birth: null  # est. birth year: 2004
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 22
+place_of_death: "Qazvin"
+province: "Qazvin"
+cause_of_death: "Gunshot"
+circumstances: >
+    22-year-old electrical engineer shot with war bullets by IRGC and Basij
+  forces on Palestine Street in Qazvin. He was fleeing from agents with his
+  cousin when directly shot with war weapons. Suffered severe bleeding and died
+  before reaching medical center due to severity of injuries.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1300"
+    date: null
+    type: community_database
+  - url: "https://x.com/Tavaana/status/2015635133265789244"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/1163"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

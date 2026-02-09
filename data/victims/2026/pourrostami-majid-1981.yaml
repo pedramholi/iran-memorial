@@ -1,0 +1,43 @@
+id: pourrostami-majid-1981
+name_latin: "Majid Pourrostami"
+name_farsi: "مجید پوررستمی"
+date_of_birth: null  # est. birth year: 1981
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 45
+place_of_death: "Qarchak"
+province: "Tehran"
+cause_of_death: "Gunshot"
+circumstances: >
+    45-year-old unmarried resident of Varamin, killed by direct gunshot to the
+  chest by government suppressive forces during people's protests at Qarchak
+  Police Station Square
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1657"
+    date: null
+    type: community_database
+  - url: "https://www.instagram.com/p/DUAiGMMDYFq"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/allahbakhshii/status/2017503567037317517"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/1866"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

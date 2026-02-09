@@ -1,0 +1,42 @@
+id: khojastehpour-elyas-1987
+name_latin: "Elyas Khojastehpour"
+name_farsi: "الیاس خجسته‌پور"
+date_of_birth: null  # est. birth year: 1987
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-10
+age_at_death: 39
+place_of_death: "Rasht"
+province: "Gilan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot with direct bullet to the heart area by forces of the Islamic Republic
+  of Iran government during protests. Gilaki citizen from Lashtnesha.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2238"
+    date: null
+    type: community_database
+  - url: "https://x.com/HyrcaniHRM/status/2017257329511526710"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/hyrcanihrm/status/2017257329511526710"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/1798"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

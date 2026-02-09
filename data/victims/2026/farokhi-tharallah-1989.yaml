@@ -1,0 +1,43 @@
+id: farokhi-tharallah-1989
+name_latin: "Tharallah Farokhi"
+name_farsi: "ثارالله فرخی"
+date_of_birth: null  # est. birth year: 1989
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 37
+place_of_death: "Yasouj"
+province: "Kohgiluyeh and Boyer-Ahmad"
+cause_of_death: null
+circumstances: >
+    Killed in Yasouj. After his death, family was pressured by security agencies
+  to introduce him as a 'Basiji'. The regime prevented the family from holding
+  mourning ceremonies to bury their crime in silence.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #983"
+    date: null
+    type: community_database
+  - url: "https://t.me/poshtpardeha/248644"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/1youngcrazy/status/2015415757077709178"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/1youngcrazy/status/2015434980084646137"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

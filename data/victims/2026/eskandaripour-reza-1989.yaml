@@ -1,0 +1,48 @@
+id: eskandaripour-reza-1989
+name_latin: "Reza Eskandaripour"
+name_farsi: "رضا اسکندرپور"
+date_of_birth: null  # est. birth year: 1989
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 37
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Gunshot"
+circumstances: >
+    Born in Mehr 1367, 37 years old, resident of Marzdaran neighborhood in
+  Tehran, owner of a cabinet-making workshop in Ariashahr. Shot dead by direct
+  fire from suppression forces during protests in Ariashahr district. Was with
+  five friends at protests when one was shot. Returned to help his wounded
+  friend when a sniper affiliated with security forces fired from a building
+  rooftop. Security forces then targeted him with six war bullets, killing him
+  on the spot. About to get married, gave his phone, password and car keys to
+  his mother before leaving home and asked for her forgiveness.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #180"
+    date: null
+    type: community_database
+  - url: "https://x.com/Daikatuo/status/2012215640212332549"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/MothrOfDrgns/status/2012274823662051518"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/iranintl/status/2012502738223952250"
+    name: "Iran International"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

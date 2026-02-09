@@ -1,0 +1,35 @@
+id: mlaordi-mohammad-javad
+name_latin: "Mohammad Javad Mlaordi"
+name_farsi: "محمدجواد ملاوردی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: 34
+place_of_death: "Karaj"
+province: "Alborz"
+cause_of_death: "Pellet gun injuries"
+circumstances: >
+    Went to hospital to remove pellets from his body, but his body was returned
+  to his family a few days later. Evidence that the Islamic Republic kills even
+  the wounded in hospitals.
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #4388"
+    date: null
+    type: community_database
+  - url: "https://x.com/khoshnevisnaser/status/2014732590473703710"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

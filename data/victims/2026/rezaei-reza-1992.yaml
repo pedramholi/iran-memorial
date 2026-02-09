@@ -1,0 +1,43 @@
+id: rezaei-reza-1992
+name_latin: "Reza Rezaei"
+name_farsi: "رضا رضایی"
+date_of_birth: null  # est. birth year: 1992
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-10
+age_at_death: 34
+place_of_death: "Gohardasht, Karaj"
+province: "Alborz"
+cause_of_death: "Gunshot (headshot)"
+circumstances: >
+    Shot directly in the head by a sniper with war bullets during popular
+  protests in front of the 8th police station in Gohardasht. He was an athlete
+  who worked at a sports club in Shahin Villa, Karaj, and rented the club's
+  buffet to support himself and his mother. His father had died years ago and he
+  was the sole breadwinner for the family. Security forces prevented public
+  burial and he was buried in restrictive conditions in Soheylieh, Romandeh
+  village without public ceremonies.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2481"
+    date: null
+    type: community_database
+  - url: "https://x.com/tavaana/status/2017463867324956967"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/1871"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

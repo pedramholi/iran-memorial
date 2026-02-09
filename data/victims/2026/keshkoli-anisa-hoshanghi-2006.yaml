@@ -1,0 +1,45 @@
+id: keshkoli-anisa-hoshanghi-2006
+name_latin: "Anisa Hoshanghi Keshkoli"
+name_farsi: "آنیسا هوشنگی کشکولی"
+date_of_birth: null  # est. birth year: 2006
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 20
+place_of_death: "Chenar-Shahijan"
+cause_of_death: "Gunshot"
+circumstances: >
+    19-year-old medical student at Urmia University of Medical Sciences. Shot in
+  the leg with a war bullet by regime forces during popular protests in
+  Chenarshaijan (Qaemiyeh), Kuh-Chenar County, Fars Province. Died from severe
+  injury and blood loss. Buried secretly in Elias-Abad village, Qaemiyeh,
+  without any identification on the grave due to family being threatened and
+  prohibited from sharing information.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1344"
+    date: null
+    type: community_database
+  - url: "https://x.com/SalarvandN21943/status/2015552225469211102"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/salarvandn21943/status/2015552225469211102"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/javanmardi77/154154"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

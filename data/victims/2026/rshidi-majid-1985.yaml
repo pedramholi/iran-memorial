@@ -1,0 +1,36 @@
+id: rshidi-majid-1985
+name_latin: "Majid Rshidi"
+name_farsi: "مجید رشیدی"
+date_of_birth: null  # est. birth year: 1985
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: 41
+place_of_death: "Rasht"
+province: "Gilan"
+cause_of_death: "Gunshot (headshot)"
+circumstances: >
+    41-year-old Gilak citizen from Rasht, killed in the night of 19 Dey 1404 in
+  the Darvazeh Lakan area of Rasht. After being identified as a leader, he was
+  targeted and killed by a direct shot of a war bullet to the head by forces of
+  the Islamic Republic of Iran.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #4425"
+    date: null
+    type: community_database
+  - url: "https://x.com/hyrcanihrm/status/2015010271081746433"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

@@ -1,0 +1,40 @@
+id: maleki-mohaddeseh-2000
+name_latin: "Mohaddeseh (Sadaf) Maleki"
+name_farsi: "محدثه (صدف) مالکی"
+date_of_birth: null  # est. birth year: 2000
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 26
+place_of_death: "Mashhad"
+province: "Razavi Khorasan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot by bullet in the pelvic area on Haft-e Tir Street in Mashhad and died
+  hours later from her injuries. She had told those close to her before joining
+  the crowd that she was going 'just to be a member of the crowd; so that those
+  who go forward are not alone and know that we are standing behind them.'
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1413"
+    date: null
+    type: community_database
+  - url: "https://www.instagram.com/p/DT-jGaCEeaY"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/2201"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

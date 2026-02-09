@@ -1,0 +1,46 @@
+id: kianimanesh-mohammad-reza-2008
+name_latin: "Mohammad Reza (Tiam) Kianimanesh"
+name_farsi: "محمدرضا (تیام) کیانی‌منش"
+date_of_birth: null  # est. birth year: 2008
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 18
+place_of_death: "Kermanshah"
+province: "Kermanshah"
+cause_of_death: "Gunshot"
+circumstances: >
+    18-year-old known by nickname 'Tiam' from Kermanshah, disappeared after
+  leaving home on 18 Dey. Body was returned to family on 23 Dey showing he was
+  killed by a war bullet to the heart area. Burial ceremony held on 24 Dey at
+  Ferdous Garden in Kermanshah. Case follows regime's criminal pattern of forced
+  disappearance, killing with war bullets, and delayed return of bodies during
+  suppression of national uprising.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #3324"
+    date: null
+    type: community_database
+  - url: "https://x.com/kurdpa_farsi/status/2017940774462079103"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/222"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/irannewsagency0/status/2019812362304487617"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

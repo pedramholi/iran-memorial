@@ -1,0 +1,47 @@
+id: mehr-behrouz-narimani-1993
+name_latin: "Behrouz Narimani-mehr"
+name_farsi: "بهروز نریمانی‌مهر"
+date_of_birth: null  # est. birth year: 1993
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 33
+place_of_death: "Kermanshah"
+province: "Kermanshah"
+cause_of_death: "Gunshot"
+circumstances: >
+    33-year-old Kurdish citizen from Kermanshah, resident of Daredarez
+  neighborhood. Shot with live ammunition by Islamic Republic suppression forces
+  during evening protests in Daredarez neighborhood. His body was handed over to
+  family after extensive follow-ups on Saturday 20 Dey 1404 (January 10, 2026)
+  and buried on Sunday 21 Dey 1404 (January 11, 2026) in Anjirbane Avarehali
+  village cemetery in Sarpol-e Zahab. He was married and father of two
+  daughters.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #887"
+    date: null
+    type: community_database
+  - url: "https://x.com/HengawO/status/2014723608359104900"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+  - url: "https://x.com/kurdpa_farsi/status/2015376199422484549"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://javidnaman.iranintl.com/memorial/vN7MNz32cVvzOpuuClU2BH"
+    name: "Iran International"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

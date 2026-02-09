@@ -1,0 +1,46 @@
+id: janani-ali-2006
+name_latin: "Ali Janani"
+name_farsi: "علی جانان"
+date_of_birth: null  # est. birth year: 2006
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 20
+place_of_death: "Eslamshahr"
+province: "Tehran"
+cause_of_death: "Gunshot (headshot)"
+circumstances: >
+    Shot by suppressive forces with direct gunfire while helping an injured
+  woman trapped among garbage bins during nationwide protests. Three bullets hit
+  his head, face, and heart. His body was transferred to Kahrizak after being
+  killed, and his family found and retrieved his body after 3-4 days of
+  searching among corpses. He was a hairdresser who also worked with
+  motorcycles.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #3809"
+    date: null
+    type: community_database
+  - url: "https://x.com/Daikatuo/status/2011855746544136648"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/iranwire/status/2011812078084866557"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://javidnaman.iranintl.com/memorial/vN7MNz32cVvzOpuuClVChH"
+    name: "Iran International"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

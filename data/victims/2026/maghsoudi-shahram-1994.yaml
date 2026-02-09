@@ -1,0 +1,44 @@
+id: maghsoudi-shahram-1994
+name_latin: "Shahram Maghsoudi"
+name_farsi: "شهرام مقصودی"
+date_of_birth: null  # est. birth year: 1994
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-10
+age_at_death: 32
+place_of_death: "Isfahan"
+province: "Isfahan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot by direct gunfire from Islamic Republic security forces during Iran's
+  national uprising in Baharestan, Isfahan. He was a powerlifting athlete from
+  Izeh and a two-time national champion in powerlifting. In one of his last
+  messages to a close friend, he wrote 'I'm not here, take care of the family.'
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #28"
+    date: null
+    type: community_database
+  - url: "https://x.com/longlosthills/status/2011622954199662991"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/IranProtestsCom/status/2011543145624879301"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/avatoday_news/status/2011806527422693438"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

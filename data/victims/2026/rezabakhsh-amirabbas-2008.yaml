@@ -1,0 +1,45 @@
+id: rezabakhsh-amirabbas-2008
+name_latin: "Amirabbas Rezabakhsh"
+name_farsi: "امیرعباس رضابخش"
+date_of_birth: null  # est. birth year: 2008
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 18
+place_of_death: "Qaemiyeh, Eslamshahr"
+province: "Tehran"
+cause_of_death: "Gunshot"
+circumstances: >
+    18-year-old tattoo artist shot in the chest with a war bullet during evening
+  protests in Ghaemieh, Eslamshahr. His father came to the streets after his
+  son's death and joined the people, later discovering his son's body when
+  someone asked for help lifting it. The regime's systematic killing of
+  defenseless people, not an accident.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #3684"
+    date: null
+    type: community_database
+  - url: "https://x.com/hekasrehcrisis/status/2018571525155139740"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/HeKasrehCrisis/status/2018571525155139740"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/IranNewsAgency0/status/2018590464341844347"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

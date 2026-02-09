@@ -1,0 +1,42 @@
+id: molaei-amir-hossein-1970
+name_latin: "Amir Hossein Molaei"
+name_farsi: "امیر حسین مولایی"
+date_of_birth: null  # est. birth year: 1970
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 56
+place_of_death: "Ariashahr, Tehran"
+province: "Tehran"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot in the leg at Sadeghieh Square on Thursday 18 Dey, was arrested, died
+  in custody a few days later, family found his body in Kahrizak
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1833"
+    date: null
+    type: community_database
+  - url: "https://x.com/raghnegin/status/2016419976346009830"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/hekasrehcrisis/status/2016519823363068283"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/callmenanaalk/status/2016508241384013920"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

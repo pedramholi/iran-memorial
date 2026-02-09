@@ -1,0 +1,46 @@
+id: ghanbari-mehdi-1999
+name_latin: "Mehdi Ghanbari"
+name_farsi: "مهدی قنبری"
+date_of_birth: null  # est. birth year: 1999
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 27
+place_of_death: "Ilam"
+province: "Ilam"
+cause_of_death: "Gunshot"
+circumstances: >
+    Kurdish citizen from Malekshahi in Ilam province. Shot with three direct war
+  bullets by government forces during popular protests on 18 Dey 1404 in Ilam.
+  He was cornered in a dead-end alley by suppressive forces and shot at. The
+  forces then rode motorcycles over his wounded body and left him at the scene.
+  He died on 27 Dey due to severe injuries from the direct shooting and from the
+  forces running motorcycles over his body.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #893"
+    date: null
+    type: community_database
+  - url: "https://x.com/HengawO/status/2014678844024775051"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+  - url: "https://javidnaman.iranintl.com/memorial/vN7MNz32cVvzOpuuClX6Sk"
+    name: "Iran International"
+    date: null
+    type: primary
+  - url: "https://x.com/hengawo/status/2018402135373717849"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

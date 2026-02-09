@@ -1,0 +1,42 @@
+id: bakhtiariwand-dariush-ansari-1988
+name_latin: "Dariush Ansari Bakhtiariwand"
+name_farsi: "داریوش انصاری بختیاری‌وند"
+date_of_birth: null  # est. birth year: 1988
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2025-12-30
+age_at_death: 37
+place_of_death: "Fuladshahr"
+province: "Isfahan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Lor man killed by live ammunition during protests. Shot with a Kalashnikov
+  and died before being transferred to medical facilities
+event_context: "2025-2026 Iranian nationwide protests (December 2025 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #5"
+    date: null
+    type: community_database
+  - url: "https://en.wikipedia.org/wiki/2026_Iran_massacres"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/Daikatuo/status/2007218337814585392"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://www.iran-emrooz.net/index.php/news2/125134/"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

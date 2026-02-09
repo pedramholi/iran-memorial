@@ -1,0 +1,39 @@
+id: sangachini-maziyar-rahro
+name_latin: "Maziyar Rahro Sangachini"
+name_farsi: "مازیار رهرو سنگاچینی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: null
+place_of_death: "Anzali"
+province: "Gilan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Gilak citizen from Sangachin village in Bandar Anzali area, killed by direct
+  gunfire from forces of the Islamic Republic of Iran in Bandar Anzali on either
+  18 or 19 Dey 1404
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1044"
+    date: null
+    type: community_database
+  - url: "https://x.com/hyrcanihrm/status/2015037197347344753"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/IranianPlateau/status/2015148472605737021"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

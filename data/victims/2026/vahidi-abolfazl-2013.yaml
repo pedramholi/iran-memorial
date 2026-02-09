@@ -1,0 +1,44 @@
+id: vahidi-abolfazl-2013
+name_latin: "Abolfazl Vahidi"
+name_farsi: "ابوالفضل وحیدی"
+date_of_birth: null  # est. birth year: 2013
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 13
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: null
+circumstances: >
+    Killed by regime's suppressive forces while sacrificing his life for the
+  path of freedom and homeland. He had no father and had also lost his mother,
+  making his orphaned state deepen the wound of this crime. His family and
+  relatives have no voice to cry out.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1434"
+    date: null
+    type: community_database
+  - url: "https://x.com/iranintlbrk/status/2015812255854567561"
+    name: "Iran International"
+    date: null
+    type: primary
+  - url: "https://x.com/mrsamsolomon/status/2016614112579530791"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://javidnaman.iranintl.com/memorial/faVC3p6tCxw9DOdQYEmn64"
+    name: "Iran International"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

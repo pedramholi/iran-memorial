@@ -1,0 +1,34 @@
+id: bolouri-ahmad
+name_latin: "Ahmad Bolouri"
+name_farsi: null
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: 26
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: null
+circumstances: >
+    Killed in Haft Howz Square during a peaceful protest by the Islamic regime
+  forces
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1805"
+    date: null
+    type: community_database
+  - url: "https://x.com/outofken/status/2016106357578137798"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

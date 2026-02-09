@@ -1,0 +1,44 @@
+id: khani-yalda-mohammad-2010
+name_latin: "Yalda Mohammad Khani"
+name_farsi: "یلدا محمدخانی"
+date_of_birth: null  # est. birth year: 2010
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: 16
+place_of_death: "Fardis, Karaj"
+province: "Alborz"
+cause_of_death: "Gunshot"
+circumstances: >
+    17-year-old student shot by Islamic Republic suppression forces with direct
+  gunfire. Hit by multiple bullets - eight bullets to the side/torso area and
+  one bullet wounded her leg. Died from severe injuries caused by this deadly
+  shooting. Targeted with war weapons during suppression of popular protests.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1097"
+    date: null
+    type: community_database
+  - url: "https://x.com/noamagid/status/2015155999577976951"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/bbcparham/status/2015083258539651231"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/Tavaana/status/2015588662642405865"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

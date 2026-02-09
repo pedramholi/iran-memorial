@@ -1,0 +1,44 @@
+id: abbaspour-parsa-2002
+name_latin: "Parsa Abbaspour"
+name_farsi: "پارسا عباسپور"
+date_of_birth: null  # est. birth year: 2002
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 24
+place_of_death: "Fardis, Karaj"
+province: "Alborz"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot by suppressive forces of the Islamic Republic regime during Iran's
+  national uprising on the evening of 18 Dey. From Fardis, Karaj. Became a
+  martyr for freedom and homeland, targeted with violence and bullets for
+  standing with the people.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1322"
+    date: null
+    type: community_database
+  - url: "https://x.com/manotonews/status/2015590512787599612"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/mehdish88/status/2016197354718642682"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://javidnaman.iranintl.com/memorial/6fdnU2KKCNcBWVCaT7ZdTl"
+    name: "Iran International"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

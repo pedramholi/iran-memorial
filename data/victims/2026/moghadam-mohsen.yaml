@@ -1,0 +1,37 @@
+id: moghadam-mohsen
+name_latin: "Mohsen Moghadam"
+name_farsi: "محسن مقدم"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: 50
+place_of_death: "Rasht"
+province: "Gilan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot directly during nationwide protests in Dey month 1404. He had left home
+  with his wife to bring back their child and daughter-in-law who were staying
+  at relatives' house. After getting out of the car, he was targeted by gunfire
+  and died from severe injuries in front of his wife's eyes. Gilak citizen from
+  Rasht.
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2731"
+    date: null
+    type: community_database
+  - url: "https://x.com/HyrcaniHRM/status/2017889911408361511"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

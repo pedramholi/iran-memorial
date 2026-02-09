@@ -1,0 +1,43 @@
+id: kazemi-ali-mohammad-kord-2004
+name_latin: "Ali Mohammad Kord Kazemi"
+name_farsi: "علی محمد کرد کاظمی"
+date_of_birth: null  # est. birth year: 2004
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: 22
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Gunshot"
+circumstances: >
+    22-year-old basketball player for Oghab Ashour club team, studied business
+  management, worked as pharmacy technician. Shot with direct bullet to his
+  heart at Kaj Square near his workplace and residence during Dey month.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1068"
+    date: null
+    type: community_database
+  - url: "https://x.com/iranintlsport/status/2015069548127408276"
+    name: "Iran International"
+    date: null
+    type: primary
+  - url: "https://x.com/tirtizzzz/status/2014644210712842240"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/persephone7597/status/2017363444807155728"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

@@ -1,0 +1,46 @@
+id: niko-alireza-moghaddasi-2005
+name_latin: "Alireza Moghaddasi Niko"
+name_farsi: "علیرضا مقدسی نیکو"
+date_of_birth: null  # est. birth year: 2005
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 21
+place_of_death: "Shahrak Andisheh, Shahriar"
+province: "Tehran"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot by government forces in Shahrak Andisheh. 21-year-old kickboxing
+  champion and IT student at Semnan University. Mother called him on the evening
+  of 18 Dey but another person answered his phone. When family arrived, they
+  found Alireza unconscious and he died before reaching the hospital. Government
+  forces threatened his family that they would be 'destroyed' if they published
+  news about his killing or spoke to media.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1517"
+    date: null
+    type: community_database
+  - url: "https://x.com/IranIntl/status/2015759624826192049"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/iranintlbrk/status/2015810544075194651"
+    name: "Iran International"
+    date: null
+    type: primary
+  - url: "https://x.com/spidygiirl/status/2016561966047699068"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

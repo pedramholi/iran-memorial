@@ -1,0 +1,46 @@
+id: karimpour-mehdi-2003
+name_latin: "Mehdi Karimpour"
+name_farsi: "مهدی کریم‌پور"
+date_of_birth: null  # est. birth year: 2003
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-10
+age_at_death: 23
+place_of_death: "Karaj"
+province: "Alborz"
+cause_of_death: "Gunshot"
+circumstances: >
+    Kurdish citizen from Bijar, 23 years old, boutique clothing store owner.
+  Shot by Islamic Republic military-security forces with numerous shotgun
+  pellets from close range during popular protests in Meshkin Dasht, Karaj,
+  while returning home with his wife after shopping at a supermarket. Severely
+  injured and died while being transported to hospital. Body was buried on 22
+  Dey (January 12) in Karaj.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #990"
+    date: null
+    type: community_database
+  - url: "https://x.com/monfaredashkan/status/2014869886464622793"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/MonfaredAshkan/status/2014869886464622793"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/KurdistanHRN/status/2018256937553441173"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

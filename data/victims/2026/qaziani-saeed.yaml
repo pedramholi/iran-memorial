@@ -1,0 +1,41 @@
+id: qaziani-saeed
+name_latin: "Saeed Qaziani"
+name_farsi: "سعید قاضیانی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: null
+place_of_death: "Qarchak"
+province: "Tehran"
+cause_of_death: "Gunshot"
+circumstances: >
+    Poet and writer shot with a war bullet by regime suppressors. Described as a
+  cultured, moral person and noble child of the homeland. He was not only a
+  father but also a cultural and human voice that was silenced by bullets,
+  leaving his only daughter in eternal mourning. His killing represents the
+  regime's fear of thought, words, and awareness.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #4177"
+    date: null
+    type: community_database
+  - url: "https://t.me/RememberTheirNames/2195"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/irannewsagency0/status/2019487712856736143"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

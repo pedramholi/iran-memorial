@@ -1,0 +1,37 @@
+id: nobakht-mohammad
+name_latin: "Mohammad Nobakht"
+name_farsi: "محمد نوبخت"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: null
+circumstances: >
+    Killed during popular protests in Tehran
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #424"
+    date: null
+    type: community_database
+  - url: "https://x.com/hengawo/status/2013369427656392749"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+  - url: "https://x.com/HengawO/status/2013369427656392749"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

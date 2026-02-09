@@ -1,0 +1,41 @@
+id: heydari-reza-kavousi-2001
+name_latin: "Reza Kavousi Heydari"
+name_farsi: "رضا کاووسی حیدری"
+date_of_birth: null  # est. birth year: 2001
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: 25
+place_of_death: "Fouladshar, Isfahan"
+province: "Isfahan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot directly in the heart by government suppression forces during protests
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1564"
+    date: null
+    type: community_database
+  - url: "https://x.com/ManotoNews/status/2015778499261591596"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/1234"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/iranwire/status/2020047313247367509"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

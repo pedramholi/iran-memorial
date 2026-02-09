@@ -1,0 +1,44 @@
+id: samakush-hassan-1978
+name_latin: "Hassan Samakush"
+name_farsi: "حسن سماکوش"
+date_of_birth: null  # est. birth year: 1978
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-21
+age_at_death: 48
+place_of_death: "Babol"
+province: "Mazandaran"
+cause_of_death: "Gunshot"
+circumstances: >
+    48-year-old resident of Babol and father, shot directly by suppressive
+  forces during nationwide protests on 18 Dey (first day of Crown Prince Reza
+  Pahlavi's call) in the city. A shotgun pellet hit his eye from close range,
+  causing severe brain hemorrhage, and he died after three days in a coma.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1404"
+    date: null
+    type: community_database
+  - url: "https://x.com/mashrotehorg/status/2015070468747771924"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/inthemaz/status/2014708202068201743"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/iranwire/status/2014954370509549724"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

@@ -1,0 +1,44 @@
+id: badparan-rasoul-1985
+name_latin: "Rasoul Badparan"
+name_farsi: "رسول بادپران"
+date_of_birth: null  # est. birth year: 1985
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 41
+place_of_death: "Alvand, Qazvin"
+province: "Qazvin"
+cause_of_death: "Gunshot"
+circumstances: >
+    Kurdish citizen from Kermanshah, 41 years old and father of a young child,
+  taxi driver, killed by gunfire from military-security forces of the Islamic
+  Republic during popular protests in Alvand city, Qazvin. His body was buried
+  on 21 Dey in 'Behesht Fatemieh' Alvand.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1715"
+    date: null
+    type: community_database
+  - url: "https://x.com/iranintlbrk/status/2015806800096895002"
+    name: "Iran International"
+    date: null
+    type: primary
+  - url: "https://x.com/KurdistanHRN/status/2017941978399260745"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/1907"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

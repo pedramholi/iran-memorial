@@ -1,0 +1,43 @@
+id: sabbagh-houman-1989
+name_latin: "Houman Sabbagh"
+name_farsi: "هومن صباغ"
+date_of_birth: null  # est. birth year: 1989
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 37
+place_of_death: "Lahijan"
+province: "Gilan"
+cause_of_death: "Gunshot (headshot)"
+circumstances: >
+    Shot with a bullet in the Shishehgaran area of Lahijan. Killed through
+  deliberate shooting of unarmed protesters with direct gunfire using military
+  weapons, specifically targeting the head and other lethal parts of the body.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #278"
+    date: null
+    type: community_database
+  - url: "https://x.com/HyrcaniHRM/status/2012486406493405351"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/HengawO/status/2012863021467550147"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+  - url: "https://x.com/manotonews/status/2014412755122442328"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

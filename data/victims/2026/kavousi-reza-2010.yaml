@@ -1,0 +1,44 @@
+id: kavousi-reza-2010
+name_latin: "Reza Kavousi"
+name_farsi: "رضا کاووسی"
+date_of_birth: null  # est. birth year: 2010
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 16
+place_of_death: "Karaj"
+province: "Alborz"
+cause_of_death: "Gunshot"
+circumstances: >
+    16-year-old child from Qochan working as a laborer, killed during popular
+  protests in Karaj when shot in the heart by a military bullet fired by Islamic
+  Republic military-security forces. Family was forced to pay 750 million tomans
+  to receive his body. Burial ceremony held in Qochan.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2400"
+    date: null
+    type: community_database
+  - url: "https://x.com/persephone7597/status/2017363770587205697"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/fuckeduprainman/status/2017691660931469609"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/kurdistanhrn/status/2018292709891403811"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

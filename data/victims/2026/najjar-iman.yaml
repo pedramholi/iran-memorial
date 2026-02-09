@@ -1,0 +1,33 @@
+id: najjar-iman
+name_latin: "Iman Najjar"
+name_farsi: "ايمان نجار"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: 21
+place_of_death: "Naein"
+cause_of_death: null
+circumstances: >
+    From Naein, commemorated with 'eternal name' (جاویدنام) which typically
+  indicates death
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1544"
+    date: null
+    type: community_database
+  - url: "https://x.com/KyokushinSoofi/status/2015718178601488760"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

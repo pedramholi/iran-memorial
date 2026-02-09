@@ -1,0 +1,42 @@
+id: kia-seyyed-abolfazl-1999
+name_latin: "Seyyed Abolfazl Kia"
+name_farsi: "ابولفضل کیا"
+date_of_birth: null  # est. birth year: 1999
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: 27
+place_of_death: "Chamestan, Mazandaran"
+province: "Mazandaran"
+cause_of_death: "Gunshot"
+circumstances: >
+    27-year-old Gilak citizen from Chamestan, killed by direct gunfire from
+  Islamic Republic of Iran government forces during protests
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1106"
+    date: null
+    type: community_database
+  - url: "https://x.com/alitagh30207454/status/2015074385925746874"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/HyrcaniHRM/status/2016784105006829846"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://javidnaman.iranintl.com/memorial/3Fy5sC7qrylDAVNVjWgsJB"
+    name: "Iran International"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

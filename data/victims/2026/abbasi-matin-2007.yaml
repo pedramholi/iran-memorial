@@ -1,0 +1,46 @@
+id: abbasi-matin-2007
+name_latin: "Matin Abbasi"
+name_farsi: "متین عباسی"
+date_of_birth: null  # est. birth year: 2007
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-19
+age_at_death: 19
+place_of_death: "Shahriar (Sabashshahr neighborhood)"
+province: "Tehran"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot by Islamic Republic forces on January 8, 2026. Struck from behind by
+  two bullets, one above the heart and the other in the side. Was taken by
+  pickup truck to three different hospitals but none would admit him. Eventually
+  brought to a clinic where his family was informed of his death on January 14.
+  Body was transferred to Kahrizak Forensic Medical Centre and funeral was held
+  on Tajik Blvd, Sabashahr.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1849"
+    date: null
+    type: community_database
+  - url: "https://x.com/banafshehviola/status/2016409886171758678"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/1513"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/allahbakhshii/status/2016215243760738771"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

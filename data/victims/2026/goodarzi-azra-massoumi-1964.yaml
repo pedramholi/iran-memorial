@@ -1,0 +1,45 @@
+id: goodarzi-azra-massoumi-1964
+name_latin: "Azra (Mahnaz) Massoumi Goodarzi"
+name_farsi: "عذرا معصومی گودرزی"
+date_of_birth: null  # est. birth year: 1964
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-19
+age_at_death: 62
+place_of_death: "Malayer, Hamadan"
+province: "Hamedan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot directly from behind by Islamic Republic suppression forces on Ghaem
+  Magham Street in Malayer while unable to take cover quickly enough during
+  security forces' shooting and dispersing of protesters. Witnesses reported she
+  lacked sufficient speed to take shelter when security forces were firing at
+  and dispersing protesters.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2602"
+    date: null
+    type: community_database
+  - url: "https://x.com/kyokushinsoofi/status/2017666171835728153"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/vahidmirzaeii/status/2017738555527749896"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/KyokushinSoofi/status/2017666171835728153"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

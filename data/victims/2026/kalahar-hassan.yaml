@@ -1,0 +1,43 @@
+id: kalahar-hassan
+name_latin: "Hassan Kalahar"
+name_farsi: "حسن کلهر"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-10
+age_at_death: null
+place_of_death: "Fardis, Karaj"
+province: "Alborz"
+cause_of_death: null
+circumstances: >
+    Former footballer and football referee from Delijan, killed during protests
+  in the Fardis area of Karaj by the criminal forces of the Islamic Republic.
+  His body was laid to rest in his hometown of Delijan.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1797"
+    date: null
+    type: community_database
+  - url: "https://x.com/saeidvafa/status/2016341315311571450"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://javidnaman.iranintl.com/memorial/255P39jiXgM2t3lNmMjHNI"
+    name: "Iran International"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/1779"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

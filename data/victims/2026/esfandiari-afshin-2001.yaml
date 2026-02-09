@@ -1,0 +1,45 @@
+id: esfandiari-afshin-2001
+name_latin: "Afshin Esfandiari"
+name_farsi: "افشین اسفندیاری"
+date_of_birth: null  # est. birth year: 2001
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 25
+place_of_death: "Karaj"
+province: "Alborz"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot in the throat with a war bullet by regime suppressive forces.
+  Architecture student, professional mountaineer, and resident of Karaj.
+  Described by friends and family as a kind, well-mannered, and always smiling
+  person. His killing is part of the systematic targeting of Iran's young
+  generation during the national uprising.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1658"
+    date: null
+    type: community_database
+  - url: "https://x.com/persian_picture/status/2016141323586191490"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/Persian_picture/status/2016141323586191490"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/autnews_org/status/2016221677634375867"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

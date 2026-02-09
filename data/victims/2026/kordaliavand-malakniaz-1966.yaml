@@ -1,0 +1,43 @@
+id: kordaliavand-malakniaz-1966
+name_latin: "Malakniaz Kordaliavand"
+name_farsi: "ملک‌نیاز کردعلیوند"
+date_of_birth: null  # est. birth year: 1966
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 60
+place_of_death: "Khorramabad"
+province: "Lorestan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot with a war bullet during the national uprising of the Iranian people in
+  Masour neighborhood of Khorramabad, Lorestan. A name that had remained unseen
+  until today and should not be buried in silence.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1114"
+    date: null
+    type: community_database
+  - url: "https://x.com/revenantgt6u/status/2015092945846698048"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/Revenantgt6u/status/2014658827350646841"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/Me_azadi/status/2016787703149265138"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

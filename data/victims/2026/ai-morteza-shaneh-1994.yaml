@@ -1,0 +1,45 @@
+id: ai-morteza-shaneh-1994
+name_latin: "Morteza Shaneh-ai"
+name_farsi: "مرتضی شانه‌ای"
+date_of_birth: null  # est. birth year: 1994
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-10
+age_at_death: 32
+place_of_death: "Masoudiyeh District, Sabzevar"
+province: "Razavi Khorasan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot in the chest area by police officers from Mashiriyeh police station in
+  the Mashiriyeh neighborhood. His body was identified two days later on 20 Dey
+  (January 10, 2026) in Kahrizak among approximately three thousand corpses.
+  Officials from the Martyrs Foundation told his family that Morteza Shaneh-ai
+  had become a 'martyr' and did not charge the family for the bullet cost.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2168"
+    date: null
+    type: community_database
+  - url: "https://x.com/iranintl/status/2017040208944943586"
+    name: "Iran International"
+    date: null
+    type: primary
+  - url: "https://javidnaman.iranintl.com/memorial/255P39jiXgM2t3lNmMiJCA"
+    name: "Iran International"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/377"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

@@ -1,0 +1,46 @@
+id: khani-mohammad-reza-2008
+name_latin: "Mohammad Reza Khani"
+name_farsi: "محمدرضا خانی"
+date_of_birth: null  # est. birth year: 2008
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-10
+age_at_death: 18
+place_of_death: "Kianmehr, Karaj"
+province: "Alborz"
+cause_of_death: "Gunshot"
+circumstances: >
+    Member of Iran's national youth MMA team. Shot and killed by suppression
+  forces with war bullets in Kiyanmehr neighborhood of Karaj during the Iranian
+  national revolution against the Islamic Republic. Died from two war bullets
+  that hit his lower back. He had won silver medal in the 80kg modern style
+  category at the national championship and Asian Youth Games qualifiers in
+  Bahrain in Ordibehesht of the current year.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1380"
+    date: null
+    type: community_database
+  - url: "https://x.com/Walterakam/status/2015391393473069067"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/sssccpp/status/2017331120115712029"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://javidnaman.iranintl.com/memorial/3Fy5sC7qrylDAVNVjWj3B9"
+    name: "Iran International"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

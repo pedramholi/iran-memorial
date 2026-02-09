@@ -1,0 +1,43 @@
+id: payedar-ramatin-1996
+name_latin: "Ramatin Payedar"
+name_farsi: "رامتین پایدار"
+date_of_birth: null  # est. birth year: 1996
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 30
+place_of_death: "Gorgan"
+province: "Golestan"
+cause_of_death: "Gunshot (headshot)"
+circumstances: >
+    Shot directly in the head around Kakh Square in Gorgan. He was the
+  breadwinner of his family, having previously lost his father and brother, and
+  was the only support his mother had.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1126"
+    date: null
+    type: community_database
+  - url: "https://x.com/persuasion_elli/status/2015186169496011047"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/HeKasrehCrisis/status/2015881985835647146"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/fseifikaran/status/2016313455184122150"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

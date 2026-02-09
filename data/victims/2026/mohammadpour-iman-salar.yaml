@@ -1,0 +1,33 @@
+id: mohammadpour-iman-salar
+name_latin: "Iman Salar Mohammadpour"
+name_farsi: "ایمان سالار محمدپور"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: 29
+place_of_death: "Bandar Abbas"
+province: "Hormozgan"
+cause_of_death: null
+circumstances: >
+    29-year-old from Bandar Abbas
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2174"
+    date: null
+    type: community_database
+  - url: "https://x.com/KyokushinSoofi/status/2016908661994459350"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

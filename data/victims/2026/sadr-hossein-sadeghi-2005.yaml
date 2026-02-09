@@ -1,0 +1,45 @@
+id: sadr-hossein-sadeghi-2005
+name_latin: "Hossein Sadeghi Sadr"
+name_farsi: "حسین صادقی صدر"
+date_of_birth: null  # est. birth year: 2005
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-20
+age_at_death: 21
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Gunshot"
+circumstances: >
+    21-year-old Lor ethnic man, resident of Tehran and working, shot directly by
+  terrorist Islamic Republic regime forces from less than 10 meters distance at
+  Andarzgou intersection in Tehran. He was on the verge of marriage but the
+  regime cut short his life story with bullets. Family is under pressure and
+  silent.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #3509"
+    date: null
+    type: community_database
+  - url: "https://x.com/HeKasrehCrisis/status/2018176329359774002"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/iranianpapppi3/status/2018470000344908157"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/2109"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

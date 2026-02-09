@@ -1,0 +1,43 @@
+id: rafiei-mohammad-2001
+name_latin: "Mohammad Rafiei"
+name_farsi: "محمد رفیعی"
+date_of_birth: null  # est. birth year: 2001
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 25
+place_of_death: "Qazvin"
+province: "Qazvin"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot directly by IRGC forces during protests in Qazvin. He was from
+  Hosseinabad Sofla village in Qazvin province, was unarmed when participating
+  in protests, and was an athlete who loved life.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #3503"
+    date: null
+    type: community_database
+  - url: "https://javidnaman.iranintl.com/memorial/faVC3p6tCxw9DOdQY8sxiW"
+    name: "Iran International"
+    date: null
+    type: primary
+  - url: "https://x.com/Tavaana/status/2018210748858610098"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/1341"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

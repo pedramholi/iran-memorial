@@ -1,0 +1,38 @@
+id: mirzaei-mostafa-2009
+name_latin: "Mostafa Mirzaei"
+name_farsi: "مصطفی میرزایی"
+date_of_birth: null  # est. birth year: 2009
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 17
+place_of_death: "Yaftabad, Tehran"
+province: "Tehran"
+cause_of_death: null
+circumstances: >
+    17-year-old from Tehran, commemorated with eternal memory (جاویدنام)
+  suggesting death related to protests
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2480"
+    date: null
+    type: community_database
+  - url: "https://x.com/kyokushinsoofi/status/2017257140738556347"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/1352"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

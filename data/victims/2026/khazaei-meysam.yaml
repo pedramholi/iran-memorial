@@ -1,0 +1,43 @@
+id: khazaei-meysam
+name_latin: "Meysam Khazaei"
+name_farsi: "میثم خزایی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: null
+place_of_death: "Shahriar, Tehran"
+province: "Tehran"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot with pellets in his eye in Shahidshahr, Shahriar. Said that with one
+  eye, what use is this life anymore, then went among the crowd and had his
+  throat cut
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #475"
+    date: null
+    type: community_database
+  - url: "https://x.com/hengawo/status/2013568510937468981"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+  - url: "https://x.com/HengawO/status/2013568510937468981"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+  - url: "https://x.com/iranintlsport/status/2015696779732230264"
+    name: "Iran International"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

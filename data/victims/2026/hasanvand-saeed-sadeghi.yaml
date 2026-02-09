@@ -1,0 +1,43 @@
+id: hasanvand-saeed-sadeghi
+name_latin: "Saeed Sadeghi Hasanvand"
+name_farsi: "سعید صادقی حسنوند"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: null
+place_of_death: "Masjed Soleyman"
+province: "Khuzestan"
+cause_of_death: "Gunshot (headshot)"
+circumstances: >
+    Shot with pellets and stabbed with a knife by Islamic Republic suppression
+  forces during a protest in Masjed Soleyman. Originally from Bazoft,
+  Chaharmahal and Bakhtiari Province. Was injured by knife wound to the thigh
+  and pellet shots to the head area while in an alley leading to the IRGC base.
+  Initially transferred to Shushtar hospital but was not admitted, then died on
+  the way to Ahvaz hospital on the evening of 18 Dey. Body was buried three days
+  later in Bazoft, Chaharmahal and Bakhtiari.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #4185"
+    date: null
+    type: community_database
+  - url: "https://t.me/RememberTheirNames/2216"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/vahidmirzaeii/status/2019304073422352780"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

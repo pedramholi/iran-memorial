@@ -1,0 +1,47 @@
+id: samleh-hasanali-norouzi-1972
+name_latin: "Hasanali Norouzi Samleh"
+name_farsi: "حسنعلی نوروزی سامله"
+date_of_birth: null  # est. birth year: 1972
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 54
+place_of_death: "Mashhad"
+province: "Razavi Khorasan"
+cause_of_death: "Gunshot"
+circumstances: >
+    54-year-old Kurdish citizen from Kermanshah living in Mashhad, shot and
+  killed with war bullets by Islamic Republic suppression forces during popular
+  protests in Mashhad. His body was buried secretly without family notification.
+  The exact date of death is uncertain but likely occurred during the widespread
+  killings on January 8 or 9, 2026 (18 or 19 Dey 1404). Family learned of his
+  death after a period of uncertainty about his fate. Authorities secretly
+  buried 400 people in Mashhad without family notification.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1895"
+    date: null
+    type: community_database
+  - url: "https://x.com/KurdistanHRN/status/2016559459183505908"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/kurdpa_farsi/status/2014228934586511367"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/kurdpa_farsi/status/2014229408744128960"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

@@ -1,0 +1,44 @@
+id: mehri-ali-2010
+name_latin: "Ali Mehri"
+name_farsi: "علی مهری"
+date_of_birth: null  # est. birth year: 2010
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: 16
+place_of_death: "Zarinshahr, Isfahan"
+province: "Isfahan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot in the neck with a war bullet by government forces during suppression
+  of popular protests. Born in 1388 Persian calendar. Had posted an Instagram
+  story with a song by Hichkas titled 'They Can't Kill Me' a few months before
+  his death.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1004"
+    date: null
+    type: community_database
+  - url: "https://x.com/monfaredashkan/status/2014893846325543185"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/hichkasofficial/status/2015167771005378828"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/Tavaana/status/2015237583689924743"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

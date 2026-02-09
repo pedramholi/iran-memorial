@@ -1,0 +1,37 @@
+id: virani-abolfazl-habibzadeh-2005
+name_latin: "Abolfazl Habibzadeh Virani"
+name_farsi: "ابوالفضل حبیب‌زاده ویرانی"
+date_of_birth: null  # est. birth year: 2005
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-21
+age_at_death: 21
+place_of_death: "Mashhad"
+province: "Razavi Khorasan"
+cause_of_death: null
+circumstances: >
+    Injured on 18 Dey 1404 in Mashhad, died on 21 Dey
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #3186"
+    date: null
+    type: community_database
+  - url: "https://javidnaman.iranintl.com/memorial/z0JmINcmTJe7Ul3GOGjY65"
+    name: "Iran International"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/1983"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

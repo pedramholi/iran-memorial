@@ -1,0 +1,43 @@
+id: ahangari-esmaeil-1988
+name_latin: "Esmaeil Ahangari"
+name_farsi: "اسماعیل آهنگری"
+date_of_birth: null  # est. birth year: 1988
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 38
+place_of_death: "Zarinshahr, Isfahan"
+province: "Isfahan"
+cause_of_death: null
+circumstances: >
+    Citizen of Zarin-shahr who sacrificed his life for freedom during Iran's
+  national uprising, victim of the bloody suppression by the terrorist Islamic
+  Republic regime
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #3325"
+    date: null
+    type: community_database
+  - url: "https://x.com/KyokushinSoofi/status/2018018685487546436"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/irannewsagency0/status/2018620093354131911"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/IranNewsAgency0/status/2018620093354131911"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

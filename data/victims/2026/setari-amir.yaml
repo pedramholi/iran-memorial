@@ -1,0 +1,34 @@
+id: setari-amir
+name_latin: "Amir Setari"
+name_farsi: "امیر ستاری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: 23
+place_of_death: "Robat Karim"
+province: "Tehran"
+cause_of_death: null
+circumstances: >
+    23 years old from Robat Karim. Mentioned in memorial context with phrase
+  'eternal be the name of'
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #3238"
+    date: null
+    type: community_database
+  - url: "https://x.com/dahri9/status/2017730081058394341"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

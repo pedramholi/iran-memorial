@@ -1,0 +1,44 @@
+id: shojaeeyan-omid
+name_latin: "Omid Shojaeeyan"
+name_farsi: "امید شجاعیان"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: null
+place_of_death: "Maskan neighborhood - Kermanshah"
+province: "Kerman"
+cause_of_death: "Gunshot"
+circumstances: >
+    Kurdish young man from Kermanshah, shot with a war bullet by Islamic
+  Republic suppression forces in front of his shop in Maskan neighborhood during
+  popular protests on Friday evening 19 Dey 1404. Families reportedly forced to
+  pay between 700 million tomans to 1 billion tomans to receive victims' bodies.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #620"
+    date: null
+    type: community_database
+  - url: "https://x.com/kavehkermashani/status/2013997635758162174"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/kurdpa_farsi/status/2014449301208912076"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/HengawO/status/2014280444745830546"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

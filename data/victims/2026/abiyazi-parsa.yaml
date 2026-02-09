@@ -1,0 +1,36 @@
+id: abiyazi-parsa
+name_latin: "Parsa Abiyazi"
+name_farsi: "پارسا ابیضی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: 20
+place_of_death: "Gilan or Mazandaran province"
+cause_of_death: null
+circumstances: >
+    Killed during popular protests in Gilan and Mazandaran provinces
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #389"
+    date: null
+    type: community_database
+  - url: "https://x.com/hengawo/status/2013224113272135817"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+  - url: "https://x.com/outofken/status/2013212013271691343"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

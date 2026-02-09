@@ -1,0 +1,35 @@
+id: torkashvand-meysam-rahmati
+name_latin: "Meysam Rahmati Torkashvand"
+name_farsi: "میثم رحمتی ترکاشوند"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: null
+place_of_death: "Shahriar"
+province: "Tehran"
+cause_of_death: "Gunshot"
+circumstances: >
+    Worker at Minoo company, shot in the throat while on the balcony of his
+  house in Vaein neighborhood of Shahriar. His family was forced to bury his
+  body in Tuyserkan, Hamadan province.
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #4411"
+    date: null
+    type: community_database
+  - url: "https://x.com/pouyajegarvnd/status/2014740488805392803"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

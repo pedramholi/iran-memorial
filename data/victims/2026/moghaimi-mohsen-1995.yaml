@@ -1,0 +1,45 @@
+id: moghaimi-mohsen-1995
+name_latin: "Mohsen Moghaimi"
+name_farsi: "محسن مقیمی"
+date_of_birth: null  # est. birth year: 1995
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: 31
+place_of_death: "Qazvin"
+province: "Qazvin"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot directly by IRGC forces' bullets in Abgarm city, Qazvin province. His
+  body was handed over to his family only after three days under severe security
+  pressure. He was married and had a 3-year-old daughter. Despite having a
+  master's degree in physical education, he worked as a driver to support his
+  family.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1236"
+    date: null
+    type: community_database
+  - url: "https://x.com/Tavaana/status/2015475539566629345"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://www.instagram.com/p/DT8SEsdjwhb"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/1087"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

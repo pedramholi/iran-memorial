@@ -1,0 +1,43 @@
+id: goodarzi-amirhossein-asadian-2005
+name_latin: "Amirhossein Asadian Goodarzi"
+name_farsi: "امیرحسین گودرزی"
+date_of_birth: null  # est. birth year: 2005
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 21
+place_of_death: "Arak"
+province: "Markazi"
+cause_of_death: "Gunshot"
+circumstances: >
+    21 years old, only child, resident of Hepco in Arak. Killed by direct shot
+  of war bullet to the lung on 18 Dey. Buried a few days later in section 8 of
+  Behesht-e Zahra cemetery in Arak.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2161"
+    date: null
+    type: community_database
+  - url: "https://x.com/anjmotahed/status/2017151043595907374"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/autnews_org/status/2017276282094981277"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/behnam_chegini/status/2014477515268476931"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

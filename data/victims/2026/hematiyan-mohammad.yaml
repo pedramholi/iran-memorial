@@ -1,0 +1,44 @@
+id: hematiyan-mohammad
+name_latin: "Mohammad Hematiyan"
+name_farsi: "محمد همتیان"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: null
+place_of_death: "Dorud"
+province: "Lorestan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot directly in the heart during protests in Dorud, Lorestan. At least 17
+  people were killed in Dorud on the 18th and 19th of Dey month, but due to the
+  small size of the city and extremely severe security conditions, only the
+  names of a few martyrs have been made public.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2640"
+    date: null
+    type: community_database
+  - url: "https://t.me/RememberTheirNames/1554"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/me_azadi/status/2017845990296838580"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/hekasrehcrisis/status/2018018195878158456"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

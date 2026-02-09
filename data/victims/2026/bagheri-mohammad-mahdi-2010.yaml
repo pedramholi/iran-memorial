@@ -1,0 +1,44 @@
+id: bagheri-mohammad-mahdi-2010
+name_latin: "Mohammad Mahdi Bagheri"
+name_farsi: "محمدمهدی باقری"
+date_of_birth: null  # est. birth year: 2010
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 16
+place_of_death: "Kermanshah"
+province: "Kermanshah"
+cause_of_death: "Gunshot"
+circumstances: >
+    16-year-old Kurdish teenager from Kermanshah was shot by suppression forces
+  with a war bullet during public protests on the evening of January 8th while
+  chanting 'Death to Khamenei' in the Maskan area. Despite severe bleeding, he
+  was arrested and plainclothes forces took his bloodied body in their vehicle.
+  He died en route and the plainclothes forces abandoned his body by the
+  roadside. After his killing, his family was threatened and pressured by
+  security institutions and the IRGC, and threatened that his 10-year-old
+  brother would be arrested.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #4403"
+    date: null
+    type: community_database
+  - url: "https://x.com/kurdpa_farsi/status/2014715867712372779"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/874"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

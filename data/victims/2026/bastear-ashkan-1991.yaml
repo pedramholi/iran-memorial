@@ -1,0 +1,46 @@
+id: bastear-ashkan-1991
+name_latin: "Ashkan Bastear"
+name_farsi: "اشکان بستار"
+date_of_birth: null  # est. birth year: 1991
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: 35
+place_of_death: "Fardis, Karaj"
+province: "Alborz"
+cause_of_death: "Gunshot"
+circumstances: >
+    35-year-old Kurdish man from Kermanshah living in Karaj, killed during
+  popular protests on 19 Dey in Fardis, Karaj by direct shooting of war bullet
+  by Islamic Republic suppression forces to his forehead area. His body was
+  buried on 23 Dey 1404 in Kermanshah with family and relatives present,
+  accompanied by 'Chamari' singing and mother's mourning dance over his grave.
+  He had a fiancée.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1064"
+    date: null
+    type: community_database
+  - url: "https://x.com/manotonews/status/2015112243910766860"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/hekasrehcrisis/status/2019072158924705923"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/1415"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

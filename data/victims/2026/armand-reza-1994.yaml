@@ -1,0 +1,40 @@
+id: armand-reza-1994
+name_latin: "Reza Armand"
+name_farsi: "رضا آرمند"
+date_of_birth: null  # est. birth year: 1994
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-10
+age_at_death: 32
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot with live ammunition by plainclothes forces during protests in Yaftabad
+  neighborhood around 11 PM. Shot from behind with war bullets while protests
+  were being suppressed. Attackers were plainclothes but used a Samand car with
+  IRGC insignia.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1065"
+    date: null
+    type: community_database
+  - url: "https://x.com/iranwire/status/2015049589020147944"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/1035"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

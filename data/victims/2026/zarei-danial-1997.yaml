@@ -1,0 +1,44 @@
+id: zarei-danial-1997
+name_latin: "Danial Zarei"
+name_farsi: "دانیال زارعی"
+date_of_birth: null  # est. birth year: 1997
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-14
+age_at_death: 29
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Gunshot"
+circumstances: >
+    Last seen on 18 Dey (January 8) around 9:30 PM at Coca-Cola intersection.
+  Body was returned 6 days later on 24 Dey. Killed by gunshot at close range to
+  his face. Born 23 Bahman 1372. Had tried to emigrate but decided to stay in
+  Iran and build his life there.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1274"
+    date: null
+    type: community_database
+  - url: "https://x.com/niliitis/status/2015704644945604803"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/missmarpel75/status/2016044751791743025"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/RealMeAban/status/2016979165753303324"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

@@ -1,0 +1,38 @@
+id: haddadi-hamidreza
+name_latin: "Hamidreza Haddadi"
+name_farsi: "حمیدرضا حدادی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: null
+place_of_death: "Shandiz, Mashhad"
+province: "Razavi Khorasan"
+cause_of_death: null
+circumstances: >
+    Killed as a child of Iran in service to the homeland, in Shandiz area of
+  Mashhad
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1265"
+    date: null
+    type: community_database
+  - url: "https://x.com/saraapoor/status/2015532304953745412"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/mahmocean/status/2015772827140452727"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

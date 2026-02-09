@@ -1,0 +1,44 @@
+id: pourhassani-sajjad-1985
+name_latin: "Sajjad Pourhassani"
+name_farsi: "سجاد پورحسنی"
+date_of_birth: null  # est. birth year: 1985
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: 41
+place_of_death: "Rasht"
+province: "Gilan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot by government forces during protests. Government agents fired from the
+  top of a bank building opposite the 'Chahar Baradaran' mosque on Motahari
+  Street in Rasht. A bullet hit his leg, and he died at the hospital due to
+  severe injuries and bleeding before receiving effective medical care. He was a
+  Gilaki citizen of Rasht, 41 years old, father of a 16-year-old daughter, and
+  worked as a worker in a supermarket. His family was pressured to sign
+  documents and commitments to receive his body, and a public ceremony for him
+  was prevented.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1147"
+    date: null
+    type: community_database
+  - url: "https://x.com/HengawO/status/2015022203226513772"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+  - url: "https://x.com/HyrcaniHRM/status/2016294050366640368"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

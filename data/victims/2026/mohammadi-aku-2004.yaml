@@ -1,0 +1,43 @@
+id: mohammadi-aku-2004
+name_latin: "Aku Mohammadi"
+name_farsi: null
+date_of_birth: null  # est. birth year: 2004
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 22
+place_of_death: "Qeshm"
+province: "Hormozgan"
+cause_of_death: "Gunshot"
+circumstances: >
+    From Salas-e Babajani living in Qeshm, killed by direct gunfire from
+  repressive regime forces during protests. The regime demanded 1 billion tomans
+  to hand over his body to the family.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #243"
+    date: null
+    type: community_database
+  - url: "https://x.com/longlosthills/status/2010453284763615626"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/hiitsmemooneh/status/2014597965567164501"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/israelwarroom/status/2013018241677885485"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

@@ -1,0 +1,44 @@
+id: nour-alireza-mousavi-1998
+name_latin: "Alireza Mousavi Nour"
+name_farsi: "علیرضا نوری"
+date_of_birth: null  # est. birth year: 1998
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: 28
+place_of_death: "Qazvin"
+province: "Qazvin"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot with pellets during national uprising, face was bloodied the night
+  before his death but he refused to clean the blood saying it was for the
+  homeland and he was proud of it, continued to stand for freedom until his
+  final moment
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1256"
+    date: null
+    type: community_database
+  - url: "https://x.com/pouriazeraati/status/2015672824212381796"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/IranNewsAgency0/status/2018614880417226952"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/sferi9338/status/2019143981951774869"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

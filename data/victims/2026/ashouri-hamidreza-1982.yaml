@@ -1,0 +1,39 @@
+id: ashouri-hamidreza-1982
+name_latin: "Hamidreza Ashouri"
+name_farsi: "حمیدرضا عاشوری"
+date_of_birth: null  # est. birth year: 1982
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 44
+place_of_death: "Karaj"
+province: "Alborz"
+cause_of_death: "Gunshot (headshot)"
+circumstances: >
+    Father of a 5-year-old son. Went to Chitgar to visit relatives when he heard
+  protest sounds and came outside. A girl was shot in front of him, and when he
+  went to help move her aside, a bullet hit his forehead and he was killed
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #4567"
+    date: null
+    type: community_database
+  - url: "https://t.me/RememberTheirNames/1019"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/i/status/2019097447965028371"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

@@ -1,0 +1,44 @@
+id: goodarzi-amir-1969
+name_latin: "Amir Goodarzi"
+name_farsi: "امیر گودرزی"
+date_of_birth: null  # est. birth year: 1969
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-10
+age_at_death: 57
+place_of_death: "Nazi-Abad, Tehran"
+province: "Tehran"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot with 3 military bullets in hand and stomach during protests in Nazi
+  Abad, Tehran on the night of 18 Dey. Died at 7 AM the next morning (Friday) at
+  Pakdasht Hospital. Husband and father of a 4-year-old daughter. Orphaned from
+  childhood, grew up without parents.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2392"
+    date: null
+    type: community_database
+  - url: "https://x.com/i/status/2017241298441244716"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/hekasrehcrisis/status/2017241298441244716"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/HeKasrehCrisis/status/2017241298441244716"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

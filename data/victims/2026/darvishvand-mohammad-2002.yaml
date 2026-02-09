@@ -1,0 +1,44 @@
+id: darvishvand-mohammad-2002
+name_latin: "Mohammad Darvishvand"
+name_farsi: "محمد درویشوند"
+date_of_birth: null  # est. birth year: 2002
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 24
+place_of_death: "Alvand, Qazvin"
+province: "Qazvin"
+cause_of_death: "Gunshot"
+circumstances: >
+    24-year-old cousin of Edris Darvishvand, shot and killed by Islamic Republic
+  suppression forces during Iran's national revolution protests. He was targeted
+  along with his cousin and both lost their lives. No photo of Mohammad has been
+  received yet.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1987"
+    date: null
+    type: community_database
+  - url: "https://t.me/RememberTheirNames/1628"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://www.instagram.com/p/DTvP2CtEgsr"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/indypersian/status/2013641179762504085"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

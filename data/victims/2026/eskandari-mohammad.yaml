@@ -1,0 +1,33 @@
+id: eskandari-mohammad
+name_latin: "Mohammad Eskandari"
+name_farsi: "محمد اسکندری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: 24
+place_of_death: "Shahrekord"
+province: "Chaharmahal and Bakhtiari"
+cause_of_death: null
+circumstances: >
+    Described as 'child of Iran, life sacrificed for homeland' from Shahrekord
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #3746"
+    date: null
+    type: community_database
+  - url: "https://x.com/AminAkramipour/status/2018742526828478889"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

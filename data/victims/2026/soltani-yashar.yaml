@@ -1,0 +1,43 @@
+id: soltani-yashar
+name_latin: "Yashar Soltani"
+name_farsi: "یاشار سلطانی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: 27
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: null
+circumstances: >
+    27-year-old wrestler and athlete, originally from Mazandaran, resident of
+  Tehran's Mehrabad neighborhood. Described as kind and devoted to his family,
+  especially his niece. Killed in the darkness of the street by killers of Iran.
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #767"
+    date: null
+    type: community_database
+  - url: "https://t.me/poshtpardeha/248385?single"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/_sabaa_z/status/2014543386292720074"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/naryawash/status/2014514296122732955"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

@@ -1,0 +1,38 @@
+id: pishro-esmaeil-2009
+name_latin: "Esmaeil Pishro"
+name_farsi: "اسماعیل پیشرو"
+date_of_birth: null  # est. birth year: 2009
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 17
+place_of_death: "Mashhad"
+province: "Razavi Khorasan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot directly in the heart by government suppression forces during people's
+  protests. Originally from Satarkhi, a suburb of Shirvan, but living in Mashhad
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #4218"
+    date: null
+    type: community_database
+  - url: "https://www.instagram.com/p/DUWo_k0E04r"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/2376"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

@@ -1,0 +1,40 @@
+id: fatemi-fatemeh-1984
+name_latin: "Fatemeh (Mahbubeh) Fatemi"
+name_farsi: "فاطمه (محبوبه) فاطمی"
+date_of_birth: null  # est. birth year: 1984
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: 42
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot by Khamenei's suppressive agents near Tajrish. Originally from Bandar
+  Abbas but living in Tehran. Security agents threatened her family in Bandar
+  Abbas, forcing them to tell relatives that the cause of death was 'cancer
+  disease'
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1077"
+    date: null
+    type: community_database
+  - url: "https://x.com/amirmiresmaeili/status/2015071818571293115"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/AmirMiresmaeili/status/2015071818571293115"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

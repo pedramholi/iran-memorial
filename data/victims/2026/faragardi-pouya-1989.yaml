@@ -1,0 +1,46 @@
+id: faragardi-pouya-1989
+name_latin: "Pouya Faragardi"
+name_farsi: "پویا فراگردی"
+date_of_birth: null  # est. birth year: 1989
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 37
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: null
+circumstances: >
+    Killed during protests on 18th of Dey month. His body was found among other
+  victims of Iran's national revolution. Brother of the tweet author Payam
+  Fotouhiyehpour, went missing on Wednesday when communication with outside the
+  country became available, family and friends searched everywhere but found no
+  trace until Tuesday when they were informed his body was found among the
+  martyrs.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #625"
+    date: null
+    type: community_database
+  - url: "https://x.com/Fotouhia/status/2014035002934354394"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/i/status/2016940277353546145"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://www.instagram.com/p/DT7QFBJiEBG"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

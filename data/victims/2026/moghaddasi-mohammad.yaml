@@ -1,0 +1,38 @@
+id: moghaddasi-mohammad
+name_latin: "Mohammad Moghaddasi"
+name_farsi: null
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-03
+age_at_death: null
+place_of_death: "Malekshahi County, Ilam province"
+province: "Ilam"
+cause_of_death: null
+circumstances: >
+    Also known as Bozoneh, initially reported killed on January 3 during IRGC
+  shooting of protesters
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #59"
+    date: null
+    type: community_database
+  - url: "https://en.wikipedia.org/wiki/2026_Malekshahi_massacre"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://hengaw.net/en/reports-and-statistics-1/2026/01/article-2"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

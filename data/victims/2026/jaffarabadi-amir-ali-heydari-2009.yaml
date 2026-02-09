@@ -1,0 +1,47 @@
+id: jaffarabadi-amir-ali-heydari-2009
+name_latin: "Amir Ali Heydari Jaffarabadi"
+name_farsi: "امیرعلی حیدری جعفرآبادی"
+date_of_birth: null  # est. birth year: 2009
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 17
+place_of_death: "Kermanshah"
+province: "Kermanshah"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot and killed on the evening of Thursday, January 8th, on Kashan Street in
+  the Elahiyeh neighborhood. He was targeted with live ammunition loaded in an
+  AK-47, fired directly by the Islamic Republic security forces, and died on the
+  spot. After killing the teenager, the forces seized his body and later handed
+  it over to the family in exchange for one billion tomans. The family was
+  previously pressured to list the cause of death as 'fall from height' but
+  refused, yet the death certificate was issued with that claim.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #75"
+    date: null
+    type: community_database
+  - url: "https://x.com/IranProtestsCom/status/2011145605687505150"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/mothrofdrgns/status/2011726596974264712"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/qadrichiya/status/2010753921984147533"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

@@ -1,0 +1,33 @@
+id: rang-mohsen-siah
+name_latin: "Mohsen Siah Rang"
+name_farsi: "محسن سیاه رنگ"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: null
+place_of_death: "Fardis"
+province: "Alborz"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot in the chest and leg in Fardis, Karaj
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #4772"
+    date: null
+    type: community_database
+  - url: "https://x.com/aapostrophe_ss/status/2019748330461389105"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

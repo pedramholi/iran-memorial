@@ -1,0 +1,41 @@
+id: khorasani-karim-alizadeh-1986
+name_latin: "Karim Alizadeh Khorasani"
+name_farsi: "کریم علیزاده خراسانی"
+date_of_birth: null  # est. birth year: 1986
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-10
+age_at_death: 40
+place_of_death: "Pasdaran, Tehran"
+province: "Tehran"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot from behind with direct military fire (confirmed Kalashnikov) in
+  Pasdaran neighborhood on January 7, 2026. Bullet exited from his left eye.
+  Initially stabilized at Shohada Hospital in Tajrish with consciousness level
+  improving from 3 to 5. Family arranged transfer to private hospital where
+  neurosurgeons confirmed he could be saved, but hospital staff administered an
+  injection that caused cardiac arrest within an hour. Body was held hostage by
+  authorities who demanded payment of 1.2 billion tomans ($8,900) before
+  releasing it to family. Funeral held under heavy security with family
+  threatened against continuing mourning.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1917"
+    date: null
+    type: community_database
+  - url: "https://www.instagram.com/p/DT5eGCEjuLc"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

@@ -1,0 +1,49 @@
+id: afrookhteh-milad-1993
+name_latin: "Milad Afrookhteh"
+name_farsi: "میلاد افروخته"
+date_of_birth: null  # est. birth year: 1993
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: 33
+place_of_death: "Rasht"
+province: "Gilan"
+cause_of_death: "Gunshot (headshot)"
+circumstances: >
+    Gilak citizen from Sangar, athlete, footballer and goalkeeper trainer. Shot
+  on Motahari Street in Rasht during nationwide protests by forces of the
+  Islamic Republic of Iran. After being shot, people and friends moved his body
+  about 200-300 meters to Hajiabad Street area and placed him inside his
+  personal car. To avoid sensitivity from security forces, those present
+  contacted Milad's brother saying he was injured and had a headache, asking him
+  to come take Milad home. The brother came with his wife and young child,
+  unaware of the severity of the injury, but upon opening the car door found it
+  soaked in blood.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1243"
+    date: null
+    type: community_database
+  - url: "https://x.com/HyrcaniHRM/status/2015512044502401302"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/pkhwshhal/status/2016257546961441150"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/szamanzadeh/status/2016964770671325406"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

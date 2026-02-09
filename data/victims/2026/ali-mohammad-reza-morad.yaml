@@ -1,0 +1,45 @@
+id: ali-mohammad-reza-morad
+name_latin: "Mohammad Reza Morad Ali"
+name_farsi: "محمدرضا مرادعلی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: null
+place_of_death: "Fardis, Karaj"
+province: "Alborz"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot in the chest with war bullets by Islamic Republic forces in Fardis.
+  Family was forced to pay 1 billion rials to receive his body and threatened
+  that if they didn't pay, the body would be buried in a remote village.
+  Described as one of the smartest and kindest people the source knew. His
+  second-to-last profile picture was still 'Woman Life Freedom'.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #4412"
+    date: null
+    type: community_database
+  - url: "https://x.com/meylooouu/status/2014826069883552185"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/466"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/mtphilosophy/status/2015069259022430698"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

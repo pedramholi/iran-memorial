@@ -1,0 +1,44 @@
+id: asadollahi-shayan-1997
+name_latin: "Shayan Asadollahi"
+name_farsi: "شایان اسداللهی"
+date_of_birth: null  # est. birth year: 1997
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2025-12-31
+age_at_death: 28
+place_of_death: "Azna, Lorestan"
+province: "Lorestan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Barber of Lur ethnicity, shot in the abdomen with live ammunition by direct
+  gunfire from security forces (including IRGC pickup trucks) while returning
+  from a protest. He was one of three protesters killed in Azna that evening,
+  alongside a 15-year-old teenager (Mostafa) and Vahab Musavi/Ghaedi.
+event_context: "2025-2026 Iranian nationwide protests (December 2025 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #7"
+    date: null
+    type: community_database
+  - url: "https://en.wikipedia.org/wiki/2026_Iran_massacres"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/Daikatuo/status/2007455396248633743"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://www.iran-emrooz.net/index.php/news2/125134/"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

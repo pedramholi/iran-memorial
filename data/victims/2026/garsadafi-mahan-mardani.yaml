@@ -1,0 +1,34 @@
+id: garsadafi-mahan-mardani
+name_latin: "Mahan Mardani Garsadafi"
+name_farsi: "ماهان مردانی گرصدفی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Gunshot"
+circumstances: >
+    Kurdish Yarsan citizen shot by security forces during popular protests in
+  Tehran in the evening of 19 Dey 1404.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #4407"
+    date: null
+    type: community_database
+  - url: "https://x.com/kurdistanhrn/status/2014460051079979504"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

@@ -1,0 +1,42 @@
+id: marghamaleki-saeed-massoudi-1994
+name_latin: "Saeed Massoudi Marghamaleki"
+name_farsi: "سعید مسعودی مرغملکی"
+date_of_birth: null  # est. birth year: 1994
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: 32
+place_of_death: "Shahrekord"
+province: "Chaharmahal and Bakhtiari"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot with a war bullet to the chest area by Islamic Republic suppression
+  forces during direct shooting in the evening of 19 Dey in Shahrekord
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2001"
+    date: null
+    type: community_database
+  - url: "https://t.me/RememberTheirNames/1610"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/irannewsagency0/status/2016701335412801949"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/allahbakhshii/status/2016475934946140612"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

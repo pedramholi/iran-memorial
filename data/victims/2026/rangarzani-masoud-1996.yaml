@@ -1,0 +1,44 @@
+id: rangarzani-masoud-1996
+name_latin: "Masoud Rangarzani (Khorshidvand)"
+name_farsi: "مسعود رنگرزانی (خورشیدوند)"
+date_of_birth: null  # est. birth year: 1996
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-10
+age_at_death: 30
+place_of_death: "Hesarak neighborhood, Tehran"
+province: "Tehran"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot by Islamic Republic regime agents in Hesarak neighborhood of Tehran.
+  Was planning to get married and start married life with his wife. His grieving
+  sister's page was shut down under Islamic Republic pressure after she posted
+  stories about him.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2912"
+    date: null
+    type: community_database
+  - url: "https://x.com/aminbehroozi2/status/2017283320015437975"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/iranintl/status/2017270321976377539"
+    name: "Iran International"
+    date: null
+    type: primary
+  - url: "https://x.com/sashtyani/status/2017542052037230830"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

@@ -1,0 +1,44 @@
+id: baharestan-pouria-dehghani-2005
+name_latin: "Pouria Dehghani Baharestan"
+name_farsi: "پوریا دهقانی"
+date_of_birth: null  # est. birth year: 2005
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: 21
+place_of_death: "Isfahan"
+province: "Isfahan"
+cause_of_death: null
+circumstances: >
+    Went out on 19 Dey (January 8, 2026) in Baharestan, Isfahan and disappeared.
+  Body was identified among the unnamed corpses on 28 Dey (January 17, 2026) and
+  was buried the same day under security conditions. Head and face were
+  unrecognizable. Exact time and manner of death unknown.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1440"
+    date: null
+    type: community_database
+  - url: "https://x.com/VIsfehan/status/2014995568464986426"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/sssccpp/status/2015093676322472408"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/battpack/status/2016194066438930524"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

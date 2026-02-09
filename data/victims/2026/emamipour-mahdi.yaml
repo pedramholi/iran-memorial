@@ -1,0 +1,43 @@
+id: emamipour-mahdi
+name_latin: "Mahdi Emamipour"
+name_farsi: "مهدی امامی پور"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-03
+age_at_death: null
+place_of_death: "Malekshahi, Ilam"
+province: "Ilam"
+cause_of_death: "Gunshot"
+circumstances: >
+    Killed instantly when IRGC agents opened fire from inside Basij base on
+  peaceful protesters marching from Shohada Square. Agents shot without regard
+  for who they hit. Protesters were completely unarmed.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #54"
+    date: null
+    type: community_database
+  - url: "https://en.wikipedia.org/wiki/2026_Malekshahi_massacre"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://www.iran-emrooz.net/index.php/news2/125134/"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://www.hrw.org/news/2026/01/08/iran-authorities-renewed-cycle-of-protest-bloodshed"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

@@ -1,0 +1,33 @@
+id: hasanzahi-moslem
+name_latin: "Moslem Hasanzahi"
+name_farsi: "مسلم حسن زهی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: 20
+place_of_death: "Zahedan"
+province: "Sistan-Baluchestan"
+cause_of_death: null
+circumstances: >
+    20 years old from Zahedan
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #3294"
+    date: null
+    type: community_database
+  - url: "https://x.com/kyokushinsoofi/status/2018045608301371425"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

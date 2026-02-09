@@ -1,0 +1,45 @@
+id: rashno-saeed-joodaki-1991
+name_latin: "Saeed Joodaki Rashno"
+name_farsi: "سعید جودکی رشنو"
+date_of_birth: null  # est. birth year: 1991
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 35
+place_of_death: "Khorramabad"
+province: "Lorestan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot directly in the heart during a chase with security forces in Masoor
+  neighborhood of Khorramabad. Family immediately washed and shrouded his body
+  to prevent security forces from taking it. Security forces later came to the
+  family home attempting to forcibly take the body, but family elders resisted
+  and after a confrontation, the agents were forced to retreat and flee
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #688"
+    date: null
+    type: community_database
+  - url: "https://x.com/khoshrof/status/2014313292378845487"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/ChaawTimes/status/2014459866731979064"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/amoody408/status/2014983075625923003"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

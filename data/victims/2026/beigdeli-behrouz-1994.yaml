@@ -1,0 +1,42 @@
+id: beigdeli-behrouz-1994
+name_latin: "Behrouz Beigdeli"
+name_farsi: "بهروز بیگدلی"
+date_of_birth: null  # est. birth year: 1994
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-10
+age_at_death: 32
+place_of_death: "Baharestan, Isfahan"
+province: "Isfahan"
+cause_of_death: null
+circumstances: >
+    From Baharestan area of Isfahan, commemorated as martyr (javidnam) during
+  2025-2026 protests
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #695"
+    date: null
+    type: community_database
+  - url: "https://x.com/visfehan/status/2014332861415841824"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/VIsfehan/status/2014332861415841824"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/VIsfehan/status/2014706222780268788"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

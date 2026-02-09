@@ -1,0 +1,40 @@
+id: zarei-mehdi-2004
+name_latin: "Mehdi Zarei"
+name_farsi: "مهدی زارعی"
+date_of_birth: null  # est. birth year: 2004
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 22
+place_of_death: "Asadabad"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot around 8:10 AM above Haft-e Howz Square on 18 Dey. People helped carry
+  him to a building on a side street. He was still alive at that time but had a
+  very low pulse and heavy bleeding. Emergency services had no personnel to
+  send. The only ambulance that reached the street after one hour was not
+  allowed entry by security forces. He died very soon after.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #3814"
+    date: null
+    type: community_database
+  - url: "https://x.com/HeKasrehCrisis/status/2018937560509055087"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/1077"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

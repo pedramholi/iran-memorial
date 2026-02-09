@@ -1,0 +1,44 @@
+id: ghorbani-mohammad-reza-2008
+name_latin: "Mohammad Reza Ghorbani"
+name_farsi: "محمد رضا قربانی"
+date_of_birth: null  # est. birth year: 2008
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 18
+place_of_death: "Shahin Shahr, Isfahan"
+province: "Isfahan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot from behind during popular protests. Son of Morteza. This killing
+  occurred as part of violent suppression of nationwide protests in Iran, which
+  according to human rights organizations has a systematic, repetitive and
+  governmental nature that directly targets civilian citizens.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #557"
+    date: null
+    type: community_database
+  - url: "https://x.com/hengawo/status/2013911264154546507"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+  - url: "https://x.com/HengawO/status/2013911264154546507"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+  - url: "https://hengaw.net/fa/news/2026/01/article-170-1"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

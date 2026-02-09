@@ -1,0 +1,42 @@
+id: shoshtari-hamed
+name_latin: "Hamed Shoshtari"
+name_farsi: "حامد شوشتری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: null
+place_of_death: "Haft Tir, Mashhad"
+province: "Razavi Khorasan"
+cause_of_death: null
+circumstances: >
+    Killed when he was alone in Haft Tir area of Mashhad on 18 Dey. He had a
+  seven-year-old daughter
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1484"
+    date: null
+    type: community_database
+  - url: "https://x.com/i/status/2015793884765245937"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/hekasrehcrisis/status/2015793884765245937"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/456"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

@@ -1,0 +1,47 @@
+id: milanlooyi-jalil-1978
+name_latin: "Jalil Milanlooyi"
+name_farsi: "جلیل میلانلویی"
+date_of_birth: null  # est. birth year: 1978
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 48
+place_of_death: "Esfarayen"
+province: "North Khorasan"
+cause_of_death: "Gunshot (headshot)"
+circumstances: >
+    47-year-old protester, head of Resalat Bank in Esfarayen, economics lecturer
+  at the city's medical sciences university, and father of two children. Shot by
+  Islamic Republic suppressors in the evening of 18 Dey 1404. Had been
+  repeatedly threatened by IRGC intelligence due to his political posts. His
+  last story was a lion and sun flag, and his last post was a quote from Victor
+  Hugo stating that when injustice becomes normal, the voice of justice sounds
+  like sedition, with a caption saying the end of the dark night is dawn.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #427"
+    date: null
+    type: community_database
+  - url: "https://x.com/daikatuo/status/2013374063612235945"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/Daikatuo/status/2013374063612235945"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/HengawO/status/2013204507925110943"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

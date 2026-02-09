@@ -1,0 +1,44 @@
+id: lor-farzaneh-sasani-pour-1991
+name_latin: "Farzaneh Sasani Pour Lor"
+name_farsi: "فرزانه ساسانی‌پور"
+date_of_birth: null  # est. birth year: 1991
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 35
+place_of_death: "Koohchenar, Fars Province"
+province: "Fars"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot three times in the neck, heart and shoulder while giving shelter to
+  protesters in Kooh-chenar neighborhood of Fars Province. Ambulance arrived
+  three hours later but it was too late. Officials demanded 400 million tomans
+  from the family to release the body.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1728"
+    date: null
+    type: community_database
+  - url: "https://x.com/iranintlbrk/status/2015685232893046859"
+    name: "Iran International"
+    date: null
+    type: primary
+  - url: "https://x.com/salarvandn21943/status/2017327666987176431"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://javidnaman.iranintl.com/memorial/255P39jiXgM2t3lNmNUVLt"
+    name: "Iran International"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

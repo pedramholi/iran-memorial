@@ -1,0 +1,45 @@
+id: mehraban-yousef-1998
+name_latin: "Yousef Mehraban"
+name_farsi: "یوسف مهربان"
+date_of_birth: null  # est. birth year: 1998
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 28
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Gunshot (headshot)"
+circumstances: >
+    Flower seller from Mashiririeh area of Tehran who came to the streets for
+  freedom on 18 Dey. Trapped by suppressive forces in Haft Howz Square in
+  Tehran, shot with a final bullet to his forehead. After the killing, his
+  lifeless body was transferred to Kahrizak and abandoned as part of the
+  regime's pattern of murder and concealment of crimes.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1308"
+    date: null
+    type: community_database
+  - url: "https://x.com/shaya9000/status/2015727742357315749"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/allahbakhshii/status/2015956487462408703"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/hekasrehcrisis/status/2016408181988008006"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

@@ -1,0 +1,37 @@
+id: tabrizi-mostafa-kouhi
+name_latin: "Mostafa Kouhi Tabrizi"
+name_farsi: "مصطفی کوهی تبریزی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: 43
+place_of_death: "Karaj, Andisheh"
+province: "Alborz"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot in the chest by security forces during protests in Andisheh
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #701"
+    date: null
+    type: community_database
+  - url: "https://x.com/alitagh30207454/status/2014343517418508290"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://javidnaman.iranintl.com/memorial/tCKl8UDDdoQQUGMvcP8Mpb"
+    name: "Iran International"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

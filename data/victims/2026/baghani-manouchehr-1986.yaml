@@ -1,0 +1,41 @@
+id: baghani-manouchehr-1986
+name_latin: "Manouchehr Baghani"
+name_farsi: "منوچهر باغانی"
+date_of_birth: null  # est. birth year: 1986
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 40
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Gunshot"
+circumstances: >
+    Father of two daughters aged 17 and 13. Arrested on Thursday night 18 Dey in
+  Afsariyeh neighborhood of Tehran according to friends. Family was kept unaware
+  of his fate for two weeks until Shahid Foundation called to inform them of his
+  death. Shot in the heart. Face was destroyed and daughters were not allowed to
+  see their father's face for the last time.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1403"
+    date: null
+    type: community_database
+  - url: "https://x.com/HeKasrehCrisis/status/2015163601146028147"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/1114"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

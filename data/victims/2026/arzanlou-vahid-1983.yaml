@@ -1,0 +1,47 @@
+id: arzanlou-vahid-1983
+name_latin: "Vahid Arzanlou"
+name_farsi: null
+date_of_birth: null  # est. birth year: 1983
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-17
+age_at_death: 43
+place_of_death: "Tehrānpars-Tehran"
+province: "Tehran"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot by Islamic Republic security forces during national uprising on January
+  9th. Shot twice in the neck while rushing to help his brother Hamid who had
+  been wounded. Fell into a coma and passed away in hospital on January 17th.
+  Entrepreneur brother and well-known figure in Iran's furniture industry.
+  Father of three young children. Security agencies demanded 1.5 billion tomans
+  from family to release body and forced them to sign a pledge declaring cause
+  of death as stroke.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #321"
+    date: null
+    type: community_database
+  - url: "https://x.com/longlosthills/status/2012974441001623916"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/Soranmansournia/status/2015395827938631873"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/Soranmansournia/status/2012683788124410003"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

@@ -1,0 +1,44 @@
+id: manesh-tiyam-kiyani-2000
+name_latin: "Tiyam (Mohammadreza) Kiyani Manesh"
+name_farsi: "تیام (محمدرضا) کیانی‌منش"
+date_of_birth: null  # est. birth year: 2000
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 26
+place_of_death: "Kermanshah"
+province: "Kermanshah"
+cause_of_death: "Gunshot"
+circumstances: >
+    Killed by IRGC during protests in Kermanshah, Kurdistan Region. Family
+  stated there were no visible bullet wounds on his body and he probably died as
+  a result of severe tear-gas inhalation. Also known as Mohammadreza
+  Kianimanesh.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #387"
+    date: null
+    type: community_database
+  - url: "https://x.com/manotonews/status/2013257640097558571"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/iranrights_org/status/2013261468574085320"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/Soranmansournia/status/2013239625473462756"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

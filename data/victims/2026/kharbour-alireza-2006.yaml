@@ -1,0 +1,43 @@
+id: kharbour-alireza-2006
+name_latin: "Alireza Kharbour"
+name_farsi: "علیرضا خاربو"
+date_of_birth: null  # est. birth year: 2006
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 20
+place_of_death: "Dizicheh"
+province: "Isfahan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot by government suppressive forces during nationwide protests. From
+  Dizicheh in Isfahan Province. Described as one of Iran's children who paid the
+  price of standing for freedom with his life.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #324"
+    date: null
+    type: community_database
+  - url: "https://x.com/abhaddadii/status/2012993637005627689"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://javidnaman.iranintl.com/memorial/3Fy5sC7qrylDAVNVjWhCe0"
+    name: "Iran International"
+    date: null
+    type: primary
+  - url: "https://javidnaman.iranintl.com/memorial/CoXljdUpHLN0XegRJzPpit"
+    name: "Iran International"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

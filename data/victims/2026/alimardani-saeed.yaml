@@ -1,0 +1,33 @@
+id: alimardani-saeed
+name_latin: "Saeed Alimardani"
+name_farsi: "سعید علیمردانی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: null
+place_of_death: null
+cause_of_death: "Gunshot (headshot)"
+circumstances: >
+    Shot with fatal bullet to the head, buried on 21 Dey in Behesht-e Zahra
+  cemetery section 327
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #645"
+    date: null
+    type: community_database
+  - url: "https://x.com/mamlekate/status/2014112939272183846"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

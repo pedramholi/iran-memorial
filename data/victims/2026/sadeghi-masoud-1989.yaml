@@ -1,0 +1,46 @@
+id: sadeghi-masoud-1989
+name_latin: "Masoud Sadeghi"
+name_farsi: "مسعود صادقی"
+date_of_birth: null  # est. birth year: 1989
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 37
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Gunshot"
+circumstances: >
+    37-year-old Kurdish man from Sarpol-e Zahab county in Kermanshah province.
+  Shot with military bullets by Islamic Republic suppression forces during
+  popular protests in Tehran on Friday evening 19 Dey 1404. Body was identified
+  and retrieved by family after one week of follow-up in Tehran. Scheduled to be
+  buried on Thursday 2 Bahman 1404 in Kose-hai Pataq village cemetery in
+  Sarpol-e Zahab county.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #617"
+    date: null
+    type: community_database
+  - url: "https://x.com/iranintl/status/2013993107969220828"
+    name: "Iran International"
+    date: null
+    type: primary
+  - url: "https://x.com/kurdpa_farsi/status/2014092304173224413"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/HengawO/status/2014429661707542927"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

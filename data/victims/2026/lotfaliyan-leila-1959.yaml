@@ -1,0 +1,45 @@
+id: lotfaliyan-leila-1959
+name_latin: "Leila Lotfaliyan"
+name_farsi: "لیا لطفعلیان"
+date_of_birth: null  # est. birth year: 1959
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 67
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot directly with a war bullet by government forces in District 4 of
+  Tehran, Tehranpars neighborhood. Her body was only returned to her family
+  after ten days, during which time the family was kept in severe anxiety and
+  uncertainty. The family is now under severe security pressure and has not been
+  allowed to hold mourning ceremonies or any gathering in her memory.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #698"
+    date: null
+    type: community_database
+  - url: "https://x.com/ayayatollahi/status/2014277956864983294"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/Tavaana/status/2014556302962463202"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/nafise86/status/2014242422566609263"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

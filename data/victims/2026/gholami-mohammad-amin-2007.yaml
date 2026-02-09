@@ -1,0 +1,44 @@
+id: gholami-mohammad-amin-2007
+name_latin: "Mohammad Amin Gholami"
+name_farsi: "امین غلامی"
+date_of_birth: null  # est. birth year: 2007
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 19
+place_of_death: "Andisheh, Tehran"
+province: "Tehran"
+cause_of_death: "Gunshot (headshot)"
+circumstances: >
+    19-year-old mechanical engineering student at Tabriz University. Shot in the
+  head with a military bullet around 8 PM in the area of Milad intersection in
+  Andisheh city, Alborz Province. Died at the scene or shortly after being
+  transferred. The incident occurred during the national revolution.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2166"
+    date: null
+    type: community_database
+  - url: "https://x.com/autnews_org/status/2017005699214290982"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/baydaqnews/status/2016939393953698246"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://javidnaman.iranintl.com/memorial/7G0E78pdgELSDZc0DA0B8h"
+    name: "Iran International"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

@@ -1,0 +1,33 @@
+id: farahani-mohammad-goneh
+name_latin: "Mohammad Goneh Farahani"
+name_farsi: "محمد گونه فراهانی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: 35
+place_of_death: "Karaj"
+province: "Alborz"
+cause_of_death: null
+circumstances: >
+    Listed in Iran International Memorial as a victim
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #3008"
+    date: null
+    type: community_database
+  - url: "https://javidnaman.iranintl.com/memorial/CoXljdUpHLN0XegRK2DLvR"
+    name: "Iran International"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

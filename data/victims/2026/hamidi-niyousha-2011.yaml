@@ -1,0 +1,46 @@
+id: hamidi-niyousha-2011
+name_latin: "Niyousha Hamidi"
+name_farsi: "نیوشا حمیدی"
+date_of_birth: null  # est. birth year: 2011
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 15
+place_of_death: "Astaneh Ashrafiyeh"
+province: "Gilan"
+cause_of_death: "Gunshot"
+circumstances: >
+    15-year-old girl shot directly by suppressive forces of the regime in
+  Ashrafiyeh during the national uprising. Described as a defenseless teenager
+  whose only crime was being present on the streets of her homeland during
+  Iran's national uprising. Killed with a war bullet as part of targeted and
+  systematic killing of people, especially children and teenagers, by the
+  terrorist regime.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2618"
+    date: null
+    type: community_database
+  - url: "https://x.com/hyrcanihrm/status/2017614032711135607"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/kyokushinsoofi/status/2017714835660689758"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/irannewsagency0/status/2018379446227800196"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

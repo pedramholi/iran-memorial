@@ -1,0 +1,38 @@
+id: shokri-ehsan
+name_latin: "Ehsan Shokri"
+name_farsi: "احسان شکری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: null
+place_of_death: "Hamedan"
+province: "Hamedan"
+cause_of_death: null
+circumstances: >
+    Killed by Islamic Republic terrorists in Hamedan, described as a child of
+  Iran who died for the homeland
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #4065"
+    date: null
+    type: community_database
+  - url: "https://t.me/javidnamhamedan/46"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/javidnamhamedan/241"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

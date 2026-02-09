@@ -1,0 +1,36 @@
+id: taheri-hamidreza
+name_latin: "Hamidreza Taheri"
+name_farsi: "حمیدرضا طاهری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: null
+place_of_death: "Tehranpars, Tehran"
+province: "Tehran"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot from behind while joining protesters near Arash Hospital in Tehranpars.
+  Had just returned from his mother's seventh-day memorial ceremony with his
+  wife when he separated from her to join the protesters. Body was returned to
+  family 4 days later.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #3848"
+    date: null
+    type: community_database
+  - url: "https://x.com/iranwire/status/2018789172295983358"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

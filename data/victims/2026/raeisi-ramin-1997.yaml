@@ -1,0 +1,48 @@
+id: raeisi-ramin-1997
+name_latin: "Ramin Raeisi"
+name_farsi: "رامین رئیسی"
+date_of_birth: null  # est. birth year: 1997
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-17
+age_at_death: 29
+place_of_death: "Isfahan"
+province: "Isfahan"
+cause_of_death: null
+circumstances: >
+    Disappeared on the night of 19 Dey 1404 while trying to deliver medical
+  supplies to injured protesters in the Baharestan area of Isfahan following
+  protest calls. After 10 days of uncertainty and contradictory information from
+  authorities, his lifeless body was delivered to his family under strict
+  security measures with threats. Burial ceremony was held under security
+  surveillance with plainclothes agents present to expedite burial and prevent
+  gatherings. Had recently obtained a crane driving license and planned to work
+  officially.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #3287"
+    date: null
+    type: community_database
+  - url: "https://x.com/i/status/2017981470929732072"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/Tavaana/status/2018583788800856239"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://javidnaman.iranintl.com/memorial/7G0E78pdgELSDZc0D0DZiG"
+    name: "Iran International"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

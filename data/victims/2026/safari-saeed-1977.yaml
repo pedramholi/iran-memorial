@@ -1,0 +1,44 @@
+id: safari-saeed-1977
+name_latin: "Saeed Safari"
+name_farsi: "سعید صفری"
+date_of_birth: null  # est. birth year: 1977
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-15
+age_at_death: 49
+place_of_death: "Ilam"
+province: "Ilam"
+cause_of_death: "Gunshot (headshot)"
+circumstances: >
+    Kurdish citizen who fell into a coma after being shot with bullets and
+  receiving multiple baton blows to the head during protests. Died after one
+  week. Initially wounded on Thursday 18 Dey by government forces through
+  shooting with war bullets and baton strikes. Body was buried on Friday 26 Dey.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1231"
+    date: null
+    type: community_database
+  - url: "https://x.com/HengawO/status/2015368960540070106"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+  - url: "https://x.com/iranwire/status/2016027307027157198"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/kyokushinsoofi/status/2017196598770511996"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

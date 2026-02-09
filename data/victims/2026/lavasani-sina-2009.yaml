@@ -1,0 +1,46 @@
+id: lavasani-sina-2009
+name_latin: "Sina Lavasani"
+name_farsi: "سینا لواسانی"
+date_of_birth: null  # est. birth year: 2009
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-10
+age_at_death: 17
+place_of_death: "Shahriar, Tehran"
+province: "Tehran"
+cause_of_death: "Gunshot"
+circumstances: >
+    17-year-old from Tehran who was shot and killed by direct gunfire from war
+  bullets on the night of the 19th on Zakaria Razi street in Shahr-e Rey.
+  According to his family, he was courageously present in the street like many
+  other young people and 'fought like a lion'. His burial ceremony coincided
+  with his birthday. He had lost his mother since childhood and his only wish
+  was to see her again.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #951"
+    date: null
+    type: community_database
+  - url: "https://x.com/hengawo/status/2014770392380891590"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+  - url: "https://t.me/poshtpardeha/248700"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/__injaneb96/status/2015237599300927892"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

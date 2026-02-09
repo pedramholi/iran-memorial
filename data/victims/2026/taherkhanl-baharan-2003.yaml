@@ -1,0 +1,48 @@
+id: taherkhanl-baharan-2003
+name_latin: "Baharan Taherkhanl"
+name_farsi: "بهاران طاهرخانی"
+date_of_birth: null  # est. birth year: 2003
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-11
+age_at_death: 23
+place_of_death: "Qazvin"
+province: "Qazvin"
+cause_of_death: "Gunshot"
+circumstances: >
+    Medical student at Qazvin University of Medical Sciences. Shot with three
+  war bullets by security forces. First bullet hit her abdomen, second bullet
+  hit her heart, third bullet hit her abdomen again. Three security agents stood
+  over her preventing anyone from helping her. Her body was found covered in
+  blood. Security forces confiscated the surveillance video. Family was forced
+  to pay 600 million tomans (200 million per bullet) to receive her body after 6
+  days. Forced to claim she died in a terrorist attack. Not allowed to bury her
+  in her hometown Takestan, buried in Qazvin without public attendance.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1167"
+    date: null
+    type: community_database
+  - url: "https://x.com/i/status/2015326225175126219"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/AvaAvishan/status/2015326225175126219"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/isamanyasin/status/2016632503168078190"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

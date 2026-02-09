@@ -1,0 +1,42 @@
+id: rad-arvin-salami-2010
+name_latin: "Arvin Salami-rad"
+name_farsi: "آروین سالمی‌راد"
+date_of_birth: null  # est. birth year: 2010
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-23
+age_at_death: 16
+place_of_death: "Bushehr"
+province: "Bushehr"
+cause_of_death: null
+circumstances: >
+    17-year-old who was injured on 18 Dey 1404 in Bushehr and died on 3 Bahman.
+  Born in 1372 Persian calendar.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1860"
+    date: null
+    type: community_database
+  - url: "https://x.com/fseifikaran/status/2016306624923578762"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/1442"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/Bli43694277/status/2016385149160575460"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

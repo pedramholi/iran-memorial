@@ -1,0 +1,34 @@
+id: ariyalou-kamal
+name_latin: "Kamal Ariyalou"
+name_farsi: "کمال آریالو"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: null
+place_of_death: "Alvand, Qazvin"
+province: "Qazvin"
+cause_of_death: null
+circumstances: >
+    Among 40-50 people who lost their lives in the city of Alvand, Qazvin
+  province on the night of 18 Dey
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1717"
+    date: null
+    type: community_database
+  - url: "https://x.com/iranintlbrk/status/2015806800096895002"
+    name: "Iran International"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

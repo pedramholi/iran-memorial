@@ -1,0 +1,33 @@
+id: latifian-ali
+name_latin: "Ali Latifian"
+name_farsi: "علی لطیفیان"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: null
+place_of_death: "Yaft Abad"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot with a final bullet to his face. His family is under pressure, and
+  authorities did not allow him to be buried in Behesht Zahra cemetery.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2360"
+    date: null
+    type: community_database
+  - url: "https://x.com/haj_unique/status/2017251434333446300"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

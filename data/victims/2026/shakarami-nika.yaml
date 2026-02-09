@@ -1,0 +1,44 @@
+id: shakarami-nika
+name_latin: "Nika Shakarami"
+name_farsi: "نیکا شاکرمی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: 16
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Beating"
+circumstances: >
+    Killed by security forces during protests. Initially arrested by Team 12
+  consisting of Arash Kolahr, Sadeq Manjazi, and Behrouz Sadeqi under
+  supervision of Morteza Jalil near Laleh Park. After being transferred to a
+  refrigerated van and then toward Evin prison, she resisted during transport.
+  Officers gagged her with socks, sexually assaulted her, and when she fought
+  back by kicking her attacker, they brutally beat her with batons and shock
+  batons to the head until she died. Her body was then dumped on an empty street
+  in Tehran on orders from Mohammad Zamani (Naim 16).
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #3665"
+    date: null
+    type: community_database
+  - url: "https://x.com/nicksotoudeh/status/2018390802905620865"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/iliaen/610"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

@@ -1,0 +1,41 @@
+id: amini-pejman-1989
+name_latin: "Pejman Amini"
+name_farsi: "پژمان امینی"
+date_of_birth: null  # est. birth year: 1989
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 37
+place_of_death: "Isfahan"
+province: "Isfahan"
+cause_of_death: "Gunshot (headshot)"
+circumstances: >
+    Shot directly by Islamic Republic terrorists in Bagh-e Bahadoran, Isfahan,
+  during Iran's national uprising. Described as standing with honor alongside
+  the people without hypocrisy and responding with bullets. His mother said at
+  his grave that her son did not sell out his compatriots, had no seal on his
+  forehead, was not a prayer reader, but was good.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #4275"
+    date: null
+    type: community_database
+  - url: "https://x.com/irannewsagency0/status/2018971515476390032"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/visfehan/status/2019442595936502143"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

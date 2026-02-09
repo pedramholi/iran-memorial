@@ -1,0 +1,37 @@
+id: azad-alireza-monji-1999
+name_latin: "Alireza Monji Azad"
+name_farsi: "علیرضا منجی آزاد"
+date_of_birth: null  # est. birth year: 1999
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 27
+place_of_death: "Rasht"
+province: "Gilan"
+cause_of_death: null
+circumstances: >
+    Killed on the night of 18 Dey in Rasht
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #4603"
+    date: null
+    type: community_database
+  - url: "https://t.me/RememberTheirNames/568"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/hekasrehcrisis/status/2019630319326953902"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

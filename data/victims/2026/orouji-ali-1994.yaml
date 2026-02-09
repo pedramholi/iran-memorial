@@ -1,0 +1,41 @@
+id: orouji-ali-1994
+name_latin: "Ali Orouji"
+name_farsi: "علی عروجی"
+date_of_birth: null  # est. birth year: 1994
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 32
+place_of_death: "Haft-Hoz"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot with bullets in Ariashahr district of Tehran on the evening of 18 Dey.
+  When his body was delivered to the family, severe injuries, bleeding, and
+  signs of the body being dragged on the ground were visible on his face. He was
+  a father of three children who had recently become a grandfather and owned a
+  takeout restaurant. Security forces forced the Oruji family to bury his body
+  the next day before 5 AM.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1369"
+    date: null
+    type: community_database
+  - url: "https://x.com/MonfaredAshkan/status/2015178857314467999"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/masoudkazemi81/status/2016541778879410661"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

@@ -1,0 +1,43 @@
+id: nejad-amir-mahdi-namati-2009
+name_latin: "Amir Mahdi Namati-Nejad"
+name_farsi: "امیرمهدی نعمتی‌نژاد"
+date_of_birth: null  # est. birth year: 2009
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 17
+place_of_death: "Arak"
+province: "Markazi"
+cause_of_death: "Gunshot"
+circumstances: >
+    17-year-old tailor worker from Arak, shot by government forces during
+  popular protests at Shora Square. His body was delivered to his family the
+  next day and buried.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1080"
+    date: null
+    type: community_database
+  - url: "https://x.com/iranwire/status/2015149549531120066"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/ManotoNews/status/2015318720613134773"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/SaeidVafa/status/2014725151674216456"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

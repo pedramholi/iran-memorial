@@ -1,0 +1,49 @@
+id: hozouri-arshiya-2001
+name_latin: "Arshiya Hozouri"
+name_farsi: "عرشیا حضوری"
+date_of_birth: null  # est. birth year: 2001
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 25
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Gunshot (headshot)"
+circumstances: >
+    Shot directly in the head with a war bullet on Ferdows East Boulevard
+  between Ali Hosseini and Erik streets. He was a 26-year-old resident of
+  Thailand, born in Jannat Abad neighborhood of Tehran. He had only been in Iran
+  for two days from Thailand to visit friends and family. As a supporter of
+  Prince Reza Pahlavi, he participated in the protests in response to calls made
+  for building a better future and life for the people. His family found his
+  body after three days of searching, and authorities demanded 2 billion tomans
+  (compared to the usual 700 million tomans) for the release of his body due to
+  his family's good financial situation.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2382"
+    date: null
+    type: community_database
+  - url: "https://x.com/i/status/2016991141414027419"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/kayhanlondon/status/2017538471481446482"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://javidnaman.iranintl.com/memorial/3Fy5sC7qrylDAVNVjWh5wJ"
+    name: "Iran International"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

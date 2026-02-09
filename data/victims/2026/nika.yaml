@@ -1,0 +1,38 @@
+id: nika
+name_latin: "Nika"
+name_farsi: "نیکا"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: null
+place_of_death: null
+cause_of_death: null
+circumstances: >
+    Killed during protests, mentioned as a martyr whose mother speaks of her
+  death and love for rain. Her sister Aida is referenced as being closest to her
+  and suffering from the loss.
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #4120"
+    date: null
+    type: community_database
+  - url: "https://t.me/iliaen/614"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/iliaen/808"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

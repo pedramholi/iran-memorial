@@ -1,0 +1,44 @@
+id: gholami-milad-2001
+name_latin: "Milad Gholami"
+name_farsi: "میلاد غلامی"
+date_of_birth: null  # est. birth year: 2001
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-14
+age_at_death: 25
+place_of_death: "Tehranpars, Tehran"
+province: "Tehran"
+cause_of_death: "Gunshot (headshot)"
+circumstances: >
+    Shot in the head with a bullet in Tehranpars. Family had no information
+  about their children for six days, then were contacted on 25 Dey to come to
+  the forensic medicine office for identification where they found Milad's body.
+  He had a twin sister.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #283"
+    date: null
+    type: community_database
+  - url: "https://x.com/fseifikaran/status/2012563524921307604"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/HengawO/status/2012966483861672205"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+  - url: "https://x.com/anjmotahed/status/2014631964393840753"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

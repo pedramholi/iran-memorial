@@ -1,0 +1,47 @@
+id: moradi-farshid-1998
+name_latin: "Farshid Moradi"
+name_farsi: "فرشید مرادی"
+date_of_birth: null  # est. birth year: 1998
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 28
+place_of_death: "Fooladshahr, Isfahan"
+province: "Isfahan"
+cause_of_death: "Gunshot (headshot)"
+circumstances: >
+    Shot by Islamic Republic snipers during popular protests in Fouladshahr on
+  18 Dey. Bullet hit his head from above the rooftop and he died on the spot. He
+  was a 28-year-old welder, son of Ali Mardan, Bakhtiari ethnicity, who worked
+  mostly in Asaluyeh to make a living. After his killing, authorities withheld
+  his body for several days and demanded 800 million tomans for its release.
+  When the family couldn't pay, they were forced to claim Farshid was a 'Basiji'
+  to get his body back. His body was finally buried on 29 Dey in Fouladshahr.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #477"
+    date: null
+    type: community_database
+  - url: "https://x.com/hengawo/status/2013618561839677909"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+  - url: "https://x.com/HengawO/status/2013618561839677909"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+  - url: "https://x.com/VIsfehan/status/2015434224082333839"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

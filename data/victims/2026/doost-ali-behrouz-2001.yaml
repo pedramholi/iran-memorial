@@ -1,0 +1,46 @@
+id: doost-ali-behrouz-2001
+name_latin: "Ali Behrouz-doost"
+name_farsi: "علی بهروز‌دوست"
+date_of_birth: null  # est. birth year: 2001
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: 25
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Gunshot"
+circumstances: >
+    University of Tehran graduate student (class of 2019, irrigation major,
+  College of Agriculture and Natural Resources), shot with war bullets by
+  suppressive forces. Was wounded on Thursday evening 18 Dey in Haft-Howz area
+  of Tehran, died on 19 Dey. Had a tattoo on his arm reading 'For those I love I
+  will sacrifice'. Secret burial ceremony held with extensive presence of
+  security agents.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #522"
+    date: null
+    type: community_database
+  - url: "https://x.com/HengawO/status/2012521048164434197"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+  - url: "https://x.com/anjmotahed/status/2016893150585839620"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://javidnaman.iranintl.com/memorial/3Fy5sC7qrylDAVNVjWh86I"
+    name: "Iran International"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

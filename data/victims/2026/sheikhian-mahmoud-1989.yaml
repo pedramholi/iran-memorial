@@ -1,0 +1,44 @@
+id: sheikhian-mahmoud-1989
+name_latin: "Mahmoud Sheikhian"
+name_farsi: "محمود شیخیان"
+date_of_birth: null  # est. birth year: 1989
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: 37
+place_of_death: "Shahreza, Isfahan"
+province: "Isfahan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot with war bullets during the second night of the January 19th call for
+  protests in Shahreza, Isfahan Province. Killed in the presence of his
+  15-year-old daughter. Father of 2 children. Family was not allowed to hold a
+  funeral ceremony.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1519"
+    date: null
+    type: community_database
+  - url: "https://x.com/hekasrehcrisis/status/2016003757998289080"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/persephone7597/status/2016070902425805239"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/1460"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

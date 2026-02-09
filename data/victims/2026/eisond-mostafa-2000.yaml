@@ -1,0 +1,38 @@
+id: eisond-mostafa-2000
+name_latin: "Mostafa Eisond"
+name_farsi: "مصطفی عیسوند"
+date_of_birth: null  # est. birth year: 2000
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 26
+place_of_death: "Dezful"
+province: "Khuzestan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot directly by government agents during protests in Dezful. His body was
+  buried under security pressure and imposed silence in Hamze neighborhood of
+  Dezful. The text notes this is part of a systematic pattern of killing youth
+  in streets, delivering bodies under suppression conditions, and forced burial
+  as part of the regime's systematic crime and intimidation against Iranian
+  people.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #4271"
+    date: null
+    type: community_database
+  - url: "https://x.com/irannewsagency0/status/2019112522918297859"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

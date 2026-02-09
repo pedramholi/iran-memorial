@@ -1,0 +1,33 @@
+id: haghshenas-majid
+name_latin: "Majid Haghshenas"
+name_farsi: "مجید حق‌شناس"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-20
+age_at_death: null
+place_of_death: "Shahinshahr, Isfahan"
+province: "Isfahan"
+cause_of_death: null
+circumstances: >
+    Died in Dey 1404 in Shahinshahr, Isfahan
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #4172"
+    date: null
+    type: community_database
+  - url: "https://t.me/RememberTheirNames/2190"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

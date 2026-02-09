@@ -1,0 +1,37 @@
+id: mousavi-kimia
+name_latin: "Kimia Mousavi"
+name_farsi: "کیمیا موسوی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: null
+place_of_death: null
+cause_of_death: null
+circumstances: >
+    Orphaned child who lived in a basement with her cat. Limited information
+  available due to informant's fear of providing details
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2748"
+    date: null
+    type: community_database
+  - url: "https://x.com/Atibelle/status/2017586289055297935"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/Atibelle/status/2016622807682072616"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

@@ -1,0 +1,41 @@
+id: peymanbari-seyyed-shahab
+name_latin: "Seyyed Shahab Peymanbari"
+name_farsi: "سید شهاب پیمبری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: null
+place_of_death: "Kermanshah"
+province: "Kermanshah"
+cause_of_death: "Gunshot"
+circumstances: >
+    Kurdish citizen from Kermanshah, retired from Road and Transportation
+  Department, shot with live ammunition by government suppression forces during
+  popular protests in Nobhar neighborhood. He was shot along with his son, who
+  was injured while Shahab was killed. His body was buried on Sunday 21 Dey 1404
+  in Bagh Ferdows cemetery in Kermanshah.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2738"
+    date: null
+    type: community_database
+  - url: "https://x.com/HengawO/status/2017667848034775502"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/92"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

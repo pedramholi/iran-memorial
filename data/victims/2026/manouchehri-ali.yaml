@@ -1,0 +1,37 @@
+id: manouchehri-ali
+name_latin: "Ali Manouchehri"
+name_farsi: "علی منوچهری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: 22
+place_of_death: "Tehran (Tehranpars)"
+province: "Tehran"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot directly during protests at Felkeh Sevom Tehranpars when he moved
+  against the crowd direction to encourage people not to flee from suppressive
+  forces' gunfire. He was shouting for people to stay and not abandon the ground
+  because their numbers were much greater. His body was taken to Tehranpars
+  Hospital according to witness reports and published images.
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2354"
+    date: null
+    type: community_database
+  - url: "https://t.me/javanmardi77/154345"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

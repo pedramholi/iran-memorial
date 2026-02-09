@@ -1,0 +1,44 @@
+id: amani-farhad-2001
+name_latin: "Farhad Amani"
+name_farsi: "فرهاد امانی"
+date_of_birth: null  # est. birth year: 2001
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 25
+place_of_death: "Fardis West - Tehran"
+province: "Tehran"
+cause_of_death: null
+circumstances: >
+    25-year-old Iranian citizen killed during nationwide protests in Dey month.
+  Arrested on 18 Dey 1404 in Punak neighborhood by Islamic Republic security
+  forces. Family searched for him from that day but were unsuccessful in finding
+  any trace of him.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2118"
+    date: null
+    type: community_database
+  - url: "https://x.com/__Injaneb96/status/2016950800581611822"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/i/status/2016950800581611822"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://javidnaman.iranintl.com/memorial/7G0E78pdgELSDZc0D1OwHL"
+    name: "Iran International"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

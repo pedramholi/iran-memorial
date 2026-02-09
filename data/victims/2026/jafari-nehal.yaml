@@ -1,0 +1,33 @@
+id: jafari-nehal
+name_latin: "Nehal Jafari"
+name_farsi: "نهال جعفری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: 13
+place_of_death: "Shiraz"
+province: "Fars"
+cause_of_death: null
+circumstances: >
+    13-year-old from Shiraz, mentioned as 'last photo' suggesting death
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #815"
+    date: null
+    type: community_database
+  - url: "https://x.com/Sashtyani/status/2014656543262736501"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

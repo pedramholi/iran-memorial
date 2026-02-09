@@ -1,0 +1,42 @@
+id: shirvani-khodadad-1992
+name_latin: "Khodadad Shirvani"
+name_farsi: "خداداد شیروانی"
+date_of_birth: null  # est. birth year: 1992
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2025-12-30
+age_at_death: 33
+place_of_death: "Marvdasht"
+province: "Fars"
+cause_of_death: "Gunshot"
+circumstances: >
+    Lor man, father of two. Shot at close range with a pellet gun during
+  protests and died after being transferred to medical facilities
+event_context: "2025-2026 Iranian nationwide protests (December 2025 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #6"
+    date: null
+    type: community_database
+  - url: "https://en.wikipedia.org/wiki/2026_Iran_massacres"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/Daikatuo/status/2007455396248633743"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://www.iran-emrooz.net/index.php/news2/125134/"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

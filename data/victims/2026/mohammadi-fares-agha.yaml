@@ -1,0 +1,45 @@
+id: mohammadi-fares-agha
+name_latin: "Fares (Mohsen) Agha Mohammadi"
+name_farsi: "فارز آقامحمدی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-03
+age_at_death: null
+place_of_death: "Malekshahi, Ilam"
+province: "Ilam"
+cause_of_death: "Gunshot (headshot)"
+circumstances: >
+    Kurdish citizen shot in the head during popular protests in Malekshahi on
+  Saturday 13 Dey 1404 (January 2, 2026). After being transferred to ICU at
+  Khomeini Hospital in Ilam with low consciousness level, he died after three
+  days due to severity of injuries. His brother Mostafa Aghamohammadi was also
+  wounded in the same protests and remains in critical condition.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #57"
+    date: null
+    type: community_database
+  - url: "https://en.wikipedia.org/wiki/2026_Malekshahi_massacre"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://www.iran-emrooz.net/index.php/news2/125134/"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://www.hrw.org/news/2026/01/08/iran-authorities-renewed-cycle-of-protest-bloodshed"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

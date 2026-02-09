@@ -1,0 +1,45 @@
+id: moshtaghi-mehrdad-1999
+name_latin: "Mehrdad (Matin) Moshtaghi"
+name_farsi: "مهرداد (متین) مشتاقی"
+date_of_birth: null  # est. birth year: 1999
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: 27
+place_of_death: "Arak"
+province: "Markazi"
+cause_of_death: null
+circumstances: >
+    Suffered severe head trauma on Friday the 19th and fell into a coma with
+  consciousness level dropping below 5 percent. After five days hospitalized in
+  a coma, he died on Wednesday. His burial was held on Friday morning the 26th
+  at 7 AM with only family members allowed to attend due to security forces'
+  restrictions.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #753"
+    date: null
+    type: community_database
+  - url: "https://x.com/SaeidVafa/status/2014331693843300748"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/HengawO/status/2014638058105151825"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+  - url: "https://x.com/HengawO/status/2014349937677377761"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

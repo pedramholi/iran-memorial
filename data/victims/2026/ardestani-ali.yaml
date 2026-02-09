@@ -1,0 +1,33 @@
+id: ardestani-ali
+name_latin: "Ali Ardestani"
+name_farsi: null
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-07
+age_at_death: null
+place_of_death: "Iran"
+cause_of_death: "Judicial execution"
+circumstances: >
+    Executed by Iran's Judiciary, accused of spying for Israel's Mossad. First
+  espionage-related execution in 2026.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #308"
+    date: null
+    type: community_database
+  - url: "https://x.com/iranrights_org/status/2009327674204819557"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

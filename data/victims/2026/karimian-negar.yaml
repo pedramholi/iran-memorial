@@ -1,0 +1,39 @@
+id: karimian-negar
+name_latin: "Negar Karimian"
+name_farsi: "نگار کریمیان"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: 21
+place_of_death: "Isfahan"
+province: "Isfahan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot by police forces without warning while returning with family from her
+  uncle's funeral. The bullet entered her side and exited through the other side
+  of her body. Officers told the family they had shot by mistake.
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #4118"
+    date: null
+    type: community_database
+  - url: "https://t.me/iliaen/439"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/iliaen/440"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

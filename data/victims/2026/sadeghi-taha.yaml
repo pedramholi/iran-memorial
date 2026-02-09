@@ -1,0 +1,43 @@
+id: sadeghi-taha
+name_latin: "Taha Sadeghi"
+name_farsi: "طاها صادقی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: 17
+place_of_death: "Andisheh Shahriar"
+province: "Tehran"
+cause_of_death: "Gunshot"
+circumstances: >
+    17 years old, killed by regime while trying to save two women, shot with two
+  war bullets - one to the heart and one to the stomach, in Andisheh Shahriar
+  area. Would have turned 18 on the day mentioned in the tweet.
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2388"
+    date: null
+    type: community_database
+  - url: "https://x.com/i/status/2017166020096499918"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/mahdishprr/status/2017166020096499918"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/spidygiirl/status/2017281230895526310"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

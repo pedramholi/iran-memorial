@@ -1,0 +1,36 @@
+id: dolatshah-ali-ahmadi-1981
+name_latin: "Ali Ahmadi Dolatshah"
+name_farsi: "علی احمدی دولتشاه"
+date_of_birth: null  # est. birth year: 1981
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-15
+age_at_death: 45
+place_of_death: "Khorramabad"
+province: "Lorestan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Kurdish citizen who was shot by government forces during popular protests in
+  Khorramabad. He was hit by a direct bullet while on the balcony of his house
+  on Razi Street. He was initially wounded and later died in the hospital. His
+  body was buried in the cemetery of Ivandreh village in Kakaraza district.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2623"
+    date: null
+    type: community_database
+  - url: "https://x.com/HengawO/status/2017565742326051227"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

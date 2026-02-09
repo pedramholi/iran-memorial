@@ -1,0 +1,45 @@
+id: negahban-saba-2002
+name_latin: "Saba (Venus) Negahban"
+name_farsi: "سبا (ونوس) نگهبان"
+date_of_birth: null  # est. birth year: 2002
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: 24
+place_of_death: "Andarzgoo, Tehran"
+province: "Tehran"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot during national uprising on Andarzgoo Street. Two war bullets were
+  fired at her - one hit her throat area and the other hit her abdomen. She was
+  a 24-year-old fitness trainer and resident of Tehran, working as a fitness
+  coach in sports clubs in northern Tehran. She was the only child of her
+  family.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1989"
+    date: null
+    type: community_database
+  - url: "https://x.com/BabakTaghvaee1/status/2015743168851935273"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/1625"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/sssccpp/status/2016947469515415771"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

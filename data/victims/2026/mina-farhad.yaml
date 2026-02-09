@@ -1,0 +1,33 @@
+id: mina-farhad
+name_latin: "Farhad Mina"
+name_farsi: "فرهاد مینا"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: 37
+place_of_death: "Mashhad"
+province: "Razavi Khorasan"
+cause_of_death: null
+circumstances: >
+    Victim documented in Iran International Memorial records from Mashhad
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #3004"
+    date: null
+    type: community_database
+  - url: "https://javidnaman.iranintl.com/memorial/CoXljdUpHLN0XegRK08hXm"
+    name: "Iran International"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

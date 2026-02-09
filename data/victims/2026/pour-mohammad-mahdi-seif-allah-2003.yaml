@@ -1,0 +1,47 @@
+id: pour-mohammad-mahdi-seif-allah-2003
+name_latin: "Mohammad Mahdi Seif-Allah Pour"
+name_farsi: "محمد مهدی سیف الله پور"
+date_of_birth: null  # est. birth year: 2003
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 23
+place_of_death: "Sadeghiyeh, Tehran"
+province: "Tehran"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot with shotgun at close range to the chest area during nationwide
+  protests in Sadeghiyeh area of Tehran. His body was found one day later on 19
+  Dey and finally delivered to family on 21 Dey after pressure and mediation.
+  Forensic certificate states cause of death as shotgun pellet wounds, but
+  family was forced to officially report cause of death as sharp object injury.
+  Security forces banned any public ceremonies or mourning. Single, worked as
+  repair technician and PDR worker, born in Ordibehesht 1381.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1623"
+    date: null
+    type: community_database
+  - url: "https://x.com/HeKasrehCrisis/status/2015168381301752269"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/bardiya_davar/status/2015157828026073329"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/Tavaana/status/2018660630324982244"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

@@ -1,0 +1,40 @@
+id: sayami-amirali-2009
+name_latin: "Amirali Sayami"
+name_farsi: "امیرعلی صیامی"
+date_of_birth: null  # est. birth year: 2009
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 17
+place_of_death: "Mashhad"
+province: "Razavi Khorasan"
+cause_of_death: "Gunshot"
+circumstances: >
+    17-year-old teenager from Mashhad who worked at a jewelry shop and was the
+  breadwinner for his family. Shot with military bullets by Khamenei's
+  suppressive forces during street protests. Died from severe injuries sustained
+  from the shooting.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1902"
+    date: null
+    type: community_database
+  - url: "https://t.me/iranhrs98/67335"
+    name: "Iran Human Rights Society"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/2251"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

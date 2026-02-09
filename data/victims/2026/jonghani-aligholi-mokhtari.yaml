@@ -1,0 +1,40 @@
+id: jonghani-aligholi-mokhtari
+name_latin: "Aligholi Mokhtari Jonghani"
+name_farsi: "علیقلی مختاری جونقانی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-12
+age_at_death: null
+place_of_death: "Jonghan"
+cause_of_death: "Gunshot (headshot)"
+circumstances: >
+    Shot and killed along with Hadi Ghanbarpour at a checkpoint 5 kilometers
+  from Jonghan city. Their car was inspected at the checkpoint, and when they
+  got back in to leave, they were shot from 5-10 meters away with dozens of war
+  bullets. Aligholi was severely injured by dozens of bullets and pellets to his
+  chest, head, neck, face and spinal cord. After being hospitalized for several
+  days, he was abducted from the hospital at midnight by regime security forces
+  accompanied by clerics. His body was returned to his family after he died. The
+  regime attempted to present him as a 'martyr of the Islamic Republic' but this
+  was rejected by the people of Jonghan.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1405"
+    date: null
+    type: community_database
+  - url: "https://x.com/Tavaana/status/2014696197261557857"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

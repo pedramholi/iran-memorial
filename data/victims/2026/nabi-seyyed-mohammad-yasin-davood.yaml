@@ -1,0 +1,46 @@
+id: nabi-seyyed-mohammad-yasin-davood
+name_latin: "Seyyed Mohammad Yasin Davood Nabi"
+name_farsi: "محمدیاسین داوودنبی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: 17
+place_of_death: "Tehranpars, Tehran"
+province: "Tehran"
+cause_of_death: "Stabbing"
+circumstances: >
+    16-year-old arrested on charges of leadership. Family searched for him for 4
+  days starting from 19 Dey. On the 5th day his arrest code was suddenly deleted
+  from the system, and on the 6th day his body was found in Kahrizak. The body
+  showed traces of knife wounds that had been repaired with metal clamps. He was
+  a wrestler who had a national competition on the Thursday he was buried but
+  could never wear his newly bought wrestling shoes.
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2232"
+    date: null
+    type: community_database
+  - url: "https://x.com/hekasrehcrisis/status/2014831188691636301"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/sonofthebeach22/status/2014834901703438420"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/HeKasrehCrisis/status/2014831188691636301"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

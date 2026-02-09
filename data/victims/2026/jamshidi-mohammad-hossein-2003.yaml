@@ -1,0 +1,42 @@
+id: jamshidi-mohammad-hossein-2003
+name_latin: "Mohammad Hossein Jamshidi"
+name_farsi: "محمد حسین جمشیدی"
+date_of_birth: null  # est. birth year: 2003
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: 23
+place_of_death: "Hasar neighborhood, Karaj"
+province: "Alborz"
+cause_of_death: null
+circumstances: >
+    Killed by regime agents during nationwide protests against catastrophic
+  economic conditions and widespread repression in Hasar neighborhood, Karaj
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2333"
+    date: null
+    type: community_database
+  - url: "https://x.com/RadioFarda_/status/2015037805013983373"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/IranIntl/status/2014722292404662662"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/javanmardi77/154069"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

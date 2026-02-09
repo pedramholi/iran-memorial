@@ -1,0 +1,48 @@
+id: chameh-alireza-karami
+name_latin: "Alireza Karami Chameh"
+name_farsi: "علیرضا کرمی چمه"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: null
+circumstances: >
+    From Sahneh county in Kermanshah province. After finishing high school, came
+  to Tehran to work - did various jobs including selling fruit juice, driving
+  agency cars, construction work, while learning auto body repair and painting.
+  Was a monarchist who supported His Imperial Majesty Crown Prince Reza Shah II.
+  Killed during national uprising of Iranian people at a Friday rally in support
+  of the Crown Prince in Tehran. Had orange hair, memorable laughter, was a
+  skilled footballer whose dribbling moves are still remembered, and loved his
+  dog.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #3295"
+    date: null
+    type: community_database
+  - url: "https://x.com/thesittinggav/status/2018171887474315617"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/lilith_st6/status/2018068954858823836"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/i/status/2018081690523259285"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

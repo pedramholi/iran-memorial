@@ -1,0 +1,38 @@
+id: kia-maedeh-moradi-2004
+name_latin: "Maedeh Moradi Kia"
+name_farsi: "مائده مرادی کیا"
+date_of_birth: null  # est. birth year: 2004
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-10
+age_at_death: 22
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: null
+circumstances: >
+    22-year-old woman from Hamedan who was killed in Tehran by the Islamic
+  Terrorist Republic. She had only been married for a few months.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #4059"
+    date: null
+    type: community_database
+  - url: "https://t.me/javidnamhamedan/29"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/ka3rimi/status/2016262617229066447"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

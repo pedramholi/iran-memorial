@@ -1,0 +1,36 @@
+id: ghanbari-hesam
+name_latin: "Hesam Ghanbari"
+name_farsi: "حسام قنبری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-10
+age_at_death: null
+place_of_death: "Hashemieh, Mashhad"
+province: "Razavi Khorasan"
+cause_of_death: "Gunshot (headshot)"
+circumstances: >
+    Shot in the head with a war bullet in Hashemieh district of Mashhad. Family
+  was demanded 1 billion rials to receive his body. Authorities prevented family
+  from holding funeral ceremonies and told family to claim he died in an
+  accident.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1051"
+    date: null
+    type: community_database
+  - url: "https://x.com/mobarez_nastooh/status/2014812395181416637"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

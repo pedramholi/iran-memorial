@@ -1,0 +1,42 @@
+id: abbasi-davood
+name_latin: "Davood Abbasi"
+name_farsi: "داوود عباسی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Beating"
+circumstances: >
+    Filmmaker and cinematographer who was violently arrested on Saturday, 20 Dey
+  in Karaj by security forces. During arrest, agents severely beat him, causing
+  serious injuries to his eyes and spine. He is currently held in Qezelhesar
+  Prison with reports of deteriorating physical condition. His relatives state
+  that due to the severity of his injuries and lack of proper medical care, his
+  life is in danger.
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #969"
+    date: null
+    type: community_database
+  - url: "https://x.com/tavaana/status/2014775212018143452"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/javidnamhamedan/226"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

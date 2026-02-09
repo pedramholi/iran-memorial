@@ -1,0 +1,35 @@
+id: alboghbeish-hussein-2004
+name_latin: "Hussein Alboghbeish"
+name_farsi: "حسین آلبوغبیش"
+date_of_birth: null  # est. birth year: 2004
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: 22
+place_of_death: "Mashour/Mahshahr"
+province: "Khuzestan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot by security forces during anti-regime protests on Sa'idi Street in old
+  Mashour. Son of Jamal, resident of old Mashour who had become one of the field
+  activists during the anti-regime protests.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #543"
+    date: null
+    type: community_database
+  - url: "https://x.com/bensusaaa/status/2013692656631554475"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

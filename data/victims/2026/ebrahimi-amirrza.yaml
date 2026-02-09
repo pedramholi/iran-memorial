@@ -1,0 +1,33 @@
+id: ebrahimi-amirrza
+name_latin: "Amirrza Ebrahimi"
+name_farsi: "امیررضا ابراهیمی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: null
+circumstances: >
+    Died on January 9, 2026 in Tehran
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #4521"
+    date: null
+    type: community_database
+  - url: "https://t.me/RememberTheirNames/1238"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

@@ -1,0 +1,33 @@
+id: zare-azim
+name_latin: "Azim Zare"
+name_farsi: "عظیم زارع"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: null
+place_of_death: "Dezful"
+province: "Khuzestan"
+cause_of_death: null
+circumstances: >
+    Killed during protests in Dezful as part of the freedom movement
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1924"
+    date: null
+    type: community_database
+  - url: "https://www.instagram.com/p/DT5_Jw8ikvU"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

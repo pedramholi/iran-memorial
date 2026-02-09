@@ -1,0 +1,36 @@
+id: saeidi-mosayeb
+name_latin: "Mosayeb Saeidi"
+name_farsi: "مصیب سعیدی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: 28
+place_of_death: "Mashhad"
+province: "Razavi Khorasan"
+cause_of_death: "Gunshot (headshot)"
+circumstances: >
+    Shot by IRGC terrorists with 2 bullets to his knees, bringing him down, then
+  finished with a shot to the head in the Tus area during the national
+  revolution. His family was severely pressured to introduce him as a Basiji
+  member.
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #4216"
+    date: null
+    type: community_database
+  - url: "https://x.com/shahramsadidi/status/2018817861226242361"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

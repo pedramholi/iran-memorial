@@ -1,0 +1,37 @@
+id: zal-mohammad
+name_latin: "Mohammad Zal"
+name_farsi: "محمد زال"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: null
+place_of_death: "Jannat Abad"
+cause_of_death: "Gunshot"
+circumstances: >
+    Athlete and martial arts instructor. Killed on Friday during protests in
+  Jannat Abad area with direct gunshot from regime forces' shotgun. Shot
+  directly in the front of the chest. Pellets entered his windpipe causing lung
+  bleeding and suffocation. About 50 to 60 pellets were found in his body from
+  face down. He was a Kung Fu instructor with a very strong body. Had an
+  8-year-old son who kept asking why they won't show his father.
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #3242"
+    date: null
+    type: community_database
+  - url: "https://x.com/hekasrehcrisis/status/2016359427998093525"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

@@ -1,0 +1,45 @@
+id: ghasemi-milad-1988
+name_latin: "Milad Ghasemi"
+name_farsi: "میلاد قاسمی"
+date_of_birth: null  # est. birth year: 1988
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-10
+age_at_death: 38
+place_of_death: "Isfahan"
+province: "Isfahan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot from behind, appearing to suffer spinal cord injury and unable to walk.
+  Companions hid him under a car for an hour to prevent security forces from
+  delivering a fatal shot. He remained silent under the car to avoid detection
+  by security forces. Could not endure and died in the car an hour later when
+  friends came to take him to the hospital.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #871"
+    date: null
+    type: community_database
+  - url: "https://x.com/manotonews/status/2014782688859656507"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/FSeifikaran/status/2015044331770364118"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://javidnaman.iranintl.com/memorial/vN7MNz32cVvzOpuuClWivM"
+    name: "Iran International"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

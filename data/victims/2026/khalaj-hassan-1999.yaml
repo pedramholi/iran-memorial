@@ -1,0 +1,42 @@
+id: khalaj-hassan-1999
+name_latin: "Hassan Khalaj"
+name_farsi: "حسن خلج"
+date_of_birth: null  # est. birth year: 1999
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 27
+place_of_death: "Ramsar"
+province: "Gilan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Gilak citizen from Ramsar, born 1376 Persian calendar (1997 Gregorian),
+  killed by direct gunfire from Islamic Republic of Iran government forces
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1059"
+    date: null
+    type: community_database
+  - url: "https://x.com/hyrcanihrm/status/2015024081163162042"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/linowtinop/status/2014711404821881270"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/2124"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

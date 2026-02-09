@@ -1,0 +1,42 @@
+id: nikbakht-pezhman-2007
+name_latin: "Pezhman Nikbakht"
+name_farsi: "پژمان نیکبخت"
+date_of_birth: null  # est. birth year: 2007
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 19
+place_of_death: "Malekshahr, Isfahan"
+province: "Isfahan"
+cause_of_death: null
+circumstances: >
+    18-year-old from Isfahan killed at Malekshahr intersection. Family has been
+  pressured to stay silent about his death
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1816"
+    date: null
+    type: community_database
+  - url: "https://x.com/visfehan/status/2016188250495266958"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/VIsfehan/status/2018264315959067014"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/visfehan/status/2018264315959067014"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

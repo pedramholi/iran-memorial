@@ -1,0 +1,41 @@
+id: nejat-abolfazl-1987
+name_latin: "Abolfazl (Mehdi) Nejat"
+name_farsi: "ابوالفضل(مهدی) نجات"
+date_of_birth: null  # est. birth year: 1987
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: 39
+place_of_death: "Marvdasht"
+province: "Fars"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot by government forces during protests in Marvdasht
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #980"
+    date: null
+    type: community_database
+  - url: "https://x.com/manotonews/status/2014820442876608825"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/ManotoNews/status/2014820442876608825"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/860"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

@@ -1,0 +1,45 @@
+id: saberi-mehdi-2004
+name_latin: "Mehdi Saberi"
+name_farsi: "مهدی صبری"
+date_of_birth: null  # est. birth year: 2004
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 22
+place_of_death: "Karaj"
+province: "Alborz"
+cause_of_death: "Gunshot"
+circumstances: >
+    22-year-old student shot during direct gunfire by regime forces against
+  people in Karaj. Killed by mercenaries of Ali Khamenei just for being present
+  on the street and standing with his people. His sister shared a video message
+  saying they had many dreams for him, hadn't yet seen him in wedding clothes,
+  and hadn't properly finished celebrating his graduation.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #3797"
+    date: null
+    type: community_database
+  - url: "https://x.com/Amynsabrii/status/2018409060706476210"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/IranNewsAgency0/status/2018370672507130012"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/1912"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

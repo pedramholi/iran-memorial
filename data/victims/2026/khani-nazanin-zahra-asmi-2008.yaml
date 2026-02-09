@@ -1,0 +1,45 @@
+id: khani-nazanin-zahra-asmi-2008
+name_latin: "Nazanin Zahra Asmi Khani"
+name_farsi: "نازنین‌زهرا اسمی‌خانی"
+date_of_birth: null  # est. birth year: 2008
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-10
+age_at_death: 18
+place_of_death: "Mohammadiyeh, Qazvin"
+province: "Qazvin"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot with war bullets by Islamic Republic suppression forces during popular
+  protests in Mohammadieh city, Qazvin. She was a photographer and guitarist.
+  Her body was handed over to her family in exchange for 300 million tomans. She
+  was buried in Hesar Khorvan cemetery in Qazvin. Her family remains under heavy
+  surveillance by security agencies.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1492"
+    date: null
+    type: community_database
+  - url: "https://x.com/manotonews/status/2013657775851606043"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/nicksotoudeh/status/2013697925004828679"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/sssccpp/status/2013687589287403556"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

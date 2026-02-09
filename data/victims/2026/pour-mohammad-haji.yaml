@@ -1,0 +1,42 @@
+id: pour-mohammad-haji
+name_latin: "Mohammad Haji Pour"
+name_farsi: "محمد حاجی‌پور"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: null
+place_of_death: "Rasht"
+province: "Gilan"
+cause_of_death: null
+circumstances: >
+    Former goalkeeper of Iran's beach football national team, killed during
+  protests in Rasht
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #905"
+    date: null
+    type: community_database
+  - url: "https://x.com/HengawO/status/2014421367446253740"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+  - url: "https://javidnaman.iranintl.com/memorial/255P39jiXgM2t3lNmMi0bp"
+    name: "Iran International"
+    date: null
+    type: primary
+  - url: "https://x.com/mojtabapourbakh/status/2013946175699693634"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

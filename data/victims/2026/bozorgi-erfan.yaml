@@ -1,0 +1,44 @@
+id: bozorgi-erfan
+name_latin: "Erfan Bozorgi"
+name_farsi: "عرفان بزرگی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-02
+age_at_death: null
+place_of_death: "Marvdasht"
+province: "Fars"
+cause_of_death: "Gunshot (headshot)"
+circumstances: >
+    Shot by Islamic Republic suppressors during protests in Marvdasht, Fars
+  province on Thursday January 1st, 2026. He was targeted with gunshots to his
+  head and died in hospital on Friday January 2nd, 2026. He was described as one
+  of the wrestling heroes of Fars province.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #48"
+    date: null
+    type: community_database
+  - url: "https://x.com/Daikatuo/status/2007455835497152832"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://www.iran-emrooz.net/index.php/news2/125134/"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/foundationilr/status/2010721794450415954"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

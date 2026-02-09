@@ -1,0 +1,36 @@
+id: badrekhani-reza
+name_latin: "Reza Badrekhani"
+name_farsi: "رضا بدرخانی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: null
+place_of_death: "Saveh"
+province: "Markazi"
+cause_of_death: null
+circumstances: >
+    Brother of Hussein Badrekhani, committed suicide on the third day of
+  Hussein's memorial ceremony due to the pressure of grief from his brother's
+  absence and their mother's wails. Family is under severe pressure from
+  Khamenei's forces.
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1871"
+    date: null
+    type: community_database
+  - url: "https://x.com/becrebb/status/2016533096179646831"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

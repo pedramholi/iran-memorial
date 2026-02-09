@@ -1,0 +1,33 @@
+id: farajzadeh-shahram
+name_latin: "Shahram Farajzadeh"
+name_farsi: "شهرام فرج زاده"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: null
+place_of_death: null
+cause_of_death: null
+circumstances: >
+    Killed under the wheels of a police vehicle during Ashura in 2009. Brother
+  of Houriye Farajzadeh and uncle of Milad Bakhtiari.
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2671"
+    date: null
+    type: community_database
+  - url: "https://x.com/jeanne2022rev/status/2015786366378934653"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

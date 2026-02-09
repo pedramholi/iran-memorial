@@ -1,0 +1,43 @@
+id: heydari-abolfazl-2009
+name_latin: "Abolfazl Heydari"
+name_farsi: "ابوالفضل حیدری"
+date_of_birth: null  # est. birth year: 2009
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 17
+place_of_death: "Qir, Fars Province"
+province: "Fars"
+cause_of_death: "Gunshot"
+circumstances: >
+    17-year-old killed by direct gunfire from security forces during protests in
+  the small city of Qir near Kazerun. A memorial service was held for him where
+  traditional surna music was played.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #341"
+    date: null
+    type: community_database
+  - url: "https://x.com/indypersian/status/2012820143454212483"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/javidshah109/status/2016441036487250004"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/javidshah109/status/2017151657906156002"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

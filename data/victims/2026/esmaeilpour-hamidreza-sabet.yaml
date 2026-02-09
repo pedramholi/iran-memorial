@@ -1,0 +1,46 @@
+id: esmaeilpour-hamidreza-sabet
+name_latin: "Hamidreza Sabet Esmaeilpour"
+name_farsi: "حمیدرضا ثابت اسمعیل‌پور"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-27
+age_at_death: null
+place_of_death: null
+cause_of_death: "Judicial execution"
+circumstances: >
+    Executed on charges of espionage for Israel. The judiciary claimed he
+  conducted intelligence and operational activities for the Zionist regime
+  including purchasing equipment needed by officers, moving vehicles in Isfahan
+  and Lorestan provinces to prepare for Israeli sabotage of Defense Ministry
+  missile facilities in an operation called 'Great Operation' that was
+  discovered and neutralized by Intelligence Ministry agents in 1401
+  (2022-2023).
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #170"
+    date: null
+    type: community_database
+  - url: "https://en.iranhrs.org/list-of-names-and-pictures-of-victims-of-the-nationwide-protests-in-iran/"
+    name: "Iran Human Rights Society"
+    date: null
+    type: primary
+  - url: "https://t.me/iranhrs98/67328"
+    name: "Iran Human Rights Society"
+    date: null
+    type: primary
+  - url: "https://t.me/iranhrs98/67322"
+    name: "Iran Human Rights Society"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

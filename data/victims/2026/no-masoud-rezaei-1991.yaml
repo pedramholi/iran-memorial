@@ -1,0 +1,44 @@
+id: no-masoud-rezaei-1991
+name_latin: "Masoud Rezaei No"
+name_farsi: "مسعود رضایی‌نو"
+date_of_birth: null  # est. birth year: 1991
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 35
+place_of_death: "Karaj"
+province: "Alborz"
+cause_of_death: "Gunshot"
+circumstances: >
+    Known as 'Masoud Fanar', athlete in bodybuilding, gymnastics, parkour,
+  free-running and ninjutsu. Shot with two bullets by Islamic Republic forces
+  while helping wounded people on Mesbah Street in Karaj. Security forces
+  prevented people and his brother from approaching to provide aid and stood
+  over his body and about 10 other wounded people for some time to prevent
+  assistance. Was a provincial and national champion in various sports
+  disciplines and worked as a trainer teaching martial arts to children and
+  teenagers in the Mesbah neighborhood.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2182"
+    date: null
+    type: community_database
+  - url: "https://x.com/iranintlsport/status/2017155103489175919"
+    name: "Iran International"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/1401"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

@@ -1,0 +1,45 @@
+id: jabbari-mohammad-1999
+name_latin: "Mohammad Jabbari"
+name_farsi: "محمد جباری"
+date_of_birth: null  # est. birth year: 1999
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 27
+place_of_death: "Karaj"
+province: "Alborz"
+cause_of_death: "Gunshot"
+circumstances: >
+    Azerbaijani compatriot from Karaj who stood alone and defenseless against
+  security forces to protect others' lives. He did not flee or retreat; he used
+  his body as a shield for others' lives. The regime's response was shooting
+  from close range - a bullet from about one meter away that took his life. This
+  murder was the result of one person's courage and a government's terror.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #325"
+    date: null
+    type: community_database
+  - url: "https://x.com/abhaddadii/status/2012993637005627689"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/hengawo/status/2012997053215899934"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+  - url: "https://x.com/HengawO/status/2012997053215899934"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

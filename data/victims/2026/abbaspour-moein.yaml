@@ -1,0 +1,45 @@
+id: abbaspour-moein
+name_latin: "Moein Abbaspour"
+name_farsi: "معین عباس‌پور"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: null
+place_of_death: "Karaj"
+province: "Alborz"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot with direct bullet to the heart in front of Golshahr Hospital in Karaj.
+  Son of Razgar Abaspor from Ilam, residing in Karaj. His father is described as
+  one of the most honorable people who spent his whole life helping patients in
+  the most remote villages of Ilam, and this young man was the fruit of his life
+  who died in his arms in the street.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2344"
+    date: null
+    type: community_database
+  - url: "https://t.me/javanmardi77/154278"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/1670"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/eisabazyar1/status/2016529783329309028"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

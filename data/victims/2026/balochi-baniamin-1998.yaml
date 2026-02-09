@@ -1,0 +1,44 @@
+id: balochi-baniamin-1998
+name_latin: "Baniamin Balochi"
+name_farsi: "بنیامین بلوچی"
+date_of_birth: null  # est. birth year: 1998
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-11
+age_at_death: 28
+place_of_death: "Neyshabur"
+province: "Razavi Khorasan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Baloch citizen shot directly in the neck by government forces during popular
+  protests in Neyshabur. Suffered severe spinal cord injury and spinal cord
+  severance. Died after three days in ICU. Body was returned to family after
+  three days for 300 million tomans.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #613"
+    date: null
+    type: community_database
+  - url: "https://x.com/thebalochworld/status/2013938636686053592"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/TheBalochWorld/status/2013938636686053592"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/HengawO/status/2018050030347919766"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

@@ -1,0 +1,42 @@
+id: zarein-mohammad-sadra-1989
+name_latin: "Mohammad Sadra Zarein"
+name_farsi: "محمدصدرا زارعین"
+date_of_birth: null  # est. birth year: 1989
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-10
+age_at_death: 37
+place_of_death: "Mashhad"
+province: "Razavi Khorasan"
+cause_of_death: "Beating"
+circumstances: >
+    19-year-old resident of Mashhad, arrested on Friday January 9th. Family
+  searched for him and were told he was detained and to come pick him up. When
+  they went the next day, they were informed of his death. Severe beating marks
+  were visible on his head, face and body. Buried on January 21st in section 67
+  of Behesht Reza cemetery in Mashhad in an atmosphere full of Basij and
+  plainclothes agents.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #3589"
+    date: null
+    type: community_database
+  - url: "https://t.me/RememberTheirNames/2096"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/hekasrehcrisis/status/2016008794665316393"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

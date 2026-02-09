@@ -1,0 +1,45 @@
+id: hosseininezhad-rojin-2007
+name_latin: "Rojin Hosseininezhad"
+name_farsi: "روژین حسینی‌نژاد"
+date_of_birth: null  # est. birth year: 2007
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-23
+age_at_death: 19
+place_of_death: "Kerman"
+province: "Kerman"
+cause_of_death: null
+circumstances: >
+    19-year-old Baháʼí resident of Kerman arrested on Saturday evening 4 Bahman
+  1404 when security forces brutally raided her home without showing a warrant.
+  House was searched before arrest. Arrest was part of widespread detention of
+  Baháʼí citizens during protests. No information available about her since
+  arrest.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1213"
+    date: null
+    type: community_database
+  - url: "https://x.com/HengawO/status/2015494842734764420"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+  - url: "https://x.com/ellay_ve/status/2015836732751806563"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/isamanyasin/status/2017009246873792759"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

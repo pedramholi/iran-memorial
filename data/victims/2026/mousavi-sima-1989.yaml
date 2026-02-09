@@ -1,0 +1,43 @@
+id: mousavi-sima-1989
+name_latin: "Sima Mousavi"
+name_farsi: "سیما موسوی"
+date_of_birth: null  # est. birth year: 1989
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: 37
+place_of_death: "Karaj"
+province: "Alborz"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot with live ammunition from behind while being pursued by Islamic
+  Republic agents, killed when she had reached the parking area of her
+  residence. She was interested in acting and pursued this interest seriously.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #800"
+    date: null
+    type: community_database
+  - url: "https://www.instagram.com/p/DTz45_pEcvQ"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/noamagid/status/2014760030076055771"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/indypersian/status/2014937526897623125"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

@@ -1,0 +1,37 @@
+id: hooshmand-sajjad
+name_latin: "Sajjad Hooshmand"
+name_farsi: "سجاد هوشمند"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: 32
+place_of_death: "Ardabil"
+province: "Ardabil"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot by government forces
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1745"
+    date: null
+    type: community_database
+  - url: "https://x.com/ashk_shadi/status/2016217073278497242"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/i/status/2016217073278497242"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

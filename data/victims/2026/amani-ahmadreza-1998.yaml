@@ -1,0 +1,43 @@
+id: amani-ahmadreza-1998
+name_latin: "Ahmadreza Amani"
+name_farsi: "احمدرضا امانی"
+date_of_birth: null  # est. birth year: 1998
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-01
+age_at_death: 28
+place_of_death: "Azna"
+province: "Lorestan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot by security forces during peaceful protest near the county governor's
+  office in Azadegan Square. One of at least six protesters killed in Azna when
+  IRGC agents opened fire on peaceful protesters.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #45"
+    date: null
+    type: community_database
+  - url: "https://x.com/Daikatuo/status/2007455835497152832"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://www.iran-emrooz.net/index.php/news2/125134/"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://www.hrw.org/news/2026/01/08/iran-authorities-renewed-cycle-of-protest-bloodshed"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

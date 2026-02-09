@@ -1,0 +1,43 @@
+id: jafari-abbas
+name_latin: "Abbas Jafari"
+name_farsi: "عباس جعفری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: 36
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Gunshot"
+circumstances: >
+    Tortured and hanged. Body showed burn marks on hands, rope marks around
+  neck, bullet wounds on legs. Genital organs were mutilated. Went missing from
+  Marlik, Karaj on Thursday 18 Dey (2026-01-08). Family searched for him
+  including mother going to identify among thousands of bodies. Father and
+  sister went to Malard intelligence office where they were severely beaten for
+  following up. Later found body at an unspecified location where authorities
+  said they must declare him a martyr killed by terrorists.
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2140"
+    date: null
+    type: community_database
+  - url: "https://x.com/hekasrehcrisis/status/2016738820956303525"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/rozhenabaloch/status/2016560524587155874"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

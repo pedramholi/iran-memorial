@@ -1,0 +1,47 @@
+id: shirkol-hossein-1983
+name_latin: "Hossein Shirkol"
+name_farsi: "حسین شیرکول"
+date_of_birth: null  # est. birth year: 1983
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: 43
+place_of_death: "Isfahan"
+province: "Isfahan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Kurdish citizen from Dehloran, originally from Zarin-Abad village in
+  Kermanshah province but residing in Isfahan. Shot with war bullet by Islamic
+  Republic suppression forces during popular protests on 18 Dey. His family was
+  able to retrieve his body after 5 days of follow-up and pressure from security
+  institutions, and buried him on Wednesday 24 Dey 1404 in the cemetery of his
+  birthplace in Zarin-Abad (Pahleh) village in Dehloran. He was married and
+  father of two young children.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #17"
+    date: null
+    type: community_database
+  - url: "https://x.com/kurdistanhrn/status/2011420234687603026"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/KurdistanHRN/status/2011783655752880275"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/KurdistanHRN/status/2011420234687603026"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

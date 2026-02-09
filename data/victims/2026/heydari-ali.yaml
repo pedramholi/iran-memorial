@@ -1,0 +1,39 @@
+id: heydari-ali
+name_latin: "Ali Heydari"
+name_farsi: "علی حیدری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: 20
+place_of_death: "Mashhad"
+province: "Razavi Khorasan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Arrested on January 8, 2026 in Mashhad. Shot in the legs the same night.
+  Family has no information about his condition and no official agency is
+  responding to the family. Family is extremely worried about his life.
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #3825"
+    date: null
+    type: community_database
+  - url: "https://x.com/IranNewsAgency0/status/2018870626761769360"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/shahramsadidi/status/2019541529140854882"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

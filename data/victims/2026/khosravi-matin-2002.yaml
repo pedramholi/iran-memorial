@@ -1,0 +1,44 @@
+id: khosravi-matin-2002
+name_latin: "Matin Khosravi"
+name_farsi: "متين خسروى"
+date_of_birth: null  # est. birth year: 2002
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 24
+place_of_death: "Talesh"
+province: "Gilan"
+cause_of_death: "Gunshot"
+circumstances: >
+    24-year-old protester from Talash shot with war bullet during protests.
+  Family received his body after two days in exchange for payment. Had sent
+  messages to relatives before joining protests expressing hope for the end of
+  the Islamic Republic and return of the Pahlavi monarchy.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #214"
+    date: null
+    type: community_database
+  - url: "https://x.com/iranrights_org/status/2012267893845549329"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/banafshehviola/status/2012584867289084034"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/iranrights_org/status/2012482857944445049"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

@@ -1,0 +1,45 @@
+id: jarrahiyan-parastoo-2003
+name_latin: "Parastoo Jarrahiyan"
+name_farsi: "پرستو جراحیان"
+date_of_birth: null  # est. birth year: 2003
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 23
+place_of_death: "Arak"
+province: "Markazi"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot with live ammunition in the side of her body at 7:00 p.m. in Shora
+  Square by security forces. Was taken to hospital and placed in ICU while fully
+  conscious, but security forces expelled her family from the hospital. Her
+  lifeless body was transferred to the morgue of Bagh-e Jannat in Arak that same
+  night.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #759"
+    date: null
+    type: community_database
+  - url: "https://x.com/saeidvafa/status/2014508199861174470"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/SaeidVafa/status/2014508199861174470"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/niohberg/status/2014801918720106894"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

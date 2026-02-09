@@ -1,0 +1,33 @@
+id: bo-amirhossein-shikh
+name_latin: "Amirhossein Shikh Bo"
+name_farsi: "امیرحسین شیخ‌بو"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: null
+place_of_death: "Mashhad"
+province: "Razavi Khorasan"
+cause_of_death: null
+circumstances: >
+    Listed as victim number 414 in memorial post
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #4619"
+    date: null
+    type: community_database
+  - url: "https://t.me/RememberTheirNames/449"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

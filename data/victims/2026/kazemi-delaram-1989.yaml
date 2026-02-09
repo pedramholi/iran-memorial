@@ -1,0 +1,42 @@
+id: kazemi-delaram-1989
+name_latin: "Delaram Kazemi"
+name_farsi: "دلارام کاظمی"
+date_of_birth: null  # est. birth year: 1989
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-06
+age_at_death: 37
+place_of_death: "Gilangharb"
+cause_of_death: "Torture / death in custody"
+circumstances: >
+    Arrested by IRGC intelligence forces during a raid on her home on Wednesday
+  evening, 17 Dey 1404. Killed under torture several days later. Mother of two
+  children and sole breadwinner of her family
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #169"
+    date: null
+    type: community_database
+  - url: "https://x.com/avatoday_news/status/2011813645504663718"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/longlosthills/status/2012375264848748984"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/hiwa_life/status/2013754620590334164"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

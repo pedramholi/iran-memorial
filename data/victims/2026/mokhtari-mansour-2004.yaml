@@ -1,0 +1,43 @@
+id: mokhtari-mansour-2004
+name_latin: "Mansour Mokhtari"
+name_farsi: "منصور مختاری"
+date_of_birth: null  # est. birth year: 2004
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-02
+age_at_death: 22
+place_of_death: "Marvdasht"
+province: "Fars"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot by security forces during the 'National Revolution of Iranians'.
+  Mourners in Marvdasht chanted 'Death to Khamenei' and 'I will kill, I will
+  kill the one who killed my brother' at his funeral
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #49"
+    date: null
+    type: community_database
+  - url: "https://x.com/Daikatuo/status/2007456429049856090"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://www.iran-emrooz.net/index.php/news2/125134/"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://hengaw.net/en/reports-and-statistics-1/2026/01/article-2"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

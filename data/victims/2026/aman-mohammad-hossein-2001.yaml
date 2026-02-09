@@ -1,0 +1,43 @@
+id: aman-mohammad-hossein-2001
+name_latin: "Mohammad Hossein Aman (Al-Boghbish)"
+name_farsi: "محمدحسین امان (آلبوغبیش)"
+date_of_birth: null  # est. birth year: 2001
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 25
+place_of_death: "Ma'sho (Mahshahr)"
+province: "Khuzestan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot in the heart by security forces during protests. Arab citizen
+  originally from Mashour (Mahshahr) in Khuzestan province. Also known as
+  Alboghbish.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #807"
+    date: null
+    type: community_database
+  - url: "https://x.com/MOJAHWAZ/status/2013692897523020165"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/fseifikaran/status/2015759001204519288"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/iranwire/status/2013704601552240973"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

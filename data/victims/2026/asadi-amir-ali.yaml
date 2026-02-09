@@ -1,0 +1,42 @@
+id: asadi-amir-ali
+name_latin: "Amir Ali Asadi (Abuzar)"
+name_farsi: "امیرعلی اسدی (ابوذر)"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: null
+circumstances: >
+    Father of Shahan and Shayan, killed by the Islamic Republic. Information
+  reported by Elnaz, Amirali's sister, on her Instagram page.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #3259"
+    date: null
+    type: community_database
+  - url: "https://javidnaman.iranintl.com/memorial/3Fy5sC7qrylDAVNVjWiqGg"
+    name: "Iran International"
+    date: null
+    type: primary
+  - url: "https://x.com/MothrOfDrgns/status/2017730329776116150"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/i/status/2017730329776116150"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

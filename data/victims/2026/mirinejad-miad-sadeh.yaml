@@ -1,0 +1,36 @@
+id: mirinejad-miad-sadeh
+name_latin: "Miad Sadeh Mirinejad"
+name_farsi: "میعاد ساده میری‌نژاد"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: null
+place_of_death: "Ilam"
+province: "Ilam"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot with war bullet (Kalashnikov) during popular protests in Ilam city.
+  Burial permit listed cause of death as lung and heart rupture due to bullet
+  impact to chest cage. Memorial ceremony held on 24 Dey (January 13, 2026) at
+  Behesht-e Reza Ilam cemetery.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1563"
+    date: null
+    type: community_database
+  - url: "https://x.com/iranwire/status/2015802856847139304"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

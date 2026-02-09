@@ -1,0 +1,45 @@
+id: hashemi-ahmad-2004
+name_latin: "Ahmad Hashemi"
+name_farsi: "احمد هاشمی"
+date_of_birth: null  # est. birth year: 2004
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-11
+age_at_death: 22
+place_of_death: "Mahallat, Markazi Province"
+province: "Markazi"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot with war bullets by government criminals in the liver and spleen area
+  during Iran's national uprising on 18 Dey (2026-01-08). Severely injured and
+  transferred to hospital. After 3 days of enduring pain and deprivation of safe
+  medical care, died on the path to homeland freedom. Example of direct
+  shooting, targeted killing and abandoning youth in death cycle.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2596"
+    date: null
+    type: community_database
+  - url: "https://x.com/HengawO/status/2014638058105151825"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+  - url: "https://x.com/Y__leviii5/status/2014670741501825264"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/aminakramipour/status/2017687526329258492"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

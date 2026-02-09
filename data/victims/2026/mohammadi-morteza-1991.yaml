@@ -1,0 +1,43 @@
+id: mohammadi-morteza-1991
+name_latin: "Morteza Mohammadi"
+name_farsi: "مرتضی محمدی"
+date_of_birth: null  # est. birth year: 1991
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 35
+place_of_death: "Fardis, Karaj"
+province: "Alborz"
+cause_of_death: "Gunshot"
+circumstances: >
+    Killed on Friday alongside 17 or 18 others by several mercenary
+  motorcyclists who shot at their veins. Father of two sons aged 12 and 3 years
+  old.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1738"
+    date: null
+    type: community_database
+  - url: "https://www.instagram.com/p/DUBKLTKDCP-"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/iwasshiin/status/2018625831816622384"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/2005"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

@@ -1,0 +1,35 @@
+id: razlighi-ali-manouchehri-1946
+name_latin: "Ali Manouchehri Razlighi"
+name_farsi: "علی منوچهری رازلیقی"
+date_of_birth: null  # est. birth year: 1946
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 80
+place_of_death: "Karaj"
+province: "Alborz"
+cause_of_death: null
+circumstances: >
+    Disappeared on 18 Dey (January 8, 2026) at around 80 years old. Body was
+  found after 10 days and buried without ceremony. Family and relatives are
+  under pressure and are not familiar with social media.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #3262"
+    date: null
+    type: community_database
+  - url: "https://x.com/dahri9/status/2017807592387649769"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

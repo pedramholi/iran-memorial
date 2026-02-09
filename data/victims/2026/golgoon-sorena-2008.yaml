@@ -1,0 +1,50 @@
+id: golgoon-sorena-2008
+name_latin: "Sorena Golgoon"
+name_farsi: "سورنا گلگون"
+date_of_birth: null  # est. birth year: 2008
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: 18
+place_of_death: "Shahsavar"
+province: "Mazandaran"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot and killed by Islamic Republic security forces during popular uprising.
+  Was trapped in an alley with other protesters, surrounded from both sides by
+  government forces who opened fire. A bullet struck his heart and lungs, and he
+  lay on the ground for about half an hour before losing his life. Was an
+  18-year-old student set to begin studies in mechanical engineering, from a
+  financially well-off family. His presence at protests was driven by awareness
+  and solidarity rather than economic pressure. Two of his uncles were killed in
+  the Iran-Iraq war, one was a well-known commander. The Golgoon family is among
+  well-known families of the city, and a boulevard in Shahsavar is named
+  'Golgoon Martyrs'.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #73"
+    date: null
+    type: community_database
+  - url: "https://x.com/IranProtestsCom/status/2011386612899360904"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://www.iranintl.com/202601147055"
+    name: "Iran International"
+    date: null
+    type: primary
+  - url: "https://iranhrs.org/جانباختگان-اعتراضات-۱۴۰۴/"
+    name: "Iran Human Rights Society"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

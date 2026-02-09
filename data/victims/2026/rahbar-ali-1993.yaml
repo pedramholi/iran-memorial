@@ -1,0 +1,43 @@
+id: rahbar-ali-1993
+name_latin: "Ali Rahbar"
+name_farsi: "علی رهبر"
+date_of_birth: null  # est. birth year: 1993
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-22
+age_at_death: 33
+place_of_death: "Mashhad"
+province: "Razavi Khorasan"
+cause_of_death: "Judicial execution"
+circumstances: >
+    33-year-old reportedly executed in Mashhad on 22 January, becoming one of
+  the first protesters to be executed. Iran's judiciary denied his execution
+  having taken place, stating that such a person had not even been detained
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #12"
+    date: null
+    type: community_database
+  - url: "https://en.wikipedia.org/wiki/2026_Iran_massacres"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://en.wikipedia.org/wiki/2026_Iran_massacres#30_December"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/prznsoccer/status/2014226265843044717"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

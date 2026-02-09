@@ -1,0 +1,37 @@
+id: salehi-ali-1956
+name_latin: "Ali Salehi"
+name_farsi: "علی صالحی"
+date_of_birth: null  # est. birth year: 1956
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 70
+place_of_death: "Sari"
+province: "Mazandaran"
+cause_of_death: null
+circumstances: >
+    Persepolis football fan who died (specific cause not mentioned in text)
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2063"
+    date: null
+    type: community_database
+  - url: "https://t.me/RememberTheirNames/1425"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/mabbasi90/status/2017341037543387315"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

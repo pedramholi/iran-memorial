@@ -1,0 +1,41 @@
+id: nikzad-mohra
+name_latin: "Mohra Nikzad"
+name_farsi: "مُهرا نیکزاد"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-07
+age_at_death: null
+place_of_death: null
+cause_of_death: "Judicial execution"
+circumstances: >
+    Arrested on 17 Dey by the Islamic Republic, body was returned to family a
+  few days later. Executed by the Islamic Republic.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2543"
+    date: null
+    type: community_database
+  - url: "https://x.com/Persian_picture/status/2017535234640683099"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/persian_picture/status/2017535234640683099"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/historyinpik/status/2018309518887735669"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

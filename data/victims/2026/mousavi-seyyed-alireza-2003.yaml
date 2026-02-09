@@ -1,0 +1,47 @@
+id: mousavi-seyyed-alireza-2003
+name_latin: "Seyyed Alireza Mousavi"
+name_farsi: "سید علیرضا موسوی"
+date_of_birth: null  # est. birth year: 2003
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-11
+age_at_death: 23
+place_of_death: "Fouladshahr, Isfahan"
+province: "Isfahan"
+cause_of_death: "Gunshot (headshot)"
+circumstances: >
+    Shot by IRGC forces on Basirat Street in Foulad Shahr, Isfahan at 8:30 PM
+  while alone. Motorcyclist approached him, he sat on the ground and put his
+  hood over his head pleading not to be beaten. They placed a gun on his back
+  and fired pellets/buckshot, with a scatter pattern that resulted in 50 pellets
+  entering his body, penetrating his spinal cord and heart. Died instantly from
+  bleeding. Body delivered to family on the 26th and buried under security
+  measures.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #821"
+    date: null
+    type: community_database
+  - url: "https://x.com/allahbakhshii/status/2014663511813550216"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/hekasrehcrisis/status/2014820145672110316"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/aban_khoonin/status/2015402537583562823"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

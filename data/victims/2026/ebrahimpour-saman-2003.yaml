@@ -1,0 +1,39 @@
+id: ebrahimpour-saman-2003
+name_latin: "Saman Ebrahimpour"
+name_farsi: "سامان ابراهیم‌پور"
+date_of_birth: null  # est. birth year: 2003
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-10
+age_at_death: 23
+place_of_death: "Rasht"
+province: "Gilan"
+cause_of_death: "Gunshot"
+circumstances: >
+    23-year-old from Shaft, killed by direct gunfire from government agents
+  during popular protests in the Dana-ye Ali area of Rasht, died from the
+  severity of his injuries
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #3948"
+    date: null
+    type: community_database
+  - url: "https://t.me/RememberTheirNames/1923"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/tavaana/status/2019494278200979723"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

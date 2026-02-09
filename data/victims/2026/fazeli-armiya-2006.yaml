@@ -1,0 +1,44 @@
+id: fazeli-armiya-2006
+name_latin: "Armiya Fazeli"
+name_farsi: "ارمیا فضلی"
+date_of_birth: null  # est. birth year: 2006
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 20
+place_of_death: "Arak"
+province: "Markazi"
+cause_of_death: null
+circumstances: >
+    22-year-old only child from Arak. Parents had waited 18 years to have a
+  child. Authorities demanded either 1.5 billion rials or would falsely register
+  him as a Basij member on his death certificate. Father paid the money to
+  retrieve his son's body.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #249"
+    date: null
+    type: community_database
+  - url: "https://x.com/FSeifikaran/status/2012500949844042080"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/fseifikaran/status/2012500949844042080"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/iranwire/status/2012853100428587134"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

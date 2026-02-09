@@ -1,0 +1,39 @@
+id: hoseinabadi-sara-naderi-1997
+name_latin: "Sara Naderi Hoseinabadi"
+name_farsi: "سارا نادری حسین‌آبادی"
+date_of_birth: null  # est. birth year: 1997
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: 29
+place_of_death: "Isfahan"
+province: "Isfahan"
+cause_of_death: null
+circumstances: >
+    Killed by Islamic Republic suppressors. Graphic design graduate who worked
+  as a freelancer, described as kind, calm and beloved among friends. Had
+  participated in most protest gatherings in Isfahan from early Dey month. Last
+  seen participating in demonstrations on 18 Dey. Body was buried at 6 AM in
+  Bagh-e Rezvan cemetery in Isfahan without public announcement and under strict
+  security measures with security agents present. Mother was reportedly
+  threatened by security forces and prohibited from making this case public.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2224"
+    date: null
+    type: community_database
+  - url: "https://x.com/allahbakhshii/status/2017328212997484944"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

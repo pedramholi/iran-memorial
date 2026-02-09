@@ -1,0 +1,54 @@
+id: gorgij-dastgir-1996
+name_latin: "Dastgir Gorgij"
+name_farsi: "دستگیر گُرگیج"
+date_of_birth: null  # est. birth year: 1996
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: 30
+place_of_death: "Mashhad"
+province: "Razavi Khorasan"
+cause_of_death: "Gunshot (headshot)"
+circumstances: >
+    Baloch citizen without identity documents, originally from Zahedan, shot by
+  military and security forces on the evening of Friday, January 9, 2026 (19 Dey
+  1404) at the Imamat-Estaghlal intersection in Mashhad during the suppression
+  of nationwide protests. He was struck by a bullet to the head (left side)
+  while sitting in the passenger seat of a Peugeot 405, returning home from a
+  gas station with a relative. He was not participating in protests but was
+  caught during street suppression operations. Died two days later in Razavi
+  Hospital due to severe injuries. Married with two young children (2 years old
+  and 2 months old), from Hemmatabad neighborhood in Shirabad district of
+  Zahedan. Security agencies demanded 500 million tomans from his family for the
+  body's release. After 11 days of family appeals, he was buried in Behesht Reza
+  cemetery in Mashhad under strict security measures with only 10 close
+  relatives present. Transfer of body to Zahedan for burial in his hometown was
+  denied.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1177"
+    date: null
+    type: community_database
+  - url: "https://x.com/an_eastern_girl/status/2015241389047759042"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/TheBalochWorld/status/2014624424461500874"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/hamalilalin/status/2015361907033612467"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

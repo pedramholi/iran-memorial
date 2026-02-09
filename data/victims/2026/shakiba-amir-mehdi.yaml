@@ -1,0 +1,38 @@
+id: shakiba-amir-mehdi
+name_latin: "Amir Mehdi Shakiba"
+name_farsi: "امیرمهدی شکیبا"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: 16
+place_of_death: null
+cause_of_death: null
+circumstances: >
+    Described as one of Iran's children whose name is registered among the
+  martyrs on the path to freedom, victim of crime against humanity by the
+  Islamic Republic terrorist regime
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #4738"
+    date: null
+    type: community_database
+  - url: "https://x.com/ramin_reza0/status/2019511998678171697"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/irannewsagency0/status/2019353898394571042"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

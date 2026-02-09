@@ -1,0 +1,48 @@
+id: hemmati-hamidreza-2005
+name_latin: "Hamidreza Hemmati"
+name_farsi: "حمیدرضا همتی"
+date_of_birth: null  # est. birth year: 2005
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 21
+place_of_death: "Isfahan"
+province: "Isfahan"
+cause_of_death: null
+circumstances: >
+    Student from Likak city in Kohgiluyeh and Boyer-Ahmad province, studying
+  foreign languages at Isfahan University in his final semester. Son of Saeed,
+  an English and German language teacher. Abducted during protests on 18 Dey
+  1404 (January 8, 2026) in Isfahan and killed in detention. After several days
+  without any official information about his whereabouts, his lifeless body was
+  delivered to his family. Authorities claimed cause of death was 'heart attack'
+  but severe trauma was visible on his body. Buried on 25 Dey (January 15, 2026)
+  in Likak city under security measures.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #823"
+    date: null
+    type: community_database
+  - url: "https://x.com/hirman__/status/2014631564253020419"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/dariush_zand/status/2014655939316441268"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/autnews_org/status/2016037218645594297"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

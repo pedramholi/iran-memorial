@@ -1,0 +1,46 @@
+id: ghanbari-sajjad-1998
+name_latin: "Sajjad Ghanbari"
+name_farsi: "سجاد قنبری"
+date_of_birth: null  # est. birth year: 1998
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 28
+place_of_death: "Gorgan"
+province: "Golestan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot by a sniper from government forces of the Islamic Republic while in the
+  area of Falakeh Kakh in Gorgan. The shooting was carried out from the top of
+  Sarmayeh Tower. Security institutions pressured the family to declare he was a
+  Basiji member and conditioned the return of his body on accepting this
+  narrative. Family and relatives emphasize that he was a protester and rights
+  activist with no affiliation to government institutions.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1523"
+    date: null
+    type: community_database
+  - url: "https://x.com/hyrcanihrm/status/2015823014424621474"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/HyrcaniHRM/status/2015823014424621474"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/1989"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

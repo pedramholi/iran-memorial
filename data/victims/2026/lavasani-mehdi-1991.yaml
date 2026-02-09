@@ -1,0 +1,46 @@
+id: lavasani-mehdi-1991
+name_latin: "Mehdi Lavasani"
+name_farsi: "مهدی لواسانی"
+date_of_birth: null  # est. birth year: 1991
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 35
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Gunshot"
+circumstances: >
+    Youth football coach and founder of the 'Mahan Novin' football school, known
+  to those close to him as Milad. Shot directly with live ammunition by Islamic
+  Republic forces during protest in Narmak (Dardasht neighborhood) on Thursday
+  evening. Wounded after heavy gunfire by security forces, died on the way to
+  hospital. Family was forced to transfer his body to Kahrizak where agents
+  demanded 400 million tomans in exchange for releasing his body.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #38"
+    date: null
+    type: community_database
+  - url: "https://x.com/longlosthills/status/2011199888374317129"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/IranProtestsCom/status/2011844484535857442"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/Daikatuo/status/2011474379490652481"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

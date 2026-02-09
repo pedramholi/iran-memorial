@@ -1,0 +1,42 @@
+id: kermaninezhad-lena-2003
+name_latin: "Lena Kermaninezhad"
+name_farsi: "لونا کرمانی نژاد"
+date_of_birth: null  # est. birth year: 2003
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 23
+place_of_death: "Mashhad"
+province: "Razavi Khorasan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot by military weapons in Qasemabad, Mashhad. Body was buried in block 67
+  of Behesht-e Reza cemetery.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #777"
+    date: null
+    type: community_database
+  - url: "https://t.me/poshtpardeha/248437"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://www.instagram.com/p/DUAvnSzAlJJ"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/babakbardiya/status/2016475900963926129"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

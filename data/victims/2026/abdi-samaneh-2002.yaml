@@ -1,0 +1,48 @@
+id: abdi-samaneh-2002
+name_latin: "Samaneh Abdi"
+name_farsi: "سمانه عبدی"
+date_of_birth: null  # est. birth year: 2002
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 24
+place_of_death: "Karaj"
+province: "Alborz"
+cause_of_death: "Gunshot"
+circumstances: >
+    Trans man who was shot directly in the heart with a bullet. He was 24 years
+  old, worked in accounting with a diploma degree, and was employed at a large
+  manufacturing company in Baghestan area of Karaj. He also worked as a Snap
+  driver after his main job to cover his expenses. Member of the queer community
+  who, despite being assigned female at birth, did not consider himself a girl.
+  The neighborhood where he lived did not have the capacity to accept his
+  identity, but his family ultimately accepted his gender identity, as evidenced
+  by the non-feminine photo they placed on his grave.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1210"
+    date: null
+    type: community_database
+  - url: "https://x.com/HengawO/status/2015531599614337313"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+  - url: "https://x.com/spidygiirl/status/2016515778556662098"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/hekasrehcrisis/status/2017329618416755020"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

@@ -1,0 +1,43 @@
+id: zarei-mahdi
+name_latin: "Mahdi Zarei"
+name_farsi: "مهدی زارعی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: 22
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot by IRGC forces. Born September 17, 2003 (Persian calendar: 26 Shahrivar
+  1382), from Hassan Abad village in Hamadan. Had a degree in foundry
+  engineering and worked in PDR. Killed in Haft Houz Narmak area of Tehran.
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1171"
+    date: null
+    type: community_database
+  - url: "https://x.com/shahramsadidi/status/2015425695787241852"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/justchangingun/status/2015763824205344945"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/foxyparfox/status/2015744442469072955"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

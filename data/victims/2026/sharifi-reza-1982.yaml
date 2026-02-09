@@ -1,0 +1,53 @@
+id: sharifi-reza-1982
+name_latin: "Reza Sharifi"
+name_farsi: "رضا شریفی"
+date_of_birth: null  # est. birth year: 1982
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: 44
+place_of_death: "Arak"
+province: "Markazi"
+cause_of_death: "Gunshot"
+circumstances: >
+    Father of two children (16-year-old son and 8-year-old daughter), owned a
+  shop in Arak. Shot directly with a war bullet by Islamic Republic forces in
+  front of Vali-e Asr Hospital in Arak around 8:15 PM on Friday. The bullet hit
+  his abdomen area and caused his death. Evidence of the bullet impact was
+  clearly visible on his jacket - holes and burns from the war bullet remained
+  on his clothes, indicating direct shooting from close range or with high
+  power. After his killing, his family was pressured and threatened to confirm
+  the government's official narrative about his death, with threats that his
+  children would be deprived of continuing their education if they opposed or
+  told the real story. Despite being from Arak, his body was not allowed to be
+  buried in the city's cemetery. His burial ceremony was held three days later
+  on Tuesday in Qaniaro village near Arak under special conditions and
+  restrictions.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #944"
+    date: null
+    type: community_database
+  - url: "https://x.com/saeidvafa/status/2014745093215842320"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/tavaana/status/2015030288913772624"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/SaeidVafa/status/2015438977545674843"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

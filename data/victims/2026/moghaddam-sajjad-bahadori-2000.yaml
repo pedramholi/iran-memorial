@@ -1,0 +1,47 @@
+id: moghaddam-sajjad-bahadori-2000
+name_latin: "Sajjad Bahadori Moghaddam"
+name_farsi: "سجاد بهادری‌مقدم"
+date_of_birth: null  # est. birth year: 2000
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 26
+place_of_death: "Mashhad"
+province: "Razavi Khorasan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot with war bullet near Tus neighborhood police station, Meraj Square in
+  Mashhad. Body was delivered to Razavi Hospital in Mashhad at 10:30 PM. Family
+  searched hospitals during the night, his phone briefly turned on near dawn and
+  someone answered saying to come to Razavi Hospital Mashhad, then phone went
+  dead. Body was identified through photos shown to family. Buried in Behesht
+  Reza cemetery. Family was threatened by Astan Quds Razavi Khorasan to declare
+  him a martyr. Employee, studying for associate degree.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1120"
+    date: null
+    type: community_database
+  - url: "https://x.com/hekasrehcrisis/status/2015192538718802390"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/HeKasrehCrisis/status/2015192538718802390"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/pariya_ahmadi96/status/2015503092855242913"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

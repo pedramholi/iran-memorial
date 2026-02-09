@@ -1,0 +1,48 @@
+id: shamaeizadeh-zohreh-1994
+name_latin: "Zohreh Shamaeizadeh"
+name_farsi: "زهره شماعی‌زاده"
+date_of_birth: null  # est. birth year: 1994
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-10
+age_at_death: 32
+place_of_death: "Isfahan"
+province: "Isfahan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Voice actor and film and theater artist from Isfahan, assistant director,
+  member of the Glory Dubbing Group and the Tehran Dubbing Association,
+  presenter and assistant director. Shot in the throat by the repressive forces
+  of the Islamic Republic regime during protests in the city. Security
+  institutions attempted to distort the cause of her death by claiming it was
+  due to cardiac arrest, contradicting eyewitness accounts. Her last project was
+  a film titled 'A Bridge Over a Dry River' where she worked as script
+  supervisor, selected for the Tajikistan International Film Festival.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #878"
+    date: null
+    type: community_database
+  - url: "https://x.com/HengawO/status/2014779223366410280"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+  - url: "https://x.com/iranwire/status/2014807405427614149"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/longlosthills/status/2014791564284068120"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

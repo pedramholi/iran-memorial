@@ -1,0 +1,47 @@
+id: alikhani-mohammad-reza-2007
+name_latin: "Mohammad Reza Alikhani"
+name_farsi: "محمدرضا علیخانی"
+date_of_birth: null  # est. birth year: 2007
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 19
+place_of_death: "Shahrekord"
+province: "Chaharmahal and Bakhtiari"
+cause_of_death: "Gunshot (headshot)"
+circumstances: >
+    Third-term student at Shahrekord Technical College, shot directly in the
+  head and neck area during protests at Falake Abi (Blue Circle) in Shahrekord.
+  Family was pressured by security agencies after his death. Body was only
+  released to family after written commitment from father to have maximum 10
+  people at burial ceremony. Funeral held at night at 11 PM. Death certificate
+  listed cause of death as 'impact of hard object to head and neck' - a
+  euphemism used instead of direct reference to gunshot.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1100"
+    date: null
+    type: community_database
+  - url: "https://x.com/anjmotahed/status/2015014380954337691"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://javidnaman.iranintl.com/memorial/255P39jiXgM2t3lNmMika4"
+    name: "Iran International"
+    date: null
+    type: primary
+  - url: "https://x.com/allahbakhshii/status/2014468115862847928"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

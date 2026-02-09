@@ -1,0 +1,44 @@
+id: akbari-hossein-2003
+name_latin: "Hossein Akbari"
+name_farsi: "حسین اکبری"
+date_of_birth: null  # est. birth year: 2003
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 23
+place_of_death: "Qarchak"
+province: "Tehran"
+cause_of_death: "Gunshot (headshot)"
+circumstances: >
+    23-year-old Kurdish man from Sanqar (Kermanshah province), resident of
+  Qarchak Tehran. Shot and killed by direct fire from government forces with war
+  bullets during popular protests. Killed near Baqerabad police station in
+  Qarchak by direct gunfire from forces stationed at this police headquarters.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1214"
+    date: null
+    type: community_database
+  - url: "https://x.com/HengawO/status/2015482800837898623"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+  - url: "https://x.com/HengawO/status/2015463140545163752"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+  - url: "https://x.com/HengawO/status/2015449156567900465"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

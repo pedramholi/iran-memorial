@@ -1,0 +1,41 @@
+id: nourmohammadzadeh-yashar
+name_latin: "Yashar Nourmohammadzadeh"
+name_farsi: "یاشار نورمحمدزاده"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: null
+place_of_death: "Parand, Tehran"
+province: "Tehran"
+cause_of_death: "Gunshot"
+circumstances: >
+    Turkish protester from Tabriz living in Parand, Tehran. Shot by Islamic
+  Republic forces on Friday evening on Attar 7 street in Parand. Cousin of
+  Sahand Nourmohammadzadeh, a young protester who was sentenced to death on
+  charges of 'moharebeh' during the Woman Life Freedom protests but the sentence
+  was later overturned.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #3618"
+    date: null
+    type: community_database
+  - url: "https://x.com/iranwire/status/2018205386122154049"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/2051"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

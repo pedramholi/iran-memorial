@@ -1,0 +1,33 @@
+id: lor-mostafa-fallahi
+name_latin: "Mostafa Fallahi Lor"
+name_farsi: "مصطفی فلاحی لر"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-01
+age_at_death: null
+place_of_death: "Azna"
+province: "Lorestan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot by security forces in Azna
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1357"
+    date: null
+    type: community_database
+  - url: "https://x.com/hirman__/status/2014459296721825897"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

@@ -1,0 +1,38 @@
+id: paamami-esmaeil-abasi-1990
+name_latin: "Esmaeil Abasi Paamami"
+name_farsi: "اسماعیل عباسی"
+date_of_birth: null  # est. birth year: 1990
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-07
+age_at_death: 36
+place_of_death: "Kermanshah"
+province: "Kermanshah"
+cause_of_death: null
+circumstances: >
+    Commemorated with the phrase 'eternal name' (جاویدنام) which suggests death,
+  likely during protests based on the memorial context
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #3570"
+    date: null
+    type: community_database
+  - url: "https://x.com/kyokushinsoofi/status/2018314744235458669"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/1414"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

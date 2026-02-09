@@ -1,0 +1,37 @@
+id: babaii-aboalghasm-1981
+name_latin: "Aboalghasm Babaii"
+name_farsi: "ابوالقاسم بابایی"
+date_of_birth: null  # est. birth year: 1981
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: 45
+place_of_death: "Shahriar"
+province: "Tehran"
+cause_of_death: null
+circumstances: >
+    Victim documented in Iran International Memorial
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #3441"
+    date: null
+    type: community_database
+  - url: "https://javidnaman.iranintl.com/memorial/CoXljdUpHLN0XegRK3VUjb"
+    name: "Iran International"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/902"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

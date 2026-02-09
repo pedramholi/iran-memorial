@@ -1,0 +1,44 @@
+id: ajam-fahimeh-najjar-2000
+name_latin: "Fahimeh Najjar Ajam"
+name_farsi: "فهیمه عجم"
+date_of_birth: null  # est. birth year: 2000
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 26
+place_of_death: "Azadshahr, Golestan"
+province: "Golestan"
+cause_of_death: "Gunshot (headshot)"
+circumstances: >
+    Shot during clashes at IRGC headquarters in Shah-pasand on Thursday 18 Dey.
+  Protesters had burned police vehicles, Basij base, courthouse, governorate,
+  municipality and banks before reaching the main IRGC base where 'real war'
+  began.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1828"
+    date: null
+    type: community_database
+  - url: "https://x.com/hekasrehcrisis/status/2016399069048893475"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/i/status/2017099158914585002"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/HeKasrehCrisis/status/2017099158914585002"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

@@ -1,0 +1,44 @@
+id: zeynali-abbas-2002
+name_latin: "Abbas Zeynali"
+name_farsi: "عباس زینلی"
+date_of_birth: null  # est. birth year: 2002
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 24
+place_of_death: "Esfarayen"
+province: "North Khorasan"
+cause_of_death: null
+circumstances: >
+    Young man from Esfarayen killed by suppressive forces. He was a tattoo
+  artist who loved Iran and ancient Iranian symbols. He called himself 'Soldier
+  of Cyrus' and had posted about Iranian history and Cyrus the Great on his
+  Instagram. He expressed his beliefs and inner identity through body art.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1108"
+    date: null
+    type: community_database
+  - url: "https://x.com/kurdpa_farsi/status/2015154673267708001"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/tavaana/status/2014298864543834562"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/yaldarta/status/2014946096523481285"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

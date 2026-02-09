@@ -1,0 +1,47 @@
+id: farahani-saeed-khoorche-1994
+name_latin: "Saeed Khoorche Farahani"
+name_farsi: "سعید خورچه فراهانی"
+date_of_birth: null  # est. birth year: 1994
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 32
+place_of_death: "Tehran (Afsariyeh area)"
+province: "Tehran"
+cause_of_death: "Gunshot (headshot)"
+circumstances: >
+    Shot in the head with live ammunition by government forces during popular
+  protests. Killed by a sniper positioned on top of a building near the
+  gathering location. He had made a will requesting that if killed by Islamic
+  Republic forces, his death announcement should state he was a 'martyr for the
+  homeland', but security forces prevented his family from honoring this request
+  and called him a 'rioter' instead. Originally from Ashtian in Markazi
+  Province.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #3829"
+    date: null
+    type: community_database
+  - url: "https://x.com/HengawO/status/2016083913576235034"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+  - url: "https://x.com/allahbakhshii/status/2016196731273368039"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/1484"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

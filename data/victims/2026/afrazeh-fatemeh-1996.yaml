@@ -1,0 +1,44 @@
+id: afrazeh-fatemeh-1996
+name_latin: "Fatemeh (Roya) Afrazeh"
+name_farsi: "فاطمه (رویا) افرازه"
+date_of_birth: null  # est. birth year: 1996
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 30
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot in the side (pelvic area) in Ariashahr district of Tehran. Gilaki
+  citizen from Lahijan residing in Tehran. Mother of two children. Family was
+  unaware of her fate until January 19, 2026 when they received a call from
+  Kahrizak for body identification and delivery.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2114"
+    date: null
+    type: community_database
+  - url: "https://x.com/pkhwshhal/status/2016139138441912562"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/KyokushinSoofi/status/2016968834247192606"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/HyrcaniHRM/status/2018961208175448536"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

@@ -1,0 +1,46 @@
+id: mahmoudpour-zahra-2001
+name_latin: "Zahra Mahmoudpour"
+name_farsi: "زهرا محمودپور"
+date_of_birth: null  # est. birth year: 2001
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 25
+place_of_death: "Najafabad, Isfahan"
+province: "Isfahan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Master's student in Electrical Engineering at Amirkabir University of
+  Technology, shot directly by suppressive forces of the Islamic Republic during
+  events related to Crown Prince Reza Pahlavi's first day call in Najafabad,
+  Isfahan. She had graduated with a Bachelor's degree in Electrical Engineering
+  from Isfahan University of Technology and achieved rank 146 in the 1403
+  Master's entrance exam.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #591"
+    date: null
+    type: community_database
+  - url: "https://x.com/HengawO/status/2013992084802257150"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+  - url: "https://x.com/longlosthills/status/2014047755841229064"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/kyokushinsoofi/status/2016230726903984546"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

@@ -1,0 +1,33 @@
+id: yadgari-abolfazl
+name_latin: "Abolfazl Yadgari"
+name_farsi: "ابوالفضل یادگاری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: null
+place_of_death: "Chalus"
+province: "Mazandaran"
+cause_of_death: null
+circumstances: >
+    Killed by suppressive forces in Chalus
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1764"
+    date: null
+    type: community_database
+  - url: "https://t.me/persian_picture/4126"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

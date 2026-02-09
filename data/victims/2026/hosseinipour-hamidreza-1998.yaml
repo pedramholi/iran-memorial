@@ -1,0 +1,41 @@
+id: hosseinipour-hamidreza-1998
+name_latin: "Hamidreza Hosseinipour"
+name_farsi: "حمیدرضا حسینی‌پور"
+date_of_birth: null  # est. birth year: 1998
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-20
+age_at_death: 28
+place_of_death: "Shiraz"
+province: "Fars"
+cause_of_death: null
+circumstances: >
+    Victim documented in Iran International Memorial
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2919"
+    date: null
+    type: community_database
+  - url: "https://javidnaman.iranintl.com/memorial/6fdnU2KKCNcBWVCaT7anRj"
+    name: "Iran International"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/1724"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://javidnaman.iranintl.com/memorial/vN7MNz32cVvzOpuuCotHWt"
+    name: "Iran International"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

@@ -1,0 +1,45 @@
+id: goodarzi-mojtaba-1994
+name_latin: "Mojtaba Goodarzi"
+name_farsi: "مجتبی گودرزی"
+date_of_birth: null  # est. birth year: 1994
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 32
+place_of_death: "Haft-e Howz, Tehran"
+province: "Tehran"
+cause_of_death: "Gunshot (headshot)"
+circumstances: >
+    Shot in the stomach with a bullet in Haft Howz area of Tehran. He owned a
+  beautiful cafe. Killed through deliberate targeting of unarmed protesters via
+  direct shooting with military weapons, specifically targeting the head and
+  other vital parts of the body, showing clear intent to kill as part of a
+  widespread and organized attack against civilian population.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #740"
+    date: null
+    type: community_database
+  - url: "https://x.com/hamed_bayat1/status/2014413364722860384"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/Hamed_Bayat1/status/2014413364722860384"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/dadban4/status/2015271572362117479"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

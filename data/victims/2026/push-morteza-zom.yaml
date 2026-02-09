@@ -1,0 +1,35 @@
+id: push-morteza-zom
+name_latin: "Morteza Zom Push"
+name_farsi: "مرتضی ذوم پوش"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: null
+place_of_death: "Hamedan"
+province: "Hamedan"
+cause_of_death: null
+circumstances: >
+    Killed by Islamic Republic forces along with his wife. Their bodies were not
+  handed over for several days, then authorities printed statements for them and
+  called them martyrs
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #4057"
+    date: null
+    type: community_database
+  - url: "https://t.me/javidnamhamedan/14"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

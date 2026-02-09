@@ -1,0 +1,41 @@
+id: heydari-karim
+name_latin: "Karim Heydari"
+name_farsi: "کریم حیدری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: null
+place_of_death: "Bandar Ganaveh"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot directly by Khamenei's forces during people's protests in front of the
+  governorate building in Bandar Ganaveh, Bushehr
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #415"
+    date: null
+    type: community_database
+  - url: "https://x.com/mamlekate/status/2013335582676517142"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/s_iran01/status/2013387023919223264"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/iliaaaa66/status/2015197791484563621"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

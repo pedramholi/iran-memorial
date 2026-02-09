@@ -1,0 +1,46 @@
+id: barari-arshiya-2001
+name_latin: "Arshiya Barari"
+name_farsi: "عرشیا براری"
+date_of_birth: null  # est. birth year: 2001
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 25
+place_of_death: "Zanjan"
+province: "Zanjan"
+cause_of_death: "Gunshot"
+circumstances: >
+    English language education student, national fitness champion, international
+  Kyokushin champion, and official trainer for the World Dog Federation. Shot
+  with a military bullet by Islamic Republic suppressive forces in the kidney
+  area during suppression of popular protests in Zanjan. The severity of
+  injuries from the military bullet led to the death of this young athlete and
+  student.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #803"
+    date: null
+    type: community_database
+  - url: "https://x.com/Iran_Sweeden/status/2014112153846808881"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://www.instagram.com/p/DT3h7aIiVkj"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/babaktaghvaee1/status/2014878765223182580"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

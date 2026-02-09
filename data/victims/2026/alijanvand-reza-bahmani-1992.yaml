@@ -1,0 +1,44 @@
+id: alijanvand-reza-bahmani-1992
+name_latin: "Reza Bahmani Alijanvand"
+name_farsi: "رضا بهمنی علیجانوند"
+date_of_birth: null  # est. birth year: 1992
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 34
+place_of_death: "Shahin Shahr, Isfahan Province"
+province: "Isfahan"
+cause_of_death: "Gunshot"
+circumstances: >
+    34-year-old protester who disappeared after participating in protests on 18
+  Dey in Shahin Shahr, Isfahan Province. His body was found days later in a
+  morgue at one of the cemeteries with bullet wounds. This silent murder is part
+  of the organized killing of protesters in Iran's national uprising.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #3518"
+    date: null
+    type: community_database
+  - url: "https://x.com/HeKasrehCrisis/status/2017833391563907279"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/IranNewsAgency0/status/2018612875162517598"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/2227"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

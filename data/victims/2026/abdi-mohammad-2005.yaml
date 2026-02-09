@@ -1,0 +1,48 @@
+id: abdi-mohammad-2005
+name_latin: "Mohammad Abdi (Riggi)"
+name_farsi: "محمد عبدی (ریگی)"
+date_of_birth: null  # est. birth year: 2005
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: 21
+place_of_death: "Mashhad"
+province: "Razavi Khorasan"
+cause_of_death: "Gunshot (headshot)"
+circumstances: >
+    Baluch student shot and killed by suppressive forces during protests in
+  Mashhad. Son of Mohammad Karim, from the Rigi tribe, originally from Zahedan
+  but residing in Mashhad. Economics student at Azad University of Mashhad. Shot
+  in the head with a war bullet in the Haft-e Tir area of Mashhad while going to
+  join protest gatherings with a close friend. Died on the spot. Family was
+  under severe security pressure and forced into silence. Body was buried in
+  silence without the presence of relatives after being handed over from
+  Behesht-e Razvan morgue.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #3326"
+    date: null
+    type: community_database
+  - url: "https://x.com/benyaminnnnnnnn/status/2016478259504947244"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/mooz_maar/status/2016297518863147497"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/benyaminnnnnnnn/status/2016548298409070841"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

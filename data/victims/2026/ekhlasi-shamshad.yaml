@@ -1,0 +1,42 @@
+id: ekhlasi-shamshad
+name_latin: "Shamshad Ekhlasi"
+name_farsi: "شمشاد اخلاصی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: null
+place_of_death: "Shiraz"
+province: "Fars"
+cause_of_death: null
+circumstances: >
+    Killed in Shiraz, member of Qashqai tribe. Authorities pressured family to
+  hold burial in private without anyone present.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #619"
+    date: null
+    type: community_database
+  - url: "https://x.com/imanoracle/status/2014031708358639811"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://javidnaman.iranintl.com/memorial/255P39jiXgM2t3lNmMhXw5"
+    name: "Iran International"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/534"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

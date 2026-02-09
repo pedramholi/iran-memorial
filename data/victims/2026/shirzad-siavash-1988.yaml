@@ -1,0 +1,47 @@
+id: shirzad-siavash-1988
+name_latin: "Siavash Shirzad"
+name_farsi: "سیاوش شیرزاد"
+date_of_birth: null  # est. birth year: 1988
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 38
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot with live ammunition while dancing Kurdish dances around a fire in
+  Punak Square after a placard of Qassem Soleimani was burned. Initially wounded
+  and taken to Al-Ghadir Hospital which had no capacity, then transferred to
+  Rasoul Akram Hospital where he died at 2 a.m. on Friday due to lack of medical
+  attention and severe blood loss. From the city of Bukan. Was one of 22 young
+  people shot down at the scene. Body was assigned number 12647 at Kahrizak
+  Forensic Medicine Center among five thousand bodies.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #90"
+    date: null
+    type: community_database
+  - url: "https://x.com/Daikatuo/status/2011474379490652481"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://www.theguardian.com/global-development/2026/jan/15/iran-protesters-uprising-killed-world-diaspora-families-tehran-internet-blackout"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/hengawo/status/2011895912491347983"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

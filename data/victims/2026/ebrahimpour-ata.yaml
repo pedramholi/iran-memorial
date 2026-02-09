@@ -1,0 +1,39 @@
+id: ebrahimpour-ata
+name_latin: "Ata Ebrahimpour"
+name_farsi: "عطا ابراهیم‌پور"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: null
+place_of_death: "Narmak, Tehran"
+province: "Tehran"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot with four war bullets during protests - one to the heart, one to the
+  shoulder, one to the shin, one to the wrist. Married father of two daughters
+  aged 1 and 7 years old.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1091"
+    date: null
+    type: community_database
+  - url: "https://x.com/iranwire/status/2015133501993943366"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/i/status/2017702658492989464"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

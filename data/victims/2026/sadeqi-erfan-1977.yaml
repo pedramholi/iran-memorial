@@ -1,0 +1,35 @@
+id: sadeqi-erfan-1977
+name_latin: "Erfan Sadeqi"
+name_farsi: "عرفان صدیقی"
+date_of_birth: null  # est. birth year: 1977
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 49
+place_of_death: "Lahijan"
+province: "Gilan"
+cause_of_death: "Gunshot (headshot)"
+circumstances: >
+    Building electrician who loved movies and cars. Shot in the head during
+  protests. His funeral was held under his legal name Ali at Agha Seyyed
+  Mohammad Lahijan.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2235"
+    date: null
+    type: community_database
+  - url: "https://x.com/pkhwshhal/status/2017353371389136954"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

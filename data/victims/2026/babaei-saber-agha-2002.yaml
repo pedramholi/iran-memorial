@@ -1,0 +1,45 @@
+id: babaei-saber-agha-2002
+name_latin: "Saber Agha Babaei"
+name_farsi: "صابر آقابابایی"
+date_of_birth: null  # est. birth year: 2002
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 24
+place_of_death: "Shahsavar"
+province: "Mazandaran"
+cause_of_death: "Gunshot (headshot)"
+circumstances: >
+    Mechanic who was 24 years old, described as a happy and cheerful young man.
+  He had just bought equipment and wanted to rent a shop to work independently.
+  Shot with one bullet to his side and one bullet to his head in Chalous. His
+  body was returned with threats and commitments. During his funeral procession,
+  people chanted 'Death to Khamenei'.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2423"
+    date: null
+    type: community_database
+  - url: "https://x.com/hekasrehcrisis/status/2017456245842551231"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/HeKasrehCrisis/status/2017456245842551231"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/HeKasrehCrisis/status/2017477008771403934"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

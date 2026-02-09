@@ -1,0 +1,36 @@
+id: azin-1986
+name_latin: "Azin"
+name_farsi: "آذین"
+date_of_birth: null  # est. birth year: 1986
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: 40
+place_of_death: "Shahriyar"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot at close range at 9 PM on the night of 19 Dey in Phase One Andisheh
+  area, likely with pellets as companions were all hit with pellets. Blood
+  flowed from nose and mouth moments after being shot. Died at 10 PM in Noor
+  Hospital in Shahriyar. Body was found on Sunday in Kahrizak and buried on
+  Tuesday.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #3776"
+    date: null
+    type: community_database
+  - url: "https://x.com/JashniMitra/status/2018324595112096114"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

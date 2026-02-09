@@ -1,0 +1,45 @@
+id: mohseni-babak-sadeghi-1995
+name_latin: "Babak Sadeghi Mohseni"
+name_farsi: "بابک صادقی محسنی"
+date_of_birth: null  # est. birth year: 1995
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 31
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Gunshot"
+circumstances: >
+    Born 1373, resident of Hamadan. Shot with war weapon by Islamic Republic
+  forces in Tehran on the evening of 19 Dey. His body was buried on Wednesday
+  morning 24 Dey under pressure with very limited presence of family and
+  relatives. He was a nature lover who enjoyed mountaineering and hiking in
+  nature; a peaceful person who had no armed role in the protests.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #4056"
+    date: null
+    type: community_database
+  - url: "https://t.me/javidnamhamedan/7"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/dadban4/status/2012892179383959752"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/253"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

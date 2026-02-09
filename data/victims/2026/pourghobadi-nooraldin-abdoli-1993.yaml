@@ -1,0 +1,33 @@
+id: pourghobadi-nooraldin-abdoli-1993
+name_latin: "Nooraldin Abdoli Pourghobadi"
+name_farsi: "نورالدین عبدلی پورقبادی"
+date_of_birth: null  # est. birth year: 1993
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 33
+place_of_death: "Sarâsiâb Malard"
+province: "Tehran"
+cause_of_death: null
+circumstances: >
+    Died on 18 Dey 1404 in Sarâsiâb Malard. Born in 1992.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #3590"
+    date: null
+    type: community_database
+  - url: "https://t.me/RememberTheirNames/2100"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

@@ -1,0 +1,38 @@
+id: khoubi-mohammad-javad-2004
+name_latin: "Mohammad Javad Khoubi"
+name_farsi: "محمد جواد خوبی"
+date_of_birth: null  # est. birth year: 2004
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-10
+age_at_death: 22
+place_of_death: "Rasht"
+province: "Gilan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot by Islamic Republic of Iran government forces during nationwide
+  protests in Rasht. Gilak citizen from Rasht.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2735"
+    date: null
+    type: community_database
+  - url: "https://x.com/HyrcaniHRM/status/2017896402911670330"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/kyokushinsoofi/status/2018370954481569855"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

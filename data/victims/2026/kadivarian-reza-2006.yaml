@@ -1,0 +1,47 @@
+id: kadivarian-reza-2006
+name_latin: "Reza Kadivarian"
+name_farsi: "رضا کدیوریان"
+date_of_birth: null  # est. birth year: 2006
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-03
+age_at_death: 20
+place_of_death: "Kermanshah"
+province: "Kermanshah"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot on the evening of January 3, 2026 on Artesh Street in Jafarabad,
+  Kermanshah and sustained severe injuries that caused him to fall into a coma.
+  Was admitted to the intensive care unit at Taleghani Hospital where he
+  remained until he died on January 4, 2026. Following his death, the family was
+  reportedly pressured by authorities and told to pay 800 million tomans to
+  receive the brothers' bodies. As of January 5, 2026, the bodies had not been
+  returned.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #195"
+    date: null
+    type: community_database
+  - url: "https://www.hrw.org/news/2026/01/08/iran-authorities-renewed-cycle-of-protest-bloodshed"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/KurdistanHRN/status/2008214640791064873"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/KurdistanHRN/status/2015538579116642517"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

@@ -1,0 +1,43 @@
+id: golgoun-sourena-2008
+name_latin: "Sourena Golgoun"
+name_farsi: null
+date_of_birth: null  # est. birth year: 2008
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: 18
+place_of_death: "Ramsar (Shahrsavar)"
+province: "Gilan"
+cause_of_death: null
+circumstances: >
+    18-year-old student killed by special units of the Islamic Republic
+  suppressive forces during protests. Sourena was a piano player and had a deep
+  love for karting.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #39"
+    date: null
+    type: community_database
+  - url: "https://x.com/longlosthills/status/2011174614458675541"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/soranmansournia/status/2012303318173769975"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/Soranmansournia/status/2012303318173769975"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

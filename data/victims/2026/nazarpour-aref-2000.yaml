@@ -1,0 +1,46 @@
+id: nazarpour-aref-2000
+name_latin: "Aref Nazarpour"
+name_farsi: "عارف‌نظرپور"
+date_of_birth: null  # est. birth year: 2000
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 26
+place_of_death: "Qeshm"
+province: "Hormozgan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot by a cleric from the Taheri family while trying to help his wounded
+  friend. The cleric shot him from on top of a mosque. Aref was from a Bakhtiari
+  family from Khuzestan, had come to Dargahan in Qeshm to work as an apprentice,
+  and had recently opened a cafe. He was from the Qandali (Gandali) tribe near
+  Masjed Soleyman. The shooter was a Bakhtiari Lor from Koohrang in Chaharmahal
+  and is now the Friday prayer leader of Dargahan.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #797"
+    date: null
+    type: community_database
+  - url: "https://x.com/outofken/status/2014486746512425233"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://www.instagram.com/p/DT3zoIPiIzo"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/salarvandn21943/status/2016298428058226890"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

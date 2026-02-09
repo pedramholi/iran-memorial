@@ -1,0 +1,47 @@
+id: madanchiyan-parsa-2009
+name_latin: "Parsa Madanchiyan"
+name_farsi: "پارسا معدنچیان"
+date_of_birth: null  # est. birth year: 2009
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 17
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Gunshot (headshot)"
+circumstances: >
+    Shot directly in the head with live ammunition by government suppression
+  forces on Kashani Street during popular protests. The 17-year-old had told his
+  mother he wore two jackets so that if he was hit by bullets he would only be
+  wounded, but government forces shot him in the head from behind. His father is
+  a veteran of the Iran-Iraq war who had to use his veteran card because
+  authorities refused to return his son's body. The family remains under
+  security surveillance.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #315"
+    date: null
+    type: community_database
+  - url: "https://x.com/tavaana/status/2012960010926440608"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/hengawo/status/2015693244437266940"
+    name: "Hengaw Organization"
+    date: null
+    type: primary
+  - url: "https://x.com/sssccpp/status/2015846259525861812"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

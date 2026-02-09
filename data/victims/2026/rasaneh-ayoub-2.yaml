@@ -1,0 +1,35 @@
+id: rasaneh-ayoub-2
+name_latin: "Ayoub Rasaneh"
+name_farsi: "ایوب رسانه"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: 36
+place_of_death: "Hassan-Abad, Rask"
+province: "Sistan-Baluchestan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Baloch citizen shot by Basij forces during protest gathering in Hassan-Abad.
+  Fourth Baloch citizen killed in 1404 protests identified by Hal-o-sh
+  organization. Originally from Rask.
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2675"
+    date: null
+    type: community_database
+  - url: "https://x.com/shiraninaroui/status/2014391779601035670"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

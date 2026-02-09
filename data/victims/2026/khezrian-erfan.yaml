@@ -1,0 +1,43 @@
+id: khezrian-erfan
+name_latin: "Erfan Khezrian"
+name_farsi: "عرفان خضریان"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: null
+place_of_death: "Hamedan"
+province: "Hamedan"
+cause_of_death: null
+circumstances: >
+    Killed by Ali Khamenei's forces from Khezr neighborhood of Hamedan (or Golpa
+  neighborhood on Madani Boulevard according to some). Family was pressured to
+  say he had a heart attack.
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #4069"
+    date: null
+    type: community_database
+  - url: "https://t.me/javidnamhamedan/90"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/javidnamhamedan/138"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/javidnamhamedan/160"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"

@@ -1,0 +1,37 @@
+id: marzban-sobhan
+name_latin: "Sobhan Marzban"
+name_farsi: "سبحان مرزبان"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: null
+place_of_death: "Eslamshahr"
+province: "Tehran"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot by Khamenei's mercenaries in Eslamshahr (Tehran)
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #4246"
+    date: null
+    type: community_database
+  - url: "https://x.com/iranianpapppi3/status/2019172779522687445"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/998"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-09
+updated_by: "iranvictims-csv-import"
