@@ -6,14 +6,72 @@
 
 ## Overview
 
-Every non-trivial change follows two documents:
+### Der Dreischritt: Vision → Planung → Implementierung
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   1. VISION            2. PLANUNG           3. IMPLEMENTIERUNG  │
+│   ───────────          ──────────           ─────────────────   │
+│   Was wollen wir?      Wie setzen wir       Zielgerichtete      │
+│   Warum?               es um?               Umsetzung.          │
+│   Für wen?             Welche Risiken?                          │
+│   Welche Wirkung?      Welche Phasen?       Kein Code ohne      │
+│                                             klaren Auftrag.     │
+│   Ideensammlung,       Constraints,                             │
+│   Recherche,           Optionen,            Messen, loggen,     │
+│   Inspiration,         Metriken,            committen.          │
+│   Zielgruppen.         Rollback.                                │
+│                                                                 │
+│   docs/VISION.md       YYMMDD-PLAN.md       YYMMDD-LOG.md      │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+**Kritische Regel:** Nie direkt von einer Idee zur Implementierung springen. Die Vision-Phase verhindert, dass man das Falsche baut. Die Planungsphase verhindert, dass man es falsch baut. Nur die Implementierung schreibt Code.
+
+### Dokumente
 
 | Document | Format | Purpose |
 |----------|--------|---------|
+| `docs/VISION.md` | Vision | Ideensammlung, Zielgruppen, Wirkung, Inspiration — lebendes Dokument |
 | `YYMMDD-PLAN_NAME.md` | Plan | WAS wollen wir, WARUM, WIE, welche RISIKEN |
 | `YYMMDD-LOG_NAME.md` | Log | WAS wurde gemacht, ENTSCHEIDUNGEN, ERGEBNISSE |
 
 Kleine Changes (Bugfix, Config-Änderung, einzelner Datenimport) brauchen keine eigene Plandatei — ein Eintrag in `LEARNINGS.md` reicht.
+
+---
+
+## Teil 0: Die Vision
+
+### Warum Vision zuerst?
+
+> Ein Projekt ohne Vision baut Features. Ein Projekt mit Vision baut Wirkung.
+
+Bevor eine einzige Zeile Code geplant wird:
+
+1. **Ideen sammeln** — Was könnte dieses Projekt sein? Was existiert bereits? Was fehlt in der Welt?
+2. **Zielgruppen verstehen** — Wer nutzt das? Was brauchen sie? Was empfinden sie?
+3. **Wirkung definieren** — Welche Veränderung soll das Projekt in der Welt bewirken?
+4. **Inspiration suchen** — Welche bestehenden Projekte machen etwas Ähnliches gut?
+5. **Grenzen erkennen** — Was soll das Projekt bewusst NICHT sein?
+
+### Vision-Dokument Struktur
+
+```markdown
+# Vision — Projektname
+
+## Kernidee (1 Satz)
+## Warum existiert dieses Projekt?
+## Für wen ist es? (Zielgruppen mit Bedürfnissen)
+## Welche Wirkung soll es haben?
+## Inspiration und Referenzen
+## Ideensammlung (unpriorisiert, alles willkommen)
+## Was dieses Projekt NICHT ist
+## Offene Fragen
+```
+
+Die Vision ist ein **lebendes Dokument** — sie wächst, wird präziser, aber die Kernidee bleibt stabil. Neue Ideen werden hier gesammelt, bevor sie in einen Plan wandern.
 
 ---
 

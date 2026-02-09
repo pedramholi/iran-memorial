@@ -38,6 +38,7 @@ A digital memorial for the victims of the Islamic Republic of Iran (1979–prese
 | Document | Purpose |
 |----------|---------|
 | `CLAUDE.md` | AI reference — project overview, stack, patterns, commands |
+| `docs/VISION.md` | Ideensammlung, Zielgruppen, Wirkung, Inspiration — lebendes Visionsdokument |
 | `docs/LEARNINGS.md` | Zentrale Wissensdatenbank — Bugs, Decisions, Patterns |
 | `docs/PROJECT.md` | Ausführliche Projektdokumentation (Was/Warum/Wer/Wie) |
 | `docs/PLANNING_GUIDE.md` | Plan + Log Template und Prinzipien |
@@ -261,6 +262,7 @@ border-start: 2px solid;     /* NOT border-left */
 
 | Document | Purpose |
 |----------|---------|
+| `docs/VISION.md` | Vision, Ideensammlung, Zielgruppen, Inspiration, Design-Prinzipien |
 | `docs/PROJECT.md` | Ausführliche Projektdokumentation (14 Kapitel) |
 | `docs/PLANNING_GUIDE.md` | Plan + Log Templates, 9 Prinzipien |
 | `docs/LEARNINGS.md` | Bugs, Architecture Decisions, Patterns |
