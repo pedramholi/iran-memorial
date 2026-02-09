@@ -563,6 +563,34 @@ Referenz-Dateien committed:
 
 ---
 
+#### LOG-P2-023 | 2026-02-09 | GENDER-INFERENZ FÜR IRANVICTIMS.COM
+
+**Was:** Gender-Inferenz auf alle 3.752 iranvictims.com-Dateien angewendet
+**Warum:** iranvictims.com CSV liefert kein Geschlecht — 81.9% der DB hatte gender:null
+
+```
+Script: scripts/infer_gender.py (erweitert)
+  - ~300 neue persische Vornamen in 3 Iterationen ergänzt (Pass 4–6)
+  - Tippfehler-Varianten abgedeckt (aboalfzl, behruz, fa'zh, etc.)
+  - "shahin" von ambiguous → male verschoben (im Protest-Kontext eindeutig)
+
+Ergebnis:
+  Vorher:  731 male (16.0%), 98 female (2.1%), 3.752 null (81.9%)
+  Nachher: 4.061 male (88.6%), 520 female (11.4%), 0 null (0%)
+  Coverage: 18.1% → 100%
+
+  Iterationen:
+    Pass 4: Häufige Namen (meysam 32x, amirreza 21x, etc.) → 80.9%
+    Pass 5: Seltene + weibliche Namen (nastaran, ghazal, etc.) → 99.8%
+    Pass 6: Letzte 10 Tippfehler (fa'zh, mism, ozar, etc.) → 100%
+
+Commit: bbb8179
+```
+
+**Lesson Learned:** Gleiche iterative Methode wie bei WLF-Daten (PL-002). 3 Passes reichen für 100% wenn die Namenslisten bereits eine solide Basis haben.
+
+---
+
 ### Phase 2B — Zusammenfassung
 
 | Metrik | Ziel | Ergebnis |
@@ -570,7 +598,7 @@ Referenz-Dateien committed:
 | Seed-Script province fix | Bug fixen | ✅ 1-Zeilen-Fix |
 | UI Sparse-Data Guards | Keine leeren Sections | ✅ 3 Guards |
 | Docker-Port Isolation | Port 5433 | ✅ docker-compose.yml |
-| Gender-Inferenz | >80% | ✅ **99.8%** |
+| Gender-Inferenz | >80% | ✅ **100%** (4.061 male, 520 female) |
 | Hinrichtungen komplett | Alle 12 | ✅ **12/12** |
 | Opfer-Kategorien komplett | Alle 5 Kategorien | ✅ 5/5 abgedeckt |
 | WLF-Opfer in DB (2022) | >551 (IHR) | ✅ **787** |
@@ -593,6 +621,7 @@ Referenz-Dateien committed:
 9. **Datenbank-Explosion:** Von 473 → 4.581 Opfer in einer Session durch Multi-Source-Import
 10. **IHR Suspicious Deaths komplett:** Alle 22 verdächtigen Tode aus dem IHR One-Year Report abgeglichen — 4 fehlten, jetzt erfasst
 11. **HRANA 20-Day Cross-Validation:** Alle 15 "fehlenden" Namen waren Transliterations-Varianten — 0 echte Lücken
+12. **Gender 100%:** Iterative Namenslisten-Erweiterung skaliert auch auf 3.752 neue Dateien — 3 Passes für 18% → 100%
 
 ---
 

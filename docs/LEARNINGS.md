@@ -179,7 +179,7 @@
 - **ISR mit stündlicher Revalidierung:** `export const revalidate = 3600` auf Detail-Seiten. Seiten werden beim ersten Aufruf generiert und dann stündlich aktualisiert. Skaliert auf 500k+ Seiten.
 - **Upsert im Seed-Script:** `prisma.victim.upsert()` statt `create()` — Seed kann mehrfach laufen ohne Duplikate zu erzeugen.
 - **Event-Context Mapping im Seed:** Hardcoded Map von YAML `event_context` Strings zu Event-Slugs. Ermöglicht automatische Verknüpfung von Opfern mit Ereignissen beim Import.
-- **Iterative Namenslisten für Gender-Inferenz:** Gender-Abdeckung von 64% → 99.8% in 4 Iterationen. Methode: Unknowns analysieren → häufigste Namen identifizieren → Liste erweitern → erneut laufen lassen. Jede Iteration liefert abnehmende Erträge, aber 4 Runden reichen für nahezu vollständige Abdeckung.
+- **Iterative Namenslisten für Gender-Inferenz:** Gender-Abdeckung von 64% → 100% in 6 Iterationen über 2 Sessions. Methode: Unknowns analysieren → häufigste Namen identifizieren → Liste erweitern → erneut laufen lassen. Jede Iteration liefert abnehmende Erträge. ~500 persische/kurdische/baluchische Vornamen decken 4.581 Opfer zu 100% ab. Tippfehler-Varianten (aboalfzl, behruz, fa'zh) müssen explizit aufgenommen werden.
 - **Font-Strategie:** Inter (Google Fonts) für LTR, Vazirmatn für Farsi RTL — geladen via `<link>` im Locale-Layout, kein @font-face nötig.
 - **Multi-Source-Import vor PDF-Parsing:** Immer zuerst nach maschinenlesbaren Quellen suchen (CSVs, APIs, Wikitables). Community-Projekte wie iranvictims.com haben oft Download-Buttons. PDFs nur als letzte Option — pdftotext + Regex funktioniert aber gut für strukturierte NGO-Reports.
 - **Name-based Dedup reicht für Erstimport:** `name.lower()` Matching fängt ~95% der Duplikate. Für die restlichen 5% (Transliterations-Varianten wie "Shirouzi" vs "Shirouzehi") braucht es ein dediziertes Dedup-Script.
@@ -238,7 +238,7 @@ Die bestehenden YAML-Dateien verwenden ein flaches Format mit verschachtelten Ob
 **Feldabdeckung aus Wikipedia allein:**
 - 100%: Name, 99%: Datum + Ort, 96%: Provinz (auto-gemappt)
 - 30%: Alter, 27%: Todesursache, 29%: Umstände
-- 99.8%: Geschlecht (via `scripts/infer_gender.py`)
+- 100%: Geschlecht (via `scripts/infer_gender.py`, ~500 Namen in 6 Passes)
 - 0%: Farsi-Name, Ethnie, Foto, Beruf, Familie, alle "Life"-Felder
 
 **City-to-Province Mapping:** Manuell gepflegt in `determine_province()` — ~80 Städte gemappt. Bei neuen Importen erweitern.
