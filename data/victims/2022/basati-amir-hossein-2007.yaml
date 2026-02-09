@@ -4,7 +4,7 @@ name_farsi: null
 date_of_birth: null  # est. birth year: 2007
 place_of_birth: null
 gender: male
-ethnicity: null
+ethnicity: Kurdish
 photo: null
 
 # --- DEATH ---
@@ -12,9 +12,13 @@ date_of_death: 2022-09-21
 age_at_death: 15
 place_of_death: "Kermanshah"
 province: "Kermanshah"
-cause_of_death: "Gunshot"
+cause_of_death: "Gunshot (close range)"
 circumstances: >
-    Targeted close-range shots with metal balls killed him directly.
+    Security forces killed him during protests in Kashikari neighbourhood.
+  Eyewitness said he died immediately after riot police fired from close range.
+  Video shows him face down bleeding from back and face. Family had no
+  information for days until they saw video online; found body in hospital
+  morgue. Legal Medicine Organization confirmed gunshot wound death.
 event_context: "Woman, Life, Freedom movement (2022 Mahsa Amini protests)"
 responsible_forces: null
 
@@ -25,5 +29,9 @@ sources:
     name: "Wikipedia — Deaths during the Mahsa Amini protests"
     date: null
     type: encyclopedia
+  - url: "https://www.amnesty.org/en/documents/mde13/6104/2022/en/"
+    name: "Amnesty International — Killings of children (MDE 13/6104/2022)"
+    date: 2022-12-09
+    type: ngo_report
 last_updated: 2026-02-09
 updated_by: "wikipedia-parser-script"

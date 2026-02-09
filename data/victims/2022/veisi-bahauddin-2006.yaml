@@ -4,7 +4,7 @@ name_farsi: null
 date_of_birth: null  # est. birth year: 2006
 place_of_birth: null
 gender: male
-ethnicity: null
+ethnicity: Kurdish
 photo: null
 
 # --- DEATH ---
@@ -12,8 +12,14 @@ date_of_death: 2022-11-20
 age_at_death: 16
 place_of_death: "Javanrud"
 province: "Kermanshah"
-cause_of_death: "Bullet wound"
-circumstances: null
+cause_of_death: "Gunshot (live ammunition)"
+circumstances: >
+    Revolutionary Guards shot him while he was in a car with his brother and
+  friends, returning from a demonstration at a hospital where teacher Erfan
+  Kakaie had been killed. Died from gunshot wounds at hospital. Brother
+  detained, denied medical care, forced to give statement blaming Kurdish
+  opposition groups. Family forced to bury without public funeral. His killing
+  sparked further mass protests on 21 November.
 event_context: "Woman, Life, Freedom movement (2022 Mahsa Amini protests)"
 responsible_forces: null
 
@@ -28,5 +34,9 @@ sources:
     name: "Wikipedia — Deaths during the Mahsa Amini protests"
     date: null
     type: encyclopedia
+  - url: "https://www.amnesty.org/en/documents/mde13/6104/2022/en/"
+    name: "Amnesty International — Killings of children (MDE 13/6104/2022)"
+    date: 2022-12-09
+    type: ngo_report
 last_updated: 2026-02-09
 updated_by: "hrana-82day-import"

@@ -4,7 +4,7 @@ name_farsi: null
 date_of_birth: null  # est. birth year: 2006
 place_of_birth: null
 gender: male
-ethnicity: null
+ethnicity: Kurdish
 photo: null
 
 # --- DEATH ---
@@ -12,9 +12,16 @@ date_of_death: 2022-10-31
 age_at_death: 16
 place_of_death: "Piranshahr, West Azerbaijan Province"
 province: "West Azerbaijan"
-cause_of_death: "Gunshot"
+cause_of_death: "Metal pellets at close range (~1 metre)"
 circumstances: >
-    Purposefully shot
+    Shot with metal pellets in chest and stomach from approximately 1 metre
+  distance. Legal Medicine Organization confirmed close-range firing. Family
+  found body at hospital. Authorities forced burial outside Piranshahr, in
+  village Ziokeh 25km away. Father's emotional funeral speech: 'I named him
+  Koumar (Republic). I am happy that he has been martyred for freedom.' Father
+  summoned for interrogation, pressured to blame Kurdish opposition. Father
+  publicly refused: 'The authorities killed my son and must be held
+  accountable.'
 event_context: "Woman, Life, Freedom movement (2022 Mahsa Amini protests)"
 responsible_forces: null
 
@@ -25,5 +32,9 @@ sources:
     name: "Wikipedia — Deaths during the Mahsa Amini protests"
     date: null
     type: encyclopedia
+  - url: "https://www.amnesty.org/en/documents/mde13/6104/2022/en/"
+    name: "Amnesty International — Killings of children (MDE 13/6104/2022)"
+    date: 2022-12-09
+    type: ngo_report
 last_updated: 2026-02-09
 updated_by: "wikipedia-parser-script"

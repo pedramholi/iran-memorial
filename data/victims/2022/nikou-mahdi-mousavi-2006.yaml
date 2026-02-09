@@ -12,10 +12,11 @@ date_of_death: 2022-09-21
 age_at_death: 16
 place_of_death: "Zanjan"
 province: "Zanjan"
-cause_of_death: "Gunshot"
+cause_of_death: "Metal pellets then fatal beating"
 circumstances: >
-    Died while being transported to the hospital after being shot in the back
-  and being beaten with clubs to the head and body.
+    First shot with metal pellets from behind, causing him to fall. Security
+  forces then fatally struck his head and body with batons. Died while being
+  transferred to hospital.
 event_context: "Woman, Life, Freedom movement (2022 Mahsa Amini protests)"
 responsible_forces: null
 
@@ -26,5 +27,9 @@ sources:
     name: "Wikipedia — Deaths during the Mahsa Amini protests"
     date: null
     type: encyclopedia
+  - url: "https://www.amnesty.org/en/documents/mde13/6104/2022/en/"
+    name: "Amnesty International — Killings of children (MDE 13/6104/2022)"
+    date: 2022-12-09
+    type: ngo_report
 last_updated: 2026-02-09
 updated_by: "wikipedia-parser-script"

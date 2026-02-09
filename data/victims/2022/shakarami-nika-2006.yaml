@@ -4,7 +4,7 @@ name_farsi: "نیکا شاکرمی"
 date_of_birth: 2006-01-01
 place_of_birth: null
 gender: female
-ethnicity: null
+ethnicity: Persian
 photo: null
 
 # --- DEATH ---
@@ -14,15 +14,13 @@ place_of_death: "Tehran"
 province: "Tehran"
 cause_of_death: "Beaten to death with batons after sexual assault in custody"
 circumstances: >
-  On September 20, 2022, standing on top of a dumpster at a student protest in
-  downtown Tehran, she burned her hijab. She was chased by Basijis and disappeared.
-  Leaked IRGC documents obtained by BBC in 2024 revealed she was captured, placed
-  in an undercover van, sexually assaulted while handcuffed by a security member,
-  then beaten to death with batons when she fought back. Named perpetrators from
-  leaked documents: Arash Kalhor, Sadegh Monjazy, Behrooz Sadeghy. Captain
-  Mohammad Zamani ordered her body "dumped on the street." Family found her body
-  10 days later showing signs of severe beating and many broken bones. Authorities
-  claimed she fell from a building.
+    Forcibly disappeared on 20 September after protests. Last spoke to mother
+  around 11:30pm saying she was being chased. Body found 9 days later in
+  Kahrizak morgue — cheekbones, nose and teeth broken, skull pounded. Burial
+  certificate: 'multiple injuries caused by collision with hard object'.
+  Security forces secretly moved body and buried in remote village Hayatolgheyb
+  without family consent. Aunt and uncle arrested, coerced into false video
+  statement. Mother publicly retracted official narrative.
 event_context: "Woman, Life, Freedom movement (2022 Mahsa Amini protests)"
 responsible_forces: "IRGC, Basij — named: Arash Kalhor, Sadegh Monjazy, Behrooz Sadeghy, Cpt. Mohammad Zamani"
 
@@ -63,5 +61,9 @@ sources:
     name: "Source"
     date: null
     type: primary
+  - url: "https://www.amnesty.org/en/documents/mde13/6104/2022/en/"
+    name: "Amnesty International — Killings of children (MDE 13/6104/2022)"
+    date: 2022-12-09
+    type: ngo_report
 last_updated: 2026-02-09
 updated_by: "iran-memorial project"

@@ -5,7 +5,7 @@ aliases: ['Khayal']
 date_of_birth: null  # est. birth year: 2006
 place_of_birth: null
 gender: male
-ethnicity: null
+ethnicity: Kurdish
 photo: null
 
 # --- DEATH ---
@@ -13,10 +13,11 @@ date_of_death: 2022-09-20
 age_at_death: 16
 place_of_death: "Piranshahr, West Azerbaijan Province"
 province: "West Azerbaijan"
-cause_of_death: "Gunshot"
+cause_of_death: "Gunshot (close range, live ammunition) and beating"
 circumstances: >
-    Targeted close-range shots and club blows inflicted serious wounds on him,
-  causing him to bleed to death.
+    Shot from about two meters with live ammunition. While lying bleeding,
+  security forces severely beat him, breaking his legs and hands. Family
+  pressured to give video statement blaming Kurdish opposition for his death.
 event_context: "Woman, Life, Freedom movement (2022 Mahsa Amini protests)"
 responsible_forces: null
 
@@ -27,5 +28,9 @@ sources:
     name: "Wikipedia — Deaths during the Mahsa Amini protests"
     date: null
     type: encyclopedia
+  - url: "https://www.amnesty.org/en/documents/mde13/6104/2022/en/"
+    name: "Amnesty International — Killings of children (MDE 13/6104/2022)"
+    date: 2022-12-09
+    type: ngo_report
 last_updated: 2026-02-09
 updated_by: "wikipedia-parser-script"

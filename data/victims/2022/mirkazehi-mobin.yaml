@@ -4,16 +4,20 @@ name_farsi: null
 date_of_birth: null
 place_of_birth: null
 gender: male
-ethnicity: null
+ethnicity: Baluchi
 photo: null
 
 # --- DEATH ---
 date_of_death: 2022-11-04
-age_at_death: null
+age_at_death: 14
 place_of_death: "Khash, Sistan-Baluchestan Province"
 province: "Sistan-Baluchestan"
-cause_of_death: null
-circumstances: null
+cause_of_death: "Gunshot (headshot, live ammunition)"
+circumstances: >
+    Shot in head during crackdown on protests outside governor's office in
+  Khash, after Friday prayers. Uniformed security forces fired from rooftops and
+  from pickup trucks. Friday prayer leader of Al-Khalil Mosque publicly
+  confirmed: 'Children and youth make up the majority of those killed.'
 event_context: "Woman, Life, Freedom movement (2022 Mahsa Amini protests)"
 responsible_forces: null
 
@@ -24,5 +28,9 @@ sources:
     name: "Wikipedia — Deaths during the Mahsa Amini protests"
     date: null
     type: encyclopedia
+  - url: "https://www.amnesty.org/en/documents/mde13/6104/2022/en/"
+    name: "Amnesty International — Killings of children (MDE 13/6104/2022)"
+    date: 2022-12-09
+    type: ngo_report
 last_updated: 2026-02-09
 updated_by: "wikipedia-parser-script"

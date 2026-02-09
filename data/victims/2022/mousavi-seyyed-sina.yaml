@@ -12,9 +12,14 @@ date_of_death: 2022-09-21
 age_at_death: null
 place_of_death: "Amol, Mazandaran Province"
 province: "Mazandaran"
-cause_of_death: "Gunshot"
+cause_of_death: "Gunshot (live ammunition)"
 circumstances: >
-    Gunshot wound
+    Shot during violent crackdown at Office of the Governor in Amol. Age
+  reported as 15 or 16. Eyewitness from within security forces described how
+  riot police and Revolutionary Guards fired birdshot and live ammunition from
+  10-15 metres at protesters. Three others killed simultaneously. Eyewitness
+  confirmed protesters did not wield firearms. Leaked document shows commander
+  ordered forces to 'go as far as causing deaths'.
 event_context: "Woman, Life, Freedom movement (2022 Mahsa Amini protests)"
 responsible_forces: null
 
@@ -25,5 +30,9 @@ sources:
     name: "Wikipedia — Deaths during the Mahsa Amini protests"
     date: null
     type: encyclopedia
+  - url: "https://www.amnesty.org/en/documents/mde13/6104/2022/en/"
+    name: "Amnesty International — Killings of children (MDE 13/6104/2022)"
+    date: 2022-12-09
+    type: ngo_report
 last_updated: 2026-02-09
 updated_by: "wikipedia-parser-script"

@@ -1,34 +1,31 @@
-id: shahouzehi-yaser-2006
-name_latin: "Yaser Shahouzehi"
+id: marefat-amin-2006
+name_latin: "Amin Marefat"
 name_farsi: null
 date_of_birth: null  # est. birth year: 2006
 place_of_birth: null
 gender: male
-ethnicity: Baluchi
+ethnicity: Kurdish
 photo: null
 
 # --- DEATH ---
-date_of_death: 2022-09-30
+date_of_death: 2022-09-21
 age_at_death: 16
-place_of_death: "Zahedan, Sistan-Baluchestan Province"
-province: "Sistan-Baluchestan"
+place_of_death: "Oshnavieh"
+province: "West Azerbaijan"
 cause_of_death: "Gunshot (heart, live ammunition)"
 circumstances: >
-    Killed during Bloody Friday. Shot in heart. Authorities claimed 'no death
-  record' to UN.
+    Killed by Revolutionary Guards randomly firing live ammunition at protesters
+  in Oshnavieh. 'Amin Marefat was shot in his heart and the bullet exited
+  through his back.'
 event_context: "Woman, Life, Freedom movement (2022 Mahsa Amini protests)"
 responsible_forces: null
 
 # --- VERIFICATION ---
-status: "unverified"
+status: "verified"
 sources:
-  - url: "https://en.wikipedia.org/wiki/Deaths_during_the_Mahsa_Amini_protests"
-    name: "Wikipedia — Deaths during the Mahsa Amini protests"
-    date: null
-    type: encyclopedia
   - url: "https://www.amnesty.org/en/documents/mde13/6104/2022/en/"
     name: "Amnesty International — Killings of children (MDE 13/6104/2022)"
     date: 2022-12-09
     type: ngo_report
 last_updated: 2026-02-09
-updated_by: "wikipedia-parser-script"
+updated_by: "amnesty-children-import"

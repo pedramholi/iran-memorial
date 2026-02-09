@@ -12,13 +12,14 @@ date_of_death: 2022-09-23
 age_at_death: 16
 place_of_death: "Gohardasht in Karaj / Mehrshahr, Alborz Province"
 province: "Alborz"
-cause_of_death: "Beating"
+cause_of_death: "Fatal beating (batons to head)"
 circumstances: >
-    She was beaten to the head with a club. The judiciary claimed that she
-  committed suicide by jumping from the roof of a house. In order to be able to
-  bury the dead woman, her family was not allowed to open the coffin and had to
-  confirm the information given by the authorities under death threats from the
-  IRGC.
+    Security forces fatally struck her head with batons in Gohardasht, Karaj.
+  Authorities did not allow the family to see her body; brought wrapped in
+  shroud and forced immediate burial. Head of justice in Alborz province claimed
+  she committed suicide by jumping from a rooftop. Revolutionary Guards coerced
+  her mother into false video statement. Agents threatened to kill or harm her
+  surviving brother if family did not accept official narrative.
 event_context: "Woman, Life, Freedom movement (2022 Mahsa Amini protests)"
 responsible_forces: null
 
@@ -29,5 +30,9 @@ sources:
     name: "Wikipedia — Deaths during the Mahsa Amini protests"
     date: null
     type: encyclopedia
+  - url: "https://www.amnesty.org/en/documents/mde13/6104/2022/en/"
+    name: "Amnesty International — Killings of children (MDE 13/6104/2022)"
+    date: 2022-12-09
+    type: ngo_report
 last_updated: 2026-02-09
 updated_by: "wikipedia-parser-script"

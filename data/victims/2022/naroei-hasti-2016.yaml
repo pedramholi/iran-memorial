@@ -4,7 +4,7 @@ name_farsi: null
 date_of_birth: null  # est. birth year: 2016
 place_of_birth: null
 gender: female
-ethnicity: null
+ethnicity: Baluchi
 photo: null
 
 # --- DEATH ---
@@ -13,7 +13,11 @@ age_at_death: 6
 place_of_death: "Zahedan"
 province: "Sistan-Baluchestan"
 cause_of_death: "Got hit by a tear gas grenade and suffocation"
-circumstances: null
+circumstances: >
+    Six-year-old girl killed during Bloody Friday. Hit in head with tear gas
+  canister at prayer site. Father coerced into video statement claiming death
+  from stone throwing or crowd crush. Threats that 'problems could emerge' for
+  surviving children.
 event_context: "Woman, Life, Freedom movement (2022 Mahsa Amini protests)"
 responsible_forces: null
 
@@ -28,5 +32,9 @@ sources:
     name: "Wikipedia — Deaths during the Mahsa Amini protests"
     date: null
     type: encyclopedia
+  - url: "https://www.amnesty.org/en/documents/mde13/6104/2022/en/"
+    name: "Amnesty International — Killings of children (MDE 13/6104/2022)"
+    date: 2022-12-09
+    type: ngo_report
 last_updated: 2026-02-09
 updated_by: "hrana-82day-import"

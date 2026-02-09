@@ -12,9 +12,11 @@ date_of_death: 2022-09-21
 age_at_death: 17
 place_of_death: "Quchan, Razavi Khorasan Province"
 province: "Razavi Khorasan"
-cause_of_death: "Gunshot"
+cause_of_death: "Gunshot (stomach, live ammunition)"
 circumstances: >
-    Gunshot wound
+    Shot in the stomach during protests in Ghouchan. Died shortly afterwards.
+  Video shows protesters carrying wounded person while narrator says victim was
+  shot and killed with live ammunition.
 event_context: "Woman, Life, Freedom movement (2022 Mahsa Amini protests)"
 responsible_forces: null
 
@@ -25,5 +27,9 @@ sources:
     name: "Wikipedia — Deaths during the Mahsa Amini protests"
     date: null
     type: encyclopedia
+  - url: "https://www.amnesty.org/en/documents/mde13/6104/2022/en/"
+    name: "Amnesty International — Killings of children (MDE 13/6104/2022)"
+    date: 2022-12-09
+    type: ngo_report
 last_updated: 2026-02-09
 updated_by: "wikipedia-parser-script"

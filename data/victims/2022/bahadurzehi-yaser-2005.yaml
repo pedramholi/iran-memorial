@@ -4,7 +4,7 @@ name_farsi: null
 date_of_birth: null  # est. birth year: 2005
 place_of_birth: null
 gender: male
-ethnicity: null
+ethnicity: Baluchi
 photo: null
 
 # --- DEATH ---
@@ -12,8 +12,11 @@ date_of_death: 2022-11-04
 age_at_death: 17
 place_of_death: "Khash"
 province: "Sistan-Baluchestan"
-cause_of_death: "Unknown"
-circumstances: null
+cause_of_death: "Gunshot (live ammunition)"
+circumstances: >
+    Shot during crackdown in Khash. Body found dumped near governor's office
+  next day. Had severe mental health disability (confirmed by disability
+  identification card on file with Amnesty).
 event_context: "Woman, Life, Freedom movement (2022 Mahsa Amini protests)"
 responsible_forces: null
 
@@ -28,5 +31,9 @@ sources:
     name: "Wikipedia — Deaths during the Mahsa Amini protests"
     date: null
     type: encyclopedia
+  - url: "https://www.amnesty.org/en/documents/mde13/6104/2022/en/"
+    name: "Amnesty International — Killings of children (MDE 13/6104/2022)"
+    date: 2022-12-09
+    type: ngo_report
 last_updated: 2026-02-09
 updated_by: "hrana-82day-import"

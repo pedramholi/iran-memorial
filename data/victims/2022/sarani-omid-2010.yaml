@@ -4,7 +4,7 @@ name_farsi: null
 date_of_birth: null  # est. birth year: 2010
 place_of_birth: null
 gender: male
-ethnicity: null
+ethnicity: Baluchi
 photo: null
 
 # --- DEATH ---
@@ -12,9 +12,11 @@ date_of_death: 2022-09-30
 age_at_death: 12
 place_of_death: "Zahedan, Sistan-Baluchestan Province"
 province: "Sistan-Baluchestan"
-cause_of_death: "Gunshot"
+cause_of_death: "Gunshot (live ammunition)"
 circumstances: >
-    In an attack on a protest, police shot him in the chest.
+    Killed in Shirabad area. Videos document security forces firing at peaceful
+  protesters including children sheltering behind walls or running away. Second
+  video shows protesters carrying bloodied bodies of two wounded children.
 event_context: "Woman, Life, Freedom movement (2022 Mahsa Amini protests)"
 responsible_forces: null
 
@@ -25,5 +27,9 @@ sources:
     name: "Wikipedia — Deaths during the Mahsa Amini protests"
     date: null
     type: encyclopedia
+  - url: "https://www.amnesty.org/en/documents/mde13/6104/2022/en/"
+    name: "Amnesty International — Killings of children (MDE 13/6104/2022)"
+    date: 2022-12-09
+    type: ngo_report
 last_updated: 2026-02-09
 updated_by: "wikipedia-parser-script"
