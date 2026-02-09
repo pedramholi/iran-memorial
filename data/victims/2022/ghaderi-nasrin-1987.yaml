@@ -1,0 +1,32 @@
+id: ghaderi-nasrin-1987
+name_latin: "Nasrin Ghaderi"
+name_farsi: null
+date_of_birth: null  # est. birth year: 1987
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2022-11-05
+age_at_death: 35
+place_of_death: "Marivan, Kurdistan Province"
+province: "Kurdistan"
+cause_of_death: "Gunshot"
+circumstances: >
+    The Kurdish doctoral student was shot in the head several times during a
+  protest, fell into a coma and died in a hospital. Her family was not allowed
+  to bury her in Marivan. The Secret Service ordered a funeral without anyone
+  present.
+event_context: "Woman, Life, Freedom movement (2022 Mahsa Amini protests)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://en.wikipedia.org/wiki/Deaths_during_the_Mahsa_Amini_protests"
+    name: "Wikipedia — Deaths during the Mahsa Amini protests"
+    date: null
+    type: encyclopedia
+last_updated: 2026-02-09
+updated_by: "wikipedia-parser-script"

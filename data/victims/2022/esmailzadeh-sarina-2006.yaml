@@ -1,0 +1,33 @@
+id: esmailzadeh-sarina-2006
+name_latin: "Sarina Esmailzadeh"
+name_farsi: null
+date_of_birth: null  # est. birth year: 2006
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2022-09-23
+age_at_death: 16
+place_of_death: "Gohardasht in Karaj / Mehrshahr, Alborz Province"
+province: "Alborz"
+cause_of_death: "Beating"
+circumstances: >
+    She was beaten to the head with a club. The judiciary claimed that she
+  committed suicide by jumping from the roof of a house. In order to be able to
+  bury the dead woman, her family was not allowed to open the coffin and had to
+  confirm the information given by the authorities under death threats from the
+  IRGC.
+event_context: "Woman, Life, Freedom movement (2022 Mahsa Amini protests)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://en.wikipedia.org/wiki/Deaths_during_the_Mahsa_Amini_protests"
+    name: "Wikipedia — Deaths during the Mahsa Amini protests"
+    date: null
+    type: encyclopedia
+last_updated: 2026-02-09
+updated_by: "wikipedia-parser-script"

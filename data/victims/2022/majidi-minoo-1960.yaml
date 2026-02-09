@@ -1,0 +1,31 @@
+id: majidi-minoo-1960
+name_latin: "Minoo Majidi"
+name_farsi: null
+date_of_birth: null  # est. birth year: 1960
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2022-09-20
+age_at_death: 62
+place_of_death: "Kermanshah"
+province: "Kermanshah"
+cause_of_death: "Gunshot"
+circumstances: >
+    The mother of three was shot by Basijis. A photo of her youngest daughter
+  with her hair shaved and no hijab at her grave was widely shared on social
+  media.
+event_context: "Woman, Life, Freedom movement (2022 Mahsa Amini protests)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://en.wikipedia.org/wiki/Deaths_during_the_Mahsa_Amini_protests"
+    name: "Wikipedia — Deaths during the Mahsa Amini protests"
+    date: null
+    type: encyclopedia
+last_updated: 2026-02-09
+updated_by: "wikipedia-parser-script"

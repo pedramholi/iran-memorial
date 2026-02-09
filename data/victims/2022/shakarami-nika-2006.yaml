@@ -1,0 +1,34 @@
+id: shakarami-nika-2006
+name_latin: "Nika Shakarami"
+name_farsi: null
+date_of_birth: null  # est. birth year: 2006
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2022-09-20
+age_at_death: 16
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Beating"
+circumstances: >
+    Standing on top of a dumpster at the head of a student protest downtown, she
+  burned her hijab, was chased by Basijis, disappeared without a trace and was
+  handed over dead to her family nine days later. She allegedly fell from an
+  unoccupied house; however, according to an autopsy, she suffered many broken
+  bones from severe beatings. According to witnesses, she was interrogated by
+  the IRGC and then taken to Evin prison.
+event_context: "Woman, Life, Freedom movement (2022 Mahsa Amini protests)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://en.wikipedia.org/wiki/Deaths_during_the_Mahsa_Amini_protests"
+    name: "Wikipedia — Deaths during the Mahsa Amini protests"
+    date: null
+    type: encyclopedia
+last_updated: 2026-02-09
+updated_by: "wikipedia-parser-script"
