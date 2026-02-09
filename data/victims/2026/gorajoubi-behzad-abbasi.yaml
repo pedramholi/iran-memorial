@@ -9,7 +9,7 @@ photo: null
 
 # --- DEATH ---
 date_of_death: 2026-01-08
-age_at_death: null
+age_at_death: 40
 place_of_death: "Tehran"
 province: "Tehran"
 cause_of_death: "Gunshot"
@@ -38,6 +38,10 @@ sources:
     type: primary
   - url: "https://x.com/kurdpa_farsi/status/2014662563766677658"
     name: "Source"
+    date: null
+    type: primary
+  - url: "https://javidnaman.iranintl.com/memorial/CoXljdUpHLN0XegRJy25YR"
+    name: "Iran International"
     date: null
     type: primary
 last_updated: 2026-02-09

@@ -36,5 +36,13 @@ sources:
     name: "Abdorrahman Boroumand Center — Atefeh Naami"
     date: null
     type: ngo_report
+  - url: "https://www.en-hrana.org/wp-content/uploads/2022/12/82-Day-WLF-Protest-in-Iran-2022-English.pdf"
+    name: "HRANA — 82-Day Comprehensive Report"
+    date: 2022-12-01
+    type: ngo_report
+  - url: "https://en.wikipedia.org/wiki/Deaths_during_the_Mahsa_Amini_protests"
+    name: "Wikipedia — Deaths during the Mahsa Amini protests"
+    date: null
+    type: encyclopedia
 last_updated: 2026-02-09
 updated_by: "iran-memorial project"

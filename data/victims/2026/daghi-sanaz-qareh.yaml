@@ -30,5 +30,17 @@ sources:
     name: "Source"
     date: null
     type: primary
+  - url: "https://x.com/hichkasofficial/status/2015105012590879152"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/HichkasOfficial/status/2015105012590879152"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/noamagid/status/2016556500131439065"
+    name: "Source"
+    date: null
+    type: primary
 last_updated: 2026-02-09
 updated_by: "iranvictims-csv-import"
