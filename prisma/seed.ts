@@ -125,7 +125,7 @@ async function seedVictims() {
         dateOfDeath: v.date_of_death ? new Date(v.date_of_death) : null,
         ageAtDeath: v.age_at_death || null,
         placeOfDeath: v.place_of_death || null,
-        province: null,
+        province: v.province || null,
         causeOfDeath: v.cause_of_death || null,
         circumstancesEn: typeof v.circumstances === "string" ? v.circumstances.trim() : null,
         circumstancesFa: null,

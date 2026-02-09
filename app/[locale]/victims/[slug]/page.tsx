@@ -98,22 +98,24 @@ function VictimDetail({ victim, locale }: { victim: any; locale: Locale }) {
         </div>
 
         {/* Dates bar */}
-        <div className="flex flex-wrap gap-x-8 gap-y-2 text-sm text-memorial-300 border-b border-memorial-800 pb-4">
-          {victim.dateOfBirth && (
-            <span>
-              <span className="text-memorial-500">{t("born")}:</span>{" "}
-              {formatDate(victim.dateOfBirth, locale)}
-              {victim.placeOfBirth && `, ${victim.placeOfBirth}`}
-            </span>
-          )}
-          {victim.dateOfDeath && (
-            <span>
-              <span className="text-memorial-500">{t("died")}:</span>{" "}
-              {formatDate(victim.dateOfDeath, locale)}
-              {victim.ageAtDeath && ` (${victim.ageAtDeath})`}
-            </span>
-          )}
-        </div>
+        {(victim.dateOfBirth || victim.dateOfDeath) && (
+          <div className="flex flex-wrap gap-x-8 gap-y-2 text-sm text-memorial-300 border-b border-memorial-800 pb-4">
+            {victim.dateOfBirth && (
+              <span>
+                <span className="text-memorial-500">{t("born")}:</span>{" "}
+                {formatDate(victim.dateOfBirth, locale)}
+                {victim.placeOfBirth && `, ${victim.placeOfBirth}`}
+              </span>
+            )}
+            {victim.dateOfDeath && (
+              <span>
+                <span className="text-memorial-500">{t("died")}:</span>{" "}
+                {formatDate(victim.dateOfDeath, locale)}
+                {victim.ageAtDeath && ` (${victim.ageAtDeath})`}
+              </span>
+            )}
+          </div>
+        )}
       </div>
 
       {/* Life Section */}
@@ -127,7 +129,7 @@ function VictimDetail({ victim, locale }: { victim: any; locale: Locale }) {
           <div className="space-y-6">
             {occupation && <Field label={t("occupation")} value={occupation} />}
             {victim.education && <Field label={t("education")} value={victim.education} />}
-            {victim.familyInfo && (
+            {victim.familyInfo && formatFamily(victim.familyInfo) && (
               <Field label={t("family")} value={formatFamily(victim.familyInfo)} />
             )}
             {dreams && <Field label={t("dreams")} value={dreams} />}
@@ -150,35 +152,37 @@ function VictimDetail({ victim, locale }: { victim: any; locale: Locale }) {
       )}
 
       {/* Death Section */}
-      <section className="mb-12">
-        <h2 className="text-xl font-semibold text-blood-400 mb-6 flex items-center gap-2">
-          <span className="h-px flex-1 bg-memorial-800" />
-          {t("death")}
-          <span className="h-px flex-1 bg-memorial-800" />
-        </h2>
-        <div className="space-y-6">
-          {victim.placeOfDeath && <Field label={t("placeOfDeath")} value={victim.placeOfDeath} />}
-          {victim.causeOfDeath && <Field label={t("causeOfDeath")} value={victim.causeOfDeath} />}
-          {victim.responsibleForces && <Field label={t("responsibleForces")} value={victim.responsibleForces} />}
-          {circumstances && (
-            <div>
-              <h3 className="text-sm font-medium text-memorial-400 mb-2">{t("circumstances")}</h3>
-              <p className="text-memorial-200 leading-relaxed whitespace-pre-line">{circumstances}</p>
-            </div>
-          )}
-          {victim.event && (
-            <div>
-              <h3 className="text-sm font-medium text-memorial-400 mb-1">{t("relatedEvent")}</h3>
-              <Link
-                href={`/events/${victim.event.slug}`}
-                className="text-gold-400 hover:text-gold-300 underline underline-offset-2"
-              >
-                {localized(victim.event, "title", locale)}
-              </Link>
-            </div>
-          )}
-        </div>
-      </section>
+      {(victim.placeOfDeath || victim.causeOfDeath || victim.responsibleForces || circumstances || victim.event) && (
+        <section className="mb-12">
+          <h2 className="text-xl font-semibold text-blood-400 mb-6 flex items-center gap-2">
+            <span className="h-px flex-1 bg-memorial-800" />
+            {t("death")}
+            <span className="h-px flex-1 bg-memorial-800" />
+          </h2>
+          <div className="space-y-6">
+            {victim.placeOfDeath && <Field label={t("placeOfDeath")} value={victim.placeOfDeath} />}
+            {victim.causeOfDeath && <Field label={t("causeOfDeath")} value={victim.causeOfDeath} />}
+            {victim.responsibleForces && <Field label={t("responsibleForces")} value={victim.responsibleForces} />}
+            {circumstances && (
+              <div>
+                <h3 className="text-sm font-medium text-memorial-400 mb-2">{t("circumstances")}</h3>
+                <p className="text-memorial-200 leading-relaxed whitespace-pre-line">{circumstances}</p>
+              </div>
+            )}
+            {victim.event && (
+              <div>
+                <h3 className="text-sm font-medium text-memorial-400 mb-1">{t("relatedEvent")}</h3>
+                <Link
+                  href={`/events/${victim.event.slug}`}
+                  className="text-gold-400 hover:text-gold-300 underline underline-offset-2"
+                >
+                  {localized(victim.event, "title", locale)}
+                </Link>
+              </div>
+            )}
+          </div>
+        </section>
+      )}
 
       {/* Aftermath Section */}
       {(victim.burialLocation || familyPersecution || victim.legalProceedings || victim.tributes.length > 0) && (

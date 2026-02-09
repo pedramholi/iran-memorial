@@ -215,7 +215,99 @@ Ergebnis: ERFOLG
 
 ---
 
-## Phase 2B: Plan schärfen
+## Phase 2B: Plan schärfen — Pipeline & UI Fixes
+
+### Erfolgskriterien Phase 2B
+
+| Kriterium | Ziel | Status |
+|-----------|------|--------|
+| Seed-Script province fix | `province` korrekt gemappt | ✅ 1 Zeile gefixt |
+| UI Sparse-Data Guards | Keine leeren Sections | ✅ 3 Guards implementiert |
+| Docker-Port Isolation | Port 5433, eigenes Netzwerk | ✅ docker-compose.yml + .env.example |
+| Gender-Inferenz | >80% der YAML-Dateien | ✅ **99.8%** (424/425) |
+| Phase 2B Log | Dokumentation | ✅ Dieser Eintrag |
+
+---
+
+#### LOG-P2-008 | 2026-02-09 | SEED-SCRIPT FIX: PROVINCE-FELD
+
+**Was:** `prisma/seed.ts` Zeile 128 hatte `province: null` hardcoded
+**Warum:** 408 YAML-Dateien mit Province-Daten verloren diese Information beim Import
+
+```
+Aktion: province: null → province: v.province || null
+Ergebnis: ERFOLG — 1-Zeilen-Fix
+Dateien: prisma/seed.ts
+```
+
+**Lesson Learned:** Immer alle YAML-Felder im Seed-Script prüfen, nicht nur die offensichtlichen. → BUG-005
+
+---
+
+#### LOG-P2-009 | 2026-02-09 | UI SPARSE-DATA GUARDS
+
+**Was:** Victim-Detailseite renderte leere Sections wenn alle Felder null
+**Warum:** 70% der Opfer haben nur Minimaldaten (Name, Datum, Ort)
+
+```
+Aktion: 3 Guards in app/[locale]/victims/[slug]/page.tsx implementiert
+  1. Dates-Bar: nur rendern wenn dateOfBirth || dateOfDeath
+  2. Death-Section: nur rendern wenn placeOfDeath || causeOfDeath || responsibleForces || circumstances || event
+  3. familyInfo-Guard: formatFamily() muss truthy String zurückgeben
+Ergebnis: ERFOLG — keine leeren Sections mehr bei sparse data
+```
+
+**Lesson Learned:** UI für den Worst Case (leerer Datensatz) designen, nicht für den Best Case. → AD-009
+
+---
+
+#### LOG-P2-010 | 2026-02-09 | DOCKER-COMPOSE ISOLATION
+
+**Was:** Port 5432 → 5433, eigenes Docker-Netzwerk `memorial-net`
+**Warum:** Verhindert Kollision mit SmartLivings-PostgreSQL auf dem VPS
+
+```
+Aktion: docker-compose.yml aktualisiert
+  - Port: 5432:5432 → 5433:5432
+  - Netzwerk: memorial-net (neu definiert)
+  - Beide Services (db + app) im gleichen Netzwerk
+  - App-interne DATABASE_URL bleibt @db:5432 (Container-intern)
+Aktion: .env.example aktualisiert
+  - DATABASE_URL Port: 5432 → 5433
+Ergebnis: ERFOLG
+```
+
+**Entscheidung:** App-Service nutzt intern weiterhin Port 5432 (Container-zu-Container), nur Host-Mapping auf 5433. → AD-008
+
+---
+
+#### LOG-P2-011 | 2026-02-09 | GENDER-INFERENZ
+
+**Was:** Python-Script `scripts/infer_gender.py` für automatische Geschlechts-Inferenz aus Vornamen
+**Warum:** 0% der YAML-Dateien hatten ein Gender-Feld gesetzt
+
+```
+Aktion: scripts/infer_gender.py erstellt
+  Features:
+  - ~200 bekannte persische/kurdische/baluchische Vornamen (männlich + weiblich)
+  - "son of" / "Sohn von" Pattern-Erkennung
+  - In-place YAML-Update (nur gender: null → gender: male/female)
+  - Ambiguous-Namen-Handling (z.B. "Shahin" → skip)
+
+Aktion: 4 iterative Durchläufe
+  Lauf 1: 64.4% Coverage (Basis-Namensliste)
+  Lauf 2: 78.8% Coverage (+30 Namen aus Datenanalyse)
+  Lauf 3: 99.5% Coverage (+70 weitere Namen)
+  Lauf 4: 99.8% Coverage (Kabdani-Komma-Fix + "son of" Pattern)
+
+Ergebnis: ERFOLG
+  372 male, 52 female, 0 null (+ 1 Template)
+  Coverage: 99.8% (Ziel war >80%)
+```
+
+**Lesson Learned:** Iteratives Vorgehen bei Namenslisten — erst Basis, dann aus den Unknowns ergänzen. 3 Iterationen reichten für 99.8%.
+
+---
 
 ### Offene Entscheidungspunkte (aus Phase 2A)
 
@@ -223,7 +315,7 @@ Ergebnis: ERFOLG
 |---|-------|--------|
 | 1 | Deploy mit 422 Opfern oder warten auf Enrichment? | ⏳ Offen |
 | 2 | Farsi-Namen-Enrichment: manuell oder semi-automatisch? | ⏳ Offen |
-| 3 | Geschlechter-Inferenz aus Namen automatisieren? | ⏳ Offen |
+| 3 | Geschlechter-Inferenz aus Namen automatisieren? | ✅ Erledigt (99.8%) |
 | 4 | Zahedan: Sammel-Narrativ oder nur Einzelseiten? | ⏳ Offen |
 | 5 | Seed-Script mit 422 Dateien testen (braucht PostgreSQL) | ⏳ Offen |
 
