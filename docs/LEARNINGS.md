@@ -17,6 +17,19 @@
 - **Warum entscheidend:** Eine umfassende Vision spart doppelte Arbeit und entscheidet über die Qualität. Features die aus einer Vision entstehen, passen zusammen. Features die ad-hoc entstehen, kollidieren.
 - **Anpassung:** `docs/PLANNING_GUIDE.md` um "Teil 0: Die Vision" erweitert. `docs/VISION.md` als lebendes Dokument eingeführt.
 
+### PL-002: Datengetriebener Ansatz schlägt Feature-getriebenen Ansatz (2026-02-09)
+
+- **Learning:** Erst Daten sammeln und analysieren, dann Features bauen. Nicht umgekehrt.
+- **Kontext:** Phase 2A hat mit einem einfachen Python-Script in ~2 Stunden 421 Opfereinträge aus Wikipedia extrahiert. Die Analyse der echten Daten hat gezeigt, dass unser Schema keine Änderungen braucht — was ohne diesen Test eine reine Annahme gewesen wäre.
+- **Regel:** Vor jedem größeren Feature/Deployment: echte Daten sammeln → analysieren → erst dann implementieren.
+- **Evidenz:** 2h Script-Arbeit statt geschätzt 80-150h manueller Erfassung für den gleichen Basis-Datensatz.
+
+### PL-003: Schema-Validierung durch echte Daten (2026-02-09)
+
+- **Learning:** Ein Schema erst als "fertig" betrachten, wenn es mit echten Daten getestet wurde.
+- **Kontext:** Das Victim-Schema (44 Felder) wurde in Phase 1 theoretisch entworfen. Phase 2A hat gezeigt: Kein Feld muss entfernt oder hinzugefügt werden. Die Felder `dreams`, `beliefs`, `personality` werden selten gefüllt sein — aber das ist gewollt (sie repräsentieren den Verlust).
+- **Outcome:** Schema ist validiert. Keine Migration nötig vor Deployment.
+
 ---
 
 ## Architecture Decisions
@@ -34,6 +47,18 @@
 - **Alternatives:** Supabase (managed PostgreSQL), PlanetScale (MySQL), Cloudflare D1
 - **Rationale:** Datensouveränität bei politisch sensiblen Daten. Kein US-Cloud-Anbieter soll auf die Daten zugreifen oder den Dienst kündigen können
 - **Outcome:** Docker Compose mit PostgreSQL 16 Alpine, volle Kontrolle über Backups und Zugang
+
+### AD-008: Isolierte PostgreSQL-Instanz für Gedenkportal (2026-02-09)
+
+- **Decision:** Eigene Docker-PostgreSQL-Instanz (Port 5433) auf dem bestehenden Hetzner VPS, komplett getrennt vom SmartLivings-Server (Port 5432)
+- **Alternatives:** (a) Neue Datenbank auf dem bestehenden SmartLivings-PostgreSQL, (b) Separater VPS
+- **Rationale:** Maximale Isolation ohne zusätzliche Kosten. SmartLivings-Server hat 5 DBs (AiPhoneAgent, mailserver, postgres, smsgatewaydb, staydb) — kein Crossover mit dem Gedenkportal erwünscht. Docker-Container sind auf Netzwerkebene vollständig voneinander isoliert.
+- **Umsetzung (Phase 2C):**
+  - Eigenes Docker-Netzwerk (`memorial-net`)
+  - Eigener PostgreSQL-Container (Port 5433, eigene Credentials, eigenes Volume)
+  - Eigene `docker-compose.yml` im iran-memorial Projekt
+  - Kein shared Docker network mit SmartLivings
+- **Outcome:** Noch nicht umgesetzt — dokumentiert für Phase 2C Deployment
 
 ### AD-003: Dreisprachig von Anfang an (FA + EN + DE)
 
@@ -73,6 +98,20 @@
 
 ---
 
+### AD-009: UI muss für Sparse Data designt werden (2026-02-09)
+
+- **Decision:** Opfer-Detailseiten müssen auch mit nur 3 Feldern (Name, Datum, Ort) würdevoll aussehen
+- **Rationale:** 70% der WLF-Opfer haben nur Minimaldaten. Eine leere Seite mit 40 leeren Feldern wirkt respektlos. Stattdessen: kompaktes Layout das vorhandene Daten prominent zeigt und fehlende Felder nicht als "leer" darstellt.
+- **Implikation für Phase 2B/C:** Die Opfer-Detailseite (`/victims/[slug]`) muss conditional rendering haben — Sections nur zeigen wenn Daten vorhanden. "Kein Foto" sollte ein würdevoller Platzhalter sein, kein gebrochenes Bild.
+
+### AD-010: Aspirational Fields bewusst beibehalten (2026-02-09)
+
+- **Decision:** `dreams`, `beliefs`, `personality`, `quotes` im Schema belassen, obwohl sie für >95% der Opfer leer bleiben werden
+- **Alternatives:** Felder entfernen um Schema zu vereinfachen
+- **Rationale:** Diese Felder repräsentieren genau das, was das Regime zerstört hat — die Träume, Überzeugungen und Persönlichkeit der Opfer. Dass sie leer sind, IST die Aussage. Sie werden durch Community-Einreichungen und Familienangehörige nach und nach gefüllt.
+
+---
+
 ## Bugs & Root Causes
 
 ### BUG-001: create-next-app verweigert bestehende Dateien
@@ -95,6 +134,15 @@
 - **Root Cause:** `npm init` setzt `"type": "commonjs"` in package.json, aber alle .ts/.tsx Dateien verwenden ESM `import/export` Syntax
 - **Fix:** `"type": "commonjs"` → `"type": "module"` in package.json
 - **Prevention:** Nach `npm init` immer `"type"` Feld prüfen. Next.js Projekte brauchen `"module"`
+
+---
+
+### BUG-004: Python SSL-Zertifikatsfehler auf macOS (2026-02-09)
+
+- **Symptom:** `urllib.request.urlopen()` schlägt fehl mit `SSL: CERTIFICATE_VERIFY_FAILED` beim Zugriff auf Wikipedia API
+- **Root Cause:** macOS Python-Installation hat keine System-Zertifikate konfiguriert. Bekanntes Problem bei `python.org`-Installationen.
+- **Fix:** `curl` als Fallback nutzen (hat eigene CA-Zertifikate), Output als Cache-File speichern, dann in Python einlesen.
+- **Prevention:** Parser-Scripts immer mit Cache-File-Fallback bauen (`scripts/.wiki_cache.txt`, in `.gitignore`).
 
 ---
 
@@ -150,6 +198,28 @@ Die bestehenden YAML-Dateien verwenden ein flaches Format mit verschachtelten Ob
 - `burial.circumstances` → `burialCircumstancesEn`
 - `status` → `verificationStatus`
 - `event_context` → wird über Mapping-Tabelle zu `eventId` aufgelöst
+
+### Wikipedia-Import: Erkenntnisse aus Phase 2A (2026-02-09)
+
+**Script:** `scripts/parse_wikipedia_wlf.py` — parst Wikipedia-Wikitext via API → YAML-Dateien.
+
+**Namens-Transliteration ist das größte Datenqualitätsproblem:**
+- Viele Opfer haben 2-3 Schreibvarianten (z.B. "Shirouzi / Shiroozehi", "Mohammadpour / Mahmoudpour")
+- Wikipedia speichert Varianten mit "/" getrennt — Parser extrahiert die erste als `name_latin`, Rest als `aliases`
+- Ohne Farsi-Originalname (`name_farsi`) ist die "richtige" Transliteration nicht bestimmbar
+- Priorität für Phase 2B: Farsi-Namen aus HRANA ergänzen
+
+**Zahedan "Bloody Friday" dominiert den Datensatz:**
+- 129 von 422 Opfern (30.6%) stammen vom 30. September 2022 in Zahedan
+- Diese Einträge haben die niedrigste Datenqualität (oft nur Name + Ort)
+- Empfehlung: Sammel-Narrativ-Seite für "Bloody Friday" zusätzlich zu Einzelseiten
+
+**Feldabdeckung aus Wikipedia allein:**
+- 100%: Name, 99%: Datum + Ort, 96%: Provinz (auto-gemappt)
+- 30%: Alter, 27%: Todesursache, 29%: Umstände
+- 0%: Farsi-Name, Geschlecht, Ethnie, Foto, Beruf, Familie, alle "Life"-Felder
+
+**City-to-Province Mapping:** Manuell gepflegt in `determine_province()` — ~80 Städte gemappt. Bei neuen Importen erweitern.
 
 ### Zukünftige Imports
 
