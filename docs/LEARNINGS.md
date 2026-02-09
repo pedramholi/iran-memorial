@@ -173,6 +173,8 @@
 - **Event-Context Mapping im Seed:** Hardcoded Map von YAML `event_context` Strings zu Event-Slugs. Ermöglicht automatische Verknüpfung von Opfern mit Ereignissen beim Import.
 - **Iterative Namenslisten für Gender-Inferenz:** Gender-Abdeckung von 64% → 99.8% in 4 Iterationen. Methode: Unknowns analysieren → häufigste Namen identifizieren → Liste erweitern → erneut laufen lassen. Jede Iteration liefert abnehmende Erträge, aber 4 Runden reichen für nahezu vollständige Abdeckung.
 - **Font-Strategie:** Inter (Google Fonts) für LTR, Vazirmatn für Farsi RTL — geladen via `<link>` im Locale-Layout, kein @font-face nötig.
+- **Multi-Source-Import vor PDF-Parsing:** Immer zuerst nach maschinenlesbaren Quellen suchen (CSVs, APIs, Wikitables). Community-Projekte wie iranvictims.com haben oft Download-Buttons. PDFs nur als letzte Option — pdftotext + Regex funktioniert aber gut für strukturierte NGO-Reports.
+- **Name-based Dedup reicht für Erstimport:** `name.lower()` Matching fängt ~95% der Duplikate. Für die restlichen 5% (Transliterations-Varianten wie "Shirouzi" vs "Shirouzehi") braucht es ein dediziertes Dedup-Script.
 
 ---
 
@@ -234,7 +236,13 @@ Die bestehenden YAML-Dateien verwenden ein flaches Format mit verschachtelten Ob
 
 ### Fehlende WLF-Opfer: Lückenanalyse und Strategie (2026-02-09)
 
-**Aktueller Stand:** 466 Opfer (422 Wikipedia-Parser + 35 manuell recherchiert + 9 2025/2026-Proteste)
+**Aktueller Stand (nach Multi-Source-Import):** 4.577 Opfer total
+- 786 WLF 2022 (Wikipedia 422 + HRANA 352 + Manuell 12)
+- 23 WLF 2023 (Hinrichtungen + Hafttode)
+- 2 WLF 2024 (Hinrichtungen)
+- 20 in 2025 (3 WLF-Hinrichtungen + 17 aus iranvictims.com)
+- 3.744 in 2026 (iranvictims.com CSV-Import)
+- 2 historisch (1988, 2009)
 
 **Zur Einordnung der Zahlen:**
 Die 551 Toten (IHR, Stand Sept. 2023) sind das **verifizierte Minimum**, nicht die Realität. IHR zählt nur Fälle die durch zwei unabhängige Quellen, Sterbeurkunden oder Bildmaterial belegbar sind. HRANA meldete bereits Jan. 2023 über 512 Tote. Interne Quellen (Gesundheitsministerium, Gerichtsmedizin) sprechen von 1.500-3.000 Toten. Die wahre Zahl liegt mit hoher Wahrscheinlichkeit im vierstelligen Bereich.
@@ -254,19 +262,21 @@ Die 551 Toten (IHR, Stand Sept. 2023) sind das **verifizierte Minimum**, nicht d
 4. **Hijab-Enforcement:** 1 Fall (Armita Geravand)
 5. **2025/2026-Proteste:** 9 namentlich identifizierte Opfer erfasst (Aminian, Fallahpour, u.a.)
 
-**Noch fehlende Kategorien:**
-1. **Wikipedia-Lücken:** ~100 Opfer auf der "Deaths during"-Seite die der Parser nicht erfasst hat
-2. **IHR/HRANA-Daten:** ~100-150 verifizierte Opfer die nur in NGO-Berichten dokumentiert sind
-3. **2025/2026-Proteste:** Geschätzt 3.000-36.000 Tote, bisher nur 9 namentlich erfasst
+**Erledigte Quellen-Importe:**
+1. ~~Wikipedia "Deaths during" — Re-Parse auf Lücken~~ → ERLEDIGT: Nur 1 Tabelle mit 422 Zeilen, Parser hat alles erfasst
+2. ~~HRANA 82-Day Report~~ → ERLEDIGT: 352 neue Opfer importiert (scripts/parse_hrana_82day.py)
+3. ~~iranvictims.com CSV~~ → ERLEDIGT: 3.752 Opfer der 2025-2026 Proteste (scripts/import_iranvictims_csv.py)
+4. ~~IHR One-Year Report~~ → BLOCKIERT: Cloudflare, aber Coverage bereits > IHR 551
 
-**Strategie nach Priorität:**
+**Noch offene Quellen:**
 
-| Prio | Quelle | Erwartete neue Opfer | Aufwand | Datenqualität |
-|------|--------|---------------------|---------|---------------|
-| 1 | Wikipedia "Deaths during" — Re-Parse auf Lücken | ~100 | 1 Tag | Hoch |
-| 2 | Iran Human Rights (iranhr.net) Artikel | ~100-150 | 3-5 Tage | Hoch (verifiziert) |
-| 3 | Boroumand Foundation (iranrights.org/memorial) | ~50-200 + Enrichment | 5-7 Tage | Höchste (detailliert) |
-| 4 | HRANA (en-hrana.org) | ~50-80 | 3-5 Tage | Mittel-Hoch |
+| Prio | Quelle | Erwartete neue Opfer | Aufwand | Status |
+|------|--------|---------------------|---------|--------|
+| 1 | IHR (iranhr.net) — Direktkontakt | ~0-50 Enrichment | E-Mail senden | Offen |
+| 2 | Boroumand Foundation (iranrights.org/memorial) | ~50-200 + Enrichment | API/Scrape | Offen |
+| 3 | Amnesty International PDFs | ~44 Kinder namentlich | PDF-Parse | Offen |
+| 4 | HRANA 20-Day Report (archive.org) | ~0-20 | PDF-Parse | Offen |
+| 5 | Deduplizierung & Name-Normalisierung | Reduziert Duplikate | Script | **Priorität** |
 | 5 | KHRN + IHR für 2025/2026-Proteste | Tausende | Laufend | Mittel |
 | 6 | Amnesty International Berichte | ~10-30 | 2-3 Tage | Hoch |
 

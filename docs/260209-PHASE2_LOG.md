@@ -434,6 +434,88 @@ Commit: 437348c
 
 ---
 
+#### LOG-P2-018 | 2026-02-09 | IRANVICTIMS.COM CSV-IMPORT (2025-2026)
+
+**Was:** 3.752 Opfer-Dateien aus iranvictims.com CSV importiert
+**Warum:** Erste strukturierte Quelle für die 2025-2026 Proteste
+
+```
+Quelle: https://iranvictims.com/victims.csv
+  - 4.386 Einträge total (3.753 killed, 477 arrested, 111 sentenced_to_death)
+  - Felder: Card ID, English Name, Persian Name, Age, Location, Date, Status, Sources, Notes
+
+Import-Script: scripts/import_iranvictims_csv.py
+  - Filtert nur status="killed"
+  - Province-Mapping für 30+ Provinzen (erweiterte City→Province Map)
+  - Cause-of-death Extraktion aus Notes
+  - Source-URL-Parsing (iranvictims.com + bis zu 3 Primärquellen)
+  - Duplikat-Check gegen existierende Slugs
+
+Ergebnis:
+  - 3.752 neue YAML-Dateien (17 in 2025/, 3.735 in 2026/)
+  - 1 übersprungen (existierte bereits)
+  - Persian Names: 98.3% Coverage
+  - Age: 61.1% Coverage
+  - Location: 96.6% Coverage
+  - Top-Provinzen: Tehran (1052), Isfahan (474), Alborz (355)
+
+Commit: d14f672
+```
+
+**Lesson Learned:** Community-Datenbanken (iranvictims.com) können maschinenlesbare CSVs haben — immer prüfen bevor PDFs geparst werden.
+
+---
+
+#### LOG-P2-019 | 2026-02-09 | HRANA 82-TAGE-PDF IMPORT (WLF 2022)
+
+**Was:** 352 neue Opfer aus dem HRANA 82-Day Report extrahiert
+**Warum:** HRANA hat 481 namentlich identifizierte Opfer, Wikipedia nur 422
+
+```
+Quelle: en-hrana.org 82-Day WLF Comprehensive Report (486 Seiten)
+  - PDF heruntergeladen, mit pdftotext extrahiert (poppler)
+  - Strukturierte Einträge: "1 - Name - Age: X - Gender: Y - Place: Z - Date: DD-Mon-YYYY - Cause: ..."
+
+Import-Script: scripts/parse_hrana_82day.py
+  - Regex-basierte Extraktion aus pdftotext-Output
+  - Section: "First category – identity of 481 people" (2. Vorkommen, nicht TOC)
+  - Name-based Dedup gegen alle existierenden YAML-Dateien
+
+Ergebnis:
+  - 480/481 Einträge erfolgreich geparst
+  - 352 neue YAML-Dateien in data/victims/2022/
+  - 121 bereits per Name in DB vorhanden (Überlappung mit Wikipedia)
+  - 7 per Slug-Match übersprungen
+  - Gender-Daten: 429 male, 51 female (100% Coverage!)
+  - 2022-Verzeichnis: 434 → 786 Dateien
+
+Commit: efa770a
+```
+
+**Lesson Learned:** PDF-Reports sind parsbar, wenn der Text strukturiert ist. pdftotext + Regex reicht für gut formatierte NGO-Reports.
+
+---
+
+#### LOG-P2-020 | 2026-02-09 | IHR-REPORT: CLOUDFLARE-BLOCKADE
+
+**Was:** IHR one-year report (551 Opfer) konnte nicht geparst werden
+**Warum:** iranhr.net ist hinter Cloudflare, alle Zugriffsversuche blockiert
+
+```
+Versucht:
+  - WebFetch: 403 Forbidden
+  - curl mit User-Agent: Cloudflare Challenge Page
+  - Wayback Machine: Zugriff fehlgeschlagen
+  - IHR PDF (Rapport_iran_2022_PirQr2V.pdf): War der Todesstrafen-Jahresbericht, nicht der WLF-Protest-Report
+
+Status: NICHT MÖGLICH — aber auch NICHT MEHR NÖTIG
+  - 2022 DB hat jetzt 786 Einträge > IHRs 551 Minimum
+  - Coverage: Wikipedia (422) + HRANA (352 neu) + Manuell (12) = 786
+  - IHR-Abgleich als zukünftige Aufgabe markiert (bei Cloudflare-Zugang oder Direktkontakt)
+```
+
+---
+
 ### Phase 2B — Zusammenfassung
 
 | Metrik | Ziel | Ergebnis |
@@ -444,7 +526,9 @@ Commit: 437348c
 | Gender-Inferenz | >80% | ✅ **99.8%** |
 | Hinrichtungen komplett | Alle 12 | ✅ **12/12** |
 | Opfer-Kategorien komplett | Alle 5 Kategorien | ✅ 5/5 abgedeckt |
-| Gesamtzahl Opfer in DB | >422 | ✅ **473** |
+| WLF-Opfer in DB (2022) | >551 (IHR) | ✅ **786** |
+| 2025-2026-Proteste | Neue Quelle | ✅ **3.752 aus iranvictims.com** |
+| Gesamtzahl Opfer in DB | >422 | ✅ **4.577** |
 | Knowledge Base | Chronologische Fakten | ✅ IRAN_KNOWLEDGE.md |
 
 ### Schlüsselerkenntnisse Phase 2B
@@ -452,8 +536,12 @@ Commit: 437348c
 1. **Wikipedia-Parser hatte systematischen Blindspot:** Nur Protest-Tote, keine Hinrichtungen, keine Hafttode
 2. **5 Opferkategorien statt 1:** Protest-Tote, Hinrichtungen, Hafttode, verdächtige "Suizide", Hijab-Enforcement
 3. **551 ist ein Boden, nicht die Decke:** Wahre Zahl vermutlich vierstellig
-4. **~100 Opfer noch auf Wikipedia-Seite, aber nicht im Parser:** Re-Parse steht aus
-5. **Nika Shakarami:** BBC-Leak 2024 enthüllte sexuellen Übergriff — aktualisiert
+4. **Wikipedia hat nur 1 Tabelle mit 422 Zeilen** — Parser hat alles erfasst. Lücke lag nicht an fehlenden Tabellen, sondern an anderen Quellen (HRANA)
+5. **HRANA 82-Day Report:** 352 zusätzliche Opfer, die nicht auf Wikipedia waren → 786 in 2022
+6. **iranvictims.com:** Einzige maschinenlesbare CSV-Quelle, 3.752 Opfer der 2025-2026 Proteste
+7. **IHR Cloudflare-Blockade:** Website nicht zugänglich, aber Coverage bereits über IHR-Minimum
+8. **Nika Shakarami:** BBC-Leak 2024 enthüllte sexuellen Übergriff — aktualisiert
+9. **Datenbank-Explosion:** Von 473 → 4.577 Opfer in einer Session durch Multi-Source-Import
 
 ---
 
@@ -472,7 +560,7 @@ Commit: 437348c
 - [ ] Docker-Netzwerk `memorial-net` auf VPS erstellen
 - [ ] PostgreSQL-Container starten (Port 5433)
 - [ ] Prisma-Migrationen ausführen
-- [ ] Seed-Script mit 473 YAML-Dateien laufen lassen
+- [ ] Seed-Script mit 4.577 YAML-Dateien laufen lassen
 - [ ] Next.js App deployen
 - [ ] Nginx + SSL konfigurieren
 - [ ] Domain + DNS einrichten
