@@ -701,6 +701,44 @@ Docs: 3a402e7 (LEARNINGS.md + CLAUDE.md aktualisiert)
 
 ---
 
+#### LOG-P2-026 | 2026-02-09 | BOROUMAND FOUNDATION ENRICHMENT
+
+**Was:** 27.202 Opfer aus iranrights.org/memorial gescraped und gegen unsere DB abgeglichen
+**Warum:** Farsi-Namen, Fotos und Cross-Referencing als verifizierte Quelle
+
+```
+Phase 1 (Browse): 545 Seiten gecrawlt → 27.202 Master-Liste
+  - URL: /memorial/browse/date/{1-545}, 50 Einträge pro Seite
+  - Felder: ID, Slug, Name, Mode of Killing, Photo-URL
+  - Kein API — HTML-Scraping mit urllib + regex
+  - Rate-Limiting: 1.5-2.5s random delay, ~18 Min total
+
+Phase 2 (Match): 419 Name-Matches gegen 4.378 YAMLs
+  - Normalisiert: lowercase, Bindestriche/Apostrophe entfernt
+  - Problem: Häufige Namen (Mohammad Ahmadi → 4 Boroumand-IDs!)
+  - 387 unique Boroumand IDs, 236 unique YAML-Dateien
+
+Phase 3 (Detail): 387 EN + FA Detailseiten gefetcht
+  - HTML-Struktur: <h1 class='page-top'> für Name
+  - Felder: <div><em>Label:</em> Value</div> (nicht dt/dd!)
+  - Farsi: /fa/memorial/story/{id}/{slug} → Farsi-Name aus h1
+  - ~26 Min (387 × 2 requests × 2s delay)
+
+Phase 4 (Enrich): 203 Dateien angereichert, 216 Date-Mismatches übersprungen
+  - Date-Validation: Boroumand-Datum vs YAML date_of_death
+  - ±1 Tag Toleranz (Cross-Source-Reporting-Differenzen)
+  - 64 Farsi-Namen, 33 Fotos, 202 Boroumand-Source-Links
+  - SSL-Fix nötig: macOS Python braucht ssl.CERT_NONE für urllib
+
+Script: scripts/scrape_boroumand.py (4 Subcommands)
+Cache: scripts/.boroumand_cache/ (in .gitignore)
+Commit: 8df7e1d
+```
+
+**Lesson Learned:** Date-Validation ist kritisch bei Name-Matching — häufige iranische Namen (Ali Mohammadi, Mohammad Ja'fari) existieren in verschiedenen Jahrzehnten als verschiedene Opfer. Ohne Datumsabgleich hätte >50% der Matches falsche Personen angereichert.
+
+---
+
 ## Phase 2C: Deployment
 
 ### Infrastruktur-Entscheidungen (bereits getroffen)

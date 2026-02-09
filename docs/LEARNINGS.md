@@ -286,7 +286,7 @@ Die 551 Toten (IHR, Stand Sept. 2023) sind das **verifizierte Minimum**, nicht d
 | Prio | Quelle | Erwartete neue Opfer | Aufwand | Status |
 |------|--------|---------------------|---------|--------|
 | 1 | IHR (iranhr.net) — Direktkontakt | ~0-50 Enrichment | E-Mail senden | Offen |
-| 2 | Boroumand Foundation (iranrights.org/memorial) | ~50-200 + Enrichment | API/Scrape | Offen |
+| 2 | ~~Boroumand Foundation (iranrights.org/memorial)~~ | ~~203 enriched (64 FA-Namen, 33 Fotos, 202 Sources)~~ | ~~HTML-Scrape~~ | **ERLEDIGT** |
 | 3 | ~~Amnesty International MDE 13/6104/2022~~ | ~~41 enriched + 3 neue~~ | ~~PDF-Parse~~ | **ERLEDIGT** |
 | 4 | HRANA 20-Day Report (archive.org) | ~0-20 | PDF-Parse | Offen |
 | 5 | ~~Deduplizierung & Name-Normalisierung~~ | ~~206 Duplikate entfernt~~ | ~~Script~~ | **ERLEDIGT** |
@@ -347,9 +347,27 @@ Vor jedem Import gegen diese 5 Opferkategorien prüfen:
 - **`javidnamhamedan` Telegram-Kanal** als Quelle in iranvictims.com erzeugt systematisch Duplikate mit Tehran-Region-Einträgen.
 - **Score 30-49 erfordert Datei-Prüfung**: Automatisches Mergen in diesem Bereich würde ~50% falsche Merges erzeugen.
 
+### Boroumand Foundation Import (2026-02-09)
+
+**Script:** `scripts/scrape_boroumand.py` — 4-Phasen HTML-Scraper für iranrights.org/memorial.
+
+**Ergebnis:** 203 YAML-Dateien angereichert (64 Farsi-Namen, 33 Fotos, 202 Source-Links)
+- 27.202 Opfer in Boroumand-DB (6× unsere DB), aber Overlap nur ~419 Name-Matches
+- Date-Validation reduzierte 419 Matches auf 203 (216 = verschiedene Personen, gleicher Name)
+- Boroumand hat massive historische Daten (1979–2021), aber unsere DB fokussiert auf 2022–2026
+
+**Technische Erkenntnisse:**
+- iranrights.org hat keine API, kein Sitemap — nur HTML-Scraping über Browse-Pagination
+- HTML-Struktur: `<div><em>Label:</em> Value</div>` (nicht dt/dd wie in WebFetch-Markdown-Konvertierung angezeigt!)
+- macOS Python urllib braucht SSL-Context-Fix (CERT_NONE) wegen fehlender System-Zertifikate
+- Browse-Seiten zeigen kein Datum — nur Name + Mode of Killing. Datum erst auf Detail-Seiten.
+- Jahr→Seiten-Mapping: 2022 ab Seite 514, 1988 ab Seite 222 (Massaker: ~3.600 Einträge!)
+
+**Offenes Potenzial:** 27.202 - 419 Matches = ~26.783 potentielle neue Opfer, vor allem historische (1979–2021). 1988-Massaker allein = ~3.600 Einträge. Erfordert eigene Import-Phase.
+
 ### Zukünftige Imports
 
-Boroumand Foundation, Iran Human Rights (IHR) und HRANA haben eigene Datenformate. Pro Import-Quelle ein eigenes Mapping-Script erstellen, dokumentiert mit Plan + Log.
+IHR und HRANA haben eigene Datenformate. Pro Import-Quelle ein eigenes Mapping-Script erstellen, dokumentiert mit Plan + Log. Boroumand historische Daten (1979–2021) als separates Projekt.
 
 ---
 
