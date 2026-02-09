@@ -233,33 +233,84 @@ Seit 1979 hat die Islamische Republik Iran Hunderttausende Menschen getötet —
 
 ---
 
-## Offene Fragen
+## Grundüberzeugung
 
-> Fragen, die vor der Detailplanung beantwortet werden sollten.
+> **Das Schweigen ist unser größter Feind.**
+>
+> Das Nicht-Hinsehen, das Nicht-Publik-Machen, das Töten und Foltern ohne die Aufmerksamkeit der Weltöffentlichkeit — in der Dunkelheit — das ist es, was das Regime am Leben hält. Jedes Opfer, das wir dokumentieren, ist ein Akt gegen das Schweigen. Jede Seite, die wir veröffentlichen, ist ein Licht in dieser Dunkelheit.
+>
+> **Wir dürfen nicht wegsehen. Wir dürfen nicht schweigen.**
+>
+> Dieses Prinzip steht über allen anderen Abwägungen. Im Zweifel: veröffentlichen, dokumentieren, sichtbar machen. Nicht aus Sensationslust, sondern weil Schweigen Mittäterschaft ist.
+
+---
+
+## Beantwortete Grundsatzfragen
+
+> Entschieden am 2026-02-09. Diese Entscheidungen bilden das Fundament für alle weiteren Planungen.
 
 ### Inhalt und Daten
-1. **Welche Opfer-Kategorien erfassen wir?** Politische Gefangene, Demonstranten, ethnische Minderheiten, religiöse Minderheiten, Kindersoldaten, zivile Kriegsopfer? Wo ziehen wir die Grenze?
-2. **Wie gehen wir mit umstrittenen Fällen um?** Wenn Quellen sich widersprechen? Wenn die genauen Umstände unklar sind?
-3. **Wie vermeiden wir Desinformation?** Welcher Verifizierungsprozess reicht aus?
-4. **Was tun wir mit Opfern ohne Namen?** Tausende Tote aus 1988 sind namentlich unbekannt. Wie repräsentieren wir sie?
-5. **Welche Datenschutz-Pflichten gelten?** DSGVO für europäische Server? Recht auf Vergessen bei historischen Daten?
+
+**1. Welche Opfer-Kategorien erfassen wir?**
+→ **Alle Opfer des Regimes.** Politische Gefangene, Demonstranten, ethnische und religiöse Minderheiten, Kindersoldaten, zivile Kriegsopfer, Opfer von Attentaten, in Haft Gestorbene, Zwangsverschwundene. Auch indirekte Opfer (Suizid nach Folter, Tod im Exil durch Folgeerkrankungen). Bei indirekten Opfern wird wahrheitsgemäß und ausdrücklich darauf hingewiesen, dass es sich um indirekte Folgen staatlicher Gewalt handelt.
+
+**2. Wie gehen wir mit umstrittenen Fällen um?**
+→ **Faktenbasierte Darstellung mit Quellenhierarchie.** Primärquellen zuerst: Augenzeugen, Familien, UN-Berichte, NGOs. Wenn glaubwürdige Quellen sich widersprechen, werden alle gezeigt. Das Regime ist kein glaubwürdiger Akteur — ihre Darstellungen werden nicht als gleichwertige Quelle behandelt, sondern nur wo relevant als Dokumentation der Vertuschung gezeigt: "Das Regime behauptete X. Medizinische Befunde / UN-Untersuchung widerlegen dies."
+
+**3. Wie vermeiden wir Desinformation?**
+→ **Hybrid-System: Mensch + Crowd + KI.** Eher veröffentlichen als zurückhalten, aber mit transparentem Verifizierungsstatus. Besucher können jeden Eintrag flaggen (strukturiert: welches Feld, was ist falsch, Quelle). Alle Signale werden aggregiert. KI erkennt Muster (koordinierte Angriffe, Bot-Flags, Anomalien) und filtert vor. Mensch entscheidet final. Regime-nahe Akteure haben Desinformation perfektioniert — die KI-Schicht ist der Schutzschild dagegen.
+
+**4. Was tun wir mit Opfern ohne Namen?**
+→ **Kollektive Gedenkseiten + Feedback-Schleife.** Pro Ereignis eine kollektive Seite ("Geschätzt 5.000–30.000 Opfer. 847 identifiziert. Helfen Sie, die Übrigen zu finden."). Individuelle Seiten erst wenn genug Substanz vorhanden ist, um eine menschliche Ebene aufzubauen — mindestens ein Name ODER persönliche Details (Alter, Beruf, Zeugenbericht). Besucher können unbekannte Opfer identifizieren. Informationen fließen in die Datenbank, werden KI-basiert analysiert und nach menschlicher Prüfung zugeordnet. Die Feedback-Schleife: Mehr Besucher → mehr Informationen → schärfere Daten → glaubwürdigere Seite → mehr Besucher.
+
+**5. Welche Datenschutz-Pflichten gelten?**
+→ **Abgestuft nach Personengruppe.**
+- *Opfer (Verstorbene):* Frei dokumentierbar. DSGVO gilt nicht für Tote. Historische Dokumentation durch öffentliches Interesse geschützt.
+- *Lebende Angehörige:* Keine persönlichen Details (Adresse, Aufenthaltsort) ohne Einwilligung. Nur allgemeine Angaben ("hinterließ eine Frau und zwei Kinder").
+- *Einreicher:* Anonyme Einreichung immer möglich. E-Mail optional, nur intern, nie veröffentlicht, löschbar.
+- *Besucher:* Zero Tracking. Keine Cookies, kein Google Analytics, keine Drittanbieter-Scripts.
+- *Verantwortliche/Täter:* Öffentliches Interesse überwiegt. Namennennung wenn durch UN-Berichte, Gerichtsurteile oder NGO-Dokumentation belegt.
 
 ### Partnerschaften
-6. **Können wir Daten der Boroumand Foundation importieren?** Unter welchen Bedingungen? Lizenz?
-7. **Iran Human Rights (IHR) als Datenquelle?** Formale Partnerschaft nötig?
-8. **HRANA-Daten für aktuelle Ereignisse?** Format, Lizenz, Aktualisierungsrhythmus?
-9. **Zusammenarbeit mit Universitäten?** Digital Humanities Programme, die helfen könnten?
+
+**6–9. Boroumand Foundation, IHR, HRANA, Universitäten?**
+→ **Parallel: Erst vorzeigbare Version bauen, dann herantreten.** Phase 2 deployen, dann mit Live-Link und GitHub-Repo an Boroumand, IHR und HRANA: "Dürfen wir eure öffentlich zugänglichen Daten mit Quellenangabe integrieren?" Kein formeller Vertrag am Anfang nötig. Ergänzen, nicht konkurrieren. Universitäten (Digital Humanities) sind Phase 4+ — erst wenn Traktion da ist.
 
 ### Technik und Betrieb
-10. **Wer moderiert Community-Einreichungen?** Brauchen wir ein ehrenamtliches Moderatorenteam?
-11. **Wie finanzieren wir den Server-Betrieb?** Stipendien? Institutionelle Anbindung?
-12. **Welche Sicherheitsmaßnahmen gegen staatliche Angriffe?** DDoS ist wahrscheinlich. Was noch?
-13. **Wie stellen wir Langzeit-Verfügbarkeit sicher?** Was passiert in 10, 20, 50 Jahren?
+
+**10. Wer moderiert Community-Einreichungen?**
+→ **Gestuftes System, dynamisch angepasst.** Anfangs allein (wenige Einreichungen). Bei Wachstum Team aufbauen. Bei Skalierung KI-Vorfilterung. Kein starrer Plan — organisch wachsen lassen, flexibel anpassen.
+
+**11. Wie finanzieren wir den Server-Betrieb?**
+→ **Selbst finanziert.** Laufende Kosten ~15–20€/Monat (Hetzner VPS + Domain + Cloudflare Free). Bei Kosten über ~200€/Monat wird flexibel entschieden ob Grants oder andere Finanzierung nötig sind.
+
+**12. Welche Sicherheitsmaßnahmen gegen staatliche Angriffe?**
+→ **Die Architektur selbst ist die beste Verteidigung.** Open Source auf GitHub = komplettes Backup. Server weg → neuer Server, `git clone`, `docker compose up`, fertig. Zusätzlich: Cloudflare Free (DDoS), tägliche DB-Backups, SSH-Key-only, kein Admin-Zugang ohne 2FA. Desinformation wird durch den Verifizierungs-Kreislauf (Frage 3) abgefangen. Erweiterte Maßnahmen (Tor, IPFS, Mirrors) erst bei tatsächlichen Angriffen — nicht overengineeren.
+
+**13. Wie stellen wir Langzeit-Verfügbarkeit sicher?**
+→ **Jeder muss dieses Projekt neu aufsetzen können — auch ohne den Gründer.** Code offen, Daten exportierbar, Anleitung dokumentiert. Ab Phase 2: regelmäßiger JSON/CSV-Export in Git, Internet Archive Snapshots, zweiter Git-Mirror (GitLab/Codeberg). Institutionelle Anbindung (Universität/Bibliothek) als langfristige Option wenn Traktion da ist.
 
 ### Ethik und Wirkung
-14. **Wie schützen wir Familien im Iran vor Vergeltung?** Kann das Veröffentlichen eines Opferprofils die Familie gefährden?
-15. **Wie vermeiden wir "Poverty Porn" / Trauma-Voyeurismus?** Würdevolle Darstellung vs. schockierende Wirkung?
-16. **Wie stellen wir sicher, dass die Daten nicht missbraucht werden?** Offene Daten bedeutet auch: Regime könnte die Daten nutzen.
+
+**14. Wie schützen wir Familien im Iran vor Vergeltung?**
+→ **Dreifacher Schutz.**
+- *Einreicher sind nie sichtbar:* Wer Information einreicht, wird nirgends genannt — nicht auf der Seite, nicht in Metadaten, nicht im Code.
+- *Familien entscheiden selbst:* Keine Details die auf lebende Familien im Iran zurückführbar sind, ohne Einwilligung. Wenn kein Kontakt möglich: nur bereits öffentlich dokumentierte Fakten.
+- *Nachträgliche Entfernung:* Familien können jederzeit beantragen, persönliche Details zu entfernen. Im Zweifel für die Sicherheit. Aber: Bereits öffentlich dokumentierte historische Fakten (UN, Amnesty, Gerichtsurteile) bleiben.
+
+**15. Wie vermeiden wir Trauma-Voyeurismus?**
+→ **Den Menschen zeigen, nicht den Tod — aber die Grausamkeit des Regimes nie verschweigen.**
+- *Standardansicht:* Lebensfoto, Name, Geschichte, Todesumstände in klarer Sprache. Würdevoll, nichts verschwiegen.
+- *Vollständige Dokumentation:* Beweisfotos, Obduktionsberichte, Augenzeugendetails hinter bewusstem Klick ("Dokumentation anzeigen"). Wichtig für Forscher, Juristen, Gerichte.
+- *Von Familie mitgestaltet:* Familien werden aktiv einbezogen — über Social Media kontaktiert, gefragt wie die Seite ihres Angehörigen aussehen soll. Manche wollen die Grausamkeit zeigen ("Die Welt soll sehen"), andere wollen Würde und Stille. Beides respektieren. Kontaktaufnahme immer menschlich und einfühlsam, nie automatisiert.
+- *Der Test:* Würde die Mutter dieses Menschen die Seite als würdevolles Gedenken empfinden?
+
+**16. Wie stellen wir sicher, dass die Daten nicht missbraucht werden?**
+→ **Offenheit beibehalten. Das Risiko ist real, aber der Nutzen überwiegt.**
+- Das Regime hat seine eigenen Informationen über seine Opfer — geschlossene Daten schützen nicht.
+- Geschlossene Daten verhindern aber, dass Forscher, Juristen und Journalisten sie nutzen können.
+- Transparenz ist die stärkste Waffe gegen ein Regime, das von Geheimhaltung und Dunkelheit lebt.
+- Schutzmaßnahmen: Keine Daten die nicht bereits öffentlich sind. Keine Details zu lebenden Angehörigen im Iran. Integritätssicherung durch permanente Links, Zeitstempel und Hashes — Manipulation fällt auf wenn das Original öffentlich zugänglich ist.
 
 ---
 
