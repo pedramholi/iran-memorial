@@ -1,6 +1,21 @@
 import { prisma } from "./db";
 import type { Locale } from "@/i18n/config";
 
+const VICTIM_COLUMNS = `
+  v.id, v.slug, v.name_latin, v.name_farsi, v.aliases,
+  v.date_of_birth, v.place_of_birth, v.gender, v.ethnicity, v.religion, v.photo_url,
+  v.occupation_en, v.occupation_fa, v.education, v.family_info,
+  v.dreams_en, v.dreams_fa, v.beliefs_en, v.beliefs_fa,
+  v.personality_en, v.personality_fa, v.quotes,
+  v.date_of_death, v.age_at_death, v.place_of_death, v.province,
+  v.cause_of_death, v.circumstances_en, v.circumstances_fa,
+  v.event_id, v.event_context, v.responsible_forces, v.witnesses, v.last_seen,
+  v.burial_location, v.burial_date, v.burial_circumstances_en, v.burial_circumstances_fa,
+  v.grave_status, v.family_persecution_en, v.family_persecution_fa,
+  v.legal_proceedings, v.tributes,
+  v.verification_status, v.data_source, v.notes, v.created_at, v.updated_at
+`.trim();
+
 export async function getVictimBySlug(slug: string) {
   return prisma.victim.findUnique({
     where: { slug },
@@ -51,8 +66,8 @@ export async function getFilterOptions() {
   ]);
 
   const provinces = provinceRows.map((r) => r.province);
-  const minYear = yearRange[0]?.min_year ?? 1988;
-  const maxYear = yearRange[0]?.max_year ?? new Date().getFullYear();
+  const minYear = Number(yearRange[0]?.min_year) || 1988;
+  const maxYear = Number(yearRange[0]?.max_year) || new Date().getFullYear();
 
   return { provinces, minYear, maxYear };
 }
@@ -139,7 +154,7 @@ async function searchVictimsList(params: {
 
   // Use tsvector match + trigram similarity as fallback ranking
   const query = `
-    SELECT v.*,
+    SELECT ${VICTIM_COLUMNS},
       ts_rank(v.search_vector, to_tsquery('simple', $1)) AS ts_score,
       GREATEST(
         similarity(v.name_latin, $2),
@@ -155,7 +170,7 @@ async function searchVictimsList(params: {
     )
     ${filterSQL}
     ORDER BY ts_score DESC, trgm_score DESC
-    LIMIT ${pageSize} OFFSET ${(page - 1) * pageSize}
+    LIMIT ${Number(pageSize)} OFFSET ${Number((page - 1) * pageSize)}
   `;
 
   const countQuery = `
@@ -175,7 +190,7 @@ async function searchVictimsList(params: {
     prisma.$queryRawUnsafe<{ total: number }[]>(countQuery, ...filterValues),
   ]);
 
-  const total = (countResult as any[])[0]?.total ?? 0;
+  const total = Number((countResult as any[])[0]?.total) || 0;
 
   return {
     victims: mapRawVictims(victims as any[]),
@@ -199,7 +214,7 @@ export async function searchVictims(query: string, limit = 20) {
 
   const results = await prisma.$queryRawUnsafe<any[]>(
     `
-    SELECT v.*,
+    SELECT ${VICTIM_COLUMNS},
       ts_rank(v.search_vector, to_tsquery('simple', $1)) AS ts_score,
       GREATEST(
         similarity(v.name_latin, $2),
@@ -214,11 +229,10 @@ export async function searchVictims(query: string, limit = 20) {
       OR similarity(coalesce(v.place_of_death, ''), $2) > 0.15
     )
     ORDER BY ts_score DESC, trgm_score DESC
-    LIMIT $3
+    LIMIT ${Number(limit)}
     `,
     tsQuery,
-    trimmed,
-    limit
+    trimmed
   );
 
   return mapRawVictims(results);
