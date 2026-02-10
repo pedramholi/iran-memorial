@@ -90,7 +90,8 @@
     "male": "مرد",
     "female": "زن",
     "results": "نتیجه",
-    "showing": "نمایش"
+    "showing": "نمایش",
+    "clearFilters": "پاک کردن فیلترها"
   },
   "submit": {
     "title": "ارسال اطلاعات",

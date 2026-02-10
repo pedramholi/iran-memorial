@@ -90,7 +90,8 @@
     "male": "Männlich",
     "female": "Weiblich",
     "results": "Ergebnisse",
-    "showing": "Anzeige"
+    "showing": "Anzeige",
+    "clearFilters": "Filter zurücksetzen"
   },
   "submit": {
     "title": "Informationen einreichen",

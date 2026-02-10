@@ -90,7 +90,8 @@
     "male": "Male",
     "female": "Female",
     "results": "results",
-    "showing": "Showing"
+    "showing": "Showing",
+    "clearFilters": "Clear filters"
   },
   "submit": {
     "title": "Submit Information",

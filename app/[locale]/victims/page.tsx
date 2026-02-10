@@ -2,7 +2,8 @@ import { setRequestLocale } from "next-intl/server";
 import { useTranslations } from "next-intl";
 import { VictimCard } from "@/components/VictimCard";
 import { SearchBar } from "@/components/SearchBar";
-import { getVictimsList } from "@/lib/queries";
+import { FilterBar } from "@/components/FilterBar";
+import { getVictimsList, getFilterOptions } from "@/lib/queries";
 import { fallbackVictimsList } from "@/lib/fallback-data";
 import { Link } from "@/i18n/navigation";
 import { formatNumber } from "@/lib/utils";
@@ -26,8 +27,13 @@ export default async function VictimsPage({
   const gender = sp.gender || "";
 
   let result: { victims: any[]; total: number; page: number; pageSize: number; totalPages: number } = fallbackVictimsList;
+  let filterOptions = { provinces: [] as string[], minYear: 1988, maxYear: new Date().getFullYear() };
+
   try {
-    result = await getVictimsList({ page, search, province, year, gender });
+    [result, filterOptions] = await Promise.all([
+      getVictimsList({ page, search, province, year, gender }),
+      getFilterOptions(),
+    ]);
   } catch {
     // DB not available — use fallback data
   }
@@ -37,6 +43,10 @@ export default async function VictimsPage({
       locale={locale as Locale}
       result={result}
       search={search}
+      province={province}
+      year={year}
+      gender={gender}
+      filterOptions={filterOptions}
     />
   );
 }
@@ -45,13 +55,24 @@ function VictimsContent({
   locale,
   result,
   search,
+  province,
+  year,
+  gender,
+  filterOptions,
 }: {
   locale: Locale;
   result: { victims: any[]; total: number; page: number; totalPages: number };
   search: string;
+  province: string;
+  year: number | undefined;
+  gender: string;
+  filterOptions: { provinces: string[]; minYear: number; maxYear: number };
 }) {
   const t = useTranslations("search");
   const tc = useTranslations("common");
+
+  // Build query string that preserves all current filters for pagination links
+  const filterQs = buildFilterQs({ search, province, year, gender });
 
   return (
     <div className="mx-auto max-w-6xl px-4 py-12">
@@ -68,8 +89,17 @@ function VictimsContent({
       </div>
 
       {/* Search */}
-      <div className="mb-8">
+      <div className="mb-4">
         <SearchBar defaultValue={search} />
+      </div>
+
+      {/* Filters */}
+      <div className="mb-8">
+        <FilterBar
+          provinces={filterOptions.provinces}
+          minYear={filterOptions.minYear}
+          maxYear={filterOptions.maxYear}
+        />
       </div>
 
       {result.victims.length === 0 ? (
@@ -101,7 +131,7 @@ function VictimsContent({
               {/* Prev */}
               {result.page > 1 ? (
                 <Link
-                  href={`/victims?page=${result.page - 1}${search ? `&search=${search}` : ""}`}
+                  href={`/victims?page=${result.page - 1}${filterQs}`}
                   className="px-3 py-2 rounded-md border border-memorial-700 text-memorial-300 hover:bg-memorial-800 text-sm"
                 >
                   &larr;
@@ -121,7 +151,7 @@ function VictimsContent({
                 ) : (
                   <Link
                     key={p}
-                    href={`/victims?page=${p}${search ? `&search=${search}` : ""}`}
+                    href={`/victims?page=${p}${filterQs}`}
                     className={`px-3 py-2 rounded-md text-sm ${
                       p === result.page
                         ? "bg-gold-500/20 border border-gold-500/30 text-gold-400 font-medium"
@@ -136,7 +166,7 @@ function VictimsContent({
               {/* Next */}
               {result.page < result.totalPages ? (
                 <Link
-                  href={`/victims?page=${result.page + 1}${search ? `&search=${search}` : ""}`}
+                  href={`/victims?page=${result.page + 1}${filterQs}`}
                   className="px-3 py-2 rounded-md border border-memorial-700 text-memorial-300 hover:bg-memorial-800 text-sm"
                 >
                   &rarr;
@@ -152,6 +182,15 @@ function VictimsContent({
       )}
     </div>
   );
+}
+
+function buildFilterQs(params: { search: string; province: string; year: number | undefined; gender: string }): string {
+  const parts: string[] = [];
+  if (params.search) parts.push(`search=${encodeURIComponent(params.search)}`);
+  if (params.province) parts.push(`province=${encodeURIComponent(params.province)}`);
+  if (params.year) parts.push(`year=${params.year}`);
+  if (params.gender) parts.push(`gender=${encodeURIComponent(params.gender)}`);
+  return parts.length > 0 ? `&${parts.join("&")}` : "";
 }
 
 function generatePageNumbers(current: number, total: number): (number | "...")[] {

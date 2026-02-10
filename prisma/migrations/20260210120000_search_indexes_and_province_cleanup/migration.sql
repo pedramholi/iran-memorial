@@ -1,4 +1,9 @@
--- Enable pg_trgm for fuzzy search
+-- Province duplicate cleanup
+UPDATE "victims" SET "province" = 'Khorasan-e Razavi' WHERE "province" IN ('Khorasan', 'Khorasan\Khorasan-e Razavi');
+UPDATE "victims" SET "province" = 'Sistan va Baluchestan' WHERE "province" = 'Sistan Va Baluchestan';
+UPDATE "victims" SET "province" = 'Kohgiluyeh va Boyer-Ahmad' WHERE "province" = 'Kohgiluyeh-va Boyer-Ahmad';
+
+-- Enable pg_trgm (idempotent)
 CREATE EXTENSION IF NOT EXISTS pg_trgm;
 
 -- GIN trigram indexes for fuzzy search
