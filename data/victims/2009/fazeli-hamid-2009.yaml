@@ -1,0 +1,66 @@
+id: fazeli-hamid-2009
+name_latin: "Hamid Fazeli"
+name_farsi: "حمید فاضلی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2009-01-01
+age_at_death: null
+place_of_death: "Sanandaj"
+province: "Kordestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The news of the execution of Mr. Hamid Fazeli along with the three other
+    defendants in this case was announced by the websites of Iran Human Rights
+    (April 28, 2009) and Kurdistan Media (January 27, 2009). Additional
+    information regarding this case was obtained from the interview conducted
+    by Abdorrahman Boroumand Center with former fellow inmate of the executed
+    individual. Mr. Fazeli, 25 or 27, was from Hamadan. According to the
+    available information, his case pertains to abduction and rape (Kurdistan
+    Media, January 27, 2009). Arrest and Detention There is no information
+    available on the details of Mr. Fazeli s arrest and detention. He spent
+    five years in prison (Kurdistan Media, January 27, 2009). An eyewitness
+    who was in detention in Sanandaj Prison in the second half of 2007
+    testified to Mr. Fazeli s presence in the prison as an inmate during that
+    time. According to this eyewitness, Mr. Fazeli used to work in the prison
+    infirmary while in detention there (ABC interview). Trial There is no
+    information available on the session or sessions of Mr. Fazeli s trial.
+    Charges According to the available information, Mr. Fazeli was charged
+    with abduction and rape (Kurdistan Media, January 27, 2009). According to
+    the statements of an individual who used to be in detention in Sanandaj
+    Prison at the same time, Mr. Fazeli and the three other defendants in this
+    case had been charged with raping a female student in the city of Hamadan
+    (ABC interview). The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. International human rights organizations have drawn
+    attention to reports indicating that the Islamic Republic authorities have
+    brought trumped-up charges, including drug trafficking, sexual, and other
+    criminal offences, against their opponents (including political, civil
+    society activists, as well as unionists and ethnic and religious
+    minorities). Each year Iranian authorities sentence to death hundreds of
+    alleged common criminals, following judicial processes that fail to meet
+    international standards. The exact number of people convicted and executed
+    based on trumped-up charges is unknown. Evidence of Guilt There is no
+    information available on the details of the evidence entered against Mr.
+    Fazeli. Defense There is no information available on the details of Mr.
+    Fazeli s defense. Judgment Mr. Hamid Fazeli was hanged along with the
+    three other defendants in this case in Sanandaj Central Prison some time
+    during the winter of 2009 (Iran Human Rights, April 28, 2009; Kurdistan
+    Media, January 27, 2009). However, there is no information available on
+    the exact date of this execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8137/hamid-fazeli"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

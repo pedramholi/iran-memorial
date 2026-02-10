@@ -1,0 +1,28 @@
+id: musavi-seyed-ali-habibi-2009
+name_latin: "Seyed Ali Habibi Musavi"
+name_farsi: "سید علی موسوی (حبیبی)"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam (Shi'a)"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2009-12-27
+age_at_death: 43
+place_of_death: "Azadi Ave. and Shademan St."
+province: "Tehran"
+cause_of_death: "Extrajudicial Execution » Extrajudicial shooting"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/84713/seyed-ali-habibi-musavi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

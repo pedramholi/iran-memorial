@@ -1,0 +1,47 @@
+id: zarei-hossein-2006
+name_latin: "Hossein Zare'i"
+name_farsi: "حسین زارعی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2006-03-18
+age_at_death: null
+place_of_death: "Takhti Stadium"
+province: "Fars"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Hossein Zare i was announced by the website
+    of Fars News Agency (March 19, 2005) as well as Iran daily (March 25,
+    2005), both citing the Deputy Commander of Fars Province s Police Force
+    Central Command in Social and Educational Affairs. The case of Mr. Zare i
+    pertains to the murder of a person in the Haydarabad neighborhood of
+    Jahrom County, on October 22, 2003. Arrest and detention Mr. Zare i was
+    immediately identified and arrested by the police force in Jahrom County.
+    He spent two and a half years in prison. However, there is no information
+    available on the details of Mr. Zare i s arrest and detention. Trial Mr.
+    Zare i was tried in Fars Province. However, there is no information
+    available on the details of the session or sessions of his trial. Charges
+    Mr. Zare i was charged with murder. The validity of the criminal charges
+    brought against this defendant cannot be ascertained in the absence of the
+    basic guarantees of a fair trial. Evidence of guilt There is no
+    information available on the details of the evidence of guilt entered
+    against Mr. Zare i. Defense There is no information available on the
+    details of Mr. Zare i s defense. Judgment Mr. Hossein Zare i was sentenced
+    to death. The verdict was validated by the Supreme Court. Mr. Zare i was
+    publicly hanged in Jahrom County s Takhti Stadium, on March 18-19, 2005.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/85202/hossein-zarei"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

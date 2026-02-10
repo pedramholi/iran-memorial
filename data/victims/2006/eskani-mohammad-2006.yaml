@@ -1,0 +1,64 @@
+id: eskani-mohammad-2006
+name_latin: "Mohammad Eskani"
+name_farsi: "محمد اسکانی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2006-11-05
+age_at_death: null
+place_of_death: "Iranshahr"
+province: "Sistan va Baluchestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Mohammad Eskani, son of JonMohammad, along
+    with another individual was announced by Kayhan daily (November 6-7, 2006)
+    and the website of Khabar-e Jonoub (November 8, 2006), both citing the
+    Public Relations section of the provincial Ministry of Justice office of
+    Sistan and Baluchistan. Additional information is collected from the
+    websites of Baztab (October 29, 2006) Che Khabara (December 29, 2005) and
+    Fars News agency (April 23, 2008). Mr. Eskani s case was related to Armed
+    road blockage and murder of a President s guard in 2005. Arrest and
+    detention One person was arrested in the mountains of Afshan village in
+    Sistan Va Baluchestan by the Jakigor border guards on December 28, 2005 in
+    connection with the murder of a President s guard. He was in prison for a
+    year; however there is no further information available on his arrest and
+    detention. Trial Public Prosecutor s office of Iranshahr tried Mr. Eskani.
+    There is no information available on the details of his trial session/s.
+    Charges The charges brought against Mr. Eskani was announced as Armed
+    blockage of the roads and murder of the President s guard . The validity
+    of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    International human rights organizations have drawn attention to reports
+    indicating that the Islamic Republic authorities have brought trumped-up
+    charges, including drug trafficking, sexual, and other criminal offences,
+    against their opponents (including political, civil society activists, as
+    well as unionists and ethnic and religious minorities). Each year Iranian
+    authorities sentence to death hundreds of alleged common criminals,
+    following judicial processes that fail to meet international standards.
+    The exact number of people convicted and executed based on trumped-up
+    charges is unknown. Evidence of guilt Mr. Eskani s confessions was brought
+    as evidence against him.. International human rights organizations have
+    repeatedly condemned the government of the Islamic Republic of Iran for
+    its systematic use of severe torture and solitary confinement to obtain
+    confessions from detainees and have questioned the authenticity of
+    confessions obtained under duress. Defense No information is available on
+    Mr. Eskani s defense. Judgment The Public Prosecutor s Office of Iranshahr
+    sentenced Mr. Mohammad Eskani to death. This sentence was approved by the
+    Supreme Court. Mr. Eskani and one other person were hanged in Iranshahr in
+    public on November 05, 2006.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8360/mohammad-eskani"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

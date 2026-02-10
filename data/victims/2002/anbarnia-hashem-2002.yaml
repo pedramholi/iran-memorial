@@ -1,0 +1,52 @@
+id: anbarnia-hashem-2002
+name_latin: "Hashem Anbarnia"
+name_farsi: "هاشم انبرنیا"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2002-10-27
+age_at_death: null
+place_of_death: "Jamshidieh Park"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    25061 The execution of Mr. Hashem Anbarnia and another person was reported
+    by the Islamic Republic News Agency (IRNA), which quoted the head of
+    Police Emergencies Center (110). The Jomhuri Eslami daily published the
+    report (web edition, October 28, 2002). Arrest and detention The
+    circumstances of this defendant's arrest and detention are not known.
+    Trial No information about the trial is provided. Charges Ali Bayat told
+    the IRNA correspondent in the Security Headquarters of the Greater Tehran
+    Area that Mr. Anbarnia was charged with "martyring and shooting to death,
+    on August 7, 2002, Lt. Sergeant Hosein Amiri, a security guard on duty in
+    Jamshidieh Park, using a shot gun." The validity of the criminal charges
+    brought against this defendant cannot be ascertained in the absence of the
+    basic guarantees of a fair trial. International human rights organizations
+    have drawn attention to reports indicating that the Islamic Republic s
+    authorities have brought trumped up charges against their political
+    opponents and executed them for drug trafficking, sexual, and other
+    criminal offences. Each year, Iranian authorities sentence to death
+    hundreds of alleged common criminals, following judicial processes that
+    fail to meet international standards. The exact number of people convicted
+    based on trumped-up charges is unknown. Evidence of guilt The report of
+    this execution does not contain information regarding the evidence
+    provided against the defendant. Defense No information is available on Mr.
+    Anbarnia's defense. Judgment Mr. Anbarnia was sentenced to death and the
+    sentence was carried out publicly in the park, where the alleged crime had
+    taken place.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/25061/hashem-anbarnia"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

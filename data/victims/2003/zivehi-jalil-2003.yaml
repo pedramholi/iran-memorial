@@ -1,0 +1,67 @@
+id: zivehi-jalil-2003
+name_latin: "Jalil Ziveh'i"
+name_farsi: "جلیل زیوه‌ای"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam (Sunni)"
+photo: "https://www.iranrights.org/actorphotos/73196_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 2003-11-30
+age_at_death: 27
+place_of_death: "Mahabad"
+province: "Azarbaijan-e Gharbi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Jalil Ziveh i was published on the websites
+    of Radio Farda on December 8, 2003, quoting the Speaker of the Kurdish
+    Democratic Party of Iran, and Asrema on December 11, 2003, quoting the
+    Kurdish Democratic Party of Iran s announcement. Additional information
+    was taken from a phone interview by the Boroumand Foundation with a person
+    close to Mr. Ziveh I (ABF Interview). According to this report, he was a
+    Sunni Kurd, single, and from Sardasht. He had a primary education and
+    worked as a businessperson. The Kurdish Democratic Party of Iran (PDKI)
+    was founded in 1945 with the objective to gain autonomy for Kurdistan, in
+    north-west Iran. After the Revolution, conflicts between the new central
+    Shiite government and mainly Sunni Kurdistan regarding the role of
+    minorities in the drafting of the constitution, specification of Shiite as
+    the official state religion, and particularly the autonomy of the region,
+    ended in armed clashes between the Revolutionary Guards and the Peshmerga
+    (the militia of the PDKI). The PDKI boycotted the referendum of April 1,
+    1979 when people went to polls to vote for or against the Islamic regime.
+    On August 19, 1979, Ayatollah Khomeini called the PDKI the party of Satan
+    and declared it unofficial and illegal. Mass executions and fighting broke
+    out and continued for several months. By 1983, PDKI had lost much of its
+    influence in the region. Various leaders of the PDKI have been
+    assassinated. Arrest and detention According to the Radio Farda report,
+    Mr. Ziveh i was injured and arrested by Revolutionary Guards near a
+    village in Mahabad in September of 1994. He was detained at prisons in
+    Sardasht, Mahabad, and Orumieh for nine years without access to an
+    attorney (ABF Interview). According to the Speaker of the Kurdish
+    Democratic Party of Iran, he was arrested for his activities in the party,
+    including the secret distribution of its publications and newspapers.
+    According to him, Mr. Ziveh i had been tortured by the security forces
+    after his arrest (Radio Farda report). Trial No information is available
+    on Mr. Ziveh i s trial. Charges No information is available on Mr. Ziveh i
+    s charges. According to a person close to him, he was charged for his
+    affiliation with the Kurdish Democratic Party of Iran (ABF Interview).
+    Evidence of guilt The report of this execution does not contain
+    information regarding the evidence provided against Mr. Ziveh i. Defense
+    No information is available about Mr. Ziveh i s defense. Judgment The
+    court condemned Mr. Ziveh i to death and he was executed in Mahabad on
+    November 30, 2003(ABF Interview). According to Radio Farda, he was
+    executed on December 4, 2003. No specific information is available about
+    this execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7495/jalil-zivehi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

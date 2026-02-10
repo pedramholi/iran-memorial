@@ -1,0 +1,48 @@
+id: biranvand-abbas-2001
+name_latin: "Abbas Biranvand"
+name_farsi: "عباس بیرانوند"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2001-08-16
+age_at_death: 31
+place_of_death: "Semnan"
+province: "Semnan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Abbas Biranvand, a resident of Khorramabad,
+    along with two others, was published in the Iran and Jomhuri-Eslami
+    newspapers on August 18, 2001. Mr. Biranvand case is in connection with an
+    armed robbery at a restaurant in Garmsar-Semnan road on July 31, 2000.
+    Arrest and Detention According to the Jomhuri-Eslami newspaper, after
+    several individuals with covered faces entered a restaurant in
+    Garmsar-Semnan road and robbed some of the guests and the waiters,
+    inspectors of the Intelligence Police in Garmsar arrested Mr. Binanvand
+    along with some others while they were driving toward Tehran six hours
+    after the robbery had taken place. Trial The Islamic Revolutionary Court
+    of Semnan tried Mr. Binanvand; however, no information is available on his
+    trial. Charges The charge against Mr. Biranvand was announced as "several
+    armed robberies across the country." Evidence of Guilt The evidence
+    provided against Mr. Biranvand and his collaborators was their confessions
+    and recovery of two Kalashnikovs, a Colt, and some bullets. Defense No
+    information is available on Mr. Biranvand s defense. Judgment The court
+    condemned Mr. Abbas Biranvand to death for Waging War on God and
+    Corruption on Earth by committing several armed robberies. The Supreme
+    Court confirmed the ruling on July 21, 2001. He was hanged in public in
+    Semnan on August 16, 2001.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7662/abbas-biranvand"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

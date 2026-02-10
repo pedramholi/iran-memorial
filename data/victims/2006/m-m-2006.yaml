@@ -1,0 +1,65 @@
+id: m-m-2006
+name_latin: "M. M."
+name_farsi: "م. م."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam (Shi'a)"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2006-11-06
+age_at_death: 36
+place_of_death: "Bandar Abbas"
+province: "Hormozgan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. M. M. was announced by the website of Iranian
+    Students News Agency ISNA (November 8, 2006) and E temad daily (November
+    9, 2006), both citing the Public Relations section of the provincial
+    Ministry of Justice office of Hormozgan. The news was also announced by
+    the website of Khabar-e Jonoub (November 11, 2006). Mr. M. M. was from
+    Bandar Abbas, and his case pertains to the murder of a Bangladeshi citizen
+    in the vicinity of the Towhid Township in Bandar Abbas in the winter of
+    1998. Arrest and detention Mr. M. M. was arrested after the police
+    investigation and interrogation of the brothers-in-law of the victim had
+    produced contradictory accounts. In addition, Mr. M. M. had confessed to
+    the murder to one of his relatives, which became another clue for his
+    prosecution. Mr. M. M. spent seven years in prison. Trial Mr. M. M. was
+    tried by the Public Court of the provincial Ministry of Justice office.
+    However, there is no information available on the details of the session
+    or sessions of his trial. Charges Mr. M. M. was charged with murder. The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    Evidence of guilt The discovery of the body of the victim, the
+    contradictions in the testimonies of the witnesses, and the defendant s
+    confessions were entered as evidence of guilt against Mr. M. M.
+    International human rights organizations have repeatedly condemned the
+    government of the Islamic Republic of Iran for its systematic use of
+    severe torture and solitary confinement to obtain confessions from
+    detainees and have questioned the authenticity of confessions obtained
+    under duress. Defense The victim was the husband of the defendant s
+    sister. He had repeatedly beaten Mr. M. M. s sister, which could have been
+    the cause of his fatal struggle with the victim. However, there is no
+    information available on the details of Mr. M. M. s defense. Judgment The
+    Public Court of the provincial Ministry of Justice office sentenced Mr. M.
+    M. to death. The Supreme Court validated the verdict in 2002. However, as
+    the case had no plaintiffs, carrying out the sentence was postponed for
+    four years. Eventually, the judiciary authorities used their legal
+    privileges to carry out the sentence. Mr. M. M. was hanged in Bandar Abbas
+    Central Prison on November 8, 2006. According to the authorities, the
+    communications between the Iranian Foreign Ministry and the Iranian
+    Embassy in Bangladesh to identify the family of the victim had led to no
+    results.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/83153/m-m"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

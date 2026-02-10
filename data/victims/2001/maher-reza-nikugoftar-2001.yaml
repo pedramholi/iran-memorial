@@ -1,0 +1,42 @@
+id: maher-reza-nikugoftar-2001
+name_latin: "Reza Nikugoftar Maher"
+name_farsi: "رضا نیکوگفتار ماهر"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2001-09-08
+age_at_death: 32
+place_of_death: "Qom"
+province: "Markazi"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    News of the execution of Mr. Reza Nikugoftar Maher was published in the
+    Iran newspapers on September 8, 2001. Arrest and Detention There is no
+    specific information on Mr. Nikugoftar Maher s arrest and detention. Trial
+    No information is available on Mr. Nikugoftar Maher s trial. Charges The
+    charges against Mr. Nikugoftar Maher were announced as "murder and rape .
+    According to the Iran newspaper, quoting an official from the Qom
+    Courthouse, robbery, assault, and battery of a woman were also among
+    charges brought against the defendant. Evidence of Guilt The report of
+    this execution did not provide any specific information on the evidence
+    presented against Mr. Nikugoftar Maher. Defense No information is
+    available on Mr. Nikugoftar Maher s defense. Judgment The court condemned
+    Mr. Reza Nikugoftar Maher to death and 74 lashes, and the Supreme Court
+    confirmed the ruling. He was executed in public at the Sargardan
+    Intersection of Qom Power Plant on September 8, 2001.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/75560/reza-nikugoftar-maher"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

@@ -1,0 +1,55 @@
+id: abdi-hossein-2002
+name_latin: "Hossein Abdi"
+name_farsi: "حسین عبدی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2002-10-30
+age_at_death: null
+place_of_death: "Fars Province"
+province: "Fars"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Hossein Abdi was published in the Ettela at
+    newspaper on October 1, 2002 and in the Jomhuri-Eslami newspaper on
+    October 3, 2002. According to the existing information, Mr. Hossein Abdi,
+    known as Hossein Noruz, was a well-known person in the southern Fars
+    Province. According to the Police Information Unit, he was wanted by the
+    police. (Jomhuri-Eslami newspaper) Arrest and Detention According to the
+    Police Information Unit, Mr. Abdi was arrested after a series of
+    intelligence and police operations during insecurity incidents in Lamard
+    and Mehr in 2002. There is no specific information on his last arrest and
+    detention. He had been arrested and detained in 1995 but escaped while
+    being transferred to the Lamard Courthouse in 2001. (Ettela at newspaper)
+    Trial No information is available on Mr. Abdi s trial. Since he was on the
+    run, it is unknown whether he was present during his trial or there was a
+    second trial after his re-arrest. Charges According to the Jomhuri-Eslami
+    newspaper, the charges against Mr. Abdi were announced as "murder,
+    sedition, theft, and creating insecurity and road blocks in the southern
+    Fars cities including Lar, Lamard, and Mehr." These charges were related
+    to his first arrest in 1995. The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. Evidence of Guilt The report of this execution
+    did not provide any specific information on the evidence presented against
+    Mr. Abdi. Defense No information is available on Mr. Abdi's defense.
+    Judgment According to the existing information, before his last arrest,
+    Mr. Hossein Abdi had been condemned to death for charges in his previous
+    trial after his arrest in 1995. The ruling was carried out at Imam
+    Khomeini Square in Lamard when he was hanged in public on September 30,
+    2002.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7676/hossein-abdi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

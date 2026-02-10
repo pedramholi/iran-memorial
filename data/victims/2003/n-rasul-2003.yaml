@@ -1,0 +1,49 @@
+id: n-rasul-2003
+name_latin: "Rasul N."
+name_farsi: "رسول ن"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2003-10-22
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Rasul N. was reported by the Khorassan daily on
+    October 23, 2003. The report suggests that another person convicted of Ali
+    Asghar’s murder on a different date (January 13, 2003) was also hanged at
+    the same time and place. International human rights organizations have
+    drawn attention to reports indicating that the Islamic Republic’s
+    authorities have brought trumped up charges against their political
+    opponents and executed them for drug trafficking, sexual, and other
+    criminal offences. Each year, Iranian authorities sentence to death
+    hundreds of alleged common criminals, following judicial processes that
+    fail to meet international standards. The validity of the criminal charges
+    brought against these defendants cannot be ascertained in the absence of
+    the basic guarantees of a fair trial. The exact number of people convicted
+    based on trumped-up charges is unknown. Arrest and detention The
+    circumstances of Mr. N.’s arrest and detention are not known. Trial No
+    information is available on the defendant’s trial. Charges Based on the
+    report, Mr. N. was accused of stabbing a person named Ali Asghar to death
+    on December 6, 2002. Evidence of guilt The report of this execution does
+    not contain information regarding the evidence provided against the
+    defendant. Defense No information is available on Mr. N.'s defense.
+    Judgment Mr. N. was convicted of murder and sentenced to death. He was
+    hanged at dawn in the courtyard of Qasr Prison.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/11002/rasul-n"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

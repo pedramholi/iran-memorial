@@ -1,0 +1,56 @@
+id: mohammadzadeh-mohammad-2004
+name_latin: "Mohammad Mohammadzadeh"
+name_farsi: "محمد محمدزاده"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2004-01-25
+age_at_death: 21
+place_of_death: "Ilam"
+province: "Ilam"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The news of the execution of Mr. Mohammad Mohammadzadeh was published on
+    the websites of both the Sharq and the Jomhuri Eslami newspapers on
+    January 26, 2004. According to the Jomhuri Eslami newspaper, "Mohammad
+    Mohammadzadeh, at the age of 17, murdered a 65-year-old man named Musa
+    Azadi." International laws have strictly prohibited capital punishment
+    against those who were under the age of 18 at the time of committing the
+    crime. As a party to the Covenant on Civil and Political Rights and the
+    Convention on the Rights of the Child, Iran has the obligation to avoid
+    capital punishment for an offence committed before the age of eighteen.
+    Arrest and detention The circumstances of this defendant s arrest and
+    detention are not known. Trial No information is available on the
+    defendant s trial. Charges The deputy Public Prosecutor of Ilam announced
+    the charge against the defendant as "murdering a 65 years old man in
+    1999." Evidence of guilt The evidence provided against the defendant was
+    his confession to the murder due to sexual issues. International human
+    rights organizations have repeatedly condemned the government of the
+    Islamic Republic of Iran for its systematic use of severe torture and
+    solitary confinement to obtain confessions from detainees and have
+    questioned the authenticity of confessions obtained under duress. In the
+    case of political detainees, these confessions are, at times, televised.
+    The National Television Station broadcasts confessions during which
+    prisoners plead guilty to vague and false charges, repent and renounce
+    their political beliefs, and/or implicate others. Human rights
+    organizations have also pointed to the pattern of retracted confessions by
+    those prisoners who have been freed. Defense In his defense, the defendant
+    claimed "sexual issues" as his motivation for the murder. Judgment The
+    court condemned Mr. Mohammad Mohammadzadeh to death and the Supreme Court
+    confirmed the ruling. He was hanged in Ilam prison on January 25, 2004.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4198/mohammad-mohammadzadeh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

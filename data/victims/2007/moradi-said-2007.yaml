@@ -1,0 +1,59 @@
+id: moradi-said-2007
+name_latin: "Sa'id Moradi"
+name_farsi: "سعید مرادی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2007-11-12
+age_at_death: null
+place_of_death: "Kermanshah Province"
+province: "Kermanshah"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Sa’id Moradi, along with another person, was
+    published on the websites of the Iranian Students News Agency (ISNA) and
+    the Abrar newspaper on November 14, 2007. According to the reports, “Some
+    masked robbers attempted an armed robbery from a goldsmith’s shop in
+    Sahneh more than a year ago. In order to disperse people they started
+    shooting which resulted in killing of a citizen. They then high-jacked a
+    car and escaped the scene.” Arrest and Detention According to the media
+    reports, “The security forces of Baneh in Kordestan province suspected a
+    Maxima car and stopped it. After searching the car they found weapons and
+    anesthesia spray. Finally, the occupants of the car confessed that they
+    had previous records for robbery and murder.” Trial No information is
+    available on the defendant’s trial. The trial took place in the
+    Revolutionary Court of Sahneh (Kordestan province). Charges The charges
+    against Mr. Sa’id Moradi and the other person who was arrested with him
+    were announced as “three counts of murder, public intimidation, and
+    several robberies.” The validity of the criminal charges brought against
+    this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that Islamic Republic authorities
+    have brought trumped-up charges against their political opponents and
+    executed them for alleged drug trafficking, sexual, and other criminal
+    offences. Each year Iranian authorities sentence to death hundreds of
+    alleged common criminals, following judicial processes that fail to meet
+    international standards. The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of Guilt The evidence provided
+    against the defendants was “discovery of weapons and Anesthesia spray in
+    their car and their own confessions.” Defense No information is available
+    on Mr. Moradi’s defense. Judgment The court condemned Mr. Sa’id Moradi to
+    death in public for being “an enemy of God” and a “corruptor on earth”.
+    The ruling was confirmed by Branch 32 of the Supreme Court. He was hanged
+    in Imam Khomeini Square in Sahneh on November 13, 2007 at 3 pm.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/42287/said-moradi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

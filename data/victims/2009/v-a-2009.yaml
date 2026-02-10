@@ -1,0 +1,69 @@
+id: v-a-2009
+name_latin: "A. V."
+name_farsi: "ع. و."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2009-10-07
+age_at_death: null
+place_of_death: "Shiraz"
+province: "Fars"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. A. V. , along with another person, was reported by
+    Khabar-e-Jonoub Newspaper Website, on October 8, 2009. According to
+    available information, his case was related to the murder of a gold
+    merchant in Khorram Bid, Fars, during armed robbery at his store, in 2005.
+    Arrest and detention Mr. A. V. was arrested following an incident of armed
+    robbery at a jewelry store, which resulted in the 44-year-old merchant s
+    death. The police force of Khorram Bid investigated this crime, which
+    occurred on March 13, 2005. There is no detailed information on the
+    circumstances of Mr. A. V.s arrest and detention. He spent five years in
+    prison, starting in 2005. Trial Section 5 of the Criminal Court of Fars
+    Province, tried Mr. A. V. The trial took place with the family of the
+    victim and the District Attorney in attendance. No information is
+    available on Mr. A. V.s trial. Charges Section 5 of the Criminal Court of
+    Fars Province accused Mr. A. V. of murder in the first degree . He was
+    accused of armed robbery at a jewelry store in Khorram Bid, assaulting the
+    owner, shooting him, and fleeing the scene. The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic authorities have brought trumped-up charges, including
+    drug trafficking, sexual, and other criminal offences, against their
+    opponents (including political, civil society activists, as well as
+    unionists and ethnic and religious minorities). Each year Iranian
+    authorities sentence to death hundreds of alleged common criminals,
+    following judicial processes that fail to meet international standards.
+    The exact number of people convicted and executed based on trumped-up
+    charges is unknown. Evidence of guilt According to available information,
+    the main evidence against Mr. A. V. was his own confession. During the
+    preliminary police investigation, he confessed to the killing of Mr. Gh.N.
+    . He also confessed to stealing cash and gold from the jewelry store.
+    Defense According to available information, Mr. A. V. only intended to rob
+    the store. During this robbery, an altercation occurred with the store
+    owner, and he was killed by gunfire. No information is available on his
+    defense. Judgment Section 5 of the Criminal Court of Fars Province
+    sentenced Mr. A. V. to death by hanging. This sentence was requested by
+    the family of the victim and the District Attorney. The accused man s
+    objection to the verdict was overturned, and his sentence was approved by
+    the Supreme Court. The judge supervising the prison appealed to the family
+    of the victim for clemency, but this appeal was not successful. Mr. A. V.
+    was executed in the presence of the family of the victim, on the morning
+    of October 7, 2009, in Adl Abad Prison, in Shiraz.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/82039/a-v"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

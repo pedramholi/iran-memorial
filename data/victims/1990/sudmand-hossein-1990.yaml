@@ -1,0 +1,60 @@
+id: sudmand-hossein-1990
+name_latin: "Hossein Sudmand"
+name_farsi: "حسین سودمند"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Christianity"
+photo: "https://www.iranrights.org/actorphotos/41705_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1990-12-03
+age_at_death: 39
+place_of_death: "Mashhad"
+province: "Khorasan-e Razavi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The information about Mr. Hossein Sudmand has been drawn from the Kalameh
+    magazine (No. 49, March 1, 2005), the website of the Campaign to Support
+    and Free Ramtin Sudmand (son of Mr. Hossein Sudmand), and the interview of
+    Radio Farda with his daughter. Mr. Hossein Sudmand was born in Mashad in a
+    religious Muslim family. He served his compulsory military service in
+    Ahvaz and converted to Christianity. He then migrated to Esfahan and
+    started working in a hospital. After the Islamic Revolution of 1979, he
+    was expelled from the hospital and returned to Mashad. According to
+    available information, Reverend Sudmand used his house in Mashad as a
+    church. After some time he had to close this church due to the pressures
+    of the Iranian government. He was imprisoned for one month. He and his
+    family were threatened to stop proselytizing and denounce their faith in
+    Christianity. The Church advised the Sudmand family to leave Iran for
+    Greece but Reverend Sudmand said that he will remain in Iran to serve God,
+    even if such a service comes at a price. He was married and had four
+    children ( Kalameh ). Arrest and detention The circumstances of Mr.
+    Sudmand arrest and detention are not known. He was arrested in the fall of
+    1990 and detained for a few weeks. After his release from prison, he was
+    summoned for a second time and he surrendered himself to judicial
+    authorities; his family was unaware of his whereabouts. Trial There is no
+    information regarding this trial. Charges The Kalameh magazine reports the
+    charge brought against Mr. Sudmand to be “not denouncing his faith in
+    Christianity.” Although the articles on the Campaign to Support and Free
+    Ramtin Sudmand refer to “apostasy” as the charge, his daughter told Radio
+    Farda that the official charge was never announced to the family. Evidence
+    of guilt No information is available concerning the evidence presented
+    against the accused. Defense No information is available concerning Mr.
+    Sudmand’s defense. Judgment No specific information is available about the
+    verdict leading to this execution. According to Kalameh , on December 3,
+    1990, state authorities informed Mr. Hossein Sudmand’s family that he “had
+    been hanged for remaining steadfast in Christianity and buried in a suburb
+    of Mashad.”
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/41705/hossein-sudmand"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

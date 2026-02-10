@@ -1,0 +1,56 @@
+id: ramezanpur-ali-reza-2001
+name_latin: "Ali Reza Ramezanpur"
+name_farsi: "علیرضا (حمید) رمضان‌پور"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2001-11-13
+age_at_death: 56
+place_of_death: "Bandar Anzali"
+province: "Gilan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Ali Reza (Hamid) Ramezanpur was published in
+    the Iran newspaper on November 15, 2001. Additional information was taken
+    from the Ettela at newspaper on July 15, 2000. Mr. Ramezanpur, known as
+    Hamid and son of Manaf, was from Bandar-e Anzali and worked at the Chuka
+    Industrial Complex. Mr. Ramezanpur s case pertained to the July 12, 2000
+    murder of his wife and two children. Arrest and Detention Mr. Ramezanpour
+    turned himself in at a police station in Rasht at 6:00 AM on Thursday,
+    July 13, 2000. Trial Branch 7 of the Public Court of Bandar-e Anzali tried
+    Mr. Ramezanpur. They referred his case to the Supreme Court at the behest
+    of Ramezanpur s court-appointed attorney. Charges The charge against Mr.
+    Ramezanpur was announced as "murder . He was accused of murdering his wife
+    and two children.The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of basic guarantees of fair
+    trial. Evidence of Guilt The evidence against Mr. Ramezanpur comprised his
+    confessions . Mr. Ramezanpur confessed that he had suffocated his wife and
+    two children with a blanket. According to the judge in the case, Mr.
+    Ramezanpur (who had become unemployed a year and a half before the
+    incident) admitted in his confession that he had decided to put his
+    children to rest for the sake of relieving his own pains and hardships .
+    The judge stated that specialists had investigated Mr. Ramezanpur s
+    physical and mental health and confirmed that he was of sound mind.
+    Defense No detailed information is available regarding Mr. Ramezanpur s
+    defense. Mr. Ramezanpur stated that he had been in a desperate state since
+    a year and half before the incident owing to difficulties related to the
+    loss of his job. Judgment The court condemned Mr. Ali Reza Ramezanpur to
+    74 lashes and death, and the Supreme Court confirmed the ruling. He was
+    hanged in public at the Bibi-Hurieh Square in Bandar-e Anzali on November
+    13, 2001.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/75615/ali-reza-ramezanpur"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

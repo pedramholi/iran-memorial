@@ -1,0 +1,47 @@
+id: yazdani-morteza-2001
+name_latin: "Morteza Yazdani"
+name_farsi: "مرتضی یزدانی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2001-02-14
+age_at_death: 33
+place_of_death: "Shiraz"
+province: "Fars"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Morteza Yazdani was published in the
+    Jomhuri-Eslami newspaper on February 15, 2001. Arrest and detention
+    According to the Head of Fars Provincial Courthouse, Yazdani was on the
+    run and arrested by the Fars security forces. The date and circumstances
+    of his arrest and detention are not known. Trial Branch 29 of the Public
+    Court of Shiraz tried Mr. Yazdani. No information is available on his
+    trial. Charges The charges brought against Mr. Yazdani were announced as
+    nine counts of kidnapping and acts incompatible with chastity. According
+    to the report, quoting the Head of Fars Provincial Courthouse, he had
+    kidnapped children with his private car and committed acts incompatible
+    with chastity. The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. Evidence of guilt The report of this execution does not
+    contain information regarding the evidence provided against Mr. Yazdani.
+    Defense No information is available on Mr. Yazdani s defense. Judgment The
+    court condemned Mr. Morteza Yazdani to death, 15 years imprisonment, and
+    99 lashes. The Supreme Court confirmed the ruling. He was hanged at the
+    Emam Hossein Square in Shiraz on February 14, 2001, after the lash ruling
+    against him was carried out at the Adelabad Prison.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/74251/morteza-yazdani"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

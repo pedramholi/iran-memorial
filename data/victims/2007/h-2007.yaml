@@ -1,0 +1,56 @@
+id: h-2007
+name_latin: "H."
+name_farsi: "ح."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2007-01-01
+age_at_death: null
+place_of_death: "Torbat-e Heydarieh"
+province: "Khorasan-e Razavi"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    News of the execution of an individual identified as H. was published on
+    the website of the Resalat newspaper on March 13, 2007, quoting the Public
+    Relations Office of Khorasan Razavi Court House. Arrest and Detention
+    There is no specific information on the defendant s arrest and detention.
+    Trial This trial took place in Branch One of the Islamic Revolutionary
+    Court of Torbate Heidarieh. No further information is available on the
+    defendant s trial. Charges The charge against the defendant were announced
+    as "transportation and possession of 7 kilograms and 900 grams of heroin
+    (crystal)." The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. International human rights organizations have drawn
+    attention to reports indicating that Islamic Republic authorities have
+    brought trumped-up charges against their political opponents and executed
+    them for alleged drug trafficking, sexual, and other criminal offences.
+    Thousands of alleged drug traffickers have been sentenced to death
+    following judicial processes that fail to meet international standards.
+    Scores of them were executed based on a 1989 law imposing mandatory death
+    sentences on drug traffickers found in possession of specified amounts of
+    proscribed narcotics (5 kg of hashish or opium, and more than 30 grams of
+    heroin, codeine or methadone). The exact number of people convicted based
+    on trumped-up charges is unknown. Evidence of Guilt The report of this
+    execution did not provide any specific information on the evidence
+    presented against the defendant. Defense According to this report, his/her
+    request for pardon was rejected by the Pardon Commission of Khorasan
+    Razavi. No further information is available about the defendant's defense.
+    Judgment The court condemned Mr./Ms. H. to death, the ruling was confirmed
+    by the Supreme Court and carried out at the prison office location in
+    Torbate Heidarieh.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/72346/h"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

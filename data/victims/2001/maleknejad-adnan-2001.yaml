@@ -1,0 +1,41 @@
+id: maleknejad-adnan-2001
+name_latin: "Adnan Maleknejad"
+name_farsi: "عدنان ملک‌نژاد"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2001-07-05
+age_at_death: 26
+place_of_death: "Ilam"
+province: "Ilam"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Adnan Maleknejad, son of Ali, was published
+    in the Jomhuri Eslami and Iran newspapers on July 7, 2001, quoting the
+    Public Relations Office of Ilam Courthouse. Arrest and Detention There is
+    no specific information on Mr. Maleknejad s arrest and detention. Trial No
+    information is available on Mr. Maleknejad s trial. Charges The charge
+    against Mr. Maleknejad was announced as "murder. The validity of the
+    criminal charges brought against this defendant cannot be ascertained in
+    the absence of the basic guarantees of a fair trial. Evidence of Guilt The
+    report of this execution did not provide any specific information on the
+    evidence presented against Mr. Maleknejad. Defense No information is
+    available on Mr. Maleknejad s defense. Judgment The court condemned Mr.
+    Adnan Maleknejad to death, and the Supreme Court confirmed the ruling. He
+    was hanged at the Central Prison yard in Ilam on July 5, 2001.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/75557/adnan-maleknejad"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

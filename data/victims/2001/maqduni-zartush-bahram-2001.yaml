@@ -1,0 +1,42 @@
+id: maqduni-zartush-bahram-2001
+name_latin: "Zartush (Bahram) Maqduni"
+name_farsi: "زرتوش (بهرام) مقدونی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2001-01-01
+age_at_death: null
+place_of_death: "Maragheh"
+province: "Azarbaijan-e Sharqi"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    News of the execution of Mr. Zartush Maqduni, known as Bahram Maqduni,
+    along with two others, was published in the Jomhuri-Eslami newspaper on
+    November 11, 2001. Arrest and detention The circumstances of Mr. Maqduni s
+    arrest and detention are not known. Trial The Maragheh Courthouse tried
+    Mr. Maqduni. No information is available on his trial. Charges The charges
+    brought against Mr. Maqduni were announced as armed robbery and rape. The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    Evidence of guilt The report of this execution does not contain
+    information regarding the evidence provided against Mr. Maqduni. Defense
+    No information is available on Mr. Maqduni s defense. Judgment The court
+    condemned Mr. Zartush Maqduni to death and the Supreme Court confirmed the
+    ruling. He was hanged at the Maragheh Prison yard in November of 2001. The
+    exact date of this execution is unknown.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/74245/zartush-bahram-maqduni"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

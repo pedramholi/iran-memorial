@@ -1,0 +1,67 @@
+id: adelzadeh-ali-2005
+name_latin: "Ali Adelzadeh"
+name_farsi: "علی عادل زاده"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2005-07-06
+age_at_death: 24
+place_of_death: "Mashhad"
+province: "Khorasan-e Razavi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Ali Adelzadeh, son of Morteza, along with two other
+    individuals, was announced on the website of the Hamshahri and the Kayhan
+    newspapers (July 7, 2005) as well as the Fars News Agency (July 6). Arrest
+    and Detention The circumstances of this defendant’s arrest and detention
+    are not known, other than he was arrested subsequent to arrest and
+    confession of another individual, who gave Mr. Adelzadeh’s name to the
+    police. Trial No information is available on the defendant’s trial.
+    Charges According to the Kayhan newspaper report, “Ali Adelzadeh committed
+    eleven robberies from banks, Interest Free Loan Funds, and credit unions
+    during 2003 and 2004.” The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that Islamic Republic authorities
+    have brought trumped-up charges against their political opponents and
+    executed them for alleged drug trafficking, sexual, and other criminal
+    offences. Each year Iranian authorities sentence to death hundreds of
+    alleged common criminals, following judicial processes that fail to meet
+    international standards. The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of Guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against the defendant except his own confessions. According to the
+    Hamshahri newspaper, the defendant confessed to fourteen counts of armed
+    robbery from banks and Interest Free Loan Funds. International human
+    rights organizations have repeatedly condemned the government of the
+    Islamic Republic of Iran for its systematic use of severe torture and
+    solitary confinement to obtain confessions from detainees and have
+    questioned the authenticity of confessions obtained under duress. In the
+    case of political detainees, these confessions are, at times, televised.
+    The National Television broadcasts confessions during which prisoners
+    plead guilty to vague and false charges, repent and renounce their
+    political beliefs, and/or implicate others. Human rights organizations
+    have also pointed to the pattern of retracted confessions by those
+    prisoners who are freed. Defense No information is available on Mr.
+    Adelzadeh’s defense. Judgment The court called Mr. Ali Adelzadeh as “at
+    war with God” and a “corruptor on earth” ( Kayhan ) and condemned him to
+    death in public and returning the stolen money. The Hamshahri newspaper
+    added that the ruling was confirmed by the Supreme Court. Mr. Ali
+    Adelzadeh was executed in public in Qasemabad district in Mashad at 10 on
+    the morning of July 6, 2005.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4803/ali-adelzadeh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

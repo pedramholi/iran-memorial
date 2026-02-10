@@ -1,0 +1,53 @@
+id: -2007-22
+name_latin: null
+name_farsi: null
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2007-10-27
+age_at_death: null
+place_of_death: "Yazd"
+province: "Yazd"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of three unknown individuals was published on the
+    websites of IRNA (Islamic Republic News Agency) on October 27, and Maybod
+    News on October 28, 2007, quoting the Police Information Center of Yazd
+    Province. Arrest and Detention There is no specific information on the
+    defendants’ arrest and detention. Trial No information is available on the
+    defendants’ trial. Charges These defendants were collectively charged with
+    “carrying, possession, and distribution of various narcotics.” The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    International human rights organizations have drawn attention to reports
+    indicating that Islamic Republic authorities have brought trumped-up
+    charges against their political opponents and executed them for alleged
+    drug trafficking, sexual, and other criminal offences. Thousands of
+    alleged drug traffickers have been sentenced to death following judicial
+    processes that fail to meet international standards. Scores of them were
+    executed based on a 1989 law imposing mandatory death sentences on drug
+    traffickers found in possession of specified amounts of proscribed
+    narcotics (5 kg of hashish or opium, and more than 30 grams of heroin,
+    codeine or methadone). The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of Guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against the defendants. Defense No information is available on the
+    defense. Judgment The court condemned these three defendants to death. Two
+    of them were hanged in the Central prison of Yazd and the other person was
+    hanged in Ardakan (Yazd Province) on October 27, 2007.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/60958/name-unknown"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

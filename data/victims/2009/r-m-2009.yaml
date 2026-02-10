@@ -1,0 +1,64 @@
+id: r-m-2009
+name_latin: "M. R."
+name_farsi: "م. ر."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2009-03-04
+age_at_death: 28
+place_of_death: "Shiraz"
+province: "Fars"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The news of the execution of Mr. M. R. along with three other individuals
+    was announced by the website ofKhabar-e Jonoub daily on March 5, 2009. The
+    case of Mr. M. R., 28, pertains to the occurrence of two separate murders
+    in 2004 and 2006 in the Khafr area of Fars Province. Arrest and Detention
+    Mr. M. R. was prosecuted after the Police Criminal Investigation
+    Department of Khafr had been informed of the occurrence of a murder on
+    February 14, 2005. He was identified by the police during an investigation
+    after the occurrence of another murder on August 8, 2006, and was
+    arrested. Mr. M. R. was moved to the Khafr Police Criminal Investigation
+    Department station for an initial investigation. However, there is no
+    information available on the details of his arrest and detention. Trial
+    Mr. M. R. was tried by Branch Five of the Public Court of Fars Province.
+    Charges The court charged Mr. M. R. with two counts of murder. He was
+    accused of fatally shooting a person with an AK-47 in the city of Khafr on
+    February 14, 2005 and fatally shooting another person with an AK-47 on
+    August 8, 2006. The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. Evidence of Guilt Mr. M. R. s confessions became the basis
+    for the verdict that was issued against him. During the initial police
+    investigation as well as the court proceedings, he accepted the charge of
+    murdering the two victims. The expert opinion of the coroner on the cause
+    of death of the two victims was among the pieces of evidence that were
+    entered against Mr. M. R. The coroner declared the cause of death of the
+    second victim to be internal hemorrhage. International human rights
+    organizations have repeatedly condemned the government of the Islamic
+    Republic of Iran for its systematic use of severe torture and solitary
+    confinement to obtain confessions from detainees and have questioned the
+    authenticity of confessions obtained under duress. Defense According to
+    the available information, during the court proceedings Mr. M. R. did not
+    give a statement about the murder of the first victim. Regarding the
+    murder of the second victim he said he had heard that the victim had had
+    an illicit affair with his sister, and that was why he would later shoot
+    him. There is no more information available on Mr. M. R. s defense.
+    Judgment Branch Five of the Public Court of Fars Province sentenced Mr. M.
+    R. to death. Branch 41 of the Supreme Court approved the verdict. Mr. M.
+    R. was hanged in Adelabad Prison, Shiraz on the morning of March 4, 2009.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8140/m-r"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

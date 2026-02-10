@@ -1,0 +1,53 @@
+id: -1997-16
+name_latin: null
+name_farsi: null
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1997-01-01
+age_at_death: null
+place_of_death: "Mashhad"
+province: "Khorasan-e Razavi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of an unknown man, along with eleven others, was
+    published in the Kayhan newspaper on July 14, 1997. Arrest and Detention
+    The circumstances of this defendant’s arrest and detention are not known.
+    Trial No information is available on the defendant’s trial. The trial of
+    this defendant took place in the Islamic Revolutionary Court in Mashhad.
+    Charges The charge against the defendant was announced as "being active
+    and armed in transferring narcotics to the country." The validity of the
+    criminal charges brought against this defendant cannot be ascertained in
+    the absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that
+    Islamic Republic authorities have brought trumped-up charges against their
+    political opponents and executed them for alleged drug trafficking,
+    sexual, and other criminal offences. Thousands of alleged drug traffickers
+    have been sentenced to death following judicial processes that fail to
+    meet international standards. Scores of them were executed based on a 1989
+    law imposing mandatory death sentences on drug traffickers found in
+    possession of specified amounts of proscribed narcotics (5 kg of hashish
+    or opium, and more than 30 grams of heroin, codeine or methadone). The
+    exact number of people convicted based on trumped-up charges is unknown.
+    Evidence of Guilt The report of this execution does not contain
+    information regarding the evidence provided against the defendant. Defense
+    No information is available on the defense. Judgment The court condemned
+    the defendant to death and, after the ruling was confirmed by the Supreme
+    Court, he was hanged in public. No information is available about the
+    exact date of the execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/41480/name-unknown"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

@@ -1,0 +1,48 @@
+id: ahangari-vahid-akbari-2002
+name_latin: "Vahid Akbari Ahangari"
+name_farsi: "وحید اکبری آهنگری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2002-12-23
+age_at_death: null
+place_of_death: "Semnan Province"
+province: "Semnan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Vahid Akbari Ahangari, son of Hassan, along
+    with another person, was published in the Jomhuri-Eslami newspaper on
+    December 24 and 28, 2002 and in the Kayhan newspaper on January 1, 2003.
+    His case was related to the kidnapping and rape of a girl in Semnan.
+    Arrest and Detention Mr. Akbari Ahangari was arrested by police shortly
+    after a woman passenger had been kidnapped and raped by two
+    fellow-passengers of a private taxi in Semnan on April 3, 2002. There is
+    no specific information on his arrest and detention. Trial Branch Two of
+    the Semnan Public Courthouse tried Mr. Akbari Ahangari. No information is
+    available on his trial. Charges According to the Public Relations Office
+    of the Semnan Courthouse, the charges against Mr. Akbari Ahangari were
+    announced as "kidnapping and rape." The validity of the criminal charges
+    brought against this defendant cannot be ascertained in the absence of the
+    basic guarantees of a fair trial. Evidence of Guilt The report of this
+    execution did not provide any specific information on the evidence
+    presented against Mr. Akbari Ahangari. Defense No information is available
+    on Mr. Akbari Ahangari's defense. Judgment Branch Two of the Semnan Public
+    Courthouse condemned Mr. Vahid Akbari Ahangari to death on May 8, 2002,
+    and the Supreme Court confirmed it. He was hanged at the Semnan Central
+    Prison on December 23, 2002.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7677/vahid-akbari-ahangari"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

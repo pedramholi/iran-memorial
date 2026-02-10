@@ -1,0 +1,57 @@
+id: h-m-2008
+name_latin: "M. H."
+name_farsi: "م. ح."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2008-02-17
+age_at_death: null
+place_of_death: "Mashhad"
+province: "Khorasan-e Razavi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of a man named M. H., along with another person, was
+    published in the Khorasan newspaper on February 19, 2008, and, without a
+    name, in the E temad newspaper and on the website of ISNA (Iranian
+    Students News Agency) on February 17, 2008, quoting the Public Relations
+    Office of the Khorasan-e Razavi Courthouse. His case was related to a
+    murder. Arrest and detention The circumstances of Mr. M. H. s arrest and
+    detention are not known. Trial Branch 133 of the Public Court in Mashhad
+    tried Mr. M. H. His case was referred to Branch 16 of the Supreme Court
+    after he and his attorney objected to the ruling. No information is
+    available on his trial. Charges According to the existing reports, the
+    charge brought against Mr. M. H. was announced as murder. The validity of
+    the criminal charges brought against this defendant cannot be ascertained
+    in the absence of the basic guarantees of a fair trial. International
+    human rights organizations have drawn attention to reports indicating that
+    the Islamic Republic authorities have brought trumped-up charges,
+    including drug trafficking, sexual, and other criminal offences, against
+    their opponents (including political, civil society activists, as well as
+    unionists and ethnic and religious minorities). Each year Iranian
+    authorities sentence to death hundreds of alleged common criminals,
+    following judicial processes that fail to meet international standards.
+    The exact number of people convicted and executed based on trumped-up
+    charges is unknown. Evidence of guilt The report of this execution did not
+    provide any specific information on the evidence presented against Mr. M.
+    H. Defense No information is available on Mr. M. H. s defense. Judgment
+    Branch 133 of the Public Court in Mashhad condemned Mr. M. H. to death.
+    Branch 16 of the Supreme Court confirmed the ruling and his case was sent
+    to the Sentence Enforcement Division of the Khorasan-e Razavi Courthouse.
+    He was hanged, along with another person, at the Mashhad Central Prison
+    yard on February 17, 2008 in the morning.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7926/m-h"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

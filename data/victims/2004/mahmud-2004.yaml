@@ -1,0 +1,40 @@
+id: mahmud-2004
+name_latin: "Mahmud"
+name_farsi: "محمود"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2004-01-01
+age_at_death: null
+place_of_death: "Karaj"
+province: "Alborz"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Mahmud, without his last name, was published
+    on the websites of Iranvajahan and Azadtribun on January 28, 2004.
+    Additional information was sent to the Abdorrahman Boroumand Foundation
+    via an email by Monitoring Human Rights in Iran on March 1, 2004. Arrest
+    and detention The circumstances of Mr. Mahmud s arrest and detention are
+    not known. Trial No information is available on Mr. Mahmud s trial.
+    Charges No information is available on Mr. Mahmud s charges. Evidence of
+    guilt The report of this execution did not provide any specific
+    information on the evidence presented against Mr. Mahmud. Defense No
+    information is available on Mr. Mahmud s defense. Judgment After receiving
+    99 lashes, Mr. Mahmud was hanged at the Raja ishahr (Gohardasht) Prison
+    yard in Karaj in January of 2004.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7875/mahmud"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

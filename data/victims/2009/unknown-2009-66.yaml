@@ -1,0 +1,57 @@
+id: unknown-2009-66
+name_latin: "Unknown"
+name_farsi: "ناشناس"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2009-01-28
+age_at_death: null
+place_of_death: "Shiraz"
+province: "Fars"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The news of the execution of an unknown individual along with another
+    unknown individual was announced by the website ofE temad daily (January
+    31, 2009) andKhabar-e Jonoub daily (January 29, 2009). The case of this
+    unknown individual pertains to the murder of his wife in a shop in
+    Arsanjan, Fars Province. Arrest and Detention This unknown individual was
+    arrested by the Police Criminal Investigation Department in early December
+    of 2003. According to the published reports, this unknown individual was
+    prosecuted after the Police Criminal Investigation Department of Arsanjan
+    had been informed of the murder of a young woman in a shop on December 23,
+    2003. However, there is no information available on the details of his
+    arrest and detention. Trial This unknown individual was tried by the
+    Public Court of Fars Province. However, there is no information available
+    on the session or sessions of his trial. Charges The court charged this
+    unknown individual with the murder of his wife. He was accused of fatally
+    stabbing his wife to death in a shop. The validity of the criminal charges
+    brought against this defendant cannot be ascertained in the absence of the
+    basic guarantees of a fair trial. Evidence of Guilt The report of the
+    police on the murder, the expert opinion of the coroner on the body of the
+    victim, and this unknown individual s own confessions became the basis for
+    the verdict that was issued against him. International human rights
+    organizations have repeatedly condemned the government of the Islamic
+    Republic of Iran for its systematic use of severe torture and solitary
+    confinement to obtain confessions from detainees and have questioned the
+    authenticity of confessions obtained under duress. Defense There is no
+    information available on the details of this unknown individual s defense.
+    Judgment The Public Court of Fars Province sentenced this unknown
+    individual to death. Branch 27 of the Supreme Court approved the verdict.
+    This unknown individual was hanged in Adelabad Prison, Shiraz on January
+    28, 2009.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8144/unknown"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

@@ -1,0 +1,51 @@
+id: derakhshan-parvin-1989
+name_latin: "Parvin Derakhshan"
+name_farsi: "پروین درخشان"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1989-01-01
+age_at_death: 33
+place_of_death: "Nahavand"
+province: "Hamedan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Ms. Parvin Derakhshan, along with four other
+    women, was published in the Jomhuri Eslami newspaper on February 1, 1989.
+    Arrest and Detention The circumstances of this defendant’s arrest and
+    detention are not known. Trial No information is available on the
+    defendant’s trial. It took place in the Islamic Revolutionary Court of
+    Nahavand (Hamedan province). Charges The charges against Ms. Parvin
+    Derakhshan were announced as “spreading corruption and prostitution, and
+    facilitating it by establishing various gangs.” The validity of the
+    criminal charges brought against this defendant cannot be ascertained in
+    the absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that
+    Islamic Republic authorities have brought trumped-up charges against their
+    political opponents and executed them for alleged drug trafficking,
+    sexual, and other criminal offences. Each year Iranian authorities
+    sentence to death hundreds of alleged common criminals, following judicial
+    processes that fail to meet international standards. The exact number of
+    people convicted based on trumped-up charges is unknown. Evidence of Guilt
+    The report of this execution does not contain information regarding the
+    evidence provided against the defendant. Defense No information is
+    available on Ms. Parvin Derakhshan’s defense. Judgment The Islamic
+    Revolutionary Court of Nahavand condemned Ms. Parvin Derakhshan to death
+    and the Supreme Court confirmed the ruling. She was hanged in the Nahavand
+    prison.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/39804/parvin-derakhshan"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

@@ -1,0 +1,48 @@
+id: hosseini-mohammad-2004
+name_latin: "Mohammad Hosseini"
+name_farsi: "محمد حسینی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2004-01-01
+age_at_death: null
+place_of_death: "Varamin"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Mohammad Hosseini was published by various
+    sources including the website of Tehran Prisons and Security and
+    Corrective Measures Organization and the Ettela at newspaper on April 26,
+    2004. His case was related to the murder of his wife. Arrest and detention
+    Mr. Hosseini was arrested two days after the incident in 2002 (Ettela at
+    newspaper). The circumstances of his arrest and detention are not known.
+    Trial No information is available on Mr. Hosseini s trial. Charges The
+    charge brought against Mr. Hosseini was announced as murder. According to
+    the reports, he murdered his wife, Ameneh H., by blows of a knife in 2002.
+    (Ettela at newspaper) The validity of the criminal charges brought against
+    this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. Evidence of guilt The report of this execution
+    did not provide any specific information on the evidence presented against
+    Mr. Hosseini. Defense No information is available on Mr. Hosseini s
+    defense. Judgment With a request by the victim s family and a ruling by
+    the Revolutionary Public Prosecutors Office in Varamin, Mr. Mohammad
+    Hosseini was condemned to death and the Supreme Court confirmed the
+    ruling. He was hanged, in the presence of judicial authorities and the
+    victim s family, at the Varamin Central Prison yard in 2004. The exact
+    date of execution is unknown.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8002/mohammad-hosseini"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

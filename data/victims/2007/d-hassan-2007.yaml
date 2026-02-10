@@ -1,0 +1,54 @@
+id: d-hassan-2007
+name_latin: "Hassan D."
+name_farsi: "حسن د."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2007-06-01
+age_at_death: null
+place_of_death: "Tonekabon (Shahsavar)"
+province: "Mazandaran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Hassan D. was published on the website of the
+    Police Information Base on June 7, 2007. Arrest and Detention According to
+    the above source, Mr. Hassan D. was identified and arrested by Chalus
+    police. No further information is available about Mr. Hassan D. s arrest
+    and detention. Trial This trial took place in the Public Provincial Court.
+    No further information is available about Mr. Hassan D. s trial. Charges
+    The charges against Mr. Hassan D. were announced as "rape and murder."
+    According to the above source, he raped and murdered a woman in Chalus in
+    2004. The validity of the criminal charges brought against this defendant
+    cannot be ascertained in the absence of the basic guarantees of a fair
+    trial. International human rights organizations have drawn attention to
+    reports indicating that Islamic Republic authorities have brought
+    trumped-up charges against their political opponents and executed them for
+    alleged drug trafficking, sexual, and other criminal offences. Each year
+    Iranian authorities sentence to death hundreds of alleged common
+    criminals, following judicial processes that fail to meet international
+    standards. The exact number of people convicted based on trumped-up
+    charges is unknown. Evidence of Guilt The evidence presented against Mr.
+    Hassan D. was his confession . International human rights organizations
+    have repeatedly condemned the government of the Islamic Republic of Iran
+    for its systematic use of torture to obtain confessions from detainees and
+    have questioned the authenticity of confessions obtained under duress.
+    Defense No information is available on Mr. Hassan D. s defense. Judgment
+    The court condemned Mr. Hassan D. to death and the ruling was confirmed by
+    the judicial authorities. He was hanged in the presence of judicial and
+    security officials of Tonekabon on June 1, 2007.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/73078/hassan-d"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

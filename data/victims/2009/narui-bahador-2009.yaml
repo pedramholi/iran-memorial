@@ -1,0 +1,57 @@
+id: narui-bahador-2009
+name_latin: "Bahador Naru'i"
+name_farsi: "بهادر ناروئی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2009-01-03
+age_at_death: null
+place_of_death: "Zahedan"
+province: "Sistan va Baluchestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Bahador Naru i, along with another person, was
+    reported by many news sources, including Sistan and Baluchestan ISNA News
+    Website, ISCA News, Radio Baluchi, and Aftab Newspaper (January 3, 2009).
+    According to available information, Mr. Naru i s case was related to armed
+    robbery and drug. Arrest and detention The circumstances of Mr. Naru i s
+    arrest and detention are not known. Trial No information is available on
+    his trial. Charges The charges brought against Mr. Naru i were waging war
+    on God and spreading corruption on Earth . The way he did this was armed
+    robbery, disturbing people s security, importing 300 grams of drugs and
+    addiction to crystal meth . The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that the Islamic Republic
+    authorities have brought trumped-up charges, including drug trafficking,
+    sexual, and other criminal offences, against their opponents (including
+    political, civil society activists, as well as unionists and ethnic and
+    religious minorities). Thousands of alleged drug traffickers have been
+    sentenced to death following judicial processes that fail to meet
+    international standards. Scores of them were executed based on a 1989 law
+    imposing mandatory death sentences on drug traffickers found in possession
+    of specified amounts of proscribed narcotics (5 kg of hashish or opium,
+    and more than 30 grams of heroin, codeine or methadone). The exact number
+    of people convicted based on trumped-up charges is unknown. Evidence of
+    guilt The report of this execution does not contain information regarding
+    the evidence providedagainst the defendant. Defense No information is
+    available on Mr. Naru i s defense. Judgment The court sentenced Mr. Naru i
+    to death by hanging. The Supreme Court approved this verdict (Aftab News
+    Website). Mr. Naru i was executed, along with another person, on the
+    morning of January 3, 2009, in the Central Prison of Zahedan.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8182/bahador-narui"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

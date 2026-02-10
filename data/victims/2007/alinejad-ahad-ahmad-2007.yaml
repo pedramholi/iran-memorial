@@ -1,0 +1,63 @@
+id: alinejad-ahad-ahmad-2007
+name_latin: "Ahad (Ahmad) Alinejad"
+name_farsi: "احد (احمد) علی‌نژاد"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2007-10-17
+age_at_death: null
+place_of_death: "Shiraz"
+province: "Fars"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Ahad (Ahmad) Alinejad, along with two others,
+    was published on the websites of IRNA (Islamic Republic News Agency) on
+    April 19, 2006, October 15 and 16, 2007, ISNA (Iranian Students News
+    Agency) and Farsnama on October 15, and the Khabare Jonubnewspaper on
+    October 16, 2007. Arrest and Detention According to the Head of the
+    Sentence Enforcement and the Criminal Public and Revolutionary Prosecutor
+    s Office in Shiraz, after two women complained about being kidnapped and
+    one of them raped on November 28, 2005, the defendants were identified and
+    arrested two days later. Trial No information is available on the
+    defendant s trial. This trial took place in Branch Five of the Punitive
+    Court of Fars. Charges The charge against Mr. Ahad (Ahmad) Alinejad, along
+    with two others, was announced as "rape." The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that
+    Islamic Republic authorities have brought trumped-up charges against their
+    political opponents and executed them for alleged drug trafficking,
+    sexual, and other criminal offences. Each year Iranian authorities
+    sentence to death hundreds of alleged common criminals, following judicial
+    processes that fail to meet international standards. The exact number of
+    people convicted based on trumped-up charges is unknown. Evidence of Guilt
+    The evidence presented against the defendant was the complaint of two
+    women that one of them was raped. According to the Head of the Sentence
+    Enforcement and the Criminal Public and Revolutionary Prosecutor s Office
+    in Shiraz, four members of a gang, called Amirsiah, blocked the taxi of
+    these women with their vehicle and forced them to ride in their vehicle,
+    threatening with a weapon. They took them to a garden near Shiraz and
+    three of the men raped the young woman. After the rape, one of the gang
+    members began shooting his gun to show his power in order to intimidate
+    the kidnapped women and convince them not to make a complaint. Defense No
+    information is available on the defendant's defense. Judgment The court
+    condemned Mr. Ahad (Ahmad) Alinejad to death and the ruling was confirmed
+    by Branch 32 of the Supreme Court. The defendant s request of pardon was
+    rejected in the Pardon Commission of the Judiciary. He was hanged in
+    public at Mo alem Square of Shiraz on October 17, 2007.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7870/ahad-ahmad-alinejad"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

@@ -1,0 +1,57 @@
+id: sabokruh-hadi-2004
+name_latin: "Hadi Sabokruh"
+name_farsi: "هادی سبک‌روح"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2004-09-09
+age_at_death: 21
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Hadi Sabokruh, along with four others, was
+    published in the Ettela at newspaper and, along with five others, in the
+    Hamshahri newspaper on September 9, 2004. Additional information was taken
+    from the Sharq, Ettela at, and E temad newspapers on September 8, 2004.
+    His case is related to the murder of an 18-year-old girl in Kianshahr in
+    September of 2001. Arrest and detention Mr. Sabokruh was arrested several
+    days after the body of a young girl was found in September of 2001. He was
+    detained for three years (Sharq newspaper). According to another report,
+    he went to Department 10 of the Intelligence Police and surrendered after
+    another person was arrested by mistake (Hamshahri newspaper). The
+    circumstances of his arrest and detention are not known. Trial Branch 1608
+    of the Criminal Court of Tehran tried Mr. Sabokruh. No information is
+    available on his trial. Charges The charge brought against Mr. Sabokruh
+    was announced as murder. He went to the victim s house, pretending to
+    talk, but murdered the young girl, robbed the place, and escaped. (Ettela
+    at newspaper) The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. Evidence of guilt The evidence presented against Mr.
+    Sabokruh was recovery of the victim s body, testimony of the victim s
+    friends, and his own confession. International human rights organizations
+    have repeatedly condemned the government of the Islamic Republic of Iran
+    for its systematic use of severe torture and solitary confinement to
+    obtain confessions from detainees and have questioned the authenticity of
+    confessions obtained under duress. Defense No information is available on
+    Mr. Sabokruh s defense. Judgment Branch 1608 of the Criminal Court of
+    Tehran condemned Mr. Hadi Sabokruh to death. Branch 20 of the Supreme
+    Court confirmed the ruling. He was hanged, along with two others, in the
+    presence of officials, including the judge of Sentence Enforcement, at the
+    Evin Prison yard in Tehran on September 8, 2004.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7877/hadi-sabokruh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

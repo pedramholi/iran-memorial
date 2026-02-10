@@ -1,0 +1,54 @@
+id: khaki-ali-asghar-1997
+name_latin: "Ali Asghar Khaki"
+name_farsi: "علی اصغر خاکی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1997-06-18
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Ali Asghar Khaki was announced in the Kayhan
+    newspaper on June 19, 1997. Arrest and detention The circumstances of this
+    defendant’s arrest and detention are not known. Trial No information is
+    available on the defendant’s trial. Charges The charge against Mr. Ali
+    Asghar Khaki was announced as “murdering his brother-in-law.” According to
+    the Kayhan newspaper, “the defendant [persistently visited] his former
+    wife’s family, in order to convince her to remarry him. In spring of 1996,
+    he had a fist-fight with his brother-in-law, Naser Pakniyat. When they
+    decided to go to the police station, the defendant stabbed Naser with a
+    knife, causing his death.” The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that the Islamic Republic’s
+    authorities have brought trumped-up charges against their political
+    opponents and executed them for drug trafficking, sexual, and other
+    criminal offences. Each year, Iranian authorities sentence to death
+    hundreds of alleged common criminals, following judicial processes that
+    fail to meet international standards. The exact number of people convicted
+    based on trumped-up charges is unknown. Evidence of guilt The report of
+    this execution does not contain information regarding the evidence
+    provided against the defendant. Defense No information is available on Mr.
+    Ali Asghar Khaki’s defense. Judgment The court condemned Mr. Ali Asghar
+    Khaki to death and the ruling was confirmed by the Supreme Court. After
+    the ruling was read by an official of the Special Judiciary Complex, he
+    was hanged in the presence of the victim’s family at Qasr prison (Tehran)
+    on June 18, 1997.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/39221/ali-asghar-khaki"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

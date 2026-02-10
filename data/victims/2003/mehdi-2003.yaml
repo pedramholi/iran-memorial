@@ -1,0 +1,57 @@
+id: mehdi-2003
+name_latin: "Mehdi"
+name_farsi: "مهدی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2003-01-01
+age_at_death: 23
+place_of_death: "Shahrud"
+province: "Semnan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Mehdi, without his last name, along with
+    another person, was published in the Qods newspaper on January 4, 2003.
+    According to the existing information, his case was related to the murder
+    of a 52-year-old man at the Mujen Village near Shahrud, Semnan on January
+    22, 1998. Mr. Mehdi and the other defendant of this case were the main
+    defendants who were 18 years old when the crime took place. Arrest and
+    detention The Intelligence Police agents in Shahrud arrested Mr. Mehdi and
+    six other defendants in the winter of 1997 following the murder of the
+    eulogist in the Mujen Village near Shahrud. The circumstances of his
+    arrest and detention are not known. Trial Branch Four of the Public Court
+    in Shahrud tried Mr. Mehdi and six others in several sessions. No
+    information is available on his trial. Charges The charge brought against
+    Mr. Mehdi was announced as murder. He was accused of attacking and
+    injuring the panegyrist of the Mujen Village, using stick and ax, along
+    with six others, outside of the mosque after completion of his speech on
+    January 22, 1998. The victim, Haj Esma il Baba i, died due to his severe
+    injuries in the hospital two days later. The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. Evidence of guilt
+    According to the report, the evidence presented against Mr. Mehdi included
+    deadly blows, each capable of killing. Defense No information is available
+    on Mr. Mehdi s defense. Judgment Branch Four of the Public Court in
+    Shahrud condemned Mr. Mehdi and the other defendant to death. The Supreme
+    Court confirmed the ruling after five years. He was hanged, along with the
+    other defendant, at the Police Station in Shahrud on January 1, 2003,
+    after the Head of Judiciary validated the ruling and the victim s family
+    paid the rest of Dieh [blood money]. The other five defendants of this
+    case were condemned between 18 months and 3 years imprisonment depending
+    on their charges.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7903/mehdi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

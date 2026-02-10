@@ -1,0 +1,45 @@
+id: sh-shahnaz-2003
+name_latin: "Shahnaz Sh."
+name_farsi: "شهناز ش."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2003-12-22
+age_at_death: 35
+place_of_death: "Esfahan"
+province: "Esfahan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Ms. Shahnaz Sh. was published on the website of
+    the Central Prison Administration in Esfahan on October 22, 2003. She was
+    married with children. Her case was related to the murder of her husband,
+    in collaboration with another person. Arrest and detention The
+    circumstances of Ms. Shahnaz Sh. s arrest and detention are not known.
+    Trial A court in Esfahan tried Ms. Shahnaz Sh. No information is available
+    on her trial. Charges The charges brought against Ms. Shahnaz Sh. were
+    announced as illegitimate relationship and murder. The validity of the
+    criminal charges brought against this defendant cannot be ascertained in
+    the absence of the basic guarantees of a fair trial. Evidence of guilt The
+    report of this execution did not provide any specific information on the
+    evidence presented against Ms. Shahnaz Sh. Defense Ms. Shahnaz Sh. did not
+    commit any crime by herself. No information is available on her defense.
+    Judgment A court in Esfahan condemned Ms. Shahnaz Sh. to death and 99
+    lashes. The Supreme Court confirmed the ruling. She was hanged at the
+    Esfahan Central Prison on October 22, 2003. The other defendant was
+    condemned to long term imprisonment and 99 lashes.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/75706/shahnaz-sh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

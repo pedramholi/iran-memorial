@@ -1,0 +1,44 @@
+id: arshadollah-2004
+name_latin: "Arshadollah"
+name_farsi: "ارشدالله"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2004-07-08
+age_at_death: null
+place_of_death: "Fuman"
+province: "Gilan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Arshadollah, without his last name, along
+    with another person, was published in the Iran newspaper on July 10, 2004.
+    His case was related to arson of a house and killing three members of a
+    family in the house in 1997. Arrest and detention The circumstances of Mr.
+    Arshadollah s arrest and detention are not known. Trial Branch Five of the
+    General Court in Fuman tried Mr. Arshadollah. No information is available
+    on his trial. Charges The charges brought against Mr. Arshadollah were
+    announced as three murders. The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. Evidence of guilt The report of this execution
+    did not provide any specific information on the evidence presented against
+    Mr. Arshadollah. Defense No information is available on Mr. Arshadollah s
+    defense. Judgment Branch Five of the General Court in Fuman condemned Mr.
+    Arshadollah to death, three counts. Branch 16 of the Supreme Court
+    confirmed the ruling. He was hanged, along with another person, at the
+    Police Headquarters yard in Fuman, on July 8, 2004.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/75861/arshadollah"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

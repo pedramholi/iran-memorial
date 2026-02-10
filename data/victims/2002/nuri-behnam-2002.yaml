@@ -1,0 +1,66 @@
+id: nuri-behnam-2002
+name_latin: "Behnam Nuri"
+name_farsi: "بهنام نوری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: "https://www.iranrights.org/actorphotos/74042_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 2002-04-25
+age_at_death: 21
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Behnam Nuri, son of Ali, along with five
+    others, was published in the Iran newspaper on April 27, 2002. Additional
+    information was taken from various sources including the Iran newspaper on
+    April 22, 24, and 25, 2002 and in the Jamejam newspaper on April 24, 2002.
+    Mr. Nuri s case was related to his membership in a purse-napping gang
+    called Jamileh that committed several robberies and purse-nappings in
+    various cities including Shiraz, Esfahan, Tabriz, and Rasht in Iran and in
+    other Persian Gulf countries between 1998 and 1999. Members of this gang
+    consisted of 33 individuals and, according to the judge, 14 of them
+    participated in armed robbery and extortion. Arrest and Detention
+    Detectives of Branch 18 of the Intelligence Police in Tehran arrested Mr.
+    Nuri, along with other members of the Jamileh gang. According to the judge
+    of this case, they were arrested following some internal disputes and
+    recovery of the near-dead body of an important member of the gang in a
+    wilderness and his confession three years earlier in 1999. (Iran newspaper
+    on April 25, 2002) The circumstances of Mr. Nuri s arrest and detention
+    are not known except that he was detained at the Raja ishahr (Gohardasht)
+    Prison during his last months. Trial Branch 15 of the Imam Khomeieni
+    Public Court in Tehran tried Mr. Nuri in several sessions in the summer of
+    2001. No further information is available on his trial. Charges The
+    charges against Mr. Nuri were announced as "acts against internal security
+    by committing 27 armed robberies with threats of murder." The validity of
+    the criminal charges brought against this defendant cannot be ascertained
+    in the absence of the basic guarantees of a fair trial. Evidence of Guilt
+    According to the judge of this case, the evidence presented against Mr.
+    Nuri was confessions of defendants and complaints by 200 plaintiffs. In
+    addition, robbery of 65 kilograms of gold, one billion Tumans worth of
+    diamonds, coins, and cash, two purchased restaurants in Thailand and the
+    EUA; several houses and cars and cell phones were also considered evidence
+    against the defendants. (Iran newspaper on April 25, 2002) Mr. Nuri had
+    three criminal convictions. Defense According to the judicial report of
+    the Iran newspaper, Mr. Nuri and four others claimed in a court session
+    that even though they participated in armed operations, they did not harm
+    anybody. Judgment Branch 15 of the Public Court in Tehran identified Mr.
+    Behnam Nuri as fighter against God and corruptor on Earth and condemned
+    him to death in September of 2001. Branch 32 of the Supreme Court
+    confirmed the ruling. Mr. Nuri was hanged in public at Azadi Square (Bus
+    terminal) in Tehran on April 25, 2002 at 6:45 a.m.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/74042/behnam-nuri"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

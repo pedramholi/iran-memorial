@@ -1,0 +1,52 @@
+id: goruhi-arash-2003
+name_latin: "Arash Goruhi"
+name_farsi: "آرش گروهی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2003-08-06
+age_at_death: 30
+place_of_death: "Arak"
+province: "Markazi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Arash Goruhi was published in the Iran
+    newspaper on August 26, 2003. His case was related to the carjacking of
+    taxis and a murder. Arrest and detention Mr. Goruhi was identified and
+    arrested by police on Shohaday-Sefri Street in Arak on August 12, 2001.
+    According to the report, he had hired a taxi, taken it to a remote area,
+    and attempted carjacking by putting a knife to the throat of the driver.
+    However, the driver fought back and was killed by blows of the knife as a
+    result. Witnesses reported the incident to the police and Mr. Goruhi was
+    arrested while driving the victim s car half an hour later. He was
+    detained for two years. Trial The Arak Courthouse tried Mr. Goruhi. No
+    information is available on his trial. Charges The charges brought against
+    Mr. Goruhi were announced as kidnapping, murder, and robbery. The validity
+    of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    Evidence of guilt The evidence presented against Mr. Goruhi was his
+    confession, police investigation, complaint by a surviving victim, and
+    complaint by the victim s family. International human rights organizations
+    have repeatedly condemned the government of the Islamic Republic of Iran
+    for its systematic use of severe torture and solitary confinement to
+    obtain confessions from detainees and have questioned the authenticity of
+    confessions obtained under duress. Defense No information is available on
+    Mr. Goruhi s defense. Judgment The Arak Courthouse condemned Mr. Arash
+    Goruhi to death. He was hanged at the Arak Qasr Prison yard on August 6,
+    2003 at dawn.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/75697/arash-goruhi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

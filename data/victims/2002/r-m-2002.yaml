@@ -1,0 +1,52 @@
+id: r-m-2002
+name_latin: "M. R."
+name_farsi: "م. ر."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2002-09-16
+age_at_death: null
+place_of_death: "Basij Square"
+province: "Fars"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. M. R. was published in the Jomhuri-Eslami
+    newspaper on September 18, 2002. He was from Iranshahr. Arrest and
+    Detention There is no specific information on Mr. M. R. s arrest and
+    detention. Trial The Islamic Revolutionary Court of Abadeh tried Mr. M. R.
+    No information is available on his trial. Charges The charge against Mr.
+    M. R. was announced as "transporting heroin." The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that
+    Islamic Republic authorities have brought trumped-up charges against their
+    political opponents and executed them for alleged drug trafficking,
+    sexual, and other criminal offences. Thousands of alleged drug traffickers
+    have been sentenced to death following judicial processes that fail to
+    meet international standards. Scores of them were executed based on a 1989
+    law imposing mandatory death sentences on drug traffickers found in
+    possession of specified amounts of proscribed narcotics (5 kg of hashish
+    or opium, and more than 30 grams of heroin, codeine or methadone). The
+    exact number of people convicted based on trumped-up charges is unknown.
+    Evidence of Guilt The report of this execution did not provide any
+    specific information on the evidence presented against Mr. M. R. Defense
+    No information is available on Mr. M. R.'s defense. Judgment The Islamic
+    Revolutionary Court of Abadeh condemned Mr. M. R. to death and the Supreme
+    Court confirmed the ruling. He was hanged in public at Basij Square in
+    Abadeh, Fars Province on September 16, 2002.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7654/m-r"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

@@ -1,0 +1,62 @@
+id: reza-mohammad-2004
+name_latin: "Mohammad Reza"
+name_farsi: "محمدرضا"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2004-02-25
+age_at_death: 69
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Mohammad Reza, without his last name, was
+    published in the Ettela at newspaper on February 26, 2004, and in the Iran
+    newspaper on February 29, 2004. His case was related to molestation of an
+    11-month old baby at the Masihkhah Street in southwest Tehran on January
+    27, 2002. Arrest and detention Mr. Mohammad Reza was arrested in Tehran on
+    January 27, 2002. According to reports, a young woman and her 11-months
+    baby went to Fayazbakhsh Hospital in Tehran in the morning of this day. A
+    few minutes later, the hospital officials contacted Police 110 and a team
+    of agents from Police Station 119 in Mehrabad entered the hospital and
+    questioned the baby s mother. It became evident that the baby had been
+    molested by their landlord. Police arrested the landlord immediately. He
+    was detained for two years and one month. (Iran newspaper) Trial Branch
+    1104 of the General Court in Hashemi Building tried Mr. Mohammad Reza
+    (Ettela at newspaper). His trial took place in several sessions (Iran
+    newspaper). However, no information is available on his trial. Charges The
+    charge brought against Mr. Mohammad Reza was announced as molestation of
+    an 11-months baby. The validity of the criminal charges brought against
+    this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. Evidence of guilt The evidence presented
+    against Mr. Mohammad Reza was physicians statements about severity of the
+    baby s injuries, complaint by his parents, confession of the defendant,
+    local investigation, and the defendant s record for immoral behavior and
+    being an alcoholic. (Iran newspaper) International human rights
+    organizations have repeatedly condemned the government of the Islamic
+    Republic of Iran for its systematic use of severe torture and solitary
+    confinement to obtain confessions from detainees and have questioned the
+    authenticity of confessions obtained under duress. Defense In his defense,
+    Mr. Mohammad Reza stated: Because of consuming alcoholic beverages, I was
+    unaware of what I was doing at the moment. The local investigation also
+    indicated that he was an alcoholic. No other information is available on
+    his defense. Judgment Branch 1104 of the General Court condemned Mr.
+    Mohammad Reza to death and paying Dieh (blood money). Branch 27 of the
+    Supreme Court confirmed the ruling. He was hanged in Qasr Prison in Tehran
+    on February 25, 2004.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7996/mohammad-reza"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

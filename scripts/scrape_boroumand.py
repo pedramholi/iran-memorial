@@ -3,16 +3,18 @@
 Scrape and import victims from the Boroumand Foundation / Omid Memorial (iranrights.org).
 
 Phases:
-  1. browse  — Crawl browse pages, extract victim IDs + names → master list
-  2. match   — Match master list against existing YAML files
-  3. detail  — Fetch EN + FA detail pages for matches
-  4. enrich  — Update YAML files with Farsi names, photos, sources
+  1. browse      — Crawl browse pages, extract victim IDs + names → master list
+  2. match       — Match master list against existing YAML files
+  3. detail      — Fetch EN + FA detail pages for matches
+  4. enrich      — Update YAML files with Farsi names, photos, sources
+  5. import-new  — Create new YAML files for unmatched entries
 
 Usage:
   python scripts/scrape_boroumand.py browse [--start N] [--end N] [--resume]
   python scripts/scrape_boroumand.py match
   python scripts/scrape_boroumand.py detail [--limit N] [--force]
   python scripts/scrape_boroumand.py enrich [--dry-run]
+  python scripts/scrape_boroumand.py import-new [--years 2022-2026] [--limit N] [--dry-run] [--resume]
 
 Year → Page mapping (ascending by date):
   Pages   1– 15: Unknown date
@@ -370,6 +372,11 @@ def parse_detail_en(html):
         text = re.sub(r'<[^>]+>', ' ', narr_m.group(1))
         text = re.sub(r'&\w+;', ' ', text)  # HTML entities
         text = re.sub(r'\s+', ' ', text).strip()
+        # Filter out Boroumand boilerplate "Correct/Complete This Entry" text
+        if 'Correct/ Complete This Entry' in text or 'complete this story in Omid' in text:
+            # Strip the boilerplate wrapper, keep only real content
+            text = re.sub(r'Correct/?\s*Complete This Entry\s*[❯>]?\s*', '', text).strip()
+            text = re.sub(r'The story of .+?is not complete\..+?We appreciate your support\.?\s*', '', text, flags=re.DOTALL).strip()
         if len(text) > 50:
             data["narrative"] = text[:5000]
 
@@ -684,6 +691,367 @@ def cmd_enrich(args):
 
 
 # ============================================================
+# Phase 5: Import New — create YAML files for unmatched entries
+# ============================================================
+
+def extract_year_from_mode(mode):
+    """Extract year from mode field like 'Hanging; December 9, 2021; ...'"""
+    if not mode:
+        return None
+    # Full date: Month Day, Year
+    m = re.search(r'(\w+)\s+\d{1,2},?\s+(\d{4})', mode)
+    if m and m.group(1) in MONTH_MAP:
+        return int(m.group(2))
+    # Bare year
+    m = re.search(r'\b(19[789]\d|20[0-2]\d)\b', mode)
+    if m:
+        return int(m.group(1))
+    return None
+
+
+def slugify(text):
+    """Convert text to URL-friendly slug."""
+    s = text.lower().strip()
+    s = re.sub(r'[\u200c\u200d]', ' ', s)  # zero-width joiners
+    s = s.replace("'", "").replace("`", "").replace("\u2018", "").replace("\u2019", "")
+    s = re.sub(r'[^a-z0-9\s-]', '', s)
+    s = re.sub(r'[\s-]+', '-', s).strip('-')
+    return s
+
+
+def generate_slug(name, year=None):
+    """Generate slug from name: lastname-firstname[-year]."""
+    parts = name.strip().split()
+    if len(parts) >= 2:
+        ordered = [parts[-1]] + parts[:-1]
+    else:
+        ordered = parts
+    slug = slugify(' '.join(ordered))
+    if year:
+        slug += f'-{year}'
+    return slug
+
+
+def extract_province(location):
+    """Extract province from Boroumand location string."""
+    if not location:
+        return None
+    parts = [p.strip() for p in location.split(',')]
+    for part in parts:
+        if 'Province' in part:
+            return part.replace(' Province', '').strip()
+    if len(parts) >= 3 and 'Iran' in parts[-1]:
+        return parts[-2].strip()
+    return None
+
+
+def extract_city(location):
+    """Extract city from Boroumand location string."""
+    if not location:
+        return None
+    parts = [p.strip() for p in location.split(',')]
+    # Skip specific locations (prisons, etc.), find the city
+    for part in parts:
+        if 'Province' in part or 'Iran' in part:
+            continue
+        if 'Prison' in part or 'Detention' in part or 'Barracks' in part:
+            continue
+        return part
+    return parts[0] if parts else None
+
+
+def wrap_text(text, indent=4, width=78):
+    """Wrap text for YAML block scalar."""
+    lines = []
+    words = text.split()
+    line = ' ' * indent
+    for word in words:
+        if len(line) + len(word) + 1 > width and len(line) > indent:
+            lines.append(line.rstrip())
+            line = ' ' * indent + word
+        else:
+            line += (' ' if len(line) > indent else '') + word
+    if line.strip():
+        lines.append(line.rstrip())
+    return '\n'.join(lines)
+
+
+def yaml_quote(value):
+    """Quote a string value for YAML."""
+    if value is None:
+        return 'null'
+    s = str(value)
+    if not s:
+        return 'null'
+    safe = s.replace('\\', '\\\\').replace('"', '\\"')
+    return f'"{safe}"'
+
+
+def generate_yaml(browse_entry, detail_en, detail_fa, slug, year):
+    """Generate YAML content for a new victim file."""
+    lines = []
+    name = detail_en.get('name', browse_entry['name'])
+    fa_name = detail_fa.get('name_farsi')
+
+    # --- Identity ---
+    lines.append(f'id: {slug}')
+    lines.append(f'name_latin: {yaml_quote(name)}')
+    lines.append(f'name_farsi: {yaml_quote(fa_name)}')
+
+    # Date of birth
+    dob_str = detail_en.get('date_of_birth')
+    dob = parse_boroumand_date(dob_str) if dob_str else None
+    if dob and len(dob) >= 10:
+        lines.append(f'date_of_birth: {dob}')
+    else:
+        lines.append('date_of_birth: null')
+
+    lines.append(f'place_of_birth: {yaml_quote(detail_en.get("place_of_birth"))}')
+    lines.append('gender: null')
+    lines.append('ethnicity: null')
+    lines.append(f'religion: {yaml_quote(detail_en.get("religion"))}')
+
+    # Photo
+    photo = detail_en.get('photo_url') or browse_entry.get('photo_url')
+    if photo:
+        full_url = BASE_URL + photo if photo.startswith('/') else photo
+        lines.append(f'photo: {yaml_quote(full_url)}')
+    else:
+        lines.append('photo: null')
+
+    # --- Life ---
+    occ = detail_en.get('occupation')
+    if occ:
+        lines.append(f'occupation: {yaml_quote(occ)}')
+
+    # --- Death ---
+    lines.append('')
+    lines.append('# --- DEATH ---')
+
+    date_str = detail_en.get('date_of_killing')
+    death_date = parse_boroumand_date(date_str) if date_str else None
+    if death_date and len(death_date) >= 10:
+        lines.append(f'date_of_death: {death_date}')
+    elif isinstance(year, int):
+        lines.append(f'date_of_death: {year}-01-01')
+    else:
+        lines.append('date_of_death: null')
+
+    age = detail_en.get('age')
+    if age and re.match(r'^\d+$', age):
+        lines.append(f'age_at_death: {age}')
+    else:
+        lines.append('age_at_death: null')
+
+    location = detail_en.get('location')
+    city = extract_city(location)
+    province = extract_province(location)
+    lines.append(f'place_of_death: {yaml_quote(city)}')
+    lines.append(f'province: {yaml_quote(province)}')
+
+    # Cause of death from detail mode_of_killing (cleaner) or browse mode
+    mode = detail_en.get('mode_of_killing')
+    if not mode:
+        raw = browse_entry.get('mode', '')
+        mode = raw.split(';')[0].strip() if raw else None
+    lines.append(f'cause_of_death: {yaml_quote(mode)}')
+
+    # Narrative → circumstances (filter Boroumand boilerplate)
+    narrative = detail_en.get('narrative')
+    if narrative and ('Correct/ Complete This Entry' in narrative
+                      or 'complete this story in Omid' in narrative):
+        narrative = None  # boilerplate, not real content
+    if narrative and len(narrative) > 30:
+        lines.append('circumstances: >')
+        lines.append(wrap_text(narrative))
+    else:
+        lines.append('circumstances: null')
+
+    lines.append('event_context: null')
+    lines.append('responsible_forces: null')
+
+    # --- Verification ---
+    lines.append('')
+    lines.append('# --- VERIFICATION ---')
+    lines.append('status: unverified')
+    lines.append('sources:')
+    bid = browse_entry['id']
+    bslug = browse_entry['slug']
+    lines.append(f'  - url: "{BASE_URL}/memorial/story/{bid}/{bslug}"')
+    lines.append(f'    name: "Abdorrahman Boroumand Center — Omid Memorial"')
+    lines.append(f'    type: memorial_database')
+    lines.append(f'last_updated: {datetime.now().strftime("%Y-%m-%d")}')
+    lines.append('updated_by: "boroumand-import"')
+    lines.append('')
+
+    return '\n'.join(lines)
+
+
+def cmd_import_new(args):
+    """Import unmatched Boroumand entries as new YAML files."""
+    if not MASTER_FILE.exists():
+        print(f"Error: {MASTER_FILE} not found. Run 'browse' first.")
+        sys.exit(1)
+
+    with open(MASTER_FILE) as f:
+        master = json.load(f)
+
+    # Load matched IDs to exclude
+    matched_ids = set()
+    if MATCHES_FILE.exists():
+        with open(MATCHES_FILE) as f:
+            match_data = json.load(f)
+        for m in match_data.get('matches', []):
+            matched_ids.add(m['boroumand_id'])
+
+    # Filter to unmatched
+    unmatched = [e for e in master if e['id'] not in matched_ids]
+    print(f"Unmatched: {len(unmatched)} (of {len(master)} total, {len(matched_ids)} matched)")
+
+    # Extract year for each entry
+    for entry in unmatched:
+        entry['_year'] = extract_year_from_mode(entry.get('mode'))
+
+    # Filter by --years or --no-date
+    if args.no_date:
+        unmatched = [e for e in unmatched if e['_year'] is None]
+        print(f"No-date filter: {len(unmatched)} entries")
+    elif args.years:
+        start_y, end_y = map(int, args.years.split('-'))
+        unmatched = [e for e in unmatched
+                     if e['_year'] is not None and start_y <= e['_year'] <= end_y]
+        print(f"Year filter ({args.years}): {len(unmatched)} entries")
+
+    if args.limit:
+        unmatched = unmatched[:args.limit]
+        print(f"Limited to: {args.limit}")
+
+    print(f"Processing {len(unmatched)} entries...")
+
+    # Load existing slugs
+    existing_slugs = set()
+    for yf in VICTIMS_DIR.rglob("*.yaml"):
+        if yf.name != "_template.yaml":
+            existing_slugs.add(yf.stem)
+
+    DETAIL_CACHE.mkdir(parents=True, exist_ok=True)
+    progress_file = CACHE_DIR / "import_progress.json"
+
+    # Resume support
+    processed_ids = set()
+    if args.resume and progress_file.exists():
+        with open(progress_file) as f:
+            processed_ids = set(json.load(f).get('processed', []))
+        print(f"Resuming: {len(processed_ids)} already processed")
+
+    created = 0
+    skipped_resume = 0
+    fetch_count = 0
+    cached_count = 0
+
+    for i, entry in enumerate(unmatched):
+        bid = entry['id']
+
+        if bid in processed_ids:
+            skipped_resume += 1
+            continue
+
+        # 1. Fetch or load detail pages
+        cache_file = DETAIL_CACHE / f"{bid}.json"
+
+        if cache_file.exists():
+            with open(cache_file) as f:
+                detail = json.load(f)
+            cached_count += 1
+        else:
+            en_html = fetch(DETAIL_URL.format(id=bid, slug=entry['slug']))
+            delay()
+            fa_html = fetch(DETAIL_FA_URL.format(id=bid, slug=entry['slug']))
+            delay()
+
+            detail = {"boroumand_id": bid, "slug": entry['slug']}
+            if en_html:
+                detail["en"] = parse_detail_en(en_html)
+            if fa_html:
+                detail["fa"] = parse_detail_fa(fa_html)
+
+            if not args.dry_run:
+                with open(cache_file, "w") as f:
+                    json.dump(detail, f, indent=2, ensure_ascii=False)
+            fetch_count += 1
+
+        detail_en = detail.get('en', {})
+        detail_fa = detail.get('fa', {})
+
+        # 2. Determine year for directory
+        year = entry['_year']
+        if not year:
+            death_date = parse_boroumand_date(detail_en.get('date_of_killing', ''))
+            if death_date and len(death_date) >= 4:
+                year = int(death_date[:4])
+        if not year:
+            year = 'unknown'
+
+        # 3. Generate unique slug
+        name = detail_en.get('name', entry['name'])
+        birth_date = parse_boroumand_date(detail_en.get('date_of_birth', ''))
+        birth_year = int(birth_date[:4]) if birth_date and len(birth_date) >= 4 else None
+        death_year = year if isinstance(year, int) else None
+
+        slug = generate_slug(name, birth_year or death_year)
+        if not slug:
+            slug = f"boroumand-{bid}"
+
+        base_slug = slug
+        suffix = 2
+        while slug in existing_slugs:
+            slug = f"{base_slug}-{suffix}"
+            suffix += 1
+        existing_slugs.add(slug)
+
+        # 4. Generate YAML
+        yaml_content = generate_yaml(entry, detail_en, detail_fa, slug, year)
+
+        # 5. Write file
+        year_dir = VICTIMS_DIR / str(year)
+        yaml_file = year_dir / f"{slug}.yaml"
+
+        if args.dry_run:
+            if created < 5:
+                print(f"  DRY: {yaml_file.relative_to(VICTIMS_DIR)} — {name}")
+                if detail_fa.get('name_farsi'):
+                    print(f"       FA: {detail_fa['name_farsi']}")
+        else:
+            year_dir.mkdir(parents=True, exist_ok=True)
+            yaml_file.write_text(yaml_content)
+
+        created += 1
+        processed_ids.add(bid)
+
+        # Progress save every 50 entries
+        if not args.dry_run and created % 50 == 0:
+            with open(progress_file, "w") as f:
+                json.dump({'processed': list(processed_ids)}, f)
+
+        # Status every 100 entries
+        if created % 100 == 0:
+            fa = detail_fa.get('name_farsi', '—')
+            print(f"  [{i+1}/{len(unmatched)}] {created} created, "
+                  f"{fetch_count} fetched, {cached_count} cached — {name} ({fa})")
+
+    # Final progress save
+    if not args.dry_run and processed_ids:
+        with open(progress_file, "w") as f:
+            json.dump({'processed': list(processed_ids)}, f)
+
+    prefix = "DRY RUN — " if args.dry_run else ""
+    print(f"\n{prefix}Done: {created} files created")
+    print(f"  Fetched: {fetch_count} detail pages")
+    print(f"  Cached: {cached_count} detail pages")
+    print(f"  Skipped (resumed): {skipped_resume}")
+
+
+# ============================================================
 # Main
 # ============================================================
 
@@ -705,9 +1073,20 @@ def main():
     e = sub.add_parser("enrich", help="Update YAML files")
     e.add_argument("--dry-run", action="store_true", help="Don't write files")
 
+    i = sub.add_parser("import-new", help="Create new YAMLs for unmatched entries")
+    i.add_argument("--years", type=str, help="Year range filter (e.g., 2022-2026)")
+    i.add_argument("--no-date", action="store_true", help="Only entries without extractable date")
+    i.add_argument("--limit", type=int, help="Max entries to process")
+    i.add_argument("--dry-run", action="store_true", help="Don't write files")
+    i.add_argument("--resume", action="store_true", help="Resume from last progress")
+
     args = p.parse_args()
 
-    {"browse": cmd_browse, "match": cmd_match, "detail": cmd_detail, "enrich": cmd_enrich}[args.cmd](args)
+    cmds = {
+        "browse": cmd_browse, "match": cmd_match, "detail": cmd_detail,
+        "enrich": cmd_enrich, "import-new": cmd_import_new,
+    }
+    cmds[args.cmd](args)
 
 
 if __name__ == "__main__":

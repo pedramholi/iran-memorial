@@ -1,0 +1,52 @@
+id: najafisahl-akram-2005
+name_latin: "Akram Najafisahl"
+name_farsi: "اکرم نجفی سهل"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2005-12-07
+age_at_death: 21
+place_of_death: "Shirvan"
+province: "Khorasan-e Razavi"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Ms. Akram Najafisahl was announced on the websites of the
+    Kayhan newspaper (December 14, 2005), Group 8 Journalists (December 7),
+    and ISNA (December 10). Arrest and detention The circumstances of this
+    defendant s arrest and detention are unknown. The alleged crime was
+    committed on December 4, 2001. Trial No information is available on the
+    defendant s trial, other than the trial took place at Branch 3 of the
+    Shirvan Public Court (North Khorasan province). Charges According to the
+    newspaper report, the charge against Ms. Akram Najafisahl was first degree
+    murder for fatally stabbing Mariam Enteqal. The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic s authorities have brought trumped-up charges against
+    their political opponents and executed them for drug trafficking, sexual,
+    and other criminal offences. Each year, Iranian authorities sentence to
+    death hundreds of alleged common criminals, following judicial processes
+    that fail to meet international standards. The exact number of people
+    convicted based on trumped-up charges is unknown. Evidence of guilt The
+    report of this execution states that the incentive for murder was that Ms.
+    Nafisisahl wanted to marry a man, whose wife would not allow such a
+    marriage. Defense No information is available on Ms. Najafisahl s defense.
+    Judgment According to the Kayhan , Ms. Akram Najafisahl was sentenced to
+    death. She was executed on December 7, 2005 in the Shirvan prison. She was
+    21 at the time of execution; 17 at the time of the crime.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/35666/akram-najafisahl"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

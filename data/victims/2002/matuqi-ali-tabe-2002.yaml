@@ -1,0 +1,52 @@
+id: matuqi-ali-tabe-2002
+name_latin: "Ali Tabe' Ma'tuqi"
+name_farsi: "علی تابع معطوقی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2002-10-15
+age_at_death: 23
+place_of_death: "Ahvaz"
+province: "Khuzestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Ali Tabe Ma tuqi was published in the Iran
+    and Jomhuri Eslami newspapers on October 16, 2002. Arrest and detention
+    The circumstances of Mr. Tabe Ma tuqi s arrest and detention are not
+    known. Trial No information is available on Mr. Tabe Ma tuqi s trial.
+    Charges The charges brought against Mr. Tabe Ma tuqi were announced as
+    robbery and rape. According to the Jomhuri Eslami newspaper, quoting the
+    Head of Khuzestan Courthouse, Mr. Tabe Ma tuqi and another person had
+    kidnapped a woman using a car at the Sepidar District in Ahvaz in March of
+    2002. They stole her belongings after raping her. The validity of the
+    criminal charges brought against this defendant cannot be ascertained in
+    the absence of the basic guarantees of a fair trial. Evidence of guilt
+    According to the statement by the Head of Khuzestan Courthouse, the
+    evidence provided against Mr. Tabe Ma tuqi was his confession to several
+    robberies and a complaint regarding a rape. International human rights
+    organizations have repeatedly condemned the government of the Islamic
+    Republic of Iran for its systematic use of severe torture and solitary
+    confinement to obtain confessions from detainees and have questioned the
+    authenticity of confessions obtained under duress. Defense No information
+    is available on Mr. Tabe Ma tuqi s defense. Judgment According to the Head
+    of Khuzestan Courthouse, Mr. Ali Tabe Ma tuqi was condemned to death based
+    on Articles 652, 621, Section D of Articles 82 and 64, and Articles 13,
+    47, and 2 of the Islamic Penal Code. The ruling was carried out at the
+    location of the crime at the Sepidar District in Ahvaz when he was hanged
+    in public at dawn on October 15, 2002.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7515/ali-tabe-matuqi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

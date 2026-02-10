@@ -1,0 +1,28 @@
+id: ashekar-safar-ali-nazari-2008
+name_latin: "Safar 'Ali Nazari Ashekar"
+name_farsi: "صفرعلی نظری آشکار"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2008-01-02
+age_at_death: 36
+place_of_death: "Qom"
+province: "Qom"
+cause_of_death: "Execution » Hanging"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/80687/safar-ali-nazari-ashekar"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

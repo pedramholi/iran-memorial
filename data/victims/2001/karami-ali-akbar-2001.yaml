@@ -1,0 +1,67 @@
+id: karami-ali-akbar-2001
+name_latin: "Ali Akbar Karami"
+name_farsi: "علی‌اکبر کرمی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: "https://www.iranrights.org/actorphotos/75189_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 2001-07-18
+age_at_death: 24
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Ali Akbar Karami, from Ilam, along with seven
+    others, was published in the Iran newspaper on July 19, 2001. Additional
+    information regarding his arrest and prosecution was taken from the Ettela
+    at newspaper on May 1, September 24, October 3, 2000, and January 3, 2001.
+    Arrest and detention According to the Ettela at newspaper, quoting the
+    Head of Intelligence Police in Tehran, in April 2000, authorities were
+    informed that a man, named Dr. Foruhari, was murdered at his residence
+    while his hands and legs were cuffed and after his face and neck were
+    injured. Following the investigation by inspectors of the Intelligence
+    Police in Tehran and tracking of stolen cell phones, four individuals
+    including Mr. Karami were identified and arrested. The circumstances and
+    date of Mr. Karami s arrest and detention are not known. Trial Branch 1601
+    of the Criminal Court of Tehran tried Mr. Karami. According to the Ettela
+    at newspaper on September 24, 2000, the victim s mother demanded the death
+    penalty for defendants at the beginning of the trial. Then the defendants
+    began their defense. No information is available on this trial. Charges
+    The charges brought against Mr. Karami were announced as murder and
+    robbery. According to the media reports, he and his collaborators entered
+    Dr. Foruhari s house for robbery in March of 2000. They cuffed the victim
+    s hands and legs, suffocated him, and escaped after stealing some money
+    and belongings. The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. Evidence of guilt The evidence presented against Mr. Karami
+    was his confession and the confession of his collaborators. International
+    human rights organizations have repeatedly condemned the government of the
+    Islamic Republic of Iran for its systematic use of severe torture and
+    solitary confinement to obtain confessions from detainees and have
+    questioned the authenticity of confessions obtained under duress. Defense
+    According to the Ettela at newspaper on September 24, 2000, in his
+    defense, Mr. Karami stated: Parviz suggested robbing the Doctor s house.
+    There were five of us who went to the house. After identifying the
+    location and making sure that there was no janitor, Kosar and I using the
+    gas pipe, ascended to the rooftop and entered the yard. Majid followed us.
+    We searched the rooms and found the Doctor in the bedroom. I held his
+    hands and Kosar tied his legs. Then we shut his mouth with a handkerchief.
+    We left after robbing the house. Judgment The court condemned Mr. Ali
+    Akbar Karami to death, 10 years imprisonment, and 154 lashes. The Supreme
+    Court confirmed the ruling He was hanged at the Qasr Prison yard in Tehran
+    on July 18, 2001.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7844/ali-akbar-karami"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

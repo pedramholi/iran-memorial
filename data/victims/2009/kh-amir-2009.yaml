@@ -1,0 +1,60 @@
+id: kh-amir-2009
+name_latin: "Amir Kh."
+name_farsi: "امیر خ."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2009-04-15
+age_at_death: 24
+place_of_death: "Shiraz"
+province: "Fars"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Amir Kh. Was reported by many sources, including
+    Khabar-e-Jonoub Newspaper website (April 16, 2009) and Iranian Student
+    Correspondents Association ISCA News (April 17, 2009). According to
+    available information, Mr. Amir Kh. s case was related to a persecution,
+    assault, and murder, in Shiraz. Arrest and detention Mr. Amir Kh. was
+    arrested at one of the hospitals in Shiraz, and taken to the police
+    station, following the suspicious death of Ms. Robabeh Kh. The
+    circumstances of his arrest and detention are not known. Trial Mr. Kh was
+    tried by the Criminal Court of Fars Province, Section 5. The defendant,
+    family of the deceased, and four advisors (Judges) were present at the
+    trial (ISCA News April 17, 2009). No information is available on this
+    trial. Charges The charges brought against Mr. Amir Kh were persecution
+    and murder . He was accused of brutalizing one of his distant relatives,
+    Ms. Robabeh Kh, murdering her with repeated blows of a rock, and
+    abandoning her corpse in the mountainous area around the town of Khorameh
+    (Kharameh?), Fars Province. Evidence of guilt According to available
+    information, the basis of the court s verdict was Mr. Amir Kh s
+    confession. He confessed to abusing and killing Ms. Robabeh Kh, to the
+    arresting officer, the District Attorney, and the court. The documents
+    against Mr. Amir Kh include the report of the Coroner s Office, which
+    describes death caused by heavy blows of a hard object to the head, and
+    also the testimony of the sister of the victim, who saw Mr. Amir fleeing
+    the scene of the crime. Defense In court, Mr. Amir Kh asked the family of
+    the victim for clemency, but they refused his plea (ISCA News, April 17,
+    2009). No information is available on Mr. Amir Kh s defense. Judgment
+    Branch 5 of the Criminal Court of Fars Province sentenced Mr. Amir Kh. to
+    death by hanging (for retribution). This sentence was requested by the
+    District Attorney and the family of the victim. His sentence was approved
+    by the Supreme Court. Mr. Amir Kh. was executed on the morning of April
+    15, 2009, in Adel Abad Prison in Shiraz (Khabar-e-Jonoub, April 16, 2009).
+    There is no information on the details of the verdict leading to this
+    execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8171/amir-kh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

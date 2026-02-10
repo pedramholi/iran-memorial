@@ -1,0 +1,59 @@
+id: darvish-hossein-1997
+name_latin: "Hossein Darvish"
+name_farsi: "حسین درویش"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1997-02-16
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Hossein Darvish and two other individuals was
+    announced in the Kayhan newspaper on February 17, 1997. Arrest and
+    Detention According to the Kayhan newspaper, the police identified the
+    defendant as a person who would inherit from the victims and arrested him.
+    Trial No information is available on the defendant’s trial. Charges The
+    charge against Mr. Hossein Darvish was announced as “two counts of
+    murder.” The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. International human rights organizations have drawn
+    attention to reports indicating that Islamic Republic authorities have
+    brought trumped-up charges against their political opponents and executed
+    them for alleged drug trafficking, sexual, and other criminal offences.
+    Each year Iranian authorities sentence to death hundreds of alleged common
+    criminals, following judicial processes that fail to meet international
+    standards. The exact number of people convicted based on trumped-up
+    charges is unknown. Evidence of Guilt According to the newspaper report,
+    “On February 27, 1996, an old woman and an old man died in a fire in
+    Shahrak Emam. The police identified [the defendant as] a person who stood
+    to inherit from the victims. It was disclosed that he spent the previous
+    night in their house. [The defendant] confessed to the interrogator that
+    in order to achieve his goal [inheritance], he shot and killed his aunt
+    and her husband and set their bodies ablaze.” International human rights
+    organizations have repeatedly condemned the government of the Islamic
+    Republic of Iran for its systematic use of torture to obtain confessions
+    from detainees and have questioned the authenticity of confessions
+    obtained under duress. Defense No information is available on Mr. Hossein
+    Darvish’s defense. Judgment The court condemned Mr. Hossein Darvish to
+    death and, after the ruling was confirmed by the Supreme Court, he was
+    hanged in the presence of the secretary of the Special Complex for
+    Executions, the Qasr prison warden, the victim’s family, and the forensic
+    team on February 16, 1997.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/39229/hossein-darvish"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

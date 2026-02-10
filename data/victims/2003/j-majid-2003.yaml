@@ -1,0 +1,51 @@
+id: j-majid-2003
+name_latin: "Majid J."
+name_farsi: "مجید ج."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2003-10-22
+age_at_death: null
+place_of_death: "Mashhad"
+province: "Khorasan-e Razavi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Majid J. was published on the website of ISNA
+    (Iranian Students News Agency) on October 22, 2003, and in the Jomhuri
+    Eslami newspaper on October 23, 2003. According to the existing
+    information, his case was related to membership in the Bagh-e Albalu gang,
+    drinking alcoholic beverages, having an illegitimate relationship,
+    kidnapping, and rape. Arrest and detention The circumstances of Mr. Majid
+    J. s arrest and detention are not known. Trial Branch 99 of the General
+    Court in Mashhad tried Mr. Majid J. No information is available on his
+    trial. Charges The charges brought against Mr. Majid J. were announced as
+    drinking alcoholic beverages, having an illegitimate relationship,
+    kidnapping, and rape. The validity of the criminal charges brought against
+    this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. Evidence of guilt The report of this execution
+    did not provide any specific information on the evidence presented against
+    Mr. Majid J. Defense Before being executed, Mr. Majid J. rejected all his
+    charges as totally false and pleaded innocent. He also denied his
+    membership in the Bagh-e Albalu gang. No further information is available
+    on his defense. Judgment Branch 99 of the General Court in Mashhad
+    condemned Mr. Majid J. to death for rape, to 15 years imprisonment for
+    kidnapping, to 99 lashes for illegitimate relationship, and to 80 lashes
+    for drinking alcoholic beverages. Branches Two and 41 of the Supreme Court
+    confirmed the ruling twice. He was hanged at the Mashhad Central Prison
+    yard on October 22, 2003.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4369/majid-j"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

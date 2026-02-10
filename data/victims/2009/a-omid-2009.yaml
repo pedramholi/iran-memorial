@@ -1,0 +1,53 @@
+id: a-omid-2009
+name_latin: "Omid A."
+name_farsi: "امید ع."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2009-01-01
+age_at_death: null
+place_of_death: "Sanandaj"
+province: "Kordestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The news of the execution of Mr. Omid A. along with another person was
+    announced by the website of the provincial Ministry of Justice office of
+    Kurdistan Province on July 5, 2009. According to the available
+    information, the case of Mr. Omid A. pertains to murder. Arrest and
+    Detention There is no information available on the details of Mr. Omid A.
+    s arrest and detention. Trial There is no information available on the
+    session or sessions of Mr. Omid A. s trial. Charges Mr. Omid A. was
+    charged with murder. However, there is no information available on the
+    details of the charges brought against him. The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic authorities have brought trumped-up charges, including
+    drug trafficking, sexual, and other criminal offences, against their
+    opponents (including political, civil society activists, as well as
+    unionists and ethnic and religious minorities). Each year Iranian
+    authorities sentence to death hundreds of alleged common criminals,
+    following judicial processes that fail to meet international standards.
+    The exact number of people convicted and executed based on trumped-up
+    charges is unknown. Evidence of Guilt There is no information available on
+    the details of the evidence entered against Mr. Omid A. Defense There is
+    no information available on the details of Mr. Omid A. s defense. Judgment
+    According to the available information, Mr. Omid A. was hanged in Sanandaj
+    Central Prison in July of 2009. However, there is no information available
+    on the exact date of this execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/81858/omid-a"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

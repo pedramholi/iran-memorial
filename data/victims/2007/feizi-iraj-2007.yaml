@@ -1,0 +1,47 @@
+id: feizi-iraj-2007
+name_latin: "Iraj Feizi"
+name_farsi: "ایرج فیضی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2007-10-25
+age_at_death: null
+place_of_death: "Ilam"
+province: "Ilam"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Iraj Feizi was published on the websites of
+    the Fars news agency on October 25, 2007. Arrest and Detention The
+    circumstances of this defendant’s arrest and detention are not known.
+    Trial No information is available on the defendant’s trial. Charges The
+    charge against Mr. Iraj Feizi was announced as “murder.” The validity of
+    the criminal charges brought against this defendant cannot be ascertained
+    in the absence of the basic guarantees of a fair trial. International
+    human rights organizations have drawn attention to reports indicating that
+    Islamic Republic authorities have brought trumped-up charges against their
+    political opponents and executed them for alleged drug trafficking,
+    sexual, and other criminal offences. Each year Iranian authorities
+    sentence to death hundreds of alleged common criminals, following judicial
+    processes that fail to meet international standards. The exact number of
+    people convicted based on trumped-up charges is unknown. Evidence of Guilt
+    According to the Fars news agency report, “the defendant murdered a young
+    man with a knife blow to his heart in public in 2006.” Defense No
+    information is available on Mr. Feizi’s defense. Judgment The court
+    condemned Mr. Iraj Feizi to death and the Supreme Court confirmed the
+    ruling. He was hanged in the central prison of Ilam on October 25, 2007.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/42282/iraj-feizi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

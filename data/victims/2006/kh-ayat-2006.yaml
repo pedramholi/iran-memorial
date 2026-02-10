@@ -1,0 +1,55 @@
+id: kh-ayat-2006
+name_latin: "Ayat Kh."
+name_farsi: "آیت خ."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2006-02-15
+age_at_death: null
+place_of_death: "Shiraz"
+province: "Fars"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Ayat Kh. along with another individual, was
+    announced by the websites of Khabar-e Jonoub (February 15, 2006) citing
+    the Public Relations section of the office of the Public and Revolutionary
+    Prosecutor of Fars Province, and the website of ISNA (February 17, 2006)
+    citing the Public Relations section of the provincial Ministry of Justice
+    office in Fars Province. Mr. Ayat Kh. s case pertains to a murder. Arrest
+    and Detention There is no information available on the details of Mr. Ayat
+    Kh. s arrest and detention. Trial Mr. Ayat Kh. was tried by Branch Twelve
+    of the Court of Shiraz. However, there is no information available on the
+    details of the session or sessions of his trial. Charges Mr. Ayat Kh. was
+    charged with premeditated murder. The validity of the criminal charges
+    brought against this defendant cannot be ascertained in the absence of the
+    basic guarantees of a fair trial. International human rights organizations
+    have drawn attention to reports indicating that the Islamic Republic
+    authorities have brought trumped-up charges, including drug trafficking,
+    sexual, and other criminal offences, against their opponents (including
+    political, civil society activists, as well as unionists and ethnic and
+    religious minorities). Each year Iranian authorities sentence to death
+    hundreds of alleged common criminals, following judicial processes that
+    fail to meet international standards. The exact number of people convicted
+    and executed based on trumped-up charges is unknown. Evidence of Guilt
+    There is no information available on the details of the evidence entered
+    against Mr. Ayat Kh. Defense There is no information available on the
+    details of Mr. Ayat Kh. s defense. Judgment Branch Twelve of the Court of
+    Shiraz sentenced Mr. Ayat Kh. to death. The verdict was approved by Branch
+    37 of the Supreme Court as well as the head of the Judiciary. Mr. Ayat Kh.
+    was hanged in the Adelabad Prison of Shiraz on February 15, 2006.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8228/ayat-kh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

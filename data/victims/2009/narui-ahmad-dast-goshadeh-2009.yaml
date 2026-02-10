@@ -1,0 +1,51 @@
+id: narui-ahmad-dast-goshadeh-2009
+name_latin: "Ahmad Dast Goshadeh Naru'i"
+name_farsi: "احمد دست گشاده ناروئی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2009-06-20
+age_at_death: null
+place_of_death: "Zahedan"
+province: "Sistan va Baluchestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Ahmad Dast Goshadeh Naru'i, along with another
+    person, was reported by the Ministry of Justice of the Province of Sistan
+    va Baluchestan Website (June 20, 2009), and by Radio Baluchi. According to
+    available information, Mr. Dast Goshadeh Naru'i s case was related to drug
+    offenses. Arrest and detention The circumstances of Mr. Dast Goshadeh
+    Naru'i s arrest and detention are not known. Trial The Islamic
+    Revolutionary Court of Zahedan put Mr. Dast Goshadeh Naru'i on trial
+    (Ministry of Justice of the Province of Sistan O Baluchestan). No
+    information is available on this trial. Charges According to available
+    information, the charge brought against Mr. Dast Goshadeh Naru'i was
+    participation in the transportation and possession of illegal drugs,
+    specifically opium and heroin . The reports do not specify the volume of
+    these drugs, or the details of Mr. Dast Goshadeh Naru'i s participation.
+    Evidence of guilt The report of this execution does not contain
+    information regarding the evidence providedagainst the defendant. Defense
+    No information is available on Mr. Dast Goshadeh Naru'i s defense.
+    Judgment The Islamic Revolutionary Court of Zahedan sentenced Mr. Dast
+    Goshadeh Naru'i to death by hanging . This sentence was approved by the
+    Supreme Court (Ministry of Justice of the Province of Sistan va
+    Baluchestan). Mr. Dast Goshadeh Naru'i, along with another person, was
+    executed at the Central Prison of Zahedan, on the morning of Saturday,
+    June 20, 2009. There is no information on the details of the verdict
+    leading to this execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8178/ahmad-dast-goshadeh-narui"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

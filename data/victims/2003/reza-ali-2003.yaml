@@ -1,0 +1,51 @@
+id: reza-ali-2003
+name_latin: "Ali Reza"
+name_farsi: "علیرضا"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2003-02-23
+age_at_death: null
+place_of_death: "Bandar Anzali"
+province: "Gilan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Ali Reza, without his last name, was
+    published in the Ettela at newspaper on February 24, 2003. Arrest and
+    detention The circumstances of Mr. Ali Reza s arrest and detention are not
+    known. Trial No information is available on Mr. Ali Reza s trial. Charges
+    The charge brought against Mr. Ali Reza was announced as murder. He was
+    accused of murdering a person named Ebrahim Gachkar in Bandar-e Anzali in
+    1996. The validity of the criminal charges brought against this defendant
+    cannot be ascertained in the absence of the basic guarantees of a fair
+    trial. International human rights organizations have drawn attention to
+    reports indicating that the Islamic Republic authorities have brought
+    trumped-up charges, including drug trafficking, sexual, and other criminal
+    offences, against their opponents (including political, civil society
+    activists, as well as unionists and ethnic and religious minorities). Each
+    year Iranian authorities sentence to death hundreds of alleged common
+    criminals, following judicial processes that fail to meet international
+    standards. The exact number of people convicted and executed based on
+    trumped-up charges is unknown. Evidence of guilt The report of this
+    execution did not provide any specific information on the evidence
+    presented against Mr. Ali Reza. Defense No information is available on Mr.
+    Ali Reza s defense. Judgment A court condemned Mr. Ali Reza to death. He
+    was hanged in public and in the presence of the victim s family at
+    Bibihurieh Square in Bandar-e Anzali on February 23, 2003. No specific
+    information is available about this execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7915/ali-reza"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

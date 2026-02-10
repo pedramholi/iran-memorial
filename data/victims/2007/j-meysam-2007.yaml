@@ -1,0 +1,48 @@
+id: j-meysam-2007
+name_latin: "Meysam J."
+name_farsi: "میثم ج."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2007-12-12
+age_at_death: 21
+place_of_death: "Shiraz"
+province: "Fars"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the prosecution and execution of Mr. Meysam J. was published on
+    the websites of IRNA (Islamic Republic News Agency) on December 12, and
+    the Khabare Jonub newspaper on December 13, 2007. Arrest and Detention Mr.
+    Meysam J. was arrested after the body of a 53-year-old man was recovered
+    from a well. Police investigation revealed that the victim was a driver
+    whose vehicle had been stolen after his murder. Trial Branch Five of the
+    Criminal Court of Fars Province tried Mr. Meysam J. No further information
+    is available about his trial. Charges The charge against Mr. Meysam J. was
+    reported as "murdering a driver with the intention of robbery." The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    Evidence of Guilt The evidence provided against Mr. Meysam J. was his
+    confession . International human rights organizations have repeatedly
+    condemned the government of the Islamic Republic of Iran for its
+    systematic use of severe torture and solitary confinement to obtain
+    confessions from detainees and have questioned the authenticity of
+    confessions obtained under duress. Defense No information is available on
+    Mr. Meysam J. s s defense. Judgment The court condemned Mr. Meysam J. to
+    death and the ruling was confirmed by Branch 20 of the Supreme Court. He
+    was hanged in public in Shiraz on December 12, 2007.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7570/meysam-j"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

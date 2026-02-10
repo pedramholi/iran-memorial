@@ -1,0 +1,50 @@
+id: seifollahi-habib-2002
+name_latin: "Habib Seifollahi"
+name_farsi: "حبیب سیف‌اللهی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2002-04-17
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Habib Seifollahi, along with two others, was
+    published in the Iran newspaper on April 18, 2002. News of his arrest and
+    prosecution was published in the Ettela at newspaper on February 8, 2000.
+    Arrest and detention According to the Ettela at newspaper, Mr. Seifollahi
+    was identified and arrested by detectives of the Intelligence Police of
+    Tehran, Section 10, in Tabriz. He had escaped along with a friend to
+    Tabriz after committing a crime during a collective fight at Azadi Square
+    in Tehran. The circumstances of his arrest and detention are not known.
+    Trial The Criminal Court of Tehran tried Mr. Seifollahi. No information is
+    available on his trial. Charges The charge brought against Mr. Seifollahi
+    was announced as murder. The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. Evidence of guilt The evidence provided
+    against Mr. Seifollahi was his confession. International human rights
+    organizations have repeatedly condemned the government of the Islamic
+    Republic of Iran for its systematic use of severe torture and solitary
+    confinement to obtain confessions from detainees and have questioned the
+    authenticity of confessions obtained under duress. Defense No information
+    is available on Mr. Seifollahi s defense. Judgment The Criminal Court of
+    Tehran condemned Mr. Habib Seifollahi to death and the Supreme Court
+    confirmed it. The ruling was carried out at the Qasr Prison yard when he
+    was hanged on April 17, 2002.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/73333/habib-seifollahi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

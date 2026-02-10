@@ -1,0 +1,58 @@
+id: chatrai-rasul-2002
+name_latin: "Rasul Chatra'i"
+name_farsi: "رسول چترايی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2002-04-07
+age_at_death: 25
+place_of_death: "Artesh Square"
+province: "Esfahan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Rasul Chatra i, son of Abbas, was published
+    in the Kayhan newspaper on April 8, 2002, and in Ettela at and Iran
+    newspapers on April 11, 2002. Additional information regarding his arrest
+    and prosecution was published on the Jamejam website on January 22, 2002,
+    and in the Kayhan newspaper on April 6, 2002. Mr. Chatra i was the leader
+    of a 14-member gang that had committed piracy, armed robbery, and murder
+    of drivers on roads around Esfahan. Arrest and Detention There is no
+    specific information on Mr. Chatra i s arrest and detention. Trial Branch
+    36 of the Public Court in Esfahan tried Mr. Chatra i and the other members
+    of his gang. (Jamejam website) Charges According to the existing
+    information, the charges against Mr. Chatra i were announced as
+    "participation in six armed robberies and committing two murders." The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    Evidence of Guilt The evidence presented against Mr. Chatra i was having a
+    record for sedition, extortion, and harassment of the public honor, in
+    addition to his confession during the interrogation. International human
+    rights organizations have repeatedly condemned the government of the
+    Islamic Republic of Iran for its systematic use of severe torture and
+    solitary confinement to obtain confessions from detainees and have
+    questioned the authenticity of confessions obtained under duress. Defense
+    During his trial, Mr. Chatra i denied the murder charge of two individuals
+    and claimed that the second row defendant was responsible. However, this
+    defendant rejected Mr. Chatra i s claim. (Jamejam website) Judgment Branch
+    36 of the Public Court in Esfahan condemned Mr. Chatra i, the first row
+    defendant, to death (two counts), 15 years imprisonment, 74 lashes, and
+    paying Dieh (blood money) to the victims. The Head of Judiciary confirmed
+    the ruling. He was hanged in public at the Artesh (Army) Square in Esfahan
+    on April 7, 2002. A victim s mother carried out the ruling. No information
+    is available about his lash ruling being carried out before his execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7658/rasul-chatrai"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

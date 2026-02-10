@@ -1,0 +1,57 @@
+id: moghadam-moheb-ali-gholamian-2006
+name_latin: "Moheb Ali Gholamian Moghadam"
+name_farsi: "محبعلی غلامیان مقدم"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2006-11-02
+age_at_death: null
+place_of_death: "Zabol"
+province: "Sistan va Baluchestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Moheb Ali Gholamian Moghadam was announced by
+    the websites of IRNA (November 2, 2006) and Iscanews (November 3, 2006).
+    His case pertains to the murder of a Baluchi man during a robbery. Arrest
+    and Detention There is no information available on the details of Mr.
+    Gholamian Moghadam s arrest and detention. Trial Mr. Gholamian Moghadam
+    was tried by Branch One of the Public Court of Zabol. However, there is no
+    information available on the details of the session or sessions of his
+    trial. Charges Mr. Gholamian Moghadam was charged with robbery and
+    premeditated murder. The validity of the criminal charges brought against
+    this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that the Islamic Republic
+    authorities have brought trumped-up charges, including drug trafficking,
+    sexual, and other criminal offences, against their opponents (including
+    political, civil society activists, as well as unionists and ethnic and
+    religious minorities). Thousands of alleged drug traffickers have been
+    sentenced to death following judicial processes that fail to meet
+    international standards. Scores of them were executed based on a 1989 law
+    imposing mandatory death sentences on drug traffickers found in possession
+    of specified amounts of proscribed narcotics (5 kg of hashish or opium,
+    and more than 30 grams of heroin, codeine or methadone). The exact number
+    of people convicted based on trumped-up charges is unknown. Evidence of
+    Guilt There is no information available on the details of the evidence
+    entered against Mr. Gholamian Moghadam. Defense There is no information
+    available on the details of Mr. Gholamian Moghadam s defense. Judgment
+    Branch One of the Public Court of Zabol sentenced Mr. Moheb Ali Gholamian
+    Moghadam to death. The verdict was approved by the Supreme Court. He was
+    publicly hanged in the city of Doust Mohammad Bakhsh of Miyankangi of the
+    Zabol County on Thursday, November 2, 2006.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8227/moheb-ali-gholamian-moghadam"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

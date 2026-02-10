@@ -1,0 +1,41 @@
+id: ali-2002
+name_latin: "Ali"
+name_farsi: "علی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2002-01-01
+age_at_death: null
+place_of_death: "Kerman Province"
+province: "Kerman"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Ali, known as Ali Dozd or Ali Sadam, along
+    with another person, was published in the Jomhuri Eslami newspaper on
+    February 19, 2002. Arrest and detention The circumstances of Mr. Ali s
+    arrest and detention are not known. Trial No information is available on
+    Mr. Ali s trial. Charges According to the Head of Kerman Provincial
+    Courthouse, the charges against Mr. Ali were kidnapping, murder, and rape.
+    The validity of the criminal charges brought against this defendant cannot
+    be ascertained in the absence of the basic guarantees of a fair trial.
+    Evidence of guilt The report of this execution did not provide any
+    specific information on the evidence presented against Mr. Ali. Defense No
+    information is available on Mr. Ali s defense. Judgment According to the
+    Head of Kerman Provincial Courthouse, Mr. Ali was executed in public in
+    Anduhjerd, Kerman. The exact date of his execution is unknown.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/73534/ali"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

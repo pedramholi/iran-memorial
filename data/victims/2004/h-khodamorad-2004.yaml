@@ -1,0 +1,51 @@
+id: h-khodamorad-2004
+name_latin: "Khodamorad H."
+name_farsi: "خدامراد ح."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2004-01-25
+age_at_death: null
+place_of_death: "Dezful"
+province: "Khuzestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Khodamorad H. was published in the Khorasan
+    newspaper on January 27, 2004. He was 25 years old and married. According
+    to the existing information, his case was related to the murder of Mr.
+    Reza M. in Dezful, Khuzestan. Arrest and detention The circumstances of
+    Mr. Khodamorad H. s arrest and detention are not known. Trial The Criminal
+    Branch of Dezful Courthouse tried Mr. Khodamorad H. No information is
+    available on his trial. Charges The charges brought against Mr. Khodamorad
+    H. were announced as murder and armed robbery. According to the report, he
+    was accused of taking the victim to a valley near Dezful DMV pretending to
+    be a buyer for his tractor. Then he murdered the victim with a gun, stole
+    his two million Tumans travelers checks, and escaped. The validity of the
+    criminal charges brought against this defendant cannot be ascertained in
+    the absence of the basic guarantees of a fair trial. Evidence of guilt The
+    report of this execution did not provide any specific information on the
+    evidence presented against Mr. Khodamorad H. However, according to the
+    report, the forensics report had announced the cause of death of the
+    victim as a broken skull and burning body after receiving two bullets.
+    Defense No information is available on Mr. Khodamorad H. s defense.
+    Judgment The Criminal Branch of Dezful Courthouse condemned Mr. Khodamorad
+    H. to death. Branch 37 of the Supreme Court confirmed the ruling. The Head
+    of Judiciary validated the ruling and he was hanged in public in Dezful on
+    January 25, 2004. No specific information is available about this
+    execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/75942/khodamorad-h"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

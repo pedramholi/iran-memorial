@@ -1,0 +1,64 @@
+id: bakhshi-ahmad-2009
+name_latin: "Ahmad Bakhshi"
+name_farsi: "احمد بخشی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2009-11-15
+age_at_death: 24
+place_of_death: "Qae'mshahr"
+province: "Mazandaran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Ahmad Bakhshi was reported by many sources, including
+    Kayhan Newspaper and Fars News Service on November 16, 2009. Additional
+    information has been gathered from IRNA News Service Website (June 27,
+    2009) and Balagh-e-Mazandaran (July 3, 2012). Mr. Bakhshi was 24 years
+    old, from Qa em Shahr in Mazandaran, and living in that city (Kayhan
+    Newspaper, November 16, 2009). According to available information, Mr.
+    Bakhshi s case was related to an incident of rape, in February/March of
+    2006, in Qa em Shahr. He had a criminal record, including robbery, illegal
+    relations, and kidnapping (Kayhan Newspaper, November 16, 2009). Arrest
+    and detention Police arrested Mr. Bakhshi one year after this crime was
+    committed. A female student filed a complaint with the police, stating
+    that she had been raped by three men. She identified the culprits,
+    including Mr. Bakhshi. Mr. Bakhshi had been evading arrest for a year
+    (Fars News Service). The detailed circumstances of Mr. Bakhshi s arrest
+    and detention are not known. Trial The Criminal court of Mazandaran
+    Province tried Mr. Bakhshi and two co-defendants at the Ministry of
+    Justice of Qa em Shahr (Kayhan Newspaper). No information is available on
+    this trial. Charges The Criminal Court of Mazandaran Province accused Mr.
+    Bakhshi of rape . He and two accomplices were accused of abducting a
+    female student, taking her to Talar Forest Park (Balagh, Mazandaran),
+    raping her, and abandoning her in the middle of Qa em Shahr (Fars News
+    Service). One of Mr. Bakhshi s accomplices had posed as a taxi driver and
+    picked up the female student, who was originally from Tehran. He then
+    picked up the other two, and they kidnapped the girl. Evidence of guilt
+    According to available information, the testimony of the victim, and her
+    identification of Mr. Bakhshi and his accomplices, were entered as
+    evidence in court (Fars News Service). The report of this execution does
+    not contain detailed information regarding the evidence providedagainst
+    the defendant. Defense No information is available on Mr. Bakhshi s
+    defense. Judgment On July 18, 2007, the Criminal Court of Mazandaran
+    Province sentenced Mr. Bakhshi to public hanging . According to the
+    written judgement, issued on April 22, 2008, Section 16 of the Supreme
+    court approved his sentence (Kayhan Newspaper). Mr. Bakhshi was executed
+    in public, on the morning of November 15, 2009, in Velayat Square, Qa em
+    Shahr (Kayhan Newspaper). There is no information on the details of the
+    verdict leading to this execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8176/ahmad-bakhshi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

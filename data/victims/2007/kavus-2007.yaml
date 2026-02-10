@@ -1,0 +1,58 @@
+id: kavus-2007
+name_latin: "Kavus"
+name_farsi: "کاووس"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2007-06-13
+age_at_death: 24
+place_of_death: "Bandar Abbas"
+province: "Hormozgan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Kavus, from Kohnuj, along with three others
+    who were executed in two days, was published on the websites of the Fars
+    news agency and the Tose eh newspaper on June 16, 2007. Arrest and
+    Detention According to the media reports and record of his case, Mr.
+    Kavus, along with another person, was transporting narcotics in a Peykan
+    car on December 20, 2005, when the Faryab Station police officers
+    suspected them. They did not obey the police order to stop and kept
+    driving. However, they were arrested after an intensive clash with the
+    police. Trial This trial took place in the Revolutionary Court of Rudan.
+    No further information is available about the Mr. Kavus s trial. Charges
+    The charge against Mr. Kavus was announced as "armed transportation of 154
+    kilograms of opium." The validity of the criminal charges brought against
+    this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that Islamic Republic authorities
+    have brought trumped-up charges against their political opponents and
+    executed them for alleged drug trafficking, sexual, and other criminal
+    offences. Thousands of alleged drug traffickers have been sentenced to
+    death following judicial processes that fail to meet international
+    standards. Scores of them were executed based on a 1989 law imposing
+    mandatory death sentences on drug traffickers found in possession of
+    specified amounts of proscribed narcotics (5 kg of hashish or opium, and
+    more than 30 grams of heroin, codeine or methadone). The exact number of
+    people convicted based on trumped-up charges is unknown. Evidence of Guilt
+    The report of this execution did not provide any specific information on
+    the evidence presented against the defendant. Defense No information is
+    available on the Mr. Kavus's defense. Judgment The court condemned Mr.
+    Kavus to death and the confiscation of his belongings and the ruling was
+    confirmed by the Supreme Court. Mr. Kavus was hanged in Bandar Abbas
+    prison on June 13, 2007. He was 24 years old.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7493/kavus"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

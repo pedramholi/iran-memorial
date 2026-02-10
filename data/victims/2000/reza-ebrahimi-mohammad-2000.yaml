@@ -1,0 +1,42 @@
+id: reza-ebrahimi-mohammad-2000
+name_latin: "Ebrahimi Mohammad Reza"
+name_farsi: "ابراهیمی محمدرضا"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2000-04-10
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Mohammad Reza Ebrahimi, along with four
+    others, was published in the Hamshahri newspaper on April 11, 2000. Arrest
+    and Detention The circumstances of Mr. Ebrahimi s arrest and detention and
+    whether he had an attorney are not known. Trial No information is
+    available on Mr. Ebrahimi s trial, except that the Public Court of Tehran
+    issued the ruling against him. Charges The charge against Mr. Mohammad
+    Reza Ebrahimi was announced as "murder. According to the Hamshahri
+    newspaper, he went to a restaurant for robbery, killed the victim with
+    several blows to the head, and escaped on June 12, 1998. Evidence of Guilt
+    The report of this execution does not contain information regarding the
+    evidence provided against Mr. Ebrahimi. Defense No information is
+    available regarding Mr. Ebrahimi's defense. Judgment The court condemned
+    Mr. Mohammad Reza Ebrahimi to Qesas (the death penalty). He was hanged at
+    the Qasr prison yard on April 10, 2000.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/73055/ebrahimi-mohammad-reza"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

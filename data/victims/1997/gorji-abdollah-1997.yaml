@@ -1,0 +1,53 @@
+id: gorji-abdollah-1997
+name_latin: "Abdollah Gorji"
+name_farsi: "عبدالله گرجی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1997-06-15
+age_at_death: null
+place_of_death: "Kordestan Province"
+province: "Kordestan"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    Mr. Abdollah Gorji’s execution was announced in the Kayhan newspaper on
+    June 16, 1997. This news was also published on the website of the
+    Hamshahri newspaper with the name of Abdollah Garmi. Arrest and detention
+    The circumstances of this defendant’s arrest and detention are not known.
+    Trial No information is available on the defendant’s trial. Charges The
+    charge against Mr. Abdollah Gorji was announced as "murder." According to
+    the newspapers' report, in March of 1997, the defendant attempted a
+    robbery from the house of a policeman, Sirus Khodadadi in Qarveh
+    (Kordestan province); but he was confronted with resistance and after a
+    fight, he killed the victim with blows of a knife. The validity of the
+    criminal charges brought against this defendant cannot be ascertained in
+    the absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic’s authorities have brought trumped-up charges against
+    their political opponents and executed them for drug trafficking, sexual,
+    and other criminal offences. Each year, Iranian authorities sentence to
+    death hundreds of alleged common criminals, following judicial processes
+    that fail to meet international standards. The exact number of people
+    convicted based on trumped-up charges is unknown. Evidence of guilt The
+    report of this execution does not contain information regarding the
+    evidence provided against the defendant. Defense No information is
+    available on Mr. Abdollah Gorji's defense. Judgment The court condemned
+    Mr. Abdollah Gorji to death and after the ruling was confirmed by the
+    Supreme Court, he was executed in the presence of the victim's family in
+    Qarveh on June 15, 1997.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4274/abdollah-gorji"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

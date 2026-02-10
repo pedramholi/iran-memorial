@@ -1,0 +1,28 @@
+id: huraman-mostafa-1994
+name_latin: "Mostafa Huraman"
+name_farsi: "مصطفی هورامان"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim (Sunni)"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1994-12-01
+age_at_death: null
+place_of_death: "Erbil"
+province: null
+cause_of_death: "Extrajudicial Execution"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/84315/mostafa-huraman"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

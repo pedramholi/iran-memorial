@@ -1,0 +1,28 @@
+id: kamali-majid-2009-2
+name_latin: "Majid Kamali"
+name_farsi: "مجید کمالی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2009-08-25
+age_at_death: 24
+place_of_death: "Yazd"
+province: "Yazd"
+cause_of_death: "Arbitrary Execution » Arbitrary shooting"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/86498/majid-kamali"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

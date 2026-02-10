@@ -1,0 +1,64 @@
+id: akbar-2005
+name_latin: "Akbar"
+name_farsi: "اکبر"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: "https://www.iranrights.org/actorphotos/40007_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 2005-08-10
+age_at_death: 43
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    Mr. Akbar s (last name unknown) execution was been announced in the Sharq
+    and Iran newspapers on August 3, 2005, Hamshahri , and the website of Iran
+    on August 11, 2005. Arrest and detention According to Sharq , a man
+    complained to the police station of Feiz Park, number 140, that his
+    belongings were stolen from his vehicle. The matter was communicated to
+    the patrol police. The police were patrolling the area when a van
+    attracted their suspicion. The police followed the van and ordered it to
+    stop. The van parked next to an under-construction building and the
+    defendant ran out of the van and entered the building. The officers
+    surrounded the building. The fugitive shot towards them, causing the death
+    of a police officer. Other officers entered the building, and arrested the
+    man, who was wounded. Trial No information is available on the defendant s
+    trial other than after issuance of the verdict of Branch 1602 of Tehran
+    Criminal Court, with the appeal of the defendant, the case was sent to
+    Branch 4 of the Supreme Court ( Sharq ). Charges Mr. Akbar was charged
+    with murder. Iran announced: On February 3, 2002, [the defendant] shot a
+    police officer with a hunting gun at midnight. The validity of the
+    criminal charges brought against this defendant cannot be ascertained in
+    the absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic s authorities have brought trumped-up charges against
+    their political opponents and executed them for drug trafficking, sexual,
+    and other criminal offences. The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of guilt According to Hamshahri ,
+    the defendant confessed to the killing of a young police officer and added
+    that the same day he intended to steal tires and he had already stolen
+    some. During the investigation, it was disclosed that the defendant had a
+    criminal record of several armed robberies, attacking the police, and had
+    been arrested and imprisoned previously. The Iran newspaper mentioned that
+    his gun was discovered at the time of arrest. Defense No information is
+    available on the defense. According to Hamshahri , Mr. Akbar stated that
+    he shot the officer who followed him only to scare the police away and he
+    did not intend to kill the officer. Judgment Branch 1602 of Tehran s
+    Criminal Court condemned Mr. Akbar to death and 13 years imprisonment and
+    the Supreme Court approved this ruling. Mr. Akbar was hanged in Evin
+    prison on August 10, 2005.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/40007/akbar"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

@@ -1,0 +1,43 @@
+id: mohsenpur-abdolreza-2001
+name_latin: "Abdolreza Mohsenpur"
+name_farsi: "عبدالرضا محسن‌پور"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2001-07-03
+age_at_death: 23
+place_of_death: "Khuzestan Province"
+province: "Khuzestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Abdolreza Mohsenpur, son of Sa id, was
+    published in the Jomhuri-Eslami newspaper on July 4, 2001. Arrest and
+    detention The circumstances of Mr. Mohsenpur s arrest and detention are
+    not known. Trial Branch Two of the Public Court of Shadegan tried Mr.
+    Mohsenpur. No information is available on his trial. Charges The charge
+    brought against Mr. Mohsenpur was announced as murder. According to the
+    report, he had murdered his cousin with a Kalashnikov rifle over a dispute
+    on July 24, 1999. The validity of the criminal charges brought against
+    this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. Evidence of guilt The report of this execution
+    does not contain information regarding the evidence provided against Mr.
+    Mohsenpur. Defense No information is available on Mr. Mohsenpur s defense.
+    Judgment The court condemned Mr. Abdolreza Mohsenpur to death and the
+    Supreme Court confirmed the ruling. He was hanged in public in Shadegan on
+    July 3, 2001.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/74248/abdolreza-mohsenpur"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

@@ -1,0 +1,98 @@
+id: fathali-2003
+name_latin: "Fath'ali"
+name_farsi: "فتحعلی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: "https://www.iranrights.org/actorphotos/73727_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 2003-06-18
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Fath ali was published in the Iran newspaper
+    on June 19, 2003. Additional information regarding his prosecution was
+    taken from the Iran newspaper of September 12, 2002, and the Ettela at
+    newspaper of November 4, 1999. Mr. Fath aliworked at a slaughterhouse.
+    Arrest and detention According to the Ettela at newspaper, bodies of a
+    woman and her two children, who had been murdered by blows of knife, were
+    recovered at their house on February 3, 1998. This woman s husband told
+    the police that his brother-in-law had an enmity with them. Following the
+    issuance of a judicial order, Mr. Fath ali was arrested with a murder
+    charge. Trial Branch 1607 of the Criminal Court of Tehran tried Mr. Fath
+    ali on November 3, 1999. (Ettela at newspaper) No information is available
+    on his trial. Charges The charge brought against Mr. Fath ali was
+    announced as murder. The validity of the criminal charges brought against
+    this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. Evidence of guilt According to the media
+    reports, the evidence presented against Mr. Fath ali was the existence of
+    blood marks on his shirt that matched a victim s blood type, his absence
+    from work for hours when the murder took place, a missing slaughter knife
+    that was always in his house, and testimonies of neighbors who had seen a
+    man hastily escaping the murder scene with a car. Defense During his
+    interrogation and trial, Mr. Fath ali claimed innocence and never
+    confessed to the crime. No other information is available on his defense.
+    Judgment The judge considered the case an example of Lowth* cases.
+    Therefore, it was decided that the victim s family decides the fate of Mr.
+    Fath ali by going through the Qassameh** ceremony. The family of the
+    children s mother pardoned him but the children s father madeoath 50 times
+    and demanded the court to condemn his brother-in-law to death. The court
+    condemned Mr. Fath ali to death (two counts) based onQassameh performed by
+    complainant and after Mr. Fath ali objected to the ruling, the case was
+    referred to Branch 31 of the Supreme Court that confirmed the ruling. Mr.
+    Fath ali was hanged at the Qasr Prison yard in Tehran on June 18, 2003.
+    ............................................. *In the Shari law, Lowth is
+    when the judge is suspected that the defendant committed the murder or
+    injury but there is no evidence. Then, the plaintiff (victim s family) can
+    prove it by going through a Qassameh ceremony which is an oath by the
+    victim s family. ** Qassameh means an oath taken by a group of people. It
+    is one of the ways that a defendant s guilt or innocence can be proven for
+    both intentional and non-intentional offenses. Per Iran s Islamic Penal
+    Code, qassameh is carried out in instances where a crime has occurred and
+    no convincing evidence or witnesses exist which could prove the defendant
+    s guilt, and where a judge has doubt about the defendant s guilt based
+    solely on circumstantial evidence a circumstance referred to in religious
+    jurisprudence as lowth. Where lowth obtains, the judge is bound to ask the
+    defendant to produce evidence disproving the charge. If the defendant
+    demonstrates his innocence in this way, he is acquitted. Failing this, the
+    plaintiff may perform qassameh in order to prove the defendant s guilt, or
+    request that the defendant perform qassameh to disprove the charges. This
+    procedure, which requires a defendant to prove his innocence, is contrary
+    to the principle of presumption of innocence and violates the defendant s
+    right to remain silent. The principle of the presumption of innocence -
+    recognized in Iran s constitution, Code of Criminal Procedure, and
+    international agreements to which Iran is signatory holds that all persons
+    are to be considered innocent until proven guilty. A defendant should not
+    be made to prove his own innocence. Proving the charges made against the
+    defendant by presenting adequate evidence and witnesses is the duty of the
+    prosecuting authority (in the Iranian context, the public prosecutor or a
+    private plaintiff.) The right to remain silent is among the defendant s
+    rights of defense, affording him the right to refrain from answering
+    questions regarding the charges entered against him. Such silence may not
+    be treated as an indication or evidence of guilt or innocence. In order to
+    substantiate a charge of homicide through qassameh, an oath is required
+    from 50 male relatives of the plaintiff. For the charge to be dismissed,
+    fifty male relatives of the defendant must swear to his innocence. Should
+    the number of male relatives taking the oath be less than 50, the
+    defendant may repeat the oath himself in order to meet the required number
+    of swears. In homicide cases, it is not possible for a plaintiff to repeat
+    the oath in this way. It is not necessary for those taking the oath to
+    have witnessed the commission of the crime themselves. In Hanafi
+    jurisprudence, qassameh can only be carried out to disprove charges
+    against a defe
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/73727/fathali"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

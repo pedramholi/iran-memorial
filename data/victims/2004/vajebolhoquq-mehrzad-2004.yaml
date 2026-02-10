@@ -1,0 +1,58 @@
+id: vajebolhoquq-mehrzad-2004
+name_latin: "Mehrzad Vajebolhoquq"
+name_farsi: "مهرزاد واجب الحقوق"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2004-10-05
+age_at_death: 30
+place_of_death: "Esfahan"
+province: "Esfahan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The news of the conviction and execution of Mr. Mehrzad Vajebolhoquq was
+    published in the Etela'at newspaper on both October 4 and 6, 2004 as well
+    as the websites of both the Sharq newspaper and the Fars News Agency on
+    October 5, 2004. According to the media, Mehrzad Vajebolhoquq organized a
+    group of five people to commit armed robbery. Arrest and detention
+    Regarding the defendant's arrest, the Fars News Agency quotes the Head of
+    Especial Center for Fighting against Special Crime in Esfahan Province
+    saying: "The officers of Station 28 of Esfahan were first drawn to the
+    gang's vehicle. The robbers attempted to escape while shooting at police
+    and onlookers. Two onlookers were injured in this incident, in addition to
+    one of the robbers. It was the injured robber who identified the others
+    and told of their whereabouts. The police found and arrested the others."
+    Trial No information is available on the defendant’s trial. Charges
+    According to the media reports, the charges against the defendant were:
+    "Possession of narcotics, multiple armed robberies (a gold shop, five
+    groceries and home equipment stores) several car jackings each concluding
+    with the beating of the drivers, along with shooting and injuring the
+    police." Evidence of guilt The report of this execution does not contain
+    information regarding the evidence provided against the defendant. The
+    Etela'at newspaper wrote that the defendant had two weapons (colt and
+    Kelashinkof) when he was arrested. Defense No information is available on
+    Mr. Mehrzad Vajebolhoquq's defense. According to Fars News Agency, before
+    being executed, he declared through a loud speaker that "the main factor
+    for his behavior was associating with unsuitable people." Judgment Mr.
+    Mehrzad Vajebolhoquq was condemned to death. The Supreme Court confirmed
+    this ruling. He was executed in public at the Razmandegan intersection in
+    Esfahan on October 5, 2004. According to the Fars News Agency, the Head of
+    Especial Center for Fighting against Special Crime in Esfahan province
+    announced that "the purpose for this public execution is to make an
+    example for other criminals."
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/41519/mehrzad-vajebolhoquq"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

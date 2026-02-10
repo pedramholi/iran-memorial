@@ -1,0 +1,48 @@
+id: n-ali-2007
+name_latin: "Ali N."
+name_farsi: "علی ن."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2007-01-01
+age_at_death: null
+place_of_death: "Bandar Anzali"
+province: "Gilan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Ali N. was published on the website of the
+    Etela’at newspaper on May 31, 2007. Arrest and Detention The circumstances
+    of this defendant’s arrest and detention are not known. Trial No
+    information is available on the defendant’s trial. Charges The charge
+    against Mr. N. was announced as “murder.” The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that
+    Islamic Republic authorities have brought trumped-up charges against their
+    political opponents and executed them for alleged drug trafficking,
+    sexual, and other criminal offences. Each year Iranian authorities
+    sentence to death hundreds of alleged common criminals, following judicial
+    processes that fail to meet international standards. The exact number of
+    people convicted based on trumped-up charges is unknown. Evidence of Guilt
+    The report of this execution does not contain information regarding the
+    evidence provided against the defendant. According to the Etela’at
+    newspaper, the defendant murdered a young man during a fight in 2002.
+    Defense No information is available on Mr. N.’s defense. Judgment The
+    court condemned Mr. Ali N. to death. He was hanged in the presence of the
+    victim’s family and the judiciary officials of Bandar Anzali.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/42285/ali-n"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

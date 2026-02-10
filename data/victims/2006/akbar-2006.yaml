@@ -1,0 +1,63 @@
+id: akbar-2006
+name_latin: "Akbar"
+name_farsi: "اکبر"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2006-09-20
+age_at_death: 28
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Akbar (no last name), along with one other
+    person, was reported in Fars News Agency website (September 20, 2006) and
+    Etemad newspaper (September 21, 2006). Additional information about this
+    case was collected from Ettela at newspaper (February 13, 2001 and July
+    10, 2003). Mr. Akbar was married and had a two-month-old baby daughter.
+    His case was related to an incidence of murder on Piruzi Street in Tehran,
+    on August 10, 2000. Arrest and detention Following a murder incident, on
+    August 10, 2000, Mr. Akbar tried to kill himself by setting his house on
+    fire. The neighbors took him to a hospital and saved him from death. The
+    date of his arrest is not clear, but it must have been between August 2000
+    and February 2001. He spent six years in prison. The circumstances of Mr.
+    Akbar s arrest and detention are not known. Trial Branch 1602 of the
+    Criminal Court of Tehran tried Mr. Akbar on January 31, 2001. Since the
+    Supreme Court did not approve the verdict of the court, another session
+    was held on July 9, 2003. No information is available on Mr. Akbar s
+    trial. Charges The charge brought against Mr. Akbar was murder . According
+    to available information, he was suspicious of his wife, killed her with a
+    knife, and set the house on fire. The validity of the criminal charges
+    brought against this defendant cannot be ascertained in the absence of the
+    basic guarantee of a fair trial. Evidence of guilt The evidence against
+    Mr. Akbar was confessions of the accused, discovery of his wife s body,
+    and certification of his healthy state of mind. In his confession, he said
+    he had suspicions about his wife, and during the night of the incident, he
+    had killed her with a knife. International human rights organizations have
+    repeatedly condemned the government of the Islamic Republic of Iran for
+    its systematic use of severe torture and solitary confinement to obtain
+    confessions from detainees and have questioned the authenticity of
+    confessions obtained under duress. Defense Mr. Akbar claimed he was
+    mentally ill. The judges of the Supreme Court rejected the verdict of the
+    first court and requested a medical commission to evaluate his mental
+    health. He defended himself in court, but there is no information
+    available on his defense. Judgment Branch 1602 of the Criminal Court of
+    Tehran sentenced Mr. Akbar to death. Branch 40 of the Supreme Court
+    approved this sentence after two reviews. He and another person were hung
+    in Evin prison, on September 20, 2006.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/85218/akbar"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

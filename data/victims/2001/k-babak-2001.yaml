@@ -1,0 +1,85 @@
+id: k-babak-2001
+name_latin: "Babak K."
+name_farsi: "بابک ک."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: "https://www.iranrights.org/actorphotos/74500_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 2001-11-14
+age_at_death: 30
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Babak K. was published in the Iran and
+    Jame-Jam newspapers on November 15 and 21 2001, respectively. Additional
+    information was taken from the Iran newspaper on April 8 and 9, July 5,
+    and November 6, 2001. Mr. Babak K., 30, was a servant in an
+    air-conditioner producing company in Damavand. According to a relative, he
+    and his brother-in-law had a camera repair shop as partners and had
+    separated due to financial problems. Mr. Babak K. s family rejected him
+    due to addiction and moral issues, and did not approve his marriage to the
+    girl he loved (Iran newspaper on April 8 and 9, 2001). According to the
+    existing information, Mr. Babak K. s case was related to the disappearance
+    and murder of his niece-in-law on April 3, 2001. Arrest and Detention Mr.
+    Babak K. was arrested by agents of Police Station 110 around Baharestan
+    Square in Tehran on April 7, 2001, four days after the disappearance of
+    his niece-in-law (Negin). Mr. Babak K. first denied having any information
+    about Negin. After what the reports described as expert interrogations, he
+    later stated, however, that after kidnapping Negin, he had released her on
+    a street in Tehran. During further interrogation, Mr. Babak K. claimed
+    that he had imprisoned his niece at an abandoned house at Behbahani, a
+    dead end street near Naser Khosro Street. Police detectives, along with
+    Mr. Babak, went to the location and recovered the body of the girl (Iran
+    newspaper on April 8 and 9, 2001). Trial Branch 1601 of the Criminal Court
+    of Tehran tried Mr. Babak K.. No further information is available on his
+    trial, but according to Jame-Jam newspaper he had a court-appointed
+    lawyer. Charges The charges against Mr. Babak K. were announced as "murder
+    and harassment. The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. International human rights organizations have drawn
+    attention to reports indicating that the Islamic Republic authorities have
+    brought trumped-up charges, including drug trafficking, sexual, and other
+    criminal offences, against their opponents (including political, civil
+    society activists, as well as unionists and ethnic and religious
+    minorities). Each year Iranian authorities sentence to death hundreds of
+    alleged common criminals, following judicial processes that fail to meet
+    international standards. The exact number of people convicted and executed
+    based on trumped-up charges is unknown. Evidence of Guilt The evidence
+    provided against Mr. Babak K. was his confession to harassment and
+    suffocation of the victim, recovery of the victim s body at the location
+    pointed out by him, and testimonies of neighbors indicating that Mr. Babak
+    K. was last seen with the victim on the night of the incident. Mr. Babak
+    K. went to his brother s house on his niece s birthday on April 3, 2001,
+    but his brother did not let him into his house. According to reports, he
+    kidnapped the five-year-old girl to retaliate for his brother s actions.
+    Among all sources, Jam-e Jam newspaper was the only source that reported
+    the result of forensics examinations confirming his mental health.
+    International human rights organizations have repeatedly condemned the
+    government of the Islamic Republic of Iran for its systematic use of
+    severe torture and solitary confinement to obtain confessions from
+    detainees and have questioned the authenticity of confessions obtained
+    under duress. Defense In his defense Mr. Babak K. referred to his
+    suffering from epilepsy and his psychological problems and stated, I don t
+    know why I committed such a crime. (Iran newspaper, April 8, 2001)
+    Pointing out his desire to marry and his family s prevention, he stated: I
+    was rejected everywhere. Most of the time, I took pills and was not in a
+    normal condition. (Iran newspaper, July 5, 2001) Judgment The court
+    condemned Mr. Babak K. to death (two counts) for murder and harassment.
+    The Supreme Court confirmed the ruling. He was executed in Qasr Prison on
+    November 14, 2001.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7950/babak-k"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

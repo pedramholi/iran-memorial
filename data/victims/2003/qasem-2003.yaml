@@ -1,0 +1,41 @@
+id: qasem-2003
+name_latin: "Qasem"
+name_farsi: "قاسم"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2003-01-01
+age_at_death: null
+place_of_death: "Khorramshahr"
+province: "Khuzestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Qasem was published in the Ettela at
+    newspaper on June 12, 2003, quoting the Public Relations Office of the
+    Khoramshahr Courthouse. Arrest and Detention There is no specific
+    information on Mr. Qasem s arrest and detention. Trial No information is
+    available on Mr. Qasem s trial. Charges The charge against Mr. Qasem was
+    announced as "murder." The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. Evidence of Guilt The report of this execution
+    did not provide any specific information on the evidence presented against
+    Mr. Qasem. Defense No information is available on Mr. Qasem's defense.
+    Judgment The court condemned Mr. Qasem to death, and Branch 27 of the
+    Supreme Court confirmed the ruling. He was hanged in public in Khoramshahr
+    in June of 2003. The exact date of this execution is not known.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/73571/qasem"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

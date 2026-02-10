@@ -1,0 +1,44 @@
+id: jabarpur-kamal-2004
+name_latin: "Kamal Jabarpur"
+name_farsi: "کمال جبارپور"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2004-01-01
+age_at_death: null
+place_of_death: "Marand"
+province: "Azarbaijan-e Sharqi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Kamal Jabarpur was published in the Ettela at
+    newspaper on March 4, 2004, quoting a report by the Social Assistance and
+    Guidance of the Police Headquarters in Azerbaijan-e Sharqi. His case was
+    related to a murder and an armed robbery. Arrest and detention The
+    circumstances of Mr. Jabarpur s arrest and detention are not known. Trial
+    The General Court of Marand tried Mr. Jabarpur. No information is
+    available on his trial. Charges The charges brought against Mr. Jabarpur
+    were announced as murder and armed robbery. The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. Evidence of guilt The
+    report of this execution did not provide any specific information on the
+    evidence presented against Mr. Jabarpur. Defense No information is
+    available on Mr. Jabarpur s defense. Judgment The General Court of Marand
+    condemned Mr. Kamal Jabarpur to death and the Supreme Court confirmed the
+    ruling. He was hanged in public at the Emam Hossein Square in Marand in
+    early
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/75893/kamal-jabarpur"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

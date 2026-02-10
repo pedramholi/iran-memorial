@@ -1,0 +1,68 @@
+id: rahimi-baqi-2001
+name_latin: "Baqi Rahimi"
+name_farsi: "باقی رحیمی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: "https://www.iranrights.org/actorphotos/73931_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 2001-04-30
+age_at_death: 21
+place_of_death: "Saqqez"
+province: "Kordestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Baqi Rahimi was announced by the office of
+    the Komala Party of Iranian Kurdistan. Additional information was taken
+    from the ABF interview with a member of this organization in Saqez and the
+    Komala Office in Erbil, Iraq, and with a relative of Mr. Rahimi. Mr.
+    Rahimi, known as Chia, 21, was single and from the Chichuran Village near
+    Baneh in Kurdistan. He had a middle school education. According to the
+    Komala Party in Kurdistan, Mr. Rahimi joined the party and served for five
+    years in Baneh and the surrounding area. In 2000, he became a Peshmerga
+    and was active for a year as a Peshmerga in Komala. In the mid 1960 s,
+    several remaining members of the Kurdistan Democratic Party of Iran
+    established the Revolutionary Organization of this party in Iraq. Among
+    its leaders were Esma il Sharifzadeh, Abdollah Mo ini, and Mola avareh,
+    who began an armed guerrilla struggle in Kurdistan inspired by the Cuban
+    Revolution. The group was defeated in 1969 and several of its members
+    arrested. The Revolutionary Organization of Working People in Kurdistan
+    (Komala) was established upon the release of a number of the leaders in
+    1978. After the revolution, in accordance with Marxist theory, Komala
+    opposed capitalists and landlords, and encouraged workers and peasants in
+    Kurdistan, in particular in the city of Sanandaj and vicinity where they
+    had strong support, to initiate an armed uprising against capitalists,
+    landlords and the central government. In 1982, Komala joined another
+    Marxist group, Sahand, an organization concentrating mainly on theory and
+    ideology, and established the Communist Party of Iran. Komala subsequently
+    adopted the name The Kurdistan Organization of the Communist Party of
+    Iran, Komala. By the mid-1980s, the central government had succeeded in
+    pushing Komala fighters out of Kurdistan and into Northern Iraq. Years
+    later, Komala split from the Communist Party of Iran and faced several
+    schisms, each continuing to use the name Komala. Arrest and detention The
+    circumstances of Mr. Rahimi s arrest and detention are not known. Trial No
+    information is available on Mr. Rahimi s trial. Charges According to the
+    Komala Office in Arbil, the charge against Mr. Rahimi was announced as
+    membership in Komala. No detail information is available regarding his
+    charges. The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. Evidence of guilt The report of this execution does not
+    contain information regarding the evidence provided against Mr. Rahimi.
+    Defense No information is available on Mr. Rahimi s defense. Judgment Mr.
+    Baqi Rahimi was hanged, along with Mr. Abbas Karimi, another member of the
+    Komala, at the Saqez Prison on April 30, 2001. There is no information on
+    the verdict leading to this execution or his burial location.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7671/baqi-rahimi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

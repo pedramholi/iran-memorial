@@ -1,0 +1,56 @@
+id: butekan-hosein-2002
+name_latin: "Hosein Butekan"
+name_farsi: "حسین بوته كن"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2002-04-25
+age_at_death: null
+place_of_death: "Kashan"
+province: "Esfahan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Hosein Butekan was reported by the correspondent of
+    the Jomhuri Eslami daily in Esfahan (web edition, April 28, 2002). Arrest
+    and detention Based on a report from Esfahan's Security Command Center,
+    quoted in the Jomhuri Eslami daily, the defendant was identified and
+    arrested by the authorities 6 days after committing the crime. The
+    circumstances of his arrest and detention remain unknown. Trial No
+    information about the trial is provided. Charges Mr. Butekan was charged
+    with murdering an 11-year-old child, Alireza Madkar, in January 25, 2001
+    in Kashan. Based on the report, the defendant had kidnapped the child in
+    an attempt to extort money from his father, a friend of the defendant's.
+    He had tied up the child, stuffed some cotton in his mouth to silence his
+    screaming, and left to notify the child's father; but upon return, he had
+    found the child suffocated. The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that the Islamic Republic s
+    authorities have brought trumped up charges against their political
+    opponents and executed them for drug trafficking, sexual, and other
+    criminal offences. Each year, Iranian authorities sentence to death
+    hundreds of alleged common criminals, following judicial processes that
+    fail to meet international standards. The exact number of people convicted
+    based on trumped-up charges is unknown. Evidence of guilt The report
+    mentioned that Mr. Butekan confessed to his crime, but the circumstances
+    of obtaining his confession remain unknown. Defense No information is
+    available on Mr. Butekan's defense. Judgment The Second Branch of Kashan's
+    Judiciary sentenced Mr. Butekan to retaliation (Qisas) for murder. After
+    confirmation by the Supreme Court of the Country, the sentence was carried
+    out 84 days after the defendant s arrest, on a Thursday.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/25055/hosein-butekan"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

@@ -1,0 +1,59 @@
+id: kheirkhah-hossein-2001
+name_latin: "Hossein Kheirkhah"
+name_farsi: "حسین خیرخواه"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2001-01-17
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Hossein Kheirkhah, along with five others,
+    was published in the Iran newspaper on January 18, 2001. Additional
+    information was taken from the Iran newspaper on January 17, 2001 and the
+    Ettela at newspaper on July 24, 1999. His case and the cases of two others
+    were related to the kidnapping and murders of an antique seller and a
+    businessman in Tehran in 1997. Arrest and detention The circumstances of
+    Mr. Kheirkhah s arrest and detention are not known. Trial Branch 1602 of
+    the Criminal Court in Tehran tried Mr. Kheirkhah and the two other
+    defendants. No information is available on his trial. Charges The charges
+    brought against Mr. Kheirkhah and another defendant were announced as
+    kidnapping two individuals and murdering them. According to the existing
+    information, three defendants, wearing the Gas Company uniforms, climbed a
+    wall and entered a victim s house. When the owner (an antique seller)
+    entered his home, they tied his hands and feet and suffocated him with a
+    rope. Then they buried the body in the yard. On another occasion, these
+    defendants, pretending to be an agent on the Azadegan Freeway, stopped an
+    individual and took him to a warehouse in Shahr-e Ray, and stole his cash,
+    traveler s checks, and some documents from his safe. Then, they fed the
+    victim some sleeping pills and murdered him while he was asleep. The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    Evidence of guilt The evidence presented against Mr. Kheirkhah was his
+    confession and the confession of his collaborator. International human
+    rights organizations have repeatedly condemned the government of the
+    Islamic Republic of Iran for its systematic use of severe torture and
+    solitary confinement to obtain confessions from detainees and have
+    questioned the authenticity of confessions obtained under duress. Defense
+    No information is available on Mr. Kheirkhah s defense. Judgment The
+    Criminal Court in Tehran condemned Mr. Hossein Kheirkhah to death and the
+    Supreme Court confirmed the ruling. He was hanged, along with five others,
+    in Qasr Prison in Tehran on January 17, 2001.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/75601/hossein-kheirkhah"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

@@ -1,0 +1,56 @@
+id: mohsenabadi-ali-azizi-1989
+name_latin: "Ali Azizi Mohsenabadi"
+name_farsi: "علی عزیز ی محسن آبادی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1989-05-16
+age_at_death: null
+place_of_death: "Lahijan"
+province: "Gilan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Ali Azizi Mohsenabadi was reported along with 9
+    others in the Jomhuri Eslami daily (July 22, 1980) The validity of the
+    criminal charges brought against these defendants cannot be ascertained in
+    the absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic’s authorities have brought trumped up charges against
+    their political opponents and executed them for drug trafficking, sexual,
+    and other criminal offences. Each year, Iranian authorities sentence to
+    death hundreds of alleged common criminals, following judicial processes
+    that fail to meet international standards. The validity of the criminal
+    charges brought against these defendants cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. The exact number of
+    people convicted based on trumped-up charges is unknown. Arrest and
+    detention The circumstances of this defendant’s arrest and detention are
+    unknown. Trial Based on the report, the verdict was issued by the Islamic
+    Revolutionary Tribunal of Lahijan. No specific information about the
+    circumstances of the trial is available. Charges Based on the report, Mr.
+    Azizi Mohsenabadi was charged with “selling, buying, and distributing
+    drugs, especially heroin, including buying 350 grams of heroin from
+    Zahedan and carrying it to Gilan.” The report mentioned that the defendant
+    had several criminal records in drugs and also robbery. Evidence of guilt
+    According to the report, 200 grams of the 350 grams of heroin mentioned in
+    the defendant’s charges were discovered in his possession. Defense No
+    information is available on the defendant’s defense. Judgment Mr. Azizi
+    Mohsenabadi, as the rest of the defendants, was sentenced to death. The
+    report reads as follows: “To continue the ultimate battle against ‘death
+    dealers’ and ‘corruptors on earth,’ 10 smugglers were hanged in public and
+    in the presence of the Hezbollah Umma this morning."
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/12951/ali-azizi-mohsenabadi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

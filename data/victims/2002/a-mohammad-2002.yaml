@@ -1,0 +1,53 @@
+id: a-mohammad-2002
+name_latin: "Mohammad A."
+name_farsi: "محمد الف."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2002-01-01
+age_at_death: 22
+place_of_death: "Esfahan"
+province: "Esfahan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Mohammad A. was published in the Qods
+    newspaper on July 6, 2002. He was 22 years old and resided in Esfahan.
+    Arrest and detention Police arrested Mr. Mohammad A. in Esfahan in 2001
+    following a murder. The circumstances of his arrest and detention are not
+    known. Trial A court tried Mr. Mohammad A. in several sessions. No
+    information is available on his trial. Charges The charge brought against
+    Mr. Mohammad A. was announced as murder. He was accused of killing his
+    neighbor with blows of a knife following the victim s fight with his [Mr.
+    Mohammad's] mother. The validity of the criminal charges brought against
+    this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that the Islamic Republic
+    authorities have brought trumped-up charges, including drug trafficking,
+    sexual, and other criminal offences, against their opponents (including
+    political, civil society activists, as well as unionists and ethnic and
+    religious minorities). Each year Iranian authorities sentence to death
+    hundreds of alleged common criminals, following judicial processes that
+    fail to meet international standards. The exact number of people convicted
+    and executed based on trumped-up charges is unknown. Evidence of guilt The
+    report of this execution did not provide any specific information on the
+    evidence presented against Mr. Mohammad A. Defense No information is
+    available on Mr. Mohammad A. s defense. Judgment A court condemned Mr.
+    Mohammad A. to death. He was hanged in the presence of judicial and
+    security officials in Esfahan in July of 2002. No specific information is
+    available about his execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/75483/mohammad-a"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

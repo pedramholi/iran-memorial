@@ -1,0 +1,44 @@
+id: jahi-qorban-2002
+name_latin: "Qorban Jahi"
+name_farsi: "قربان جاهی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2002-01-01
+age_at_death: null
+place_of_death: "Heris"
+province: "Azarbaijan-e Sharqi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Qorban Jahi was published in the Kayhan
+    newspaper on March 14, 2002. He was married with two wives and a resident
+    of Colvanaq in Heris, Azerbaijan-e Sharqi. Mr. Jahi's case was related to
+    the rape and murder of a young girl. Arrest and Detention There is no
+    specific information on Mr. Jahi s arrest and detention. Trial Branch One
+    of the Public Court of Heris tried Mr. Jahi. Charges The charges against
+    Mr. Jahi were announced as "rape and murder." The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. Evidence of Guilt The
+    report of this execution did not provide any specific information on the
+    evidence presented against Mr. Jahi. Defense No information is available
+    on Mr. Jahi's defense. Judgment Branch One of the Public Court of Heris
+    condemned Mr. Qorban Jahi to death, and Branch 37 of the Supreme Court
+    confirmed the ruling. He was hanged in the presence of the Head of the
+    Heris Courthouse at Zarnaq Intersection in Heris. No specific date is
+    available about this execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/73890/qorban-jahi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

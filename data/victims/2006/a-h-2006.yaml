@@ -1,0 +1,66 @@
+id: a-h-2006
+name_latin: "H. A."
+name_farsi: "ح. الف."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2006-12-28
+age_at_death: 30
+place_of_death: "Bandar Abbas"
+province: "Hormozgan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. H. A. was announced by the website of Iranian
+    Students News Agency (ISNA) on December 31, 2006, citing the Public
+    Relations section of the provincial Ministry of Justice office of
+    Hormozgan. Mr. H. A., a welder, was from Kouhdasht in Lorestan Province.
+    He migrated to a Bandar Abbas neighborhood after he had found a job there.
+    However, his work proved not profitable, as a result of which he was
+    reduced to collecting steel waste from the Bandar Abbas industrial
+    complexes. Mr. H. A. s case was related to the murder of a 72-year old man
+    in Bandar Abbas in February/March 2003. Arrest and detention After the
+    occurrence of the murder, Mr. H. A. did not attempt to escape. He was
+    arrested by the police force in February/March 2003 and spent three years
+    in prison. Trial Mr. H. A. went on trial in Hormozgan Province. However,
+    there is no information available on the details of the session or
+    sessions of his trial. Charges Mr. H. A. was charged with murder.
+    According to the available report, the dispute between him and the victim
+    started over who would collect the more profitable steel waste. The
+    victim, along with a few other individuals, had injured Mr. H. A. in the
+    course of a previous fight. This time, with the intention of avenging
+    himself, Mr. H. A. attacked the victim with a knife and fatally stabbed
+    him. The validity of the criminal charges brought against this defendant
+    cannot be ascertained in the absence of the basic guarantees of a fair
+    trial. International human rights organizations have drawn attention to
+    reports indicating that the Islamic Republic authorities have brought
+    trumped-up charges, including drug trafficking, sexual, and other criminal
+    offences, against their opponents (including political, civil society
+    activists, as well as unionists and ethnic and religious minorities). Each
+    year Iranian authorities sentence to death hundreds of alleged common
+    criminals, following judicial processes that fail to meet international
+    standards. The exact number of people convicted and executed based on
+    trumped-up charges is unknown. Evidence of guilt The defendant s
+    confessions were entered as evidence of guilt against Mr. H. A.
+    International human rights organizations have repeatedly condemned the
+    government of the Islamic Republic of Iran for its systematic use of
+    severe torture and solitary confinement to obtain confessions from
+    detainees and have questioned the authenticity of confessions obtained
+    under duress. Defense There is no further information available on the
+    details of Mr. H. A. s defense. Judgment Mr. H. A. was sentenced to death.
+    He was hanged in Bandar Abbas Central Prison on December 28, 2006.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/82415/h-a"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

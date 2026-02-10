@@ -1,0 +1,45 @@
+id: sobhani-hossein-1994
+name_latin: "Hossein Sobhani"
+name_farsi: "حسین سبحانی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1994-01-01
+age_at_death: null
+place_of_death: "Kermanshah"
+province: "Kermanshah"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    Details about the execution of Mr. Hossein Sobhani, a member of PDKI
+    (Iranian Kurdistan Democrat Party), were released in a 1995 report by
+    Amnesty International. Arrest and detention The accused was arrested near
+    the village of Kohlah in the region of Javanrud in July 1992 and was
+    reportedly tortured in detention. Trial No information is available on the
+    defendant s trial. Before the news of Mr. Sobhani's execution was leaked,
+    Amnesty International wrote to the Iranian authorities in February 1994
+    requesting information about his legal situation, asking what they charged
+    him with, whether he was brought to trial, and if copies of the trial
+    transcript and judgment could be obtained if he was indeed tried. Amnesty
+    made the same request in April 1994. By April 1995, Amnesty had not
+    received any response from the Iranian authorities. Charges The charges
+    brought against the victim are not known. Evidence of guilt The report of
+    this execution does not contain information regarding the evidence
+    provided against the defendant. Defense No information is available on Mr.
+    Sobhani's defense. Judgment Mr. Sobhani was sentenced to death; the exact
+    date of his execution, however, is not known.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/12857/hossein-sobhani"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

@@ -1,0 +1,98 @@
+id: tahmasbi-salar-2009
+name_latin: "Salar Tahmasbi"
+name_farsi: "سالار طهماسبی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2009-06-20
+age_at_death: 27
+place_of_death: "Tehran Province"
+province: "Tehran"
+cause_of_death: "Arbitrary Execution » Unspecified arbitrary execution method"
+circumstances: >
+    News of the killing of Mr. Salar Tahmasbi was taken from the websites of
+    Human Rights Activists News Agency on July 28, and Green Innocent Martyrs.
+    Mr. Salar Tahmasbi was a Business Management student from Rasht and
+    resided in Tehran. Mr. Tahmasbi was shot and killed by a plain-clothes
+    agent in Jomhuri Street in Tehran on June 20, 2009. He was buried at the
+    Behesht-e Zahra on June 23, 2009. He was 27 years old. After days of
+    public protests against the presidential election result, the state s
+    suppression entered a new phase on June 20, 2009. Public gatherings were
+    violently suppressed by Basij and plain clothes forces in various parts of
+    Tehran. Basij forces shot people from the rooftop of their base within the
+    Lolagar Mosque, which is located at the intersection of Chamran and
+    Azarbaijan streets. Several individuals were injured or killed. The exact
+    number of casualties is unknown. On June 25, 2009, footage of Basijis
+    shooting from the rooftop of their base was broadcast by various news
+    channels, including Al Jazeera. Additionally, there are other video clips
+    taken with cell phone cameras posted on YouTube, which clearly show two
+    persons being shot. In reaction to this attack, the Basij base at the
+    Lolagar Mosque was set on fire by angry protesters. On June 21, state-run
+    television reported that several individuals were killed due to a fire at
+    the Lolagar Mosque started by rioters during early evening prayers the
+    previous night. However, video footage, broadcast on Iranian television,
+    showed that the incident occurred during the day. Additionally, the report
+    of the deaths was refuted on the same day by Radio France Internationale
+    (June 21, 2009). Background Election returns from Iran s June 12th, 2009,
+    presidential election declared Mahmoud Ahmadinejad re-elected with 62.63
+    percent of the vote. Following the announcement, citizens disputing these
+    official results demonstrated in the streets. Text messaging services were
+    disrupted starting at 11:00 p.m. on the night before the election and
+    remained unavailable for nearly three weeks, until July 1st. On Election
+    Day, the deputy chief of Iranian police announced a ban on any gathering
+    of presidential candidates supporters throughout the country. The same
+    evening, security forces made a show of strength, increasing their
+    presence in Tehran s public squares to reinforce security at polling
+    stations. Officials at election headquarters began reporting results soon
+    after midnight, despite a statement from the Minister of the Interior that
+    the first returns would not be announced until after the morning prayer
+    (around 4:00 a.m.). Many supporters of other presidential candidates came
+    out into the streets on June 13th, once the results were made public, to
+    protest what they believed to be a fraudulent election. Candidates Mir
+    Hossein Musavi, Mehdi Karubi, and Mohsen Reza i, Ahmadinejad s competitors
+    in the race, contested the election, alleging many instances of fraud.
+    They filed complaints with the Council of Guardians, the constitutional
+    body charged with vetting candidates before elections take place and
+    approving the results afterwards, requesting an annulment and calling for
+    a new election. Before the Council of Guardians could review their claims,
+    however, the Supreme Leader, Ayatollah Khamenei, congratulated Ahmadinejad
+    on his re-election. In the meantime, many people active in Karubi s and
+    Musavi s campaigns were arrested. On June 15th, unprecedented
+    demonstrations filled the streets of central Tehran, in which an estimated
+    three million protestors participated, according to statements attributed
+    to the mayor of Tehran. As the demonstrations were ending, paramilitary
+    forces attacked the marchers, injuring and killing several people. To
+    prevent such news from being broadcast, the Iranian government expelled
+    foreign journalists from the country and banned news agencies from
+    reporting on the events. Over the next three days, protesters took part in
+    peaceful demonstrations in Tehran. The repression entered a new phase on
+    June 19thafter Ayatollah Khamenei s Friday sermon, in which he announced
+    his support for Ahmadinejad and warned protestors that they were
+    responsible for any disorder and its consequences. Amnesty International
+    stated that the speech gave legitimacy to police brutality. The next day
+    and thereafter, police and plainclothes paramilitary groups attacked the
+    protesters. Public gatherings of any kind were declared illegal, and
+    police, motorcycle-riding special units wearing black uniforms and
+    helmets, and plainclothes agents brutally enforced this restriction.
+    Individuals in civilian clothing, commonly referred to as plainclothes
+    forces, are used in the Islamic Republic to disrupt political and trade
+    union activities, student events and gatherings, electoral initiatives,
+    and protests. Armed with sticks and clubs, and sometimes with chains,
+    knives, batons, or firearms, they emerge when the state decides to
+    suppress dissent. These plainclothes forces m
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/61748/salar-tahmasbi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

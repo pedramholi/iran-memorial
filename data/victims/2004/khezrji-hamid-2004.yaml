@@ -1,0 +1,58 @@
+id: khezrji-hamid-2004
+name_latin: "Hamid Khezrji"
+name_farsi: "حمید خضرجی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2004-09-29
+age_at_death: null
+place_of_death: "Ahvaz"
+province: "Khuzestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Hamid Khezrji was reported in Kayhan Newspaper
+    (October 14, 2004) and according to the Office of Information and Public
+    Relations of the Ministry of Justice of the Province of Khuzestan
+    Jomhuri-ye Islami Newspaper (October 2, 2004). His case has to do with
+    armed robbery. Arrest and detention The circumstances of Mr. Khezrji s
+    arrest and detention are not known. Trial The Public Court of the Province
+    of Khuzestan tried Mr. Khezrji. No information is available on his trial.
+    Charges The charges brought against Mr. Khezrji were armed robbery,
+    assault, and causing injury (Kayhan Newspaper). The validity of the
+    criminal charges brought against this defendant cannot be ascertained in
+    the absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic authorities have brought trumped-up charges, including
+    drug trafficking, sexual, and other criminal offences, against their
+    opponents (including political, civil society activists, as well as
+    unionists and ethnic and religious minorities). Each year Iranian
+    authorities sentence to death hundreds of alleged common criminals,
+    following judicial processes that fail to meet international standards.
+    The exact number of people convicted and executed based on trumped-up
+    charges is unknown. Evidence of guilt The evidence given against Mr.
+    Khezrji was 17 counts of armed robbery and several counts of assault and
+    bodily injury (Kayhan Newspaper). International human rights organizations
+    have repeatedly condemned the government of the Islamic Republic of Iran
+    for its systematic use of severe torture and solitary confinement to
+    obtain confessions from detainees and have questioned the authenticity of
+    confessions obtained under duress. Defense No information is available on
+    Mr. Khezrji s defense. Judgment The Public Court of Khuzestan condemned
+    Mr. Khezrji to death by hanging. This sentence was approved by the Supreme
+    Court. He was executed by public hanging in Golestan Boulevard, Koodak
+    Square, in Ahvaz on Wednesday, September 29, 2004.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8102/hamid-khezrji"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

@@ -1,0 +1,51 @@
+id: sadeqi-farzaneh-2006
+name_latin: "Farzaneh Sadeqi"
+name_farsi: "فرزانه صادقی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2006-05-02
+age_at_death: null
+place_of_death: "Lorestan Province"
+province: "Lorestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    Ms. Farzaneh Sadeqi s execution was reported in Iran Newspaper on May 2,
+    2006. Her case was related to do with the murder of a four-year-old girl
+    in the town of Selseleh. Arrest and detention The circumstances of Ms.
+    Sadeqi s arrest and detention are not known. Trial Ms. Sadeqi was tried by
+    the Alashtar County Prosecutor s Office. However, there is no information
+    available on the details of Ms. Sadeqi s trial proceedings. Charges The
+    charge brought against Ms. Sadeqi is murder . The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic authorities have brought trumped-up charges, including
+    drug trafficking, sexual, and other criminal offences, against their
+    opponents (including political, civil society activists, as well as
+    unionists and ethnic and religious minorities). Each year Iranian
+    authorities sentence to death hundreds of alleged common criminals,
+    following judicial processes that fail to meet international standards.
+    The exact number of people convicted and executed based on trumped-up
+    charges is unknown. Evidence of guilt The report of this execution does
+    not contain information regarding the evidence provided against Ms.
+    Sadeqi. Defense No information is available on Ms. Sadeqi s defense.
+    Judgment The Alashtar County Prosecutor s Office sentenced Ms. Sadeqi to
+    the death penalty. She was executed by public hanging in the town of
+    Selseleh on May 2, 2006.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/81959/farzaneh-sadeqi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

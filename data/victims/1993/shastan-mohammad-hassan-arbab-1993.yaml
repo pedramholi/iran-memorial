@@ -1,0 +1,44 @@
+id: shastan-mohammad-hassan-arbab-1993
+name_latin: "Mohammad Hassan Arbab Shastan"
+name_farsi: "محمد حسن ارباب شستان"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam (Shi'a)"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1993-06-06
+age_at_death: 32
+place_of_death: "Karachi"
+province: null
+cause_of_death: "Extrajudicial Execution » Extrajudicial shooting"
+circumstances: >
+    The information pertaining to Mr. Mohammad Hassan Arbab Shastan s
+    execution is drawn from a list compiled by the researchers at the
+    Boroumand Foundation, further information is gathered from an electronic
+    form sent to the Boroumand Foundation by a person familiar with his case
+    who has asked to remain anonymous. Mr. Arbab Shastan, born in the city of
+    Shastun in the Baluchestan province, was a military captain and a
+    supporter of the Mojahedin Khalq of Iran Organization. Arrest and
+    detention The victim was not arrested. Trial The victim was not summoned
+    before a court and no public trial was held in his case. It is not known
+    whether he was tried in abstentia. Charges No specific charges were
+    brought against the victim. Evidence of guilt There is no information
+    regarding the evidence used against Mr. Arbab Shastan. Defense Mr. Arbab
+    Shastan was not given the opportunity to defend himself before being
+    killed. Judgment According to the information presented in the electronic
+    form, Mr. Arbab Shastan was executed by Iranian regime s agents in the
+    Baluch area of Karachi, Pakistan.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4141/mohammad-hassan-arbab-shastan"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

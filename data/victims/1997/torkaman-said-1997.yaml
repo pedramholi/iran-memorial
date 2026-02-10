@@ -1,0 +1,54 @@
+id: torkaman-said-1997
+name_latin: "Sa'id Torkaman"
+name_farsi: "سعید ترکمن"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1997-03-12
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Sa’id Torkaman, along with three other individuals,
+    was announced in the Kayhan newspaper on March 13, 1997 and on the website
+    of the Hamshahri newspaper on March 14, 1997. Arrest and Detention The
+    circumstances of this defendant’s arrest and detention are not known.
+    Trial No information is available on the defendant’s trial other than it
+    took place in Tehran Public Court. Charges The charge against the
+    defendant was announced as “murder.” According to the Kayhan newspaper,
+    the defendant murdered the victim following an argument with him in a car.
+    Then he injured several other passengers of the car and escaped. The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    International human rights organizations have drawn attention to reports
+    indicating that Islamic Republic authorities have brought trumped-up
+    charges against their political opponents and executed them for alleged
+    drug trafficking, sexual, and other criminal offences. Each year Iranian
+    authorities sentence to death hundreds of alleged common criminals,
+    following judicial processes that fail to meet international standards.
+    The exact number of people convicted based on trumped-up charges is
+    unknown. Evidence of Guilt The report of this execution does not contain
+    information regarding the evidence provided against the defendant. Defense
+    No information is available on Mr. Torkamanss defense. Judgment The court
+    condemned Mr. Sa’id Torkaman to death and the ruling was confirmed by
+    Branch 30 of the Supreme Court. On March 13, 1997, the ruling was
+    explained to him by the Execution Manager in the Guard Office. After
+    writing his will and performing the religious ceremony, he was hanged at
+    Qasr prison (Tehran) before dawn.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4346/said-torkaman"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

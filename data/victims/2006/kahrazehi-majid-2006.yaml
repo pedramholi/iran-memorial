@@ -1,0 +1,47 @@
+id: kahrazehi-majid-2006
+name_latin: "Majid Kahrazehi"
+name_farsi: "مجید کهرازهی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2006-10-30
+age_at_death: null
+place_of_death: "Zahedan"
+province: "Sistan va Baluchestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Majid Kahrazehi, along with two other people, was
+    reported by Jomhuri-e-Eslami Newspaper (November 1, 2006) and Payk e Iran
+    website (October 30, 2006). Mr. Kahrazehi s case was related to an armed
+    altercation on Bozorgmehr Boulevard in Zahedan. Arrest and detention Mr.
+    Kahrazehi and two other citizens were arrested in May, 2006, during an
+    armed altercation in Bozorgmehr Square in Zahedan. The detailed
+    circumstances of his arrest and detention are not known. Trial No
+    information is available on Mr. Kahrazehi s trial. Charges The charge
+    brought against Mr. Kahrazehi was war with God and spreading corruption on
+    earth, by attempted kidnapping, firing arms, inciting fear and
+    intimidation among the populace, and injuring several people . Evidence of
+    guilt The report of this execution does not contain information regarding
+    the evidence providedagainst Mr. Kahrazehi. Defense No information is
+    available on Mr. Kahrazehi s defense. Judgment The court convicted Mr.
+    Majid Kahrazehi of war with God and spreading corruption on earth, and
+    sentenced him to death by hanging. This sentence was approved by the
+    highest judiciary officials. Mr. Majid Kahrazehi and two other Baluchi
+    citizens were hung in public, on Monday, October 30, 2006, in the presence
+    of a large group of people, on Bozorgmehr Street in Zahedan.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8273/majid-kahrazehi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

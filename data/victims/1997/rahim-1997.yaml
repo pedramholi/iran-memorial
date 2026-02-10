@@ -1,0 +1,52 @@
+id: rahim-1997
+name_latin: "Rahim"
+name_farsi: "رحیم"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1997-10-25
+age_at_death: null
+place_of_death: "Birjand"
+province: "Khorasan-e Razavi"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    News of the execution of Mr. Rahim, an Afghan citizen, was published on
+    the website of the Hamshahri newspaper on October 26, 1997. Arrest and
+    detention The circumstances of this defendant’s arrest and detention are
+    not known. Trial No information is available on the defendant’s trial. The
+    trial of this defendant took place in Birjand. Charges The charge against
+    Mr. Rahim was announced as "keeping 47 kilogram narcotics." The validity
+    of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    International human rights organizations have drawn attention to reports
+    indicating that the Islamic Republic’s authorities have brought trumped-up
+    charges against their political opponents and executed them for drug
+    trafficking, sexual, and other criminal offences. Thousands of alleged
+    drug traffickers have been sentenced to death following judicial processes
+    that fail to meet international standards. Scores of them were executed
+    based on a 1989 law imposing mandatory death sentences on drug traffickers
+    found in possession of specified amounts (5 kg of hashish or opium, and
+    more than 30 grams of heroin, codeine or methadone) of proscribed
+    narcotics. The exact number of people convicted based on trumped-up
+    charges is unknown. Evidence of guilt The report of this execution does
+    not contain information regarding the evidence provided against the
+    defendant. Defense No information is available on Mr. Rahim's defense.
+    Judgment The court condemned Mr. Rahim to death and, after the ruling was
+    confirmed by the Supreme Court, he was executed in Birjand on October 25,
+    1997.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/41426/rahim"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

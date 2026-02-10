@@ -1,0 +1,46 @@
+id: kuchaki-ali-bak-2001
+name_latin: "Ali Bak Kuchaki"
+name_farsi: "علی‌بک کوچکی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2001-02-13
+age_at_death: null
+place_of_death: "Hamedan Province"
+province: "Hamedan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Ali Bak Kuchaki was published in the
+    Jomhuri-Eslami newspaper on February 13, 2001. Arrest and detention
+    According to the report, Mr. Kuchaki was identified and arrested by agents
+    of the security forces shortly after he had committed the crime and fled.
+    The circumstances of his arrest and detention are not known. Trial The
+    Kabudarahang Courthouse tried Mr. Kuchaki. No information is available on
+    his trial. Charges The charge brought against Mr. Kuchaki was announced as
+    murder. According to the report, in order to obtain some financial
+    documents, he had gone to the Education Office in Kabudarahang on
+    September 2, 2000 at midnight where he confronted an election official and
+    the janitor and murdered them both. The validity of the criminal charges
+    brought against this defendant cannot be ascertained in the absence of the
+    basic guarantees of a fair trial. Evidence of guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against Mr. Kuchaki. Defense No information is available on Mr. Kuchaki s
+    defense. Judgment The court condemned Mr. Ali Bak Kuchaki to death and the
+    Supreme Court confirmed the ruling. He was hanged in public in front of
+    the Education Office in Kabudarahang on February 12, 2001.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/74240/ali-bak-kuchaki"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

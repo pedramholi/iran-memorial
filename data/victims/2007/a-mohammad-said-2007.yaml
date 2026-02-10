@@ -1,0 +1,59 @@
+id: a-mohammad-said-2007
+name_latin: "Mohammad Sa'id A."
+name_farsi: "محمد سعید ع."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2007-12-20
+age_at_death: 34
+place_of_death: "Sepidan"
+province: "Fars"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Mohammad Sa’id A. was published on the
+    websites of the Khabar-e Jonub newspaper on December 22, and the Fars
+    Provincial Court on December 25, 2007, quoting the Public Relations Office
+    of the Fars Provincial Court. Arrest and Detention There is no specific
+    information on the defendant’s arrest and detention. Trial This trial took
+    place in Branch One of Sepidan Court (Fars Province). Charges Mr. A. was
+    charged with “murder and burning the victim’s body.” The validity of the
+    criminal charges brought against this defendant cannot be ascertained in
+    the absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that
+    Islamic Republic authorities have brought trumped-up charges against their
+    political opponents and executed them for alleged drug trafficking,
+    sexual, and other criminal offences. Each year Iranian authorities
+    sentence to death hundreds of alleged common criminals, following judicial
+    processes that fail to meet international standards. The exact number of
+    people convicted based on trumped-up charges is unknown. Evidence of Guilt
+    The evidence provided against the defendant was his “confession”.
+    International human rights organizations have repeatedly condemned the
+    government of the Islamic Republic of Iran for its systematic use of
+    severe torture and solitary confinement to obtain confessions from
+    detainees and have questioned the authenticity of confessions obtained
+    under duress. In the case of political detainees, these confessions are,
+    at times, televised. The National Television broadcasts confessions during
+    which prisoners plead guilty to vague and false charges, repent and
+    renounce their political beliefs, and/or implicate others. Human rights
+    organizations have also pointed to the pattern of retracted confessions by
+    those prisoners who are freed. Defense No information is available on the
+    defense. Judgment The court condemned Mr. Mohammad Sa’id A. to death and
+    the ruling was confirmed by Branch 27 of the Supreme Court, Branch 15 of
+    the Supreme Court Recognition, and the Head of the Judiciary. He was
+    hanged in public in Sepidan on December 20, 2007.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/60989/mohammad-said-a"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

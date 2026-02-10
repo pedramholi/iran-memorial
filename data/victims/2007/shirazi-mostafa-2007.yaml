@@ -1,0 +1,55 @@
+id: shirazi-mostafa-2007
+name_latin: "Mostafa Shirazi"
+name_farsi: "مصطفی شیرازی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2007-07-01
+age_at_death: 33
+place_of_death: "Khomeini Shahr"
+province: "Esfahan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Mostafa Shirazi was published on the website
+    of Islamic Republic News Agency (IRNA) on June 25, 2007 and on the
+    websites of the Keyhan and Asre Iran newspapers on July 1, 2007. Arrest
+    and Detention The media reports quoted the Public and Revolutionary
+    Prosecutor of Khomeini Shahr (Esfahan province) saying that a gang of
+    fifteen individuals who robbed houses, and in one occasion kidnapped and
+    raped a teenage girl, were arrested by the police. Mr. Mostafa Shirazi was
+    identified as the leader of this gang. Trial No information is available
+    on the defendant’s trial. The trial took place in Branch Two of the
+    Criminal Court in Khomeini Shahr. Charges The charges against Mr. Mostafa
+    Shirazi were announced as “rape, robbery, extortion, and kidnapping.” The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    International human rights organizations have drawn attention to reports
+    indicating that Islamic Republic authorities have brought trumped-up
+    charges against their political opponents and executed them for alleged
+    drug trafficking, sexual, and other criminal offences. Each year Iranian
+    authorities sentence to death hundreds of alleged common criminals,
+    following judicial processes that fail to meet international standards.
+    The exact number of people convicted based on trumped-up charges is
+    unknown. Evidence of Guilt According to the Public and Revolutionary
+    Prosecutor of Khomeini Shahr, the evidence provided against the defendant
+    was his “confession,” and “complaints of 48 plaintiffs.” Defense No
+    information is available on Mr. Shirazi’s defense. Judgment The court
+    condemned Mr. Mostafa Shirazi to death and the Supreme Court confirmed the
+    ruling. He was hanged in the presence of officials and the public in Namaz
+    Square of Manzarieh in Khomeini Shahr on July 1, 2007.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/42293/mostafa-shirazi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

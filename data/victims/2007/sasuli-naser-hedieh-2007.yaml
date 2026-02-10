@@ -1,0 +1,56 @@
+id: sasuli-naser-hedieh-2007
+name_latin: "Naser Hedieh Sasuli"
+name_farsi: "ناصر هدیه ساسولی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2007-12-31
+age_at_death: null
+place_of_death: "Zahedan"
+province: "Sistan va Baluchestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Naser Hedieh Sasuli, along with another
+    person, was published on the websites of the Fars and IRNA (Islamic
+    Republic News Agency) news agencies on December 31, 2007. Arrest and
+    Detention The circumstances of this defendant’s arrest and detention are
+    not known. Trial No information is available on the defendant’s trial.
+    Charges According to the Revolutionary Public Prosecution Office, the
+    charges against Mr. Naser Hedieh Sasuli were announced as “purchasing,
+    carrying, and possession of 59 kilograms of heroin.” The validity of the
+    criminal charges brought against this defendant cannot be ascertained in
+    the absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that
+    Islamic Republic authorities have brought trumped-up charges against their
+    political opponents and executed them for alleged drug trafficking,
+    sexual, and other criminal offences. Thousands of alleged drug traffickers
+    have been sentenced to death following judicial processes that fail to
+    meet international standards. Scores of them were executed based on a 1989
+    law imposing mandatory death sentences on drug traffickers found in
+    possession of specified amounts of proscribed narcotics (5 kg of hashish
+    or opium, and more than 30 grams of heroin, codeine or methadone). The
+    exact number of people convicted based on trumped-up charges is unknown.
+    Evidence of Guilt The report of this execution does not contain
+    information regarding the evidence provided against the defendant. Defense
+    No information is available on Mr. Hedieh Sasuli’s defense. Judgment The
+    court condemned Mr. Naser Hedieh Sasuli to death and the Supreme Court
+    confirmed the ruling. He was hanged in the Zahedan prison yard on December
+    31, 2007. Regarding this execution the Sistan and Baluchestan Court
+    announced: “The judiciary system acts decisively to deal with death
+    dealers, seditious groups, and disruptors of security.”
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/42284/naser-hedieh-sasuli"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

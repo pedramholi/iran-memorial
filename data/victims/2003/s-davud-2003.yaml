@@ -1,0 +1,58 @@
+id: s-davud-2003
+name_latin: "Davud S."
+name_farsi: "داوود س."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2003-01-01
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Davud S., along with another person, was
+    published in the Jamejam newspaper on October 6, 2003. Additional
+    information was taken from the Qods newspaper on February 19, 2003. His
+    case was related to a shooting that resulted in a murder and an injury in
+    Tehran. According to the existing information, on July 13, 2002, Mr. Davud
+    S., who had resigned from his job at a car parts manufacturing company at
+    Satarkhan Street in Tehran, went to the location to ask the company CEO
+    for his job back. However, when the CEO rejected his request, Mr. Davud S.
+    threatened him with a gun. After the CEO did not give in to his request,
+    he fired several shots at him and his secretary. The CEO died in the
+    hospital. Mr. Davud S. shot and injured himself in the street after
+    leaving the company. Arrest and detention Inspectors of Police Station 118
+    had transferred Mr. Davud S. to a hospital. An order was issued by a judge
+    to arrest Mr. Davud S. after his recovery. The circumstances of his arrest
+    and detention are not known. Trial Branch 1601 of the Criminal Court in
+    Tehran tried Mr. Davud S. No information is available on his trial.
+    Charges The charge brought against Mr. Davud S. was announced as murder.
+    The validity of the criminal charges brought against this defendant cannot
+    be ascertained in the absence of the basic guarantees of a fair trial.
+    Evidence of guilt The evidence presented against Mr. Davud S. was his
+    confession. International human rights organizations have repeatedly
+    condemned the government of the Islamic Republic of Iran for its
+    systematic use of severe torture and solitary confinement to obtain
+    confessions from detainees and have questioned the authenticity of
+    confessions obtained under duress. Defense Mr. Davud S. defended himself
+    during his trial. No information is available on his defense. Judgment
+    Branch 1601 of the Criminal Court in Tehran condemned Mr. Davud S. to
+    death and the Supreme Court confirmed the ruling. He was hanged, along
+    with another person, at the Qasr Prison in Tehran in 2003. No specific
+    information is available about this execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/75750/davud-s"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

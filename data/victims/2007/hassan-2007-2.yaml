@@ -1,0 +1,68 @@
+id: hassan-2007-2
+name_latin: "Hassan"
+name_farsi: "حسن"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2007-12-17
+age_at_death: null
+place_of_death: "Esfahan"
+province: "Esfahan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Hassan, an Afghan citizen, along with his
+    brother, was published on the websites of the Fars news agency, the E
+    temad Meli newspaper, and the Ebrat newspaper on December 17, 2007. Arrest
+    and Detention According to the E temad Meli newspaper, while the police
+    investigation reached a dead-end after a few days, the inspector on the
+    case suspected the building custodian, Hassan, based on the crime scene
+    evidence and ordered his interrogation. Trial This trial took place in
+    Branch Two of the Punitive Court of Esfahan. No further information is
+    available about the defendant s trial. Charges The charge against Mr.
+    Hassan was announced as "murder." According to the Public Relations Office
+    of the Esfahan Court House, the defendant, in collaboration with his
+    brother, entered a residential complex for robbery. They first murdered
+    the woman occupant with a knife and then strangled the small child with a
+    wire in order to avoid being identified. Finally, they stole some money
+    and gold and fled the scene. The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that Islamic Republic authorities
+    have brought trumped-up charges against their political opponents and
+    executed them for alleged drug trafficking, sexual, and other criminal
+    offences. Each year Iranian authorities sentence to death hundreds of
+    alleged common criminals, following judicial processes that fail to meet
+    international standards. The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of Guilt According to the E temad
+    Meli newspaper, the defendant named some witnesses including his brother,
+    Mohammad, as his alibi. This statement caused the arrest of his brother.
+    After local investigation and questioning the residents, the police
+    realized that the two brothers were seen around the complex on the day of
+    the crime. According to the police technical interrogation reports, the
+    brothers confessed their crime. International human rights organizations
+    have repeatedly condemned the government of the Islamic Republic of Iran
+    for its systematic use of torture to obtain confessions from detainees and
+    have questioned the authenticity of confessions obtained under duress.
+    Defense During interrogations, Mr. Hassan denied his involvement in this
+    crime and stated that he had been out of town along with some of his
+    friends. Judgment The Punitive Court and Branch 17 of the Esfahan Appeal
+    Court condemned Mr. Hassan to death on December 15, 2005. This ruling was
+    confirmed by Branch 37 of the Supreme Court on July 19, 2006. He was
+    hanged in the presence of the victims' family and relatives at the Esfahan
+    Central prison on December 17, 2007.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7616/hassan"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

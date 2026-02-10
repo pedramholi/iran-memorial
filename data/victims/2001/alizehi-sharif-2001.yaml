@@ -1,0 +1,59 @@
+id: alizehi-sharif-2001
+name_latin: "Sharif Alizehi"
+name_farsi: "شریف علی‌زهی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2001-02-13
+age_at_death: null
+place_of_death: "Birjand"
+province: "Khorasan-e Razavi"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    News of the execution of Mr. Sharif Alizehi, an Afghan citizen, was
+    published in the Ettela at newspapers on February 18, 2001. Arrest and
+    detention According to the report, Mr. Alizehi was identified and arrested
+    in Tehran on October 17, 2000. He was transferred to Birjand. The
+    circumstances of his arrest and detention are not known. Trial No
+    information is available on Mr. Alizehi s trial. Chares The charge brought
+    against Mr. Alizehi was announced as rape. According to the newspaper
+    report, on April 14, 2000, three armed Afghan individuals entered the
+    house of a resident in the Seyedabad Village near Birjand at night. They
+    tied the hands and feet of the head of household and took him outside.
+    They beat up his wife and children, then raped his 16-year-old daughter.
+    The validity of the criminal charges brought against this defendant cannot
+    be ascertained in the absence of the basic guarantees of a fair trial.
+    International human rights organizations have drawn attention to reports
+    indicating that the Islamic Republic authorities have brought trumped-up
+    charges, including drug trafficking, sexual, and other criminal offences,
+    against their opponents (including political, civil society activists, as
+    well as unionists and ethnic and religious minorities). Each year Iranian
+    authorities sentence to death hundreds of alleged common criminals,
+    following judicial processes that fail to meet international standards.
+    The exact number of people convicted and executed based on trumped-up
+    charges is unknown. Evidence of guilt The evidence presented against Mr.
+    Alizehi was his confession. According to the report, he confessed to this
+    charge in addition to armed smuggling of 75 kilograms of opium into the
+    country in collaboration with four others. International human rights
+    organizations have repeatedly condemned the government of the Islamic
+    Republic of Iran for its systematic use of severe torture and solitary
+    confinement to obtain confessions from detainees and have questioned the
+    authenticity of confessions obtained under duress. Defense No information
+    is available on Mr. Alizehi s defense. Judgment The court condemned Mr.
+    Sharif Alizehi to death. He was executed in Birjand on February 13, 2001.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/74363/sharif-alizehi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

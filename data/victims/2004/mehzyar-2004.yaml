@@ -1,0 +1,62 @@
+id: mehzyar-2004
+name_latin: "Mehzyar"
+name_farsi: "مهزیار"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2004-01-28
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Mehzyar was published on the website of
+    Khorasan newspaper on January 29, 2004. Additional information was taken
+    from the Khorasan newspaper on April 24, 2003. According to the existing
+    information, he was 21 years old and his case was related to the
+    kidnapping and murder of Mr. Mohammad Amin, age 14, in Tehran on March 9,
+    2003. Arrest and detention Following the kidnapping of Mr. Mohammad Amin
+    and several phone contacts by the kidnappers with his family in order to
+    extort money for his release, police detectives of Department 11 in Tehran
+    identified and arrested Mr. Mehzyar and another defendant in a house at
+    Iranshahr Street in Tehran (Khorasan newspaper on April 24, 2003). The
+    circumstances of his arrest and detention are not known. Trial Branch 1601
+    of the General Court in Tehran tried Mr. Mehzyar and another defendant,
+    out of turn and extraordinarily. No specific information is available on
+    his trial. Charges The charges brought against Mr. Mehzyar were announced
+    as kidnapping and murder. He was accused of kidnapping Mr. Mohammad Amin,
+    in collaboration with another defendant, and demanded 600 million Tumans
+    for his release, but suffocated him with a rope. The validity of the
+    criminal charges brought against this defendant cannot be ascertained in
+    the absence of the basic guarantees of a fair trial. Evidence of guilt
+    According to the existing information, the bases for Mr. Mehzyar s
+    conviction was his confession. International human rights organizations
+    have repeatedly condemned the government of the Islamic Republic of Iran
+    for its systematic use of severe torture and solitary confinement to
+    obtain confessions from detainees and have questioned the authenticity of
+    confessions obtained under duress. Defense According to the existing
+    information, the legal procedure of Mr. Mehzyar s case had been rushed and
+    out of turn. No information is available on his defense. Judgment Based on
+    a request by the victim s family, Branch 1601 of the General Court in
+    Tehran condemned Mr. Mehzyar to death as the first row defendant (Khorasan
+    newspaper on April 24, 2003). The Supreme Court confirmed the ruling. He
+    was hanged on January 29, 2004 at dawn. No specific information is
+    available about this execution. The other defendant of this case was
+    condemned to 30 years imprisonment and lashes for kidnapping and
+    participation in murder.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/75952/mehzyar"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

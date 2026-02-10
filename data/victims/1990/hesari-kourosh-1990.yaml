@@ -1,0 +1,28 @@
+id: hesari-kourosh-1990
+name_latin: "Kourosh Hesari"
+name_farsi: "کورش حصاری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1990-05-09
+age_at_death: null
+place_of_death: "Eslamshahr"
+province: "Tehran"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/2339/kourosh-hesari"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

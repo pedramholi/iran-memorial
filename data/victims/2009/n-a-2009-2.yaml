@@ -1,0 +1,62 @@
+id: n-a-2009-2
+name_latin: "A. N."
+name_farsi: "ع. ن."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2009-03-11
+age_at_death: 30
+place_of_death: "Shiraz"
+province: "Fars"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The news of the execution of Mr. A. N. along with three other individuals
+    was announced by the websites ofKhabar-e Jonoub daily (March 12, 2009) and
+    E temad daily (March 14, 2009). The case of Mr. A. N., 30, pertains to the
+    murder of a tenant in his sister s house in Firouzabad, Fars Province.
+    Arrest and Detention After the Police Criminal Investigation Departmentof
+    Firouzabad was informed of the occurrence of a murder on April 15, 2004,
+    Mr. A. N. was identified, arrested and moved to the Police Criminal
+    Investigation Departmentstation in Firouzabad. However, there is no
+    information available on the details of his arrest and detention. Trial
+    Mr. A. N. was tried by Branch Three of the Public Court of Firouzabad. Mr.
+    A. N. s sister was among the people who attended the court proceedings.
+    However, there is no information available on the session or sessions of
+    Mr. A. N. s trial. Charges The court charged Mr. A. N. with murder. He was
+    accused of engaging in a fight with the tenant at his sister s place on
+    April 15, 2004 and stabbing the tenant with a kitchen knife multiple
+    times, which led to the tenant s death. Evidence of Guilt According to the
+    available information, Mr. A. N. s confessions became the basis for the
+    verdict that was issued against him. During the initial police
+    investigation as well as during the court proceedings, Mr. A. N. accepted
+    the charge of murder. In addition, the coroner s expert opinion on the
+    cause of death of the victim and the statements of Mr. A. N. s sister at
+    court were among the pieces of evidence that were entered against him.
+    International human rights organizations have repeatedly condemned the
+    government of the Islamic Republic of Iran for its systematic use of
+    severe torture and solitary confinement to obtain confessions from
+    detainees and have questioned the authenticity of confessions obtained
+    under duress. Defense During the court proceedings, Mr. A. N. stated that
+    the victim used to be the tenant of his sister, and they used to live in
+    the same place. That led him to believe that they were having an illicit
+    affair, as a result of which he had engaged in a fight with the tenant
+    which led to his murder. Judgment Branch Three of the Public Court of
+    Firouzabad sentenced Mr. A. N. to death. Branch 27 of the Supreme Court
+    approved the verdict. Mr. A. N. was hanged in Adelabad Prison, Shiraz on
+    the morning of March 11, 2009.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8138/a-n"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

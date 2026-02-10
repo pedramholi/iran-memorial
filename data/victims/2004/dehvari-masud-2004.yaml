@@ -1,0 +1,43 @@
+id: dehvari-masud-2004
+name_latin: "Mas'ud Dehvari"
+name_farsi: "مسعود دهواری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam (Shi'a)"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2004-07-23
+age_at_death: null
+place_of_death: "Saravan"
+province: "Sistan va Baluchestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Mas ud Dehvari, known as Sa udak, was
+    published in the Ettela at newspaper on July 24, 2004. His case was
+    related to the murder of the commander of Aspich Police Station in Saravan
+    in April of 2002. Arrest and detention The circumstances of Mr. Dehvari s
+    arrest and detention are not known. Trial Branch Two of the General Court
+    of Saravan tried Mr. Dehvari. No information is available on his trial.
+    Charges The charge brought against Mr. Dehvari was announced as murder.
+    The validity of the criminal charges brought against this defendant cannot
+    be ascertained in the absence of the basic guarantees of a fair trial.
+    Evidence of guilt The report of this execution did not provide any
+    specific information on the evidence presented against Mr. Dehvari.
+    Defense No information is available on Mr. Dehvari s defense. Judgment
+    Branch Two of the General Court of Saravan condemned Mr. Mas ud Dehvari to
+    death and the Supreme Court confirmed the ruling. He was hanged in public
+    at the Aspich Village on July 23, 2004.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/75878/masud-dehvari"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

@@ -1,0 +1,43 @@
+id: qanbarzehi-faqir-2002
+name_latin: "Faqir Qanbarzehi"
+name_farsi: "فقیر قنبرزهی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2002-01-01
+age_at_death: null
+place_of_death: "Kerman"
+province: "Kerman"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Faqir Qanbarzehi, along with another person,
+    was published in the Jomhuri Eslami newspaper on February 19, 2002. Arrest
+    and detention According to the Head of Kerman Provincial Courthouse, Mr.
+    Qanbarzehi was arrested in Kerman. The circumstances of his arrest and
+    detention are not known. Trial According to the report, Mr. Qanbarzehi was
+    tried in Kerman. No information is available on his trial. Charges
+    According to the Head of Kerman Provincial Courthouse, the charge against
+    Mr. Qanbarzehi was sedition. The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. Evidence of guilt The report of this execution
+    did not provide any specific information on the evidence presented against
+    Mr. Qanbarzehi. Defense No information is available on Mr. Qanbarzehi s
+    defense. Judgment According to the Head of Kerman Provincial Courthouse,
+    Mr. Faqir Qanbarzehi was condemned to death. He was executed in the prison
+    yard for security reasons. The exact date of his execution is unknown.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/73544/faqir-qanbarzehi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

@@ -1,0 +1,62 @@
+id: m-behzad-2007
+name_latin: "Behzad M."
+name_farsi: "بهزاد م."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2007-05-15
+age_at_death: 28
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Behzad M. was published on the websites of E
+    temad Melli on May 16, Farhang-e Ashti on May 17, and Hamvatan Salam
+    newspapers on May 15, 2007. Mr. Behzad M. was 28, married, and worked as a
+    driver for a lawyer named Hushang. Arrest and Detention According to
+    Farhang-e Ashti newspaper, Mr. Hushang s wife went to the police in Tehran
+    in February 2004 and reported that her husband, who had left home with his
+    car to visit a friend two days earlier, was missing. Police began a search
+    and a few days they found Mr. Hushang s car at Sadeqieh Square with no
+    trace of him. Detectives suspected Mr. Behzad M. and inspected his house.
+    They noticed a stench from a closet and found the body of the lawyer when
+    they opened it. Subsequently, the police arrested Mr. Behzad M. Trial This
+    trial took place in Branch 71 of the Punitive Court of Tehran. No further
+    information is available on the defendant s trial. Charges The charge
+    against Mr. Behzad M. was announced as "murder." The validity of the
+    criminal charges brought against this defendant cannot be ascertained in
+    the absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that
+    Islamic Republic authorities have brought trumped-up charges against their
+    political opponents and executed them for alleged drug trafficking,
+    sexual, and other criminal offences. Each year Iranian authorities
+    sentence to death hundreds of alleged common criminals, following judicial
+    processes that fail to meet international standards. The exact number of
+    people convicted based on trumped-up charges is unknown. Evidence of Guilt
+    According to the media reports, the evidence presented against the
+    defendant was his confession and the body found in his closet. Defense In
+    his defense and explaining the motivation for murder, the defendant says:
+    I provided a single s home for Hushang [the victim] and sometimes supplied
+    alcoholic beverages when he had a party. On the day of the murder, in an
+    unusual state of mind, he proposed that I offer him my wife for a good sum
+    of money. When I heard this, I became angry and killed him. Then I stole a
+    one-million-Toman check from his office and hid his body in the closet.
+    Judgment The court condemned Mr. Behzad M. to death and the ruling was
+    confirmed by Branch 27 of the Supreme Court. He was hanged in the Evin
+    prison yard on May 16, 2007.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7236/behzad-m"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

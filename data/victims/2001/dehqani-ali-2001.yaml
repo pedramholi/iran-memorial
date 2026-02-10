@@ -1,0 +1,44 @@
+id: dehqani-ali-2001
+name_latin: "Ali Dehqani"
+name_farsi: "علی دهقانی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2001-09-11
+age_at_death: null
+place_of_death: "Bandar Abbas"
+province: "Hormozgan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Ali Dehqani was published in the
+    Jomhuri-Eslami newspaper on September 12, 2001. It was also published in
+    the Iran newspaper on the same day, without mentioning his name. Arrest
+    and Detention There is no specific information on Mr. Dehqani s arrest and
+    detention. Trial No information is available on Mr. Dehqani s trial.
+    Charges The charges against Mr. Dehqani s were announced as "rape,
+    drinking alcoholic beverages, and participation in kidnapping." According
+    to the Iran newspaper, quoting the Chief Justice of Hormozgan, Mr. Dehqani
+    had kidnapped a fourteen-year-old girl on her way home along with her
+    grandmother. Evidence of Guilt The report of this execution did not
+    provide any specific information on the evidence presented against Mr.
+    Dehqani. Defense No information is available on Mr. Dehqani's defense.
+    Judgment The court condemned Mr. Ali Dehqani to death, 15 years
+    imprisonment, and 80 lashes. The ruling was confirmed by the Supreme
+    Court. He was hanged in public at the Dohezaropansad-Dastgah Quarters in
+    Bandar-e Abbas on September 11, 2001.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/75518/ali-dehqani"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

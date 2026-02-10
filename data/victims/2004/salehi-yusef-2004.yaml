@@ -1,0 +1,44 @@
+id: salehi-yusef-2004
+name_latin: "Yusef Salehi"
+name_farsi: "یوسف صالحی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2004-05-17
+age_at_death: null
+place_of_death: "Fars Province"
+province: "Fars"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Yusef Salehi was published by various sources
+    including the Jomhuri Eslami and Ettela at newspapers on May 19, 2004. His
+    case was related to a murder. Arrest and detention The circumstances of
+    Mr. Salehi s arrest and detention are not known. Trial Branch Five of the
+    General Court of Kazerun tried Mr. Salehi. No information is available on
+    his trial. Charges The charge brought against Mr. Salehi was announced as
+    murder. He was charged in the murder of Mr. Mehdi Dehqan with a hand gun
+    in 2002. The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. Evidence of guilt The report of this execution did not
+    provide any specific information on the evidence presented against Mr.
+    Salehi Defense No information is available on Mr. Salehi s defense.
+    Judgment Branch Five of the General Court of Kazerun condemned Mr. Yusef
+    Salehi to death and Branch 34 of the Supreme Court confirmed the ruling in
+    August of 2003. He was hanged in public at the public square in Baladeh
+    near Kazerun on May 17, 2004.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/75972/yusef-salehi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

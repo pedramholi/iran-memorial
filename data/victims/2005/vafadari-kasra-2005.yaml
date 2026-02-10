@@ -1,0 +1,28 @@
+id: vafadari-kasra-2005
+name_latin: "Kasra Vafadari"
+name_farsi: "کسری وفاداری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Zoroastrianism"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2005-05-17
+age_at_death: 60
+place_of_death: "11th arrondissement"
+province: null
+cause_of_death: "Extrajudicial Execution"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/84703/kasra-vafadari"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

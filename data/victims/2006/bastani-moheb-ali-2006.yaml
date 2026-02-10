@@ -1,0 +1,57 @@
+id: bastani-moheb-ali-2006
+name_latin: "Moheb Ali Bastani"
+name_farsi: "محب‌علی باستانی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2006-04-20
+age_at_death: null
+place_of_death: "Delijan"
+province: "Markazi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Moheb Ali Bastani was announced by the
+    website of IRNA citing the Warden of Delijan Penitentiary on April 22,
+    2006. Mr. Bastani was from Afghanistan and his case pertains to the murder
+    of his wife. Arrest and detention There is no information available on the
+    details of Mr. Bastani s arrest and detention. Trial Mr. Bastani was tried
+    by Branch One of the Islamic Revolutionary Court of Delijan. However,
+    there is no information available on the details of the session or
+    sessions of Mr. Bastani s trial. Charges Mr. Bastani was charged with
+    trafficking illegal drugs and mass distributing of narcotics. The validity
+    of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    International human rights organizations have drawn attention to reports
+    indicating that the Islamic Republic authorities have brought trumped-up
+    charges, including drug trafficking, sexual, and other criminal offences,
+    against their opponents (including political, civil society activists, as
+    well as unionists and ethnic and religious minorities). Thousands of
+    alleged drug traffickers have been sentenced to death following judicial
+    processes that fail to meet international standards. Scores of them were
+    executed based on a 1989 law imposing mandatory death sentences on drug
+    traffickers found in possession of specified amounts of proscribed
+    narcotics (5 kg of hashish or opium, and more than 30 grams of heroin,
+    codeine or methadone). The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of guilt There is no information
+    available on the details of the evidence of guilt entered against Mr.
+    Bastani. Defense There is no information available on the details of Mr.
+    Bastani s defense. Judgment Branch One of the Islamic Revolutionary Court
+    of Delijan sentenced Mr. Moheb Ali Bastani to death. The verdict was
+    validated by the Chief Public Prosecutor. Mr. Bastani was hanged in the
+    courtyard of Delijan Prison on April 20, 2006.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/85154/moheb-ali-bastani"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

@@ -1,0 +1,98 @@
+id: emami-heshmat-2009
+name_latin: "Heshmat Emami"
+name_farsi: "حشمت امامی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2009-01-20
+age_at_death: 29
+place_of_death: "Shiraz"
+province: "Fars"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    Was hanged at the age of 29 for a crime he had not committed but confessed
+    under severe toture Information about Mr. Heshmat Emami s execution was
+    obtained through Abdorrahman Boroumand Center s interview with Mr. Emami s
+    attorney on August 25, 2016 (ABC interview). News regarding the execution
+    was published in Iran Newspaper (January 20, 2009). Mr. Emami was born in
+    1979-80 to a poor family in the village of Hajiabad in the city of
+    Kazerun, Fars Province. Mr. Emami left high school when he was a sophomore
+    and started working as a laborer at the age of 15. Mr. Emami s case
+    pertains to the the murder of an individual on May 22, 2003, during a
+    fight over financial issues. One of Mr. Emami s friends, who had lent some
+    money to his uncle, asked Mr. Emami to help him recover the money he was
+    owed. Mr. Emami s friend had taken a Kalashnikov rifle to intimidate the
+    borrower. When the borrower refused to pay the debt, a clash took place
+    between them, and a bullet was fired from the rifle. The bullet hit the
+    ground, ricocheted and injured the groin area of the borrower s right
+    foot, resulting in his death (ABC interview). Arrest and detention In
+    June/July 2003, the city of Kazerun s police first arrested Mr. Emami s
+    friend and then, based on the information they obtained from him, Mr.
+    Emami (Iran Newspaper). The circumstances of Mr. Emami s arrest and
+    detention are not known. During his detention, Mr. Emami was severely
+    tortured for the sake of extracting a confession. According to Mr. Emami s
+    attorney, during his detention at the Criminal Investigator (judiciary
+    police) s detention facility in the city of Kazerun, Mr. Emami was
+    severely tortured for the sake of extracting a confession. After some time
+    and for unknown reasons, Mr. Emami was transferred from Kazerun Prison to
+    Shiraz Prison and was held in Shiraz Prison until his execution (ABC
+    interview). Trial According to available information, the prosecutor of
+    the city of Kazerun confirmed the indictment issued against Mr. Emami and
+    his friend, and the case was transferred to Branch 2 of the
+    Public-Criminal Court in Kazerun. Mr. Emami did not have access to the
+    lawyer until the case was transferred to the court. Mr. Emami did not have
+    access to the lawyer until the case was transferred to the court. The
+    Branch 2 of the Public-Criminal Court in Kazerun tried Mr. Emami and his
+    friend on August 16 and November 22, 2003. The second court session for
+    both defendants lasted less than 20 minutes. Charges The charge brought
+    against Mr. Emami was intentional murder . Mr. Emami was accused of being
+    the one who fired the rifle. The validity of the criminal charges brought
+    against these defendants cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. Evidence of guilt Iran newspaper cited the
+    confessions of two defendants and the crime scene reconstruction as the
+    grounds for issuing a conviction verdict for Mr. Emami and his friend.
+    According to oral statements made by Mr. Emami and another defendant in
+    court, which was also available in the case records in writing, Mr. Emami
+    s friend (the other defendant) shot the rifle. According to Mr. Emami s
+    attorney, the Public-Criminal Court in Kazerun sentenced Mr. Emami based
+    on testimony of witnesses . International human rights organizations have
+    repeatedly condemned the government of the Islamic Republic of Iran for
+    its systematic use of severe torture and solitary confinement to obtain
+    confessions from detainees and have questioned the authenticity of
+    confessions obtained under duress. Defense In an interview with ABC, Mr.
+    Emami s attorney described his defense in court as follows: 1) The
+    forensic medical expert s report stated that the path of bullet in the
+    victim s body goes from the bottom up, which confirms the defendants
+    claims that they shot the bullet at the ground (not aiming at the victim).
+    This means that the shooting was not intended to kill the victim. 2) The
+    bullet hit the ground and ricocheted and accidentally injured the groin
+    area of the victim s right foot. Since the victim was not the target of
+    shooting, and the area where the bullet struck s not considered to be a
+    vulnerable part of the body, the nature of the crime must be treated as
+    involuntary manslaughter rather than intentional murder. 3) During
+    interrogations, the defendants were subject to torture to elicit
+    confessions of guilt. Before the shooting, Mr. Emami s friend was carrying
+    the rifle. After leaving the victim s house, some of the witnesses saw the
+    rifle in Mr. Emami s hand. There was serious doubt about the exact time
+    when the rifle was exchanged between the two defendants, and which of the
+    two defendants had shot the rifle. In order to obtain a confession, the
+    defendants were severely tortured,and their confession in such
+    circumstances is devoid of legal value. 4) According to oral statements
+    made by Mr. Emami and another defendant in court, which was also available
+    in the case records in writing, Mr. Emami s friend (the
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8109/heshmat-emami"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

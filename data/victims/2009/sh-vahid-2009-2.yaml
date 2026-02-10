@@ -1,0 +1,60 @@
+id: sh-vahid-2009-2
+name_latin: "Vahid Sh."
+name_farsi: "وحید ش."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2009-11-16
+age_at_death: 35
+place_of_death: "Esfahan"
+province: "Esfahan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The news of Mr. Vahid Sh. s execution, along with two other persons, was
+    published by Keyhan newspaper (November 18, 2009) and Nesfe Jahan
+    newspaper (November 19, 2009). According to available information, the
+    35-year-old Mr. Vahid Sh. s case was related to drug offences. Arrest and
+    detention The circumstances of Mr. Vahid Sh. s arrest and detention are
+    not known. Trial The Revolutionary Court of Isfahan tried Mr. Vahid Sh. No
+    information is available on her trial. Charges Mr. Vahid Sh. was charged
+    with drug possession . He was accused of buying and possessing 143.7 gr of
+    crack cocaine. There is no detailed information about his charges. The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    International human rights organizations have drawn attention to reports
+    indicating that the Islamic Republic authorities have brought trumped-up
+    charges, including drug trafficking, sexual, and other criminal offences,
+    against their opponents (including political, civil society activists, as
+    well as unionists and ethnic and religious minorities). Thousands of
+    alleged drug traffickers have been sentenced to death following judicial
+    processes that fail to meet international standards. Scores of them were
+    executed based on a 1989 law imposing mandatory death sentences on drug
+    traffickers found in possession of specified amounts of proscribed
+    narcotics (5 kg of hashish or opium, and more than 30 grams of heroin,
+    codeine or methadone). The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against Mr. Vahid Sh. Defense No information is available on Mr. Vahid Sh.
+    s defense. Judgment Isfahan Revolutionary Court sentenced Mr. Vahid Sh. to
+    execution. According to available information, Mr. Vahid Sh. had twice
+    requested pardon and mitigation of her punishment from execution to life
+    in prison, but his requests were rejected by the Amnesty and Forgiveness
+    Commission of Isfahan province (Nesfe Jahan newspaper, November 19, 2009).
+    His sentence was upheld by the Supreme Court. On Monday morning, November
+    16, 2009, Mr. Vahid Sh. was hanged in Isfahan Central Prison.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8083/vahid-sh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

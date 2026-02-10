@@ -1,0 +1,61 @@
+id: nazari-mohammad-2007
+name_latin: "Mohammad Nazari"
+name_farsi: "محمد نظری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2007-03-02
+age_at_death: null
+place_of_death: "Varamin"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the conviction and the execution of Mr. Mohammad Nazari, a
+    national of Afghanistan, along with four others, was published on the
+    websites of the Kayhan newspaper on May 30, 2005, and the Jam-e Jam
+    newspaper on March 3, 2007. The public prosecutor of Varamin (Tehran
+    Province) told the reported of Jam-e Jam : “Unfortunately due to the
+    geographical location of Varamin, Afghans easily distribute narcotic drugs
+    throughout the city.” Arrest and Detention According to the Public
+    Prosecutor of Varamin, “in April of 2004, the activity of a gang of
+    foreigners, known as Ozbaks, was detected and the police agents
+    infiltrated the gang and arrested 22 smugglers when they were about to
+    sell narcotics.” This defendant was one of those arrested. Trial No
+    information is available on the defendant’s trial, other than it took
+    place in Branch 32 of the Islamic Revolutionary Court of Tehran. Charges
+    The charge against the defendant was announced as “smuggling narcotics.”
+    The validity of the criminal charges brought against this defendant cannot
+    be ascertained in the absence of the basic guarantees of a fair trial.
+    International human rights organizations have drawn attention to reports
+    indicating that Islamic Republic authorities have brought trumped-up
+    charges against their political opponents and executed them for alleged
+    drug trafficking, sexual, and other criminal offences. Thousands of
+    alleged drug traffickers have been sentenced to death following judicial
+    processes that fail to meet international standards. Scores of them were
+    executed based on a 1989 law imposing mandatory death sentences on drug
+    traffickers found in possession of specified amounts of proscribed
+    narcotics (5 kg of hashish or opium, and more than 30 grams of heroin,
+    codeine or methadone). The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of Guilt The evidence provided
+    against the defendant, along with four others, was collectively announced
+    as “recovery of 10 kilograms heroin and 3 kilograms and 500 grams of
+    opium.” Defense No information is available on the defense. Judgment The
+    court condemned Mr. Mohammad Nazari to death and the ruling was confirmed
+    by the supreme judiciary officials. He was hanged in Varmin prison yard on
+    March 2, 2007.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/60924/mohammad-nazari"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

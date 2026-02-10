@@ -1,0 +1,57 @@
+id: m-morteza-2006
+name_latin: "Morteza M."
+name_farsi: "مرتضی م."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2006-11-08
+age_at_death: 20
+place_of_death: "Yazd Province"
+province: "Yazd"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Morteza M. was published on the websites of
+    Iscanews on November 8, 2006 and Khabar Jonub on November 11, 2006. His
+    case and the case of another defendant were related to the murder of an
+    individual in Meybod, Yazd, in the fall of 2004. Arrest and detention Mr.
+    Morteza M. was arrested, along with another person, by the Criminal Police
+    in Yazd several days after a murder had happened in the fall of 2004. He
+    was detained for two years. The circumstances of his arrest and detention
+    are not known. Trial Branch Three of the Criminal Court of Yazd tried Mr.
+    Morteza M. No information is available on his trial. Charges The charge
+    brought against Mr. Morteza M. was announced as murder. According to the
+    Iscanews report, he had killed his friend with a knife in collaboration
+    with another person. The validity of the criminal charges brought against
+    this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that the Islamic Republic
+    authorities have brought trumped-up charges, including drug trafficking,
+    sexual, and other criminal offences, against their opponents (including
+    political, civil society activists, as well as unionists and ethnic and
+    religious minorities). Each year Iranian authorities sentence to death
+    hundreds of alleged common criminals, following judicial processes that
+    fail to meet international standards. The exact number of people convicted
+    and executed based on trumped-up charges is unknown. Evidence of guilt The
+    report of this execution did not provide any specific information on the
+    evidence presented against Mr. Morteza M. However, the report referred to
+    some unknown evidence. Defense No information is available on Mr. Morteza
+    M. s defense. Judgment Branch Three of the Criminal Court of Yazd
+    condemned Mr. Morteza M. to death. The Supreme Court confirmed the ruling.
+    He was hanged in Meybod on November 8, 2006 at 6 a.m. The other defendant
+    in this case was condemned to 15 years imprisonment.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7834/morteza-m"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

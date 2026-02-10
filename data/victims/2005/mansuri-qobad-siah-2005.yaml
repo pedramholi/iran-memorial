@@ -1,0 +1,64 @@
+id: mansuri-qobad-siah-2005
+name_latin: "Qobad Siah Mansuri"
+name_farsi: "قباد سیاه منصوری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2005-04-14
+age_at_death: 31
+place_of_death: "Najaf Abad"
+province: "Esfahan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Qobad Siah Mansuri, born in 1973 in Khoram Abad
+    (Lorestan province) was announced on the websites of the Khorasan
+    newspaper (April 17, 2005), the Kayhan and the Iran newspapers (April 16,
+    2005). Arrest and detention According to Kayhan , on July 20, 2004, the
+    defendant was returning from the city of Najaf Abad (Esfahan province)
+    with two other men when they got into a fight with the Najaf Abad police.
+    During this armed conflict, a policeman was killed, and Mr. Siah Mansuri
+    was arrested. Trial No information is available on the defendant s trial.
+    Charges Mr. Siah Mansuri was charged with armed robbery. The validity of
+    the criminal charges brought against this defendant cannot be ascertained
+    in the absence of the basic guarantees of a fair trial. International
+    human rights organizations have drawn attention to reports indicating that
+    the Islamic Republic s authorities have brought trumped-up charges against
+    their political opponents and executed them for drug trafficking, sexual,
+    and other criminal offences. Each year, Iranian authorities sentence to
+    death hundreds of alleged common criminals, following judicial processes
+    that fail to meet international standards. The exact number of people
+    convicted based on trumped-up charges is unknown. Evidence of guilt The
+    Iran newspaper reported: after close examination of the robbers
+    automibiles, 93 billion rials cash was discovered along with some handguns
+    and Kalashnikovs. According to the Khorasan newspaper the evidence used
+    against Mr. Siahmansuri were, the confession of the defendant and the
+    statements of witnesses The text of the confession, however, is not
+    available. International human rights organizations have repeatedly
+    condemned the government of the Islamic Republic of Iran for its
+    systematic use of severe torture and solitary confinement to obtain
+    confessions from detainees and have questioned the authenticity of
+    confessions obtained under duress. Defense No information is available on
+    Mr. Siah Mansuri s defense. Judgment According to the Khorasan newspaper
+    report, the judge of the first branch of Najaf Abad court issued the death
+    sentence based on the following facts: creating an atmosphere of terror
+    and fear among people, disturbing people s peace, participating in armed
+    robberies of banks and a gold shop, and shooting in the streets and at the
+    police. The ruling was confirmed by Branch 26 of the Supreme Court. Mr.
+    Siahmansuri was executed on Thursday, April 14, 2005, at 6:55 am in front
+    of a large group of people in Najaf Abad.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/35841/qobad-siah-mansuri"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

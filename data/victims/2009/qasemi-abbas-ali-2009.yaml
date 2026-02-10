@@ -1,0 +1,46 @@
+id: qasemi-abbas-ali-2009
+name_latin: "Abbas Ali Qasemi"
+name_farsi: "عباسعلی قاسمی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2009-02-17
+age_at_death: 35
+place_of_death: "Esfahan"
+province: "Esfahan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Abbas Ali Qasemi, along with four other people, was
+    reported by several sources; Fars News Agency Website (February 17, 2009),
+    IMNA News Agency (February 20, 2009), and Human rights Activists for
+    Democracy in Iran (February 17, 2009). According to available information,
+    his case was related to drug offenses. Arrest and detention The
+    circumstances of Mr. Qasemi s arrest and detention are not known. He was
+    incarcerated in Section 4 of the Esfahan Prison, for four years (Human
+    Rights Activists for Democracy in Iran, February 17, 2009). Trial No
+    information is available on this trial. Charges According to available
+    information, the charge brought against Mr. Qasemi was possession of drugs
+    (Human Rights Activists for Democracy in Iran). Evidence of guilt The
+    report of this execution does not contain information regarding the
+    evidence providedagainst the defendant. Defense No information is
+    available on Mr. Qasemi s defense. Judgment The Court sentenced Mr. Qasemi
+    to death by hanging . On Sunday, February 17, 2009, he and six other
+    people were taken to solitary cells, for execution (Human Rights Activists
+    for Democracy in Iran). Mr. Qasemi was executed in the Central Prison of
+    Esfahan, on the morning of February 17, 2009.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/82112/abbas-ali-qasemi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

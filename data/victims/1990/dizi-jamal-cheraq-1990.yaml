@@ -1,0 +1,46 @@
+id: dizi-jamal-cheraq-1990
+name_latin: "Jamal Cheraq Dizi"
+name_farsi: "جمال چراغ دیزی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1990-04-17
+age_at_death: null
+place_of_death: "Sanandaj"
+province: "Kordestan"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Mr. Jamal Cheraq Dizi was reported by Mr. Galindo Pohl,
+    the Special Representative of the United Nations' Commission on Human
+    Rights, in his report on the situation of human rights in Iran (November
+    1990, A/45/697). Arrest and detention The circumstances of this defendant
+    s arrest and detention are not known. Trial No information is available on
+    the defendant s trial. However it has been reported to the United Nations'
+    Special Representative, that at the time of this execution : "trials
+    before Islamic revolutionary Courts have usually taken place in secret,
+    sometimes inside prisons, that defendants have not usually enjoyed the
+    right to be represented by a lawyer, and often have not even been made
+    aware that the proceedings were in fact a trial and not an interrogation
+    session." Charges The charges brought against Mr. Cheraq Dizi were
+    reportedly his having attended the May Day Celebration in the City of
+    Sanandaj (Iranian Kurdistan). Evidence of guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against the defendant. Defense No information is available on Mr. Cheraq
+    Dizi's defense. Judgment Mr. Cheraq Dizi was sentenced to death and
+    executed in Sanandaj, either on April 17th or April 27th, 1990.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/11434/jamal-cheraq-dizi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

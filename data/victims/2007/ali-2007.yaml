@@ -1,0 +1,51 @@
+id: ali-2007
+name_latin: "Ali"
+name_farsi: "علی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2007-04-25
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Ali, was published on the website of the
+    Tehran Emruz newspaper on April 26, 2007. Arrest and Detention There is no
+    specific information on Mr. Ali s arrest and detention. Trial This trial
+    took place at the Revolutionary Court of Tehran. No further information is
+    available about Mr. Ali s trial. Charges The charges against Mr. Ali were
+    announced as "transportation of 480 kilograms of morphine and 2,330
+    kilograms of opium." The validity of the criminal charges brought against
+    this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that Islamic Republic authorities
+    have brought trumped-up charges against their political opponents and
+    executed them for alleged drug trafficking, sexual, and other criminal
+    offences. Thousands of alleged drug traffickers have been sentenced to
+    death following judicial processes that fail to meet international
+    standards. Scores of them were executed based on a 1989 law imposing
+    mandatory death sentences on drug traffickers found in possession of
+    specified amounts of proscribed narcotics (5 kg of hashish or opium, and
+    more than 30 grams of heroin, codeine or methadone). The exact number of
+    people convicted based on trumped-up charges is unknown. Evidence of Guilt
+    The report of this execution did not provide any specific information on
+    the evidence presented against Mr. Ali. Defense No information is
+    available on Mr. Ali's defense. Judgment The court condemned Mr. Ali to
+    death and the ruling was carried out at the Evin prison on April 25, 2007.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7789/ali"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

@@ -1,0 +1,44 @@
+id: masumi-said-2002
+name_latin: "Sa'id Ma'sumi"
+name_farsi: "سعید معصومی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2002-06-19
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Sa id Ma sumi, along with three others, was
+    published in Iran and Ettela at newspapers on June 20, 2002. Arrest and
+    detention The circumstances of Mr. Ma sumi s arrest and detention are not
+    known. Trial Branch 1601 of the Criminal Court of Tehran tried Mr. Ma
+    sumi. No information is available on his trial. Charges The charge brought
+    against Mr. Ma sumi was announced as murder . According to reports, he
+    murdered an elderly man in collaboration with another person in the year
+    2000. The validity of the criminal charges brought against this defendant
+    cannot be ascertained in the absence of the basic guarantees of a fair
+    trial. Evidence of guilt The report of this execution did not provide any
+    specific information on the evidence presented against Mr. Ma sumi.
+    Defense No information is available on Mr. Ma sumi s defense. Judgment
+    Branch 1601 of the Criminal Court of Tehran condemned Mr. Sa id Ma sumi to
+    death. He was hanged at the Qasr Prison yard in Tehran on June 19, 2002.
+    The other defendant on this case was also hanged along with Mr. Ma sumi in
+    Qasr Prison in Tehran.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7700/said-masumi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

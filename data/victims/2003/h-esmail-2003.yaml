@@ -1,0 +1,44 @@
+id: h-esmail-2003
+name_latin: "Esma'il H."
+name_farsi: "اسماعیل ح."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2003-01-01
+age_at_death: null
+place_of_death: "Neyshabur"
+province: "Khorasan-e Razavi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Esma il H. was published in the Khorasan
+    newspaper on December 9, 2003. His case was related to a murder in
+    Zirkhan, Neyshabur, in April of 2002. Arrest and detention The
+    circumstances of Mr. Esma il H. s arrest and detention are not known.
+    Trial No information is available on Mr. Esma il H. s trial. Charges The
+    charge brought against Mr. Esma il H. was announced as murder. According
+    to the report, he had murdered a 23-year-old man over distribution of
+    water and because of previous disputes. The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. Evidence of guilt The
+    report of this execution did not provide any specific information on the
+    evidence presented against Mr. Esma il H. Defense No information is
+    available on Mr. Esma il H. s defense. Judgment A court condemned Mr. Esma
+    il H. to death and the Head of judiciary confirmed the ruling. He was
+    hanged, at the yard of Police Station 11, in Neyshabur in 2003. No
+    specific information is available about this execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/75774/esmail-h"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

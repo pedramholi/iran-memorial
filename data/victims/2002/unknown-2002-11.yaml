@@ -1,0 +1,43 @@
+id: unknown-2002-11
+name_latin: "Unknown"
+name_farsi: "ناشناس"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2002-01-01
+age_at_death: null
+place_of_death: "Tabriz"
+province: "Azarbaijan-e Sharqi"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    News of the execution of an unknown woman was published in the Jomhuri
+    Eslami newspaper on September 22, 2002. Arrest and detention The
+    circumstances of the unknown woman s arrest and detention are not known.
+    Trial Branch 12 of the Public Court of Tabriz tried this unknown woman. No
+    information is available on her trial. Charges The charge brought against
+    the unknown woman was announced as murder. She was accused of murdering
+    her sister-in-law by blows of a knife in a family dispute in October of
+    1999. The validity of the criminal charges brought against this defendant
+    cannot be ascertained in the absence of the basic guarantees of a fair
+    trial. Evidence of guilt The complaint filed by the victim s children was
+    presented as evidence against the defendant. Defense No information is
+    available on the unknown woman s defense. Judgment Branch 12 of the Public
+    Court of Tabriz condemned the unknown woman to death. She was executed in
+    the presence of the victim s family at Tabriz Prison between September 15
+    and 21, 2002.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/74224/unknown"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

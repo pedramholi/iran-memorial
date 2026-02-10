@@ -1,0 +1,47 @@
+id: unknown-2003-2
+name_latin: "Unknown"
+name_farsi: "ناشناس"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2003-01-01
+age_at_death: null
+place_of_death: "Dargaz"
+province: "Khorasan-e Razavi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of an unknown man, along with another person, was
+    published in the Khorasan newspaper on October 15, 2003. His case was
+    related to the kidnapping, rape, and murder of a four-year-old child, from
+    the Amusement Park in Dargaz, during the Nowruz celebration in 2003.
+    Arrest and detention This unknown man was identified and arrested in
+    Dargaz in 2003. He was detained for about six months. The circumstances of
+    his arrest and detention are not known. Trial No information is available
+    on the unknown man s trial. Charges The charges brought against the
+    unknown man were announced as kidnapping a child, rape, and murder.
+    According to the report, two defendants kidnapped, raped, and murdered the
+    child with a stone. The validity of the criminal charges brought against
+    this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. Evidence of guilt The report of this execution
+    did not provide any specific information on the evidence presented against
+    the unknown man. Defense No information is available on the unknown man s
+    defense. Judgment The unknown man was hanged, along with the other
+    defendant, in public and in the presence of authorities at the incident s
+    location in Dargaz in early fall of 2003. No specific information is
+    available about the defendant s execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/75670/unknown"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

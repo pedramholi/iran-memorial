@@ -1,0 +1,43 @@
+id: khaleq-2003
+name_latin: "Khaleq"
+name_farsi: "خالق"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2003-01-01
+age_at_death: 31
+place_of_death: "Lahijan"
+province: "Gilan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Khaleq was published in the Ettela at
+    newspaper on December 9, 2003. According to the report, he had been a
+    guide for a blind man for ten years until the latter was killed during a
+    fight between the two in August of 1998. Arrest and Detention There is no
+    specific information on Mr. Khaleq s arrest and detention. Trial Branch
+    Four of the Public Court in Lahijan tried Mr. Khaleq. No information is
+    available on his trial. Charges The charge against Mr. Khaleq was
+    announced as "murder." The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. Evidence of Guilt The report of this execution
+    did not provide any specific information on the evidence presented against
+    Mr. Khaleq. Defense No information is available on Mr. Khaleq's defense.
+    Judgment The court condemned Mr. Khaleq to death. He was executed in
+    Lahijan in December of 2003. No specific date is available about this
+    execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/73561/khaleq"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

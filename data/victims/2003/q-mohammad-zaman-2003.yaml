@@ -1,0 +1,59 @@
+id: q-mohammad-zaman-2003
+name_latin: "Mohammad Zaman Q."
+name_farsi: "محمدزمان ق."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2003-01-01
+age_at_death: null
+place_of_death: "Kerman"
+province: "Kerman"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Mohammad Zaman Q. was published in the
+    Khorasan newspaper on August 23, 2003, quoting the Public Relations Office
+    of the Kerman Courthouse. His case was related to armed robbery, drug
+    trafficking, and creating a gang. Arrest and detention The circumstances
+    of Mr. Mohammad Zaman Q. s arrest and detention are not known. Trial
+    Branch Two of the Islamic Revolutionary Court of Kerman tried Mr. Mohammad
+    Zaman Q. No information is available on his trial. Charges The charges
+    brought against Mr. Mohammad Zaman Q. were announced as sedition and drug
+    trafficking. According to the report, by creating a gang, he disrupted the
+    public peace, in addition to various seditious acts and drug trafficking.
+    The validity of the criminal charges brought against this defendant cannot
+    be ascertained in the absence of the basic guarantees of a fair trial.
+    International human rights organizations have drawn attention to reports
+    indicating that the Islamic Republic authorities have brought trumped-up
+    charges, including drug trafficking, sexual, and other criminal offences,
+    against their opponents (including political, civil society activists, as
+    well as unionists and ethnic and religious minorities). Thousands of
+    alleged drug traffickers have been sentenced to death following judicial
+    processes that fail to meet international standards. Scores of them were
+    executed based on a 1989 law imposing mandatory death sentences on drug
+    traffickers found in possession of specified amounts of proscribed
+    narcotics (5 kg of hashish or opium, and more than 30 grams of heroin,
+    codeine or methadone). The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of guilt The report of this
+    execution did not provide any specific information on the evidence
+    presented against Mr. Mohammad Zaman Q. Defense No information is
+    available on Mr. Mohammad Zaman Q. s defense. Judgment Branch Two of the
+    Islamic Revolutionary Court of Kerman condemned Mr. Mohammad Zaman Q. to
+    death and the Supreme Court confirmed the ruling. He was hanged at the
+    Kerman Central Prison yard in 2003. No specific information is available
+    about this execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/75742/mohammad-zaman-q"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

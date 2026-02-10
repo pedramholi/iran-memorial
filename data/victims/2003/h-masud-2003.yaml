@@ -1,0 +1,46 @@
+id: h-masud-2003
+name_latin: "Mas'ud H."
+name_farsi: "مسعود ح."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2003-01-01
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Mas ud H., along with another person, was
+    published in the Jamejam newspaper on October 6, 2003. His case was
+    related to the murder of a young man at Shahr-e Ziba, in Tehran, in
+    February of 2003. Arrest and detention The circumstances of Mr. Mas ud H.
+    s arrest and detention are not known. Trial Branch 1601 of the Criminal
+    Court in Tehran tried Mr. Mas ud H. No information is available on his
+    trial. Charges The charge brought against Mr. Mas ud H. was announced as
+    murder. According to the report, he had murdered a man with a Samurai
+    sword following a dispute with the victim s brother. The validity of the
+    criminal charges brought against this defendant cannot be ascertained in
+    the absence of the basic guarantees of a fair trial. Evidence of guilt The
+    report of this execution did not provide any specific information on the
+    evidence presented against Mr. Mas ud H. Defense No information is
+    available on Mr. Mas ud H. s defense. Judgment Branch 1601 of the Criminal
+    Court in Tehran condemned Mr. Mas ud H. to death and the Supreme Court
+    confirmed the ruling. He was hanged, along with another person, in the
+    presence of the victim s family, at the Qasr Prison in Tehran in 2003. No
+    specific information is available about this execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/75776/masud-h"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

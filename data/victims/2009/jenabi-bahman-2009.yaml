@@ -1,0 +1,28 @@
+id: jenabi-bahman-2009
+name_latin: "Bahman Jenabi"
+name_farsi: "بهمن جنابی‌"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim (Shi'a)"
+photo: "https://www.iranrights.org/actorphotos/87008_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 2009-06-20
+age_at_death: 19
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Arbitrary Execution » Arbitrary shooting » Weapon loaded with metal pellets » targeting vital organs"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-9049/bahman-jenabi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

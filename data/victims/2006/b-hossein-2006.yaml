@@ -1,0 +1,65 @@
+id: b-hossein-2006
+name_latin: "Hossein B."
+name_farsi: "حسین ب."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2006-03-04
+age_at_death: 24
+place_of_death: "Qazvin"
+province: "Qazvin"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Hossein B. was announced by the websites of
+    the Police Center of Information (March 4, 2006), Jam-e Jam (March 5,
+    2006), and Khabar-e Jonoub (March 6, 2006). Additional information on this
+    case was obtained from Kayhan daily (June 1, 2006). Mr. Hossein B. was 24,
+    and his case is related to a rape in the city of Qazvin in 2005. Arrest
+    and Detention Mr. Hossein B. was arrested by agents of the Police Force in
+    the city of Qazvin in 2005. According to the available information, after
+    covering his face with a sock, he had entered a beauty salon for women;
+    however, when the manager of the salon identified him, Mr. Hossein B. had
+    been forced to flee the place. The police forces were informed of the
+    situation and immediately attended the area and arrested Mr. Hossein B. He
+    spent less than a year in prison. Trial Mr. Hossein B. was tried by Branch
+    Three of the Public Court of Qazvin. However, there is no information
+    available on the details of the session or sessions of Mr. Hossein B. s
+    trial. Charges Mr. Hossein B. was charged with rape. The validity of the
+    criminal charges brought against this defendant cannot be ascertained in
+    the absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic authorities have brought trumped-up charges, including
+    drug trafficking, sexual, and other criminal offences, against their
+    opponents (including political, civil society activists, as well as
+    unionists and ethnic and religious minorities). Each year Iranian
+    authorities sentence to death hundreds of alleged common criminals,
+    following judicial processes that fail to meet international standards.
+    The exact number of people convicted and executed based on trumped-up
+    charges is unknown. Evidence of Guilt The complaints of the victims, the
+    confessions of the accused, the report of the agents of the Police Force
+    of Qazvin Province, and two previous records of rape were entered as
+    evidence of guilt against Mr. Hossein B. International human rights
+    organizations have repeatedly condemned the government of the Islamic
+    Republic of Iran for its systematic use of severe torture and solitary
+    confinement to obtain confessions from detainees and have questioned the
+    authenticity of confessions obtained under duress. Defense There is no
+    information available on the details of Mr. Hossein B. s defense. Judgment
+    Branch Three of the Public Court of Qazvin sentenced Mr. Hossein B. to
+    death. The verdict was approved by the Supreme Court. Mr. Hossein B. was
+    hanged in the city of Qazvin on March 4, 2006.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8221/hossein-b"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

@@ -1,0 +1,55 @@
+id: vosuq-hossein-2000
+name_latin: "Hossein Vosuq"
+name_farsi: "حسین وثوق"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2000-07-08
+age_at_death: null
+place_of_death: "Iran"
+province: null
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    News of the execution of Mr. Hossein Vosuq, son of Mohammad, along with
+    five others, was published in the Jomhuri-Eslami newspaper on July 11,
+    2000. Arrest and Detention There is no specific information on Mr. Vosuq s
+    arrest and detention. Trial No information is available on Mr. Vosuq s
+    trial. According to the report, the Islamic Revolutionary Court
+    investigated the case against these defendants. Charges The charges
+    against Mr. Vosuq were announced as "dealing and transporting 301
+    kilograms of heroin, dealing 14 kilograms of opium, and addiction to
+    narcotics." The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. International human rights organizations have drawn
+    attention to reports indicating that Islamic Republic authorities have
+    brought trumped-up charges against their political opponents and executed
+    them for alleged drug trafficking, sexual, and other criminal offences.
+    Thousands of alleged drug traffickers have been sentenced to death
+    following judicial processes that fail to meet international standards.
+    Scores of them were executed based on a 1989 law imposing mandatory death
+    sentences on drug traffickers found in possession of specified amounts of
+    proscribed narcotics (5 kg of hashish or opium, and more than 30 grams of
+    heroin, codeine or methadone). The exact number of people convicted based
+    on trumped-up charges is unknown. Evidence of Guilt The evidence presented
+    against Mr. Vosuq was recovery of 131 kilograms of heroin and having a
+    record for six criminal offenses. Defense No information is available on
+    Mr. Vosuq's defense. Judgment The court condemned Mr. Hossein Vosuq to
+    death and the ruling was confirmed by the Supreme Court. He was executed
+    on July 8, 2000. No specific information is available about the location
+    of this execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/73143/hossein-vosuq"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

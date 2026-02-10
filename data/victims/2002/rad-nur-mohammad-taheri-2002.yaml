@@ -1,0 +1,50 @@
+id: rad-nur-mohammad-taheri-2002
+name_latin: "Nur Mohammad Taheri Rad"
+name_farsi: "نورمحمد طاهری‌راد"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2002-05-08
+age_at_death: 42
+place_of_death: "Gonabad"
+province: "Khorasan-e Razavi"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    News of the execution of Mr. Nur Mohammad Taheri Rad, son of Ali, was
+    published in the Iran newspaper on May 9, 2002. Arrest and Detention There
+    is no specific information on Mr. Taheri Rad s arrest and detention. Trial
+    No information is available on Mr. Taheri Rad s trial. Charges The charge
+    against Mr. Taheri Rad was announced as murder. He was accused of
+    murdering two individuals in Beidokht near Gonabad during a fight in April
+    of 2000. The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. International human rights organizations have drawn
+    attention to reports indicating that the Islamic Republic authorities have
+    brought trumped-up charges, including drug trafficking, sexual, and other
+    criminal offences, against their opponents (including political, civil
+    society activists, as well as unionists and ethnic and religious
+    minorities). Each year Iranian authorities sentence to death hundreds of
+    alleged common criminals, following judicial processes that fail to meet
+    international standards. The exact number of people convicted and executed
+    based on trumped-up charges is unknown. Evidence of Guilt The report of
+    this execution did not provide any specific information on the evidence
+    presented against Mr. Taheri Rad. Defense No information is available on
+    Mr. Taheri Rad's defense. Judgment The court condemned Mr. Nur Mohammad
+    Taheri Rad to death. The ruling was carried out in the presence of the
+    victims family at the Police Headquarters in Gonabad on May 8, 2002.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/74560/nur-mohammad-taheri-rad"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

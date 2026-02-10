@@ -1,0 +1,53 @@
+id: shirmohammadi-jamal-2007
+name_latin: "Jamal Shirmohammadi"
+name_farsi: "جمال شیرمحمدی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2007-04-21
+age_at_death: 22
+place_of_death: "Sanandaj"
+province: "Kordestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Jamal Shirmohammadi, along with another
+    person, was published on the website of the Human Rights Organization of
+    Kurdistan (Ensaniat) on April 21, 2007. Arrest and Detention Mr.
+    Shirmohammadi was arrested in 2005. No further information is available
+    about Mr. Shirmohammadi s arrest and detention. Trial No information is
+    available on the Mr. Shirmohammadi s trial. Charges The charges against
+    Mr. Jamal Shirmohammadi were announced as "distribution and selling
+    narcotics." The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. International human rights organizations have drawn
+    attention to reports indicating that Islamic Republic authorities have
+    brought trumped-up charges against their political opponents and executed
+    them for alleged drug trafficking, sexual, and other criminal offences.
+    Thousands of alleged drug traffickers have been sentenced to death
+    following judicial processes that fail to meet international standards.
+    Scores of them were executed based on a 1989 law imposing mandatory death
+    sentences on drug traffickers found in possession of specified amounts of
+    proscribed narcotics (5 kg of hashish or opium, and more than 30 grams of
+    heroin, codeine or methadone). The exact number of people convicted based
+    on trumped-up charges is unknown. Evidence of Guilt The report of this
+    execution did not provide any specific information on the evidence
+    presented against Mr. Shirmohammadi. Defense No information is available
+    on Mr. Shirmohammadi's defense. Judgment The court condemned Mr. Jamal
+    Shirmohammadi to death and the ruling was confirmed by the Supreme Court.
+    He was hanged in the Sanandaj Central prison on April 21, 2007.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/73080/jamal-shirmohammadi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

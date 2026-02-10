@@ -1,0 +1,58 @@
+id: t-gh-2006
+name_latin: "Gh. T."
+name_farsi: "غ. ت."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2006-11-16
+age_at_death: null
+place_of_death: "Taybad"
+province: "Khorasan-e Razavi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Gh. T., along with four other individuals,
+    was announced by the websites of Iscanews (November 17, 2006) and Khabar-e
+    Jonoub (November 20, 2006). His case and those of the other four was
+    related to trafficking illegal drugs. Arrest and detention Mr. Gh. T. was
+    arrested for trafficking narcotics. However, there is no further
+    information available on the details of his arrest and detention. Trial
+    Mr. Gh. T. went on trial in Khorasan Province. However, there is no
+    information available on the details of the session or sessions of his
+    trial. Charges Mr. Gh. T. and the other four were charged with carrying,
+    purchase and sale of narcotics. The validity of the criminal charges
+    brought against this defendant cannot be ascertained in the absence of the
+    basic guarantees of a fair trial. International human rights organizations
+    have drawn attention to reports indicating that the Islamic Republic
+    authorities have brought trumped-up charges, including drug trafficking,
+    sexual, and other criminal offences, against their opponents (including
+    political, civil society activists, as well as unionists and ethnic and
+    religious minorities). Thousands of alleged drug traffickers have been
+    sentenced to death following judicial processes that fail to meet
+    international standards. Scores of them were executed based on a 1989 law
+    imposing mandatory death sentences on drug traffickers found in possession
+    of specified amounts of proscribed narcotics (5 kg of hashish or opium,
+    and more than 30 grams of heroin, codeine or methadone). The exact number
+    of people convicted based on trumped-up charges is unknown. Evidence of
+    guilt Possessing 32.5 kilograms of crystal as well as 87.5 kilograms of
+    opium were entered as evidence of guilt against Mr. Gh. T. Defense There
+    is no information available on the details of Mr. Gh. T. s defense.
+    Judgment Mr. Gh. T. was sentenced to death. He was hanged, along with four
+    other individuals, in the presence of the Public Prosecutor, head of the
+    provincial Ministry of Justice office, and the prison warden in Taybad
+    County s prison on November 16, 2006.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8257/gh-t"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

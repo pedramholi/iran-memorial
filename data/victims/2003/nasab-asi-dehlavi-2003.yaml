@@ -1,0 +1,50 @@
+id: nasab-asi-dehlavi-2003
+name_latin: "Asi Dehlavi Nasab"
+name_farsi: "عاصی دهلاوی‌نسب"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2003-01-08
+age_at_death: null
+place_of_death: "Ahvaz"
+province: "Khuzestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Asi Dehlavi Nasab was published on the
+    website of Hadeseh and in the Jomhuri Eslami newspaper on January 9, 2003.
+    Additional information regarding his prosecution was taken from the
+    Jomhuri Eslami newspaper of December 25, 2002. Arrest and detention
+    According to the Head of the Public Relations Office of the Khuzestan
+    Courthouse, Mr. Dehlavi Nasab had been imprisoned since 1994.The
+    circumstances of his arrest and detention are not known. Trial The Islamic
+    Revolutionary Court of Mahshahr tried Mr. Dehlavi Nasab. No information is
+    available on his trial. Charges The charges brought against Mr. Dehlavi
+    Nasab and his 13 collaborators were collectively announced as piracy,
+    robbery, and creating insecurity across Khuzestan. According to the Head
+    of the Public Relations Office of the Khuzestan Courthouse, he and his
+    collaborators had shot and murdered a soldier during an operation by
+    security forces to identify and apprehend them on the road from Ahvaz to
+    Mahshahr and Omidieh in 1994. The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. Evidence of guilt The report of this execution
+    did not provide any specific information on the evidence presented against
+    Mr. Dehlavi Nasab. Defense No information is available on Mr. Dehlavi
+    Nasab s defense. Judgment The court condemned Mr. Asi Dehlavi Nasab to
+    death and the Supreme Court confirmed the ruling. He was hanged in public
+    in Ahvaz on January 8, 2003.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/73726/asi-dehlavi-nasab"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

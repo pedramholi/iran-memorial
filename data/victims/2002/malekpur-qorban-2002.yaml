@@ -1,0 +1,52 @@
+id: malekpur-qorban-2002
+name_latin: "Qorban Malekpur"
+name_farsi: "قربان ملک‌پور"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2002-05-28
+age_at_death: null
+place_of_death: "Mashhad"
+province: "Khorasan-e Razavi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Qorban Malekpur was published on the website
+    of Khorasan newspaper on May 29, 2002. Arrest and detention The
+    circumstances of Mr. Malekpur s arrest and detention are not known. Trial
+    Branch Two of the Public Court of Mashhad tried Mr. Malekpur. No
+    information is available on his trial. Charges The charges brought against
+    Mr. Malekpur were announced as armed robbery, insecurity, and creating
+    fear and intimidation. The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that the Islamic Republic
+    authorities have brought trumped-up charges, including drug trafficking,
+    sexual, and other criminal offences, against their opponents (including
+    political, civil society activists, as well as unionists and ethnic and
+    religious minorities). Each year Iranian authorities sentence to death
+    hundreds of alleged common criminals, following judicial processes that
+    fail to meet international standards. The exact number of people convicted
+    and executed based on trumped-up charges is unknown. Evidence of guilt The
+    report of this execution did not provide any specific information on the
+    evidence presented against Mr. Malekpur. Defense No information is
+    available on Mr. Malekpur s defense. Judgment Branch Two of the Public
+    Court of Mashhad condemned Mr. Qorban Malekpur to death. Branch 22 of the
+    Supreme Court confirmed the ruling. He was hanged in Mashhad Central
+    Prison on May 28, 2002. No further information is available about this
+    execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/75515/qorban-malekpur"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

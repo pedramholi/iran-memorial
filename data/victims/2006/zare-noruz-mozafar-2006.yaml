@@ -1,0 +1,60 @@
+id: zare-noruz-mozafar-2006
+name_latin: "Noruz (Mozafar) Zare'"
+name_farsi: "نوروز (مظفر) زارع"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2006-01-29
+age_at_death: 40
+place_of_death: "Tafihan (Tayun) Village"
+province: "Fars"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Noruz (Mozafar) Zare was announced by the
+    websites of ISNA (January 29, 2006) and Khabar-e Jonub (January 30, 2006),
+    both citing the head of the provincial Ministry of Justice office of Fars
+    Province. Mr. Zare s case pertains to an armed robbery and murder in Fars
+    Province in 2003. Arrest and Detention Mr. Zare was arrested by the police
+    force of Gachsaran in 2003 and spent two years in prison (ISNA). However,
+    there is no information available on the details of his arrest and
+    detention. Trial Mr. Zare was tried by Branch Three of the Islamic
+    Revolutionary Court of Shiraz. However, there is no information available
+    on the details of the session or sessions of his trial. Charges The head
+    of the provincial Ministry of Justice Office of Fars Province stated the
+    charges that were brought against Mr. Zare as: armed robbery as well as
+    one count of abduction and murder of a Basij Force member (Khabar-e
+    Jonoub, January 30, 2006). The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that the Islamic Republic
+    authorities have brought trumped-up charges, including drug trafficking,
+    sexual, and other criminal offences, against their opponents (including
+    political, civil society activists, as well as unionists and ethnic and
+    religious minorities). Each year Iranian authorities sentence to death
+    hundreds of alleged common criminals, following judicial processes that
+    fail to meet international standards. The exact number of people convicted
+    and executed based on trumped-up charges is unknown. Evidence of Guilt
+    Twelve counts of armed robbery and one count of abduction were entered as
+    evidence of guilt against Mr. Zare (Khabar-e Jonoub, January 30, 2006).
+    Defense There is no information available on the details of Mr. Zare s
+    defense. Judgment Branch Three of the Islamic Revolutionary Court of
+    Shiraz designated Mr. Noruz (Mozafar) Zare as Mohareb (someone who takes
+    up arms against the holy state) and sentenced him to death. The verdict
+    was approved by the Supreme Court. Mr. Zare was publicly hanged on a crane
+    in the Tayun village of Shiraz on January 29, 2006.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/85140/noruz-mozafar-zare"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

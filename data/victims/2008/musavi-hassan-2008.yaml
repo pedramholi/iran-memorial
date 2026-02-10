@@ -1,0 +1,65 @@
+id: musavi-hassan-2008
+name_latin: "Hassan Musavi"
+name_farsi: "حسن موسوی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2008-04-22
+age_at_death: 22
+place_of_death: "Esfahan"
+province: "Esfahan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Hassan Musavi was published on the websites
+    of Esfahan General Courthouse, quoting the Public Relations Office of the
+    Esfahan Courthouse, Fars news agency, and Ebrat on April 22, 2008. He was
+    from Zarinshahr in Esfahan. His case was related to the murder of a
+    21-year-old man in the hills around the city in 2005. Arrest and detention
+    Mr. Musavi was arrested by the Intelligence Police shortly after the
+    incident in 2005. The victim s family went to the police after their son
+    was missing for a long time. Police questioned the witnesses and, after
+    recovering the body, arrested Mr. Musavi (Esfahan General Courthouse). He
+    was transferred to the prison with a warrant and detained for three years
+    (Ebrat website). The circumstances of his arrest and detention are not
+    known. Trial Branch 17 of the Criminal and Appeals Court of Esfahan tried
+    Mr. Musavi. A judge and four advisors were present during the trial (Ebrat
+    website). No information is available on his trial. Charges The charge
+    brought against Mr. Musavi was announced as murder. According to him, the
+    murder motive was an illegitimate relationship of the victim (Esfahan
+    General Courthouse). However, according to another report, he committed
+    the murder because he and the victim loved the same person. (Ebrat
+    website) The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. Evidence of guilt The evidence presented against Mr. Musavi
+    was his confession and the complaint by the victim s family (Esfahan
+    General Courthouse). The recovery of the murder weapon and the victim s
+    body were also considered evidence against him. (Ebrat website)
+    International human rights organizations have repeatedly condemned the
+    government of the Islamic Republic of Iran for its systematic use of
+    severe torture and solitary confinement to obtain confessions from
+    detainees and have questioned the authenticity of confessions obtained
+    under duress. Defense Mr. Musavi defended himself during the trial;
+    however, no information is available on his defense. During the
+    interrogation, he expressed regret. After the victim was injured, he
+    intended to help him but was unsuccessful because he had no means. After
+    he and his attorney objected to the court ruling, his case was referred to
+    Branch 27 of the Supreme Court. Judgment Branch 17 of the Criminal and
+    Appeals Court of Esfahan condemned Mr. Hassan Musavi to death on June 18,
+    2006. The Supreme Court and the Head of Judiciary confirmed the ruling. He
+    was hanged in Esfahan Central Prison on April 22, 2008.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7897/hassan-musavi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

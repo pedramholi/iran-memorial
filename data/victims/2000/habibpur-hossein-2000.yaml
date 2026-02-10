@@ -1,0 +1,45 @@
+id: habibpur-hossein-2000
+name_latin: "Hossein Habibpur"
+name_farsi: "حسین حبیب‌پور"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: "https://www.iranrights.org/actorphotos/73134_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 2000-05-10
+age_at_death: 23
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Hossein Habibpur, along with another person,
+    was published in the Hamshahri newspaper on May 12, 2000. Arrest and
+    Detention The circumstances of Mr. Habibpur s arrest and detention, and
+    whether he had an attorney, are not known. Trial According to the report,
+    Mr. Hossein Habibpur was tried at Branch 1602 of Tehran s Criminal Court.
+    No other information is available on his trial. Charges The charge against
+    Mr. Habibpur was announced as "murder. He had injured his friend with a
+    knife over a dispute and during a group fighting at a park. The victim
+    died on the way to the hospital. Evidence of Guilt According to the
+    newspaper report, the evidence against Mr. Habibpur was his own
+    confessions. International human rights organizations have repeatedly
+    condemned the government of the Islamic Republic of Iran for its
+    systematic use of severe torture and solitary confinement to obtain
+    confessions from detainees and have questioned the authenticity of
+    confessions obtained under duress. Defense No information is available on
+    Mr. Habibpur's defense. Judgment The court condemned Mr. Hossein Habibpur
+    to death, and he was hanged at the Qasr prison yard on May 11, 2000.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/73134/hossein-habibpur"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

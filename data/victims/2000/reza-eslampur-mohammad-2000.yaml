@@ -1,0 +1,54 @@
+id: reza-eslampur-mohammad-2000
+name_latin: "Eslampur Mohammad Reza"
+name_farsi: "محمدرضا اسلام‌پور"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2000-01-01
+age_at_death: 29
+place_of_death: "Lahijan"
+province: "Gilan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Mohammad Reza Eslampur was published on the
+    website of the Hamshahri newspaper on February 28, 2000. He was from
+    Lahijan and his case was related to the murder of a 23-year-old man.
+    According to the report, after he had an argument with the victim at a
+    birthday party, he stabbed him with a knife. Arrest and detention The
+    circumstances of Mr. Eslampur s arrest and detention are not known. Trial
+    Branch Four of the Public Court of Lahijan tried Mr. Eslampur. No
+    information is available on his trial. Charges According to the Head of
+    Lahijan Courthouse, the charge brought against Mr. Eslampur was announced
+    as murder. The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. International human rights organizations have drawn
+    attention to reports indicating that the Islamic Republic authorities have
+    brought trumped-up charges, including drug trafficking, sexual, and other
+    criminal offences, against their opponents (including political, civil
+    society activists, as well as unionists and ethnic and religious
+    minorities). Each year Iranian authorities sentence to death hundreds of
+    alleged common criminals, following judicial processes that fail to meet
+    international standards. The exact number of people convicted and executed
+    based on trumped-up charges is unknown. Evidence of guilt The report of
+    this execution did not provide any specific information on the evidence
+    presented against Mr. Eslampur. Defense No information is available on Mr.
+    Eslampur s defense. Judgment Branch Four of the Public Court of Lahijan
+    condemned Mr. Mohammad Reza Eslampur to death. The Supreme Judicial
+    Council confirmed the ruling. He was hanged at Malek-Ashtar Prison in
+    Lahijan. No more specific information is available about this execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/74831/eslampur-mohammad-reza"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

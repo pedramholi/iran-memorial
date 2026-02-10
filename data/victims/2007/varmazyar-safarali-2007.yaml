@@ -1,0 +1,65 @@
+id: varmazyar-safarali-2007
+name_latin: "Safar'ali Varmazyar"
+name_farsi: "صفرعلی ورمزیار"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2007-11-15
+age_at_death: null
+place_of_death: "Hamedan"
+province: "Hamedan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Safar ali Varmazyar, along with two others,
+    was published in the Jomhuri Eslami newspaper and on the website of
+    Khabar-e Jonub on November 18, 2007. Additional information was taken from
+    the website of the Committee of Human Rights Reporters on November 14 and
+    18, 2007, ISNA (Iranian Students News Agency) on November 14, 2007, Fars
+    news agency on July 20, 2006, and the Jomhuri Eslami newspaper on February
+    22, 2006. His case and the cases of three others were related to the
+    murder of three shepherds at the Zamanabad Village near Malayer on
+    November 5, 2005. Arrest and detention Mr. Varmazyar was arrested on
+    November 9, 2005. After a relative of the victims filed a complaint,
+    criminal police inspectors in Malayer and Hamadan investigated the case
+    and arrested nine members of a tribe. They arrested three more individuals
+    after the confession of one of the arrestees. (Khabar-e Jonub) Trial The
+    Criminal Court in Hamadan tried Mr. Varmazyar and the other defendants.
+    The first trial session took place on February 20, 2006 (Jomhuri Eslami
+    newspaper). No information is available on his trial. Charges The charges
+    brought against Mr. Varmazyar and another person were announced as
+    stewardship in murders. According to the existing information, he, his
+    uncle (grandfather), and his two other relatives had murdered three young
+    shepherds by blows of a knife at gardens around the Zamanabad Village over
+    tribal disputes. The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. Evidence of guilt The evidence presented against Mr.
+    Varmazyar was his confession and the confession of his collaborator, the
+    forensics report, and complaints by the victims families. International
+    human rights organizations have repeatedly condemned the government of the
+    Islamic Republic of Iran for its systematic use of severe torture and
+    solitary confinement to obtain confessions from detainees and have
+    questioned the authenticity of confessions obtained under duress. Defense
+    Mr. Varmazyar s attorney defended him during the trial. However, no
+    information is available on the content of his defense. Judgment The
+    Criminal Court of Hamadan condemned Mr. Safar ali Varmazyar to death.
+    Branch 16 of the Supreme Court confirmed the ruling and the Head of
+    Judiciary validate it on June 19, 2006. He was hanged, along with two
+    others, at the Hamadan Prison yard on November 15, 2007. The fourth
+    defendant was condemned to 5 years imprisonment for assisting the
+    murderers.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7924/safarali-varmazyar"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

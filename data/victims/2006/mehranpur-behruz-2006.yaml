@@ -1,0 +1,50 @@
+id: mehranpur-behruz-2006
+name_latin: "Behruz Mehranpur"
+name_farsi: "بهروز مهران‌پور"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2006-01-06
+age_at_death: 22
+place_of_death: "Bagh-e Melli Square"
+province: "Khuzestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    Behruz Mehranpur, executed for murder, was physically disabled, visually
+    impaired, and partially deaf. News of the execution of Mr. Behruz
+    Mehranpur was published by IRNA (Islamic Republic News Agency) on January
+    6, 2006 and the Iran newspaper on January 7, 2006. Mr. Mehranpur, 22, was
+    physically disabled, visually impaired, and partially deaf. His case was
+    related to the murder of a man and a woman during a robbery from his
+    relative s house. Arrest and detention The circumstances of Mr. Mehranpur
+    s arrest and detention are not known. Trial No information is available on
+    Mr. Mehranpur s trial. Charges The charges brought against Mr. Mehranpur
+    were announced as murdering his cousin and his uncle s wife during the
+    robbery from his relative s house when he was 18 years old. Evidence of
+    guilt The report of this execution does not contain information regarding
+    the evidence provided against Mr. Mehranpur. Defense No information is
+    available on Mr. Mehranpur s defense. Additionally, it is unknown if he
+    had access to an attorney. Judgment Mr. Behruz Mehranpur was condemned to
+    death in public. His disability was not considered in his trial. With the
+    support of some officials including the Friday Prayer Imam in Masjed-e
+    Soleiman, Mr. Mahranpur demanded pardon from the victims family
+    unsuccessfully. He was executed in public at the Central Square in
+    Masjed-e Soleiman on January 6, 2006 in the morning. No information is
+    available about his burial location. It is not known if his body was given
+    to his family.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7940/behruz-mehranpur"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

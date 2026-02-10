@@ -1,0 +1,55 @@
+id: q-gholamreza-2007
+name_latin: "Gholamreza Q."
+name_farsi: "غلامرضا ق."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2007-05-23
+age_at_death: null
+place_of_death: "Shiraz"
+province: "Fars"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the conviction and execution of Mr. Gholamreza Q. was published on
+    the websites of IRNA (Islamic Republic News Agency) on May 22, 23, 28,
+    ISNA (Iranian Students News Agency) on May 23, and the Khabar-e Jonub
+    newspaper on May 24, 2007. Arrest and Detention There is no specific
+    information on the defendant s arrest and detention. Trial The trial took
+    place in the Public and Revolutionary Court of Shiraz. No further
+    information is available about the defendant s trial. Charges The charges
+    against Mr. Gholamreza Q. were announced as, "Moharebeh (fighting) by
+    participation in several armed robberies, road blocking across the Fars
+    province, hostage taking, armed clashes with security forces, and creating
+    fear and intimidation among the people." The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that
+    Islamic Republic authorities have brought trumped-up charges against their
+    political opponents and executed them for alleged drug trafficking,
+    sexual, and other criminal offences. Each year Iranian authorities
+    sentence to death hundreds of alleged common criminals, following judicial
+    processes that fail to meet international standards. The exact number of
+    people convicted based on trumped-up charges is unknown. Evidence of Guilt
+    The report of this execution did not provide any specific information on
+    the evidence presented against the defendant. Defense In response to a
+    reporter before his execution, Mr. Gholamreza Q. took a Qoran from his
+    pocket and loudly said: I was a victim of ten others misconduct. I am a
+    victim . Judgment The court condemned Mr. Gholamreza Q. to death and the
+    ruling was confirmed by the Supreme Court. He was hanged in public at
+    Shahzadeh Qasem intersection in Shiraz on May 23, 2007.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7235/gholamreza-q"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

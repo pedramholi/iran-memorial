@@ -1,0 +1,63 @@
+id: h-said-2006
+name_latin: "Sa'id H."
+name_farsi: "سعید ح.‍"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2006-04-11
+age_at_death: null
+place_of_death: "Shahid Qandahari Sq."
+province: "Golestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Sa id H. was announced by the website of IRNA
+    (April 11, 2006) and Golshan daily (April 15, 2006), both citing the
+    Deputy Commander of the Police Force of Golestan Province in Social and
+    Educational Affairs. Mr. Sa id H. was from Gorgan, and his case pertains
+    to moharebeh (armed struggle against the holy state) and efsad-e fel arz
+    (sowing corruption on earth). Arrest and detention Mr. Sa id H. was armed
+    when arrested (Golshan daily). However, there is no information available
+    on the details of his arrest and detention. Trial Mr. Sa id H. was tried
+    by a court in Golestan Province. However, there is no information
+    available on the details of the session or sessions of his trial. Charges
+    Mr. Sa id H. was charged with moharebeh (armed struggle against the holy
+    state) and efsad-e fel arz (sowing corruption on earth). The validity of
+    the criminal charges brought against this defendant cannot be ascertained
+    in the absence of the basic guarantees of a fair trial. International
+    human rights organizations have drawn attention to reports indicating that
+    the Islamic Republic authorities have brought trumped-up charges,
+    including drug trafficking, sexual, and other criminal offences, against
+    their opponents (including political, civil society activists, as well as
+    unionists and ethnic and religious minorities). Each year Iranian
+    authorities sentence to death hundreds of alleged common criminals,
+    following judicial processes that fail to meet international standards.
+    The exact number of people convicted and executed based on trumped-up
+    charges is unknown. Evidence of guilt His confessions, complaints of the
+    plaintiffs, possession of firearms, explosives, a dagger, two teargas
+    sprays, and having a forged identity card were entered as evidence of
+    guilt against Mr. Sa id H. International human rights organizations have
+    repeatedly condemned the government of the Islamic Republic of Iran for
+    its systematic use of severe torture and solitary confinement to obtain
+    confessions from detainees and have questioned the authenticity of
+    confessions obtained under duress. Defense There is no information
+    available on the details of Mr. Sa id H. s defense. Judgment Mr. Sa id H.
+    was charged with moharebeh (armed struggle against the holy state) and
+    efsad-e fel arz (sowing corruption on earth) and sentenced to death. He
+    was publicly hanged in the Shahid Qandehari Square of the city of Gorgan,
+    on April 11, 2006.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/85164/said-h"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

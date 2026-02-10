@@ -1,0 +1,28 @@
+id: safari-abdolsamad-2007
+name_latin: "Abdolsamad Safari"
+name_farsi: "عبدالصمد صفری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2007-07-13
+age_at_death: 17
+place_of_death: "Mahabad"
+province: "Azarbaijan-e Gharbi"
+cause_of_death: "Arbitrary Execution » Blunt Force Weapon"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/86672/abdolsamad-safari"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

@@ -1,0 +1,57 @@
+id: hassanzehi-yusef-2006
+name_latin: "Yusef Hassanzehi"
+name_farsi: "یوسف حسن‌زهی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2006-01-01
+age_at_death: null
+place_of_death: "Zahedan"
+province: "Sistan va Baluchestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Yusef Hassanzehi, son of Lalmohammad, along
+    with another person, was published on the website of ISNA (Iranian
+    Students News Agency) on December 25, 2006 and in the Jomhuri Eslami
+    newspaper on December 28, 2006, quoting the Public Relations Office of the
+    Sistan va Baluchistan Courthouse. Arrest and detention The circumstances
+    of Mr. Hassanzehi s arrest and detention are not known. Trial Branch One
+    of the Islamic Revolutionary Court of Zahedan tried Mr. Hassanzehi. No
+    information is available on his trial. Charges The charges brought against
+    Mr. Hassanzehi were announced as participation in 11 armed kidnappings,
+    intimidation and public disturbance, and armed road blocking. (Public
+    Relations Office of the Sistan va Baluchistan Courthouse) The validity of
+    the criminal charges brought against this defendant cannot be ascertained
+    in the absence of the basic guarantees of a fair trial. International
+    human rights organizations have drawn attention to reports indicating that
+    the Islamic Republic authorities have brought trumped-up charges,
+    including drug trafficking, sexual, and other criminal offences, against
+    their opponents (including political, civil society activists, as well as
+    unionists and ethnic and religious minorities). Each year Iranian
+    authorities sentence to death hundreds of alleged common criminals,
+    following judicial processes that fail to meet international standards.
+    The exact number of people convicted and executed based on trumped-up
+    charges is unknown. Evidence of guilt The report of this execution did not
+    provide any specific information on the evidence presented against Mr.
+    Hassanzehi. Defense No information is available on Mr. Hassanzehi s
+    defense. Judgment Branch One of the Islamic Revolutionary Court of Zahedan
+    condemned Mr. Yusef Hassanzehi to death and the Supreme Court confirmed
+    the ruling. He was hanged, along with another person, in public at the
+    intersection of Janbazan and Behdasht Boulevards in Zahedan, in December
+    of 2006.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7727/yusef-hassanzehi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

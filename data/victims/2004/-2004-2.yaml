@@ -1,0 +1,48 @@
+id: -2004-2
+name_latin: null
+name_farsi: null
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2004-01-01
+age_at_death: null
+place_of_death: "Ahvaz"
+province: "Khuzestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The news of the execution of an unknown person was published on the
+    website of the Keyhan newspapers on May 26, 2004. Arrest and detention The
+    circumstances of this defendant’s arrest and detention are not known.
+    Trial No information is available on the defendant’s trial. Charges
+    According to the media report, the charge against the defendant was “drug
+    trafficker.” The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. International human rights organizations have drawn
+    attention to reports indicating that the Islamic Republic’s authorities
+    have brought trumped-up charges against their political opponents and then
+    executed them citing drug trafficking, sexual, and other criminal
+    offences. Each year, Iranian authorities sentence hundreds of alleged
+    common criminals to death, following judicial processes that fail to meet
+    international standards. The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against the defendant. Defense No information is available on the defense.
+    Judgment The court condemned this person to death and the Supreme Court
+    confirmed the ruling. He was hanged in public and the presence of some
+    officials in Ahvaz.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/39090/name-unknown"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

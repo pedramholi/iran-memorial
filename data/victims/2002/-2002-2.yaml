@@ -1,0 +1,30 @@
+id: -2002-2
+name_latin: null
+name_farsi: null
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2002-01-01
+age_at_death: null
+place_of_death: "Mashhad"
+province: "Khorasan-e Razavi"
+cause_of_death: "Fatal"
+circumstances: >
+    According to a Kayhan report, these 8 unknown persons were charged with
+    wickedness and propagating corruption.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/11001/name-unknown"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

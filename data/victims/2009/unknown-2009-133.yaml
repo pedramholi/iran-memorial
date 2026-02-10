@@ -1,0 +1,52 @@
+id: unknown-2009-133
+name_latin: "Unknown"
+name_farsi: "ناشناس"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2009-12-09
+age_at_death: null
+place_of_death: "Masjed Soleyman"
+province: "Khuzestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of an unknown person, along with three other people, was
+    reported by the Ministry of Justice of Khuzestan Province Website, on
+    December 13, 2009. According to available information, his case was
+    related to a murder. Arrest and detention The circumstances of this person
+    s arrest and detention are not known. Trial No information is available on
+    his trial. Charges The charge brought against this man was murder in the
+    first degree . There is no detailed information on the details of this
+    charge. The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. International human rights organizations have drawn
+    attention to reports indicating that the Islamic Republic authorities have
+    brought trumped-up charges, including drug trafficking, sexual, and other
+    criminal offences, against their opponents (including political, civil
+    society activists, as well as unionists and ethnic and religious
+    minorities). Each year Iranian authorities sentence to death hundreds of
+    alleged common criminals, following judicial processes that fail to meet
+    international standards. The exact number of people convicted and executed
+    based on trumped-up charges is unknown. Evidence of guilt The report of
+    this execution does not contain information regarding the evidence
+    providedagainst the defendant. Defense No information is available on this
+    person s defense. Judgment The court sentenced this man to death by
+    hanging (for retribution). He was executed on December 9, 2009, in public,
+    in Masjed Solayman. There is no information on the details of this
+    verdict.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/82042/unknown"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

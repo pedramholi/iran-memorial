@@ -1,0 +1,53 @@
+id: qasempur-monireh-2004
+name_latin: "Monireh Qasempur"
+name_farsi: "منیره قاسم پور"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2004-07-11
+age_at_death: 23
+place_of_death: "Qazvin"
+province: "Zanjan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The news of the execution of Ms. Monireh Qasempur was published on the
+    websites of the Sharq newspaper on August 9, and also the Iran newspaper
+    on July 13, 2004. Arrest and detention According to the Iran newspaper,
+    when the body of a 78-year-old man was discovered in his bathroom on
+    February 15, 2001, the police began investigating and suspected the
+    victim's daughter-in-law. They interrogated the 27-year-old woman. Trial
+    According to the Sharq newspaper, the defendant was tried in Primary
+    Court. Charges The charge against the defendant was given as "murdering
+    her Father-in-law." Evidence of guilt According to the Iran newspaper, the
+    defendant confessed to her crime. International human rights organizations
+    have repeatedly condemned the government of the Islamic Republic of Iran
+    for its systematic use of severe torture and solitary confinement to
+    obtain confessions from detainees and have questioned the authenticity of
+    confessions obtained under duress. In the case of political detainees,
+    these confessions are, at times, televised. The National Television
+    Station broadcasts confessions during which prisoners plead guilty to
+    vague and false charges, repent and renounce their political beliefs,
+    and/or implicate others. Human rights organizations have also pointed to
+    the pattern of retracted confessions by those prisoners who have been
+    freed. Defense In her defense, the defendant stated that her motivation
+    for committing the crime was her father-in law’s tormenting her and
+    interfering in her life. Judgment According to the Sharq newspaper, the
+    Primary Court condemned the defendant to death and the Supreme Court
+    confirmed the ruling. She was executed in Qazvin Central Prison on July
+    11, 2004.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4194/monireh-qasempur"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

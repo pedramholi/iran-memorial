@@ -1,0 +1,39 @@
+id: alijanzadeh-yaqub-2001
+name_latin: "Ya'qub Alijanzadeh"
+name_farsi: "یعقوب علیجان‌زاده"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2001-11-14
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the conviction and execution of Mr. Ya'qub Alijanzadeh, along with
+    two others, was published in the Iran newspaper on November 15, 2001.
+    Arrest and Detention There is no specific information on Mr. Alijanzadeh s
+    arrest and detention. Trial No information is available on Mr. Alijanzadeh
+    s trial. Charges The charge against Mr. Alijanzadeh was announced as
+    "murder." Evidence of Guilt The report of this execution did not provide
+    any specific information on the evidence presented against Mr.
+    Alijanzadeh. Defense No information is available on Mr. Alijanzadeh s
+    defense. Judgment According to the Iran newspaper, Mr. Ya'qub Alijanzadeh
+    was on death row for 16 years. He was hanged at the Qasr Prison yard on
+    November 14, 2001.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7951/yaqub-alijanzadeh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

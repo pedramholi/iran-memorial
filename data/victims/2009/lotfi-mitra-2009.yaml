@@ -1,0 +1,98 @@
+id: lotfi-mitra-2009
+name_latin: "Mitra Lotfi"
+name_farsi: "میترا لطفی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2009-06-20
+age_at_death: null
+place_of_death: "Bandar Abbas"
+province: "Hormozgan"
+cause_of_death: "Arbitrary Execution » Other arbitrary execution method"
+circumstances: >
+    Ms. Lotfi pursued her studies close to the Straits of Hormuz. She and
+    others from Bandar Abbas Azad University faced a security crackdown, which
+    led to a disappearance. News of the killing of Ms. Mitra Lotfi was
+    published by various media including websites of Payam on June 26, 2009,
+    and the Kordistan Democratic Party of Iran on June 22, 2009. According to
+    the Payam website, Ms. Lotfi was severely injured, as security forces
+    brutally attacked the students of Bandar Abbas Azad University, who
+    demonstrated against the presidential election results. She died. The
+    Kurdistan Democratic Party of Iran website confirmed that a female
+    student, who was beaten and disappeared in front of Bandar Abbas Azad
+    University, had died during the attack. According to this source, In order
+    to block the news and avoid the reaction of angry protesters, suppressive
+    agents and officials took the body of this victim and did not inform her
+    family about her death. Background Election returns from Iran s June 12th,
+    2009, presidential election declared Mahmoud Ahmadinejad re-elected with
+    62.63 percent of the vote. Following the announcement, citizens disputing
+    these official results demonstrated in the streets. Text messaging
+    services were disrupted starting at 11:00 p.m. on the night before the
+    election and remained unavailable for nearly three weeks, until July 1st.
+    On Election Day, the deputy chief of Iranian police announced a ban on any
+    gathering of presidential candidates supporters throughout the country.
+    The same evening, security forces made a show of strength, increasing
+    their presence in Tehran s public squares to reinforce security at polling
+    stations. Officials at election headquarters began reporting results soon
+    after midnight, despite a statement from the Minister of the Interior that
+    the first returns would not be announced until after the morning prayer
+    (around 4:00 a.m.). Many supporters of other presidential candidates came
+    out into the streets on June 13th, once the results were made public, to
+    protest what they believed to be a fraudulent election. Candidates Mir
+    Hossein Musavi, Mehdi Karubi, and Mohsen Reza i, Ahmadinejad s competitors
+    in the race, contested the election, alleging many instances of fraud.
+    They filed complaints with the Council of Guardians, the constitutional
+    body charged with vetting candidates before elections take place and
+    approving the results afterwards, requesting an annulment and calling for
+    a new election. Before the Council of Guardians could review their claims,
+    however, the Supreme Leader, Ayatollah Khamenei, congratulated Ahmadinejad
+    on his re-election. In the meantime, many people active in Karubi s and
+    Musavi s campaigns were arrested. On June 15th, unprecedented
+    demonstrations filled the streets of central Tehran, in which an estimated
+    three million protestors participated, according to statements attributed
+    to the mayor of Tehran. As the demonstrations were ending, paramilitary
+    forces attacked the marchers, injuring and killing several people. To
+    prevent such news from being broadcast, the Iranian government expelled
+    foreign journalists from the country and banned news agencies from
+    reporting on the events. Over the next three days, protesters took part in
+    peaceful demonstrations in Tehran. The repression entered a new phase on
+    June 19thafter Ayatollah Khamenei s Friday sermon, in which he announced
+    his support for Ahmadinejad and warned protestors that they were
+    responsible for any disorder and its consequences. Amnesty International
+    stated that the speech gave legitimacy to police brutality. The next day
+    and thereafter, police and plainclothes paramilitary groups attacked the
+    protesters. Public gatherings of any kind were declared illegal, and
+    police, motorcycle-riding special units wearing black uniforms and
+    helmets, and plainclothes agents brutally enforced this restriction.
+    Individuals in civilian clothing, commonly referred to as plainclothes
+    forces, are used in the Islamic Republic to disrupt political and trade
+    union activities, student events and gatherings, electoral initiatives,
+    and protests. Armed with sticks and clubs, and sometimes with chains,
+    knives, batons, or firearms, they emerge when the state decides to
+    suppress dissent. These plainclothes forces move about freely, violently
+    beating protesters and arresting them, while the police passively look on
+    or actively cooperate with them. There is little information on the
+    command structure and organization of such groups, whose members wear
+    ordinary clothing rather than official uniforms and may be affiliated with
+    the ministry of information, influential political groups, or the armed
+    forces. Following the post-election demonstrations in June 2009, pictures
+    of some plainclothes agents were posted on internet websites. Internet
+    users helped to identify some of them and provided evidence that these
+    individuals were affiliated with the Basij paramilitary groups, the
+    Revolutionary Guard Corps, and state intelligence forces
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/61682/mitra-lotfi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

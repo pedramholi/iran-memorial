@@ -1,0 +1,42 @@
+id: masumi-mehdi-2003
+name_latin: "Mehdi Ma'sumi"
+name_farsi: "مهدی معصومی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2003-01-02
+age_at_death: null
+place_of_death: "Bushehr"
+province: "Bushehr"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Mehdi Ma sumi was published in the Iran
+    newspaper on January 4, 2003. Arrest and detention According to the Iran
+    newspaper, Mr. Ma sumi was arrested several days after the incident. The
+    circumstances of his arrest and detention are not known. Trial No
+    information is available on Mr. Ma sumi s trial. Charges The charge
+    brought against Mr. Ma sumi was announced as murder. According to the
+    report, he had murdered a man with blows of a knife to steal his
+    motorcycle in August of 2001. The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. Evidence of guilt The report of this execution
+    did not provide any specific information on the evidence presented against
+    Mr. Ma sumi. Defense No information is available on Mr. Ma sumi s defense.
+    Judgment The court condemned Mr. Mehdi Ma sumi to death. He was hanged in
+    public in Kaki near Dashti in Bushehr province on January 2, 2003 at dawn.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/73742/mehdi-masumi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

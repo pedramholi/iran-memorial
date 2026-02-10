@@ -1,0 +1,57 @@
+id: unknown-2009-54
+name_latin: "Unknown"
+name_farsi: "ناشناس"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2009-01-04
+age_at_death: null
+place_of_death: "Bandar Abbas"
+province: "Hormozgan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The news of the execution of an unknown individual along with three others
+    was announced by the website of Irankhabar News Agency on January 5, 2009.
+    According to the available information, this unknown individual s case
+    pertains to a bank robbery in Bandar Abbas in 2006. Arrest and Detention
+    There is no information available on the details of this unknown
+    individual s arrest and detention. Trial There is no information available
+    on the session or sessions of his trial. Charges This unknown individual
+    and the other three defendants in this case were collectively charged with
+    robbing a bank in Bandar Abbas as well as sedition and rape. Their initial
+    charge was only bank robbery, but in the process of investigation sedition
+    and rape were also added to their charges. However, there is no
+    information available on the details of the specific charges brought
+    against this unknown individual. The validity of the criminal charges
+    brought against this defendant cannot be ascertained in the absence of the
+    basic guarantees of a fair trial. International human rights organizations
+    have drawn attention to reports indicating that the Islamic Republic
+    authorities have brought trumped-up charges, including drug trafficking,
+    sexual, and other criminal offences, against their opponents (including
+    political, civil society activists, as well as unionists and ethnic and
+    religious minorities). Each year Iranian authorities sentence to death
+    hundreds of alleged common criminals, following judicial processes that
+    fail to meet international standards. The exact number of people convicted
+    and executed based on trumped-up charges is unknown. Evidence of Guilt
+    There is no information available on the details of the evidence entered
+    against this unknown individual. Defense There is no information available
+    on the details of this unknown individual s defense. Judgment The court
+    sentenced this unknown individual to death. This unknown individual along
+    with three others was hanged in Bandar Abbas Central Prison on January 4,
+    2009.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8149/unknown"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

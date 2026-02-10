@@ -1,0 +1,83 @@
+id: ayubi-maryam-2001
+name_latin: "Maryam Ayubi"
+name_farsi: "مریم ایوبی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: "https://www.iranrights.org/actorphotos/842_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 2001-07-11
+age_at_death: 31
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Stoning"
+circumstances: >
+    Amid the judicial caprice of the times, Ms. Ayubi s painful death earned
+    the consideration and dismay of human rights defenders the world around.
+    The news of Ms. Maryan Ayubi s death by stoning was reported in an Amnesty
+    International urgent action dated July 11, 2001. Amnesty International is
+    outraged to learn that Maryam Ayoubi was stoned to death in Evin prison
+    this morning. This is the second stoning to have taken place in Iran in
+    the past two months. Ayubi s case was the subject of previous Amnesty
+    International urgent actions dated January 16 and 18, 2001. Amnesty also
+    quoted a January 18 article in the Tehran Times newspaper concerning the
+    urgent action on Ms. Ayubi: It [the article] stated that The West
+    intentionally wants to interfere in the internal matters of Iran, leveling
+    baseless charges. It also said: Such a move by Amnesty is nothing but open
+    interference in Iran s internal affairs . The execution was also announced
+    by the Nimrooz weekly paper on July 20, 2001, referring to the news story
+    of the Entekhab newspaper. Arrest and detention The exact circumstances of
+    this defendant s arrest and detention are not known. Trial No information
+    is available on the defendant s trial other than other than she was tried
+    at Branch 1602 of the Criminal Court. The proceedings occurred on several
+    court sessions. Charges Nimrooz quoted Entekhab newspaper and stated that
+    on December 3, 2000, Ms. Ayubi, invited the man she loved to her house and
+    they murdered her husband, Seyed Ziaoddin Tabataba i. Afterwards, she and
+    her co-defendant transferred the body to the deserts near Varamin (Tehran
+    province) and set it on fire. The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that the Islamic Republic s
+    authorities have brought trumped-up charges against their political
+    opponents and executed them for drug trafficking, sexual, and other
+    criminal offences. The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against the defendant. However, considering Article 103 of the Penal Code,
+    and the fact that AI stated that in case she managed to dig herself out of
+    the ditch she would not have been stoned, it appears that the evidence was
+    not based on testimony of witnesses. Defense No information is available
+    on Ms. Ayubi s defense. Judgment According to Nimrooz , the court
+    condemned her co-defendant to death on the charge of murder and Ms. Maryam
+    Ayubi was condemned to stoning on the charge of adultery. According to the
+    AI report, she had been sentenced to 15 years imprisonment followed by
+    stoning to death but subsequent news reports indicated that she was to be
+    stoned. After performing the religious ceremonies, she was taken to the
+    execution site inside Evin prison with a stretcher, and at the presence of
+    the religion judge, was stoned to death on July 11, 2001. Before Ms. Ayubi
+    s execution, Amnesty international had stressed that: stoning to death is
+    prescribed for certain offences, primarily adultery, under the Iranian
+    Penal Code. According to the Penal Code, men should be buried in a pit in
+    the ground up to their waists, and women buried up to their chests.
+    Individuals who manage to dig themselves out and escape from the pit
+    whilst the stoning is being carried out have their lives spared. Article
+    104 of the Penal Code states that: ...stones should not be too large so
+    that the person dies on being hit by one or two of them... and [this
+    punishment] is designed to cause grievous pain leading to eventual death.
+    In the unlikely event that she manages to dig herself free before she is
+    killed by the stones, Mrs. Ayubi will then start her fifteen-year
+    sentence.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4772/maryam-ayubi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

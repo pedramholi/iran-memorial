@@ -1,0 +1,45 @@
+id: h-hadi-2004
+name_latin: "Hadi H."
+name_farsi: "هادی ه."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2004-04-05
+age_at_death: null
+place_of_death: "Ahvaz"
+province: "Khuzestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Hadi H. was published in the Jomhuri Eslami
+    newspaper on April 6, 2004. According to the existing information, his
+    case was related to an armed attack on an aviculture facility in Ahvaz,
+    and murdering its owner. Arrest and detention The circumstances of Mr.
+    Hadi H. s arrest and detention are not known. Trial No information is
+    available on Mr. Hadi H. s trial. Charges The charges brought against Mr.
+    Hadi H. were announced as armed robbery and murder. He was charged with
+    entering an aviculture building at Kut abdollah Road in Ahvaz and
+    murdering its owner with a Kalashnikov because of his refusal to hand over
+    the key to the safe. The validity of the criminal charges brought against
+    this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. Evidence of guilt The report of this execution
+    did not provide any specific information on the evidence presented against
+    Mr. Hadi H. Defense No information is available on Mr. Hadi H. s defense.
+    Judgment A court condemned Mr. Hadi H. to death and the Supreme Court
+    confirmed the ruling. He was hanged in Karun Prison in Ahvaz on April 5,
+    2004 at 7 a.m.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/75940/hadi-h"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

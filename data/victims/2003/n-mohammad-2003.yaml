@@ -1,0 +1,67 @@
+id: n-mohammad-2003
+name_latin: "Mohammad N."
+name_farsi: "محمد ن."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2003-12-11
+age_at_death: null
+place_of_death: "Gorgan"
+province: "Mazandaran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    In a fair judicial system, is it possible to do justice for four
+    defendants in only 16 days? News of the execution of Mr. Mohammad (Mehdi)
+    N., along with three others, was published in the Jomhuri Eslami and
+    Kayhan newspapers on December 13, 2003. His case and the cases of four
+    others were related to the rape of a woman at her house in Gorgan on
+    November 26, 2003. According to the Public Relations Office of the
+    Golestan Security District, one of the five individuals in this group had
+    escaped. Arrest and detention Mr. Mohammad (Mehdi) N. and three other
+    defendants were arrested by police in Gorgan on November 27, 2003,
+    following a complaint filed by a young couple. He was detained for 16 days
+    (Jomhuri Eslami newspaper). The circumstances of his arrest and detention
+    are not known. Trial Branch 21 of the General Court of Gorgan tried Mr.
+    Mohammad (Mehdi) N. and three other defendants in the presence of a public
+    defender. No information is available on his trial. Charges The charge
+    brought against Mr. Mohammad (Mehdi) N. and three other defendants was
+    announced as rape. According to the existing information, on November 26,
+    2003, five individuals climbed the wall of a house, home to a young
+    couple. They forced their way in, threatening with a knife and an ax, tied
+    hands and feet of the husband, and kept him in the kitchen. Then they
+    raped the wife and escaped. The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. Evidence of guilt The evidence presented
+    against Mr. Mohammad (Mehdi) N. was a complaint by the young couple, his
+    confession, and the confession of his collaborators. (Kayhan newspaper)
+    International human rights organizations have repeatedly condemned the
+    government of the Islamic Republic of Iran for its systematic use of
+    severe torture and solitary confinement to obtain confessions from
+    detainees and have questioned the authenticity of confessions obtained
+    under duress. Defense Mr. Mohammad (Mehdi) N. was drunk at the time of the
+    committed crime. No information is available on his defense. However, in
+    only 16 days since he was arrested, interrogated, tried, appealed, and
+    ultimately executed. According to the Judicial Deputy of the Golestan
+    Courthouse, defendants expressed regret and asked for forgiveness before
+    being executed. (Kayhan newspaper) Judgment Branch 21 of the General Court
+    of Gorgan condemned Mr. Mohammad (Mehdi) N. to death, eight years
+    imprisonment, and 124 lashes. Branch Two of the Appellate Court of
+    Province and Branch 32 of the Supreme Court confirmed the ruling. He was
+    hanged, along with three others, in public at the Shahid Bahonar Square in
+    Gorgan on December 11, 2003.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7965/mohammad-n"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"
