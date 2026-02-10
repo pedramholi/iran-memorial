@@ -1,0 +1,56 @@
+id: q-y-2015
+name_latin: "Y. Q."
+name_farsi: "ی. ق."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2015-01-31
+age_at_death: 41
+place_of_death: "Rasht"
+province: "Gilan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Y. Q., son of Esma il, born in Gilan, along
+    with three others, was published on the website of Gilan Provincial
+    Courthouse, quoting the Public Relations Office of this courthouse on
+    January 31, 2015. Arrest and Detention There is no specific information on
+    Mr. Y. Q. s arrest and detention. Trial No information is available on Mr.
+    Y. Q. s trial. Charges The charges against Mr. Y. Q. were announced as
+    "having a multiple criminal record and transporting 5 kilograms and 750
+    grams of methamphetamine." The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that Islamic Republic authorities
+    have brought trumped-up charges against their political opponents and
+    executed them for alleged drug trafficking, sexual, and other criminal
+    offences. Thousands of alleged drug traffickers have been sentenced to
+    death following judicial processes that fail to meet international
+    standards. Scores of them were executed based on a 1989 law imposing
+    mandatory death sentences on drug traffickers found in possession of
+    specified amounts of proscribed narcotics (5 kg of hashish or opium, and
+    more than 30 grams of heroin, codeine or methadone). The exact number of
+    people convicted based on trumped-up charges is unknown. Evidence of Guilt
+    The report of this execution did not provide any specific information on
+    the evidence presented against Mr. Y. Q. Defense No information is
+    available on Mr. Y. Q.'s defense. Judgment A court in Rasht condemned Mr.
+    Y. Q. to death. The Supreme Court and the Head of the Judiciary confirmed
+    the ruling. Twice the Amnesty and Pardon Commission denied the defendant s
+    pardon request. The ruling was carried out in the presence of officials
+    when he was hanged in the Rasht Central Prison on January 31, 2015. His
+    body was transferred to the morgue to be given to his relatives.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/73819/y-q"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

@@ -1,0 +1,28 @@
+id: musavi-seyyed-ali-2011
+name_latin: "Seyyed Ali Musavi"
+name_farsi: "سید علی موسوی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2011-04-28
+age_at_death: null
+place_of_death: "Police Square"
+province: "Khuzestan"
+cause_of_death: "Execution » Hanging"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/79730/seyyed-ali-musavi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

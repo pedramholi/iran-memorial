@@ -1,0 +1,28 @@
+id: ahmadi-ali-reza-2012
+name_latin: "Ali Reza Ahmadi"
+name_farsi: "علیرضا احمدی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2012-01-05
+age_at_death: 48
+place_of_death: "Kermanshah"
+province: "Kermanshah"
+cause_of_death: "Execution » Hanging"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/76891/ali-reza-ahmadi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

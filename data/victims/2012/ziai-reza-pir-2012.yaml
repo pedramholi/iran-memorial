@@ -1,0 +1,28 @@
+id: ziai-reza-pir-2012
+name_latin: "Reza Pir Zia'i"
+name_farsi: "رضا پیر ضیائی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2012-03-13
+age_at_death: 39
+place_of_death: "Qazvin"
+province: "Zanjan"
+cause_of_death: "Execution » Hanging"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/76956/reza-pir-ziai"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

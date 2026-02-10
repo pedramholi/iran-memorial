@@ -1,0 +1,31 @@
+id: a-ali-2013
+name_latin: "Ali A."
+name_farsi: "علی ع."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2013-03-06
+age_at_death: null
+place_of_death: "Khorasan\\Khorasan-e Razavi Province"
+province: "Khorasan-e Razavi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    According to news published on Quchan Information Website, Mr. Ali A. and
+    Mr. Naser H. were charged with "drinking alcohol" and executed in Khorasan
+    Razavi Province.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8439/ali-a"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

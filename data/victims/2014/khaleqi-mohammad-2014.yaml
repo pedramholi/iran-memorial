@@ -1,0 +1,56 @@
+id: khaleqi-mohammad-2014
+name_latin: "Mohammad Khaleqi"
+name_farsi: "محمد خالقی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2014-02-18
+age_at_death: 33
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Mohammad Khaleqi, along with seven others,
+    was published on the websites of the Human Rights Activists for Democracy
+    in Iran and HRANA (Human Rights Activists News Agency) on February 18,
+    2014. According to this report, the official media in Iran did not report
+    these executions. Arrest and detention According to the websites of the
+    Human Rights Activists for Democracy in Iran, Mr. Khaleqi was detained at
+    the Hall 3, Unit 2 of the Qezelhesar Prison for 3 years. He was
+    transferred to solitary confinement one day before his execution. The
+    circumstances of his arrest and detention are not known. Trial No
+    information is available on Mr. Khaleqi s trial. Charges The charge
+    brought against Mr. Khaleqi was announced as drug trafficking. (HRANA) The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    International human rights organizations have drawn attention to reports
+    indicating that Islamic Republic authorities have brought trumped-up
+    charges against their political opponents and executed them for alleged
+    drug trafficking, sexual, and other criminal offences. Thousands of
+    alleged drug traffickers have been sentenced to death following judicial
+    processes that fail to meet international standards. Scores of them were
+    executed based on a 1989 law imposing mandatory death sentences on drug
+    traffickers found in possession of specified amounts of proscribed
+    narcotics (5 kg of hashish or opium, and more than 30 grams of heroin,
+    codeine or methadone). The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against Mr. Khaleqi. Defense No information is available on Mr. Khaleqi s
+    defense. Judgment Mr. Mohammad Khaleqi was hanged, along with seven other
+    individuals, at the Qezelhesar Prison yard in Karaj on February 18, 2014.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7684/mohammad-khaleqi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

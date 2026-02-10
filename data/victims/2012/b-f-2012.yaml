@@ -1,0 +1,60 @@
+id: b-f-2012
+name_latin: "F. B."
+name_farsi: "ف. ب."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2012-11-12
+age_at_death: null
+place_of_death: "Neyriz"
+province: "Fars"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The news of Mr. F. B. s execution along with eleven others was announced
+    on November 12, 2012 by the websites of the Fars Province Judiciary, IRNA
+    (the Islamic Republic news agency), and Fars News, all quoting the public
+    relations section of the Fars Province Judiciary. Mr. F. B. s case
+    concerns narcotics trafficking in Neyriz County in 2011. Arrest and
+    Detention Mr. F. B. was arrested in 2011 after drugs were discovered in
+    his car. However, there is no information available on the details of his
+    arrest and detention. Trial Mr. F. B. was tried by the Revolutionary Court
+    of Neyriz Township. However, there is no information available on the
+    session or sessions of his trial. Charges Mr. F. B. was charged with drug
+    trafficking. The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. International human rights organizations have drawn
+    attention to reports indicating that the Islamic Republic authorities have
+    brought trumped-up charges, including drug trafficking, sexual, and other
+    criminal offences, against their opponents (including political, civil
+    society activists, as well as unionists and ethnic and religious
+    minorities). Thousands of alleged drug traffickers have been sentenced to
+    death following judicial processes that fail to meet international
+    standards. Scores of them were executed based on a 1989 law imposing
+    mandatory death sentences on drug traffickers found in possession of
+    specified amounts of proscribed narcotics (5 kg of hashish or opium, and
+    more than 30 grams of heroin, codeine or methadone). The exact number of
+    people convicted based on trumped-up charges is unknown. Evidence of Guilt
+    Possession of five kilograms of opium as well as four kilograms and seven
+    hundred grams of heroin was entered as evidence against Mr. F. B. Neyriz.
+    Defense Mr. F. B. asked for pardon, but his appeal was rejected. There is
+    no information available on the details of his defense. Judgment The
+    Revolutionary Court of Neyriz County sentenced Mr. F. B. to execution as
+    well as fifteen years of imprisonment. The verdict was approved by the
+    Chief Public Prosecutor and the head of the Judiciary. Mr. F. B. was
+    hanged in public in Neyriz County on Monday, November 12, 2012.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8120/f-b"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

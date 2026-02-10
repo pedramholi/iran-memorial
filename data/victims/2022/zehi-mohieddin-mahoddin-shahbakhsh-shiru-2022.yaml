@@ -1,0 +1,28 @@
+id: zehi-mohieddin-mahoddin-shahbakhsh-shiru-2022
+name_latin: "Mohieddin (Mahoddin) Shahbakhsh (Shiru Zehi)"
+name_farsi: "محی الدین (ماه الدین) شه بخش (شیروزهی)"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam (Sunni)"
+photo: "https://www.iranrights.org/actorphotos/86838_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 2022-09-30
+age_at_death: 44
+place_of_death: "Zahedan"
+province: "Sistan va Baluchestan"
+cause_of_death: "Arbitrary Execution » Arbitrary shooting"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/86838/mohieddin-mahoddin-shahbakhsh-shiru-zehi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

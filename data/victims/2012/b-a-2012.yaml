@@ -1,0 +1,54 @@
+id: b-a-2012
+name_latin: "A. B."
+name_farsi: "ع ب"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2012-05-31
+age_at_death: 37
+place_of_death: "Gachsaran"
+province: "Kohgiluyeh va Boyer-Ahmad"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The news of Mr. A. B. s execution was announced by Asr-e Dena website on
+    May 31, 2012. Mr. A. B. was from a village in the Doshman Ziyari area, and
+    his case pertains to the wounding of a small girl and murder of two small
+    boys in 2010. Arrest and Detention Mr. A. B. hid himself in the Doshman
+    Ziyari mountains for a while after the incident. He later handed himself
+    over to the authorities. He was imprisoned in Yasuj Central Prison and
+    Gachsaran Prison for two years. Trial No information is available on Mr.
+    A. B. s trial. Charges Mr. A. B. was charged with "murder". He was accused
+    of killing two boys and wounding a girl by shooting at them with an AK-47
+    owing to a family feud. The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that the Islamic Republic
+    authorities have brought trumped-up charges, including drug trafficking,
+    sexual, and other criminal offences, against their opponents (including
+    political, civil society activists, as well as unionists and ethnic and
+    religious minorities). Each year Iranian authorities sentence to death
+    hundreds of alleged common criminals, following judicial processes that
+    fail to meet international standards. The exact number of people convicted
+    and executed based on trumped-up charges is unknown. Evidence of Guilt The
+    report of this execution does not contain information regarding the
+    evidence provided against Mr. A. B. Defense Mr. A. B. said he regretted
+    what he had done. There is no information available on his defense.
+    Judgement Mr. A. B. was sentenced to death. He was hanged under security
+    conditions in the courtyard of Gachsaran Prison on May 31, 2012. He was
+    buried in the Kalat Village of Kohkiluyeh.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8130/a-b"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

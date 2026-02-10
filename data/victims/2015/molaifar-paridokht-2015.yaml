@@ -1,0 +1,43 @@
+id: molaifar-paridokht-2015
+name_latin: "Paridokht Mola’ifar"
+name_farsi: "پریدخت مولایی‌فر"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2015-07-29
+age_at_death: 43
+place_of_death: "Karaj"
+province: "Alborz"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Ms. Paridokht Mola ifar, on July 29, 2015, was reported
+    by the Human Rights Activists for Democracy in Iran website. Ms. Mola ifar
+    was 43, and she had a child. Her case was related to crimes involving
+    illegal drugs. Arrest and detention Ms. Mola ifar was a prisoner in the
+    Counseling Section of Qarchak Prison in Varamin for three years. The
+    detailed circumstances of her arrest and detention are not known. Trial No
+    information is available on this defendant s trial. Charges The charge
+    brought against Ms. Mola ifar was storing illegal drugs . There is no
+    information on the details of this charge. Evidence of guilt The report of
+    this execution does not contain information regarding the evidence
+    providedagainst Ms. Mola ifar. Defense No information is available on Ms.
+    Mola ifar s defense. Judgment The court sentenced Ms. Paridokht Mola ifar
+    to death by hanging. The day before her execution, she was transferred to
+    solitary confinement in Qarchak Prison in Varamin. Ms. Mola ifar was
+    executed in Qezel Hesar Prison, in Karaj, on the morning of July 29, 2015.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8284/paridokht-mola-ifar"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

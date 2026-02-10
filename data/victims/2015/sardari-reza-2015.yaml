@@ -1,0 +1,43 @@
+id: sardari-reza-2015
+name_latin: "Reza Sardari"
+name_farsi: "رضا سرداری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2015-04-14
+age_at_death: null
+place_of_death: "Shiraz"
+province: "Fars"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Reza Sardari, along with his brother, was
+    published on the website of HRANA (Human Rights Activists News Agency) on
+    April 15, 2015. The official media in Iran did not report these
+    executions. Arrest and detention The circumstances of Mr. Sardari s arrest
+    and detention are not known. Trial No information is available on Mr.
+    Sardari s trial. Charges The charge brought against Mr. Sardari was
+    announced as murder. No information is available on the details of this
+    charge. The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. Evidence of guilt The report of this execution does not
+    contain information regarding the evidence provided against Mr. Sardari.
+    Defense No information is available on Mr. Sardari s defense. Judgment The
+    court condemned Mr. Reza Sardari to death. He was hanged, along with his
+    brother, in Adelabad Prison in Shiraz on April 13, 2015. There is no
+    information on the details of this execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/74330/reza-sardari"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

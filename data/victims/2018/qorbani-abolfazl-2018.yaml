@@ -1,0 +1,54 @@
+id: qorbani-abolfazl-2018
+name_latin: "Abolfazl Qorbani"
+name_farsi: "ابوالفضل قربانی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2018-01-04
+age_at_death: null
+place_of_death: "Karaj"
+province: "Alborz"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Abolfazl Qorbani was reported by Human Rights
+    Organization of Iran Website (January 4, 2018) and HRANA Website, Human
+    Rights Activists in Iran News Agency (January 5, 2018). This execution was
+    not reported by the official news agencies. Mr. Qorbani s case was related
+    to a murder in Varamin. Arrest and detention Mr. Qorbani had been in
+    prison for four years, starting in 2014. On Monday January 1, 2018, he was
+    transferred from Section 10 of Raja i Shahr Prison, Karaj, to solitary
+    confinement. However, the detailed circumstances of his arrest and
+    detention are not known. Trial No information is available on Mr. Qorbani
+    s trial. Charges The charge brought against Mr. Qorbani was murder in the
+    first degree . The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. International human rights organizations have drawn
+    attention to reports indicating that the Islamic Republic authorities have
+    brought trumped-up charges, including drug trafficking, sexual, and other
+    criminal offences, against their opponents (including political, civil
+    society activists, as well as unionists and ethnic and religious
+    minorities). Each year Iranian authorities sentence to death hundreds of
+    alleged common criminals, following judicial processes that fail to meet
+    international standards. The exact number of people convicted and executed
+    based on trumped-up charges is unknown. Evidence of guilt The report of
+    this execution does not contain information regarding the evidence
+    provided against the defendant. Defense No information is available on Mr.
+    Qorbani s defense. Judgment Mr. Abolfazl Qorbani was sentenced to death by
+    hanging. He was executed in Raja i Shahr Prison, on Wednesday January 4,
+    2018.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8291/abolfazl-qorbani"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

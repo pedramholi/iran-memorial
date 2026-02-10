@@ -1,0 +1,56 @@
+id: s-eshaq-2010
+name_latin: "Eshaq S."
+name_farsi: "اسحاق ص."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2010-07-05
+age_at_death: 25
+place_of_death: "Esfahan"
+province: "Esfahan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Eshaq S., along with three others, was
+    published on the websites of Esfahan Courthouse on July 5, Iscanews on
+    July 6, and Fars news agency on July 7, 2010, quoting the Public Relations
+    Office of the Esfahan Courthouse. Arrest and Detention There is no
+    specific information on the defendant’s arrest and detention. Trial No
+    information is available on the defendant’s trial. This trial took place
+    in Branch Two of the Islamic Revolutionary Court in Esfahan. Charges The
+    charges against Mr. Eshaq S. were announced as "possession of crack, white
+    heroin, and burned opium." The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that Islamic Republic authorities
+    have brought trumped-up charges against their political opponents and
+    executed them for alleged drug trafficking, sexual, and other criminal
+    offences. Thousands of alleged drug traffickers have been sentenced to
+    death following judicial processes that fail to meet international
+    standards. Scores of them were executed based on a 1989 law imposing
+    mandatory death sentences on drug traffickers found in possession of
+    specified amounts of proscribed narcotics (5 kg of hashish or opium, and
+    more than 30 grams of heroin, codeine or methadone). The exact number of
+    people convicted based on trumped-up charges is unknown. Evidence of Guilt
+    The evidence presented against the defendant was announced as “possession
+    of one kilogram and 325 grams of crack, 197 grams of heroin, and 250 grams
+    of burned opium.” Defence No information is available on the defendant's
+    defence. Judgment The court condemned Mr. Eshaq S. to death and the ruling
+    was confirmed by the General Public Prosecutor. After the defendant’s
+    requests for pardon were denied twice, he was hanged in the Esfahan
+    Central prison yard on July 5, 2010. Mr. Eshaq S. was 25 years old.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/64695/eshaq-s"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

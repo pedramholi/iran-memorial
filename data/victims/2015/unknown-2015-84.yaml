@@ -1,0 +1,59 @@
+id: unknown-2015-84
+name_latin: "Unknown"
+name_farsi: "ناشناس"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2015-03-04
+age_at_death: null
+place_of_death: "Karaj"
+province: "Alborz"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of an unknown individual along with 14 others was
+    announced by the website of HRANA on March 3, 2015. The case of this
+    defendant pertains to crimes connected to illegal drugs. Arrest and
+    detention This unknown individual served a term in Ghezel Hesar Prison and
+    Karaj Central Penitentiary. He/she met with his/her family on the day
+    before the execution and then was moved to solitary confinement. However,
+    there is no further information available on the details of this unknown
+    individual s arrest and detention. Trial There is no information available
+    on the details of the session or sessions of this unknown individual s
+    trial. Charges The charge of this defendant, along with 14 others,
+    pertains to crimes connected to illegal drugs. However, there is no
+    information available on the details of his charge. The validity of the
+    criminal charges brought against this defendant cannot be ascertained in
+    the absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic authorities have brought trumped-up charges, including
+    drug trafficking, sexual, and other criminal offences, against their
+    opponents (including political, civil society activists, as well as
+    unionists and ethnic and religious minorities). Thousands of alleged drug
+    traffickers have been sentenced to death following judicial processes that
+    fail to meet international standards. Scores of them were executed based
+    on a 1989 law imposing mandatory death sentences on drug traffickers found
+    in possession of specified amounts of proscribed narcotics (5 kg of
+    hashish or opium, and more than 30 grams of heroin, codeine or methadone).
+    The exact number of people convicted based on trumped-up charges is
+    unknown. Evidence of guilt There is no information available on the
+    details of the evidence of guilt entered against this unknown individual.
+    Defense There is no information available on the details of this unknown
+    individual s defense. Judgment This unknown individual was hanged along
+    with 14 others in the courtyard of Karaj s Ghezel Hesar Prison on the
+    morning of March 3, 2015.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8213/unknown"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

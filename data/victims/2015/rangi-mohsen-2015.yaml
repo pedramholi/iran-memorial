@@ -1,0 +1,41 @@
+id: rangi-mohsen-2015
+name_latin: "Mohsen Rangi"
+name_farsi: "محسن رنگی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2015-03-07
+age_at_death: 28
+place_of_death: "Karaj"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Mohsen Rangi, along with 11 others, was
+    published on the website of Human Rights and Democracy Activists in Iran
+    on March 7, 2015. Only eight names were published in this report. News of
+    this execution was not published in the official media. According to the
+    report, Mr. Rangi, 28, was single. Arrest and detention Mr. Rangi was
+    detained at Hallway 2, Unit Two of Qezelhesar Prison in Karaj for 22
+    months. The circumstances of his arrest and detention are not known. Trial
+    No information is available on Mr. Rangi s trial. Charges No information
+    is available on Mr. Rangi s charges. Evidence of guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against Mr. Rangi. Defense No information is available on Mr. Rangi s
+    defense. Judgment Mr. Mohsen Rangi was hanged at the Qezelhesar Prison
+    yard in Karaj on March 7, 2015.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/73415/mohsen-rangi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

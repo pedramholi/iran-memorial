@@ -1,0 +1,42 @@
+id: unknown-2015-185
+name_latin: "Unknown"
+name_farsi: "ناشناس"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2015-05-03
+age_at_death: null
+place_of_death: "Karaj"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of an unknown man, along with 19 others, was
+    published on the website of the Human Rights Activists for Democracy in
+    Iran on May 5, 2015. Only the names of two individuals were published.
+    According to this report, these 20 prisoners were from Halls 1 through 5
+    of the Karaj Central Prison. Prison authorities limited the connections
+    between Halls in order to prevent the news from getting out. Arrest and
+    detention The circumstances of the defendant s arrest and detention are
+    not known. Trial No information is available on this defendant s trial.
+    Charges No information is available on the defendant s charges. Evidence
+    of guilt The report of this execution did not provide any specific
+    information on the evidence presented against the defendant. Defense No
+    information is available on the defendant s defense. Judgment This
+    defendant was hanged, along with 19 others, at the Karaj Central Prison on
+    Sunday May 3, 2015.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/73959/unknown"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

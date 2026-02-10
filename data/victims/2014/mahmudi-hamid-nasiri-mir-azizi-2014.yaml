@@ -1,0 +1,28 @@
+id: mahmudi-hamid-nasiri-mir-azizi-2014
+name_latin: "Hamid Nasiri Mir Azizi (Mahmudi)"
+name_farsi: "حمید نصیری میر عزیزی (محمودی)"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2014-08-07
+age_at_death: null
+place_of_death: "Azadi Square"
+province: "Kermanshah"
+cause_of_death: "Execution » Hanging"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/79499/hamid-nasiri-mir-azizi-mahmudi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

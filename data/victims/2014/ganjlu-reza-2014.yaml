@@ -1,0 +1,48 @@
+id: ganjlu-reza-2014
+name_latin: "Reza Ganjlu"
+name_farsi: "رضا گنج‌لو"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2014-02-26
+age_at_death: 20
+place_of_death: "Karaj"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Reza Ganjlu, along with five others, was
+    published on the website of Human Rights and Democracy Activists in Iran
+    on March 4, 2014. According to this report, official sources did not
+    report the names of the other five defendants and all these executions
+    took place secretly. International laws have strictly prohibited capital
+    punishment against those who were under the age of 18 at the time of
+    committing the crime. As a party to the Covenant on Civil and Political
+    Rights and the Convention on the Rights of the Child, Iran has the
+    obligation to avoid capital punishment for an offence committed before the
+    age of eighteen. Arrest and detention Mr. Ganjlu was under 16 years old
+    when arrested in 2009. He was detained in Section Five, known as the Youth
+    Section, of the Gohardasht Prison in Karaj for four years. He was
+    transferred to solitary confinement on February 25, 2014. The
+    circumstances of his arrest and detention are not known. Trial No
+    information is available on Mr. Ganjlu s trial. Charges The charge brought
+    against Mr. Ganjlu is not known. Evidence of guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against Mr. Ganjlu. Defense No information is available on Mr. Ganjlu s
+    defense. Judgment Mr. Reza Ganjlu was hanged, along with five others, in
+    Gohardasht Prison in Karaj on February 26, 2014.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/74254/reza-ganjlu"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

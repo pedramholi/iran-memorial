@@ -1,0 +1,60 @@
+id: f-m-2016
+name_latin: "M. F."
+name_farsi: "م. ف."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2016-01-16
+age_at_death: 35
+place_of_death: "Rasht"
+province: "Gilan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. M. F., son of Sharif Ali, along with three
+    other individuals* was announced by the website of the provincial Ministry
+    of Justice office of Gilan Province (January 16, 2016) citing the Public
+    Relations section of the provincial Ministry of Justice office of Gilan
+    Province. Mr. M.F. s case pertains to trafficking illegal drugs. Arrest
+    and detention There is no information available on the details of Mr. M.
+    F. s arrest and detention. Trial Mr. M. F. was tried in the presence of
+    his defense lawyer by the Islamic Revolutionary Court of Gilan Province.
+    However, there is no information available on the details of the session
+    or sessions of his trial. Charges Mr. M. F. was charged with trafficking
+    narcotics. The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. International human rights organizations have drawn
+    attention to reports indicating that the Islamic Republic authorities have
+    brought trumped-up charges, including drug trafficking, sexual, and other
+    criminal offences, against their opponents (including political, civil
+    society activists, as well as unionists and ethnic and religious
+    minorities). Thousands of alleged drug traffickers have been sentenced to
+    death following judicial processes that fail to meet international
+    standards. Scores of them were executed based on a 1989 law imposing
+    mandatory death sentences on drug traffickers found in possession of
+    specified amounts of proscribed narcotics (5 kg of hashish or opium, and
+    more than 30 grams of heroin, codeine or methadone). The exact number of
+    people convicted based on trumped-up charges is unknown. Evidence of guilt
+    Possessing 741 grams of crack was entered as evidence of guilt against Mr.
+    M. F. Defense There is no information available on the details of Mr. M.
+    F. s defense. Judgment The Islamic Revolutionary Court of Gilan Province
+    sentenced Mr. M. F. to death. The verdict was validated by the Chief
+    Public Prosecutor as well as the head of the Judiciary. Mr. M. F. was
+    hanged, along with three other individuals, in Rasht Central Prison on
+    January 16, 2016. -------------------------------------- * H.R. , S.Q. ,
+    and A.A.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8246/m-f"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

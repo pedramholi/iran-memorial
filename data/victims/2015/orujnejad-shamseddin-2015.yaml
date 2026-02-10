@@ -1,0 +1,53 @@
+id: orujnejad-shamseddin-2015
+name_latin: "Shamseddin Orujnejad"
+name_farsi: "شمس‌الدین اروج‌‌نژاد"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2015-12-16
+age_at_death: null
+place_of_death: "Tabriz"
+province: "Azarbaijan-e Sharqi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Shamseddin Orujnejad, on December 16, 2015, was
+    reported by Kurdistan Human Rights Network website. Mr. Orujnejad was a
+    resident of Julfa, in Eastern Azarbayjan. His case was related to murder.
+    Arrest and detention Mr. Orujnejad spent three years in Tabriz Central
+    Prison. The circumstances of Mr. Orujnejad s arrest and detention are not
+    known. Trial No information is available on this defendant s trial.
+    Charges The charge brought against Mr. Orujnejad was murder in the first
+    degree . There is no information available on the details of the charges.
+    The validity of the criminal charges brought against this defendant cannot
+    be ascertained in the absence of the basic guarantees of a fair trial.
+    International human rights organizations have drawn attention to reports
+    indicating that the Islamic Republic authorities have brought trumped-up
+    charges, including drug trafficking, sexual, and other criminal offences,
+    against their opponents (including political, civil society activists, as
+    well as unionists and ethnic and religious minorities). Each year Iranian
+    authorities sentence to death hundreds of alleged common criminals,
+    following judicial processes that fail to meet international standards.
+    The exact number of people convicted and executed based on trumped-up
+    charges is unknown. Evidence of guilt The report of this execution does
+    not contain information regarding the evidence providedagainst the
+    defendant. Defense No information is available on Mr. Orujnejad s defense.
+    Judgment Mr. Shamseddin Orujnejad was sentenced to death by hanging
+    (retaliation for taking a life). He was executed on Wednesday, December
+    16, 2015, in the Tabriz Central Prison. There is no detailed information
+    on the verdict leading to this execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8266/shamseddin-orujnejad"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

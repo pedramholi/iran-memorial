@@ -1,0 +1,61 @@
+id: sarebani-alireza-2016
+name_latin: "Alireza Sarebani"
+name_farsi: "علیرضا ساربانی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2016-04-19
+age_at_death: null
+place_of_death: "Orumieh"
+province: "Azarbaijan-e Gharbi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Alireza Sarebani, along with three other people*, on
+    April 19, 2016, was reported by HRANA News Service. Mr. Sarebani was a
+    native of Orumieh. His case had to do with illegal drugs. Arrest and
+    detention The circumstances of Mr. Sarebani s arrest and detention are not
+    known. Mr. Sarebani spent five years in prison. Trial No information is
+    available on Mr. Sarebani s trial. Charges According to available
+    information, the charge brought against Mr. Sarebani had to do with
+    illegal drugs. However, there is no information on the exact charges
+    brought against him. The validity of the criminal charges brought against
+    this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that the Islamic Republic
+    authorities have brought trumped-up charges, including drug trafficking,
+    sexual, and other criminal offences, against their opponents (including
+    political, civil society activists, as well as unionists and ethnic and
+    religious minorities). Thousands of alleged drug traffickers have been
+    sentenced to death following judicial processes that fail to meet
+    international standards. Scores of them were executed based on a 1989 law
+    imposing mandatory death sentences on drug traffickers found in possession
+    of specified amounts of prescribed narcotics (5 kg of hashish or opium,
+    and more than 30 grams of heroin, codeine or methadone). The exact number
+    of people convicted based on trumped-up charges is unknown. Evidence of
+    guilt The report of this execution does not contain information regarding
+    the evidence provided against the defendant. International human rights
+    organizations have repeatedly condemned the government of the Islamic
+    Republic of Iran for its systematic use of severe torture and solitary
+    confinement to obtain confessions from detainees and have questioned the
+    authenticity of confessions obtained under duress . Defense No information
+    is available on Mr. Sarebani s defense. Judgment The court sentenced Mr.
+    Sarebani to death by hanging. Mr. Sarebani and three other defendants were
+    executed in Orumieh Prison, on Tuesday, April 19, 2016.
+    ------------------------------ *Messers Ahmad Nami, Manuchehr Razani, and
+    Abdolhamid Moradi
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8636/alireza-sarebani"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

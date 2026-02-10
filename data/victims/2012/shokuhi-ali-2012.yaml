@@ -1,0 +1,55 @@
+id: shokuhi-ali-2012
+name_latin: "Ali Shokuhi"
+name_farsi: "علی شکوهی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2012-04-23
+age_at_death: 26
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    New of execution of Mr. Ali Shokuhi was published on the weblog of Human
+    Rights Activists for Democracy in Iran on April 23, 2012. Mr. Shokuhi was
+    26 years old and his case was related to drug offenses. Arrest and
+    detention There is no information on the arrest of Mr. Shokuhi, but he was
+    in Qezelhesar Prison for almost a year. Trial No information is available
+    on Mr. Shokhui s trial. Charges Mr. Shokuhi was charged with possession of
+    25 grams of crystal . The validity of the criminal charges brought against
+    this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that the Islamic Republic
+    authorities have brought trumped-up charges, including drug trafficking,
+    sexual, and other criminal offences, against their opponents (including
+    political, civil society activists, as well as unionists and ethnic and
+    religious minorities). Thousands of alleged drug traffickers have been
+    sentenced to death following judicial processes that fail to meet
+    international standards. Scores of them were executed based on a 1989 law
+    imposing mandatory death sentences on drug traffickers found in possession
+    of specified amounts of prescribed narcotics (5 kg of hashish or opium,
+    and more than 30 grams of heroin, codeine or methadone). The exact number
+    of people convicted based on trumped-up charges is unknown. Evidence of
+    guilt The report of this execution does not contain information regarding
+    the evidence provided against the defendant. Defense No information is
+    available on Mr. Shokuhi s defense. Judgment There is no information on
+    the verdict leading to this execution. Mr. Ali Shokuhi was hanged in Evin
+    Prison in the morning of Monday, April 23, 2012. He was taken from
+    Qezelhesar Prison to a solitary confinement in Evin Prison a day prior to
+    his execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8433/ali-shokuhi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

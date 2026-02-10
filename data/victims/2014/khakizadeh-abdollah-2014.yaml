@@ -1,0 +1,28 @@
+id: khakizadeh-abdollah-2014
+name_latin: "Abdollah Khakizadeh"
+name_farsi: "عبدالله خاکی‌زاده"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2014-11-09
+age_at_death: 22
+place_of_death: "Khatamolanbia Hospital"
+province: "Hormozgan"
+cause_of_death: "Extrajudicial Execution » Extrajudicial shooting"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/84752/abdollah-khakizadeh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

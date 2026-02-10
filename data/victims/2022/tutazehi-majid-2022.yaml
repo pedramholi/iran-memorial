@@ -1,0 +1,28 @@
+id: tutazehi-majid-2022
+name_latin: "Majid Tutazehi"
+name_farsi: "مجید توتازهی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam (Sunni)"
+photo: "https://www.iranrights.org/actorphotos/86851_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 2022-01-01
+age_at_death: null
+place_of_death: "Sistan Va Baluchestan Province"
+province: "Sistan va Baluchestan"
+cause_of_death: "Arbitrary Execution » Arbitrary shooting"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/86851/majid-tutazehi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

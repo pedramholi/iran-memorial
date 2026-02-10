@@ -1,0 +1,41 @@
+id: unknown-2016
+name_latin: "Unknown"
+name_farsi: "ناشناس"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2016-01-04
+age_at_death: 50
+place_of_death: "Nowshahr"
+province: "Mazandaran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of an unknown person, on January 4, 2016, was reported by
+    Noshahr Online and Balagh Websites. This case has to do with the murder of
+    one of his relatives in Noshahr, in 2010. Arrest and detention The
+    circumstances of this defendant s arrest and detention are not known.
+    Trial No information is available on this defendant s trial. Charges The
+    charge brought against this unknown person is murder in the first degree .
+    Evidence of guilt The report of this execution does not contain
+    information regarding the evidence provided against the defendant. Defense
+    No information is available on this person s defense. Judgment The court
+    sentenced this defendant to death by hanging (retribution for taking a
+    life). The Supreme Court approved this sentence. This unknown person was
+    executed on January 4, 2016, in the Noshahr Prison. Court officials,
+    police, Medical Examiner and the family of the victim were in attendance.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8312/unknown"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

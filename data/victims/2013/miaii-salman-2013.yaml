@@ -1,0 +1,98 @@
+id: miaii-salman-2013
+name_latin: "Salman Miaii"
+name_farsi: "سلمان میایی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam (Sunni)"
+photo: "https://www.iranrights.org/actorphotos/75259_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 2013-10-26
+age_at_death: 26
+place_of_death: "Zahedan"
+province: "Sistan va Baluchestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Salman Miaii was reported by a number of
+    sources including the Prosecutor General of Sistan Va Baluchestan (October
+    27, 2013,) Kurdpa (October 29, 2013,) the Baluch Activists Campaign
+    (October 30, 2013,) and HRANA (October 28, 2013.) Further information on
+    the case was obtained from an interview conducted by the Abdorrahman
+    Boroumand Foundation with a relative of Mr. Miaii (ABF interview) and
+    other sources.* Mr. Miaii was a young Baluch and native of Chabahar in
+    Iran s Sistan Va Baluchestan province. He was married and the father of
+    two young children. He was a seminarian studying hadith in his final year
+    at the Sunni Harmin and Sharfin madrasah in Chabahar; apart from these
+    scholarly activities he also served as the Imam at a local mosque.
+    According to a source close to Mr. Miaii, he was a pious person of calm
+    demeanor and held no extremist sectarian views. He was no affiliated with
+    any political group (ABF interview.) Background Following an armed attack
+    by Jaish ul-Adl* on a border station in Saravan, Sistan Va Baluchestan
+    (Friday night, October 25, 2013), as a result of which at least 14 border
+    guards were killed and seven injured, the Ministry of Justice of the
+    province reported the execution of 16 prisoners on Saturday, October 26.
+    The Public and Revolutionary Prosecutor of Zahedan referred to the
+    execution of the 16 villains connected to enemy groups as retaliation.
+    According to the Chief Justice of Sistan Va Baluchestan, the execution of
+    these convicts had been postponed out of Islamic compassion but due to
+    Jaish ul-Adl s assault on provincial border guards and insistence on
+    cowardly terrorist attacks, the sentences were at last carried out (Asr-e
+    Hamoon, Fars News Agency.) The convicts had been arrested during the
+    preceding few years and were not connected to Jaish ul-Adl s armed attack,
+    which took place only a few hours before their execution. They faced
+    various charges across different cases: according to provincial judicial
+    authorities, eight of them had been accused of drug offenses (Ministry of
+    Justice of Sistan Va Baluchestan.) Human rights organizations and
+    activists called this mass summary execution a reprisal and protested
+    against the execution of the prisoners who were not directly connected to
+    the armed attack. Ahmed Shaheed, United Nations Special rapporteur on the
+    Human Rights situation in Iran, called the execution of these people a
+    type of retaliation in-kind and an illegal act according to international
+    human rights laws. Shirin Ebadi, lawyer and Nobel Peace Prize Laureate,
+    and Sarah Leah Whitson, Human Rights Watch expert, also considered the
+    execution of the 16 prisoners in retaliation for the border guards killing
+    as a violation of legal norms and an indicator of the lack of independence
+    of Iran s judiciary. Both experts condemned the executions. Amnesty
+    International, Human Rights Watch, human rights activists, and the
+    International Federation for Human Rights also issued statements
+    protesting the reprisal. Arrest and detention According to comments made
+    by a source close to Mr. Miaii, he was taken into custody by agents of the
+    Intelligence Ministry while returning home from school in mid-winter 2010
+    in the course of mass arrests made following the Taso ah bombings of
+    December 15 (ABF interview.) He was freed a week after the initial arrest;
+    three days later, however, he was again taken into custody, where he would
+    spend four months in solitary confinement in an Intelligence detention
+    facility under physical and mental torture. Here he was deprived of the
+    right to contact his family and lawyer. After being transferred to Zahedan
+    prison he was granted permission for a 20-minute in-person meeting before
+    prison officials with his mother, father, and wife (ABF interview.) In
+    October-November 2012, following inmate protests against degrading
+    treatment from prison staff which ended with the violent intervention of
+    the special guard, Mr. Miaii was relocated to Khorramabad prison. Owing to
+    the distance and difficulty of travel, it became practically impossible
+    for the family to visit their child: their requests to have Mr. Miaii
+    transferred a closer facility were denied by authorities in the case
+    (Baluch Activists Campaign.) Trial Branch 1 of the Islamic Revolutionary
+    Court of Zahedan sentenced Mr. Miaii in a closed session. No precise
+    information is available on trial sessions. Charges The court found Mr.
+    Miaii guilty of membership and collaboration with the Jundullah
+    organization (ABF interview.) A statement from the Sistan Va Baluchestan
+    Prosecutor General details the charges brought against Mr. Miaii and seven
+    other codefendants as moharebeh ( war against God, ) corruption on earth
+    through collaboration with and membership in Jundullah, and effective
+    participation in terrorist incidents in the province in recent years
+    (October 27, 2013.) The validity of the criminal charges brought against
+    this defendant cannot be ascertained in the absence of the basic
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7864/salman-miaii"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

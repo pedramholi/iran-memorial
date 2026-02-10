@@ -1,0 +1,56 @@
+id: hajilu-said-2015
+name_latin: "Sa'id Hajilu"
+name_farsi: "سعید حاجیلو"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2015-03-04
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Sa id Hajilu, along with 20 others, was
+    published on the website of HRANA (Human Rights Activists News Agency) on
+    March 4 and 5, 2015. Only six names were published in this report. News of
+    this execution was not published in the official media. Arrest and
+    detention According to the existing information, Mr. Hajilu had probably
+    been detained at the Greater Tehran Detention Center before being
+    transferred to solitary confinement in Qezelhesar Prison on March 3, 2015.
+    According to HRANA, he had his last visitation with his family at the
+    Qezelhesar Prison. The circumstances of his arrest and detention are not
+    known. Trial No information is available on Mr. Hajilu s trial. Charges
+    According to HRANA, the charges against Mr. Hajilu were announced as
+    crimes related to narcotics. The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that Islamic Republic authorities
+    have brought trumped-up charges against their political opponents and
+    executed them for alleged drug trafficking, sexual, and other criminal
+    offences. Thousands of alleged drug traffickers have been sentenced to
+    death following judicial processes that fail to meet international
+    standards. Scores of them were executed based on a 1989 law imposing
+    mandatory death sentences on drug traffickers found in possession of
+    specified amounts of proscribed narcotics (5 kg of hashish or opium, and
+    more than 30 grams of heroin, codeine or methadone). The exact number of
+    people convicted based on trumped-up charges is unknown. Evidence of guilt
+    The report of this execution does not contain information regarding the
+    evidence provided against Mr. Hajilu. Defense No information is available
+    on Mr. Hajilu s defense. Judgment Mr. Sa id Hajilu was hanged at the
+    Qezelhesar Prison yard in Karaj on Wednesday March 4, 2015 at dawn.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/73439/said-hajilu"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

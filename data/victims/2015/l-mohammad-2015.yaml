@@ -1,0 +1,58 @@
+id: l-mohammad-2015
+name_latin: "Mohammad L."
+name_farsi: "محمد ل."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2015-04-12
+age_at_death: null
+place_of_death: "Arak"
+province: "Markazi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Mohammad L. along with three other* was
+    announced by the website of the provincial Ministry of Justice Office of
+    Markazi Province on April 12, 2015. His case pertains to crimes connected
+    to illegal drugs. Arrest and detention There is no information available
+    on the details of Mr. Mohammad L. s arrest and detention. Trial According
+    to the available information, Mr. Mohammad L. was tried by Branch Two of
+    the Islamic Revolutionary Court of Arak. However, there is no information
+    available on the details of the session or sessions of Mr. Mohammad L. s
+    trial. Charges The court charged Mr. Mohammad L. with possessing 667 grams
+    of heroin. The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. International human rights organizations have drawn
+    attention to reports indicating that the Islamic Republic authorities have
+    brought trumped-up charges, including drug trafficking, sexual, and other
+    criminal offences, against their opponents (including political, civil
+    society activists, as well as unionists and ethnic and religious
+    minorities). Thousands of alleged drug traffickers have been sentenced to
+    death following judicial processes that fail to meet international
+    standards. Scores of them were executed based on a 1989 law imposing
+    mandatory death sentences on drug traffickers found in possession of
+    specified amounts of proscribed narcotics (5 kg of hashish or opium, and
+    more than 30 grams of heroin, codeine or methadone). The exact number of
+    people convicted based on trumped-up charges is unknown. Evidence of guilt
+    There is no information available on the details of the evidence of guilt
+    entered against Mr. Mohammad L. Defense There is no information available
+    on the details of Mr. Mohammad L. s defense. Judgment The court sentenced
+    Mr. Mohammad L. to death. The verdict was validated by the Chief Public
+    Prosecutor, and later the head of the Judiciary enforced it. Mr. Mohammad
+    L. was hanged in Arak Central Prison on the morning of April 12, 2015.
+    -------------------- *Messers: Hamed N., Ne'matollah N., and Mahmud S.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8391/mohammad-l"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

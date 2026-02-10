@@ -1,0 +1,68 @@
+id: ahmadi-ebrahim-2013
+name_latin: "Ebrahim Ahmadi"
+name_farsi: "ابراهیم احمدی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2013-01-16
+age_at_death: 29
+place_of_death: "Karaj"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Ebrahim Ahmadi, along with another person,
+    was published on the websites of Human Rights and Democracy Activists in
+    Iran and the Mehr News Agency on January 16, 2013. Additional information
+    was taken from the website of the Human Rights Organization in Iran on
+    January 15, 2013, the Hamshahri Online on January 9, 2008, and the E temad
+    newspaper on January 10, 2008. According to the existing information, Mr.
+    Ahmadi s case was related to the murder of a steel merchant in Tehran on
+    December 31, 2007. Arrest and detention Mr. Ahmadi was identified and
+    arrested following the investigation by detectives of Tehran Intelligence
+    Office 10 regarding the steel merchant murder on January 8, 2008. He was
+    transferred to the police detention center. (Hamshahri Online and the E
+    temad newspaper) He was detained in Hall 3, Section 1 of the Gohardasht
+    Prison in Karaj. (Human Rights and Democracy Activists in Iran) Trial The
+    Provincial Criminal Court of Tehran tried Mr. Ahamadi. No information is
+    available on his trial. Charges According to the existing information, the
+    charge brought against Mr. Ahmadi was announced as murder. The validity of
+    the criminal charges brought against this defendant cannot be ascertained
+    in the absence of the basic guarantees of a fair trial. Evidence of guilt
+    The evidence presented against Mr. Ahmadi was testimonies of witnesses who
+    were present at the crime scene, and his confession. Testimonies of
+    witnesses to the murder and drawing the defendant s portrait, confessions
+    of the defendant during interrogations, an injury on the defendant s hand
+    and his visit to the nearby clinic for treatment, and 36 marks of a knife
+    on the victim s body were all considered evidence against Mr. Ahmadi.
+    (Hamshahri Online and the E temad newspaper) International human rights
+    organizations have repeatedly condemned the government of the Islamic
+    Republic of Iran for its systematic use of severe torture and solitary
+    confinement to obtain confessions from detainees and have questioned the
+    authenticity of confessions obtained under duress. Defense No information
+    is available on Mr. Ahmadi s defense. He expressed regret for the murder
+    and stated that he never intended to kill the victim. He owed the victim
+    money and could not pay him back due to his financial problems, and he had
+    been under psychological pressure. According to Mr. Ahmadi, he had met the
+    victim to discuss his debt when their argument escalated in the victim s
+    car and he committed the murder when he was very angry and had no control
+    over his actions. (E temad newspaper) Judgment The Provincial Criminal
+    Court of Tehran condemned Mr. Ebrahim Ahmadi to death. The Supreme Court
+    confirmed the ruling. He was transferred to solitary confinement in
+    Section 5 of the Gohardasht Prison on January 15, 2013 and was hanged in
+    the Gohardasht Prison in Karaj on January 16, 2013 at dawn.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7719/ebrahim-ahmadi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

@@ -1,0 +1,44 @@
+id: p-q-2015
+name_latin: "Q. P."
+name_farsi: "ق. پ."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2015-05-27
+age_at_death: null
+place_of_death: "Sari"
+province: "Mazandaran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Q. P. was published on the websites of
+    Mazandaran Provincial Courthouse and Vareshnews on May 27, 2015. Arrest
+    and detention The circumstances of Mr. Q. P. s arrest and detention are
+    not known. Trial The Criminal Provincial Court of Mazandaran tried Mr. Q.
+    P. No information is available on his trial. Charges According to the
+    Public Relations Office of the Mazandaran Provincial Courthouse, quoting
+    the General Public Prosecutor of Mazandarn, the charge brought against Mr.
+    Q. P. was announced as murder. The validity of the criminal charges
+    brought against this defendant cannot be ascertained in the absence of the
+    basic guarantees of a fair trial. Evidence of guilt The report of this
+    execution did not provide any specific information on the evidence
+    presented against Mr. Q. P. Defense No information is available on Mr. Q.
+    P. s defense. Judgment The Criminal Court of Mazandaran condemned Mr. Q.
+    P. to death, the Supreme Court confirmed the ruling and the Head of
+    Judiciary validated it. He was hanged at the Sari Prison yard on Wednesday
+    May 27, 2015 at dawn.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/74399/q-p"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

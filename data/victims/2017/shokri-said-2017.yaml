@@ -1,0 +1,98 @@
+id: shokri-said-2017
+name_latin: "Sa'id Shokri"
+name_farsi: "سعید شکری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2017-02-13
+age_at_death: 26
+place_of_death: "Qom"
+province: "Qom"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    Mr. Shokri was 26 years old, single, and without a prior criminal record.
+    Information regarding the execution of Mr. Sa'id (Behruz) Shokri, son of
+    Mohammad Reza, was published by HRANA, the news arm of the Human Rights
+    Activists in Iran (February 13, 2017). Additional information about this
+    case was obtained from the Court Decision issued by the [City of] Qom
+    Revolutionary Court, Branch One (July 20, 2014). Mr. Shokri was born in
+    1990, and was from and resided in the city of Qom. He was single and had
+    an [automobile showroom. (Court Decision, July 20, 2014). Arrest and
+    detention Mr. Shokri was arrested by the Combatting Narcotic Drugs Police
+    officers on April 9, 2014, as he was entering the city of Qom from Tehran
+    in a sedan vehicle. (Court Decision, July 20, 2014). He was incarcerated
+    until February 2017, and spent a portion of this time in Qom s Langrood
+    Prison. Mr. Shokri visited with his family at this prison on February 12,
+    2017, for the last time. (HRANA, February 13, 2017). Trial On July 16,
+    2014, the Qom Revolutionary Court, Branch One, tried Mr. Shokri s case.
+    Mr. Shokri was represented by an attorney of his choice at trial. (Court
+    Decision, July 20, 2014). Charges The charge brought against Mr. Shokri
+    was stated to have been the purchase and transportation of one kilogram
+    and five hundred and ten grams (approximately 3.5 pounds) of heroin .
+    (Court Decision, July 20, 2014). The validity of the criminal charges
+    brought against this defendant cannot be ascertained in the absence of the
+    basic guarantees of a fair trial. International human rights organizations
+    have drawn attention to reports indicating that the Islamic Republic
+    authorities have brought trumped-up charges, including drug trafficking,
+    sexual, and other criminal offenses, against their opponents (including
+    political, civil society activists, as well as unionists and ethnic and
+    religious minorities). Thousands of alleged drug traffickers have been
+    sentenced to death following judicial processes that fail to meet
+    international standards. Scores of them were executed based on a 1989 law
+    imposing mandatory death sentences on drug traffickers found in possession
+    of specified amounts of prescribed narcotics (5 kg of hashish or opium,
+    and more than 30 grams of heroin, codeine or methadone). The exact number
+    of people convicted based on trumped-up charges is unknown. Evidence of
+    guilt The evidence used against Mr. Shokri was stated to have been Mr.
+    Shokri s and his co-defendant s statements made in the course of
+    questioning before the Investigative Judge, parts of his confession made
+    at trial, covert investigations conducted into Mr. Shokri s narcotic drugs
+    activities , and the memorandum regarding the discovery of the narcotics,
+    the weighing thereof, and the result of the laboratory testing of the
+    drugs [to ascertain its nature] by the Identity Determination
+    Administration . Defense At trial, Mr. Shokri denied the [charge of]
+    purchasing narcotic drugs and stated: I admit that I received the heroin.
+    I admit that I sold the car. But that had to do with a year prior [to
+    that]. I did not spend [the money from the sale of the car] to purchase
+    drugs I had financial problems [at the time]. They were supposed to pay me
+    [for transporting drugs]. I did [transport narcotic drugs], but I did not
+    know it was a crime. I don t have a criminal record. (Court Decision, July
+    20, 2014). According to a source close to the family, Mr. Shokri s
+    attorney was not given an opportunity to resort to Article 477 of the Law
+    on the Rules of Criminal Procedure (1) for a de novo hearing on remand.
+    According to this source, they had mockingly told [his attorney] to attend
+    his client s funeral services the next day . (HRANA, February 13, 2017).
+    The Court Decision alludes to Mr. Shokri s last defense and to the defense
+    presented by his attorney at trial; the content of the defense presented
+    has not been stated, however. There is, therefore, no information
+    regarding Mr. Shokri and his attorneys other defense. Judgment The Qom
+    Islamic Revolutionary Court, Branch One, sentenced Mr. Sa'id (Behruz)
+    Shokri to death for the purchase and transportation of one kilogram and
+    five hundred and ten grams of heroin . Mr. Sa'id (behruz) Shokri and six
+    other individuals were executed at 6 o clock in the morning of February
+    13, 2017, at Qom s Langrood Prison. (HRANA, February 13, 2017).
+    __________________________________________________________________________
+    (1) In the event that the Head of the Judiciary Branch determines the
+    final ruling issued by any judicial authority to be contrary to the
+    incontrovertible tenets of Shari a law, he shall decree a de novo trial
+    and remand the case to the Supreme Court so that it can be adjudicated in
+    special branches designated by the Head of the Judiciary Branch for that
+    purpose, and a final decision can be rendered. Said special branches shall
+    initially, based on the fact that the ruling was declared contrary to
+    incontrovertible tenets of Shari a law, over
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8580/said-shokri"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

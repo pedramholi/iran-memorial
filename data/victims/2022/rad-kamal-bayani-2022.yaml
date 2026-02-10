@@ -1,0 +1,28 @@
+id: rad-kamal-bayani-2022
+name_latin: "Kamal Bayani Rad"
+name_farsi: "کمال بیانی راد"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim (Shi'a)"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2022-06-08
+age_at_death: null
+place_of_death: "Ilam"
+province: "Ilam"
+cause_of_death: "Execution » Hanging"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/86078/kamal-bayani-rad"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

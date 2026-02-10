@@ -1,0 +1,28 @@
+id: asgari-asghar-2011
+name_latin: "Asghar Asgari"
+name_farsi: "اصغر عسگری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2011-10-12
+age_at_death: 20
+place_of_death: "Khomeini Shahr"
+province: "Esfahan"
+cause_of_death: "Execution » Hanging"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/80086/asghar-asgari"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

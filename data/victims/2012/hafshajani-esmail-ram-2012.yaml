@@ -1,0 +1,64 @@
+id: hafshajani-esmail-ram-2012
+name_latin: "Esma'il Ram Hafshajani"
+name_farsi: "اسماعیل رام هفشجانی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2012-04-11
+age_at_death: null
+place_of_death: "Shahr-e Kord"
+province: "Chaharmahal va Bakhtiari"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The news of Mr. Ram Esmail Hafshajani s execution along with two others
+    was announced by the websites of Chaharmahal and Bakhtyari Central News
+    Unit, the Young Reporters Club of Chaharmahal and Bakhtyari Province
+    (April 11, 2012), the Young Reporters Club (April 10, 2012), and ISNA, the
+    Iranian Students News Agency (April 14, 2012), all quoting the Deputy
+    Public and Revolutionary Prosecutor of Shahr-e Kord County. His case
+    concerns carrying narcotics. Arrest and Detention Mr. Hafshajani was
+    arrested on June 8, 2010. According to the Chaharmahal and Bakhtyari
+    Central News Unit, he was imprisoned for two years. However, there is no
+    information available on the details of his arrest and detention. Trial
+    Mr. Hafshajani was tried by the Revolutionary Court of Shahr-e Kord.
+    However, there is no information available on the session or sessions of
+    his trial. Charges Mr. Hafshajani was charged with "Drug Trafficking". He
+    was accused of carrying heroin, crack, and methamphetamine. The validity
+    of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    International human rights organizations have drawn attention to reports
+    indicating that the Islamic Republic authorities have brought trumped-up
+    charges, including drug trafficking, sexual, and other criminal offences,
+    against their opponents (including political, civil society activists, as
+    well as unionists and ethnic and religious minorities). Thousands of
+    alleged drug traffickers have been sentenced to death following judicial
+    processes that fail to meet international standards. Scores of them were
+    executed based on a 1989 law imposing mandatory death sentences on drug
+    traffickers found in possession of specified amounts of proscribed
+    narcotics (5 kg of hashish or opium, and more than 30 grams of heroin,
+    codeine or methadone). The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of Guilt According to the
+    Chaharmahal and Bakhtyari Central News Unit, possession of 400 grams of
+    crack, 22 grams of methamphetamine, and 14 grams of hashish was entered as
+    evidence against Mr. Hafshajani. Defense Mr. Hafshajani asked for pardon,
+    but his appeal was rejected. There is no information available on his
+    defense. Judgment Mr. Ram Esmail Hafshajani was sentenced to death by the
+    Islamic Revolutionary Court of Shahr-e Kord. After the verdict was
+    approved, he and two others were hanged in Shahr-e Kord Central Prison on
+    April 10, 2012.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8124/esmail-ram-hafshajani"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

@@ -1,0 +1,43 @@
+id: ghavasi-mehrnush-2015
+name_latin: "Mehrnush Ghavasi"
+name_farsi: "مهرنوش غواصی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2015-03-07
+age_at_death: 50
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Ms. Mehrnush Ghavasi, along with 11 others, was
+    published on the website of Human Rights and Democracy Activists in Iran
+    on March 7 and 9, 2015. News of this execution was not published in the
+    official media. According to the report, two women, one unknown, were
+    executed on this day. Ms. Ghavasi was 50 years old. Arrest and detention
+    According to the report, Ms. Ghavasi was detained for years. She was
+    transferred from Qarchak Prison in Varamin to solitary confinement at
+    Qezelhesar Prison in Karaj on March 7, 2015. The circumstances of her
+    arrest and detention are not known. Trial No information is available on
+    Ms. Ghavasi s trial. Charges No information is available on Ms. Ghavasi s
+    charges. Evidence of guilt The report of this execution does not contain
+    information regarding the evidence provided against Ms. Ghavasi. Defense
+    No information is available on Ms. Ghavasi s defense. Judgment Ms.
+    Mehrnush Ghavasi was hanged at the Qezelhesar Prison yard in Karaj on
+    March 7, 2015.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7549/mehrnush-ghavasi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

@@ -1,0 +1,49 @@
+id: fatemi-kobra-2021
+name_latin: "Kobra Fatemi"
+name_farsi: "کبری فاطمی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2021-05-23
+age_at_death: 41
+place_of_death: "Yazd"
+province: "Yazd"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Ms. Kobra Fatemi was reported by Iran Human Rights
+    Organization s Website (May 24, 2021). News of this execution was not
+    published in Iranian media nor was it broadcast by official sources.
+    According to available information, Ms. Fatemi was 41 and was married. Her
+    case has to do with a murder in Yazd, in 2016. Arrest and detention Ms.
+    Fatemi spent 6 years in prison, however, the circumstances of her arrest
+    and detention are not known. Trial No information is available on Ms.
+    Fatemi s trial. Charges The charge brought against Ms. Fatemi was
+    premeditated murder . In the report of this execution it is said that she
+    had been married for three years and that marital problems resulted in the
+    murder of her husband. The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. Evidence of guilt The report of this execution
+    does not contain information regarding the evidence provided against Ms.
+    Fatemi. Defense No information is available on Mrs. Fatemi s defense.
+    Judgment Ms. Kobra Fatemi was sentenced to death. On Sunday, May 23, 2021,
+    she was executed by hanging, in the Central Prison of Yazd. According to
+    knowledgeable person in this report, The victim s family were supposed to
+    accept the blood money and forgive. However, the victim s uncle who was a
+    member of the Revolutionary Guard insisted that this sentence be carried
+    out and that the family of the victim did not want blood money.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/84655/kobra-fatemi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

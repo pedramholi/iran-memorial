@@ -1,0 +1,53 @@
+id: ahmad-haj-basir-2011
+name_latin: "Haj Basir Ahmad"
+name_farsi: "حاج بصیر احمد"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2011-09-15
+age_at_death: null
+place_of_death: "Taybad"
+province: "Khorasan-e Razavi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Hajbasir Ahmad, son of Haj abdolja far and an
+    Afghan citizen, along with eight others, was published on the website of
+    Human Rights and Democracy Activists in Iran on September 15, 2011. Arrest
+    and Detention There is no specific information on the defendant s arrest
+    and detention. Trial No information is available on the defendant s trial.
+    Charges The charge against Mr. Ahmad was announced as "smuggling
+    narcotics." The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. International human rights organizations have drawn
+    attention to reports indicating that Islamic Republic authorities have
+    brought trumped-up charges against their political opponents and executed
+    them for alleged drug trafficking, sexual, and other criminal offences.
+    Thousands of alleged drug traffickers have been sentenced to death
+    following judicial processes that fail to meet international standards.
+    Scores of them were executed based on a 1989 law imposing mandatory death
+    sentences on drug traffickers found in possession of specified amounts of
+    proscribed narcotics (5 kg of hashish or opium, and more than 30 grams of
+    heroin, codeine or methadone). The exact number of people convicted based
+    on trumped-up charges is unknown. Evidence of Guilt The report of this
+    execution did not provide any specific information on the evidence
+    presented against the defendant. Defense No information is available on
+    the defendant's defense. Judgment No specific information is available
+    about the defendant s execution. Mr. Hajbasir Ahmad and four others were
+    hanged in Tayyebat Central Prison on September 15, 2011. Mr. Ahmad was 40
+    years old.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7396/haj-basir-ahmad"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

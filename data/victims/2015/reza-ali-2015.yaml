@@ -1,0 +1,68 @@
+id: reza-ali-2015
+name_latin: "Ali Reza"
+name_farsi: "علیرضا"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2015-05-15
+age_at_death: 49
+place_of_death: "Qazvin"
+province: "Zanjan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Ali Reza, without his last name, was
+    published on the website of Qazvin General Courthouse on May 5, 2015,
+    quoting the Public Relations Office of the Qazvin General Courthouse.
+    Additional information was taken from the website of Jamejam on April 29,
+    2012. His case was related to the murder of his relative at Sharifabad
+    Village in Qazvin in April of 2012. Arrest and detention Mr. Ali Reza was
+    arrested by criminal inspectors of the Intelligence Police in a
+    neighborhood in Qazvin on April 27, 2012. He was detained for three years.
+    According to the existing information, a few days earlier when a resident
+    of the Sharifabad Village did not return home, his family reported him
+    missing to the Intelligence Police. After a case was opened and police
+    investigation began, the financial dispute and connection of the victim
+    with Mr. Ali Reza was discovered. The circumstances of his arrest and
+    detention are not known. Trial Branch Two of the Criminal Court of Qazvin
+    tried Mr. Ali Reza. The complaint filed by the victim s family regarding
+    the murder was discussed at the Revolutionary Public Prosecutors Office of
+    Alborz. No information is available on his trial. (Qazvin General
+    Courthouse) Charges According to the Public Relations Office of the Qazvin
+    General Courthouse, the charge brought against Mr. Ali Reza was announced
+    as murder. The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. Evidence of guilt The evidence presented against Mr. Ali
+    Reza was his confession and the recovery of the victim s body from a water
+    canal. In his confession, he confirmed that the victim and he had a
+    financial dispute and he had invited the victim to his house when his
+    family members were not present on the night of the incident. Their
+    dispute turned into fight and, out of anger, he hit the victim on his head
+    with a hammer resulting in his unconsciousness. Then he took the victim to
+    the Bidestan wilderness around Qazvin, and hit him again with a rock and
+    threw his body in the water canal. Following this confession, officials
+    found the body in the water canal and transferred it to the forensics
+    office. (website of Jamejam) International human rights organizations have
+    repeatedly condemned the government of the Islamic Republic of Iran for
+    its systematic use of severe torture and solitary confinement to obtain
+    confessions from detainees and have questioned the authenticity of
+    confessions obtained under duress. Defense No information is available on
+    Mr. Ali Reza s defense. Judgment Branch Two of the Criminal Court of
+    Qazvin condemned Mr. Ali Reza to death. The Supreme Court confirmed the
+    ruling and the Head of Judiciary approved it. He was hanged at the Qazvin
+    Central Prison yard on May 5, 2015 at dawn.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/75340/ali-reza"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

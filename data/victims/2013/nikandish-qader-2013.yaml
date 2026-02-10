@@ -1,0 +1,53 @@
+id: nikandish-qader-2013
+name_latin: "Qader Nikandish"
+name_farsi: "قادر نیک‌اندیش"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2013-12-16
+age_at_death: null
+place_of_death: "Orumieh"
+province: "Azarbaijan-e Gharbi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Qader Nikandish, along with 17 others, was
+    published on the website of Mukrian news agency on December 18, 2013 and,
+    along with two others, on the website of Kurdpa News Agency on December
+    19, 2013. According to Kurdpa, he was a Kurd from the Gugjelu village near
+    Miandoab and according to Mukrian, he was from Shahindej. Arrest and
+    detention According to the Mukrian news agency, Mr. Nikandish was detained
+    for several years. The circumstances of his arrest and detention are not
+    known. Trial No information is available on Mr. Nikandish s trial. Charges
+    According to reports, the charge brought against Mr. Nikandish was
+    announced as murder. The validity of the criminal charges brought against
+    this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that the Islamic Republic
+    authorities have brought trumped-up charges, including drug trafficking,
+    sexual, and other criminal offences, against their opponents (including
+    political, civil society activists, as well as unionists and ethnic and
+    religious minorities). Each year Iranian authorities sentence to death
+    hundreds of alleged common criminals, following judicial processes that
+    fail to meet international standards. The exact number of people convicted
+    and executed based on trumped-up charges is unknown. Evidence of guilt The
+    report of this execution did not provide any specific information on the
+    evidence presented against Mr. Nikandish. Defense No information is
+    available on Mr. Nikandish s defense. Judgment Mr. Qader Nikandish was
+    hanged, along with three others, in the Orumieh Central Prison yard on
+    Monday December 16, 2013.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7822/qader-nikandish"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

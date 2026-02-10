@@ -1,0 +1,45 @@
+id: abadi-vahid-lalal-2015
+name_latin: "Vahid La'lal' Abadi"
+name_farsi: "وحید لعلع آبادی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2015-02-17
+age_at_death: 33
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Vahid La la Abadi, along with two others, was
+    published on the website of the Human Rights Activists for Democracy in
+    Iran on February 17, 2015. According to this report, six individuals were
+    executed; however, only three names were published. Mr. La la Abadi was
+    married with a child. On February 16, his family and the families of the
+    other defendants gathered in front of the Qezelhesar Prison and demanded a
+    halt to the execution of their loved ones. Arrest and Detention Mr. La la
+    Abadi was detained for five years. There is no specific information on his
+    arrest and detention. According to the above report, on February 16, 2015,
+    he and the other five prisoners had been transferred from Hall 2, Unit 2
+    of the Qezelhesar Prison to solitary confinement in preparation for
+    execution. Trial No information is available on Mr. La la Abadi s trial.
+    Charges The charge brought against Mr. La la Abadi is not known. Evidence
+    of Guilt The report of this execution did not provide any specific
+    information on the evidence presented against Mr. La la Abadi. Defense No
+    information is available on Mr. La la Abadi s defense. Judgment Mr. Vahid
+    La la Abadi was hanged at Qezelhesar Prison in Karaj on February 17, 2015.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/73319/vahid-lalal-abadi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

@@ -1,0 +1,55 @@
+id: kargar-mansur-2015
+name_latin: "Mansur Kargar"
+name_farsi: "منصور کارگر"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2015-02-26
+age_at_death: null
+place_of_death: "Bandar Abbas"
+province: "Hormozgan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Masur Kargar was published on the websites of
+    the Hormozgan General Courthouse on February 26, 2015, and HRANA (Human
+    Rights Activists News Agency) on February 28, 2015. Mr. Kargar was a
+    farmer and his case was related to the murder of a married man. Arrest and
+    detention Mr. Kargar was arrested based on a judicial order by the Public
+    Prosecutor s Office in Bastak, Hormozgan. His arrested took place during
+    the investigation regarding the murder of Mr. H. F. (Hormozgan General
+    Courthouse) The circumstances of his arrest and detention are not known.
+    Trial The Criminal Court of Hormozgan tried Mr. Kargar. No information is
+    available on his trial. Charges According to the Hormozgan Courthouse, the
+    charge brought against Mr. Kargar was announced as murder. The validity of
+    the criminal charges brought against this defendant cannot be ascertained
+    in the absence of the basic guarantees of a fair trial. Evidence of guilt
+    According to the statement issued by the Hormozgan Courthouse, Mr. Kargar
+    s confession had been the basis for the ruling against him. According to
+    this confession, he had committed the murder with a weapon and with the
+    collaboration of the victim s wife. The evidence presented against Mr.
+    Kargar was a Kalashnikov rifle, a combat bullet, and a red, overturned
+    Peugeot 405 near the location of the recovered body. International human
+    rights organizations have repeatedly condemned the government of the
+    Islamic Republic of Iran for its systematic use of severe torture and
+    solitary confinement to obtain confessions from detainees and have
+    questioned the authenticity of confessions obtained under duress. Defense
+    No information is available on Mr. Kargar s defense. Judgment The Criminal
+    Court of Hormozgan condemned Mr. Masur Kargar to death. Branch Seven of
+    the Supreme Court confirmed the ruling. He was hanged in the presence of
+    the victim s family in Bandar-e Abbas Prison on February 26, 2015.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7554/mansur-kargar"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

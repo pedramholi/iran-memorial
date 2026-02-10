@@ -1,0 +1,53 @@
+id: bameri-a-2015
+name_latin: "A. Bameri"
+name_farsi: "الف. بامری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2015-12-16
+age_at_death: null
+place_of_death: "Kerman"
+province: "Kerman"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. A. Bameri was reported by the Central Unit of the
+    Iranian Students News Association, on December 16, 2015. Additional
+    information about his case was gathered from Jomhuri e Islami News Service
+    (April 13, 2015 and February 4, 2015) and Islamic Republic of Iran
+    Broadcasting News website (February 5, 2015) Arrest and detention
+    According to available information, Mr. Bameri was arrested by Provincial
+    Police in Kerman, on April 13, 2015. There are no further details of Mr.
+    Bameri s arrest and detention. Trial Mr. Bameri s trial was convened over
+    several months, between April- December, 2015. No information is available
+    on this trial. Charges The charge brought against Mr. Bameri was murder of
+    a police officer from Kahnuj, during an armed altercation with the police
+    force. During the police investigation, six counts of armed altercation
+    with security forces, and transportation of more than three tons of
+    illegal drugs in the town of Dalgan in Sisatan 0 Baluchistan, and the
+    towns of Rudbar, Qal eh Ganj, and Kahnuj in Kerman Province were added to
+    his charges. Evidence of guilt According to available information, the
+    confessions obtained from Mr. Bameri during police investigation and
+    interrogation, were entered as evidence against him. According to the
+    Public and Revolutionary Prosecutor of the town of Kahnuj, there were
+    evidences and verifiable documents against Mr. Bameri, but he did not give
+    any further information about these items. Defense No information is
+    available on Mr. Bameri s defense. Judgment The court sentenced Mr. Bameri
+    to death by hanging (maximum penalty for murder, according to Shari a).
+    This sentence was approved by the Supreme Court. Mr. Bameri was executed
+    in Kerman Prison, on the morning of December 16, 2015.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8278/a-bameri"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

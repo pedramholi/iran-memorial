@@ -1,0 +1,44 @@
+id: p-m-2014
+name_latin: "M. P."
+name_farsi: "م. پ."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2014-01-01
+age_at_death: null
+place_of_death: "Rasht"
+province: "Gilan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. M. P., son of Abbas, along with another
+    person, was published on the website of the Gilan Provincial Courthouse on
+    February 18, 2014 and, along with three others, on the website of ISNA
+    (Iranian Students News Agency) on February 19, 2014, quoting the Public
+    Relations Office of the Gilan Provincial Courthouse. Arrest and detention
+    The circumstances of Mr. M. P. s arrest and detention are not known. Trial
+    The Gilan Provincial Courthouse tried Mr. M. P. No information is
+    available on his trial. Charges The charge brought against Mr. M. P. was
+    announced as murder. The validity of the criminal charges brought against
+    this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. Evidence of guilt The report of this execution
+    does not contain information regarding the evidence provided against Mr.
+    M. P. Defense No information is available on Mr. M. P. s defense. Judgment
+    The court condemned Mr. M. P. to death, and the Supreme Court and the Head
+    of judiciary confirmed the ruling. He was hanged at the Rasht Central
+    Prison yard in early 2014.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7705/m-p"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

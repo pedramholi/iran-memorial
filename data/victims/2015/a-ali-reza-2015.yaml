@@ -1,0 +1,55 @@
+id: a-ali-reza-2015
+name_latin: "Ali Reza A."
+name_farsi: "علیرضا الف."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2015-01-25
+age_at_death: null
+place_of_death: "Arak"
+province: "Markazi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Ali Reza A., along with another individual,
+    was published on the website of the Central Provincial Courthouse on
+    January 25, 2015. Arrest and Detention There is no specific information
+    about Mr. Ali Reza A. s arrest and detention. Trial Branch Two of the
+    Islamic Revolutionary Court of Arak tried Mr. Ali Reza A. No information
+    is available on his trial. Charges The charges against Mr. Ali Reza A.
+    were announced as "transportation and possession of narcotics." The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    International human rights organizations have drawn attention to reports
+    indicating that Islamic Republic authorities have brought trumped-up
+    charges against their political opponents and executed them for alleged
+    drug trafficking, sexual, and other criminal offences. Thousands of
+    alleged drug traffickers have been sentenced to death following judicial
+    processes that fail to meet international standards. Scores of them were
+    executed based on a 1989 law imposing mandatory death sentences on drug
+    traffickers found in possession of specified amounts of proscribed
+    narcotics (5 kg of hashish or opium, and more than 30 grams of heroin,
+    codeine or methadone). The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of Guilt The evidence presented
+    against Mr. Ali Reza A. was possession of 2 kilograms and 950 grams of
+    heroin and having a criminal record. Defense No information is available
+    on Mr. Ali Reza A.'s defense. Judgment Branch Two of the Islamic
+    Revolutionary Court of Arak condemned Mr. Ali Reza A. to death and the
+    General Public Prosecutor s Office and the Head of the Judiciary confirmed
+    the ruling. He was hanged at the Arak Central Prison yard on January 25,
+    2015 at dawn.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/73364/ali-reza-a"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

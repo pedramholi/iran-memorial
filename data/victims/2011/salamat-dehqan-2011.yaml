@@ -1,0 +1,99 @@
+id: salamat-dehqan-2011
+name_latin: "Dehqan Salamat"
+name_farsi: "دهقان سلامت"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam (Sunni)"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2011-10-10
+age_at_death: 45
+place_of_death: "Orumieh"
+province: "Azarbaijan-e Gharbi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    Abdorrahman Boroumand Center was informed of the execution of Mr. Dehqan
+    Salamat, son of Tofiq, by one of his acquaintances who completed the
+    Center s special electronic form (April 24, 2018). In addition, news of
+    the execution of Mr. Dehghan Salamat, along with five other individuals,
+    was announced by the website of Kurdpa (September 11, 2011). Additional
+    information on this case was obtained from the website of Human Rights
+    Activists for Democracy in Iran (September 11, 2011), and the news outlet
+    of the Society for Defending Azari Political Prisoners in Iran ADAP
+    (September 13, 2011). Mr. Salamat, born in 1966, was from the village of
+    Suma-ye Baradoust in West Azarbaijan. He was married and had five
+    children, but also provided for the wife and children of his deceased
+    brother (electronic form, April 24, 2018). Mr. Salamat, who had finished
+    secondary school, was a van driver and a truck driver s assistant
+    (electronic form, April 24, 2018). Mr. Salamat used to have connections
+    with the Democratic Party of Iranian Kurdistan and the Komala Party of
+    Iranian Kurdistan*, but his case pertains to purchase and sale of illegal
+    drugs (electronic form, April 24, 2018). Arrest and detention Mr. Salamat
+    was arrested in the city of Orumieh and spent some time in Orumieh Central
+    Prison (Darya) (Kurdpa, September 11, 2011; electronic form, April 24,
+    2018). However, there is no information available on the details of his
+    arrest and detention. Trial There is no information available on the
+    details of the session or sessions of Mr. Salamat s trial. Charges Mr.
+    Salamat was charged with purchase and sale of illegal drugs (Kurdpa,
+    September 11, 2011). The validity of the criminal charges brought against
+    this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that the Islamic Republic
+    authorities have brought trumped-up charges, including drug trafficking,
+    sexual, and other criminal offences, against their opponents (including
+    political, civil society activists, as well as unionists and ethnic and
+    religious minorities). Each year Iranian authorities sentence to death
+    hundreds of alleged common criminals, following judicial processes that
+    fail to meet international standards. The exact number of people convicted
+    and executed based on trumped-up charges is unknown. Evidence of guilt
+    There is no information available on details of the evidence of guilt
+    entered against Mr. Salamat. Defense Mr. Salamat was the sixth defendant
+    of the case, and he had repeatedly denied any knowledge of the existence
+    of illegal drugs. His fellow defendants had also testified that he had had
+    no knowledge of the existence of the discovered illegal drugs (electronic
+    form, April 24, 2018). However, there is no further information available
+    on the details of Mr. Salamat s defense. Judgment Mr. Dehghan Salamat was
+    hanged, along with five other individuals, in Orumieh Central Prison
+    (Darya) in the afternoon of September 10, 2011 (Kurdpa, September 11,
+    2011). The body of Mr. Salamat was buried in the border-area village of
+    Sarv (electronic form, April 24, 2018).
+    -------------------------------------- *During the 1960s, a few of the
+    remaining members of the Democratic Party of Kurdistan in Iraq founded the
+    revolutionary Democratic Party of Iranian Kurdistan. Esma il Sharifzadeh,
+    Abdollah Mo eini, and Molla Auwrah were among the leaders of this party
+    that, inspired by the Cuban Revolution, started their guerrilla campaisn
+    in Kurdistan. After the defeat of this movement in 1969 and arrest of many
+    of its members, guerrilla tactics were denounced and Maoist methods
+    started to dominate the party. In 1979, after the release of some of the
+    imprisoned Kurdish leaders, the Revolutionary Organization of the Laborers
+    of Kurdistan, or the Komala, was established. Komala, given its Marxist
+    approach to politics, was against the local landholders and capitalists,
+    and would provoke the workers and farmers of Kurdistan to conduct
+    guerrilla warfare against them as well as the central government. Komala
+    regarded the Democratic Party of Iranian Kurdistan as the representative
+    of the opulent class of the Kurds. As such, it started an extensive
+    campaign against the Democrats, which would repeatedly lead to armed
+    struggle between the followers of the two parties that left hundreds of
+    casualties. In 1982, the Komala coalesced with a Marxist group named
+    Sahand whose activities proved to be more in the area of theory to
+    establish the Communist Party of Iran. Since then, the organization
+    changed its name to the Kurdistan Organization of the Communist Party of
+    Iran Komala. However, in the coming years, Komala would withdraw from the
+    Communist Party of Iran and then splinter into different cells, which
+    include the Komala Party of Iranian Kurdistan, led by Abdollah Mohtadi,
+    and Komala the Kurdistan Organization of the Communist Party of Iran, led
+    by Ibrahim Alizadeh.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8408/dehqan-salamat"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

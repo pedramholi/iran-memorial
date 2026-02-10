@@ -1,0 +1,58 @@
+id: nuri-mohammad-2015
+name_latin: "Mohammad Nuri"
+name_farsi: "محمد نوری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2015-04-11
+age_at_death: 25
+place_of_death: "Zahedan"
+province: "Sistan va Baluchestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Mohammad Nuri, along with another
+    individual*, was announced by HRANA news agency as well as the website of
+    the Human Rights Activists for Democracy in Iran on April 11, 2015. Mr.
+    Nuri, 25, was from the Herat Province of Afghanistan. His case pertains to
+    crimes connected to illegal drugs. Arrest and detention Mr. Nuri was
+    imprisoned in Ward 6 of Zahedan Central Prison. However, there is no
+    information available on the details of his arrest and detention. Trial
+    There is no information available on the details of the session or
+    sessions of Mr. Nuri s trial. Charges Mr. Nuri was charged with storing
+    illegal drugs. However, there is no information available on the details
+    of the charges brought against him. The validity of the criminal charges
+    brought against this defendant cannot be ascertained in the absence of the
+    basic guarantees of a fair trial. International human rights organizations
+    have drawn attention to reports indicating that the Islamic Republic
+    authorities have brought trumped-up charges, including drug trafficking,
+    sexual, and other criminal offences, against their opponents (including
+    political, civil society activists, as well as unionists and ethnic and
+    religious minorities). Thousands of alleged drug traffickers have been
+    sentenced to death following judicial processes that fail to meet
+    international standards. Scores of them were executed based on a 1989 law
+    imposing mandatory death sentences on drug traffickers found in possession
+    of specified amounts of proscribed narcotics (5 kg of hashish or opium,
+    and more than 30 grams of heroin, codeine or methadone). The exact number
+    of people convicted based on trumped-up charges is unknown. Evidence of
+    guilt There is no information available on the details of the evidence of
+    guilt entered against Mr. Nuri. Defense There is no information available
+    on the details of Mr. Nuri s defense. Judgment The court sentenced Mr.
+    Mohammad Nuri to death. He was moved to solitary confinement on the eve of
+    the execution. Mr. Nuri was hanged in Zahedan Central Prison on April 11,
+    2015. --------------------------- * Mr. Hatef Barahu'i
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8646/mohammad-nuri"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

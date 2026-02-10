@@ -1,0 +1,28 @@
+id: nahtani-abdollah-shahbakhsh-2022
+name_latin: "Abdollah Shahbakhsh (Nahtani)"
+name_farsi: "عبدالله شه بخش (نهتانی)"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam (Sunni)"
+photo: "https://www.iranrights.org/actorphotos/86844_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 2022-10-01
+age_at_death: 35
+place_of_death: "Makki Grand Mosque"
+province: "Sistan va Baluchestan"
+cause_of_death: "Arbitrary Execution » Arbitrary shooting"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/86844/abdollah-shahbakhsh-nahtani"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

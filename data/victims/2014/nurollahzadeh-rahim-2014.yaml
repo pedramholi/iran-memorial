@@ -1,0 +1,61 @@
+id: nurollahzadeh-rahim-2014
+name_latin: "Rahim Nurollahzadeh"
+name_farsi: "رحیم نورالله‌زاده"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2014-11-25
+age_at_death: 19
+place_of_death: "Tabriz"
+province: "Azarbaijan-e Sharqi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Rahim Nurollahzadeh, along with four others,
+    was published on the website of Campaign in Defense of Civil and Political
+    Prisoners and, along with another person, on the website of
+    Nafas-dar-Qafas on November 30, 2014. His case was related to the murder
+    of his friend during a street fight in 2009 when he was under 14 years
+    old. International laws have strictly prohibited capital punishment
+    against those who were under the age of 18 at the time of committing the
+    crime. As a party to the Covenant on Civil and Political Rights and the
+    Convention on the Rights of the Child, Iran has the obligation to avoid
+    capital punishment for an offence committed before the age of eighteen.
+    Arrest and detention According to the website of Nafas-dar-Qafas, Mr.
+    Nurollahzadeh was detained for five years. The Campaign in Defense of
+    Civil and Political Prisoners reported that he was tortured physically and
+    psychologically. However, the circumstances of his arrest and detention
+    are not known. Trial No information is available on Mr. Nurollahzadeh s
+    trial. Charges The charge brought against Mr. Nurollahzadeh was announced
+    as murder. The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. International human rights organizations have drawn
+    attention to reports indicating that the Islamic Republic authorities have
+    brought trumped-up charges, including drug trafficking, sexual, and other
+    criminal offences, against their opponents (including political, civil
+    society activists, as well as unionists and ethnic and religious
+    minorities). Each year Iranian authorities sentence to death hundreds of
+    alleged common criminals, following judicial processes that fail to meet
+    international standards. The exact number of people convicted and executed
+    based on trumped-up charges is unknown. Evidence of guilt The report of
+    this execution did not provide any specific information on the evidence
+    presented against Mr. Nurollahzadeh. Defense Mr. Nurollahzadeh was under
+    18 when the crime was committed. No information is available on his
+    defense. Judgment Mr. Rahim Nurollahzadeh was hanged at Tabriz Central
+    Prison on November 25, 2014. No specific information is available about
+    this execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7773/rahim-nurollahzadeh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

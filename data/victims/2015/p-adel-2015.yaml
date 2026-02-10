@@ -1,0 +1,54 @@
+id: p-adel-2015
+name_latin: "Adel P."
+name_farsi: "عادل پ."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2015-02-26
+age_at_death: 32
+place_of_death: "Tehran Province"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Adel P., along with another person, was
+    published on the website of Tasnimnews on February 26, 2015. Additional
+    information was gathered from Nazar1 website. According to Tasnimnews,
+    quoting the Revolutionary Public Prosecutor of Nazarabad, Mr. Adel P., a
+    resident of Nazarabad, was born in Maragheh in 1982. He was married with
+    one child and worked as a stoneworker. Arrest and detention According to
+    Tasnimnews, Mr. Adel P. was arrested in June of 2014. The Revolutionary
+    Public Prosecutor s Office of Savojbolagh and Hashtgerd issued the
+    temporary arrest warrant. The circumstances of his arrest and detention
+    are not known. Trial Branch Two of the Provincial Criminal Court tried Mr.
+    Adel P. and he appealed the ruling. No information is available on his
+    trial. Charges The charges against Mr. Adel P. were announced as,
+    Kidnapping, rape, assault and battery, and drinking alcoholic beverages.
+    According to the Revolutionary Public Prosecutor of Nazarabad, he and his
+    collaborator threatened their victims, kidnapped them, took them to
+    villages around the town, and raped them. They began these actions around
+    February 16, 2014. Evidence of guilt According to the Revolutionary Public
+    Prosecutor of Nazarabad, Mr. Adel P. and his collaborator confessed to
+    committing more than three rapes. International human rights organizations
+    have repeatedly condemned the government of the Islamic Republic of Iran
+    for its systematic use of severe torture and solitary confinement to
+    obtain confessions from detainees and have questioned the authenticity of
+    confessions obtained under duress. Defense No information is available
+    about Mr. Adel P. s defense. Judgment The court condemned Mr. Adel P. to
+    death in public. Branch 24 of the Supreme Court confirmed the ruling and
+    he was hanged at Varzesh Square in Nazarabad on February 26, 2015.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7649/adel-p"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

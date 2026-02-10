@@ -1,0 +1,50 @@
+id: mozafari-mohammad-javad-2016
+name_latin: "Mohammad Javad Mozafari"
+name_farsi: "محمدجواد مظفری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2016-04-14
+age_at_death: null
+place_of_death: "Karaj"
+province: "Alborz"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The Execution of Mr. MohammadJavad Mozafari, on April 13, 2016, was
+    reported by HRANA News Service. This execution report was confirmed by
+    Boroumand Foundation research. Arrest and detention The circumstances of
+    Mr. Mozafari s arrest and detention are not known. Trial No information is
+    available on this defendant s trial. Charges The charge brought against
+    Mr. Mozafari was murder . The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that the Islamic Republic
+    authorities have brought trumped-up charges, including drug trafficking,
+    sexual, and other criminal offences, against their opponents (including
+    political, civil society activists, as well as unionists and ethnic and
+    religious minorities). Each year Iranian authorities sentence to death
+    hundreds of alleged common criminals, following judicial processes that
+    fail to meet international standards. The exact number of people convicted
+    and executed based on trumped-up charges is unknown. Evidence of guilt The
+    report of this execution does not contain information regarding the
+    evidence provided against the defendant. Defense No information is
+    available on Mr. Mozafari s defense. Judgment The court sentenced Mr.
+    MohammadJavad Mozafari to death by hanging (retribution for taking a
+    life). The day before his execution, officials at Raja i Shahr Prison
+    transferred Mr. Mozafari to solitary confinement.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8399/mohammad-javad-mozafari"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

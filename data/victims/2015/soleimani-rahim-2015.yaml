@@ -1,0 +1,55 @@
+id: soleimani-rahim-2015
+name_latin: "Rahim Soleimani"
+name_farsi: "رحیم سلیمانی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2015-02-16
+age_at_death: 60
+place_of_death: "Orumieh"
+province: "Azarbaijan-e Gharbi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Rahim Soleimani, along with four others, was
+    published on the websites of Kurdpa and Mafnews on February 16, 2015. Mr.
+    Soleimani, son of Zobeid, was a Kurd from the Hursin Village near Orumieh
+    in the Azarbaijan-e Gharbi province. (Mafnews) Arrest and detention Mr.
+    Soleimani was detained for 20 years (Kurdpa). The circumstances of his
+    arrest and detention are not known. Trial No information is available on
+    Mr. Soleimani s trial. Charges The charge brought against Mr. Soleimani
+    was announced as drug trafficking (Kurdpa). No specific information is
+    available on his charge. The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that the Islamic Republic
+    authorities have brought trumped-up charges, including drug trafficking,
+    sexual, and other criminal offences, against their opponents (including
+    political, civil society activists, as well as unionists and ethnic and
+    religious minorities). Thousands of alleged drug traffickers have been
+    sentenced to death following judicial processes that fail to meet
+    international standards. Scores of them were executed based on a 1989 law
+    imposing mandatory death sentences on drug traffickers found in possession
+    of specified amounts of proscribed narcotics (5 kg of hashish or opium,
+    and more than 30 grams of heroin, codeine or methadone). The exact number
+    of people convicted based on trumped-up charges is unknown. Evidence of
+    guilt The report of this execution did not provide any specific
+    information on the evidence presented against Mr. Soleimani. Defense No
+    information is available on Mr. Soleimani s defense. Judgment Mr. Rahim
+    Soleimani was hanged in the Orumieh Central Prison on February 16, 2015 at
+    dawn. No specific information is available about this execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7745/rahim-soleimani"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

@@ -1,0 +1,39 @@
+id: k-r-2015
+name_latin: "R. K."
+name_farsi: "ر. ک."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2015-02-21
+age_at_death: 34
+place_of_death: "Rasht"
+province: "Gilan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. R. K., son of Mohammad, born in Gilan, along
+    with two others, was published on the website of the Gilan Provincial
+    Courthouse, quoting the Public Relations Office of this courthouse on
+    February 21, 2015. Arrest and Detention There is no specific information
+    on Mr. R. K. s arrest and detention. Trial No information is available on
+    Mr. R. K. s trial. Charges The charge against Mr. R. K. was announced as
+    "murder." Evidence of Guilt The report of this execution did not provide
+    any specific information on the evidence presented against Mr. R. K.
+    Defense No information is available on Mr. R. K.'s defense. Judgment The
+    court condemned Mr. R. K. to death and the Supreme Court confirmed the
+    ruling. He was hanged in the Rasht Central Prison on February 21, 2015.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/73817/r-k"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

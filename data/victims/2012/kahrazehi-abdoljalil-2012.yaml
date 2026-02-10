@@ -1,0 +1,28 @@
+id: kahrazehi-abdoljalil-2012
+name_latin: "Abdoljalil Kahrazehi"
+name_farsi: "عبدالجلیل کهرازهی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam (Sunni)"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2012-10-21
+age_at_death: null
+place_of_death: "Zahedan"
+province: "Sistan va Baluchestan"
+cause_of_death: "Execution » Hanging"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/77225/abdoljalil-kahrazehi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

@@ -1,0 +1,55 @@
+id: a-mehdi-2016
+name_latin: "Mehdi A."
+name_farsi: "مهدی الف."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2016-12-25
+age_at_death: null
+place_of_death: "Qazvin"
+province: "Qazvin"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mehdi A. was reported by Young Journalists Club on
+    December 25, 2016, and also by Velayate e Qazvin Newspaper on December 27,
+    2016. Arrest and detention The circumstances of Mr. Mehdi A. s arrest and
+    detention are not known. Trial Branch 2 of Qazvin Criminal Court tried Mr.
+    Mehdi A. Charges The charge brought against Mr. Mehdi A. was murder by
+    assault and battery, leading to death . Evidence of guilt The published
+    reports of this case indicate that there was a witness to this crime
+    (assault and battery). Defense No information is available on Mr. Mehdi A.
+    s defense in court. However, the prosecutor of Branch 2 of Qazvin Province
+    Criminal Court found the defense presented by the defendant and his lawyer
+    inadmissible . According to available information, the victim in Mr. Mehdi
+    A. s case was killed during an altercation. A woman had accused Mr. Mehdi
+    A. s brother of raping her. Her relatives had captured this man, without
+    legal authority, to take him to the police station . Instead, they took
+    him to his family. According to news sources, an altercation ensued,
+    leading to verbal abuse, assault, and battery with a knife . One of the
+    people who had captured Mr. A. later died in hospital from his injuries.
+    Judgment Mr. Mehdi A. was sentenced to death by hanging (retaliation for
+    taking a life) by Branch 2 of Qazvin Province Criminal Court. The appeal
+    filed by Mr. Mehdi A. and his lawyer was rejected by Branch 7 of the
+    Supreme Court. The head of the Judiciary also approved the death sentence.
+    According to the wishes of the family of the victim, Mr. Mehdi A. was
+    executed at dawn, on December 27, 2016, in the Qazvin Central
+    Penitentiary. The hanging was attended by the deputy prosecutor of Qazvin,
+    the assistant public prosecutor for carrying out sentences in Qazvin (?),
+    the Head of the Central Penitentiary of Qazvin, and the family of the
+    victim.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8426/mehdi-a"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

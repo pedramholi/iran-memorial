@@ -1,0 +1,55 @@
+id: rashidpur-eslam-2018
+name_latin: "Eslam Rashidpur"
+name_farsi: "اسلام رشیدپور"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2018-04-23
+age_at_death: null
+place_of_death: "Orumieh"
+province: "Azarbaijan-e Gharbi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Eslam Rashidpur (Rashidi), along with three other
+    people, was reported by HRANA Website, the Human Rights Activists News
+    Agency, Kordpa News Agency, Iran Human Rights, and Kurdistan Human Rights
+    Network (April 23, 2018). This execution was not reported by the official
+    news agencies. Mr. Rashidpur (Rashidi), was from Orumieh. His case was
+    related to a murder that happened in 2013. Arrest and detention Mr.
+    Rashidpur (Rashidi) spent ten years in prison. He was transferred form
+    Section 2-1 to solitary confinement on April 22, 2018. The circumstances
+    of his arrest and detention are not known. Trial No information is
+    available on Mr. Rashipur (Rashidi) s trial. Charges The charge brought
+    against Mr. Rashidpur (Rashidi) was murder in the first degree . The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    International human rights organizations have drawn attention to reports
+    indicating that the Islamic Republic authorities have brought trumped-up
+    charges, including drug trafficking, sexual, and other criminal offences,
+    against their opponents (including political, civil society activists, as
+    well as unionists and ethnic and religious minorities). Each year Iranian
+    authorities sentence to death hundreds of alleged common criminals,
+    following judicial processes that fail to meet international standards.
+    The exact number of people convicted and executed based on trumped-up
+    charges is unknown. Evidence of guilt The report of this execution does
+    not contain information regarding the evidence provided against the
+    defendant. Defense No information is available on Mr. Rashidpur (Rashidi)
+    s defense. Judgment Mr. Eslam Rashidpur was sentenced to death by hanging.
+    He and three other people were executed in the Central Prison of Orumieh
+    on Monday April 23, 2018.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8308/eslam-rashidpur"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

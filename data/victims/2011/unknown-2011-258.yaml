@@ -1,0 +1,48 @@
+id: unknown-2011-258
+name_latin: "Unknown"
+name_farsi: "ناشناس"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2011-09-15
+age_at_death: null
+place_of_death: "Zahedan"
+province: "Sistan va Baluchestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of an unknown person, along with eight others, was
+    published on the website of Human Rights and Democracy Activists in Iran
+    on September 15, 2011. Arrest and Detention There is no specific
+    information on the defendant s arrest and detention. Trial No information
+    is available on the defendant s trial. Charges No information is available
+    on the defendant s charges. The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that Islamic Republic authorities
+    have brought trumped-up charges against their political opponents and
+    executed them for alleged drug trafficking, sexual, and other criminal
+    offences. Each year Iranian authorities sentence to death hundreds of
+    alleged common criminals, following judicial processes that fail to meet
+    international standards. The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of Guilt The report of this
+    execution did not provide any specific information on the evidence
+    presented against the defendant. Defense No information is available on
+    the defendant's defense. Judgment No specific information is available
+    about the defendant s execution. This defendant and four others were
+    hanged in Taybad Central Prison on September 15, 2011.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/72459/unknown"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

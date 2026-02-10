@@ -1,0 +1,68 @@
+id: sekhavatian-abdolhamid-2013
+name_latin: "Abdolhamid Sekhavatian"
+name_farsi: "عبدالحمید سخاوتیان"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2013-08-21
+age_at_death: 28
+place_of_death: "Jahrom"
+province: "Fars"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Abdolhamid Sekhavatian, known as Mehdi, was
+    published on the websites of Fars Provincial Courthouse, IRNA (Islamic
+    Republic News Agency), and the Central News Unit on August 21, 2013. Mr.
+    Sekhavatian s case was related to the kidnapping and murder of an
+    individual, in collaboration with two others, near Jahrom in 2000. (IRNA)
+    Arrest and detention According to the Revolutionary Public Prosecutor of
+    Jahrom, Mr. Sekhavatian was arrested by Jahrom police several months after
+    the murder incident in 2000. He was able to escape the prison after a
+    while and was on the run for three years before being arrested again.
+    (IRNA) The circumstances of his arrests and detention are not known.
+    According to the Central News Unit report, Mr. Sekhavatian was 28 years
+    old when executed. If this information is accurate, he had been 15 years
+    old when arrested. International laws have strictly prohibited capital
+    punishment against those who were under the age of 18 at the time of
+    committing the crime. As a party to the Covenant on Civil and Political
+    Rights and the Convention on the Rights of the Child, Iran has the
+    obligation to avoid capital punishment for an offence committed before the
+    age of eighteen. Trial Branch 102 of the Criminal Court of Jahrom tried
+    Mr. Sekhavatian and his two collaborators. No information is available on
+    his trial. Charges According to the Revolutionary Public Prosecutor of
+    Jahrom, the charge brought against Mr. Sekhavatian was announced as
+    murder. The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. Evidence of guilt The evidence presented against Mr.
+    Sekhavatian was his confession and the confession of his collaborators,
+    being identified by a witness, and recovery of the crime evidence.
+    International human rights organizations have repeatedly condemned the
+    government of the Islamic Republic of Iran for its systematic use of
+    severe torture and solitary confinement to obtain confessions from
+    detainees and have questioned the authenticity of confessions obtained
+    under duress. Defense No information is available on Mr. Sekhavatian s
+    defense. Judgment The court condemned Mr. Abdolhamid Sekhavatian to death.
+    Branch 37 of the Supreme Court confirmed the ruling, and the Head of
+    judiciary approved the public execution. He was hanged in public at Shahid
+    Chamron Square in Jahrom on August 21, 2013. According to the Fars
+    Provincial Courthouse, another defendant of this case was condemned to 10
+    years imprisonment and 50 lashes for participation in murder, to an
+    additional 15 years imprisonment for participation in kidnapping, to six
+    months imprisonment and 50 lashes for robbery with harassment, and to
+    another six months imprisonment for hiding the victim s body.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7704/abdolhamid-sekhavatian"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

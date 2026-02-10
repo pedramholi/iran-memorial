@@ -1,0 +1,59 @@
+id: n-hamed-2015
+name_latin: "Hamed N."
+name_farsi: "حامد ن."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2015-04-12
+age_at_death: null
+place_of_death: "Arak"
+province: "Markazi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Hamed N., along with three other
+    individuals*, was announced by the website of the provincial Ministry of
+    Justice office of the Markazi Province on April 12, 2015. His case
+    pertains to crimes connected to illegal drugs. Arrest and detention There
+    is no information available on the details of Mr. Hamed N. s arrest and
+    detention. Trial According to the available information, Mr. Hamed N. was
+    tried by Branch One of the Islamic Revolutionary Court of Saveh. However,
+    there is no information available on the details of the session or
+    sessions of his trial. Charges The court charged Mr. Hamed N. with storing
+    536 grams of methamphetamine. The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that the Islamic Republic
+    authorities have brought trumped-up charges, including drug trafficking,
+    sexual, and other criminal offences, against their opponents (including
+    political, civil society activists, as well as unionists and ethnic and
+    religious minorities). Thousands of alleged drug traffickers have been
+    sentenced to death following judicial processes that fail to meet
+    international standards. Scores of them were executed based on a 1989 law
+    imposing mandatory death sentences on drug traffickers found in possession
+    of specified amounts of proscribed narcotics (5 kg of hashish or opium,
+    and more than 30 grams of heroin, codeine or methadone). The exact number
+    of people convicted based on trumped-up charges is unknown. Evidence of
+    guilt There is no information available on details of the evidence of
+    guilt entered against Mr. Hamed N. Defense There is no information
+    available on the details of Mr. Hamed N. s defense. Judgment The court
+    sentenced Mr. Hamed N. to death. The verdict was validated by the Supreme
+    Court, and later enforced by the head of the Judiciary. Mr. Hamed N. was
+    hanged in Arak Central Prison on April 12, 2015.
+    --------------------------------- *Messers: Mohammad L., Mahmud S., and
+    Ne'matollah N.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8393/hamed-n"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

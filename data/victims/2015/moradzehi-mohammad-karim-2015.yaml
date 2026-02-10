@@ -1,0 +1,56 @@
+id: moradzehi-mohammad-karim-2015
+name_latin: "Mohammad Karim Moradzehi"
+name_farsi: "محمدکریم مرادزهی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2015-01-25
+age_at_death: null
+place_of_death: "Kerman"
+province: "Kerman"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Mohammad Karim Moradzehi, along with five
+    others, was published on the website of Iran Human Rights Organization on
+    January 26, 2015. This website updated the number of executed individuals
+    on January 27, 2015. According to this update, the execution of two
+    defendants was stopped and the prisoners returned to their cells. News of
+    this execution was not reflected in the official media in Kerman province.
+    However, the families were informed and had a chance for their last
+    visitations. Arrest and Detention There is no specific information on Mr.
+    Moradzehi s arrest and detention. Trial No information is available on Mr.
+    Moradzehi s trial. Charges According to the Iran Human Rights Organization
+    report, the charge against Mr. Moradzehi was announced as "related to
+    narcotics." The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. International human rights organizations have drawn
+    attention to reports indicating that Islamic Republic authorities have
+    brought trumped-up charges against their political opponents and executed
+    them for alleged drug trafficking, sexual, and other criminal offences.
+    Thousands of alleged drug traffickers have been sentenced to death
+    following judicial processes that fail to meet international standards.
+    Scores of them were executed based on a 1989 law imposing mandatory death
+    sentences on drug traffickers found in possession of specified amounts of
+    proscribed narcotics (5 kg of hashish or opium, and more than 30 grams of
+    heroin, codeine or methadone). The exact number of people convicted based
+    on trumped-up charges is unknown. Evidence of Guilt The report of this
+    execution did not provide any specific information on the evidence
+    presented against Mr. Moradzehi. Defense No information is available on
+    Mr. Moradzehi's defense. Judgment Mr. Mohammad Karim Moradzehi was hanged
+    at the Kerman Prison yard on January 25, 2015.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/73322/mohammad-karim-moradzehi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

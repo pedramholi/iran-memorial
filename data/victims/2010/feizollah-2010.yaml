@@ -1,0 +1,53 @@
+id: feizollah-2010
+name_latin: "Feizollah"
+name_farsi: "فیض الله"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2010-04-17
+age_at_death: null
+place_of_death: "Kerman"
+province: "Kerman"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the conviction and execution of Mr. Feizollah , along with four
+    others, was published on the website of Kerman Courthouse on January 23
+    and April 17, 2010. Arrest and Detention There is no specific information
+    on the defendant s arrest and detention. Trial No information is available
+    on the defendant s trial. This trial took place at the Islamic
+    Revolutionary Court in Kerman. Charges The charges against Mr. Feizollah
+    were announced as "participation in transportation and possession of opium
+    and morphine." The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. International human rights organizations have drawn
+    attention to reports indicating that Islamic Republic authorities have
+    brought trumped-up charges against their political opponents and executed
+    them for alleged drug trafficking, sexual, and other criminal offences.
+    Thousands of alleged drug traffickers have been sentenced to death
+    following judicial processes that fail to meet international standards.
+    Scores of them were executed based on a 1989 law imposing mandatory death
+    sentences on drug traffickers found in possession of specified amounts of
+    proscribed narcotics (5 kg of hashish or opium, and more than 30 grams of
+    heroin, codeine or methadone). The exact number of people convicted based
+    on trumped-up charges is unknown. Evidence of Guilt The evidence presented
+    against the defendant and two others was collectively announced as
+    "possession of 595 kilograms of opium and 106 kilograms of morphine."
+    Defence No information is available on the defendant's defence. Judgment
+    The court condemned Mr. Feizollah to death and he was hanged in the Kerman
+    prison on April 17, 2010.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/64722/feizollah"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

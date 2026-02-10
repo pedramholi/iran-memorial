@@ -1,0 +1,55 @@
+id: unknown-2014-268
+name_latin: "Unknown"
+name_farsi: "ناشناس"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2014-08-09
+age_at_death: null
+place_of_death: "Zahedan"
+province: "Sistan va Baluchestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of an unknown woman, along with four others, was
+    published on the website of the Human Rights and Democracy Activists in
+    Iran on August 9, 2014. She was executed along with her son, Mr. Osman
+    Dahmardeh. Her name is not mentioned in any report. Arrest and detention
+    This unknown woman was arrested along with her son. She was detained in
+    the Women s Section of the Zahedan Central Prison. The circumstances of
+    her arrest and detention are not known. Trial No information is available
+    on the defendant s trial. Charges The charge brought against the defendant
+    and four others was announced as possession of narcotics. The validity of
+    the criminal charges brought against this defendant cannot be ascertained
+    in the absence of the basic guarantees of a fair trial. International
+    human rights organizations have drawn attention to reports indicating that
+    the Islamic Republic authorities have brought trumped-up charges,
+    including drug trafficking, sexual, and other criminal offences, against
+    their opponents (including political, civil society activists, as well as
+    unionists and ethnic and religious minorities). Thousands of alleged drug
+    traffickers have been sentenced to death following judicial processes that
+    fail to meet international standards. Scores of them were executed based
+    on a 1989 law imposing mandatory death sentences on drug traffickers found
+    in possession of specified amounts of proscribed narcotics (5 kg of
+    hashish or opium, and more than 30 grams of heroin, codeine or methadone).
+    The exact number of people convicted based on trumped-up charges is
+    unknown. Evidence of guilt The report of this execution did not provide
+    any specific information on the evidence presented against this unknown
+    woman. Defense No information is available on the defendant s defense.
+    Judgment This unknown woman was hanged, along with four others, in the
+    Zahedan Central Prison on August 9, 2014.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/74579/unknown"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

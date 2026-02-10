@@ -1,0 +1,45 @@
+id: chupani-ebrahim-2014
+name_latin: "Ebrahim Chupani"
+name_farsi: "ابراهیم چوپانی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2014-10-29
+age_at_death: null
+place_of_death: "Orumieh"
+province: "Azarbaijan-e Gharbi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    Mr. Chupani was suffering from a severe mental disability and was holding
+    a "Special Mental Disease" ID. News of the execution of Mr. Ebrahim
+    Chupani was published by HRANA on October 29, 2014. Additional information
+    was collected from earlier news published by HRANA. Mr. Chupani, from
+    Yusefkand village in Mahabad, suffered from a severe mental disability,
+    holding a red card (an identification card issued to patients with severe
+    mental disability). His case was related to a murder during a tribal
+    fight. Arrest and detention The circumstances of Mr. Chupani s arrest and
+    detention are not known. Trial No information is available on Mr. Chupani
+    s trial. Charges The charge brought against Mr. Chupani was murder .
+    Evidence of guilt The report of this execution does not contain
+    information regarding the evidence provided against the defendant. Also,
+    there is no information whether he was given the right to be represented
+    by a lawyer. Defense No information is available on Mr. Chupani s defense.
+    Judgment Mr. Ebrahim Chupani was sentenced to death without considering
+    his mental disability. He was hanged in the Central Prison of Orumieh on
+    October 29, 2014.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8655/ebrahim-chupani"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

@@ -1,0 +1,73 @@
+id: h-hadi-2015
+name_latin: "Hadi H."
+name_farsi: "هادی ه."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2015-05-27
+age_at_death: 30
+place_of_death: "Mashhad"
+province: "Khorasan-e Razavi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Hadi H., along with two others, was published
+    in the Iran newspaper on May 28, 2015, Fars news agency on May 27, 2015,
+    the Khorasan newspaper on May 28, 2015, and the Reporters Club on May 27,
+    2015. Additional information was taken from the Khorasan newspaper and the
+    website of the Khorasan-e Razavi General Courthouse on May 26, 2015. Mr.
+    Hadi H., a resident of Mashhad, had a sewing shop. His case and the cases
+    of two other defendants were related to several carjacking and robberies
+    from jewelry stores between 2004 and 2011. Arrest and detention Mr. Hadi
+    H. was arrested by inspectors of the Intelligence Police in Khorasan-e
+    Razavi in Mashhad in the fall of 2011. According to the police commander
+    in Mashhad, he was identified and arrested during a coordinated operation
+    among various divisions of police (Iran newspaper on May 28, 2015). The
+    circumstances of his arrest and detention are not known. Trial Branch
+    Eight of the Islamic Revolutionary Court of Mashhad tried Mr. Hadi H. and
+    the other two defendants in the presence of their attorneys and in several
+    sessions (Khorasan-e Razavi General Courthouse). No information is
+    available on his trial. Charges According to the Revolutionary Public
+    Prosecutor of Mashhad, the charges brought against Mr. Hadi H. and the
+    other two defendants were collectively announced as Moharebe [fighting
+    against God] by committing armed robberies resulting in murder, creating
+    public insecurity, and public fear and intimidation. (Khorasan-e Razavi
+    General Courthouse) The validity of the criminal charges brought against
+    this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. Evidence of guilt The evidence presented
+    against Mr. Hadi H. was several combat rifles, some handmade explosive
+    belts, and explosives, in addition to the defendants confessions.
+    According to the Police Commander in Mashhad, the defendants confessed to
+    committing 12 armed robberies from jewelry stores in Mashhad and a robbery
+    from a financial institution during interrogation. (Iran newspaper, May
+    28, 2015) International human rights organizations have repeatedly
+    condemned the government of the Islamic Republic of Iran for its
+    systematic use of severe torture and solitary confinement to obtain
+    confessions from detainees and have questioned the authenticity of
+    confessions obtained under duress. Defense No information is available on
+    Mr. Hadi H. s defense. However, his attorney objected the ruling. Judgment
+    Branch Eight of the Islamic Revolutionary Court of Mashhad identified Mr.
+    Hadi H. as Mohareb [fighter against God] and condemned him to death.
+    Branch 42 of the Supreme Court confirmed the ruling and the Head of
+    Judiciary validated it. He was hanged, along with two others, in public
+    and in the presence of the Revolutionary Public Prosecutor of Mashhad,
+    Police Commander in Mashhad, and the victims families at Moslem Street in
+    the Gase-Sharqi quarter in Mashhad on May 27, 2015. According to the
+    Khorasan-e Razavi General Courthouse, these execution rulings were based
+    on Articles 42, 183, 185, 190, 191 of the Islamic Penal Code passed in
+    1991.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7891/hadi-h"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

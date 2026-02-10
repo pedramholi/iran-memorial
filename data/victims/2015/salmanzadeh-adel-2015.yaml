@@ -1,0 +1,56 @@
+id: salmanzadeh-adel-2015
+name_latin: "Adel Salmanzadeh"
+name_farsi: "عادل سلمان‌زاده"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2015-03-07
+age_at_death: 29
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Adel Salmanzadeh, along with 11 others, was
+    published on the website of Human Rights and Democracy Activists in Iran
+    on March 7, 2015. Only eight names were published in this report. News of
+    this execution, along with seven others, was also published on the website
+    of HRANA (Human Rights Activists News Agency) on March 7, 2015. It was not
+    published in the official media. According to the report, Mr. Salmanzadeh
+    was 29 years old and married. Arrest and detention Mr. Salmanzadeh was
+    detained at Hallway 2, Unit Two of Qezelhesar Prison in Karaj for 30
+    months. The circumstances of his arrest and detention are not known. Trial
+    No information is available on Mr. Salmanzadeh s trial. Charges According
+    to HRANA, the charge brought against Mr. Salmanzadeh was announced as
+    narcotics related. The validity of the criminal charges brought against
+    this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that Islamic Republic authorities
+    have brought trumped-up charges against their political opponents and
+    executed them for alleged drug trafficking, sexual, and other criminal
+    offences. Thousands of alleged drug traffickers have been sentenced to
+    death following judicial processes that fail to meet international
+    standards. Scores of them were executed based on a 1989 law imposing
+    mandatory death sentences on drug traffickers found in possession of
+    specified amounts of proscribed narcotics (5 kg of hashish or opium, and
+    more than 30 grams of heroin, codeine or methadone). The exact number of
+    people convicted based on trumped-up charges is unknown. Evidence of guilt
+    The report of this execution does not contain information regarding the
+    evidence provided against Mr. Salmanzadeh. Defense No information is
+    available on Mr. Salmanzadeh s defense. Judgment Mr. Adel Salmanzadeh was
+    hanged at the Qezelhesar Prison yard in Karaj on March 7, 2015.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7553/adel-salmanzadeh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

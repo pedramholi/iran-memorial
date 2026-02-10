@@ -1,0 +1,56 @@
+id: d-a-2014-3
+name_latin: "A. D."
+name_farsi: "ع. د."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2014-12-31
+age_at_death: null
+place_of_death: "Yazd"
+province: "Yazd"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. A. D. was published on the websites of the
+    Yazd Provincial Courthouse, Fars news agency, Yazd ISNA, and Mehr news on
+    January 2, 2015, and Kurdistan-e Azad on January 4, 2015. According to the
+    Head of the Sentence Enforcement Office of Yazd Courthouse, Mr. A. D. was
+    charged following the recovery of a fifty-year-old man s body around
+    Ardakan on September 22, 2012. Arrest and Detention According to the Yazd
+    Provincial Courthouse report, Mr. A. D. was arrested and interrogated by
+    police less than 24 hours after the recovery of the victim s body on
+    September 23, 2012. He was detained for two years. However, there is no
+    specific information about his arrest and detention. Trial The Provincial
+    Criminal Court of Yazd tried Mr. A. D. No information is available on his
+    trial. Charges According to the Head of the Sentence Enforcement Office of
+    Yazd Courthouse, the charge against Mr. A. D. was announced as "murder."
+    The validity of the criminal charges brought against this defendant cannot
+    be ascertained in the absence of the basic guarantees of a fair trial.
+    Evidence of Guilt The evidence against Mr. A. D. was announced as the
+    defendant s confession, during the police interrogation. International
+    human rights organizations have repeatedly condemned the government of the
+    Islamic Republic of Iran for its systematic use of severe torture and
+    solitary confinement to obtain confessions from detainees and have
+    questioned the authenticity of confessions obtained under duress. Defense
+    According to the Head of the Sentence Enforcement Office of Yazd
+    Courthouse, Mr. A. D. claimed that he did not intend to murder the victim.
+    The murder took place after an argument and a physical confrontation.
+    Judgment The Provincial Criminal Court of Yazd condemned Mr. A. D. to
+    death and the Supreme Court and the Head of the Judiciary confirmed the
+    ruling. He was hanged at the Yazd Central Prison on December 31, 2014 in
+    the morning.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7644/a-d"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

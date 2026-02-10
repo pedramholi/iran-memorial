@@ -1,0 +1,82 @@
+id: hamidi-hashem-2011
+name_latin: "Hashem Hamidi"
+name_farsi: "هاشم حمیدی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2011-05-05
+age_at_death: 16
+place_of_death: "Unknown"
+province: null
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Hashem Hamidi and four other prisoners was
+    published by various sources including Ahwaznews (May 7, 2011,) Al Arabieh
+    (May 8, 2011,) the International Campaign for Human Rights in Iran (May
+    15, 2011,) and Amnesty International (May 23, 2011.) Additional
+    information was taken from statements by Amnesty International (June 11,
+    2012) and the International Federation for Human Rights (January 4, 2013.)
+    Mr. Hamidi was a 16-year-old Khuzestani Arab. International laws have
+    strictly prohibited capital punishment against those who were under the
+    age of 18 at the time of committing the crime. As a party to the Covenant
+    on Civil and Political Rights and the Convention on the Rights of the
+    Child, Iran has the obligation to avoid capital punishment for an offence
+    committed before the age of eighteen. Amnesty International, the
+    International Federation for Human Rights, and the Human Rights
+    Organization of Ahvaz issued statements objecting to the execution of Arab
+    citizens including Mr. Hamidi following unjust and non-transparent trials
+    which disregarded legal standards. Arrest and detention The circumstances
+    of Mr. Hamidi s arrest and detention are not known. Trial According to the
+    Amnesty International statement, Mr. Hamidi was tried without the presence
+    of an attorney in a ten-minute session (The Committee for Defense of
+    Political Prisoners, May 23, 2011.) No further information is available on
+    his trial. Charges No specific information is available on Mr. Hamidi s
+    charges. According to some reports, the charges against him and four other
+    defendants were murder of a police agent and two others during the unrest
+    in Khuzestan* in April of 2011. According to Amnesty International, these
+    defendants may have been tried on charges of Moharebeh ( war against God.
+    ) The validity of the criminal charges brought against this defendant
+    cannot be ascertained in the absence of the basic guarantees of a fair
+    trial. Evidence of guilt The report of this execution did not provide any
+    specific information on the evidence presented against Mr. Hamidi. Defense
+    Mr. Hamidi was 16 years old and younger than legal age. No information is
+    available on his defense. Judgment A court condemned Mr. Hashem Hamidi to
+    death. The court branch which is issued the judgment and the date of the
+    ruling are unknown. No information is available about the confirmation of
+    this ruling by the Supreme Court. He was hanged, along with four others,
+    at Karun Prison in Ahvaz on May 5, 2011. His body was given to his family.
+    According to the Amnesty International statement, Hamidi may have been
+    decapitated during the hanging (The Committee for Defense of Political
+    Prisoners, May 23, 2011.) ___________________________________ * On April
+    15, 2011 - the sixth anniversary of the 2005 protests and shortly after
+    the rise of the Arab Spring in the Middle East - Day of Anger
+    demonstrations were organized in regions of Khuzestan Province with
+    predominantly Arab populations in solidarity with popular movements in the
+    region s Arab countries. In Hamidieh and Ahvaz, demonstrations were more
+    widespread and were therefore violently quashed by security and police
+    forces, resulting in at least twelve dead and more than twenty injured
+    (Human Rights Defenders.) Additionally, hundreds of other Arab citizens
+    were arrested. International human rights organizations condemned the
+    suppression of demonstrations and the ban on news coverage by Iranian
+    authorities, and asked the Islamic Republic authorities to allow
+    journalists and human rights organizations to independently investigate
+    and freely send reports in order to identify the victims of the
+    demonstration crackdowns in Ahvaz and other majority-Arab cities in
+    Khuzestan (Reporters Without Borders, April 23, 2011; Human Rights Watch,
+    April 29, 2011.)
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7872/hashem-hamidi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

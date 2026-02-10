@@ -1,0 +1,77 @@
+id: rigi-jihand-2015
+name_latin: "Jihand Rigi"
+name_farsi: "جیهند ریگی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2015-02-04
+age_at_death: 27
+place_of_death: "Zahedan"
+province: "Sistan va Baluchestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Jihand Rigi was published on the websites of
+    the Human Rights and Democracy Activists in Iran on February 4, 2015 and
+    Baluchcampaign (Baluch Activists) on March 2, 2015. Additional information
+    was taken from the website of the Human Rights and Democracy Activists in
+    Iran on March 23 and September 7, 2013, and February 13 and November 3,
+    2014. Mr. Rigi, 27, was a Baluch political activist. Arrest and detention
+    Mr. Rigi was arrested by security agents and transferred to the Zahedan
+    Intelligence Office prison in 2010. (Human Rights and Democracy Activists
+    in Iran, September 7, 2013) He was detained in solitary confinement and
+    tortured physically and psychologically by the interrogators of the
+    Intelligence Ministry for several months. After receiving his sentence, he
+    was transferred to the Public Section of the Zahedan Central Prison.
+    During his detention, he objected to the prison conditions several times.
+    Once he resisted wearing a worn woman s dress full of lice and was
+    transferred to solitary confinement where he was tortured. According to
+    the Baluchcampaign website, before his execution Mr. Rigi spent some times
+    in the Chahbahar Prison in exile. Overall, he was detained for four years
+    without an attorney. Trial Branch One of the Revolutionary Court of
+    Zahedan tried Mr. Rigi in a few minutes session. (Human Rights and
+    Democracy Activists in Iran on February 4, 2015) Charges No information is
+    available on Mr. Rigi s charges. The validity of the criminal charges
+    brought against this defendant cannot be ascertained in the absence of the
+    basic guarantees of a fair trial. International human rights organizations
+    have drawn attention to reports indicating that Islamic Republic
+    authorities have brought trumped-up charges against their political
+    opponents and executed them for alleged drug trafficking, sexual, and
+    other criminal offences. Each year Iranian authorities sentence to death
+    hundreds of alleged common criminals, following judicial processes that
+    fail to meet international standards. The exact number of people convicted
+    based on trumped-up charges is unknown. Evidence of guilt The report of
+    this execution does not contain information regarding the evidence
+    provided against Mr. Rigi. However, according to the reports, the
+    interrogators of the Intelligence Ministry tortured and forced him to
+    confess against his will. (Human Rights and Democracy Activists in Iran)
+    International human rights organizations have repeatedly condemned the
+    government of the Islamic Republic of Iran for its systematic use of
+    severe torture and solitary confinement to obtain confessions from
+    detainees and have questioned the authenticity of confessions obtained
+    under duress. In the case of political detainees, these confessions are,
+    at times, televised. National television broadcasts confessions during
+    which prisoners plead guilty to vague and false charges, repent and
+    renounce their political beliefs, and/or implicate others. Human rights
+    organizations have also pointed to the pattern of retracted confessions by
+    those prisoners who are freed. Defense No information is available about
+    Mr. Rigi s defense. Judgment Branch One of the Revolutionary Court of
+    Zahedan condemned Mr. Jihand Rigi to death and 10 years imprisonment. He
+    was hanged in the presence of the Public Prosecutor of Zahedan, the Head
+    of Branch One of the Revolutionary Court of Zahedan, and his interrogator,
+    at the Zahedan Central Prison on February 4, 2015 at dawn.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/74700/jihand-rigi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

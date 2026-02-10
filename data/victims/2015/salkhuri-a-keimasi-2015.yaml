@@ -1,0 +1,52 @@
+id: salkhuri-a-keimasi-2015
+name_latin: "A. Keimasi Salkhuri"
+name_farsi: "ع. کیماسی سلخوری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2015-01-06
+age_at_death: 21
+place_of_death: "Qazvin"
+province: "Zanjan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. A. Keimasi Salkhuri was published on the
+    websites of Qazvin Provincial Courthouse, Mehrnews, Fars news agency, and
+    many other websites, quoting the Public Relations Office of the Qazvin
+    Provincial Courthouse on January 6, 2015. Arrest and Detention According
+    to the Public Relations Office of the Qazvin Provincial Courthouse, Mr.
+    Keimasi Salkhuri was arrested in connection with a collective fight that
+    took place at a traditional garden in Qazvin resulting in a murder on July
+    5, 2010. Trial No information is available on Mr. Keimasi Salkhuri s
+    trial. Charges According to the Head of the Qazvin Provincial Courthouse,
+    the charge against Mr. Keimasi Salkhuri was "murder." The validity of the
+    criminal charges brought against this defendant cannot be ascertained in
+    the absence of the basic guarantees of a fair trial. Evidence of Guilt The
+    evidence presented against Mr. Keimasi Salkhuri was his confession to
+    stabbing the victim in the chest, and his possession of the knife.
+    International human rights organizations have repeatedly condemned the
+    government of the Islamic Republic of Iran for its systematic use of
+    severe torture and solitary confinement to obtain confessions from
+    detainees and have questioned the authenticity of confessions obtained
+    under duress. Defense During the interrogation, Mr. Keimasi Salkhuri
+    stated that he had consumed tranquilizers on the day of the fight.
+    However, no information is available on his defense. Judgment The court
+    condemned Mr. A. Keimasi Salkhuri to death and the Supreme Court confirmed
+    the ruling. The ruling was carried out on January 6, 2015 when he was
+    hanged at the Qazvin Central Prison yard.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7537/a-keimasi-salkhuri"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

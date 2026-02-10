@@ -1,0 +1,73 @@
+id: valipur-babakhan-2015
+name_latin: "Babakhan Valipur"
+name_farsi: "باباخان ولی‌پور"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2015-02-25
+age_at_death: null
+place_of_death: "Khoramabad"
+province: "Lorestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Babakhan Valipur was published on the
+    websites of Central News Unit and ILNA (Iranian Labor News Agency) on
+    February 25, 2015. Additional information was gathered from the websites
+    of Kayhan on August 25, 2008, Lorestan Courthouse on October 11, 2009, and
+    Fars news agency on October 11, 2009 and April 17, 2010. Arrest and
+    Detention According to ILNA, quoting the Public Prosecutor of Khorramabad,
+    Mr. Valipur was arrested in 2006. There is no specific information on his
+    arrest and detention. Trial Branch 102 of the Khorramabad Court tried this
+    case and issued a ruling in October of 2010. According to the Fars news
+    agency report, quoting the Public Relations Office of the Lorestan
+    Courthouse, after Mr. Valipur s attorneys appealed, the ruling was
+    referred to Branch One of the Supreme Court. After investigation and based
+    on the qualification of the Provincial Appeal Courts for such cases, it
+    was referred to the Province. Since the objection of the defendant and his
+    attorneys was not based on any of the four conditions mentioned in Article
+    240* of the Criminal Code of Procedure, Branch 10 of the Appeal Court
+    confirmed the ruling based on Article 250** of the Criminal Code of
+    Procedure. No further information is available on Mr. Valipur s trial.
+    Charges According to the website of the Lorestan Courthouse, the charges
+    against Mr. Valipur were announced as "fraud, receiving large amounts of
+    money from people for investment resulting in embezzlement, and earning
+    profit through illegitimate means." According to the Kayhan newspaper, Mr.
+    Valipur and his collaborators received money from people for buying
+    vehicles but did not deliver the vehicles. Evidence of Guilt According to
+    the Kayhan newspaper, quoting the Head of the Public Relations Office of
+    the Lorestan Courthouse, the evidence presented against Mr. Valipur was
+    the complaint of 1,323 individuals who claimed 18.6 Billion Tumans.
+    Defense No information is available on Mr. Valipur s defense. Judgment The
+    Court condemned Mr. Babakhan Valipur to death and the Supreme Court
+    confirmed the ruling. He was hanged in Khorramabad on February 25, 2015.
+    ------------------------------------ *Article 240 An appeal can be
+    requested in the following instances: A- Claiming that the documents
+    referred to by the court were invalid, or a lack of legality in the
+    testimonies of the witnesses, or that there were false statements made by
+    the witnesses. B- Claiming that the sentence is against the law. C-
+    Claiming that the judge did not pay attention to the expressed reasons. D-
+    Claiming the judge or issuing court is incompetent. Note If the appeal is
+    made based upon one of the above-mentioned items in this article, and
+    there are no other components involved, then the Court of Appeal can take
+    everything into consideration. **Article 250 If the sentence of an
+    appellant includes a mistake with regard to the conviction, loss,
+    specification of the parties or the type and quantity of the punishment,
+    and adjustment of the act with the law or other similar errors, which do
+    not harm the foundation of the sentence, the Appeal Authority will review
+    it as an appeal and will correct it while confirming it.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7583/babakhan-valipur"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

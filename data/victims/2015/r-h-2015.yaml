@@ -1,0 +1,50 @@
+id: r-h-2015
+name_latin: "H. R."
+name_farsi: "ح. ر."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2015-02-28
+age_at_death: 28
+place_of_death: "Rasht"
+province: "Gilan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. H. R., son of Gholam Hossein, along with two
+    others, was published on the websites of Gilan General Courthouse on March
+    1, 2015, quoting the Public Relations Office of the Gilan General
+    Courthouse, and Jamejam Online on March 2, 2015. Mr. H. R, 28, was from
+    Gilan. Arrest and detention The circumstances of Mr. H. R s arrest and
+    detention are not known. Trial The Criminal Court of Gilan tried Mr. H. R.
+    No information is available on his trial. Charges According to the Public
+    Relations Office of the Gilan General Courthouse, the charge against Mr.
+    H. R. was announced as murder. According to the Jamejam Online report,
+    after having an affair with a woman, he murdered her husband in 2011. The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    Evidence of guilt The evidence provided against Mr. H. R. was his
+    confession to committing the crime. International human rights
+    organizations have repeatedly condemned the government of the Islamic
+    Republic of Iran for its systematic use of severe torture and solitary
+    confinement to obtain confessions from detainees and have questioned the
+    authenticity of confessions obtained under duress. Defense No information
+    is available on Mr. H. R. s defense. Judgment The Criminal Court of Gilan
+    condemned Mr. H. R. to death and the Supreme Court confirmed the ruling.
+    He was hanged in the presence of authorities at the Rasht Prison yard on
+    Saturday February 28, 2015. His body was transferred to the morgue.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7547/h-r"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

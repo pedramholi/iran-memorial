@@ -1,0 +1,67 @@
+id: esmailzehi-zarbibi-2023
+name_latin: "Zarbibi Esma'ilzehi"
+name_farsi: "زر بی بی اسماعیل زهی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam (Sunni)"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2023-02-20
+age_at_death: 60
+place_of_death: "Zahedan"
+province: "Sistan va Baluchestan"
+cause_of_death: "Arbitrary Execution » Arbitrary shooting"
+circumstances: >
+    Bloody Friday The city of Zahedan in Sistan and Baluchestan Province, and
+    home to the ethnic and majority Sunni Baluch minority, was the scene of a
+    massacre on Friday, September 30, 2022. The massacre, also known as
+    Zahedan Bloody Friday, took place in the context of nationwide protests
+    that followed the death in detention of Mahsa Jina Amini on September 16,
+    2022 and after the news of the rape of a 15-year old girl by the Police
+    Chief in Rasak, which was confirmed by the local Friday sermon cleric, had
+    sparked protests in Chabahar on September 27. The earlier protest had led
+    to calls for further demonstrations across the Province on Friday
+    September 30th in solidarity with those who struggle across Iran s
+    geography and in Kurdistan, and called for a transparent investigation of
+    the rape and accountability by local clericsm including the Great Mosalla
+    prayer complex, located near Zahedan s Makki mosque. Based on eyewitness
+    testimonies, media, and human rights groups investigations of videos and
+    photos of the event that took place on September 30, 2022, the shootings
+    by armed security forces (including some in plain clothes), who were
+    located on the roof of Police Station 16 across the Great Mosalla and
+    surrounding roofs, began when a small group of unarmed worshipers emerged
+    from the prayer complex around mid-day, before the end of the Friday
+    prayer and walked toward the police station chanting anti-government
+    slogans. In response, security forces fired live ammunition, metal pellets
+    and tear gas at them and at bystanders while protesters threw stones at
+    the police station. Snipers also shot at worshipers in the Mosalla and its
+    vicinity killing scores, including children and at least one female
+    worshiper. According to medical professionals, many victims died from
+    bullet wounds to the head, back of the head and neck, torso, heart, and
+    stomach. Following the shootings, tension mounted in several other
+    neighborhoods in Zahedan and the surrounding area, including around Maki
+    mosque. The authorities reported that three police stations had been
+    attacked by protesters that day in Zahedan. In a statement issued on
+    October 28, the Security Council of Sistan and Baluchestan province
+    claimed that six security force members and 35 other people including
+    worshipers and bystanders had been killed, and falsely accused protesters
+    of having attacked the police station with stones and firearms.
+    Additionally, the statement announced that the head of Police Station
+    Number 16 and the head of police in Zahedan were dismissed because of
+    their fatal negligence . As of October, the number of people killed during
+    Zahedan s Bloody Friday or died from their injuries in the following days
+    and weeks has been estimated between 66 and 97 and hundreds were wounded.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/86257/zarbibi-esmailzehi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

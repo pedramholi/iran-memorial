@@ -1,0 +1,56 @@
+id: nekuzadeh-musa-2015
+name_latin: "Musa Nekuzadeh"
+name_farsi: "موسی نکوزاده"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2015-02-22
+age_at_death: 22
+place_of_death: "Bandar Abbas"
+province: "Hormozgan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Musa Nekuzadeh, 22, born in Bandar-e Abbas,
+    along with seven others, was published on the websites of Central News
+    Unit on February 22, Hormozgan Provincial Courthouse on February 25, 2015
+    without naming him. However, the HRANA (Human Rights Activists News
+    Agency) website published his name among the list of executed individuals
+    on February 22, 2015. Arrest and Detention There is no specific
+    information on Mr. Nekuzadeh s arrest and detention. Trial No information
+    is available on Mr. Nekuzadeh s trial. Charges According to the website of
+    Hormozgan Provincial Courthouse, quoting the Head of Hormozgan Provincial
+    Courthouse, the charge against Mr. Nekuzadeh was "drug trafficking." The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    International human rights organizations have drawn attention to reports
+    indicating that Islamic Republic authorities have brought trumped-up
+    charges against their political opponents and executed them for alleged
+    drug trafficking, sexual, and other criminal offences. Thousands of
+    alleged drug traffickers have been sentenced to death following judicial
+    processes that fail to meet international standards. Scores of them were
+    executed based on a 1989 law imposing mandatory death sentences on drug
+    traffickers found in possession of specified amounts of proscribed
+    narcotics (5 kg of hashish or opium, and more than 30 grams of heroin,
+    codeine or methadone). The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of Guilt The report of this
+    execution did not provide any specific information on the evidence
+    presented against Mr. Nekuzadeh. Defense No information is available on
+    Mr. Nekuzadeh's defense. Judgment Mr. Musa Nekuzadeh was hanged in
+    Bandar-e Abbas on February 22, 2015. No further information is available
+    regarding this execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7540/musa-nekuzadeh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

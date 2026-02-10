@@ -1,0 +1,97 @@
+id: raji-mohammad-2018
+name_latin: "Mohammad Raji"
+name_farsi: "محمد راجی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: "https://www.iranrights.org/actorphotos/85357_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 2018-01-01
+age_at_death: 56
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Extrajudicial Execution"
+circumstances: >
+    Information regarding the extrajudicial execution of Mr. Mohammad Raji was
+    obtained from Abdorrahman Boroumand Center s interviews with an individual
+    close to the family (August 13, 2023, and February 20, 2024), the report
+    of the Forensic Medical Office of Kahrizak county, Tehran province, after
+    an autopsy of Mr. Raji s body (February 21, 2018), and a letter from the
+    head of the Forensic Medicine Diagnostic and Laboratory Center of Tehran
+    Province to the deputy prosecutor and head of the 27th district Prosecutor
+    s Office of Tehran. (May 30, 2018) Additional information was obtained
+    from interviews with four eyewitness, eyewitness one (August 18, 2023),
+    Gonabadi darvish Abbas Dehghan who was arrested on February 20 in Golestan
+    Haftom (August 19, 2023), eyewitness number two (February 17, 2024) and
+    eyewitness number three (February 20, 2024); as well as from the websites
+    of IRNA (February 25, 2018), Fars News Agency (March 5, 2018), a statement
+    by Hojjat-ul-Islam Ali Sarlak, Mr. Raji's friend who had known him for two
+    decades and had served with him during the Iran-Iraq War, on the Didban-e
+    Iran website (March 7, 2018), Mizan (March 7, 2018), Majzouban Noor
+    (September 13, 2018), IranWire (February 21, 2019), Dervishnameh magazine
+    (February 22, 2019), and Radio Farda (March 4, 5, and 6, 2018). Mr.
+    Mohammad Raji, son of Ali Asghar and Akram Hesami, was born on December
+    22, 1961, in Aligudarz township, Lorestan province. At age 18, at the
+    start of the Iran-Iraq war (September 1980), he volunteered to go to the
+    front. A pro-government cleric who served under Mr. Raji during the war,
+    stated that within a year, Mr. Raji's bravery and effectiveness as a
+    "line-breaker" ( the volunteer unit that is the front of the attack that
+    opens the way for the following troops) led to his rapid promotion. He
+    quickly rose to command various battalions and operations, eventually
+    attaining the rank of IRGC commander. Mr. Raji was injured many times
+    during the war, but his most serious injury was caused by chemical
+    weapons, which destroyed a large part of his lung, requiring him to use
+    oxygen for a time (Hojjat-ol-Islam Ali Sarlak, Didbaneh Iran - March 7,
+    2018). However, over the years, Mr. Raji regained his health and became an
+    athlete. He was fond of wrestling and climbing and was very fit (Interview
+    with a person close to the family - August 13, 2023). According to a
+    person close to the family, Mr. Raji was very ethical and, therefore,
+    after seeing the IRGC s "inhumane" behavior and corruption, he gradually
+    became "disheartened" and requested to be discharged from the service, but
+    his request was denied. He stopped going to work from 2001 until finally,
+    in 2004, his early retirement was approved. (Interview, August 22, 2023)
+    After retirement, he and his family returned to his place of birth, Maza
+    ehabad village, in Aligudarz. They took up agriculture, so much so that he
+    was named model farmer of the year (Hojjat ol-Islam Ali Sarlak, Dideban
+    Iran, March 7, 2018). Mr. Mohammad Raji, who had a "God-seeking" spirit
+    and was looking for "transcendence," became acquainted with Nematollahi
+    Gonabadi Darvishes and practices around 2010, and joined them after some
+    research and participation in their meetings. After Mr. Raji became a
+    darvish, various people from the representative of the Supreme Leader to
+    the top commanders of the IRGC went to see him to convince him to leave
+    the Gonabadis, blaming them for his parting ways with the IRGC. However,
+    Raji s retirement and actively distancing himself from the IRGC took place
+    six years before he joined the Darvish Order. (Interview with a person
+    close to the family - August 13, 2023). In this regard, Hojjat-ol-Islam
+    Sarlak also acknowledged Mr. Raji s "spiritual tendencies," and the
+    changes he underwent from 2003 onwards. He said in a speech we talked to
+    him many times, but unfortunately, Mr. Raji had chosen his path. (Hojjat
+    ol-Islam Ali Sarlak, Dideban Iran - March 7, 2018) Ne matollahi Gonabadi
+    Darvishes and the history of their suppression in the Islamic Republic (1)
+    Dervishian or Sufism is a spiritual aspect of Islam that emphasizes each
+    person's inner relationship with, and love for, God. There are different
+    opinions about the origin of Sufism. Some consider it an Aryan reaction
+    against Islam, some consider it to be derived from Brahmanism and Buddhism
+    in India, some relate it to the wisdom of the Greeks, and others identify
+    Christianity and Manichaeism as the origin of Sufism. In addition to all
+    these beliefs, some people consider Sufism to have originated as a school
+    of Islam and the teachings of the Qur an. The Nematollahi lineage is one
+    of the old Sufi sects. The word Nematollahi is taken from the name of the
+    great eighth-century Iranian mystic, "Seyed Nureddin Shah Ne matollah
+    Wali," and after him, this path and its followers became known as "Ne
+    matollahi. Currently, the Nematollahi lineage of SoltanAliShahi Gonabadi
+    (known as Gonabadi Darvishes) is one of Iran's most populous Sufi lin
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8762/mohammad-raji"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

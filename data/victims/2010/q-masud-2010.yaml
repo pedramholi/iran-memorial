@@ -1,0 +1,57 @@
+id: q-masud-2010
+name_latin: "Mas'ud Q"
+name_farsi: "مسعود ق"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2010-12-04
+age_at_death: 38
+place_of_death: "Esfahan"
+province: "Esfahan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Mas’ud Q., along with three others, was
+    published on the websites of Esfahan Courthouse on December 5, and ISNA
+    (Iranian Students News Agency) on December 4, 2010, quoting the Public
+    Relations Office of the Esfahan Courthouse. Arrest and Detention There is
+    no specific information on the defendant’s arrest and detention. Trial No
+    information is available on the defendant’s trial. This trial took place
+    at Branch Four of the Islamic Revolutionary Court of Esfahan. Charges The
+    charges against Mr. Mas’ud Q. were announced as "hiding and transporting
+    261 grams of crack." The validity of the criminal charges brought against
+    this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that Islamic Republic authorities
+    have brought trumped-up charges against their political opponents and
+    executed them for alleged drug trafficking, sexual, and other criminal
+    offences. Thousands of alleged drug traffickers have been sentenced to
+    death following judicial processes that fail to meet international
+    standards. Scores of them were executed based on a 1989 law imposing
+    mandatory death sentences on drug traffickers found in possession of
+    specified amounts of proscribed narcotics (5 kg of hashish or opium, and
+    more than 30 grams of heroin, codeine or methadone). The exact number of
+    people convicted based on trumped-up charges is unknown. Evidence of Guilt
+    The report of this execution did not provide any specific information on
+    the evidence presented against the defendant. Defence No information is
+    available on the defendant's defence. Judgment The court condemned Mr.
+    Mas’ud Q. to death and confiscation of his belongings, except cost of
+    living. The ruling was confirmed by the General Public Prosecutor. After
+    the defendant’s requests for pardon were denied, twice, he was hanged in
+    the Esfahan Central prison yard on December 4, 2010. Mr. Mas’ud Q. was 38
+    years old.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/64769/masud-q"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

@@ -1,0 +1,72 @@
+id: moslemi-vahid-2011
+name_latin: "Vahid Moslemi"
+name_farsi: "وحید مسلمی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2011-09-18
+age_at_death: 19
+place_of_death: "Karaj"
+province: "Alborz"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Vahid Moslemi, son of Habib, along with 21
+    others, was published in the Iran newspaper on September 19, 2011 and on
+    the website of Human Rights and Democracy Activists in Iran on September
+    18, 2011. Additional information was taken from the same website on
+    September 16 and 17, 2011. This case was related to the transportation and
+    possession of narcotics and importing them into the prison. Mr. Moslemi,
+    an Afghan citizen, was 17 years old when the crime took place.
+    International laws have strictly prohibited capital punishment against
+    those who were under the age of 18 at the time of committing the crime. As
+    a party to the Covenant on Civil and Political Rights and the Convention
+    on the Rights of the Child, Iran has the obligation to avoid capital
+    punishment for an offence committed before the age of eighteen. Arrest and
+    detention Mr. Moslemi was detained in the Qezelhesar Prison for two years.
+    On September 17, 2011, he was transferred to solitary confinement either
+    at the Evin Prison or in Gohardasht Prison where he was allowed to visit
+    his family. According to Human Rights and Democracy Activists in Iran,
+    seven prisoners could not visit their families in person and had to talk
+    to them in booths. The circumstances of his arrest and detention are not
+    known. Trial The Islamic Revolutionary Court tried Mr. Moslemi (Iran
+    newspaper). No information is available on his trial. Charges The charge
+    brought against Mr. Moslemi. was announced as transporting narcotics into
+    the prison. (Iran newspaper) The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that the Islamic Republic
+    authorities have brought trumped-up charges, including drug trafficking,
+    sexual, and other criminal offences, against their opponents (including
+    political, civil society activists, as well as unionists and ethnic and
+    religious minorities). Thousands of alleged drug traffickers have been
+    sentenced to death following judicial processes that fail to meet
+    international standards. Scores of them were executed based on a 1989 law
+    imposing mandatory death sentences on drug traffickers found in possession
+    of specified amounts of proscribed narcotics (5 kg of hashish or opium,
+    and more than 30 grams of heroin, codeine or methadone). The exact number
+    of people convicted based on trumped-up charges is unknown. Evidence of
+    guilt The evidence presented against Mr. Moslemi. was possession of 307
+    grams of crack. (Iran newspaper) Defense Mr. Moslemi was under 18 when the
+    crime was committed. No information is available on his defense. Judgment
+    The Islamic Revolutionary Court condemned Mr. Vahid Moslemi to death and
+    the General Public Prosecutor s Office confirmed the ruling. He was
+    hanged, along with 21 others, either at the Evin Prison yard in Tehran or
+    in Gohardasht Prison in Karaj on September 18, 2011. Authorities told the
+    families to go to the Kahrizak morgue to receive the bodies on September
+    18, 2011.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7794/vahid-moslemi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

@@ -1,0 +1,48 @@
+id: rajai-mehdi-2016
+name_latin: "Mehdi Raja'i"
+name_farsi: "مهدی رجائی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2016-05-25
+age_at_death: null
+place_of_death: "Karaj"
+province: "Alborz"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Mehdi Raja i, along with 11 others, aged
+    between 22 and 25, was published on the website of HRANA (Human Rights
+    Activists News Agency) on May 25, 2016. According to this report, Mr. Raja
+    i was 16 when the incident occurred. International laws have strictly
+    prohibited capital punishment against those who were under the age of 18
+    at the time of committing the crime. As a party to the Covenant on Civil
+    and Political Rights and the Convention on the Rights of the Child, Iran
+    has the obligation to avoid capital punishment for an offence committed
+    before the age of eighteen. Arrest and detention The circumstances of Mr.
+    Raja i s arrest and detention are not known. Trial No information is
+    available on Mr. Raja i s trial. Charges The charge brought against Mr.
+    Raja i was announced as murder. The validity of the criminal charges
+    brought against this defendant cannot be ascertained in the absence of the
+    basic guarantees of a fair trial. Evidence of guilt The report of this
+    execution did not provide any specific information on the evidence
+    presented against Mr. Raja i. Defense Mr. Raja i was younger than 18 when
+    the incident occurred. No information is available on his defense.
+    Judgment A court condemned Mr. Mehdi Raja i to death. He was hanged, along
+    with 11 others, at Raja ishahr Prison in Karaj on May 25, 2016. No further
+    information is available about this execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7838/mehdi-rajai"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

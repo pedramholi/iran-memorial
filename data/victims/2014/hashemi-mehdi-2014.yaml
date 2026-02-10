@@ -1,0 +1,60 @@
+id: hashemi-mehdi-2014
+name_latin: "Mehdi Hashemi"
+name_farsi: "مهدی هاشمی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2014-08-26
+age_at_death: 25
+place_of_death: "Bandar Abbas"
+province: "Hormozgan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Mehdi Hashemi, along with four others, was
+    published on the website of HRANA (Human Rights Activists News Agency) on
+    August 26, 2014 and, along with 12 others, on September 21, 2015. His case
+    was related to a murder that took place when he was only 14 years old.
+    International laws have strictly prohibited capital punishment against
+    those who were under the age of 18 at the time of committing the crime. As
+    a party to the Covenant on Civil and Political Rights and the Convention
+    on the Rights of the Child, Iran has the obligation to avoid capital
+    punishment for an offence committed before the age of eighteen. Arrest and
+    detention Mr. Hashemi was detained for 11 years. He was at the Adolescents
+    Rehabilitation Center for a while and then transferred to the Bandar-e
+    Abbas Prison. He was transferred from either Section One, known as the
+    Alien Section, or Sections 2, 7, 8, or 11 to solitary confinement on
+    August 25, 2014. The circumstances of his arrest and detention are not
+    known. Trial No information is available on Mr. Hashemi s trial. Charges
+    The charge brought against Mr. Hashemi was announced as murder. The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    International human rights organizations have drawn attention to reports
+    indicating that the Islamic Republic authorities have brought trumped-up
+    charges, including drug trafficking, sexual, and other criminal offences,
+    against their opponents (including political, civil society activists, as
+    well as unionists and ethnic and religious minorities). Each year Iranian
+    authorities sentence to death hundreds of alleged common criminals,
+    following judicial processes that fail to meet international standards.
+    The exact number of people convicted and executed based on trumped-up
+    charges is unknown. Evidence of guilt The report of this execution did not
+    provide any specific information on the evidence presented against Mr.
+    Hashemi. Defense Mr. Hashemi was under 18 when the crime took place. No
+    information is available on his defense. Judgment The court condemned Mr.
+    Mehdi Hashemi to death. He was hanged in the Bandar-e Abbas Prison yard on
+    August 26, 2014 in the morning.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/74730/mehdi-hashemi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

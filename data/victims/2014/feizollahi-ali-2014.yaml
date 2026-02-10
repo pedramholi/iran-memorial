@@ -1,0 +1,84 @@
+id: feizollahi-ali-2014
+name_latin: "Ali Feizollahi"
+name_farsi: "علی فیض‌اللهی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2014-06-07
+age_at_death: null
+place_of_death: "Tabriz"
+province: "Azarbaijan-e Sharqi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Ali Feizollahi, along with another person,
+    was published on the website of Oyannews on June 13, 2014. According to
+    the existing information, he was from Meshkin Shahr and his case was
+    related to a murder in 2008. Arrest and detention Mr. Feizollahi was
+    detained for 6 years in Tabriz Central Prison. The circumstances of his
+    arrest and detention are not known. Trial No other information is
+    available on his trial. Charges The charge brought against Mr. Feizollahi
+    was announced as murder. According to the report, since there was not
+    enough evidence presented against Mr. Feizollahi, the court found the case
+    to be lowth . Pursuant to the judges request, the plaintiff introduced 50
+    people to the court, all of whom swore qassameh * oaths to prove Mr.
+    Feizollahi s murder charge. Defense No information is available on Mr.
+    Feizollahi s defense. Judgment On the basis of qassameh alone, the judges
+    issued a death sentence ( qesas-e nafs ) for Mr. Ali Feizollahi.
+    Accordingly, Mr. Ali Feizollahi was hanged at the Tabriz Central Prison
+    yard on June 7, 2014. ---------------------------------------- * Qassameh
+    means an oath taken by a group of people. It is one of the ways that a
+    defendant s guilt or innocence can be proven for both intentional and
+    non-intentional offenses. Per Iran s Islamic Penal Code, qassameh is
+    carried out in instances where a crime has occurred and no convincing
+    evidence or witnesses exist which could prove the defendant s guilt, and
+    where a judge has doubt about the defendant s guilt based solely on
+    circumstantial evidence a circumstance referred to in religious
+    jurisprudence as lowth. Where lowth obtains, the judge is bound to ask the
+    defendant to produce evidence disproving the charge. If the defendant
+    demonstrates his innocence in this way, he is acquitted. Failing this, the
+    plaintiff may perform qassameh in order to prove the defendant s guilt, or
+    request that the defendant perform qassameh to disprove the charges. This
+    procedure, which requires a defendant to prove his innocence, is contrary
+    to the principle of presumption of innocence and violates the defendant s
+    right to remain silent. The principle of the presumption of innocence -
+    recognized in Iran s constitution, Code of Criminal Procedure, and
+    international agreements to which Iran is signatory holds that all persons
+    are to be considered innocent until proven guilty. A defendant should not
+    be made to prove his own innocence. Proving the charges made against the
+    defendant by presenting adequate evidence and witnesses is the duty of the
+    prosecuting authority (in the Iranian context, the public prosecutor or a
+    private plaintiff.) The right to remain silent is among the defendant s
+    rights of defense, affording him the right to refrain from answering
+    questions regarding the charges entered against him. Such silence may not
+    be treated as an indication or evidence of guilt or innocence. In order to
+    substantiate a charge of homicide through qassameh, an oath is required
+    from 50 male relatives of the plaintiff. For the charge to be dismissed,
+    fifty male relatives of the defendant must swear to his innocence. Should
+    the number of male relatives taking the oath be less than 50, the
+    defendant may repeat the oath himself in order to meet the required number
+    of swears. In homicide cases, it is not possible for a plaintiff to repeat
+    the oath in this way. It is not necessary for those taking the oath to
+    have witnessed the commission of the crime themselves. In Hanafi
+    jurisprudence, qassameh can only be carried out to disprove charges
+    against a defendant, and a plaintiff may not use it to substantiate a
+    defendant s guilt. In Shi a jurisprudence, however, qassameh is carried
+    out in the first stage by the plaintiff to prove the charges against the
+    defendant. Only where the plaintiff foregoes qassameh and requests that
+    the defendant perform it himself, can the defendant use qassameh to see
+    his charges dismissed.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/74605/ali-feizollahi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

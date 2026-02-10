@@ -1,0 +1,53 @@
+id: y-farshid-2011
+name_latin: "Farshid Y."
+name_farsi: "فرشید ی."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2011-01-01
+age_at_death: null
+place_of_death: "Mashhad"
+province: "Khorasan-e Razavi"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    News of the execution of Mr. Farshid Y. was published on the websites of
+    RAHNA news agency and the Human Rights Reporter Committee on April 19,
+    2011. Arrest and Detention There is no specific information on the
+    defendant s arrest and detention. This defendant had been imprisoned in
+    Mashhad prison since 2007. Trial No information is available on the
+    defendant s trial. Charges The charge against Mr. Farshid Y. was announced
+    as "drug trafficking." The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that the Islamic Republic
+    authorities have brought trumped-up charges, including drug trafficking,
+    sexual, and other criminal offences, against their opponents (including
+    political, civil society activists, as well as unionists and ethnic and
+    religious minorities). Each year Iranian authorities sentence to death
+    hundreds of alleged common criminals, following judicial processes that
+    fail to meet international standards. The exact number of people convicted
+    and executed based on trumped-up charges is unknown. Evidence of Guilt The
+    report of this execution did not provide any specific information on the
+    evidence presented against the defendant. Defense No information is
+    available on the defendant's defense. Judgment No specific information is
+    available about the defendant s execution. The court condemned Mr. Farshid
+    Y. to death and he was hanged at Vakilabad prison in Mashhad in April of
+    2011 without informing his family. After his execution, prison officials
+    contacted his family to go to the prison for his body. Mr. Farshid s wife
+    and two children resided in Talesh, Gilan.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/75521/farshid-y"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

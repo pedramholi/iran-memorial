@@ -1,0 +1,42 @@
+id: rajablu-morad-ali-2016
+name_latin: "Morad Ali Rajablu"
+name_farsi: "مراد‌علی رجب‌لو"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2016-02-21
+age_at_death: 52
+place_of_death: "Gorgan"
+province: "Golestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Morad Ali Rajablu was reported by HRANA News Service,
+    on February 24, 2016. Arrest and detention The circumstances of Mr.
+    Rajablu s arrest and detention are not known. Trial No information is
+    available on this defendant s trial. Charges The charge brought against
+    Mr. Morad Ali Rajablu was transportation and possession of illegal drugs .
+    The report of this execution does not contain details about the amount of
+    the drugs in question. The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. Evidence of guilt The report of this execution
+    does not contain information regarding the evidence provided against Mr.
+    Rajablu. Defense No information is available on Mr. Rajablu s defense.
+    Judgment The court sentenced Mr. Morad Ali Rajablu to death by hanging.
+    Mr. Rajablu was executed on Sunday, February 21, 2016, at the Central
+    Prison of Gorgan.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8665/morad-ali-rajablu"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

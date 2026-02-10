@@ -1,0 +1,55 @@
+id: nushin-2018
+name_latin: "Nushin"
+name_farsi: "نوشین"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2018-12-22
+age_at_death: 25
+place_of_death: "Iran"
+province: null
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Ms. Nushin without a last name was published on
+    Rooz-No Website (December 22, 2018), HRANA website (December 26, 2018),
+    and Iran Human Rights Organization (December 27, 2018). Ms. Nushin s was
+    25 years old and her case was related to the murder of a man. Arrest and
+    Detention The circumstances of Ms. Nushin s arrest and detention are not
+    known. Trial There is no information regarding her trial. Charges Ms.
+    Nushin was charged with murder . According to the available information
+    she had stabbed a man she was in relation and wanted to marry, with knife.
+    (Rooz-e No) The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. International human rights organizations have drawn
+    attention to reports indicating that the Islamic Republic s authorities
+    have brought trumped-up charges against their political opponents and
+    executed them for drug trafficking, sexual, and other criminal offences.
+    Each year, Iranian authorities sentence to death hundreds of alleged
+    common criminals, following judicial processes that fail to meet
+    international standards. The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of Guilt No information is
+    available concerning the evidence presented against Ms. Nushin. Defense No
+    information is available concerning her defense. Ms. Nushin was in
+    relation with a man she wanted to marry when she noticed he was in
+    relation with other women as well. She was also being abused by that man
+    and threatened of her private photos and videos to be published should she
+    refused to have sex with other men. (Rooz-e No) Judgement News of Ms.
+    Nushin s execution in one of Iran s prisons was published on December 22,
+    2018. However, there is no mention of the exact of date or place of her
+    execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/82934/nushin"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

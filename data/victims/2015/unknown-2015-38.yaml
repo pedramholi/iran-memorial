@@ -1,0 +1,52 @@
+id: unknown-2015-38
+name_latin: "Unknown"
+name_farsi: "ناشناس"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2015-01-01
+age_at_death: null
+place_of_death: "Shiraz"
+province: "Fars"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of an unknown person, along with eight others, was
+    published on the website of HRANA (Human Rights Activists News Agency) on
+    March 22, 2015. Arrest and detention The circumstances of the defendant s
+    arrest and detention are not known. Trial No information is available on
+    the defendant s trial. Charges The charges brought against the defendant
+    were related to narcotics and/ or murder. No information is available on
+    details of the charges. The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that Islamic Republic authorities
+    have brought trumped-up charges against their political opponents and
+    executed them for alleged drug trafficking, sexual, and other criminal
+    offences. Thousands of alleged drug traffickers have been sentenced to
+    death following judicial processes that fail to meet international
+    standards. Scores of them were executed based on a 1989 law imposing
+    mandatory death sentences on drug traffickers found in possession of
+    specified amounts of proscribed narcotics (5 kg of hashish or opium, and
+    more than 30 grams of heroin, codeine or methadone). The exact number of
+    people convicted based on trumped-up charges is unknown. Evidence of guilt
+    The report of this execution did not provide any specific information on
+    the evidence presented against the defendant. Defense No information is
+    available on the defendant s defense. Judgment The defendant was hanged at
+    Adelabad Prison in Shiraz between March 20 and 22, 2015. The details of
+    this execution are unknown.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/74452/unknown"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

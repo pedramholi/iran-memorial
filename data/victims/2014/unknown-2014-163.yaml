@@ -1,0 +1,54 @@
+id: unknown-2014-163
+name_latin: "Unknown"
+name_farsi: "ناشناس"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2014-02-19
+age_at_death: 28
+place_of_death: "Mashhad"
+province: "Khorasan-e Razavi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of an unknown man, along with another person, was
+    published in the Khorasan newspaper on February 22, 2014. He was 28 years
+    old and his case was related to a fight at a wedding ceremony in a village
+    near Kahlilabad, Khorasan, in 2009 during which an individual was murdered
+    by a broken bottle. Arrest and detention This unknown man was detained for
+    four years. The circumstances of his arrest and detention are not known.
+    Trial According to the Khorasan newspaper, the trial of this unknown man
+    proceeded legally. No information is available on his trial. Charges
+    According to the report, the charge brought against this unknown man was
+    announced as murder. The validity of the criminal charges brought against
+    this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that the Islamic Republic
+    authorities have brought trumped-up charges, including drug trafficking,
+    sexual, and other criminal offences, against their opponents (including
+    political, civil society activists, as well as unionists and ethnic and
+    religious minorities). Each year Iranian authorities sentence to death
+    hundreds of alleged common criminals, following judicial processes that
+    fail to meet international standards. The exact number of people convicted
+    and executed based on trumped-up charges is unknown. Evidence of guilt The
+    report of this execution did not provide any specific information on the
+    evidence presented against the unknown man. Defense No information is
+    available on the unknown man s defense. Judgment The ruling against this
+    unknown man was carried out in the presence of forensics and the judges of
+    Sentence Enforcement. He was hanged, along with another person, at Mashhad
+    Central Prison on February 19, 2014.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/75021/unknown"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

@@ -1,0 +1,44 @@
+id: moradi-gharib-2013
+name_latin: "Gharib Moradi"
+name_farsi: "غریب مرادی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2013-08-28
+age_at_death: null
+place_of_death: "Kermanshah"
+province: "Kermanshah"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Gharib Moradi, son of Mohammad Ali, was
+    published on the website of HRANA (Human Rights Activists News Agency) on
+    August 28, 2013. He was from the Bale i Village near Paveh in Kermanshah.
+    His case was related to a murder. Arrest and detention Mr. Moradi was
+    arrested in 2008. The circumstances of his arrest and detention are not
+    known. Trial No information is available on Mr. Moradi s trial. Charges
+    The charge brought against Mr. Moradi was announced as murder. He was
+    charged with murdering a resident of the Hajij Village near Paveh in 2008.
+    The validity of the criminal charges brought against this defendant cannot
+    be ascertained in the absence of the basic guarantees of a fair trial.
+    Evidence of guilt The report of this execution did not provide any
+    specific information on the evidence presented against Mr. Moradi. Defense
+    No information is available on Mr. Moradi s defense. Judgment A court
+    condemned Mr. Gharib Moradi to death. He was hanged at Dizelabad Prison in
+    Kermanshah on August 28, 2013 at dawn. No specific information is
+    available about this execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/75836/gharib-moradi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

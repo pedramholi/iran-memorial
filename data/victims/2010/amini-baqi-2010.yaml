@@ -1,0 +1,65 @@
+id: amini-baqi-2010
+name_latin: "Baqi Amini"
+name_farsi: "باقی امینی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2010-06-07
+age_at_death: null
+place_of_death: "Karaj"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Baqi Amini, along with twelve others, was
+    published on the websites of HRANA (Human Rights Activists News Agency) on
+    June 6, Modafe (Mohammad Mostafa’i website) on June 6 and 7, and Radio
+    Baluch FM on June 8 and 15, 2010. According to Radio Baluch, six of these
+    defendants were Baluches. News of the transfer of 26 narcotics prisoners
+    to the Quarantine Ward before execution was published by HRANA and Modafe
+    websites on June 6, 2010. Arrest and Detention There is no specific
+    information on the defendant’s arrest and detention. Trial No information
+    is available on the defendant’s trial. Charges The charge against the
+    defendant was announced as "transporting narcotics." According to Modafe,
+    some of the defendants committed the crime for the first time. The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    International human rights organizations have drawn attention to reports
+    indicating that Islamic Republic authorities have brought trumped-up
+    charges against their political opponents and executed them for alleged
+    drug trafficking, sexual, and other criminal offences. Thousands of
+    alleged drug traffickers have been sentenced to death following judicial
+    processes that fail to meet international standards. Scores of them were
+    executed based on a 1989 law imposing mandatory death sentences on drug
+    traffickers found in possession of specified amounts of proscribed
+    narcotics (5 kg of hashish or opium, and more than 30 grams of heroin,
+    codeine or methadone). The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of Guilt The report of this
+    execution did not provide any specific information on the evidence
+    presented against the defendant. Defence No information is available on
+    the defendant's defence. According to HRANA, during an interview with
+    Radio Zamaneh, Mohammad Mostafa’i stated: “I think the process to
+    investigate narcotics related cases is not right. For example, all rulings
+    related to narcotics charges cannot be appealed. The only authority that
+    can appeal these rulings is the General Public Prosecutor who is the
+    public defender and the prosecutor.” Judgment No specific information is
+    available about the defendant’s execution. Mr. Baqi Amini, along with
+    twelve others, was hanged at Qezelhesar prison in Karaj on June 7, 2010.
+    The ruling was carried out without the presence of the defendant’s
+    attorney. The defendant’s family was not informed of the time of his
+    execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/64955/baqi-amini"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

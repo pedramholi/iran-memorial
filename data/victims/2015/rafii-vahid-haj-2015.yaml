@@ -1,0 +1,28 @@
+id: rafii-vahid-haj-2015
+name_latin: "Vahid Haj Rafi'i"
+name_farsi: "وحید حاج رفیعی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2015-12-22
+age_at_death: 40
+place_of_death: "Qazvin"
+province: "Zanjan"
+cause_of_death: "Fatal"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/78487/vahid-haj-rafii"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

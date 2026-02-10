@@ -1,0 +1,44 @@
+id: unknown-2016-76
+name_latin: "Unknown"
+name_farsi: "ناشناس"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2016-07-20
+age_at_death: null
+place_of_death: "Karaj"
+province: "Alborz"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of an unknown person, along with two other people, was
+    reported by HRANA Website, the Human Rights Activists in Iran News Agency
+    (July 20, 2016). This execution, the charges, and the identity of the
+    prisoners have not been reported by the official news agencies or the
+    government agencies. Arrest and detention This unknown person was
+    transferred to solitary confinement in Nedamatgah Prison, on July 19,
+    2016. However, the detailed circumstances of his arrest and detention are
+    not known. Trial No information is available on the unknown person s
+    trial. Charges The charge brought against the unknown person is not known.
+    The validity of the criminal charges brought against this defendant cannot
+    be ascertained in the absence of the basic guarantees of a fair trial.
+    Evidence of guilt The report of this execution does not contain
+    information regarding the evidence provided against the defendant. Defense
+    No information is available on the unknown person s defense. Judgment This
+    unknown person was executed, along with two other people, at dawn on July
+    20, 2016, at Nedamatgah Prison, Karaj.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8662/unknown"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

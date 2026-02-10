@@ -1,0 +1,54 @@
+id: s-a-2010
+name_latin: "A S"
+name_farsi: "ع ص"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2010-10-10
+age_at_death: null
+place_of_death: "Zanjan"
+province: "Zanjan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. A. S., along with three others, was published
+    on the websites of Zanjan Provincial Courthouse and Fars news agency on
+    October 10, 2010. Arrest and Detention There is no specific information on
+    the defendant’s arrest and detention. According to the Fars news agency
+    report, the defendant was arrested within Zanjan jurisdiction. Trial No
+    information is available on the defendant’s trial. Charges The charge
+    against the defendant was announced as "smuggling narcotics." The validity
+    of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    International human rights organizations have drawn attention to reports
+    indicating that Islamic Republic authorities have brought trumped-up
+    charges against their political opponents and executed them for alleged
+    drug trafficking, sexual, and other criminal offences. Thousands of
+    alleged drug traffickers have been sentenced to death following judicial
+    processes that fail to meet international standards. Scores of them were
+    executed based on a 1989 law imposing mandatory death sentences on drug
+    traffickers found in possession of specified amounts of proscribed
+    narcotics (5 kg of hashish or opium, and more than 30 grams of heroin,
+    codeine or methadone). The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of Guilt The evidence presented
+    against the defendant was reported as, “possession of 20 kilograms and 250
+    grams of heroin, one kilogram and 315 grams of ecstasy pills, and 38
+    kilograms and 650 grams of opium.” Defence No information is available on
+    the defendant's defence. Judgment No specific information is available
+    about the defendant’s execution. Mr. A. S. was hanged at Zanjan central
+    prison in Eslamabad on October 10, 2010.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/64668/a-s"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

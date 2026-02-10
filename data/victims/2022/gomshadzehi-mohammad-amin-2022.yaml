@@ -1,0 +1,28 @@
+id: gomshadzehi-mohammad-amin-2022
+name_latin: "Mohammad Amin Gomshadzehi"
+name_farsi: "محمد امین گمشادزهی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam (Sunni)"
+photo: "https://www.iranrights.org/actorphotos/86829_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 2022-09-30
+age_at_death: 17
+place_of_death: "Zahedan"
+province: "Sistan va Baluchestan"
+cause_of_death: "Arbitrary Execution » Arbitrary shooting"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/86829/mohammad-amin-gomshadzehi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

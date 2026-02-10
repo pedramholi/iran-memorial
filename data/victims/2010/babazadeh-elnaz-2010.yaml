@@ -1,0 +1,28 @@
+id: babazadeh-elnaz-2010
+name_latin: "Elnaz Babazadeh"
+name_farsi: "الناز بابازاده"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2010-07-13
+age_at_death: 26
+place_of_death: "Zohreh Street"
+province: "Azarbaijan-e Sharqi"
+cause_of_death: "Extrajudicial Execution"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/84718/elnaz-babazadeh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

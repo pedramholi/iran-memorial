@@ -1,0 +1,28 @@
+id: yarivand-arsalan-2019
+name_latin: "Arsalan Yarivand"
+name_farsi: "ارسلان یاریوند"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2019-12-09
+age_at_death: 33
+place_of_death: "Borujerd"
+province: "Lorestan"
+cause_of_death: "Execution » Hanging"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/83474/arsalan-yarivand"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

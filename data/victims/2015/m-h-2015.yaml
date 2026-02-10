@@ -1,0 +1,48 @@
+id: m-h-2015
+name_latin: "H. M."
+name_farsi: "ح. م."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2015-02-28
+age_at_death: 40
+place_of_death: "Rasht"
+province: "Gilan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. H. M., son of Abdolhossein, along with two
+    others, was published on the websites of Gilan General Courthouse on March
+    1, 2015, quoting the Public Relations Office of the Gilan General
+    Courthouse, and Jamejam Online on March 2, 2015. Mr. H. M. was from Gilan.
+    Arrest and detention Mr. H. M. was arrested for drug trafficking; however,
+    he was charged with murder after fingerprinting. The circumstances of his
+    arrest and detention are not known. Trial The Criminal Court of Gilan
+    tried Mr. H. M. No information is available on his trial. Charges
+    According to the Public Relations Office of the Gilan General Courthouse,
+    the charge against Mr. H. M. was announced as murder. According to the
+    Jamejam Online report, he had murdered the driver of a vehicle, stolen it,
+    and escaped in 2000. The validity of the criminal charges brought against
+    this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. Evidence of guilt The evidence provided
+    against Mr. H. M. was his fingerprint on the stolen car of a murdered
+    driver. Defense No information is available on Mr. M. H. s defense.
+    Judgment The Criminal Court of Gilan condemned Mr. M. H. to death and the
+    Supreme Court confirmed the ruling. He was hanged in the presence of
+    authorities at the Rasht Prison yard on Saturday February 28, 2015. His
+    body was transferred to the morgue.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7546/h-m"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

@@ -1,0 +1,43 @@
+id: shekasteh-hadi-2016
+name_latin: "Hadi Shekasteh"
+name_farsi: "هادی شکسته"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2016-05-24
+age_at_death: null
+place_of_death: "Shiraz"
+province: "Fars"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Hadi Shekasteh, along with another person, was
+    reported by HRANA Website, the Human Rights Activists in Iran News Agency
+    (May 25, 2016). Mr. Shekasteh s case is related to illegal drugs crimes.
+    According to available information, official news agencies had not
+    previously reported this execution. Arrest and detention The circumstances
+    of Mr. Shekasteh s arrest and detention are not known. Trial No
+    information is available on Mr. Shekasteh s trial. Charges The charge
+    brought against Mr. Shekasteh was crimes related to illegal drugs . The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    Evidence of guilt The report of this execution does not contain
+    information regarding the evidence provided against the defendant. Defense
+    No information is available on Mr. Shekasteh s defense. Judgment Mr. Hadi
+    Shekasteh was sentenced to death by hanging. He was executed, along with
+    another person, on May 24, 2016, at Adel Abad Prison, Shiraz.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8668/hadi-shekasteh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

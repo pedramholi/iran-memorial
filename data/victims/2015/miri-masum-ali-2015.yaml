@@ -1,0 +1,55 @@
+id: miri-masum-ali-2015
+name_latin: "Ma'sum Ali Miri"
+name_farsi: "معصوم‌علی میری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2015-04-13
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Ma sum Ali Miri, along with ten others, was
+    published on the website of the Iran Human Rights Organization on April
+    16, 2015. According to this report, over 42 individuals were executed in
+    Iran s prisons during three days and the judicial authorities announced
+    the names of only 8 individuals. Arrest and detention The circumstances of
+    Mr. Miri s arrest and detention are not known. Trial No information is
+    available on Mr. Miri s trial. Charges According to the Iran Human Rights
+    Organization, the charge brought against Mr. Miri was announced as related
+    to narcotics. He and other executed prisoners in Qezelhesar were narcotics
+    defendants in Shahriyar. The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that Islamic Republic authorities
+    have brought trumped-up charges against their political opponents and
+    executed them for alleged drug trafficking, sexual, and other criminal
+    offences. Thousands of alleged drug traffickers have been sentenced to
+    death following judicial processes that fail to meet international
+    standards. Scores of them were executed based on a 1989 law imposing
+    mandatory death sentences on drug traffickers found in possession of
+    specified amounts of proscribed narcotics (5 kg of hashish or opium, and
+    more than 30 grams of heroin, codeine or methadone). The exact number of
+    people convicted based on trumped-up charges is unknown. Evidence of guilt
+    The report of this execution did not provide any specific information on
+    the evidence presented against Mr. Miri. Defense No information is
+    available on Mr. Miri s defense. Judgment Mr. Ma sum Ali Miri was hanged,
+    along with ten others, at the Qezelhesar Prison in Karaj on April 14,
+    2015.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7608/masum-ali-miri"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

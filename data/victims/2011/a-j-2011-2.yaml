@@ -1,0 +1,56 @@
+id: a-j-2011-2
+name_latin: "J. A."
+name_farsi: "ج. آ."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2011-10-19
+age_at_death: null
+place_of_death: "Shahrud"
+province: "Semnan"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    News of the execution of Mr./Ms. J. A. a resident of Kermanshah, along
+    with two others, was published on the websites of Semnan Courthouse and
+    IRNA (Islamic Republic News Agency) on October 19, 2011, quoting the
+    Public Relations Office of the Semnan Courthouse. Arrest and Detention
+    There is no specific information on the defendant s arrest and detention.
+    Trial This trial took place in the Islamic Revolutionary Court of Shahrud.
+    No further information is available about the defendant s trial. Charges
+    The charges against Mr./Ms. J. A. were announced as "transportation and
+    possession of narcotics." The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that Islamic Republic authorities
+    have brought trumped-up charges against their political opponents and
+    executed them for alleged drug trafficking, sexual, and other criminal
+    offences. Thousands of alleged drug traffickers have been sentenced to
+    death following judicial processes that fail to meet international
+    standards. Scores of them were executed based on a 1989 law imposing
+    mandatory death sentences on drug traffickers found in possession of
+    specified amounts of proscribed narcotics (5 kg of hashish or opium, and
+    more than 30 grams of heroin, codeine or methadone). The exact number of
+    people convicted based on trumped-up charges is unknown. Evidence of Guilt
+    The report of this execution did not provide any specific information on
+    the evidence presented against the defendant. Defence No information is
+    available on the defendant's defence. Judgment The court condemned Mr./Ms.
+    J. A. to death and the ruling was confirmed by the General Public
+    Prosecutor s Office. The defendant s pardon request was denied by the
+    Central Pardon Commission and he was executed in Shahrud prison on October
+    19, 2011.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/72487/j-a"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

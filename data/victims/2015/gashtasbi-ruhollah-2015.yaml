@@ -1,0 +1,46 @@
+id: gashtasbi-ruhollah-2015
+name_latin: "Ruhollah Gashtasbi"
+name_farsi: "روح‌الله گشتاسبی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2015-05-28
+age_at_death: 35
+place_of_death: "Gachsaran"
+province: "Kohgiluyeh va Boyer-Ahmad"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Ruhollah Gashtasbi was published on the
+    websites of IRNA (Islamic Republic News Agency) and HRANA (Human Rights
+    Activists News Agency) on May 28, 2015. He was from Gachsaran and his case
+    was related to the murder of two persons at Chamshir in the Boyerahmad
+    Va-Kohkiluyeh province in 2010. Arrest and detention The circumstances of
+    Mr. Gashtasbi s arrest and detention are not known. Trial According to
+    IRNA, quoting the Head of Prisons and Security and Corrective Measures in
+    Gachsaran, the case of Mr. Gashtasbi went through the legal procedures.
+    However, no information is available on his trial. Charges According to
+    the Head of Prisons and Security and Corrective Measures in Gachsaran, the
+    charge brought against Mr. Gashtasbi was announced as murder. (IRNA)The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    Evidence of guilt The report of this execution did not provide any
+    specific information on the evidence presented against Mr. Gashtasbi.
+    Defense No information is available on Mr. Gashtasbi s defense. Judgment A
+    court condemned Mr. Ruhollah Gashtasbi to death. He was hanged in the
+    Gachsaran Prison yard on May 28, 2015 in the morning.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7890/ruhollah-gashtasbi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

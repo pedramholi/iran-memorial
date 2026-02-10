@@ -1,0 +1,69 @@
+id: unknown-2015-64
+name_latin: "Unknown"
+name_farsi: "ناشناس"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2015-02-17
+age_at_death: 66
+place_of_death: "Mashhad"
+province: "Khorasan-e Razavi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of an unknown 66-year old man was announced by
+    Khorasan daily on February 18, 2015. This case pertains to the murder of
+    the geriatric uncle of this unknown man. According to the available
+    report, the defendant and the victim became involved in a fight, on
+    September 16, 2008, in a farming dispute over the irrigation of an
+    orchard, which ended in the murder of the victim as a result of receiving
+    a blows with a club. Arrest and detention This unknown man was arrested by
+    the police after the putrefying corpse of his 82-year old uncle was
+    discovered under stones in a farming area of a village near Ghoochan in
+    November 2008. He spent six years in prison. Trial This unknown man was
+    tried by Branch Seven of the Public Court of Khorasan Province in the
+    course of a couple of sessions. However, there is no information available
+    on the details of the sessions of this unknown individual s trial. Charges
+    The court charged this unknown individual with murder. He was accused of
+    clubbing the victim to death during the fight and then burying his corpse
+    under the stones. The validity of the criminal charges brought against
+    this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that the Islamic Republic
+    authorities have brought trumped-up charges, including drug trafficking,
+    sexual, and other criminal offences, against their opponents (including
+    political, civil society activists, as well as unionists and ethnic and
+    religious minorities). Each year Iranian authorities sentence to death
+    hundreds of alleged common criminals, following judicial processes that
+    fail to meet international standards. The exact number of people convicted
+    and executed based on trumped-up charges is unknown. Evidence of guilt
+    According to the available information, the clear confessions of the
+    defendant as well as the content of the case, including the report of the
+    police agents and the coroner, were among the evidence that were entered
+    against this unknown individual. International human rights organizations
+    have repeatedly condemned the government of the Islamic Republic of Iran
+    for its systematic use of severe torture and solitary confinement to
+    obtain confessions from detainees and have questioned the authenticity of
+    confessions obtained under duress. Defense The defense lawyer objected to
+    the verdict issued by the court. However, there is no information
+    available on the details of this unknown individual s defense. Judgment
+    The court sentenced this unknown individual to death. His case was
+    referred to Branch 11 of the Tribunal of Official Justice, but the issued
+    verdict was validated there as well. This unknown individual was hanged in
+    Mashhad Central Prison, in the presence of the judiciary authorities and
+    the coroner, on February 17, 2015.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8236/unknown"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

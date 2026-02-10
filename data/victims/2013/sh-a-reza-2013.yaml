@@ -1,0 +1,28 @@
+id: sh-a-reza-2013
+name_latin: "A. (Reza) Sh."
+name_farsi: "الف.(رضا) ش."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2013-09-09
+age_at_death: null
+place_of_death: "Darab"
+province: "Fars"
+cause_of_death: "Execution » Hanging"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/79172/a-reza-sh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

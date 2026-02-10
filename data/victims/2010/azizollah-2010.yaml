@@ -1,0 +1,58 @@
+id: azizollah-2010
+name_latin: "Azizollah"
+name_farsi: "عزیزالله"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2010-01-01
+age_at_death: 35
+place_of_death: "Esfahan"
+province: "Esfahan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Azizollah, along with another person, was
+    published on the websites of Esfahan Courthouse and the Kayhan newspaper
+    on May 19, 2010, quoting the Public Relations Office of the Esfahan
+    Courthouse. Arrest and Detention There is no specific information on the
+    defendant’s arrest and detention. Trial No information is available on the
+    defendant’s trial. This trial took place at the Islamic Revolutionary
+    Court in Esfahan. Charges The charges against Mr. Azizollah were announced
+    as "transportation, assisting in transportation, and possession of
+    narcotics." The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. International human rights organizations have drawn
+    attention to reports indicating that Islamic Republic authorities have
+    brought trumped-up charges against their political opponents and executed
+    them for alleged drug trafficking, sexual, and other criminal offences.
+    Thousands of alleged drug traffickers have been sentenced to death
+    following judicial processes that fail to meet international standards.
+    Scores of them were executed based on a 1989 law imposing mandatory death
+    sentences on drug traffickers found in possession of specified amounts of
+    proscribed narcotics (5 kg of hashish or opium, and more than 30 grams of
+    heroin, codeine or methadone). The exact number of people convicted based
+    on trumped-up charges is unknown. Evidence of Guilt The evidence presented
+    against the defendant was announced as “possession of 132 kilograms and
+    700 grams of opium, transporting 97 kilograms and 800 grams of opium, and
+    having a previous record for narcotics.” Defence No information is
+    available on the defendant's defence. Judgment The court condemned Mr.
+    Azizollah to death and confiscation of his belongings, and the ruling was
+    confirmed by the General Public Prosecutor. The defendant’s request for
+    pardon was twice denied by the Provincial Pardon Commission and he was
+    hanged in the Esfahan Central prison yard. The exact date of the execution
+    is unknown. Mr. Azizollah was 35 years old.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/64703/azizollah"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

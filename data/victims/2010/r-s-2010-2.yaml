@@ -1,0 +1,50 @@
+id: r-s-2010-2
+name_latin: "S R"
+name_farsi: "س ر"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2010-08-11
+age_at_death: null
+place_of_death: "Azna"
+province: "Lorestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. S. R., son of Jahanshah, along with two
+    others, was published on the websites of Fars news agency and Lorna News
+    Base on August 12, 2010, quoting the Head of Azna Courthouse. Arrest and
+    Detention There is no specific information on the defendant’s arrest and
+    detention. According to the media reports, the defendants were arrested in
+    2009. Trial No information is available on the defendant’s trial. Charges
+    The charge against Mr. S. R. and two other defendants was announced as
+    "kidnapping." The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. International human rights organizations have drawn
+    attention to reports indicating that Islamic Republic authorities have
+    brought trumped-up charges against their political opponents and executed
+    them for alleged drug trafficking, sexual, and other criminal offences.
+    Each year Iranian authorities sentence to death hundreds of alleged common
+    criminals, following judicial processes that fail to meet international
+    standards. The exact number of people convicted based on trumped-up
+    charges is unknown. Evidence of Guilt The report of this execution did not
+    provide any specific information on the evidence presented against the
+    defendant. Defence No information is available on the defendant's defence.
+    Judgment No specific information is available about the defendant’s
+    execution. Mr. S. R. was hanged in public at Namaz Square in Azna on
+    August 11, 2010.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/64802/s-r"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

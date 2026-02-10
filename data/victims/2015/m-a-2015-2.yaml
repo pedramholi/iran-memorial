@@ -1,0 +1,55 @@
+id: m-a-2015-2
+name_latin: "A. M."
+name_farsi: "ع. م."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2015-02-01
+age_at_death: 21
+place_of_death: "Mashhad"
+province: "Khorasan-e Razavi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. A. M. was published on the websites of
+    Abavisan on February 2, and in the Khorasan newspaper on February 34,
+    2015. According to the reports, he had murdered his best friend with a
+    knife in the Mohammadabad Village during a collective fight at the end of
+    a wedding ceremony. Arrest and Detention According to the Khorasan
+    newspaper, Mr. A. M. was identified and arrested by police in 2012. There
+    is no specific information on his arrest and detention. Trial Branch Three
+    of the Provincial Criminal Court in Khorasan-e Razavi tried Mr. A. M. No
+    further information is available on his trial. Charges The charge against
+    Mr. A. M. was announced as "murder." The validity of the criminal charges
+    brought against this defendant cannot be ascertained in the absence of the
+    basic guarantees of a fair trial. Evidence of Guilt The evidence presented
+    against Mr. A. M. was announced as, his confession, and existing documents
+    and evidence. However, the detail of such documents and evidence was not
+    reported. International human rights organizations have repeatedly
+    condemned the government of the Islamic Republic of Iran for its
+    systematic use of severe torture and solitary confinement to obtain
+    confessions from detainees and have questioned the authenticity of
+    confessions obtained under duress. Defense During his confession, Mr. A.
+    M. said: The twenty-year-old man (victim) was about to hit me with a chain
+    so I took out my knife. According to the websites of Abavisan, the
+    defendant had drunk alcoholic beverages. Judgment Branch Three of the
+    Provincial Criminal Court in Khorasan-e Razavi condemned Mr. A. M. to
+    death and Branch 28 of the Supreme Court confirmed the ruling. The ruling
+    was carried out on February 1, 2015 at dawn and he was hanged in the
+    presence of the Sentence Enforcement judges and other officials at the
+    Mashhad Central Prison.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7646/a-m"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

@@ -1,0 +1,56 @@
+id: esfahani-hassan-cheraghalizadeh-2014
+name_latin: "Hassan Cheraghalizadeh Esfahani"
+name_farsi: "حسن چراغعلی‌زاده اصفهانی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam (Shi'a)"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2014-08-07
+age_at_death: 38
+place_of_death: "Kermanshah"
+province: "Kermanshah"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Hassan Cheraghalizadeh Esfahani, son of
+    Mohammadali, along with Hamid Nasiri Mirazizi , was published on August 7,
+    2014, by the Ministry of Justice office in Kermanshah province, as well as
+    the Iranian Students News Agency (ISNA). Additional information about Mr.
+    Cheraghalizadeh Esfahani was provided to the Abdorrahman Boroumand Center
+    via an electronic form by a person familiar with his case (e-form March
+    21, 2021). Mr. Cheraghalizadeh Esfahani was born in Kermanshah in
+    1976/1977. He had finished elementary school, and had a daughter. He was a
+    shopkeeper. (e-form March 21, 2021) Arrest and detention The circumstances
+    of Mr. Cheraghalizadeh Esfahani s arrest and detention are not known.
+    Trial No information is available on Mr. Cheraghalizadeh Esfahani s trial.
+    Charges Mr. Cheragalizadeh Esfahani was charged with murder. The validity
+    of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    International human rights organizations have drawn attention to reports
+    indicating that the Islamic Republic authorities have brought trumped-up
+    charges, including drug trafficking, sexual, and other criminal offences,
+    against their opponents (including political, civil society activists, as
+    well as unionists and ethnic and religious minorities). Each year Iranian
+    authorities sentence to death hundreds of alleged common criminals,
+    following judicial processes that fail to meet international standards.
+    The exact number of people convicted and executed based on trumped-up
+    charges is unknown. Evidence of guilt The report of this execution does
+    not contain information regarding the evidence provided against Mr.
+    Cheraghalizadeh Esfehani. Defense No information is available on Mr.
+    Cheraghalizadeh Esfahani s defense. Judgment Mr. Cheraghalizadeh Esfahani
+    was executed in public at 10 AM on August 7, 2014 at Azadi square in
+    Kermanshah.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8526/hassan-cheraghalizadeh-esfahani"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

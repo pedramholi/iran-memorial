@@ -1,0 +1,28 @@
+id: pirkhezri-mostafa-2020
+name_latin: "Mostafa Pirkhezri"
+name_farsi: "مصطفی پیرخضری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2020-07-30
+age_at_death: 42
+place_of_death: "Sanandaj"
+province: "Kordestan"
+cause_of_death: "Execution » Hanging"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/83681/mostafa-pirkhezri"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

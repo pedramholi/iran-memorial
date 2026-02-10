@@ -1,0 +1,61 @@
+id: ahmadi-kh-2015
+name_latin: "Kh. Ahmadi"
+name_farsi: "خ. احمدی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2015-05-13
+age_at_death: 49
+place_of_death: "Qazvin"
+province: "Zanjan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Kh. Ahmadi was published on the websites of
+    Qazvin General Courthouse and News Central Unit on May 13, 2015, quoting
+    the Public Relations Office of the Qazvin General Courthouse. He resided
+    in Takestan and worked in a bakery. His case and the case of another
+    person were related to the murder of a man at his house in Qazvin on April
+    1, 2009. Arrest and detention Mr. Ahmadi was arrested by police in the
+    spring of 2009 (websites of Qazvin General Courthouse). The circumstances
+    of his arrest and detention are not known. Trial Branch Two of the
+    Criminal Court of Qazvin tried Mr. Ahmadi. No information is available on
+    his trial. Charges According to the Public Relations Office of the Qazvin
+    General Courthouse, the charges brought against Mr. Ahmadi were announced
+    as murder, and sub-adulterous illegitimate relationship. According to the
+    websites of Qazvin General Courthouse, in collaboration with the victim s
+    wife, Mr. Ahmadi had murdered the husband. The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. Evidence of guilt The
+    evidence presented against Mr. Ahmadi was his confession and the
+    confession of the victim s wife. According to the existing reports, police
+    tapped the phone of the victim s wife and found out about their
+    relationship. Then they forced them to confess. Additionally, having a
+    previous record, the forensics report, and reconstruction of the crime
+    scene by the defendant were considered evidence against him. (websites of
+    Qazvin General Courthouse) International human rights organizations have
+    repeatedly condemned the government of the Islamic Republic of Iran for
+    its systematic use of severe torture and solitary confinement to obtain
+    confessions from detainees and have questioned the authenticity of
+    confessions obtained under duress. Defense No information is available on
+    Mr. Ahmadi s defense. Judgment Branch Two of the Criminal Court of Qazvin
+    condemned Mr. Kh. Ahmadi to death for murder and to 99 lashes for
+    adultery. The Supreme Court confirmed the ruling and the Head of judiciary
+    approved it. He was hanged in the presence of the victim s family at the
+    Qazvin Central Prison on May 13, 2015. The other defendant was condemned
+    to 8 years imprisonment and 99 lashes.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7887/kh-ahmadi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

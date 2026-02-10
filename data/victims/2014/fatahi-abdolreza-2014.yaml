@@ -1,0 +1,59 @@
+id: fatahi-abdolreza-2014
+name_latin: "Abdolreza Fatahi"
+name_farsi: "عبدالرضا فتاحی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2014-03-08
+age_at_death: null
+place_of_death: "Bandar Abbas"
+province: "Hormozgan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Abdolreza Fatahi, along with three others,
+    was published on the websites of the Hormozgan Provincial Courthouse and
+    IRNA (Islamic Republic News Agency) on March 8, 2014, and in the E temad
+    newspaper on March 9, 2014. This case was related to the kidnapping and
+    rape charges allegedly committed by Mr. Fatahi in 2008. Arrest and
+    detention The circumstances of Mr. Fatahi s arrest and detention are not
+    known. Trial Branch One of the Hormozgan Criminal Court tried Mr. Fatahi.
+    No information is available on his trial. Charges The charges brought
+    against Mr. Fatahi were announced as kidnapping and rape. (the website of
+    the Hormozgan Provincial Courthouse) The validity of the criminal charges
+    brought against this defendant cannot be ascertained in the absence of the
+    basic guarantees of a fair trial. International human rights organizations
+    have drawn attention to reports indicating that the Islamic Republic
+    authorities have brought trumped-up charges, including drug trafficking,
+    sexual, and other criminal offences, against their opponents (including
+    political, civil society activists, as well as unionists and ethnic and
+    religious minorities). Each year Iranian authorities sentence to death
+    hundreds of alleged common criminals, following judicial processes that
+    fail to meet international standards. The exact number of people convicted
+    and executed based on trumped-up charges is unknown. Evidence of guilt The
+    evidence presented against Mr. Fatahi was his confession to several rapes.
+    (IRNA) International human rights organizations have repeatedly condemned
+    the government of the Islamic Republic of Iran for its systematic use of
+    severe torture and solitary confinement to obtain confessions from
+    detainees and have questioned the authenticity of confessions obtained
+    under duress. Defense No information is available on Mr. Fatahi s defense.
+    Judgment Branch One of the Hormozgan Criminal Court condemned Mr.
+    Abdolreza Fatahi to death. Branch 27 of the Supreme Court confirmed the
+    ruling and it was signed by the Head of Judiciary. He was hanged, along
+    with three others, in public at Shahnaz Street in Bandar-e Abbas on March
+    8, 2014.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7725/abdolreza-fatahi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

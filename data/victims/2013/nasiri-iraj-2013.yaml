@@ -1,0 +1,59 @@
+id: nasiri-iraj-2013
+name_latin: "Iraj Nasiri"
+name_farsi: "ایرج نصیری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2013-12-18
+age_at_death: 21
+place_of_death: "Orumieh"
+province: "Azarbaijan-e Gharbi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Iraj Nasiri, along with two others, was
+    published on the websites of HRANA (Human Rights Activists News Agency),
+    Kurdpa News Agency on December 19, 2013, and, along with 17 others, on the
+    website of Mukrian news agency on December 18, 2013. He was single, from
+    Chaldaran in Azerbaijan-e Gharbi.His case was related to a murder that had
+    happened when he was younger than 18 years old. International laws have
+    strictly prohibited capital punishment against those who were under the
+    age of 18 at the time of committing the crime. As a party to the Covenant
+    on Civil and Political Rights and the Convention on the Rights of the
+    Child, Iran has the obligation to avoid capital punishment for an offence
+    committed before the age of eighteen. Arrest and detention According to
+    the Mukrian news agency, Mr. Nasiri was arrested when he was 15 and was
+    detained for six years. The circumstances of his arrest and detention are
+    not known. Trial No information is available on Mr. Nasiri s trial.
+    Charges According to HRANA, the charge brought against Mr. Nasiri was
+    announced as murder. The validity of the criminal charges brought against
+    this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that the Islamic Republic
+    authorities have brought trumped-up charges, including drug trafficking,
+    sexual, and other criminal offences, against their opponents (including
+    political, civil society activists, as well as unionists and ethnic and
+    religious minorities). Each year Iranian authorities sentence to death
+    hundreds of alleged common criminals, following judicial processes that
+    fail to meet international standards. The exact number of people convicted
+    and executed based on trumped-up charges is unknown. Evidence of guilt The
+    report of this execution did not provide any specific information on the
+    evidence presented against Mr. Nasiri. Defense No information is available
+    on Mr. Nasiri s defense. Judgment Mr. Iraj Nasiri was hanged, along with
+    two others, in the Orumieh Central Prison yard on Wednesday December 18,
+    2013.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7772/iraj-nasiri"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

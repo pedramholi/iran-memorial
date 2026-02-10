@@ -1,0 +1,62 @@
+id: f-d-2015
+name_latin: "D. F."
+name_farsi: "د. ف."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2015-02-28
+age_at_death: 35
+place_of_death: "Rasht"
+province: "Gilan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. D. F., son of Sha ban ali, along with two
+    others, was published on the websites of Gilan General Courthouse on March
+    1, 2015, quoting the Public Relations Office of the Gilan General
+    Courthouse, and Jamejam Online on March 2, 2015. Mr. D. F. was from Gilan.
+    He had been arrested previously for drug trafficking and imprisoned. The
+    court first condemned him to death but when he repented and requested
+    pardon, his request was accepted and his sentence was reduced to life
+    imprisonment. Arrest and detention According to the Jamejam Online, Mr. D.
+    F. took a leave from prison after awhile. When he tried to smuggle
+    narcotics into the prison after his leave, he was arrested again. The
+    circumstances of his arrest and detention are not known. Trial The
+    Criminal Court of Gilan tried Mr. D. F. No information is available on his
+    trial. Charges According to the Public Relations Office of the Gilan
+    General Courthouse, the charges against Mr. D. F. were announced as
+    transportation and possession of narcotics. The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that
+    Islamic Republic authorities have brought trumped-up charges against their
+    political opponents and executed them for alleged drug trafficking,
+    sexual, and other criminal offences. Thousands of alleged drug traffickers
+    have been sentenced to death following judicial processes that fail to
+    meet international standards. Scores of them were executed based on a 1989
+    law imposing mandatory death sentences on drug traffickers found in
+    possession of specified amounts of proscribed narcotics (5 kg of hashish
+    or opium, and more than 30 grams of heroin, codeine or methadone). The
+    exact number of people convicted based on trumped-up charges is unknown.
+    Evidence of guilt The evidence provided against Mr. D. F. was having a
+    criminal record for nine convictions and hiding narcotics in his sandals
+    to smuggle it into the prison. (Jamejam Online) Defense No information is
+    available on Mr. D. F. s defense. Judgment The Criminal Court of Gilan
+    condemned Mr. D. F. to death and the Supreme Court confirmed the ruling.
+    He was hanged in the presence of authorities at the Rasht Prison yard on
+    Saturday February 28, 2015. His body was transferred to the morgue.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7545/d-f"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

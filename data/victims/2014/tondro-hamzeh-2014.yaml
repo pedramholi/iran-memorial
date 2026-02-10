@@ -1,0 +1,53 @@
+id: tondro-hamzeh-2014
+name_latin: "Hamzeh Tondro"
+name_farsi: "حمزه تندرو"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2014-03-08
+age_at_death: null
+place_of_death: "Bandar Abbas"
+province: "Hormozgan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Hamzeh Tondro, along with three others, was
+    published on the websites of the Hormozgan Provincial Courthouse and IRNA
+    (Islamic Republic News Agency) in Hormozgan on March 8, 2014 and in the E
+    temad newspaper on March 9, 2014. According to the existing information,
+    Mr. Tondro s case was related to the murder of an old man. Arrest and
+    detention Mr. Tondro was arrested in Bandar-e Abbas during an
+    investigation into the murder of an old man in 2010. The circumstances of
+    his arrest and detention are not known, except that he was arrested three
+    days after the murder and following complaints made by plaintiffs. Trial
+    Branch One of the Criminal Court of Hormozgan tried Mr. Tondro. No
+    information is available on his trial. Charges According to the Head of
+    Hormozgan Courthouse, the charges brought against Mr. Tondro were
+    announced as murder with a cold weapon and drinking alcoholic beverages
+    multiple times. (website of the Hormozgan Provincial Courthouse) Evidence
+    of guilt The evidence presented against Mr. Tondro was his confession and
+    the complaints made by plaintiffs. International human rights
+    organizations have repeatedly condemned the government of the Islamic
+    Republic of Iran for its systematic use of severe torture and solitary
+    confinement to obtain confessions from detainees and have questioned the
+    authenticity of confessions obtained under duress. Defense No information
+    is available on Mr. Tondro s defense. Judgment Branch One of the Criminal
+    Court of Hormozgan condemned Mr. Hamzeh Tondro to death. Branch Seven of
+    the Supreme Court and the Head of Judiciary confirmed the ruling. He was
+    hanged, along with three others, in public at Shahnaz Street in Bandar-e
+    Abbas on March 8, 2014 at dawn.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7720/hamzeh-tondro"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

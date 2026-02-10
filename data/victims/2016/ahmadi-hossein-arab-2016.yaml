@@ -1,0 +1,59 @@
+id: ahmadi-hossein-arab-2016
+name_latin: "Hossein Arab Ahmadi"
+name_farsi: "حسین عرب احمدی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2016-09-22
+age_at_death: 27
+place_of_death: "Shahrud"
+province: "Semnan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Hossein Arab Ahmadi, along with two other people, was
+    reported by HRANA Website, the Human Rights Activists News Agency
+    (September 26, 2016). Mr. Arab Ahmadi was 27 years old, and his case was
+    related to illegal drug crimes committed in 2007. He was 18 when these
+    crimes were committed. Arrest and detention Mr. Arab Ahmadi spent 9 years
+    in prison. The circumstances of his arrest and detention are not known.
+    Trial No information is available on Mr. Arab Ahmadi s trial. Charges The
+    charge brought against Mr. Arab Ahmadi was crimes related to illegal drugs
+    . The validity of the criminal charges brought against this defendant
+    cannot be ascertained in the absence of the basic guarantees of a fair
+    trial. International human rights organizations have drawn attention to
+    reports indicating that Islamic Republic authorities have brought
+    trumped-up charges against their political opponents and executed them for
+    alleged drug trafficking, sexual, and other criminal offences. Thousands
+    of alleged drug traffickers have been sentenced to death following
+    judicial processes that fail to meet international standards. Scores of
+    them were executed based on a 1989 law imposing mandatory death sentences
+    on drug traffickers found in possession of specified amounts of proscribed
+    narcotics (5 kg of hashish or opium, and more than 30 grams of heroin,
+    codeine or methadone). The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against the defendant. International human rights organizations have
+    repeatedly condemned the government of the Islamic Republic of Iran for
+    its systematic use of severe torture and solitary confinement to obtain
+    confessions from detainees and have questioned the authenticity of
+    confessions obtained under duress. Defense No information is available on
+    Mr. Arab Ahmadi s defense. Judgment Mr. Hossein Arab Ahmadi was sentenced
+    to death by hanging. He was executed, along with one other person*, in
+    Shahrud Prison - Semnan Province, on Thursday, September 22, 2016.
+    ------------------ *Mr. Rahmat Ali Sa'adatyar
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8642/hossein-arab-ahmadi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

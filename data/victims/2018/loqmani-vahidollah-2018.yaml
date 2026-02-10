@@ -1,0 +1,58 @@
+id: loqmani-vahidollah-2018
+name_latin: "Vahidollah Loqmani"
+name_farsi: "وحیدالله لقمانی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2018-08-28
+age_at_death: 54
+place_of_death: "Karaj"
+province: "Alborz"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Vahidollah Loqmani, along with another person, was
+    reported by HRANA Website, Human Rights Activists in Iran News Agency, and
+    Iran Human Rights Website (August 30. 2018). News of this execution was
+    not reported by official news agencies or by the judicial system. Mr.
+    Loqmani was 54 years old and a citizen of Afghanistan. His case is related
+    to murder and illegal drugs crimes in 1998. Arrest and detention Mr.
+    Loqmani spent 22 years in prison. On August 28, 2018, he was transferred
+    from the foreign nationals section of Qezel Hesar Prison in Karaj to
+    solitary confinement in Raja i Shahr Prison. At the time of the transfer
+    he was on a hunger strike and he had sewn his lips together (Iran Human
+    Rights). However, the detailed circumstances of Mr. Loqmani s arrest and
+    detention are not known. Trial No information is available on Mr. Loqmani
+    s trial. Charges The charge brought against Mr. Loqmani was crimes related
+    to illegal drugs (HRANA). According to Iran Human Rights website, he was
+    charged with murder in the first degree . The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic authorities have brought trumped-up charges, including
+    drug trafficking, sexual, and other criminal offences, against their
+    opponents (including political, civil society activists, as well as
+    unionists and ethnic and religious minorities). Each year Iranian
+    authorities sentence to death hundreds of alleged common criminals,
+    following judicial processes that fail to meet international standards.
+    The exact number of people convicted and executed based on trumped-up
+    charges is unknown. Evidence of guilt The evidence provided against Mr.
+    Loqmani was arms possession . Defense No information is available on Mr.
+    Loqmani s defense. Judgment Mr. Loqmani was sentenced to death by hanging.
+    He was executed, along with another person, in Raja i Shahr Prison in
+    Karaj, on Tuesday August 28, 2018.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8305/vahidollah-loqmani"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

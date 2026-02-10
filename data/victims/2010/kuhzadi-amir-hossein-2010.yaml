@@ -1,0 +1,54 @@
+id: kuhzadi-amir-hossein-2010
+name_latin: "Amir Hossein Kuhzadi"
+name_farsi: "امیر حسین کوهزادی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: "https://www.iranrights.org/actorphotos/64553_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 2010-05-26
+age_at_death: null
+place_of_death: "Sari"
+province: "Mazandaran"
+cause_of_death: "Execution » Death in custody"
+circumstances: >
+    The news about Mr. Amir Hossein Kuhzadi s murder, while at the police
+    detention center in Sari, was sent to the Boroumand Foundation via an
+    electronic form by a person familiar with this case. According to this
+    information, Mr. Kuhzadi, son of Ali, was born in Tehran in 1986. He was
+    single, a high school graduate, and a conscripted soldier serving in the
+    Islamic Revolutionary Guards.* Arrest and detention According to the
+    information in the electronic form, Mr. Kuhzadi was arrested in Sari on
+    May 25, 2010 at 10 a.m. The arresting agents had no warrant and arrested
+    him for wearing a green T-shirt and having a verbal argument. Trial No
+    information is available on the defendant s trial. Charges No information
+    is available on the defendant s charges. The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. Evidence of guilt There
+    is no information on the evidence provided against the defendant. Defense
+    No information is available about the defendant s defense. Judgment
+    According to the above-mentioned source, Mr. Kuhzadi was murdered the day
+    after his arrest, May 26, 2010, while being held at the police detention
+    center in Sari. The authorities and the coroner announced his cause of
+    death as unknown. Despite the inquiry of Mr. Kuhzadi s family, his cause
+    of death is still unclear. The prison officials have been reluctant to
+    look into this matter. For example, although the detention center was
+    under surveillance of closed circuit cameras, according to the case
+    inspector, the cameras did not record anything that day because a number
+    of forks and spoons fell on the camera cables.
+    ________________________________________________________________________ *
+    The electronic form is the only source of information about this case.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/64553/amir-hossein-kuhzadi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

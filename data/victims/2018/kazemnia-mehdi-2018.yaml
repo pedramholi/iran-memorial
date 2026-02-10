@@ -1,0 +1,54 @@
+id: kazemnia-mehdi-2018
+name_latin: "Mehdi Kazemnia"
+name_farsi: "مهدی کاظم‌نیا"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: "https://www.iranrights.org/actorphotos/82843_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 2018-02-28
+age_at_death: 28
+place_of_death: "Orumieh"
+province: "Azarbaijan-e Gharbi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Mehdi Kazemnia, son of Ali, along with four other
+    people, was reported by the Human Rights Organization of Iran Website
+    (March 5, 2018), and Kurdistan Human Rights Association Website, quoted
+    from Hangaw Website (February 28, 2018). Mr. Kazemnia was a
+    28-year-old-kord from Ilam. His case was related to the death of a person
+    from Haft Cheshmeh Village. Arrest and detention Mr. Kazemnia spent
+    several years in prison. The circumstances of his arrest and detention are
+    not known. Trial No information is available on Mr. Kazemnia s trial.
+    Charges The charge brought against Mr. Kazemnia was murder in the first
+    degree . According to available information, he killed his friend from the
+    village of Haft Cheshmeh, during an altercation. The validity of the
+    criminal charges brought against this defendant cannot be ascertained in
+    the absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic authorities have brought trumped-up charges, including
+    drug trafficking, sexual, and other criminal offences, against their
+    opponents (including political, civil society activists, as well as
+    unionists and ethnic and religious minorities). Each year Iranian
+    authorities sentence to death hundreds of alleged common criminals,
+    following judicial processes that fail to meet international standards.
+    The exact number of people convicted and executed based on trumped-up
+    charges is unknown. Evidence of guilt The report of this execution does
+    not contain information regarding the evidence provided against the
+    defendant. Defense No information is available on Mr. Kazemnia s defense.
+    Judgment Mr. Mehdi Kazemnia was sentenced to death by hanging. He was
+    executed in Orumieh Central Prison, on Wednesday February 28, 2018.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8298/mehdi-kazemnia"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

@@ -1,0 +1,56 @@
+id: omari-efendi-2016
+name_latin: "Efendi Omari"
+name_farsi: "افندی عمری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: "https://www.iranrights.org/actorphotos/82977_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 2016-09-29
+age_at_death: null
+place_of_death: "Orumieh"
+province: "Azarbaijan-e Gharbi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of execution of Mr. Efendi Omari along with seven other individuals
+    was announced by the websites of Human Rights Activists News Agency
+    (HRANA) and Center of Democracy and Human Rights in Kurdistan (Mafnews) on
+    September 29, 2016. Additional information on this case was obtained from
+    the website of Iran Human Rights (September 29, 2016). Mr. Omari was from
+    Orumieh (Iran Human Rights, September 29, 2016), and his case pertains to
+    crimes connected to narcotics. Arrest and detention There is no
+    information available on the details of Mr. Omari s arrest and detention.
+    Trial There is no information available on the details of the session or
+    sessions of Mr. Omari s trial. Charges Mr. Omari was charged with crimes
+    connected to narcotics The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that the Islamic Republic
+    authorities have brought trumped-up charges, including drug trafficking,
+    sexual, and other criminal offences, against their opponents (including
+    political, civil society activists, as well as unionists and ethnic and
+    religious minorities). Each year Iranian authorities sentence to death
+    hundreds of alleged common criminals, following judicial processes that
+    fail to meet international standards. The exact number of people convicted
+    and executed based on trumped-up charges is unknown. Evidence of guilt
+    There is no information available on the details of the evidence of guilt
+    entered against Mr. Omari. Defense There is no information available on
+    the details of Mr. Omari s defense. Judgment Mr. Efendi Omari was hanged
+    along with seven other individuals in Orumieh Central Prison (Darya) on
+    the morning of September 29, 2016 (HRANA and Mafnews, September 29, 2016).
+    There is no further information available on the details of this
+    execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8352/efendi-omari"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

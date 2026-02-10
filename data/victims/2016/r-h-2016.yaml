@@ -1,0 +1,56 @@
+id: r-h-2016
+name_latin: "H. R."
+name_farsi: "ح. ر."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2016-01-16
+age_at_death: 27
+place_of_death: "Rasht"
+province: "Gilan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. H. R., son of Nasser, along with three other
+    individuals*, was announced by the website of the provincial Ministry of
+    Justice office of Gilan Province (January 16, 2016), citing the Public
+    Relations section of the provincial Ministry of Justice office of Gilan
+    Province. Mr. H. R. was from Takestan and his case pertains rape. Arrest
+    and detention There is no information available on the details of Mr. H.
+    R. s arrest and detention. Trial Mr. H. R. was tried by the Islamic
+    Revolutionary Court of Gilan Province. However, there is no information
+    available on the details of the session or sessions of his trial. Charges
+    Mr. H. R. was charged with rape. The validity of the criminal charges
+    brought against this defendant cannot be ascertained in the absence of the
+    basic guarantees of a fair trial. International human rights organizations
+    have drawn attention to reports indicating that the Islamic Republic
+    authorities have brought trumped-up charges, including drug trafficking,
+    sexual, and other criminal offences, against their opponents (including
+    political, civil society activists, as well as unionists and ethnic and
+    religious minorities). Each year Iranian authorities sentence to death
+    hundreds of alleged common criminals, following judicial processes that
+    fail to meet international standards. The exact number of people convicted
+    and executed based on trumped-up charges is unknown. Evidence of guilt
+    There is no information available on the details of the evidence of guilt
+    entered against Mr. H. R. Defense There is no information available on the
+    details of Mr. H. R. s defense. Judgment The Islamic Revolutionary Court
+    of Gilan Province sentenced Mr. H. R. to death. The verdict was validated
+    by the Chief Public Prosecutor as well as the head of the Judiciary. Mr.
+    H. R. was hanged, along with three other individuals, in Rasht Central
+    Prison on January 16, 2016. --------------------------------------- * S.Q.
+    , M.F. , and A.A.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8247/h-r"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

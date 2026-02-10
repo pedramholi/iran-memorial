@@ -1,0 +1,28 @@
+id: azizi-naser-hajar-2018
+name_latin: "Naser (Hajar) Azizi"
+name_farsi: "ناصر (حجار) عزیزی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2018-08-29
+age_at_death: 23
+place_of_death: "Oshnavieh"
+province: "Azarbaijan-e Gharbi"
+cause_of_death: "Execution » Hanging"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/83011/naser-hajar-azizi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

@@ -1,0 +1,52 @@
+id: nosratian-mehdi-2016
+name_latin: "Mehdi Nosratian"
+name_farsi: "مهدی نصرتیان"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2016-01-05
+age_at_death: null
+place_of_death: "Tabriz"
+province: "Azarbaijan-e Sharqi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Mehdi Nosratian, along with four other
+    individuals, was announced by the website of Human Rights Defenders
+    Association of Kurdistan (January 6, 2016). His case pertains to murder.
+    Arrest and detention Mr. Nosratian was imprisoned in Ward 9 of Tabriz
+    Central Prison. However, there is no information available on the details
+    of his arrest and detention. Trial Mr. Nosratian went on trial in East
+    Azarbaijan Province. However, there is no information available on the
+    details of the session or sessions of his trial. Charges Mr. Nosratian was
+    charged with murder. The validity of the criminal charges brought against
+    this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that the Islamic Republic
+    authorities have brought trumped-up charges, including drug trafficking,
+    sexual, and other criminal offences, against their opponents (including
+    political, civil society activists, as well as unionists and ethnic and
+    religious minorities). Each year Iranian authorities sentence to death
+    hundreds of alleged common criminals, following judicial processes that
+    fail to meet international standards. The exact number of people convicted
+    and executed based on trumped-up charges is unknown. Evidence of guilt
+    There is no information available on the details of the evidence of guilt
+    entered against Mr. Nosratian. Defense There is no information available
+    on the details of Mr. Nosratian s defense. Judgment Mr. Mehdi Nosratian
+    was sentenced to death. He was hanged in the courtyard of Tabriz Central
+    Prison on Tuesday, January 5, 2016.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8314/mehdi-nosratian"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

@@ -1,0 +1,55 @@
+id: asadi-mojtaba-2018
+name_latin: "Mojtaba Asadi"
+name_farsi: "مجتبی اسدی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2018-08-28
+age_at_death: null
+place_of_death: "Karaj"
+province: "Alborz"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Mojtaba Asadi, along with another person, was
+    reported by HRANA Website, the Human Rights Activists in Iran News Agency,
+    and the Human Rights Organization of Iran Website (August 30, 2018).
+    Additional information in this case has been gathered from HRANA Website
+    (August 28, 2018). News of this execution was not reported by the official
+    news agencies or by the judiciary. Arrest and detention Mr. Asadi was
+    transferred from Andarzgah 3 Section of Raja i Shahr Prison in Karaj to
+    solitary confinement, on Monday, August 27, or Tuesday, August 28, 2018.
+    However, the detailed circumstances of his arrest and detention are not
+    known. Trial No information is available on Mr. Asadi s trial. Charges The
+    charge brought against Mr. Asadi was murder in the first degree . The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    International human rights organizations have drawn attention to reports
+    indicating that the Islamic Republic authorities have brought trumped-up
+    charges, including drug trafficking, sexual, and other criminal offences,
+    against their opponents (including political, civil society activists, as
+    well as unionists and ethnic and religious minorities). Each year Iranian
+    authorities sentence to death hundreds of alleged common criminals,
+    following judicial processes that fail to meet international standards.
+    The exact number of people convicted and executed based on trumped-up
+    charges is unknown. Evidence of guilt The report of this execution does
+    not contain information regarding the evidence provided against the
+    defendant. Defense No information is available on Mr. Asadi s defense.
+    Judgment Mr. Mojtaba Asadi was sentenced to death by hanging. He was
+    executed, along with another person, in Raja i Shahr Prison, Karaj, on
+    August 28, 2018.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8304/mojtaba-asadi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

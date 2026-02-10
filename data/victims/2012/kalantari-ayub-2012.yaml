@@ -1,0 +1,41 @@
+id: kalantari-ayub-2012
+name_latin: "Ayub Kalantari"
+name_farsi: "ایوب کلانتری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2012-01-28
+age_at_death: 28
+place_of_death: "Rasht"
+province: "Gilan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The news of Mr. Ayub Kalantari s execution along with another person was
+    announced by the website of the Human Rights Activists for Democracy in
+    Iran on February 1, 2012. According to the source, the official government
+    media did not cover the news of this execution. Arrest and Detention The
+    circumstances of Mr. Kalantari s arrest and detention are not known. Trial
+    No information is available on Mr. Kalantari s trial. Charges The charge
+    brought against Mr. Kalantari is not known. The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. Evidence of Guilt The
+    report of this execution does not contain information regarding the
+    evidence provided against Mr. Kalantari. Defense No information is
+    available on Mr. Kalantari s defense. Judgment Mr. Ayub Kalantari was
+    hanged in Rasht Prison on Saturday, January 28, 2012.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8127/ayub-kalantari"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

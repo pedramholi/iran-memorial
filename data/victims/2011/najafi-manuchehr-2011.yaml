@@ -1,0 +1,54 @@
+id: najafi-manuchehr-2011
+name_latin: "Manuchehr Najafi"
+name_farsi: "منوچهر نجفی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2011-01-12
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Manuchehr Najafi, son of Farman, along with
+    six others, was published on the websites of the Revolutionary Public
+    Prosecutor s Office in Tehran on January 11, and IRNA (Islamic Republic
+    News Agency) on January 12, 2011, quoting the Information Base of the
+    Public Prosecutor s Office in Tehran. Arrest and Detention There is no
+    specific information on the defendant s arrest and detention. Trial This
+    trial took place in the Islamic Revolutionary Court of Tehran in 2009. No
+    future information is available on the defendant s trial. Charges The
+    charge against Mr. Mohsen Bahrami was announced as "dealing of 9 kilograms
+    of hashish." The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. International human rights organizations have drawn
+    attention to reports indicating that Islamic Republic authorities have
+    brought trumped-up charges against their political opponents and executed
+    them for alleged drug trafficking, sexual, and other criminal offences.
+    Thousands of alleged drug traffickers have been sentenced to death
+    following judicial processes that fail to meet international standards.
+    Scores of them were executed based on a 1989 law imposing mandatory death
+    sentences on drug traffickers found in possession of specified amounts of
+    proscribed narcotics (5 kg of hashish or opium, and more than 30 grams of
+    heroin, codeine or methadone). The exact number of people convicted based
+    on trumped-up charges is unknown. Evidence of Guilt The report of this
+    execution did not provide any specific information on the evidence
+    presented against the defendant. Defence No information is available on
+    the defendant's defence. Judgment The court condemned Mr. Manuchehr Najafi
+    to death and he was hanged in Tehran on January 12, 2011 at dawn.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/72148/manuchehr-najafi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

@@ -1,0 +1,44 @@
+id: zehi-mobasher-mirbaluch-2015
+name_latin: "Mobasher Mirbaluch Zehi"
+name_farsi: "مبشر میربلوچ زهی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2015-02-14
+age_at_death: null
+place_of_death: "Chabahar"
+province: "Sistan va Baluchestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Mobasher Mirbaluch Zehi, along with another
+    person, was published on the websites of the Baluchcampaign (Baluch
+    Activists) on February 15, and Defenders of Human Rights Center on
+    February 19, 2015. Arrest and detention According to the Baluchcampaign
+    website, Mr. Mirbaluch Zehi was detained for four years. The circumstances
+    of his arrest and detention are not known. Trial No information is
+    available on Mr. Mirbaluch Zehi s trial. Charges According to the
+    Baluchcampaign website, the charges against Mr. Mirbaluch Zehi were
+    announced as, Moharebeh (fighting against God) by armed robbery and
+    clashing with officials. The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. Evidence of guilt The report of this execution
+    does not contain information regarding the evidence provided against Mr.
+    Mirbaluch Zehi. Defense No information is available about Mr. Mirbaluch
+    Zehi s defense Judgment Mr. Mobasher Mirbaluch Zehi was hanged in the
+    Chahbahar Prison on February 14, 2015.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/73910/mobasher-mirbaluch-zehi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

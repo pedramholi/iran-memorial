@@ -1,0 +1,54 @@
+id: b-jalil-2010
+name_latin: "Jalil B."
+name_farsi: "جلیل ب"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2010-06-05
+age_at_death: 36
+place_of_death: "Mianeh"
+province: "Azarbaijan-e Sharqi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Jalil B., son of Khodakaram, was published on
+    the website of Fars news agency on June 5, 2010, quoting the Head of
+    Combating Narcotics Police in the Eastern Azarbaijan Province. Arrest and
+    Detention There is no specific information on the defendant’s arrest and
+    detention. Trial No information is available on the defendant’s trial.
+    Charges The charges against Mr. Jalil B. were announced as "supply and
+    distribution of narcotics." The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that Islamic Republic authorities
+    have brought trumped-up charges against their political opponents and
+    executed them for alleged drug trafficking, sexual, and other criminal
+    offences. Thousands of alleged drug traffickers have been sentenced to
+    death following judicial processes that fail to meet international
+    standards. Scores of them were executed based on a 1989 law imposing
+    mandatory death sentences on drug traffickers found in possession of
+    specified amounts of proscribed narcotics (5 kg of hashish or opium, and
+    more than 30 grams of heroin, codeine or methadone). The exact number of
+    people convicted based on trumped-up charges is unknown. Evidence of Guilt
+    The evidence presented against the defendant was announced as, “recovery
+    of over 4 kilograms and 500 grams of crack [cocaine] and over 200 grams of
+    opium from his home.” Defence No information is available on the
+    defendant's defence. Judgment The court condemned Mr. Jalil B. to death
+    and he was hanged at the Mianeh prison yard on June 5, 2010. No specific
+    information is available about the defendant’s execution. Mr. Jalil B. was
+    36 years old.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/64750/jalil-b"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-09
+updated_by: "boroumand-import"

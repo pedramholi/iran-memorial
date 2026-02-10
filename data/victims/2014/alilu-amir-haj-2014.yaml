@@ -1,0 +1,39 @@
+id: alilu-amir-haj-2014
+name_latin: "Amir Haj Alilu"
+name_farsi: "امیر حاج‌علی‌لو"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2014-01-09
+age_at_death: null
+place_of_death: "Orumieh"
+province: "Azarbaijan-e Gharbi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Amir Haj Alilu, along with five others, was
+    published on the websites of Kurdistanazad on January 9, 2014, quoting the
+    Farat news agency, and Azoh (Azarbaijan Student Movement) on January 11,
+    2014. Arrest and Detention There is no specific information on Mr. Haj
+    Alilu s arrest and detention. Trial No information is available on Mr. Haj
+    Alilu s trial. Charges No information is available on Mr. Haj Alilu s
+    charges. Evidence of Guilt The report of this execution does not contain
+    information regarding the evidence provided against Mr. Haj Alilu. Defense
+    No information is available on Mr. Haj Alilu s defense. Judgment Mr. Amir
+    Haj Alilu s was hanged in the Orumieh Prison on January 9, 2014. No
+    further information is available about his execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7528/amir-haj-alilu"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"

@@ -1,0 +1,98 @@
+id: asghar-ali-2017
+name_latin: "Ali Asghar"
+name_farsi: "علی اصغر"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2017-01-01
+age_at_death: null
+place_of_death: "Ilam Province"
+province: "Ilam"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The news of Mr. Ali Asghar s (last name unknown) execution was published
+    by Mizan Online News Agency website on January 9, 2017. Information about
+    Mr. Ali Asghar s arrest was obtained from Iranian Students News Agency
+    (ISNA) on July 25, 2012. Mr. Ali Asghar s case was related to the death of
+    a resident of the city of Dehloran in Ilam province in 1999. In the middle
+    of committing a robbery, a man with a covered face shot the home owner
+    twice with a hunting gun and fled the scene after taking some jewelry.
+    Police questioned persons close to the victim and those who were out of
+    favor with him, but no suspect was found at this stage. Since the victim
+    was a wealthy businessman, police started investigating his business
+    competitors. Among these people, the victim's spouse suspected a tall
+    young man named Reza, claiming that his appearance was very similar to the
+    assailant. This sole claim was sufficient to make Reza the main suspect of
+    the case. Through several years of case investigation, Reza always claimed
+    innocence, but since he did not have anyone to confirm his alibi, the
+    prosecutor issued an indictment and the judges accordingly found the case
+    to be lowth and ordered qassameh * to be carried out. Therefore, 51
+    relatives of the deceased s next of kin swore that Reza had committed the
+    murder. Despite Reza s claim of innocence, his denial of the charges, and
+    his objections to the procedure, Reza was sentenced to a retaliatory death
+    sentence ( qesas-e nafs ) on the sole basis of qassameh. A short while
+    later, one of those who had taken a qassameh oath against Reza was
+    murdered suspiciously, and the investigation s path changed. In the course
+    of new investigations, the police turned up a new and surprising lead and
+    identified Mr. Ali Asghar, who was involved with both murders. A few years
+    after the aforementioned robbery and murder incident, Mr. Ali Asghar was
+    arrested on charge of his father's murder and spent several years in jail
+    until he was released with the consent of his family and left Dehloran
+    permanently for a location unknown to others. Arrest and detention In
+    2012, police tracked down and arrested Mr. Ali Asghar in Tehran s Hakimieh
+    neighborhood. The circumstances of his arrest and detention are not known.
+    Trial No information is available on Mr. Ali Asghar s trial. Charges The
+    charge brought against Mr. Ali Asghar is not known in detail. According to
+    sources, he was charged with robbery and murder. Evidence of guilt In the
+    report of his execution, Mr. Ali Asghar's confession and the
+    reconstruction of the crime scene were mentioned as evidence against him.
+    Defense No information is available on Mr. Ali Asghar s defense. Judgment
+    According to existing information, the Criminal Court in Ilam province
+    issued a death sentence for Mr. Ali Asghar. No further details are
+    available on this order. Mr. Ali Asghar was executed subsequent to the
+    Supreme Court upholding his death sentence. -------------------------- *
+    Qassameh means an oath taken by a group of people. It is one of the ways
+    that a defendant s guilt or innocence can be proven for both intentional
+    and non-intentional offenses. Per Iran s Islamic Penal Code, qassameh is
+    carried out in instances where a crime has occurred and no convincing
+    evidence or witnesses exist which could prove the defendant s guilt, and
+    where a judge has doubt about the defendant s guilt based solely on
+    circumstantial evidence a circumstance referred to in religious
+    jurisprudence as lowth. Where lowth obtains, the judge is bound to ask the
+    defendant to produce evidence disproving the charge. If the defendant
+    demonstrates his innocence in this way, he is acquitted. Failing this, the
+    plaintiff may perform qassameh in order to prove the defendant s guilt, or
+    request that the defendant perform qassameh to disprove the charges. This
+    procedure, which requires a defendant to prove his innocence, is contrary
+    to the principle of presumption of innocence and violates the defendant s
+    right to remain silent. The principle of the presumption of innocence -
+    recognized in Iran s constitution, Code of Criminal Procedure, and
+    international agreements to which Iran is signatory holds that all persons
+    are to be considered innocent until proven guilty. A defendant should not
+    be made to prove his own innocence. Proving the charges made against the
+    defendant by presenting adequate evidence and witnesses is the duty of the
+    prosecuting authority (in the Iranian context, the public prosecutor or a
+    private plaintiff.) The right to remain silent is among the defendant s
+    rights of defense, affording him the right to refrain from answering
+    questions regarding the charges entered against him. Such silence may not
+    be treated as an indication or evidence of guilt or innocence. In order to
+    substantiate a charge of homicide through qassameh, an oath is required
+    from 50 male relatives of the plaintiff. For the charge to be dismissed,
+    fifty male relatives of the defendant must swear to his innocence. Should
+    the
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8059/ali-asghar"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-10
+updated_by: "boroumand-import"
