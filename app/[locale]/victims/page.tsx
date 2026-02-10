@@ -3,6 +3,7 @@ import { useTranslations } from "next-intl";
 import { VictimCard } from "@/components/VictimCard";
 import { SearchBar } from "@/components/SearchBar";
 import { getVictimsList } from "@/lib/queries";
+import { fallbackVictimsList } from "@/lib/fallback-data";
 import { Link } from "@/i18n/navigation";
 import type { Locale } from "@/i18n/config";
 
@@ -23,11 +24,11 @@ export default async function VictimsPage({
   const year = sp.year ? Number(sp.year) : undefined;
   const gender = sp.gender || "";
 
-  let result = { victims: [] as any[], total: 0, page: 1, pageSize: 24, totalPages: 0 };
+  let result: { victims: any[]; total: number; page: number; pageSize: number; totalPages: number } = fallbackVictimsList;
   try {
     result = await getVictimsList({ page, search, province, year, gender });
   } catch {
-    // DB not available
+    // DB not available — use fallback data
   }
 
   return (

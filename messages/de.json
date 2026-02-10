@@ -25,7 +25,12 @@
     "timespan": "Jahre der Unterdrückung",
     "browseTimeline": "Zeitstrahl ansehen",
     "browseVictims": "Alle Opfer ansehen",
-    "recentlyAdded": "Zuletzt hinzugefügt"
+    "recentlyAdded": "Zuletzt hinzugefügt",
+    "keyEvents": "Schlüsselereignisse",
+    "viewAllEvents": "Alle Ereignisse ansehen",
+    "submitInfo": "Informationen einreichen",
+    "submitInfoDescription": "Helfen Sie uns, die Opfer zu dokumentieren. Jeder Name, jede Geschichte, jedes Detail zählt.",
+    "viewTimeline": "Vollständigen Zeitstrahl ansehen"
   },
   "victim": {
     "life": "Leben",

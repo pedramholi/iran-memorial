@@ -25,7 +25,12 @@
     "timespan": "Years of Repression",
     "browseTimeline": "Browse Timeline",
     "browseVictims": "Browse All Victims",
-    "recentlyAdded": "Recently Added"
+    "recentlyAdded": "Recently Added",
+    "keyEvents": "Key Events",
+    "viewAllEvents": "View All Events",
+    "submitInfo": "Submit Information",
+    "submitInfoDescription": "Help us document the victims. Every name, every story, every detail matters.",
+    "viewTimeline": "View Full Timeline"
   },
   "victim": {
     "life": "Life",

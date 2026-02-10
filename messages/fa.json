@@ -25,7 +25,12 @@
     "timespan": "سال سرکوب",
     "browseTimeline": "مشاهده خط زمانی",
     "browseVictims": "مشاهده همه قربانیان",
-    "recentlyAdded": "آخرین افزوده‌ها"
+    "recentlyAdded": "آخرین افزوده‌ها",
+    "keyEvents": "رویدادهای کلیدی",
+    "viewAllEvents": "مشاهده همه رویدادها",
+    "submitInfo": "ارسال اطلاعات",
+    "submitInfoDescription": "به ما کمک کنید قربانیان را مستند کنیم. هر نام، هر داستان، هر جزئیاتی اهمیت دارد.",
+    "viewTimeline": "مشاهده خط زمانی کامل"
   },
   "victim": {
     "life": "زندگی",

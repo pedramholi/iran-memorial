@@ -1,7 +1,11 @@
 import { PrismaClient } from "@prisma/client";
 import { parse } from "yaml";
 import { readFileSync, readdirSync, statSync } from "fs";
-import { join } from "path";
+import { join, dirname } from "path";
+import { fileURLToPath } from "url";
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
 
 const prisma = new PrismaClient();
 
@@ -106,8 +110,8 @@ async function seedVictims() {
 
   for (const filePath of yamlFiles) {
     const v = readYaml(filePath);
-    if (!v || !v.id) {
-      console.log(`  ⚠ Skipping ${filePath} (no id)`);
+    if (!v || !v.id || !v.name_latin) {
+      console.log(`  ⚠ Skipping ${filePath} (no id or name)`);
       continue;
     }
 

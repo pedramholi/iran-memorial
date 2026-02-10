@@ -71,11 +71,13 @@ function VictimDetail({ victim, locale }: { victim: any; locale: Locale }) {
       <div className="mb-12">
         <div className="flex items-start gap-6 mb-6">
           {/* Photo */}
-          <div className="h-24 w-24 sm:h-32 sm:w-32 flex-shrink-0 rounded-full bg-memorial-800 flex items-center justify-center overflow-hidden border-2 border-memorial-700">
+          <div className="h-24 w-24 sm:h-32 sm:w-32 flex-shrink-0 rounded-full bg-memorial-800/80 flex items-center justify-center overflow-hidden border-2 border-memorial-700/50">
             {victim.photoUrl ? (
               <img src={victim.photoUrl} alt={victim.nameLatin} className="h-full w-full object-cover" />
             ) : (
-              <span className="text-4xl text-memorial-600">●</span>
+              <svg className="w-12 h-12 text-memorial-600" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>
+                <path strokeLinecap="round" strokeLinejoin="round" d="M15.75 6a3.75 3.75 0 1 1-7.5 0 3.75 3.75 0 0 1 7.5 0ZM4.501 20.118a7.5 7.5 0 0 1 14.998 0" />
+              </svg>
             )}
           </div>
 

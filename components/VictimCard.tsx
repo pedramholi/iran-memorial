@@ -32,7 +32,7 @@ export function VictimCard({
     >
       <div className="flex items-start gap-4">
         {/* Photo placeholder */}
-        <div className="h-16 w-16 flex-shrink-0 rounded-full bg-memorial-800 flex items-center justify-center overflow-hidden">
+        <div className="h-16 w-16 flex-shrink-0 rounded-full bg-memorial-800/80 flex items-center justify-center overflow-hidden border border-memorial-700/50">
           {photoUrl ? (
             <img
               src={photoUrl}
@@ -40,7 +40,9 @@ export function VictimCard({
               className="h-full w-full object-cover"
             />
           ) : (
-            <span className="text-2xl text-memorial-600">●</span>
+            <svg className="w-7 h-7 text-memorial-600" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>
+              <path strokeLinecap="round" strokeLinejoin="round" d="M15.75 6a3.75 3.75 0 1 1-7.5 0 3.75 3.75 0 0 1 7.5 0ZM4.501 20.118a7.5 7.5 0 0 1 14.998 0" />
+            </svg>
           )}
         </div>
 
