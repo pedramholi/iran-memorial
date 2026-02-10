@@ -5,6 +5,7 @@ import { SearchBar } from "@/components/SearchBar";
 import { getVictimsList } from "@/lib/queries";
 import { fallbackVictimsList } from "@/lib/fallback-data";
 import { Link } from "@/i18n/navigation";
+import { formatNumber } from "@/lib/utils";
 import type { Locale } from "@/i18n/config";
 
 export default async function VictimsPage({
@@ -50,24 +51,34 @@ function VictimsContent({
   search: string;
 }) {
   const t = useTranslations("search");
+  const tc = useTranslations("common");
 
   return (
     <div className="mx-auto max-w-6xl px-4 py-12">
-      <h1 className="text-3xl font-bold text-memorial-100 mb-8">{t("title")}</h1>
+      {/* Header */}
+      <div className="mb-8">
+        <h1 className="text-3xl font-bold text-memorial-100 mb-2">{t("title")}</h1>
+        <p className="text-memorial-400 text-sm">
+          {t("showing")}{" "}
+          <span className="text-memorial-200 font-medium tabular-nums">
+            {formatNumber(result.total, locale)}
+          </span>{" "}
+          {t("results")}
+        </p>
+      </div>
 
+      {/* Search */}
       <div className="mb-8">
         <SearchBar defaultValue={search} />
       </div>
 
       {result.victims.length === 0 ? (
-        <p className="text-memorial-400 py-12 text-center">
-          {useTranslations("common")("noResults")}
-        </p>
+        <div className="py-20 text-center">
+          <span className="text-4xl block mb-4">🔍</span>
+          <p className="text-memorial-400">{tc("noResults")}</p>
+        </div>
       ) : (
         <>
-          <p className="text-sm text-memorial-500 mb-6">
-            {t("showing")} {result.total} {t("results")}
-          </p>
           <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
             {result.victims.map((victim: any) => (
               <VictimCard
@@ -86,25 +97,54 @@ function VictimsContent({
 
           {/* Pagination */}
           {result.totalPages > 1 && (
-            <div className="mt-8 flex justify-center gap-2">
-              {result.page > 1 && (
+            <div className="mt-10 flex items-center justify-center gap-1">
+              {/* Prev */}
+              {result.page > 1 ? (
                 <Link
                   href={`/victims?page=${result.page - 1}${search ? `&search=${search}` : ""}`}
-                  className="px-4 py-2 rounded border border-memorial-700 text-memorial-300 hover:bg-memorial-800 text-sm"
+                  className="px-3 py-2 rounded-md border border-memorial-700 text-memorial-300 hover:bg-memorial-800 text-sm"
                 >
                   &larr;
                 </Link>
+              ) : (
+                <span className="px-3 py-2 rounded-md border border-memorial-800 text-memorial-600 text-sm cursor-not-allowed">
+                  &larr;
+                </span>
               )}
-              <span className="px-4 py-2 text-sm text-memorial-400">
-                {result.page} / {result.totalPages}
-              </span>
-              {result.page < result.totalPages && (
+
+              {/* Page numbers */}
+              {generatePageNumbers(result.page, result.totalPages).map((p, i) =>
+                p === "..." ? (
+                  <span key={`ellipsis-${i}`} className="px-2 py-2 text-sm text-memorial-600">
+                    ...
+                  </span>
+                ) : (
+                  <Link
+                    key={p}
+                    href={`/victims?page=${p}${search ? `&search=${search}` : ""}`}
+                    className={`px-3 py-2 rounded-md text-sm ${
+                      p === result.page
+                        ? "bg-gold-500/20 border border-gold-500/30 text-gold-400 font-medium"
+                        : "border border-memorial-700 text-memorial-300 hover:bg-memorial-800"
+                    }`}
+                  >
+                    {p}
+                  </Link>
+                )
+              )}
+
+              {/* Next */}
+              {result.page < result.totalPages ? (
                 <Link
                   href={`/victims?page=${result.page + 1}${search ? `&search=${search}` : ""}`}
-                  className="px-4 py-2 rounded border border-memorial-700 text-memorial-300 hover:bg-memorial-800 text-sm"
+                  className="px-3 py-2 rounded-md border border-memorial-700 text-memorial-300 hover:bg-memorial-800 text-sm"
                 >
                   &rarr;
                 </Link>
+              ) : (
+                <span className="px-3 py-2 rounded-md border border-memorial-800 text-memorial-600 text-sm cursor-not-allowed">
+                  &rarr;
+                </span>
               )}
             </div>
           )}
@@ -112,4 +152,19 @@ function VictimsContent({
       )}
     </div>
   );
+}
+
+function generatePageNumbers(current: number, total: number): (number | "...")[] {
+  if (total <= 7) return Array.from({ length: total }, (_, i) => i + 1);
+
+  const pages: (number | "...")[] = [1];
+  const start = Math.max(2, current - 1);
+  const end = Math.min(total - 1, current + 1);
+
+  if (start > 2) pages.push("...");
+  for (let i = start; i <= end; i++) pages.push(i);
+  if (end < total - 1) pages.push("...");
+  pages.push(total);
+
+  return pages;
 }

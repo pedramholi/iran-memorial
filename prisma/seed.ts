@@ -108,10 +108,12 @@ async function seedVictims() {
 
   console.log(`\nSeeding ${yamlFiles.length} victims...`);
 
+  let created = 0, skipped = 0, errors = 0;
+
   for (const filePath of yamlFiles) {
     const v = readYaml(filePath);
-    if (!v || !v.id || !v.name_latin) {
-      console.log(`  ⚠ Skipping ${filePath} (no id or name)`);
+    if (!v || !v.id || typeof v.name_latin !== "string" || !v.name_latin.trim()) {
+      skipped++;
       continue;
     }
 
@@ -123,6 +125,7 @@ async function seedVictims() {
       if (event) eventId = event.id;
     }
 
+    try {
     const victim = await prisma.victim.upsert({
       where: { slug: v.id },
       update: {},
@@ -191,8 +194,15 @@ async function seedVictims() {
       }
     }
 
-    console.log(`  ✓ ${v.id} (${v.name_latin})`);
+    created++;
+    if (created % 500 === 0) console.log(`  [${created}/${yamlFiles.length}] ${v.name_latin}`);
+    } catch (e: any) {
+      errors++;
+      console.log(`  ✗ ${filePath}: ${e.message?.slice(0, 100)}`);
+    }
   }
+
+  console.log(`\n  Created/updated: ${created}, Skipped: ${skipped}, Errors: ${errors}`);
 }
 
 async function main() {

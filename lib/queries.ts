@@ -77,14 +77,16 @@ export async function getVictimsList(params: {
 }
 
 export async function getStats() {
-  const [victimCount, eventCount] = await Promise.all([
+  const [victimCount, eventCount, sourceCount] = await Promise.all([
     prisma.victim.count(),
     prisma.event.count(),
+    prisma.source.count(),
   ]);
 
   return {
     victimCount,
     eventCount,
+    sourceCount,
     yearsOfRepression: new Date().getFullYear() - 1979,
   };
 }

@@ -6,6 +6,7 @@
 export const fallbackStats = {
   victimCount: 4378,
   eventCount: 12,
+  sourceCount: 6500,
   yearsOfRepression: new Date().getFullYear() - 1979,
 };
 

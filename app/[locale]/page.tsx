@@ -49,7 +49,7 @@ function HomeContent({
   events,
 }: {
   locale: Locale;
-  stats: { victimCount: number; eventCount: number; yearsOfRepression: number };
+  stats: { victimCount: number; eventCount: number; sourceCount: number; yearsOfRepression: number };
   recentVictims: any[];
   events: any[];
 }) {
@@ -211,6 +211,44 @@ function HomeContent({
         </section>
       )}
 
+      {/* Why This Matters */}
+      <section className="py-20 px-4">
+        <div className="mx-auto max-w-4xl">
+          <div className="rounded-xl border border-memorial-800/60 bg-gradient-to-br from-memorial-900/60 to-memorial-950 p-8 sm:p-12">
+            <div className="flex flex-col sm:flex-row gap-8 items-start">
+              <div className="flex-1">
+                <h2 className="text-xl sm:text-2xl font-semibold text-memorial-100 mb-4">
+                  {t("whyMatters")}
+                </h2>
+                <p className="text-memorial-400 leading-relaxed mb-6">
+                  {t("whyMattersText")}
+                </p>
+                <Link
+                  href="/about"
+                  className="text-sm text-gold-400 hover:text-gold-300 transition-colors"
+                >
+                  {t("learnMore")} &rarr;
+                </Link>
+              </div>
+              <div className="flex-shrink-0 grid grid-cols-2 gap-4 sm:gap-6">
+                <div className="text-center">
+                  <div className="text-2xl font-bold text-gold-400 tabular-nums">
+                    {formatNumber(stats.victimCount, locale)}
+                  </div>
+                  <div className="text-xs text-memorial-500 mt-1">{t("totalVictims")}</div>
+                </div>
+                <div className="text-center">
+                  <div className="text-2xl font-bold text-gold-400 tabular-nums">
+                    {formatNumber(stats.sourceCount, locale)}
+                  </div>
+                  <div className="text-xs text-memorial-500 mt-1">{t("documentedSources")}</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* Recently Added Victims */}
       {recentVictims.length > 0 && (
         <section className="py-20 px-4 bg-memorial-900/20">
@@ -252,23 +290,24 @@ function HomeContent({
       )}
 
       {/* CTA: Submit Information */}
-      <section className="py-20 px-4">
-        <div className="mx-auto max-w-2xl text-center">
-          <div className="mb-6">
-            <span className="text-3xl">&#9998;</span>
+      <section className="relative py-20 px-4 overflow-hidden">
+        <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_center,_var(--color-gold-500)_0%,_transparent_70%)] opacity-[0.03]" />
+        <div className="relative mx-auto max-w-2xl text-center">
+          <div className="rounded-xl border border-gold-500/20 bg-memorial-900/40 p-10 sm:p-14">
+            <span className="text-4xl candle-flicker inline-block mb-5">🕯</span>
+            <h2 className="text-xl sm:text-2xl font-semibold text-memorial-100 mb-3">
+              {t("submitInfo")}
+            </h2>
+            <p className="text-memorial-400 text-sm mb-8 leading-relaxed max-w-lg mx-auto">
+              {t("submitInfoDescription")}
+            </p>
+            <Link
+              href="/submit"
+              className="inline-flex items-center justify-center rounded-lg border border-gold-500/30 bg-gold-500/10 px-8 py-3.5 text-sm font-medium text-gold-400 hover:bg-gold-500/20 transition-colors"
+            >
+              {t("submitInfo")}
+            </Link>
           </div>
-          <h2 className="text-xl font-semibold text-memorial-100 mb-3">
-            {t("submitInfo")}
-          </h2>
-          <p className="text-memorial-400 text-sm mb-8 leading-relaxed max-w-lg mx-auto">
-            {t("submitInfoDescription")}
-          </p>
-          <Link
-            href="/submit"
-            className="inline-flex items-center justify-center rounded-lg border border-memorial-700 bg-memorial-800/50 px-6 py-3 text-sm font-medium text-memorial-200 hover:bg-memorial-700 hover:text-memorial-50 transition-colors"
-          >
-            {t("submitInfo")}
-          </Link>
         </div>
       </section>
     </div>
