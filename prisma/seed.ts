@@ -57,13 +57,35 @@ async function seedEvents() {
 
 // Map event context text to event slugs
 const EVENT_CONTEXT_MAP: Record<string, string> = {
+  // 2026
+  "2026 Iranian protests": "massacres-2026",
+  "2025-2026 Iranian": "massacres-2026",
+  "2026 protest": "massacres-2026",
+  // 2022
   "Arrest by Guidance Patrol": "woman-life-freedom-2022",
   "Woman, Life, Freedom": "woman-life-freedom-2022",
   "2022 Mahsa Amini protests": "woman-life-freedom-2022",
+  "Mahsa Amini": "woman-life-freedom-2022",
+  // 2019
+  "Bloody November": "bloody-november-2019",
+  "November 2019": "bloody-november-2019",
+  "Aban 98": "bloody-november-2019",
+  "آبان": "bloody-november-2019",
+  // 2009
   "2009 Green Movement": "green-movement-2009",
+  "Green Movement": "green-movement-2009",
   "Post-election protests": "green-movement-2009",
+  // 1999
+  "Student Protests": "student-protests-1999",
+  "18 Tir": "student-protests-1999",
+  // 1988
   "1988 Prison Massacres": "massacre-1988",
   "کشتار ۶۷": "massacre-1988",
+  "Death Commission": "massacre-1988",
+  // 1981-1985
+  "Reign of Terror": "reign-of-terror-1981-1985",
+  // Chain murders
+  "Chain Murders": "chain-murders",
 };
 
 function guessEventSlug(victim: any): string | null {
@@ -130,16 +152,22 @@ async function seedVictims() {
         circumstancesEn: typeof v.circumstances === "string" ? v.circumstances.trim() : null,
         circumstancesFa: null,
         eventId,
+        eventContext: typeof v.event_context === "string" ? v.event_context.trim() : null,
         responsibleForces: typeof v.responsible_forces === "string" ? v.responsible_forces.trim() : null,
+        witnesses: Array.isArray(v.witnesses) ? v.witnesses : [],
+        lastSeen: typeof v.last_seen === "string" ? v.last_seen.trim() : null,
         burialLocation: v.burial?.location || null,
         burialDate: v.burial?.date ? new Date(v.burial.date) : null,
         burialCircumstancesEn: typeof v.burial?.circumstances === "string" ? v.burial.circumstances.trim() : null,
         burialCircumstancesFa: null,
+        graveStatus: typeof v.burial?.grave_status === "string" ? v.burial.grave_status.trim() : null,
         familyPersecutionEn: typeof v.family_persecution === "string" ? v.family_persecution.trim() : null,
         familyPersecutionFa: null,
         legalProceedings: typeof v.legal_proceedings === "string" ? v.legal_proceedings.trim() : null,
         tributes: v.tributes || [],
         verificationStatus: v.status || "unverified",
+        dataSource: typeof v.updated_by === "string" ? v.updated_by.trim() : null,
+        notes: typeof v.notes === "string" ? v.notes.trim() : null,
       },
     });
 
