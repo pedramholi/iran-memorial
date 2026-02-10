@@ -11,13 +11,13 @@ photo: null
 date_of_death: 2026-01-08
 age_at_death: 23
 place_of_death: "Isfahan"
-province: "Isfahan"
+province: "Esfahan"
 cause_of_death: "Gunshot"
 circumstances: >
     Computer engineering student who recently transferred from Yazd University
-  to Isfahan University. Killed by shotgun pellets fired by suppressive forces
-  during protests. Was active in web design and user interface work, focusing on
-  making digital product user experiences simpler and more practical.
+    to Isfahan University. Killed by shotgun pellets fired by suppressive forces
+    during protests. Was active in web design and user interface work, focusing on
+    making digital product user experiences simpler and more practical.
 event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
 responsible_forces: null
 
