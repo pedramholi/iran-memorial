@@ -40,3 +40,10 @@ CREATE TRIGGER victims_search_vector_trigger
 
 -- Index on gender for filter performance
 CREATE INDEX IF NOT EXISTS "victims_gender_idx" ON "victims"("gender");
+
+-- Index on date_of_death DESC for default list sort
+CREATE INDEX IF NOT EXISTS "victims_date_of_death_desc_idx" ON "victims" ("date_of_death" DESC NULLS LAST);
+
+-- Foreign key indexes for detail page lookups
+CREATE INDEX IF NOT EXISTS "sources_victim_id_idx" ON "sources" ("victim_id");
+CREATE INDEX IF NOT EXISTS "sources_event_id_idx" ON "sources" ("event_id");

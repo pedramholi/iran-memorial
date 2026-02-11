@@ -112,7 +112,7 @@ async function seedVictims() {
 
   for (const filePath of yamlFiles) {
     const v = readYaml(filePath);
-    if (!v || !v.id || typeof v.name_latin !== "string" || !v.name_latin.trim()) {
+    if (!v || !v.id) {
       skipped++;
       continue;
     }
@@ -131,7 +131,7 @@ async function seedVictims() {
       update: {},
       create: {
         slug: v.id,
-        nameLatin: v.name_latin,
+        nameLatin: v.name_latin || "Unknown",
         nameFarsi: v.name_farsi || null,
         aliases: v.aliases || [],
         dateOfBirth: v.date_of_birth ? new Date(v.date_of_birth) : null,
@@ -195,7 +195,7 @@ async function seedVictims() {
     }
 
     created++;
-    if (created % 500 === 0) console.log(`  [${created}/${yamlFiles.length}] ${v.name_latin}`);
+    if (created % 500 === 0) console.log(`  [${created}/${yamlFiles.length}] ${v.name_latin || v.id}`);
     } catch (e: any) {
       errors++;
       console.log(`  ✗ ${filePath}: ${e.message?.slice(0, 100)}`);
