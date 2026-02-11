@@ -68,10 +68,10 @@ function VictimDetail({ victim, locale }: { victim: any; locale: Locale }) {
   return (
     <div className="mx-auto max-w-4xl px-4 py-12">
       {/* Header */}
-      <div className="mb-12">
+      <div className="mb-12 rounded-xl bg-gradient-to-b from-memorial-900/60 to-transparent p-6 sm:p-8">
         <div className="flex items-start gap-6 mb-6">
           {/* Photo */}
-          <div className="h-24 w-24 sm:h-32 sm:w-32 flex-shrink-0 rounded-full bg-memorial-800/80 flex items-center justify-center overflow-hidden border-2 border-memorial-700/50">
+          <div className="h-24 w-24 sm:h-32 sm:w-32 flex-shrink-0 rounded-full bg-memorial-800/80 flex items-center justify-center overflow-hidden ring-2 ring-memorial-700/50">
             {victim.photoUrl ? (
               <img src={victim.photoUrl} alt={victim.nameLatin} className="h-full w-full object-cover" />
             ) : (
@@ -128,7 +128,7 @@ function VictimDetail({ victim, locale }: { victim: any; locale: Locale }) {
             {t("life")}
             <span className="h-px flex-1 bg-memorial-800" />
           </h2>
-          <div className="space-y-6">
+          <div className="rounded-lg border border-memorial-800/60 bg-memorial-900/30 p-6 space-y-6">
             {occupation && <Field label={t("occupation")} value={occupation} />}
             {victim.education && <Field label={t("education")} value={victim.education} />}
             {victim.familyInfo && formatFamily(victim.familyInfo) && (
@@ -161,7 +161,7 @@ function VictimDetail({ victim, locale }: { victim: any; locale: Locale }) {
             {t("death")}
             <span className="h-px flex-1 bg-memorial-800" />
           </h2>
-          <div className="space-y-6">
+          <div className="rounded-lg border border-memorial-800/60 bg-gradient-to-b from-blood-600/5 to-memorial-900/30 p-6 space-y-6">
             {victim.placeOfDeath && <Field label={t("placeOfDeath")} value={victim.placeOfDeath} />}
             {victim.causeOfDeath && <Field label={t("causeOfDeath")} value={victim.causeOfDeath} />}
             {victim.responsibleForces && <Field label={t("responsibleForces")} value={victim.responsibleForces} />}
@@ -194,7 +194,7 @@ function VictimDetail({ victim, locale }: { victim: any; locale: Locale }) {
             {t("aftermath")}
             <span className="h-px flex-1 bg-memorial-800" />
           </h2>
-          <div className="space-y-6">
+          <div className="rounded-lg border border-memorial-800/60 bg-memorial-900/30 p-6 space-y-6">
             {victim.burialLocation && (
               <div>
                 <h3 className="text-sm font-medium text-memorial-400 mb-2">{t("burial")}</h3>
@@ -241,7 +241,7 @@ function VictimDetail({ victim, locale }: { victim: any; locale: Locale }) {
             {t("sources")}
             <span className="h-px flex-1 bg-memorial-800" />
           </h2>
-          <ul className="space-y-3">
+          <ul className="rounded-lg border border-memorial-800/60 bg-memorial-900/30 p-6 space-y-3">
             {victim.sources.map((source: any) => (
               <li key={source.id} className="text-sm">
                 {source.url ? (

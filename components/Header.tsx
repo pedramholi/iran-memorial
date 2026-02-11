@@ -16,6 +16,7 @@ export function Header({ locale }: { locale: Locale }) {
     { href: "/timeline", label: t("timeline") },
     { href: "/victims", label: t("victims") },
     { href: "/events", label: t("events") },
+    { href: "/statistics", label: t("statistics") },
     { href: "/about", label: t("about") },
   ];
 

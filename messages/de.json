@@ -12,7 +12,8 @@
     "language": "Sprache",
     "loading": "Laden...",
     "noResults": "Keine Ergebnisse gefunden",
-    "backToHome": "Zurück zur Startseite"
+    "backToHome": "Zurück zur Startseite",
+    "statistics": "Statistik"
   },
   "home": {
     "heroTitle": "Jedes Opfer hat einen Namen.",
@@ -138,9 +139,37 @@
     "privacyText": "Wir behandeln die Daten der Opfer und ihrer Familien mit höchstem Respekt. Eingereichte Informationen werden geprüft, bevor sie veröffentlicht werden. Die Identität von Einreichenden wird nicht offengelegt. Wir dokumentieren Fakten, nicht Meinungen.",
     "quote": "«Solange wir uns erinnern, leben sie weiter.»"
   },
+  "statistics": {
+    "title": "Statistik",
+    "subtitle": "Datenübersicht der dokumentierten Opfer der Islamischen Republik",
+    "totalVictims": "Dokumentierte Opfer",
+    "yearsCovered": "Erfasste Jahre",
+    "provincesAffected": "Provinzen",
+    "verifiedRecords": "Verifiziert",
+    "deathsByYear": "Todesfälle nach Jahr",
+    "deathsByProvince": "Todesfälle nach Provinz",
+    "causeOfDeath": "Todesursache",
+    "ageDistribution": "Alter zum Todeszeitpunkt",
+    "genderBreakdown": "Geschlecht",
+    "dataSources": "Datenquellen",
+    "victims": "Opfer",
+    "unknown": "Unbekannt",
+    "male": "Männlich",
+    "female": "Weiblich",
+    "peakYear": "Höchstes Jahr",
+    "withKnownAge": "mit bekanntem Alter",
+    "withKnownGender": "mit bekanntem Geschlecht",
+    "under18": "Unter 18",
+    "over50": "Über 50",
+    "noResultsHint": "Versuchen Sie die Suche zu erweitern oder Filter zu entfernen."
+  },
   "footer": {
     "remembrance": "Damit niemand vergessen wird.",
     "openSource": "Open Source auf GitHub",
-    "contact": "Kontakt"
+    "contact": "Kontakt",
+    "browse": "Erkunden",
+    "contribute": "Mitwirken",
+    "copyright": "Iran Memorial Projekt",
+    "madeWith": "Erstellt zum Erinnern."
   }
 }

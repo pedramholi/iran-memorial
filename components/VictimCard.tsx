@@ -11,6 +11,8 @@ type VictimCardProps = {
   causeOfDeath: string | null;
   photoUrl: string | null;
   locale: Locale;
+  ageAtDeath?: number | null;
+  verificationStatus?: string;
 };
 
 export function VictimCard({
@@ -22,17 +24,19 @@ export function VictimCard({
   causeOfDeath,
   photoUrl,
   locale,
+  ageAtDeath,
+  verificationStatus,
 }: VictimCardProps) {
   const displayName = locale === "fa" && nameFarsi ? nameFarsi : nameLatin;
 
   return (
     <Link
       href={`/victims/${slug}`}
-      className="group block rounded-lg border border-memorial-800 bg-memorial-900/50 p-4 transition-all hover:border-memorial-600 hover:bg-memorial-800/50"
+      className="group block rounded-lg border border-memorial-800 bg-memorial-900/50 p-4 transition-all hover:border-memorial-600 hover:bg-memorial-800/50 shadow-sm shadow-black/10 hover:shadow-md hover:shadow-black/20"
     >
       <div className="flex items-start gap-4">
         {/* Photo placeholder */}
-        <div className="h-16 w-16 flex-shrink-0 rounded-full bg-memorial-800/80 flex items-center justify-center overflow-hidden border border-memorial-700/50">
+        <div className="relative h-16 w-16 flex-shrink-0 rounded-full bg-memorial-800/80 flex items-center justify-center overflow-hidden ring-1 ring-memorial-700/50">
           {photoUrl ? (
             <img
               src={photoUrl}
@@ -47,8 +51,11 @@ export function VictimCard({
         </div>
 
         <div className="min-w-0 flex-1">
-          <h3 className="font-medium text-memorial-100 group-hover:text-gold-400 transition-colors truncate">
+          <h3 className="font-medium text-memorial-100 group-hover:text-gold-400 transition-colors truncate flex items-center gap-1.5">
             {displayName}
+            {verificationStatus === "verified" && (
+              <span className="inline-block w-2 h-2 rounded-full bg-green-500 flex-shrink-0" title="Verified" />
+            )}
           </h3>
           {locale !== "fa" && nameFarsi && (
             <p className="text-sm text-memorial-400 mt-0.5" dir="rtl">
@@ -59,6 +66,7 @@ export function VictimCard({
             {dateOfDeath && (
               <span>{formatDate(dateOfDeath, locale)}</span>
             )}
+            {ageAtDeath && <span>({ageAtDeath})</span>}
             {placeOfDeath && <span>{placeOfDeath}</span>}
           </div>
           {causeOfDeath && (

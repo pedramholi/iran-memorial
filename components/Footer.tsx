@@ -1,26 +1,88 @@
 import { useTranslations } from "next-intl";
+import { Link } from "@/i18n/navigation";
 import type { Locale } from "@/i18n/config";
 
 export function Footer({ locale }: { locale: Locale }) {
   const t = useTranslations("footer");
+  const tc = useTranslations("common");
 
   return (
     <footer className="border-t border-memorial-800 bg-memorial-950">
-      <div className="mx-auto max-w-7xl px-4 sm:px-6 py-8">
-        <div className="flex flex-col items-center gap-4 text-center">
-          <p className="text-memorial-400 text-sm italic">
-            {t("remembrance")}
-          </p>
-          <div className="flex items-center gap-6 text-xs text-memorial-500">
-            <a
-              href="https://github.com/pedramholi/iran-memorial"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="hover:text-memorial-300 transition-colors"
-            >
-              {t("openSource")}
-            </a>
+      <div className="mx-auto max-w-7xl px-4 sm:px-6 py-10 sm:py-12">
+        {/* Navigation Grid */}
+        <div className="grid grid-cols-2 sm:grid-cols-3 gap-8 mb-10">
+          {/* Browse */}
+          <div>
+            <h3 className="text-xs font-semibold text-memorial-400 uppercase tracking-wider mb-3">
+              {t("browse")}
+            </h3>
+            <ul className="space-y-2">
+              {[
+                { href: "/timeline", label: tc("timeline") },
+                { href: "/victims", label: tc("victims") },
+                { href: "/events", label: tc("events") },
+                { href: "/statistics", label: tc("statistics") },
+              ].map((item) => (
+                <li key={item.href}>
+                  <Link
+                    href={item.href}
+                    className="text-sm text-memorial-500 hover:text-memorial-200 transition-colors"
+                  >
+                    {item.label}
+                  </Link>
+                </li>
+              ))}
+            </ul>
           </div>
+
+          {/* Contribute */}
+          <div>
+            <h3 className="text-xs font-semibold text-memorial-400 uppercase tracking-wider mb-3">
+              {t("contribute")}
+            </h3>
+            <ul className="space-y-2">
+              <li>
+                <Link
+                  href="/submit"
+                  className="text-sm text-memorial-500 hover:text-memorial-200 transition-colors"
+                >
+                  {tc("submit")}
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/about"
+                  className="text-sm text-memorial-500 hover:text-memorial-200 transition-colors"
+                >
+                  {tc("about")}
+                </Link>
+              </li>
+              <li>
+                <a
+                  href="https://github.com/pedramholi/iran-memorial"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-sm text-memorial-500 hover:text-memorial-200 transition-colors"
+                >
+                  GitHub
+                </a>
+              </li>
+            </ul>
+          </div>
+
+          {/* Candle + Remembrance */}
+          <div className="col-span-2 sm:col-span-1 text-center sm:text-end">
+            <span className="text-3xl candle-flicker">🕯</span>
+            <p className="text-sm text-memorial-400 italic mt-2">
+              {t("remembrance")}
+            </p>
+          </div>
+        </div>
+
+        {/* Bottom line */}
+        <div className="border-t border-memorial-800/50 pt-6 flex flex-col sm:flex-row items-center justify-between gap-2 text-xs text-memorial-600">
+          <span>{t("copyright")}</span>
+          <span>{t("madeWith")}</span>
         </div>
       </div>
     </footer>

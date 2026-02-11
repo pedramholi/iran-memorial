@@ -70,6 +70,7 @@ function VictimsContent({
 }) {
   const t = useTranslations("search");
   const tc = useTranslations("common");
+  const ts = useTranslations("statistics");
 
   // Build query string that preserves all current filters for pagination links
   const filterQs = buildFilterQs({ search, province, year, gender });
@@ -104,8 +105,19 @@ function VictimsContent({
 
       {result.victims.length === 0 ? (
         <div className="py-20 text-center">
-          <span className="text-4xl block mb-4">🔍</span>
-          <p className="text-memorial-400">{tc("noResults")}</p>
+          <svg className="w-12 h-12 mx-auto text-memorial-600 mb-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>
+            <path strokeLinecap="round" strokeLinejoin="round" d="m21 21-5.197-5.197m0 0A7.5 7.5 0 1 0 5.196 5.196a7.5 7.5 0 0 0 10.607 10.607Z" />
+          </svg>
+          <p className="text-memorial-300 font-medium">{tc("noResults")}</p>
+          <p className="text-memorial-500 text-sm mt-2">{ts("noResultsHint")}</p>
+          {(search || province || year || gender) && (
+            <Link
+              href="/victims"
+              className="inline-block mt-4 text-sm text-gold-400 hover:text-gold-300 underline underline-offset-2"
+            >
+              {ts("clearFilters")}
+            </Link>
+          )}
         </div>
       ) : (
         <>
@@ -121,6 +133,8 @@ function VictimsContent({
                 causeOfDeath={victim.causeOfDeath}
                 photoUrl={victim.photoUrl}
                 locale={locale}
+                ageAtDeath={victim.ageAtDeath}
+                verificationStatus={victim.verificationStatus}
               />
             ))}
           </div>

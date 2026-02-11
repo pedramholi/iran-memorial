@@ -12,7 +12,8 @@
     "language": "Language",
     "loading": "Loading...",
     "noResults": "No results found",
-    "backToHome": "Back to Home"
+    "backToHome": "Back to Home",
+    "statistics": "Statistics"
   },
   "home": {
     "heroTitle": "Every victim has a name.",
@@ -138,9 +139,37 @@
     "privacyText": "We treat the data of victims and their families with the utmost respect. Submitted information is reviewed before publication. The identity of contributors is never disclosed. We document facts, not opinions.",
     "quote": "\"As long as we remember, they live on.\""
   },
+  "statistics": {
+    "title": "Statistics",
+    "subtitle": "Data overview of documented victims of the Islamic Republic",
+    "totalVictims": "Documented Victims",
+    "yearsCovered": "Years Covered",
+    "provincesAffected": "Provinces",
+    "verifiedRecords": "Verified",
+    "deathsByYear": "Deaths by Year",
+    "deathsByProvince": "Deaths by Province",
+    "causeOfDeath": "Cause of Death",
+    "ageDistribution": "Age at Death",
+    "genderBreakdown": "Gender",
+    "dataSources": "Data Sources",
+    "victims": "victims",
+    "unknown": "Unknown",
+    "male": "Male",
+    "female": "Female",
+    "peakYear": "Peak year",
+    "withKnownAge": "with known age",
+    "withKnownGender": "with known gender",
+    "under18": "Under 18",
+    "over50": "Over 50",
+    "noResultsHint": "Try broadening your search or removing filters."
+  },
   "footer": {
     "remembrance": "So that no one is forgotten.",
     "openSource": "Open Source on GitHub",
-    "contact": "Contact"
+    "contact": "Contact",
+    "browse": "Browse",
+    "contribute": "Contribute",
+    "copyright": "Iran Memorial Project",
+    "madeWith": "Made to remember."
   }
 }

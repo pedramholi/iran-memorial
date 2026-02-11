@@ -355,6 +355,85 @@ export async function getRecentVictims(limit = 6) {
   });
 }
 
+export async function getStatistics() {
+  const [
+    totalVictims,
+    deathsByYear,
+    deathsByProvince,
+    deathsByCause,
+    ageDistribution,
+    genderBreakdown,
+    dataSources,
+    verifiedCount,
+  ] = await Promise.all([
+    prisma.victim.count(),
+
+    prisma.$queryRaw<{ year: number; count: number }[]>`
+      SELECT EXTRACT(YEAR FROM date_of_death)::int AS year, COUNT(*)::int AS count
+      FROM victims WHERE date_of_death IS NOT NULL
+      GROUP BY year ORDER BY year
+    `,
+
+    prisma.$queryRaw<{ province: string; count: number }[]>`
+      SELECT province, COUNT(*)::int AS count
+      FROM victims WHERE province IS NOT NULL AND province != ''
+      GROUP BY province ORDER BY count DESC LIMIT 15
+    `,
+
+    prisma.$queryRaw<{ cause: string; count: number }[]>`
+      SELECT cause_of_death AS cause, COUNT(*)::int AS count
+      FROM victims WHERE cause_of_death IS NOT NULL AND cause_of_death != ''
+      GROUP BY cause_of_death ORDER BY count DESC LIMIT 10
+    `,
+
+    prisma.$queryRaw<{ bucket: string; count: number }[]>`
+      SELECT
+        CASE
+          WHEN age_at_death < 18 THEN 'Under 18'
+          WHEN age_at_death BETWEEN 18 AND 25 THEN '18-25'
+          WHEN age_at_death BETWEEN 26 AND 35 THEN '26-35'
+          WHEN age_at_death BETWEEN 36 AND 50 THEN '36-50'
+          WHEN age_at_death > 50 THEN 'Over 50'
+        END AS bucket, COUNT(*)::int AS count
+      FROM victims WHERE age_at_death IS NOT NULL
+      GROUP BY bucket ORDER BY MIN(age_at_death)
+    `,
+
+    prisma.$queryRaw<{ gender: string; count: number }[]>`
+      SELECT COALESCE(gender, 'unknown') AS gender, COUNT(*)::int AS count
+      FROM victims GROUP BY gender ORDER BY count DESC
+    `,
+
+    prisma.$queryRaw<{ source: string; count: number }[]>`
+      SELECT data_source AS source, COUNT(*)::int AS count
+      FROM victims WHERE data_source IS NOT NULL
+      GROUP BY data_source ORDER BY count DESC
+    `,
+
+    prisma.victim.count({ where: { verificationStatus: "verified" } }),
+  ]);
+
+  const years = (deathsByYear as any[]).map((r) => Number(r.year)).filter(Boolean);
+  const provinceCount = new Set(
+    (deathsByProvince as any[]).map((r) => r.province)
+  ).size;
+
+  return {
+    totalVictims,
+    deathsByYear: (deathsByYear as any[]).map((r) => ({ year: Number(r.year), count: Number(r.count) })),
+    deathsByProvince: (deathsByProvince as any[]).map((r) => ({ label: r.province as string, count: Number(r.count) })),
+    deathsByCause: (deathsByCause as any[]).map((r) => ({ label: r.cause as string, count: Number(r.count) })),
+    ageDistribution: (ageDistribution as any[]).map((r) => ({ label: r.bucket as string, count: Number(r.count) })),
+    genderBreakdown: (genderBreakdown as any[]).map((r) => ({ label: r.gender as string, count: Number(r.count) })),
+    dataSources: (dataSources as any[]).map((r) => ({ label: r.source as string, count: Number(r.count) })),
+    verifiedCount,
+    yearsCovered: years.length > 0 ? `${Math.min(...years)}–${Math.max(...years)}` : "–",
+    provincesAffected: provinceCount,
+  };
+}
+
+export type Statistics = Awaited<ReturnType<typeof getStatistics>>;
+
 // Helper to get localized field
 export function localized<T extends Record<string, any>>(
   item: T,
