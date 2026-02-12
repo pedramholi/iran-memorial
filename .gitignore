@@ -49,4 +49,8 @@ scripts/boroumand_master.json
 scripts/boroumand_matches.json
 scripts/boroumand_details.json
 scripts/__pycache__/
+scripts/.boroumand_photo_cache/
+scripts/.boroumand_photo_progress.json
+scripts/.iranvictims_photos_cache.json
+scripts/.telegram_rtn_cache/
 .extract-progress.json
