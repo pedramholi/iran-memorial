@@ -4,6 +4,7 @@ import { useTranslations } from "next-intl";
 import { getEventBySlug, localized } from "@/lib/queries";
 import { formatDateRange, formatKilledRange } from "@/lib/utils";
 import { VictimCard } from "@/components/VictimCard";
+import Link from "next/link";
 import type { Locale } from "@/i18n/config";
 import type { Metadata } from "next";
 
@@ -29,30 +30,36 @@ export async function generateMetadata({
 
 export default async function EventPage({
   params,
+  searchParams,
 }: {
   params: Promise<{ locale: string; slug: string }>;
+  searchParams: Promise<{ page?: string }>;
 }) {
   const { locale, slug } = await params;
+  const { page: pageStr } = await searchParams;
   setRequestLocale(locale);
+
+  const page = Math.max(1, parseInt(pageStr || "1", 10) || 1);
 
   let event: any;
   try {
-    event = await getEventBySlug(slug);
+    event = await getEventBySlug(slug, page);
   } catch {
     notFound();
   }
   if (!event) notFound();
 
-  return <EventDetail event={event} locale={locale as Locale} />;
+  return <EventDetail event={event} locale={locale as Locale} slug={slug} />;
 }
 
-function EventDetail({ event, locale }: { event: any; locale: Locale }) {
+function EventDetail({ event, locale, slug }: { event: any; locale: Locale; slug: string }) {
   const t = useTranslations("event");
   const tv = useTranslations("victim");
 
   const title = localized(event, "title", locale);
   const description = localized(event, "description", locale);
   const killed = formatKilledRange(event.estimatedKilledLow, event.estimatedKilledHigh, locale);
+  const { page, totalPages, totalVictims } = event;
 
   return (
     <div>
@@ -74,9 +81,9 @@ function EventDetail({ event, locale }: { event: any; locale: Locale }) {
                 <span className="text-sm text-memorial-400">{t("estimatedKilled")}</span>
               </div>
             )}
-            {event.victims.length > 0 && (
+            {totalVictims > 0 && (
               <div className="inline-flex items-baseline gap-2 rounded-lg border border-memorial-700/50 bg-memorial-800/30 px-4 py-2.5">
-                <span className="text-2xl font-bold text-gold-400 tabular-nums">{event.victims.length}</span>
+                <span className="text-2xl font-bold text-gold-400 tabular-nums">{totalVictims}</span>
                 <span className="text-sm text-memorial-400">{t("relatedVictims")}</span>
               </div>
             )}
@@ -131,6 +138,11 @@ function EventDetail({ event, locale }: { event: any; locale: Locale }) {
                 />
               ))}
             </div>
+
+            {/* Pagination */}
+            {totalPages > 1 && (
+              <Pagination locale={locale} slug={slug} page={page} totalPages={totalPages} />
+            )}
           </section>
         )}
 
@@ -160,5 +172,62 @@ function EventDetail({ event, locale }: { event: any; locale: Locale }) {
         )}
       </div>
     </div>
+  );
+}
+
+function Pagination({ locale, slug, page, totalPages }: { locale: Locale; slug: string; page: number; totalPages: number }) {
+  const t = useTranslations("event");
+  const basePath = `/${locale}/events/${slug}`;
+
+  // Show max 7 page buttons around current page
+  const pages: (number | "...")[] = [];
+  if (totalPages <= 7) {
+    for (let i = 1; i <= totalPages; i++) pages.push(i);
+  } else {
+    pages.push(1);
+    if (page > 3) pages.push("...");
+    for (let i = Math.max(2, page - 1); i <= Math.min(totalPages - 1, page + 1); i++) pages.push(i);
+    if (page < totalPages - 2) pages.push("...");
+    pages.push(totalPages);
+  }
+
+  return (
+    <nav className="mt-8 flex items-center justify-center gap-2">
+      {page > 1 && (
+        <Link
+          href={`${basePath}?page=${page - 1}`}
+          className="px-3 py-2 text-sm rounded-lg border border-memorial-700 text-memorial-300 hover:bg-memorial-800 transition-colors"
+        >
+          &larr;
+        </Link>
+      )}
+
+      {pages.map((p, i) =>
+        p === "..." ? (
+          <span key={`dots-${i}`} className="px-2 text-memorial-500">...</span>
+        ) : (
+          <Link
+            key={p}
+            href={`${basePath}${p === 1 ? "" : `?page=${p}`}`}
+            className={`px-3 py-2 text-sm rounded-lg border transition-colors ${
+              p === page
+                ? "border-gold-500/50 bg-gold-500/10 text-gold-400 font-medium"
+                : "border-memorial-700 text-memorial-300 hover:bg-memorial-800"
+            }`}
+          >
+            {p}
+          </Link>
+        )
+      )}
+
+      {page < totalPages && (
+        <Link
+          href={`${basePath}?page=${page + 1}`}
+          className="px-3 py-2 text-sm rounded-lg border border-memorial-700 text-memorial-300 hover:bg-memorial-800 transition-colors"
+        >
+          &rarr;
+        </Link>
+      )}
+    </nav>
   );
 }

@@ -26,8 +26,8 @@ export async function getVictimBySlug(slug: string) {
   });
 }
 
-export async function getEventBySlug(slug: string) {
-  return prisma.event.findUnique({
+export async function getEventBySlug(slug: string, page = 1, pageSize = 50) {
+  const event = await prisma.event.findUnique({
     where: { slug },
     include: {
       victims: {
@@ -41,10 +41,21 @@ export async function getEventBySlug(slug: string) {
           photoUrl: true,
         },
         orderBy: { dateOfDeath: "asc" },
+        skip: (page - 1) * pageSize,
+        take: pageSize,
       },
       sources: true,
+      _count: { select: { victims: true } },
     },
   });
+  if (!event) return null;
+  const totalVictims = event._count.victims;
+  return {
+    ...event,
+    totalVictims,
+    totalPages: Math.ceil(totalVictims / pageSize),
+    page,
+  };
 }
 
 export async function getAllEvents() {
