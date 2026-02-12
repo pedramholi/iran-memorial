@@ -170,9 +170,9 @@ function VictimDetail({ victim, locale }: { victim: any; locale: Locale }) {
               <div>
                 <h3 className="text-sm font-medium text-memorial-400 mb-2">{t("circumstances")}</h3>
                 <div className="space-y-3">
-                  {circumstances.split('\n\n').map((paragraph: string, i: number) => (
+                  {splitCircumstances(circumstances).map((paragraph: string, i: number) => (
                     <p key={i} className="text-memorial-200 leading-relaxed">
-                      {paragraph.trim()}
+                      {paragraph}
                     </p>
                   ))}
                 </div>
@@ -314,4 +314,38 @@ function formatFamily(info: any): string {
   if (info.children) parts.push(`${info.children} children`);
   if (info.notes) parts.push(info.notes);
   return parts.join(". ");
+}
+
+/** Split long circumstances text into readable paragraphs.
+ *  Boroumand texts are one long block with section headers like
+ *  "Arrest and detention", "Trial", "Charges", etc. embedded inline. */
+function splitCircumstances(text: string): string[] {
+  // First try normal paragraph splits
+  const byNewline = text.split(/\n\n+/).map(s => s.trim()).filter(Boolean);
+  if (byNewline.length > 1) return byNewline;
+
+  // For single-block Boroumand texts: split before known section headers
+  const sectionHeaders = /(?=\s(?:Arrest and [Dd]etention|Trial|Charges?|Evidence of [Gg]uilt|Defense|Judgment|Sentence|Background|Execution|(?:The )?(?:Mojahedin|Kurdish|Baha.i|Workers?.|Democratic|People.s)|International [Hh]uman [Rr]ights)\s)/g;
+
+  const parts = text.split(sectionHeaders).map(s => s.trim()).filter(Boolean);
+  if (parts.length > 1) return parts;
+
+  // Fallback: split every ~500 chars at sentence boundaries
+  if (text.length > 600) {
+    const sentences = text.split(/(?<=\.)\s+/);
+    const paragraphs: string[] = [];
+    let current = "";
+    for (const s of sentences) {
+      if (current.length + s.length > 500 && current.length > 200) {
+        paragraphs.push(current.trim());
+        current = s;
+      } else {
+        current += (current ? " " : "") + s;
+      }
+    }
+    if (current.trim()) paragraphs.push(current.trim());
+    if (paragraphs.length > 1) return paragraphs;
+  }
+
+  return [text];
 }
