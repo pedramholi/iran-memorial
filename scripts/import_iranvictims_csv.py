@@ -296,15 +296,15 @@ def write_yaml(victim, output_dir, seen_slugs):
     if victim.get("circumstances") and len(victim["circumstances"]) > 5:
         lines.append('circumstances: >')
         words = victim["circumstances"].split()
-        current_line = "  "
+        current_line = ""
         for word in words:
             if len(current_line) + len(word) + 1 > 80:
-                lines.append(current_line)
-                current_line = "  " + word
+                lines.append("  " + current_line)
+                current_line = word
             else:
-                current_line += " " + word if current_line.strip() else "  " + word
-        if current_line.strip():
-            lines.append(current_line)
+                current_line += " " + word if current_line else word
+        if current_line:
+            lines.append("  " + current_line)
     else:
         lines.append('circumstances: null')
 
