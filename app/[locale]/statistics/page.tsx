@@ -17,7 +17,9 @@ export default async function StatisticsPage({
   let stats: Statistics | null = null;
   try {
     stats = await getStatistics();
-  } catch {}
+  } catch (e) {
+    console.error("[Statistics] getStatistics() failed:", e);
+  }
 
   if (!stats) {
     return (

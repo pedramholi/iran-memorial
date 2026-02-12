@@ -1,3 +1,4 @@
+import Image from "next/image";
 import { Link } from "@/i18n/navigation";
 import type { Locale } from "@/i18n/config";
 import { formatDate } from "@/lib/utils";
@@ -38,10 +39,12 @@ export function VictimCard({
         {/* Photo placeholder */}
         <div className="relative h-16 w-16 flex-shrink-0 rounded-full bg-memorial-800/80 flex items-center justify-center overflow-hidden ring-1 ring-memorial-700/50">
           {photoUrl ? (
-            <img
+            <Image
               src={photoUrl}
               alt={nameLatin}
-              className="h-full w-full object-cover"
+              fill
+              sizes="64px"
+              className="object-cover"
             />
           ) : (
             <svg className="w-7 h-7 text-memorial-600" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>

@@ -12,6 +12,8 @@ import {
 import { formatNumber, formatKilledRange } from "@/lib/utils";
 import type { Locale } from "@/i18n/config";
 
+export const revalidate = 3600; // ISR: revalidate every hour
+
 export default async function HomePage({
   params,
 }: {
@@ -28,8 +30,8 @@ export default async function HomePage({
     stats = await getStats();
     recentVictims = await getRecentVictims();
     events = await getAllEvents();
-  } catch {
-    // DB not available — use fallback data
+  } catch (e) {
+    console.error("[HomePage] DB query failed, using fallback data:", e);
   }
 
   return (

@@ -1,6 +1,7 @@
 import { notFound } from "next/navigation";
 import { setRequestLocale } from "next-intl/server";
 import { useTranslations } from "next-intl";
+import Image from "next/image";
 import { getVictimBySlug, localized } from "@/lib/queries";
 import { formatDate } from "@/lib/utils";
 import { Link } from "@/i18n/navigation";
@@ -71,9 +72,9 @@ function VictimDetail({ victim, locale }: { victim: any; locale: Locale }) {
       <div className="mb-12 rounded-xl bg-gradient-to-b from-memorial-900/60 to-transparent p-6 sm:p-8">
         <div className="flex items-start gap-6 mb-6">
           {/* Photo */}
-          <div className="h-24 w-24 sm:h-32 sm:w-32 flex-shrink-0 rounded-full bg-memorial-800/80 flex items-center justify-center overflow-hidden ring-2 ring-memorial-700/50">
+          <div className="relative h-24 w-24 sm:h-32 sm:w-32 flex-shrink-0 rounded-full bg-memorial-800/80 flex items-center justify-center overflow-hidden ring-2 ring-memorial-700/50">
             {victim.photoUrl ? (
-              <img src={victim.photoUrl} alt={victim.nameLatin} className="h-full w-full object-cover" />
+              <Image src={victim.photoUrl} alt={victim.nameLatin} fill sizes="(min-width: 640px) 128px, 96px" className="object-cover" />
             ) : (
               <svg className="w-12 h-12 text-memorial-600" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>
                 <path strokeLinecap="round" strokeLinejoin="round" d="M15.75 6a3.75 3.75 0 1 1-7.5 0 3.75 3.75 0 0 1 7.5 0ZM4.501 20.118a7.5 7.5 0 0 1 14.998 0" />
