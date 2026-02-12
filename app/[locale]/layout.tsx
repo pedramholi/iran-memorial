@@ -1,6 +1,6 @@
 import { ReactNode } from "react";
 import { notFound } from "next/navigation";
-import { NextIntlClientProvider, useMessages } from "next-intl";
+import { NextIntlClientProvider } from "next-intl";
 import { getMessages, setRequestLocale } from "next-intl/server";
 import { locales, localeDirection, type Locale } from "@/i18n/config";
 import { Header } from "@/components/Header";

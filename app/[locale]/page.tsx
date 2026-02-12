@@ -12,6 +12,39 @@ import {
 import { formatNumber, formatKilledRange } from "@/lib/utils";
 import type { Locale } from "@/i18n/config";
 
+interface HomeStats {
+  victimCount: number;
+  eventCount: number;
+  sourceCount: number;
+  yearsOfRepression: number;
+}
+
+interface HomeVictim {
+  slug: string;
+  nameLatin: string;
+  nameFarsi: string | null;
+  dateOfDeath: Date | string | null;
+  placeOfDeath: string | null;
+  causeOfDeath: string | null;
+  photoUrl: string | null;
+}
+
+interface HomeEvent {
+  slug: string;
+  titleEn: string;
+  titleFa: string | null;
+  titleDe?: string | null;
+  descriptionEn: string | null;
+  descriptionFa?: string | null;
+  descriptionDe?: string | null;
+  dateStart: Date | string;
+  dateEnd: Date | string | null;
+  estimatedKilledLow: number | null;
+  estimatedKilledHigh: number | null;
+  tags: string[];
+  _count: { victims: number };
+}
+
 export const revalidate = 3600; // ISR: revalidate every hour
 
 export default async function HomePage({
@@ -22,9 +55,9 @@ export default async function HomePage({
   const { locale } = await params;
   setRequestLocale(locale);
 
-  let stats = fallbackStats;
-  let recentVictims: any[] = fallbackRecentVictims;
-  let events: any[] = fallbackEvents;
+  let stats: HomeStats = fallbackStats;
+  let recentVictims: HomeVictim[] = fallbackRecentVictims;
+  let events: HomeEvent[] = fallbackEvents;
 
   try {
     stats = await getStats();
@@ -51,9 +84,9 @@ function HomeContent({
   events,
 }: {
   locale: Locale;
-  stats: { victimCount: number; eventCount: number; sourceCount: number; yearsOfRepression: number };
-  recentVictims: any[];
-  events: any[];
+  stats: HomeStats;
+  recentVictims: HomeVictim[];
+  events: HomeEvent[];
 }) {
   const t = useTranslations("home");
   const te = useTranslations("timeline");
@@ -61,7 +94,7 @@ function HomeContent({
   // Pick 4 most significant events for homepage preview
   const keyEvents = events
     .filter(
-      (e: any) => e.estimatedKilledLow || e.estimatedKilledHigh
+      (e) => e.estimatedKilledLow || e.estimatedKilledHigh
     )
     .slice(-5);
 
@@ -161,7 +194,7 @@ function HomeContent({
             </div>
 
             <div className="space-y-3">
-              {keyEvents.map((event: any) => {
+              {keyEvents.map((event) => {
                 const title = localized(event, "title", locale);
                 const killed = formatKilledRange(
                   event.estimatedKilledLow,
@@ -264,7 +297,7 @@ function HomeContent({
             </div>
 
             <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-              {recentVictims.map((victim: any) => (
+              {recentVictims.map((victim) => (
                 <VictimCard
                   key={victim.slug}
                   slug={victim.slug}

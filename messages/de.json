@@ -63,7 +63,8 @@
     "verified": "Verifiziert",
     "unverified": "Nicht verifiziert",
     "disputed": "Umstritten",
-    "relatedEvent": "Zugehöriges Ereignis"
+    "relatedEvent": "Zugehöriges Ereignis",
+    "children": "Kinder"
   },
   "event": {
     "estimatedKilled": "Geschätzte Todesopfer",
@@ -76,7 +77,8 @@
     "subtitle": "Wichtige Ereignisse unter der Islamischen Republik (1979–heute)",
     "zoomIn": "Vergrößern",
     "zoomOut": "Verkleinern",
-    "killed": "getötet"
+    "killed": "getötet",
+    "documented": "dokumentiert"
   },
   "search": {
     "title": "Suche",

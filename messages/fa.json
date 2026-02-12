@@ -63,7 +63,8 @@
     "verified": "تأیید شده",
     "unverified": "تأیید نشده",
     "disputed": "مورد اختلاف",
-    "relatedEvent": "رویداد مرتبط"
+    "relatedEvent": "رویداد مرتبط",
+    "children": "فرزند"
   },
   "event": {
     "estimatedKilled": "تعداد تخمینی کشته‌شدگان",
@@ -76,7 +77,8 @@
     "subtitle": "رویدادهای اصلی در دوران جمهوری اسلامی (۱۳۵۷ تا امروز)",
     "zoomIn": "بزرگ‌نمایی",
     "zoomOut": "کوچک‌نمایی",
-    "killed": "کشته"
+    "killed": "کشته",
+    "documented": "مستند شده"
   },
   "search": {
     "title": "جستجو",

@@ -34,8 +34,8 @@ export default async function VictimsPage({
       getVictimsList({ page, search, province, year, gender }),
       getFilterOptions(),
     ]);
-  } catch {
-    // DB not available — use fallback data
+  } catch (e) {
+    console.error("[Victims] getVictimsList/getFilterOptions failed:", e);
   }
 
   return (

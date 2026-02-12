@@ -17,8 +17,8 @@ export default async function EventsPage({
   let events: any[] = fallbackEvents;
   try {
     events = await getAllEvents();
-  } catch {
-    // DB not available — use fallback data
+  } catch (e) {
+    console.error("[Events] getAllEvents() failed:", e);
   }
 
   return <EventsList events={events} locale={locale as Locale} />;

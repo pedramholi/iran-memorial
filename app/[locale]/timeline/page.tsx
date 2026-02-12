@@ -17,8 +17,8 @@ export default async function TimelinePage({
   let events: any[] = fallbackEvents;
   try {
     events = await getAllEvents();
-  } catch {
-    // DB not available — use fallback data
+  } catch (e) {
+    console.error("[Timeline] getAllEvents() failed:", e);
   }
 
   return <TimelineContent events={events} locale={locale as Locale} />;
@@ -84,7 +84,7 @@ function TimelineContent({ events, locale }: { events: any[]; locale: Locale }) 
                       )}
                       {event._count?.victims > 0 && (
                         <p className="text-xs text-memorial-500 mt-2">
-                          {event._count.victims} documented
+                          {event._count.victims} {t("documented")}
                         </p>
                       )}
                     </Link>

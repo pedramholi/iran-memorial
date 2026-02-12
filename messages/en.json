@@ -63,7 +63,8 @@
     "verified": "Verified",
     "unverified": "Unverified",
     "disputed": "Disputed",
-    "relatedEvent": "Related Event"
+    "relatedEvent": "Related Event",
+    "children": "children"
   },
   "event": {
     "estimatedKilled": "Estimated Killed",
@@ -76,7 +77,8 @@
     "subtitle": "Major events under the Islamic Republic (1979–present)",
     "zoomIn": "Zoom In",
     "zoomOut": "Zoom Out",
-    "killed": "killed"
+    "killed": "killed",
+    "documented": "documented"
   },
   "search": {
     "title": "Search",

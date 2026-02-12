@@ -4,7 +4,7 @@ import { useTranslations } from "next-intl";
 import { getEventBySlug, localized } from "@/lib/queries";
 import { formatDateRange, formatKilledRange } from "@/lib/utils";
 import { VictimCard } from "@/components/VictimCard";
-import Link from "next/link";
+import { Link } from "@/i18n/navigation";
 import type { Locale } from "@/i18n/config";
 import type { Metadata } from "next";
 

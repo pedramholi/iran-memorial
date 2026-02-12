@@ -17,7 +17,9 @@ export default async function AboutPage({
   let stats = fallbackStats;
   try {
     stats = await getStats();
-  } catch {}
+  } catch (e) {
+    console.error("[About] getStats() failed:", e);
+  }
 
   return <AboutContent locale={locale as Locale} stats={stats} />;
 }

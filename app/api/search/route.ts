@@ -10,7 +10,7 @@ export async function GET(request: NextRequest) {
   if (!success) {
     return NextResponse.json(
       { error: "Too many requests. Please try again later." },
-      { status: 429 }
+      { status: 429, headers: { "Retry-After": "60" } }
     );
   }
 

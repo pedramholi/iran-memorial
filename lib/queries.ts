@@ -108,7 +108,7 @@ export async function getVictimsList(params: {
     return searchVictimsList({ page, pageSize, province, year, gender, search: search.trim() });
   }
 
-  const where: any = {};
+  const where: Prisma.VictimWhereInput = {};
 
   if (province) where.province = province;
   if (gender) where.gender = gender;
@@ -201,7 +201,7 @@ async function searchVictimsList(params: {
     WHERE v.search_vector @@ to_tsquery('simple', ${tsQuery}) ${filterFrag}
   `;
 
-  const tsTotal = Number((tsCount as any[])[0]?.total) || 0;
+  const tsTotal = Number(tsCount[0]?.total) || 0;
 
   // Step 2: If tsvector found enough results, return them
   if (tsTotal >= MIN_TSVECTOR_RESULTS) {
@@ -240,10 +240,10 @@ async function searchVictimsList(params: {
     `,
   ]);
 
-  const total = Number((countResult as any[])[0]?.total) || 0;
+  const total = Number(countResult[0]?.total) || 0;
 
   return {
-    victims: mapRawVictims(victims as any[]),
+    victims: mapRawVictims(victims),
     total,
     page: safePage,
     pageSize: safePageSize,
@@ -443,19 +443,19 @@ export async function getStatistics() {
     prisma.victim.count({ where: { verificationStatus: "verified" } }),
   ]);
 
-  const years = (deathsByYear as any[]).map((r) => Number(r.year)).filter(Boolean);
+  const years = deathsByYear.map((r) => Number(r.year)).filter(Boolean);
   const provinceCount = new Set(
-    (deathsByProvince as any[]).map((r) => r.province)
+    deathsByProvince.map((r) => r.province)
   ).size;
 
   return {
     totalVictims,
-    deathsByYear: (deathsByYear as any[]).map((r) => ({ year: Number(r.year), count: Number(r.count) })),
-    deathsByProvince: (deathsByProvince as any[]).map((r) => ({ label: r.province as string, count: Number(r.count) })),
-    deathsByCause: (deathsByCause as any[]).map((r) => ({ label: r.cause as string, count: Number(r.count) })),
-    ageDistribution: (ageDistribution as any[]).map((r) => ({ label: r.bucket as string, count: Number(r.count) })),
-    genderBreakdown: (genderBreakdown as any[]).map((r) => ({ label: r.gender as string, count: Number(r.count) })),
-    dataSources: (dataSources as any[]).map((r) => ({ label: r.source as string, count: Number(r.count) })),
+    deathsByYear: deathsByYear.map((r) => ({ year: Number(r.year), count: Number(r.count) })),
+    deathsByProvince: deathsByProvince.map((r) => ({ label: r.province, count: Number(r.count) })),
+    deathsByCause: deathsByCause.map((r) => ({ label: r.cause, count: Number(r.count) })),
+    ageDistribution: ageDistribution.map((r) => ({ label: r.bucket, count: Number(r.count) })),
+    genderBreakdown: genderBreakdown.map((r) => ({ label: r.gender, count: Number(r.count) })),
+    dataSources: dataSources.map((r) => ({ label: r.source, count: Number(r.count) })),
     verifiedCount,
     yearsCovered: years.length > 0 ? `${Math.min(...years)}–${Math.max(...years)}` : "–",
     provincesAffected: provinceCount,
@@ -463,6 +463,11 @@ export async function getStatistics() {
 }
 
 export type Statistics = Awaited<ReturnType<typeof getStatistics>>;
+export type VictimDetail = NonNullable<Awaited<ReturnType<typeof getVictimBySlug>>>;
+export type EventDetail = NonNullable<Awaited<ReturnType<typeof getEventBySlug>>>;
+export type EventWithCount = Awaited<ReturnType<typeof getAllEvents>>[number];
+export type VictimListItem = Awaited<ReturnType<typeof getRecentVictims>>[number];
+export type StatsResult = Awaited<ReturnType<typeof getStats>>;
 
 // Helper to get localized field
 export function localized<T extends Record<string, any>>(

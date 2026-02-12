@@ -132,8 +132,8 @@ function VictimDetail({ victim, locale }: { victim: any; locale: Locale }) {
           <div className="rounded-lg border border-memorial-800/60 bg-memorial-900/30 p-6 space-y-6">
             {occupation && <Field label={t("occupation")} value={occupation} />}
             {victim.education && <Field label={t("education")} value={victim.education} />}
-            {victim.familyInfo && formatFamily(victim.familyInfo) && (
-              <Field label={t("family")} value={formatFamily(victim.familyInfo)} />
+            {victim.familyInfo && formatFamily(victim.familyInfo, t("children")) && (
+              <Field label={t("family")} value={formatFamily(victim.familyInfo, t("children"))} />
             )}
             {dreams && <Field label={t("dreams")} value={dreams} />}
             {beliefs && <Field label={t("beliefs")} value={beliefs} />}
@@ -307,11 +307,11 @@ function Field({ label, value }: { label: string; value: string }) {
   );
 }
 
-function formatFamily(info: any): string {
+function formatFamily(info: any, childrenLabel: string): string {
   if (!info) return "";
   const parts: string[] = [];
   if (info.marital_status) parts.push(info.marital_status);
-  if (info.children) parts.push(`${info.children} children`);
+  if (info.children) parts.push(`${info.children} ${childrenLabel}`);
   if (info.notes) parts.push(info.notes);
   return parts.join(". ");
 }

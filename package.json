@@ -31,11 +31,9 @@
   },
   "homepage": "https://github.com/pedramholi/iran-memorial#readme",
   "dependencies": {
-    "@anthropic-ai/sdk": "^0.74.0",
     "@prisma/client": "^6.19.2",
     "next": "^16.1.6",
     "next-intl": "^4.8.2",
-    "openai": "^6.21.0",
     "prisma": "^6.19.2",
     "react": "^19.2.4",
     "react-dom": "^19.2.4",
@@ -43,6 +41,8 @@
     "zod": "^4.3.6"
   },
   "devDependencies": {
+    "@anthropic-ai/sdk": "^0.74.0",
+    "openai": "^6.21.0",
     "@tailwindcss/postcss": "^4.1.18",
     "@types/node": "^25.2.2",
     "@types/react": "^19.2.13",
