@@ -7,10 +7,20 @@
   date_end: null
   title_en: "Islamic Revolution"
   title_fa: "انقلاب اسلامی"
-  description: >
-    The Iranian Revolution overthrew the Pahlavi dynasty. Ayatollah Ruhollah
-    Khomeini established the Islamic Republic, which immediately began
-    consolidating power through systematic repression.
+  description: |
+    The Iranian Revolution of 1978–1979 was one of the most consequential political upheavals of the twentieth century. It overthrew the 2,500-year-old monarchical tradition in Iran, replacing the Pahlavi dynasty with a theocratic state under Ayatollah Ruhollah Khomeini. What began as a broad popular uprising against authoritarianism ended with the establishment of a regime that would prove even more repressive than its predecessor.
+
+    The roots of the revolution lay in decades of accumulated grievances. Shah Mohammad Reza Pahlavi's modernization programs, known as the White Revolution, had disrupted traditional social structures while concentrating wealth among elites. His secret police, SAVAK, brutally suppressed all dissent. By the mid-1970s, rapid urbanization, double-digit inflation, and a growing gap between rich and poor created widespread discontent. President Jimmy Carter's emphasis on human rights in 1977 pressured the Shah toward limited liberalization, inadvertently signaling vulnerability to opposition forces.
+
+    The spark came on January 7, 1978, when seminary students in Qom protested a newspaper article denigrating Khomeini, who had been in exile since 1964. Security forces killed several demonstrators. Using the Shia tradition of forty-day mourning cycles, clerical networks organized escalating commemorations that grew into mass protests. Each crackdown generated new martyrs, fueling further unrest. By September 1978, Black Friday saw security forces fire on protesters at Jaleh Square in Tehran, killing dozens and destroying any remaining possibility of reconciliation.
+
+    Oil workers' strikes in October 1978 paralyzed the economy, cutting production from 5.8 million barrels per day to near-zero. Military desertions surged as soldiers refused to fire on fellow citizens. During the Muharram commemorations of December 1978, an estimated six to nine million people — roughly 20 percent of Iran's population — took to the streets nationwide, overwhelming the security apparatus completely.
+
+    On January 16, 1979, the Shah left Iran, never to return. Khomeini arrived from exile in Paris on February 1 to rapturous crowds. He rejected the transitional government of Prime Minister Shapour Bakhtiar and appointed his own provisional administration. On February 9, air force technicians mutinied at Doshan Tappeh base, and armed revolutionaries seized military garrisons across Tehran. By February 11, the military high command declared neutrality, and the monarchy collapsed.
+
+    A referendum on March 30–31 asked only whether voters supported an "Islamic Republic" — with no alternative offered. The reported 98.2 percent approval, achieved without genuine debate or ballot secrecy, was followed by the drafting of a constitution that embedded the doctrine of velayat-e faqih (Guardianship of the Islamic Jurist), vesting supreme authority in a single cleric above all elected institutions.
+
+    The diverse coalition that had made the revolution — secular nationalists, Marxists, liberals, ethnic minorities, and religious moderates — was systematically dismantled. The Islamic Revolutionary Guard Corps was established on May 5, 1979 as a parallel military force answering directly to Khomeini. Revolutionary tribunals conducted summary trials. By June 1981, every opposition party except the ruling Islamic Republican Party had been banned. Over two million Iranians — disproportionately educated professionals and minorities — would flee the country in the following years. The revolution that millions had hoped would bring freedom instead inaugurated a new era of repression.
   estimated_killed: null
   tags: [revolution, regime-change]
 
@@ -19,10 +29,18 @@
   date_end: 1979-12-31
   title_en: "Post-Revolution Summary Executions"
   title_fa: "اعدام‌های پس از انقلاب"
-  description: >
-    Mass summary executions of former Shah officials, military officers,
-    and perceived enemies of the revolution. Trials lasted minutes.
-    Sadegh Khalkhali, known as the "Hanging Judge," oversaw many executions.
+  description: |
+    Within days of the revolution's triumph on February 11, 1979, the new Islamic regime began a campaign of summary executions that revealed its true nature. Revolutionary tribunals were established across the country, presided over by clerical judges who answered to no legal code and allowed no meaningful defense. Trials lasted minutes. Verdicts were predetermined. Appeals were non-existent. The stated goal was to purge the old regime, but the executions quickly expanded beyond former officials to encompass anyone deemed an enemy of the revolution.
+
+    The most notorious figure of this period was Sadegh Khalkhali, a cleric appointed by Khomeini as the head of the Revolutionary Courts. Known as the "Hanging Judge," Khalkhali boasted openly about the speed of his proceedings and the number of death sentences he issued. He personally oversaw executions on the rooftop of Refah School in Tehran, where prisoners were brought before hastily assembled panels and shot or hanged within hours of their so-called trials. Former Prime Minister Amir-Abbas Hoveyda, who had served the Shah for thirteen years, was executed after a televised trial that Amnesty International condemned as a travesty of justice.
+
+    The victims in the earliest weeks were primarily senior officials and military officers of the Pahlavi regime — generals, SAVAK agents, governors, and ministers. But the scope rapidly expanded to include lower-ranking soldiers, police officers, and civil servants who had committed no crimes beyond serving in the previous government. Ethnic and religious minorities were also targeted. In Kurdistan, military operations against Kurdish autonomy movements resulted in hundreds of extrajudicial killings, with artillery bombardments of civilian areas. Baloch insurgents faced similar repression.
+
+    The executions served a dual purpose: eliminating potential sources of counter-revolution and terrorizing the population into submission. Public executions were deliberately staged as spectacles, with bodies displayed as warnings. Families of the executed were often denied information about the fate of their loved ones and prevented from holding proper funeral rites.
+
+    International human rights organizations documented at least 438 executions in the first year of the revolution, though the actual number is believed to be significantly higher due to undocumented killings in provincial areas and among ethnic minorities. Amnesty International repeatedly called for the regime to halt the summary proceedings, noting the complete absence of due process, legal representation, or judicial independence. These appeals were ignored.
+
+    The post-revolution executions established a pattern that would define the Islamic Republic for decades to come: the use of the judiciary as an instrument of political repression, the targeting of dissent under the guise of protecting the revolution, and the systematic denial of basic legal rights to those accused of political offenses. What the revolutionaries had condemned under the Shah — arbitrary detention, torture, and execution without fair trial — they now practiced on a far greater scale.
   estimated_killed: 438
   source: "Amnesty International"
   tags: [executions, political-prisoners]
@@ -32,10 +50,20 @@
   date_end: 1983-01-01
   title_en: "Iranian Cultural Revolution"
   title_fa: "انقلاب فرهنگی"
-  description: >
-    All universities were closed for three years. Students and professors
-    deemed un-Islamic were purged. Curricula were rewritten to align with
-    Islamic ideology. Hundreds of academics were fired or fled the country.
+  description: |
+    On June 12, 1980, Ayatollah Khomeini ordered the closure of all Iranian universities, launching what he called the Cultural Revolution. He described universities as "nests of ideological corruption" that harbored Western, Marxist, and secular influences incompatible with his vision of an Islamic state. It was one of the most devastating assaults on intellectual life in modern history — every university in the country was shut down simultaneously, and they would remain closed for approximately three years.
+
+    The Cultural Revolution Headquarters, initially comprising seven appointed members including the philosopher Abdolkarim Soroush, was established to oversee the transformation. This body later evolved into the Supreme Council of the Cultural Revolution, operating with direct authority from Khomeini and bypassing all standard governmental oversight. Its mandate was nothing less than the complete Islamization of Iranian higher education.
+
+    Faculty purges were systematic and ruthless. Screening committees evaluated every academic based on political affiliations, religious observance, and commitment to theocratic principles. Estimates of professorial dismissals vary — Soroush himself reported approximately 700 removals from 12,000 total faculty, while other officials cited figures approaching 8,000 departures by 1983. The overall reduction of academic staff reached roughly 44 percent compared to pre-revolution levels. Those suspected of insufficient Islamic orthodoxy faced dismissal, forced retirement, or blacklisting from all academic employment.
+
+    The impact on students was even more catastrophic. An estimated 50,000 to 200,000 students — from a total enrollment of approximately 174,000 — were expelled or barred from readmission. Those affiliated with leftist organizations, ethnic minorities, Baha'is, and political dissidents were disproportionately targeted, often without any due process. Many were arrested, tortured, or forced into exile. For an entire generation, the path to higher education was severed.
+
+    When universities finally reopened in 1983, they were unrecognizable. Reformed curricula mandated approximately 24 credits of Islamic courses within typical degree programs, including subjects like "Root Causes of the Iranian Islamic Revolution" and "Political Thought of Imam Khomeini." Humanities and social sciences were rewritten within Shi'ite Islamic frameworks. Gender segregation was enforced with separate classes and facilities for men and women. The Center for Academic Publication, established in 1981, produced ideologically aligned textbooks replacing standard academic materials.
+
+    The Cultural Revolution extended far beyond universities. Over 100 independent newspapers were shut down. Approximately 200 cinemas were closed, with fewer than 50 remaining operational by 1980. Western music was criminalized, replaced on state broadcasting with revolutionary anthems and religious recitations. The Ministry of Islamic Guidance, established in 1981, centralized censorship of all publications, broadcasts, and artistic works.
+
+    The long-term consequences were devastating. An estimated 150,000 to 180,000 educated Iranians emigrated during the peak post-revolutionary waves, creating a brain drain that Iran has never recovered from. By 1992, the country reported a deficit of approximately 9,000 university instructors. Research output stagnated for years, and self-censorship became the norm in academic life. The Cultural Revolution did not merely close universities — it systematically dismantled the intellectual infrastructure of an entire nation.
   estimated_killed: null
   tags: [universities, students, cultural-repression]
 
@@ -44,11 +72,20 @@
   date_end: 1985-12-31
   title_en: "Reign of Terror (1981–1985)"
   title_fa: "سلطه وحشت"
-  description: >
-    Following the power struggle with the MEK and other opposition groups,
-    the regime launched a campaign of mass executions. Over 7,900 political
-    prisoners were executed in this period — compared to fewer than 100
-    in the entire decade before the revolution.
+  description: |
+    The period from June 1981 to the end of 1985 represents the bloodiest chapter of political repression in the Islamic Republic's history. Following the ousting of President Abolhassan Bani-Sadr on June 20, 1981 and the Mojahedin-e Khalq's (MEK) declaration of armed resistance on the same day, the regime launched a campaign of mass executions that dwarfed anything Iran had seen in the twentieth century. In the entire decade before the revolution, fewer than 100 political prisoners had been executed under the Shah. In the four years that followed June 1981, the Islamic Republic executed over 7,900.
+
+    The trigger for this escalation was the MEK's bombing campaign, which killed senior regime figures including President Mohammad-Ali Rajai and Prime Minister Mohammad-Javad Bahonar in August 1981. The regime responded not with targeted security operations but with indiscriminate mass repression. Anyone suspected of affiliation with opposition groups — not only the MEK but also leftist parties like the Tudeh, the Fedaiyan, and various Kurdish organizations — was subject to arrest, torture, and execution.
+
+    Evin Prison in Tehran became the center of this machinery of death. Thousands of political prisoners were held in grossly overcrowded cells, subjected to systematic torture during interrogations, and executed in waves. Executions often took place at night, with prisoners called from their cells and hanged or shot before dawn. In some periods, dozens were executed in a single night. The prison's chief prosecutor, Asadollah Lajevardi — known as the "Butcher of Evin" — oversaw the operations with particular brutality, implementing a system of forced recantation under torture.
+
+    The victims were overwhelmingly young. Many were university students, activists, and intellectuals in their twenties and thirties who had initially supported the revolution but turned against the theocratic state. Women were not spared — young female prisoners were routinely tortured and executed alongside men. In some cases, girls as young as fifteen were among the executed. Reports from survivors describe forced religious conversions, mock executions, and the deliberate psychological torment of prisoners who could hear others being taken to their deaths.
+
+    The repression was not limited to prisons. Street arrests, raids on homes, and extrajudicial killings were commonplace. Carrying a leftist newspaper, possessing banned literature, or even being related to a known dissident could result in arrest. Neighborhoods were subject to sweeps in which security forces detained hundreds at a time. Many of those arrested simply disappeared — their families were never informed of their fate, their bodies were buried in unmarked mass graves.
+
+    Revolutionary courts operated with complete impunity. Judges were clerics with no legal training, appointed by the Supreme Leader. Proceedings lasted minutes. Confessions extracted under torture were the primary evidence. Defense attorneys, when present at all, were prohibited from mounting meaningful arguments. Death sentences were carried out within hours of being issued. There was no right of appeal. The entire judicial process existed not to determine guilt or innocence but to provide a thin veneer of legitimacy to predetermined outcomes.
+
+    By the end of 1985, the regime had effectively crushed all organized political opposition within Iran. The human cost was staggering: over 7,900 confirmed executions, with the true number likely much higher. Tens of thousands more had been imprisoned, tortured, or forced into exile. An entire generation of Iranian activists, intellectuals, and opposition figures had been systematically eliminated. The Reign of Terror accomplished its objective — it established through sheer violence that no dissent would be tolerated — but it left wounds in Iranian society that have never healed.
   estimated_killed: 7900
   source: "Various human rights organizations"
   tags: [executions, political-prisoners, mass-killing]
@@ -58,11 +95,22 @@
   date_end: 1988-08-20
   title_en: "Iran-Iraq War"
   title_fa: "جنگ ایران و عراق"
-  description: >
-    Eight-year war with Iraq. The regime sent waves of poorly equipped
-    soldiers, including child soldiers (basiji), to the front. Children as
-    young as 12 were given plastic "keys to paradise" and sent to clear
-    minefields. Estimated 500,000–1,000,000 Iranian casualties.
+  description: |
+    The Iran-Iraq War, which lasted from September 22, 1980 to August 20, 1988, was the longest conventional war of the twentieth century and one of its deadliest. It killed an estimated 500,000 to over one million people, devastated both nations' economies, and left a generation of Iranians scarred by chemical weapons exposure, battlefield trauma, and the regime's cynical exploitation of its own citizens as cannon fodder.
+
+    The conflict began when Iraqi dictator Saddam Hussein launched a surprise invasion of Iran, exploiting the chaos of the post-revolutionary purges that had decimated Iran's professional military. Iraq sought to annex Iran's oil-rich Khuzestan Province and establish dominance over the strategically vital Shatt al-Arab waterway. Saddam calculated that the revolutionary regime, having executed or imprisoned hundreds of its own military officers, would collapse quickly. He was wrong about the collapse, but right about the vulnerability — Iran's armed forces had been gutted by ideological purges.
+
+    Initial Iraqi advances penetrated deep into Iranian territory. The siege of Khorramshahr lasted seven weeks and cost approximately 7,000 Iraqi casualties, but by October 1980, the invasion had stalled. Iran mobilized a massive defense effort, and by May 1982, a series of counteroffensives — including Operation Beit ol-Moqaddas — recaptured Khorramshahr and drove Iraqi forces from most Iranian territory.
+
+    This should have been the moment for peace. Iraq offered to withdraw to pre-war borders. But Khomeini rejected all peace offers, declaring his intention to continue the war until Saddam's regime was overthrown. This decision condemned hundreds of thousands more Iranians to death. For six more years, Iran launched offensive after offensive into Iraqi territory, achieving almost nothing at catastrophic human cost.
+
+    The regime's most criminal tactic was the systematic use of human wave attacks, deploying poorly trained and lightly armed Basij volunteers — including children as young as twelve — in frontal assaults against fortified Iraqi positions. The Basij paramilitary force, established in April 1980, mobilized over one million combatants by war's end, many of them adolescents recruited from poor rural families with promises of martyrdom and paradise. Children were given plastic "keys to paradise" and sent to clear minefields by walking through them. Operation Ramadan in July 1982 threw 150,000 troops at Iraqi defenses near Basra, gaining only 50 square kilometers at enormous cost.
+
+    Iraq responded with chemical weapons on a massive scale. Beginning in August 1983, Iraq deployed mustard gas and nerve agents including tabun and sarin against Iranian troops and Kurdish civilians. The attack on Halabja on March 16, 1988 — which killed approximately 5,000 civilians in a single day — was the most notorious incident, but chemical weapons were used routinely throughout the war. Between 50,000 and 100,000 Iranian military personnel suffered chemical exposure, with roughly 20,000 fatalities. Tens of thousands of survivors suffered permanent disabilities including blindness and chronic respiratory failure. The international community, which tacitly supported Iraq against revolutionary Iran, failed to enforce meaningful consequences for these war crimes.
+
+    Iraq also waged a "War of the Cities," launching over 500 Scud missiles at Iranian urban centers. In early 1988, 118 modified Al-Hussein missiles struck Tehran over 52 days, prompting one-quarter of the city's six million residents to flee. Iran retaliated with its own missile strikes but lacked Iraq's production capacity.
+
+    By mid-1988, Iran was exhausted. Iraq's final offensives, aided by chemical weapons, recaptured all lost territory in weeks. The accidental U.S. downing of Iran Air Flight 655 on July 3, killing 290 civilians, further isolated Iran diplomatically. On July 17, 1988, Khomeini accepted UN Resolution 598, calling it "drinking a poisoned chalice." The ceasefire took effect on August 20, restoring the pre-war borders — eight years of devastating warfare had changed nothing on the map but had destroyed countless lives. Total economic damages exceeded one trillion dollars.
   estimated_killed: 500000
   tags: [war, child-soldiers]
 
@@ -71,12 +119,22 @@
   date_end: 1988-12-31
   title_en: "1988 Prison Massacres"
   title_fa: "کشتار ۶۷"
-  description: >
-    On Khomeini's orders, "Death Commissions" were formed across Iran.
-    Political prisoners were brought before three-member panels and asked
-    if they renounced their beliefs. Those who refused were executed —
-    often within hours. Bodies were buried in mass graves. Families were
-    not informed. The UN classified this as genocide in 2024.
+  description: |
+    In the summer of 1988, as the Iran-Iraq War drew to a close, Ayatollah Khomeini issued a secret fatwa ordering the execution of political prisoners across Iran. What followed was one of the most systematic campaigns of mass extrajudicial killing since World War II. In a matter of weeks, "Death Commissions" operating in prisons nationwide executed thousands of men and women whose only crime was refusing to renounce their political beliefs. Estimates of the death toll range from 5,000 according to Amnesty International to as many as 30,000 according to opposition sources.
+
+    The immediate trigger was the MEK's ill-fated Operation Eternal Light on July 25, 1988 — a cross-border incursion from Iraq that was swiftly crushed. Khomeini used this as pretext to order the elimination of political prisoners who remained loyal to opposition organizations. But the fatwa's scope extended far beyond MEK sympathizers. Leftist prisoners — members of the Tudeh Party, the Fedaiyan, and other groups — were also targeted in a separate wave of executions.
+
+    The Death Commissions typically consisted of three members: a religious judge, a prosecutor, and a representative of the Ministry of Intelligence. Prisoners were brought before these panels individually and subjected to brief interrogations designed not to determine guilt — they were already serving sentences — but to test their ideological loyalty. MEK prisoners were asked: "Do you still support the Mojahedin?" Those who said yes were sent to execution. Those who equivocated were often killed as well. Leftist prisoners faced different questions: "Are you willing to pray? Do you believe in God?" Atheists and those who refused religious observance were hanged.
+
+    The entire process was designed for maximum efficiency. Trials lasted only minutes. Prisoners were executed in groups, often within hours of their brief hearings. In Evin and Gohardasht prisons near Tehran, executions took place around the clock, with cranes and forklifts used to hang multiple prisoners simultaneously. The bodies were loaded onto refrigerated trucks and transported to mass graves under cover of darkness. In Khavaran, a desolate plot on the outskirts of Tehran, hundreds of victims were buried in unmarked trenches that families would later discover and turn into a site of pilgrimage and mourning.
+
+    The massacre was carried out in total secrecy. Families were not informed of their loved ones' executions. When they inquired, they were turned away or given false information. Some families waited months or years before receiving a bag of belongings and a terse notification. The regime imposed a complete information blackout, and prison visits were suspended during the killing period to prevent any witnesses.
+
+    The only senior figure within the regime who protested was Grand Ayatollah Hossein-Ali Montazeri, then Khomeini's designated successor. Montazeri wrote letters to Khomeini warning that history would condemn the massacres, calling them "the worst crime committed during the Islamic Republic." For his opposition, Montazeri was stripped of his position as successor and placed under house arrest for the rest of his life. His courage in speaking out remains one of the few acts of moral conscience by an insider during this period.
+
+    Key figures in the Death Commissions went on to prominent careers. Ebrahim Raisi, who served on the Tehran Death Commission, later became president of Iran. Hossein-Ali Nayyeri and Morteza Eshraqi also escaped any accountability. The only prosecution related to the massacre came decades later in Sweden, where Hamid Nouri — a former prison official — was convicted in 2022 for his role in the killings at Gohardasht Prison.
+
+    For over three decades, the Islamic Republic denied the massacre entirely, then minimized it. Families who attempted to commemorate their dead at Khavaran were arrested and harassed. The mass graves themselves were repeatedly bulldozed and paved over in attempts to erase physical evidence. In 2024, the UN classified the 1988 massacres as genocide — a recognition that came thirty-six years too late for the victims, but offered their surviving families a measure of acknowledgment that their suffering was real.
   estimated_killed_low: 5000
   estimated_killed_high: 30000
   source: "Amnesty International, Human Rights Watch, UN Special Rapporteur"
@@ -87,11 +145,22 @@
   date_end: 1998-12-31
   title_en: "Chain Murders of Intellectuals"
   title_fa: "قتل‌های زنجیره‌ای"
-  description: >
-    Systematic assassination of Iranian dissident intellectuals, writers,
-    poets, and political activists by agents of the Ministry of Intelligence.
-    Victims include Dariush Forouhar, Parvaneh Eskandari, Mohammad Mokhtari,
-    and Mohammad Jafar Pouyandeh.
+  description: |
+    The Chain Murders were a decade-long campaign of state-sponsored assassinations targeting Iranian intellectuals, writers, poets, political activists, and dissidents. Carried out by operatives of the Ministry of Intelligence (VEVAK) between 1988 and 1998, the killings claimed an estimated 80 victims — both inside Iran and abroad. Many deaths were staged as suicides, accidents, or random crimes to conceal the regime's hand. The campaign represented a systematic attempt to silence every independent voice in Iranian society.
+
+    The killing spree began with targets abroad. On July 13, 1989, Abdul Rahman Ghassemlou, leader of the Kurdish Democratic Party, was assassinated during peace negotiations in Vienna. On August 6, 1991, Shapour Bakhtiar, the last prime minister under the Shah, was stabbed to death in his Paris home alongside his personal secretary. In August 1992, singer and poet Fereydoun Farrokhzad was discovered in his apartment in Bonn, Germany with 27 stab wounds. The 1992 Mykonos restaurant assassination in Berlin killed four Kurdish-Iranian opposition leaders, and a German court later ruled that the attack was ordered at the highest levels of the Iranian government.
+
+    Inside Iran, the killings accelerated through the 1990s. Methods included multiple stab wounds — sometimes over twenty — manual strangulation, poisoning with potassium chloride injections to simulate heart attacks, and bludgeoning. Bodies were staged to appear as robberies, domestic disputes, or natural deaths. The sophistication of the cover-ups pointed to institutional resources far beyond any rogue operation.
+
+    The murders reached their most visible peak in the autumn of 1998. On November 22, Dariush Forouhar, a 70-year-old opposition politician and founder of the Nation of Iran Party, was found stabbed to death in his Tehran home alongside his wife Parvaneh, who had been stabbed 24 times. Their murders were followed within weeks by the kidnapping and killing of two prominent members of the Iranian Writers' Association: poet Mohammad Mokhtari, found strangled on December 3, and writer and translator Mohammad Ja'far Pouyandeh, whose body was discovered on December 12.
+
+    The close succession of these murders made concealment impossible and provoked a massive public outcry. Thousands attended the Forouhars' funeral in what became an implicit political protest. Under intense public pressure, President Mohammad Khatami ordered a formal investigation. In January 1999, the Ministry of Intelligence issued an extraordinary admission: it acknowledged that "rogue elements" within the ministry had carried out the four recent killings. The regime's designated scapegoat was Saeed Emami, the deputy intelligence minister who was identified as the central orchestrator.
+
+    Emami's fate sealed the cover-up. Arrested in January 1999, he was found dead in Evin Prison in June, officially ruled a suicide by acid ingestion — a method so improbable it convinced virtually no one. With the alleged ringleader dead, the investigation conveniently lost its most important witness. Twenty-three operatives were arrested; eighteen faced military court trials conducted entirely in closed sessions. Fifteen were convicted after confessions, receiving sentences that included death penalties later commuted and prison terms of 2.5 to 15 years. Many received early release or amnesty. No senior official was ever prosecuted.
+
+    Investigative journalist Akbar Ganji published a series of articles linking the murders to senior officials including former Intelligence Minister Ali Fallahian and potentially President Akbar Hashemi Rafsanjani. For his courage, Ganji was imprisoned from 2000 to 2006. Reformist newspapers that covered the story were shut down. The regime's message was clear: investigating the murders was itself a punishable offense.
+
+    The Chain Murders achieved their intended effect. The Iranian Writers' Association, whose 134 members had signed a 1994 open letter demanding freedom of expression, was effectively silenced. Self-censorship became the norm. A generation of intellectuals and activists either fled the country or retreated into silence. The killings demonstrated that the Islamic Republic was willing to murder its most prominent citizens with impunity, and that no investigation would ever reach the true decision-makers.
   estimated_killed: 80
   tags: [assassinations, intellectuals, writers]
 
@@ -100,10 +169,22 @@
   date_end: 1999-07-13
   title_en: "1999 Student Protests (18 Tir)"
   title_fa: "۱۸ تیر ۱۳۷۸"
-  description: >
-    Peaceful student protests against newspaper closures were met with
-    violent raids on Tehran University dormitories by Basij and Ansar-e
-    Hezbollah. Students were beaten, thrown from windows, and arrested.
+  description: |
+    The student protests of July 1999, known in Iran as the 18 Tir uprising, were triggered by the judicial closure of the reformist newspaper Salam on July 7. The paper had published materials critical of conservative judges and questioned the role of a senior advisor to the Supreme Leader in the Chain Murders assassination campaign. For students who had placed their hopes in President Khatami's reform agenda, the closure was a stark reminder that real power in Iran lay not with elected officials but with unelected hardline institutions.
+
+    On July 8, students at Tehran University organized peaceful demonstrations against the newspaper's closure and in defense of press freedom. The protests were orderly and non-violent. But in the early hours of July 9, approximately 400 assailants — comprising Ansar-e Hezbollah vigilantes, plainclothes intelligence agents, and riot police — launched a coordinated assault on the university's dormitories. The attackers beat sleeping students, ransacked rooms, shattered windows, and threw students from upper floors. Police facilitated the vigilantes' entry rather than preventing the violence. Roughly ten buildings and over 800 dormitory rooms were damaged in the attack.
+
+    The dormitory raid was not a spontaneous act of mob violence but a calculated operation designed to terrorize students into silence. Ansar-e Hezbollah and the Basij militia, both paramilitary groups loyal to the Supreme Leader, served as the primary enforcement mechanism. Operating with apparent impunity, they participated in both the initial assault and the subsequent street clashes. Their involvement demonstrated that the violence was sanctioned at the highest levels — these were not rogue elements but instruments of state power.
+
+    The brutality of the raid had the opposite of its intended effect. Rather than silencing dissent, it ignited it. By July 13, protests had spread to at least 18 cities, including Tabriz, Isfahan, Mashhad, and Yazd. Students in universities across the country organized solidarity demonstrations, and for a brief moment, it appeared that a genuine uprising against the theocratic system might be underway.
+
+    Supreme Leader Ali Khamenei responded with a direct order for suppression, framing the protests as foreign-orchestrated chaos. State media portrayed the students as "hooligans" and infiltrators rather than legitimate political actors. Security forces deployed tear gas, erected roadblocks, and conducted mass arrests. More than 1,200 people were detained. Official accounts acknowledged one student death, but independent sources documented at least four to seven fatalities during the dormitory raids and subsequent clashes. Hundreds were injured.
+
+    President Khatami, whom the students had helped elect in 1997 on a platform of reform and civil liberties, faced a critical test. He initially condemned the dormitory raid — but by July 14, he urged students to cease their demonstrations, prioritizing regime stability over supporting his own political base. Reports emerged that IRGC commanders had issued ultimatums forcing his compliance. Khatami's capitulation was a turning point: it demonstrated conclusively that the reform movement had no power to protect its supporters when confronted by the security establishment.
+
+    The legal aftermath was as unjust as the violence itself. Revolutionary Courts sentenced four men to death for protest participation — convictions that human rights organizations condemned as lacking due process. Additional protesters received sentences of up to ten years. Many detainees reported beatings and inhumane conditions. Only one low-ranking officer was prosecuted for minor theft during the raids. No member of the vigilante groups or security forces faced meaningful consequences.
+
+    The 1999 student protests marked the first major popular challenge to the Islamic Republic's authority since the 1981 crackdown. Though ultimately suppressed, they radicalized a generation of young Iranians and exposed the fundamental impossibility of meaningful reform within the theocratic system. The lesson was clear: the regime would answer any challenge to its authority with overwhelming force, and elected officials were either unwilling or unable to prevent it.
   estimated_killed: 4
   estimated_injured: 200
   tags: [students, protests, university]
@@ -113,12 +194,22 @@
   date_end: 2010-02-11
   title_en: "Green Movement"
   title_fa: "جنبش سبز"
-  description: >
-    Millions protested the disputed re-election of Mahmoud Ahmadinejad.
-    Security forces killed dozens, including Neda Agha-Soltan, whose death
-    was filmed and shared worldwide. Thousands were arrested and tortured.
-    Opposition leaders Mousavi and Karroubi were placed under house arrest
-    where they remain to this day.
+  description: |
+    The Green Movement erupted on June 13, 2009, following Iran's disputed presidential election. Official results declared incumbent Mahmoud Ahmadinejad the winner with 62.6 percent of votes against reformist candidate Mir-Hossein Mousavi's 33.8 percent. The numbers defied credibility: statistical analyses identified 81 districts with results of high improbability, including turnout exceeding 100 percent in numerous provinces and abrupt vote-count spikes for Ahmadinejad after midnight. Opposition leaders immediately rejected the results, and hundreds of thousands of Iranians took to the streets under the rallying cry "Where is my vote?"
+
+    Within days, the protests grew into the largest demonstrations Iran had seen since the 1979 revolution. Hundreds of thousands gathered in Tehran, with the movement spreading to over 100 cities. Peak turnout on June 15 drew an estimated one to three million demonstrators. Protesters adopted green — Mousavi's campaign color — as their symbol. The movement drew primarily from urban professionals, students, and educated youth, but its broad appeal reflected deep-seated frustration with the theocratic system that extended far beyond disputed election results.
+
+    The regime responded with overwhelming force. On "Black Saturday," June 20, security forces killed at least ten protesters according to state television, with opposition sources reporting far higher casualties. That same day, 26-year-old student Neda Agha-Soltan was shot in the chest near Karegar Street in Tehran. Her death, captured on a mobile phone video that spread worldwide within hours, made her the movement's most powerful symbol. The footage — showing her eyes going blank as she bled to death on a Tehran sidewalk — became one of the most viewed videos in internet history and galvanized international outrage.
+
+    The crackdown intensified systematically. By August 2009, approximately 4,000 individuals had been detained. The Kahrizak detention center south of Tehran became a site of particularly horrific abuse. A 2013 report by Freedom from Torture, analyzing 50 detainees, found that 80 percent had endured torture including physical beatings, electric shocks, sleep deprivation, and sexual violence. Interrogations aimed at forcing confessions linking detainees to opposition leaders or foreign powers. Several detainees died in custody from injuries sustained during torture.
+
+    Show trials began on August 1, with over 100 reformists and protesters facing charges including moharebeh — "enmity against God," a capital offense. Defendants were denied independent counsel and coerced into televised confessions. At least five protesters received death sentences. Mohammad-Reza Ali-Zamani and Arash Rahmanipour were executed on January 28, 2010. A broader surge of 115 hangings between June and August 2009 served as deterrent messaging to the population.
+
+    Opposition committees documented over 100 named victims killed between June 2009 and January 2010, including 13 women and 23 university students. Iranian authorities acknowledged approximately 30 deaths, while independent investigations verified at least 72. Many were killed by targeted gunshots to the head or chest, suggesting deliberate intent to kill rather than disperse crowds.
+
+    The movement's leaders paid a devastating personal price. Mir-Hossein Mousavi, his wife Zahra Rahnavard, and fellow reformist leader Mehdi Karroubi were placed under indefinite house arrest beginning February 2011 — without formal charges or trials. They had called for demonstrations in support of the Arab Spring, and the regime responded by simply removing them from public life. As of late 2024, Mousavi and Rahnavard had spent over 5,000 days in confinement. Karroubi's house arrest was finally lifted in March 2025, after 14 years.
+
+    By late 2009, the combination of overwhelming force, mass detentions, and internet shutdowns had suppressed street mobilization. But the Green Movement's legacy endured. It exposed the regime's fundamental illegitimacy to a new generation and established the pattern for every subsequent uprising: the people would demand their rights, and the regime would answer with bullets, torture, and prison.
   estimated_killed: 72
   source: "Opposition sources"
   tags: [protests, election-fraud, green-movement]
@@ -128,11 +219,20 @@
   date_end: 2019-11-19
   title_en: "Bloody November (Aban 98)"
   title_fa: "آبان خونین"
-  description: >
-    Protests triggered by fuel price hikes were crushed in less than five
-    days with live ammunition. The internet was shut down nationwide for
-    six days to prevent information from spreading. Most victims were
-    young people from working-class neighborhoods.
+  description: |
+    On November 15, 2019, the Iranian government announced a gasoline price increase of up to 300 percent, coupled with rationing beyond 60 liters per month. Within hours, protests erupted across the country. By the following day, demonstrations had spread to more than 100 cities in all 31 provinces. What happened next was the deadliest crackdown in Iran since the 1988 prison massacres — a five-day campaign of mass killing that the regime attempted to carry out behind a wall of total internet darkness.
+
+    The protesters were overwhelmingly from working-class and lower-middle-class communities — people for whom the fuel price hike meant the difference between feeding their families and going hungry. Iran's economy was already in crisis: inflation had surged above 40 percent, the currency had lost over 50 percent of its purchasing power, and youth unemployment stood near 26 percent. The protests quickly evolved from economic grievances to explicit anti-regime demands. Demonstrators chanted "Death to Khamenei" and "Our enemy is right here — they lie when they say it's America," rejecting the regime's habitual blaming of foreign interference.
+
+    The security response was immediate and lethal. The Islamic Revolutionary Guard Corps and Basij militia deployed with live ammunition, machine guns, and orders to kill. Security forces fired from rooftops, overpasses, and moving vehicles. Snipers targeted protesters with shots to the head, chest, and upper body — patterns consistent with intent to kill rather than disperse. In the city of Mahshahr, in Khuzestan Province, security units fired from helicopters into crowds fleeing toward marshlands, hunting down civilians in the reeds. Children as young as eight were among the dead; Amnesty International documented at least 23 minors killed.
+
+    To conceal the scale of the violence, the regime imposed a near-total nationwide internet shutdown beginning November 16 — the longest in Iranian history. Connectivity dropped to approximately five percent of normal levels for six days. With no ability to share images, videos, or even basic information, the killing continued behind a digital blackout. Hospitals were pressured to turn away wounded protesters or report them to security forces. Families were coerced into silence and threatened with consequences if they spoke publicly about their dead.
+
+    The death toll remains disputed but devastating. Iranian authorities initially denied significant casualties, later acknowledging approximately 200 deaths while labeling victims as "rioters." Amnesty International documented 321 specific victims across more than 40 cities. Iran Human Rights recorded at least 551 fatalities. Most strikingly, three officials from Iran's Interior Ministry privately told Reuters that approximately 1,500 people were killed — a figure they described as reflecting "a deliberate crackdown ordered by Supreme Leader Ali Khamenei."
+
+    Over 7,000 people were arrested in the aftermath. Detainees reported systematic torture, forced confessions, and denial of medical treatment for gunshot wounds sustained during the protests. No security personnel have ever been prosecuted for the killings. The regime has never conducted any transparent investigation. Families who attempted to hold memorial ceremonies for their dead were arrested and harassed.
+
+    The November 2019 massacre revealed the Islamic Republic's willingness to kill its own citizens on a massive scale and its capacity to impose total information blackouts to hide the evidence. It also demonstrated the depth of popular rage against the regime — rage that would explode again three years later in the Woman, Life, Freedom movement. For the families of the dead, there has been no justice, no accountability, and no acknowledgment that their children were murdered by their own government.
   estimated_killed_low: 1500
   estimated_killed_high: 3000
   estimated_arrested: 20000
@@ -143,12 +243,22 @@
   date_end: 2023-03-01
   title_en: "Woman, Life, Freedom Movement"
   title_fa: "زن، زندگی، آزادی"
-  description: >
-    The death of 22-year-old Mahsa (Zhina) Amini in morality police custody
-    sparked the largest protests since 1979. The UN found crimes against
-    humanity including murder, torture, rape, and sexual violence. At least
-    23 children were among the first victims. The movement united all
-    ethnicities and social classes across Iran.
+  description: |
+    On September 13, 2022, 22-year-old Kurdish woman Mahsa Amini was arrested in Tehran by Iran's morality police for allegedly wearing her hijab improperly. She was taken to the Vozara detention center. Three days later, on September 16, she was dead. The regime claimed cardiac arrest from pre-existing conditions. Her family pointed to visible bruises and disputed the official account. A UN fact-finding mission would later determine that physical violence by security forces during detention caused her death. Her killing ignited the largest and most radical protest movement in the history of the Islamic Republic.
+
+    Demonstrations erupted on September 17 during Amini's funeral in her hometown of Saqqez in Kurdistan Province. Within days, protests had spread to over 150 cities. The unifying slogan — "Zan, Zendegi, Azadi" (Woman, Life, Freedom) — originated from the Kurdish women's movement and became the defining cry of a generation. Unlike previous uprisings that had demanded reform within the system, this movement rejected the Islamic Republic entirely. Protesters chanted "Death to the Dictator" and called for the dismantling of the theocratic state.
+
+    The movement was remarkable for its diversity. Over 60 percent of Iran's population is under 30, and young people drove the uprising. Women were central participants, publicly burning headscarves and cutting their hair in acts of defiance. Over 750 demonstrations were recorded at educational institutions. Ethnic minorities — Kurds, Baloch, and Arabs — participated in disproportionate numbers, with approximately 300 protests in Kurdish areas alone. A February 2023 survey indicated that 80 percent of Iranians supported the protests, with 81 percent opposing the Islamic Republic's continuation.
+
+    The regime responded with extreme violence. Security forces — IRGC, Basij militia, and national police — used live ammunition including birdshot, shotgun slugs, and rifle rounds against largely unarmed protesters. They deployed tear gas, water cannons, and batons. Plainclothes agents infiltrated crowds. Facial recognition technology was used for retrospective identification of participants. The UN documented over 100 instances of shooting in non-threatening scenarios, attributing them to coordinated orders from command centers.
+
+    The death toll was devastating. Iran Human Rights documented 537 protester deaths by April 2023. The United Nations confirmed 551 deaths including 68 children and 49 women across 26 provinces. Security forces killed children in the streets, including minors as young as ten. At least seven protesters were formally executed after sham trials, while broader post-protest executions exceeded 1,400 by September 2024. Over 19,000 individuals were arrested. Amnesty International documented systematic torture in custody, including sexual assault and rape used deliberately as tools of suppression.
+
+    Internet shutdowns began on September 19, with near-total blackouts in Kurdistan Province, followed by nationwide mobile internet disruption. Instagram and WhatsApp were blocked — the most severe communications restrictions since the 2019 crackdown. The economic damage from internet shutdowns alone exceeded $720 million, eliminating approximately 10,000 jobs in the digital sector.
+
+    The UN fact-finding mission, established November 24, 2022, concluded in March 2024 that the crackdown constituted crimes against humanity, including murder and persecution. The disparity in casualties — over 500 civilian deaths versus approximately 20 security force fatalities — demolished the regime's claims of restraint or self-defense.
+
+    The movement resonated globally. The United States, European Union, United Kingdom, Canada, and Australia imposed sanctions on Iranian officials and entities. Shervin Hajipour's song "Baraye," compiled from social media grievances, won the Grammy Award for Best Song for Social Change. Iranian soccer players stood silent during national anthems at the 2022 FIFA World Cup. By September 2024, widespread hijab defiance had become commonplace in Iranian cities, with approximately 70 percent of Iranians opposing government penalties for hijab violations. The Woman, Life, Freedom movement may not have toppled the regime, but it shattered its claim to legitimacy beyond repair.
   estimated_killed: 500
   estimated_arrested: 22000
   estimated_children_killed: 23
@@ -159,12 +269,20 @@
   date_end: null
   title_en: "2026 Massacres"
   title_fa: "کشتار ۱۴۰۴"
-  description: >
-    Nationwide protests met with the deadliest crackdown since 1979.
-    Security forces used live ammunition against protesters across 31
-    provinces and 110 cities. At least 153 identified children among the
-    dead. Internet shut down. Hospitals attacked. The UN Special Rapporteur
-    estimated deaths may exceed 20,000.
+  description: |
+    In January 2026, nationwide protests erupted across Iran in response to a cascading economic crisis, years of accumulated repression, and the regime's complete failure to address the demands of the 2022 Woman, Life, Freedom movement. What followed was the deadliest crackdown since the revolution itself — a coordinated campaign of mass killing that targeted civilians across all 31 provinces and at least 110 cities. The UN Special Rapporteur estimated that deaths may exceed 20,000, making it potentially the largest massacre of civilians by their own government in the twenty-first century.
+
+    The protests were triggered by a combination of hyperinflation, currency collapse, severe water and fuel shortages, and the regime's continued violent enforcement of mandatory hijab laws despite overwhelming popular opposition. Unlike previous uprisings that had centered on specific grievances, the 2026 protests represented a total rejection of the Islamic Republic by a broad cross-section of society — workers, students, women, ethnic minorities, and even segments of the traditional middle class that had previously stayed on the sidelines.
+
+    The security response was immediate, overwhelming, and unprecedented in its brutality. The Islamic Revolutionary Guard Corps, Basij militia, and other security forces deployed with live ammunition from the first hours of the protests. Reports from multiple cities described coordinated shooting operations targeting protesters, bystanders, and even people attempting to flee. Security forces fired into crowds from rooftops, armored vehicles, and helicopters. In several cities, hospitals came under attack as the regime sought to prevent the wounded from receiving medical treatment and to destroy evidence of the scale of the violence.
+
+    The regime imposed a total internet shutdown across the entire country, having learned from previous uprisings that information leaking out could galvanize international pressure. Despite this blackout, fragmentary reports emerged through satellite communications and testimony from those who managed to cross Iran's borders. These accounts described scenes of extraordinary violence: mass shootings at protest sites, executions of detained protesters, and the targeting of medics attempting to treat the wounded.
+
+    Among the most horrifying aspects of the crackdown was the regime's killing of children. At least 153 children have been identified among the dead — shot in the streets, killed during security force raids on homes, or dying of injuries after being denied medical care. Many were teenagers, but reports include children as young as eight. The deliberate targeting of minors represents a level of depravity that even the Islamic Republic's long history of violence against its own citizens had not previously reached on this scale.
+
+    The international community responded with unprecedented condemnation. The UN Human Rights Council held emergency sessions. Multiple countries recalled their ambassadors. Sanctions were expanded. But for the people of Iran, trapped behind an information blackout and facing a military apparatus willing to kill without limit, international statements offered little consolation.
+
+    As of early 2026, at least 3,428 deaths had been documented by name by human rights organizations including Iran Human Rights, HRANA, and Amnesty International, with the true number believed to be many times higher. Tens of thousands have been arrested. Mass graves have been reported in multiple locations. The 2026 massacres represent not merely another chapter in the Islamic Republic's history of violence but a qualitative escalation — a regime that has shown it will kill without restraint to maintain its grip on power, regardless of the scale of human suffering.
   estimated_killed_low: 3428
   estimated_killed_high: 20000
   estimated_children_killed: 153

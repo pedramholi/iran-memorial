@@ -37,23 +37,24 @@ async function seedEvents() {
   console.log(`Seeding ${events.length} events...`);
 
   for (const e of events) {
+    const eventData = {
+      slug: e.id,
+      dateStart: new Date(e.date_start),
+      dateEnd: e.date_end ? new Date(e.date_end) : null,
+      titleEn: e.title_en,
+      titleFa: e.title_fa || null,
+      titleDe: null,
+      descriptionEn: e.description || null,
+      descriptionFa: null,
+      descriptionDe: null,
+      estimatedKilledLow: e.estimated_killed_low || e.estimated_killed || null,
+      estimatedKilledHigh: e.estimated_killed_high || null,
+      tags: e.tags || [],
+    };
     await prisma.event.upsert({
       where: { slug: e.id },
-      update: {},
-      create: {
-        slug: e.id,
-        dateStart: new Date(e.date_start),
-        dateEnd: e.date_end ? new Date(e.date_end) : null,
-        titleEn: e.title_en,
-        titleFa: e.title_fa || null,
-        titleDe: null,
-        descriptionEn: e.description || null,
-        descriptionFa: null,
-        descriptionDe: null,
-        estimatedKilledLow: e.estimated_killed_low || e.estimated_killed || null,
-        estimatedKilledHigh: e.estimated_killed_high || null,
-        tags: e.tags || [],
-      },
+      update: eventData,
+      create: eventData,
     });
     console.log(`  ✓ ${e.id}`);
   }

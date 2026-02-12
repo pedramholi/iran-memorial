@@ -87,8 +87,12 @@ function EventDetail({ event, locale }: { event: any; locale: Locale }) {
       <div className="mx-auto max-w-4xl px-4 pb-16">
         {/* Description */}
         {description && (
-          <section className="py-8 mb-4">
-            <p className="text-memorial-200 leading-relaxed whitespace-pre-line text-lg">{description}</p>
+          <section className="py-8 mb-4 space-y-4">
+            {description.split('\n\n').map((paragraph: string, i: number) => (
+              <p key={i} className="text-memorial-200 leading-relaxed text-lg">
+                {paragraph.trim()}
+              </p>
+            ))}
           </section>
         )}
 
