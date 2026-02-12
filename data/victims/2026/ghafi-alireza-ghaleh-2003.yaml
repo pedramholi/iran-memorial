@@ -5,7 +5,7 @@ date_of_birth: null  # est. birth year: 2003
 place_of_birth: null
 gender: male
 ethnicity: null
-photo: "https://storage.googleapis.com/media-cdn-7k9x2/img_22059_0_twitter_v1.jpg"
+photo: null
 # --- DEATH ---
 date_of_death: 2026-01-08
 age_at_death: 23
