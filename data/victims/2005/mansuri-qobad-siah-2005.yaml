@@ -1,12 +1,16 @@
 id: mansuri-qobad-siah-2005
 name_latin: "Qobad Siah Mansuri"
 name_farsi: "قباد سیاه منصوری"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1973-01-01"
+place_of_birth: "Khoram Abad, Lorestan province"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "defendant"
+family:
 
 # --- DEATH ---
 date_of_death: 2005-04-14
@@ -51,9 +55,8 @@ circumstances: >
     police. The ruling was confirmed by Branch 26 of the Supreme Court. Mr.
     Siahmansuri was executed on Thursday, April 14, 2005, at 6:55 am in front
     of a large group of people in Najaf Abad.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on April 14, 2005"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

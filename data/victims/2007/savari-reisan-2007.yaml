@@ -3,10 +3,17 @@ name_latin: "Reisan Savari"
 name_farsi: "ریسان سواری"
 date_of_birth: null
 place_of_birth: null
-gender: null
-ethnicity: null
+gender: male
+ethnicity: "Ahvazi Arab"
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/72484_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "middle school teacher"
+family:
+  marital_status: "single"
+personality: "had extensive social relations, was a fairly religious person (prayed regularly), had a sense of humor, and was well liked by other prisoners"
+beliefs: "member of the Vefaq Party"
 
 # --- DEATH ---
 date_of_death: 2007-02-14
@@ -85,7 +92,7 @@ circumstances: >
     contradictory, statements, political and judicial authorities imputed
     responsibility to groups opposing [the Islamic Republic], including, Those
     loyal to the previous regime and residing in England; Fugitive SAVAK (t
-event_context: null
+event_context: "2005-2006 unrests and bombings"
 responsible_forces: null
 
 # --- VERIFICATION ---

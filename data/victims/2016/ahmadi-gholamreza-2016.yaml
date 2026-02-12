@@ -1,12 +1,15 @@
 id: ahmadi-gholamreza-2016
 name_latin: "Gholamreza Ahmadi"
 name_farsi: "غلامرضا احمدی"
-date_of_birth: null
+date_of_birth: "1980-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
 
 # --- DEATH ---
 date_of_death: 2016-05-24
@@ -56,9 +59,8 @@ circumstances: >
     s Behesht-e Sakineh Cemetery. (Boroumand Center interview, May 24, 2016).
     ------------------------------ * Ruhollah Roshangar, Mika'il Shahbazi,
     MohammadKia Kiamehr
-event_context: null
-responsible_forces: null
-
+event_context: "2016 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

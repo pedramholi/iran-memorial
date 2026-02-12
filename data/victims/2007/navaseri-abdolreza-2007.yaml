@@ -1,12 +1,21 @@
 id: navaseri-abdolreza-2007
 name_latin: "Abdolreza Navaseri"
 name_farsi: "عبدالرضا نواصری"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1972-01-01"
+place_of_birth: "Ahvaz"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/72863_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  marital_status: "single"
+  notes: "Mr. Navaseri was Mehdi Navaseri s elder brother, who had been executed on March 2, 2006, for the bombing of Naderi Street in Ahvaz."
+personality: "dignified, polite, and disciplined"
+beliefs: "believed in armed struggle against the Islamic Republic for the rights of ethnic Arabs but considered its use permissible only against military and economic targets; against the killing of civilians"
+quotes:
+  - "He conducted Koran and Arabic calligraphy classes in prison and was considered popular at Karun Prison."
 
 # --- DEATH ---
 date_of_death: 2007-09-11
@@ -85,9 +94,8 @@ circumstances: >
     having taken part in the bombings. According to the Ahvaz Prosecutor,
     ultimately a total of four cases were opened at the Revolutionary Court,
     Special Br
-event_context: null
-responsible_forces: null
-
+event_context: "2005 bombings and unrest"
+responsible_forces: "IRGC"
 # --- VERIFICATION ---
 status: unverified
 sources:

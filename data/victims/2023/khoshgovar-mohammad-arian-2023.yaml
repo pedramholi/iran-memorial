@@ -1,12 +1,24 @@
 id: khoshgovar-mohammad-arian-2023
 name_latin: "Mohammad Arian Khoshgovar"
 name_farsi: "محمد آریان خوشگوار"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "2005-05-08"
+place_of_birth: "Sanandaj"
+gender: male
+ethnicity: "Kurdish"
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/85872_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "student"
+education: "third-year high school student majoring in HVAC and Plumbing Systems"
+family:
+  marital_status: "single"
+  children: 0
+  notes: "oldest child with one younger brother"
+personality: "described as a \"quiet, intelligent and hardworking\" person"
+beliefs: "participated in \"Women, Life, Freedom\" protests"
+quotes:
+  - "Arian was a reserved teenager who usually spoke little in gatherings, preferring to remain silent unless directly addressed. Despite this, he always showed respect for his elders and was a calm and disciplined person in both his family and social relationships."
 
 # --- DEATH ---
 date_of_death: 2023-03-15
@@ -86,9 +98,8 @@ circumstances: >
     and lethal force with handguns, shotguns, and military assault rifles
     against protesters. They often targeted protesters heads and chests, shot
     them at
-event_context: null
-responsible_forces: null
-
+event_context: "2022 (Mahsa Amini) Protest background"
+responsible_forces: "security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

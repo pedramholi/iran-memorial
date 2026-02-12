@@ -3,7 +3,7 @@ name_latin: "Beigom P."
 name_farsi: "بیگم پ."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -48,9 +48,8 @@ circumstances: >
     Isfahan province (Nesfe Jahan newspaper, November 19, 2009). Her sentence
     was upheld by the Supreme Court. On Monday morning, November 16, 2009, Ms.
     Beigom P. was hanged in Isfahan Central Prison.
-event_context: null
-responsible_forces: null
-
+event_context: "2009 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

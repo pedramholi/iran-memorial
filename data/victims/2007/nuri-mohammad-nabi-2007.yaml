@@ -2,8 +2,8 @@ id: nuri-mohammad-nabi-2007
 name_latin: "Mohammad Nabi Nuri"
 name_farsi: "محمد‌نبی نوری"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Afghanistan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -44,8 +44,7 @@ circumstances: >
     and confiscation of his possessions and the vehicle containing the
     narcotics. He was hanged in Tabas Prison on February 25, 2007 at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

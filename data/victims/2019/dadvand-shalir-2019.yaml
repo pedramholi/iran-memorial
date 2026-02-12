@@ -3,7 +3,7 @@ name_latin: "Shalir Dadvand"
 name_farsi: "شلیر دادوند"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim (Sunni)"
 photo: null
@@ -85,9 +85,8 @@ circumstances: >
     emergencies. Regarding protests, Articles 4 and 5 of this law allow
     officials to use their weapons under certain conditions to restore order
     and prevent riots. Article 4 states: "Police officers ar
-event_context: null
-responsible_forces: null
-
+event_context: "November 2019 protests"
+responsible_forces: "security officials"
 # --- VERIFICATION ---
 status: unverified
 sources:

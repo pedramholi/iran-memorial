@@ -3,7 +3,7 @@ name_latin: "Karim Maqsudian Kalvari"
 name_farsi: "کریم مقصودیان‌ کلواری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -48,9 +48,8 @@ circumstances: >
     was hanged, along with another defendant, in public at the Lavizan Park in
     Tehran on May 20, 2003 at 8 a.m. No further information is available about
     this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "2003 execution"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

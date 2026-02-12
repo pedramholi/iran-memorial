@@ -1,12 +1,24 @@
 id: ranjkesh-mehdi-2016
 name_latin: "Mehdi Ranjkesh"
 name_farsi: "مهدی رنج‌کش"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1990-01-01"
+place_of_birth: "Khoramabad, Lorestan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/75547_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "not mentioned"
+education: "not mentioned"
+family:
+  marital_status: "not mentioned"
+  notes: "son of Mohammad Ali"
+personality: "not mentioned"
+beliefs: "not mentioned"
+quotes:
+  - "\"I was physically and mentally disabled.\""
+  - "\"I ask human rights organizations to help bring an end to drug-related executions.\""
 
 # --- DEATH ---
 date_of_death: 2016-01-01
@@ -50,9 +62,8 @@ circumstances: >
     Prison in Khoramabad in the morning of January 2, 2006. In his video
     message, Mr. Ranjkesh asked human rights organizations to help bring an
     end to drug-related executions.
-event_context: null
-responsible_forces: null
-
+event_context: "not mentioned"
+responsible_forces: "not mentioned"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,10 +3,14 @@ name_latin: "Majid Mozafari"
 name_farsi: "مجید مظفری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "murdered his two female relatives, ages 86 and 18, for family conflicts."
 
 # --- DEATH ---
 date_of_death: 2002-06-02
@@ -39,8 +43,7 @@ circumstances: >
     and authorized by the Head of the Judiciary, the verdict was carried out
     in the morning in the presence of the family of the murdered women.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

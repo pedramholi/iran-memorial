@@ -1,12 +1,16 @@
 id: h-khodamorad-2004
 name_latin: "Khodamorad H."
 name_farsi: "خدامراد ح."
-date_of_birth: null
+date_of_birth: "1978-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
 
 # --- DEATH ---
 date_of_death: 2004-01-25

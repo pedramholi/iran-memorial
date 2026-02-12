@@ -3,10 +3,14 @@ name_latin: "Shahnaz Sh."
 name_farsi: "شهناز ش."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
 
 # --- DEATH ---
 date_of_death: 2003-12-22

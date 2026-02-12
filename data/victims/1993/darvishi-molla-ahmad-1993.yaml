@@ -1,12 +1,21 @@
 id: darvishi-molla-ahmad-1993
 name_latin: "Molla Ahmad Darvishi"
 name_farsi: "ملا‌ احمد درویشی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1933-01-01"
+place_of_birth: "Margvar, near Urumiyeh, Western Azerbaijan"
+gender: male
 ethnicity: null
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/84652_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "cleric"
+family:
+  marital_status: "married"
+  children: 8
+beliefs: "joined the Kurdistan Democratic Party of Iran in the mid 1960s"
+quotes:
+  - "I am not fearful because of my campaigns and my activities. I am afraid of injustice. I am afraid of being unjustly slandered and arrested."
 
 # --- DEATH ---
 date_of_death: 1993-09-10
@@ -85,9 +94,8 @@ circumstances: >
     the peshmerga (the militia of the PDKI). The PDKI boycotted the referendum
     of April 1, 1979, when people went to polls to vote for or against the
     Islamic regime. On
-event_context: null
-responsible_forces: null
-
+event_context: "February 1979 revolution"
+responsible_forces: "Islamic Revolutionary Court of Urumiyeh"
 # --- VERIFICATION ---
 status: unverified
 sources:

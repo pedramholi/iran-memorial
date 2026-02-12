@@ -2,11 +2,19 @@ id: furman-fabian-marcelo-1994
 name_latin: "Fabian Marcelo Furman"
 name_farsi: "فابین مارسلو فورمن"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Buenos Aires, Argentina"
+gender: male
 ethnicity: null
 religion: "Judaism"
 photo: "https://www.iranrights.org/actorphotos/11829_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "worked at AMIA’s Burial Service, drove a taxi"
+family:
+  notes: "first child, first nephew, first cousin, and first grandchild"
+personality: "role model"
+quotes:
+  - "“Everyday he would cook dishes that are habitually served on special occasions.”"
 
 # --- DEATH ---
 date_of_death: 1994-07-18
@@ -86,9 +94,8 @@ circumstances: >
     governed region bordering Argentina, Brazil, and Paraguay, that has become
     a danger point for terrorism. From the evidence gathered, two Iranian
     diplomats in Bueno
-event_context: null
-responsible_forces: null
-
+event_context: "AMIA bombing"
+responsible_forces: "Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

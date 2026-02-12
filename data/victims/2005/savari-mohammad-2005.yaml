@@ -1,12 +1,15 @@
 id: savari-mohammad-2005
 name_latin: "Mohammad Savari"
 name_farsi: "محمد سواری"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1987-01-01"
+place_of_birth: "Ahvaz"
+gender: male
+ethnicity: "Arab"
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+family:
 
 # --- DEATH ---
 date_of_death: 2005-04-15
@@ -85,9 +88,8 @@ circumstances: >
     million individuals, comprising approximately*** 3% of the country s
     population, reside in Khuzestan, Bushehr, Hormozgan, Fars, and Khorasan
     provinces. The largest number of Arabs
-event_context: null
-responsible_forces: null
-
+event_context: "protests in Khuzestan, April 2005"
+responsible_forces: "security and police forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

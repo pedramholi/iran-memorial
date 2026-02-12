@@ -2,8 +2,8 @@ id: kushki-hossein-kuhestanian-2001
 name_latin: "Hossein Kuhestanian Kushki"
 name_farsi: "حسین کوهستانیان کوشکی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Zahedan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -50,8 +50,7 @@ circumstances: >
     ruling. He was hanged, along with two others, in public in Chenaran. No
     information is available about the date of this execution.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

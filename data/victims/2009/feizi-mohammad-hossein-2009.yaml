@@ -1,12 +1,20 @@
 id: feizi-mohammad-hossein-2009
 name_latin: "Mohammad Hossein Feizi"
 name_farsi: "محمد حسین فیض"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "2009-01-01"
+place_of_birth: "Sorkheh"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/86891_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "physical education instructor"
+education: "high school diploma in accounting"
+family:
+  marital_status: "married"
+  children: 1
+  notes: "father of a two-year-old child"
 
 # --- DEATH ---
 date_of_death: 2009-06-20
@@ -85,9 +93,8 @@ circumstances: >
     three million protestors participated, according to statements attributed
     to the mayor of Tehran. As the demonstrations were ending, paramilitary
     forces attacked the mar
-event_context: null
-responsible_forces: null
-
+event_context: "2009 post-election protests"
+responsible_forces: "Student Basij Organization"
 # --- VERIFICATION ---
 status: unverified
 sources:

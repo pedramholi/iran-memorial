@@ -3,10 +3,15 @@ name_latin: "Mansur Kargar"
 name_farsi: "منصور کارگر"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "farmer"
+family:
+  marital_status: "married"
 
 # --- DEATH ---
 date_of_death: 2015-02-26
@@ -43,8 +48,7 @@ circumstances: >
     the Supreme Court confirmed the ruling. He was hanged in the presence of
     the victim s family in Bandar-e Abbas Prison on February 26, 2015.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Public Prosecutor s Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

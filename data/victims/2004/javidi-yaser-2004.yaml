@@ -1,12 +1,17 @@
 id: javidi-yaser-2004
 name_latin: "Yaser Javidi"
 name_farsi: "یاسر جاویدی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1985-01-01"
+place_of_birth: "Shahr-e Babak"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "worker"
+family:
+  notes: "son of Mahmoud"
 
 # --- DEATH ---
 date_of_death: 2004-01-24
@@ -85,9 +90,8 @@ circumstances: >
     conditions are met:". a) Other measures must have been tried first and
     proven ineffective. b) There must be a final warning to the rioters and
     insurgents before the use of firearms. Note 1: The determ
-event_context: null
-responsible_forces: null
-
+event_context: "protests against mass layoffs and unstable working conditions"
+responsible_forces: "military forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

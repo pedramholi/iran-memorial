@@ -3,10 +3,13 @@ name_latin: "Reza P."
 name_farsi: "رضا پ."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "conscript"
 
 # --- DEATH ---
 date_of_death: 2001-01-01
@@ -38,9 +41,8 @@ circumstances: >
     Judgment The court condemned Mr. Reza P. to death and the Supreme Court
     confirmed the ruling. He was hanged in Ahvaz in July of 2001. The exact
     date of this execution is unknown.
-event_context: null
-responsible_forces: null
-
+event_context: "execution in July 2001"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,18 @@
 id: sohrabi-ashkan-2009
 name_latin: "Ashkan Sohrabi"
 name_farsi: "اشکان سهرابی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1990-01-30"
+place_of_birth: "Tehran"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/87136_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "IT engineering student"
+family:
+  notes: "son of Gholamreza and Ms. Zahra Nik Peyma; second child in a family with two sisters; his mother worked at Tarbiat Modares University in Tehran."
+personality: "described as a polite, intelligent, and highly motivated young man with a cheerful, good-humored personality who was serious about his studies; was his mother s 'closest companion' and always sought to make others happy."
 
 # --- DEATH ---
 date_of_death: 2009-06-20
@@ -85,9 +91,8 @@ circumstances: >
     protesters. Public gatherings of any kind were declared illegal, and
     police, motorcycle-riding special units wearing black uniforms and
     helmets, and plainclothes agents brutally enforced this
-event_context: null
-responsible_forces: null
-
+event_context: "2009 protests"
+responsible_forces: "security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

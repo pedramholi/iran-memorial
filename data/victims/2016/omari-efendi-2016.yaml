@@ -2,8 +2,8 @@ id: omari-efendi-2016
 name_latin: "Efendi Omari"
 name_farsi: "افندی عمری"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Orumieh"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/82977_thumb.jpeg"
@@ -43,9 +43,8 @@ circumstances: >
     the morning of September 29, 2016 (HRANA and Mafnews, September 29, 2016).
     There is no further information available on the details of this
     execution.
-event_context: null
-responsible_forces: null
-
+event_context: "2016 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

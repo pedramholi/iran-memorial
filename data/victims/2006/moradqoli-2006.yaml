@@ -3,7 +3,7 @@ name_latin: "Moradqoli"
 name_farsi: "مرادقلی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -57,9 +57,8 @@ circumstances: >
     Saeed and Amir al-Mo menin streets of the city of Zahedan on December 2,
     2006. The other two defendants were each sentenced to 10 years of
     imprisonment.
-event_context: null
-responsible_forces: null
-
+event_context: "hostage taking of a person and his death on January 3, 2000"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Zaher G."
 name_farsi: "ظاهر گ."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -41,9 +41,8 @@ circumstances: >
     the General Public Prosecutor s Office. The defendant s pardon request was
     denied by the Pardon Commission and he was hanged in Kerman Central Prison
     in February of 2011. The exact date of this execution is unknown.
-event_context: null
-responsible_forces: null
-
+event_context: "execution in February 2011"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

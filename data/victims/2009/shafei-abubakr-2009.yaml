@@ -1,12 +1,23 @@
 id: shafei-abubakr-2009
 name_latin: "Abubakr Shafe'i"
 name_farsi: "ابوبکر شافعی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1957-01-01"
+place_of_birth: "Shiveh, Saghez"
+gender: male
 ethnicity: null
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/81273_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "shopkeeper"
+education: "illiterate"
+family:
+  marital_status: "married"
+  children: 6
+personality: "described as a serious person, who seemed angry and seldom laughed"
+beliefs: "would not tolerate tyranny and injustice"
+quotes:
+  - "He believed that according to Sharia Law, he was justified in killing this person, and that public opinion and Civil Law would also sanction this killing."
 
 # --- DEATH ---
 date_of_death: 2009-08-03
@@ -61,9 +72,8 @@ circumstances: >
     hanged at the Sanandaj Central Prison, on August 3, 2009. His lawyer and
     his family had not been notified. His body was delivered to his family,
     and subsequently buried in Soleyman Beg cemetery in Baneh (ABC interview).
-event_context: null
-responsible_forces: null
-
+event_context: "murder in Baneh, Province of Kordestan on September 27, 2006"
+responsible_forces: "Criminal Court of Kordestan"
 # --- VERIFICATION ---
 status: unverified
 sources:

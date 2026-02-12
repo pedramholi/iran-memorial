@@ -1,12 +1,15 @@
 id: zolfaqari-hassan-2014
 name_latin: "Hassan Zolfaqari"
 name_farsi: "حسن ذوالفقاری"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1996-01-01"
+place_of_birth: "Zabol"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
 
 # --- DEATH ---
 date_of_death: 2014-03-02

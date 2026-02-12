@@ -2,11 +2,17 @@ id: a-kian-2007
 name_latin: "Kian A."
 name_farsi: "کیان الف."
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Tehran"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  children: 0
+  notes: "father of a 37-year-old wife"
 
 # --- DEATH ---
 date_of_death: 2007-10-17

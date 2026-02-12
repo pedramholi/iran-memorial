@@ -3,7 +3,7 @@ name_latin: "S M"
 name_farsi: "س م"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -38,9 +38,8 @@ circumstances: >
     information is available on the defendant's defence. Judgment No specific
     information is available about the defendant’s execution. Mr. S. M. was
     hanged in public at Kuye-Ramezan in Ahvaz on March 10, 2010.
-event_context: null
-responsible_forces: null
-
+event_context: "2010 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

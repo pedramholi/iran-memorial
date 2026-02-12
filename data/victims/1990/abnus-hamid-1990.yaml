@@ -1,9 +1,9 @@
 id: abnus-hamid-1990
 name_latin: "Hamid Abnus"
 name_farsi: "حمید آبنوس"
-date_of_birth: null
+date_of_birth: "1968-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -52,8 +52,7 @@ circumstances: >
     he received 74 lashes and was beheaded in public and in the presence of
     judiciary officials in a street of Qom.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Government of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

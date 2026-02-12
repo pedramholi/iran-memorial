@@ -3,7 +3,7 @@ name_latin: "Rasul Mirsafa"
 name_farsi: "رسول میرصفا"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -41,9 +41,8 @@ circumstances: >
     No specific information is available about the defendant's execution. Mr.
     Rasul Mirsafa was hanged at the Central Prison (Dastgerd) in Esfahan on
     September 21, 2010.
-event_context: null
-responsible_forces: null
-
+event_context: "2010 execution"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

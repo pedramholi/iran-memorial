@@ -2,8 +2,8 @@ id: rashidpur-eslam-2018
 name_latin: "Eslam Rashidpur"
 name_farsi: "اسلام رشیدپور"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Orumieh"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -42,9 +42,8 @@ circumstances: >
     s defense. Judgment Mr. Eslam Rashidpur was sentenced to death by hanging.
     He and three other people were executed in the Central Prison of Orumieh
     on Monday April 23, 2018.
-event_context: null
-responsible_forces: null
-
+event_context: "2013 murder case"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

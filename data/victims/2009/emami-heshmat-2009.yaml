@@ -1,12 +1,20 @@
 id: emami-heshmat-2009
 name_latin: "Heshmat Emami"
 name_farsi: "حشمت امامی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1979-01-01"
+place_of_birth: "Hajiabad, Kazerun, Fars Province"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "laborer"
+education: "high school sophomore"
+family:
+  notes: "born to a poor family"
+quotes:
+  - "I did not commit the crime but confessed under severe torture."
 
 # --- DEATH ---
 date_of_death: 2009-01-20
@@ -85,9 +93,8 @@ circumstances: >
     circumstances is devoid of legal value. 4) According to oral statements
     made by Mr. Emami and another defendant in court, which was also available
     in the case records in writing, Mr. Emami s friend (the
-event_context: null
-responsible_forces: null
-
+event_context: "murder case on May 22, 2003"
+responsible_forces: "Kazerun police"
 # --- VERIFICATION ---
 status: unverified
 sources:

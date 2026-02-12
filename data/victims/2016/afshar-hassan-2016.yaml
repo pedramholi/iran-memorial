@@ -1,12 +1,19 @@
 id: afshar-hassan-2016
 name_latin: "Hassan Afshar"
 name_farsi: "حسن افشار"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1999-01-01"
+place_of_birth: "Arak, Markazi province"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "high school student"
+family:
+  notes: "son of Asadollah"
+quotes:
+  - "\"the sexual relationship had been consensual and that the plaintiff had participated willingly.\""
 
 # --- DEATH ---
 date_of_death: 2016-07-18
@@ -85,9 +92,8 @@ circumstances: >
     non-consensual, he will be spared the death penalty and his sexual partner
     will be hanged. Similarly, the person characterized as the rapist, can
     claim that the relation was consensual so that the receptive person c
-event_context: null
-responsible_forces: null
-
+event_context: "2014"
+responsible_forces: "judicial authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

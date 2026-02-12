@@ -1,12 +1,24 @@
 id: bahmani-mohammad-zaher-2012
 name_latin: "Mohammad Zaher Bahmani"
 name_farsi: "محمدظاهر بهمنی"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1989-01-01"
+place_of_birth: "Sanandaj"
+gender: male
+ethnicity: "Kurd"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/73004_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "seminary student"
+education: "high school graduate"
+family:
+  marital_status: "single"
+  children: 0
+  notes: "lost his father during childhood"
+personality: "steady, generous, and self-contained"
+beliefs: "religious activist"
+quotes:
+  - "\"Wishing to fulfill his mother s desires, he was compassionate and confidential toward people close to him and faced difficulties with patience in such a way that others were impressed.\""
 
 # --- DEATH ---
 date_of_death: 2012-12-27
@@ -86,9 +98,8 @@ circumstances: >
     (A letter sent by four cellmates of Mr. Bahmani to the international
     community and the website of Sunni Prisoners) According to several
     defendants,
-event_context: null
-responsible_forces: null
-
+event_context: "2009 arrest and detention"
+responsible_forces: "Information Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

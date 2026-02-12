@@ -2,11 +2,15 @@ id: golestaneh-ahmad-ali-2003
 name_latin: "Ahmad Ali Golestaneh"
 name_farsi: "احمدعلی گلستانه"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Zabol, Sistan Va Baluchestan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "son of Gholam Reza"
 
 # --- DEATH ---
 date_of_death: 2003-01-09
@@ -49,9 +53,8 @@ circumstances: >
     in the presence of forensics representatives, police and court officials
     at Evin Prison in Tehran on January 9, 2003. No specific information is
     available about this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on January 9, 2003"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

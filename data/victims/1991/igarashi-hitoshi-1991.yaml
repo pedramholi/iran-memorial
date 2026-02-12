@@ -3,10 +3,16 @@ name_latin: "Hitoshi Igarashi"
 name_farsi: "هیتوشی ایگاراشی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: "https://www.iranrights.org/actorphotos/24015_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "Islamic scholar"
+beliefs: "translator of The Canon of Medicine by Avicenna and the controversial novel, Satanic Verses"
+quotes:
+  - "Igarashi also defended the novel and novelist by locating the writer in the lineage of the Islamic mystical Sufi thought. According to Igarashi, Rushdie was not anti-Islamic, but his passage to England, just like Passage to India by E. M. Foster, represented a literature of exile and could be judiciously compared to the Hejra by Muhammad, to begin with, or to the 'Western Exile' in Kairouan by Suhrawardi. By interpreting the Verses as a modern version of Rumi's 'Song of a Reed,' lamenting the separation from (the) God/Creator, Igarashi identified Rushdie among the mystical and heretic poets of Islamic rage against religious profanation. Igarashi, as a Japanese man, wished to make an intervention as a third party through his Japanese translation, so as to put an end to this endless conflict."
 
 # --- DEATH ---
 date_of_death: 1991-07-12
@@ -86,8 +92,7 @@ circumstances: >
     beliefs of Muslims henceforth. And whoever is killed in this cause will be
     a martyr, God Willing..." (Ruhollah al-Musavi al-Khomeini). On Ma
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

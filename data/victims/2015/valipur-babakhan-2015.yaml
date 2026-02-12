@@ -3,7 +3,7 @@ name_latin: "Babakhan Valipur"
 name_farsi: "باباخان ولی‌پور"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -60,9 +60,8 @@ circumstances: >
     and adjustment of the act with the law or other similar errors, which do
     not harm the foundation of the sentence, the Appeal Authority will review
     it as an appeal and will correct it while confirming it.
-event_context: null
-responsible_forces: null
-
+event_context: "2015 execution"
+responsible_forces: "Lorestan Courthouse"
 # --- VERIFICATION ---
 status: unverified
 sources:

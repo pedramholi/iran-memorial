@@ -3,7 +3,7 @@ name_latin: "Hossein Rabehi"
 name_farsi: "حسین رابحی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/39720_thumb.jpeg"
@@ -44,9 +44,8 @@ circumstances: >
     information is available on Mr. Rabehi s defense. Judgment The court
     condemned Mr. Hossein Rabehi to death and he was hanged in Shiraz on March
     1, 1989.
-event_context: null
-responsible_forces: null
-
+event_context: "1989 law on drug trafficking"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

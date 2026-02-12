@@ -1,12 +1,16 @@
 id: puramini-mohammad-2004
 name_latin: "Mohammad Puramini"
 name_farsi: "محمد پورامینی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1986-01-01"
+place_of_birth: "Shahr-e Babak, Kerman Province"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "Student"
+family:
 
 # --- DEATH ---
 date_of_death: 2004-01-24
@@ -85,9 +89,8 @@ circumstances: >
     proven ineffective. b) There must be a final warning to the rioters and
     insurgents before the use of firearms. Note 1: The determination of riots
     under Article 4 is the respon
-event_context: null
-responsible_forces: null
-
+event_context: "protests against mass layoffs and unstable working conditions"
+responsible_forces: "military forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,10 +3,15 @@ name_latin: "Ahmad Nejati Kargar"
 name_farsi: "احمد نجاتی کارگر"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/61497_thumb.jpeg"
+
+# --- LIFE ---
+family:
+quotes:
+  - "Why should the Iranian television network broadcast such a report and upset his mourning father? He goes to the Behesht-e Zahra cemetery every day, [and] sits by the grave just to make sure that his son s body is not exhumed and taken away."
 
 # --- DEATH ---
 date_of_death: 2009-08-06
@@ -85,7 +90,7 @@ circumstances: >
     Musavi s campaigns were arrested. On June 15th, unprecedented
     demonstrations filled the streets of central Tehran, in which an estimated
     three million protestors participated, acc
-event_context: null
+event_context: "2009 presidential election protests"
 responsible_forces: null
 
 # --- VERIFICATION ---

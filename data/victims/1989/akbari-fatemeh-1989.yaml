@@ -3,7 +3,7 @@ name_latin: "Fatemeh Akbari"
 name_farsi: "فاطمه اکبری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -54,9 +54,8 @@ circumstances: >
     information regarding the evidence provided against the defendant. Defense
     No information is available on Ms. Akbari’s defense. Judgment Based on the
     court’s ruling, Ms. Fatemeh Akbari was hanged in Tehran.
-event_context: null
-responsible_forces: null
-
+event_context: "1989"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

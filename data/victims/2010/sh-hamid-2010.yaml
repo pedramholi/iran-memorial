@@ -1,9 +1,9 @@
 id: sh-hamid-2010
 name_latin: "Hamid Sh."
 name_farsi: "حمید ش."
-date_of_birth: null
+date_of_birth: "1970-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -44,8 +44,7 @@ circumstances: >
     he was hanged in the Esfahan Central prison yard on January 9, 2010. Mr.
     Hamid Sh. was 39 years old.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

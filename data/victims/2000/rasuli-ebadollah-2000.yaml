@@ -3,7 +3,7 @@ name_latin: "Ebadollah Rasuli"
 name_farsi: "عبادالله رسولی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -40,8 +40,7 @@ circumstances: >
     Head of Judiciary, the ruling was carried out when he was hanged at the
     Ilam Central Prison in 2000.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,10 +3,14 @@ name_latin: "Najm Navaser"
 name_farsi: "نجم نواصر"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "People's cooperation and awareness of the agents of the Intelligence Office of the Khuzestan Province resulted in the defendant's arrest."
 
 # --- DEATH ---
 date_of_death: 1989-01-31
@@ -51,9 +55,8 @@ circumstances: >
     Mr. Navaser's defenSe. Judgment The court condemned Mr. Najm Navaser to
     death, and after the ruling was confirmed by the Supreme Judiciary
     Council, he was executed in Ahvaz on January 31, 1989.
-event_context: null
-responsible_forces: null
-
+event_context: "1989 execution"
+responsible_forces: "Islamic Revolutionary Public Prosecution Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

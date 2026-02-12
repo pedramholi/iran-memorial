@@ -3,10 +3,13 @@ name_latin: "Sa'id Heidari"
 name_farsi: "سعید حیدری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/73253_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "marketing agent"
 
 # --- DEATH ---
 date_of_death: 2000-04-10

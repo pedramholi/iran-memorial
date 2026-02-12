@@ -2,8 +2,8 @@ id: zare-yahya-2010
 name_latin: "Yahya Zar'e"
 name_farsi: "یحیی زارع"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Orumieh"
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -42,8 +42,7 @@ circumstances: >
     Yahya Zar’e was hanged at the central prison in Orumieh on September 28,
     2010.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

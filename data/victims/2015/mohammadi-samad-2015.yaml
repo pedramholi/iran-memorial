@@ -2,9 +2,9 @@ id: mohammadi-samad-2015
 name_latin: "Samad Mohammadi"
 name_farsi: "صمد محمدی"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Naqadeh"
+gender: male
+ethnicity: "Kurd"
 religion: "Presumed Muslim"
 photo: null
 
@@ -39,8 +39,7 @@ circumstances: >
     at the Orumieh Central Prison on March 11, 2015 at dawn. No specific
     information is available about this execution.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

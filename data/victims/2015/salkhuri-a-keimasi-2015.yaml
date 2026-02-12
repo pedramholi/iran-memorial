@@ -2,8 +2,8 @@ id: salkhuri-a-keimasi-2015
 name_latin: "A. Keimasi Salkhuri"
 name_farsi: "ع. کیماسی سلخوری"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Qazvin"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -39,9 +39,8 @@ circumstances: >
     condemned Mr. A. Keimasi Salkhuri to death and the Supreme Court confirmed
     the ruling. The ruling was carried out on January 6, 2015 when he was
     hanged at the Qazvin Central Prison yard.
-event_context: null
-responsible_forces: null
-
+event_context: "collective fight resulting in murder"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

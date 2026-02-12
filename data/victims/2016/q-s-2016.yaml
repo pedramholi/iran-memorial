@@ -3,7 +3,7 @@ name_latin: "S. Q."
 name_farsi: "س. ق."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -46,9 +46,8 @@ circumstances: >
     verdict was validated by the Chief Public Prosecutor, as well as the head
     of the Judiciary. Mr. S. Q. was hanged, along with three other
     individuals, in Rasht Central Prison on January 16, 2016.
-event_context: null
-responsible_forces: null
-
+event_context: "2016 execution"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

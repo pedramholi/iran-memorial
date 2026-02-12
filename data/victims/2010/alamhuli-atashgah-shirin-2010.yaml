@@ -1,12 +1,24 @@
 id: alamhuli-atashgah-shirin-2010
 name_latin: "Shirin Alamhuli-Atashgah"
 name_farsi: "شیرین علم هولی آتشگاه"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1981-06-03"
+place_of_birth: "Gheslagh, near the city of Maku"
+gender: female
+ethnicity: "Kurdish"
 religion: "Unknown"
 photo: "https://www.iranrights.org/actorphotos/64499_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "carpet weaver"
+education: "fifth grade of primary school"
+family:
+  notes: "daughter of Khadar"
+quotes:
+  - "this will pass too."
+  - "The tortures to which you have subjected me have become my nightmares. I spent every day in pain from the torture. Blows to my head during interrogation have given my severe head trauma. There are days when I am struck with the most agonizing headaches. My nose starts to bleed, and I lose awareness of my surroundings. It takes several hours before I gradually regain consciousness. Another 'gift' of their torture was the damage to my eyesight, which is worsening every day. My request for eyeglasses has remained unanswered."
+  - "When they realized my resolve to continue with the hunger strike, they attempted to forcibly feed me by shoving serums and tubes into my stomach through my nose. I would resist by pulling out the tubes, which resulted in bleeding and tremendous pain. After some two years, the scars remain and bother me."
+  - "One day during interrogations, they kicked me so hard in the stomach that I immediately started to bleed. One day one of the interrogators approached me, asking irrelevant questions. He was the only interrogator I saw, as at other times I was in blindfolds. When I failed to respond, he slapped me, drew a gun from his belt and put it to my head. He said: 'Answer my questions. I know you are a member of PJAK and a terrorist. Look girl! It makes no difference whether or not you talk. We are happy to have taken a PJAK member captive."
+  - "They would make me stand on my injured feet until they would become totally swollen. Then they would bring me some ice."
 
 # --- DEATH ---
 date_of_death: 2010-05-09
@@ -86,8 +98,7 @@ circumstances: >
     member captive." "They would make me stand on my injured feet until they
     would become totally swollen. Then they would bring me some ice. Ev
 event_context: null
-responsible_forces: null
-
+responsible_forces: "IRGC"
 # --- VERIFICATION ---
 status: unverified
 sources:

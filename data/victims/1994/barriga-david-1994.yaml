@@ -2,11 +2,16 @@ id: barriga-david-1994
 name_latin: "David Barriga"
 name_farsi: "داوید باریگا"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Bolivia"
+gender: male
 ethnicity: null
 religion: "Judaism"
 photo: null
+
+# --- LIFE ---
+occupation: "musician"
+family:
+  notes: "brother was the foreman in charge of the renovation work being done on the AMIA building"
 
 # --- DEATH ---
 date_of_death: 1994-07-18
@@ -86,9 +91,8 @@ circumstances: >
     diplomats in Buenos Aires actively assisted Hezbollah. Mohsen Rabbani, who
     was in charge of the operation, was Iran’s newly appointed cultural
     attaché
-event_context: null
-responsible_forces: null
-
+event_context: "AMIA bombing"
+responsible_forces: "Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

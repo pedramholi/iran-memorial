@@ -2,11 +2,14 @@ id: ch-v-2009
 name_latin: "V. Ch."
 name_farsi: "و. چ."
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Shiraz"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
 
 # --- DEATH ---
 date_of_death: 2009-03-04
@@ -74,9 +77,8 @@ circumstances: >
     reassessment. Branch Five tried him again and for a second time ruled for
     his execution. This time Branch 42 approved the verdict. Mr. V. Ch. was
     hanged in Adelabad Prison in Shiraz on the morning of March 4, 2009.
-event_context: null
-responsible_forces: null
-
+event_context: "murder during a group fight"
+responsible_forces: "Police Station 25"
 # --- VERIFICATION ---
 status: unverified
 sources:

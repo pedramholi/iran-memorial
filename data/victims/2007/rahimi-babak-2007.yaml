@@ -3,10 +3,14 @@ name_latin: "Babak Rahimi"
 name_farsi: "بابک رحیمی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "the victim intended to rape him and that he had defended himself"
 
 # --- DEATH ---
 date_of_death: 2007-10-17
@@ -35,9 +39,8 @@ circumstances: >
     his defense. Judgment The Criminal Court of Tehran condemned Mr. Babak R.
     to death. Branch 43 of the Supreme Court confirmed the ruling. He was
     hanged, along with eight others, in Evin Prison on October 17, 2007.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on October 17, 2007"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

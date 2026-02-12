@@ -1,12 +1,17 @@
 id: sharifian-ardeshir-2013
 name_latin: "Ardeshir Sharifian"
 name_farsi: "اردشیر شریفیان"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1956-01-01"
+place_of_birth: "Tehran"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/85265_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "Pharmacologist"
+education: "high school diploma"
+beliefs: "member of Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 2013-09-01
@@ -87,8 +92,7 @@ circumstances: >
     International Security Assistance Force (ISAF) attack on Iraq and the
     disarming of the Mojahedin members, the re
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

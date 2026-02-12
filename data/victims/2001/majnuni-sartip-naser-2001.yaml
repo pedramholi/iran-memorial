@@ -3,7 +3,7 @@ name_latin: "Sartip (Naser) Majnuni"
 name_farsi: "سرتیپ (ناصر) مجنونی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -29,7 +29,7 @@ circumstances: >
     condemned Mr. Sartip Majnuni to death and the Supreme Court confirmed the
     ruling. He was hanged at the Maragheh Prison yard in November of 2001. The
     exact date of this execution is unknown.
-event_context: null
+event_context: "execution in November 2001"
 responsible_forces: null
 
 # --- VERIFICATION ---

@@ -3,7 +3,7 @@ name_latin: "Mehdi Hashemi"
 name_farsi: "مهدی هاشمی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -48,8 +48,7 @@ circumstances: >
     Mehdi Hashemi to death. He was hanged in the Bandar-e Abbas Prison yard on
     August 26, 2014 in the morning.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

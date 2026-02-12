@@ -3,10 +3,14 @@ name_latin: "Khosro Qolizadeh"
 name_farsi: "خسرو قلی زاده"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "murder"
 
 # --- DEATH ---
 date_of_death: 1989-01-01
@@ -41,8 +45,7 @@ circumstances: >
     Shahid Kochu’i prison in Karaj. In the newspaper’s report, the date of the
     execution is not mentioned.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

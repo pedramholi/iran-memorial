@@ -1,12 +1,17 @@
 id: chaldavi-ali-2007
 name_latin: "Ali Chaldavi"
 name_farsi: "علی چلداوی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1984-01-01"
+place_of_birth: "Ahvaz"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "grocery store worker"
+family:
+  marital_status: "single"
 
 # --- DEATH ---
 date_of_death: 2007-12-11
@@ -85,9 +90,8 @@ circumstances: >
     Internet access is cut off, and other means of communication, such as
     telephones, are tapped and strictly controlled by the security apparatus.
     Certain cases of death in suspicious cir
-event_context: null
-responsible_forces: null
-
+event_context: "Khuzestan Protests"
+responsible_forces: "security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

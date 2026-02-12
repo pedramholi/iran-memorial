@@ -1,12 +1,22 @@
 id: m-mohammad-reza-2007
 name_latin: "Mohammad Reza M."
 name_farsi: "محمدرضا م."
-date_of_birth: null
+date_of_birth: "1957-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/75000_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  marital_status: "single"
+quotes:
+  - "I had tried several ways including sending intermediators to get my money back but did not succeed."
+  - "That money was all I had."
+  - "I was tired wanted to get my money."
+  - "I had asked him several times and sent many intermediators but he never paid attention."
+  - "I was frustrated and angry."
 
 # --- DEATH ---
 date_of_death: 2007-03-07
@@ -83,9 +93,8 @@ circumstances: >
     M. had no criminal background. Judgment The court condemned Mr. Mohammad
     Reza M. to death and the ruling was confirmed by Branch 26 of the Supreme
     Court. He was hanged in the Evin prison yard on March 7, 2007.
-event_context: null
-responsible_forces: null
-
+event_context: "murder of a 49-year-old man in a Photo Studio, in the Falake Dovom in Fardis"
+responsible_forces: "Fardis Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

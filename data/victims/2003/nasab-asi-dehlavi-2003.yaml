@@ -3,7 +3,7 @@ name_latin: "Asi Dehlavi Nasab"
 name_farsi: "عاصی دهلاوی‌نسب"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -37,9 +37,8 @@ circumstances: >
     Nasab s defense. Judgment The court condemned Mr. Asi Dehlavi Nasab to
     death and the Supreme Court confirmed the ruling. He was hanged in public
     in Ahvaz on January 8, 2003.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on January 8, 2003"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

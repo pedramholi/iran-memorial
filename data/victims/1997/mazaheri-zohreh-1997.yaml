@@ -3,10 +3,15 @@ name_latin: "Zohreh Mazaheri"
 name_farsi: "زهره مظاهری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "sister of Sa id Mazaheri, who was executed in July 1988"
+beliefs: "supporter of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1997-01-10
@@ -85,9 +90,8 @@ circumstances: >
     were executed during the mass killings of the summer of 1988. (2) Many of
     these were considered Mojahedin Khalq Organization leaders . According to
     available information and comments made
-event_context: null
-responsible_forces: null
-
+event_context: "mass killings of the summer of 1988"
+responsible_forces: "Islamic Republic Ministry of Information"
 # --- VERIFICATION ---
 status: unverified
 sources:

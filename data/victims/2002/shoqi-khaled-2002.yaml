@@ -1,12 +1,22 @@
 id: shoqi-khaled-2002
 name_latin: "Khaled Shoqi"
 name_farsi: "خالد شوقی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1953-01-01"
+place_of_birth: "Varmazyar-Barandiz Village near Orumieh"
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: "https://www.iranrights.org/actorphotos/73935_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "military commander"
+education: "military school for six years"
+family:
+beliefs: "member of the Democratic Party of Iranian Kurdistan"
+quotes:
+  - "Long live Qasemlu! Long live Democrat!"
+  - "Long live Kurdistan!"
+  - "Down with Khamenei!"
 
 # --- DEATH ---
 date_of_death: 2002-10-08
@@ -71,9 +81,8 @@ circumstances: >
     countries requested by the security forces of the Islamic Republic of
     Iran. There have been reports of arrest and transfer of Iranian refugees
     in Turkey, Syria, and Iraq.
-event_context: null
-responsible_forces: null
-
+event_context: "1980 military clash between the Democratic Party of Iranian Kurdistan and the Qazvin Armored Division"
+responsible_forces: "Intelligence Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

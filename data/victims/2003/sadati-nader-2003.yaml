@@ -2,11 +2,15 @@ id: sadati-nader-2003
 name_latin: "Nader Sadati"
 name_farsi: "نادر ساداتی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Kuhdasht, Lorestan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "son of Mohammad"
 
 # --- DEATH ---
 date_of_death: 2003-01-09
@@ -61,9 +65,8 @@ circumstances: >
     representatives, police and court officials at Evin Prison in Tehran on
     January 9, 2003. No specific information is available about this
     execution.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on January 9, 2003"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

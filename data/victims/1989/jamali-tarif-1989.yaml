@@ -3,10 +3,14 @@ name_latin: "Tarif Jamali"
 name_farsi: "طریف جمالی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "having several criminal convictions for dealing narcotics; he was convicted to 12 years imprisonment and previously released by pardon."
 
 # --- DEATH ---
 date_of_death: 1989-03-10
@@ -50,9 +54,8 @@ circumstances: >
     imprisonment and previously released by pardon.” Defense No information is
     available on Mr. Jamali’s defense. Judgment Based on the court’s ruling,
     Mr. Tarif Jamali was hanged in Rasht.
-event_context: null
-responsible_forces: null
-
+event_context: "1989 law imposing mandatory death sentences on drug traffickers"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

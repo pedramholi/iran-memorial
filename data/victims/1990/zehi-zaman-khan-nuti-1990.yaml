@@ -3,10 +3,14 @@ name_latin: "Zaman Khan Nuti Zehi"
 name_farsi: "زمان خان نوتی زهی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "That trials before Islamic revolutionary courts have usually taken place in secret, sometimes inside prisons; that defendants have not usually enjoyed the right to be represented by a lawyer, and often have not even been made aware that the proceedings were in fact a trial and not an interrogation session."
 
 # --- DEATH ---
 date_of_death: 1990-09-18
@@ -46,8 +50,7 @@ circumstances: >
     Zehi's defense. Judgment No further information is available on the
     verdict and the execution .
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

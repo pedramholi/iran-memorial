@@ -1,12 +1,15 @@
 id: qaderi-hossein-2018
 name_latin: "Hossein Qaderi"
 name_farsi: "حسین قادری"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1988-01-01"
+place_of_birth: "Sanandaj"
+gender: male
+ethnicity: "Kurd"
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
 
 # --- DEATH ---
 date_of_death: 2018-01-15
@@ -85,7 +88,7 @@ circumstances: >
     (Parliament), quoting the Head of Iran s Prisons Organization, stated that
     4,972 people had been arrested in the course of the nationwide protests.
     At least 15 of the arrestees died in detention under suspici
-event_context: null
+event_context: "nationwide protests"
 responsible_forces: null
 
 # --- VERIFICATION ---

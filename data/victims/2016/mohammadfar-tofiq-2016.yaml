@@ -2,8 +2,8 @@ id: mohammadfar-tofiq-2016
 name_latin: "Tofiq Mohammadfar"
 name_farsi: "توفیق محمدفر"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Sardasht"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -44,9 +44,8 @@ circumstances: >
     defense. Judg m ent Mr. Tofiq Mohammadfar was sentenced to death. He was
     hanged, along with three other individuals, in the courtyard of Tabriz
     Central Prison on Wednesday, January 6, 2006.
-event_context: null
-responsible_forces: null
-
+event_context: "2006 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

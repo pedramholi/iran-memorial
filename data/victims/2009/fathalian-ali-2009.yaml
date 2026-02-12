@@ -1,12 +1,23 @@
 id: fathalian-ali-2009
 name_latin: "Ali Fath'alian"
 name_farsi: "علی فتحعلیان"
-date_of_birth: null
+date_of_birth: "1989-07-05"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/86403_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "civil engineering student"
+education: "sophomore"
+family:
+  notes: "only son in the family"
+personality: "calm, religious, and peaceful family"
+quotes:
+  - "not a political person"
+  - "curiosity"
+  - "eldest child of the house, the only son, and the future supporter"
 
 # --- DEATH ---
 date_of_death: 2009-06-20
@@ -85,9 +96,8 @@ circumstances: >
     Individuals in civilian clothing, commonly referred to as plainclothes
     forces, are used in the Islamic Republic to disrupt political and trade
     union activities, student events and gatherings, electoral
-event_context: null
-responsible_forces: null
-
+event_context: "2009 Election"
+responsible_forces: "IRGC"
 # --- VERIFICATION ---
 status: unverified
 sources:

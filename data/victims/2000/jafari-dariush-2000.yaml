@@ -3,7 +3,7 @@ name_latin: "Dariush Ja'fari"
 name_farsi: "داریوش جعفری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -45,9 +45,8 @@ circumstances: >
     death. The General Public Prosecutor confirmed the ruling and he was
     hanged, along with three others, at the Training Center of Parsilun Prison
     in Khoramabad in 2000.
-event_context: null
-responsible_forces: null
-
+event_context: "2000 execution"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

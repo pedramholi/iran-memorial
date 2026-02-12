@@ -3,7 +3,7 @@ name_latin: "Mahmud Gozali Reyhani"
 name_farsi: "محمود گوزلی ریحانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -66,9 +66,8 @@ circumstances: >
     Branch 32 of the Supreme Court confirmed the ruling. He was hanged, along
     with two others, in public in front of the government building in Ahar on
     January 1, 2003.
-event_context: null
-responsible_forces: null
-
+event_context: "1999 armed attack at the Basij Base in the Noghduz Village near Ahar"
+responsible_forces: "Intelligence Office of Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

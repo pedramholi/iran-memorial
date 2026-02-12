@@ -1,12 +1,19 @@
 id: sayad-sheikh-ahmad-1996
 name_latin: "Sheikh Ahmad Sayad"
 name_farsi: "شیخ احمد سیاد"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1946-01-01"
+place_of_birth: "Ganjak, Sistan and Baluchestan Province"
+gender: male
+ethnicity: "Baluch"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/83955_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "religious institutional leader"
+education: "master's and doctoral degrees in Hadith sciences"
+family:
+  notes: "born into a family of modest means; father moved to Doha, Qatar to improve the family's financial situation"
+personality: "dignified man with a humble appearance who devoted his life to religious studies and to others"
 
 # --- DEATH ---
 date_of_death: 1996-02-01

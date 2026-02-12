@@ -1,9 +1,9 @@
 id: gholami-shirzad-2002
 name_latin: "Shirzad Gholami"
 name_farsi: "شیرزاد غلامی"
-date_of_birth: null
+date_of_birth: "1962-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -39,8 +39,7 @@ circumstances: >
     Gholami to death and the Supreme Court confirmed the ruling. He was hanged
     in public at Kamalshahr in Karaj on May 21, 2002.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Security Forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

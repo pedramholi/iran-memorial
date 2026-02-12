@@ -2,11 +2,15 @@ id: kafashi-yusef-2006
 name_latin: "Yusef Kafashi"
 name_farsi: "یوسف کفاشی"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Maku"
+gender: male
+ethnicity: "Azerbaijani"
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "son of Esmail"
 
 # --- DEATH ---
 date_of_death: 2006-02-15
@@ -85,9 +89,8 @@ circumstances: >
     illegal armed demonstrations, riots and armed rebellions. Such forces are
     required to act immediately upon orders of the commander to restore order,
     disarm an
-event_context: null
-responsible_forces: null
-
+event_context: "February 2006 protests"
+responsible_forces: "security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -2,11 +2,18 @@ id: sofla-said-yaqubi-kord-2023
 name_latin: "Sa’id Ya'qubi Kord Sofla"
 name_farsi: "سعید یعقوبی کردسفلی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Isfahan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/86486_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "worked at a real estate agency"
+family:
+  marital_status: "unmarried"
+  children: 0
+  notes: "cared for his 81-year-old mother and 84-year-old father"
 
 # --- DEATH ---
 date_of_death: 2023-05-18
@@ -85,7 +92,7 @@ circumstances: >
     heads and chests, shot them at close range, and in the back. Security
     forces have targeted faces with pellets, causing hundreds of protesters to
     lose their eyesight, and according to some reports women s
-event_context: null
+event_context: "November 16, 2022 protests"
 responsible_forces: null
 
 # --- VERIFICATION ---

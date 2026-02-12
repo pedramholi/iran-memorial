@@ -3,7 +3,7 @@ name_latin: "Ali"
 name_farsi: "علی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -40,9 +40,8 @@ circumstances: >
     death. He was hanged, along with two other individuals, in Orumieh Central
     Prison on March 11, 2015. There is no further information available on
     this verdict.
-event_context: null
-responsible_forces: null
-
+event_context: "2015 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

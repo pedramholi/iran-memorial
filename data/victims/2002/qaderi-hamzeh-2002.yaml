@@ -2,11 +2,21 @@ id: qaderi-hamzeh-2002
 name_latin: "Hamzeh Qaderi"
 name_farsi: "همزه (حمزه) قادری"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Sardasht"
+gender: male
 ethnicity: null
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/73193_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "employee in the Sardasht Health Office"
+education: "high school graduate"
+family:
+  marital_status: "married"
+  children: 1
+  notes: "father of a daughter only five months old when he was arrested"
+personality: "sociable and democratic"
+beliefs: "member of the Kurdish Democratic Party of Iran"
 
 # --- DEATH ---
 date_of_death: 2002-10-07
@@ -86,8 +96,7 @@ circumstances: >
     the family on the condition of having no burial ceremony and only two
     family members could attend the burial. Mr. Qad
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Intelligence Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

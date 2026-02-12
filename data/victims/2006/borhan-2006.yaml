@@ -2,11 +2,15 @@ id: borhan-2006
 name_latin: "Borhan"
 name_farsi: "برهان"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Shater village, Maku, Azerbaijan-e Gharbi Province"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "son of Hassan"
 
 # --- DEATH ---
 date_of_death: 2006-02-15
@@ -85,9 +89,8 @@ circumstances: >
     are authorized to use firearms to restore order and security during
     illegal armed demonstrations, riots and armed rebellions. Such forces are
     required to act immediately upon orders of the
-event_context: null
-responsible_forces: null
-
+event_context: "February 15, 2006 protests"
+responsible_forces: "security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

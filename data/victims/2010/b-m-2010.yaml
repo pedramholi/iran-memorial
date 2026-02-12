@@ -3,10 +3,14 @@ name_latin: "M. B."
 name_farsi: "م ب"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "His father, Abdolraman, stated that he had gone to Iran for work two years earlier."
 
 # --- DEATH ---
 date_of_death: 2010-05-26
@@ -54,8 +58,7 @@ circumstances: >
     Ariana website, the bodies of this defendant and the three other Afghans
     were given to Afghan officials at the border.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Court of Yazd"
 # --- VERIFICATION ---
 status: unverified
 sources:

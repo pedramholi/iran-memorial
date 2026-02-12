@@ -2,11 +2,20 @@ id: rahimi-bahman-2016
 name_latin: "Bahman Rahimi"
 name_farsi: "بهمن رحیمی"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Sanandaj"
+gender: male
+ethnicity: "Kurd"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/76078_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "CNG store owner"
+family:
+  marital_status: "married"
+  children: 1
+personality: "kind, quiet, and sensitive man"
+quotes:
+  - "Mr. Rahimi was a religious man, a follower of the Shafe i branch of Islam and was not affiliated with any particular group or organization."
 
 # --- DEATH ---
 date_of_death: 2016-08-02
@@ -86,9 +95,8 @@ circumstances: >
     Rights Watch, Human Rights Defenders, and the Abdorrahman Borumand
     Foundation (December 31, 2014) issued several declarations and calls to
     act
-event_context: null
-responsible_forces: null
-
+event_context: "execution of 25 individuals on August 2, 2016"
+responsible_forces: "IRGC"
 # --- VERIFICATION ---
 status: unverified
 sources:

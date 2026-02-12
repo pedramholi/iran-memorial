@@ -1,12 +1,19 @@
 id: asadi-arsalan-2010
 name_latin: "Arsalan Asadi"
 name_farsi: "ارسلان اسدی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1973-01-01"
+place_of_birth: "Eslam Abad-e Gharb"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "high school graduate"
+education: "high school graduate"
+family:
+  marital_status: "married"
+  children: 2
 
 # --- DEATH ---
 date_of_death: 2010-05-08
@@ -50,9 +57,8 @@ circumstances: >
     death and he was hanged at the Qezelhesar Prison in Karaj on May 8, 2010
     (newspaper reports). No specific information is available about this
     execution.
-event_context: null
-responsible_forces: null
-
+event_context: "2010 execution"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

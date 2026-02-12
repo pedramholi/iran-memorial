@@ -3,7 +3,7 @@ name_latin: "Reza Bigham"
 name_farsi: "رضا بی‌غم"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -43,8 +43,7 @@ circumstances: >
     years on Thursday January 29, 2015 when he was hanged at the Bam Prison
     yard.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Mojtaba F."
 name_farsi: "مجتبی ف."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -43,9 +43,8 @@ circumstances: >
     sentence was approved by the Chief Public Prosecutor and the head of
     judiciary permitted the implementation. Mr. Mojtaba F. was hanged in the
     Central Prison of Hamedan in the morning of Sunday February 02, 2014.
-event_context: null
-responsible_forces: null
-
+event_context: "2014 execution"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

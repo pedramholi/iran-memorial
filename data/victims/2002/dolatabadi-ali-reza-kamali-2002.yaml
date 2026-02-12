@@ -3,7 +3,7 @@ name_latin: "Ali Reza Kamali Dolatabadi"
 name_farsi: "علیرضا کمالی دولت‌آبادی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -31,8 +31,7 @@ circumstances: >
     it. The ruling was carried out at the Qasr Prison yard when he was hanged
     on April 17, 2002.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Criminal Court of Tehran"
 # --- VERIFICATION ---
 status: unverified
 sources:

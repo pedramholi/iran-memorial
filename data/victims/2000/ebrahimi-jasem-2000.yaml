@@ -1,9 +1,9 @@
 id: ebrahimi-jasem-2000
 name_latin: "Jasem Ebrahimi"
 name_farsi: "جاسم ابراهیمی"
-date_of_birth: null
+date_of_birth: "1982-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -37,9 +37,8 @@ circumstances: >
     Judgment The court condemned Mr. Jasem Ebrahimi to death, and the Supreme
     Court confirmed the ruling. He was executed in public at Etefaqat-e Barq
     intersection in Ganaveh on January 14, 2000.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on January 14, 2000"
+responsible_forces: "security agents"
 # --- VERIFICATION ---
 status: unverified
 sources:

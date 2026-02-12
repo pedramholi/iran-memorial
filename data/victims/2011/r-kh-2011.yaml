@@ -3,7 +3,7 @@ name_latin: "Kh. R."
 name_farsi: "خ. ر."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -43,9 +43,8 @@ circumstances: >
     The court condemned Mr. Kh. R. to death and the ruling was confirmed by
     the General Public Prosecutor s Office. The defendant s pardon request was
     denied and he was hanged in Sanandaj central prison on February 15, 2011.
-event_context: null
-responsible_forces: null
-
+event_context: "2011 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

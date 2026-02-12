@@ -2,11 +2,18 @@ id: bahadoripur-behzad-2006
 name_latin: "Behzad Bahadoripur"
 name_farsi: "بهزاد بهادری‌پور"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Zahedan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/85213_thumb.jpeg"
+
+# --- LIFE ---
+education: "grade 11"
+family:
+  marital_status: "married"
+quotes:
+  - "He said he had not hurt anybody and that his wife new all about the things he had done."
 
 # --- DEATH ---
 date_of_death: 2006-07-11
@@ -69,9 +76,8 @@ circumstances: >
     Esfahan, at the intersection of Kaveh Street and Malek Shahr, on July 11,
     2006. The other defendant was sentenced to 10 years prison, 74 lashes, and
     payment of damages to the plaintiffs.
-event_context: null
-responsible_forces: null
-
+event_context: "2004 kidnapping and rape case"
+responsible_forces: "Esfahan Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

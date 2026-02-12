@@ -3,7 +3,7 @@ name_latin: "Mohammad Sa'id A."
 name_farsi: "محمد سعید ع."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -46,9 +46,8 @@ circumstances: >
     the ruling was confirmed by Branch 27 of the Supreme Court, Branch 15 of
     the Supreme Court Recognition, and the Head of the Judiciary. He was
     hanged in public in Sepidan on December 20, 2007.
-event_context: null
-responsible_forces: null
-
+event_context: "2007 execution"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,26 @@
 id: kelij-rahim-2022
 name_latin: "Rahim Kelij"
 name_farsi: "رحیم کلیج"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1995-02-07"
+place_of_birth: "Qaemshahr, Mazandaran Province"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/86932_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "mobile phone repair shop owner"
+education: "associate degree in computer software engineering"
+family:
+  marital_status: "unmarried"
+  children: 0
+  notes: "only son in his family"
+personality: "optimistic young man who looked to the future with hope"
+quotes:
+  - "If people like me don t go, who will stand up against all this injustice?"
+  - "If people like me don't stand up, who will?"
+  - "I will be a successful person I'm sure of it. I m at peace and handle all my problems calmly. I m a happy person. All this stress will pass, and one day these stories will end. I will become a successful man. One day, I ll be the best LCD repairman in Qaemshahr."
+  - "I have become a phoenix rising from the bright ashes of a burned generation."
 
 # --- DEATH ---
 date_of_death: 2022-09-21
@@ -85,7 +99,7 @@ circumstances: >
     State s crackdown was swift and accompanied by intermittent landline and
     cellular internet network shutdowns, as well as threats against and
     arrests of victims family me
-event_context: null
+event_context: "2022 (Mahsa Amini) Protest background"
 responsible_forces: null
 
 # --- VERIFICATION ---

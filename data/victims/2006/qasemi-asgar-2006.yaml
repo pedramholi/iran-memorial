@@ -1,12 +1,18 @@
 id: qasemi-asgar-2006
 name_latin: "Asgar Qasemi"
 name_farsi: "عسگر قاسمی"
-date_of_birth: null
+date_of_birth: "1967-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/87047_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  children: 2
+  notes: "father of two"
 
 # --- DEATH ---
 date_of_death: 2006-05-25
@@ -86,9 +92,8 @@ circumstances: >
     Asgar Qasemi was fatally shot in the courtyard of the Governor s Office
     building while participating in the Naqadeh demonstration on May 25, 2006.
     According to availa
-event_context: null
-responsible_forces: null
-
+event_context: "Naqadeh protests in 2006"
+responsible_forces: "Basij"
 # --- VERIFICATION ---
 status: unverified
 sources:

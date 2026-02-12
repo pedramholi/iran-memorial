@@ -3,7 +3,7 @@ name_latin: "Safar'ali Varmazyar"
 name_farsi: "صفرعلی ورمزیار"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -52,9 +52,8 @@ circumstances: >
     others, at the Hamadan Prison yard on November 15, 2007. The fourth
     defendant was condemned to 5 years imprisonment for assisting the
     murderers.
-event_context: null
-responsible_forces: null
-
+event_context: "murder of three shepherds at the Zamanabad Village near Malayer on November 5, 2005"
+responsible_forces: "Criminal Court of Hamadan"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,20 @@
 id: qavimi-abdollah-2019
 name_latin: "Abdollah Qavimi"
 name_farsi: "عبدالله قویمی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1973-03-25"
+place_of_birth: "Shiraz"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/83755_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "self-employed"
+family:
+  marital_status: "married"
+  children: 2
+  notes: "father of two children, ages 16 and 4"
+personality: "responsible and sociable individual who loved his family and had great spirits"
 
 # --- DEATH ---
 date_of_death: 2019-11-17
@@ -85,7 +93,7 @@ circumstances: >
     number of people killed in the November protests to have been between 200
     and 225, 20 percent of whom were shot by non-governmental bullets (4). On
     June 1, 2020, the Head of Majless ( Parliament ) Na
-event_context: null
+event_context: "2019 November protests"
 responsible_forces: null
 
 # --- VERIFICATION ---

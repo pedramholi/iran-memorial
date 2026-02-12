@@ -3,7 +3,7 @@ name_latin: "N. R."
 name_farsi: "ن. ر."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -44,9 +44,8 @@ circumstances: >
     in the presence of the General Public Prosecutor of Mazandarn at the Sari
     Prison yard on May 31, 2015. Twice the Pardon Committee of the Judiciary
     denied his pardon request.
-event_context: null
-responsible_forces: null
-
+event_context: "2015 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

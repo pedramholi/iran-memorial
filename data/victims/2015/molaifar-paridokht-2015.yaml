@@ -1,12 +1,16 @@
 id: molaifar-paridokht-2015
 name_latin: "Paridokht Mola’ifar"
 name_farsi: "پریدخت مولایی‌فر"
-date_of_birth: null
+date_of_birth: "1972-01-01"
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  children: 1
 
 # --- DEATH ---
 date_of_death: 2015-07-29

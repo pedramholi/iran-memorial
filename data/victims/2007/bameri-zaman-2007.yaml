@@ -3,7 +3,7 @@ name_latin: "Zaman Bameri"
 name_farsi: "زمان بامری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -41,8 +41,7 @@ circumstances: >
     confirmed by the Supreme Court. He was hanged in Zahedan prison on May 1,
     2007.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

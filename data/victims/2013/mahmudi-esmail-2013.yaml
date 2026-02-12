@@ -1,12 +1,17 @@
 id: mahmudi-esmail-2013
 name_latin: "Esma'il Mahmudi"
 name_farsi: "اسماعیل محمودی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1997-01-01"
+place_of_birth: "Benzak near Minab"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "single"
+  children: 0
 
 # --- DEATH ---
 date_of_death: 2013-11-07
@@ -54,9 +59,8 @@ circumstances: >
     confirmed the ruling and the Head of the judiciary sign it. He was hanged,
     along with his collaborator, at the Bandar-e Abbas Central Prison on
     November 7, 2013 in the morning.
-event_context: null
-responsible_forces: null
-
+event_context: "2009 kidnapping and murder of an eight-year-old boy"
+responsible_forces: "Hormozgan Provincial Courthouse"
 # --- VERIFICATION ---
 status: unverified
 sources:

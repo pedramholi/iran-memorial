@@ -2,8 +2,8 @@ id: khodayari-salman-2018
 name_latin: "Salman Khodayari"
 name_farsi: "سلمان خدایاری"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Borujerd"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -44,8 +44,7 @@ circumstances: >
     the victim agreed to commute the death sentence in exchange for blood
     money, but inter-tribal problems precluded this arrangement.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

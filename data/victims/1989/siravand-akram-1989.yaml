@@ -3,7 +3,7 @@ name_latin: "Akram Siravand"
 name_farsi: "اکرم سیراوند"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -37,9 +37,8 @@ circumstances: >
     Siravand’s defense. Judgment The Islamic Revolutionary Court of Nahavand
     condemned Ms. Akram Siravand to death and the Supreme Court confirmed the
     ruling. She was hanged in Nahavand prison.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on February 1, 1989"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

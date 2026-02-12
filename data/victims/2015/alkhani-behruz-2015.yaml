@@ -2,11 +2,17 @@ id: alkhani-behruz-2015
 name_latin: "Behruz Alkhani"
 name_farsi: "بهروز آلخانی"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Salmas, Western Azarbaijan Province"
+gender: male
+ethnicity: "Kurd"
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/80626_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "mountain porter"
+family:
+  marital_status: "single"
+beliefs: "supporter of Kurdistan Free Life Party (PJAK)"
 
 # --- DEATH ---
 date_of_death: 2015-08-26
@@ -86,8 +92,7 @@ circumstances: >
     trial court s ruling, Orumieh Revolutionary Court Branch 16 tried him a
     second time. This time, the court session took place in the presence
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Information Administration"
 # --- VERIFICATION ---
 status: unverified
 sources:

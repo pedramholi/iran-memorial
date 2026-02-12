@@ -2,11 +2,23 @@ id: molaii-kamal-2015
 name_latin: "Kamal Molaii"
 name_farsi: "کمال ملایی"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Sanandaj"
+gender: male
+ethnicity: "Kurd"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/73768_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "mechanic"
+education: "middle school"
+family:
+  marital_status: "single"
+  children: 0
+  notes: "lost his father when he was a child"
+personality: "forgiving and pleasant"
+beliefs: "proselytizing the Shafe'i religion"
+quotes:
+  - "\"I was trying to prevent people from being taken advantage of in the name of religion.\""
 
 # --- DEATH ---
 date_of_death: 2015-03-04
@@ -85,7 +97,7 @@ circumstances: >
     [city of] Zahedan Friday Prayer Imam, Hassan Amini, Sanandaj s Imam
     Bokhara Seminary s mufti and director, and Molana Gergij [city of]
     Azadshahr Friday Prayer Imam, wrote open lette
-event_context: null
+event_context: "executed on March 4, 2015"
 responsible_forces: null
 
 # --- VERIFICATION ---

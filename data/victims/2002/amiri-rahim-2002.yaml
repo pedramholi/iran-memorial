@@ -3,7 +3,7 @@ name_latin: "Rahim Amiri"
 name_farsi: "رحیم امیری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -38,8 +38,7 @@ circumstances: >
     public at Shahid Beheshti Square in Semnan on May 23, 2002. No specific
     information is available about this execution.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

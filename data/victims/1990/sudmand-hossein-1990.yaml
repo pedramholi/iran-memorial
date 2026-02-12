@@ -2,11 +2,20 @@ id: sudmand-hossein-1990
 name_latin: "Hossein Sudmand"
 name_farsi: "حسین سودمند"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Mashad"
+gender: male
 ethnicity: null
 religion: "Christianity"
 photo: "https://www.iranrights.org/actorphotos/41705_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "hospital worker"
+family:
+  marital_status: "married"
+  children: 4
+beliefs: "converted to Christianity"
+quotes:
+  - "I will remain in Iran to serve God, even if such a service comes at a price."
 
 # --- DEATH ---
 date_of_death: 1990-12-03
@@ -47,7 +56,7 @@ circumstances: >
     1990, state authorities informed Mr. Hossein Sudmand’s family that he “had
     been hanged for remaining steadfast in Christianity and buried in a suburb
     of Mashad.”
-event_context: null
+event_context: "fall of 1990"
 responsible_forces: null
 
 # --- VERIFICATION ---

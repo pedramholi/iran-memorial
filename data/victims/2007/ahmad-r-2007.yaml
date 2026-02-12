@@ -3,7 +3,7 @@ name_latin: "R. Ahmad"
 name_farsi: "ر. احمد"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -38,9 +38,8 @@ circumstances: >
     The court identified Mr. Ahmad R. as Mofsed (corruptor) and condemned him
     to death. The ruling was confirmed by the Supreme Court and he was hanged
     in public at the Farahan Square in Arak on October 30, 2007.
-event_context: null
-responsible_forces: null
-
+event_context: "2007 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

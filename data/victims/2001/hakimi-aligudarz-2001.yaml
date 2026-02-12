@@ -3,7 +3,7 @@ name_latin: "Aligudarz Hakimi"
 name_farsi: "علیگودرز حکیمی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -36,9 +36,8 @@ circumstances: >
     Hakimi. Defense No information is available on Mr. Hakimi s defense.
     Judgment The court condemned Mr. Abdollah Hakimi to death and the Supreme
     Court confirmed the ruling. He was hanged in Aligudarz on January 1, 2001.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on January 1, 2001"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

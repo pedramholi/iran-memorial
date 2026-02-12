@@ -1,12 +1,22 @@
 id: amirnejad-naser-2009
 name_latin: "Naser Amirnejad"
 name_farsi: "ناصر امیرنژاد"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1993-01-01"
+place_of_birth: "Mahmudabad, near Yasuj"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/61366_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "Aerospace Engineering student"
+education: "senior Aerospace Engineering student"
+family:
+  marital_status: "single"
+  children: 0
+quotes:
+  - "June 12, 2009 arrived, and Naser, like many of his classmates, entrusted his vote to people he trusted. But what misplaced trust it was!"
+  - "I clearly remember how excited Naser was about the elections. Despite his simplicity, he participated in meetings and entered the political arena. He was a young man who just wanted his country to prosper. He knew nothing about political divisions or the darkness of politics."
 
 # --- DEATH ---
 date_of_death: 2009-06-15
@@ -85,9 +95,8 @@ circumstances: >
     his support for Ahmadinejad and warned protestors that they were
     responsible for any disorder and its consequences . Amnesty International
     stated that the speech gave legitimacy to
-event_context: null
-responsible_forces: null
-
+event_context: "2009 Protest"
+responsible_forces: "Ashura Battalion"
 # --- VERIFICATION ---
 status: unverified
 sources:

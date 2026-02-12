@@ -2,11 +2,20 @@ id: jaworski-maria-luisa-1994
 name_latin: "Maria Luisa Jaworski"
 name_farsi: "ماریا لویزا یاورسکی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Buenos Aires, Argentina"
+gender: female
 ethnicity: null
 religion: "Judaism"
 photo: "https://www.iranrights.org/actorphotos/11871_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "maid"
+family:
+  children: 1
+  notes: "mother of Ramón"
+personality: "extremely generous and always willing to help others"
+quotes:
+  - "Because if you are not there, it is like a dawn with no sun, because you are like no one else, unique and divine."
 
 # --- DEATH ---
 date_of_death: 1994-07-18
@@ -85,9 +94,8 @@ circumstances: >
     the help of Iranian diplomats stationed at the embassy in Buenos Aires.
     The Hezbollah operatives, led by Imad Mughnieh, arrived in Buenos Aires
     with fake European passports on July 1, 1994. A f
-event_context: null
-responsible_forces: null
-
+event_context: "AMIA bombing on July 18, 1994"
+responsible_forces: "Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

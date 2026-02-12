@@ -2,11 +2,16 @@ id: said-marisa-raquel-1994
 name_latin: "Marisa Raquel Said"
 name_farsi: "ماریسا راکل سعید"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Buenos Aires, Argentina"
+gender: female
 ethnicity: null
 religion: "Judaism"
 photo: "https://www.iranrights.org/actorphotos/11946_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "university student and receptionist"
+education: "Education Sciences Program of the University of Buenos Aires School of Philosophy and Literature"
+personality: "known for her smile, devoted to her friends and family, excellent student"
 
 # --- DEATH ---
 date_of_death: 1994-07-18
@@ -86,7 +91,7 @@ circumstances: >
     a danger point for terrorism. From the evidence gathered, two Iranian
     diplomats in Buenos Aires actively assisted Hezbollah. Mohsen Rabbani, who
     was in charge of the
-event_context: null
+event_context: "AMIA bombing"
 responsible_forces: null
 
 # --- VERIFICATION ---

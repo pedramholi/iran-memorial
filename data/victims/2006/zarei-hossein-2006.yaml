@@ -3,7 +3,7 @@ name_latin: "Hossein Zare'i"
 name_farsi: "حسین زارعی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -34,9 +34,8 @@ circumstances: >
     details of Mr. Zare i s defense. Judgment Mr. Hossein Zare i was sentenced
     to death. The verdict was validated by the Supreme Court. Mr. Zare i was
     publicly hanged in Jahrom County s Takhti Stadium, on March 18-19, 2005.
-event_context: null
-responsible_forces: null
-
+event_context: "murder case in Jahrom County"
+responsible_forces: "Fars Province Police Force Central Command"
 # --- VERIFICATION ---
 status: unverified
 sources:

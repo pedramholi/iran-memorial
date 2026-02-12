@@ -2,11 +2,14 @@ id: tenorio-erwin-garcia-1994
 name_latin: "Erwin Garcia Tenorio"
 name_farsi: "اروین گارسیا تنوریو"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Bolivia"
+gender: male
 ethnicity: null
 religion: "Judaism"
 photo: null
+
+# --- LIFE ---
+occupation: "worked in AMIA’s building renovations"
 
 # --- DEATH ---
 date_of_death: 1994-07-18
@@ -85,9 +88,8 @@ circumstances: >
     attaché at the embassy (though he had been in Argentina for eleven years,
     he was bestowed diplomatic immunity only in March) and was in charge of
     logistics for the operation. Aiding him was Ahm
-event_context: null
-responsible_forces: null
-
+event_context: "AMIA bombing"
+responsible_forces: "Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

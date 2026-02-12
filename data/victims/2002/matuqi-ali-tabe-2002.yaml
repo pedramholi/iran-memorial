@@ -3,7 +3,7 @@ name_latin: "Ali Tabe' Ma'tuqi"
 name_farsi: "علی تابع معطوقی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -39,9 +39,8 @@ circumstances: >
     47, and 2 of the Islamic Penal Code. The ruling was carried out at the
     location of the crime at the Sepidar District in Ahvaz when he was hanged
     in public at dawn on October 15, 2002.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on October 15, 2002"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

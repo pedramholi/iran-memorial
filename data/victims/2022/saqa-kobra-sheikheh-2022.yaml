@@ -1,12 +1,22 @@
 id: saqa-kobra-sheikheh-2022
 name_latin: "Kobra Sheikheh Saqa"
 name_farsi: "کبری شیخه سقا"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1963-07-25"
+place_of_birth: "Molla Kandi, Miandoab, West Azerbaijan Province"
+gender: female
 ethnicity: null
 religion: "Presumed Muslim (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/86356_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "housewife"
+family:
+  marital_status: "married"
+  children: 4
+personality: "described as a hardworking and long-suffering woman, who nevertheless always had a loving smile on her lips"
+beliefs: "attended the protests following the death of Mahsa Amini"
+quotes:
+  - "Would that God would ordain such a death for one. Look what people are doing for her."
 
 # --- DEATH ---
 date_of_death: 2022-10-27
@@ -85,7 +95,7 @@ circumstances: >
     number of recorded protests to be 1,262. The death toll, including
     protesters and passersby, stood at 527, of whom 71 were children. The
     number of arrests (including of wounded protesters) was estimated at a min
-event_context: null
+event_context: "protests following the death of Mahsa Amini"
 responsible_forces: null
 
 # --- VERIFICATION ---

@@ -3,10 +3,18 @@ name_latin: "Hushang Mohammad-Rahimi"
 name_farsi: "هوشنگ محمدرحیمی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/63264_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "tutor"
+education: "studied architecture at Polytechnic University (Amir Kabir University of Technology)"
+family:
+  notes: "son of Jalil; had siblings Ebrahim, Soheila, Mehrangiz, Aziz, and a nephew Hossein Majidi"
+personality: "described as a quiet, patient, and calm young man"
+beliefs: "sympathizer of the Mojahedin Khalq Organization (MKO)"
 
 # --- DEATH ---
 date_of_death: 1992-01-01
@@ -86,8 +94,7 @@ circumstances: >
     relatives of his execution. After the fall of Saddam Hussein s government
     in Iraq, some relatives went to Iraq to visit
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Ministry of Intelligence"
 # --- VERIFICATION ---
 status: unverified
 sources:

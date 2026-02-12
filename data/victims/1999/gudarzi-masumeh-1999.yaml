@@ -3,10 +3,14 @@ name_latin: "Ma'sumeh Gudarzi"
 name_farsi: "معصومه گودرزی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/84230_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "member and candidate of the leadership council of the Mojahedin Khalq Iran Organization"
+beliefs: "member of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1999-06-09
@@ -85,9 +89,8 @@ circumstances: >
     ---------------------------- *The exclusion of MKO members from government
     offices and the closure of their centers and publishing houses, in
     conjunction with to the Islamic Republic aut
-event_context: null
-responsible_forces: null
-
+event_context: "June 9, 1999 assassination"
+responsible_forces: "Islamic Republic of Iran’s Ministry of Information"
 # --- VERIFICATION ---
 status: unverified
 sources:

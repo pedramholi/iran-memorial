@@ -1,12 +1,21 @@
 id: abbasi-akbar-2007
 name_latin: "Akbar Abbasi"
 name_farsi: "اکبر عباسی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1957-01-01"
+place_of_birth: "Terval, Kurdistan Province"
+gender: male
 ethnicity: null
 religion: "Islam (Sunni)"
 photo: null
+
+# --- LIFE ---
+occupation: "farmer"
+education: "elementary school"
+family:
+  marital_status: "married"
+personality: "fearless and well-mannered man with a good sense of humor and great spirits"
+quotes:
+  - "Before being taken for the implementation of the sentence, he said good bye to his ward mates and asked them to forgive him [and his sins]."
 
 # --- DEATH ---
 date_of_death: 2007-10-22
@@ -76,9 +85,8 @@ circumstances: >
     Mr. Abbasi s ward mate, Mr. Abbasi was not afraid of execution. Before
     being taken for the implementation of the sentence, he said good bye to
     his ward mates and asked them to forgive him [and his sins].
-event_context: null
-responsible_forces: null
-
+event_context: "murder case related to an incident in the village of Terval in the Spring of 2005"
+responsible_forces: "Kurdistan Province Criminal Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

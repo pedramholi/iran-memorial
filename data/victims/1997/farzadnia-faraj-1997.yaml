@@ -1,12 +1,23 @@
 id: farzadnia-faraj-1997
 name_latin: "Faraj Farzadnia"
 name_farsi: "فرج فرزادنیا"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1944-09-01"
+place_of_birth: "Abadan"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/84589_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "retired employee of the Ministry of Education"
+education: "bachelor's degree in Psychology from Esfahan University"
+family:
+  marital_status: "married"
+  children: 3
+beliefs: "concerned about the rights of teachers"
+quotes:
+  - "Why are the children of government officials (like Hashemi Rafsanjani) abroad while the country is at war?"
+  - "I am not going to come here anymore. If you need anything, please let me know in writing."
 
 # --- DEATH ---
 date_of_death: 1997-01-10
@@ -85,9 +96,8 @@ circumstances: >
     opposed by the Islamic Republic leaders. (2) Forced Disappearance And
     Murder Of Mr. Faraj Farzadnia On January 10 or 11, at 7-7:30 am, Mr. Faraj
     Farzadnia left ho
-event_context: null
-responsible_forces: null
-
+event_context: "Iran-Iraq war"
+responsible_forces: "Esfahan Information Office Press Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

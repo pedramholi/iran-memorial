@@ -1,12 +1,20 @@
 id: kholkholah-karim-mohammadzadeh-1990
 name_latin: "Karim Mohammadzadeh (Kholkholah)"
 name_farsi: "کریم محمدزاده (خولخوله)"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1962-01-01"
+place_of_birth: "Qasemlu, Orumieh, West Azerbaijan"
+gender: male
+ethnicity: "Kurdish"
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/85694_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "Peshmerga"
+family:
+  marital_status: "planning to marry"
+  notes: "came in contact with a woman in Iran who was to join him in Sweden"
+quotes:
+  - "\"He dreamed of starting over in Sweden.\""
 
 # --- DEATH ---
 date_of_death: 1990-04-01
@@ -85,9 +93,8 @@ circumstances: >
     clashes that resulted in the deaths of a number of civilians and the
     displacement and relocation of the residents of certain towns. In the next
     four years, Kurdish parties
-event_context: null
-responsible_forces: null
-
+event_context: "1979 Islamic Revolution"
+responsible_forces: "Islamic Revolutionary Guard Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

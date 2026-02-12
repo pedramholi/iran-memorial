@@ -1,12 +1,23 @@
 id: karimi-qorban-ali-1991
 name_latin: "Qorban Ali Karimi"
 name_farsi: "قربانعلی کریمی"
-date_of_birth: null
+date_of_birth: "1960-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/76179_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "laying asphalt pavements"
+family:
+  marital_status: "married"
+  children: 3
+  notes: "his wife and his three young children were incarcerated at the time of his execution"
+personality: "tall and husky man, well-known and reputable individual"
+quotes:
+  - "Why did you beat me so much when you knew I had nothing [and hadn t done anything]?"
+  - "I will put the rope around your neck [and hang you] myself."
 
 # --- DEATH ---
 date_of_death: 1991-04-20
@@ -79,9 +90,8 @@ circumstances: >
     [Iranian brand of car] which was expropriated. According to a person close
     to him, the order of his release arrived from Tehran two months after he
     was executed. (Boroumand Foundation interview).
-event_context: null
-responsible_forces: null
-
+event_context: "execution on April 20, 1991"
+responsible_forces: "Arak Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

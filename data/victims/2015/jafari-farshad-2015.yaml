@@ -3,7 +3,7 @@ name_latin: "Farshad Ja'fari"
 name_farsi: "فرشاد جعفری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -40,9 +40,8 @@ circumstances: >
     Shiraz condemned Mr. Farshad Ja fari to death and the Supreme Court
     confirmed the ruling. He was hanged at the Adelabad Prison yard in Shiraz
     on March 15, 2015.
-event_context: null
-responsible_forces: null
-
+event_context: "2015 execution"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,9 +1,9 @@
 id: r-morteza-2007
 name_latin: "Morteza R."
 name_farsi: "مرتضی ر."
-date_of_birth: null
+date_of_birth: "1987-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -48,8 +48,7 @@ circumstances: >
     40 of the Supreme Court confirmed the ruling. He was hanged, along with
     eight others, in Evin Prison on October 17, 2008.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

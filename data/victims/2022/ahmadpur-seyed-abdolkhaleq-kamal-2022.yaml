@@ -1,12 +1,24 @@
 id: ahmadpur-seyed-abdolkhaleq-kamal-2022
 name_latin: "Seyed Abdolkhaleq (Kamal) Ahmadpur"
 name_farsi: "سید عبدالخالق (کمال) احمدپور"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1988-11-12"
+place_of_birth: "Mahabad, Western Azerbaijan Province"
+gender: male
+ethnicity: "Kurdish"
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/86904_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "master plasterer"
+education: "ninth grade"
+family:
+  marital_status: "married"
+  children: 2
+  notes: "took care of his aged parents"
+personality: "well known, well respected, gregarious, humorous, and sociable"
+beliefs: "against the Islamic Republic of Iran"
+quotes:
+  - "Loved his family"
 
 # --- DEATH ---
 date_of_death: 2022-11-18
@@ -85,9 +97,8 @@ circumstances: >
     into the sexual assault and accountability from officials. A small group
     of them marched toward Police Station No. 16 while chanting protest
     slogans, where they were met with direct gunfire from security
-event_context: null
-responsible_forces: null
-
+event_context: "2022 (Mahsa Amini) Protest background"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

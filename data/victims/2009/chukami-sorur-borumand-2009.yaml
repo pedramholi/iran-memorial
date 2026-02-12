@@ -3,10 +3,19 @@ name_latin: "Sorur Borumand Chukami"
 name_farsi: "سرور برومند چوکامی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "preschool teacher"
+family:
+  marital_status: "married"
+  children: 4
+  notes: "mother of Ms. Fatemeh Rajabpur Chukami, another victim of the 2009 protests"
+quotes:
+  - "After entering kindergarten, I found my mother lying prostrate - already gone. My sister had collapsed nearby, her broken glasses still clinging to her face. They had been killed in silence, with no one there to help them."
 
 # --- DEATH ---
 date_of_death: 2009-06-15
@@ -85,7 +94,7 @@ circumstances: >
     with sticks and clubs, and sometimes with chains, knives, batons, or
     firearms, they emerge when the state decides to suppress dissent. These
     plainclothes forces move about freely, violently beating pr
-event_context: null
+event_context: "2009 post-election protests"
 responsible_forces: null
 
 # --- VERIFICATION ---

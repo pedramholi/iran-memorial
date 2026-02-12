@@ -2,11 +2,15 @@ id: k-r-2015
 name_latin: "R. K."
 name_farsi: "ر. ک."
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Gilan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "son of Mohammad"
 
 # --- DEATH ---
 date_of_death: 2015-02-21

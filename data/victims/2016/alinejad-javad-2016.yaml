@@ -2,11 +2,15 @@ id: alinejad-javad-2016
 name_latin: "Javad Alinejad"
 name_farsi: "جواد علی‌نژاد"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Bandar Abbas"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
 
 # --- DEATH ---
 date_of_death: 2016-07-19
@@ -68,8 +72,7 @@ circumstances: >
     visitation with his family a day before he was hanged. (ABC Interview,
     July 20 and 21, 2016; Iran Newspaper, July 21, 2016)
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Court of Karaj"
 # --- VERIFICATION ---
 status: unverified
 sources:

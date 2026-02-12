@@ -1,12 +1,24 @@
 id: kuchaksarai-shaban-mohsen-mohammadi-2022
 name_latin: "Sha`ban (Mohsen) Mohammadi Kuchaksara`i"
 name_farsi: "شعبان (محسن) محمدی کوچکسرایی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1985-05-07"
+place_of_birth: "Qaemshahr"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/86800_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "building electrician and master craftsman"
+family:
+  marital_status: "married"
+  children: 2
+  notes: "father of two sons, aged five and eleven"
+personality: "kind, social, and active"
+beliefs: "participated in nationwide protests"
+quotes:
+  - "No one has seen tomorrow; we must live in the moment."
+  - "Mahsa Amini also had parents, and this happened to all of them. Must we lose a loved one before we realize what is happening?"
 
 # --- DEATH ---
 date_of_death: 2022-09-21
@@ -85,7 +97,7 @@ circumstances: >
     lose their eyesight, and according to some reports women s genitalia.
     Since the start of the nationwide protests, and particularly after reports
     in late September 2022 that a polic
-event_context: null
+event_context: "2022 (Mahsa Amini) Protest background"
 responsible_forces: null
 
 # --- VERIFICATION ---

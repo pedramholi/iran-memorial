@@ -1,12 +1,16 @@
 id: shivyari-majid-fardi-2013
 name_latin: "Majid Fardi Shivyari"
 name_farsi: "مجید فردی شیویاری"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1965-01-01"
+place_of_birth: "Tehran"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/85225_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "member of the Mojahedin e Khalq Organization"
+beliefs: "member of the Mojahedin e Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 2013-09-01
@@ -87,8 +91,7 @@ circumstances: >
     connection with said attacks. On April 11, 2011, the Iraqi government's
     then-spokesman annou
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

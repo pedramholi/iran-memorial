@@ -3,7 +3,7 @@ name_latin: "Vahid Alavi"
 name_farsi: "وحید علوی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -47,8 +47,7 @@ circumstances: >
     Revolutionary Public Prosecutor of Shiraz asked women to wear their cover
     (Hejab) to avoid harassment by seditious individuals. (Farsnama)
 event_context: null
-responsible_forces: null
-
+responsible_forces: "IRGC"
 # --- VERIFICATION ---
 status: unverified
 sources:

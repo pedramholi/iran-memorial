@@ -2,8 +2,8 @@ id: q-s-2015
 name_latin: "S. Q."
 name_farsi: "س. ق."
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Kermanshah"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -45,9 +45,8 @@ circumstances: >
     The ruling was carried out in the presence of officials when he was hanged
     in the Rasht Central Prison on January 31, 2015. His body was transferred
     to the morgue to be given to his relatives.
-event_context: null
-responsible_forces: null
-
+event_context: "2015 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

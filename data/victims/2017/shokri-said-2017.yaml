@@ -1,12 +1,20 @@
 id: shokri-said-2017
 name_latin: "Sa'id Shokri"
 name_farsi: "سعید شکری"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1990-01-01"
+place_of_birth: "Qom"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "automobile showroom owner"
+family:
+  marital_status: "single"
+  children: 0
+quotes:
+  - "I admit that I received the heroin. I admit that I sold the car. But that had to do with a year prior [to that]. I did not spend [the money from the sale of the car] to purchase drugs I had financial problems [at the time]. They were supposed to pay me [for transporting drugs]. I did [transport narcotic drugs], but I did not know it was a crime. I don t have a criminal record."
 
 # --- DEATH ---
 date_of_death: 2017-02-13
@@ -85,9 +93,8 @@ circumstances: >
     purpose, and a final decision can be rendered. Said special branches shall
     initially, based on the fact that the ruling was declared contrary to
     incontrovertible tenets of Shari a law, over
-event_context: null
-responsible_forces: null
-
+event_context: "2017 execution"
+responsible_forces: "Qom Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

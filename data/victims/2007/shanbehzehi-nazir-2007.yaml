@@ -1,12 +1,19 @@
 id: shanbehzehi-nazir-2007
 name_latin: "Nazir Shanbehzehi"
 name_farsi: "نظیر شنبه‌زهی"
-date_of_birth: null
+date_of_birth: "1990-01-01"
 place_of_birth: null
-gender: null
-ethnicity: null
+gender: male
+ethnicity: "Baluch"
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  notes: "younger brother was killed by government forces in 2006"
+quotes:
+  - "Let them execute me, Never do anything against the combatants in order to release me, I am innocent. I ll be a martyr and my execution won t be a problem. However, if a combatant is arrested, that will be a huge blow to the Baluch nation. I welcome my execution, but my conscious does not accept that you cooperating with the regime against the combatants."
 
 # --- DEATH ---
 date_of_death: 2007-03-14
@@ -66,8 +73,7 @@ circumstances: >
     during a terrorist attack and all its passengers were killed. The incident
     is known as Sarallah Boulevard operation.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Ministry of Intelligence"
 # --- VERIFICATION ---
 status: unverified
 sources:

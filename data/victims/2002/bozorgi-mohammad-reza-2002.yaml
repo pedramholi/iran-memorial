@@ -3,7 +3,7 @@ name_latin: "Mohammad Reza Bozorgi"
 name_farsi: "محمدرضا بزرگی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -55,9 +55,8 @@ circumstances: >
     2001. Branch 32 of the Supreme Court confirmed the ruling. Mr. Bozorgi was
     hanged in public and in the presence of his family in Atabak Street in
     Khavaran, Tehran, on April 25, 2002 at 6:45 a.m.
-event_context: null
-responsible_forces: null
-
+event_context: "2001 trial and 2002 execution"
+responsible_forces: "Intelligence Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

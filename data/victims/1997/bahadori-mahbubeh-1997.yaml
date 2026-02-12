@@ -3,10 +3,14 @@ name_latin: "Mahbubeh Bahadori"
 name_farsi: "محبوبه بهادری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+beliefs: "supporter of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1997-01-10
@@ -85,9 +89,8 @@ circumstances: >
     and comments made by responsible officials, Ms. Bahadori and the rest of
     the missing people were probably killed by the same logic (Boroumand
     Center Research). Background of Extrajudici
-event_context: null
-responsible_forces: null
-
+event_context: "mass killings of the summer of 1988"
+responsible_forces: "Islamic Republic Ministry of Information"
 # --- VERIFICATION ---
 status: unverified
 sources:

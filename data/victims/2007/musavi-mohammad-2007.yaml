@@ -1,12 +1,20 @@
 id: musavi-mohammad-2007
 name_latin: "Mohammad Musavi"
 name_farsi: "محمد موسوی"
-date_of_birth: null
+date_of_birth: "1991-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "student"
+education: "vocational high school"
+family:
+  notes: "mother visited the judge several times, objecting to her son s detention"
+quotes:
+  - "I went before the judge of his case and told him that my son is under aged (under 18) and should not stay with adults in the Adelabad Prison. You should send him to the Jouvenile Rehabilitation Center. However, nobody listened to me."
 
 # --- DEATH ---
 date_of_death: 2007-04-23

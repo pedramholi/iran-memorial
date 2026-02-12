@@ -1,12 +1,18 @@
 id: haddad-effat-1995
 name_latin: "Effat Haddad"
 name_farsi: "عفت حداد"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1963-01-01"
+place_of_birth: "Sabzevar"
+gender: female
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/84118_thumb.jpeg"
+
+# --- LIFE ---
+education: "high school diploma"
+family:
+  children: 4
+beliefs: "joined the Liberation Army of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1995-05-17
@@ -85,9 +91,8 @@ circumstances: >
     Revolution. Active participation in the political scene and infiltration
     of governmental institutions were foremost on the organization s agenda.
     During the first
-event_context: null
-responsible_forces: null
-
+event_context: "May 17, 1995"
+responsible_forces: "Mobarezin e Iraq"
 # --- VERIFICATION ---
 status: unverified
 sources:

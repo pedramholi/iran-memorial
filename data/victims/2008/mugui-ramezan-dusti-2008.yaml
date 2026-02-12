@@ -1,12 +1,21 @@
 id: mugui-ramezan-dusti-2008
 name_latin: "Ramezan Dusti Mugu’i"
 name_farsi: "رمضان دوستی موگویی"
-date_of_birth: null
+date_of_birth: "1978-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "brother of the victim's husband"
+quotes:
+  - "I had become suspicious of my brother s wife."
+  - "During the altercation, I became angry and grappled with her."
+  - "I confessed to killing my brother s wife when I was angry."
+  - "I expressed remorse, and asked for clemency."
 
 # --- DEATH ---
 date_of_death: 2008-01-30

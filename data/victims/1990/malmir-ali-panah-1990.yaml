@@ -1,12 +1,20 @@
 id: malmir-ali-panah-1990
 name_latin: "Ali Panah Malmir"
 name_farsi: "علی‌پناه مالمیر"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1990-01-01"
+place_of_birth: "Nahavand, Hamedan Province"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/82996_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "teacher"
+family:
+  marital_status: "married"
+  children: 1
+  notes: "had a 2-year-old daughter and his wife was pregnant, had five sisters and a brother, with one of his younger sisters and two younger brothers living with his parents."
+personality: "described as kind, funny, caring, and responsible"
 
 # --- DEATH ---
 date_of_death: 1990-01-01
@@ -85,9 +93,8 @@ circumstances: >
     eyewitnesses present at the crime scene also testified that they had not
     seen the Defendant strike a direct blow to the victim. According to
     persons with knowledge of the case
-event_context: null
-responsible_forces: null
-
+event_context: "group altercation over agricultural water use"
+responsible_forces: "police"
 # --- VERIFICATION ---
 status: unverified
 sources:

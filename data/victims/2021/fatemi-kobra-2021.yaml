@@ -1,12 +1,17 @@
 id: fatemi-kobra-2021
 name_latin: "Kobra Fatemi"
 name_farsi: "کبری فاطمی"
-date_of_birth: null
+date_of_birth: "1980-01-01"
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  notes: "married for three years"
 
 # --- DEATH ---
 date_of_death: 2021-05-23
@@ -37,8 +42,7 @@ circumstances: >
     member of the Revolutionary Guard insisted that this sentence be carried
     out and that the family of the victim did not want blood money.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Revolutionary Guard"
 # --- VERIFICATION ---
 status: unverified
 sources:

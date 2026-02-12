@@ -3,10 +3,15 @@ name_latin: "Mohammad Ali Asadi"
 name_farsi: "محمدعلی اسدی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+beliefs: "Royalist"
 
 # --- DEATH ---
 date_of_death: 1994-11-12
@@ -87,8 +92,7 @@ circumstances: >
     information, Mr. Asadi was attacked in his home in Bucharest by three men
     on November 12, 1994,
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

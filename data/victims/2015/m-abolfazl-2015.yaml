@@ -3,7 +3,7 @@ name_latin: "Abolfazl M."
 name_farsi: "ابوالفضل م."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -44,9 +44,8 @@ circumstances: >
     Abolfazl M. to death, the Supreme Court and the Head of Judiciary
     confirmed the ruling. He was hanged, along with three others, at the Arak
     Central Prison yard on May 12, 2015.
-event_context: null
-responsible_forces: null
-
+event_context: "2015 execution"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

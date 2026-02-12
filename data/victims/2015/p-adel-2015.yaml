@@ -1,12 +1,18 @@
 id: p-adel-2015
 name_latin: "Adel P."
 name_farsi: "عادل پ."
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1982-01-01"
+place_of_birth: "Maragheh"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "stoneworker"
+family:
+  marital_status: "married"
+  children: 1
 
 # --- DEATH ---
 date_of_death: 2015-02-26
@@ -41,9 +47,8 @@ circumstances: >
     about Mr. Adel P. s defense. Judgment The court condemned Mr. Adel P. to
     death in public. Branch 24 of the Supreme Court confirmed the ruling and
     he was hanged at Varzesh Square in Nazarabad on February 26, 2015.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on February 26, 2015"
+responsible_forces: "Revolutionary Public Prosecutor of Nazarabad"
 # --- VERIFICATION ---
 status: unverified
 sources:

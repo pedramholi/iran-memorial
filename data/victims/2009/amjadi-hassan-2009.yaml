@@ -2,8 +2,8 @@ id: amjadi-hassan-2009
 name_latin: "Hassan Amjadi"
 name_farsi: "حسن امجدی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Hamadan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -47,9 +47,8 @@ circumstances: >
     during the winter of 2009 (Iran Human Rights, April 28, 2009; Kurdistan
     Media, January 27, 2009). However, there is no information available on
     the exact date of this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "execution in Sanandaj Central Prison during the winter of 2009"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

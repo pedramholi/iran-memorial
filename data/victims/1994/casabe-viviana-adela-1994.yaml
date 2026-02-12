@@ -1,12 +1,18 @@
 id: casabe-viviana-adela-1994
 name_latin: "Viviana Adela Casabe"
 name_farsi: "ویویانا آدلا کاسابه"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1970-01-01"
+place_of_birth: "Buenos Aires, Argentina"
+gender: female
 ethnicity: null
 religion: "Judaism"
 photo: "https://www.iranrights.org/actorphotos/11807_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "graphic designer"
+family:
+quotes:
+  - "Your 24 years will continue to be 24, so unfairly and unfortunately, even when years pass by; and what is left is the terrible impotence of those who love and need you, because having you close was a blessing that no pile of debris can destroy."
 
 # --- DEATH ---
 date_of_death: 1994-07-18
@@ -85,9 +91,8 @@ circumstances: >
     the airport traced them to Foz de Iguazu in the Tri-Border Area, a loosely
     governed region bordering Argentina, Brazil, and Paraguay, that has become
     a danger point for ter
-event_context: null
-responsible_forces: null
-
+event_context: "AMIA bombing"
+responsible_forces: "Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

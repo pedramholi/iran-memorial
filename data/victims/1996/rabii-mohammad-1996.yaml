@@ -1,12 +1,21 @@
 id: rabii-mohammad-1996
 name_latin: "Mohammad Rabi'i"
 name_farsi: "محمد ربیعی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1932-01-01"
+place_of_birth: "Darasb, Divandarreh, Kurdistan Province"
+gender: male
 ethnicity: null
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/71619_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "Friday Prayer leader"
+family:
+  marital_status: "married"
+  children: 3
+  notes: "had two sons and a daughter"
+quotes:
+  - "\"I loved people and my country Iran, and strongly believed in raising awareness in the youth and in [advocating] unity between the Shi a and Sunni sects.\""
 
 # --- DEATH ---
 date_of_death: 1996-12-02
@@ -85,9 +94,8 @@ circumstances: >
     Murders file. Based on independent research and the confessions of [a
     number of] the accused, however, the elimination of dissidents - the
     magnitude of which is still not clear was the of
-event_context: null
-responsible_forces: null
-
+event_context: "Chain Murders"
+responsible_forces: "Ministry of Intelligence"
 # --- VERIFICATION ---
 status: unverified
 sources:

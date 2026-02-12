@@ -3,10 +3,15 @@ name_latin: "Abbas Ra'isi"
 name_farsi: "عباس رئیسی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "navy officer"
+quotes:
+  - "Abbas Ra'isi, a navy officer stationed at Chah Bahar, was said to have been arrested around September 1989 in Chah Bahar..."
 
 # --- DEATH ---
 date_of_death: 1990-03-29
@@ -30,8 +35,7 @@ circumstances: >
     available on Mr. Ra'isi's defense. Judgment Mr. Ra'isi was sentenced to
     death and hanged along with three other defendants in the city of Zahedan.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Government of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

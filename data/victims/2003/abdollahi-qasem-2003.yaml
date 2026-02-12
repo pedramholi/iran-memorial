@@ -3,7 +3,7 @@ name_latin: "Qasem Abdollahi"
 name_farsi: "قاسم عبداللهی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -43,9 +43,8 @@ circumstances: >
     and the Supreme Court confirmed the ruling. He was hanged in public in
     Poledokhtar in May 2003. No specific information is available about this
     execution.
-event_context: null
-responsible_forces: null
-
+event_context: "execution in May 2003"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

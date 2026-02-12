@@ -2,11 +2,15 @@ id: butekan-hosein-2002
 name_latin: "Hosein Butekan"
 name_farsi: "حسین بوته كن"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Esfahan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "Mr. Butekan confessed to his crime"
 
 # --- DEATH ---
 date_of_death: 2002-04-25
@@ -44,8 +48,7 @@ circumstances: >
     confirmation by the Supreme Court of the Country, the sentence was carried
     out 84 days after the defendant s arrest, on a Thursday.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

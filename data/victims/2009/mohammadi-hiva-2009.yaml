@@ -3,10 +3,18 @@ name_latin: "Hiva Mohammadi"
 name_farsi: "هیوا محمدی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+education: "high school graduate"
+family:
+  marital_status: "single"
+  notes: "came from an educated and influential family"
+personality: "open-minded, a nationalist, and a political individual"
+beliefs: "solidarity with other political prisoners protests and plans"
 
 # --- DEATH ---
 date_of_death: 2009-02-03
@@ -56,7 +64,7 @@ circumstances: >
     family for a pardon. He was hanged in the Sanandaj Central Prison on
     Tuesday morning, February 3, 2009. (The websites of Balochistan People s
     Party )
-event_context: null
+event_context: "street fight in 2005"
 responsible_forces: null
 
 # --- VERIFICATION ---

@@ -3,7 +3,7 @@ name_latin: "Ali Sharifi"
 name_farsi: "علی شریفی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -40,9 +40,8 @@ circumstances: >
     According to the Hamshahri newspaper, after the defendant received the
     lashes, his bloody body was hanged in Be'sat square in Hamadan on November
     24, 1997.
-event_context: null
-responsible_forces: null
-
+event_context: "1997 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

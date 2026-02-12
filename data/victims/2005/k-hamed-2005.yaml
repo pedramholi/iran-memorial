@@ -3,7 +3,7 @@ name_latin: "Hamed K."
 name_farsi: "حامد ک."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -47,9 +47,8 @@ circumstances: >
     Eslami , the Bandar Abbas Court condemned Mr. Hamed K. to death. The
     sentence was approved by the Supreme Court. He was hanged in public in
     Bandar Abbas on August 22, 2005.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on August 22, 2005"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

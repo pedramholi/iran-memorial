@@ -3,10 +3,13 @@ name_latin: "Mohammad Javad Ahmadzadeh"
 name_farsi: "محمدجواد احمدزاده"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "door and window maker"
 
 # --- DEATH ---
 date_of_death: 2003-05-13
@@ -49,8 +52,7 @@ circumstances: >
     ruling. He was hanged on Emamat Boulevard in Azadshahr, Mashhad, on May
     13, 2003.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Intelligence Deputy of the Security Forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

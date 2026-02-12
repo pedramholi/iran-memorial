@@ -1,12 +1,21 @@
 id: salmanzadeh-mehdi-2019
 name_latin: "Mehdi Salmanzadeh"
 name_farsi: "مهدی سلمان‌زاده"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "2009-01-01"
+place_of_birth: "Tehran"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/85537_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "eighth-grade student"
+family:
+  marital_status: "single"
+  children: 0
+  notes: "second child in his family"
+quotes:
+  - "How can children like me impact the country's system? What changes can we make that they are killing children?"
 
 # --- DEATH ---
 date_of_death: 2019-12-28
@@ -86,9 +95,8 @@ circumstances: >
     areas was quashed within a few days. At the time of this writing, The
     exact number of casualties remains unknown. In most cases, the authorities
     took de
-event_context: null
-responsible_forces: null
-
+event_context: "November 2019 protests"
+responsible_forces: "security officers"
 # --- VERIFICATION ---
 status: unverified
 sources:

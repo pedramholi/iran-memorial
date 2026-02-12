@@ -2,11 +2,15 @@ id: karami-ali-akbar-2016
 name_latin: "Ali Akbar Karami"
 name_farsi: "علی‌اکبر کرمی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Kangavar, Kermanshah Province"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "killed his cousin (his father s brother s son)"
 
 # --- DEATH ---
 date_of_death: 2016-12-06
@@ -42,8 +46,7 @@ circumstances: >
     sentenced to death by hanging. He was executed on Tuesday, December 6,
     2016, in Dizel Abad Prison, in Kermanshah.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

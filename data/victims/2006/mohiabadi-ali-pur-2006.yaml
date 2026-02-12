@@ -3,7 +3,7 @@ name_latin: "Ali Pur Mohiabadi"
 name_farsi: "علی پور‌محی‌آبادی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -32,8 +32,7 @@ circumstances: >
     acts. Mr. Purmohiabadi was publicly hanged in the city of Mohiabad on
     April 8, 2006. He also received his lashes on the same day.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

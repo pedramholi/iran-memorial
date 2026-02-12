@@ -1,12 +1,15 @@
 id: mirzai-bijan-2013
 name_latin: "Bijan Mirza'i"
 name_farsi: "بیژن میرزایی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1960-01-01"
+place_of_birth: "Tehran"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/85243_thumb.jpeg"
+
+# --- LIFE ---
+education: "high school diploma, degree in engineering, bachelor's degree in computer science"
 
 # --- DEATH ---
 date_of_death: 2013-09-01
@@ -87,8 +90,7 @@ circumstances: >
     International Security Assistance Force (ISAF) attack on Iraq and the
     disarming of the
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

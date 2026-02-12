@@ -3,7 +3,7 @@ name_latin: "Safdar Shirkol"
 name_farsi: "صفدر شیرکول"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -27,8 +27,7 @@ circumstances: >
     in Fars and Hormozgan areas . Family s Reaction There is no information
     available on the reaction of his family on Mr. Shirkol s death.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "information office of Fars province"
 # --- VERIFICATION ---
 status: unverified
 sources:

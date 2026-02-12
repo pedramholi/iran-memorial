@@ -3,7 +3,7 @@ name_latin: "'A D"
 name_farsi: "ع د"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Other"
 photo: null
@@ -43,9 +43,8 @@ circumstances: >
     Public Prosecutor’s Office. His request for punishment reduction was
     denied by the Judiciary Pardon Commission. He was hanged at the central
     prison in Yazd on September 20, 2010.
-event_context: null
-responsible_forces: null
-
+event_context: "2010 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

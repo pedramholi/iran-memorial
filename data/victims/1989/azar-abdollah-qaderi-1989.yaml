@@ -1,12 +1,21 @@
 id: azar-abdollah-qaderi-1989
 name_latin: "Abdollah Qaderi Azar"
 name_farsi: "عبدالله قادری آذر"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1952-01-01"
+place_of_birth: "Naqadeh, West Azerbaijan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/30422_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "teacher"
+education: "elementary and high school education in Naqadeh; Orumieh Industrial Vocational School; Fine Arts Institute in Tehran"
+family:
+  marital_status: "married"
+  notes: "widow of Mr. Abdol-Rahman Qasemlu is named Nasrin (Helen)"
+quotes:
+  - "Do not forget, dear sister Nasrin, I will be with Dr. Qasemlu on the day he will be murdered."
 
 # --- DEATH ---
 date_of_death: 1989-07-13
@@ -85,9 +94,8 @@ circumstances: >
     the Kurds would continue in the form of a guerilla warfare. ( Iranica:
     Qāsemlu) For three years after this announcement, the Democratic Party
     forces had control over a si
-event_context: null
-responsible_forces: null
-
+event_context: "Islamic Revolution"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

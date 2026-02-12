@@ -2,11 +2,24 @@ id: mehr-haik-hovsepian-1994
 name_latin: "Haik Hovsepian Mehr"
 name_farsi: "هایک هوسپیان‌مهر"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Tehran"
+gender: male
+ethnicity: "Armenian"
 religion: "Christianity"
 photo: "https://www.iranrights.org/actorphotos/85321_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "bishop"
+family:
+  marital_status: "married"
+  children: 4
+  notes: "married Takush Ginagosian; had four children after losing one in a truck accident"
+personality: "described as simple, honest, friendly, and had a delightful sense of humor; dependable, discreet, and notably patient"
+beliefs: "advocated for the release of Pastor Dibaj"
+quotes:
+  - "We witnessed numerous occasions where he faced problems caused by religious fanatics and extremists. He received threatening letters."
+  - "Brother Haik single-handedly confronted the Islamic Republic, compelling them to release Brother Dibaj."
+  - "Despite his meekness, his voice advocating for the persecuted was resoundingly powerful."
 
 # --- DEATH ---
 date_of_death: 1994-01-20
@@ -86,8 +99,7 @@ circumstances: >
     and well-known figures in Iran's Armenian community. Following the
     government's declaration of laws** concerning Rabba
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

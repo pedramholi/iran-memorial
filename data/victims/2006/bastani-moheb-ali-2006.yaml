@@ -2,11 +2,16 @@ id: bastani-moheb-ali-2006
 name_latin: "Moheb Ali Bastani"
 name_farsi: "محب‌علی باستانی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Afghanistan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  notes: "murdered his wife"
 
 # --- DEATH ---
 date_of_death: 2006-04-20
@@ -45,8 +50,7 @@ circumstances: >
     validated by the Chief Public Prosecutor. Mr. Bastani was hanged in the
     courtyard of Delijan Prison on April 20, 2006.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

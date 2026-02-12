@@ -3,7 +3,7 @@ name_latin: "Abdolrahman Sh."
 name_farsi: "عبدالرحمن ش."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -43,9 +43,8 @@ circumstances: >
     condemned Mr. Abdolrahman Sh. to death, the Supreme Court confirmed the
     ruling and the Head of Judiciary validated it. He was hanged, along with
     three others, at the Arak Central Prison yard on May 19, 2015.
-event_context: null
-responsible_forces: null
-
+event_context: "2015 execution"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

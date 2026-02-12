@@ -2,8 +2,8 @@ id: ebdalzadeh-kret-reza-2016
 name_latin: "Kret (Reza) Ebdalzadeh"
 name_farsi: "کریت (رضا) عبدال‌زاده"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Barderash, Kurdistan Province"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/82974_thumb.jpeg"
@@ -48,9 +48,8 @@ circumstances: >
     execution. ------------------------------- * Ms. Moluk Nuri , Messrs.
     Esma'il Ayubi Jarami , Karam Kalshi , Qader Mahmudi , Efendi Omari ,
     Behnam Pirkuzadegan , and Farhad Maleki
-event_context: null
-responsible_forces: null
-
+event_context: "2016 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

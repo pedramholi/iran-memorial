@@ -3,10 +3,14 @@ name_latin: "Mohsen Ostad Kandi"
 name_farsi: "محسن استاد کندی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/42223_thumb.jpeg"
+
+# --- LIFE ---
+quotes:
+  - "While driving, I shot him five times."
 
 # --- DEATH ---
 date_of_death: 2005-12-18
@@ -50,9 +54,8 @@ circumstances: >
     the defense. Judgment The court condemned Mr. Mohsen Ostad Kandi to death
     and the Supreme Court confirmed this ruling. He was hanged at dawn on
     December 18, 2005 in Evin prison.
-event_context: null
-responsible_forces: null
-
+event_context: "2005 execution"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

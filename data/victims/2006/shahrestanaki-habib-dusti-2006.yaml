@@ -3,7 +3,7 @@ name_latin: "Habib Dusti Shahrestanaki"
 name_farsi: "حبیب دوستی شهرستانکی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/85160_thumb.jpeg"
@@ -60,9 +60,8 @@ circumstances: >
     sentenced him to death. The verdict was validated by the Supreme Court.
     Mr. Dusti Shahrestanaki was publicly hanged in the Darvazeh Rasht-Qazvin
     area on March 7, 2005. He also received 50 lashes before he was hanged.
-event_context: null
-responsible_forces: null
-
+event_context: "2004 armed robbery case"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

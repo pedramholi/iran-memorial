@@ -2,11 +2,14 @@ id: batrani-ali-2005
 name_latin: "Ali Batrani"
 name_farsi: "علی بترانی"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Ahvaz"
+gender: male
+ethnicity: "Arab"
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/71707_thumb.jpeg"
+
+# --- LIFE ---
+family:
 
 # --- DEATH ---
 date_of_death: 2005-04-18
@@ -85,7 +88,7 @@ circumstances: >
     the spokesperson for the Iranian government officially denied the
     authenticity of the letter, the protests that had ensued, following the
     invitation of the Committee for Organ
-event_context: null
+event_context: "protests of April 15, 2005"
 responsible_forces: null
 
 # --- VERIFICATION ---

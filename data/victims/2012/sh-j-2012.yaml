@@ -3,7 +3,7 @@ name_latin: "J. Sh."
 name_farsi: "ج. ش."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -46,9 +46,8 @@ circumstances: >
     death. The verdict was approved by the Chief Public Prosecutor. Mr. Mr. J.
     Sh. Arak was hanged to death in Arak Central Prison on Tuesday, January 3,
     2012.
-event_context: null
-responsible_forces: null
-
+event_context: "2012 execution"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

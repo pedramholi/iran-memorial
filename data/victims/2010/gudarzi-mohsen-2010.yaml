@@ -3,7 +3,7 @@ name_latin: "Mohsen Gudarzi"
 name_farsi: "محسن گودرزی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -42,8 +42,7 @@ circumstances: >
     Mohsen Gudarzi was hanged at the Central Prison (Dastgerd) in Esfahan on
     September 21, 2010.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

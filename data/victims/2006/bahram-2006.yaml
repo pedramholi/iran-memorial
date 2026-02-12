@@ -2,8 +2,8 @@ id: bahram-2006
 name_latin: "Bahram"
 name_farsi: "بهرام"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Maku, Azerbaijan-e Gharbi Province"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -85,9 +85,8 @@ circumstances: >
     illegal armed demonstrations, riots and armed rebellions. Such forces are
     required to act immediately upon orders of the commander to restore order,
     disarm and collect w
-event_context: null
-responsible_forces: null
-
+event_context: "February 2006 protests"
+responsible_forces: "security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

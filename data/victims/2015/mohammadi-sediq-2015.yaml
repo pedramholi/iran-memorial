@@ -2,11 +2,21 @@ id: mohammadi-sediq-2015
 name_latin: "Sediq Mohammadi"
 name_farsi: "صدیق محمدی"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Javanrud Kermanshah"
+gender: male
+ethnicity: "Kurd"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/73766_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "Gardening (Flowers and Plants) student"
+family:
+  marital_status: "single"
+  notes: "son of a middle class family"
+personality: "pleasant, patient, and forgiving"
+beliefs: "proselytizing the Shafe'i religion"
+quotes:
+  - "\"I was trying to prevent people being taken advantage of in the name of religion.\""
 
 # --- DEATH ---
 date_of_death: 2015-03-04
@@ -86,7 +96,7 @@ circumstances: >
     Bokhara Seminary s mufti and director, and Molana Gergij [city of]
     Azadshahr Friday Prayer Imam, wrote open letters to the Leader [of the
     Islamic Republic] and
-event_context: null
+event_context: "executed on March 4, 2015"
 responsible_forces: null
 
 # --- VERIFICATION ---

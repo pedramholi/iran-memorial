@@ -3,7 +3,7 @@ name_latin: "Hossein Irantalab"
 name_farsi: "حسین ایران طلب"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -37,9 +37,8 @@ circumstances: >
     Hossein Irantalab to death by stoning. After the ruling was confirmed by
     the Supreme Court, he was stoned, in public, in Bandar Anzali on January
     31, 1989.
-event_context: null
-responsible_forces: null
-
+event_context: "execution by stoning on January 31, 1989"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,22 @@
 id: haqiqatpajuh-fatemeh-2008
 name_latin: "Fatemeh Haqiqatpajuh"
 name_farsi: "فاطمه حقیقت‌پژوه"
-date_of_birth: null
+date_of_birth: "1970-01-01"
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/74710_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "housewife"
+education: "diplomas for computing and doll-making"
+family:
+  marital_status: "married"
+  children: 2
+  notes: "married her first husband at 17, married Mr. Mohammad as a temporary marriage after separating from her first husband"
+quotes:
+  - "\"When I went to the court, I knew nothing about the law. I did not know what to say. I could not defend myself. I wanted to read my letters but the judge said there is no time. He asked me to tell them why I killed him. I had no attorney. I told everything. I told the truth. The judge said if there is an attorney, he should be present for the trial to become official.\""
 
 # --- DEATH ---
 date_of_death: 2008-11-26
@@ -86,8 +96,7 @@ circumstances: >
     told the truth. The judge said if there is an attorney, he should be
     present for the trial to become official. The
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

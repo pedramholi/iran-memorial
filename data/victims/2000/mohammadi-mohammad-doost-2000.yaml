@@ -1,12 +1,18 @@
 id: mohammadi-mohammad-doost-2000
 name_latin: "Mohammad Doost Mohammadi"
 name_farsi: "محمد دوست‌محمدی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1973-01-01"
+place_of_birth: "Tehran"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "professional"
+education: "ninth grade"
+family:
+  marital_status: "single"
 
 # --- DEATH ---
 date_of_death: 2000-01-01
@@ -64,9 +70,8 @@ circumstances: >
     under Mr. Doost Mohammadi (to hang him), but Mr. Doost Mohammadi
     recognized a soldier from his neighborhood (Hossein Abad-e Dollab) and
     asked him to be the one to kick off the chair (e-form 9/29/2020).
-event_context: null
-responsible_forces: null
-
+event_context: "execution in November 2000"
+responsible_forces: "Information Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

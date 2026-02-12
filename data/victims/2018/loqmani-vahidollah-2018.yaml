@@ -1,12 +1,15 @@
 id: loqmani-vahidollah-2018
 name_latin: "Vahidollah Loqmani"
 name_farsi: "وحیدالله لقمانی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1964-01-01"
+place_of_birth: "Afghanistan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "unknown"
 
 # --- DEATH ---
 date_of_death: 2018-08-28
@@ -45,9 +48,8 @@ circumstances: >
     Loqmani s defense. Judgment Mr. Loqmani was sentenced to death by hanging.
     He was executed, along with another person, in Raja i Shahr Prison in
     Karaj, on Tuesday August 28, 2018.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on August 28, 2018"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

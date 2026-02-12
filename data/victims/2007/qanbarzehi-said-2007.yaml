@@ -1,12 +1,18 @@
 id: qanbarzehi-said-2007
 name_latin: "Sa'id Qanbarzehi"
 name_farsi: "سعید قنبرزهی"
-date_of_birth: null
+date_of_birth: "1990-01-01"
 place_of_birth: null
-gender: null
-ethnicity: null
+gender: male
+ethnicity: "Baluch"
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/73108_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  notes: "Sa id was only 17. His uncle was shot by officials. His two brothers were executed. Fifty persons were executed from his grandfather's family since the beginning of the revolution."
+quotes:
+  - "we are from Qanbarzehi s tribe and more than a thousand of us have been killed and there is no family without a killed or executed member."
 
 # --- DEATH ---
 date_of_death: 2007-05-27
@@ -86,8 +92,7 @@ circumstances: >
     The court sentenced him for the crime of Moharebeh and Efsad fel-Arz.
     Based on information published by certain sources, Mr. Sa id Qanb
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -2,11 +2,17 @@ id: hemati-fatemeh-1995
 name_latin: "Fatemeh Hemati"
 name_farsi: "فاطمه همتی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Semnan"
+gender: female
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "widowed"
+  children: 3
+  notes: "One son executed in public in 1982, another son executed in 1984, daughter and son-in-law executed in summer 1988, daughter killed during Operation Chelcheraq."
 
 # --- DEATH ---
 date_of_death: 1995-01-01
@@ -85,9 +91,8 @@ circumstances: >
     Ms. Hemati and others who disappeared were killed on the basis of that
     same logic. (Boroumand Center research). Background of Extrajudicial
     Killings by the Islami
-event_context: null
-responsible_forces: null
-
+event_context: "Summer of 1988 mass killings"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

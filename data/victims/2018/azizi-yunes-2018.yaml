@@ -1,12 +1,17 @@
 id: azizi-yunes-2018
 name_latin: "Yunes Azizi"
 name_farsi: "یونس عزیزی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1973-01-01"
+place_of_birth: "Naqadeh, Azarbaijan-e Gharbi Province"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/82927_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "drug offender"
+family:
+  notes: "son of Mahmud"
 
 # --- DEATH ---
 date_of_death: 2018-12-10
@@ -43,9 +48,8 @@ circumstances: >
     Orumieh on Monday, December 10, 2018. His burial (Dec. 10, 2018) and
     memorial services (Dec. 11, 2018) was held at Seyed Abdollah Kamali Mosque
     in Orumieh.
-event_context: null
-responsible_forces: null
-
+event_context: "2018 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

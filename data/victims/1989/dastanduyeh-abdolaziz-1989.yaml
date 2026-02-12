@@ -3,7 +3,7 @@ name_latin: "Abdol'aziz Dastanduyeh"
 name_farsi: "عبدالعزیز دست اندویه"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -53,9 +53,8 @@ circumstances: >
     against the defendant. Defence No information is available on Mr.
     A'bdol'aziz Dastanduyeh's defence. Judgment Based on the court's ruling,
     Mr. A'bdol'aziz Dastanduyeh was hanged in Hamadan.
-event_context: null
-responsible_forces: null
-
+event_context: "1988"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

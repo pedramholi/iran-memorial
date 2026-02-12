@@ -1,12 +1,15 @@
 id: mozarmi-fariba-1999
 name_latin: "Fariba Mozarmi"
 name_farsi: "فریبا موزرمی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1963-01-01"
+place_of_birth: "Mahshahr"
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/84232_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "member and candidate of the leadership council of the Mojahedin Khalq Iran Organization"
 
 # --- DEATH ---
 date_of_death: 1999-06-09
@@ -85,9 +88,8 @@ circumstances: >
     Ms. Mozarmi s killing on her family. ---------------------------- *The
     exclusion of MKO members from government offices and the closure of their
     centers and publishing houses, in conjuncti
-event_context: null
-responsible_forces: null
-
+event_context: "1999 assassination of Mojahedin Khalq members"
+responsible_forces: "Islamic Republic of Iran’s Ministry of Information"
 # --- VERIFICATION ---
 status: unverified
 sources:

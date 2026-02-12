@@ -3,7 +3,7 @@ name_latin: "Hassan Ramyar"
 name_farsi: "حسن رامیار"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -43,9 +43,8 @@ circumstances: >
     presented against Mr. Ramyar. Defense No information is available on Mr.
     Ramyar's defense. Judgment Mr. Hassan Ramyar was hanged at the Kerman
     Prison yard on January 25, 2015.
-event_context: null
-responsible_forces: null
-
+event_context: "2015 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

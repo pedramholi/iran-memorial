@@ -1,9 +1,9 @@
 id: n-mokhtar-2005
 name_latin: "Mokhtar N."
 name_farsi: "مختار ن."
-date_of_birth: null
+date_of_birth: "2001-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -33,8 +33,7 @@ circumstances: >
     death sentence are not known. Mr. Mokhtar N. was executed, along with his
     co-defendant, at Bahonar Square in Gorgan.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic’s authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

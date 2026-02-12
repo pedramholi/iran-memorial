@@ -1,10 +1,10 @@
 id: ozbak-seyed-alam-2015
 name_latin: "Seyed Alam Ozbak"
 name_farsi: "سیدعلم ازبک"
-date_of_birth: null
+date_of_birth: "1989-01-01"
 place_of_birth: null
-gender: null
-ethnicity: null
+gender: male
+ethnicity: "Afghan"
 religion: "Presumed Muslim"
 photo: null
 
@@ -47,8 +47,7 @@ circumstances: >
     Ozbak was hanged, along with three others, at Zahedan Prison on March 7,
     2015.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

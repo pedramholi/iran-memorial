@@ -3,10 +3,16 @@ name_latin: "Habib"
 name_farsi: "حبیب"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "security guard"
+family:
+  marital_status: "married"
+  children: 1
 
 # --- DEATH ---
 date_of_death: 2004-09-29
@@ -58,8 +64,7 @@ circumstances: >
     executed by hanging on the morning of September 29, 2004 in Raja i Shahr
     Prison in Karaj. Before his execution, he wrote his will.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Basij"
 # --- VERIFICATION ---
 status: unverified
 sources:

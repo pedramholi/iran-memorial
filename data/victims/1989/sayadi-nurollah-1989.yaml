@@ -2,8 +2,8 @@ id: sayadi-nurollah-1989
 name_latin: "Nurollah Sayadi"
 name_farsi: "نورالله صیادی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Dargaz, Khorasan Razavi province"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -40,8 +40,7 @@ circumstances: >
     defendant’s execution. According to the Jomhuri Eslami newspaper, Mr.
     Nurollah Sayadi was hanged in public in Takhti Stadium of Dargaz.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

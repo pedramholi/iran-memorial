@@ -3,7 +3,7 @@ name_latin: "Mohammad Hojatabadi"
 name_farsi: "محمد حجت‌آبادی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -40,9 +40,8 @@ circumstances: >
     Mr. Hojatabadi's defense. Judgment Mr. Mohammad Hojatabadi was hanged at
     the Bam Central Prison between February 20 and 22, 2015. No specific
     information is available about this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "executions between February 20 and 22, 2015"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

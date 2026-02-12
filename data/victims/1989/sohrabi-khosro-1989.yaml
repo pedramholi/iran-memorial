@@ -3,10 +3,14 @@ name_latin: "Khosro Sohrabi"
 name_farsi: "خسرو سهرابی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "brother of Naser"
 
 # --- DEATH ---
 date_of_death: 1989-03-10
@@ -53,9 +57,8 @@ circumstances: >
     acts incompatible with chastity, forgery, and smuggling narcotics.”
     Defense No information is available on Mr. Sohrabi’s defense. Judgment
     Based on the court’s ruling, Mr. Khosro Sohrabi was hanged in Esfahan.
-event_context: null
-responsible_forces: null
-
+event_context: "1989"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

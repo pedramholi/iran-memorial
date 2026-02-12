@@ -3,7 +3,7 @@ name_latin: "Fath Ali Saberi"
 name_farsi: "فتح علی صابری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -36,8 +36,7 @@ circumstances: >
     Defense No information is available on the defense. Judgment Mr. Saberi
     was sentenced to death.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic’s authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Hossein S."
 name_farsi: "حسین ص."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -40,9 +40,8 @@ circumstances: >
     Judgment According to the available information, Mr. Hossein S. was hanged
     in Sanandaj Central Prison in July of 2009. However, there is no
     information available on the exact date of this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "execution in July 2009"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

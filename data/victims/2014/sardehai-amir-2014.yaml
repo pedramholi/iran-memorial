@@ -1,9 +1,9 @@
 id: sardehai-amir-2014
 name_latin: "Amir Sardeha’i"
 name_farsi: "امیر سردهایی"
-date_of_birth: null
+date_of_birth: "1990-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -47,9 +47,8 @@ circumstances: >
     Branch 12 of the Criminal Court of Azarbaijan-e Sharqi condemned Mr. Amir
     Sardeha i to death. The Supreme Court confirmed the ruling in 2010. He was
     hanged at the Tabriz Prison yard on June 9, 2014.
-event_context: null
-responsible_forces: null
-
+event_context: "2014 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

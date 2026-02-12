@@ -3,10 +3,14 @@ name_latin: "Hossein Hassanvand"
 name_farsi: "حسین حسنوند"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/85165_thumb.jpeg"
+
+# --- LIFE ---
+quotes:
+  - "He himself admitted to committing 40 counts of various crimes."
 
 # --- DEATH ---
 date_of_death: 2005-11-30

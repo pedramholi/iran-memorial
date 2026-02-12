@@ -2,11 +2,19 @@ id: worona-rita-1994
 name_latin: "Rita Worona"
 name_farsi: "ریتا ورونا"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Buenos Aires, Argentina"
+gender: female
 ethnicity: null
 religion: "Judaism"
 photo: null
+
+# --- LIFE ---
+occupation: "worked at AMIA’s Burial Service"
+family:
+  children: 1
+  notes: "her death was devastating for her son"
+quotes:
+  - "\"Only after three eternal days did they confirm that my mother’s body had been found; the most important person for me...\""
 
 # --- DEATH ---
 date_of_death: 1994-07-18
@@ -85,9 +93,8 @@ circumstances: >
     diplomats in Buenos Aires actively assisted Hezbollah. Mohsen Rabbani, who
     was in charge of the operation, was Iran’s newly appointed cultural
     attaché at the embassy (though he had been in Argentina for eleven
-event_context: null
-responsible_forces: null
-
+event_context: "AMIA bombing on July 18, 1994"
+responsible_forces: "Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

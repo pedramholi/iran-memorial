@@ -1,12 +1,22 @@
 id: ebrahimi-ebrahim-2018
 name_latin: "Ebrahim Ebrahimi"
 name_farsi: "ابراهیم ابراهیمی"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1962-05-30"
+place_of_birth: "Zivieh, Sardasht County, West Azarbaijan Province"
+gender: male
+ethnicity: "Kurdish"
 religion: "Non-Believer"
 photo: "https://www.iranrights.org/actorphotos/83894_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "political personnel"
+education: "high school diploma with a concentration on natural sciences"
+family:
+  marital_status: "married"
+personality: "quiet, ethical, sociable, and kind family man"
+beliefs: "believed in freedom of speech and democracy"
+quotes:
+  - "the plight of the Kurdish people was his main concern"
 
 # --- DEATH ---
 date_of_death: 2018-09-08
@@ -86,8 +96,7 @@ circumstances: >
     their leaders and members have been assassinated outside Iran, especially
     in Iraqi Kurdistan. In the years since the
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Democratic Party of Iranian Kurdistan"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -2,11 +2,25 @@ id: beheshti-sattar-2012
 name_latin: "Sattar Beheshti"
 name_farsi: "ستار بهشتی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Robat Karim"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/74799_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "day laborer"
+education: "middle school"
+family:
+  marital_status: "bachelor"
+  children: 0
+  notes: "breadwinner and legal guardian of his old and sick mother"
+personality: "loved a simple life"
+beliefs: "blogger"
+quotes:
+  - "It doesn t matter how long you live, and any person should have a fruitful life."
+  - "I have threatening calls day and night, as if we have to shut our mouths as soon as they say so. I, as an Iranian, say that I can t stay silent in the face of all this tragedy."
+  - "I won t stop talking, even if it means that I will die. Wherever I am, I don t care about the threats from anybody. You gentlemen shut your mouth, do not be cruel or we will expose you."
 
 # --- DEATH ---
 date_of_death: 2012-11-04
@@ -87,8 +101,7 @@ circumstances: >
     committee and the statement of the speaker of Judiciary, the arrest of Mr.
     Be
 event_context: null
-responsible_forces: null
-
+responsible_forces: "FATA Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Majid"
 name_farsi: "مجید"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -47,9 +47,8 @@ circumstances: >
     paying one million Rials fine, and 20 lashes for his addiction to opium.
     He was hanged in Qazvin in 2004. No specific information is available
     about this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "2004"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

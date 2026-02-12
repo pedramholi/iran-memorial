@@ -3,7 +3,7 @@ name_latin: "Shamsoddin Darvakh Gorgij"
 name_farsi: "شمس الدین درواخ گرگیج"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -40,9 +40,8 @@ circumstances: >
     Judgment The court condemned Mr. Shamsoddin Darvakh Gorgij to death and
     the ruling was confirmed by the Supreme Judicial officials. He was hanged
     in the Zahedan prison yard on November 24, 2007.
-event_context: null
-responsible_forces: null
-
+event_context: "2007 execution"
+responsible_forces: "IRGC"
 # --- VERIFICATION ---
 status: unverified
 sources:

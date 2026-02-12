@@ -3,10 +3,13 @@ name_latin: "Kh. Ahmadi"
 name_farsi: "خ. احمدی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "worked in a bakery"
 
 # --- DEATH ---
 date_of_death: 2015-05-13
@@ -49,8 +52,7 @@ circumstances: >
     Qazvin Central Prison on May 13, 2015. The other defendant was condemned
     to 8 years imprisonment and 99 lashes.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Qazvin General Courthouse"
 # --- VERIFICATION ---
 status: unverified
 sources:

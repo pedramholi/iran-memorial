@@ -1,12 +1,22 @@
 id: taqizadeh-rafeq-nazeruglu-2011
 name_latin: "Rafeq Nazeruglu Taqizadeh"
 name_farsi: "رافق ناظراوغلو تقی‌زاده"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1950-01-01"
+place_of_birth: "Chobanli, Masali region, Republic of Azerbaijan"
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: "https://www.iranrights.org/actorphotos/84531_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "physician"
+education: "high school diploma; specialization in cardiology"
+family:
+  marital_status: "married"
+  children: 2
+beliefs: "member and director of the Azerbaijan Free Writers Union"
+quotes:
+  - "He would recount a story with great enthusiasm and would laugh along with us. He would laugh so hard that tears would roll down his eyes."
 
 # --- DEATH ---
 date_of_death: 2011-11-23

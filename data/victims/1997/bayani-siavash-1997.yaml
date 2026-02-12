@@ -3,10 +3,17 @@ name_latin: "Siavash Bayani"
 name_farsi: "سیاوش بیانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/37489_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "pilot"
+family:
+  notes: "moved to the United States as a political refugee in 1983"
+quotes:
+  - "giving secret military information to the United States"
 
 # --- DEATH ---
 date_of_death: 1997-01-01
@@ -47,8 +54,7 @@ circumstances: >
     he was executed in the Evin prison yard. The media reported the date of
     this execution as a week before publishing its news.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Security Intelligence of the Islamic Republic Army"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,10 +3,15 @@ name_latin: "Fazel Khodadad"
 name_farsi: "فاضل خداداد"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/39585_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "businessman"
+family:
+  notes: "His family, especially his brother, had close ties with the royal family of the previous regime."
 
 # --- DEATH ---
 date_of_death: 1995-11-22
@@ -59,8 +64,7 @@ circumstances: >
     to Evin Prison and hanged. Mr. Khodadad was also sentenced to flogging
     which was implemented right before his execution. (e-form 03/06/2020)
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

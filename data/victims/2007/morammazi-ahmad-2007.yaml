@@ -1,12 +1,18 @@
 id: morammazi-ahmad-2007
 name_latin: "Ahmad Morammazi"
 name_farsi: "احمد مرمضی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1973-01-01"
+place_of_birth: "Sarbandar, Khuzestan Province"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+education: "middle school"
+family:
+  marital_status: "married"
+  children: 2
 
 # --- DEATH ---
 date_of_death: 2007-12-31
@@ -85,9 +91,8 @@ circumstances: >
     statement, then-President Mahmud Ahmadinejad spoke of the clear and
     obvious footprint of Iraq s occupiers in the Khuzestan incidents. ( ISNA ,
     January 25, 2006). The B
-event_context: null
-responsible_forces: null
-
+event_context: "Ahvaz bombings case"
+responsible_forces: "Iranian authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

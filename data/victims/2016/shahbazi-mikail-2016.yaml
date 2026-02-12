@@ -1,12 +1,23 @@
 id: shahbazi-mikail-2016
 name_latin: "Mika'il Shahbazi"
 name_farsi: "میکائیل شهبازی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1977-01-01"
+place_of_birth: "Khalkhal, Ardebil"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/74744_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "butcher"
+education: "high school graduate"
+family:
+  marital_status: "married"
+  children: 1
+  notes: "father of a nine-year-old daughter"
+personality: "independent, kind, and supportive individual"
+quotes:
+  - "I always worked for my living and had no tendency towards narcotics."
 
 # --- DEATH ---
 date_of_death: 2016-05-24
@@ -85,9 +96,8 @@ circumstances: >
     Objections Regarding Mr. Shahbazi s Trial 1-According to the court ruling
     issued by Branch Four of the Islamic Revolutionary Court of Karaj, Mr.
     Mika il Shahbazi only confessed to producing methamphet
-event_context: null
-responsible_forces: null
-
+event_context: "arrested on February 14, 2013"
+responsible_forces: "Drug Control and Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

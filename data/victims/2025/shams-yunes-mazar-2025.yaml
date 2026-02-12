@@ -1,12 +1,18 @@
 id: shams-yunes-mazar-2025
 name_latin: "Yunes Mazar Shams"
 name_farsi: "یونس مزارشمس"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1979-01-01"
+place_of_birth: "Herat"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "janitor"
+family:
+  marital_status: "married"
+  children: 3
 
 # --- DEATH ---
 date_of_death: 2025-09-11
@@ -52,9 +58,8 @@ circumstances: >
     Central Prison (Chubin Dar). As of this writing, Iranian domestic media
     and official sources had not officially announced the executions of these
     two prisoners (Iran Human Rights Organization, September 13, 2025).
-event_context: null
-responsible_forces: null
-
+event_context: "September 11, 2025 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,20 @@
 id: moqadam-abdollah-farivar-2009
 name_latin: "Abdollah Farivar Moqadam"
 name_farsi: "عبدالله فریور مقدم"
-date_of_birth: null
+date_of_birth: "1959-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/81467_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "music instructor"
+family:
+  marital_status: "married"
+  children: 2
+quotes:
+  - "On December 5, 2004, Mr. Abbas Ghannad filed a complaint with the City of Sari General Prosecutor s Office against me, Abdollah Farivar Moghaddam, alleging Eghfal [that I had enticed and duped] his daughter Naghmeh Sadat Ghannad, [into having sexual relations] and requested that the case be sent to the Sari Police Force Information Office to be investigated."
 
 # --- DEATH ---
 date_of_death: 2009-02-19
@@ -87,8 +95,7 @@ circumstances: >
     Recently I noticed that Mr. Farivar had taken advantage of my daughter s
     emo
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Sari Police Force"
 # --- VERIFICATION ---
 status: unverified
 sources:

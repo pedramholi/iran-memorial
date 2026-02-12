@@ -2,8 +2,8 @@ id: hassani-rauf-2015
 name_latin: "Ra'uf Hassani"
 name_farsi: "رئوف حسنی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Baneh"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -40,8 +40,7 @@ circumstances: >
     Central Prison on September 16, 2015. No specific information is available
     about this execution.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

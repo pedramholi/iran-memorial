@@ -1,12 +1,23 @@
 id: hajizadeh-karun-hajizadeh-pur-1998
 name_latin: "Karun Hajizadeh (Pur Hajizadeh)"
 name_farsi: "کارون حاجی زاده (پورحاجی زاده)"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1989-01-01"
+place_of_birth: "Kerman"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/71614_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "primary school student"
+family:
+  marital_status: "single"
+  children: 0
+  notes: "youngest of three boys; father was a poet, writer, and literature teacher"
+personality: "studious and very kind; affectionate; organized; goodhearted"
+quotes:
+  - "I can t eat my bananas if I don t share them with my friends"
+  - "I can t enjoy eating the banana if I am the only one having it , he told his mother when caught, but I do, if I share with them."
 
 # --- DEATH ---
 date_of_death: 1998-09-22
@@ -85,9 +96,8 @@ circumstances: >
     Their mother was sleeping in another room and seemed unconscious. They
     could not wake her up. She was asleep at the time of the murder and was,
     according to them, sedated by the killers. (Report of Story 1 Sohrab s Che
-event_context: null
-responsible_forces: null
-
+event_context: "Chain Murders"
+responsible_forces: "Ministry of Intelligence"
 # --- VERIFICATION ---
 status: unverified
 sources:

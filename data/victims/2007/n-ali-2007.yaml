@@ -3,7 +3,7 @@ name_latin: "Ali N."
 name_farsi: "علی ن."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -36,8 +36,7 @@ circumstances: >
     court condemned Mr. Ali N. to death. He was hanged in the presence of the
     victim’s family and the judiciary officials of Bandar Anzali.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

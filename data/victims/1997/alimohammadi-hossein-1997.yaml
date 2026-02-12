@@ -3,7 +3,7 @@ name_latin: "Hossein Alimohammadi"
 name_farsi: "حسین علی محمدی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -47,8 +47,7 @@ circumstances: >
     Court, he was hanged in the presence of the victim’s family, the prison
     officials, and the security forces at Shahrud prison on November 18, 1997.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

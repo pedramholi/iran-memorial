@@ -1,12 +1,21 @@
 id: tazmipur-farzad-ansari-2019
 name_latin: "Farzad Ansari (Tazmipur)"
 name_farsi: "فرزاد انصاری (تزمی‌پور)"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1992-02-27"
+place_of_birth: "Behbahan, Khuzestan Province"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/86909_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "construction worker"
+education: "high school"
+family:
+  marital_status: "single"
+  children: 0
+  notes: "fourth child in his family"
+personality: "healthy, humble, and moral"
 
 # --- DEATH ---
 date_of_death: 2019-11-16
@@ -85,9 +94,8 @@ circumstances: >
     execution According to available information, Farzad Ansarifar was shot
     and killed during protests in Behbahan, Khuzestan Province, on November
     16, 2019. (ABC interview, March 4, 2021). Clashes broke
-event_context: null
-responsible_forces: null
-
+event_context: "2019 November protests"
+responsible_forces: "security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

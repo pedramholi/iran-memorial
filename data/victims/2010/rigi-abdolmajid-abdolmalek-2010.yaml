@@ -1,12 +1,17 @@
 id: rigi-abdolmajid-abdolmalek-2010
 name_latin: "Abdolmajid (Abdolmalek) Rigi"
 name_farsi: "عبدالمجید (عبدالمالک) ریگی"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1979-01-01"
+place_of_birth: "Zahedan, Sistan and Baluchestan Province"
+gender: male
+ethnicity: "Baluch"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/76244_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  notes: "born into a very large and relatively poor family of the Rigi tribe, had six brothers"
 
 # --- DEATH ---
 date_of_death: 2010-06-20
@@ -85,9 +90,8 @@ circumstances: >
     regret and pledging not to support the Taliban and Al Qaeda, he was
     released in the spring of 2002 and returned to Iran. Based on available
     information, Mr. Rigi was stricken with mental and psychological illn
-event_context: null
-responsible_forces: null
-
+event_context: "post-September 11, 2001"
+responsible_forces: "Al-Qaeda"
 # --- VERIFICATION ---
 status: unverified
 sources:

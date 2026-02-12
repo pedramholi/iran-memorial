@@ -3,10 +3,13 @@ name_latin: "Mohammad Aqa Aqa'i"
 name_farsi: "محمد آقا آقایی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+beliefs: "supporter of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1997-01-10
@@ -86,9 +89,8 @@ circumstances: >
     the Middle East; Cyprus, France, Italy, Austria, Switzerland, Germany,
     Norway, Sweden, and Great Britain in Europe; and the United States across
     th
-event_context: null
-responsible_forces: null
-
+event_context: "Alghadir operation"
+responsible_forces: "Information Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

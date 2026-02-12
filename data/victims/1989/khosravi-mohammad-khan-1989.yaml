@@ -3,7 +3,7 @@ name_latin: "Mohammad Khan Khosravi"
 name_farsi: "محمد خان خسروی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -45,9 +45,8 @@ circumstances: >
     information is available on Mr. Khosravi’s defense. Judgment The court
     condemned Mr. Mohammad Khan Khosravi to death and he was hanged in
     Bakhtaran on March 1, 1989.
-event_context: null
-responsible_forces: null
-
+event_context: "1989 law imposing mandatory death sentences on drug traffickers"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

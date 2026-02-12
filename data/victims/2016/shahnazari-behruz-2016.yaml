@@ -1,12 +1,18 @@
 id: shahnazari-behruz-2016
 name_latin: "Behruz Shahnazari"
 name_farsi: "بهروز شاه‌نظری"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1985-01-01"
+place_of_birth: "Sanandaj"
+gender: male
+ethnicity: "Kurd"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/76095_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "studying religious subject matters of the Sunni faith"
+education: "high school diploma with a concentration in the sciences"
+family:
+  marital_status: "single"
 
 # --- DEATH ---
 date_of_death: 2016-08-02
@@ -86,9 +92,8 @@ circumstances: >
     a declaration and demanded that they be rescinded. Furthermore, Amnesty
     International, Human Rights Watch, Human Rights Defenders, and the
     Abdorrah
-event_context: null
-responsible_forces: null
-
+event_context: "execution of 25 individuals on August 2, 2016"
+responsible_forces: "IRGC"
 # --- VERIFICATION ---
 status: unverified
 sources:

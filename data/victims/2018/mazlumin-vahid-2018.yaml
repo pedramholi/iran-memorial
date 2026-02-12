@@ -1,12 +1,22 @@
 id: mazlumin-vahid-2018
 name_latin: "Vahid Mazlumin"
 name_farsi: "وحید مظلومین"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1962-03-27"
+place_of_birth: "Tehran"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/82928_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "businessman"
+education: "high school diploma"
+family:
+  marital_status: "married"
+  children: 1
+  notes: "child of Habibollah"
+quotes:
+  - "I had been arrested on July 1, 2018"
 
 # --- DEATH ---
 date_of_death: 2018-11-14
@@ -85,9 +95,8 @@ circumstances: >
     conditions the country was in and what crises, issues, and hardships had
     been caused by sanctions and the resulting shortage of the country s
     currency sources. He did this in spite
-event_context: null
-responsible_forces: null
-
+event_context: "financial crimes committed in 2018 in Tehran"
+responsible_forces: "Tehran Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

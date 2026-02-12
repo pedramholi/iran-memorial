@@ -1,12 +1,15 @@
 id: h-m-2016
 name_latin: "M. H."
 name_farsi: "م. ح."
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1976-01-01"
+place_of_birth: "Kuwar or Kouhmareh Sorkhi counties of Fars Province"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "drug trafficker"
 
 # --- DEATH ---
 date_of_death: 2016-01-10
@@ -53,9 +56,8 @@ circumstances: >
     of Larestan Prison on January 10, 2016. The issued verdict stated that the
     convicts should be hanged publicly; however, for security reasons they
     were hanged inside the prison.
-event_context: null
-responsible_forces: null
-
+event_context: "2015 drug trafficking case"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,20 @@
 id: v-mahmud-2015
 name_latin: "Mahmud V."
 name_farsi: "محمود و."
-date_of_birth: null
+date_of_birth: "1988-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "loader driver"
+education: "five-grade education"
+family:
+  marital_status: "single"
+quotes:
+  - "During his execution ceremony, he expressed regret."
 
 # --- DEATH ---
 date_of_death: 2015-01-04
@@ -56,9 +64,8 @@ circumstances: >
     presence of the Public Prosecutor and the Police Commander of Binalud and
     hundreds of people in Torqabeh. He was hanged in public in front of the
     Torqabeh Fire Station on January 4, 2015.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on January 4, 2015"
+responsible_forces: "Intelligence Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

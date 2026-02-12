@@ -3,7 +3,7 @@ name_latin: "Davud A'marzadeh"
 name_farsi: "داوود اعمارزاده"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -39,8 +39,7 @@ circumstances: >
     26, 2015, at the Tabriz Central Prison. There is no information on the
     details of the verdict leading to this execution.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

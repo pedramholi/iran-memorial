@@ -3,7 +3,7 @@ name_latin: "Akbar Purnakha'i Abdolabadi"
 name_farsi: "اکبر پورنخعی عبدل آبادی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -58,9 +58,8 @@ circumstances: >
     The Islamic Revolutionary court condemned Mr. Akbar Purnakha’i Abdolabadi
     to death as a corruptor on earth. He was hanged in public on February 14,
     1989 in Kerman.
-event_context: null
-responsible_forces: null
-
+event_context: "1989 execution"
+responsible_forces: "Islamic Revolutionary court"
 # --- VERIFICATION ---
 status: unverified
 sources:

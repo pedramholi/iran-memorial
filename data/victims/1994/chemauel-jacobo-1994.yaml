@@ -2,11 +2,14 @@ id: chemauel-jacobo-1994
 name_latin: "Jacobo Chemauel"
 name_farsi: "خاکوبو چموئل"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Buenos Aires, Argentina"
+gender: male
 ethnicity: null
 religion: "Judaism"
 photo: null
+
+# --- LIFE ---
+occupation: "worked at AMIA’s Maintenance Department"
 
 # --- DEATH ---
 date_of_death: 1994-07-18
@@ -86,7 +89,7 @@ circumstances: >
     he was bestowed diplomatic immunity only in March) and was in charge of
     logistics for the operation. Aiding him was Ahmad Asghari, the 3rd
     Secretary a
-event_context: null
+event_context: "AMIA bombing"
 responsible_forces: null
 
 # --- VERIFICATION ---

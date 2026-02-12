@@ -1,9 +1,9 @@
 id: moradizadeh-qasem-2015
 name_latin: "Qasem Moradizadeh"
 name_farsi: "قاسم مرادی‌زاده"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1980-01-01"
+place_of_birth: "Yazd"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -43,9 +43,8 @@ circumstances: >
     Mr. Moradizadeh's defense. Judgment Mr. Qasem Moradizadeh was hanged in
     Bandar-e Abbas on February 22, 2015. No further information is available
     regarding this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "2015 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

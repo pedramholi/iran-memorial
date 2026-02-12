@@ -1,12 +1,21 @@
 id: mokhtari-mohammad-1998
 name_latin: "Mohammad Mokhtari"
 name_farsi: "محمد مختاری"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1942-04-21"
+place_of_birth: "Mashhad"
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: "https://www.iranrights.org/actorphotos/28411_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "poet"
+education: "Ferdosi University, majoring in Persian Language and Literature"
+family:
+  marital_status: "married"
+  children: 2
+quotes:
+  - "We are writers; that is, we write about and publish our feelings, thoughts and research in various forms. It is our natural, social and civil right to see our work be it poetry or fiction, plays or screenplays, criticism or research work, and even translation[s] of other writers work reach our readers freely and without restriction. No person or institution, under any pretext, should be allowed to hamper the publication of these works. Needless to say, any published work is open to free criticism and judgment by all. While obstacles which face us in our thinking and writing far exceed our individual means and power, we have no alternative but to confront them through collective professional channels, i.e. to unite in order to achieve freedom of thought and expression and to fight against censorship We reiterate that we are writers and expect to be seen as such, and that our collective presence [is] to be understood as the professional representation of Iranian writers."
 
 # --- DEATH ---
 date_of_death: 1998-12-03
@@ -85,9 +94,8 @@ circumstances: >
     strangled on December 3 (testimony of Sohrab Mokhtari; Amnesty
     International, 1988). State Investigation Prior to Mr. Mokhtari s murder,
     Mr. Dariush and Ms.Parv
-event_context: null
-responsible_forces: null
-
+event_context: "1998 serial killings"
+responsible_forces: "Ministry of Information (Security)"
 # --- VERIFICATION ---
 status: unverified
 sources:

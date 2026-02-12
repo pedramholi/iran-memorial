@@ -3,10 +3,13 @@ name_latin: "Salim K."
 name_farsi: "سلیم ک."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "wiring worker"
 
 # --- DEATH ---
 date_of_death: 2015-05-27
@@ -57,9 +60,8 @@ circumstances: >
     and in the presence of the Revolutionary Public Prosecutor of Mashhad,
     Police Commander in Mashhad, and the victims families at Moslem Street in
     the Gase-Sharqi quarter in Mashhad on May 27, 2015.
-event_context: null
-responsible_forces: null
-
+event_context: "2011 arrest and 2015 execution"
+responsible_forces: "Intelligence Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

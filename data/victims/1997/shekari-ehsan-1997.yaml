@@ -1,12 +1,18 @@
 id: shekari-ehsan-1997
 name_latin: "Ehsan Shekari"
 name_farsi: "احسان شکاری"
-date_of_birth: null
+date_of_birth: "1973-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "fugitive soldier"
+family:
+quotes:
+  - "On April 17, 1996 at 5 am, I woke up anxiously with the cry of my son, Mohsen When I entered his room, I saw him submerged in his blood, and a bloody knife was in the hand of the murderer. I tried to catch the knife but it cut my hand and the killer was able to escape."
 
 # --- DEATH ---
 date_of_death: 1997-09-21
@@ -63,8 +69,7 @@ circumstances: >
     prison (Tehran) in the presence of the victim s family and the officials
     on September 21, 1997.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,24 @@
 id: haki-farshid-2018
 name_latin: "Farshid Haki"
 name_farsi: "فرشید هکی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1974-12-16"
+place_of_birth: "Arak"
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: "https://www.iranrights.org/actorphotos/85859_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "lecturer, practising lawyer"
+education: "dual B.A. in economics and human rights, PhD in economics"
+family:
+  marital_status: "married"
+  children: 1
+personality: "loved reading and writing. He enjoyed a good financial and social status."
+beliefs: "socialist"
+quotes:
+  - "People have nothing to lose but their chains."
+  - "buddy of child labourers"
 
 # --- DEATH ---
 date_of_death: 2018-10-17

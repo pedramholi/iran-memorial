@@ -1,12 +1,24 @@
 id: mohammadi-hushyar-2012
 name_latin: "Hushyar Mohammadi"
 name_farsi: "هوشیار محمدی"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1988-01-01"
+place_of_birth: "Shirkesh Village, Bijar"
+gender: male
+ethnicity: "Kurd"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/73003_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "computer student"
+education: "Kurdestan University"
+family:
+  marital_status: "single"
+  children: 0
+  notes: "only son of his farming family"
+personality: "calm, cheerful, and reserved"
+beliefs: "follower of the Shafei religion"
+quotes:
+  - "He was a religious person, though not an affiliate of any group or organization."
 
 # --- DEATH ---
 date_of_death: 2012-12-27
@@ -85,9 +97,8 @@ circumstances: >
     Evidence of guilt No information is available regarding the evidence
     provided against Mr. Mohammadi. However, according to the testimony of the
     defendants, the confessions coerced during interrogations were
-event_context: null
-responsible_forces: null
-
+event_context: "arrested on September 19, 2009"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

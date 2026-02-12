@@ -3,7 +3,7 @@ name_latin: "Mostafa Shirazi"
 name_farsi: "مصطفی شیرازی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -42,9 +42,8 @@ circumstances: >
     condemned Mr. Mostafa Shirazi to death and the Supreme Court confirmed the
     ruling. He was hanged in the presence of officials and the public in Namaz
     Square of Manzarieh in Khomeini Shahr on July 1, 2007.
-event_context: null
-responsible_forces: null
-
+event_context: "2007 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

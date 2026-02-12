@@ -3,7 +3,7 @@ name_latin: "Sajad Mokhtari"
 name_farsi: "سجاد مختاری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -44,9 +44,8 @@ circumstances: >
     is available about Mr. Mokhtari s defense. Judgment The court condemned
     Mr. Sajad Mokhtari to death and Branch 22 of the Supreme Court confirmed
     the ruling. He was hanged in public in Shiraz on January 17, 2015.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on January 17, 2015"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,10 +3,14 @@ name_latin: "Jalil Purjalali"
 name_farsi: "جلیل پورجلالی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "murder and illegal acts"
 
 # --- DEATH ---
 date_of_death: 2000-04-10
@@ -32,7 +36,7 @@ circumstances: >
     addition to ten years imprisonment and 80 lashes for murder and illegal
     acts . Branch 22 of the Supreme Court confirmed the ruling. He was hanged
     at the Qasr Prison yard on April 10, 2000.
-event_context: null
+event_context: "execution on April 10, 2000"
 responsible_forces: null
 
 # --- VERIFICATION ---

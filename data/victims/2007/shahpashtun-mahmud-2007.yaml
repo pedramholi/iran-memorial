@@ -3,7 +3,7 @@ name_latin: "Mahmud Shahpashtun"
 name_farsi: "محمود شاه پشتون"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -41,8 +41,7 @@ circumstances: >
     death and the ruling was confirmed by the Supreme Judicial officials. He
     was hanged in the Zahedan prison yard on December 2, 2007.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "IRGC"
 # --- VERIFICATION ---
 status: unverified
 sources:

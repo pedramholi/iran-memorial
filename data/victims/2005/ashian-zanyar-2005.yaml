@@ -2,11 +2,18 @@ id: ashian-zanyar-2005
 name_latin: "Zanyar Ashian"
 name_farsi: "زانیار آشیان"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Sanandaj"
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+occupation: "technician"
+education: "10th grade"
+family:
+  notes: "lost his father when he was very young; supported the Democratic Party of Iranian Kurdistan (PDKI); two of his brothers were PDKI peshmerga"
+beliefs: "supported the Democratic Party of Iranian Kurdistan (PDKI)"
 
 # --- DEATH ---
 date_of_death: 2005-08-06
@@ -45,9 +52,8 @@ circumstances: >
     were arrested. The protests went on for weeks despite the harsh repression
     by the government s security forces, during at which protesters destroyed
     various State-owned properties (Amnesty International, February 16, 2006).
-event_context: null
-responsible_forces: null
-
+event_context: "protests following the death of Kamal Asfarm on August 6, 2005"
+responsible_forces: "security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,10 +1,10 @@
 id: shamusi-yusef-2005
 name_latin: "Yusef Shamusi"
 name_farsi: "یوسف شموسی"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1991-01-01"
+place_of_birth: "Ahvaz"
+gender: male
+ethnicity: "Arab"
 religion: "Islam"
 photo: null
 
@@ -85,9 +85,8 @@ circumstances: >
     Iranian Arabs, some 2 to 3 million individuals, comprising
     approximately*** 3% of the country s population, reside in Khuzestan,
     Bushehr, Hormozgan, Fars, and Khorasan provinces. The largest numb
-event_context: null
-responsible_forces: null
-
+event_context: "protests in Khuzestan, April 2005"
+responsible_forces: "security and police forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

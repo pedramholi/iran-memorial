@@ -3,7 +3,7 @@ name_latin: "Ali Reza Sabahi"
 name_farsi: "علیرضا صباحی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/75606_thumb.jpeg"
@@ -36,9 +36,8 @@ circumstances: >
     Court rejected this ruling and condemned her to 12 years imprisonment and
     99 lashes. The other defendant was not executed due to a pardon by the
     victim s family.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on January 17, 2001"
+responsible_forces: "Criminal Court in Tehran"
 # --- VERIFICATION ---
 status: unverified
 sources:

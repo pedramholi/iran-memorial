@@ -3,7 +3,7 @@ name_latin: "Mas'ud Dehvari"
 name_farsi: "مسعود دهواری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
@@ -31,8 +31,7 @@ circumstances: >
     death and the Supreme Court confirmed the ruling. He was hanged in public
     at the Aspich Village on July 23, 2004.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "General Court of Saravan"
 # --- VERIFICATION ---
 status: unverified
 sources:

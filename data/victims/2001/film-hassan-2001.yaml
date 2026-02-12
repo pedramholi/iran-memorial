@@ -3,10 +3,16 @@ name_latin: "Hassan Film"
 name_farsi: "حسن فیلم"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  children: 1
+  notes: "father of one daughter"
 
 # --- DEATH ---
 date_of_death: 2001-01-07

@@ -49,3 +49,4 @@ scripts/boroumand_master.json
 scripts/boroumand_matches.json
 scripts/boroumand_details.json
 scripts/__pycache__/
+.extract-progress.json

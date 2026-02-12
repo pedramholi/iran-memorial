@@ -2,11 +2,14 @@ id: janlu-ali-1998
 name_latin: "Ali Janlu"
 name_farsi: "علی جانلو"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Galugah, Mazandaran Province"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+beliefs: "supporter of the Mojahedin e Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1998-01-05
@@ -85,9 +88,8 @@ circumstances: >
     implementation of these crimes. Iranian authorities have not officially
     accepted responsibility for these murders and have even attributed their
     commission to internal strife in opposition groups. Nevertheless, s
-event_context: null
-responsible_forces: null
-
+event_context: "summer of 1988"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

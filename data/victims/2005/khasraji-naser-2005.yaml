@@ -3,8 +3,8 @@ name_latin: "Naser Khasraji"
 name_farsi: "ناصر خسرجی"
 date_of_birth: null
 place_of_birth: null
-gender: null
-ethnicity: null
+gender: male
+ethnicity: "Arab"
 religion: "Islam"
 photo: null
 
@@ -86,9 +86,8 @@ circumstances: >
     approximately*** 3% of the country s population, reside in Khuzestan,
     Bushehr, Hormozgan, Fars, and Khorasan provinces. The largest number of
     Arabs reside in t
-event_context: null
-responsible_forces: null
-
+event_context: "protests in Khuzestan, between April 15th and 24th, 2005"
+responsible_forces: "security and police forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Mohsen Ne'mati"
 name_farsi: "محسن نعمتی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -42,9 +42,8 @@ circumstances: >
     defendants in this case, were executed on the morning of July 29, 2015, in
     public, on Shahid Beheshti Boulevard, the north side of Golshahr 45 metri
     Street, Alborz Province. The prosecutor of Karaj was in attendance.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on July 29, 2015"
+responsible_forces: "Alborz Province Ministry of Justice"
 # --- VERIFICATION ---
 status: unverified
 sources:

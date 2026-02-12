@@ -2,11 +2,21 @@ id: lew-agustin-diego-1994
 name_latin: "Agustin Diego Lew"
 name_farsi: "آگوستین دیگو لئو"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Buenos Aires"
+gender: male
 ethnicity: null
 religion: "Judaism"
 photo: "https://www.iranrights.org/actorphotos/11911_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "student"
+education: "Economic Sciences at the Universidad Argentina de la Empresa (UADE)"
+family:
+  notes: "protective of his younger brother; his mother was also injured in the bombing"
+personality: "serious, but witty, and enjoyed the humor of the Argentinean comedy group Les Luthiers"
+beliefs: "committed to Judaism"
+quotes:
+  - "His body was found on July 21, 1994, it was his father’s birthday."
 
 # --- DEATH ---
 date_of_death: 1994-07-18
@@ -85,9 +95,8 @@ circumstances: >
     commander of a special branch of the Islamic Republican Guards. The
     bombing was carried out in Argentina by a group of Hezbollah agents with
     the help of Iranian diplomats stationed at the embassy in
-event_context: null
-responsible_forces: null
-
+event_context: "AMIA bombing on July 18, 1994"
+responsible_forces: "Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

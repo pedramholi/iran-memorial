@@ -3,7 +3,7 @@ name_latin: "Kiumars"
 name_farsi: "کیومرث"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -44,9 +44,8 @@ circumstances: >
     of the Sentence Enforcement of the Courthouse at Raja ishahr Prison in
     Karaj on August 20, 2000 in the morning. No more specific information is
     available about this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "2000 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

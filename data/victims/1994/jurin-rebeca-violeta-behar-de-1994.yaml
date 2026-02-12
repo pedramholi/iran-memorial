@@ -2,11 +2,18 @@ id: jurin-rebeca-violeta-behar-de-1994
 name_latin: "Rebeca Violeta Behar de Jurin"
 name_farsi: "ربکا ویولتا بهار دخورن"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Buenos Aires, Argentina"
+gender: female
 ethnicity: null
 religion: "Judaism"
 photo: "https://www.iranrights.org/actorphotos/11801_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "obstetrician"
+family:
+  children: 1
+  notes: "some grandchildren"
+beliefs: "leader at the OSFA (Organización Sionista Femenina Argentina, Women’s Argentine Zionist Organization)"
 
 # --- DEATH ---
 date_of_death: 1994-07-18
@@ -86,7 +93,7 @@ circumstances: >
     a danger point for terrorism. From the evidence gathered, two Iranian
     diplomats in Buenos Aires actively assisted Hezbollah. Mohsen Rabbani, who
     wa
-event_context: null
+event_context: "AMIA bombing on July 18, 1994"
 responsible_forces: null
 
 # --- VERIFICATION ---

@@ -1,9 +1,9 @@
 id: bandu-mohsen-2010
 name_latin: "Mohsen Bandu"
 name_farsi: "محسن بندو"
-date_of_birth: null
+date_of_birth: "2001-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -45,8 +45,7 @@ circumstances: >
     Bandu was hanged in Bandar-e Abbas Prison in 2010. No specific information
     is available about his execution.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

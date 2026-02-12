@@ -3,7 +3,7 @@ name_latin: "Beitollah Maleki"
 name_farsi: "بیت‌الله ملکی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -45,9 +45,8 @@ circumstances: >
     Court confirmed the ruling. He was hanged, along with four others, in Raja
     ishahr Prison in November of 2002. No specific information is available
     about his execution.
-event_context: null
-responsible_forces: null
-
+event_context: "November 2002"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

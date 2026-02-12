@@ -1,12 +1,23 @@
 id: moradi-eqbal-2018
 name_latin: "Eqbal Moradi"
 name_farsi: "اقبال مرادی"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
-religion: "Presumed Muslim"
+date_of_birth: "1963-01-01"
+place_of_birth: "Hajmne, Marivan, Kurdistan Province"
+gender: male
+ethnicity: "Kurdish"
+religion: "Shafe'i Sunni"
 photo: "https://www.iranrights.org/actorphotos/83764_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "human rights activist"
+education: "high school diploma"
+family:
+  marital_status: "married"
+  children: 2
+personality: "empathetic, quiet, modest, and rather shy individual, who kept his promises and was open to criticism"
+beliefs: "human rights activist"
+quotes:
+  - "My activities were more political than military, and it just consisted of giving interviews, reading books, etc."
 
 # --- DEATH ---
 date_of_death: 2018-07-18

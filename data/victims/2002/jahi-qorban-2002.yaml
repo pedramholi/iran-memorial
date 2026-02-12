@@ -2,11 +2,17 @@ id: jahi-qorban-2002
 name_latin: "Qorban Jahi"
 name_farsi: "قربان جاهی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Colvanaq, Heris, Azerbaijan-e Sharqi"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  children: 2
+  notes: "had two wives"
 
 # --- DEATH ---
 date_of_death: 2002-01-01

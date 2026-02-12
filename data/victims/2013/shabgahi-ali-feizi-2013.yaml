@@ -1,12 +1,16 @@
 id: shabgahi-ali-feizi-2013
 name_latin: "Ali Feizi Shabgahi"
 name_farsi: "علی فیضی شبگاهی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1956-01-01"
+place_of_birth: "Tehran"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/85227_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "professional cartographer"
+beliefs: "joined the Mojahedin Khalq Organization of Iran in 1976"
 
 # --- DEATH ---
 date_of_death: 2013-09-01
@@ -86,8 +90,7 @@ circumstances: >
     disarming of the Mojahedin members, the residents of the Ashraf Base came
     under the protection of U.S. forces. Several intelligence service
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

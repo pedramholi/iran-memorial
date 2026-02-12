@@ -1,9 +1,9 @@
 id: khanalizadeh-vali-2015
 name_latin: "Vali Khan'alizadeh"
 name_farsi: "ولی خانعلیزاده"
-date_of_birth: null
+date_of_birth: "1991-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -52,8 +52,7 @@ circumstances: >
     with the execution. Mr. Khan alizadeh was hanged in Meshkinshahr Prison on
     March 3, 2016.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

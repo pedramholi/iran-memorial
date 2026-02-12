@@ -3,10 +3,13 @@ name_latin: "Mehdi Rashidpur"
 name_farsi: "مهدی رشیدپور"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "construction worker"
 
 # --- DEATH ---
 date_of_death: 2005-01-19
@@ -52,8 +55,7 @@ circumstances: >
     Mr. Rashidpur "at war with God" and advised a public execution at Tabas
     Square. Mr. Mehdi Rashidpur was hanged at dawn on January 19, 2005.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Central Information Administration"
 # --- VERIFICATION ---
 status: unverified
 sources:

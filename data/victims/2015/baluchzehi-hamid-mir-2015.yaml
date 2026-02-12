@@ -2,11 +2,14 @@ id: baluchzehi-hamid-mir-2015
 name_latin: "Hamid Mir Baluchzehi"
 name_farsi: "حمید میربلوچ‌زهی"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Iranshahr, Sistan Va Baluchistan"
+gender: male
+ethnicity: "Baluch"
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
 
 # --- DEATH ---
 date_of_death: 2015-03-05
@@ -50,8 +53,7 @@ circumstances: >
     According to a relative, the body of Mr. Mir Baluchzehi was transferred to
     Zahedan and buried there. (Central News Unit)
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Revolutionary Public Prosecutor of the Sistan Va Baluchistan province"
 # --- VERIFICATION ---
 status: unverified
 sources:

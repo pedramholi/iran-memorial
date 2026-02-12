@@ -3,10 +3,17 @@ name_latin: "Mohammad Mehdi Duzduzani (Kazemi)"
 name_farsi: "محمد مهدی دوزدوزانی (کاظمی)"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/82867_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "Deputy for Financial Affairs"
+beliefs: "member of Jonbesh-e Mottahed-e Isargaran"
+quotes:
+  - "We have had enough of all the discrimination and these contradictions between words and actions"
+  - "If the purpose of the Revolutionary Guards is to give its life solely for the survival of these gentlemen (alluding to corrupt leaders and their cronies) and their offspring, we respectfully kiss our uniforms good bye and put them away."
 
 # --- DEATH ---
 date_of_death: 2004-01-14
@@ -85,9 +92,8 @@ circumstances: >
     of Mr. Duzduzani and the other defendants in the case. (Asr-e No). the
     court tried Mr. Duzduzani and 200 other defendants in the case in less
     than one week. The
-event_context: null
-responsible_forces: null
-
+event_context: "2003 protest sit-in at the Revolutionary Guards Joint Headquarters"
+responsible_forces: "Islamic Revolution Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

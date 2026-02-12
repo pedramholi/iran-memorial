@@ -1,10 +1,10 @@
 id: nahtani-2016
 name_latin: "Nahtani"
 name_farsi: "نهتانی"
-date_of_birth: null
+date_of_birth: "1951-01-01"
 place_of_birth: null
-gender: null
-ethnicity: null
+gender: male
+ethnicity: "Baluch"
 religion: "Presumed Muslim"
 photo: null
 
@@ -43,9 +43,8 @@ circumstances: >
     was sentenced to death by hanging. He and two other people were executed
     at Bandar Abbas Prison, on Wednesday December 14, 2016.
     ---------------------- *Mr. Mas'ud Karamzehi and Mr. Gomshadzehi
-event_context: null
-responsible_forces: null
-
+event_context: "2016 drug offenses execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

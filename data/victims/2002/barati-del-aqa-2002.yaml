@@ -3,7 +3,7 @@ name_latin: "Del Aqa Barati"
 name_farsi: "دل‌آقا براتی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -47,8 +47,7 @@ circumstances: >
     October 9, 2002. He was also condemned to 10 years imprisonment for
     possession of a weapon and creating fear and panic.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

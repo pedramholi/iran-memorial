@@ -3,7 +3,7 @@ name_latin: "Behruz Ahangarian"
 name_farsi: "بهروز آهنگریان"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -52,9 +52,8 @@ circumstances: >
     Behruz Ahangarian to death and the ruling was confirmed by the Supreme
     Judiciary Council. He was hanged in public in Abhar on January 23, 1989 at
     4 p.m.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on January 23, 1989"
+responsible_forces: "Abhar Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

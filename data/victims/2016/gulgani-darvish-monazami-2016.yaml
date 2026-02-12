@@ -1,12 +1,19 @@
 id: gulgani-darvish-monazami-2016
 name_latin: "Darvish Monazami (Gulgani)"
 name_farsi: "درویش منظمی (گولگنی)"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1957-01-01"
+place_of_birth: "Gulgan, Orumieh County, Western Azarbaijan Province"
+gender: male
 ethnicity: null
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/83762_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "farmer, driver"
+family:
+  marital_status: "married"
+  children: 10
+  notes: "three daughters with one wife, four sons and three daughters with another wife"
 
 # --- DEATH ---
 date_of_death: 2016-11-02
@@ -85,9 +92,8 @@ circumstances: >
     guilt Recovery of 5 kilograms of morphine, Mr. Monazami s confessions
     during interrogation at the Investigating Judge s office and in prison,
     and the report of the Specialized Commission of the Medical Examin
-event_context: null
-responsible_forces: null
-
+event_context: "narcotic drug crimes"
+responsible_forces: "Headquarters for Combatting Narcotic Drugs"
 # --- VERIFICATION ---
 status: unverified
 sources:

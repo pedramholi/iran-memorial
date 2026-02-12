@@ -1,12 +1,24 @@
 id: vali-afshin-1990
 name_latin: "Afshin Vali"
 name_farsi: "افشین ولی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1978-01-01"
+place_of_birth: "Hossein Abad, Fars Province"
+gender: male
 ethnicity: null
 religion: "Baha'i"
 photo: "https://www.iranrights.org/actorphotos/84966_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "student"
+education: "seventh grade"
+family:
+  marital_status: "single"
+  children: 0
+  notes: "son of Farangis Foroughi Arani and Ebadollah"
+quotes:
+  - "We will not let more Baha'is move to our village to cast a spell on us and pollute our village."
+  - "Some of my friends gathered around me and told me that the cleric had said shedding the blood of Baha'is is allowed, and if someone kills a Baha'i all his sins will be forgiven and he will go to heaven."
+  - "I don t know what possessed me to go to that well."
 
 # --- DEATH ---
 date_of_death: 1990-06-09
@@ -84,7 +96,7 @@ circumstances: >
     swallowed even one drop of water, and that he had not drowned. However,
     they could see the signs of a heavy blow to the head, indicating he had
     died before falling into the water. (Radio Zamaneh) On June 10, 1990, Mr.
-event_context: null
+event_context: "1990 June 9"
 responsible_forces: null
 
 # --- VERIFICATION ---

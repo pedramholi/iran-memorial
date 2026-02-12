@@ -3,10 +3,20 @@ name_latin: "Abdolreza Gharabat"
 name_farsi: "عبدالرضا غرابات"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/73247_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "teacher"
+family:
+  notes: "Several members of his family were killed."
+beliefs: "dissatisfied with the regime under the leadership of Ayatollah Khamenei"
+quotes:
+  - "After the war was over, Abdolreza talked about his connection with the Occult Imam and claimed that he was dissatisfied with the regime under the leadership of Ayatollah Khamenei."
+  - "We heard the news of Abdolreza s execution from the media. We did not expect him to be executed because he served well during the war."
+  - "After the war was over, Abdolreza talked about his connection with the Occult Imam and announced that the Imam is not satisfied with the regime led by Ayatollah Khamene i."
 
 # --- DEATH ---
 date_of_death: 2011-01-26
@@ -86,8 +96,7 @@ circumstances: >
     mention of any armed or violent activities by him or his followers in any
     statements made by government officials. His activities were
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

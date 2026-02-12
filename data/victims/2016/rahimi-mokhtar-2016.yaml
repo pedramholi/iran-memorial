@@ -2,11 +2,20 @@ id: rahimi-mokhtar-2016
 name_latin: "Mokhtar Rahimi"
 name_farsi: "مختار رحیمی"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Sanandaj"
+gender: male
+ethnicity: "Kurd"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/76087_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "CNG store owner"
+education: "eighth grade"
+family:
+  marital_status: "married"
+  children: 1
+  notes: "father of an 8 year old child"
+personality: "forgiving, quiet, and kind man who liked children"
 
 # --- DEATH ---
 date_of_death: 2016-08-02
@@ -85,9 +94,8 @@ circumstances: >
     rights lawyer, protested the sentences in a declaration and demanded that
     they be rescinded. Furthermore, Amnesty International, Human Rights Watch,
     Human Rights Defenders, and the Abdorrahman Borumand Foundati
-event_context: null
-responsible_forces: null
-
+event_context: "execution of 25 individuals on August 2, 2016"
+responsible_forces: "IRGC"
 # --- VERIFICATION ---
 status: unverified
 sources:

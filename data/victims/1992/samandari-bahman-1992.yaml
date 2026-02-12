@@ -1,12 +1,22 @@
 id: samandari-bahman-1992
 name_latin: "Bahman Samandari"
 name_farsi: "بهمن سمندری"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1939-11-08"
+place_of_birth: "Karaj, Iran"
+gender: male
 ethnicity: null
 religion: "Baha'i"
 photo: "https://www.iranrights.org/actorphotos/84960_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "travel agency owner"
+education: "Bachelor of Economics"
+family:
+  marital_status: "married"
+  children: 2
+  notes: "married to Rosa Mahbubi"
+quotes:
+  - "he was the most beloved person in the life of his wife and two children"
 
 # --- DEATH ---
 date_of_death: 1992-03-18
@@ -85,9 +95,8 @@ circumstances: >
     be free to perform their religious rites? The Ayatollah responded: No.
     Khomeini had previously spoken of the Baha i threat to the Shah s regime,
     Islam, national unity, and national security in various spee
-event_context: null
-responsible_forces: null
-
+event_context: "1987 arrest during a Yaran meeting"
+responsible_forces: "Revolutionary Guard"
 # --- VERIFICATION ---
 status: unverified
 sources:

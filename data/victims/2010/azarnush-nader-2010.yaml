@@ -3,8 +3,8 @@ name_latin: "Nader Azarnush"
 name_farsi: "نادر آذرنوش"
 date_of_birth: null
 place_of_birth: null
-gender: null
-ethnicity: null
+gender: male
+ethnicity: "Baluch"
 religion: "Unknown"
 photo: null
 
@@ -52,9 +52,8 @@ circumstances: >
     The ruling was carried out without the presence of the defendant’s
     attorney. The defendant’s family was not informed of the time of his
     execution.
-event_context: null
-responsible_forces: null
-
+event_context: "2010 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

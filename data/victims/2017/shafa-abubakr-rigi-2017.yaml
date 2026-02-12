@@ -1,12 +1,19 @@
 id: shafa-abubakr-rigi-2017
 name_latin: "Abubakr Rigi Shafa"
 name_farsi: "ابوبکر ریگی شفا"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1995-01-01"
+place_of_birth: "Zahedan"
+gender: male
+ethnicity: "Baluch"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/85382_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "member of Jeish al-Adl organization"
+education: "high school diploma"
+family:
+  marital_status: "married"
+  children: 2
 
 # --- DEATH ---
 date_of_death: 2017-09-06
@@ -87,8 +94,7 @@ circumstances: >
     downfall of the Islamic Republic as two of its stated goals. (2) After
     takin
 event_context: null
-responsible_forces: null
-
+responsible_forces: "IRGC"
 # --- VERIFICATION ---
 status: unverified
 sources:

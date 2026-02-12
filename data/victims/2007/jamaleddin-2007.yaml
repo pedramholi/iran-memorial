@@ -1,12 +1,19 @@
 id: jamaleddin-2007
 name_latin: "Jamaleddin"
 name_farsi: "جمال‌الدین"
-date_of_birth: null
+date_of_birth: "1969-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "janitor"
+family:
+  marital_status: "married"
+quotes:
+  - "the victim molested my wife forcefully and threatened her several times. When my wife told me, I asked the victim to come to my house and I hid in the bathroom. Thinking that my wife was alone, the victim attacked her. I got out of the bathroom, attacked him, and struck him with several blows of a knife."
 
 # --- DEATH ---
 date_of_death: 2007-05-16

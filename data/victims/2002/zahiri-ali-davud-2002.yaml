@@ -3,7 +3,7 @@ name_latin: "Ali Davud Zahiri"
 name_farsi: "علی داوود زهیری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -34,8 +34,7 @@ circumstances: >
     Ali Davud Zahiri to death. He was hanged in public in Ahvaz on Tuesday
     September 17, 2002.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,16 @@
 id: lotfalian-elias-2001
 name_latin: "Elias Lotf'alian"
 name_farsi: "الیاس لطفعلیان"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1981-01-01"
+place_of_birth: "Najafabad"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "student"
+family:
 
 # --- DEATH ---
 date_of_death: 2001-01-02
@@ -42,9 +46,8 @@ circumstances: >
     defense. Judgment The court condemned Mr. Elias Lotf alian to death and
     the Supreme Court confirmed the ruling. He was hanged in public at Feiz
     Square in Esfahan on January 2, 2001, only 16 days after his arrest.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on January 2, 2001"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

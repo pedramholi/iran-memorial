@@ -1,12 +1,19 @@
 id: lashaki-ehsan-bai-2016
 name_latin: "Ehsan Ba'i Lashaki"
 name_farsi: "احسان بائی لاشکی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1989-05-01"
+place_of_birth: "Chalus"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/82434_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "student"
+education: "dropped out of middle school"
+family:
+  notes: "only son of Ali Mohammad"
+personality: "kind person"
 
 # --- DEATH ---
 date_of_death: 2016-05-31

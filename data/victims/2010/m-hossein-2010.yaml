@@ -3,7 +3,7 @@ name_latin: "Hossein M."
 name_farsi: "حسین م"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -46,8 +46,7 @@ circumstances: >
     Court. He was hanged at the Esfahan central prison yard. The exact date of
     this execution is unknown.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Ali Chaharlang"
 name_farsi: "علی چهارلنگ"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -54,9 +54,8 @@ circumstances: >
     ...................................... *Article 185: An armed robber or a
     bandit, who disturbs the security of the public or roads and creates fear
     and intimidation, is a Mohareb [a fighter against God].
-event_context: null
-responsible_forces: null
-
+event_context: "2001 armed robbery case"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

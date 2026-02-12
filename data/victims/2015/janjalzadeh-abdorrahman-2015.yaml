@@ -3,8 +3,8 @@ name_latin: "Abdorrahman Janjalzadeh"
 name_farsi: "عبدالرحمن جنجال‌زاده"
 date_of_birth: null
 place_of_birth: null
-gender: null
-ethnicity: null
+gender: male
+ethnicity: "Afghan"
 religion: "Presumed Muslim"
 photo: null
 
@@ -46,9 +46,8 @@ circumstances: >
     hanged at the Zahedan Central Prison on January 17, 2015. Once before, he
     had been taken for execution but that was postponed due to his heart
     attack.
-event_context: null
-responsible_forces: null
-
+event_context: "2015 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

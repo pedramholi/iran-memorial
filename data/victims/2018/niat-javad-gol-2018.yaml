@@ -1,12 +1,20 @@
 id: niat-javad-gol-2018
 name_latin: "Javad Gol Niat"
 name_farsi: "جواد گل نیت"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1988-01-01"
+place_of_birth: "Khoy, Azarbaijan-e Gharbi Province"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  children: 2
+  notes: "father of two very young daughters"
+quotes:
+  - "Mr. Gol Niat consistently denied having committed such an act."
 
 # --- DEATH ---
 date_of_death: 2018-03-11
@@ -43,9 +51,8 @@ circumstances: >
     Niat s defense. Judgment Mr. Javad Gol Niat was sentenced to death by
     hanging. He was executed in Khoy Central Prison, in Azadbaijan-e Gharbi
     Province, on Sunday March 11, 2018.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on March 11, 2018"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

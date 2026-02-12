@@ -1,12 +1,17 @@
 id: ashtari-ali-2008
 name_latin: "Ali Ashtari"
 name_farsi: "علی اشتری"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1965-01-01"
+place_of_birth: "Tehran"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/83004_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "geological engineer"
+family:
+  marital_status: "married"
 
 # --- DEATH ---
 date_of_death: 2008-11-18
@@ -86,9 +91,8 @@ circumstances: >
     at dawn on November 18, 2008, he made further confessions for an hour.
     According to the Ministry of Information s Director of
     Counterintelligence, these confessions
-event_context: null
-responsible_forces: null
-
+event_context: "2007 arrest and detention, 2008 trial and execution"
+responsible_forces: "Ministry of Information"
 # --- VERIFICATION ---
 status: unverified
 sources:

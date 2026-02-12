@@ -1,12 +1,19 @@
 id: mekanik-ali-asghar-2013
 name_latin: "Ali Asghar Mekanik"
 name_farsi: "علی‌اصغر مکانیک"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1960-01-01"
+place_of_birth: "Hamedan"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/85242_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "bachelor's degree in Agriculture"
+education: "bachelor's degree in Agriculture"
+beliefs: "member of Mojahedin Khalq Organization"
+quotes:
+  - "In 1979, when I completed my bachelor's degree, I went to military service. I attended elucidation classes at Sharif University and participated in political support activities at Farah Abad Military Base. During 1980-1981, I served in the personnel department of the Organization. During 1981-1982, I formed a resistance cell. I came to Turkey in 1987, and since I wanted to participate in toppling the antisocial Khomeini regime, I joined the Organization."
 
 # --- DEATH ---
 date_of_death: 2013-09-01
@@ -87,8 +94,7 @@ circumstances: >
     resulted in the killing and wounding of Mojahedin Khalq members. The base
     was also bombed seve
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

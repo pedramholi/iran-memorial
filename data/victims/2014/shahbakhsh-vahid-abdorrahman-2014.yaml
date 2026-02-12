@@ -1,12 +1,18 @@
 id: shahbakhsh-vahid-abdorrahman-2014
 name_latin: "Vahid (Abdorrahman) Shahbakhsh"
 name_farsi: "وحید (عبدالرحمن) شه‌بخش"
-date_of_birth: null
+date_of_birth: "1984-01-01"
 place_of_birth: null
-gender: null
-ethnicity: null
+gender: male
+ethnicity: "Baluch"
 religion: "Islam (Sunni)"
 photo: null
+
+# --- LIFE ---
+family:
+beliefs: "member of the People's Resistance Movement Party of Iran (Jundullah)"
+quotes:
+  - "I had been a civil activist for two years."
 
 # --- DEATH ---
 date_of_death: 2014-11-15
@@ -73,9 +79,8 @@ circumstances: >
     on Thursday November 13, 2014 in the morning. According to the website of
     Human Rights and Democracy Activists in Iran, he was executed on November
     15, 2014.
-event_context: null
-responsible_forces: null
-
+event_context: "2014 execution"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Jaber N."
 name_farsi: "جابر ن."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -37,8 +37,7 @@ circumstances: >
     Prison of Noshahr in the morning of September 24, 2014. No further
     information is available about this execution.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "IRGC"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,17 @@
 id: ajamlu-abdollah-2014
 name_latin: "Abdollah A'jamlu"
 name_farsi: "عبدالله اعجملو"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1984-01-01"
+place_of_birth: "Sayed Abad near Tabriz"
+gender: male
+ethnicity: "Turk"
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+quotes:
+  - "Mr. A jamlu was innocent and confessed under torture intelligence officers, while the killer was someone else, while the murderer was someone else that because of his influence, he were acquitted of the murder charge."
 
 # --- DEATH ---
 date_of_death: 2014-01-07

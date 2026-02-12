@@ -3,7 +3,7 @@ name_latin: "Ebrahim Qa'em Shahri"
 name_farsi: "ابراهیم قائم شهری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -31,9 +31,8 @@ circumstances: >
     Defense No information is available on Mr. Qa emshahri s defense. Judgment
     The court condemned Mr. Ebrahim Qa emshahri to death. He was executed in
     public at Khak Sefid area in Tehranpars on March 19, 2001.
-event_context: null
-responsible_forces: null
-
+event_context: "2001 execution"
+responsible_forces: "security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,10 +3,13 @@ name_latin: "Mohammad Taqi Amini"
 name_farsi: "محمدتقی امینی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+occupation: "rug assessor"
 
 # --- DEATH ---
 date_of_death: 2000-10-23

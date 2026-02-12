@@ -3,7 +3,7 @@ name_latin: "Abbas Ali Qasemi"
 name_farsi: "عباسعلی قاسمی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -33,7 +33,7 @@ circumstances: >
     people were taken to solitary cells, for execution (Human Rights Activists
     for Democracy in Iran). Mr. Qasemi was executed in the Central Prison of
     Esfahan, on the morning of February 17, 2009.
-event_context: null
+event_context: "execution on February 17, 2009"
 responsible_forces: null
 
 # --- VERIFICATION ---

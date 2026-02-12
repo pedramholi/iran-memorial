@@ -1,12 +1,24 @@
 id: kermanj-taha-1994
 name_latin: "Taha Kermanj"
 name_farsi: "طاها کرمانج"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1959-03-07"
+place_of_birth: "Naqadeh, Western Azerbaijan Province"
+gender: male
+ethnicity: "Kurdish"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/84926_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "political activist"
+education: "student in the Naqadeh Technical-Vocational High School"
+family:
+  marital_status: "married"
+  children: 5
+personality: "orderly, democratic, liberal, forgiving, tireless, and positive"
+beliefs: "member of the Kurdistan Democratic Party of Iran"
+quotes:
+  - "He was very interested in writing plays, in the theater, and in acting."
+  - "He had written several plays about the social and political pain and suffering of the people, which he would put on for the members of the party during special occasions."
 
 # --- DEATH ---
 date_of_death: 1994-01-06
@@ -85,9 +97,8 @@ circumstances: >
     federal Iran . (Charter of the PDK, passed in its 16thCongress in February
     2016). This party has not ruled out armed struggle; it has, however,
     prioritized political struggle and the expression of the pe
-event_context: null
-responsible_forces: null
-
+event_context: "opposition against the Pahlavi regime"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,17 @@
 id: karimi-abbas-2001
 name_latin: "Abbas Karimi"
 name_farsi: "عباس کریمی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1979-01-01"
+place_of_birth: "Saqez, Kurdistan"
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: "https://www.iranrights.org/actorphotos/73921_thumb.jpeg"
+
+# --- LIFE ---
+education: "middle school"
+family:
+  marital_status: "single"
 
 # --- DEATH ---
 date_of_death: 2001-04-30
@@ -59,9 +64,8 @@ circumstances: >
     Karimi was hanged, along with another member of Komala, Mr. Baqi Rahimi,
     at the Saqez Prison on April 30, 2001. There is no information on the
     verdict leading to this execution or his burial location.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on April 30, 2001"
+responsible_forces: "Komala"
 # --- VERIFICATION ---
 status: unverified
 sources:

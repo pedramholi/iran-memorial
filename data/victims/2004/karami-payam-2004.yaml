@@ -1,12 +1,17 @@
 id: karami-payam-2004
 name_latin: "Payam Karami"
 name_farsi: "پیام کرمی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1989-04-18"
+place_of_birth: "Izeh, Khuzestan Province"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/86978_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "student"
+family:
+  notes: "son of Alidad"
 
 # --- DEATH ---
 date_of_death: 2004-02-21
@@ -85,7 +90,7 @@ circumstances: >
     depending on the case. Article 41 of the Armed Forces Crimes Law states:
     "Any armed forces personnel who, while on duty or operations,
     intentionally shoot in violation of rules and regulations will be
-event_context: null
+event_context: "protests over the results of Iran's Seventh Parliamentary Elections in February 2004"
 responsible_forces: null
 
 # --- VERIFICATION ---

@@ -3,10 +3,19 @@ name_latin: "Jalal Azarbaijani"
 name_farsi: "جلال آذربایجانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "government clerk"
+family:
+  marital_status: "married"
+  children: 2
+  notes: "father of a daughter aged 13 and a son aged 8"
+quotes:
+  - "Suspicion overwhelmed me. Therefore, I decided to murder my wife and two children. At night, I waited for them to fall asleep. Then, I killed my wife, Fatemeh Azarbaijani, first, and then my daughter, Simin, and my son, Ramin and I turned myself in to the police afterwards."
 
 # --- DEATH ---
 date_of_death: 1997-09-21
@@ -57,8 +66,7 @@ circumstances: >
     he was hanged at Qasr prison (Tehran) in the presence of the victims’
     family and officials on September 21, 1997.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic’s authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

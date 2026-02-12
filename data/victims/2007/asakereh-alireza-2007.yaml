@@ -1,12 +1,17 @@
 id: asakereh-alireza-2007
 name_latin: "Alireza Asakereh"
 name_farsi: "علیرضا عساکره"
-date_of_birth: null
+date_of_birth: "1978-01-01"
 place_of_birth: null
-gender: null
-ethnicity: null
+gender: male
+ethnicity: "Arab"
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/72472_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "worker"
+family:
+  marital_status: "single"
 
 # --- DEATH ---
 date_of_death: 2007-01-24
@@ -85,7 +90,7 @@ circumstances: >
     the bombers had been trained in Iraq, in regions under British army
     control, where they had acquired their arms and explosives. In one such
     statement, then-President Mahmud Ahmadinej
-event_context: null
+event_context: "2005-2006 unrest and bombings"
 responsible_forces: null
 
 # --- VERIFICATION ---

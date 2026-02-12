@@ -3,10 +3,14 @@ name_latin: "Taj Beigom Moradi"
 name_farsi: "تاج‌بیگم مرادی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "According to the Iran newspaper report, ten days after her arrest, she confessed that she had given the victim a sleeping pill and then killed him with a pick because of their intense dispute."
 
 # --- DEATH ---
 date_of_death: 2003-07-16
@@ -36,9 +40,8 @@ circumstances: >
     Ms. Moradi s defense. Judgment The Criminal Court of Tehran condemned Ms.
     Taj Beigom Moradi to death and the Supreme Court confirmed the ruling. She
     was hanged at the Qasr Prison in Tehran on July 16, 2003.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on July 16, 2003"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

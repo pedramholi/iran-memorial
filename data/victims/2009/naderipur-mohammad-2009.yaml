@@ -2,11 +2,16 @@ id: naderipur-mohammad-2009
 name_latin: "Mohammad Naderipur"
 name_farsi: "محمد نادری‌پور"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Khabr, Kerman Province"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/80405_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "civil engineering student"
+education: "civil engineering"
+personality: "known as an honest young man and also a well-known and responsible student"
 
 # --- DEATH ---
 date_of_death: 2009-01-01
@@ -85,9 +90,8 @@ circumstances: >
     ordinary clothing rather than official uniforms and may be affiliated with
     the ministry of information, influential political groups, or the armed
     forces. Following the post-ele
-event_context: null
-responsible_forces: null
-
+event_context: "2009 presidential election protests"
+responsible_forces: "security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

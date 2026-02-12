@@ -3,10 +3,17 @@ name_latin: "Mehdi Eslamian"
 name_farsi: "مهدی اسلامیان"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: "https://www.iranrights.org/actorphotos/64512_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  notes: "son of Mohammad; brother of Mohsen Eslamian, who was executed in April 2009"
+quotes:
+  - "It is two years since I m imprisoned innocently. A year of this time, I ve been tortured severely in solitary confinement in Section 209 of the Evin prison. I suffered all these hardships for my brother. ... I have been transferred to the Raja ishahr prison for eight months because I defended the rights of prisoners. ... Now, I m confronted with the gallows. Three of my cellmates including my younger brother, Mohsen Eslamian, 19, have been executed in Shiraz on May 11, 2009. The rest of my cellmates are suffering at the Evin prison without any evidence against them."
+  - "The judge condemned me to death without any reason, evidence, or confession."
 
 # --- DEATH ---
 date_of_death: 2010-05-09
@@ -86,8 +93,7 @@ circumstances: >
     individuals were arrested and charged with terrorist activities in the
     Shiraz Hosseinieh Seyyedoshohada [Mosque] bombing c
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

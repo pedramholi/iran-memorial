@@ -2,11 +2,20 @@ id: rigi-abdolvahab-2013
 name_latin: "Abdolvahab Rigi"
 name_farsi: "عبدالوهاب ریگی"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Zahedan"
+gender: male
+ethnicity: "Baluch"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/75253_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "student"
+education: "Zahedan Darul Uloom Seminary (Makki)"
+family:
+  marital_status: "unmarried"
+quotes:
+  - "he hadn t committed"
+  - "his son was going to be executed"
 
 # --- DEATH ---
 date_of_death: 2013-10-26
@@ -87,8 +96,7 @@ circumstances: >
     intervention of Special Guards, Mr. Rigi was punitively sent to a small
     confinement cell of
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Ministry of Intelligence"
 # --- VERIFICATION ---
 status: unverified
 sources:

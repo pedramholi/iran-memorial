@@ -1,12 +1,20 @@
 id: vardanjani-masud-molavi-2019
 name_latin: "Mas'ud Molavi Vardanjani"
 name_farsi: "مسعود مولوی وردنجانی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1986-04-17"
+place_of_birth: "Najafabad, Esfahan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/83524_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "data security manager"
+education: "master's degree in civil engineering and computer science"
+family:
+  notes: "son of Kobra Karimi"
+quotes:
+  - "I had worked with a group who was in charge of video control and protection of places such as Ayatollah Khamenei s room in the Supreme Leader s Beit."
 
 # --- DEATH ---
 date_of_death: 2019-11-14
@@ -86,8 +94,7 @@ circumstances: >
     that it was in possession of evidence and documentation regarding the
     Islamic Republic of Iran s nuclear ac
 event_context: null
-responsible_forces: null
-
+responsible_forces: "IRGC"
 # --- VERIFICATION ---
 status: unverified
 sources:

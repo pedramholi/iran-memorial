@@ -1,12 +1,19 @@
 id: shahbakhsh-yusef-2018
 name_latin: "Yusef Shahbakhsh"
 name_farsi: "یوسف شه‌بخش"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1989-01-01"
+place_of_birth: "Khash, Sistan va Baluchestan"
+gender: male
+ethnicity: "Baluch"
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "son of Jalaleddin"
+personality: "calm during the very last visit"
+quotes:
+  - "\"I did not expect my execution.\""
 
 # --- DEATH ---
 date_of_death: 2018-12-06
@@ -71,9 +78,8 @@ circumstances: >
     his execution. (Human Rights Defense Association for Iran) His body was
     given to his family (Gunaz TV). ------------------------------------------
     *Mr. Yaqub Qalandarzehi and Mr. Abdolghani Qalandarzehi
-event_context: null
-responsible_forces: null
-
+event_context: "2010 drug activities in Kerman"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

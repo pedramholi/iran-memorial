@@ -3,7 +3,7 @@ name_latin: "Hamid Ranjbar Eslamlu"
 name_farsi: "حمید رنجبر اسلاملو"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
@@ -41,8 +41,7 @@ circumstances: >
     confirmed by Branch 27 of the Supreme Court. He was hanged at Kuzehgari
     Square in Shiraz on May 26, 2011.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "IRGC"
 # --- VERIFICATION ---
 status: unverified
 sources:

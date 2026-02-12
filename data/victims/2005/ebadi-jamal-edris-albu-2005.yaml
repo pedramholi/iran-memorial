@@ -3,8 +3,8 @@ name_latin: "Jamal Edris Albu Ebadi"
 name_farsi: "جمال ادریس آلبو عبادی"
 date_of_birth: null
 place_of_birth: null
-gender: null
-ethnicity: null
+gender: male
+ethnicity: "Arab"
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/71839_thumb.jpeg"
 
@@ -86,9 +86,8 @@ circumstances: >
     Bushehr, Hormozgan, Fars, and Khorasan provinces. The largest number of
     Arabs reside in the Southern and Western regions of Khuzestan. Although
     Khu
-event_context: null
-responsible_forces: null
-
+event_context: "protests in Khuzestan, April 2005"
+responsible_forces: "security and police forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

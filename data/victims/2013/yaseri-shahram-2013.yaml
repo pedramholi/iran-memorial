@@ -1,12 +1,18 @@
 id: yaseri-shahram-2013
 name_latin: "Shahram Yaseri"
 name_farsi: "شهرام یاسری"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1961-01-01"
+place_of_birth: "Lahijan, Gilan Province"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/85251_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "member of the Mojahedin Khalq Organization"
+family:
+quotes:
+  - "In 1975, I heard about the Mojahedin Organization. In March 1977, I was arrested and subjected to torture and persecution. I spent three months in the police detention center. After the successful uprising, my friends and I organized the Mojahedin Movement in Lahijan. In February 1981, I was arrested, or rather kidnapped, and kept in different prisons in Lahijan, Rasht, and Chuka until March 1984."
 
 # --- DEATH ---
 date_of_death: 2013-09-01
@@ -87,8 +93,7 @@ circumstances: >
     subject of missile, air, and ground attacks by the Iranian regime, which
     resulted in the killing and wo
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Ali Reza Sargazi"
 name_farsi: "علیرضا سرگزی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -38,9 +38,8 @@ circumstances: >
     Defence No information is available on the defendant's defence. Judgment
     The court condemned Mr. Alireza Sargazi to death and he was hanged in
     public at the Zahedi Square in Baravat, Bam, on May 16, 2007.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on May 16, 2007"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

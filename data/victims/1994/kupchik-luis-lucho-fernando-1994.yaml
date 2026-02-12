@@ -2,11 +2,17 @@ id: kupchik-luis-lucho-fernando-1994
 name_latin: "Luis \"Lucho\" Fernando Kupchik"
 name_farsi: "لوئیس فرناندو کوپچیک"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Buenos Aires, Argentina"
+gender: male
 ethnicity: null
 religion: "Judaism"
 photo: "https://www.iranrights.org/actorphotos/11908_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "businessman"
+family:
+  marital_status: "married"
+personality: "loved to tell jokes and had a good sense of humor"
 
 # --- DEATH ---
 date_of_death: 1994-07-18
@@ -85,9 +91,8 @@ circumstances: >
     governed region bordering Argentina, Brazil, and Paraguay, that has become
     a danger point for terrorism. From the evidence gathered, two Iranian
     diplomats in Buenos Aires actively assis
-event_context: null
-responsible_forces: null
-
+event_context: "AMIA bombing"
+responsible_forces: "Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

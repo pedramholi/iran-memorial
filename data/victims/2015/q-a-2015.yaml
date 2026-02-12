@@ -3,7 +3,7 @@ name_latin: "A. Q."
 name_farsi: "ع. ق."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -41,9 +41,8 @@ circumstances: >
     with another person, in the presence of the General Public Prosecutor of
     Mazandarn at the Sari Prison yard on May 31, 2015. The Pardon Committee of
     the Judiciary twice denied his pardon request.
-event_context: null
-responsible_forces: null
-
+event_context: "2015 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

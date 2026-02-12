@@ -1,12 +1,18 @@
 id: shojai-javad-2008
 name_latin: "Javad Shoja'i"
 name_farsi: "جواد شجاعی"
-date_of_birth: null
+date_of_birth: "1984-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+quotes:
+  - "They had a fight. There were three or four people that went to the house of the murdered [individual]. In the fight, it was unclear what actually happened and how it happened. Yesterday [the day before execution] that I saw my brother, he said even after 8 years, I still don t know what happened that he was murdered. The others involved all escaped. Only my brother remained."
+  - "It was an excruciating scene. He asked for forgiveness and said goodbye [nevertheless] he said even if they take me to the gallows, they still won t kill me, the [family of the murdered person] will forgive me [and I will be pardoned]."
 
 # --- DEATH ---
 date_of_death: 2008-02-26
@@ -53,7 +59,7 @@ circumstances: >
     offered blood money, any thing, we begged them. But they said: we just
     want him to be taken to the gallows, then we ll pardon him. We were there
     until 9 when we were told that Javad had been executed.
-event_context: null
+event_context: "2008 execution"
 responsible_forces: null
 
 # --- VERIFICATION ---

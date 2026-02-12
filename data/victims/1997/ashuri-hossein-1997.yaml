@@ -3,7 +3,7 @@ name_latin: "Hossein Ashuri"
 name_farsi: "حسین آشوری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -35,8 +35,7 @@ circumstances: >
     Ashuri’s defense. Judgment The court condemned Mr. Hossein Ashuri to death
     and he was executed in public in Qa’enat (Southern Khorasan province).
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

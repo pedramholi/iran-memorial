@@ -3,10 +3,14 @@ name_latin: "Shirahmad Alizehi"
 name_farsi: "شیر احمد علی زهی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "son of Shahmohammad"
 
 # --- DEATH ---
 date_of_death: 1997-08-06
@@ -45,9 +49,8 @@ circumstances: >
     Judgment Mr. Shiramad Alizehi was condemned to death and the Supreme Court
     confirmed the ruling. He was hanged in public at Ahmadian intersection in
     Gonabad on August 6, 1997.
-event_context: null
-responsible_forces: null
-
+event_context: "1997 execution"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

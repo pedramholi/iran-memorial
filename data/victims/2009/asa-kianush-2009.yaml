@@ -2,11 +2,21 @@ id: asa-kianush-2009
 name_latin: "Kianush Asa"
 name_farsi: "کیانوش آسا"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Kermanshah"
+gender: male
+ethnicity: "Kurdish"
 religion: "Other"
 photo: "https://www.iranrights.org/actorphotos/64381_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "student"
+education: "chemical engineering"
+family:
+  notes: "had an older brother who had to leave school after their father's death"
+personality: "responsible and intelligent person who particularly valued education"
+beliefs: "member of Mehdi Karoubi's campaign"
+quotes:
+  - "\"My trip to Tehran was necessary to take care of some administrative issues related to my thesis.\""
 
 # --- DEATH ---
 date_of_death: 2009-06-15
@@ -85,7 +95,7 @@ circumstances: >
     Once in his side as reported by eye witnesses and once in the neck (ABF
     interview and Committee of Human Rights Reporters, 19 August 2009). The
     official death certifica
-event_context: null
+event_context: "post-presidential election protests in Iran on June 15, 2009"
 responsible_forces: null
 
 # --- VERIFICATION ---

@@ -1,12 +1,20 @@
 id: naimabadi-ahmad-2009
 name_latin: "Ahmad Na'imabadi"
 name_farsi: "احمد نعیم آبادی"
-date_of_birth: null
+date_of_birth: "1987-03-22"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/61683_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "student"
+education: "film and animation studies"
+family:
+  notes: "died in his brother's presence"
+quotes:
+  - "We were given shoes that did not belong to my son"
 
 # --- DEATH ---
 date_of_death: 2009-06-15
@@ -85,9 +93,8 @@ circumstances: >
     stated that they could only say religious prayers and could not speak
     about Mr. Na imabadi. His mother says that the banners and signs put up to
     convey condolences to the family were
-event_context: null
-responsible_forces: null
-
+event_context: "2009 presidential election protests"
+responsible_forces: "Basij"
 # --- VERIFICATION ---
 status: unverified
 sources:

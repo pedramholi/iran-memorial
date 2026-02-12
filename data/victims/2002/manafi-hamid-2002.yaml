@@ -3,7 +3,7 @@ name_latin: "Hamid Manafi"
 name_farsi: "حمید منافی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -34,8 +34,7 @@ circumstances: >
     was hanged in public at the crime scene in Mehrshahr, Karaj. The exact
     date of this execution is unknown.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Intelligence Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

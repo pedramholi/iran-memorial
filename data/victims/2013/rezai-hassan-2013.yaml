@@ -3,7 +3,7 @@ name_latin: "Hassan Reza'i"
 name_farsi: "حسن رضایی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -85,9 +85,8 @@ circumstances: >
     specified regarding the court branch or the time of the confirmation.
     (Sistan Va Baluchistan Courthouse) Mr. Reza i was hanged, along with 15
     others, in Zahedan Central Prison on
-event_context: null
-responsible_forces: null
-
+event_context: "armed attack by Jaish ul-Adl on a border station in Saravan, Sistan Va Baluchestan on October 25, 2013"
+responsible_forces: "Ministry of Justice of Sistan Va Baluchestan"
 # --- VERIFICATION ---
 status: unverified
 sources:

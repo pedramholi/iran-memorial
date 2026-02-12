@@ -3,7 +3,7 @@ name_latin: "Ja'far Farajpur"
 name_farsi: "جعفر فرج پور"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -36,8 +36,7 @@ circumstances: >
     No information is available on the defense. Judgment Mr. Farajpur was
     sentenced to death.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

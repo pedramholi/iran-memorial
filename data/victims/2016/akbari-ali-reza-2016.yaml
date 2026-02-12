@@ -3,7 +3,7 @@ name_latin: "Ali Reza Akbari"
 name_farsi: "علیرضا اکبری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -42,9 +42,8 @@ circumstances: >
     Judgment Mr. Ali Reza Akbari was sentenced to death. He was hanged, along
     with five other individuals, in Orumieh Central Prison on Wednesday,
     January 13, 2016.
-event_context: null
-responsible_forces: null
-
+event_context: "2016 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

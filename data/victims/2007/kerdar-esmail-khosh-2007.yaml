@@ -3,7 +3,7 @@ name_latin: "Esma'il Khosh Kerdar"
 name_farsi: "اسماعیل خوش‌کردار"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -45,9 +45,8 @@ circumstances: >
     Judgment The court announced Mr. Esma il Khosh Kerdar to be a corruptor on
     the earth and sentenced her to death. (Aftab-e-Yazd) He was hanged in the
     Mashhad central prison on September 5, 2007 at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "2007 executions"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

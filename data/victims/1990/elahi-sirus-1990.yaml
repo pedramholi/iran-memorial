@@ -1,12 +1,23 @@
 id: elahi-sirus-1990
 name_latin: "Sirus Elahi"
 name_farsi: "سیروس الهی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1943-01-01"
+place_of_birth: "Iran"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/85783_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "assistant professor of political science"
+education: "Ph.D."
+family:
+  marital_status: "married"
+  notes: "eldest of four children; acted as a father figure to his younger siblings"
+personality: "stylish and optimistic"
+beliefs: "political activism against the newly-established Islamic Republic"
+quotes:
+  - "...As our parents were divorced when the children were young, Sirus being the oldest child, adopted many of the father's responsibilities to his siblings. He financially and emotionally supported us, supported each of us with college tuition, as college advisor, even though he was working as a student himself [Sirus s] political hopes for Iran was a country [of] tolerance and [respect] for everyone's rights in a pluralistic democracy... he would say people cannot expect to have better government and conditions until they can better themselves personally."
 
 # --- DEATH ---
 date_of_death: 1990-10-23
@@ -85,9 +96,8 @@ circumstances: >
     the realization of the rights and freedoms of the Iranian people and the
     establishment of a pluralistic and parliamentary democracy in Iran. The
     FFO was a civil disobedien
-event_context: null
-responsible_forces: null
-
+event_context: "1979 Iranian Revolution"
+responsible_forces: "Iranian authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

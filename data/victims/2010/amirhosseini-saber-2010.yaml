@@ -2,8 +2,8 @@ id: amirhosseini-saber-2010
 name_latin: "Saber Amirhosseini"
 name_farsi: "صابر امیرحسینی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Sanandaj"
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -42,8 +42,7 @@ circumstances: >
     Saber Amirhosseini was hanged at the central prison in Orumieh on
     September 28, 2010.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

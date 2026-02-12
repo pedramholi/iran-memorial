@@ -1,12 +1,17 @@
 id: tolu-jila-2013
 name_latin: "Jila Tolu'"
 name_farsi: "ژیلا طلوع"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1960-01-01"
+place_of_birth: "Tabriz"
+gender: female
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/84676_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "Civil Engineering student"
+education: "high school diploma"
+family:
 
 # --- DEATH ---
 date_of_death: 2013-09-01
@@ -86,8 +91,7 @@ circumstances: >
     prevent them from entering the base. In the course of this attack, which
     resulted in the installation of a police post insi
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

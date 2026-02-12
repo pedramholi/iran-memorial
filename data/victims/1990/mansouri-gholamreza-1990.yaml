@@ -3,10 +3,14 @@ name_latin: "Gholamreza Mansouri"
 name_farsi: "غلامرضا منصوری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "trials before Islamic revolutionary Courts have usually taken place in secret, sometimes inside prisons, that defendants have not usually enjoyed the right to be represented by a lawyer, and often have not even been made aware that the proceedings were in fact a trial and not an interrogation session."
 
 # --- DEATH ---
 date_of_death: 1990-01-01
@@ -42,8 +46,7 @@ circumstances: >
     The Islamic Revolutionary Tribunal of Arak found the defendant guilty and
     sentenced him to death. Mr. Mansouri was hanged in Arak.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

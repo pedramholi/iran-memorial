@@ -1,12 +1,24 @@
 id: barvayeh-yaqub-2009
 name_latin: "Ya'qub Barvayeh"
 name_farsi: "یعقوب بروایه"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1982-01-01"
+place_of_birth: "Ahvaz"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/61160_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "writer"
+education: "bachelor's degree in drama and dramatic literature; master's degree in dramatic literature"
+family:
+  marital_status: "engaged"
+  children: 0
+  notes: "engaged to a woman named Neda"
+personality: "described as a warm-hearted and kind Southerner, incapable of malice"
+beliefs: "staunch supporter of Mir Hossein Musavi"
+quotes:
+  - "a warm-hearted and kind Southerner, incapable of malice."
 
 # --- DEATH ---
 date_of_death: 2009-07-01
@@ -85,9 +97,8 @@ circumstances: >
     his support for Ahmadinejad and warned protestors that they were
     responsible for any disorder and its consequences . Amnesty International
     stated that the speech gave leg
-event_context: null
-responsible_forces: null
-
+event_context: "2009 Election protests"
+responsible_forces: "security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

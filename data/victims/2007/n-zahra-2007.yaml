@@ -1,12 +1,21 @@
 id: n-zahra-2007
 name_latin: "Zahra N."
 name_farsi: "زهرا ن."
-date_of_birth: null
+date_of_birth: "1967-01-01"
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/60965_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "hair-dresser"
+family:
+  marital_status: "married"
+  children: 3
+  notes: "mother of three young daughters"
+quotes:
+  - "She told me that she wanted to commit suicide in order to avoid her angry husband. But on the night of the incident, she called and asked me to go to her house. I realized that she poured the poison in her husband’s drink and made him drink it."
 
 # --- DEATH ---
 date_of_death: 2007-12-19

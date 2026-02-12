@@ -3,7 +3,7 @@ name_latin: "S. R."
 name_farsi: "س. ر."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -43,9 +43,8 @@ circumstances: >
     hanging. This sentence was approved by the Supreme Court and the head of
     the Judiciary. He and another person were executed in Sari Prison on
     January 8, 2018.
-event_context: null
-responsible_forces: null
-
+event_context: "murder"
+responsible_forces: "Ministry of Justice of Mazandaran Province"
 # --- VERIFICATION ---
 status: unverified
 sources:

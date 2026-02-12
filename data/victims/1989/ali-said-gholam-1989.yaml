@@ -2,11 +2,15 @@ id: ali-said-gholam-1989
 name_latin: "Sa'id Gholam Ali"
 name_farsi: "سعید غلام‌علی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Esfahan"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+personality: "slim and energetic, interested in books"
+beliefs: "supporter of the Mojahedin e Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1989-01-01
@@ -85,9 +89,8 @@ circumstances: >
     In most cases there has not been much published and the local authorities
     have not issued arrest warrants. But documentation, evidence, and traces
     obtained through investigations conduct
-event_context: null
-responsible_forces: null
-
+event_context: "Summer of 1988 mass killings"
+responsible_forces: "Islamic Republic s Ministry of Information"
 # --- VERIFICATION ---
 status: unverified
 sources:

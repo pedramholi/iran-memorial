@@ -1,12 +1,23 @@
 id: khoshkhan-jalal-zahedi-2012
 name_latin: "Jalal Zahedi (Khoshkhan)"
 name_farsi: "جلال زاهدی (خوشخان)"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1991-01-01"
+place_of_birth: "Islamabad-e Gharb, Kermanshah Province"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/82798_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "self-employed"
+education: "diploma in mechanics"
+family:
+  marital_status: "bachelor"
+  children: 0
+  notes: "son of Minoo and Alireza"
+personality: "simple and generous"
+quotes:
+  - "I had only been in touch with the plaintiff on the phone and with the intention of marrying her."
 
 # --- DEATH ---
 date_of_death: 2012-12-03
@@ -85,9 +96,8 @@ circumstances: >
     were two pieces of evidence of guilt that were entered against him.
     According to the contents of the case, these were also among the evidence
     of guilt entered against Mr. Zahedi: 1) the complaint o
-event_context: null
-responsible_forces: null
-
+event_context: "arrested on July 3, 2011"
+responsible_forces: "Police Force of Intelligence and Public Security of Islamabad-e Gharb"
 # --- VERIFICATION ---
 status: unverified
 sources:

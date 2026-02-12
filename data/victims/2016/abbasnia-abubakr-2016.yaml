@@ -1,12 +1,21 @@
 id: abbasnia-abubakr-2016
 name_latin: "Abubakr Abbasnia"
 name_farsi: "ابوبکر عباس‌نیا"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1979-03-20"
+place_of_birth: "Uzuntash, Mahabad, West Azarbaijan Province"
+gender: male
+ethnicity: "Kurdish"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/85269_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "street vendor and construction worker"
+education: "fifth grade"
+personality: "kind, happy, sociable, and popular"
+beliefs: "member of the Democratic Party of Iranian Kurdistan"
+quotes:
+  - "Some of his friends used to call him Arsalan because of his courage and boldness."
+  - "He later changed his name to Arsalan."
 
 # --- DEATH ---
 date_of_death: 2016-12-20

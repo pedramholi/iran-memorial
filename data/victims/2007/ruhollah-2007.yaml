@@ -2,8 +2,8 @@ id: ruhollah-2007
 name_latin: "Ruhollah"
 name_farsi: "روح‌الله"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Jiroft"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
@@ -40,9 +40,8 @@ circumstances: >
     Defense No information is available on Mr. Ruhollah s defense. Judgment
     The court condemned Mr. Ruhollah to death (two counts). He was hanged in
     public at Darvazeh Quran in Yazd on July 22, 2007.
-event_context: null
-responsible_forces: null
-
+event_context: "2000"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,21 @@
 id: hashemi-said-akhavan-2013
 name_latin: "Sa'id Akhavan Hashemi"
 name_farsi: "سعید اخوان هاشمی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1985-01-01"
+place_of_birth: "Mashhad"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/85220_thumb.jpeg"
+
+# --- LIFE ---
+education: "high school diploma"
+family:
+  marital_status: "single"
+  children: 0
+  notes: "lost his mother Mrs. Nasrin Monzavi in Operation Forough Javidan when he was three years old"
+quotes:
+  - "It was my decision to join the (Liberation) Army. I called my guardian several times and told him that I wanted to join the Liberation Army. They said are you sure you want to go? I said yes! One hundred percent! At that point I called our school and told them that we don t want to go to study anymore."
 
 # --- DEATH ---
 date_of_death: 2013-09-01
@@ -86,9 +95,8 @@ circumstances: >
     kilometers (50 miles) from Baghdad. In 1987, the Mojahedin Khalq
     Organization of Iran established the national liberation army at this
     base, and the Orga
-event_context: null
-responsible_forces: null
-
+event_context: "Operation Forough Javidan"
+responsible_forces: "Islamic Revolutionary Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

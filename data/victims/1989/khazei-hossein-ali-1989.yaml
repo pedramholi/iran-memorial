@@ -3,10 +3,14 @@ name_latin: "Hossein Ali Khaze'i"
 name_farsi: "حسینعلی خزائی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "criminal record related to narcotic drug from the time of the Revolution until his arrest."
 
 # --- DEATH ---
 date_of_death: 1989-03-01
@@ -43,9 +47,8 @@ circumstances: >
     the Revolution until his arrest.” Defense No information is available on
     Mr. Khaza’i’s defense. Judgment The court condemned Mr. Hossein Ali
     Khaza’i to death and he was hanged in Nahavand on March 1, 1989.
-event_context: null
-responsible_forces: null
-
+event_context: "1989 law imposing mandatory death sentences on drug traffickers"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

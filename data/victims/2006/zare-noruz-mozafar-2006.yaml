@@ -3,7 +3,7 @@ name_latin: "Noruz (Mozafar) Zare'"
 name_farsi: "نوروز (مظفر) زارع"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -47,9 +47,8 @@ circumstances: >
     up arms against the holy state) and sentenced him to death. The verdict
     was approved by the Supreme Court. Mr. Zare was publicly hanged on a crane
     in the Tayun village of Shiraz on January 29, 2006.
-event_context: null
-responsible_forces: null
-
+event_context: "2003 armed robbery and murder case"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

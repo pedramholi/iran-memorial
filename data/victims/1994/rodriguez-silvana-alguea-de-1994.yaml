@@ -2,11 +2,21 @@ id: rodriguez-silvana-alguea-de-1994
 name_latin: "Silvana Alguea de Rodriguez"
 name_farsi: "سیلوانا آلگا دو رودریگز"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Buenos Aires, Argentina"
+gender: female
 ethnicity: null
 religion: "Judaism"
 photo: "https://www.iranrights.org/actorphotos/11792_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "social worker"
+family:
+  marital_status: "single"
+  children: 1
+  notes: "left behind an eight-month-old daughter, Gaby"
+personality: "remembered as someone who lived life to the fullest"
+quotes:
+  - "The future arrived a long time ago."
 
 # --- DEATH ---
 date_of_death: 1994-07-18
@@ -85,9 +95,8 @@ circumstances: >
     a danger point for terrorism. From the evidence gathered, two Iranian
     diplomats in Buenos Aires actively assisted Hezbollah. Mohsen Rabbani, who
     was in charge of the oper
-event_context: null
-responsible_forces: null
-
+event_context: "AMIA bombing on July 18, 1994"
+responsible_forces: "Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

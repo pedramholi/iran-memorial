@@ -3,10 +3,13 @@ name_latin: "Hadi H."
 name_farsi: "هادی ه."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "sewing shop owner"
 
 # --- DEATH ---
 date_of_death: 2015-05-27
@@ -60,9 +63,8 @@ circumstances: >
     Khorasan-e Razavi General Courthouse, these execution rulings were based
     on Articles 42, 183, 185, 190, 191 of the Islamic Penal Code passed in
     1991.
-event_context: null
-responsible_forces: null
-
+event_context: "2011 arrest and 2015 execution"
+responsible_forces: "Intelligence Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

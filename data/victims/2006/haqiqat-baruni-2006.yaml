@@ -3,10 +3,13 @@ name_latin: "Baruni Haqiqat"
 name_farsi: "بارونی حقیقت"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "driver"
 
 # --- DEATH ---
 date_of_death: 2006-04-02
@@ -85,9 +88,8 @@ circumstances: >
     firearms if those methods fail to control the situation. They must also
     warn the demonstrators. The law does not specify what other non-lethal
     methods should be used, bu
-event_context: null
-responsible_forces: null
-
+event_context: "April 2, 2006 protest at Deylam Port Customs compound"
+responsible_forces: "law enforcement officials"
 # --- VERIFICATION ---
 status: unverified
 sources:

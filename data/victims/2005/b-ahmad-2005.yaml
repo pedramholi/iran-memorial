@@ -3,7 +3,7 @@ name_latin: "Ahmad B."
 name_farsi: "احمد ب."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -40,8 +40,7 @@ circumstances: >
     Basij square of this city. The date of execution is not mentioned in the
     reports.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

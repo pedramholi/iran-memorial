@@ -1,12 +1,17 @@
 id: n-a-2011
 name_latin: "A. N."
 name_farsi: "ع. ن."
-date_of_birth: null
+date_of_birth: "1994-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "single"
+  children: 0
 
 # --- DEATH ---
 date_of_death: 2011-04-21
@@ -66,9 +71,8 @@ circumstances: >
     Court confirmed the ruling and the Head of Judiciary validated it. He was
     hanged, along with three others, in public near Dolat Park in Bandar-e
     Abbas on April 21, 2011.
-event_context: null
-responsible_forces: null
-
+event_context: "2008 rape and murder case"
+responsible_forces: "Criminal Intelligence Police of the Hormozgan Province"
 # --- VERIFICATION ---
 status: unverified
 sources:

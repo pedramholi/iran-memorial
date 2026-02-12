@@ -1,12 +1,16 @@
 id: asadi-ebrahim-2013
 name_latin: "Ebrahim Asadi"
 name_farsi: "ابراهیم اسدی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1952-01-01"
+place_of_birth: "Ahvaz"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/85221_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "supporter of the People’s Mojahedin Organization"
+beliefs: "supporter of the People’s Mojahedin Organization"
 
 # --- DEATH ---
 date_of_death: 2013-09-01
@@ -87,8 +91,7 @@ circumstances: >
     was also bombed several times during the United States' war with Iraq in
     2003, inflicting cas
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

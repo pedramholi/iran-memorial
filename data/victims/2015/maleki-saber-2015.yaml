@@ -3,10 +3,14 @@ name_latin: "Saber Maleki"
 name_farsi: "صابر ملکی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "brother of Fardin Maleki"
 
 # --- DEATH ---
 date_of_death: 2015-01-21
@@ -40,8 +44,7 @@ circumstances: >
     Orumieh Central Prison on January 21, 2015. No specific information is
     available about this execution.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

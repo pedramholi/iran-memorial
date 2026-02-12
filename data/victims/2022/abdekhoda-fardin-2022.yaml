@@ -4,7 +4,7 @@ name_farsi: "فردین عبدخدا"
 date_of_birth: null
 place_of_birth: null
 gender: null
-ethnicity: null
+ethnicity: "Kurdish"
 religion: "Presumed Muslim (Sunni)"
 photo: null
 
@@ -28,9 +28,8 @@ circumstances: >
     that Amnesty International warned in an October 10, 2022 statement of
     widespread dimensions of repression, with state forces using weapons of
     war and firing at houses.
-event_context: null
-responsible_forces: null
-
+event_context: "2022 Protests - Sanandaj"
+responsible_forces: "state forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

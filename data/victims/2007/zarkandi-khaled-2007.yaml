@@ -2,11 +2,14 @@ id: zarkandi-khaled-2007
 name_latin: "Khaled Zarkandi"
 name_farsi: "خالد زرکندی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Takab"
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of a Kurdish party"
 
 # --- DEATH ---
 date_of_death: 2007-04-09
@@ -30,8 +33,7 @@ circumstances: >
     According to the above source, the court condemned Mr. Khaled Zarkandi to
     death and he was hanged in Takab on April 9, 2007.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

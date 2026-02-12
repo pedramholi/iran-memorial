@@ -1,12 +1,16 @@
 id: jostoju-hassan-2007
 name_latin: "Hassan Jostoju"
 name_farsi: "حسن جستجو"
-date_of_birth: null
+date_of_birth: "1967-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "father of an invalid veteran who lost both his hands in the Iran-Iraq war"
 
 # --- DEATH ---
 date_of_death: 2007-01-01
@@ -30,7 +34,7 @@ circumstances: >
     is available on the defendant's defense. Judgment Mr. Hassan Jostoju was
     hanged in Ilam. No specific information, such as the exact date of this
     execution, is available. Mr. Hassan Jostoju was 40 years old.
-event_context: null
+event_context: "participation in a demonstration in September of 2006"
 responsible_forces: null
 
 # --- VERIFICATION ---

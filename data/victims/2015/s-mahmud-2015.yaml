@@ -3,7 +3,7 @@ name_latin: "Mahmud S."
 name_farsi: "محمود س."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -46,9 +46,8 @@ circumstances: >
     of the Judiciary. Mr. Mahmud S. was hanged in Arak Central Prison on April
     12, 2015. ------------------------ *Messers: Hamed N., Ne'matollah N., and
     Mohammad L.
-event_context: null
-responsible_forces: null
-
+event_context: "2015 execution"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

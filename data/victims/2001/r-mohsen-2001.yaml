@@ -3,10 +3,13 @@ name_latin: "Mohsen R."
 name_farsi: "محسن ر."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "state employee"
 
 # --- DEATH ---
 date_of_death: 2001-10-22
@@ -55,8 +58,7 @@ circumstances: >
     illegitimate relationships. The Supreme Court confirmed the ruling. He was
     hanged at the Evin Prison yard on October 22, 2001.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Basiji"
 # --- VERIFICATION ---
 status: unverified
 sources:

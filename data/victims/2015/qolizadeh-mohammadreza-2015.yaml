@@ -3,7 +3,7 @@ name_latin: "Mohammadreza Qolizadeh"
 name_farsi: "محمدرضا قلی زاده"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -40,8 +40,7 @@ circumstances: >
     Orumieh Central Prison on January 21, 2015. No specific information is
     available about this execution.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

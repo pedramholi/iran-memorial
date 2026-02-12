@@ -3,7 +3,7 @@ name_latin: "Abdolhossein Sa'adatmand"
 name_farsi: "عبدالحسین سعادتمند"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -40,8 +40,7 @@ circumstances: >
     the presence of the judicial and security officials in the Dizelabad
     prison in Bakhtaran (today’s Kermanshah).
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

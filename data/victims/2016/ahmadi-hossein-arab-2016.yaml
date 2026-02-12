@@ -1,9 +1,9 @@
 id: ahmadi-hossein-arab-2016
 name_latin: "Hossein Arab Ahmadi"
 name_farsi: "حسین عرب احمدی"
-date_of_birth: null
+date_of_birth: "1989-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -47,8 +47,7 @@ circumstances: >
     Shahrud Prison - Semnan Province, on Thursday, September 22, 2016.
     ------------------ *Mr. Rahmat Ali Sa'adatyar
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

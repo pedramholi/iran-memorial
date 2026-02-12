@@ -2,11 +2,17 @@ id: salimi-ebrahim-1995
 name_latin: "Ebrahim Salimi"
 name_farsi: "ابراهیم سلیمی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Qazvin"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/84341_thumb.jpeg"
+
+# --- LIFE ---
+education: "high school diploma"
+family:
+  notes: "His mother, Ms. Fatemeh Mesgar was executed on charges of supporting Mojahedin in 1985. His brother, Mr. Esma il Salimi was also killed during MKO s Foruq-e Javidan operation."
+beliefs: "supporter of Mojahedin Khlaq Organization (MKO)"
 
 # --- DEATH ---
 date_of_death: 1995-07-10
@@ -85,9 +91,8 @@ circumstances: >
     Resistance. After the MKO leaders and many of its members were expelled
     from France, they went to Iraq and founded the National Liberation Army of
     Iran in 1987, which entered Iranian territory a few times during
-event_context: null
-responsible_forces: null
-
+event_context: "July 10, 1995"
+responsible_forces: "Mojahedin Khalq Organization"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -2,11 +2,17 @@ id: bakhshian-mohammad-2006
 name_latin: "Mohammad Bakhshian"
 name_farsi: "محمد بخشیان"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Lorestan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/83124_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "plaster-worker"
+quotes:
+  - "He said that he only intended to threaten with the weapon but that he had faced the bank manager s resistance which had shocked him, and that he had fired out of fear."
+  - "He said that he realized the mistake he had made [and was remorseful] and asked for forgiveness."
 
 # --- DEATH ---
 date_of_death: 2006-06-21
@@ -65,9 +71,8 @@ circumstances: >
     19, 2006. On June 21, 2006, Mr. Bakhshian was hanged in public in Esfahan
     from a crane. The other defendant s trial was postponed until February 5,
     2007.
-event_context: null
-responsible_forces: null
-
+event_context: "armed robbery of the Bank Melli Ebne Sina Branch and the murder of the branch manager in late December 2005"
+responsible_forces: "Esfahan police"
 # --- VERIFICATION ---
 status: unverified
 sources:

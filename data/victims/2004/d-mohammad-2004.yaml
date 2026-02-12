@@ -3,7 +3,7 @@ name_latin: "Mohammad D."
 name_farsi: "محمد د."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -53,9 +53,8 @@ circumstances: >
     Mr. Mohammad D. to death by hanging. This sentence was approved by the
     Supreme Court. On August 19, 2004, he was publicly executed in Haft Bagh
     Square in Kerman, along with two other people.
-event_context: null
-responsible_forces: null
-
+event_context: "August 19, 2004"
+responsible_forces: "Kerman Provincial Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

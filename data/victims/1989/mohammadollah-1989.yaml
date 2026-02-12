@@ -3,7 +3,7 @@ name_latin: "Mohammadollah"
 name_farsi: "محمدالله"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -53,9 +53,8 @@ circumstances: >
     against the defendant. Defence No information is available on Mr.
     Mohammadollah's defence. Judgment Based on the court's ruling, Mr.
     Mohammadollah was hanged in Shiraz.
-event_context: null
-responsible_forces: null
-
+event_context: "1989 law imposing mandatory death sentences on drug traffickers"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,17 @@
 id: hamid-2015
 name_latin: "Hamid"
 name_farsi: "حمید"
-date_of_birth: null
+date_of_birth: "1992-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+quotes:
+  - "I got involved in the fight to defend my hospitalized addicted brother who was beaten by the victim and another man."
 
 # --- DEATH ---
 date_of_death: 2015-02-18
@@ -45,9 +50,8 @@ circumstances: >
     death and Branch 27 of the Supreme Court confirmed the ruling. He was
     hanged at the Raja ishahr (Gohardasht) Prison yard in Karaj on February
     18, 2015.
-event_context: null
-responsible_forces: null
-
+event_context: "2015 execution"
+responsible_forces: "Moshirieh Police Station"
 # --- VERIFICATION ---
 status: unverified
 sources:

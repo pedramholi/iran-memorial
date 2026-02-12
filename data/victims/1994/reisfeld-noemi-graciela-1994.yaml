@@ -1,12 +1,22 @@
 id: reisfeld-noemi-graciela-1994
 name_latin: "Noemi Graciela Reisfeld"
 name_farsi: "نوئمی گراسیلا ریسفلد"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1958-09-05"
+place_of_birth: "Buenos Aires"
+gender: female
 ethnicity: null
 religion: "Judaism"
 photo: "https://www.iranrights.org/actorphotos/11941_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "kindergarten teacher"
+family:
+  marital_status: "separated"
+  children: 2
+  notes: "mother of two daughters (10 and 12 years old at the time of the bombing)"
+personality: "very kind person"
+quotes:
+  - "“very kind person.”"
 
 # --- DEATH ---
 date_of_death: 1994-07-18
@@ -85,9 +95,8 @@ circumstances: >
     August 14, 1993 to authorize and plan the bombing. Overall responsibility
     for the operation was conferred upon Fallahian and Ahamad Vahidi,
     commander of a special branch of the Islamic Republican Guards. The bomb
-event_context: null
-responsible_forces: null
-
+event_context: "AMIA bombing"
+responsible_forces: "Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,22 @@
 id: azadfar-bahram-1993
 name_latin: "Bahram Azadfar"
 name_farsi: "بهرام آزادفر"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1981-01-01"
+place_of_birth: "Orumieh, West Azerbaijan Province"
+gender: male
+ethnicity: "Azari"
 religion: "Non-Believer"
 photo: "https://www.iranrights.org/actorphotos/84506_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "educator"
+education: "high school diploma"
+family:
+  marital_status: "single"
+personality: "patient, reserved, kind, personable, sociable, popular, affable"
+beliefs: "leftist political ideas"
+quotes:
+  - "Things are moving along very well. I have been able to set up a series of meetings with Turkish officials. Everything is going well. I might be able to return soon and visit my friends in the Democratic Party."
 
 # --- DEATH ---
 date_of_death: 1993-08-28
@@ -85,7 +95,7 @@ circumstances: >
     Democratic Party of Kurdistan. Mr. Bahram Azadfar s Death In the morning
     of August 28, 1997 (Article, 2013), Mr. Bahram Azadfar was killed with a
     gun in the Altindag area of Ankara, Turkey. (Borou
-event_context: null
+event_context: "1997 August 28 assassination"
 responsible_forces: null
 
 # --- VERIFICATION ---

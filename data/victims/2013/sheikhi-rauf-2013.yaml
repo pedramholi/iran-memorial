@@ -1,12 +1,23 @@
 id: sheikhi-rauf-2013
 name_latin: "Ra'uf Sheikhi"
 name_farsi: "رئوف شیخی"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1991-05-18"
+place_of_birth: "Kanisur, Saqqez county, Kurdistan province"
+gender: male
+ethnicity: "Kurdish"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/85336_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "farmer"
+education: "primary education up to second guidance level"
+family:
+  notes: "belonged to an agricultural family of ten members"
+personality: "described as brave, active, tireless, kind and pure-hearted"
+beliefs: "member of PJAK"
+quotes:
+  - "a brave, active, tireless, kind and pure-hearted person"
+  - "since his teenage years, he was interested in books, anthems and music"
 
 # --- DEATH ---
 date_of_death: 2013-02-12
@@ -87,8 +98,7 @@ circumstances: >
     the deaths of a number of civilians and the displacement and relocation of
     the resid
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Kurdistan Free Life Party (PJAK)"
 # --- VERIFICATION ---
 status: unverified
 sources:

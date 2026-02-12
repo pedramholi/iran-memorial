@@ -3,7 +3,7 @@ name_latin: "Yunes"
 name_farsi: "یونس"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -42,9 +42,8 @@ circumstances: >
     available on his defense. Judgment The Iran newspaper states that in
     accordance with the judicial ruling, Mr. Yunes was executed at Dizelabad
     prison in Kermanshah at dawn on November 18, 2005.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on November 18, 2005"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

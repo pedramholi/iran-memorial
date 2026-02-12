@@ -3,7 +3,7 @@ name_latin: "Esma'il Qaderi"
 name_farsi: "اسماعیل قادری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -45,9 +45,8 @@ circumstances: >
     verdict was approved by the Supreme Court (Ministry of Justice of the
     Province of Sistan O Balechustan). Mr. Qaderi, along with another person,
     was executed on the morning of Saturday June 20, 2009.
-event_context: null
-responsible_forces: null
-
+event_context: "2009 execution"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

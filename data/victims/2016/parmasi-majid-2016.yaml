@@ -2,11 +2,16 @@ id: parmasi-majid-2016
 name_latin: "Majid Parmasi"
 name_farsi: "مجید پرماسی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Karaj, Alborz Province"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/84954_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "self-employed"
+family:
+  marital_status: "single"
 
 # --- DEATH ---
 date_of_death: 2016-07-19
@@ -86,8 +91,7 @@ circumstances: >
     ruling issued by Branch Four of the Islamic Revolutionary Court of Karaj,
     Mr. Majid Parmasi had only confessed to producing methamphetamine durin
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Information Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

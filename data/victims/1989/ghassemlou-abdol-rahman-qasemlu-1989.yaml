@@ -1,12 +1,18 @@
 id: ghassemlou-abdol-rahman-qasemlu-1989
 name_latin: "Abdol-Rahman Qasemlu (Ghassemlou)"
 name_farsi: "عبدالرحمن قاسملو"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1930-01-01"
+place_of_birth: "Qasemlu, Orumieh, West Azerbaijan"
+gender: male
+ethnicity: "Kurdish"
 religion: "Presumed Muslim (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/30421_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "political activist"
+education: "BA in Political and Economic Science"
+family:
+beliefs: "Marxist-Leninist, later closer to Social Democracy"
 
 # --- DEATH ---
 date_of_death: 1989-07-13
@@ -85,9 +91,8 @@ circumstances: >
     of clandestine activities, the PDKI started its public activities in Iran.
     ( Kayhan : 3 March 1979) Ayatollah Khomeini s political program, which
     sought to establish the Absol
-event_context: null
-responsible_forces: null
-
+event_context: "1979 Revolution"
+responsible_forces: "Iranian army"
 # --- VERIFICATION ---
 status: unverified
 sources:

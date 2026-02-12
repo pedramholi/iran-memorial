@@ -1,12 +1,22 @@
 id: kiarostami-mostafa-2009
 name_latin: "Mostafa Kiarostami"
 name_farsi: "مصطفی کیارستمی"
-date_of_birth: null
+date_of_birth: "1986-03-22"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/61597_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "civil engineering student"
+education: "studying civil engineering"
+family:
+  marital_status: "married"
+  notes: "had been married for only six months at the time"
+beliefs: "had his own beliefs and cared deeply about them"
+quotes:
+  - "He had his own beliefs and cared deeply about them. He wasn't involved in politics, but as an ordinary person he had convictions and didn't take his values lightly."
 
 # --- DEATH ---
 date_of_death: 2009-07-17
@@ -86,7 +96,7 @@ circumstances: >
     plainclothes forces move about freely, violently beating protesters and
     arresting them, while the police passively look on or actively cooperate
     with them
-event_context: null
+event_context: "2009 protests"
 responsible_forces: null
 
 # --- VERIFICATION ---

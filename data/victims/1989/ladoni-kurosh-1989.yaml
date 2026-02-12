@@ -2,11 +2,14 @@ id: ladoni-kurosh-1989
 name_latin: "Kurosh Ladoni"
 name_farsi: "کورش لدنی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Ahvaz"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/85301_thumb.jpeg"
+
+# --- LIFE ---
+beliefs: "supporter of The Cause of the Oppressed Organization, supporter of the Mojahedin e Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1989-01-01
@@ -86,9 +89,8 @@ circumstances: >
     killings inside Iran is not clear; however, these murders began in
     February 1979 and have continued since then, both inside and outside Iran.
     The Ab
-event_context: null
-responsible_forces: null
-
+event_context: "1985 arrest, 1988 mass killings"
+responsible_forces: "Islamic Republic's Ministry of Information"
 # --- VERIFICATION ---
 status: unverified
 sources:

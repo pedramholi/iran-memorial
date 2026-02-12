@@ -3,7 +3,7 @@ name_latin: "Ali Isazadeh"
 name_farsi: "علی عیسی‌زاده"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -42,9 +42,8 @@ circumstances: >
     he was hanged, along with another person, in Qasr Prison on October 18,
     2000 in the morning. No more specific information is available about this
     execution.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on October 18, 2000"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "M D"
 name_farsi: "م د"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -41,8 +41,7 @@ circumstances: >
     General Public Prosecutor’s Office. He was hanged at the Adelabad prison
     in Shiraz. The exact date of this execution is unknown.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

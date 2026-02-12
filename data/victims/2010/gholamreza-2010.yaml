@@ -1,9 +1,9 @@
 id: gholamreza-2010
 name_latin: "Gholamreza"
 name_farsi: "غلامرضا"
-date_of_birth: null
+date_of_birth: "1972-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -45,9 +45,8 @@ circumstances: >
     Supreme Court. The defendant’s request for pardon was rejected by the
     Provincial Pardon Commission twice and he was hanged in the yard of
     Esfahan Central Prison on April 11, 2010. Mr. Gholamreza was 38 years old.
-event_context: null
-responsible_forces: null
-
+event_context: "2010 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

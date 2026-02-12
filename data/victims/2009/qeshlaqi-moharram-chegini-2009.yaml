@@ -1,12 +1,18 @@
 id: qeshlaqi-moharram-chegini-2009
 name_latin: "Moharram Chegini Qeshlaqi"
 name_farsi: "محرم چگینی قشلاقی"
-date_of_birth: null
+date_of_birth: "1975-10-02"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/61685_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  children: 1
+  notes: "son of Mirza Qoli"
 
 # --- DEATH ---
 date_of_death: 2009-06-15
@@ -85,9 +91,8 @@ circumstances: >
     only on the condition that they would not publicize his death ( Rooz
     Online ). Mr. Chegini Qeshlaqi was buried at the Behesht-e Zahra cemetery,
     in Tehran. Officials Reaction According to Mr. Che
-event_context: null
-responsible_forces: null
-
+event_context: "2009 presidential election protests"
+responsible_forces: "Basij"
 # --- VERIFICATION ---
 status: unverified
 sources:

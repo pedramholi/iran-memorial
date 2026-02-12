@@ -3,7 +3,7 @@ name_latin: "Nosrat Abbasi"
 name_farsi: "نصرت عباسی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -39,9 +39,8 @@ circumstances: >
     on Mr. Abbasi s defense. Judgment Mr. Nosrat Abbasi was hanged, along with
     five others, in Orumieh Prison on June 8, 2015 at dawn. There is no
     information on the details of this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on June 8, 2015"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

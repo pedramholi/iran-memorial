@@ -3,7 +3,7 @@ name_latin: "Habib Seifollahi"
 name_farsi: "حبیب سیف‌اللهی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -37,9 +37,8 @@ circumstances: >
     Tehran condemned Mr. Habib Seifollahi to death and the Supreme Court
     confirmed it. The ruling was carried out at the Qasr Prison yard when he
     was hanged on April 17, 2002.
-event_context: null
-responsible_forces: null
-
+event_context: "2002 execution"
+responsible_forces: "Intelligence Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

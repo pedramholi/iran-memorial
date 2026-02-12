@@ -3,7 +3,7 @@ name_latin: "Morteza Ma'sumi"
 name_farsi: "مرتضی معصومی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/74043_thumb.jpeg"
@@ -55,9 +55,8 @@ circumstances: >
     death in September of 2001. Branch 32 of the Supreme Court confirmed the
     ruling. Mr. Ma sumi was hanged in public at Azadi Square (Bus terminal) in
     Tehran on April 25, 2002 at 6:45 a.m.
-event_context: null
-responsible_forces: null
-
+event_context: "2001 trial and 2002 execution"
+responsible_forces: "Intelligence Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

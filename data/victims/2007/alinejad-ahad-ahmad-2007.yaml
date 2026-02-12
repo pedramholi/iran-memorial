@@ -3,7 +3,7 @@ name_latin: "Ahad (Ahmad) Alinejad"
 name_farsi: "احد (احمد) علی‌نژاد"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -50,9 +50,8 @@ circumstances: >
     by Branch 32 of the Supreme Court. The defendant s request of pardon was
     rejected in the Pardon Commission of the Judiciary. He was hanged in
     public at Mo alem Square of Shiraz on October 17, 2007.
-event_context: null
-responsible_forces: null
-
+event_context: "2007 execution"
+responsible_forces: "IRGC"
 # --- VERIFICATION ---
 status: unverified
 sources:

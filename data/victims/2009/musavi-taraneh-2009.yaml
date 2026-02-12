@@ -3,10 +3,17 @@ name_latin: "Taraneh Musavi"
 name_farsi: "ترانه موسوی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/61253_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "hairdresser student"
+family:
+beliefs: "support for reform and freedom in Iran"
+quotes:
+  - "I had not been there to participate in the demonstration but merely to attend my haircut class."
 
 # --- DEATH ---
 date_of_death: 2009-01-01
@@ -85,9 +92,8 @@ circumstances: >
     the order of the head of Basij, Ms. Musavi s name was dropped from the
     detainees list the next day. This was against regulations and without
     justification. According to this source, there ar
-event_context: null
-responsible_forces: null
-
+event_context: "2009 demonstrations"
+responsible_forces: "Basij"
 # --- VERIFICATION ---
 status: unverified
 sources:

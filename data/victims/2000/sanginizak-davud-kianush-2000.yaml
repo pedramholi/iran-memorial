@@ -3,7 +3,7 @@ name_latin: "Davud (Kianush) Sanginizak"
 name_farsi: "داوود (کیانوش) سنگینی زاک"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/73259_thumb.jpeg"
@@ -69,9 +69,8 @@ circumstances: >
     execution. The marks of lashes were so severe that the person in charge of
     washing his body in the mortuary wept. His body was buried in Behesht-e
     Zahra in Tehran.
-event_context: null
-responsible_forces: null
-
+event_context: "armed robbery, injuring a soldier, and killing of two agents around the International Exhibition in Tehran on May 6, 1998"
+responsible_forces: "Shahriyar Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

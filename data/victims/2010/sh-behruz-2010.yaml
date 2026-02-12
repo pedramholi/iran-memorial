@@ -1,9 +1,9 @@
 id: sh-behruz-2010
 name_latin: "Behruz Sh."
 name_farsi: "بهروز ش."
-date_of_birth: null
+date_of_birth: "1986-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -43,8 +43,7 @@ circumstances: >
     s requests for pardon were denied twice, he was hanged in the Esfahan
     Central prison yard on July 5, 2010. Mr. Behruz Sh. was 24 years old.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

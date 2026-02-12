@@ -3,7 +3,7 @@ name_latin: "Mohammad Pursalehi"
 name_farsi: "محمد پورصالحی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -33,8 +33,7 @@ circumstances: >
     Khorramshahr. The victim s mother tied the noose around Mr. Pursahlehi s
     neck. The exact date of this execution is unknown.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Public Court of Ahvaz"
 # --- VERIFICATION ---
 status: unverified
 sources:

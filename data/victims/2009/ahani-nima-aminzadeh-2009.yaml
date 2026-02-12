@@ -1,12 +1,24 @@
 id: ahani-nima-aminzadeh-2009
 name_latin: "Nima Aminzadeh (Ahani)"
 name_farsi: "نیما امین‌زاده (آهنی)"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1978-06-20"
+place_of_birth: "Astara, Iran"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/77877_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "real estate agent"
+education: "high school diploma"
+family:
+  marital_status: "single"
+  children: 0
+  notes: "son of Masoumeh and Adel"
+personality: "described as honest, kind, and lively youth with an interest in sports"
+quotes:
+  - "Nima was very popular among the people of Astara"
+  - "Nima was not involved in any political activity"
 
 # --- DEATH ---
 date_of_death: 2009-02-24
@@ -85,9 +97,8 @@ circumstances: >
     Astara's thugs (Fars News, February 27, 2009). According to available
     information, police officers arrested Mr. Nima Aminzadeh s older brother
     (Amin), who was present at the scene
-event_context: null
-responsible_forces: null
-
+event_context: "February 24, 2009"
+responsible_forces: "law enforcement officers"
 # --- VERIFICATION ---
 status: unverified
 sources:

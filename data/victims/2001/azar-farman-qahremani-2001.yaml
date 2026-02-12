@@ -3,7 +3,7 @@ name_latin: "Farman Qahremani Azar"
 name_farsi: "فرمان قهرمانی‌ آذر"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -34,8 +34,7 @@ circumstances: >
     Qahremani Azar to death. He was executed in public at the Khak Sefid area
     in Tehranpars on March 19, 2001.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

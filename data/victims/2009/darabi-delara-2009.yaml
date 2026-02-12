@@ -1,12 +1,22 @@
 id: darabi-delara-2009
 name_latin: "Delara Darabi"
 name_farsi: "دل آرا دارابی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1986-09-29"
+place_of_birth: "Rasht"
+gender: female
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/72217_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "artist"
+education: "pre-college student"
+family:
+  marital_status: "single"
+  notes: "had a boyfriend named Amirhossein Sotudeh"
+quotes:
+  - "I accepted the responsibility for the murder only because of my feeling for Amir and all his promises. I don t believe in any of my statements."
+  - "I don t believe in any of my statements."
 
 # --- DEATH ---
 date_of_death: 2009-05-01
@@ -85,9 +95,8 @@ circumstances: >
     rejected all her previous confessions about the murder during the court
     session on January 15, 2004. She claimed that Amirhossein had given her
     some tranquilizing pills,
-event_context: null
-responsible_forces: null
-
+event_context: "execution on May 1, 2009"
+responsible_forces: "police"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,26 @@
 id: katibeh-sorush-1991
 name_latin: "Sorush Katibeh"
 name_farsi: "سروش کتیبه"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1958-01-01"
+place_of_birth: "Tehran"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/28401_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "secretary and assistant"
+education: "master's degree in psychology"
+family:
+  marital_status: "single"
+  children: 0
+  notes: "engaged to be married to an Iranian woman"
+personality: "not very talkative, got along with people, and never whined about anything"
+beliefs: "member of the National Movement of the Iranian Resistance"
+quotes:
+  - "He liked the game of tennis."
+  - "He liked dancing, and loved smoking cigarettes."
+  - "The Doctor asked me if I knew a trustworthy person. Sorush came and immediately took a great liking to the Doctor, as did the Doctor to him. There came a point where Sorush loved the Doctor more than his own father."
 
 # --- DEATH ---
 date_of_death: 1991-08-06

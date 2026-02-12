@@ -1,12 +1,16 @@
 id: tajik-rostam-2005
 name_latin: "Rostam Tajik"
 name_farsi: "رستم تاجیک"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1985-01-01"
+place_of_birth: "Afghanistan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/41462_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  notes: "father of an eleven year old daughter"
 
 # --- DEATH ---
 date_of_death: 2005-12-10
@@ -82,9 +86,8 @@ circumstances: >
     and declared that he was healthy and ready for the execution. Then, two
     officials took him to the place of his execution and people expressed
     their approval by shouting Thank you! Thank you!
-event_context: null
-responsible_forces: null
-
+event_context: "execution on December 10, 2005"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

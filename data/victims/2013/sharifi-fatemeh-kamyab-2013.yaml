@@ -1,12 +1,19 @@
 id: sharifi-fatemeh-kamyab-2013
 name_latin: "Fatemeh Kamyab Sharifi"
 name_farsi: "فاطمه کامیاب شریفی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1962-01-01"
+place_of_birth: "Lasht Nesha, Gilan Province"
+gender: female
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/85235_thumb.jpeg"
+
+# --- LIFE ---
+education: "high school diploma"
+family:
+  notes: "Her brother, Mr. Bijan Kamyab Sharifi, was executed by firing squad in Tehran on February 9, 1982, when he was 19. Another brother, Esfandiar, was killed during the Forough Javidan Operation."
+personality: "Fatemeh s prominent characteristic was that she loved her comrades and showered them with affection. Among her comrades, Fatemeh exemplified dignity, self-control, firmness, and forthrightness in carrying out duties and responsibilities."
+beliefs: "member of the Mojahedin Organization"
 
 # --- DEATH ---
 date_of_death: 2013-09-01
@@ -86,8 +93,7 @@ circumstances: >
     80 kilometers (50 miles) from Baghdad. In 1987, the Mojahedin Khalq
     Organization of Iran established the
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

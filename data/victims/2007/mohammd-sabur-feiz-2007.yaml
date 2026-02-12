@@ -1,12 +1,17 @@
 id: mohammd-sabur-feiz-2007
 name_latin: "Sabur Feiz Mohammd"
 name_farsi: "صبور فیض‌محمد"
-date_of_birth: null
+date_of_birth: "1986-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+quotes:
+  - "in accordance with Article 8 of the Amended Anti-narcotic Law, anyone who imports over 30 grams of heroin into the country will be sentenced to death and confiscation of property, with the exception of normal standard living costs for the family."
 
 # --- DEATH ---
 date_of_death: 2007-11-07
@@ -63,8 +68,7 @@ circumstances: >
     death and confiscation of property, with the exception of normal standard
     living costs for the family. "(IRNA November 7, 2007)
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Court of Qom"
 # --- VERIFICATION ---
 status: unverified
 sources:

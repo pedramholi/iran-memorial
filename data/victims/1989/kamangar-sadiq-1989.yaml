@@ -1,12 +1,21 @@
 id: kamangar-sadiq-1989
 name_latin: "Sadiq Kamangar"
 name_farsi: "صدیق کمانگر"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1946-01-01"
+place_of_birth: "Afryan, Kamyaran County"
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: "https://www.iranrights.org/actorphotos/30479_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "attorney"
+education: "bachelor's degree in law"
+family:
+  marital_status: "married"
+  children: 2
+quotes:
+  - "We performed many of the functions of the Judiciary. It had gotten to a point where the Judiciary de facto recognized our letters and notices as official documents."
 
 # --- DEATH ---
 date_of_death: 1989-09-04
@@ -86,9 +95,8 @@ circumstances: >
     Kurdistan , and describe him as someone who had courage and guts in the
     face of [stark] realities and doubts. (Communist Party of Iran website;
     Eshterak we
-event_context: null
-responsible_forces: null
-
+event_context: "1979 Revolution"
+responsible_forces: "Komala"
 # --- VERIFICATION ---
 status: unverified
 sources:

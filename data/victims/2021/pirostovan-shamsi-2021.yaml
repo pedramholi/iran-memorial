@@ -3,10 +3,15 @@ name_latin: "Shamsi Pirostovan"
 name_farsi: "شمسی پیر‌استوان"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "divorced"
+  notes: "former husband was also her cousin"
 
 # --- DEATH ---
 date_of_death: 2021-05-30
@@ -47,9 +52,8 @@ circumstances: >
     (Choubin Dar), on the morning of May 30, 2021. Mrs. Pirostovan is the
     first woman to be executed in Iran, on drug related charges, since the
     amendment of the anti-narcotic laws.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on drug related charges"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

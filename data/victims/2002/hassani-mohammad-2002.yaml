@@ -3,7 +3,7 @@ name_latin: "Mohammad Hassani"
 name_farsi: "محمد حسنی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -41,8 +41,7 @@ circumstances: >
     Hassani to death. He was executed at the Amol Prison yard. The exact date
     of his execution is not known.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

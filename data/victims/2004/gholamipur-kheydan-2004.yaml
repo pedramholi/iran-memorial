@@ -1,12 +1,21 @@
 id: gholamipur-kheydan-2004
 name_latin: "Kheydan Gholamipur"
 name_farsi: "خیدان غلامی‌پور"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1968-01-01"
+place_of_birth: "Miyantanghe Malakshahi"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+education: "high school diploma"
+family:
+  marital_status: "married"
+  children: 4
+beliefs: "member of Kordestan democratic party"
+quotes:
+  - "After the murder of eight pilgrims from Nishabur in Rekovaz Malekshahi on September 13, 2003, two people, identified as Kheydan Gholamipur and Bani Salehi, were arrested and charged immediately."
 
 # --- DEATH ---
 date_of_death: 2004-01-12
@@ -49,9 +58,8 @@ circumstances: >
     condemned to eight counts of execution in public. On the morning of
     January 12, 2004, he was hanged in the Qoran Square of Ilam in presence of
     the victims' families.
-event_context: null
-responsible_forces: null
-
+event_context: "murder of eight pilgrims from Nishabur on September 13, 2003"
+responsible_forces: "Ilam s Prosecution Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

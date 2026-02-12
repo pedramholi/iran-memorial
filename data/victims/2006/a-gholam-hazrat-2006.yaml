@@ -3,7 +3,7 @@ name_latin: "Gholam Hazrat A."
 name_farsi: "غلام حضرت الف."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -41,9 +41,8 @@ circumstances: >
     judiciary authority in Kerman Province sentenced Mr. Gholam Hazrat A. to
     death. He was publicly hanged, along with two other individuals, in
     Rafsanjan County on December 18, 2006.
-event_context: null
-responsible_forces: null
-
+event_context: "2006 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

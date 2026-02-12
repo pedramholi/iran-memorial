@@ -3,7 +3,7 @@ name_latin: "Mohammad Reza Heidari"
 name_farsi: "محمد رضا حیدری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -44,9 +44,8 @@ circumstances: >
     No information is available on Mr. Heidari’s defense. Judgment The court
     condemned Mr. Mohammad Reza Heidari to death and he was hanged in Nishabur
     on March 1, 1989.
-event_context: null
-responsible_forces: null
-
+event_context: "1989 law on drug trafficking"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

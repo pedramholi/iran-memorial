@@ -3,7 +3,7 @@ name_latin: "Sa'id (Farid) Jahangiri"
 name_farsi: "سعید (فرید) جهانگیری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -46,8 +46,7 @@ circumstances: >
     received lashes before his execution. The other defendant was executed at
     the same location on October 15, 2002.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Ahvaz Courthouse"
 # --- VERIFICATION ---
 status: unverified
 sources:

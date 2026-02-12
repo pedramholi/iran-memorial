@@ -3,7 +3,7 @@ name_latin: "Rahman Shahidi"
 name_farsi: "رحمان شهیدی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -85,9 +85,8 @@ circumstances: >
     Court of Bushehr condemned Mr. Rahman Shahidi to death. The Supreme Court
     and Head of the Judiciary confirmed the ruling. Shahidi and two others
     were hanged in Bushehr Prison on Tuesday, July 22, 2008
-event_context: null
-responsible_forces: null
-
+event_context: "July 2006 kidnapping and rape case"
+responsible_forces: "Bushehr Prisons"
 # --- VERIFICATION ---
 status: unverified
 sources:

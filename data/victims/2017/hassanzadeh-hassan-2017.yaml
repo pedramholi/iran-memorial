@@ -1,12 +1,15 @@
 id: hassanzadeh-hassan-2017
 name_latin: "Hassan Hassanzadeh"
 name_farsi: "حسن حسن‌زاده"
-date_of_birth: null
+date_of_birth: "2001-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
 
 # --- DEATH ---
 date_of_death: 2017-01-18

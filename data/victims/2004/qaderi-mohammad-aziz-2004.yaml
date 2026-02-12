@@ -2,11 +2,16 @@ id: qaderi-mohammad-aziz-2004
 name_latin: "Mohammad Aziz Qaderi"
 name_farsi: "محمدعزیز قادری"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Narvi Village near Paveh, Kermanshah"
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: "https://www.iranrights.org/actorphotos/74289_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "Peshmerga member of the Democratic Party of Iranian Kurdistan"
+family:
+  marital_status: "married"
 
 # --- DEATH ---
 date_of_death: 2004-01-01
@@ -86,8 +91,7 @@ circumstances: >
     be ascertained in the absence of the basic guarantees of a fair trial.
     Evidence of guilt The report of this exec
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Movement of Iraqi Kurdistan"
 # --- VERIFICATION ---
 status: unverified
 sources:

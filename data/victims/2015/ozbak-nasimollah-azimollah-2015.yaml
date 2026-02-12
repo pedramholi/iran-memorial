@@ -1,9 +1,9 @@
 id: ozbak-nasimollah-azimollah-2015
 name_latin: "Nasimollah (Azimollah) Ozbak"
 name_farsi: "نسیم‌الله (عظیم‌الله) ازبک"
-date_of_birth: null
+date_of_birth: "1990-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -44,8 +44,7 @@ circumstances: >
     defense. Judgment Mr. Nasimollah (Azimollah) Ozbak was hanged, along with
     three others, at Zahedan Prison on March 7, 2015.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

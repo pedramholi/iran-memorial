@@ -3,7 +3,7 @@ name_latin: "Abdolreza Fatahi"
 name_farsi: "عبدالرضا فتاحی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -46,9 +46,8 @@ circumstances: >
     ruling and it was signed by the Head of Judiciary. He was hanged, along
     with three others, in public at Shahnaz Street in Bandar-e Abbas on March
     8, 2014.
-event_context: null
-responsible_forces: null
-
+event_context: "2014 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

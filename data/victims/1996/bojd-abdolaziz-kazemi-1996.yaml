@@ -1,12 +1,24 @@
 id: bojd-abdolaziz-kazemi-1996
 name_latin: "Abdolaziz Kazemi Bojd"
 name_farsi: "عبدالعزیز کاظمی بجد"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1961-06-23"
+place_of_birth: "Zahedan"
+gender: male
 ethnicity: null
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/86388_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "official notary for Sunni marriages"
+education: "Ph.D. in Arabic literature"
+family:
+  marital_status: "married"
+  children: 2
+personality: "courageous and highly respected figure"
+beliefs: "critic of the oppression of Sunnis"
+quotes:
+  - "the government bore a deep grudge against him"
+  - "filled with 'lies and deceit'"
 
 # --- DEATH ---
 date_of_death: 1996-11-05
@@ -85,9 +97,8 @@ circumstances: >
     institutions, and an arrest warrant has been issued for Iran s Minister of
     Information. The manner in which these killings were organized and
     implemented in Iran and abroad
-event_context: null
-responsible_forces: null
-
+event_context: "extrajudicial execution of Abdolaziz Kazemi Bojd"
+responsible_forces: "Zahedan Intelligence Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

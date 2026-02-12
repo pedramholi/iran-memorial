@@ -2,11 +2,22 @@ id: mirza-siamand-2010
 name_latin: "Siamand Mirza"
 name_farsi: "سیامند میرزا"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Iraq"
+gender: male
+ethnicity: "Kurd"
 religion: "Islam (Sunni)"
 photo: null
+
+# --- LIFE ---
+occupation: "simple worker"
+education: "middle-school education"
+family:
+  marital_status: "married"
+  children: 1
+  notes: "father of a son"
+personality: "well known as a generous and selfless person among the prisoners"
+quotes:
+  - "\"I want to visit my baby\""
 
 # --- DEATH ---
 date_of_death: 2010-10-10
@@ -83,9 +94,8 @@ circumstances: >
     regime, membership in the Mothers' Reconciliation Association in Mahabad,
     and having connections with the Kurdish parties. She was released after
     completing her sentence on November 20, 2012.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on October 10, 2010"
+responsible_forces: "Islamic Revolutionary Court of Zanjan"
 # --- VERIFICATION ---
 status: unverified
 sources:

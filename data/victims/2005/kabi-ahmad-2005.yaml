@@ -3,8 +3,8 @@ name_latin: "Ahmad Ka’bi"
 name_farsi: "احمد کعبی"
 date_of_birth: null
 place_of_birth: null
-gender: null
-ethnicity: null
+gender: male
+ethnicity: "Arab"
 religion: "Islam"
 photo: null
 
@@ -85,9 +85,8 @@ circumstances: >
     population, reside in Khuzestan, Bushehr, Hormozgan, Fars, and Khorasan
     provinces. The largest number of Arabs reside in the Southern and Western
     regions of Khuzestan. Although Khuzestan is
-event_context: null
-responsible_forces: null
-
+event_context: "protests in Khuzestan, between April 15th and 24th, 2005"
+responsible_forces: "security and police forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

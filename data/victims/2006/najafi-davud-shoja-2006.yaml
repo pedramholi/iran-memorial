@@ -2,8 +2,8 @@ id: najafi-davud-shoja-2006
 name_latin: "Davud Shoja' Najafi"
 name_farsi: "داوود شجاع نجفی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Khorasan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -44,9 +44,8 @@ circumstances: >
     Najafi to two times of execution. The verdict was approved by the Supreme
     Court. Mr. Shoja Najafi was publicly hanged in the Velayat Square of
     Shahrud County on Saturday, July 8, 2006.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on July 8, 2006"
+responsible_forces: "police"
 # --- VERIFICATION ---
 status: unverified
 sources:

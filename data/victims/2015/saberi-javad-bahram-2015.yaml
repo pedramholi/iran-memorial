@@ -1,12 +1,16 @@
 id: saberi-javad-bahram-2015
 name_latin: "Javad (Bahram) Saberi"
 name_farsi: "جواد (بهرام) صابری"
-date_of_birth: null
+date_of_birth: "1990-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/74629_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "worker"
+family:
 
 # --- DEATH ---
 date_of_death: 2015-04-16
@@ -86,8 +90,7 @@ circumstances: >
     sentenced to Qesas, who were under the age of 18 at the time of the
     commission of the crime and the final sentences in t
 event_context: null
-responsible_forces: null
-
+responsible_forces: "police"
 # --- VERIFICATION ---
 status: unverified
 sources:

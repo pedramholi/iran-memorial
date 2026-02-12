@@ -2,9 +2,9 @@ id: esmailzehi-zarbibi-2023
 name_latin: "Zarbibi Esma'ilzehi"
 name_farsi: "زر بی بی اسماعیل زهی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Zahedan, Sistan and Baluchestan Province"
 gender: null
-ethnicity: null
+ethnicity: "Baluch"
 religion: "Islam (Sunni)"
 photo: null
 
@@ -54,9 +54,8 @@ circumstances: >
     their fatal negligence . As of October, the number of people killed during
     Zahedan s Bloody Friday or died from their injuries in the following days
     and weeks has been estimated between 66 and 97 and hundreds were wounded.
-event_context: null
-responsible_forces: null
-
+event_context: "Zahedan Bloody Friday"
+responsible_forces: "security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

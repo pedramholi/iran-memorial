@@ -1,12 +1,22 @@
 id: hajian-mehrzad-1997
 name_latin: "Mehrzad Hajian"
 name_farsi: "مهرزاد حاجیان"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1959-01-01"
+place_of_birth: "Tehran"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "translator"
+education: "undergraduate studies in Management and Communications"
+family:
+  marital_status: "single"
+personality: "described as tall, calm, dignified, and polite"
+beliefs: "supporter of the MKO"
+quotes:
+  - "He liked music."
 
 # --- DEATH ---
 date_of_death: 1997-01-01
@@ -86,9 +96,8 @@ circumstances: >
     kidnapped in this operation never even reached the Mojahedin Khalq camps
     in Iraq. Mr. Hajian and his companions were survivors of the mass
     execution
-event_context: null
-responsible_forces: null
-
+event_context: "Alghadir operation"
+responsible_forces: "Information Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

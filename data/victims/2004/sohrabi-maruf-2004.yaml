@@ -2,11 +2,16 @@ id: sohrabi-maruf-2004
 name_latin: "Ma'ruf Sohrabi"
 name_farsi: "معروف سهرابی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Paveh, Kermanshah"
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: "https://www.iranrights.org/actorphotos/74290_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "Peshmerga member of the Democratic Party of Iranian Kurdistan"
+family:
+  marital_status: "single"
 
 # --- DEATH ---
 date_of_death: 2004-01-01
@@ -87,8 +92,7 @@ circumstances: >
     a fair trial. Evidence of guilt The report of this execution does not
     contain
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Movement of Iraqi Kurdistan"
 # --- VERIFICATION ---
 status: unverified
 sources:

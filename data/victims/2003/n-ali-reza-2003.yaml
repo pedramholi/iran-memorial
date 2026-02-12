@@ -3,7 +3,7 @@ name_latin: "Ali Reza N."
 name_farsi: "علیرضا ن."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -53,9 +53,8 @@ circumstances: >
     Province and Branch 32 of the Supreme Court confirmed the ruling. He was
     hanged, along with three others, in public at the Shahid Bahonar Square in
     Gorgan on December 11, 2003.
-event_context: null
-responsible_forces: null
-
+event_context: "2003 execution"
+responsible_forces: "Golestan Security District"
 # --- VERIFICATION ---
 status: unverified
 sources:

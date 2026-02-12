@@ -1,12 +1,23 @@
 id: khezrzadeh-khaleq-2023
 name_latin: "Khaleq Khezrzadeh"
 name_farsi: "خالق خضر‌زاده"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1990-01-01"
+place_of_birth: "Kani Bodagh, Lajan district, Piranshahr County, West Azerbaijan province"
+gender: male
+ethnicity: "Kurdish"
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/84917_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "border courier, building construction, truck driving"
+education: "completed second year of high school"
+family:
+  marital_status: "married"
+  children: 1
+  notes: "father of a single son"
+beliefs: "attended anti-government protests"
+quotes:
+  - "I was able to inform my family of my arrest by phone."
 
 # --- DEATH ---
 date_of_death: 2023-01-09
@@ -87,8 +98,7 @@ circumstances: >
     codefendant s friend had taken the vehicle for a period of two days. After
     being read his ch
 event_context: null
-responsible_forces: null
-
+responsible_forces: "uniformed police"
 # --- VERIFICATION ---
 status: unverified
 sources:

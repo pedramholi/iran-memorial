@@ -3,7 +3,7 @@ name_latin: "Javad M."
 name_farsi: "جواد م."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -41,9 +41,8 @@ circumstances: >
     The court condemned Mr. Javad M. to death and the General Public
     Prosecutor s Office confirmed the ruling. He was hanged in the Arak
     Central Prison on January 13, 2015.
-event_context: null
-responsible_forces: null
-
+event_context: "2015 execution"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

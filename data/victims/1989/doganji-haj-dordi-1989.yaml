@@ -3,10 +3,14 @@ name_latin: "Haj Dordi Doganji"
 name_farsi: "فرخ زاد دوگنجی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "To continue the ultimate battle against ‘death dealers’ and ‘corruptors on earth,’ 10 smugglers were hanged in public and in the presence of the Hezbollah Umma [community of Muslim people] this morning."
 
 # --- DEATH ---
 date_of_death: 1989-05-16
@@ -44,8 +48,7 @@ circumstances: >
     earth,’ 10 smugglers were hanged in public and in the presence of the
     Hezbollah Umma [community of Muslim people] this morning.”
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

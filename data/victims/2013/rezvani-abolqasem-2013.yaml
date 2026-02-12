@@ -1,12 +1,19 @@
 id: rezvani-abolqasem-2013
 name_latin: "Abolqasem Rezvani"
 name_farsi: "ابوالقاسم رضوانی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1951-01-01"
+place_of_birth: "Semnan"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/85249_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "lawyer"
+education: "law degree"
+family:
+quotes:
+  - "After the anti-royalty revolution succeeded, I served the people in the Revolutionary Court of Tehran, the Revolutionary Court of Sari, and the Committee for Property Arbitration in Gorgan and Dashte Moghan."
 
 # --- DEATH ---
 date_of_death: 2013-09-01
@@ -87,8 +94,7 @@ circumstances: >
     was also bombed several times during the United States' war with Iraq in
     2003, inflicting casualties, property, and finan
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

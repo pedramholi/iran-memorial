@@ -3,7 +3,7 @@ name_latin: "Abdolqodus Es'haqzehi"
 name_farsi: "عبدالقدوس اسحاق زهی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -46,8 +46,7 @@ circumstances: >
     Es'haqzehi's defense. Judgment No further information is available on the
     verdict and the execution .
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

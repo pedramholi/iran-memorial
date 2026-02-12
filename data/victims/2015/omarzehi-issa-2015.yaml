@@ -1,12 +1,18 @@
 id: omarzehi-issa-2015
 name_latin: "Issa Omarzehi"
 name_farsi: "عیسی عمرزهی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1959-01-01"
+place_of_birth: "Khash"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "businessman"
+family:
+  marital_status: "married"
+  children: 12
 
 # --- DEATH ---
 date_of_death: 2015-08-17
@@ -59,9 +65,8 @@ circumstances: >
     carried out on Monday August 17, 2015 and Mr. Omarzehi was hanged, along
     with three others, at the Minab Central Prison yard in the morning. Mr.
     Omarzehi s body is buried in Chah Salar village in Khash. (ABC e-form)
-event_context: null
-responsible_forces: null
-
+event_context: "execution on August 17, 2015"
+responsible_forces: "Islamic Revolutionary Court of Minab"
 # --- VERIFICATION ---
 status: unverified
 sources:

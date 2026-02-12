@@ -1,12 +1,19 @@
 id: mamedi-reza-esmaili-2013
 name_latin: "Reza Esma'ili (Mamedi)"
 name_farsi: "رضا اسماعیلی (مامدی)"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1988-01-01"
+place_of_birth: "Derik Village near Salmas, Azerbaijan-e Gharbi"
+gender: male
+ethnicity: "Kurdish"
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/75824_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  children: 1
+  notes: "son of Tofiq; family had died in a fire incident caused by a gas explosion"
+beliefs: "member of PJAK"
 
 # --- DEATH ---
 date_of_death: 2013-10-26
@@ -59,8 +66,7 @@ circumstances: >
     allow the family to have an official mourning ceremony for Mr. Esma ili
     (Mamedi).
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Intelligence Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

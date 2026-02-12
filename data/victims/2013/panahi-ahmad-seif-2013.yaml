@@ -1,12 +1,16 @@
 id: panahi-ahmad-seif-2013
 name_latin: "Ahmad Seif Panahi"
 name_farsi: "احمد سیف‌پناهی"
-date_of_birth: null
+date_of_birth: "1990-01-01"
 place_of_birth: null
-gender: null
-ethnicity: null
+gender: male
+ethnicity: "Kurd"
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/74300_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  marital_status: "single"
 
 # --- DEATH ---
 date_of_death: 2013-11-05

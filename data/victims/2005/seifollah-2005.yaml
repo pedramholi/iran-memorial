@@ -3,7 +3,7 @@ name_latin: "Seifollah"
 name_farsi: "سیف الله"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,8 +38,7 @@ circumstances: >
     confirmed the ruling. The defendant was hanged in Qiam square of Borujerd
     (Lorestan province). There is no date of execution in the report.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

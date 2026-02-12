@@ -2,11 +2,17 @@ id: bahramzehi-ayub-ahmad-2013
 name_latin: "Ayub (Ahmad) Bahramzehi"
 name_farsi: "ایوب (احمد) بهرام‌زهی"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Nasirabad, Sarbaz county, Sistan Va Baluchestan"
+gender: male
+ethnicity: "Baluch"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/75272_thumb.jpeg"
+
+# --- LIFE ---
+education: "high school diploma with a concentration in literature"
+family:
+  marital_status: "bachelor"
+personality: "ordinary young man who was not politically active or involved with any party or group"
 
 # --- DEATH ---
 date_of_death: 2013-10-26
@@ -86,8 +92,7 @@ circumstances: >
     membership in Jundullah, and effective participation in terrorist
     incidents in the province in recent years (
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

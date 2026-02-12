@@ -1,12 +1,23 @@
 id: mikailian-tatavus-1994
 name_latin: "Tatavus Mika'ilian"
 name_farsi: "طاطه‌وس میکائیلیان"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1932-01-01"
+place_of_birth: "Tehran"
+gender: male
 ethnicity: null
 religion: "Christianity"
 photo: "https://www.iranrights.org/actorphotos/85849_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "pastor"
+education: "bachelor's degree in law from the University of Tehran; completed studies in theology at a university in Beirut"
+family:
+  marital_status: "married"
+  children: 3
+  notes: "father of two daughters and a son"
+quotes:
+  - "Instead of pursuing a career as a lawyer for wealth, fame, and status, he chose to use his knowledge to serve God."
+  - "He said that the response he received was..."
 
 # --- DEATH ---
 date_of_death: 1994-06-29
@@ -85,9 +96,8 @@ circumstances: >
     with the Boroumand Center, February 22, 2023). He also traveled to The
     Hague to protest the situation of Christians in Iran. He said they lacked
     freedom: "He said that the response he receiv
-event_context: null
-responsible_forces: null
-
+event_context: "harsh conditions Christians face in Iran"
+responsible_forces: "Ministry of Culture"
 # --- VERIFICATION ---
 status: unverified
 sources:

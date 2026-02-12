@@ -2,8 +2,8 @@ id: sureh-soheil-salehi-asl-2003
 name_latin: "Soheil Salehi Asl Sureh"
 name_farsi: "سهیل صالحی‌اصل‌ سوره"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Ahvaz"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -46,9 +46,8 @@ circumstances: >
     32 of the Supreme Court confirmed the ruling on January 20, 2003. He was
     hanged in public in Ahvaz on April 27, 2003 at dawn. No specific
     information is available about this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "2003 execution"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

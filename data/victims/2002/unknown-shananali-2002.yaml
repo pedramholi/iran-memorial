@@ -3,7 +3,7 @@ name_latin: "Sha'nan'ali Unknown"
 name_farsi: "شعبانعلی ناشناس"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/74217_thumb.jpeg"
@@ -39,8 +39,7 @@ circumstances: >
     ban ali to death and the Supreme Court confirmed the ruling. He was hanged
     in public at the Emamzadeh Abdollah Square in Malayer on May 27, 2002.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,10 +3,13 @@ name_latin: "Hossein Talkhabi"
 name_farsi: "حسین تلخابی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+occupation: "head of a 40-member crime ring"
 
 # --- DEATH ---
 date_of_death: 2001-11-10
@@ -44,9 +47,8 @@ circumstances: >
     Mr. Hossein Talkhabi was condemned to death; the Supreme Court approved
     this sentence. On November 10, 2001, he and a co-defendant was flogged 150
     lashes and then hanged in public at Resalat Square in Qom.
-event_context: null
-responsible_forces: null
-
+event_context: "November 2001"
+responsible_forces: "Islamic Republic’s authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -2,11 +2,17 @@ id: perelmuter-rosa-1994
 name_latin: "Rosa Perelmuter"
 name_farsi: "رزا پرلموتر"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Buenos Aires, Argentina"
+gender: female
 ethnicity: null
 religion: "Judaism"
 photo: "https://www.iranrights.org/actorphotos/11930_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "telephone receptionist"
+family:
+  children: 0
+  notes: "a doting and attentive aunt to her brother’s children"
 
 # --- DEATH ---
 date_of_death: 1994-07-18
@@ -85,9 +91,8 @@ circumstances: >
     was in charge of the operation, was Iran’s newly appointed cultural
     attaché at the embassy (though he had been in Argentina for eleven years,
     he was
-event_context: null
-responsible_forces: null
-
+event_context: "AMIA bombing"
+responsible_forces: "Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

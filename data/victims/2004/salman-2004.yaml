@@ -1,9 +1,9 @@
 id: salman-2004
 name_latin: "Salman"
 name_farsi: "سلمان"
-date_of_birth: null
+date_of_birth: "1987-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null

@@ -3,7 +3,7 @@ name_latin: "Abbas (Ali) N."
 name_farsi: "عباس (علی) ن."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -79,9 +79,8 @@ circumstances: >
     confirmed again. He was hanged, along with another defendant of the case,
     at the Evin Prison yard in Tehran on May 31, 2006. The third defendant was
     exonerated.
-event_context: null
-responsible_forces: null
-
+event_context: "kidnapping and rape of an 18-year-old girl at an incomplete building in Karaj on September 19, 2005"
+responsible_forces: "Intelligence Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

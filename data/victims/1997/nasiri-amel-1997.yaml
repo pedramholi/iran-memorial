@@ -2,11 +2,15 @@ id: nasiri-amel-1997
 name_latin: "Amel Nasiri"
 name_farsi: "عامل نصیری"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Ardebil"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "brother of Shamel, son of Jamshid"
 
 # --- DEATH ---
 date_of_death: 1997-01-15
@@ -39,8 +43,7 @@ circumstances: >
     condemned Mr. Amel Nasiri to death and he and his brother were hanged at
     Qasr prison (Tehran) on January 15, 1997.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Abbas Ali"
 name_farsi: "عباسعلی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -51,8 +51,7 @@ circumstances: >
     wife, to 10 years imprisonment for assisting in murder and 99 lashes for
     acts incompatible with chastity.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Intelligence Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

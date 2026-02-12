@@ -3,7 +3,7 @@ name_latin: "Ali Asghar (Amir) Khodadust"
 name_farsi: "علی‌اصغر (امیر) خدادوست"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -44,9 +44,8 @@ circumstances: >
     Khodadust s defense. Judgment Mr. Amir (Ali Asghar) Khodadust was hanged,
     along with seven other individuals, at the Qezelhesar Prison yard in Karaj
     on February 18, 2014.
-event_context: null
-responsible_forces: null
-
+event_context: "2014 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

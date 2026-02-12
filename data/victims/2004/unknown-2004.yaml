@@ -43,9 +43,8 @@ circumstances: >
     death and the Supreme Court confirmed the ruling. This person was hanged,
     along with the other defendant, in Hamadan in 2004. The exact date of the
     execution is unknown.
-event_context: null
-responsible_forces: null
-
+event_context: "2004"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

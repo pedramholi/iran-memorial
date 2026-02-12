@@ -3,8 +3,8 @@ name_latin: "Razaqi"
 name_farsi: "رزاقی"
 date_of_birth: null
 place_of_birth: null
-gender: null
-ethnicity: null
+gender: male
+ethnicity: "Azerbaijani"
 religion: "Presumed Muslim (Shi'a)"
 photo: null
 
@@ -85,9 +85,8 @@ circumstances: >
     information about the circumstances of his death or his burial location.
     Regulations on Controlling Protests There have been numerous reports of
     deaths during critical demonstration
-event_context: null
-responsible_forces: null
-
+event_context: "2006 Azerbaijan Protests"
+responsible_forces: "Basij"
 # --- VERIFICATION ---
 status: unverified
 sources:

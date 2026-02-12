@@ -3,7 +3,7 @@ name_latin: "Hassan Madadi"
 name_farsi: "حسن مددی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -43,8 +43,7 @@ circumstances: >
     country. According to the Khorasan newspaper, he was hanged in Birjand on
     July 7, and according to IRNA, on July 9, 2007.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Hassan Qanbari"
 name_farsi: "حسن قنبری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -53,9 +53,8 @@ circumstances: >
     was exonerated from execution, but there is no information available on
     his final verdict. The fourth defendant of the case was released.
     ---------------------- *Ali Khani
-event_context: null
-responsible_forces: null
-
+event_context: "drug trafficking"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

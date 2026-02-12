@@ -3,10 +3,18 @@ name_latin: "Abdolreza"
 name_farsi: "عبدالرضا"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  children: 1
+  notes: "father of a 10-year-old daughter"
+quotes:
+  - "I surrendered to my temptation and had nothing to say on my defense."
 
 # --- DEATH ---
 date_of_death: 2007-06-13
@@ -55,8 +63,7 @@ circumstances: >
     Branch 36 of the Supreme Court. He was hanged in the Evin prison on June
     13, 2007.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

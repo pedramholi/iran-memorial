@@ -3,7 +3,7 @@ name_latin: "Ali Kuhbana'i"
 name_farsi: "علی کوه‌بنائی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -43,9 +43,8 @@ circumstances: >
     condemned him to death on September 24, 2001. The Supreme Court confirmed
     the ruling on September 7, 2002. He was hanged at the Rahnan Intersection
     in Esfahan on May 25, 2003.
-event_context: null
-responsible_forces: null
-
+event_context: "2001 trial and execution"
+responsible_forces: "Intelligence Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,10 +3,14 @@ name_latin: "Mahmud Aminzadeh"
 name_farsi: "محمود امین‌زاده"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "claimed chastity issues as his motivation for the murder"
 
 # --- DEATH ---
 date_of_death: 2007-07-24
@@ -36,8 +40,7 @@ circumstances: >
     Aminzadeh to death and Branch 40 of the Supreme Court confirmed the
     ruling. He was hanged in the Kermanshah Central Prison on July 24, 2007.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "IRGC"
 # --- VERIFICATION ---
 status: unverified
 sources:

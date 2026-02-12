@@ -3,10 +3,14 @@ name_latin: "Nosratollah F."
 name_farsi: "نصرت الله ف."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "Mr. Nosratollah F. was hanged, as a \"death trader,\" at dawn on Tuesday August 9, 2005."
 
 # --- DEATH ---
 date_of_death: 2005-08-09
@@ -41,8 +45,7 @@ circumstances: >
     Mr. Nosratollah F. was hanged, as a "death trader," at dawn on Tuesday
     August 9, 2005.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

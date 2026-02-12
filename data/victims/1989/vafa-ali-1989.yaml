@@ -3,7 +3,7 @@ name_latin: "Ali Vafa"
 name_farsi: "علی وفا"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -39,9 +39,8 @@ circumstances: >
     stoning. The Supreme Court and the Supreme Judiciary Council confirmed the
     ruling. He was stoned on February 3, 1989 in the presence of the religious
     judge of the Islamic Revolutionary Court and some people in Zanjan.
-event_context: null
-responsible_forces: null
-
+event_context: "1989 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

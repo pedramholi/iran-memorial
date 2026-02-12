@@ -3,8 +3,8 @@ name_latin: "Abdolvahed Baran Zehi"
 name_farsi: "عبدالواحد باران زهی"
 date_of_birth: null
 place_of_birth: null
-gender: null
-ethnicity: null
+gender: male
+ethnicity: "Baluch"
 religion: "Unknown"
 photo: null
 
@@ -44,8 +44,7 @@ circumstances: >
     Baranzehi to death and he was hanged in Tehran on January 12, 2011 at
     dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "IRGC"
 # --- VERIFICATION ---
 status: unverified
 sources:

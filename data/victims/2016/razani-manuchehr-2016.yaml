@@ -2,11 +2,15 @@ id: razani-manuchehr-2016
 name_latin: "Manuchehr Razani"
 name_farsi: "منوچهر رازانی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Razan, Khorramabad"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "son of Shams Ali"
 
 # --- DEATH ---
 date_of_death: 2016-04-19
@@ -50,8 +54,7 @@ circumstances: >
     -------------------------- *Messers Ahmad Nami, Alireza Sarebani, and
     Abdolhamid Moradi
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,19 @@
 id: m-behzad-2007
 name_latin: "Behzad M."
 name_farsi: "بهزاد م."
-date_of_birth: null
+date_of_birth: "1978-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+occupation: "driver"
+family:
+  marital_status: "married"
+quotes:
+  - "I provided a single s home for Hushang [the victim] and sometimes supplied alcoholic beverages when he had a party. On the day of the murder, in an unusual state of mind, he proposed that I offer him my wife for a good sum of money. When I heard this, I became angry and killed him. Then I stole a one-million-Toman check from his office and hid his body in the closet."
 
 # --- DEATH ---
 date_of_death: 2007-05-15
@@ -50,8 +57,7 @@ circumstances: >
     confirmed by Branch 27 of the Supreme Court. He was hanged in the Evin
     prison yard on May 16, 2007.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

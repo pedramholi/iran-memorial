@@ -1,12 +1,25 @@
 id: y-qasem-2007
 name_latin: "Qasem Y."
 name_farsi: "قاسم ی."
-date_of_birth: null
+date_of_birth: "1972-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/39593_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "revenue collector"
+quotes:
+  - "I am 35 years old. I worked at a soup factory and in a company as a revenue collector"
+  - "from the age of 12, I distributed newspaper in addition to school. [I lived honorably] and I am also an athlete"
+  - "I did not confess to anything"
+  - "One of the officers tied [me] to a tree with little clothes and asked [me] to confess as he wanted"
+  - "One of the officers told them to identify me as the perpetrator"
+  - "I have not committed the crime and have been arrested by mistake"
+  - "The officers beat me in front of plaintiffs in order to convince them"
+  - "Because I was doing construction in their neighborhood, the neighbor had animosity against me and his claim was a lie"
+  - "Every day at 5:30 pm, after the workers leave the building, I would lock the door and leave the building"
 
 # --- DEATH ---
 date_of_death: 2007-12-19
@@ -86,8 +99,7 @@ circumstances: >
     building” (Fars News Agency). About the discovery of an official stamp in
     his house, the defendant said: “I used the
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Central Intelligence Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

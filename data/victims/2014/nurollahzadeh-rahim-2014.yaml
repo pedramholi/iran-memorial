@@ -3,7 +3,7 @@ name_latin: "Rahim Nurollahzadeh"
 name_farsi: "رحیم نورالله‌زاده"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -49,8 +49,7 @@ circumstances: >
     Prison on November 25, 2014. No specific information is available about
     this execution.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

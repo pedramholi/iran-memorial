@@ -1,12 +1,16 @@
 id: barayamnejad-behrouz-2007
 name_latin: "Behrouz Barayamnejad"
 name_farsi: "بهروز برایم‌نژاد"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "2000-01-01"
+place_of_birth: "Bam"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "son of Akbar"
 
 # --- DEATH ---
 date_of_death: 2007-01-01

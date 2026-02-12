@@ -1,12 +1,16 @@
 id: nikzadi-mohammad-2009
 name_latin: "Mohammad Nikzadi"
 name_farsi: "محمد نیكزادی"
-date_of_birth: null
+date_of_birth: "1987-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "graduate student"
+education: "Development"
 
 # --- DEATH ---
 date_of_death: 2009-06-16
@@ -85,9 +89,8 @@ circumstances: >
     should be appreciated The enemies of Islam wanted to make the air dusty
     and to exploit the recent events, but thank God, through the enlightenment
     of the Honorable Leader we were victorious against this conspi
-event_context: null
-responsible_forces: null
-
+event_context: "2009 presidential election protests"
+responsible_forces: "Basij"
 # --- VERIFICATION ---
 status: unverified
 sources:

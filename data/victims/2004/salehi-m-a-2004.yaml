@@ -1,9 +1,9 @@
 id: salehi-m-a-2004
 name_latin: "M. A. Salehi"
 name_farsi: "م. ع. صالحی"
-date_of_birth: null
+date_of_birth: "1939-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -40,8 +40,7 @@ circumstances: >
     Salehi was hanged in Torbat-e Heydarieh. The circumstances and date of his
     execution is unknown.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

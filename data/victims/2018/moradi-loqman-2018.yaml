@@ -1,12 +1,21 @@
 id: moradi-loqman-2018
 name_latin: "Loqman Moradi"
 name_farsi: "لقمان مرادی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1983-01-01"
+place_of_birth: "Marivan, Kurdistan Province"
+gender: male
 ethnicity: null
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/82028_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "mountain porter, crane operator"
+family:
+  notes: "breadwinner for the family"
+personality: "kind, patient and jovial"
+beliefs: "sensitive about social issues, particularly followed Kurdistan-related news"
+quotes:
+  - "\"I was faced with an assassination charge 24 hours after my arrest, and I had no idea what incident the charge was related to.\""
 
 # --- DEATH ---
 date_of_death: 2018-09-08
@@ -85,9 +94,8 @@ circumstances: >
     torture. According to Mr. Moradi, he was interrogated and tortured by 6 to
     7 interrogators at all hours of day and night, in such a way that he could
     not sleep, eat, or rest. He only learned about
-event_context: null
-responsible_forces: null
-
+event_context: "murder of three individuals in the town of Marivan in 2009"
+responsible_forces: "Information Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

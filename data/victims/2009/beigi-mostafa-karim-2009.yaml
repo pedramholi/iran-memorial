@@ -1,12 +1,24 @@
 id: beigi-mostafa-karim-2009
 name_latin: "Mostafa Karim Beigi"
 name_farsi: "مصطفی کریم بیگی"
-date_of_birth: null
+date_of_birth: "1983-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/71618_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "business owner"
+education: "high-school diploma"
+family:
+  marital_status: "single"
+  children: 0
+personality: "kind-hearted young man who helped the sick and those in need"
+beliefs: "outspoken and freedom-loving person"
+quotes:
+  - "dialogue is our only weapon, the only way we can make our views known to the Basij so they will have an idea what it is we are asking for."
+  - "our blood has to be shed before things can start to get better."
 
 # --- DEATH ---
 date_of_death: 2009-12-27
@@ -85,9 +97,8 @@ circumstances: >
     filed by his family was abandoned with no results. Ms. Shahnaz Akmali
     insists that this was due to the lack of serious will on the part of the
     authorities to find tho
-event_context: null
-responsible_forces: null
-
+event_context: "2009 Ashura protests"
+responsible_forces: "police and plainclothes forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

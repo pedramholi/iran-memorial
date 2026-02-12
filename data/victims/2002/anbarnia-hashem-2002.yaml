@@ -3,7 +3,7 @@ name_latin: "Hashem Anbarnia"
 name_farsi: "هاشم انبرنیا"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -40,8 +40,7 @@ circumstances: >
     sentence was carried out publicly in the park, where the alleged crime had
     taken place.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic News Agency"
 # --- VERIFICATION ---
 status: unverified
 sources:

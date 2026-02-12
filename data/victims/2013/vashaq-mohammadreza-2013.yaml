@@ -1,12 +1,18 @@
 id: vashaq-mohammadreza-2013
 name_latin: "Mohammadreza Vashaq"
 name_farsi: "محمد‌رضا‍ وشاق"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1962-01-01"
+place_of_birth: "Tehran"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/85268_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "commander of armored and artillery units"
+family:
+personality: "known for his joyfulness and his zest for life"
+beliefs: "member of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 2013-09-01
@@ -87,8 +93,7 @@ circumstances: >
     subject of missile, air, and ground attacks by the Iranian regime, which
     resulted in the ki
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

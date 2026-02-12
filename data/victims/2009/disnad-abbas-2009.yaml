@@ -1,12 +1,22 @@
 id: disnad-abbas-2009
 name_latin: "Abbas Disnad"
 name_farsi: "عباس دیسناد"
-date_of_birth: null
+date_of_birth: "1961-12-20"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/61686_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "business owner"
+family:
+  marital_status: "married"
+  children: 2
+quotes:
+  - "we have followed up but nobody gives us an answer. They tell us to go and come back later."
+  - "it has been proven that your husband was innocent."
+  - "My father was innocent when he was killed. We just do not want his life to go to waste."
 
 # --- DEATH ---
 date_of_death: 2009-06-24
@@ -85,9 +95,8 @@ circumstances: >
     forces attacked the marchers, injuring and killing several people. To
     prevent such news from being broadcast, the Iranian government expelled
     foreign
-event_context: null
-responsible_forces: null
-
+event_context: "2009 presidential election protests"
+responsible_forces: "Basij"
 # --- VERIFICATION ---
 status: unverified
 sources:

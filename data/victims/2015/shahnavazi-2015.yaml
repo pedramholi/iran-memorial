@@ -3,7 +3,7 @@ name_latin: "Shahnavazi"
 name_farsi: "شهنوازی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -52,9 +52,8 @@ circumstances: >
     death. After the General Public Prosecutor confirmed the ruling, it was
     carried out on Monday August 17, 2015 and Mr. Shahnavazi was hanged, along
     with three others, at the Minab Central Prison yard in the morning.
-event_context: null
-responsible_forces: null
-
+event_context: "2015 execution"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

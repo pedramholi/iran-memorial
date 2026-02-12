@@ -3,7 +3,7 @@ name_latin: "Nasser Shir Aqa"
 name_farsi: "ناصر شیرآقا"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -53,8 +53,7 @@ circumstances: >
     several months. However, they had not been carried out due to judicial
     reasons and Mr. Shir Aqa was the first to be executed.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Intelligence Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

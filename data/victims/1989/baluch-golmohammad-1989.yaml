@@ -3,8 +3,8 @@ name_latin: "Golmohammad Baluch"
 name_farsi: "گل محمد بلوچ"
 date_of_birth: null
 place_of_birth: null
-gender: null
-ethnicity: null
+gender: male
+ethnicity: "Baluch"
 religion: "Presumed Muslim"
 photo: null
 
@@ -53,9 +53,8 @@ circumstances: >
     against the defendant. Defence No information is available on Mr.
     Golmohammad Baluch's defence. Judgment Based on the court's ruling, Mr.
     Golmohammad Baluch was hanged in Kerman.
-event_context: null
-responsible_forces: null
-
+event_context: "1989"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

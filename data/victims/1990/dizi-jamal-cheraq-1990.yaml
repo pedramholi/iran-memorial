@@ -3,10 +3,14 @@ name_latin: "Jamal Cheraq Dizi"
 name_farsi: "جمال چراغ دیزی"
 date_of_birth: null
 place_of_birth: null
-gender: null
-ethnicity: null
+gender: male
+ethnicity: "Kurdish"
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "trials before Islamic revolutionary Courts have usually taken place in secret, sometimes inside prisons, that defendants have not usually enjoyed the right to be represented by a lawyer, and often have not even been made aware that the proceedings were in fact a trial and not an interrogation session."
 
 # --- DEATH ---
 date_of_death: 1990-04-17
@@ -33,7 +37,7 @@ circumstances: >
     against the defendant. Defense No information is available on Mr. Cheraq
     Dizi's defense. Judgment Mr. Cheraq Dizi was sentenced to death and
     executed in Sanandaj, either on April 17th or April 27th, 1990.
-event_context: null
+event_context: "May Day Celebration in the City of Sanandaj"
 responsible_forces: null
 
 # --- VERIFICATION ---

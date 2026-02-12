@@ -1,9 +1,9 @@
 id: hashemi-iman-2009
 name_latin: "Iman Hashemi"
 name_farsi: "ایمان ھاشمی"
-date_of_birth: null
+date_of_birth: "1982-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -85,9 +85,8 @@ circumstances: >
     of some plainclothes agents were posted on internet websites. Internet
     users helped to identify some of them and provided evidence that these
     individuals were affiliated with the Basij paramilitary groups, the
-event_context: null
-responsible_forces: null
-
+event_context: "2009 presidential election protests"
+responsible_forces: "Basij"
 # --- VERIFICATION ---
 status: unverified
 sources:

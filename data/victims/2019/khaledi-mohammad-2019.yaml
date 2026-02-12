@@ -3,7 +3,7 @@ name_latin: "Mohammad Khaledi"
 name_farsi: "محمد خالدی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -85,9 +85,8 @@ circumstances: >
     seeing armed protesters on November 18, though firearm ownership and its
     use during various ceremonies are common in the area. Based on credible
     reports, security forces initially fired non
-event_context: null
-responsible_forces: null
-
+event_context: "2019 November protests"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

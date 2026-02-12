@@ -1,12 +1,22 @@
 id: khezri-vahab-mir-2016
 name_latin: "Vahab Mir Khezri"
 name_farsi: "وهاب میر‌خضری"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1972-03-14"
+place_of_birth: "Mahabad, Western Azarbayjan"
+gender: male
+ethnicity: "Kurdish"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/85275_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "bank employee, private taxi driver, tile layer"
+education: "high school diploma"
+family:
+  marital_status: "married"
+personality: "respectable, ethical, and affable"
+beliefs: "member of the Kurdistan Democratic Party"
+quotes:
+  - "Mr. Mirkhezri was a respectable, ethical, and affable man, and his friends loved him."
 
 # --- DEATH ---
 date_of_death: 2016-12-20
@@ -85,9 +95,8 @@ circumstances: >
     patrol forces and the revolutionary Guards. That same year, Revolutionary
     Guards conducted armed attacks against the positions of Iranian Kurdish
     parties inside the borders of the Kurdish Autonom
-event_context: null
-responsible_forces: null
-
+event_context: "Kurdish Problem in the Islamic Republic After the 1979 Islamic Revolution"
+responsible_forces: "Kurdistan Democratic Party"
 # --- VERIFICATION ---
 status: unverified
 sources:

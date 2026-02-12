@@ -3,7 +3,7 @@ name_latin: "Servat Rasuli"
 name_farsi: "ثروت رسولی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,8 +38,7 @@ circumstances: >
     Judgment The court condemned Ms. Servat Rasuli to death. She was stoned to
     death in Zanjan. The exact date of this execution is not known.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

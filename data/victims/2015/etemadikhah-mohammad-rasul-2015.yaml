@@ -3,7 +3,7 @@ name_latin: "Mohammad Rasul E'temadikhah"
 name_farsi: "محمدرسول اعتمادی‌خواه"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -40,9 +40,8 @@ circumstances: >
     available on Mr. E temadikhah's defense. Judgment Mr. Mohammad Rasul E
     temadikhah was hanged in the Tayebad Prison on January 11, 2015. No
     specific information is available about this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "2015 execution"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

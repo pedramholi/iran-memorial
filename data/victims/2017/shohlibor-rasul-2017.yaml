@@ -1,12 +1,18 @@
 id: shohlibor-rasul-2017
 name_latin: "Rasul Shohlibor"
 name_farsi: "رسول شهلی‌بر"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1972-01-01"
+place_of_birth: "Sistan and Baluchestan"
+gender: male
 ethnicity: null
 religion: "Islam (Sunni)"
 photo: null
+
+# --- LIFE ---
+occupation: "self-employed"
+family:
+  marital_status: "married"
+  children: 0
 
 # --- DEATH ---
 date_of_death: 2017-07-22
@@ -61,9 +67,8 @@ circumstances: >
     in a solitary cell, it is probable that he was executed on July 22, 2017.
     According to an acquaintance, Mr. Shohlibor s family members face
     difficult circumstances following his execution and face financial ruin.
-event_context: null
-responsible_forces: null
-
+event_context: "drug-related offenses"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

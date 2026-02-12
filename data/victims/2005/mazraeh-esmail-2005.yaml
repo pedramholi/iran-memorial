@@ -3,8 +3,8 @@ name_latin: "Esma’il Mazra’eh"
 name_farsi: "اسماعیل مزرعه"
 date_of_birth: null
 place_of_birth: null
-gender: null
-ethnicity: null
+gender: male
+ethnicity: "Arab"
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/71712_thumb.jpeg"
 
@@ -85,9 +85,8 @@ circumstances: >
     million individuals, comprising approximately*** 3% of the country s
     population, reside in Khuzestan, Bushehr, Hormozgan, Fars, and Khorasan
     provinces. The largest number of Arabs reside in the
-event_context: null
-responsible_forces: null
-
+event_context: "protests in Khuzestan, between April 15th and 24th, 2005"
+responsible_forces: "security and police forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

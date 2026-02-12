@@ -2,8 +2,8 @@ id: shahbakhsh-qasem-2001
 name_latin: "Qasem Shahbakhsh"
 name_farsi: "قاسم شه‌بخش"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Zahedan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -43,9 +43,8 @@ circumstances: >
     Revolutionary Court of Birjand condemned Mr. Qasem Shahbakhsh to death
     based on the referential ruling number 80. He was hanged in public in
     Zahedan in July of 2001. The exact date of this execution is unknown.
-event_context: null
-responsible_forces: null
-
+event_context: "July 2001"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

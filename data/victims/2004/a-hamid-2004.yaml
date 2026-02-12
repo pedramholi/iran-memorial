@@ -3,7 +3,7 @@ name_latin: "Hamid A."
 name_farsi: "حمید ع."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -52,9 +52,8 @@ circumstances: >
     of Kerman sentenced Mr. Hamid A. to death by hanging. This sentence was
     approved by the Supreme Court. On August 19, 2004, he and two other people
     were publicly executed in Haft Bagh Square in Kerman.
-event_context: null
-responsible_forces: null
-
+event_context: "August 19, 2004 public execution"
+responsible_forces: "Ministry of Justice of Kerman"
 # --- VERIFICATION ---
 status: unverified
 sources:

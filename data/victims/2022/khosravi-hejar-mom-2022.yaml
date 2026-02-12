@@ -1,12 +1,16 @@
 id: khosravi-hejar-mom-2022
 name_latin: "Hejar Mom Khosravi"
 name_farsi: "هژار مام‌خسروی"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "2000-01-01"
+place_of_birth: "Saqqez, Kordestan Province"
+gender: female
+ethnicity: "Kurdish"
 religion: "Presumed Muslim (Sunni)"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "Women, Life, Freedom"
 
 # --- DEATH ---
 date_of_death: 2022-11-17
@@ -79,9 +83,8 @@ circumstances: >
     mission to Thoroughly and independently investigate alleged human rights
     violations in the Islamic Republic of Iran related to the protests that
     began on 16 September 2022, especially with respect to women and children.
-event_context: null
-responsible_forces: null
-
+event_context: "2022 protests following the death of Mahsa Amini"
+responsible_forces: "morality police"
 # --- VERIFICATION ---
 status: unverified
 sources:

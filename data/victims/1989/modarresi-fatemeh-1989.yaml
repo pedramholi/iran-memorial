@@ -3,10 +3,15 @@ name_latin: "Fatemeh Modarresi"
 name_farsi: "فاطمه مدرسی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Non-Believer"
 photo: "https://www.iranrights.org/actorphotos/36195_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "worked for the Petroleum Company"
+education: "Masters in accounting"
+beliefs: "member of the Tudeh Party"
 
 # --- DEATH ---
 date_of_death: 1989-01-01
@@ -75,7 +80,7 @@ circumstances: >
     beliefs. Judgment No specific information is available about the
     defendant’s execution sentence. Ms. Modarresi was executed by a firing
     squad in the Evin Prison in April 1989.
-event_context: null
+event_context: "executed by a firing squad in the Evin Prison in April 1989"
 responsible_forces: null
 
 # --- VERIFICATION ---

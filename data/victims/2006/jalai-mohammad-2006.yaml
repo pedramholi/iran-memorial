@@ -3,7 +3,7 @@ name_latin: "Mohammad Jala'i"
 name_farsi: "محمد جلائی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -40,9 +40,8 @@ circumstances: >
     32 of the Supreme Court. Mr. Jalai was publicly hanged at Imam Khomeini
     Crossroads of Bam County on April 5, 2006. The other four defendants were
     each sentenced to 15-20 years of imprisonment.
-event_context: null
-responsible_forces: null
-
+event_context: "armed attack on an infrastructure organization workshop"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

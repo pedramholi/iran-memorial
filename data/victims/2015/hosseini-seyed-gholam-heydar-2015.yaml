@@ -1,12 +1,20 @@
 id: hosseini-seyed-gholam-heydar-2015
 name_latin: "Seyed Gholam Heydar Hosseini"
 name_farsi: "سید غلام حیدر‌حسینی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1961-01-01"
+place_of_birth: "Afghanistan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/78954_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "construction worker"
+family:
+  children: 2
+  notes: "father of two sons"
+quotes:
+  - "After about two days of detention in that unsuitable situation, around 2:30 PM on Friday, August 14, 2015, my dad felt sick."
 
 # --- DEATH ---
 date_of_death: 2015-01-01
@@ -85,9 +93,8 @@ circumstances: >
     that unsuitable situation, around 2:30 PM on Friday, August 14, 2015, my
     dad felt sick. We took my father with difficulty next to the door through
     the crowd. We knocked on the door and asked for
-event_context: null
-responsible_forces: null
-
+event_context: "2015 detention of undocumented foreign nationals"
+responsible_forces: "law enforcement"
 # --- VERIFICATION ---
 status: unverified
 sources:

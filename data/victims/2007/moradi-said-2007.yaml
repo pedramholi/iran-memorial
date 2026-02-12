@@ -3,7 +3,7 @@ name_latin: "Sa'id Moradi"
 name_farsi: "سعید مرادی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -46,9 +46,8 @@ circumstances: >
     death in public for being “an enemy of God” and a “corruptor on earth”.
     The ruling was confirmed by Branch 32 of the Supreme Court. He was hanged
     in Imam Khomeini Square in Sahneh on November 13, 2007 at 3 pm.
-event_context: null
-responsible_forces: null
-
+event_context: "2007 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

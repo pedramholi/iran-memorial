@@ -3,7 +3,7 @@ name_latin: "Habibollah Mohammadi"
 name_farsi: "حبیب الله محمدی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -35,8 +35,7 @@ circumstances: >
     provided against the defendant. Defense No information is available on the
     defense. Judgment Mr. Mohammadi was sentenced to death.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic’s authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

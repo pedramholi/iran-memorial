@@ -1,12 +1,19 @@
 id: zargar-karim-2018
 name_latin: "Karim Zargar"
 name_farsi: "کریم زرگر"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1952-01-01"
+place_of_birth: "Ahwaz"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/78831_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "founder of the Rah-e Ma refat organization"
+education: "Master s Degree in law from the University of Tehran, Doctorate in the law of the sea from the University of Strasbourg"
+family:
+  marital_status: "married"
+  notes: "wife, Marjan Davari, was also arrested"
 
 # --- DEATH ---
 date_of_death: 2018-01-30
@@ -85,9 +92,8 @@ circumstances: >
     internal or international security of the state, spreading lies,
     disruption of the economic system of the state, arson and destruction of
     properties,
-event_context: null
-responsible_forces: null
-
+event_context: "execution on January 30, 2018"
+responsible_forces: "Branch 15 Revolutionary Court in Tehran"
 # --- VERIFICATION ---
 status: unverified
 sources:

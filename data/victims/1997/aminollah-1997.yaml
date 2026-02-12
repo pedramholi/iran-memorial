@@ -3,7 +3,7 @@ name_latin: "Aminollah"
 name_farsi: "امین الله"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -43,8 +43,7 @@ circumstances: >
     in the presence of the victim's family and court officials in the Kashan
     prison on October 12 , 1997.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

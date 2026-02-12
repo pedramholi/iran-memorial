@@ -3,10 +3,16 @@ name_latin: "Puya Maqsudbeigi"
 name_farsi: "پویا مقصودبیگی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "medical student"
+education: "senior student at the School of Medicine"
+family:
+  notes: "mother is Zahra Nozari"
 
 # --- DEATH ---
 date_of_death: 2009-01-01
@@ -85,9 +91,8 @@ circumstances: >
     June 19thafter Ayatollah Khamenei s Friday sermon, in which he announced
     his support for Ahmadinejad and warned protestors that they were
     responsible for any
-event_context: null
-responsible_forces: null
-
+event_context: "2009 presidential election protests"
+responsible_forces: "security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Manuchehr Ghafuri"
 name_farsi: "منوچهر غفوری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -42,9 +42,8 @@ circumstances: >
     Supreme Court. After the head of the Judiciary had confirmed the verdict,
     Mr. Gafuri was hanged in the courtyard of Bandar Abbas Central Prison on
     the morning of Thursday, April 9, 2015.
-event_context: null
-responsible_forces: null
-
+event_context: "2011 murder case"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

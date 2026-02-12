@@ -2,11 +2,24 @@ id: amirkhosravi-mahafarid-2014
 name_latin: "Mahafarid AmirKhosravi"
 name_farsi: "مه‌آفرید امیرخسروی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Nash, Rudbar"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/74299_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "businessman"
+education: "civil engineering student"
+family:
+  marital_status: "married"
+  children: 2
+  notes: "father of two"
+personality: "quiet, introverted, and solid man"
+beliefs: "hoped to one day become president"
+quotes:
+  - "\"I liked helping others and the people around me.\""
+  - "\"I liked creating jobs.\""
 
 # --- DEATH ---
 date_of_death: 2014-05-24

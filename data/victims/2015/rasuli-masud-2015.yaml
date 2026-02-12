@@ -3,7 +3,7 @@ name_latin: "Mas'ud Rasuli"
 name_farsi: "مسعود رسولی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -43,9 +43,8 @@ circumstances: >
     information is available on Mr. Rasuli s defense. Judgment Mr. Mas ud
     Rasuli was hanged at the Qezelhesar Prison yard in Karaj on Wednesday
     March 4, 2015 at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "2015 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

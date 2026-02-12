@@ -3,7 +3,7 @@ name_latin: "Yusef Pirostovan"
 name_farsi: "یوسف پیر‌استوان"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -43,9 +43,8 @@ circumstances: >
     available on Mr. Pirostovan s defense. Judgment The court sentenced Mr.
     Yusef Pirostovan to death. He and his former wife were executed in Qazvin
     Central Prison (Choubin Dar), on the morning of May 30, 2021.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on May 30, 2021"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

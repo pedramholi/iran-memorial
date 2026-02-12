@@ -2,9 +2,9 @@ id: kahrazehi-nader-2006
 name_latin: "Nader Kahrazehi"
 name_farsi: "نادر کهرازهی"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Zahedan"
+gender: male
+ethnicity: "Baluchi"
 religion: "Presumed Muslim"
 photo: null
 
@@ -34,7 +34,7 @@ circumstances: >
     highest judiciary officials. Mr. Nader Kahrazehi and two other Baluchi
     citizens were hung in public, on Monday, October 30, 2006, in the presence
     of a large group of people, on Bozorgmehr Street in Zahedan.
-event_context: null
+event_context: "armed altercation on Bozorgmehr Boulevard in Zahedan"
 responsible_forces: null
 
 # --- VERIFICATION ---

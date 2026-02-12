@@ -1,12 +1,18 @@
 id: mohammadi-arman-2013
 name_latin: "Arman Mohammadi"
 name_farsi: "آرمان محمدی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1990-01-01"
+place_of_birth: "Ravansar, Kermanshah"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/73938_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  marital_status: "single"
+  children: 0
+  notes: "only son of his family"
 
 # --- DEATH ---
 date_of_death: 2013-08-20

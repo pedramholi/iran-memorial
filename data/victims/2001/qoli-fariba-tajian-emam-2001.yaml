@@ -3,7 +3,7 @@ name_latin: "Fariba Tajian Emam Qoli"
 name_farsi: "فریبا تاجیان امامقلی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -32,9 +32,8 @@ circumstances: >
     is available concerning Ms. Tajian Emamqoli s defense. Judgment The court
     condemned Ms. Fariba Tajian Emamqoli to death. She was executed in public
     at the Khak Sefid area in Tehranpars on March 19, 2001.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on March 19, 2001"
+responsible_forces: "security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

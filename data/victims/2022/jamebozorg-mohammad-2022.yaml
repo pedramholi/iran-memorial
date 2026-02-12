@@ -1,12 +1,19 @@
 id: jamebozorg-mohammad-2022
 name_latin: "Mohammad Jamebozorg"
 name_farsi: "محمد جامه‌بزرگ"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1963-03-23"
+place_of_birth: "Tuyserkan, Hamadan Province"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/85880_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "carpet shop owner"
+family:
+  marital_status: "married"
+  children: 2
+  notes: "father of two sons, Mas'ud and Meysam"
 
 # --- DEATH ---
 date_of_death: 2022-09-24
@@ -85,9 +92,8 @@ circumstances: >
     opened fire with live ammunition on protesters and even bystanders. At
     least 18 people, including two children, were killed and many others were
     wounded. The Zahedan protests continued every Frid
-event_context: null
-responsible_forces: null
-
+event_context: "Woman, Life, Freedom protests"
+responsible_forces: "IRGC"
 # --- VERIFICATION ---
 status: unverified
 sources:

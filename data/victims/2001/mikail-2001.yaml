@@ -3,10 +3,15 @@ name_latin: "Mika'il"
 name_farsi: "میکائیل"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "fortune-teller"
+quotes:
+  - "During his confession, he stated that he acted as a fortune-teller, befriended women who went to the shrine, and took them to his house."
 
 # --- DEATH ---
 date_of_death: 2001-08-10
@@ -50,8 +55,7 @@ circumstances: >
     and the Supreme Court confirmed the ruling. He was executed at the Evin
     Prison yard in Tehran on August 1, 2001.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

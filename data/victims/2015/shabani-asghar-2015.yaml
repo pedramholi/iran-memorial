@@ -3,7 +3,7 @@ name_latin: "Asghar Sha'bani"
 name_farsi: "اصغر شعبانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -40,9 +40,8 @@ circumstances: >
     Sha bani was transferred to solitary confinement on February 14, and was
     hanged at the Shahab Prison in Kerman on February 15, 2015. No specific
     information is available about this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "2015 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

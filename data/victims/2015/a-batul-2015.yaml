@@ -3,7 +3,7 @@ name_latin: "Batul A."
 name_farsi: "بتول الف."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -43,9 +43,8 @@ circumstances: >
     A. to death and the Supreme Court confirmed the ruling and the Head of
     Judiciary validated. She was hanged, along with three others, at the Arak
     Central Prison yard on May 12, 2015.
-event_context: null
-responsible_forces: null
-
+event_context: "2015 execution"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,24 @@
 id: azizi-hashem-2018
 name_latin: "Hashem Azizi"
 name_farsi: "هاشم عزیزی"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1960-10-30"
+place_of_birth: "Baneh, Kurdistan Province"
+gender: male
+ethnicity: "Kurdish"
 religion: "Non-Believer"
 photo: "https://www.iranrights.org/actorphotos/83934_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "teacher"
+education: "twelfth grade"
+family:
+  marital_status: "married"
+  notes: "son of Mohammad and Khadijeh"
+personality: "sociable, empathetic, and personable individual with a great sense of humor"
+beliefs: "member of the Democratic Party of Iranian Kurdistan"
+quotes:
+  - "he loved life and always hoped he could someday return to Iranian Kurdistan"
+  - "he believed in giving chances to the youth"
 
 # --- DEATH ---
 date_of_death: 2018-09-08
@@ -85,9 +97,8 @@ circumstances: >
     Democratic Party s armed forces). On August 19, 1979, Ayatollah Khomeini
     labeled the Democratic Party of Iranian Kurdistan (PDKI), the oldest and
     most influential Kurdish Party, the Party of the Devil , and de
-event_context: null
-responsible_forces: null
-
+event_context: "1979 Islamic Revolution"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

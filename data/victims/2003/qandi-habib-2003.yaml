@@ -3,10 +3,15 @@ name_latin: "Habib Qandi"
 name_farsi: "حبیب قندی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "he stated that since the boy s father was rich and had an appliance shop, he and his friend planned the kidnapping and picked up the boy from his school and took him to his workshop."
+  - "his motivation to murder was his financial difficulties and he had no animosity toward the boy s father. When he realized that police were looking for the kidnappers and that the boy had recognized him, he committed this stupid act and murdered the boy in a mental panic."
 
 # --- DEATH ---
 date_of_death: 2003-05-28
@@ -54,8 +59,7 @@ circumstances: >
     confirmed the ruling. He was hanged in the Esfahan Central Prison on May
     28, 2003.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Intelligence Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

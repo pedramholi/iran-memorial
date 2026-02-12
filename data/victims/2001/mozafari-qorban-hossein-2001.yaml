@@ -3,10 +3,14 @@ name_latin: "Qorban Hossein Mozafari"
 name_farsi: "قربان‌‌حسین مظفری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "murder"
 
 # --- DEATH ---
 date_of_death: 2001-08-29

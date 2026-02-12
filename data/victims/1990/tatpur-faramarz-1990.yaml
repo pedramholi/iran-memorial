@@ -2,11 +2,17 @@ id: tatpur-faramarz-1990
 name_latin: "Faramarz Tatpur"
 name_farsi: "فرامرز تات‌پور"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Galugah, Mazandaran Province"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+beliefs: "supporter of the Mojahedin e Khalq Organization of Iran"
+quotes:
+  - "Information about the extrajudicial killing of Mr. Faramarz Tatpur was published in the Mojahedin e Khalq Organization Website (December 26, 2016)."
+  - "He was one of the people who escaped the killings of political prisoners in the summer of 1988."
 
 # --- DEATH ---
 date_of_death: 1990-01-01
@@ -85,9 +91,8 @@ circumstances: >
     commission to internal strife in opposition groups. Nevertheless, since
     the very inception of the Islamic Republic regime, the Islamic Republic
     officials have justified these crimes from
-event_context: null
-responsible_forces: null
-
+event_context: "killings of political prisoners in the summer of 1988"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

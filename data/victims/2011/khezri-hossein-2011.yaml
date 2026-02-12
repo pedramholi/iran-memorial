@@ -3,10 +3,20 @@ name_latin: "Hossein Khezri"
 name_farsi: "حسین خضری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: "https://www.iranrights.org/actorphotos/73833_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "carpet weaver"
+education: "eighth grade"
+family:
+  marital_status: "single"
+personality: "described as nice and personable"
+beliefs: "member of Free Life Party of Kurdistan (PEJAK)"
+quotes:
+  - "instead of repaying his debt to his family, he had chosen to repay his debt to his compatriots and be the entire society s son"
 
 # --- DEATH ---
 date_of_death: 2011-01-15
@@ -86,8 +96,7 @@ circumstances: >
     family and his attorney during detention at the Revolutionary Guards and
     the Information
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Nabi Akram Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

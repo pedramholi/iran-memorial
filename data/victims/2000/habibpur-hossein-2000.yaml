@@ -3,7 +3,7 @@ name_latin: "Hossein Habibpur"
 name_farsi: "حسین حبیب‌پور"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: "https://www.iranrights.org/actorphotos/73134_thumb.jpeg"
@@ -33,8 +33,7 @@ circumstances: >
     Mr. Habibpur's defense. Judgment The court condemned Mr. Hossein Habibpur
     to death, and he was hanged at the Qasr prison yard on May 11, 2000.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

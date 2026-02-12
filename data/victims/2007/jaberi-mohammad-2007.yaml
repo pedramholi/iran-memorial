@@ -3,10 +3,17 @@ name_latin: "Mohammad Jaberi"
 name_farsi: "محمد جابری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+family:
+  children: 1
+  notes: "father of a daughter who was condemned to five years imprisonment"
+quotes:
+  - "When they execute me tomorrow, the world will end."
 
 # --- DEATH ---
 date_of_death: 2007-05-11

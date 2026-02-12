@@ -1,12 +1,17 @@
 id: damankeshan-abdorreza-2012
 name_latin: "Abdorreza Damankeshan"
 name_farsi: "عبدالرضا دامن‌کشان"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1980-01-01"
+place_of_birth: "Lar, Fars Province"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "worked in retail in a clothes store"
+education: "high school diploma"
+family:
 
 # --- DEATH ---
 date_of_death: 2012-05-26
@@ -85,9 +90,8 @@ circumstances: >
     Damankeshan s attorney, contrary to the practice of executions in public,
     people were not invited for this execution, and only Mr. Damankeshan s
     family were pre
-event_context: null
-responsible_forces: null
-
+event_context: "2012 execution"
+responsible_forces: "Fars Province Criminal Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

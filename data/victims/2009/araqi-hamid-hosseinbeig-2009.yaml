@@ -1,12 +1,20 @@
 id: araqi-hamid-hosseinbeig-2009
 name_latin: "Hamid Hosseinbeig Araqi"
 name_farsi: "حمید حسین‌بیگ عراقی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1988-01-01"
+place_of_birth: "Tehran"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/86410_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  notes: "eldest child in a family of four"
+personality: "athletic, educated, calm and quiet, deeply devoted to his family"
+beliefs: "participated enthusiastically in the 2009 presidential election"
+quotes:
+  - "If God gives me the chance, I have beautiful plans for us I want the rest of our lives to be full of joy."
 
 # --- DEATH ---
 date_of_death: 2009-06-20
@@ -86,7 +94,7 @@ circumstances: >
     plainclothes forces move about freely, violently beating protesters and
     arresting them, while the police passively look on or actively cooperate
     with them. There is little
-event_context: null
+event_context: "2009 presidential election"
 responsible_forces: null
 
 # --- VERIFICATION ---

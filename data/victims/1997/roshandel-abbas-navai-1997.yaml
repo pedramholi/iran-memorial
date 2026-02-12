@@ -3,10 +3,16 @@ name_latin: "Abbas Nava'i Roshandel"
 name_farsi: "عباس نوایی روشندل"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "tire shop owner"
+family:
+  marital_status: "married"
+beliefs: "supporter of the People s Mojahedin Organization of Iran"
 
 # --- DEATH ---
 date_of_death: 1997-01-09

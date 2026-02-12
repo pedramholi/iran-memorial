@@ -1,12 +1,15 @@
 id: sar-mohammad-abedini-2008
 name_latin: "Mohammad Abedini Sar"
 name_farsi: "محمد عابدینی‌سر"
-date_of_birth: null
+date_of_birth: "1975-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "taxi driving"
 
 # --- DEATH ---
 date_of_death: 2008-01-30

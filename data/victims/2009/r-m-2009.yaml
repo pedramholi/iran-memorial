@@ -1,12 +1,16 @@
 id: r-m-2009
 name_latin: "M. R."
 name_farsi: "م. ر."
-date_of_birth: null
+date_of_birth: "1981-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "he had heard that the victim had had an illicit affair with his sister, and that was why he would later shoot him."
 
 # --- DEATH ---
 date_of_death: 2009-03-04
@@ -51,9 +55,8 @@ circumstances: >
     Judgment Branch Five of the Public Court of Fars Province sentenced Mr. M.
     R. to death. Branch 41 of the Supreme Court approved the verdict. Mr. M.
     R. was hanged in Adelabad Prison, Shiraz on the morning of March 4, 2009.
-event_context: null
-responsible_forces: null
-
+event_context: "2004 and 2006 murders"
+responsible_forces: "Police Criminal Investigation Department"
 # --- VERIFICATION ---
 status: unverified
 sources:

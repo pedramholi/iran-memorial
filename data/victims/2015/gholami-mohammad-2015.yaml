@@ -1,9 +1,9 @@
 id: gholami-mohammad-2015
 name_latin: "Mohammad Gholami"
 name_farsi: "محمد غلامی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1982-01-01"
+place_of_birth: "Tabriz"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -43,9 +43,8 @@ circumstances: >
     Gholami's defense. Judgment Mr. Mohammad Gholami was hanged in Bandar-e
     Abbas on February 22, 2015. No further information is available regarding
     this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "2015 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -2,11 +2,17 @@ id: s-ali-2006
 name_latin: "Ali S."
 name_farsi: "علی س."
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Qatar"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "son of Sa diyar"
+quotes:
+  - "I had been drunk when the incident occurred."
 
 # --- DEATH ---
 date_of_death: 2006-01-01
@@ -41,8 +47,7 @@ circumstances: >
     Supreme Court. Mr. Ali S. was hanged in the courtyard of Bandar Abbas
     Central Prison in 2005.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Judiciary Police of Bandar Abbas"
 # --- VERIFICATION ---
 status: unverified
 sources:

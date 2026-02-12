@@ -3,10 +3,13 @@ name_latin: "Hossein A."
 name_farsi: "حسین ع."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "taxi driver"
 
 # --- DEATH ---
 date_of_death: 2015-05-19
@@ -35,9 +38,8 @@ circumstances: >
     Branch 32 of the Supreme Court confirmed the ruling and the Head of
     Judiciary validated it.. He was hanged in public in Shiraz on May 19,
     2015.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on May 19, 2015"
+responsible_forces: "Criminal Court of Fars"
 # --- VERIFICATION ---
 status: unverified
 sources:

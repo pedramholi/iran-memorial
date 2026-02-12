@@ -3,10 +3,15 @@ name_latin: "Kh N."
 name_farsi: "خ ن"
 date_of_birth: null
 place_of_birth: null
-gender: null
-ethnicity: null
+gender: male
+ethnicity: "Afghan"
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+occupation: "worker"
+family:
+  notes: "father of one of the defendants"
 
 # --- DEATH ---
 date_of_death: 2010-05-26
@@ -53,9 +58,8 @@ circumstances: >
     judiciary and he was hanged in the central prison of Yazd on May 26, 2010.
     According to the Ariana website, the bodies of this defendant and the
     three other Afghans were given to Afghan officials at the border.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on May 26, 2010"
+responsible_forces: "Iranian police"
 # --- VERIFICATION ---
 status: unverified
 sources:

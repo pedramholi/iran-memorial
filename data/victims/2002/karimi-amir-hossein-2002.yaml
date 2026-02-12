@@ -3,7 +3,7 @@ name_latin: "Amir Hossein Karimi"
 name_farsi: "امیرحسین کریمی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -36,8 +36,7 @@ circumstances: >
     ruling was carried out at the Qasr Prison yard when he was hanged on April
     17, 2002 at 4 a.m.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

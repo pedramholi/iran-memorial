@@ -3,7 +3,7 @@ name_latin: "Reza Hamrahi"
 name_farsi: "رضا همراهی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -64,9 +64,8 @@ circumstances: >
     [fighting against God] and Efsad [corruption on Earth]. Branch 32 of the
     Supreme Court confirmed the ruling. He was hanged, along with two others,
     in public in front of the government building in Ahar on January 1, 2003.
-event_context: null
-responsible_forces: null
-
+event_context: "armed attack at the Basij Base in the Noghduz Village near Ahar"
+responsible_forces: "Intelligence Office of Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

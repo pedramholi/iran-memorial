@@ -1,12 +1,18 @@
 id: bustani-ahmad-2013
 name_latin: "Ahmad Bustani"
 name_farsi: "احمد بوستانی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1951-01-01"
+place_of_birth: "Shiraz"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/85224_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "electrical engineer"
+education: "Electrical Engineering"
+family:
+beliefs: "member of the Mojahedin Organization"
 
 # --- DEATH ---
 date_of_death: 2013-09-01
@@ -87,8 +93,7 @@ circumstances: >
     (Amnesty International, September 2, 2013; Human Rights Watch, July 31,
     2009). On April 8, 2011,
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

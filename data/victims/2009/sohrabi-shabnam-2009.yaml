@@ -1,12 +1,27 @@
 id: sohrabi-shabnam-2009
 name_latin: "Shabnam Sohrabi"
 name_farsi: "شبنم سهرابی"
-date_of_birth: null
+date_of_birth: "1975-01-01"
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/61708_thumb.jpeg"
+
+# --- LIFE ---
+education: "completed her carpet knitting courses"
+family:
+  marital_status: "separated"
+  children: 1
+  notes: "survived by her six-year-old daughter"
+personality: "loved to travel and had plans for her life"
+quotes:
+  - "I went everywhere, including hospitals, and found out that Shabnam was transferred to the Rasul Hospital. But I heard no news of her and nobody was responsive until after twenty days they [authorities] called us at home and told us that my daughter s body was in the Kahrizak morgue."
+  - "They ran over my daughter with a police vehicle but wrote the cause of death as collision with a hard substance . I want to know the name of this hard substance."
+  - "They trampled over my daughter s body and now only God will answer my demands for Shabnam s rights."
+  - "All my efforts to identify my daughter s murderer have had no result I know well that some day my daughter s killers will be identified and that day my pain and suffering might be assuaged."
+  - "Shabnam liked to live. She had just completed her carpet knitting courses and had plans for her life. But they did not let her live."
+  - "These days, she asks When will Mommy return? What answer can I offer her except to say that she has gone to heaven? She looks back at me with her sad eyes and says: Heaven is so far [away]."
 
 # --- DEATH ---
 date_of_death: 2009-12-27
@@ -85,9 +100,8 @@ circumstances: >
     the next day. We did not expect that anyone would be killed on that day
     because of its religious significance. Compared to the first days after
     the election, some people were afraid
-event_context: null
-responsible_forces: null
-
+event_context: "2009 Ashura Day protests"
+responsible_forces: "anti-riot police"
 # --- VERIFICATION ---
 status: unverified
 sources:

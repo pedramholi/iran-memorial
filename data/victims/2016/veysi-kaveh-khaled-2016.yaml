@@ -2,11 +2,20 @@ id: veysi-kaveh-khaled-2016
 name_latin: "Kaveh (Khaled) Veysi"
 name_farsi: "کاوه (خالد) ویسی"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Mansur Balaghi village"
+gender: male
+ethnicity: "Kurdish"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/76111_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "errand boy at a clothing store"
+education: "mathematics student"
+family:
+  marital_status: "married"
+  children: 1
+  notes: "father of one child (born on the night Mr. Veysi was arrested)"
+beliefs: "follower of the Shafe'i branch of Islam"
 
 # --- DEATH ---
 date_of_death: 2016-08-02
@@ -86,8 +95,7 @@ circumstances: >
     religious activists were arrested in the name of fighting Salafi and
     Takfiri (term used to denote Sunni extremists such as al-Qa
 event_context: null
-responsible_forces: null
-
+responsible_forces: "IRGC"
 # --- VERIFICATION ---
 status: unverified
 sources:

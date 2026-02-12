@@ -1,12 +1,19 @@
 id: jarami-esmail-ayubi-2016
 name_latin: "Esma'il Ayubi Jarami"
 name_farsi: "اسماعیل ایوبی جرمی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1975-01-01"
+place_of_birth: "Orumieh"
+gender: male
 ethnicity: null
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/82969_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "self-employed"
+family:
+  marital_status: "married"
+  children: 5
+personality: "gregarious and patient"
 
 # --- DEATH ---
 date_of_death: 2016-09-29
@@ -58,9 +65,8 @@ circumstances: >
     execution. ---------------------- * Ms. Moluk Nuri , Messrs. Behnam
     Pirkuzadegan , Karam Kalshi , Qader Mahmudi , Efendi Omari , Kret(Reza)
     Ebdalzadeh , and Farhad Maleki
-event_context: null
-responsible_forces: null
-
+event_context: "2016 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

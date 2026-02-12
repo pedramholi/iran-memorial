@@ -3,7 +3,7 @@ name_latin: "Reza Mohajer"
 name_farsi: "رضا مهاجر"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -40,9 +40,8 @@ circumstances: >
     No information is available on the defendant's defence. Judgment The court
     condemned Reza Mohajer to death and he was hanged at Gohardasht
     (Raja’ishahr) prison in Karaj on August 2, 2010.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on August 2, 2010"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

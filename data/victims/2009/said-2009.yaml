@@ -3,10 +3,14 @@ name_latin: "Sa'id"
 name_farsi: "سعید"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "In his own defense, Mr. Sa id testified that he had killed the victim in Esfahan, because he had molested his half-sister."
 
 # --- DEATH ---
 date_of_death: 2009-10-21
@@ -64,9 +68,8 @@ circumstances: >
     this execution. The court also sentenced the wife of Mr. Malik iddin , as
     the accomplice, and for having a secret relationship with Mr. Sa id, to 10
     years in prison (ISCA News, February 5, 2008).
-event_context: null
-responsible_forces: null
-
+event_context: "2009 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

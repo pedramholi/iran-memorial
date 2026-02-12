@@ -2,11 +2,23 @@ id: rashidi-rahim-2013
 name_latin: "Rahim Rashidi"
 name_farsi: "رحیم رشیدی"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Jatar, Suma-ye Beradust District, Orumieh County, West Azarbaijan Province"
+gender: male
+ethnicity: "Kurdish"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/83597_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "clergyman"
+family:
+  marital_status: "married"
+  children: 5
+  notes: "father of three sons and two daughters"
+personality: "very patriotic man, zealously proud of being a Kurd"
+beliefs: "member of the Democratic Party of Iranian Kurdistan"
+quotes:
+  - "He tried to bring up the subject of and talk about Kurdish rights and the Kurds right to self-determination in every village or gathering he went to."
+  - "The judge had also told Mr. Rashidi at trial that he would get a reduced sentence if he changed his religion from Sunni Islam to Shiite Islam."
 
 # --- DEATH ---
 date_of_death: 2013-10-30
@@ -85,9 +97,8 @@ circumstances: >
     hanging so they could turn his body over to them. Mr. Rashidi s family
     buried him in the village of Jatar. A large crowd had shown up for Mr.
     Rashidi s burial. The Revolutionary
-event_context: null
-responsible_forces: null
-
+event_context: "drug-related crimes in 2009"
+responsible_forces: "Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

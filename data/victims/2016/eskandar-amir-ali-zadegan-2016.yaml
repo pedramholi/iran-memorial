@@ -3,10 +3,14 @@ name_latin: "Amir Ali Zadegan Eskandar"
 name_farsi: "امیرعلی زادگان اسکندر"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
 
 # --- DEATH ---
 date_of_death: 2016-01-06
@@ -45,9 +49,8 @@ circumstances: >
     was sentenced to death. He was hanged, along with his uncle, wife, and
     another individual, in the courtyard of Tabriz Central Prison on
     Wednesday, January 6, 2006.
-event_context: null
-responsible_forces: null
-
+event_context: "2006 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

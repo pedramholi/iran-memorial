@@ -1,12 +1,15 @@
 id: fazlollahzadeh-amir-hushang-2007
 name_latin: "Amir Hushang Fazlollahzadeh"
 name_farsi: "امیرهوشنگ فضل‌الله‌‌زاده"
-date_of_birth: null
+date_of_birth: "1988-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
 
 # --- DEATH ---
 date_of_death: 2007-01-01
@@ -57,8 +60,7 @@ circumstances: >
     Khoramabad, Tonokabon, in the fall of 2007. The victim s father carried
     out the ruling.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

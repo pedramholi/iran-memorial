@@ -3,7 +3,7 @@ name_latin: "Javadi"
 name_farsi: "جوادی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -85,9 +85,8 @@ circumstances: >
     insurgents before the use of firearms. Note 1: The determination of riots
     under Article 4 is the responsibility of the heads of the provincial and
     district security council
-event_context: null
-responsible_forces: null
-
+event_context: "protests against mass layoffs and unstable working conditions"
+responsible_forces: "military forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

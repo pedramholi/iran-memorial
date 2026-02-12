@@ -3,7 +3,7 @@ name_latin: "Rahman R"
 name_farsi: "رحمان ر"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -40,8 +40,7 @@ circumstances: >
     Rahman R. to death and the ruling was confirmed by the Supreme Court. He
     was hanged at the Dezful prison on April 20, 2010.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

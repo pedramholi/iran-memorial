@@ -1,12 +1,21 @@
 id: purandarjani-ramin-2009
 name_latin: "Ramin Purandarjani"
 name_farsi: "رامین پوراندرجانی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1983-06-09"
+place_of_birth: "Tabriz"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/76314_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "physician"
+education: "medical studies at the University of Tabriz"
+family:
+  marital_status: "single"
+  notes: "his father worked in the Tabriz Historical Bazaar, his mother was a retired teacher, and his brother was an engineering student."
+quotes:
+  - "We are heirs to great names; luminaries such as Galen, Hippocrates, Avicenna and the wise Al-Juzjani. We have been left to carry the legacy of an incredibly remarkable holy spirit from those eras, transmitted to us in the form of a white gown. We are here to say that we will continue this path with passion."
 
 # --- DEATH ---
 date_of_death: 2009-11-10
@@ -85,9 +94,8 @@ circumstances: >
     to the mayor of Tehran. As the demonstrations were ending, paramilitary
     forces attacked the marchers, injuring and killing several people. To
     prevent such news from being broadcast, the Iranian governm
-event_context: null
-responsible_forces: null
-
+event_context: "2009 Election"
+responsible_forces: "FATEB"
 # --- VERIFICATION ---
 status: unverified
 sources:

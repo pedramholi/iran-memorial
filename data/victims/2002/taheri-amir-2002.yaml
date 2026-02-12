@@ -3,7 +3,7 @@ name_latin: "Amir Taheri"
 name_farsi: "امیر طاهری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -29,8 +29,7 @@ circumstances: >
     Court of Tehran condemned Mr. Amir Taheri to death. He was hanged at the
     Qasr Prison yard on July 17, 2002.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Criminal Court of Tehran"
 # --- VERIFICATION ---
 status: unverified
 sources:

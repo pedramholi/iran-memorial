@@ -3,10 +3,14 @@ name_latin: "Akbar Akbari"
 name_farsi: "اکبر اکبری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: "https://www.iranrights.org/actorphotos/72125_thumb.jpeg"
+
+# --- LIFE ---
+quotes:
+  - "I watched pornographic movies and became excited and then planned devilishly to enter women s houses in order to rape them."
 
 # --- DEATH ---
 date_of_death: 2007-07-07
@@ -50,9 +54,8 @@ circumstances: >
     postponed after a pardon request to the Pardon Commission. After the
     request was denied by the Pardon Commission of Esfahan, the defendant was
     hanged in the Central prison of Esfahan on July 7, 2007.
-event_context: null
-responsible_forces: null
-
+event_context: "2007 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

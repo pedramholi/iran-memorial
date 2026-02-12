@@ -1,12 +1,23 @@
 id: dastankhah-mohammad-2019
 name_latin: "Mohammad Dastankhah"
 name_farsi: "محمد داستان‌خواه"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "2004-08-11"
+place_of_birth: "Marvdasht, Fars Province"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/86913_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "third-year middle school student"
+family:
+  marital_status: "single"
+  children: 0
+  notes: "youngest of three children in a family of five, with an older brother and sister"
+personality: "warmhearted, energetic teenager"
+quotes:
+  - "always wanted to grow up fast and start working"
+  - "Mom, I want to work and earn so much money that I can fulfill all your wishes."
 
 # --- DEATH ---
 date_of_death: 2019-11-16
@@ -86,9 +97,8 @@ circumstances: >
     and other public structures in several provinces were burned, apparently
     by angry protesters, and security forces can be seen in videos damaging
     properties. The prot
-event_context: null
-responsible_forces: null
-
+event_context: "November 2019 protests"
+responsible_forces: "Basij"
 # --- VERIFICATION ---
 status: unverified
 sources:

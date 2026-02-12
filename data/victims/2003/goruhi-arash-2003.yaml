@@ -2,8 +2,8 @@ id: goruhi-arash-2003
 name_latin: "Arash Goruhi"
 name_farsi: "آرش گروهی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Arak"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -40,8 +40,7 @@ circumstances: >
     Goruhi to death. He was hanged at the Arak Qasr Prison yard on August 6,
     2003 at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

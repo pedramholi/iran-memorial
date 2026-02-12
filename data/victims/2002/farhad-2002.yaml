@@ -2,8 +2,8 @@ id: farhad-2002
 name_latin: "Farhad"
 name_farsi: "فرهاد"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Esfahan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,9 +38,8 @@ circumstances: >
     confirmed the sentence and Mr. Farhad was hanged in the evening of Monday,
     May 27, 2002 in Esfahan in the presence of the “Hezbollah Ummah”
     [community of Muslims].
-event_context: null
-responsible_forces: null
-
+event_context: "execution on May 27, 2002"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

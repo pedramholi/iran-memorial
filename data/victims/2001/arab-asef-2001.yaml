@@ -3,7 +3,7 @@ name_latin: "Asef Arab"
 name_farsi: "آصف عرب"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -39,9 +39,8 @@ circumstances: >
     No information is available on Mr. Arab s defense. Judgment The court
     condemned Mr. Asef Arab to death and the Supreme Court confirmed the
     ruling. He was executed in public in Birjand on April 25, 2001.
-event_context: null
-responsible_forces: null
-
+event_context: "2001 execution"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

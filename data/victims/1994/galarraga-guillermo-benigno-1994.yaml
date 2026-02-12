@@ -2,11 +2,19 @@ id: galarraga-guillermo-benigno-1994
 name_latin: "Guillermo Benigno Galarraga"
 name_farsi: "گیرمو بنیگنو گالاراگا"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Buenos Aires, Argentina"
+gender: male
 ethnicity: null
 religion: "Judaism"
 photo: "https://www.iranrights.org/actorphotos/11830_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "partner of the printing and photocopy store Chiesa y Galarraga"
+family:
+  marital_status: "divorced"
+  children: 2
+  notes: "remained close to his two children"
+personality: "liked sports, travelling, parties, theater, and singing"
 
 # --- DEATH ---
 date_of_death: 1994-07-18
@@ -85,9 +93,8 @@ circumstances: >
     a danger point for terrorism. From the evidence gathered, two Iranian
     diplomats in Buenos Aires actively assisted Hezbollah. Mohsen Rabbani, who
     was in charge of the operation, was Iran’s newly appointed cultural attach
-event_context: null
-responsible_forces: null
-
+event_context: "AMIA bombing on July 18, 1994"
+responsible_forces: "Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Ali Khandani"
 name_farsi: "علی خاندانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -46,9 +46,8 @@ circumstances: >
     *Kitchen is referred to small, home based labs in which industrial drugs
     are made. They are mainly used for purifying drugs and making several
     industrial drugs such as crystal.
-event_context: null
-responsible_forces: null
-
+event_context: "2015 narcotics executions"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

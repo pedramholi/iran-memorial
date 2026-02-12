@@ -3,10 +3,14 @@ name_latin: "Mehdi Ghanbary"
 name_farsi: "مهدی قنبری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "assassination"
 
 # --- DEATH ---
 date_of_death: 1996-01-01
@@ -36,8 +40,7 @@ circumstances: >
     available on the defense. Judgment Mr. Ghanbary was sentenced to death. He
     was hanged in public after receiving 30 lashes.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic’s authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

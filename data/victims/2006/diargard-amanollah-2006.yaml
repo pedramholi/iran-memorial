@@ -2,11 +2,17 @@ id: diargard-amanollah-2006
 name_latin: "Amanollah Diargard"
 name_farsi: "امان‌الله دیارگرد"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Zabol"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+quotes:
+  - "Mr. Diargard stated in his own defense that he, his wife, and his brother were only facilitating the process and accepted that he had transported some amount of opium and burnt opium but absolutely denied the murder of two people."
 
 # --- DEATH ---
 date_of_death: 2006-09-21
@@ -86,8 +92,7 @@ circumstances: >
     Court. The statements made by the prosecutor s representative and the
     defendant s attorney indicate that sufficient investigations were not
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Esfahan police"
 # --- VERIFICATION ---
 status: unverified
 sources:

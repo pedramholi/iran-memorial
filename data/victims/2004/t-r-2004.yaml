@@ -2,8 +2,8 @@ id: t-r-2004
 name_latin: "R. T."
 name_farsi: "ر. ت."
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Qushchi Village near Orumieh"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -44,9 +44,8 @@ circumstances: >
     condemned R. T. to death and the Supreme Court confirmed the ruling. He or
     she was hanged in Tabriz Central Prison in 2004. The exact date of
     execution is unknown.
-event_context: null
-responsible_forces: null
-
+event_context: "2004"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

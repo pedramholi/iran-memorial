@@ -2,8 +2,8 @@ id: reza-eslampur-mohammad-2000
 name_latin: "Eslampur Mohammad Reza"
 name_farsi: "محمدرضا اسلام‌پور"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Lahijan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -42,8 +42,7 @@ circumstances: >
     Council confirmed the ruling. He was hanged at Malek-Ashtar Prison in
     Lahijan. No more specific information is available about this execution.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

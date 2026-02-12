@@ -3,7 +3,7 @@ name_latin: "Ali Reza"
 name_farsi: "علیرضا"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,9 +38,8 @@ circumstances: >
     was hanged in public and in the presence of the victim s family at
     Bibihurieh Square in Bandar-e Anzali on February 23, 2003. No specific
     information is available about this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on February 23, 2003"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

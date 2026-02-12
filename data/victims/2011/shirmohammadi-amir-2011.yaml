@@ -1,12 +1,15 @@
 id: shirmohammadi-amir-2011
 name_latin: "Amir Shirmohammadi"
 name_farsi: "امیر شیرمحمدی"
-date_of_birth: null
+date_of_birth: "1994-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+family:
 
 # --- DEATH ---
 date_of_death: 2011-10-16
@@ -57,9 +60,8 @@ circumstances: >
     that the family created for the Islamic Republic regime. Authorities asked
     the family not to take pictures or films of the body. (Human Rights and
     Democracy Activists in Iran)
-event_context: null
-responsible_forces: null
-
+event_context: "2011 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

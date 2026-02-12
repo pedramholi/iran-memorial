@@ -3,7 +3,7 @@ name_latin: "Reza Golshani"
 name_farsi: "رضا گلشنی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -54,9 +54,8 @@ circumstances: >
     Revolutionary Court of Tehran sentenced Mr. Golshani to death. He was
     hanged in a Tehran prison along with eight others on May 6, 2012. His
     belongings were confiscated by the decree of the court.
-event_context: null
-responsible_forces: null
-
+event_context: "2012 drug trafficking execution"
+responsible_forces: "Revolutionary Court of Tehran"
 # --- VERIFICATION ---
 status: unverified
 sources:

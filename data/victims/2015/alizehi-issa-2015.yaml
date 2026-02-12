@@ -3,7 +3,7 @@ name_latin: "Issa Alizehi"
 name_farsi: "عیسی علی‌زهی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -45,8 +45,7 @@ circumstances: >
     courtyard of Bandar Abbas Central Prison on the morning of Thursday, April
     9, 2015.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,21 @@
 id: tajiki-ali-reza-2017
 name_latin: "Ali Reza Tajiki"
 name_farsi: "علیرضا تاجیکی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1996-05-26"
+place_of_birth: "Fasa, Fars Province"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/76792_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "high school freshman"
+education: "professional degree"
+family:
+  children: 0
+  notes: "child of Rajabali, had a number of siblings, father was a gardener at the Fasa Water Administration."
+quotes:
+  - "This is how it s going to be if you don t confess"
 
 # --- DEATH ---
 date_of_death: 2017-08-10
@@ -85,9 +94,8 @@ circumstances: >
     was taken to Fasa Prison for 20 days, and thereafter, he was taken to
     Shiraz Reform and Education Center where he spent five years. He then
     spent less than a year at Shiraz Adelabad
-event_context: null
-responsible_forces: null
-
+event_context: "rape and murder of his close 16-year-old friend on May 18, 2012"
+responsible_forces: "Criminal Investigations Bureau"
 # --- VERIFICATION ---
 status: unverified
 sources:

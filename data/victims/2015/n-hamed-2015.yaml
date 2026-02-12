@@ -3,7 +3,7 @@ name_latin: "Hamed N."
 name_farsi: "حامد ن."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -46,9 +46,8 @@ circumstances: >
     hanged in Arak Central Prison on April 12, 2015.
     --------------------------------- *Messers: Mohammad L., Mahmud S., and
     Ne'matollah N.
-event_context: null
-responsible_forces: null
-
+event_context: "2015 execution"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

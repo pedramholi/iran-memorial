@@ -1,12 +1,23 @@
 id: tanhaian-habibollah-2003
 name_latin: "Habibollah Tanha'ian"
 name_farsi: "حبیب‌الله تنهائیان"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1968-01-01"
+place_of_birth: "Gelin, Sanandaj"
+gender: male
+ethnicity: "Kurd"
 religion: "Non-Believer"
 photo: "https://www.iranrights.org/actorphotos/76132_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "tile and stone installer"
+education: "elementary school"
+family:
+  marital_status: "married"
+  children: 4
+personality: "quiet and generous"
+beliefs: "supporter of the Democratic Party of Iranian Kurdistan"
+quotes:
+  - "We ve killed your husband and we will give you his corpse soon"
 
 # --- DEATH ---
 date_of_death: 2003-01-01
@@ -86,9 +97,8 @@ circumstances: >
     Mr. Ammar Goli, after Mr. Tanhaian s arrest, Information forces took him
     and the person who had reported him to Mr. Tanhaian s home where they
     discovered
-event_context: null
-responsible_forces: null
-
+event_context: "arrest on December 12 or December 13, 2003"
+responsible_forces: "Sanandaj Information Administration"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Davud Ja'fari"
 name_farsi: "داوود جعفری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -46,8 +46,7 @@ circumstances: >
     death and Branch 32 of the Supreme Court confirmed the ruling. He was
     hanged at the Qa m Maqam Farahani Square in Arak on January 30, 2003.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

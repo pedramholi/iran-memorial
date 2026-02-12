@@ -2,11 +2,14 @@ id: fathi-navid-2014
 name_latin: "Navid Fathi"
 name_farsi: "نوید فتحی"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Saheb Village near Saqqez, Kordestan"
+gender: male
+ethnicity: "Kurdish"
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of Kurdish Democratic Party of Iran"
 
 # --- DEATH ---
 date_of_death: 2014-08-27

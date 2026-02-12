@@ -3,10 +3,14 @@ name_latin: "Mahmud"
 name_farsi: "محمود"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "In his confession, Mr. Mahmud acknowledged knowing the victim s family and stated that he and the victim s wife planned the murder and she had promised him money and to marry him."
 
 # --- DEATH ---
 date_of_death: 2003-12-15
@@ -41,9 +45,8 @@ circumstances: >
     No information is available on Mr. Mahmud s defense. Judgment The court
     condemned Mr. Mahmud to death and Branch 27 of the Supreme Court confirmed
     the ruling. He was hanged in Raja ishahr Prison on December 15, 2003.
-event_context: null
-responsible_forces: null
-
+event_context: "2003 execution"
+responsible_forces: "Intelligence Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

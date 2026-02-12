@@ -1,12 +1,21 @@
 id: omar-pishva-azizpur-seyed-2018
 name_latin: "Pishva Azizpur (Seyed Omar)"
 name_farsi: "پیشوا عزیزپور (سید عمر)"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1998-01-01"
+place_of_birth: "Baneh County, Kurdistan Province"
+gender: male
+ethnicity: "Kurdish"
 religion: "Non-Believer"
 photo: "https://www.iranrights.org/actorphotos/83881_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "Peshmerga"
+education: "high school"
+family:
+  marital_status: "single"
+  notes: "lost his father when he was only 9 months old"
+personality: "smart and active individual who loved learning and getting ahead, especially in Party activities"
+beliefs: "joined the Kurdistan Democratic Party"
 
 # --- DEATH ---
 date_of_death: 2018-09-08

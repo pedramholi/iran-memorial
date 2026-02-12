@@ -3,7 +3,7 @@ name_latin: "Gholam Reza A."
 name_farsi: "غلام‌رضا الف."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -48,9 +48,8 @@ circumstances: >
     hanging. This sentence was approved by the Supreme Court. He was executed,
     along with two other people, on August 19, 2004. The public hanging took
     place at the Haft Bagh Square in Kerman.
-event_context: null
-responsible_forces: null
-
+event_context: "2004 execution"
+responsible_forces: "Ministry of Justice"
 # --- VERIFICATION ---
 status: unverified
 sources:

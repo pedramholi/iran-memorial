@@ -3,7 +3,7 @@ name_latin: "Rashid Javadi"
 name_farsi: "رشید جوادی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -44,9 +44,8 @@ circumstances: >
     and he was returned to the public section of the prison. Even so, on the
     morning of December 28, 2016, Mr. Javadi was taken back to solitary
     confinement, and at 9:30 am of that same day, he was executed by hanging.
-event_context: null
-responsible_forces: null
-
+event_context: "2016 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

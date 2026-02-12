@@ -2,11 +2,15 @@ id: b-m-2015
 name_latin: "M. B."
 name_farsi: "م. م."
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Gilan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "son of Khosro"
 
 # --- DEATH ---
 date_of_death: 2015-02-14
@@ -42,9 +46,8 @@ circumstances: >
     to death and the Supreme Court confirmed the ruling. Twice the Amnesty and
     Pardon Commission denied the defendant s pardon request. He was hanged in
     the Rasht Central Prison on February 14, 2015.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on February 14, 2015"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

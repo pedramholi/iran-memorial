@@ -3,10 +3,20 @@ name_latin: "Ebrahim Lotfollahi Mirehki"
 name_farsi: "ابراهیم لطف‌اللهی میره‌کی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/76985_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "senior law student"
+education: "law studies"
+family:
+  notes: "son of Afsaneh and Mohammad"
+personality: "intelligent person with a talent for painting and cartoons"
+beliefs: "against injustice, discrimination, and inequality"
+quotes:
+  - "\"I would be able to not only end the poverty that I myself and my family faced, but also to solve some of my community s problems.\""
 
 # --- DEATH ---
 date_of_death: 2008-01-15
@@ -85,9 +95,8 @@ circumstances: >
     rejected by the Central Prison and Intelligence Office in Sanandaj. Both
     institutions subsequently claimed that they did not have him in their
     possession. According to his brother, on the ninth day
-event_context: null
-responsible_forces: null
-
+event_context: "January 6, 2008 arrest"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

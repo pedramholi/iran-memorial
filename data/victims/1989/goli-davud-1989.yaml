@@ -3,7 +3,7 @@ name_latin: "Davud Goli"
 name_farsi: "داوود گلی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -36,8 +36,7 @@ circumstances: >
     defence. Judgment The court condemned Mr. Davud Goli to death and he was
     hanged, in public, in the Raja’i Square of Khomein (Markazi province).
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

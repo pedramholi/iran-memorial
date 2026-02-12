@@ -3,7 +3,7 @@ name_latin: "Aziz-Ali Moradi"
 name_farsi: "عزیزعلی مرادی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -44,8 +44,7 @@ circumstances: >
     Tehran along with two other people. No further information is available
     about the sentence and the execution.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

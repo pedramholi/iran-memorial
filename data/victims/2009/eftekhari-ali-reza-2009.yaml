@@ -1,12 +1,18 @@
 id: eftekhari-ali-reza-2009
 name_latin: "Ali Reza Eftekhari"
 name_farsi: "علیرضا افتخاری"
-date_of_birth: null
+date_of_birth: "1980-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/86374_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "senior journalist"
+family:
+  notes: "breadwinner of the family due to father's illness"
+personality: "calm, reliable, and patient"
 
 # --- DEATH ---
 date_of_death: 2009-06-15
@@ -86,9 +92,8 @@ circumstances: >
     individuals were affiliated with the Basij paramilitary groups, the
     Revolutionary Guard Corps, and state intelligence forces. On September 16,
     2009, a de
-event_context: null
-responsible_forces: null
-
+event_context: "2009 post-election protests"
+responsible_forces: "Basij"
 # --- VERIFICATION ---
 status: unverified
 sources:

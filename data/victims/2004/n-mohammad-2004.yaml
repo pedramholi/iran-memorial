@@ -3,10 +3,17 @@ name_latin: "Mohammad N."
 name_farsi: "محمد ن."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  children: 4
+quotes:
+  - "he strangled her and then cut off her head with a knife"
 
 # --- DEATH ---
 date_of_death: 2004-08-29
@@ -38,8 +45,7 @@ circumstances: >
     Mohammad N. was condemned to death by hanging. He was executed in public
     on August 29, 2004.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

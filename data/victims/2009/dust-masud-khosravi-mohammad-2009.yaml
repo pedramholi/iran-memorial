@@ -1,12 +1,22 @@
 id: dust-masud-khosravi-mohammad-2009
 name_latin: "Mas’ud Khosravi Mohammad Dust"
 name_farsi: "مسعود خسروی محمد دوست"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1964-01-01"
+place_of_birth: "Tehran"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/86895_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "employee of the Taxi Organization"
+family:
+  marital_status: "married"
+  children: 1
+  notes: "father of a 17-year-old son"
+personality: "a man of justice, honesty, compassion, discretion, and kindness, who always took the initiative to help others"
+quotes:
+  - "he left home only to buy medicine but never came back"
 
 # --- DEATH ---
 date_of_death: 2009-06-15
@@ -86,9 +96,8 @@ circumstances: >
     with sticks and clubs, and sometimes with chains, knives, batons, or
     firearms, they emerge when the state decides to suppress dissent. These
     plainclothes for
-event_context: null
-responsible_forces: null
-
+event_context: "2009 Election protests"
+responsible_forces: "security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

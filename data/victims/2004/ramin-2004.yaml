@@ -3,10 +3,14 @@ name_latin: "Ramin"
 name_farsi: "رامین"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "the defendant had several fights allegedly because of his love of his neighbor's daughter in 2000. The neighbor was opposed to their marriage. Finally, one day when the neighbor was trying to park his car in front of his house, the defendant killed him."
 
 # --- DEATH ---
 date_of_death: 2004-01-12
@@ -38,9 +42,8 @@ circumstances: >
     killed him." Defense No information is available on Mr. Ramin's defense.
     Judgment Based on the court ruling, Mr. Ramin was hanged in Tehran on
     January 12, 2004.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on January 12, 2004"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

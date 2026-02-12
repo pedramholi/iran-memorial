@@ -3,7 +3,7 @@ name_latin: "Feisal S'aedi"
 name_farsi: "فیصل ساعدی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -44,9 +44,8 @@ circumstances: >
     when 2000 residents of Orumieh gathered and protested the ruling.
     According to HRANA on July 5, 2010, these five defendants were transferred
     to solitary confinement to be executed.
-event_context: null
-responsible_forces: null
-
+event_context: "2010 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

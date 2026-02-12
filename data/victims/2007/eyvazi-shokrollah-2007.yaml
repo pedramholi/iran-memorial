@@ -2,11 +2,16 @@ id: eyvazi-shokrollah-2007
 name_latin: "Shokrollah Eyvazi"
 name_farsi: "شکرالله عیوضی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Shirkesh village near Bijar"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "farmer"
+quotes:
+  - "he denied any participation in the murder and pleaded not guilty until the last moment of his life"
 
 # --- DEATH ---
 date_of_death: 2007-01-01
@@ -41,8 +46,7 @@ circumstances: >
     at the Central Prison of Sanandaj in February of 2007. No specific date is
     available for the defendant s execution.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

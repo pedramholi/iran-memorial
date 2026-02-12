@@ -1,12 +1,18 @@
 id: yazdani-mehdi-2004
 name_latin: "Mehdi Yazdani"
 name_farsi: "مهدی یزدانی"
-date_of_birth: null
+date_of_birth: "1982-03-30"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/75299_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "military"
+education: "highschool diploma"
+family:
+  marital_status: "single"
 
 # --- DEATH ---
 date_of_death: 2004-07-18
@@ -66,9 +72,8 @@ circumstances: >
     other defendants of this case were condemned to 15 years imprisonment,
     seven and five years exile to places with harsh environments, and 80
     lashes.
-event_context: null
-responsible_forces: null
-
+event_context: "2003 robbery gang case"
+responsible_forces: "police"
 # --- VERIFICATION ---
 status: unverified
 sources:

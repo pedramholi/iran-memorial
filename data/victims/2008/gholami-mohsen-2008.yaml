@@ -1,12 +1,19 @@
 id: gholami-mohsen-2008
 name_latin: "Mohsen Gholami"
 name_farsi: "محسن غلامی"
-date_of_birth: null
+date_of_birth: "1978-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "worker at the Iran Khodro car manufacturing plant"
+family:
+quotes:
+  - "I want to stab myself with it."
+  - "Stab me if you can!"
 
 # --- DEATH ---
 date_of_death: 2008-01-30
@@ -84,7 +91,7 @@ circumstances: >
     the implementation of the sentence. He asked the next of kin for
     forgiveness before the sentence was carried out but they did not heed him.
     Mr. Gholami was hanged in the Evin Prison courtyard on January 30, 2008.
-event_context: null
+event_context: "murder-suicide attempt"
 responsible_forces: null
 
 # --- VERIFICATION ---

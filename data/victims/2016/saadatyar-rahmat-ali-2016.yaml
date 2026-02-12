@@ -1,9 +1,9 @@
 id: saadatyar-rahmat-ali-2016
 name_latin: "Rahmat Ali Sa'adatyar"
 name_farsi: "رحمت‌علی سعادت‌یار"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1976-01-01"
+place_of_birth: "Garmsar"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -46,9 +46,8 @@ circumstances: >
     to death by hanging. He was executed, along with another person*, at
     Shahrud Prison in Semnan Province, on Thursday September 22, 2016.
     -------------- *Mr. Hossein Arab Ahmadi
-event_context: null
-responsible_forces: null
-
+event_context: "2011 illegal drugs crimes"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

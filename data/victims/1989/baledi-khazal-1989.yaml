@@ -3,10 +3,20 @@ name_latin: "Khaz'al Baledi"
 name_farsi: "خزعل بالدی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "People's cooperation and awareness of the agents of the Intelligence Office of the Khuzestan Province resulted in the defendant's arrest."
+  - "1. Active cooperation with the Zionist Ba'ath regime of Iraq before and after the revolution"
+  - "2. Acquiring explosives through the Ba'ath regime of Iraq and exploding the oil pipelines of Ahavaz and Abadan, as well as Darkhovin's pumping station"
+  - "3. Penetration in the imposed war fronts and activity against the Islamic forces"
+  - "4. Having military and espionage training in Iraq"
+  - "5. Membership in the reconnaissance and destruction teams for Iraq’s Ba'ath regime in battle fronts of the imposed war"
+  - "6. Translation of the radio transmission conversations of the Islamic forces in the battle fronts."
 
 # --- DEATH ---
 date_of_death: 1989-01-31
@@ -53,8 +63,7 @@ circumstances: >
     Mr. Khaz'al Baledi to death, and after the ruling was confirmed by the
     Supreme Judiciary Council, he was executed in Ahvaz on January 31, 1989.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Public Prosecution Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Hossein Langarizadeh"
 name_farsi: "حسین لنگری زاده"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -44,9 +44,8 @@ circumstances: >
     available on Mr. Langarizadeh’s defense. Judgment The court condemned Mr.
     Hossein Langarizadeh to death and he was hanged in Esfahan on March 1,
     1989.
-event_context: null
-responsible_forces: null
-
+event_context: "1989 law on drug trafficking"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

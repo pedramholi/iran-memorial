@@ -2,11 +2,22 @@ id: sirjani-aliakbar-saidi-1994
 name_latin: "Aliakbar Sa'idi Sirjani"
 name_farsi: "علی اکبر سعیدی سیرجانی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Sirjan, Kerman"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/72653_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "poet, literary figure, author, researcher"
+education: "Bachelor's Degree in philosophy"
+family:
+  marital_status: "married"
+  children: 3
+  notes: "married in 1960-61"
+personality: "freedom-loving and broad-minded"
+quotes:
+  - "Let future generations know that in the calamitous land that is Iran, there did exist those who courageously gave up their lives and faced death like men."
 
 # --- DEATH ---
 date_of_death: 1994-11-27
@@ -85,7 +96,7 @@ circumstances: >
     permitted distribution. Sa idi Sijani Protests Publication Ban Following
     the ban, Mr. Sa idi Sirjani wrote a series of open letters to the
     authorities including the Minister of Culture and
-event_context: null
+event_context: "Chain Murders"
 responsible_forces: null
 
 # --- VERIFICATION ---

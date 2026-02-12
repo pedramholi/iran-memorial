@@ -3,10 +3,15 @@ name_latin: "Mohammad Hosseini"
 name_farsi: "محمد حسینی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  notes: "murdered his wife, Ameneh H."
 
 # --- DEATH ---
 date_of_death: 2004-01-01
@@ -36,8 +41,7 @@ circumstances: >
     victim s family, at the Varamin Central Prison yard in 2004. The exact
     date of execution is unknown.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Revolutionary Public Prosecutors Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,20 @@
 id: shadabi-amir-ali-2019
 name_latin: "Amir Ali Shadabi"
 name_farsi: "امیرعلی شادابی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "2002-01-01"
+place_of_birth: "Minab, Hormozgan Province"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+education: "seventh grade"
+family:
+  marital_status: "single"
+personality: "courageous and intelligent"
+quotes:
+  - "I stabbed him to defend myself."
 
 # --- DEATH ---
 date_of_death: 2019-07-14
@@ -85,9 +93,8 @@ circumstances: >
     that the defendant should be entitled to a lesser punishment; he/she
     should not be punished in the same way as a person who had premeditated
     his/her actions and committed murder intentionally. In other wor
-event_context: null
-responsible_forces: null
-
+event_context: "murder committed in the town of Minab on November 13, 2013"
+responsible_forces: "police"
 # --- VERIFICATION ---
 status: unverified
 sources:

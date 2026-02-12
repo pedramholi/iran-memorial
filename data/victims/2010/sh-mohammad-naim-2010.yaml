@@ -3,7 +3,7 @@ name_latin: "Mohammad Na'im Sh."
 name_farsi: "محمدنعیم ش."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -43,9 +43,8 @@ circumstances: >
     (Shahbakhsh) to death and the ruling was confirmed by the Supreme Court.
     The Provincial Pardon Commission rejected the defendant s requests for
     pardon and he was hanged in the Kerman prison on July 18, 2010.
-event_context: null
-responsible_forces: null
-
+event_context: "2010 execution"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

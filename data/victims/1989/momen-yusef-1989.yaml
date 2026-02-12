@@ -3,7 +3,7 @@ name_latin: "Yusef Mo'men"
 name_farsi: "یوسف مومن"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -49,9 +49,8 @@ circumstances: >
     information regarding the evidence provided against the defendant. Defense
     No information is available on Mr. Yusef Mo’men’s defense. Judgment Based
     on the court’s ruling, Mr. Yusef Mo’men was hanged in Bandar Abbas.
-event_context: null
-responsible_forces: null
-
+event_context: "1989"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

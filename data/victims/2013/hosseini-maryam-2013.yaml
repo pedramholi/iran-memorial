@@ -1,12 +1,22 @@
 id: hosseini-maryam-2013
 name_latin: "Maryam Hosseini"
 name_farsi: "مریم حسینی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1964-01-01"
+place_of_birth: "Tehran"
+gender: female
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/84680_thumb.jpeg"
+
+# --- LIFE ---
+education: "high school diploma"
+family:
+  notes: "joined the Mojahedin Khalq Organization through her brother"
+personality: "very smart, kind and compassionate, always tried to help people in need"
+beliefs: "joined the Mojahedin Khalq Organization"
+quotes:
+  - "She became familiar with political ideas in her childhood."
+  - "One of Maryam s outstanding qualities was that she accepted every responsibility whole heartedly and she carried it through."
 
 # --- DEATH ---
 date_of_death: 2013-09-01
@@ -86,8 +96,7 @@ circumstances: >
     prevent them from entering the base. In the course of this attack, which
     resulted in the installation of a police post inside the base
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,10 +3,17 @@ name_latin: "Sadeq M."
 name_farsi: "صادق م."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "single"
+  notes: "loved Raziyeh and wanted to marry her"
+quotes:
+  - "I loved Raziyeh and wanted to marry her. But her family opposed this. I fell in love with her when she was my sister’s classmate four years ago. After four years of persistence, when they still refused me, I had to go to their house or call them to stop refusing me. After a while, Raziyeh’s family made a complaint against me. But, after I was released from the prison, I asked them again to let us get married. I couldn’t tolerate to see her marry another guy. Raziyeh’s love was so strong in me that I felt I cannot live without her but her family was against it and there was no way I could marry her. I thought since Raziyeh would not be my wife, it’d be better if she was not alive."
 
 # --- DEATH ---
 date_of_death: 2007-10-24
@@ -72,9 +79,8 @@ circumstances: >
     the family of a female victim decides to uphold the death sentence of the
     male perpetrator, the victim’s family must pay half of the blood money of
     the male perpetrator to his family.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on October 24, 2007"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

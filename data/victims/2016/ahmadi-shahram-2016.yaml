@@ -2,11 +2,19 @@ id: ahmadi-shahram-2016
 name_latin: "Shahram Ahmadi"
 name_farsi: "شهرام احمدی"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Sanandaj"
+gender: male
+ethnicity: "Kurdish"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/76009_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  marital_status: "single"
+  notes: "grew up in a large family with eight siblings; father was a laborer"
+beliefs: "engaged in religious and social activities to raise awareness about government oppression"
+quotes:
+  - "the lawyer was not able to do anything and the family s assets were lost"
 
 # --- DEATH ---
 date_of_death: 2016-08-02
@@ -86,9 +94,8 @@ circumstances: >
     issuance and implementation of the death penalty for this group of Sunni
     adherents, was followed by the reaction of numerous domestic and
     international individuals and
-event_context: null
-responsible_forces: null
-
+event_context: "2016 executions of Sunni defendants"
+responsible_forces: "IRGC"
 # --- VERIFICATION ---
 status: unverified
 sources:

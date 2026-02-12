@@ -1,12 +1,20 @@
 id: kabi-mohammad-2012
 name_latin: "Mohammad Ka'bi"
 name_farsi: "محمد کعبی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1977-01-01"
+place_of_birth: "Ahmadabad, Shush"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "farmer"
+education: "law student"
+family:
+  marital_status: "married"
+  children: 2
+  notes: "father of two children, five and eight years old"
 
 # --- DEATH ---
 date_of_death: 2012-02-02
@@ -85,9 +93,8 @@ circumstances: >
     telephones, are tapped and strictly controlled by the security apparatus.
     Certain cases of death in suspicious circumstances have even been reported
     by local sour
-event_context: null
-responsible_forces: null
-
+event_context: "Khuzestan Protests"
+responsible_forces: "security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

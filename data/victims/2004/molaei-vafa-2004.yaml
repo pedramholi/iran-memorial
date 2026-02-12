@@ -2,8 +2,8 @@ id: molaei-vafa-2004
 name_latin: "Vafa Molae`i"
 name_farsi: "وفا مولایی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Izeh"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/86972_thumb.jpeg"
@@ -85,9 +85,8 @@ circumstances: >
     death or injury, the officer will be sentenced to the above punishment, in
     addition to retaliation or payment of blood money, as the case may
     require. If the case falls under Articles 612 or 614 of t
-event_context: null
-responsible_forces: null
-
+event_context: "protests following the Seventh Parliamentary Elections of the Islamic Republic of Iran in February 2004"
+responsible_forces: "security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,10 +3,14 @@ name_latin: "Gholamreza Q."
 name_farsi: "غلامرضا ق."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "I was a victim of ten others misconduct. I am a victim."
 
 # --- DEATH ---
 date_of_death: 2007-05-23
@@ -43,8 +47,7 @@ circumstances: >
     ruling was confirmed by the Supreme Court. He was hanged in public at
     Shahzadeh Qasem intersection in Shiraz on May 23, 2007.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "IRGC"
 # --- VERIFICATION ---
 status: unverified
 sources:

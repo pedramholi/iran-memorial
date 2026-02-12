@@ -3,10 +3,15 @@ name_latin: "Mohammad Nushunbahr"
 name_farsi: "محمد نوشین‌بحر"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "doctor"
+family:
+  notes: "Mr. Kaheh's mother was condemned to 4 years imprisonment and 40 lashes for possession of stolen property, forgery, and using a forged document. His two sisters were also condemned to one-year imprisonment, one of them to a suspended imprisonment."
 
 # --- DEATH ---
 date_of_death: 2002-05-15
@@ -76,9 +81,8 @@ circumstances: >
     and 40 lashes for possession of stolen property, forgery, and using a
     forged document. His two sisters were also condemned to one-year
     imprisonment, one of them to a suspended imprisonment.
-event_context: null
-responsible_forces: null
-
+event_context: "chain murders"
+responsible_forces: "Intelligent Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

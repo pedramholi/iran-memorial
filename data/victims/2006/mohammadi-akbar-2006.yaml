@@ -1,12 +1,20 @@
 id: mohammadi-akbar-2006
 name_latin: "Akbar Mohammadi"
 name_farsi: "اکبر محمدی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1969-01-01"
+place_of_birth: "Amol, Mazandaran"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/77879_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "social work student"
+education: "College of Welfare and Rehabilitation Sciences of Tehran University"
+personality: "very friendly, kind, and calm, and at the same time strong, patriotic, and sympathetic to the newly arrived prisoners"
+beliefs: "member of the National Association of Students and Graduates"
+quotes:
+  - "He was very friendly, kind, and calm, and at the same time strong, patriotic, and sympathetic to the newly arrived prisoners"
 
 # --- DEATH ---
 date_of_death: 2006-07-30
@@ -86,9 +94,8 @@ circumstances: >
     plain-clothes militia, a number of students and the university president
     were arrested and taken away. Denouncing the violent and destructive
     police raid
-event_context: null
-responsible_forces: null
-
+event_context: "July 1999 protests"
+responsible_forces: "Riot Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

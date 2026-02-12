@@ -2,8 +2,8 @@ id: sarebani-alireza-2016
 name_latin: "Alireza Sarebani"
 name_farsi: "علیرضا ساربانی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Orumieh"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -48,9 +48,8 @@ circumstances: >
     executed in Orumieh Prison, on Tuesday, April 19, 2016.
     ------------------------------ *Messers Ahmad Nami, Manuchehr Razani, and
     Abdolhamid Moradi
-event_context: null
-responsible_forces: null
-
+event_context: "2016 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

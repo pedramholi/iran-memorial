@@ -1,12 +1,18 @@
 id: purshirzad-gholam-hossein-1992
 name_latin: "Gholam Hossein Purshirzad"
 name_farsi: "غلامحسین پورشیرزاد"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1949-01-01"
+place_of_birth: "Yazd"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/75926_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "diesel repair technician"
+family:
+  marital_status: "married"
+  children: 8
 
 # --- DEATH ---
 date_of_death: 1992-06-10
@@ -85,9 +91,8 @@ circumstances: >
     incident, that it is better to execute a few of them immediately, in
     different areas of the city, than to execute ten of them tomorrow (Lawyers
     Committee report). The official news agency IRNA reported the order
-event_context: null
-responsible_forces: null
-
+event_context: "Mashhad unrest in the spring of 1992"
+responsible_forces: "Islamic Revolutionary Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

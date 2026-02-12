@@ -1,10 +1,10 @@
 id: barahui-hatef-2015
 name_latin: "Hatef Barahu'i"
 name_farsi: "هاتف براهوئی"
-date_of_birth: null
+date_of_birth: "1980-01-01"
 place_of_birth: null
-gender: null
-ethnicity: null
+gender: male
+ethnicity: "Baluchi"
 religion: "Presumed Muslim"
 photo: null
 
@@ -45,8 +45,7 @@ circumstances: >
     death. He was moved to solitary confinement on the eve of execution. Mr.
     Barahui was hanged in Zahedan Central Prison on April 11, 2015.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

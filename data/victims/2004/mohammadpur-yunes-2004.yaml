@@ -2,11 +2,17 @@ id: mohammadpur-yunes-2004
 name_latin: "Yunes Mohammadpur"
 name_farsi: "یونس محمدپور"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Paveh, Kermanshah"
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: "https://www.iranrights.org/actorphotos/74288_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "Peshmerga"
+family:
+  marital_status: "single"
+beliefs: "member of the Democratic Party of Iranian Kurdistan"
 
 # --- DEATH ---
 date_of_death: 2004-01-01
@@ -85,9 +91,8 @@ circumstances: >
     Iranian Kurdistan. The validity of the criminal charges brought against
     this defendant cannot be ascertained in the absence of the basic
     guarantees of a fair trial. Evidence of guilt The repor
-event_context: null
-responsible_forces: null
-
+event_context: "1996 arrest and detention of Peshmerga"
+responsible_forces: "Islamic Movement of Iraqi Kurdistan"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,18 @@
 id: v-mehdi-2015
 name_latin: "Mehdi V."
 name_farsi: "مهدی و."
-date_of_birth: null
+date_of_birth: "1990-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "mechanic"
+education: "fifth-grade education"
+quotes:
+  - "During his execution ceremony, he described his life and expressed shame for his actions."
 
 # --- DEATH ---
 date_of_death: 2015-01-04
@@ -56,9 +62,8 @@ circumstances: >
     ruling. It was carried out in the presence of the Public Prosecutor and
     the Police Commander of Binalud and hundreds of people in Torqabeh. He was
     hanged in public in front of the Torqabeh Fire Station on January 4, 2015.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on January 4, 2015"
+responsible_forces: "Intelligence Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

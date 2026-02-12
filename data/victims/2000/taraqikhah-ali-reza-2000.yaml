@@ -3,7 +3,7 @@ name_latin: "Ali Reza Taraqikhah"
 name_farsi: "علیرضا ترقیخواه"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -46,9 +46,8 @@ circumstances: >
     Court of Tehran condemned Mr. Ali Reza Taraqikhah to death. He was hanged,
     along with three others, in Qasr Prison on January 19, 2000 at dawn. No
     specific information is available about this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "1998 murder case"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

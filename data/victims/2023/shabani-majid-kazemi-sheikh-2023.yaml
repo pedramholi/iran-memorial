@@ -1,12 +1,20 @@
 id: shabani-majid-kazemi-sheikh-2023
 name_latin: "Majid Kazemi Sheikh Shabani"
 name_farsi: "مجید کاظمی شیخ شبانی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1992-01-01"
+place_of_birth: "Isfahan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/86479_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "small business owner"
+family:
+  notes: "son of Mohammad Reza"
+personality: "cheerful, energetic, friendly, and kindhearted"
+quotes:
+  - "He was one of those people who always had a smile on their face someone whose presence would instantly lift your spirits"
 
 # --- DEATH ---
 date_of_death: 2023-05-18
@@ -85,9 +93,8 @@ circumstances: >
     arrests of victims family members, factors which posed a serious challenge
     to monitoring protests and documenting casualties. The security forces
     used illegal, excessive, and le
-event_context: null
-responsible_forces: null
-
+event_context: "2022 nationwide protests"
+responsible_forces: "IRGC"
 # --- VERIFICATION ---
 status: unverified
 sources:

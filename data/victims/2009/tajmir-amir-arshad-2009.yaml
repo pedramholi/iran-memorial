@@ -1,12 +1,22 @@
 id: tajmir-amir-arshad-2009
 name_latin: "Amir Arshad Tajmir"
 name_farsi: "امیرارشد تاجمیر"
-date_of_birth: null
+date_of_birth: "1984-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/61743_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "radio sound technician"
+family:
+  notes: "son of Ms. Shahin Mahinfar, a radio and television anchorwoman"
+personality: "outraged and fearless"
+beliefs: "true patriote"
+quotes:
+  - "booing is not going to help. Save them."
+  - "I don t know how badly he was beaten, but a security forces car hit him from the back with speed and threw him on the ground."
 
 # --- DEATH ---
 date_of_death: 2009-12-27
@@ -85,9 +95,8 @@ circumstances: >
     protest against its result, the government tried to prevent demonstrations
     by labeling them illegal and by violently suppressing demonstrators.
     Despite the intimidating circumst
-event_context: null
-responsible_forces: null
-
+event_context: "2009 protests"
+responsible_forces: "government forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,21 @@
 id: bolurdi-mohammad-ali-esmaili-1990
 name_latin: "Mohammad Ali Esma’ili Bolurdi"
 name_farsi: "محمدعلی اسماعیلی بلوردی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1961-01-01"
+place_of_birth: "Sirjan County, Kerman province"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/82522_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "truck driver"
+family:
+  marital_status: "married"
+  children: 2
+personality: "kind, decent, and religious"
+quotes:
+  - "took the fall to secure the release of his newly-married brother."
 
 # --- DEATH ---
 date_of_death: 1990-05-12
@@ -85,9 +94,8 @@ circumstances: >
     his detention remain.
     ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
     * Mr. Gholamreza (Mozafar) Shahsavaripur ,
-event_context: null
-responsible_forces: null
-
+event_context: "drug trafficking in 1986"
+responsible_forces: "Khalili Komiteh"
 # --- VERIFICATION ---
 status: unverified
 sources:

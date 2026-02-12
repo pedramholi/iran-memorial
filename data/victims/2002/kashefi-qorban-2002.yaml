@@ -3,7 +3,7 @@ name_latin: "Qorban Kashefi"
 name_farsi: "قربان کاشفی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -35,8 +35,7 @@ circumstances: >
     of the Criminal Court of Tehran, and the Observer Judge in the Qasr Prison
     yard on August 21, 2002.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Criminal Court of Tehran"
 # --- VERIFICATION ---
 status: unverified
 sources:

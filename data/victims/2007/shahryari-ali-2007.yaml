@@ -3,7 +3,7 @@ name_latin: "Ali Shahryari"
 name_farsi: "علی شهریاری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -44,9 +44,8 @@ circumstances: >
     rejected in the Provincial Pardon Commission. He was hanged at the main
     square of Minab on March 8, 2007. No information is available regarding
     the appeal of this case to a higher court.
-event_context: null
-responsible_forces: null
-
+event_context: "2007 execution"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

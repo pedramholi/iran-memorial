@@ -1,12 +1,24 @@
 id: qaderi-veria-2016
 name_latin: "Veria Qaderi"
 name_farsi: "وریا قادری"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1997-01-01"
+place_of_birth: "Sanandaj"
+gender: male
+ethnicity: "Kurd"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/76073_thumb.jpeg"
+
+# --- LIFE ---
+education: "eighth grade"
+family:
+  marital_status: "single"
+  children: 0
+  notes: "only son"
+personality: "personable man with a good sense of humor"
+beliefs: "had extremist religious beliefs prior to participating in religious and faith-based classes"
+quotes:
+  - "\"I began to have religious inclinations at the age of 16\""
+  - "\"I continued studying and reading religious subjects of the adherents of the Sunni faith in prison.\""
 
 # --- DEATH ---
 date_of_death: 2016-08-02
@@ -85,9 +97,8 @@ circumstances: >
     international individuals and organizations. On June 12, 2014, eighteen
     human rights organizations, including the Abdorrahman Boroumand Foundation
     and a human rights lawyer, protested the sentences in a de
-event_context: null
-responsible_forces: null
-
+event_context: "execution of 25 individuals on August 2, 2016"
+responsible_forces: "Information Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

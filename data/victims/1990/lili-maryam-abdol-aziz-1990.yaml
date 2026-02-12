@@ -3,7 +3,7 @@ name_latin: "Abdol-Aziz Lili-Maryam"
 name_farsi: "عبدالعزیز لیلی مریم"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -43,8 +43,7 @@ circumstances: >
     available on Mr Abdol-Aziz Lili-Maryam's defense. Judgment Mr. Lili-Maryam
     was sentenced to death, and executed in the city of Lavasanat.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

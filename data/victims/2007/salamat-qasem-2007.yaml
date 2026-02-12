@@ -1,12 +1,17 @@
 id: salamat-qasem-2007
 name_latin: "Qasem Salamat"
 name_farsi: "قاسم سلامات"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1965-01-01"
+place_of_birth: "Veis region near Ahvaz"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/72486_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  children: 6
 
 # --- DEATH ---
 date_of_death: 2007-02-14
@@ -86,9 +91,8 @@ circumstances: >
     the bombers had been trained in Iraq, in regions under British army
     control, where they had acquired their arms and explosives. In one such
     stat
-event_context: null
-responsible_forces: null
-
+event_context: "2005-2006 unrests and bombings"
+responsible_forces: "IRGC"
 # --- VERIFICATION ---
 status: unverified
 sources:

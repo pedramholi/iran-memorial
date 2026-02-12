@@ -2,8 +2,8 @@ id: agush-khalil-2018
 name_latin: "Khalil Agush"
 name_farsi: "خلیل آگوش"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Maku"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -43,9 +43,8 @@ circumstances: >
     Judgment Mr. Khalil Agush was sentenced to death by hanging. On Monday,
     May 14, 2018, he was executed, along with another person, at the Orumieh
     Central Prison.
-event_context: null
-responsible_forces: null
-
+event_context: "2018 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Ali Kazem Aslani"
 name_farsi: "علی‌کاظم اصلانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -33,8 +33,7 @@ circumstances: >
     court condemned Mr. Ali-Kazem Aslani to death. He was executed in public
     at the Khak Sefid area in Tehranpars on March 19, 2001.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

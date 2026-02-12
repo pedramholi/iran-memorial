@@ -2,11 +2,23 @@ id: mogui-mahsa-2022
 name_latin: "Mahsa Mogu'i"
 name_farsi: "مهسا موگویی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Gulshahr, Najafabad, Isfahan"
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/85332_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "athlete"
+education: "completed her studies in the practical field in high school"
+family:
+  marital_status: "unmarried"
+beliefs: "participated in the Woman, Life, Freedom protests"
+quotes:
+  - "Ms. Mogu i dreamed of becoming a doctor and spending a part of her income to help people in need receive the necessary treatment."
+  - "Mahsa could not bear to see the officials cruelty and irresponsibility and always said it was wrong for our people to be so poor, given all our national resources."
+  - "She wanted everyone to live in conditions of prosperity, freedom, and security and not have basic human rights be our compatriots main concern, which in every country are trivial issues. Still, in our country, issues such as jobs, housing, safety, and financial security have become part of many people s dreams."
+  - "Her other wish was to win a medal for Iran in the Olympics."
 
 # --- DEATH ---
 date_of_death: 2022-09-22
@@ -85,7 +97,7 @@ circumstances: >
     according to some reports women s genitalia. The bloodiest crackdown took
     place on September 30th in Zahedan, Baluchestan Province, where a protest
     began at the end of the Friday sermon. The d
-event_context: null
+event_context: "Woman, Life, Freedom protests"
 responsible_forces: null
 
 # --- VERIFICATION ---

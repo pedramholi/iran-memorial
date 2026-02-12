@@ -3,8 +3,8 @@ name_latin: "Mohammad Ali Janatnia"
 name_farsi: "محمدعلی جنت‌نیا"
 date_of_birth: null
 place_of_birth: null
-gender: null
-ethnicity: null
+gender: male
+ethnicity: "Azerbaijani"
 religion: "Presumed Muslim (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/87030_thumb.jpeg"
 
@@ -85,9 +85,8 @@ circumstances: >
     protests. However, official sources provided no details about the manner
     of his death or his burial place. (Iran National News Agency, May 28,
     2006; Soldoze Az, July 22, 2006; Faza el Azizaan blog, May 31, 20
-event_context: null
-responsible_forces: null
-
+event_context: "2006 Azerbaijan Protests"
+responsible_forces: "Basij"
 # --- VERIFICATION ---
 status: unverified
 sources:

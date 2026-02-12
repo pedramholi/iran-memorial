@@ -3,7 +3,7 @@ name_latin: "Mahi Kohali"
 name_farsi: "ماهی کهالی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -39,8 +39,7 @@ circumstances: >
     out in Zanjan. No information is available about the exact date of this
     execution.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,18 @@
 id: albughbish-majed-2007
 name_latin: "Majed Albughbish"
 name_farsi: "ماجد آلبوغبیش"
-date_of_birth: null
+date_of_birth: "1972-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/72485_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "cement block manufacturing factory owner"
+family:
+  marital_status: "single"
+  children: 0
 
 # --- DEATH ---
 date_of_death: 2007-02-14
@@ -85,7 +91,7 @@ circumstances: >
     loyal to the previous regime and residing in England; Fugitive SAVAK (the
     Shah s security and intelligence apparatus) members, and family members of
     the destroyed Monafeqin (MKO); Wahabis; secessionists; and/or to
-event_context: null
+event_context: "2005-2006 unrests and bombings"
 responsible_forces: null
 
 # --- VERIFICATION ---

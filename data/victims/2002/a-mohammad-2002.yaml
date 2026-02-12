@@ -1,9 +1,9 @@
 id: a-mohammad-2002
 name_latin: "Mohammad A."
 name_farsi: "محمد الف."
-date_of_birth: null
+date_of_birth: "1980-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -41,8 +41,7 @@ circumstances: >
     security officials in Esfahan in July of 2002. No specific information is
     available about his execution.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

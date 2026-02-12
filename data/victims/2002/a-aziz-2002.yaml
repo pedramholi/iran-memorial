@@ -3,7 +3,7 @@ name_latin: "Aziz A."
 name_farsi: "عزیز ع."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -42,8 +42,7 @@ circumstances: >
     death and the Supreme Court confirmed the ruling. He was hanged in Shiraz.
     The exact date of this execution is unknown.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

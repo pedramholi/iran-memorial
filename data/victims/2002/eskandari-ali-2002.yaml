@@ -3,10 +3,14 @@ name_latin: "Ali Eskandari"
 name_farsi: "علی اسکندری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "single"
 
 # --- DEATH ---
 date_of_death: 2002-11-11

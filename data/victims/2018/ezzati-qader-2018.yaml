@@ -1,12 +1,23 @@
 id: ezzati-qader-2018
 name_latin: "Qader Ezzati"
 name_farsi: "قادر عزتی"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1957-01-01"
+place_of_birth: "Chavag, Marivan County, Kurdistan Province"
+gender: male
+ethnicity: "Kurd"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/83932_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "platoon leader, company commander, brigade commander, member of the Kurdistan Democratic Party"
+education: "illiterate"
+family:
+  marital_status: "married"
+  notes: "father of children with university degrees"
+personality: "democratic, intellectual, freedom-seeking, and patriotic individual"
+beliefs: "believed in the objectives of the Kurdistan Democratic Party"
+quotes:
+  - "\"I will not shave my beard until Kurdistan is free.\""
 
 # --- DEATH ---
 date_of_death: 2018-09-08
@@ -86,8 +97,7 @@ circumstances: >
     such as Koy, Soleimanieh, and in the foothills of Qandil mountains. Some
     of these parties have undergone splits in
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Kurdistan Democratic Party"
 # --- VERIFICATION ---
 status: unverified
 sources:

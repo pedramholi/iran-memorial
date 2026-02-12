@@ -1,12 +1,17 @@
 id: shahruz-2012
 name_latin: "Shahruz"
 name_farsi: "شهروز"
-date_of_birth: null
+date_of_birth: "1995-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+quotes:
+  - "claimed to be innocent during his preliminary interrogation"
 
 # --- DEATH ---
 date_of_death: 2012-10-24
@@ -63,7 +68,7 @@ circumstances: >
     27 of the Supreme Court confirmed the ruling (Farhikhtegan.) He was
     hanged, along with two others, at Raja ishahr Prison in Karaj on October
     24, 2012.
-event_context: null
+event_context: "2012 execution"
 responsible_forces: null
 
 # --- VERIFICATION ---

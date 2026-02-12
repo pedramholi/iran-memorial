@@ -1,12 +1,22 @@
 id: mansurnia-borhan-2019
 name_latin: "Borhan Mansurnia"
 name_farsi: "برهان منصور‌نیا"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1991-06-22"
+place_of_birth: "Marivan"
+gender: male
+ethnicity: "Kurd"
 religion: "Non-Believer"
 photo: "https://www.iranrights.org/actorphotos/83507_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "student"
+education: "high school diploma"
+family:
+  marital_status: "single"
+  children: 0
+  notes: "son of Soraya and Rahim"
+quotes:
+  - "\"I want to serve the people of the region and surrounding villages.\""
 
 # --- DEATH ---
 date_of_death: 2019-11-18
@@ -85,9 +95,8 @@ circumstances: >
     from Iran, police and security forces can be seen firing their weapons
     into the demonstrators in circumstances where it does not appear that
     their lives are in danger. Plainclothes forces can also be seen
-event_context: null
-responsible_forces: null
-
+event_context: "2019 November protests"
+responsible_forces: "Police Force"
 # --- VERIFICATION ---
 status: unverified
 sources:

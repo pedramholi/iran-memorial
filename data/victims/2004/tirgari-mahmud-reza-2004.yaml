@@ -3,7 +3,7 @@ name_latin: "Mahmud Reza Tirgari"
 name_farsi: "محمود رضا تیرگری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -51,9 +51,8 @@ circumstances: >
     breaking the windows of Hgavamin institution; and one year imprisonment
     and payment of blood money for injuring a police officer. He was executed
     in the main square of Bandar Gaz on February 17, 2004.
-event_context: null
-responsible_forces: null
-
+event_context: "2003 armed robbery"
+responsible_forces: "Public Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

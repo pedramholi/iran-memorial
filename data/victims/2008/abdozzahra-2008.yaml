@@ -1,12 +1,25 @@
 id: abdozzahra-2008
 name_latin: "Abdozzahra"
 name_farsi: "عبدالزهرا"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1976-01-01"
+place_of_birth: "Khuzestan Province"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/79710_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "government employee"
+education: "fifth grade"
+family:
+  marital_status: "married"
+  children: 2
+  notes: "father of a 10-year-old daughter and an 8-year-old son"
+personality: "quiet individual with a good social reputation"
+quotes:
+  - "I killed these children because of their inappropriate behavior"
+  - "I thought that these students were the devil and wanted to cleanse the Earth of their filthy presence"
+  - "to take revenge for a disagreement he had had with him, and that he had subsequently decided to commit other crimes in order to satisfy his inner shortcomings and complexes"
 
 # --- DEATH ---
 date_of_death: 2008-02-07
@@ -85,9 +98,8 @@ circumstances: >
     of Taft and covering them with dirt. The validity of the criminal charges
     brought against this defendant cannot be ascertained in the absence of the
     basic guarantees of a fair trial. E
-event_context: null
-responsible_forces: null
-
+event_context: "murder of four boys, ranging in age from 12 to 15, in one of Taft s neighborhoods between 2005 and 2007"
+responsible_forces: "Taft Criminal Investigations Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

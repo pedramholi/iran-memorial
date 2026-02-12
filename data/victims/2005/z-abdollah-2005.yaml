@@ -3,10 +3,14 @@ name_latin: "Abdollah Z."
 name_farsi: "عبدالله ز."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "At the first court session… Hatam Gorgi told the judge… that he had committed the murder…"
 
 # --- DEATH ---
 date_of_death: 2005-05-03
@@ -56,9 +60,8 @@ circumstances: >
     defense. Judgment The court condemned Mr. Abdollah Z. to death; and the
     Supreme Court approved the sentence. He was hanged at Evin prison on May
     3, 2005.
-event_context: null
-responsible_forces: null
-
+event_context: "2005 execution"
+responsible_forces: "Islamic Republic’s authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

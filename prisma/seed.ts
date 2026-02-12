@@ -180,7 +180,8 @@ async function seedVictims() {
       create: victimData,
     });
 
-    // Seed sources
+    // Seed sources (delete existing first to prevent duplicates on re-seed)
+    await prisma.source.deleteMany({ where: { victimId: victim.id } });
     if (v.sources && Array.isArray(v.sources)) {
       for (const source of v.sources) {
         if (!source.name) continue;

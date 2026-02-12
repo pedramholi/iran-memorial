@@ -3,10 +3,16 @@ name_latin: "Seyed Shakur Hosseini"
 name_farsi: "سید شکور حسینی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/60895_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  notes: "mother and sister present at execution, claimed he was innocent"
+quotes:
+  - "I’m innocent. I don’t deserve this."
 
 # --- DEATH ---
 date_of_death: 2007-06-13
@@ -57,9 +63,8 @@ circumstances: >
     was innocent. But the police took them away from the location. According
     to the Jame Jam newspaper, when he was taken to the gallows, the defendant
     continuously cried, “I’m innocent. I don’t deserve this.”
-event_context: null
-responsible_forces: null
-
+event_context: "execution on June 13, 2007"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

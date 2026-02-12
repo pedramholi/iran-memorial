@@ -2,11 +2,15 @@ id: josch-carla-andrea-1994
 name_latin: "Carla Andrea Josch"
 name_farsi: "کارلا آندریا جاش"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Buenos Aires, Argentina"
+gender: female
 ethnicity: null
 religion: "Judaism"
 photo: "https://www.iranrights.org/actorphotos/11878_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  notes: "sister of Analia Josch, best friend of Ingrid Finkelchtein, and friend of Leonor Gutman de Finkelchtein"
 
 # --- DEATH ---
 date_of_death: 1994-07-18
@@ -85,9 +89,8 @@ circumstances: >
     was in charge of the operation, was Iran s newly appointed cultural attach
     at the embassy (though he had been in Argentina for eleven years, he was
     bestowed diplomatic immunity only
-event_context: null
-responsible_forces: null
-
+event_context: "AMIA bombing on July 18, 1994"
+responsible_forces: "Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

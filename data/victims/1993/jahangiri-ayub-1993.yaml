@@ -2,11 +2,18 @@ id: jahangiri-ayub-1993
 name_latin: "Ayub Jahangiri"
 name_farsi: "ایوب جهانگیری"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Kurisofla Village, Anzal near Orumieh"
+gender: male
+ethnicity: "Kurd"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/73918_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  notes: "son of Teymur"
+beliefs: "member of the Democratic Party of Iranian Kurdistan"
+quotes:
+  - "he had been tortured physically and mentally, and insulted by his interrogators for six months during which he had no visitation with his family or his attorney."
 
 # --- DEATH ---
 date_of_death: 1993-01-01
@@ -75,8 +82,7 @@ circumstances: >
     Jahangiri s body was not given to his family and they were not informed of
     his burial location. (ABF interview)
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

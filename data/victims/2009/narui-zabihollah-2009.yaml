@@ -3,10 +3,13 @@ name_latin: "Zabihollah Naru’i"
 name_farsi: "ذبیح‌الله نارویی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/78340_thumb.jpeg"
+
+# --- LIFE ---
+beliefs: "member of the cultural wing of the Iran Popular Resistance Movement (Jondollah)"
 
 # --- DEATH ---
 date_of_death: 2009-05-30
@@ -85,9 +88,8 @@ circumstances: >
     in the case was arrested on May 26, 2009. The bombing occurred on May 28,
     and the defendants were executed on May 30. The judicial authorities
     charged the defendants with complicity in the bombing of Zahe
-event_context: null
-responsible_forces: null
-
+event_context: "explosion at the Imam Ali Mosque in the city of Zahedan on May 28, 2009"
+responsible_forces: "Islamic Republic of Iran Police Force"
 # --- VERIFICATION ---
 status: unverified
 sources:

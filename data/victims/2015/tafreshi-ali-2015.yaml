@@ -3,7 +3,7 @@ name_latin: "Ali Tafreshi"
 name_farsi: "علی تفرشی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -41,9 +41,8 @@ circumstances: >
     Tafreshi s defense. Judgment Mr. Ali Tafreshi was hanged at the Qezelhesar
     Prison on September 7, 2015. No specific information is available about
     this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "2015 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

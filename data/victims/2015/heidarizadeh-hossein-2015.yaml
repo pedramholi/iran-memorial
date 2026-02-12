@@ -2,8 +2,8 @@ id: heidarizadeh-hossein-2015
 name_latin: "Hossein Heidarizadeh"
 name_farsi: "حسین حیدری‌زاده"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Garuk, Hormozgan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -41,9 +41,8 @@ circumstances: >
     the evidence presented against Mr. Heidarizadeh. Defense No information is
     available on Mr. Heidarizadeh's defense. Judgment Mr. Hossein Heidarizadeh
     was hanged at the Minab Prison yard on January 24, 2015.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on January 24, 2015"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

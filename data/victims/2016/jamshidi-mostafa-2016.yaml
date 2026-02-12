@@ -3,7 +3,7 @@ name_latin: "Mostafa Jamshidi"
 name_farsi: "مصطفی جمشیدی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -45,9 +45,8 @@ circumstances: >
     hanged, along with three other individuals, in Karaj Central Penitentiary
     Prison on Tuesday January 12, 2016. -------------------------------------
     ** Seyed Hamid Hajian , Hossein Tutian Nush , and Mohsen Nasiri
-event_context: null
-responsible_forces: null
-
+event_context: "2016 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

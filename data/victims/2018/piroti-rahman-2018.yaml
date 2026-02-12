@@ -1,12 +1,21 @@
 id: piroti-rahman-2018
 name_latin: "Rahman Piroti"
 name_farsi: "رحمان پیروتی"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1954-01-01"
+place_of_birth: "Lajan region, Piranshahr County, West Azarbaijan Province"
+gender: male
+ethnicity: "Kurd"
 religion: "Non-Believer"
 photo: "https://www.iranrights.org/actorphotos/83898_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "Peshmerga"
+education: "dropped out of high school"
+family:
+  marital_status: "married"
+  children: 5
+personality: "known as an energetic and intellectual person in his youth; kind and honest individual who loved reading; extremely serious and determined in the defense of his rights and those of others; adored by the people around him"
+beliefs: "did not hold any religious beliefs"
 
 # --- DEATH ---
 date_of_death: 2018-09-08
@@ -85,9 +94,8 @@ circumstances: >
     Iranian Kurdistan at the same time as these individuals, joined the
     Kurdistan Democratic Party in April-May 1981, but separated from the Party
     after less than a year due to disagreements with the Party s pol
-event_context: null
-responsible_forces: null
-
+event_context: "massacre in Kurdistan"
+responsible_forces: "Democratic Party of Iranian Kurdistan"
 # --- VERIFICATION ---
 status: unverified
 sources:

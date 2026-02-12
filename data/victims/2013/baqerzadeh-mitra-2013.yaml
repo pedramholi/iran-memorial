@@ -1,12 +1,18 @@
 id: baqerzadeh-mitra-2013
 name_latin: "Mitra Baqerzadeh"
 name_farsi: "میترا باقرزاده"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1963-01-01"
+place_of_birth: "Abadan"
+gender: female
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/84678_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "official of the Mojahedin Organization; commander of the Women s Battalion"
+education: "elementary and secondary education in Khark Island; junior at Melli University of Tehran, studying Personnel Management"
+personality: "hardworking, humble, dignified, and kind"
+beliefs: "member of Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 2013-09-01
@@ -87,8 +93,7 @@ circumstances: >
     Morvarid (March 9, 1991). In the three decades the Mojahedin Khalq
     Organization of Iran was in Iraq, th
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

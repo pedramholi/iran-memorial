@@ -1,12 +1,16 @@
 id: taraj-karim-2013
 name_latin: "Karim Taraj"
 name_farsi: "کریم تاراج"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1981-01-01"
+place_of_birth: "Ilam"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "His brother was killed during an armed clash with the governor of Ilam."
 
 # --- DEATH ---
 date_of_death: 2013-07-03
@@ -47,9 +51,8 @@ circumstances: >
     Taraj. Defense No information is available on Mr. Taraj s defense.
     Judgment Mr. Karim Taraj was hanged, along with three others, in the
     Gohardasht (Raja ishahr) Prison yard on July 3, 2013 in the morning.
-event_context: null
-responsible_forces: null
-
+event_context: "2013 executions"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

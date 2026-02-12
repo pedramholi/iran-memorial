@@ -3,7 +3,7 @@ name_latin: "Javad Abyar"
 name_farsi: "جواد آبیار"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: null
 photo: "https://www.iranrights.org/actorphotos/81505_thumb.jpeg"
@@ -42,9 +42,8 @@ circumstances: >
     history. There is no information available on his defense. Judgment Mr.
     Abyar was hanged along with three others in Kerman Prison on Wednesday,
     April 19, 2012.
-event_context: null
-responsible_forces: null
-
+event_context: "2011"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

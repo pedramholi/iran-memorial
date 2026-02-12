@@ -3,10 +3,17 @@ name_latin: "Ali Abidavi (Savari)"
 name_farsi: "علی عبیداوی (سواری)"
 date_of_birth: null
 place_of_birth: null
-gender: null
-ethnicity: null
+gender: male
+ethnicity: "Arab"
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "taxi driver"
+family:
+  marital_status: "married"
+  children: 2
+  notes: "son of Ghanem Abidavi, former member of the town of Hamidieh city council"
 
 # --- DEATH ---
 date_of_death: 2007-12-11
@@ -85,7 +92,7 @@ circumstances: >
     Internet access is cut off, and other means of communication, such as
     telephones, are tapped and strictly controlled by the security apparatus.
     Certain cases of
-event_context: null
+event_context: "Khuzestan Protests"
 responsible_forces: null
 
 # --- VERIFICATION ---

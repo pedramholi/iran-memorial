@@ -3,7 +3,7 @@ name_latin: "Naser Shahbakhsh"
 name_farsi: "ناصر شه‌بخش"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -86,9 +86,8 @@ circumstances: >
     details were specified regarding the court branch or the time of the
     confirmation. (Sistan Va Baluchistan Courthouse) Mr. Shahbakhsh was
     hanged, along with
-event_context: null
-responsible_forces: null
-
+event_context: "armed attack by Jaish ul-Adl on a border station in Saravan, Sistan Va Baluchestan"
+responsible_forces: "Ministry of Justice of Sistan Va Baluchestan"
 # --- VERIFICATION ---
 status: unverified
 sources:

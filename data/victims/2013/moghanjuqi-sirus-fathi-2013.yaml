@@ -1,12 +1,17 @@
 id: moghanjuqi-sirus-fathi-2013
 name_latin: "Sirus Fathi Moghanjuqi"
 name_farsi: "سیروس فتحی مغانجوقی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1961-01-01"
+place_of_birth: "Salmas"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/85226_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "student"
+family:
+beliefs: "member of the People s Mojahedin Organization"
 
 # --- DEATH ---
 date_of_death: 2013-09-01
@@ -87,8 +92,7 @@ circumstances: >
     2003, inflicting casualties, property, and financial damage. After the
     International Security Ass
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

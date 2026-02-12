@@ -1,12 +1,24 @@
 id: rostami-abolfazl-2008
 name_latin: "Abolfazl Rostami"
 name_farsi: "ابوالفضل رستمی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1976-01-01"
+place_of_birth: "Arak"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "security guard"
+family:
+  marital_status: "married"
+quotes:
+  - "On the first day they arrested me, they played a tape of a conversation between a man and a woman, and they asked me to say the same things, in the same way. The tape is fake, and I have never spoken to this lady on the phone."
+  - "According to the deceased s fianc , and under torture, I described his body size .all the court sessions and the interrogation sessions were unjust. Whatever I said was under duress."
+  - "That day, the police brought in a public defender for me. He said that if I write these things down, it would be to my benefit, and I did. Later, I found out that he had been a police officer, not my public defender. I wrote down my statement under torture that was against the law and contrary to religion."
+  - "When my family and I filed a complaint, they did not immediately send me to the Medical Examiner to be checked out. They did this after two months. He said his finger had been broken and his head had been lacerated."
+  - "If I had committed murder or rape, I would have killed the only witness to my crimes. He said, Maybe this lady had seen me somewhere, or maybe someone has described me to her."
+  - "I was willing to die a hundred times a day."
 
 # --- DEATH ---
 date_of_death: 2008-01-06
@@ -85,9 +97,8 @@ circumstances: >
     has described me to her. When asked to explain his confession during
     police interrogation, Mr. Rostami said, I was willing to die a hundred
     times a day,
-event_context: null
-responsible_forces: null
-
+event_context: "murder and rape in the mountains around Arak, in the fall of 2005"
+responsible_forces: "police"
 # --- VERIFICATION ---
 status: unverified
 sources:

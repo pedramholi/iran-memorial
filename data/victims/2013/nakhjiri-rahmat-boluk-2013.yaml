@@ -1,12 +1,17 @@
 id: nakhjiri-rahmat-boluk-2013
 name_latin: "Rahmat Boluk Nakhjiri"
 name_farsi: "رحمت بلوک نخجیری"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1958-01-01"
+place_of_birth: "Lahijan"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/85223_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "member of the People’s Mojahedin Organization of Iran"
+family:
+beliefs: "joined the People’s Mojahedin Organization of Iran after the revolution of 1978"
 
 # --- DEATH ---
 date_of_death: 2013-09-01
@@ -86,8 +91,7 @@ circumstances: >
     under the protection of U.S. forces. Several intelligence services,
     including the FBI, went to the Ashraf Base on behalf of the
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Mohammad Reza Qandi Jupari"
 name_farsi: "محمدرضا قندی جوپاری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -48,9 +48,8 @@ circumstances: >
     confiscation of property, and paying a fine. He was hanged, along with
     another person, in public at a square in Abadeh, Fars, on February 29,
     2001.
-event_context: null
-responsible_forces: null
-
+event_context: "1999 clash and chase"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

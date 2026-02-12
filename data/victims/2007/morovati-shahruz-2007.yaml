@@ -3,10 +3,15 @@ name_latin: "Shahruz Morovati"
 name_farsi: "شهروز مروتی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "The judicial system in cooperation with the security forces will stand firm before hooligans."
+  - "During the execution police established full security and the ruling was carried out without any security issues."
 
 # --- DEATH ---
 date_of_death: 2007-10-02
@@ -48,9 +53,8 @@ circumstances: >
     on October 2, 2007. According to the Police Information Base, “During the
     execution police established full security and the ruling was carried out
     without any security issues.”
-event_context: null
-responsible_forces: null
-
+event_context: "2007 execution"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

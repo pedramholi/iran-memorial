@@ -3,10 +3,14 @@ name_latin: "Kurosh Monfared"
 name_farsi: "کوروش منفرد"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "murder and armed robbery"
 
 # --- DEATH ---
 date_of_death: 2001-05-02
@@ -28,9 +32,8 @@ circumstances: >
     to Qesas [death], 15 years of imprisonment, and 70 lashes. The Supreme
     Court confirmed the ruling. He was hanged in public at Emam Hossein
     Square, in Shiraz, on May 2, 2001.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on May 2, 2001"
+responsible_forces: "Public Court of Shiraz"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -2,11 +2,16 @@ id: kabir-gholam-hossein-hassan-golzar-1990
 name_latin: "Gholam Hossein (Hassan) Golzar Kabir"
 name_farsi: "غلامحسین (حسن) گلزار کبیر"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Hamedan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "former employee of the Hamedan Municipality, ran a sheep's head and trotters store"
+family:
+  marital_status: "married"
 
 # --- DEATH ---
 date_of_death: 1990-02-15
@@ -85,7 +90,7 @@ circumstances: >
     International human rights organizations have drawn attention to reports
     indicating that the Islamic Republic authorities have brought trumped-up
     charges, including drug tr
-event_context: null
+event_context: "murder and armed robbery at Keshavarzi Bank on February 11, 1990"
 responsible_forces: null
 
 # --- VERIFICATION ---

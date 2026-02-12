@@ -2,8 +2,8 @@ id: barahui-abdolhamid-2001
 name_latin: "Abdolhamid Barahu'i"
 name_farsi: "عبدالحمید براهوئی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Zahedan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -50,8 +50,7 @@ circumstances: >
     in public in Chenaran. No information is available about the date of this
     execution.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

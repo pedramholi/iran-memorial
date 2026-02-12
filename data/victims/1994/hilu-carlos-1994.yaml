@@ -2,11 +2,19 @@ id: hilu-carlos-1994
 name_latin: "Carlos Hilu"
 name_farsi: "کارلوس هیلو"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Buenos Aires, Argentina"
+gender: male
 ethnicity: null
 religion: "Judaism"
 photo: "https://www.iranrights.org/actorphotos/11865_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "head of AMIA’s Surveillance Sector"
+family:
+  marital_status: "married"
+  children: 3
+  notes: "father of three daughters"
+personality: "laughed a lot, known for his jokes"
 
 # --- DEATH ---
 date_of_death: 1994-07-18
@@ -85,7 +93,7 @@ circumstances: >
     a danger point for terrorism. From the evidence gathered, two Iranian
     diplomats in Buenos Aires actively assisted Hezbollah. Mohsen Rabbani, who
     was in charge of the operation, was Iran’s newly ap
-event_context: null
+event_context: "AMIA bombing"
 responsible_forces: null
 
 # --- VERIFICATION ---

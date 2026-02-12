@@ -3,7 +3,7 @@ name_latin: "Mohammad Amin"
 name_farsi: "محمدامین"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -61,9 +61,8 @@ circumstances: >
     Islamic Propaganda Organization at the Qazvin Central Prison yard on July
     27, 2004. The flogging sentence against Mr. Mohammad Amin was carried out
     before his execution.
-event_context: null
-responsible_forces: null
-
+event_context: "2004 drug trafficking case"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

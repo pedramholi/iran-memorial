@@ -3,7 +3,7 @@ name_latin: "Mohammad Reza B."
 name_farsi: "محمدرضا ب."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -56,8 +56,7 @@ circumstances: >
     newspaper). The verdict was carried out and he was hanged at Hedayat
     Boulevard in Mashhad ( Kayhan newspaper).
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Rahim Shahmohammadi"
 name_farsi: "رحیم شاه‌محمدی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -44,9 +44,8 @@ circumstances: >
     Shahmohammadi to death for murder. He was hanged in the presence of the
     victim s family in Qasr Prison on February 16, 2000 at dawn. No specific
     information is available about this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "murder of an 18-year-old man at Punak in Tehran during a street fight in September of 1997"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

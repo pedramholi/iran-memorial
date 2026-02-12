@@ -1,12 +1,28 @@
 id: menbari-peyman-2022
 name_latin: "Peyman Menbari"
 name_farsi: "پیمان منبری"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1997-06-31"
+place_of_birth: "Niyar, Zhavehrud district, Sanandaj"
+gender: male
 ethnicity: null
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/86490_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "master craftsman"
+education: "high school diploma in experimental sciences"
+family:
+  marital_status: "engaged"
+  children: 0
+  notes: "son of Ayub Menbari and Sahebeh Veisi"
+personality: "described as hardworking and studious"
+beliefs: "deeply concerned about the state of society and the suffering of the Iranian people"
+quotes:
+  - "If I don't go and neither does anyone else, then who will?"
+  - "Even though I live a relatively calm life and can make ends meet, I can’t live in comfort when I see my neighbors struggling financially."
+  - "Blessed is the one who becomes a martyr for his homeland."
+  - "Let us be martyred for freedom, but never live in captivity."
+  - "This will be the best Saturday in history. We will protest, we will strike, and just as they say we will destroy; we will riot. If anyone stands in our way, we will fight; we will be wounded; we will be martyred. We will turn the streets of the city into their hell, and we will continue until my people, my family, and my city are completely free."
 
 # --- DEATH ---
 date_of_death: 2022-10-08
@@ -85,7 +101,7 @@ circumstances: >
     (Radio Farda, November 25, 2023; ABC interview with a relative, February
     8, 2023). One niece described him as "a person with a very big heart,
     calm, and
-event_context: null
+event_context: "2022 protests in Sanandaj"
 responsible_forces: null
 
 # --- VERIFICATION ---

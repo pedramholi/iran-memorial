@@ -3,10 +3,13 @@ name_latin: "Hassan Hekmat Demir"
 name_farsi: "حسن حکمت دمیر"
 date_of_birth: null
 place_of_birth: null
-gender: null
-ethnicity: null
+gender: male
+ethnicity: "Turkish"
 religion: "Unknown"
 photo: "https://www.iranrights.org/actorphotos/74572_thumb.jpeg"
+
+# --- LIFE ---
+beliefs: "member of PJAK"
 
 # --- DEATH ---
 date_of_death: 2007-12-20
@@ -86,8 +89,7 @@ circumstances: >
     credence. Therefore, if certain news agencies claims are correct, if Mr.
     Hekmat Demir was deprived of
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

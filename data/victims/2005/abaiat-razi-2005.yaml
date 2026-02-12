@@ -1,12 +1,17 @@
 id: abaiat-razi-2005
 name_latin: "Razi Abaiat"
 name_farsi: "راضی عبیات"
-date_of_birth: null
+date_of_birth: "1987-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/71709_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  marital_status: "single"
+  children: 0
 
 # --- DEATH ---
 date_of_death: 2005-04-15
@@ -85,9 +90,8 @@ circumstances: >
     authorities did not provide clear information regarding the number or
     names of the individuals killed during the Khuzestan protests. Some of the
     state officials acknowledged in a general statement tha
-event_context: null
-responsible_forces: null
-
+event_context: "Hamidieh protests"
+responsible_forces: "plainclothes security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

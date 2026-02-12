@@ -3,7 +3,7 @@ name_latin: "Yadollah Mahmudi"
 name_farsi: "یدالله محمودی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,9 +38,8 @@ circumstances: >
     available on Mr. Mahmudi s defense. Judgment Mr. Yadollah Mahmudi was
     hanged, along with six others, in the Orumieh Central Prison on Wednesday
     October 30, 2013.
-event_context: null
-responsible_forces: null
-
+event_context: "2013 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

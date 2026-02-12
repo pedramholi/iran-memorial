@@ -2,8 +2,8 @@ id: khash-moslem-mahmudzehi-2016
 name_latin: "Moslem Mahmudzehi Khash"
 name_farsi: "مسلم محمودزهی خاش"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Khash"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/85112_thumb.jpeg"
@@ -44,8 +44,7 @@ circumstances: >
     sentenced to death by hanging. He was executed along with another person,
     in Adel Abad Prison, Shiraz, on May 24, 2016.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

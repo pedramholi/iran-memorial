@@ -2,9 +2,9 @@ id: darvazi-afshin-2013
 name_latin: "Afshin Darvazi"
 name_farsi: "افشین دروازی"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Gangchin Village near Orumieh"
+gender: male
+ethnicity: "Kurdish"
 religion: "Presumed Muslim"
 photo: null
 
@@ -44,8 +44,7 @@ circumstances: >
     of Orumieh in parliament had gone to the Supreme Court to stop his
     execution.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

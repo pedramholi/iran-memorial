@@ -1,12 +1,19 @@
 id: shiri-sattar-2006
 name_latin: "Sattar Shiri"
 name_farsi: "ستار شیری"
-date_of_birth: null
+date_of_birth: "1987-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "single"
+personality: "quiet, ordinary boy who minded his own business"
+quotes:
+  - "I had no intention to kill the victim."
 
 # --- DEATH ---
 date_of_death: 2006-09-06
@@ -65,9 +72,8 @@ circumstances: >
     Hamshahri on January 19, 2005 and May 23, 2005; Sharq on May 23, 2005 and
     September 6, 2005; ISNA on June 15, 2005; Iran on May 23, 2005; Ettela at
     on September 6, 2005; and Jomhuri Eslami newspaper on September 7, 2005.
-event_context: null
-responsible_forces: null
-
+event_context: "murder of a young man on February 13, 2004"
+responsible_forces: "Police Station 11"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,15 @@
 id: mehzyar-2004
 name_latin: "Mehzyar"
 name_farsi: "مهزیار"
-date_of_birth: null
+date_of_birth: "1983-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
 
 # --- DEATH ---
 date_of_death: 2004-01-28
@@ -50,8 +53,7 @@ circumstances: >
     condemned to 30 years imprisonment and lashes for kidnapping and
     participation in murder.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

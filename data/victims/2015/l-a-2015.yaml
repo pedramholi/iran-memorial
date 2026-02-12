@@ -1,12 +1,15 @@
 id: l-a-2015
 name_latin: "A. L."
 name_farsi: "الف. ل."
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1986-01-01"
+place_of_birth: "Karaj"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "stoneworker"
 
 # --- DEATH ---
 date_of_death: 2015-02-26
@@ -41,9 +44,8 @@ circumstances: >
     defense. Judgment The court condemned Mr. A. L. to death in public. Branch
     24 of the Supreme Court confirmed the ruling and he was hanged at Danesh
     Square in Hashtgerd on February 26, 2015.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on February 26, 2015"
+responsible_forces: "Revolutionary Public Prosecutor"
 # --- VERIFICATION ---
 status: unverified
 sources:

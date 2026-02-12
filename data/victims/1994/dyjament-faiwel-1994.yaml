@@ -1,12 +1,18 @@
 id: dyjament-faiwel-1994
 name_latin: "Faiwel Dyjament"
 name_farsi: "فایول دایامنت"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1921-01-01"
+place_of_birth: "Poland"
+gender: male
 ethnicity: null
 religion: "Judaism"
 photo: "https://www.iranrights.org/actorphotos/11815_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "tailor"
+family:
+  marital_status: "married"
+  notes: "lived for six years in Israel with his wife"
 
 # --- DEATH ---
 date_of_death: 1994-07-18
@@ -85,9 +91,8 @@ circumstances: >
     the airport traced them to Foz de Iguazu in the Tri-Border Area, a loosely
     governed region bordering Argentina, Brazil, and Paraguay, that has become
     a danger po
-event_context: null
-responsible_forces: null
-
+event_context: "AMIA bombing"
+responsible_forces: "Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,15 @@
 id: nuri-moluk-2016
 name_latin: "Moluk Nuri"
 name_farsi: "ملوک نوری"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1961-01-01"
+place_of_birth: "Kermanshah"
+gender: female
+ethnicity: "Kurd"
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/82972_thumb.jpeg"
+
+# --- LIFE ---
+family:
 
 # --- DEATH ---
 date_of_death: 2016-09-29
@@ -60,9 +63,8 @@ circumstances: >
     ---------------------------- * Messrs. Esma'il Ayubi Jarami , Karam Kalshi
     , Qader Mahmudi , Efendi Omari , Behnam Pirkuzadegan , Kret(Reza)
     Ebdalzadeh , and Farhad Maleki
-event_context: null
-responsible_forces: null
-
+event_context: "2016 execution"
+responsible_forces: "drug enforcement agency of the police force"
 # --- VERIFICATION ---
 status: unverified
 sources:

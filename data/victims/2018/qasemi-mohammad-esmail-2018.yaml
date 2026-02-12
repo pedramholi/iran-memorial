@@ -1,12 +1,15 @@
 id: qasemi-mohammad-esmail-2018
 name_latin: "Mohammad Esma'il Qasemi"
 name_farsi: "محمد‌اسماعیل قاسمی"
-date_of_birth: null
+date_of_birth: "1973-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/82932_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "currency trader"
 
 # --- DEATH ---
 date_of_death: 2018-11-14
@@ -86,9 +89,8 @@ circumstances: >
     drawn attention to reports indicating that Islamic Republic authorities
     have brought trumped-up charges against their political opponents and
     execu
-event_context: null
-responsible_forces: null
-
+event_context: "financial crimes committed in 2018 in Tehran"
+responsible_forces: "Tehran Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

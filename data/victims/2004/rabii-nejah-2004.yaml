@@ -3,8 +3,8 @@ name_latin: "Nejah Rabi'i"
 name_farsi: "نجاح ربیعی"
 date_of_birth: null
 place_of_birth: null
-gender: null
-ethnicity: null
+gender: male
+ethnicity: "Kurd"
 religion: "Unknown"
 photo: null
 
@@ -44,9 +44,8 @@ circumstances: >
     Nejah Rabi i to death and the Supreme Court confirmed the ruling. He was
     hanged, along with two others, in public and in the presence of officials
     in Qazvin on July 1, 2004.
-event_context: null
-responsible_forces: null
-
+event_context: "2004 execution"
+responsible_forces: "Iranian security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,16 @@
 id: nushin-2018
 name_latin: "Nushin"
 name_farsi: "نوشین"
-date_of_birth: null
+date_of_birth: "1993-01-01"
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "single"
 
 # --- DEATH ---
 date_of_death: 2018-12-22
@@ -43,8 +47,7 @@ circumstances: >
     2018. However, there is no mention of the exact of date or place of her
     execution.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

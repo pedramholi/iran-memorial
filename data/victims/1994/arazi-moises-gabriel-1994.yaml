@@ -2,11 +2,15 @@ id: arazi-moises-gabriel-1994
 name_latin: "Moises Gabriel Arazi"
 name_farsi: "مویسس گابریل آرازی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Buenos Aires, Argentina"
+gender: male
 ethnicity: null
 religion: "Judaism"
 photo: "https://www.iranrights.org/actorphotos/11794_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "student"
+education: "University of Buenos Aires"
 
 # --- DEATH ---
 date_of_death: 1994-07-18
@@ -85,9 +89,8 @@ circumstances: >
     diplomats in Buenos Aires actively assisted Hezbollah. Mohsen Rabbani, who
     was in charge of the operation, was Iran s newly appointed cultural attach
     at the embassy (though he had been in Argentin
-event_context: null
-responsible_forces: null
-
+event_context: "AMIA bombing"
+responsible_forces: "Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -2,8 +2,8 @@ id: q-y-2015
 name_latin: "Y. Q."
 name_farsi: "ی. ق."
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Gilan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -43,9 +43,8 @@ circumstances: >
     pardon request. The ruling was carried out in the presence of officials
     when he was hanged in the Rasht Central Prison on January 31, 2015. His
     body was transferred to the morgue to be given to his relatives.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on January 31, 2015"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

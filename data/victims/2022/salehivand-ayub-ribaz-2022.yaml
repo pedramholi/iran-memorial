@@ -1,12 +1,22 @@
 id: salehivand-ayub-ribaz-2022
 name_latin: "Ayub (Ribaz) Salehivand"
 name_farsi: "ایوب (ریباز) صالحی‌وند"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "2002-09-30"
+place_of_birth: "Yusefkand village, Mahabad Township, West Azerbaijan Province"
+gender: male
+ethnicity: "Kurdish"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/85294_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "construction rebar master"
+education: "dropped out in the last year of high school"
+family:
+  notes: "son of Abdullah Salehivand and Khadija Aramidehnia"
+personality: "very fearless and courageous, introvert, familiar with Kurdish history and the region"
+beliefs: "participated in protests against the murder of Jina (Mahsa) Amini"
+quotes:
+  - "It doesn't matter what happens to me; if we don't go, who will go to the protests? It is my responsibility and duty to participate."
 
 # --- DEATH ---
 date_of_death: 2022-11-22
@@ -85,7 +95,7 @@ circumstances: >
     intense protests continued for weeks, at least through November 2022, with
     reports of sporadic activity continuing through the beginning of 2023. The
     State s crackdown was swift and accompani
-event_context: null
+event_context: "2022 (Mahsa Amini) protests"
 responsible_forces: null
 
 # --- VERIFICATION ---

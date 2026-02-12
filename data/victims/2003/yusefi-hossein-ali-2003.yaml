@@ -3,10 +3,16 @@ name_latin: "Hossein Ali Yusefi"
 name_farsi: "حسینعلی یوسفی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "engaged"
+quotes:
+  - "I had a suspicion about my fianc and when she denied it, I killed her during a fight."
 
 # --- DEATH ---
 date_of_death: 2003-07-30
@@ -37,8 +43,7 @@ circumstances: >
     Mr. Hossein Ali Yusefi to death and the Supreme Court confirmed the
     ruling. He was hanged at the Qasr Prison in Tehran on July 30, 2003.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

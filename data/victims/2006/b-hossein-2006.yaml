@@ -1,9 +1,9 @@
 id: b-hossein-2006
 name_latin: "Hossein B."
 name_farsi: "حسین ب."
-date_of_birth: null
+date_of_birth: "1982-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -53,8 +53,7 @@ circumstances: >
     death. The verdict was approved by the Supreme Court. Mr. Hossein B. was
     hanged in the city of Qazvin on March 4, 2006.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Police Force"
 # --- VERIFICATION ---
 status: unverified
 sources:

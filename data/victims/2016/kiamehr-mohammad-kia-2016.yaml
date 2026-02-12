@@ -1,12 +1,20 @@
 id: kiamehr-mohammad-kia-2016
 name_latin: "Mohammad Kia Kiamehr"
 name_farsi: "محمد‌کیا کیامهر"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1981-01-01"
+place_of_birth: "HaMr.an village of Sardasht, West Azerbaijan"
+gender: male
 ethnicity: null
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/85144_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "builder"
+education: "fifth grade"
+family:
+  marital_status: "engaged"
+quotes:
+  - "You ought to be executed given that you re Sunni."
 
 # --- DEATH ---
 date_of_death: 2016-05-24
@@ -85,9 +93,8 @@ circumstances: >
     confessions of the primary defendant and the discovery of some
     psychotropic substance pills in Mr. Kiamehr's car were the court's
     evidence for his participation in the production of psychotro
-event_context: null
-responsible_forces: null
-
+event_context: "2011 drug-related crime"
+responsible_forces: "anti-narcotics agents"
 # --- VERIFICATION ---
 status: unverified
 sources:

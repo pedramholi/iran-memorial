@@ -3,7 +3,7 @@ name_latin: "Mohammad Qasemi"
 name_farsi: "محمد قاسمی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -47,8 +47,7 @@ circumstances: >
     Mohammad Qasemi to death and the ruling was confirmed by the Supreme
     Court. He was hanged at Darvazeh Sa di in Shiraz on September 5, 2007.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "IRGC"
 # --- VERIFICATION ---
 status: unverified
 sources:

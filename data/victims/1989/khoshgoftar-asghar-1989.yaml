@@ -3,7 +3,7 @@ name_latin: "Asghar Khoshgoftar"
 name_farsi: "اصغر خوش گفتار"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -42,9 +42,8 @@ circumstances: >
     offences. Defense No information is available on Mr. Khoshgoftar’s
     defense. Judgment The court condemned Mr. Asghar Khoshgoftar to death and
     he was hanged in Qom on March 1, 1989.
-event_context: null
-responsible_forces: null
-
+event_context: "1989 execution of drug traffickers"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

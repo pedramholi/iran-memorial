@@ -3,7 +3,7 @@ name_latin: "Vali Najafnia"
 name_farsi: "ولی نجف‌نیا"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,8 +38,7 @@ circumstances: >
     No information is available on Mr. Najafnia s defense. Judgment Mr. Vali
     Najafnia was hanged at the Maragheh Prison yard on February 27, 2015.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,21 @@
 id: khorasani-nuraddin-mohammad-gharibi-1998
 name_latin: "Nuraddin Mohammad Gharibi Khorasani"
 name_farsi: "نورالدین محمد غریبی خراسانی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1992-01-01"
+place_of_birth: "Khorasan province"
+gender: male
 ethnicity: null
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/86200_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "teacher"
+family:
+  marital_status: "married"
+  children: 2
+personality: "kind, caring, and adorable person who was highly respected by those who knew him"
+quotes:
+  - "I have many enemies. I'm a Sunni, and in Iran, the Shiite majority doesn't want me. No matter where I go in the world, they will kill me, because they have been following me in every country I've been to."
 
 # --- DEATH ---
 date_of_death: 1998-06-15
@@ -85,9 +94,8 @@ circumstances: >
     planning. It can be ascertained from the similarities between these
     murders in different countries that the Iranian government is the
     principal entity that ordered the implementation of these
-event_context: null
-responsible_forces: null
-
+event_context: "extrajudicial execution"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

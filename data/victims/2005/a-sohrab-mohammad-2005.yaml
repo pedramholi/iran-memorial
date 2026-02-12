@@ -3,7 +3,7 @@ name_latin: "Sohrab Mohammad A"
 name_farsi: "سهراب محمد ع"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -40,8 +40,7 @@ circumstances: >
     Mohammad A. and he was hanged publicly in Basij square of this city. The
     date of his execution is not mentioned in these reports.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

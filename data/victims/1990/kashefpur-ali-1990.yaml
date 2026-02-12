@@ -1,12 +1,20 @@
 id: kashefpur-ali-1990
 name_latin: "Ali Kashefpur"
 name_farsi: "علی کاشف‌پور"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1957-01-01"
+place_of_birth: "Piranjugh, Orumieh County, West Azarbaijan"
+gender: male
+ethnicity: "Kurdish"
 religion: "Non-Believer"
 photo: "https://www.iranrights.org/actorphotos/84846_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "political activist"
+education: "high school diploma in literature; political science student at Tehran University"
+family:
+  marital_status: "married"
+personality: "honest, patient, kind, and sociable"
+beliefs: "member of the Democratic Party of Iranian Kurdistan; opposed to the Islamic Republic of Iran's regime; believed in human rights and equal rights for men and women"
 
 # --- DEATH ---
 date_of_death: 1990-08-16
@@ -85,9 +93,8 @@ circumstances: >
     of Iranian Kurdistan established in 1945 with the aim of autonomy for
     Kurdistan in northwestern Iran the Party went through a shakeup in 2006
     and was split into two separate organizations, the Dem
-event_context: null
-responsible_forces: null
-
+event_context: "Islamic Revolution (1978)"
+responsible_forces: "central government"
 # --- VERIFICATION ---
 status: unverified
 sources:

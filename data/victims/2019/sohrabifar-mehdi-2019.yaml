@@ -1,12 +1,18 @@
 id: sohrabifar-mehdi-2019
 name_latin: "Mehdi Sohrabifar"
 name_farsi: "مهدی سهرابی فر"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "2001-10-30"
+place_of_birth: "Shiraz"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/83073_thumb.jpeg"
+
+# --- LIFE ---
+education: "studied at a special school for the mentally disabled for less than a year"
+family:
+  notes: "child of Behjat and Ahmad"
+personality: "loved life and had plans for his future"
 
 # --- DEATH ---
 date_of_death: 2019-04-25
@@ -85,7 +91,7 @@ circumstances: >
     Mr. Sohrabifar was charged with rape while committing theft . (Iran Human
     Rights Organization, April 30, 2019). He and his co-defendant were charged
     with 7 counts of burglary of homes and sexual assault of women . (K
-event_context: null
+event_context: "2017 burglary and sexual assault cases in Shiraz Koushk Meydan"
 responsible_forces: null
 
 # --- VERIFICATION ---

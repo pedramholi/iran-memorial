@@ -3,7 +3,7 @@ name_latin: "Amir Fakhri"
 name_farsi: "امیر فخری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/25056_thumb.jpeg"
@@ -86,8 +86,7 @@ circumstances: >
     could call their families on the phone. Many police officers of a Special
     Unit were present at site in order
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Tehran Judiciary"
 # --- VERIFICATION ---
 status: unverified
 sources:

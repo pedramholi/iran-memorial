@@ -1,12 +1,18 @@
 id: moradi-zanyar-2018
 name_latin: "Zanyar Moradi"
 name_farsi: "زانیار مرادی"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1988-01-01"
+place_of_birth: "Marivan, Kurdistan Province"
+gender: male
+ethnicity: "Kurdish"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/81991_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  notes: "son of Eqbal, whose father was a well-known political activist and lived in Iraqi Kurdistan; family had entrusted him to his grandparents since he was a child."
+personality: "described as intelligent and responsible, very sociable, empathetic and sensitive, frank and direct, peace-seeking and tolerant"
+beliefs: "criticized the government s centralization policies and lack of investment in Kurdistan"
 
 # --- DEATH ---
 date_of_death: 2018-09-08
@@ -85,9 +91,8 @@ circumstances: >
     Peshmergas that year in order to conduct an armed struggle against the
     Isklamic Republic. (Kayhan London, October 23, 2016). This and other armed
     Kurdish parties active in the region, accepted responsibility
-event_context: null
-responsible_forces: null
-
+event_context: "related to the murder of three individuals in Marivan in 2009"
+responsible_forces: "Iranian authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -2,11 +2,15 @@ id: rakhshani-kahim-2001
 name_latin: "Kahim Rakhshani"
 name_farsi: "کهیم رخشانی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Afghanistan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "son of Najib"
 
 # --- DEATH ---
 date_of_death: 2001-06-16
@@ -39,9 +43,8 @@ circumstances: >
     was confirmed by the Supreme Court and he was beheaded in public at
     Shahrbani intersection in Zabol (Sistan and Baluchestan province) on June
     16, 2001.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on June 16, 2001"
+responsible_forces: "Zabol security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

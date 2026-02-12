@@ -2,11 +2,17 @@ id: velazquez-gustavo-daniel-1994
 name_latin: "Gustavo Daniel Velazquez"
 name_farsi: "گوستاوو دانیل ولازکز"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Buenos Aires, Argentina"
+gender: male
 ethnicity: null
 religion: "Judaism"
 photo: "https://www.iranrights.org/actorphotos/11986_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "student"
+personality: "remembered as a quiet, cute, and lovable guy"
+quotes:
+  - "He said that he was going to be an inventor when he was older."
 
 # --- DEATH ---
 date_of_death: 1994-07-18
@@ -86,9 +92,8 @@ circumstances: >
     governed region bordering Argentina, Brazil, and Paraguay, that has become
     a danger point for terrorism. From the evidence gathered, two Iranian
     diplomats in Buenos Aires actively
-event_context: null
-responsible_forces: null
-
+event_context: "AMIA bombing"
+responsible_forces: "Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -2,11 +2,22 @@ id: buttini-gabriel-1994
 name_latin: "Gabriel Buttini"
 name_farsi: "گابریل بوتینی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Buenos Aires, Argentina"
+gender: male
 ethnicity: null
 religion: "Judaism"
 photo: "https://www.iranrights.org/actorphotos/11806_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "electrician"
+family:
+  marital_status: "married"
+  children: 2
+  notes: "loved his family and would plan short vacations and surprise his daughters"
+personality: "emphatic in his belief that all people were equal, regardless of race or religion"
+quotes:
+  - "People don’t realize that when we leave this earth we all go to the same place; we’ll be judged by the same God."
+  - "His biggest pride was to go out with the girls and be told: ‘Oh, your girls are so beautiful!’"
 
 # --- DEATH ---
 date_of_death: 1994-07-18
@@ -85,9 +96,8 @@ circumstances: >
     the help of Iranian diplomats stationed at the embassy in Buenos Aires.
     The Hezbollah operatives, led by Imad Mughnieh, arrived in Buenos Aires
     with fake European passports on July 1, 1994. A flurry of phone calls f
-event_context: null
-responsible_forces: null
-
+event_context: "AMIA bombing on July 18, 1994"
+responsible_forces: "Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

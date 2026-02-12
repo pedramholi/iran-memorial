@@ -1,12 +1,16 @@
 id: qadiri-ali-asghar-2013
 name_latin: "Ali Asghar Qadiri"
 name_farsi: "علی‌اصغر قدیری"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1963-01-01"
+place_of_birth: "Shahreza"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/85262_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "commander"
+beliefs: "member of the MKO"
 
 # --- DEATH ---
 date_of_death: 2013-09-01
@@ -86,8 +90,7 @@ circumstances: >
     under the protection of U.S. forces. Several intelligence services,
     including the FBI, went to the Ashraf Base on behalf of the United States
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

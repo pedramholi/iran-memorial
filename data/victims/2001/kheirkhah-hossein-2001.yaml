@@ -3,7 +3,7 @@ name_latin: "Hossein Kheirkhah"
 name_farsi: "حسین خیرخواه"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -46,9 +46,8 @@ circumstances: >
     Criminal Court in Tehran condemned Mr. Hossein Kheirkhah to death and the
     Supreme Court confirmed the ruling. He was hanged, along with five others,
     in Qasr Prison in Tehran on January 17, 2001.
-event_context: null
-responsible_forces: null
-
+event_context: "1997 kidnapping and murders of an antique seller and a businessman"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

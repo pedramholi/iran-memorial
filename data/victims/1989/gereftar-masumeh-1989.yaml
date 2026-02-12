@@ -3,7 +3,7 @@ name_latin: "Ma'sumeh Gereftar"
 name_farsi: "معصومه گرفتار"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -44,9 +44,8 @@ circumstances: >
     evidence provided against the defendant. Defense No information is
     available on her defense. Judgment The court condemned Ms. Ma’sumeh
     Gereftar to death and he was hanged in Tehran on March 1, 1989.
-event_context: null
-responsible_forces: null
-
+event_context: "1989 law imposing mandatory death sentences on drug traffickers"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

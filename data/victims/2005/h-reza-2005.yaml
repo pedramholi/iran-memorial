@@ -3,10 +3,14 @@ name_latin: "Reza H."
 name_farsi: "رضا ح."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "He committed a premeditated murder. He took his victim, Hossain A., to Baghferdos and killed him with a knife."
 
 # --- DEATH ---
 date_of_death: 2005-05-04
@@ -37,9 +41,8 @@ circumstances: >
     defense. Judgment A court condemned Mr. Reza H. to death and Branch 26 of
     the Supreme Court approved the sentence. He was executed in public on May
     4, 2005 in Shahid Bandar square in Ahvaz.
-event_context: null
-responsible_forces: null
-
+event_context: "honor killing"
+responsible_forces: "Islamic Republic’s authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

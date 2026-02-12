@@ -2,8 +2,8 @@ id: khalkani-aziz-2005
 name_latin: "Aziz Khalkani"
 name_farsi: "عزیز خلکانی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Beyehran village"
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -38,8 +38,7 @@ circumstances: >
     information is available on the details of this execution. According to
     the Roshangary web site, Mr. Khalkani was executed on December 18, 2005.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

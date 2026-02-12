@@ -3,10 +3,13 @@ name_latin: "Ali Reza (Abdollah) Barahu’i"
 name_farsi: "علی‌رضا براهویی"
 date_of_birth: null
 place_of_birth: null
-gender: null
-ethnicity: null
+gender: male
+ethnicity: "Baluchi"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/82483_thumb.jpeg"
+
+# --- LIFE ---
+beliefs: "affiliated with the Jondallah group"
 
 # --- DEATH ---
 date_of_death: 2008-06-16
@@ -59,8 +62,7 @@ circumstances: >
     22, 2008 (Radio Baluchi). The state news services reported his execution
     date as June 16, 2008.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "IRGC"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,10 +3,13 @@ name_latin: "Abbas B."
 name_farsi: "عباس ب."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "street peddler"
 
 # --- DEATH ---
 date_of_death: 2002-10-16
@@ -42,8 +45,7 @@ circumstances: >
     ruling. He was hanged at the Sari Prison yard on Wednesday October 16,
     2002 at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

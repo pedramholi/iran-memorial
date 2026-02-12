@@ -3,7 +3,7 @@ name_latin: "Shahin Soltan Moradi"
 name_farsi: "شهین سلطان مرادی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -36,8 +36,7 @@ circumstances: >
     No information is available on the defense. Judgment Ms. Soltan Moradi was
     sentenced to death by stoning.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

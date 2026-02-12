@@ -3,7 +3,7 @@ name_latin: "Abbas A."
 name_farsi: "عباس الف."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -69,8 +69,7 @@ circumstances: >
     arms and legs of two of the 10 were amputated at the same time that Mr.
     Abbas A. was being hanged on the gallows.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Court of Ahvaz"
 # --- VERIFICATION ---
 status: unverified
 sources:

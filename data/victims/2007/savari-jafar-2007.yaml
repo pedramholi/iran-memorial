@@ -1,12 +1,21 @@
 id: savari-jafar-2007
 name_latin: "Ja'far Savari"
 name_farsi: "جعفر سواری"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1984-01-01"
+place_of_birth: "Dashte Azadegan"
+gender: male
+ethnicity: "Arab"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/72859_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "building electrician"
+education: "high school graduate"
+family:
+  notes: "brother of Mohammad Ali Savari"
+personality: "funny, kind, and studious"
+quotes:
+  - "One of his dreams was to have a car."
 
 # --- DEATH ---
 date_of_death: 2007-09-11
@@ -85,9 +94,8 @@ circumstances: >
     the destroyed Monafeqin (MKO); Wahabis; secessionists; and/or to groups
     affiliated with the UK and other foreign countries. The Iranian government
     officially acc
-event_context: null
-responsible_forces: null
-
+event_context: "2005 bombings and unrest"
+responsible_forces: "IRGC"
 # --- VERIFICATION ---
 status: unverified
 sources:

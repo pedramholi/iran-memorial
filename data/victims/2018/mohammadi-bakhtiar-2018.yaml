@@ -1,12 +1,23 @@
 id: mohammadi-bakhtiar-2018
 name_latin: "Bakhtiar Mohammadi"
 name_farsi: "بختیار محمدی"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1981-01-01"
+place_of_birth: "Ravansar"
+gender: male
+ethnicity: "Kurd"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/78796_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "bakery owner"
+education: "high school"
+family:
+  marital_status: "married"
+  children: 0
+  notes: "father of two children, second child in the family"
+personality: "quiet man and an introvert"
+quotes:
+  - "\"I had killed my wife simply because I had had enough of life.\""
 
 # --- DEATH ---
 date_of_death: 2018-01-03

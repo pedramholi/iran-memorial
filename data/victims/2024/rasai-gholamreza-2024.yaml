@@ -2,11 +2,24 @@ id: rasai-gholamreza-2024
 name_latin: "Gholamreza Rasa'i"
 name_farsi: "غلامرضا رسایی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Sahneh, Kermanshah Province"
+gender: male
 ethnicity: null
-religion: null
+religion: "Yarsan"
 photo: "https://www.iranrights.org/actorphotos/86808_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "beekeeper and honey vendor"
+education: "bachelor's degree in business management"
+family:
+  marital_status: "single"
+  children: 0
+  notes: "became the family's breadwinner after losing his father at age eleven"
+personality: "quiet, humble"
+quotes:
+  - "People can't even afford a piece of bread."
+  - "People don't even have bread to eat. Why are these things happening? Why has it come to this? Aren't we supposed to live under equal conditions?"
+  - "Free Kheyrollah Haqjuyan!"
 
 # --- DEATH ---
 date_of_death: 2024-08-06
@@ -85,9 +98,8 @@ circumstances: >
     Criminal Investigation Department detention center for an additional 21
     days, alongside several other detainees. During this period, all contact
     with his family was cut off. (Kayhan London, Fe
-event_context: null
-responsible_forces: null
-
+event_context: "Woman, Life, Freedom protests sparked by the state killing of Jina (Mahsa) Amini"
+responsible_forces: "IRGC"
 # --- VERIFICATION ---
 status: unverified
 sources:

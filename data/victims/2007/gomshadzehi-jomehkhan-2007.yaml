@@ -2,8 +2,8 @@ id: gomshadzehi-jomehkhan-2007
 name_latin: "Jom'ehkhan Gomshadzehi"
 name_farsi: "جمعه خان گمشادزهی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Saravan, Sistan and Baluchestan province"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/60859_thumb.jpeg"
@@ -70,9 +70,8 @@ circumstances: >
     court condemned Mr. Jom ehkhan Gomshadzehi to death and the ruling was
     confirmed by the Supreme Judicial officials. He was hanged in the Zahedan
     prison yard on October 30, 2007.
-event_context: null
-responsible_forces: null
-
+event_context: "2007 drug trafficking case"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

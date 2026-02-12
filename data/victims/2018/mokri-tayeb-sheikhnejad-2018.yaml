@@ -2,11 +2,15 @@ id: mokri-tayeb-sheikhnejad-2018
 name_latin: "Tayeb Sheikhnejad Mokri"
 name_farsi: "طیب شیخ‌نژاد مکری"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "PiranShahr"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/82857_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  notes: "son of Mohammad"
 
 # --- DEATH ---
 date_of_death: 2018-04-23
@@ -44,9 +48,8 @@ circumstances: >
     the Central Prison of Orumieh on Monday, April 23, 2018. Mr. Sheikhnejad s
     memorial service was held in Tajeddin Abad Mosque in the town of
     Oshnovieh.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on April 23, 2018"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

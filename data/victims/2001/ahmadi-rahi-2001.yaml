@@ -3,10 +3,13 @@ name_latin: "Rahi Ahmadi"
 name_farsi: "رهی احمدی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/75160_thumb.jpeg"
+
+# --- LIFE ---
+family:
 
 # --- DEATH ---
 date_of_death: 2001-09-05
@@ -62,7 +65,7 @@ circumstances: >
     10, 2001, Rahi s mother intended visit him the night before his execution.
     But it did not happen and, according to her relatives, she had no
     visitation with her son for two months.
-event_context: null
+event_context: "2001 execution"
 responsible_forces: null
 
 # --- VERIFICATION ---

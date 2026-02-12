@@ -1,12 +1,20 @@
 id: zare-behnam-2008
 name_latin: "Behnam Zare'"
 name_farsi: "بهنام زارع"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1990-01-01"
+place_of_birth: "Dastjerd village near Estahban, Fars province"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/41633_thumb.jpeg"
+
+# --- LIFE ---
+education: "finished the first year of high school"
+family:
+quotes:
+  - "I was afraid and I ran away [from the scene] and went to my father and told him what had happened. He took me to the police."
+  - "I had a state-assigned lawyer who took my fingerprints and left; I never saw him again."
+  - "I was very quiet in our neighborhood. Nobody could believe that I committed this act. I still can t believe I have killed someone. I hope to see the family [of the victim] and ask them to pardon me."
 
 # --- DEATH ---
 date_of_death: 2008-08-26
@@ -86,8 +94,7 @@ circumstances: >
     of Criminal Court of Fars Province condemned Mr. Behnam Zare to death on
     November 13, 2005. Branch 33 of the
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Criminal Court of Fars Province"
 # --- VERIFICATION ---
 status: unverified
 sources:

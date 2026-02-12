@@ -1,12 +1,19 @@
 id: khezr-sangar-sattar-2016
 name_latin: "Sangar Sattar Khezr"
 name_farsi: "سنگر ستار خضر"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1987-01-01"
+place_of_birth: "Erbil, Kurdistan"
+gender: male
+ethnicity: "Kurdish"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/85274_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "police officer"
+education: "college degree in Kurdish Literature"
+family:
+personality: "very polite, calm, sociable, and he was very popular"
+beliefs: "member of the Patriotic Union of Kurdistan"
 
 # --- DEATH ---
 date_of_death: 2016-12-20

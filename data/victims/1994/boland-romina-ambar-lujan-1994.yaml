@@ -2,11 +2,15 @@ id: boland-romina-ambar-lujan-1994
 name_latin: "Romina Ambar Lujan Boland"
 name_farsi: "رومینا امبر لوخان بولاند"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Buenos Aires, Argentina"
+gender: female
 ethnicity: null
 religion: "Judaism"
 photo: "https://www.iranrights.org/actorphotos/11804_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "student, bank receptionist, actress"
+education: "School of Economic Sciences"
 
 # --- DEATH ---
 date_of_death: 1994-07-18
@@ -85,7 +89,7 @@ circumstances: >
     the airport traced them to Foz de Iguazu in the Tri-Border Area, a loosely
     governed region bordering Argentina, Brazil, and Paraguay, that has become
     a danger point for terrorism. From the
-event_context: null
+event_context: "AMIA bombing"
 responsible_forces: null
 
 # --- VERIFICATION ---

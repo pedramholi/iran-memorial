@@ -1,12 +1,19 @@
 id: afshar-hamidreza-farokhnejad-1998
 name_latin: "Hamidreza Farokhnejad Afshar"
 name_farsi: "حمیدرضا فرخ‌نژاد افشار"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1975-10-23"
+place_of_birth: "Bam County, Kerman Provence"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "farmer"
+family:
+  marital_status: "single"
+  notes: "was planning to get married to his fianc"
+personality: "kind person who put others first and had a great passion for his family"
 
 # --- DEATH ---
 date_of_death: 1998-01-01
@@ -85,9 +92,8 @@ circumstances: >
     case in one session. No information is available on Mr. Farokhnejad Afshar
     s trial. Charges The charge brought against Mr. Farokhnejad Afshar is not
     known. The validity of the criminal charg
-event_context: null
-responsible_forces: null
-
+event_context: "1998"
+responsible_forces: "Khalili Komiteh"
 # --- VERIFICATION ---
 status: unverified
 sources:

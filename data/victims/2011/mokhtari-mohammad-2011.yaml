@@ -1,12 +1,22 @@
 id: mokhtari-mohammad-2011
 name_latin: "Mohammad Mokhtari"
 name_farsi: "محمد مختاری"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1989-09-10"
+place_of_birth: "Tehran"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/86365_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "Mining Engineering student"
+family:
+  notes: "son of Esma'il, grew up in a religious family with three brothers and a sister."
+personality: "described as courageous, happy, and curious"
+beliefs: "supported the Green Movement and rejected the election results"
+quotes:
+  - "O God, let me die standing up, for I am tired of living on my knees in humiliation."
+  - "Mohammad loved freedom and he loved life."
 
 # --- DEATH ---
 date_of_death: 2011-02-14
@@ -86,7 +96,7 @@ circumstances: >
     plainclothes agents brutally enforced this restriction. Individuals in
     civilian clothing, commonly referred to as plainclothes forces , are used
     in the Isla
-event_context: null
+event_context: "2009 presidential election"
 responsible_forces: null
 
 # --- VERIFICATION ---

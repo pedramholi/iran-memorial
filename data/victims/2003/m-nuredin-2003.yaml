@@ -3,7 +3,7 @@ name_latin: "Nuredin M."
 name_farsi: "نورالدین م."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -44,9 +44,8 @@ circumstances: >
     ruling. He was hanged, along with the other defendant of this case, in
     public at a square in Khoramabad on March 19, 2003 in the morning. No
     specific information is available about this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on March 19, 2003"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

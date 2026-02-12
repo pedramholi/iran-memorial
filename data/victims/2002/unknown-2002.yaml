@@ -1,12 +1,15 @@
 id: unknown-2002
 name_latin: "Unknown"
 name_farsi: "ناشناس"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1978-01-01"
+place_of_birth: "Ilam"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "unknown"
 
 # --- DEATH ---
 date_of_death: 2002-01-06

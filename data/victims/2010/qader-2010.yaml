@@ -1,9 +1,9 @@
 id: qader-2010
 name_latin: "Qader"
 name_farsi: "قادر"
-date_of_birth: null
+date_of_birth: "1978-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -43,9 +43,8 @@ circumstances: >
     General Public Prosecutor. The defendant’s request for pardon was rejected
     by the Provincial Pardon Commission, twice, and he was hanged in the yard
     of Esfahan Central Prison on April 11, 2010. Mr. Qader was 32 years old.
-event_context: null
-responsible_forces: null
-
+event_context: "2010 execution"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

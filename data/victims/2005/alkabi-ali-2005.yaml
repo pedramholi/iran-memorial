@@ -1,12 +1,15 @@
 id: alkabi-ali-2005
 name_latin: "Ali Alka’bi"
 name_farsi: "علی الکعبی"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1997-01-01"
+place_of_birth: "Khuzestan"
+gender: male
+ethnicity: "Arab"
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+family:
 
 # --- DEATH ---
 date_of_death: 2005-01-01
@@ -86,9 +89,8 @@ circumstances: >
     through various projects such as the Sugarcane Project; increasing
     marginalization as well as profound dissatisfaction among Khuzestan Arabs
     due
-event_context: null
-responsible_forces: null
-
+event_context: "protests in Khuzestan, April 15th to 24th, 2005"
+responsible_forces: "security and police forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

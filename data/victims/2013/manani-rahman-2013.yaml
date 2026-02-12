@@ -1,12 +1,21 @@
 id: manani-rahman-2013
 name_latin: "Rahman Manani"
 name_farsi: "رحمان منانی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1980-01-01"
+place_of_birth: "Tehran"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/85241_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "producer at Simaye Azadi"
+education: "finished his secondary education in Denmark"
+family:
+  children: 0
+  notes: "only child"
+quotes:
+  - "In 1982, I went to Turkiye with members of the Mojahedin. My mother joined me after three or four months, and we went to France together. I started my elementary education in Paris, in the Mojahedin school (Mesbah)."
 
 # --- DEATH ---
 date_of_death: 2013-09-01
@@ -87,8 +96,7 @@ circumstances: >
     was also bombed several times during the United States' war with Iraq in
     2003, inflicting casualt
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

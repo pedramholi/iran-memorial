@@ -1,12 +1,23 @@
 id: qaderi-soheila-2018
 name_latin: "Soheila Qaderi"
 name_farsi: "سهیلا قادری"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1972-04-27"
+place_of_birth: "Piranshahr County, West Azarbaijan Province"
+gender: female
+ethnicity: "Kurdish"
 religion: "Presumed Muslim (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/83892_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "teacher"
+education: "high school diploma"
+family:
+  marital_status: "married"
+  children: 2
+personality: "described as patriotic and very kind"
+beliefs: "member of the Kurdistan Democratic Party"
+quotes:
+  - "patriotic and very kind"
 
 # --- DEATH ---
 date_of_death: 2018-09-08
@@ -86,8 +97,7 @@ circumstances: >
     labeled the Democratic Party of Iranian Kurdistan (PDKI), the oldest and
     most influential Kurdish Party, the P
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Kurdistan Democratic Party"
 # --- VERIFICATION ---
 status: unverified
 sources:

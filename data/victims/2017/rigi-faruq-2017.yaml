@@ -1,12 +1,19 @@
 id: rigi-faruq-2017
 name_latin: "Faruq Rigi"
 name_farsi: "فاروق ریگی"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1995-01-01"
+place_of_birth: "Zahedan"
+gender: male
+ethnicity: "Baluch"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/85769_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "member of Jeish al-Adl organization"
+education: "high school diploma"
+family:
+  marital_status: "married"
+  children: 2
 
 # --- DEATH ---
 date_of_death: 2017-09-06
@@ -86,8 +93,7 @@ circumstances: >
     Islamic values, with defending Iran s adherents of Sunni Islam and the
     downfall of the Islamic Republic as two of its stated goals. (2) After ta
 event_context: null
-responsible_forces: null
-
+responsible_forces: "IRGC"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,22 @@
 id: saliavai-sediq-abdollah-ali-2016
 name_latin: "Sediq Abdollah Ali (Saliava'i)"
 name_farsi: "صدیق عبدالله علی (صالیاوایی)"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1974-01-01"
+place_of_birth: "Penjwin, Sulaymaniyah"
+gender: male
+ethnicity: "Kurdish"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/85824_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "retired forest ranger"
+education: "basic education"
+family:
+  marital_status: "married"
+  children: 5
+personality: "social and popular"
+quotes:
+  - "mediating between people"
 
 # --- DEATH ---
 date_of_death: 2016-04-13
@@ -86,8 +96,7 @@ circumstances: >
     success in inflicting damage to many of these little groups outside the
     country and on our borders. At the same time, various politic
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

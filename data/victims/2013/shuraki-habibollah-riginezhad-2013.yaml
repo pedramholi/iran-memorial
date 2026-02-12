@@ -2,11 +2,22 @@ id: shuraki-habibollah-riginezhad-2013
 name_latin: "Habibollah Riginezhad Shuraki"
 name_farsi: "حبیب‌‌الله ریگی‌نژاد شورکی"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Zahedan"
+gender: male
+ethnicity: "Baluch"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/75249_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "selling textiles"
+education: "middle-school education"
+family:
+  marital_status: "married"
+  children: 1
+  notes: "had a three-year-old daughter"
+quotes:
+  - "The tortures included the miracle bed (one of the most brutal forms of torture,) pulling off my toenails, electric shocks, lashing with a cable, and mental tortures."
+  - "In that situation, I had to accept everything they said to me. Being in a bad physical and mental condition, I agreed to say what they wanted me to in front of the camera. They would give me a text to memorize and repeat out loud in front of the camera."
 
 # --- DEATH ---
 date_of_death: 2013-10-26
@@ -85,9 +96,8 @@ circumstances: >
     Riginejad was also denied his rights as a prisoner at Zahedan Central
     Prison. He was transferred to solitary confinement on a number of
     occasions for various reasons such as staying in the prayer room of th
-event_context: null
-responsible_forces: null
-
+event_context: "October 26, 2013 execution"
+responsible_forces: "Ministry of Intelligence"
 # --- VERIFICATION ---
 status: unverified
 sources:

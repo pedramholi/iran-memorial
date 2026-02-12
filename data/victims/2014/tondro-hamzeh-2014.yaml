@@ -3,7 +3,7 @@ name_latin: "Hamzeh Tondro"
 name_farsi: "حمزه تندرو"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -41,8 +41,7 @@ circumstances: >
     hanged, along with three others, in public at Shahnaz Street in Bandar-e
     Abbas on March 8, 2014 at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "IRGC"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,15 @@
 id: hejazi-seyed-reza-2008
 name_latin: "Seyed Reza Hejazi"
 name_farsi: "سیدرضا حجازی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1988-01-01"
+place_of_birth: "Esfahan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/74925_thumb.jpeg"
+
+# --- LIFE ---
+family:
 
 # --- DEATH ---
 date_of_death: 2008-08-18
@@ -85,9 +88,8 @@ circumstances: >
     August 18, 2008 at 11 a.m. According to his attorney, he and his family
     were not informed. On the day of his execution at 8 a.m. when the attorney
     and the family of Mr. Hejazi went to the Esfahan Prison, the
-event_context: null
-responsible_forces: null
-
+event_context: "murder of an adolescent boy at Isargaran Park in Esfahan during a collective fight on September 19, 2003"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,20 @@
 id: hajian-yaser-2013
 name_latin: "Yaser Hajian"
 name_farsi: "یاسر حاجیان"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1979-01-01"
+place_of_birth: "Zanjan"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/85232_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "member of the Mojahedin Organization"
+education: "last year of high school"
+family:
+  notes: "father was sympathetic to the Mojahedin Khalq Organization of Iran and was executed in Tabriz in 1981."
+quotes:
+  - "I knew there was much injustice in Iran. Anti-human clerics are suppressing the people of Iran. Their rights are being violated. I thought I could join the (Liberation) Army as an Iranian and help overturn the Khomeini regime and restore freedom to Iran."
 
 # --- DEATH ---
 date_of_death: 2013-09-01
@@ -87,8 +95,7 @@ circumstances: >
     Organization of Iran was in Iraq, the Ashraf Base was repeatedly the
     subject of missile, air, and ground attacks b
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Reza Akhlaqi"
 name_farsi: "رضا اخلاقی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,9 +38,8 @@ circumstances: >
     13, 1997, the ruling was explained to him by the Execution Manager in the
     Guard Office and, having written his will and performed of the religious
     ceremony, he was hanged at Qasr prison (Tehran) before dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "1997 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

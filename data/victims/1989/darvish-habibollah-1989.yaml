@@ -3,7 +3,7 @@ name_latin: "Habibollah Darvish"
 name_farsi: "حبیب الله درویش"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -44,9 +44,8 @@ circumstances: >
     No information is available on Mr. Darvish’s defense. Judgment The court
     condemned Mr. Habibollah Darvish to death and he was hanged in Hamadan on
     March 1, 1989.
-event_context: null
-responsible_forces: null
-
+event_context: "1989 execution of drug traffickers"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

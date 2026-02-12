@@ -3,7 +3,7 @@ name_latin: "Hossein Mohammad Nahrudi"
 name_farsi: "حسین محمد نهرودی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -43,9 +43,8 @@ circumstances: >
     provided against the defendant. Defense No information is available on Mr.
     Mohammad Nahrudi’s defense. Judgment The court condemned Mr. Hossein
     Mohammad Nahrudi to death and he was hanged in Kerman on March 1, 1989.
-event_context: null
-responsible_forces: null
-
+event_context: "1989 execution for drug trafficking"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

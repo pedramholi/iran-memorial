@@ -3,10 +3,13 @@ name_latin: "Abbas Mahmudi"
 name_farsi: "عباس محمودی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "poultry farm worker"
 
 # --- DEATH ---
 date_of_death: 2000-01-01
@@ -27,7 +30,7 @@ circumstances: >
     information is available regarding Mr. Mahmudi's defense. Judgment Mr.
     Abbas Mahmudi was executed in public in the village of Shamasbi, near
     Ardebil, in June of 2000. The exact date of his execution is not known.
-event_context: null
+event_context: "execution in June 2000"
 responsible_forces: null
 
 # --- VERIFICATION ---

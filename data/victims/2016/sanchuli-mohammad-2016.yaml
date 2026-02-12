@@ -1,9 +1,9 @@
 id: sanchuli-mohammad-2016
 name_latin: "Mohammad Sanchuli"
 name_farsi: "محمد سنچولی"
-date_of_birth: null
+date_of_birth: "1999-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -46,9 +46,8 @@ circumstances: >
     Mohammad Sanchuli was hanged, along with two others, at the Zahedan
     Central Prison on April 26, 2016 at 7 a.m. No specific information is
     available about this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "2016 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

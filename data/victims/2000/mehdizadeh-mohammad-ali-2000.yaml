@@ -3,10 +3,13 @@ name_latin: "Mohammad Ali Mehdizadeh"
 name_farsi: "محمدعلی مهدی‌زاده"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "civil engineer"
 
 # --- DEATH ---
 date_of_death: 2000-01-01
@@ -44,9 +47,8 @@ circumstances: >
     Ali Mehdizadeh to death and the Supreme Court confirmed the ruling. He was
     hanged in Kerman in September of 2000. No specific information is
     available about this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "execution in September 2000"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

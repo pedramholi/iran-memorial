@@ -2,11 +2,19 @@ id: katehkordi-hadi-nuri-2002
 name_latin: "Hadi Nuri Katehkordi"
 name_farsi: "هادی نوری کته کردی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Tehran"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "engaged"
+  children: 0
+  notes: "fianc of a 19-year-old woman"
+quotes:
+  - "\"she gave me the knife and while we were arguing, she threw herself on the knife\""
 
 # --- DEATH ---
 date_of_death: 2002-08-21
@@ -86,9 +94,8 @@ circumstances: >
     defendant s guilt. In Shi a jurisprudence, however, qassameh is carried
     out in the first stage by the plaintiff to prove the charges against the
     defendant. Only where the plaintiff fore
-event_context: null
-responsible_forces: null
-
+event_context: "murder of his fianc"
+responsible_forces: "Criminal Court of Tehran"
 # --- VERIFICATION ---
 status: unverified
 sources:

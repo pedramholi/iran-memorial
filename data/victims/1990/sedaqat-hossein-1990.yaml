@@ -3,7 +3,7 @@ name_latin: "Hossein Sedaqat"
 name_farsi: "حسین صداقت"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -43,8 +43,7 @@ circumstances: >
     available on Mr Hossein Sedaqat's defense. Judgment Mr. Sedaqat was
     sentenced to death and executed in Borazjan.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

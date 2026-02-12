@@ -1,9 +1,9 @@
 id: rasul-2007
 name_latin: "Rasul"
 name_farsi: "رسول"
-date_of_birth: null
+date_of_birth: "1961-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
@@ -64,8 +64,7 @@ circumstances: >
     confirmed by Branch 33 of the Supreme Court. He was hanged in the Evin
     prison on January 3, 2007.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

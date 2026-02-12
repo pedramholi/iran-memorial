@@ -1,12 +1,20 @@
 id: rigi-abdolaziz-2001
 name_latin: "Abdolaziz Rigi"
 name_farsi: "عبدالعزیز ریگی"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1977-01-01"
+place_of_birth: "Zahedan"
+gender: male
+ethnicity: "Baluch"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/85339_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "businessman"
+education: "high school"
+family:
+  marital_status: "married"
+  notes: "third eldest child in a family of thirteen siblings"
+beliefs: "against the government"
 
 # --- DEATH ---
 date_of_death: 2001-01-01
@@ -86,8 +94,7 @@ circumstances: >
     the theory of state committed crimes. In some instances, these
     investigations ha
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

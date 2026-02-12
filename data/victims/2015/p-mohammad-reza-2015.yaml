@@ -3,7 +3,7 @@ name_latin: "Mohammad Reza P."
 name_farsi: "محمدرضا پ."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -36,8 +36,7 @@ circumstances: >
     public. Branch 11 of the Supreme Court confirmed the ruling. He was hanged
     in public in Shiraz on February 17, 2015.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

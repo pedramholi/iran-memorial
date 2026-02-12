@@ -1,12 +1,18 @@
 id: esfahani-hassan-cheraghalizadeh-2014
 name_latin: "Hassan Cheraghalizadeh Esfahani"
 name_farsi: "حسن چراغعلی‌زاده اصفهانی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1976-01-01"
+place_of_birth: "Kermanshah"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "shopkeeper"
+education: "elementary school"
+family:
+  children: 1
 
 # --- DEATH ---
 date_of_death: 2014-08-07
@@ -44,8 +50,7 @@ circumstances: >
     was executed in public at 10 AM on August 7, 2014 at Azadi square in
     Kermanshah.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Ministry of Justice"
 # --- VERIFICATION ---
 status: unverified
 sources:

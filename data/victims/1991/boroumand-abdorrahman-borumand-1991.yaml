@@ -1,12 +1,21 @@
 id: boroumand-abdorrahman-borumand-1991
 name_latin: "Abdorrahman Borumand (Boroumand)"
 name_farsi: "عبدالرحمن برومند"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1927-01-01"
+place_of_birth: "Esfahan"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/11006_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "lawyer"
+education: "high school diploma, law degree from University of Tehran, Ph.D. from University of Geneva"
+family:
+  marital_status: "married"
+  children: 4
+quotes:
+  - "insults are used by people who have nothing worthy to say."
 
 # --- DEATH ---
 date_of_death: 1991-04-18
@@ -85,9 +94,8 @@ circumstances: >
     as per the candidates demands. During the first day of the election,
     January 26, 1961, it was reported that the political police had prevented
     the workers from leaving the factories.
-event_context: null
-responsible_forces: null
-
+event_context: "1961 elections"
+responsible_forces: "SAVAK"
 # --- VERIFICATION ---
 status: unverified
 sources:

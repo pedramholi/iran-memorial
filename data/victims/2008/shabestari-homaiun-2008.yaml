@@ -1,12 +1,15 @@
 id: shabestari-homaiun-2008
 name_latin: "Homaiun Shabestari"
 name_farsi: "همایون شبستری"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1993-01-01"
+place_of_birth: "Kermanshah"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
 
 # --- DEATH ---
 date_of_death: 2008-10-01

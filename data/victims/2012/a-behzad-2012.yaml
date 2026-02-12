@@ -3,7 +3,7 @@ name_latin: "Behzad A."
 name_farsi: "بهزاد ع."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -41,7 +41,7 @@ circumstances: >
     Markazi Province sentenced Mr. Behzad A. to death. The verdict was
     approved by the Supreme Court. Mr. Behzad A. and two others were publicly
     hanged from a crane in Farahan Square in Arak County on November 14, 2012.
-event_context: null
+event_context: "2012 execution"
 responsible_forces: null
 
 # --- VERIFICATION ---

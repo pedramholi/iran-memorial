@@ -3,7 +3,7 @@ name_latin: "Mohammad Hassani"
 name_farsi: "محمد حسنی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -52,9 +52,8 @@ circumstances: >
     Mr. Mohammad Hassani to death and the ruling was confirmed by the Supreme
     Judiciary Council. He was hanged in public in Abhar on January 23, 1989 at
     4 pm.
-event_context: null
-responsible_forces: null
-
+event_context: "1989 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

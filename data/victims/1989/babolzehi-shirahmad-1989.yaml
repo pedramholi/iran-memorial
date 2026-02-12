@@ -3,7 +3,7 @@ name_latin: "Shirahmad Babolzehi"
 name_farsi: "شیر احمد بابل زهی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -59,9 +59,8 @@ circumstances: >
     The Islamic Revolutionary court of Mashhad condemned Mr. Shirahamad
     Babolzehi to death as a corruptor on earth. He was hanged in public on
     February 14, 1989.
-event_context: null
-responsible_forces: null
-
+event_context: "1989 execution"
+responsible_forces: "Islamic Revolutionary court"
 # --- VERIFICATION ---
 status: unverified
 sources:

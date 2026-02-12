@@ -1,12 +1,17 @@
 id: elyasi-sharareh-2018
 name_latin: "Sharareh Elyasi"
 name_farsi: "شراره الیاسی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1991-01-01"
+place_of_birth: "Bissaran, Sarvabad County, Kurdistan Province"
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+personality: "described as beautiful, cheerful, warm, kind, and fashion conscious"
+quotes:
+  - "I thought that I would not be given the death penalty because I was a woman."
 
 # --- DEATH ---
 date_of_death: 2018-11-13
@@ -87,8 +92,7 @@ circumstances: >
     The exact number of people convicted and executed based on trumped-up
     charges
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Sanandaj Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

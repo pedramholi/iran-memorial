@@ -3,7 +3,7 @@ name_latin: "Abdolmajid Forqan Jam"
 name_farsi: "عبدالمجید فرقان جام"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -64,9 +64,8 @@ circumstances: >
     December 7, 2004. ------------------------ * Mohammad Ghos Hassanzehi, Zia
     olhaq Kord Raji, Alireza Lavarzehi, Jom e Gorgij, Bidollah Gorgij, and Na
     im Qolje i
-event_context: null
-responsible_forces: null
-
+event_context: "2004 execution"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

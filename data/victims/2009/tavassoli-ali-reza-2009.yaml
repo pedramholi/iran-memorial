@@ -1,12 +1,15 @@
 id: tavassoli-ali-reza-2009
 name_latin: "Ali Reza Tavassoli"
 name_farsi: "علیرضا توسلی"
-date_of_birth: null
+date_of_birth: "1997-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/61064_thumb.jpeg"
+
+# --- LIFE ---
+family:
 
 # --- DEATH ---
 date_of_death: 2009-07-30
@@ -85,9 +88,8 @@ circumstances: >
     constitutional body charged with vetting candidates before elections take
     place and approving the results afterwards], requesting an annulment and
     calling for a new election. Before the Co
-event_context: null
-responsible_forces: null
-
+event_context: "2009 presidential election protests"
+responsible_forces: "IRGC"
 # --- VERIFICATION ---
 status: unverified
 sources:

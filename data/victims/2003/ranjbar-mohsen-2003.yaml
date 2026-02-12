@@ -3,10 +3,16 @@ name_latin: "Mohsen Ranjbar"
 name_farsi: "محسن رنجبر"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+quotes:
+  - "I had been arrested for robbery 20 days before the murder incident."
 
 # --- DEATH ---
 date_of_death: 2003-12-15
@@ -57,8 +63,7 @@ circumstances: >
     of judicial and security officials of the Esfahan province at Parvin
     Street in Esfahan on December 15, 2003.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Esfahan Criminal Investigators"
 # --- VERIFICATION ---
 status: unverified
 sources:

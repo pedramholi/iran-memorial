@@ -3,7 +3,7 @@ name_latin: "Rasul Mohammadi"
 name_farsi: "رسول محمدی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -39,9 +39,8 @@ circumstances: >
     available on Mr. Mohammadi s defense. Judgment Mr. Rasul Mohammadi was
     hanged, along with five others, in Orumieh Prison on June 8, 2015 at dawn.
     There is no information on the details of this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "2015 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -2,11 +2,19 @@ id: zamani-hojat-2006
 name_latin: "Hojat Zamani"
 name_farsi: "حجت زمانی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Haft Cheshmeh, Ilam County"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/83134_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "teacher"
+education: "elementary and high school education, Teacher Training College"
+family:
+  notes: "His two brothers, Khaz al and Fallah were killed in skirmishes with the Revolutionary Guards in 1998 and 1999."
+personality: "very sensitive man and would become upset and start crying at hearing or seeing bad news"
+beliefs: "joined the Mojahedeen Khalq Organization of Iran (MKO) in 1997-98"
 
 # --- DEATH ---
 date_of_death: 2006-02-07
@@ -86,9 +94,8 @@ circumstances: >
     Mr. Zamani was declared to be the statements of plaintiffs and witnesses .
     Defense In initial news disseminated right after the explosion in the
     Tehran Islamic Revolution Court
-event_context: null
-responsible_forces: null
-
+event_context: "bombing on June 2, 1998"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

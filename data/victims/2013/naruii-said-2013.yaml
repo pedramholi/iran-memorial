@@ -2,11 +2,17 @@ id: naruii-said-2013
 name_latin: "Sa'id Naruii"
 name_farsi: "سعید نارویی"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Zahedan, Sistan and Baluchistan"
+gender: male
+ethnicity: "Baluch"
 religion: "Islam (Sunni)"
 photo: null
+
+# --- LIFE ---
+occupation: "ordinary laborer"
+family:
+  marital_status: "single"
+personality: "intellectual committed to his Sunni faith"
 
 # --- DEATH ---
 date_of_death: 2013-10-26
@@ -85,9 +91,8 @@ circumstances: >
     rights of the defendants and asked for a special team to be sent to
     investigate the issue, to talk to the prisoners about their torture and to
     the families of the executed prisoners to find out why th
-event_context: null
-responsible_forces: null
-
+event_context: "October 25, 2013 armed attack by Jaish ul-Adl"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

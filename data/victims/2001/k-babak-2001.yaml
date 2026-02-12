@@ -1,12 +1,22 @@
 id: k-babak-2001
 name_latin: "Babak K."
 name_farsi: "بابک ک."
-date_of_birth: null
+date_of_birth: "1971-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/74500_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "servant in an air-conditioner producing company"
+family:
+  marital_status: "unmarried"
+  children: 0
+  notes: "family rejected him due to addiction and moral issues; did not approve his marriage to the girl he loved"
+quotes:
+  - "I don t know why I committed such a crime."
+  - "I was rejected everywhere. Most of the time, I took pills and was not in a normal condition."
 
 # --- DEATH ---
 date_of_death: 2001-11-14
@@ -72,9 +82,8 @@ circumstances: >
     condemned Mr. Babak K. to death (two counts) for murder and harassment.
     The Supreme Court confirmed the ruling. He was executed in Qasr Prison on
     November 14, 2001.
-event_context: null
-responsible_forces: null
-
+event_context: "disappearance and murder of his niece-in-law on April 3, 2001"
+responsible_forces: "Police Station 110"
 # --- VERIFICATION ---
 status: unverified
 sources:

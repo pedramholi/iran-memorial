@@ -2,9 +2,9 @@ id: parizin-rostam-2015
 name_latin: "Rostam Parizin"
 name_farsi: "رستم پریزین"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Fars"
+gender: male
+ethnicity: "Kurdish"
 religion: "Presumed Muslim"
 photo: null
 
@@ -42,8 +42,7 @@ circumstances: >
     Darya Prison yard in Orumieh on October 12, 2015 at dawn. No specific
     information is available about his execution.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

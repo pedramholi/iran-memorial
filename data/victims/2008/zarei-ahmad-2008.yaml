@@ -1,9 +1,9 @@
 id: zarei-ahmad-2008
 name_latin: "Ahmad Zare'i"
 name_farsi: "احمد زارعی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1992-01-01"
+place_of_birth: "Sanandaj"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -46,9 +46,8 @@ circumstances: >
     committed. No information is available on his defense. Judgment Mr. Ahmad
     Zare i was hanged in the Sanandaj Central Prison on December 25, 2008. His
     body was given to his family.
-event_context: null
-responsible_forces: null
-
+event_context: "murder case in 2002"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

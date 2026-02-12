@@ -3,7 +3,7 @@ name_latin: "Hamid N."
 name_farsi: "حمید ن."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -40,9 +40,8 @@ circumstances: >
     General Court of Mahshahr condemned Mr. Hamid N. to death and Branch 31 of
     the Supreme Court confirmed the ruling. He was hanged in Mahshahr in 2003.
     No specific information is available about this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "execution in 2003"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,22 @@
 id: kordi-khaled-2016
 name_latin: "Khaled Kordi"
 name_farsi: "خالد کردی"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1998-10-01"
+place_of_birth: "Khash, Sistan Va Baluchestan"
+gender: male
+ethnicity: "Baluch"
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/75077_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "laborer"
+education: "seventh grade"
+family:
+  notes: "worked with his father, who transported construction materials using a Nissan truck"
+personality: "healthy and shy young man"
+quotes:
+  - "\"the narcotics recovered from the bags that he and his friends were carrying did not belong to them.\""
+  - "\"An unknown person approached them in a square in Kerman and offered to arrange for free car travel to Isfahan in exchange for transporting the bags.\""
 
 # --- DEATH ---
 date_of_death: 2016-01-25
@@ -84,9 +94,8 @@ circumstances: >
     in order to give the family time to obtain results. A new Public
     Prosecutor was assigned, however, and the ruling was ultimately executed
     (ABF interview.)
-event_context: null
-responsible_forces: null
-
+event_context: "arrested at a checkpoint outside of Kerman while on their way to Isfahan"
+responsible_forces: "police"
 # --- VERIFICATION ---
 status: unverified
 sources:

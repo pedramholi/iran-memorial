@@ -1,12 +1,20 @@
 id: hosseini-reza-2016
 name_latin: "Reza Hosseini"
 name_farsi: "رضا حسینی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1982-01-01"
+place_of_birth: "Kuhdasht, Lorestan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/74843_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "professional"
+family:
+  marital_status: "married"
+quotes:
+  - "If you are innocent, you will go to heaven after the execution!"
+  - "My charge was not proven, even to myself, during my detention period. In which of God s books is stated that issuing a death sentence for a young man including interrogation and court session should take only 2 minutes and then the judge issues a death sentence against a young man in cold blood?"
 
 # --- DEATH ---
 date_of_death: 2016-05-03
@@ -85,9 +93,8 @@ circumstances: >
     the Tehran Prison (Feshafuyeh) to Qezelhesar Prison to be executed. He was
     not allowed to visit his wife and family, who had travelled a long way,
     for a last time. According to
-event_context: null
-responsible_forces: null
-
+event_context: "2016 execution"
+responsible_forces: "Islamic Revolutionary Court of Tehran"
 # --- VERIFICATION ---
 status: unverified
 sources:

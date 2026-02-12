@@ -1,12 +1,22 @@
 id: dameni-ebrahim-2002
 name_latin: "Ebrahim Dameni"
 name_farsi: "ابراهیم دامنی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1950-10-29"
+place_of_birth: "Tando Allahyar, Sindh Province, Pakistan"
+gender: male
 ethnicity: null
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/86265_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "teacher"
+family:
+  marital_status: "married"
+  children: 16
+  notes: "father of 16 children"
+quotes:
+  - "My execution will be your shame because people will realize that instead of answering my arguments, you chose to kill me."
+  - "I said it right there, inside [the prison]. The man who was interrogating me in Iranshahr, after hearing my argument, was astonished and asked, 'If what you say is true, then you have completely destroyed us! I replied, 'Well, I don't know if I have destroyed you or if you have been destroyed."
 
 # --- DEATH ---
 date_of_death: 2002-07-16
@@ -85,9 +95,8 @@ circumstances: >
     response, he firmly stated: "My execution will be your shame because
     people will realize that instead of answering my argument, you chose to
     kill me." During this detention, Mr. Dameni was accused
-event_context: null
-responsible_forces: null
-
+event_context: "1980s religious activities and ideological speeches in defense of the Sunni faith"
+responsible_forces: "security officials"
 # --- VERIFICATION ---
 status: unverified
 sources:

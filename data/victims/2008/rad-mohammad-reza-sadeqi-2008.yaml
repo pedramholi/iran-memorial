@@ -3,7 +3,7 @@ name_latin: "Mohammad Reza Sadeqi Rad"
 name_farsi: "محمدرضا صادقی‌راد"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -44,9 +44,8 @@ circumstances: >
     by Branch 37 of the Supreme Court, as well as the head of the Judiciary.
     Mr. Sadeqi Rad was publicly hanged, along with another individual, in the
     Latak Constabulary of Tonokabon on Thursday, January 8, 2007.
-event_context: null
-responsible_forces: null
-
+event_context: "2007 execution"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

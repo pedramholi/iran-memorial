@@ -3,7 +3,7 @@ name_latin: "Alireza Salahshur"
 name_farsi: "علی‌رضا سلحشور"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -68,9 +68,8 @@ circumstances: >
     32. On March 5, 2006, Mr. Slahshur was hanged in public in the village of
     Ziar s main square. The other defendants in the case were also sentenced
     to flogging in public, exile, and prison.
-event_context: null
-responsible_forces: null
-
+event_context: "July 2, 2004"
+responsible_forces: "Esfahan s Dashti Region Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

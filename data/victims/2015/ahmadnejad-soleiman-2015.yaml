@@ -3,7 +3,7 @@ name_latin: "Soleiman Ahmadnejad"
 name_farsi: "سلیمان احمدنژاد"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/73189_thumb.jpeg"
@@ -45,9 +45,8 @@ circumstances: >
     available on Mr. Ahmadnejad's defense. Judgment The judiciary condemned
     Mr. Soleiman Ahmadnejad to death. He was hanged in the Esfahan Central
     Prison on January 21, 2015.
-event_context: null
-responsible_forces: null
-
+event_context: "2015 execution"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

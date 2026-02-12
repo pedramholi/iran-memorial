@@ -1,12 +1,23 @@
 id: layeqpur-behnam-2022
 name_latin: "Behnam Layeqpur"
 name_farsi: "بهنام لایق‌پور"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1986-01-28"
+place_of_birth: "Rasht"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/86788_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "tattoo and piercing studio owner"
+family:
+  notes: "youngest child in his family, had one sister and one brother, lost his father to illness"
+personality: "kind, hardworking, nature-loving"
+beliefs: "took part in protest gatherings in Rasht"
+quotes:
+  - "Out of respect for the people of Iran, we will not be engaging in any activities until further notice."
+  - "What do you think our daughters are? Why do you treat them this way? Why have you created a situation where so many girls are afraid to be female in just these past two days? Why have you made so many people think of leaving country?"
+  - "This life we are living is not what life truly means. Life is beyond this. Yesterday, I saw a 12-year-old child and a 70-year-old in the crowd. That speaks volumes. #Honor."
 
 # --- DEATH ---
 date_of_death: 2022-09-21
@@ -85,7 +96,7 @@ circumstances: >
     them at close range, and in the back. Security forces have targeted faces
     with pellets, causing hundreds of protesters to lose their eyesight, and
     according to some reports women s genitalia.
-event_context: null
+event_context: "2022 (Mahsa Amini) Protest background"
 responsible_forces: null
 
 # --- VERIFICATION ---

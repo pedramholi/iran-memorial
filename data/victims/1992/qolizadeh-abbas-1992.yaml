@@ -3,10 +3,17 @@ name_latin: "Abbas Qolizadeh"
 name_farsi: "عباس قلی‌زاده"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/85304_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "major in the Imperial Iranian Army"
+family:
+  marital_status: "married"
+  children: 4
+beliefs: "member of the Derafsh-e Kaviani Organization"
 
 # --- DEATH ---
 date_of_death: 1992-12-27
@@ -87,8 +94,7 @@ circumstances: >
     there has not been much published, and local authorities have not issued
     arres
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Quds Force"
 # --- VERIFICATION ---
 status: unverified
 sources:

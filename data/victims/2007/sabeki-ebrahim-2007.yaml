@@ -3,7 +3,7 @@ name_latin: "Ebrahim Sabeki"
 name_farsi: "ابراهیم سابکی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -42,9 +42,8 @@ circumstances: >
     by the Supreme Court. According to the Public and Revolutionary Prosecutor
     of Kerman province, he did not benefit from the pardon law due to having a
     record of previous convictionSabeki
-event_context: null
-responsible_forces: null
-
+event_context: "2007 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

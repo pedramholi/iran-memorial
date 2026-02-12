@@ -1,12 +1,22 @@
 id: rahimi-behruz-rebin-2021
 name_latin: "Behruz (Rebin) Rahimi"
 name_farsi: "بهروز (ریبین) رحیمی"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1973-09-09"
+place_of_birth: "Sanandaj, Kurdistan Province"
+gender: male
+ethnicity: "Kurdish"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/85809_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "security guard"
+education: "middle school"
+family:
+  marital_status: "married"
+  notes: "father of one wife, Zoleikha Naseri"
+beliefs: "supporter of PJAK"
+quotes:
+  - "As mountaineers and nature lovers, it was the first time we saw a Kurdish political organization that also had programs for nature and the ecosystem. They also had programs for women, for youth, for everything. Programs that were very different from what we had heard before. My family has a background of supporting the PDKI [Democratic Party of Iranian Kurdistan]. Nine of my close relatives lost their lives for their support of this party. However, we developed an interest in this party by observing the young guerrillas during mountaineering, particularly the female guerrillas. In contrast to the male speakers in other previous political parties, the women in this group confidently expressed their opinions on a range of political and social issues. Their ability to engage in discourse on these topics was a novel experience for us. In addition, their behavior in the mountains and their articulation of organizational goals and programs contributed to our interest in them."
 
 # --- DEATH ---
 date_of_death: 2021-07-14
@@ -86,9 +96,8 @@ circumstances: >
     cooperation with the Kurdistan Free Life Party (PJAK). (ABC Interview,
     April 18, 2023) Ms. Naseri continued her activities publicly by
     participating in media programs, but M
-event_context: null
-responsible_forces: null
-
+event_context: "fled to Iraqi Kurdistan in 2012"
+responsible_forces: "Iranian government"
 # --- VERIFICATION ---
 status: unverified
 sources:

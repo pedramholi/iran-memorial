@@ -3,7 +3,7 @@ name_latin: "Hani Hashush"
 name_farsi: "هانی هشوش"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -37,9 +37,8 @@ circumstances: >
     presence of judges and a representative of Sentence Enforcement of the
     Islamic Revolutionary Court of Ahvaz at Vaismolasani in Ahvaz on January
     23, 2002.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on January 23, 2002"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

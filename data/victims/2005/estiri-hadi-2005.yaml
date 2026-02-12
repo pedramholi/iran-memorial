@@ -3,7 +3,7 @@ name_latin: "Hadi Estiri"
 name_farsi: "هادی استیری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -39,9 +39,8 @@ circumstances: >
     Sabzevar talked about the Islamic punishments. Mr. Hadi Estiri was
     executed in public in the sports stadium of Sabzevar at 6:30 am on Tuesday
     December 20, 2005 at the presence of some officials.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on December 20, 2005"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

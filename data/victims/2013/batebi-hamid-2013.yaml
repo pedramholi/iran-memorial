@@ -1,12 +1,18 @@
 id: batebi-hamid-2013
 name_latin: "Hamid Batebi"
 name_farsi: "حمید باطبی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1963-01-01"
+place_of_birth: "Firouzkooh, Tehran Province"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/85222_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "member of the Mojahedin e Khalq Organization of Iran, commander of the Air Force of the National Liberation Army of Iran"
+education: "high school"
+personality: "dignity, patience, and tolerance"
+beliefs: "member of the Mojahedin e Khalq Organization of Iran"
 
 # --- DEATH ---
 date_of_death: 2013-09-01
@@ -87,8 +93,7 @@ circumstances: >
     2003, inflicting casualties, property, and financial damage. After the
     International Security As
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

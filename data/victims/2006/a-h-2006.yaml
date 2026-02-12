@@ -2,11 +2,14 @@ id: a-h-2006
 name_latin: "H. A."
 name_farsi: "ح. الف."
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Kouhdasht, Lorestan Province"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "welder"
 
 # --- DEATH ---
 date_of_death: 2006-12-28
@@ -54,8 +57,7 @@ circumstances: >
     details of Mr. H. A. s defense. Judgment Mr. H. A. was sentenced to death.
     He was hanged in Bandar Abbas Central Prison on December 28, 2006.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "police force"
 # --- VERIFICATION ---
 status: unverified
 sources:

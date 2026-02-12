@@ -3,7 +3,7 @@ name_latin: "Ayat Kh."
 name_farsi: "آیت خ."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -42,9 +42,8 @@ circumstances: >
     Shiraz sentenced Mr. Ayat Kh. to death. The verdict was approved by Branch
     37 of the Supreme Court as well as the head of the Judiciary. Mr. Ayat Kh.
     was hanged in the Adelabad Prison of Shiraz on February 15, 2006.
-event_context: null
-responsible_forces: null
-
+event_context: "2006 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

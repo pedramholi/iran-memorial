@@ -1,12 +1,20 @@
 id: mofidi-mahbubeh-2018
 name_latin: "Mahbubeh Mofidi"
 name_farsi: "محبوبه مفیدی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1997-05-18"
+place_of_birth: "Noshahr, Mazandaran Province"
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  notes: "married at 13 years old"
+quotes:
+  - "My husband and I had a good life together."
+  - "A short while after marrying my husband, I fell in love with his brother and this love was so strong that it took us to where we decided to kill my husband and get married. Therefore, we made plans and my husband s brother placed rice pills inside Amoxicillin and Mefenamic acid capsules and gave them to me. I then had my husband take the capsules, telling him that they were effective in helping us have children more quickly; and that resulted in his death."
 
 # --- DEATH ---
 date_of_death: 2018-01-30
@@ -86,9 +94,8 @@ circumstances: >
     brother-in-law who had said that the pills are beneficial to your husband
     s treatment and had given them to her spouse on that basis. (Iran Human
     Right Organization
-event_context: null
-responsible_forces: null
-
+event_context: "murder committed on December 17, 2013"
+responsible_forces: "Criminal Investigations Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

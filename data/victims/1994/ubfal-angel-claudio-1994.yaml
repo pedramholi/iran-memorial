@@ -2,11 +2,19 @@ id: ubfal-angel-claudio-1994
 name_latin: "Angel Claudio Ubfal"
 name_farsi: "انهل کلودیو اوبفال"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Buenos Aires, Argentina"
+gender: male
 ethnicity: null
 religion: "Judaism"
 photo: "https://www.iranrights.org/actorphotos/11979_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "head of AMIA's Burial Service"
+family:
+  marital_status: "married"
+quotes:
+  - "as [Claudio] would say, there is no time for hesitation because death can touch us any time."
+  - "He loved every minute of life."
 
 # --- DEATH ---
 date_of_death: 1994-07-18
@@ -85,9 +93,8 @@ circumstances: >
     a danger point for terrorism. From the evidence gathered, two Iranian
     diplomats in Buenos Aires actively assisted Hezbollah. Mohsen Rabbani, who
     was in charge of the operation, was Iran s new
-event_context: null
-responsible_forces: null
-
+event_context: "AMIA bombing on July 18, 1994"
+responsible_forces: "Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

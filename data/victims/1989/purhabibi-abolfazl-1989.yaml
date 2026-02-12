@@ -3,10 +3,15 @@ name_latin: "Abolfazl Purhabibi"
 name_farsi: "ابوالفضل پورحبیبی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "sympathizer of the Tudeh Party"
+quotes:
+  - "Our children lived in most difficult conditions. Visits were limited to 10 minutes behind a glass divider through a telephone every two weeks. During the past seven years we witnessed that they were denied access to anything that would have allowed them to establish contact outside their prisons' walls."
 
 # --- DEATH ---
 date_of_death: 1989-03-28
@@ -81,9 +86,8 @@ circumstances: >
     available about the defendant’s execution. According to the book The Tudeh
     Martyrs , Abolfazl Purhabib was executed by a firing squad during the mass
     killing of political prisoners in the Evin prison on March 28, 1989.
-event_context: null
-responsible_forces: null
-
+event_context: "mass killings of political prisoners in 1988"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

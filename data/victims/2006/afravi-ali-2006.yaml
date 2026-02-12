@@ -1,12 +1,22 @@
 id: afravi-ali-2006
 name_latin: "Ali Afravi"
 name_farsi: "علی عفراوی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1988-01-01"
+place_of_birth: "Ahvaz"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/72423_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "journalist"
+family:
+  marital_status: "single"
+  children: 0
+personality: "intelligent young man"
+beliefs: "participated in protests and demonstrations in 2005"
+quotes:
+  - "He had written a letter to UNESCO under that same name."
 
 # --- DEATH ---
 date_of_death: 2006-03-01
@@ -85,9 +95,8 @@ circumstances: >
     contradictory, statements, political and judicial authorities imputed
     responsibility to groups opposing [the Islamic Republic], including, Those
     loyal to the previous regime and residing in England; F
-event_context: null
-responsible_forces: null
-
+event_context: "2005 Ahvaz bombings"
+responsible_forces: "IRGC"
 # --- VERIFICATION ---
 status: unverified
 sources:

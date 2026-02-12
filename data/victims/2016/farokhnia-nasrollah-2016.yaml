@@ -2,11 +2,15 @@ id: farokhnia-nasrollah-2016
 name_latin: "Nasrollah Farokhnia"
 name_farsi: "نصرالله فرخ‌نیا"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Chalus"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/82443_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  notes: "child of Ali Akbar"
 
 # --- DEATH ---
 date_of_death: 2016-05-31

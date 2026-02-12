@@ -3,7 +3,7 @@ name_latin: "Aligol Vatuki"
 name_farsi: "علی گل وتوکی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -53,9 +53,8 @@ circumstances: >
     against the defendant. Defence No information is available on Mr. Ali
     Aligol Vatuki's defence. Judgment Based on the court's ruling, Mr. Aligol
     Vatuki was hanged in Kerman.
-event_context: null
-responsible_forces: null
-
+event_context: "1989 law imposing mandatory death sentences on drug traffickers"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

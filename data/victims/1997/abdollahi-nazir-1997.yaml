@@ -3,7 +3,7 @@ name_latin: "Nazir Abdollahi"
 name_farsi: "نظیر عبدالهی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -41,8 +41,7 @@ circumstances: >
     Nazir Abdollahi was executed in Shiraz. The report does not contain any
     information regarding the ruling and date of the execution.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "security forces in Fars province"
 # --- VERIFICATION ---
 status: unverified
 sources:

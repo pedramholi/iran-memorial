@@ -3,7 +3,7 @@ name_latin: "Abdollah Yargaza'i"
 name_farsi: "عبدالله یارگزائی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -62,9 +62,8 @@ circumstances: >
     is available on Mr. Yargaza’i’s defense. Judgment The Islamic
     Revolutionary court of Zahedan condemned Mr. Abdollah Yargaza’i to death
     as a corruptor on earth. He was hanged in public on February 14, 1989.
-event_context: null
-responsible_forces: null
-
+event_context: "1989 execution"
+responsible_forces: "Islamic Revolutionary court"
 # --- VERIFICATION ---
 status: unverified
 sources:

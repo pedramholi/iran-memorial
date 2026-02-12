@@ -3,7 +3,7 @@ name_latin: "A. Bameri"
 name_farsi: "الف. بامری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -40,9 +40,8 @@ circumstances: >
     to death by hanging (maximum penalty for murder, according to Shari a).
     This sentence was approved by the Supreme Court. Mr. Bameri was executed
     in Kerman Prison, on the morning of December 16, 2015.
-event_context: null
-responsible_forces: null
-
+event_context: "2015"
+responsible_forces: "Provincial Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

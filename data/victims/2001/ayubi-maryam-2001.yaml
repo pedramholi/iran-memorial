@@ -3,10 +3,15 @@ name_latin: "Maryam Ayubi"
 name_farsi: "مریم ایوبی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/842_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  notes: "husband was Seyed Ziaoddin Tabataba'i"
 
 # --- DEATH ---
 date_of_death: 2001-07-11
@@ -70,9 +75,8 @@ circumstances: >
     In the unlikely event that she manages to dig herself free before she is
     killed by the stones, Mrs. Ayubi will then start her fifteen-year
     sentence.
-event_context: null
-responsible_forces: null
-
+event_context: "2001 stoning execution"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

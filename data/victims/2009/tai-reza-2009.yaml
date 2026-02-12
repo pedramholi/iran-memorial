@@ -1,12 +1,16 @@
 id: tai-reza-2009
 name_latin: "Reza Ta'i"
 name_farsi: "رضا طایی"
-date_of_birth: null
+date_of_birth: "1987-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/61076_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "university student"
+family:
 
 # --- DEATH ---
 date_of_death: 2009-11-13
@@ -85,9 +89,8 @@ circumstances: >
     move freely about, violently beating protesters, including when the police
     are present. Following the post-election demonstrations of June 2009,
     pictures of some plainclothes agents were posted on internet websi
-event_context: null
-responsible_forces: null
-
+event_context: "2009 presidential election protests"
+responsible_forces: "police"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -2,11 +2,22 @@ id: mohammadi-kiumars-2007
 name_latin: "Kiumars Mohammadi"
 name_farsi: "کیومرث محمدی"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Sanandaj"
+gender: male
+ethnicity: "Kurd"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/73183_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "tile layer"
+education: "elementary school"
+family:
+  marital_status: "married"
+  children: 1
+personality: "funny and fearless"
+beliefs: "secular"
+quotes:
+  - "I had spent four or five extremely difficult and indescribable days at the Information detention center and was afraid they would take me back there again."
 
 # --- DEATH ---
 date_of_death: 2007-10-10
@@ -86,8 +97,7 @@ circumstances: >
     to the Kurdistan Province Judiciary s Office of Public Relations, Mr.
     Mohammadi was accused of killing a member of
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Information Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

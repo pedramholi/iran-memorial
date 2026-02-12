@@ -1,9 +1,9 @@
 id: j-behnam-2010
 name_latin: "Behnam J."
 name_farsi: "بهنام ج."
-date_of_birth: null
+date_of_birth: "1978-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -44,9 +44,8 @@ circumstances: >
     defendant’s requests for pardon were denied twice, he was hanged in the
     Esfahan Central prison yard on July 31, 2010. Mr. Behnam J. was 32 years
     old.
-event_context: null
-responsible_forces: null
-
+event_context: "2010 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

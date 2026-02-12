@@ -2,11 +2,16 @@ id: esmaili-adnan-2004
 name_latin: "Adnan Esma'ili"
 name_farsi: "عدنان اسماعیلی"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Hajij Village near Paveh, Kermanshah"
+gender: male
+ethnicity: "Kurdish"
 religion: "Unknown"
 photo: "https://www.iranrights.org/actorphotos/74278_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "member of the Health Department of the Democratic Party of Iranian Kurdistan"
+family:
+  marital_status: "single"
 
 # --- DEATH ---
 date_of_death: 2004-01-01
@@ -86,8 +91,7 @@ circumstances: >
     in the absence of the basic guarantees of a fair trial. Evidence of guilt
     The report of this execution does not cont
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Movement of Iraqi Kurdistan"
 # --- VERIFICATION ---
 status: unverified
 sources:

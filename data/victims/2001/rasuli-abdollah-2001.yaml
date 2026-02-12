@@ -1,12 +1,20 @@
 id: rasuli-abdollah-2001
 name_latin: "Abdollah Rasuli"
 name_farsi: "عبدالله رسولی"
-date_of_birth: null
+date_of_birth: "1970-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/73907_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "engineer"
+family:
+  marital_status: "married"
+  notes: "suffocated his wife"
+quotes:
+  - "he explained his motivation for murdering his wife as her thick makeup."
 
 # --- DEATH ---
 date_of_death: 2001-08-15

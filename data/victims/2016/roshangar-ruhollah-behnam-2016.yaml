@@ -3,10 +3,15 @@ name_latin: "Ruhollah (Behnam) Roshangar"
 name_farsi: "روح‌الله (بهنام) روشنگر"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  children: 2
 
 # --- DEATH ---
 date_of_death: 2016-05-24
@@ -51,9 +56,8 @@ circumstances: >
     in the morning of May 24, 2016. His body is buried in Behesht-e Zahra
     cemetery in Tehran. (ABC s interview) ------------------------ *Gholamreza
     Ahmadi, Mika il Shahbazi, MohammadKia Kiamehr
-event_context: null
-responsible_forces: null
-
+event_context: "2016 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,9 +1,9 @@
 id: alai-mahmud-2011
 name_latin: "Mahmud A'la'i"
 name_farsi: "محمود اعلایی"
-date_of_birth: null
+date_of_birth: "1987-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -42,8 +42,7 @@ circumstances: >
     Office. He was hanged at the Khomeinishahr prison yard in Esfahan on March
     2, 2011. Mr. Mahmud A la i was 24 years old.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

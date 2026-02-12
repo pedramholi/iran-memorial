@@ -1,12 +1,16 @@
 id: tahmasbi-salar-2009
 name_latin: "Salar Tahmasbi"
 name_farsi: "سالار طهماسبی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1982-01-01"
+place_of_birth: "Rasht"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "Business Management student"
+family:
 
 # --- DEATH ---
 date_of_death: 2009-06-20
@@ -85,9 +89,8 @@ circumstances: >
     and protests. Armed with sticks and clubs, and sometimes with chains,
     knives, batons, or firearms, they emerge when the state decides to
     suppress dissent. These plainclothes forces m
-event_context: null
-responsible_forces: null
-
+event_context: "2009 presidential election protests"
+responsible_forces: "Basij"
 # --- VERIFICATION ---
 status: unverified
 sources:

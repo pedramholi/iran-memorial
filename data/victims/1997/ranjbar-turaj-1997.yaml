@@ -3,10 +3,14 @@ name_latin: "Turaj Ranjbar"
 name_farsi: "تورج رنجبر"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "[the defendant] was acquainted with a person… and went on business with him in order to purchase US dollars."
 
 # --- DEATH ---
 date_of_death: 1997-04-16
@@ -40,9 +44,8 @@ circumstances: >
     Judgment The court condemned Mr. Turaj Ranjbar to death and, after the
     ruling was confirmed by the Supreme Court, he was executed at Qasr prison
     (Tehran) on April 16, 1997.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on April 16, 1997"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

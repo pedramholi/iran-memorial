@@ -1,12 +1,20 @@
 id: sharahi-abolfazl-chazani-2018
 name_latin: "Abolfazl Chazani Sharahi"
 name_farsi: "ابوالفضل چزانی شراهی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1999-01-16"
+place_of_birth: "Qom"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/82426_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  notes: "child of Asghar and Simin, had four brothers"
+personality: "compassionate child, with a lot of love; very determined and sociable demeanor"
+beliefs: "religious, committed to religious practice"
+quotes:
+  - "Mum, don t be scarred. Nothing will happen to me."
 
 # --- DEATH ---
 date_of_death: 2018-06-27
@@ -85,9 +93,8 @@ circumstances: >
     validity of the criminal charges brought against this defendant cannot be
     ascertained in the absence of the basic guarantees of a fair trial.
     Evidence of guilt Mr. Chazani s statements at various phases of
-event_context: null
-responsible_forces: null
-
+event_context: "murder that occurred in a street fight in Qom"
+responsible_forces: "police"
 # --- VERIFICATION ---
 status: unverified
 sources:

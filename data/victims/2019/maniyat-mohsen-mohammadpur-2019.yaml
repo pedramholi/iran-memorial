@@ -1,12 +1,22 @@
 id: maniyat-mohsen-mohammadpur-2019
 name_latin: "Mohsen Mohammadpur Man'iyat"
 name_farsi: "محسن محمد‌پور منعیات"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "2002-08-18"
+place_of_birth: "Khorramshahr"
+gender: male
+ethnicity: "Arab"
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/83531_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "student"
+family:
+  marital_status: "single"
+  children: 0
+  notes: "second child of a five-member family"
+personality: "happy and energetic"
+quotes:
+  - "I would also collect and sell recyclable trash in order to pay for my own education."
 
 # --- DEATH ---
 date_of_death: 2019-01-01
@@ -85,9 +95,8 @@ circumstances: >
     security forces. On May 31, 2020, the Interior Minister declared the
     number of people killed in the November protests to have been between 200
     and 225, 20 percent of whom were shot by non-
-event_context: null
-responsible_forces: null
-
+event_context: "November 2019 protests"
+responsible_forces: "Iranian government"
 # --- VERIFICATION ---
 status: unverified
 sources:

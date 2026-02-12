@@ -3,10 +3,15 @@ name_latin: "Behnam Nuri"
 name_farsi: "بهنام نوری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/74042_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "member of a purse-napping gang"
+family:
+  notes: "son of Ali"
 
 # --- DEATH ---
 date_of_death: 2002-04-25
@@ -54,8 +59,7 @@ circumstances: >
     confirmed the ruling. Mr. Nuri was hanged in public at Azadi Square (Bus
     terminal) in Tehran on April 25, 2002 at 6:45 a.m.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Intelligence Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

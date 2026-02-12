@@ -2,8 +2,8 @@ id: rostami-khosro-2015
 name_latin: "Khosro Rostami"
 name_farsi: "خسرو رستمی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Mishi, Hormozgan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -41,9 +41,8 @@ circumstances: >
     presented against Mr. Rostami. Defense No information is available on Mr.
     Rostami's defense. Judgment Mr. Khosro Rostami was hanged at the Minab
     Prison yard on January 24, 2015.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on January 24, 2015"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

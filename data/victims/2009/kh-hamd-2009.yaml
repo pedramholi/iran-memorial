@@ -3,7 +3,7 @@ name_latin: "Hamd Kh."
 name_farsi: "حمد خ."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,9 +38,8 @@ circumstances: >
     Kh. s defense. Judgment Mr. Hamd Kh was publicly executed in Javad-ol-A
     emmeh square in Ahvaz, on December 13, 2009. There is no information on
     the verdict leading to this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "2009 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

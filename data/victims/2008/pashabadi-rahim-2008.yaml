@@ -3,7 +3,7 @@ name_latin: "Rahim Pashabadi"
 name_farsi: "رحیم پشابادی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -40,9 +40,8 @@ circumstances: >
     available on his defense. Judgment Mr. Rahim Pashabadi was hanged, along
     with another person, in the Sanandaj Prison yard on June 10, 2008. No
     specific information is available about the defendant s execution.
-event_context: null
-responsible_forces: null
-
+event_context: "2008 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

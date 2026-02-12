@@ -3,7 +3,7 @@ name_latin: "Ahmad Dast Goshadeh Naru'i"
 name_farsi: "احمد دست گشاده ناروئی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,9 +38,8 @@ circumstances: >
     executed at the Central Prison of Zahedan, on the morning of Saturday,
     June 20, 2009. There is no information on the details of the verdict
     leading to this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on June 20, 2009"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

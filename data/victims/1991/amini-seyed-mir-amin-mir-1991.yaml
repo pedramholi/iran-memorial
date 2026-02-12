@@ -2,11 +2,14 @@ id: amini-seyed-mir-amin-mir-1991
 name_latin: "Seyed Mir Amin Mir Amini"
 name_farsi: "سید میر‌امین میر‌امینی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Galugah, Mazandaran"
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "supporter of the People s Loyalty Organization of Iran (Majority)"
 
 # --- DEATH ---
 date_of_death: 1991-01-01
@@ -85,7 +88,7 @@ circumstances: >
     implementing agent of the sentence issued by the Islamic Revolutionary
     Court. Therefore, they are Mahduroddam and their sentence is death
     regardless of where they are. More than 10 years after these
-event_context: null
+event_context: "killing of political prisoners in the summer of 1988"
 responsible_forces: null
 
 # --- VERIFICATION ---

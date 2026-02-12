@@ -2,11 +2,18 @@ id: ramirez-olegario-1994
 name_latin: "Olegario Ramirez"
 name_farsi: "اولگاریو رامیرز"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Buenos Aires, Argentina"
+gender: male
 ethnicity: null
 religion: "Judaism"
 photo: "https://www.iranrights.org/actorphotos/11939_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "worked in AMIA’s Maintenance Department"
+family:
+  marital_status: "not formally married"
+  children: 5
+  notes: "had a wife"
 
 # --- DEATH ---
 date_of_death: 1994-07-18
@@ -85,7 +92,7 @@ circumstances: >
     governed region bordering Argentina, Brazil, and Paraguay, that has become
     a danger point for terrorism. From the evidence gathered, two Iranian
     diplomats in Buenos Aires actively assisted Hezbollah. Mohsen Ra
-event_context: null
+event_context: "AMIA bombing on July 18, 1994"
 responsible_forces: null
 
 # --- VERIFICATION ---

@@ -3,7 +3,7 @@ name_latin: "Yasin Malekzadeh"
 name_farsi: "یاسین ملک‌زاده"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -44,9 +44,8 @@ circumstances: >
     Malekzadeh to death and 20 lashes. The Supreme Court confirmed the ruling.
     He was hanged in public at the entrance square in Jalaq in December of
     2001. The exact date of this execution is unknown.
-event_context: null
-responsible_forces: null
-
+event_context: "execution in December 2001"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

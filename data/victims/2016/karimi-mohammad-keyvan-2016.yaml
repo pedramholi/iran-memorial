@@ -2,11 +2,23 @@ id: karimi-mohammad-keyvan-2016
 name_latin: "Mohammad Keyvan Karimi"
 name_farsi: "محمدکیوان کریمی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Sanandaj"
+gender: male
 ethnicity: null
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/76038_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "construction worker"
+education: "high school diploma"
+family:
+  marital_status: "married"
+  children: 1
+  notes: "had an 11-year-old child"
+personality: "quiet and personable"
+beliefs: "moderate religious views"
+quotes:
+  - "I had learned 16 parts of the Koran by heart in prison."
 
 # --- DEATH ---
 date_of_death: 2016-08-02
@@ -85,9 +97,8 @@ circumstances: >
     international individuals and organizations. On June 12, 2014, eighteen
     human rights organizations, including the Abdorrahman Boroumand Foundation
     and a human rights lawyer, prote
-event_context: null
-responsible_forces: null
-
+event_context: "execution of 25 individuals on August 2, 2016"
+responsible_forces: "IRGC"
 # --- VERIFICATION ---
 status: unverified
 sources:

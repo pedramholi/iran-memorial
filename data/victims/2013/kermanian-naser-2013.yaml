@@ -1,12 +1,18 @@
 id: kermanian-naser-2013
 name_latin: "Naser Kermanian"
 name_farsi: "ناصر کرمانیان"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1965-01-01"
+place_of_birth: "Miandoab"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/85236_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "member of the Mojahedin Organization"
+education: "dropped out of high school"
+family:
+  marital_status: "single"
 
 # --- DEATH ---
 date_of_death: 2013-09-01
@@ -86,9 +92,8 @@ circumstances: >
     and the disarming of the Mojahedin members, the residents of the Ashraf
     Base came under the protection of U.S. forces. A number of intelligence
     services, including the FBI, went
-event_context: null
-responsible_forces: null
-
+event_context: "evacuation of Ashraf Base in 2013"
+responsible_forces: "Islamic Revolutionary Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

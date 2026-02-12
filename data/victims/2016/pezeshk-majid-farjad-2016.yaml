@@ -3,7 +3,7 @@ name_latin: "Majid Farjad Pezeshk"
 name_farsi: "مجید فرجادپزشک"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/82518_thumb.jpeg"
@@ -66,9 +66,8 @@ circumstances: >
     Karaj Central Prison along with Mr. Jamshid Dini, Mr. Reza Teimouri, and
     Mr. Mehdi Bami on July 25, 2016. Mr. Farjad Pezeshk s body was buried in
     Beheshte Sakineh Cemetary in Karaj.
-event_context: null
-responsible_forces: null
-
+event_context: "2012 drug-related offences"
+responsible_forces: "Drug Control Headquarters"
 # --- VERIFICATION ---
 status: unverified
 sources:

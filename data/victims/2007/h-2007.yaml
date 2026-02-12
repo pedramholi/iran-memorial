@@ -3,7 +3,7 @@ name_latin: "H."
 name_farsi: "ح."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -44,8 +44,7 @@ circumstances: >
     by the Supreme Court and carried out at the prison office location in
     Torbate Heidarieh.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

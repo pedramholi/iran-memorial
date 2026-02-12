@@ -1,12 +1,22 @@
 id: rahmanipur-arash-2010
 name_latin: "Arash Rahmanipur"
 name_farsi: "آرش رحمانی‌پور"
-date_of_birth: null
+date_of_birth: "1990-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: "https://www.iranrights.org/actorphotos/72186_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  marital_status: "single"
+  children: 0
+personality: "believed in love for humanity and in spirituality and justice"
+beliefs: "supporter of a group called the Royal Association of Iran"
+quotes:
+  - "He saw his homeland as his identity, as his whole life, and wished everyone would realize their duty towards the homeland."
+  - "He loved Iran and took pleasure in poetry and literature."
 
 # --- DEATH ---
 date_of_death: 2010-01-28
@@ -85,9 +95,8 @@ circumstances: >
     absence of his chosen attorney, on August 8, 2009, in branch 15 of the
     Islamic Revolutionary Court of Tehran, presided by Judge Salavati. The
     security forces did not allow Ms. Nasrin
-event_context: null
-responsible_forces: null
-
+event_context: "post-election protests"
+responsible_forces: "Revolutionary and Public Prosecution Office of Tehran"
 # --- VERIFICATION ---
 status: unverified
 sources:

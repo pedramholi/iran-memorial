@@ -1,12 +1,16 @@
 id: afzalnia-amirhossein-2013
 name_latin: "Amirhossein Afzalnia"
 name_farsi: "امیرحسین افضل‌نیا"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1966-01-01"
+place_of_birth: "Mashhad"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/85219_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "member of the Mojahedin Khalq Organization of Iran"
+beliefs: "member of the Mojahedin Khalq Organization of Iran"
 
 # --- DEATH ---
 date_of_death: 2013-09-01
@@ -86,8 +90,7 @@ circumstances: >
     under the protection of U.S. forces. Several intelligence services,
     including the FBI, went to the Ashraf Base on behalf of the United Sta
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,23 @@
 id: qazi-efat-1990
 name_latin: "Efat Qazi"
 name_farsi: "عفت قاضی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1935-01-01"
+place_of_birth: "Mahabad, Kurdistan Province"
+gender: female
 ethnicity: null
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/85693_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "teacher"
+family:
+  marital_status: "married"
+  children: 2
+  notes: "mother of two daughters"
+personality: "described as brave and devoted wife and mother"
+beliefs: "active member of the youth committee of the Democratic Party of Iranian Kurdistan (PDKI)"
+quotes:
+  - "she focused on raising them with a strong sense of their Kurdish identity."
 
 # --- DEATH ---
 date_of_death: 1990-09-06
@@ -86,9 +97,8 @@ circumstances: >
     PDKI boycotted the referendum of April 1, 1979, when people went to polls
     to vote for or against the Islamic regime. On August 19, 1979, Ayatollah
     Khomein
-event_context: null
-responsible_forces: null
-
+event_context: "killed in 1990 by a letter bomb in V ster s, Sweden, intended for her husband"
+responsible_forces: "unknown"
 # --- VERIFICATION ---
 status: unverified
 sources:

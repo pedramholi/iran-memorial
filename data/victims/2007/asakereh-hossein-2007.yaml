@@ -1,12 +1,21 @@
 id: asakereh-hossein-2007
 name_latin: "Hossein Asakereh"
 name_farsi: "حسین عساکره"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1971-01-01"
+place_of_birth: "Mahshahr"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/72879_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "industrial electrician"
+education: "Associate Degree in Industrial Electricity"
+family:
+  marital_status: "married"
+  children: 2
+  notes: "father of a boy and a girl"
+personality: "intelligent and a humanist, who lived a simple life and helped others as much as he could"
 
 # --- DEATH ---
 date_of_death: 2007-12-31
@@ -85,9 +94,8 @@ circumstances: >
     Shah s security and intelligence apparatus) members, and family members of
     the destroyed Monafeqin (MKO); Wahabis; secessionists; and/or to groups
     affiliated
-event_context: null
-responsible_forces: null
-
+event_context: "2005 bombings and unrest"
+responsible_forces: "IRGC"
 # --- VERIFICATION ---
 status: unverified
 sources:

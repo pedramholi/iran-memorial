@@ -1,12 +1,22 @@
 id: rasulzadeh-karim-mam-shirku-2018
 name_latin: "Karim (Mam Shirku) Rasulzadeh"
 name_farsi: "کریم (مام‌شیرکو) رسولزاده"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1962-01-01"
+place_of_birth: "Rabt s village of Vatmanaveh, West Azarbaijan Province"
+gender: male
+ethnicity: "Kurd"
 religion: "Non-Believer"
 photo: "https://www.iranrights.org/actorphotos/83874_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "soccer player"
+education: "middle school (eighth grade)"
+family:
+  marital_status: "married"
+personality: "decent, honest, kind, resourceful individual with many ideas"
+beliefs: "strongly believed in the Kurdistan Democratic Party s goals and ideology"
+quotes:
+  - "his biggest wish was for the Democratic Party to re-unite"
 
 # --- DEATH ---
 date_of_death: 2018-09-08

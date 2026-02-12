@@ -2,11 +2,15 @@ id: pakmehr-nafiseh-2021
 name_latin: "Nafiseh Pakmehr"
 name_farsi: "نفیسه پاک‌مهر"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Qal eh Navabegheh, Khorasan Razavi Province"
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
 
 # --- DEATH ---
 date_of_death: 2021-03-14
@@ -37,8 +41,7 @@ circumstances: >
     Ms. Pakmehr s defense. Judgment Ms. Nafiseh Pakmehr was sentenced to
     death. On Sunday, March 14, 2021, she was hung at Taybad Prison.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

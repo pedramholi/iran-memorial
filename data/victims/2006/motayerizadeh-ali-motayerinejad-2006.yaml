@@ -1,12 +1,18 @@
 id: motayerizadeh-ali-motayerinejad-2006
 name_latin: "Ali Motayerinejad (Motayerizadeh)"
 name_farsi: "علی مطیری‌نژاد (مطیری‌زاده)"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1976-01-01"
+place_of_birth: "Ahvaz"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/72429_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  children: 1
+beliefs: "member of the Vefaq Party"
 
 # --- DEATH ---
 date_of_death: 2006-12-19
@@ -85,7 +91,7 @@ circumstances: >
     control, where they had acquired their arms and explosives. In one such
     statement, then-President Mahmud Ahmadinejad spoke of the clear and
     obvious footprint of Iraq s occ
-event_context: null
+event_context: "2005-2006 unrests and bombings"
 responsible_forces: null
 
 # --- VERIFICATION ---

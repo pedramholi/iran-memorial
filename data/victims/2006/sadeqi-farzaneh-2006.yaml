@@ -3,7 +3,7 @@ name_latin: "Farzaneh Sadeqi"
 name_farsi: "فرزانه صادقی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,9 +38,8 @@ circumstances: >
     Judgment The Alashtar County Prosecutor s Office sentenced Ms. Sadeqi to
     the death penalty. She was executed by public hanging in the town of
     Selseleh on May 2, 2006.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on May 2, 2006"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

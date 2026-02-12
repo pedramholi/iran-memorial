@@ -3,10 +3,14 @@ name_latin: "Ahmad Bakhtiari"
 name_farsi: "احمد بختیاری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "agricultural engineer"
+beliefs: "member of the People’s Fedaiyan Organization of Iran (Minority)"
 
 # --- DEATH ---
 date_of_death: 1996-06-22

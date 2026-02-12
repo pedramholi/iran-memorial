@@ -3,7 +3,7 @@ name_latin: "Javad Khodashenas"
 name_farsi: "جواد خداشناس"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -41,8 +41,7 @@ circumstances: >
     defense. Judgment The court condemned Mr. Javad Khodashenas to death. He
     was hanged at Raja ishahr Prison in Karaj on February 16, 2003.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

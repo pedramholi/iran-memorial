@@ -3,7 +3,7 @@ name_latin: "Ma'sumeh Fathi"
 name_farsi: "معصومه فتحی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,8 +38,7 @@ circumstances: >
     unknown. According to the newspaper report, the ruling was carried out a
     few days before its publication on January 27, 2000.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

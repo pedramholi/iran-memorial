@@ -1,12 +1,23 @@
 id: qalehchehi-masumeh-2009
 name_latin: "Ma’sumeh Qal’ehchehi"
 name_farsi: "معصومه قلعه‌چهی"
-date_of_birth: null
+date_of_birth: "1976-01-01"
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "accounting student"
+education: "senior year"
+family:
+  marital_status: "married"
+  notes: "forced to marry her mother's cousin"
+personality: "kind and polite, well-liked"
+quotes:
+  - "In that moment, all I could think of was what my husband s family could do to me if they found out and that I wouldn t even make it to the police and trial."
+  - "Because I did not plan or intend to kill my husband."
 
 # --- DEATH ---
 date_of_death: 2009-01-29

@@ -2,11 +2,14 @@ id: mohiedin-2010
 name_latin: "Mohiedin"
 name_farsi: "محی الدین"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Boinsofla village near Baneh"
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of an opposition group in Kordestan"
 
 # --- DEATH ---
 date_of_death: 2010-01-01
@@ -42,8 +45,7 @@ circumstances: >
     above source, Mr. Mohiedin was hanged in the Rafsanjan prison a few days
     before the report date.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

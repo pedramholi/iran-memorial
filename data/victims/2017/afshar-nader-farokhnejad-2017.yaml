@@ -1,12 +1,20 @@
 id: afshar-nader-farokhnejad-2017
 name_latin: "Nader Farokhnejad Afshar"
 name_farsi: "نادر فرخ‌نژاد افشار"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1964-11-29"
+place_of_birth: "Bam County, Kerman Province"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "farmer"
+education: "high school diploma"
+family:
+  marital_status: "married"
+  children: 2
+  notes: "father of two"
 
 # --- DEATH ---
 date_of_death: 2017-08-07
@@ -74,9 +82,8 @@ circumstances: >
     hanged in Dastgerd Prison in Esfahan on August 7, 2017. The following day,
     Mr. Farokhnejad Afshar s family received his body and buried him in the
     city of Kerman.
-event_context: null
-responsible_forces: null
-
+event_context: "drug trafficking"
+responsible_forces: "Center for Combatting Narcotics"
 # --- VERIFICATION ---
 status: unverified
 sources:

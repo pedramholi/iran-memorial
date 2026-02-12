@@ -1,12 +1,20 @@
 id: hormozi-mohammad-amin-2006
 name_latin: "Mohammad Amin Hormozi"
 name_farsi: "محمدامین هرمزی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1981-01-01"
+place_of_birth: "Espandak, Sistan o Baluchestan"
+gender: male
 ethnicity: null
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/82378_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "day laborer"
+education: "studied for two years at Faroughieh (Binoria) Salafi Seminary in Karachi, Pakistan"
+family:
+  marital_status: "married"
+personality: "hostile, because of his neurological and mental problems"
+beliefs: "first military commander of Jondallah group"
 
 # --- DEATH ---
 date_of_death: 2006-10-30
@@ -86,8 +94,7 @@ circumstances: >
     an interrogator bring a cell phone, take the prisoners out of the cell,
     give them the phone, tell th
 event_context: null
-responsible_forces: null
-
+responsible_forces: "security and police forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

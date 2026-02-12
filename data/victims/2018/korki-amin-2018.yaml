@@ -1,12 +1,22 @@
 id: korki-amin-2018
 name_latin: "Amin Korki"
 name_farsi: "امین کرکی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1987-01-01"
+place_of_birth: "Andimeshk"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/83086_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "day laborer"
+education: "eighth grade"
+family:
+  marital_status: "single"
+  children: 0
+  notes: "fourth child of an 8-member family"
+personality: "considered him to be an honest and decent man"
+beliefs: "participated in the January 2018 protests"
 
 # --- DEATH ---
 date_of_death: 2018-03-30
@@ -85,9 +95,8 @@ circumstances: >
     against the incapability of governmental and state institutions in
     resolving economic issues. In videos of these demonstrations disseminated
     online in social networks and in the media, the protestors also cha
-event_context: null
-responsible_forces: null
-
+event_context: "January 2018 protests"
+responsible_forces: "18th Police Precinct, Bassij"
 # --- VERIFICATION ---
 status: unverified
 sources:

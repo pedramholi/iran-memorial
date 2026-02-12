@@ -2,11 +2,18 @@ id: czyzewski-paola-sara-1994
 name_latin: "Paola Sara Czyzewski"
 name_farsi: "پائولا سارا چیزفسکی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Buenos Aires"
+gender: female
 ethnicity: null
 religion: "Judaism"
 photo: "https://www.iranrights.org/actorphotos/11809_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "law student"
+education: "third-year law student"
+family:
+  notes: "left behind her parents and two siblings"
+personality: "capable of carrying on her back everything she had to do, and doing it all well"
 
 # --- DEATH ---
 date_of_death: 1994-07-18
@@ -85,9 +92,8 @@ circumstances: >
     operatives, led by Imad Mughnieh, arrived in Buenos Aires with fake
     European passports on July 1, 1994. A flurry of phone calls from the
     airport traced them
-event_context: null
-responsible_forces: null
-
+event_context: "AMIA bombing on July 18, 1994"
+responsible_forces: "Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

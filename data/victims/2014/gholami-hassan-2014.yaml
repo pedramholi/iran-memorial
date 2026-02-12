@@ -1,12 +1,15 @@
 id: gholami-hassan-2014
 name_latin: "Hassan Gholami"
 name_farsi: "حسن غلامی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1992-01-01"
+place_of_birth: "Khalili Village, Fars province"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
 
 # --- DEATH ---
 date_of_death: 2014-03-02
@@ -48,8 +51,7 @@ circumstances: >
     contacted to receive the body in Shiraz. They took the body from Shiraz to
     the Khalili Village for burial.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Edris Bivareh"
 name_farsi: "ادریس بیواری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -81,9 +81,8 @@ circumstances: >
     had no access to the world web through mobile phones until early December
     2019. Phone services and national Internet, which can be more easily
     controlled by the state, allowed communications throughout this period.
-event_context: null
-responsible_forces: null
-
+event_context: "2019 November protests"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

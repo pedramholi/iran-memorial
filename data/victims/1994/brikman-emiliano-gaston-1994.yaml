@@ -2,11 +2,19 @@ id: brikman-emiliano-gaston-1994
 name_latin: "Emiliano Gaston Brikman"
 name_farsi: "امیلیانو گستون بریکمن"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Buenos Aires, Argentina"
+gender: male
 ethnicity: null
 religion: "Judaism"
 photo: "https://www.iranrights.org/actorphotos/11805_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "student"
+family:
+  notes: "had two younger sisters"
+personality: "life of the party"
+quotes:
+  - "They snatched a big piece of our hearts, and ruined our lives, took away one of our beloved. I cannot even try to understand that overnight my brother is gone. This pain and this hole we have in our hearts will never heal."
 
 # --- DEATH ---
 date_of_death: 1994-07-18
@@ -86,9 +94,8 @@ circumstances: >
     The Hezbollah operatives, led by Imad Mughnieh, arrived in Buenos Aires
     with fake European passports on July 1, 1994. A flurry of phone calls from
     the airport traced t
-event_context: null
-responsible_forces: null
-
+event_context: "AMIA bombing"
+responsible_forces: "Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

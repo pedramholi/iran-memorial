@@ -1,12 +1,20 @@
 id: valizadeh-mohammad-2010
 name_latin: "Mohammad Valizadeh"
 name_farsi: "محمد ولی زاده"
-date_of_birth: null
+date_of_birth: "1980-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+occupation: "worked in a car dealership"
+education: "continued his education"
+family:
+  notes: "second child of a family of six"
+quotes:
+  - "I was the second child of a family of six."
 
 # --- DEATH ---
 date_of_death: 2010-04-14
@@ -66,9 +74,8 @@ circumstances: >
     Pardon Commission rejected the defendant’s request for pardon and he was
     hanged at Emamali Square in Babolsar on April 14, 2010. Mr. Mohammad
     Valizadeh was 29 years old.
-event_context: null
-responsible_forces: null
-
+event_context: "2010 execution"
+responsible_forces: "Mazandaran Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

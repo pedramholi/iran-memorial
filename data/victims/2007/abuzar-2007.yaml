@@ -2,11 +2,17 @@ id: abuzar-2007
 name_latin: "Abuzar"
 name_farsi: "ابوذر"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Kazerun"
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  children: 0
+  notes: "husband of Maryam"
 
 # --- DEATH ---
 date_of_death: 2007-12-24
@@ -44,9 +50,8 @@ circumstances: >
     court condemned Mr. Abuzar to death and the ruling was confirmed by Branch
     37 of the Supreme Court and Branch 15 of the Supreme Court Recognition. He
     was hanged in public at a main square in Kazerun on December 24, 2007.
-event_context: null
-responsible_forces: null
-
+event_context: "2005 murder of his wife"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

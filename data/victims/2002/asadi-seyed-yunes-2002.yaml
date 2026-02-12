@@ -3,7 +3,7 @@ name_latin: "Seyed Yunes As'adi"
 name_farsi: "سیدیونس اسعدی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -29,9 +29,8 @@ circumstances: >
     carried out in public at the City Park in Naqadeh on September 26, 2002.
     According to the Komala Office Outside of Iran, official agents carried
     out the stoning.
-event_context: null
-responsible_forces: null
-
+event_context: "stoning ruling carried out in public at the City Park in Naqadeh on September 26, 2002"
+responsible_forces: "official agents"
 # --- VERIFICATION ---
 status: unverified
 sources:

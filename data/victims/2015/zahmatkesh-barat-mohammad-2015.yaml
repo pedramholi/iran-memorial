@@ -2,11 +2,20 @@ id: zahmatkesh-barat-mohammad-2015
 name_latin: "Barat (Mohammad) Zahmatkesh"
 name_farsi: "برات (محمد) زحمتکش"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Quchan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "athlete"
+family:
+  marital_status: "married"
+  children: 1
+  notes: "his daughter-in-law was nine-months pregnant at the time of his arrest"
+quotes:
+  - "demanded that human rights organizations save him"
 
 # --- DEATH ---
 date_of_death: 2015-04-13
@@ -58,9 +67,8 @@ circumstances: >
     support his family and their honor. Judgment Mr. Barat (Mohammad)
     Zahmatkesh was hanged, along with 10 or 14 others, at the Qezelhesar
     Prison in Karaj on April 13, 2015.
-event_context: null
-responsible_forces: null
-
+event_context: "2015 execution of drug offenders"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

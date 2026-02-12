@@ -1,12 +1,18 @@
 id: mohammadi-abbas-2004
 name_latin: "Abbas Mohammadi"
 name_farsi: "عباس محمدی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "2005-01-01"
+place_of_birth: "Izeh"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim (Shi'a)"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "single"
+  children: 0
+  notes: "the only son in his family"
 
 # --- DEATH ---
 date_of_death: 2004-02-21
@@ -85,9 +91,8 @@ circumstances: >
     intentionally shoot in violation of rules and regulations will be
     sentenced to imprisonment for three months to one year, and will also have
     to pay blood money. If the shooting results in death or i
-event_context: null
-responsible_forces: null
-
+event_context: "protests following the Seventh Parliamentary Elections of the Islamic Republic of Iran in February 2004"
+responsible_forces: "security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

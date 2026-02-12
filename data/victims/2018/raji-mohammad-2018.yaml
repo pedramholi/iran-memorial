@@ -1,12 +1,22 @@
 id: raji-mohammad-2018
 name_latin: "Mohammad Raji"
 name_farsi: "محمد راجی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1961-12-22"
+place_of_birth: "Aligudarz township, Lorestan province"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/85357_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "farmer"
+family:
+personality: "very ethical"
+beliefs: "joined Nematollahi Gonabadi Darvishes"
+quotes:
+  - "disheartened"
+  - "God-seeking"
+  - "transcendence"
 
 # --- DEATH ---
 date_of_death: 2018-01-01
@@ -85,8 +95,7 @@ circumstances: >
     matollahi. Currently, the Nematollahi lineage of SoltanAliShahi Gonabadi
     (known as Gonabadi Darvishes) is one of Iran's most populous Sufi lin
 event_context: null
-responsible_forces: null
-
+responsible_forces: "IRGC"
 # --- VERIFICATION ---
 status: unverified
 sources:

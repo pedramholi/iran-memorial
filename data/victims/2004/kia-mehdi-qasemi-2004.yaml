@@ -3,7 +3,7 @@ name_latin: "Mehdi Qasemi Kia"
 name_farsi: "مهدی قاسمی کیا"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -48,9 +48,8 @@ circumstances: >
     along with 148 lashes for other crimes including car jacking, stealing
     some money in Shahrud, and attacking the police. He was executed in the
     main square of Bandar Gaz on February 17, 2004.
-event_context: null
-responsible_forces: null
-
+event_context: "2004 execution"
+responsible_forces: "Public Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

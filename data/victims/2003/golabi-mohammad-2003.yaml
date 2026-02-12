@@ -2,11 +2,14 @@ id: golabi-mohammad-2003
 name_latin: "Mohammad Golabi"
 name_farsi: "محمد گلابی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Kanizarin Village near Saqez, Kurdistan"
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of Komala organization"
 
 # --- DEATH ---
 date_of_death: 2003-03-02
@@ -65,9 +68,8 @@ circumstances: >
     Judgment A court condemned Mr. Mohammad Golabi to death. He was hanged in
     the Saqez Central Prison on March 2, 2003 in the morning. No specific
     information is available about this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on March 2, 2003"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

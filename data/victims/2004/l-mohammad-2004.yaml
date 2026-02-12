@@ -2,8 +2,8 @@ id: l-mohammad-2004
 name_latin: "Mohammad L."
 name_farsi: "محمد ل."
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Zabol"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -45,9 +45,8 @@ circumstances: >
     ruling. He was hanged, along with another person, in Gonabad in early
     2004. No specific information is available about the defendant s
     execution.
-event_context: null
-responsible_forces: null
-
+event_context: "2004 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

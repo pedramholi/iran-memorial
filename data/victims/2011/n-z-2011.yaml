@@ -2,7 +2,7 @@ id: n-z-2011
 name_latin: "Z. N."
 name_farsi: "ض. ن."
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Khoramshahr"
 gender: null
 ethnicity: null
 religion: "Unknown"
@@ -43,9 +43,8 @@ circumstances: >
     Prosecutor s Office. The defendant s pardon request was denied by the
     Central Pardon Commission and he was excited in Shahrud prison on October
     19, 2011.
-event_context: null
-responsible_forces: null
-
+event_context: "2011 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

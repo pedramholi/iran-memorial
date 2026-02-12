@@ -3,10 +3,15 @@ name_latin: "Rahman Rajabi Hamvand"
 name_farsi: "رحمان رجبی هموند"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of the Democratic Party of Iranian Kurdistan (PDIK)"
+quotes:
+  - "Mr. Rajabi Hamvand denied the charge of assassination."
 
 # --- DEATH ---
 date_of_death: 1996-07-28
@@ -55,8 +60,7 @@ circumstances: >
     defendant's request for clemency was rejected by the Amnesty Council and
     he was executed.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Revolutionary Courts of Tehran"
 # --- VERIFICATION ---
 status: unverified
 sources:

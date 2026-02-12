@@ -3,7 +3,7 @@ name_latin: "Ruhollah Baqerian"
 name_farsi: "روح الله باقریان"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -39,9 +39,8 @@ circumstances: >
     available on the details of this judgment. According to the newspaper
     report, Branch 1602 of Tehran Criminal Court Complex condemned Mr.
     Ruhollah Baqerian to death and he was hanged at dawn on July 18, 2001.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on July 18, 2001"
+responsible_forces: "Islamic Republic’s authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

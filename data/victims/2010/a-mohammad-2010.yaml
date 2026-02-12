@@ -3,7 +3,7 @@ name_latin: "Mohammad A."
 name_farsi: "محمد الف."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -86,8 +86,7 @@ circumstances: >
     boy and 18 years imprisonment and 100 lashes for assistance in murder of
     the nine-year-old boy and harass
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Intelligence Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

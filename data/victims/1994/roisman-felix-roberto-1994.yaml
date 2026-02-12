@@ -2,11 +2,19 @@ id: roisman-felix-roberto-1994
 name_latin: "Felix Roberto Roisman"
 name_farsi: "فلیکس روبرتو رویسمن"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Buenos Aires, Argentina"
+gender: male
 ethnicity: null
 religion: "Judaism"
 photo: "https://www.iranrights.org/actorphotos/11944_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "chemist and researcher"
+education: "University of Buenos Aires School of Exact and Natural Sciences"
+family:
+  marital_status: "married"
+  children: 1
+  notes: "had a 20-year-old daughter"
 
 # --- DEATH ---
 date_of_death: 1994-07-18
@@ -85,9 +93,8 @@ circumstances: >
     governed region bordering Argentina, Brazil, and Paraguay, that has become
     a danger point for terrorism. From the evidence gathered, two Iranian
     diplomats in Buenos Aires actively assisted He
-event_context: null
-responsible_forces: null
-
+event_context: "AMIA bombing"
+responsible_forces: "Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

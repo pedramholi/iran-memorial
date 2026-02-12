@@ -1,9 +1,9 @@
 id: raisi-mohsen-mohammad-2014
 name_latin: "Mohsen (Mohammad) Ra'isi"
 name_farsi: "محسن (محمد) رئیسی"
-date_of_birth: null
+date_of_birth: "1999-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -57,9 +57,8 @@ circumstances: >
     (Mohammad) Ra isi to death. The General Public Prosecutor signed the
     ruling, and he was hanged, along with three others, in Bandar-e Abbas
     Prison on March 2, 2014.
-event_context: null
-responsible_forces: null
-
+event_context: "2014 execution"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

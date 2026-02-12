@@ -3,7 +3,7 @@ name_latin: "Amrollah Ja'fari"
 name_farsi: "امرالله جعفری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -36,8 +36,7 @@ circumstances: >
     available on the defense. Judgment Mr. Ja'fari was sentenced to death. His
     execution was carried out in the presence of the victims' relatives.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

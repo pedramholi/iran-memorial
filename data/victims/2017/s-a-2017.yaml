@@ -1,12 +1,19 @@
 id: s-a-2017
 name_latin: "A. S."
 name_farsi: "ع. ص."
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1991-01-01"
+place_of_birth: "Neishabur"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "robber"
+family:
+  marital_status: "married"
+quotes:
+  - "I am scared and frightened. In the two years that I ve been in prison, I have matured 15 years. If I had then the level of maturity I have now, I would have never even thought of doing something like this"
 
 # --- DEATH ---
 date_of_death: 2017-01-29
@@ -85,9 +92,8 @@ circumstances: >
     was not their profession. Further, their goal was solely to steal and no
     weapons were used during the commission of robbery. They had resorted to
     firing their weapons to escape from
-event_context: null
-responsible_forces: null
-
+event_context: "jewelry store robbery"
+responsible_forces: "Criminal Investigations Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,10 +3,13 @@ name_latin: "Gholam Nabi Kordrigi"
 name_farsi: "غلام‌نبی کردریگی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "leader of a smuggling gang"
 
 # --- DEATH ---
 date_of_death: 2007-05-08
@@ -57,8 +60,7 @@ circumstances: >
     ruling was confirmed by the Supreme Court. He was hanged in public in
     Chatrud, Kerman, on May 8, 2007.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

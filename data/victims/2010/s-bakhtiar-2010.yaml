@@ -1,9 +1,9 @@
 id: s-bakhtiar-2010
 name_latin: "Bakhtiar S"
 name_farsi: "بختیار س"
-date_of_birth: null
+date_of_birth: "1966-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -47,9 +47,8 @@ circumstances: >
     Prosecutor. After the defendant’ requests for pardon were denied, twice,
     he was hanged in the Esfahan Central prison yard on December 4, 2010. Mr.
     Bakhtiar S. was 44 years old.
-event_context: null
-responsible_forces: null
-
+event_context: "2010 execution"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

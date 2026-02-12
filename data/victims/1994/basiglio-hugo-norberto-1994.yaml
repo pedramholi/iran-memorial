@@ -2,11 +2,18 @@ id: basiglio-hugo-norberto-1994
 name_latin: "Hugo Norberto Basiglio"
 name_farsi: "هوگو نوربرتو باسیگلیو"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Los Polvorines, Buenos Aires"
+gender: male
 ethnicity: null
 religion: "Judaism"
 photo: "https://www.iranrights.org/actorphotos/11800_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "electrician"
+family:
+  marital_status: "married"
+  children: 7
+  notes: "father of seven"
 
 # --- DEATH ---
 date_of_death: 1994-07-18
@@ -85,9 +92,8 @@ circumstances: >
     a danger point for terrorism. From the evidence gathered, two Iranian
     diplomats in Buenos Aires actively assisted Hezbollah. Mohsen Rabbani, who
     was in charge of the operation, was
-event_context: null
-responsible_forces: null
-
+event_context: "AMIA bombing on July 18, 1994"
+responsible_forces: "Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

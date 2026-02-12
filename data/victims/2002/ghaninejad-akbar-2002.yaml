@@ -3,7 +3,7 @@ name_latin: "Akbar Ghaninejad"
 name_farsi: "اکبر غنی‌نژاد"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -32,8 +32,7 @@ circumstances: >
     defendant on this case was also condemned to death and was hanged along
     with Mr. Ghaninejad in Qasr Prison in Tehran.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Criminal Court of Tehran"
 # --- VERIFICATION ---
 status: unverified
 sources:

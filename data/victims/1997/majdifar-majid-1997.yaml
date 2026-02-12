@@ -1,9 +1,9 @@
 id: majdifar-majid-1997
 name_latin: "Majid Majdifar"
 name_farsi: "مجید مجدی فر"
-date_of_birth: null
+date_of_birth: "1978-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -40,8 +40,7 @@ circumstances: >
     ruling was confirmed by the Supreme Court, he was executed at Qasr prison
     (Tehran) on April 16, 1997.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

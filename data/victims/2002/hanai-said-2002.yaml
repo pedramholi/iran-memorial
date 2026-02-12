@@ -1,12 +1,22 @@
 id: hanai-said-2002
 name_latin: "Sa'id Hana'i"
 name_farsi: "سعید حنایی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1963-01-01"
+place_of_birth: "Mashhad"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/76121_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "mason"
+education: "fifth grade"
+family:
+  marital_status: "married"
+  children: 3
+  notes: "one boy and two girls"
+quotes:
+  - "the victims deserved to be killed"
 
 # --- DEATH ---
 date_of_death: 2002-04-16
@@ -85,9 +95,8 @@ circumstances: >
     session, convened on October 16, 2000, was a closed-door session (Iran
     newspaper, October 17, 2000). Charges The court charged Mr. Sa id Hana i
     with 16 counts of intentional murder, 13 counts o
-event_context: null
-responsible_forces: null
-
+event_context: "spider murders"
+responsible_forces: "Bassij"
 # --- VERIFICATION ---
 status: unverified
 sources:

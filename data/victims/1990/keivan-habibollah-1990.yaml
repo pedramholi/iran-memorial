@@ -1,12 +1,24 @@
 id: keivan-habibollah-1990
 name_latin: "Habibollah Keivan"
 name_farsi: "حبیب‌الله کیوان"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1955-01-01"
+place_of_birth: "Sirjan County, Kerman province"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/82721_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "roadside food stand vendor"
+education: "elementary school"
+family:
+  marital_status: "married"
+  children: 4
+  notes: "fourth child was born when he was in prison"
+personality: "very kind and good-tempered"
+quotes:
+  - "I did not commit any crime deserving execution. I ll be free."
+  - "I ll be free, whether it takes 10 years or 15 years, [eventually] I ll be free."
 
 # --- DEATH ---
 date_of_death: 1990-05-12
@@ -85,9 +97,8 @@ circumstances: >
     date. The family was informed about the execution only afterwards and was
     asked to be present at Adelabad Prison to receive Mr. Keivan s body. Mr.
     Keivan s family received his body
-event_context: null
-responsible_forces: null
-
+event_context: "drug trafficking in 1986"
+responsible_forces: "Khalili Komiteh"
 # --- VERIFICATION ---
 status: unverified
 sources:

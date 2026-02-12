@@ -1,12 +1,15 @@
 id: najafisahl-akram-2005
 name_latin: "Akram Najafisahl"
 name_farsi: "اکرم نجفی سهل"
-date_of_birth: null
+date_of_birth: "1984-01-01"
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
 
 # --- DEATH ---
 date_of_death: 2005-12-07
@@ -40,8 +43,7 @@ circumstances: >
     death. She was executed on December 7, 2005 in the Shirvan prison. She was
     21 at the time of execution; 17 at the time of the crime.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

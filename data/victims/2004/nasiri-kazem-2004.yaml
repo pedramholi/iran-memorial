@@ -3,10 +3,15 @@ name_latin: "Kazem Nasiri"
 name_farsi: "کاظم نصیری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "I was in love, wandering the streets, and was in a bad way"
+  - "I was in love with a girl and intended to marry her. However, she married someone else. Then, I went to the girl s home, armed, in order to convince her to escape with me. Instead I shot and injured the girl. In addition, during the carjacking, I did not intend to kill the driver. I only wanted to threaten him but was forced to shoot. Finally, I claimed that I was a lover and not a murderer."
 
 # --- DEATH ---
 date_of_death: 2004-07-26
@@ -63,9 +68,8 @@ circumstances: >
     Branch One of Sentence Enforcement, forensics, the Chief of Police in
     Fardis, the victim s family, and the defendant s mother at Oshaq Square in
     Fardis, Karaj, on July 26, 2004 in the morning.
-event_context: null
-responsible_forces: null
-
+event_context: "murder of a 22-year-old student at Manzarieh in Karaj on October 19, 2001"
+responsible_forces: "Branch 119 of the Criminal Court in Karaj"
 # --- VERIFICATION ---
 status: unverified
 sources:

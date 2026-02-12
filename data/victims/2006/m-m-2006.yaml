@@ -2,11 +2,16 @@ id: m-m-2006
 name_latin: "M. M."
 name_farsi: "م. م."
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Bandar Abbas"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  notes: "husband of the defendant's sister"
 
 # --- DEATH ---
 date_of_death: 2006-11-06
@@ -53,8 +58,7 @@ circumstances: >
     Embassy in Bangladesh to identify the family of the victim had led to no
     results.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "provincial Ministry of Justice office"
 # --- VERIFICATION ---
 status: unverified
 sources:

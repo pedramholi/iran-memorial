@@ -1,12 +1,16 @@
 id: banitamim-malek-2006
 name_latin: "Malek Banitamim"
 name_farsi: "مالک بنی‌تمیم"
-date_of_birth: null
+date_of_birth: "1976-01-01"
 place_of_birth: null
-gender: null
-ethnicity: null
+gender: male
+ethnicity: "Arab"
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/72441_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "lawyer"
+education: "Bachelor's degree in law"
 
 # --- DEATH ---
 date_of_death: 2006-12-19
@@ -85,7 +89,7 @@ circumstances: >
     statement, then-President Mahmud Ahmadinejad spoke of the clear and
     obvious footprint of Iraq s occupiers in the Khuzestan incidents. (ISNA,
     January 25, 2006). The
-event_context: null
+event_context: "2005-2006 unrests and bombings"
 responsible_forces: null
 
 # --- VERIFICATION ---

@@ -1,12 +1,16 @@
 id: gorgij-ahmad-2022
 name_latin: "Ahmad Gorgij"
 name_farsi: "احمد گرگیج"
-date_of_birth: null
+date_of_birth: "1984-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/84696_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  marital_status: "single"
 
 # --- DEATH ---
 date_of_death: 2022-03-14
@@ -43,8 +47,7 @@ circumstances: >
     prison, in Shiraz on March 14, 2022. ----------------------- * Mr. Bashir
     Samadi, and Mr. Abdolreza Shafi e.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

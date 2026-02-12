@@ -3,7 +3,7 @@ name_latin: "Zia'olhaq Kord Raji"
 name_farsi: "ضیاءالحق کرد راجی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -63,9 +63,8 @@ circumstances: >
     Behesht and Janbazan Boulevards, at 10 AM on Tuesday, December 7, 2004.
     ------------------------ * Abdolmajid Forqan, Mohammad Ghos Hassanzehi,
     Alireza Lavarzehi, Jom e Gorgij, Bidollah Gorgij, and Na im Qolje i
-event_context: null
-responsible_forces: null
-
+event_context: "2004 execution"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

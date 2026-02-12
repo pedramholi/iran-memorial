@@ -3,7 +3,7 @@ name_latin: "Ma'sum Ali Parsa'i"
 name_farsi: "معصومعلی پارسایی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -42,8 +42,7 @@ circumstances: >
     Supreme Court, he was executed in Shiraz. The exact date of this execution
     is unknown.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

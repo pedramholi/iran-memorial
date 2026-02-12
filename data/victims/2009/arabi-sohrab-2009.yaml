@@ -1,12 +1,16 @@
 id: arabi-sohrab-2009
 name_latin: "Sohrab A'rabi"
 name_farsi: "سهراب اعرابی"
-date_of_birth: null
+date_of_birth: "1990-02-23"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/61694_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  notes: "son of Parvin and Mohammad Reza"
 
 # --- DEATH ---
 date_of_death: 2009-06-15
@@ -85,9 +89,8 @@ circumstances: >
     however, what is known is that the officials did not inform Mr. A rabi s
     family of his death until July 11, 2009, despite the fact that his mother
     visited numerous state agencies in order to o
-event_context: null
-responsible_forces: null
-
+event_context: "2009 presidential election protests"
+responsible_forces: "Basij"
 # --- VERIFICATION ---
 status: unverified
 sources:

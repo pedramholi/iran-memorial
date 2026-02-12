@@ -1,12 +1,20 @@
 id: qaderpur-mokhtar-2018
 name_latin: "Mokhtar Qaderpur"
 name_farsi: "مختار قادرپور"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1985-03-21"
+place_of_birth: "Taher Buffeh, Gurak region, Saqqez County, Kurdistan Province"
+gender: male
+ethnicity: "Kurdish"
 religion: "Non-Believer"
 photo: "https://www.iranrights.org/actorphotos/83936_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "farmer"
+education: "eighth grade"
+family:
+  marital_status: "single"
+personality: "well-informed, discerning, personable, and polite"
+beliefs: "member of the Democratic Party of Iranian Kurdistan"
 
 # --- DEATH ---
 date_of_death: 2018-09-08

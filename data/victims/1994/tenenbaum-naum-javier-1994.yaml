@@ -1,12 +1,23 @@
 id: tenenbaum-naum-javier-1994
 name_latin: "Naum Javier Tenenbaum"
 name_farsi: "نائوم خاویر تننبام"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1964-07-07"
+place_of_birth: "Buenos Aires"
+gender: male
 ethnicity: null
 religion: "Judaism"
 photo: "https://www.iranrights.org/actorphotos/11970_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "lawyer"
+education: "high school of the Rabbinical Seminary"
+family:
+  marital_status: "married"
+  children: 3
+  notes: "left behind a wife and three daughters"
+personality: "cheerful, wholesome, and decent man, who spoke his mind"
+quotes:
+  - "He followed his religion seriously and studiously."
 
 # --- DEATH ---
 date_of_death: 1994-07-18
@@ -86,9 +97,8 @@ circumstances: >
     with fake European passports on July 1, 1994. A flurry of phone calls from
     the airport traced them to Foz de Iguazu in the Tri-Border Area, a loosely
     gover
-event_context: null
-responsible_forces: null
-
+event_context: "AMIA bombing"
+responsible_forces: "Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

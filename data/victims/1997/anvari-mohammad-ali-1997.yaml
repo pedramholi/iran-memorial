@@ -3,7 +3,7 @@ name_latin: "Mohammad Ali Anvari"
 name_farsi: "محمدعلی انوری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -36,8 +36,7 @@ circumstances: >
     Mohammad Ali Anvari to death and he was executed in public in Qa’enat
     (Southern Khorasan province).
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

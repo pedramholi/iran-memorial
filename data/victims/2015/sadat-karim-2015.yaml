@@ -3,7 +3,7 @@ name_latin: "Karim Sadat"
 name_farsi: "کریم سادات"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,8 +38,7 @@ circumstances: >
     information is available on Mr. Sadat s defense. Judgment Mr. Karim Sadat
     was hanged at the Maragheh Prison yard on February 27, 2015.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

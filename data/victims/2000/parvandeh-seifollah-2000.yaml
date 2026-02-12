@@ -3,7 +3,7 @@ name_latin: "Seifollah Parvandeh"
 name_farsi: "سیف‌الله پرونده"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -47,9 +47,8 @@ circumstances: >
     condemned to death, long term imprisonment, exile, and lashes based on
     their alleged charges; however, no specific information is available about
     these rulings.
-event_context: null
-responsible_forces: null
-
+event_context: "September 7, 2000 execution"
+responsible_forces: "Basij"
 # --- VERIFICATION ---
 status: unverified
 sources:

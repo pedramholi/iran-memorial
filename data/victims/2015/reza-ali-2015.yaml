@@ -2,11 +2,16 @@ id: reza-ali-2015
 name_latin: "Ali Reza"
 name_farsi: "علیرضا"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Qazvin"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+quotes:
+  - "he had invited the victim to his house when his family members were not present on the night of the incident."
 
 # --- DEATH ---
 date_of_death: 2015-05-15
@@ -55,9 +60,8 @@ circumstances: >
     Qazvin condemned Mr. Ali Reza to death. The Supreme Court confirmed the
     ruling and the Head of Judiciary approved it. He was hanged at the Qazvin
     Central Prison yard on May 5, 2015 at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "murder of his relative at Sharifabad Village in Qazvin in April of 2012"
+responsible_forces: "Intelligence Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

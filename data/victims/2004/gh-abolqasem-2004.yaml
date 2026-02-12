@@ -3,7 +3,7 @@ name_latin: "Abolqasem Gh."
 name_farsi: "ابوالقاسم غ."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -43,9 +43,8 @@ circumstances: >
     confirmed the ruling. He was hanged in public at the Salman Farsi Street
     in Ahvaz in 2004. No specific information is available about this
     execution.
-event_context: null
-responsible_forces: null
-
+event_context: "2004"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

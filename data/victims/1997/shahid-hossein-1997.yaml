@@ -3,7 +3,7 @@ name_latin: "Hossein Shahid"
 name_farsi: "حسین شهید"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -42,9 +42,8 @@ circumstances: >
     to death as a "corruptor on Earth" and, after the ruling was confirmed by
     the Supreme Court, he was executed in public in Emam Khomeini square of
     Ferdos on September 22, 1997.
-event_context: null
-responsible_forces: null
-
+event_context: "1997 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

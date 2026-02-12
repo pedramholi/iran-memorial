@@ -1,12 +1,18 @@
 id: turani-qorban-dordi-2005
 name_latin: "Qorban Dordi Turani"
 name_farsi: "قربان دردی تورانی"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1972-01-01"
+place_of_birth: "Gonbad-e Kavus"
+gender: male
+ethnicity: "Turkmen"
 religion: "Christianity"
 photo: "https://www.iranrights.org/actorphotos/84967_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "teacher"
+education: "high school"
+family:
+  marital_status: "married"
 
 # --- DEATH ---
 date_of_death: 2005-11-22
@@ -86,8 +92,7 @@ circumstances: >
     abroad, in any country, no government has any right to bring the
     perpetrator to trial as a terrorist, because such a pers
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

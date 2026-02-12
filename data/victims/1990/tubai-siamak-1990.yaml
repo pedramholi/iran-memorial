@@ -2,11 +2,17 @@ id: tubai-siamak-1990
 name_latin: "Siamak Tuba'i"
 name_farsi: "سیامک طوبایی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Tehran"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/38312_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "student"
+education: "12th grade"
+family:
+beliefs: "sympathizer of the Mojahedin Khalq Organization (MKO)"
 
 # --- DEATH ---
 date_of_death: 1990-01-01
@@ -85,9 +91,8 @@ circumstances: >
     evidence provided against the defendant. Defense No information is
     available about Mr. Tuba’i’s defense. Based on the available information,
     at the time
-event_context: null
-responsible_forces: null
-
+event_context: "mass execution of political prisoners throughout the country"
+responsible_forces: "Islamic Association"
 # --- VERIFICATION ---
 status: unverified
 sources:

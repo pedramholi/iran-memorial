@@ -2,9 +2,9 @@ id: abdolhossein-mahdi-2005
 name_latin: "Mahdi Abdolhossein"
 name_farsi: "مهدی عبدالحسین"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Khuzestan"
+gender: male
+ethnicity: "Arab"
 religion: "Islam"
 photo: null
 
@@ -86,9 +86,8 @@ circumstances: >
     approximately*** 3% of the country s population, reside in Khuzestan,
     Bushehr, Hormozgan, Fars, and Khorasan provinces. The largest number of
     Arabs res
-event_context: null
-responsible_forces: null
-
+event_context: "protests in Khuzestan, April 15-24, 2005"
+responsible_forces: "security and police forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

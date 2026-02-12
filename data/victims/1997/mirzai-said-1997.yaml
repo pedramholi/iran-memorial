@@ -3,7 +3,7 @@ name_latin: "Sa'id Mirza'i"
 name_farsi: "سعید میرزایی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -37,8 +37,7 @@ circumstances: >
     he was executed in the presence of the victim's family in the Adelabad
     prison in Shiraz.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic’s authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Khodadad D."
 name_farsi: "خداداد د."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -53,9 +53,8 @@ circumstances: >
     Mr. Kodadad D. was hanged, along with another individual, in Qaen County
     on December 21, 2006. The case of the third defendant was reviewed in view
     of his new confessions.
-event_context: null
-responsible_forces: null
-
+event_context: "trafficking illegal drugs"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -2,11 +2,15 @@ id: bidi-ali-asghar-1997
 name_latin: "Ali Asghar Bidi"
 name_farsi: "علی‌اصغر بیدی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Tehran"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/84546_thumb.jpeg"
+
+# --- LIFE ---
+personality: "friendly, good humored, and energetic"
+beliefs: "supporter of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1997-01-01
@@ -85,9 +89,8 @@ circumstances: >
     prison. He disappeared in 1996, when he intended to join the Mojahedin
     Khalq Organization in Iraq. He has been killed by Information Ministry
     agents, either that year or some t
-event_context: null
-responsible_forces: null
-
+event_context: "Alghadir operation"
+responsible_forces: "Information Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

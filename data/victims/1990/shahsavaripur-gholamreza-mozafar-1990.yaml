@@ -1,12 +1,21 @@
 id: shahsavaripur-gholamreza-mozafar-1990
 name_latin: "Gholamreza (Mozafar) Shahsavaripur"
 name_farsi: "غلامرضا (مظفر) شهسواری‌پور"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1944-04-28"
+place_of_birth: "Sirjan County, Kerman province"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/80548_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "farmer, truck driver"
+education: "primary school level"
+family:
+  marital_status: "married"
+  children: 3
+personality: "kind, merciful, self-made, hopeful, hardworking"
+beliefs: "opposition to the Islamic Republic in Iran"
 
 # --- DEATH ---
 date_of_death: 1990-05-12
@@ -85,9 +94,8 @@ circumstances: >
     ascertained in the absence of the basic guarantees of a fair trial.
     International human rights organizations have drawn attention to reports
     indicating that the Islamic Republic auth
-event_context: null
-responsible_forces: null
-
+event_context: "drug trafficking"
+responsible_forces: "Khalili Komiteh"
 # --- VERIFICATION ---
 status: unverified
 sources:

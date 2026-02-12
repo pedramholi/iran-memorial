@@ -3,7 +3,7 @@ name_latin: "Mohsen Zolfaqar"
 name_farsi: "محسن ذوالفقار"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,9 +38,8 @@ circumstances: >
     Court confirmed the ruling. He was executed in public at Yazdanshahr
     Square in Qom on December 8, 2001. According to the report, he was
     arrested, prosecuted, and executed in less than 20 days.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on December 8, 2001"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

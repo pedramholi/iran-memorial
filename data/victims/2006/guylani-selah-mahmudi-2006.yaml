@@ -2,11 +2,14 @@ id: guylani-selah-mahmudi-2006
 name_latin: "Selah Mahmudi Guylani"
 name_farsi: "صلاح محمودی گویلانی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Guylan, Sardasht"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "farmer"
 
 # --- DEATH ---
 date_of_death: 2006-06-24
@@ -47,8 +50,7 @@ circumstances: >
     Masoud Shouki and Mr. Aziz Khallakani, were also hanged, respectively on
     January 1, 2006 and December 18, 2005.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Ministry of Intelligence"
 # --- VERIFICATION ---
 status: unverified
 sources:

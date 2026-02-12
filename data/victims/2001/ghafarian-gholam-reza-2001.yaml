@@ -3,10 +3,16 @@ name_latin: "Gholam Reza Ghafarian"
 name_farsi: "غلامرضا غفاریان"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "divorced"
+  children: 2
+  notes: "father of two daughters"
 
 # --- DEATH ---
 date_of_death: 2001-01-17

@@ -1,12 +1,20 @@
 id: mir-janat-2014
 name_latin: "Janat Mir"
 name_farsi: "جنت‌ میر"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1997-01-01"
+place_of_birth: "Volsovali Kolfgan, Takhar, Afghanistan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "seeking work"
+education: "ninth grade"
+family:
+quotes:
+  - "Mr. Janat Mir s age as 15"
+  - "he went to Iran to visit his brother; however, he was not allowed to visit him during the two months period that he stayed."
 
 # --- DEATH ---
 date_of_death: 2014-04-15
@@ -85,9 +93,8 @@ circumstances: >
     that are subject to Hadd and Qesas for adults as well as for individuals
     under 18 who have attained puberty, if the individual under the age of 18
     is not aware of the nature of the crime, and there is doubt
-event_context: null
-responsible_forces: null
-
+event_context: "execution on April 15, 2014"
+responsible_forces: "Iranian authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

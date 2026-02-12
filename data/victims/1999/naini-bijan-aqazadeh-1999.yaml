@@ -1,12 +1,16 @@
 id: naini-bijan-aqazadeh-1999
 name_latin: "Bijan Aqazadeh Na'ini"
 name_farsi: "بیژن آقازاده نائینی"
-date_of_birth: null
+date_of_birth: "1975-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/84229_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "electronics engineer"
+beliefs: "supporter of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1999-06-09
@@ -86,9 +90,8 @@ circumstances: >
     family s reaction. Impact on Family There is no information regarding the
     impact of Mr. Aqazadeh Na ini s killing on his family.
     ----------------------------
-event_context: null
-responsible_forces: null
-
+event_context: "June 9, 1999 assassination"
+responsible_forces: "Islamic Republic of Iran’s Ministry of Information"
 # --- VERIFICATION ---
 status: unverified
 sources:

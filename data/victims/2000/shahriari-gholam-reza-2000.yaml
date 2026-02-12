@@ -3,7 +3,7 @@ name_latin: "Gholam Reza Shahriari"
 name_farsi: "غلامرضا شهریاری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -45,9 +45,8 @@ circumstances: >
     Prosecutor confirmed the ruling and he was hanged, along with two others,
     in Mazandaran in 2000. No specific information is available about this
     execution.
-event_context: null
-responsible_forces: null
-
+event_context: "2000"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

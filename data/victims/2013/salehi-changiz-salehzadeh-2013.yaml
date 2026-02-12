@@ -1,10 +1,10 @@
 id: salehi-changiz-salehzadeh-2013
 name_latin: "Changiz Salehzadeh (Salehi)"
 name_farsi: "چنگیز صالح‌زاده (صالحی)"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1983-01-01"
+place_of_birth: "Disej-Mergur, Ajerbaijan-e Gharbi"
+gender: male
+ethnicity: "Kurd"
 religion: "Presumed Muslim"
 photo: null
 
@@ -40,9 +40,8 @@ circumstances: >
     is available on Mr. Salehzadeh (Salehi) s defense. Judgment Mr. Changiz
     Salehzadeh (Salehi) was hanged, along with two others, in the Orumieh
     Central Prison yard on Wednesday December 18, 2013.
-event_context: null
-responsible_forces: null
-
+event_context: "2013 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

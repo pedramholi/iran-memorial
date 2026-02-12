@@ -1,12 +1,22 @@
 id: rajavi-kazem-1990
 name_latin: "Kazem Rajavi"
 name_farsi: "کاظم رجوی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1934-02-18"
+place_of_birth: "Mashhad, North-Eastern Iran"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/85295_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "university professor"
+family:
+  marital_status: "married"
+  children: 3
+  notes: "two sons and a daughter"
+beliefs: "opposed the monarchy"
+quotes:
+  - "\"I felt threatened.\""
 
 # --- DEATH ---
 date_of_death: 1990-04-24
@@ -85,9 +95,8 @@ circumstances: >
     Mr. Rajavi was driving back to his house in Coppet, close to Geneva, when,
     according to witness reports, his route was blocked by two cars. Three men
     were reported to have jumped out of the cars and bega
-event_context: null
-responsible_forces: null
-
+event_context: "extrajudicial execution on 24 April 1990"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

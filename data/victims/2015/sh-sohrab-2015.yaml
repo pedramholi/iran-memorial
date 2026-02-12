@@ -3,7 +3,7 @@ name_latin: "Sohrab Sh."
 name_farsi: "سهراب ش."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -33,9 +33,8 @@ circumstances: >
     Sentence Enforcement in Shiraz confirmed the ruling and the Head of
     Judiciary validated it. He was hanged in public at Qahramanan-e Minarud
     Square in Shiraz on May 31, 2015 in the morning.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on May 31, 2015"
+responsible_forces: "Criminal Court of Fars"
 # --- VERIFICATION ---
 status: unverified
 sources:

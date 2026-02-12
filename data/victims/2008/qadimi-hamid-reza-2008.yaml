@@ -1,12 +1,16 @@
 id: qadimi-hamid-reza-2008
 name_latin: "Hamid Reza Qadimi"
 name_farsi: "حمیدرضا قدیمی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1991-01-01"
+place_of_birth: "Daran near Faridan in Esfahan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "I did not intend to kill the victim but was angry."
 
 # --- DEATH ---
 date_of_death: 2008-07-02
@@ -64,9 +68,8 @@ circumstances: >
     Esfahan condemned Mr. Hamid Reza Qadimi to death. The Supreme Court and
     the Head of Judiciary confirmed the ruling. He was hanged in the presence
     of the victim s family in Esfahan Central Prison on July 2, 2008.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on July 2, 2008"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

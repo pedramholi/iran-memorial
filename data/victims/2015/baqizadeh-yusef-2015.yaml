@@ -1,10 +1,10 @@
 id: baqizadeh-yusef-2015
 name_latin: "Yusef Baqizadeh"
 name_farsi: "یوسف باقی‌زاده"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1959-01-01"
+place_of_birth: "Amirabad Village near Oshnavieh, Azarbaijan-e Gharbi"
+gender: male
+ethnicity: "Kurdish"
 religion: "Presumed Muslim"
 photo: null
 
@@ -44,8 +44,7 @@ circumstances: >
     Mr. Yusef Baqizadeh was hanged at the Khorramabad Central Prison on August
     29, 2015. No specific information is available about his execution.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

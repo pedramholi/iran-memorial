@@ -3,7 +3,7 @@ name_latin: "Mohammad Ali Khadem"
 name_farsi: "محمد علی خادم"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -46,9 +46,8 @@ circumstances: >
     death as a "corruptor on Earth". After the ruling was confirmed by the
     Supreme Court, he was hanged in public in the presence of judiciary and
     security officials in Abuzar (Fallah) quarter on November 9, 1997.
-event_context: null
-responsible_forces: null
-
+event_context: "1997 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

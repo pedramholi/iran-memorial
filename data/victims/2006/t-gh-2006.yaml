@@ -3,7 +3,7 @@ name_latin: "Gh. T."
 name_farsi: "غ. ت."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -45,9 +45,8 @@ circumstances: >
     other individuals, in the presence of the Public Prosecutor, head of the
     provincial Ministry of Justice office, and the prison warden in Taybad
     County s prison on November 16, 2006.
-event_context: null
-responsible_forces: null
-
+event_context: "2006 drug trafficking execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

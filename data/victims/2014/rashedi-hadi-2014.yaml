@@ -1,12 +1,18 @@
 id: rashedi-hadi-2014
 name_latin: "Hadi Rashedi"
 name_farsi: "هادی راشدی"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1980-01-01"
+place_of_birth: "Ramshir (Khalafieh)"
+gender: male
+ethnicity: "Arab"
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/71726_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "chemistry teacher"
+education: "Master's degree in applied chemistry"
+personality: "frail and thin"
+beliefs: "Arab activist of Khuzestan Province"
 
 # --- DEATH ---
 date_of_death: 2014-01-01
@@ -85,9 +91,8 @@ circumstances: >
     tear gas, and are subsequently firing on them in Da ereh and Malashieh
     neighborhoods. The degree of violence resorted to by security and police
     forces in quashing the demonstrations was such
-event_context: null
-responsible_forces: null
-
+event_context: "2005-2006 demonstrations by Iranian Arabs residing in Khuzestan Province"
+responsible_forces: "Ministry of Information"
 # --- VERIFICATION ---
 status: unverified
 sources:

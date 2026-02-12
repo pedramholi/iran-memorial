@@ -1,9 +1,9 @@
 id: mirbakhsh-soheil-2018
 name_latin: "Soheil Mirbakhsh"
 name_farsi: "سهیل میربخش"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1993-01-01"
+place_of_birth: "Orumieh"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -42,9 +42,8 @@ circumstances: >
     Judgment Mr. Soheil Mirbakhsh was sentenced to death by hanging. He and
     another person were executed at the Orumieh Central Prison, on Monday, May
     14, 2018.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on May 14, 2018"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,16 @@
 id: ahmadi-seyed-ali-seyed-2013
 name_latin: "Seyed Ali Seyed Ahmadi"
 name_farsi: "سید‌علی سید‌احمدی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1956-01-01"
+place_of_birth: "Tehran"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/85253_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "head of the Social and Student sections"
+family:
 
 # --- DEATH ---
 date_of_death: 2013-09-01
@@ -86,8 +90,7 @@ circumstances: >
     disarming of the Mojahedin members, the residents of the Ashraf Base came
     under the protection of U.S. forces. Several intelligence s
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

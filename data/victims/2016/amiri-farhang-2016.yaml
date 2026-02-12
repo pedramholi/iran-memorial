@@ -1,12 +1,22 @@
 id: amiri-farhang-2016
 name_latin: "Farhang Amiri"
 name_farsi: "فرهنگ امیری"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1953-01-01"
+place_of_birth: "Hormozak village, Yazd"
+gender: male
 ethnicity: null
 religion: "Baha'i"
 photo: "https://www.iranrights.org/actorphotos/85289_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  children: 4
+  notes: "son of Hedayatollah"
+personality: "known among his neighbors for his kindness, gentleness, wisdom, and humility"
+quotes:
+  - "In reality, from the beginning of the revolution, when they confiscated his and his father's property, he had no choice but to work freelance jobs to earn a living"
+  - "He worked as a driver and also as a farmer; he lived a humble and honorable life. He encouraged his four children to be honest and trustworthy."
 
 # --- DEATH ---
 date_of_death: 2016-09-26
@@ -85,9 +95,8 @@ circumstances: >
     they deemed undesirable. The actual number of the victims of extrajudicial
     killings inside Iran is not clear; however, these murders began in
     February 1979 and have continued s
-event_context: null
-responsible_forces: null
-
+event_context: "1955 attacks against Bahá'ís in Hormozak village"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

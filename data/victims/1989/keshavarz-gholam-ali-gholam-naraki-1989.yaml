@@ -1,12 +1,22 @@
 id: keshavarz-gholam-ali-gholam-naraki-1989
 name_latin: "Gholam Ali (Gholam) Naraki (Keshavarz)"
 name_farsi: "غلام‌علی (غلام) نارکی (کشاورز)"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1954-01-01"
+place_of_birth: "Narak, Emamzadeh Jafar rural district, Dogonbadan Gachsaran County, Kohgiluyeh-va Boyer-Ahmad Province, Iran"
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: "https://www.iranrights.org/actorphotos/83760_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "employee of the Postal Office"
+education: "student at Faculty of Agriculture, University of Tehran-Karaj"
+family:
+personality: "honest, patient, kind, very easy to become friends with"
+beliefs: "member of the Communist Party of Iran, refugees rights activist"
+quotes:
+  - "\"before all else, a place to respond to the refugees daily, direct, and immediate problems\""
+  - "\"Why and how Iranian refugees should organize\""
 
 # --- DEATH ---
 date_of_death: 1989-08-27

@@ -1,9 +1,9 @@
 id: r-h-2015
 name_latin: "H. R."
 name_farsi: "ح. ر."
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1987-01-01"
+place_of_birth: "Gilan"
+gender: male
 ethnicity: null
 religion: null
 photo: null
@@ -38,8 +38,7 @@ circumstances: >
     He was hanged in the presence of authorities at the Rasht Prison yard on
     Saturday February 28, 2015. His body was transferred to the morgue.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Gilan General Courthouse"
 # --- VERIFICATION ---
 status: unverified
 sources:

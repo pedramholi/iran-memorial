@@ -3,7 +3,7 @@ name_latin: "Mehdi Nosratian"
 name_farsi: "مهدی نصرتیان"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -39,9 +39,8 @@ circumstances: >
     on the details of Mr. Nosratian s defense. Judgment Mr. Mehdi Nosratian
     was sentenced to death. He was hanged in the courtyard of Tabriz Central
     Prison on Tuesday, January 5, 2016.
-event_context: null
-responsible_forces: null
-
+event_context: "2016 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Reza Z."
 name_farsi: "رضا ز."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -41,9 +41,8 @@ circumstances: >
     Mr. Reza Z. to death and the General Public Prosecutor s Office and the
     Head of the Judiciary confirmed the ruling. He was hanged at the Arak
     Central Prison yard on February 22, 2015 at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "2015 execution"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

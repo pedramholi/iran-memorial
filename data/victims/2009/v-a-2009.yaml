@@ -3,7 +3,7 @@ name_latin: "A. V."
 name_farsi: "ع. و."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -56,9 +56,8 @@ circumstances: >
     of the victim for clemency, but this appeal was not successful. Mr. A. V.
     was executed in the presence of the family of the victim, on the morning
     of October 7, 2009, in Adl Abad Prison, in Shiraz.
-event_context: null
-responsible_forces: null
-
+event_context: "2005 armed robbery at a jewelry store"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

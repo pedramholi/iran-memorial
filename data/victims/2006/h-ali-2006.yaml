@@ -3,7 +3,7 @@ name_latin: "Ali H."
 name_farsi: "علی ه."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -42,9 +42,8 @@ circumstances: >
     Court. Mr. Ali H. was hanged, along with another individual*, in the
     courtyard of the Karoun Prison of Ahvaz on November 2, 2006.
     ------------------ *Amir A.
-event_context: null
-responsible_forces: null
-
+event_context: "2006 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

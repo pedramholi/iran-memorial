@@ -3,10 +3,13 @@ name_latin: "Mohammad Hossein Golzar Kabir"
 name_farsi: "محمد‌حسین گلزار کبیر"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "discharged employee of the Hamadan municipality"
 
 # --- DEATH ---
 date_of_death: 1990-02-15
@@ -48,8 +51,7 @@ circumstances: >
     the defendant received 148 lashes first, received three injuries and then
     he was beheaded in a public square.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

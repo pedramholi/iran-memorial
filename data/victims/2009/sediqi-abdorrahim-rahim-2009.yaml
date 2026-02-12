@@ -1,12 +1,18 @@
 id: sediqi-abdorrahim-rahim-2009
 name_latin: "Abdorrahim (Rahim) Sediqi"
 name_farsi: "عبدالرحیم (رحیم) صدیقی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1983-01-01"
+place_of_birth: "Pahwaz camp, Birjand County, Southern Khorasan Province"
+gender: male
 ethnicity: null
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/80428_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "livestock farmer"
+family:
+  marital_status: "married"
+  children: 3
 
 # --- DEATH ---
 date_of_death: 2009-05-10

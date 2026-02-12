@@ -1,12 +1,21 @@
 id: miralai-ahmad-1995
 name_latin: "Ahmad Mir'ala'i"
 name_farsi: "احمد میرعلایی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1942-01-01"
+place_of_birth: "Esfahan"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/71616_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "translator, writer, university lecturer, publisher, journalist"
+education: "Bachelor's Degree in English Literature, Master's Degree in English Language and Literature"
+family:
+  marital_status: "married"
+  children: 3
+quotes:
+  - "We are writers; that is, we write about and publish our feelings, thoughts and research in various forms. It is our natural, social and civil right to see our work be it poetry or fiction, plays or screenplays, criticism or research work, and even translation[s] of other writers work reach our readers freely and without restriction."
 
 # --- DEATH ---
 date_of_death: 1995-10-24
@@ -85,9 +94,8 @@ circumstances: >
     poetry or fiction, plays or screenplays, criticism or research work, and
     even translation[s] of other writers work reach our readers freely and
     without restriction. No person or institution, under any pretext
-event_context: null
-responsible_forces: null
-
+event_context: "Chain Murders"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

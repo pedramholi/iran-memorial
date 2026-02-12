@@ -1,12 +1,19 @@
 id: lifshagerdi-hamid-saberi-2013
 name_latin: "Hamid Saberi Lifshagerdi"
 name_farsi: "حمید صابری لیف‌شاگردی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1958-01-01"
+place_of_birth: "Some eh Sara"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/85254_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "Civil Engineering student"
+beliefs: "member of the Mojahedin Organization"
+quotes:
+  - "He joined the Mojahedin Organization in 1978."
+  - "In 1979, while studying Civil Engineering at Kerman University, he continued to collaborate with this organization."
 
 # --- DEATH ---
 date_of_death: 2013-09-01
@@ -87,8 +94,7 @@ circumstances: >
     International Security Assistance Force (ISAF) attack on Iraq and the
     disarming of the Mojahedin members
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

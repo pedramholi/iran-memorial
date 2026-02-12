@@ -1,12 +1,17 @@
 id: h-gholam-reza-2008
 name_latin: "Gholam Reza H."
 name_farsi: "غلامرضا ح."
-date_of_birth: null
+date_of_birth: "1991-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+quotes:
+  - "I loved him like a brother."
 
 # --- DEATH ---
 date_of_death: 2008-10-29
@@ -60,9 +65,8 @@ circumstances: >
     the Criminal Court of Esfahan condemned Mr. Gholam Reza H. to death.
     Branch 33 of the Supreme Court and the Head of Judiciary confirmed the
     ruling. He was hanged in Esfahan Central Prison on October 29, 2008.
-event_context: null
-responsible_forces: null
-
+event_context: "murder of a young Afghan man in Najafabad in November of 2006"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

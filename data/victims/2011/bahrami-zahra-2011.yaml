@@ -2,11 +2,23 @@ id: bahrami-zahra-2011
 name_latin: "Zahra Bahrami"
 name_farsi: "زهرا بهرامی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Tehran"
+gender: female
 ethnicity: null
 religion: "Unknown"
 photo: "https://www.iranrights.org/actorphotos/64318_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "professional Indian dancer"
+education: "student of Indian sitar music at the Rotterdam Conservatory"
+family:
+  marital_status: "divorced"
+  children: 3
+  notes: "had a son and two daughters"
+personality: "described as a lively woman who was very kind to fellow prisoners and defiant towards the guards"
+beliefs: "politically active in support of the opposition"
+quotes:
+  - "\"I could hear her make prisoners laugh. Sometimes, she even made the guards laugh.\""
 
 # --- DEATH ---
 date_of_death: 2011-01-29
@@ -85,9 +97,8 @@ circumstances: >
     Ashura arrests (ABF interview, November 16, 2011). After that date, Ms.
     Bahrami was transferred to the Women's Ward, and two months later, on 7
     December 2010, to the Methadone Ward (HRANA, 28 Oc
-event_context: null
-responsible_forces: null
-
+event_context: "Ashura protests in December 2009"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

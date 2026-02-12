@@ -3,7 +3,7 @@ name_latin: "Shahram"
 name_farsi: "شهرام"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -47,9 +47,8 @@ circumstances: >
     Shahram to death and the Supreme Court confirmed the ruling. He was
     hanged, along with two others, at Qezelhesar Prison in Karaj on August 21,
     2003.
-event_context: null
-responsible_forces: null
-
+event_context: "2003 execution"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

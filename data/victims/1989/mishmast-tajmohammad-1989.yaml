@@ -3,7 +3,7 @@ name_latin: "Tajmohammad Mishmast"
 name_farsi: "تاج محمد میش مست"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -43,9 +43,8 @@ circumstances: >
     No information is available on Mr. Mishmast’s defense. Judgment The court
     condemned Mr. Tajmohammad Mishmast to death and he was hanged in Mashhad
     on March 1, 1989.
-event_context: null
-responsible_forces: null
-
+event_context: "1989 execution of drug traffickers"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

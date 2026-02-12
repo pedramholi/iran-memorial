@@ -1,12 +1,22 @@
 id: mohammadpur-rahim-2016
 name_latin: "Rahim Mohammadpur"
 name_farsi: "رحیم محمدپور"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1981-02-20"
+place_of_birth: "Boyuran-e Sofla village, Sardasht County, Azarbaijan-e Gharbi Province"
+gender: male
+ethnicity: "Kurd"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/85276_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "farmer and cab driver"
+education: "seventh-grade education"
+family:
+  marital_status: "married"
+  children: 2
+personality: "described as excellent and honorable"
+quotes:
+  - "excellent and honorable"
 
 # --- DEATH ---
 date_of_death: 2016-11-07
@@ -86,8 +96,7 @@ circumstances: >
     guilt The complaint mentions the discovery of "approximately one kilogram
     of drugs of the crystal meth-type in th
 event_context: null
-responsible_forces: null
-
+responsible_forces: "law enforcement Headquarters for Combatting Illicit Drugs"
 # --- VERIFICATION ---
 status: unverified
 sources:

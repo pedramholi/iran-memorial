@@ -3,10 +3,20 @@ name_latin: "Seyed Iman Hosseini Moqadam"
 name_farsi: "سیدایمان حسینی مقدم"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/83216_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "involved in construction and car sales"
+family:
+  marital_status: "married"
+  children: 2
+  notes: "had two wives"
+quotes:
+  - "The torture was so awful that if you look at the video of me talking when I was at the Criminal Investigations Bureau, you will notice that I passed out several times and slipped from my chair. I was delirious."
+  - "The torture was so intense that when my son was at Tehran Prosecutor s Office Branch 21, he wanted to jump from the building to free himself from the torture, but the officers saved him at the very last minute."
 
 # --- DEATH ---
 date_of_death: 2018-04-30

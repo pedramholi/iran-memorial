@@ -2,11 +2,17 @@ id: a-r-2014
 name_latin: "R. A."
 name_farsi: "ر. ع."
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Parsabad"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "day laborer"
+family:
+  marital_status: "married"
+  children: 1
 
 # --- DEATH ---
 date_of_death: 2014-01-17

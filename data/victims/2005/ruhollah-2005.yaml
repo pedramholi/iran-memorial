@@ -3,7 +3,7 @@ name_latin: "Ruhollah"
 name_farsi: "روح الله"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -44,8 +44,7 @@ circumstances: >
     was executed at Dizelabad prison in Kermanshah at dawn on November 18,
     2005.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

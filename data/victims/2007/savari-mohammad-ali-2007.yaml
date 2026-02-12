@@ -1,12 +1,23 @@
 id: savari-mohammad-ali-2007
 name_latin: "Mohammad Ali Savari"
 name_farsi: "محمدعلی سواری"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1969-01-01"
+place_of_birth: "Dashte Azadegan"
+gender: male
+ethnicity: "Arab"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/72849_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "English teacher"
+education: "bachelor's degree in English Literature"
+family:
+  marital_status: "married"
+  children: 5
+personality: "calm man, an avid reader, intellectual, humanitarian, and a cultural and social activist"
+beliefs: "did not believe in violence at all, but in peaceful struggle"
+quotes:
+  - "\"I did not believe in violence at all, but in peaceful struggle.\""
 
 # --- DEATH ---
 date_of_death: 2007-09-11
@@ -86,9 +97,8 @@ circumstances: >
     widespread arrests, multiple bombings, and successive executions in Ahvaz.
     For instance, a series of bombings followed on June 12 and October 15,
     2005, and on January 2
-event_context: null
-responsible_forces: null
-
+event_context: "Ahvaz bombings case"
+responsible_forces: "IRGC"
 # --- VERIFICATION ---
 status: unverified
 sources:

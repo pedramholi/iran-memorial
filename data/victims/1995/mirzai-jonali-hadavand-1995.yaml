@@ -2,11 +2,16 @@ id: mirzai-jonali-hadavand-1995
 name_latin: "Jonali Hadavand Mirzai’"
 name_farsi: "جانعلی هداوند میرزایی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Qal ehno village, Javadabad, Varamin County, Tehran Province"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+quotes:
+  - "I was spending the night of the incident at a friend s house."
 
 # --- DEATH ---
 date_of_death: 1995-02-14

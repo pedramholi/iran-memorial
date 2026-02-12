@@ -1,12 +1,16 @@
 id: safavi-mahmud-reza-2013
 name_latin: "Mahmud Reza Safavi"
 name_farsi: "محمود‌رضا صفوی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1957-01-01"
+place_of_birth: "Orumiyeh"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/85255_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "Communications and Logistics in the Liberation Army of the Organization"
+education: "associate degree in Mechanical Engineering"
 
 # --- DEATH ---
 date_of_death: 2013-09-01
@@ -87,8 +91,7 @@ circumstances: >
     International Security Assistance Force (ISAF) attack on Iraq and the
     disarming o
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

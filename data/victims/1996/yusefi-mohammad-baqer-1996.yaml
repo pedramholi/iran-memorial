@@ -1,12 +1,19 @@
 id: yusefi-mohammad-baqer-1996
 name_latin: "Mohammad Baqer Yusefi"
 name_farsi: "محمد‌باقر یوسفی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1960-01-01"
+place_of_birth: "Mazandaran province, Iran"
+gender: male
 ethnicity: null
 religion: "Christianity"
 photo: "https://www.iranrights.org/actorphotos/83963_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "pastor"
+family:
+  marital_status: "married"
+  children: 2
+  notes: "father of two (9-year-old Rasmina and 7-year-old Stephen)"
 
 # --- DEATH ---
 date_of_death: 1996-09-27
@@ -87,8 +94,7 @@ circumstances: >
     others are released with the specter of charges and investigations against
     them that are left open indefinitely. Multip
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

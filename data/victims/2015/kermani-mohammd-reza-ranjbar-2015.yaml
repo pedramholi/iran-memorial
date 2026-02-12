@@ -3,7 +3,7 @@ name_latin: "Mohammd Reza Ranjbar Kermani"
 name_farsi: "محمدرضا رنجبر کرمانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -60,8 +60,7 @@ circumstances: >
     conditions are met and with the condition of not getting involved in
     illegal activities. (ABF research)
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

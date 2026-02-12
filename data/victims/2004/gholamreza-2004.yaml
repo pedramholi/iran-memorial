@@ -3,10 +3,16 @@ name_latin: "GholamReza"
 name_farsi: "غلامرضا"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "father-in-law and brother-in-law involved in the incident"
+quotes:
+  - "I claimed to suffer from temporary insanity."
 
 # --- DEATH ---
 date_of_death: 2004-08-11
@@ -45,9 +51,8 @@ circumstances: >
     Criminal Court of Tehran condemned Mr. Gholam Reza to death. Branch 27 of
     the Supreme Court confirmed the ruling. He was hanged in the presence of
     the victim s family at the Evin Prison in Tehran on August 11, 2004.
-event_context: null
-responsible_forces: null
-
+event_context: "murder case related to a family fight"
+responsible_forces: "Police Station 108, Navab"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Abdolkhaleq A."
 name_farsi: "عبدالخالق الف"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -42,8 +42,7 @@ circumstances: >
     Bahman Square in Saravan on May 28, 2007. This report did not mention any
     confirmation of the ruling by the Supreme Court.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

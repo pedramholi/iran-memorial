@@ -2,11 +2,15 @@ id: safari-hassan-2006
 name_latin: "Hassan Safari"
 name_farsi: "حسن صفری"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Halvan Village near Tabas"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
 
 # --- DEATH ---
 date_of_death: 2006-03-09
@@ -46,8 +50,7 @@ circumstances: >
     and by the head of the Judiciary on February 6, 2005. Mr. Safari was
     hanged in the Tabas County Penitentiary on Thursday, March 9, 2005.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

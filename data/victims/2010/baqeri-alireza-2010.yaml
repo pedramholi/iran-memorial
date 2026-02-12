@@ -1,9 +1,9 @@
 id: baqeri-alireza-2010
 name_latin: "'Alireza Baqeri"
 name_farsi: "علیرضا باقری"
-date_of_birth: null
+date_of_birth: "1980-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -42,8 +42,7 @@ circumstances: >
     Alireza Baqeri was hanged at the Central Prison (Dastgerd) in Esfahan on
     September 21, 2010. Mr. Alireza Baqeri was 30 years old.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

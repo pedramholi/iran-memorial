@@ -40,9 +40,8 @@ circumstances: >
     Mr./Ms. M. Sh.'s defense. Judgment Mr./Ms. M. Sh. was hanged in Delfan in
     January of 2014. No specific information is available about the defendant
     s execution.
-event_context: null
-responsible_forces: null
-
+event_context: "execution in January 2014"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

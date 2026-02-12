@@ -1,9 +1,9 @@
 id: n-mahmud-2010
 name_latin: "Mahmud N"
 name_farsi: "محمود ن"
-date_of_birth: null
+date_of_birth: "1986-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -43,8 +43,7 @@ circumstances: >
     the Central Prison yard in Kashan. The exact date of this execution is
     unknown. Mr. Mahmud N. was 24 years old.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Narcotics Combat Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

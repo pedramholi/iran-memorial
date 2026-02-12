@@ -2,11 +2,15 @@ id: b-a-2012
 name_latin: "A. B."
 name_farsi: "ع ب"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Doshman Ziyari area"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "Mr. A. B. said he regretted what he had done."
 
 # --- DEATH ---
 date_of_death: 2012-05-31
@@ -42,8 +46,7 @@ circumstances: >
     conditions in the courtyard of Gachsaran Prison on May 31, 2012. He was
     buried in the Kalat Village of Kohkiluyeh.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

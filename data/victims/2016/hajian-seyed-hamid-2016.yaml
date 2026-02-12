@@ -3,7 +3,7 @@ name_latin: "Seyed Hamid Hajian"
 name_farsi: "سیدحمید حاجیان"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -45,9 +45,8 @@ circumstances: >
     three other individuals, in Karaj Central Penitentiary Prison, on Tuesday
     January 12, 2016. ------------------------------- * Mohsen Nasiri ,
     Hossein Tutian Nush , and Mostafa Jamshidi
-event_context: null
-responsible_forces: null
-
+event_context: "2016 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

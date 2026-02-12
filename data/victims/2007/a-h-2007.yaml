@@ -40,9 +40,8 @@ circumstances: >
     information is available on Mr. / Ms. H. A.'s defense. Judgment The court
     condemned Mr. / Ms. H. A. to death and the ruling was confirmed by the
     Supreme Court. He was executed in the Tayebad prison on October 8, 2007.
-event_context: null
-responsible_forces: null
-
+event_context: "2007 execution"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

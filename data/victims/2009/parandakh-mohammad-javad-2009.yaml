@@ -1,12 +1,21 @@
 id: parandakh-mohammad-javad-2009
 name_latin: "Mohammad Javad Parandakh"
 name_farsi: "محمدجواد پرنداخ"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1986-01-01"
+place_of_birth: "Gilan-e Gharb, Kermanshah"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/80404_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "senior petro-chemical engineering student"
+family:
+  notes: "became the only breadwinner of the family after his father passed away"
+personality: "happy and optimistic young man"
+beliefs: "interested in cultural and social activities such as publishing a Kurdish newsletter"
+quotes:
+  - "cared a lot about the Kurdish language and traditional clothes so much that he wore traditional Kurdish dress while in university"
 
 # --- DEATH ---
 date_of_death: 2009-08-26
@@ -86,9 +95,8 @@ circumstances: >
     civilian clothing, commonly referred to as plainclothes forces, are used
     in the Islamic Republic to disrupt political and trade union activities,
     student events and gatherings
-event_context: null
-responsible_forces: null
-
+event_context: "2009 Election Background"
+responsible_forces: "IRGC"
 # --- VERIFICATION ---
 status: unverified
 sources:

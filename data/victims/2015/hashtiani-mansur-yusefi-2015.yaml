@@ -2,9 +2,9 @@ id: hashtiani-mansur-yusefi-2015
 name_latin: "Mansur Yusefi Hashtiani"
 name_farsi: "منصور یوسفی هشتیانی"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Kolhar Village, Orumieh, Azarbaijan-e Gharbi"
+gender: male
+ethnicity: "Kurd"
 religion: "Presumed Muslim"
 photo: null
 
@@ -44,8 +44,7 @@ circumstances: >
     3, 2015. He had been transferred to solitary confinement since April 19,
     2015. No specific information is available about this execution.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

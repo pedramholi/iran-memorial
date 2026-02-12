@@ -3,10 +3,14 @@ name_latin: "Khosro Validokht"
 name_farsi: "خسرو ولی دخت"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "His body was left hanging from the gallows for several hours in order to deter others."
 
 # --- DEATH ---
 date_of_death: 1989-03-20
@@ -42,9 +46,8 @@ circumstances: >
     Khazar Square of Sari after receiving 75 lashes on March 20, 1989.
     According to the newspaper report, “His body was left hanging from the
     gallows for several hours in order to deter others.”
-event_context: null
-responsible_forces: null
-
+event_context: "execution on March 20, 1989"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,10 +3,19 @@ name_latin: "Farhad Vakili"
 name_farsi: "فرهاد وکیلی"
 date_of_birth: null
 place_of_birth: null
-gender: null
-ethnicity: null
+gender: male
+ethnicity: "Kurdish"
 religion: "Unknown"
 photo: "https://www.iranrights.org/actorphotos/64517_thumb.jpeg"
+
+# --- LIFE ---
+personality: "described as rational, reasonable, and a person of moral integrity"
+quotes:
+  - "I had the fortune of sharing a cell with Vakili."
+  - "I remember Farhad's smile."
+  - "he was not affected by the tortures and pressures."
+  - "he had never let himself become more radical because of the tortures and pressures, and that he would not give in to feelings of revenge towards his torturers."
+  - "Farhad told me about the coercions he had endured in Raja'ishahr Prison in Karaj."
 
 # --- DEATH ---
 date_of_death: 2010-05-09
@@ -86,8 +95,7 @@ circumstances: >
     Intelligence Department in Sanandaj, I was transferred to Ward 209 to be
     subjected to an even harsher ordeal. I
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

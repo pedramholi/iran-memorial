@@ -1,9 +1,9 @@
 id: damsaz-ali-2001
 name_latin: "Ali Damsaz"
 name_farsi: "علی دمساز"
-date_of_birth: null
+date_of_birth: "1981-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,8 +38,7 @@ circumstances: >
     was executed in Mahmudabad, Mazandaran, on January 25, 2001. No specific
     information is available about this execution.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

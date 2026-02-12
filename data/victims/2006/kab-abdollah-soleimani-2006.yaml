@@ -2,9 +2,9 @@ id: kab-abdollah-soleimani-2006
 name_latin: "Abdollah Soleimani Ka'b"
 name_farsi: "عبدالله سلیمانی کعب"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Shushtar, Khuzestan Province"
+gender: male
+ethnicity: "Arab"
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/72447_thumb.jpeg"
 
@@ -85,9 +85,8 @@ circumstances: >
     obvious footprint of Iraq s occupiers in the Khuzestan incidents. (ISNA,
     January 25, 2006). The British government officially denied these
     accusations and expressed its concern regarding such statements m
-event_context: null
-responsible_forces: null
-
+event_context: "2005-2006 unrests and bombings"
+responsible_forces: "Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

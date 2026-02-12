@@ -1,12 +1,19 @@
 id: tufanpur-amir-hossein-2009
 name_latin: "Amir Hossein Tufanpur"
 name_farsi: "امیرحسین طوفانپور"
-date_of_birth: null
+date_of_birth: "1977-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/61398_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "motorcyclist"
+family:
+  marital_status: "married"
+  children: 1
+  notes: "father of a seven-year-old daughter"
 
 # --- DEATH ---
 date_of_death: 2009-01-01
@@ -85,7 +92,7 @@ circumstances: >
     to the mayor of Tehran. As the demonstrations were ending, paramilitary
     forces attacked the marchers, injuring and killing several people. To
     prevent such news from being broa
-event_context: null
+event_context: "2009 presidential election protests"
 responsible_forces: null
 
 # --- VERIFICATION ---

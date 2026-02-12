@@ -2,8 +2,8 @@ id: dastjerdi-amin-2009
 name_latin: "Amin Dastjerdi"
 name_farsi: "امین دستجردی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Hamadan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -52,7 +52,7 @@ circumstances: >
     winter of 2009 (Iran Human Rights, April 28, 2009; Kurdistan Media,
     January 27, 2009). However, there is no information available on the exact
     date of this execution.
-event_context: null
+event_context: "execution in Sanandaj Central Prison during the winter of 2009"
 responsible_forces: null
 
 # --- VERIFICATION ---

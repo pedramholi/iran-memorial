@@ -1,12 +1,24 @@
 id: fathi-habibollah-2022
 name_latin: "Habibollah Fathi"
 name_farsi: "حبیب‌الله فتحی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1960-06-24"
+place_of_birth: "Haji Musa, a village near Divandareh in Kurdistan Province"
+gender: male
 ethnicity: null
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/86928_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "trader"
+education: "basic literacy"
+family:
+  marital_status: "married"
+  children: 8
+personality: "warmhearted, family-oriented man with strong social ties"
+beliefs: "politically active, member of Komala Organization, served as a Peshmerga"
+quotes:
+  - "a family-oriented, kind, and supportive man with warm social relations"
+  - "a well-known figure in the city of Divandareh"
 
 # --- DEATH ---
 date_of_death: 2022-11-19
@@ -85,9 +97,8 @@ circumstances: >
     arrests of victims family members, factors which posed a serious challenge
     to monitoring protests and documenting casualties. The security forces
     used illegal, excessive, and lethal force with handguns,
-event_context: null
-responsible_forces: null
-
+event_context: "2022 nationwide protests triggered by the killing of Mahsa (Jina) Amini"
+responsible_forces: "Islamic Revolutionary Guard Corps (IRGC)"
 # --- VERIFICATION ---
 status: unverified
 sources:

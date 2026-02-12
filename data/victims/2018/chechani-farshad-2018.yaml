@@ -1,12 +1,21 @@
 id: chechani-farshad-2018
 name_latin: "Farshad Chechani"
 name_farsi: "فرشاد چچانی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1979-01-01"
+place_of_birth: "Paveh, Kermanshah Province"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/85282_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "construction worker, farmer, walnut picker, irrigation manager"
+family:
+  marital_status: "unmarried"
+  children: 0
+  notes: "sixth child in a family of ten"
+personality: "popular, reserved, self-contained, well-read, and politically sensitive"
+beliefs: "communicated with individuals affiliated with the Democratic Party of Iranian Kurdistan (PDKI)"
 
 # --- DEATH ---
 date_of_death: 2018-10-12
@@ -86,9 +95,8 @@ circumstances: >
     however, these murders began in February 1979 and have continued since
     then, both inside and outside Iran. The Abdorrahman Boroumand Center has
     so far ide
-event_context: null
-responsible_forces: null
-
+event_context: "detained for political reasons at least once in 1998 and for a few months in 2009 on charges of possessing alcoholic beverages"
+responsible_forces: "security authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

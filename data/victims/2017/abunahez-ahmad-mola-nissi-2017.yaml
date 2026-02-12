@@ -2,11 +2,18 @@ id: abunahez-ahmad-mola-nissi-2017
 name_latin: "Ahmad Mola Nissi (Abunahez)"
 name_farsi: "احمد مولا نیسی (ابو ناهض)"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Shoaibiyeh village, Shushtar"
+gender: male
+ethnicity: "Arab"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/85296_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "political activist"
+family:
+  marital_status: "married"
+  children: 4
+beliefs: "founder of the separatist organization 'Ahwaz Arabic Liberation Movement'"
 
 # --- DEATH ---
 date_of_death: 2017-11-08
@@ -86,8 +93,7 @@ circumstances: >
     Times). Ahwaz Arabic Liberation Movement The organization, also known as
     the Al-Ahvaz Group, is a paramilitary organization that seeks
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

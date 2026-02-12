@@ -3,7 +3,7 @@ name_latin: "Mohammad D."
 name_farsi: "محمد د."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -47,9 +47,8 @@ circumstances: >
     defense. Judgment The Islamic Revolutionary Court of Birjand sentenced Mr.
     Mohammad D. to death. He was hanged in the Salman Operations Center in the
     Khorasan-e Jonoubi region on February 22, 2006.
-event_context: null
-responsible_forces: null
-
+event_context: "2006 execution"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

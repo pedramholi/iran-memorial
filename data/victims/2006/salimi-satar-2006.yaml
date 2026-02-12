@@ -1,12 +1,19 @@
 id: salimi-satar-2006
 name_latin: "Satar Salimi"
 name_farsi: "ستار سلیمی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1988-01-01"
+place_of_birth: "Tabriz"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/87132_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "student"
+education: "attended Akbariyeh Technical High School"
+family:
+  notes: "came from a low-income family"
+beliefs: "interested in learning Azerbaijani Turkish language and literature"
 
 # --- DEATH ---
 date_of_death: 2006-07-23
@@ -85,9 +92,8 @@ circumstances: >
     pressure on the victims families and restrictions on holding public
     memorials continued for years. Arrest and Detention Mr. Satar Salimi was
     detained during protests in Tabriz in June 2006. Security forces
-event_context: null
-responsible_forces: null
-
+event_context: "2006 Azerbaijan Protests"
+responsible_forces: "Basij"
 # --- VERIFICATION ---
 status: unverified
 sources:

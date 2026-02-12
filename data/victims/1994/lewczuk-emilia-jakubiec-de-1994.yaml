@@ -2,11 +2,16 @@ id: lewczuk-emilia-jakubiec-de-1994
 name_latin: "Emilia Jakubiec de Lewczuk"
 name_farsi: "امیلیا جکوبیک دلچوک"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Buenos Aires, Argentina"
+gender: female
 ethnicity: null
 religion: "Judaism"
 photo: "https://www.iranrights.org/actorphotos/11869_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  notes: "very close with her friends and her sister"
+personality: "sensitive person"
 
 # --- DEATH ---
 date_of_death: 1994-07-18
@@ -85,9 +90,8 @@ circumstances: >
     governed region bordering Argentina, Brazil, and Paraguay, that has become
     a danger point for terrorism. From the evidence gathered, two Iranian
     diplomats in Buenos Aires actively assisted Hezbollah. Moh
-event_context: null
-responsible_forces: null
-
+event_context: "AMIA bombing"
+responsible_forces: "Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Ali Adelzadeh"
 name_farsi: "علی عادل زاده"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -54,9 +54,8 @@ circumstances: >
     added that the ruling was confirmed by the Supreme Court. Mr. Ali
     Adelzadeh was executed in public in Qasemabad district in Mashad at 10 on
     the morning of July 6, 2005.
-event_context: null
-responsible_forces: null
-
+event_context: "2005 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

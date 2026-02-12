@@ -3,10 +3,14 @@ name_latin: "Ali Alipur"
 name_farsi: "علی علیپور"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "addiction to heroin [and] supplying and distributing tens of kilograms of heroin over the years."
 
 # --- DEATH ---
 date_of_death: 2001-03-19
@@ -32,9 +36,8 @@ circumstances: >
     available on Alipur s defense. Judgment The court condemned Mr. Ali Alipur
     to death. He was executed in public at the Khak Sefid area in Tehranpars
     on March 19, 2001.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on March 19, 2001"
+responsible_forces: "security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

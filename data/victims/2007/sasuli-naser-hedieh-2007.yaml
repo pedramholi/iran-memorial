@@ -3,7 +3,7 @@ name_latin: "Naser Hedieh Sasuli"
 name_farsi: "ناصر هدیه ساسولی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -43,9 +43,8 @@ circumstances: >
     31, 2007. Regarding this execution the Sistan and Baluchestan Court
     announced: “The judiciary system acts decisively to deal with death
     dealers, seditious groups, and disruptors of security.”
-event_context: null
-responsible_forces: null
-
+event_context: "2007 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

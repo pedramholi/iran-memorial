@@ -3,7 +3,7 @@ name_latin: "Shamsoddin Monafi"
 name_farsi: "شمس الدین منافی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -44,9 +44,8 @@ circumstances: >
     was condemned to life imprisonment, but pardoned. Defense No information
     is available on Mr. Monafi’s defense. Judgment The court condemned Mr.
     Shamsoddin Monafi to death and he was hanged in Tabriz on March 1, 1989.
-event_context: null
-responsible_forces: null
-
+event_context: "1989 execution of drug traffickers"
+responsible_forces: "Center for Combating Narcotics"
 # --- VERIFICATION ---
 status: unverified
 sources:

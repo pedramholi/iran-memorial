@@ -3,10 +3,18 @@ name_latin: "Mohammad Hossein Naqdi"
 name_farsi: "محمد حسین نقدی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/83948_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "charge d'affaire"
+education: "Milan School of Management"
+family:
+  marital_status: "married"
+  notes: "wife is Ferminia Moroni, who was also an active member of the National Council of Resistance"
+beliefs: "joined the National Council of Resistance, the Mojahedeen Khalq Organization s (MKO) political wing"
 
 # --- DEATH ---
 date_of_death: 1993-03-16
@@ -86,8 +94,7 @@ circumstances: >
     identified over 540 killings outside Iran attributed to the Islamic
     Republic of Iran. Dissidents have been assassinated by the agents
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

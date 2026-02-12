@@ -3,7 +3,7 @@ name_latin: "Adel Karami"
 name_farsi: "عادل کرمی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -43,9 +43,8 @@ circumstances: >
     information is available on Mr. Karami s defense. Judgment Mr. Adel Karami
     was hanged, along with seven other individuals, at the Qezelhesar Prison
     yard in Karaj on February 18, 2014.
-event_context: null
-responsible_forces: null
-
+event_context: "2014 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

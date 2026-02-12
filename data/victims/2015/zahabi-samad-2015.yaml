@@ -1,12 +1,19 @@
 id: zahabi-samad-2015
 name_latin: "Samad Zahabi"
 name_farsi: "صمد ذهبی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1994-01-01"
+place_of_birth: "Karambast Village, Kermanshah"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/75087_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "shepherd"
+family:
+personality: "quiet and shy"
+quotes:
+  - "the shooting was accidental and he did not intend to kill the victim"
 
 # --- DEATH ---
 date_of_death: 2015-10-05
@@ -85,9 +92,8 @@ circumstances: >
     statements of individuals close to him, Mr. Zahabi had no intention of
     shooting and the murder was an accident. According to Iranian law, a
     murder is considered intentional when the murderer either intends t
-event_context: null
-responsible_forces: null
-
+event_context: "fall of 2011"
+responsible_forces: "Intelligence Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

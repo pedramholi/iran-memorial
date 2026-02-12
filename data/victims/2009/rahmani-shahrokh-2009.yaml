@@ -1,12 +1,16 @@
 id: rahmani-shahrokh-2009
 name_latin: "Shahrokh Rahmani"
 name_farsi: "شاهرخ رحمانی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1984-08-16"
+place_of_birth: "Tehran"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/61724_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  notes: "son of Hamzeh"
 
 # --- DEATH ---
 date_of_death: 2009-12-27
@@ -85,9 +89,8 @@ circumstances: >
     appeared and chanted slogans in support of the government. Several video
     clips posted on YouTube and to other websites showed victims being killed.
     In one of these clips, a police vehicle i
-event_context: null
-responsible_forces: null
-
+event_context: "2009 Ashura protests"
+responsible_forces: "police"
 # --- VERIFICATION ---
 status: unverified
 sources:

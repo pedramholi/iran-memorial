@@ -1,12 +1,23 @@
 id: feizollahi-latif-2013
 name_latin: "Latif Feizollahi"
 name_farsi: "لطیف فیض اللهی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1965-01-01"
+place_of_birth: "Dolatabad, Ravansar, Kermanshah Province"
+gender: male
 ethnicity: null
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/81471_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "farmer"
+education: "seventh grade"
+family:
+  marital_status: "married"
+  children: 2
+personality: "quiet, dignified, and religious"
+quotes:
+  - "I had accepted the charge of murder so that my wife and sister who had been arrested at the same time I was, could be released."
+  - "My father had been the one who had struck the victim."
 
 # --- DEATH ---
 date_of_death: 2013-12-17
@@ -85,9 +96,8 @@ circumstances: >
     charges to him. Judgment On February 18, 2010, the Town of Ravansar
     Criminal Court, Branch 101, sentenced Mr. Feizollahi to Qesas of life (the
     death penalty as retribution) on
-event_context: null
-responsible_forces: null
-
+event_context: "murder of his cousin in a collective family brawl in the Banchian Sofla village in 1998-99"
+responsible_forces: "police"
 # --- VERIFICATION ---
 status: unverified
 sources:

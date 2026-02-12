@@ -3,7 +3,7 @@ name_latin: "Abbas Mo'tamedian"
 name_farsi: "عباس معتمدیان"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -45,8 +45,7 @@ circumstances: >
     was publicly hanged in the Shohada Square of the city of Kerman on January
     30, 2006.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

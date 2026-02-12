@@ -2,11 +2,15 @@ id: t-h-2015
 name_latin: "H. T."
 name_farsi: "ح. ت."
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Gilan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "son of Gholam Reza"
 
 # --- DEATH ---
 date_of_death: 2015-01-31
@@ -46,8 +50,7 @@ circumstances: >
     in the Rasht Central Prison on January 31, 2015. His body was transferred
     to the morgue to be given to his relatives.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

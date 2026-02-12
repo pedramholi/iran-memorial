@@ -1,9 +1,9 @@
 id: sekhavatian-abdolhamid-2013
 name_latin: "Abdolhamid Sekhavatian"
 name_farsi: "عبدالحمید سخاوتیان"
-date_of_birth: null
+date_of_birth: "1985-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -56,8 +56,7 @@ circumstances: >
     months imprisonment and 50 lashes for robbery with harassment, and to
     another six months imprisonment for hiding the victim s body.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "IRGC"
 # --- VERIFICATION ---
 status: unverified
 sources:

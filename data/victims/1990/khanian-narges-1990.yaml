@@ -3,10 +3,13 @@ name_latin: "Narges Khanian"
 name_farsi: "نرگس خانیان"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+beliefs: "supporter of the Mojahedin e Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1990-01-01
@@ -86,8 +89,7 @@ circumstances: >
     a Judge of the Islamic Revolutionary Courts, officially announced the
     regime s decision to implement extrajudicial executions, and j
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Information Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

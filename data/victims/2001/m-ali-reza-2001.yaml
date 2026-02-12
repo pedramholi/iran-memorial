@@ -3,7 +3,7 @@ name_latin: "Ali Reza M."
 name_farsi: "علیرضا م."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -54,9 +54,8 @@ circumstances: >
     policing, and to 100 lashes for illegitimate relationships. The Supreme
     Court confirmed the ruling. He was hanged at the Evin Prison yard on
     October 22, 2001.
-event_context: null
-responsible_forces: null
-
+event_context: "2001 execution"
+responsible_forces: "Basiji"
 # --- VERIFICATION ---
 status: unverified
 sources:

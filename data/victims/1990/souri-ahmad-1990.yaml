@@ -3,7 +3,7 @@ name_latin: "Ahmad Souri"
 name_farsi: "احمد صوری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -40,8 +40,7 @@ circumstances: >
     available on Mr. Ahmad Souri 's defense. Judgment No further information
     is available on the execution of Mr. Ahmad Souri
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic’s authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

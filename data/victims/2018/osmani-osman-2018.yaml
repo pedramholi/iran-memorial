@@ -1,12 +1,22 @@
 id: osmani-osman-2018
 name_latin: "Osman Osmani"
 name_farsi: "عثمان عثمانی"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1964-11-01"
+place_of_birth: "Gerdashawan, Piranshahr County, West Azarbaijan Province"
+gender: male
+ethnicity: "Kurdish"
 religion: "Non-Believer"
 photo: "https://www.iranrights.org/actorphotos/83938_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "radio communications specialist"
+education: "fifth grade"
+family:
+  marital_status: "married"
+personality: "kind, personable, and calm man"
+beliefs: "member of the Democratic Party of Iranian Kurdistan"
+quotes:
+  - "Mr. Osmani s wish was for his children to have bright future."
 
 # --- DEATH ---
 date_of_death: 2018-09-08

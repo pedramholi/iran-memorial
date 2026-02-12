@@ -1,12 +1,22 @@
 id: b-z-2009
 name_latin: "Z. B."
 name_farsi: "ذ. ب."
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1979-01-01"
+place_of_birth: "Shiraz"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "unemployed"
+family:
+  marital_status: "single"
+  children: 0
+  notes: "romantically interested in a girl whose father was against their marriage"
+quotes:
+  - "I had not intended to murder the victim, but that I only wanted to scare him off by showing him the Colt."
+  - "the four bullets had been fired accidentally"
 
 # --- DEATH ---
 date_of_death: 2009-01-28
@@ -55,9 +65,8 @@ circumstances: >
     Court. Mr. Z. B. was hanged at the request of the first-degree blood
     relatives of the victim in Adelabad Prison, Shiraz on the morning of
     Wednesday, January 28, 2009.
-event_context: null
-responsible_forces: null
-
+event_context: "murder of the father of the girl he was romantically interested in"
+responsible_forces: "Police Criminal Investigation Department"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,15 @@
 id: f-morteza-2006
 name_latin: "Morteza F."
 name_farsi: "مرتضی ف."
-date_of_birth: null
+date_of_birth: "1985-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
 
 # --- DEATH ---
 date_of_death: 2006-01-01
@@ -52,8 +55,7 @@ circumstances: >
     s defense. Judgment The Public Court of Fars Province sentenced Mr.
     Morteza F. to death. He was hanged in Darab County in 2006.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Public Court of Fars Province"
 # --- VERIFICATION ---
 status: unverified
 sources:

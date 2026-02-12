@@ -3,7 +3,7 @@ name_latin: "Sediq"
 name_farsi: "صدیق"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -31,8 +31,7 @@ circumstances: >
     Court confirmed the ruling. He was hanged, along with eight others, in
     Evin Prison on October 17, 2007.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Criminal Court of Tehran"
 # --- VERIFICATION ---
 status: unverified
 sources:

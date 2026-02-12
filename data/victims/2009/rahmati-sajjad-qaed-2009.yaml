@@ -1,12 +1,16 @@
 id: rahmati-sajjad-qaed-2009
 name_latin: "Sajjad Qa'ed Rahmati"
 name_farsi: "سجاد قائد رحمتی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1989-03-21"
+place_of_birth: "Lorestan Province"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/61684_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "seeking a job"
+family:
 
 # --- DEATH ---
 date_of_death: 2009-06-20
@@ -85,9 +89,8 @@ circumstances: >
     They filed complaints with the Council of Guardians, the constitutional
     body charged with vetting candidates before elections take place and
     approving the results afterwards, requestin
-event_context: null
-responsible_forces: null
-
+event_context: "2009 presidential elections unrest"
+responsible_forces: "Basij"
 # --- VERIFICATION ---
 status: unverified
 sources:

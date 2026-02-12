@@ -3,7 +3,7 @@ name_latin: "Amanollah"
 name_farsi: "امان‌الله"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -44,9 +44,8 @@ circumstances: >
     Branch One of the Islamic Revolutionary Court of Zahedan sentenced Mr.
     Amanollah to death. The verdict was validated by the Supreme Court. Mr.
     Amanollah was publicly hanged in Saravan County on December 29, 2006.
-event_context: null
-responsible_forces: null
-
+event_context: "2006 execution"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,21 @@
 id: mohammadi-shahryar-2022
 name_latin: "Shahryar Mohammadi"
 name_farsi: "شهریار محمدی"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1994-04-25"
+place_of_birth: "Bukan, West Azerbaijan"
+gender: male
+ethnicity: "Kurdish"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/85292_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "tradesman"
+education: "studied architecture"
+family:
+personality: "very calm, kind, supportive, athletic, hard-working and caring youth"
+beliefs: "interested in political activities and the Komala party"
+quotes:
+  - "I dream of dying without dreams"
 
 # --- DEATH ---
 date_of_death: 2022-11-18
@@ -87,8 +96,7 @@ circumstances: >
     people's problems and helped solve them. A person who was close to Mr.
     Moham
 event_context: null
-responsible_forces: null
-
+responsible_forces: "IRGC"
 # --- VERIFICATION ---
 status: unverified
 sources:

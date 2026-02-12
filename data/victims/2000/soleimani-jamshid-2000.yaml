@@ -3,7 +3,7 @@ name_latin: "Jamshid Soleimani"
 name_farsi: "جمشید سلیمانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -49,9 +49,8 @@ circumstances: >
     Soleimani to death for murder. He was hanged in public at the Basij Square
     in Kuhdasht on November 21, 2000. No specific information is available
     about this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "1998 murder case"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

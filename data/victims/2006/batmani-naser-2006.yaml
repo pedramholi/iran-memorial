@@ -1,9 +1,9 @@
 id: batmani-naser-2006
 name_latin: "Naser Batmani"
 name_farsi: "ناصر باتمانی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1984-01-01"
+place_of_birth: "Kamyaran, Kurdistan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -48,8 +48,7 @@ circumstances: >
     Batmani was hanged in Sanandaj Prison in December of 2006. There is no
     information on the verdict leading to this execution.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

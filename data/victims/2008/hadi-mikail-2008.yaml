@@ -1,12 +1,21 @@
 id: hadi-mikail-2008
 name_latin: "Mika’il Hadi"
 name_farsi: "میکائیل هادی"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1958-01-01"
+place_of_birth: "Sanandaj"
+gender: male
+ethnicity: "Kurd"
 religion: "Islam (Sunni)"
 photo: null
+
+# --- LIFE ---
+occupation: "shop owner"
+education: "primary school"
+family:
+  marital_status: "married"
+  children: 4
+  notes: "from one of the prominent families of Sanandaj"
+personality: "a good man"
 
 # --- DEATH ---
 date_of_death: 2008-01-01
@@ -67,8 +76,7 @@ circumstances: >
     twenty years, another one to ten years, and Mr. Hadi s son to six months
     imprisonment.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "police force of Sanandaj"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Jahangir Eshaqi"
 name_farsi: "جهانگیر اسحاقی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -36,8 +36,7 @@ circumstances: >
     was hanged in the central prison of Mashad. The Kayhan newspaper does not
     report the execution date.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

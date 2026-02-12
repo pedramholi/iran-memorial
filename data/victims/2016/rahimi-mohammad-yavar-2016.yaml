@@ -2,11 +2,19 @@ id: rahimi-mohammad-yavar-2016
 name_latin: "Mohammad Yavar Rahimi"
 name_farsi: "محمدیاور رحیمی"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Sanandaj"
+gender: male
+ethnicity: "Kurd"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/76083_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "mathematics student"
+family:
+  marital_status: "married"
+  notes: "child of Nasser"
+personality: "quiet and patient"
+beliefs: "follower of the Shafe'i branch of Islam"
 
 # --- DEATH ---
 date_of_death: 2016-08-02
@@ -86,8 +94,7 @@ circumstances: >
     Sheikh-ol-Eslam, member of the Assembly of Experts, and Molla Borhan Aali,
     a Sunni cleric. Security forces
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

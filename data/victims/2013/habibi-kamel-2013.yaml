@@ -3,8 +3,8 @@ name_latin: "Kamel Habibi"
 name_farsi: "کامل حبیبی"
 date_of_birth: null
 place_of_birth: null
-gender: null
-ethnicity: null
+gender: male
+ethnicity: "Kurd"
 religion: "Presumed Muslim"
 photo: null
 
@@ -41,9 +41,8 @@ circumstances: >
     information is available on Mr. Habibi s defense. Judgment Mr. Kamel
     Habibi was hanged, along with six others, in the Orumieh Central Prison on
     Wednesday October 30, 2013.
-event_context: null
-responsible_forces: null
-
+event_context: "2013 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

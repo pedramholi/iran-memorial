@@ -1,12 +1,18 @@
 id: nazari-amir-masud-2013
 name_latin: "Amir Mas'ud Nazari"
 name_farsi: "امیر‌مسعود نظری"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1979-01-01"
+place_of_birth: "Tehran"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/85246_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  marital_status: "single"
+quotes:
+  - "I decided to join the Liberation Army."
 
 # --- DEATH ---
 date_of_death: 2013-09-01
@@ -86,8 +92,7 @@ circumstances: >
     2003, inflicting casualties, property, and financial damage. After the
     International Security Assistance Force (ISAF) att
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

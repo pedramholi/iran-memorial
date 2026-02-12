@@ -1,12 +1,25 @@
 id: bakhtiar-shapur-1991
 name_latin: "Shapur Bakhtiar"
 name_farsi: "شاپور بختیار"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1914-06-26"
+place_of_birth: "Chaharmahal and Bakhtiari Province"
+gender: male
+ethnicity: "Bakhtiari"
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/85250_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "politician"
+education: "PhD in law"
+family:
+  marital_status: "married"
+  children: 5
+  notes: "father of five, first wife was a French citizen, married again in the 1980s and had another child"
+personality: "cheerful, warm, brave and generous"
+beliefs: "social democrat"
+quotes:
+  - "I am first a human being, then an Iranian, and then a Muslim."
+  - "a flame that will never die."
 
 # --- DEATH ---
 date_of_death: 1991-08-06
@@ -85,9 +98,8 @@ circumstances: >
     1953. Following the overthrow of Mossadeq in 1953, Bakhtiar was arrested
     multiple times and spent close to six years in jail for his peaceful
     dissent and activities to revive the Natio
-event_context: null
-responsible_forces: null
-
+event_context: "1953 coup against Mossadeq"
+responsible_forces: "Tudeh Party"
 # --- VERIFICATION ---
 status: unverified
 sources:

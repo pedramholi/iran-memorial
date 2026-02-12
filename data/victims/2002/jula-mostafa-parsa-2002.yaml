@@ -2,8 +2,8 @@ id: jula-mostafa-parsa-2002
 name_latin: "Mostafa Parsa (Jula)"
 name_farsi: "مصطفی پارسا (جولا)"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Savoji Village, Khav, Mirabad District, Marivan, Kurdistan"
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -44,9 +44,8 @@ circumstances: >
     Marivan and the surrounding villages. The Friday Imam or a member of the
     Shahid (Martyr) Foundation placed the noose around his neck. (Rozaneh
     website)
-event_context: null
-responsible_forces: null
-
+event_context: "execution on November 6, 2002"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

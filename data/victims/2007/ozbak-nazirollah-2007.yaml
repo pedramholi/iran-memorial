@@ -2,11 +2,16 @@ id: ozbak-nazirollah-2007
 name_latin: "Nazirollah Ozbak"
 name_farsi: "نظیرالله ازبک"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Afghanistan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/60987_thumb.jpeg"
+
+# --- LIFE ---
+quotes:
+  - "I deny the charges. I only killed one person, the same woman for whose murder I was arrested in a house in Niavaran [a district in Tehran]."
+  - "When I brought that woman to the house, I noticed that she wanted to rob the place. She was collecting my belongings when I attacked and strangled her. I left her body there and when a few days later I went to that place to hide her body, I was arrested. I only accept this one murder."
 
 # --- DEATH ---
 date_of_death: 2007-01-03
@@ -67,9 +72,8 @@ circumstances: >
     referred to Branch 74 of the court. The defendant was then condemned to
     three death penalties by hanging and the Supreme Court confirmed this
     verdict. He was hanged in Evin prison on January 3, 2007.
-event_context: null
-responsible_forces: null
-
+event_context: "2004"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

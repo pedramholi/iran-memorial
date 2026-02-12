@@ -3,10 +3,14 @@ name_latin: "Mohammad Azarfam"
 name_farsi: "محمد آذرفام"
 date_of_birth: null
 place_of_birth: null
-gender: null
-ethnicity: null
+gender: male
+ethnicity: "Baluch"
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "I think the process to investigate narcotics related cases is not right. For example, all rulings related to narcotics charges cannot be appealed. The only authority that can appeal these rulings is the General Public Prosecutor who is the public defender and the prosecutor."
 
 # --- DEATH ---
 date_of_death: 2010-06-07
@@ -52,9 +56,8 @@ circumstances: >
     2010. The ruling was carried out without the presence of the defendant’s
     attorney. The defendant’s family was not informed of the time of his
     execution.
-event_context: null
-responsible_forces: null
-
+event_context: "2010 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

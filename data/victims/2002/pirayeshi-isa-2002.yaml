@@ -1,9 +1,9 @@
 id: pirayeshi-isa-2002
 name_latin: "Isa Pirayeshi"
 name_farsi: "عیسی پیرایشی"
-date_of_birth: null
+date_of_birth: "1983-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -39,8 +39,7 @@ circumstances: >
     executed in the Bandar-e Abbas Central Prison on December 12, 2002 in the
     morning. He received 74 lashes before his execution.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Homicide Special Branch of Judiciary"
 # --- VERIFICATION ---
 status: unverified
 sources:

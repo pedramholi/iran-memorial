@@ -2,8 +2,8 @@ id: mokhtari-afshin-2015
 name_latin: "Afshin Mokhtari"
 name_farsi: "افشین مختاری"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Karaj, Alborz"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -45,8 +45,7 @@ circumstances: >
     Mokhtari was hanged in Sanandaj Central Prison on January 8, 2015. There
     is no information available on the details of this verdict.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

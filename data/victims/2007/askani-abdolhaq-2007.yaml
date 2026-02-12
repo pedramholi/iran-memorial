@@ -3,7 +3,7 @@ name_latin: "Abdolhaq Askani"
 name_farsi: "عبدالحق آسکانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -39,9 +39,8 @@ circumstances: >
     is available on Mr. Askani's defence. Judgment The court condemned Mr.
     Abdolhaq Askani to death and the Supreme Court confirmed the ruling. He
     was hanged in public in Saravan on May 21, 2007.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on May 21, 2007"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

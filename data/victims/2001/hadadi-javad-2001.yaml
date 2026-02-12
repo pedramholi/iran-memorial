@@ -3,10 +3,14 @@ name_latin: "Javad Hadadi"
 name_farsi: "جواد حدادی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/74513_thumb.jpeg"
+
+# --- LIFE ---
+quotes:
+  - "Mr. Hadadi confessed that he had committed the crime because of his feeling for the victim s wife."
 
 # --- DEATH ---
 date_of_death: 2001-10-25
@@ -54,9 +58,8 @@ circumstances: >
     October 24, 2001. The victim s wife, the second row defendant of this
     case, was condemned to 15 years imprisonment and 99 lashes for
     participation in murder.
-event_context: null
-responsible_forces: null
-
+event_context: "murder of a young man near the Hemat Highway in Tehran in January of 1999"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

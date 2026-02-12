@@ -3,10 +3,13 @@ name_latin: "Unknown"
 name_farsi: "ناشناس"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim (Sunni)"
 photo: null
+
+# --- LIFE ---
+beliefs: "supporter of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1997-01-01
@@ -86,9 +89,8 @@ circumstances: >
     of 1997, or at the very latest, the fall of that year (Boroumand Center
     Interview, October 18, 2021; Boroumand Center Interview, October 20, 2021;
     Iran Efshagari Website, O
-event_context: null
-responsible_forces: null
-
+event_context: "Alghadir operation"
+responsible_forces: "Information Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

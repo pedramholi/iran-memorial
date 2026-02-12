@@ -1,12 +1,17 @@
 id: semsarpur-fatemeh-2009
 name_latin: "Fatemeh Semsarpur"
 name_farsi: "فاطمه سمسارپور"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1960-09-19"
+place_of_birth: "Babol, Mazandaran Province"
+gender: female
 ethnicity: null
 religion: "Presumed Muslim (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/86406_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  children: 2
 
 # --- DEATH ---
 date_of_death: 2009-06-20
@@ -86,9 +91,8 @@ circumstances: >
     plainclothes agents were posted on internet websites. Internet users
     helped to identify some of them and provided evidence that these
     individuals were affiliate
-event_context: null
-responsible_forces: null
-
+event_context: "2009 Election protests"
+responsible_forces: "security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

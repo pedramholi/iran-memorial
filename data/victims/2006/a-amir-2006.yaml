@@ -3,7 +3,7 @@ name_latin: "Amir A."
 name_farsi: "امیر ع."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -47,8 +47,7 @@ circumstances: >
     courtyard of the Karoun Prison of Ahvaz on November 2, 2006.
     ----------------------- *Ali H.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "provincial Ministry of Justice office of Khuzestan Province"
 # --- VERIFICATION ---
 status: unverified
 sources:

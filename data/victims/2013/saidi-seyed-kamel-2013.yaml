@@ -3,10 +3,13 @@ name_latin: "Seyed Kamel Sa'idi"
 name_farsi: "سیدکامل سعیدی"
 date_of_birth: null
 place_of_birth: null
-gender: null
-ethnicity: null
+gender: male
+ethnicity: "Kurd"
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "unknown"
 
 # --- DEATH ---
 date_of_death: 2013-10-30
@@ -46,9 +49,8 @@ circumstances: >
     available on Mr. Sa idi s defense. Judgment Mr. Seyed Kamel Sa idi was
     hanged, along with six others, in the Orumieh Central Prison on Wednesday
     October 30, 2013.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on October 30, 2013"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

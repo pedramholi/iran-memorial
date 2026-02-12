@@ -1,12 +1,23 @@
 id: khayat-faruq-hassan-2018
 name_latin: "Faruq Hassan Khayat"
 name_farsi: "فاروق حسن‌خیاط"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1986-03-21"
+place_of_birth: "Bardeh Zard, Bukan County, Western Azarbaijan Province"
+gender: male
+ethnicity: "Kurd"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/83940_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "Peshmerga"
+education: "Associate Degree in Agriculture, Bachelor’s Degree in Agriculture"
+family:
+  marital_status: "single"
+  notes: "in a relationship with a female Peshmerga member, and they were planning to get married."
+personality: "calm, dignified, well-mannered, frank and direct"
+beliefs: "member of the Democratic Party of Iranian Kurdistan"
+quotes:
+  - "\"I insisted on strictly following the Party’s principles, rules, and regulations.\""
 
 # --- DEATH ---
 date_of_death: 2018-09-08
@@ -86,8 +97,7 @@ circumstances: >
     late 1980 s, and have adopted different strategies in different periods in
     order to confront the Islamic Republic, advance their political objecti
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Democratic Party of Iranian Kurdistan"
 # --- VERIFICATION ---
 status: unverified
 sources:

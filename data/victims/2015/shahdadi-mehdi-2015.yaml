@@ -1,9 +1,9 @@
 id: shahdadi-mehdi-2015
 name_latin: "Mehdi Shahdadi"
 name_farsi: "مهدی شهدادی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1984-01-01"
+place_of_birth: "Iranshahr"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -43,9 +43,8 @@ circumstances: >
     Shahdadi's defense. Judgment Mr. Mehdi Shahdadi was hanged in Bandar-e
     Abbas on February 22, 2015. No further information is available regarding
     this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "2015 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

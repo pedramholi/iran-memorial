@@ -2,11 +2,15 @@ id: musavi-hassan-2008
 name_latin: "Hassan Musavi"
 name_farsi: "حسن موسوی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Zarinshahr, Esfahan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "According to him, the murder motive was an illegitimate relationship of the victim."
 
 # --- DEATH ---
 date_of_death: 2008-04-22
@@ -52,9 +56,8 @@ circumstances: >
     Appeals Court of Esfahan condemned Mr. Hassan Musavi to death on June 18,
     2006. The Supreme Court and the Head of Judiciary confirmed the ruling. He
     was hanged in Esfahan Central Prison on April 22, 2008.
-event_context: null
-responsible_forces: null
-
+event_context: "murder of a 21-year-old man in 2005"
+responsible_forces: "Intelligence Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

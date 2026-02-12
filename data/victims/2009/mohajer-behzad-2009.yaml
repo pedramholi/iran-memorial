@@ -3,10 +3,20 @@ name_latin: "Behzad Mohajer"
 name_farsi: "بهزاد مهاجر"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/61166_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  marital_status: "single"
+  children: 0
+  notes: "lost his parents; brother and sister and their children mourn for his death."
+personality: "happy, joyful, and kind person; everything was organized in his house."
+quotes:
+  - "On June 15 at 9 in the evening, my brother called me and said that he was in Azadi Square and that a lot of people showed up, and everything was calm like the Tasu a Day in 1978."
+  - "As a family who have no special connection, we cannot do much politically; however, we will follow up the case legally. We hope there are justice and an independent judiciary in this country and the perpetrators are identified and prosecuted."
 
 # --- DEATH ---
 date_of_death: 2009-01-01
@@ -85,7 +95,7 @@ circumstances: >
     (around 4:00 a.m.). Many supporters of other presidential candidates came
     out into the streets on June 13th, once the results were made public, to
     protest what they believed to be a fra
-event_context: null
+event_context: "2009 presidential election protests"
 responsible_forces: null
 
 # --- VERIFICATION ---

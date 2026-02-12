@@ -3,7 +3,7 @@ name_latin: "Sadeq"
 name_farsi: "صادق"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -51,9 +51,8 @@ circumstances: >
     confirmed by the General Public Prosecution Office and his pardon request
     rejected by the General Pardon Office. Mr. Sadeq was hanged at the Qazvin
     Central Prison on April 13, 2003.
-event_context: null
-responsible_forces: null
-
+event_context: "2003 execution"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

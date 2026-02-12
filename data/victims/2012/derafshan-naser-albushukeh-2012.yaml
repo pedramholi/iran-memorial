@@ -1,12 +1,17 @@
 id: derafshan-naser-albushukeh-2012
 name_latin: "Naser Albushukeh Derafshan"
 name_farsi: "ناصر آلبوشوکه درفشان"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1993-01-01"
+place_of_birth: "Ahvaz"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/71825_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "clothing store manager"
+family:
+  marital_status: "single"
 
 # --- DEATH ---
 date_of_death: 2012-01-30
@@ -86,8 +91,7 @@ circumstances: >
     injured. The Ahvaz General and Revolutionary Prosecutor s Office announced
     the arrest and arraignment of 447 individuals. (IRNA, April 25,
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Ahvaz Intelligence Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

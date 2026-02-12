@@ -3,7 +3,7 @@ name_latin: "Ali"
 name_farsi: "علی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -39,8 +39,7 @@ circumstances: >
     available on Mr. Ali's defense. Judgment The court condemned Mr. Ali to
     death and the ruling was carried out at the Evin prison on April 25, 2007.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

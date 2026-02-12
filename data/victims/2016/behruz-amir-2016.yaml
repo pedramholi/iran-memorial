@@ -3,8 +3,8 @@ name_latin: "Amir Behruz"
 name_farsi: "امیر بهروز"
 date_of_birth: null
 place_of_birth: null
-gender: null
-ethnicity: null
+gender: male
+ethnicity: "Kurdish"
 religion: "Presumed Muslim"
 photo: null
 
@@ -42,8 +42,7 @@ circumstances: >
     to death by hanging. He was executed in the Central Prison of Orumieh, on
     Monday September 26, 2016.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

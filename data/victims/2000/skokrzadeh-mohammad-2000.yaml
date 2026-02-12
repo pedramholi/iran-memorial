@@ -3,7 +3,7 @@ name_latin: "Mohammad Skokrzadeh"
 name_farsi: "محمد شکرزاده"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -31,9 +31,8 @@ circumstances: >
     Judgment The court condemned Mr. Mohammad Shokrzadeh to death, and the
     Supreme Court confirmed the ruling. He was hanged in public at Mahdasht in
     Karaj in June of 2000. The exact date of this execution is unknown.
-event_context: null
-responsible_forces: null
-
+event_context: "execution in June 2000"
+responsible_forces: "Intelligence Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

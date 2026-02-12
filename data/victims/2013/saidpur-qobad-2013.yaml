@@ -1,12 +1,16 @@
 id: saidpur-qobad-2013
 name_latin: "Qobad Sa'idpur"
 name_farsi: "قباد سعیدپور"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1958-01-01"
+place_of_birth: "Arak"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/85264_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "organizer of supporters of MKO"
+family:
 
 # --- DEATH ---
 date_of_death: 2013-09-01
@@ -86,8 +90,7 @@ circumstances: >
     International Security Assistance Force (ISAF) attack on Iraq and the
     disarming of the Mojahedin members, the resid
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "V. A."
 name_farsi: "و. ع."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -49,9 +49,8 @@ circumstances: >
     verdict was validated by the Chief Public Prosecutor as well as the head
     of the Judiciary. Mr. V. A. was hanged along with another individual in
     Rasht Central Prison on Sunday, January 10, 2016.
-event_context: null
-responsible_forces: null
-
+event_context: "2016 execution"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

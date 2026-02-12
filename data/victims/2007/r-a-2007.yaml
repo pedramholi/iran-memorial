@@ -3,7 +3,7 @@ name_latin: "A. R."
 name_farsi: "ع. ر."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -43,9 +43,8 @@ circumstances: >
     Judgment The court condemned Mr. A. R. to death and the ruling was
     confirmed by the Public Prosecution Office. He was hanged in Arak Prison
     yard on October 25, 2007 at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "2007 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

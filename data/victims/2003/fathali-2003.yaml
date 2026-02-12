@@ -3,10 +3,15 @@ name_latin: "Fath'ali"
 name_farsi: "فتحعلی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/73727_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "worked at a slaughterhouse"
+quotes:
+  - "Mr. Fath ali claimed innocence and never confessed to the crime."
 
 # --- DEATH ---
 date_of_death: 2003-06-18

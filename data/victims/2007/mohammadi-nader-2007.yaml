@@ -2,11 +2,19 @@ id: mohammadi-nader-2007
 name_latin: "Nader Mohammadi"
 name_farsi: "نادر محمدی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Shian, near the city of Sanandaj"
+gender: male
 ethnicity: null
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/73190_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "tile layer"
+education: "high school"
+family:
+  marital_status: "married"
+personality: "truthful and kind to all prisoners, regardless of their crimes"
+beliefs: "secular beliefs"
 
 # --- DEATH ---
 date_of_death: 2007-10-10
@@ -86,8 +94,7 @@ circumstances: >
     to the Kurdistan Province Judiciary s Office of Public Relations, Mr.
     Mohammadi was accused of ki
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Information Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

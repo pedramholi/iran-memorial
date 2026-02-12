@@ -1,12 +1,19 @@
 id: mirlohi-seyed-mansur-2015
 name_latin: "Seyed Mansur Mirlohi"
 name_farsi: "سیدمنصور میرلوحی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1971-01-01"
+place_of_birth: "Flowerjan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/73523_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "unknown"
+education: "university graduate with an A+ GPA"
+family:
+  notes: "son of Seyed Abbas; had two brothers who were killed during police operations"
+personality: "calm"
 
 # --- DEATH ---
 date_of_death: 2015-01-28
@@ -64,9 +71,8 @@ circumstances: >
     January 24, 2015. The ruling was confirmed by the Supreme Court on January
     26. He was hanged in public in Karegar square in fron of the city park in
     Golpayegan on January 28, 2015.
-event_context: null
-responsible_forces: null
-
+event_context: "January 28, 2015 execution"
+responsible_forces: "Islamic Revolutionary Court of Esfahan"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,20 @@
 id: sadri-davud-2009
 name_latin: "Davud Sadri"
 name_farsi: "صدری صدری"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1983-08-01"
+place_of_birth: "Tehran"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/61432_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "electrical technician"
+family:
+  notes: "son of Ali Akbar; biggest support of his family"
+quotes:
+  - "their entire world"
+  - "I raised my son through hardship"
 
 # --- DEATH ---
 date_of_death: 2009-06-15
@@ -85,9 +93,8 @@ circumstances: >
     Individuals in civilian clothing, commonly referred to as plainclothes
     forces , are used in the Islamic Republic to disrupt political and trade
     union activities, student events and ga
-event_context: null
-responsible_forces: null
-
+event_context: "2009 post-election protests"
+responsible_forces: "Basij"
 # --- VERIFICATION ---
 status: unverified
 sources:

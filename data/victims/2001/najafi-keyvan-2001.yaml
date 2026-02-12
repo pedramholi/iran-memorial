@@ -3,7 +3,7 @@ name_latin: "Keyvan Najafi"
 name_farsi: "کیوان نجفی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/74550_thumb.jpeg"
@@ -44,9 +44,8 @@ circumstances: >
     is available on Mr. Najafi s defense. Judgment The court condemned Mr.
     Keyvan Najafi to death. The Supreme Court confirmed the ruling. He was
     hanged at the Qasr Prison yard on October 24, 2001.
-event_context: null
-responsible_forces: null
-
+event_context: "2001 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

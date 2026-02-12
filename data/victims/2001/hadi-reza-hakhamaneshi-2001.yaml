@@ -2,8 +2,8 @@ id: hadi-reza-hakhamaneshi-2001
 name_latin: "Reza Hakhamaneshi Hadi"
 name_farsi: "رضا هخامنشی هادی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Mashhad"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -42,9 +42,8 @@ circumstances: >
     returning the stolen property. The Supreme Court confirmed the ruling. He
     was hanged in public at Azadshahr Intersection in Mashhad on August 15,
     2001
-event_context: null
-responsible_forces: null
-
+event_context: "2001 robbery from Qasr jewelry store"
+responsible_forces: "security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

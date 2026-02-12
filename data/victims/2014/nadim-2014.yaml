@@ -3,10 +3,16 @@ name_latin: "Nadim"
 name_farsi: "ندیم"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "brother of Sheikh Nadim, who was also killed."
+quotes:
+  - "Sheikh Nadim and his brother were killed by the invisible bullet (divine punishment)"
 
 # --- DEATH ---
 date_of_death: 2014-01-01
@@ -86,8 +92,7 @@ circumstances: >
     outside the Iranian borders and a number of people have been arrested. He
     said, A few months ago, Abdul Ra uf Rigi, a military member of Jay
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Gazav Mahmudzehi"
 name_farsi: "گزآو محمودزهی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -47,8 +47,7 @@ circumstances: >
     Gazav Mahmudzehi to death and the ruling was confirmed by the Supreme
     Court. He was hanged at Darvazeh Sa di in Shiraz.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "IRGC"
 # --- VERIFICATION ---
 status: unverified
 sources:

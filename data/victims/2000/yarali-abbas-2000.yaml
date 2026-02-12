@@ -3,10 +3,14 @@ name_latin: "Abbas Yar’ali"
 name_farsi: "عباس یارعلی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: "https://www.iranrights.org/actorphotos/73058_thumb.jpeg"
+
+# --- LIFE ---
+quotes:
+  - "After I kidnapped Mina, I threw her behind the Azadi Sport Complex."
 
 # --- DEATH ---
 date_of_death: 2000-06-27

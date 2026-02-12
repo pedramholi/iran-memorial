@@ -1,12 +1,16 @@
 id: hayati-tayebeh-1990
 name_latin: "Tayebeh Hayati"
 name_farsi: "طیبه حیاتی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1963-09-01"
+place_of_birth: "Tehran"
+gender: female
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/33596_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "school girl"
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1990-07-16
@@ -45,9 +49,8 @@ circumstances: >
     Tayebeh, being a young woman, was raped by prison officials before
     execution. They also heard that she had been kept in section 5 of Evin
     Prison, where inmates were not allowed to receive any visitors.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on July 16, 1990"
+responsible_forces: "Evin Prison"
 # --- VERIFICATION ---
 status: unverified
 sources:

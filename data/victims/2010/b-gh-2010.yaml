@@ -3,7 +3,7 @@ name_latin: "Gh B"
 name_farsi: "غ ب"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -49,8 +49,7 @@ circumstances: >
     Pardon Commission. He was hanged at the Training and Job Center of
     Lorestan on March 2, 2010.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

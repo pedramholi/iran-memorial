@@ -1,12 +1,15 @@
 id: eftekharju-hassan-1989
 name_latin: "Hassan Eftekharju"
 name_farsi: "حسن افتخارجو"
-date_of_birth: null
+date_of_birth: "1985-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+beliefs: "supporter of the People s Mojahedin Organization"
 
 # --- DEATH ---
 date_of_death: 1989-12-04
@@ -86,8 +89,7 @@ circumstances: >
     responsibility for these murders and have even attributed their commission
     to internal strife in opposition groups. Nevertheless, sinc
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

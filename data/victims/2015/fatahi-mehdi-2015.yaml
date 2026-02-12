@@ -2,8 +2,8 @@ id: fatahi-mehdi-2015
 name_latin: "Mehdi Fatahi"
 name_farsi: "مهدی فتاحی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Torbat-e Heydarieh"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -44,9 +44,8 @@ circumstances: >
     sentence was increased to death. After the Supreme Court confirmed the
     ruling, he was hanged in the presence of the judicial and security
     officials at the Tabas Prison yard on February 25, 2015 at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "2015 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

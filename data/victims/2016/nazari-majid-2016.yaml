@@ -2,8 +2,8 @@ id: nazari-majid-2016
 name_latin: "Majid Nazari"
 name_farsi: "مجید نظری"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Mashhad"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,9 +38,8 @@ circumstances: >
     against the defendant. Defense No information is available on Mr. Nazari s
     defense. Judgment Mr. Majid Nazari was sentenced to death by hanging. He
     was executed at Tayebad Prison in Khorasan, on August 3, 2016.
-event_context: null
-responsible_forces: null
-
+event_context: "2016"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

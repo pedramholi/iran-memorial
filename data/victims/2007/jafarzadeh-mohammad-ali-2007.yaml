@@ -3,10 +3,13 @@ name_latin: "Mohammad Ali Ja'farzadeh"
 name_farsi: "محمد‌علی جعفرزاده"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+beliefs: "claimed to be a prophet of God"
 
 # --- DEATH ---
 date_of_death: 2007-05-08

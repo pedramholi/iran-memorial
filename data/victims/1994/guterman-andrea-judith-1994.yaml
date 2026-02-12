@@ -2,11 +2,17 @@ id: guterman-andrea-judith-1994
 name_latin: "Andrea Judith Guterman"
 name_farsi: "آندریا جودیت گوترمن"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Buenos Aires, Argentina"
+gender: female
 ethnicity: null
 religion: "Judaism"
 photo: "https://www.iranrights.org/actorphotos/11842_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "kindergarten teacher"
+family:
+  notes: "very loving towards her parents"
+personality: "enjoyed writing, and laughed a lot"
 
 # --- DEATH ---
 date_of_death: 1994-07-18
@@ -85,9 +91,8 @@ circumstances: >
     a danger point for terrorism. From the evidence gathered, two Iranian
     diplomats in Buenos Aires actively assisted Hezbollah. Mohsen Rabbani, who
     was in charge of the operation, was Iran’s newly appointed cultural attac
-event_context: null
-responsible_forces: null
-
+event_context: "AMIA bombing on July 18, 1994"
+responsible_forces: "Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

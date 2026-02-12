@@ -2,8 +2,8 @@ id: mohammadi-peiman-2013
 name_latin: "Peiman Mohammadi"
 name_farsi: "پیمان محمدی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Orumieh"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -37,9 +37,8 @@ circumstances: >
     Mohammadi. Defense No information is available on Mr. Mohammadi s defense.
     Judgment Mr. Peiman Mohammadi was hanged, along with three others, in the
     Orumieh Central Prison yard on Monday December 16, 2013.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on December 16, 2013"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

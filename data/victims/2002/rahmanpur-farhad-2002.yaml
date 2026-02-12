@@ -3,10 +3,18 @@ name_latin: "Farhad Rahmanpur"
 name_farsi: "فرهاد رحمانپور"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/25062_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "cook"
+family:
+  marital_status: "married"
+  children: 1
+quotes:
+  - "It all happened in a moment when I was crazy and was not aware of what I was doing."
 
 # --- DEATH ---
 date_of_death: 2002-10-27
@@ -76,9 +84,8 @@ circumstances: >
     tied the rope around Mr. Rahmanpur s neck and pressed the crane s button
     to pull him up. His lash ruling had also been carried out before the
     execution.
-event_context: null
-responsible_forces: null
-
+event_context: "murder of a mother and her two children at their house in Moniri Street in Javadieh, Tehran, on June 3, 2002"
+responsible_forces: "Homicide Branch of Criminal Investigators of Tehran"
 # --- VERIFICATION ---
 status: unverified
 sources:

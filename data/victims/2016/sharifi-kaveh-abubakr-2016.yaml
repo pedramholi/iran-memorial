@@ -2,11 +2,21 @@ id: sharifi-kaveh-abubakr-2016
 name_latin: "Kaveh (Abubakr) Sharifi"
 name_farsi: "کاوه (ابوبکر) شریفی"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Sanandaj"
+gender: male
+ethnicity: "Kurdish"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/76103_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "teacher"
+education: "high school diploma with a concentration in architectural drawing"
+family:
+  marital_status: "single"
+  children: 0
+  notes: "child of Towfiq"
+personality: "pleasant man with a good sense of humor"
+beliefs: "follower of the Shafe'i branch of Islam"
 
 # --- DEATH ---
 date_of_death: 2016-08-02
@@ -85,9 +95,8 @@ circumstances: >
     Group , were put to death on August 2, 2016. The issuance and
     implementation of the death penalty for this group of Sunni adherents, was
     followed by the reaction of numerous domestic and internation
-event_context: null
-responsible_forces: null
-
+event_context: "execution of Kaveh Sharifi and 24 others on August 2, 2016"
+responsible_forces: "IRGC"
 # --- VERIFICATION ---
 status: unverified
 sources:

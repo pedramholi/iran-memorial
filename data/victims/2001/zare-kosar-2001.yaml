@@ -2,11 +2,16 @@ id: zare-kosar-2001
 name_latin: "Kosar Zare'"
 name_farsi: "کوثر زارع"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Ilam"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/75192_thumb.jpeg"
+
+# --- LIFE ---
+family:
+quotes:
+  - "Ali Akbar and I tied the Doctor s mouth."
 
 # --- DEATH ---
 date_of_death: 2001-07-18
@@ -55,9 +60,8 @@ circumstances: >
     condemned Mr. Kosar Zare to death, 10 years imprisonment, and 154 lashes.
     The Supreme Court confirmed the ruling. He was hanged at the Qasr Prison
     yard in Tehran on July 18, 2001.
-event_context: null
-responsible_forces: null
-
+event_context: "2000 robbery and murder case"
+responsible_forces: "Intelligence Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

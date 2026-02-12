@@ -3,10 +3,13 @@ name_latin: "Meysam J."
 name_farsi: "میثم ج."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "driver"
 
 # --- DEATH ---
 date_of_death: 2007-12-12
@@ -36,8 +39,7 @@ circumstances: >
     death and the ruling was confirmed by Branch 20 of the Supreme Court. He
     was hanged in public in Shiraz on December 12, 2007.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "IRGC"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Yunes Siahpushfard"
 name_farsi: "یونس سیاهپوش‌‌فرد"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -45,8 +45,7 @@ circumstances: >
     victim s family in Qasr Prison on April 17, 2003 (Jomhuri Eslami
     newspaper). No specific information is available about this execution.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Basij"
 # --- VERIFICATION ---
 status: unverified
 sources:

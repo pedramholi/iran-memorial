@@ -3,10 +3,13 @@ name_latin: "Javad Fotuhi"
 name_farsi: "جواد فتوحی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/84231_thumb.jpeg"
+
+# --- LIFE ---
+beliefs: "supporter of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1999-06-09
@@ -85,9 +88,8 @@ circumstances: >
     ---------------------------- *The exclusion of MKO members from government
     offices and the closure of their centers and publishing houses, in
     conjunction with to the Islamic Republic authorities different interpret
-event_context: null
-responsible_forces: null
-
+event_context: "June 9, 1999 assassination"
+responsible_forces: "Islamic Republic of Iran’s Ministry of Information"
 # --- VERIFICATION ---
 status: unverified
 sources:

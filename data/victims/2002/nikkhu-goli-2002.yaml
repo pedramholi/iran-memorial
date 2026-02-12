@@ -3,7 +3,7 @@ name_latin: "Goli Nikkhu"
 name_farsi: "گلی نیک‌خو"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -31,9 +31,8 @@ circumstances: >
     Nikkhu was carried out in public at the City Park in Naqadeh on September
     26, 2002. According to the Komala Office Outside of Iran, official agents
     carried out the stoning.
-event_context: null
-responsible_forces: null
-
+event_context: "stoning ruling carried out in public at the City Park in Naqadeh on September 26, 2002"
+responsible_forces: "official agents"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,8 +3,8 @@ name_latin: "Davud Mirbaluchzehi"
 name_farsi: "داود میربلوچ‌رهی"
 date_of_birth: null
 place_of_birth: null
-gender: null
-ethnicity: null
+gender: male
+ethnicity: "Baluch"
 religion: "Presumed Muslim"
 photo: null
 
@@ -86,9 +86,8 @@ circumstances: >
     however, no details were specified regarding the court branch or the time
     of the confirmation. (Sistan Va Baluchistan Courthouse) Mr. Mirbaluchzehi
     was
-event_context: null
-responsible_forces: null
-
+event_context: "armed attack by Jaish ul-Adl on a border station in Saravan, Sistan Va Baluchestan"
+responsible_forces: "Ministry of Justice of Sistan Va Baluchestan"
 # --- VERIFICATION ---
 status: unverified
 sources:

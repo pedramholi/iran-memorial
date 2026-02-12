@@ -1,12 +1,24 @@
 id: mahmudi-seyed-abdollah-2015
 name_latin: "Seyed Abdollah Mahmudi"
 name_farsi: "سید عبدالله محمودی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1954-05-22"
+place_of_birth: "Gar-e-Fahlian, Mamassani County, Fars Province"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/83269_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "teacher"
+education: "associate degree"
+family:
+  marital_status: "married"
+  children: 3
+  notes: "had a son and two daughters"
+personality: "described as calm, collected, modest, generous, and funny man with a great morale"
+beliefs: "supporter of non-religious leftist groups and politically active"
+quotes:
+  - "\"I was questioned about my political activities in the past during interrogations.\""
 
 # --- DEATH ---
 date_of_death: 2015-05-17
@@ -85,9 +97,8 @@ circumstances: >
     was charged with financial crimes . The validity of the criminal charges
     brought against this defendant cannot be ascertained in the absence of the
     basic guarantees of a fair trial. International human rights organi
-event_context: null
-responsible_forces: null
-
+event_context: "death in Yasuj Central Prison on May 17, 2015"
+responsible_forces: "Yassuj Central Prison"
 # --- VERIFICATION ---
 status: unverified
 sources:

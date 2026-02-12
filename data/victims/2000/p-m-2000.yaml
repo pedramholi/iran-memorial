@@ -3,10 +3,16 @@ name_latin: "M. P."
 name_farsi: "م. پ."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  children: 2
+  notes: "father of one son and one daughter"
 
 # --- DEATH ---
 date_of_death: 2000-06-14

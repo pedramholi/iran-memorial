@@ -3,7 +3,7 @@ name_latin: "Morteza M."
 name_farsi: "مرتضی م."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -44,9 +44,8 @@ circumstances: >
     condemned Mr. Morteza M. to death. The Supreme Court confirmed the ruling.
     He was hanged in Meybod on November 8, 2006 at 6 a.m. The other defendant
     in this case was condemned to 15 years imprisonment.
-event_context: null
-responsible_forces: null
-
+event_context: "murder of an individual in Meybod, Yazd, in the fall of 2004"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

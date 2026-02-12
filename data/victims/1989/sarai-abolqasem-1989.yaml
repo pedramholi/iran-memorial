@@ -3,7 +3,7 @@ name_latin: "Abolqasem Sara'i"
 name_farsi: "ابوالقاسم سرائی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -44,9 +44,8 @@ circumstances: >
     and battery.” Defense No information is available on his defense. Judgment
     The court condemned Mr. Abolqasem Sara’i to death and he was hanged in
     Tehran on March 1, 1989.
-event_context: null
-responsible_forces: null
-
+event_context: "1989 execution of drug traffickers"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

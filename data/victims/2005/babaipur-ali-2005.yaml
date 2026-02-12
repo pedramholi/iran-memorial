@@ -3,10 +3,16 @@ name_latin: "Ali Baba'ipur"
 name_farsi: "علی بابائی پور"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "brother of the victim"
+quotes:
+  - "When I went to my brother’s residence in Vali-e Asr district to reconcile but we quarreled and subsequently fought… I stabbed my brother three times. He lost his life due to the severity of the injuries."
 
 # --- DEATH ---
 date_of_death: 2005-12-18
@@ -41,9 +47,8 @@ circumstances: >
     parents of the victim, who are also the parents of the murderer, did not
     pardon him. Mr. Ali Baba’ipur was hanged at Evin prison on December 18,
     2005.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on December 18, 2005"
+responsible_forces: "Tehran Criminal Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

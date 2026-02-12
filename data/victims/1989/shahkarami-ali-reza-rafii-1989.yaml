@@ -3,7 +3,7 @@ name_latin: "Ali Reza Rafi'i Shahkarami"
 name_farsi: "علیرضا رفیعی شاه کرمی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -53,9 +53,8 @@ circumstances: >
     the evidence provided against the defendant. Defence No information is
     available on Mr. Alireza Rafi'i Shahkarami's defence. Judgment Based on
     the court's ruling, Mr. Alireza Rafi'i Shahkarami was hanged in Kerman.
-event_context: null
-responsible_forces: null
-
+event_context: "1989"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

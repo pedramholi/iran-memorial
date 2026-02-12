@@ -2,11 +2,16 @@ id: ziai-haji-mohammad-1994
 name_latin: "Haji Mohammad Zia'i"
 name_farsi: "حاجی محمد ضیائی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Bandar-Abbas"
+gender: male
 ethnicity: null
 religion: "Islam (Sunni)"
 photo: null
+
+# --- LIFE ---
+beliefs: "critical of government policies"
+quotes:
+  - "However, this account differs from eye-witness reports [received by Amnesty International] which suggest that his mutilated body was found separately from the car, which did not bear signs consistent with the alleged accident."
 
 # --- DEATH ---
 date_of_death: 1994-07-20

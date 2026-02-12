@@ -2,11 +2,17 @@ id: mahmudi-omid-2016
 name_latin: "Omid Mahmudi"
 name_farsi: "امید محمودی"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Sanandaj"
+gender: male
+ethnicity: "Kurdish"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/76042_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "student"
+education: "Kurdistan University"
+personality: "personable man with moderate religious views"
+beliefs: "developed religious tendencies after he started college"
 
 # --- DEATH ---
 date_of_death: 2016-08-02
@@ -85,9 +91,8 @@ circumstances: >
     trial. Well-known Sunni figures such as Molavi Abdolhamid, Zahedan s Sunni
     Friday Prayers leader, Hassan Amini, Sananadaj s Imam Bokharai Seminary s
     mufti and school dire
-event_context: null
-responsible_forces: null
-
+event_context: "execution of 25 individuals on August 2, 2016"
+responsible_forces: "Information Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

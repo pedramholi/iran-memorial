@@ -1,12 +1,15 @@
 id: fazeli-hamid-2009
 name_latin: "Hamid Fazeli"
 name_farsi: "حمید فاضلی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1982-01-01"
+place_of_birth: "Hamadan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "worked in the prison infirmary"
 
 # --- DEATH ---
 date_of_death: 2009-01-01
@@ -53,9 +56,8 @@ circumstances: >
     during the winter of 2009 (Iran Human Rights, April 28, 2009; Kurdistan
     Media, January 27, 2009). However, there is no information available on
     the exact date of this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "execution in Sanandaj Central Prison during the winter of 2009"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -2,8 +2,8 @@ id: nemani-sediq-2011
 name_latin: "Sediq Ne'mani"
 name_farsi: "صدیق نعمانی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Barazan Village near Margur in Orumieh"
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -39,9 +39,8 @@ circumstances: >
     the defendant's defence. Judgment No specific information is available
     about the defendant s execution. Mr. Sediq Ne mani was hanged in Orumieh
     Central Prison on July 7, 2011.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on July 7, 2011"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

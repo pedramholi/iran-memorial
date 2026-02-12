@@ -3,7 +3,7 @@ name_latin: "Seyyed Mohammad Ali Dehsar"
 name_farsi: "سیدمحمدعلی دهسار"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/81504_thumb.jpeg"
@@ -43,8 +43,7 @@ circumstances: >
     defense. Judgement Mr. Seyyed Mohammad Ali Dehsar was hanged in Kerman
     Prison along with three others on Wednesday, May 9, 2012.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

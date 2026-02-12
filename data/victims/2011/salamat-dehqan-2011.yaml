@@ -1,12 +1,21 @@
 id: salamat-dehqan-2011
 name_latin: "Dehqan Salamat"
 name_farsi: "دهقان سلامت"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1966-01-01"
+place_of_birth: "Suma-ye Baradoust, West Azarbaijan"
+gender: male
 ethnicity: null
 religion: "Islam (Sunni)"
 photo: null
+
+# --- LIFE ---
+occupation: "van driver, truck driver's assistant"
+education: "secondary school"
+family:
+  marital_status: "married"
+  children: 5
+  notes: "provided for the wife and children of his deceased brother"
+beliefs: "connections with the Democratic Party of Iranian Kurdistan and the Komala Party of Iranian Kurdistan"
 
 # --- DEATH ---
 date_of_death: 2011-10-10
@@ -86,9 +95,8 @@ circumstances: >
     include the Komala Party of Iranian Kurdistan, led by Abdollah Mohtadi,
     and Komala the Kurdistan Organization of the Communist Party of Iran, led
     by Ibrahim Alizadeh.
-event_context: null
-responsible_forces: null
-
+event_context: "2011 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

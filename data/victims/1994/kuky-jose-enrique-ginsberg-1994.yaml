@@ -2,11 +2,16 @@ id: kuky-jose-enrique-ginsberg-1994
 name_latin: "Jose Enrique Ginsberg (Kuky)"
 name_farsi: "خوزه انریکه گینزبرگ"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Buenos Aires, Argentina"
+gender: male
 ethnicity: null
 religion: "Judaism"
 photo: "https://www.iranrights.org/actorphotos/11832_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "director of AMIA’s Burial Service"
+family:
+  marital_status: "married"
 
 # --- DEATH ---
 date_of_death: 1994-07-18
@@ -85,9 +90,8 @@ circumstances: >
     a danger point for terrorism. From the evidence gathered, two Iranian
     diplomats in Buenos Aires actively assisted Hezbollah. Mohsen Rabbani, who
     was in charge of the operation, was Iran’s newly appo
-event_context: null
-responsible_forces: null
-
+event_context: "AMIA bombing"
+responsible_forces: "Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

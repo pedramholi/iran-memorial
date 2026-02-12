@@ -1,12 +1,22 @@
 id: akbarpur-mansur-2018
 name_latin: "Mansur Akbarpur"
 name_farsi: "منصور اکبرپور"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1986-01-01"
+place_of_birth: "Mahabad County, West Azarbaijan Province"
+gender: male
+ethnicity: "Kurdish"
 religion: "Non-Believer"
 photo: "https://www.iranrights.org/actorphotos/83890_thumb.jpeg"
+
+# --- LIFE ---
+education: "high school diploma with a concentration in experimental sciences; two-year college degree equivalent in dentistry"
+family:
+  marital_status: "married"
+  children: 1
+personality: "smart, assiduous, trustworthy, honest, serene, and genial"
+beliefs: "member of the Kurdistan Democratic Party"
+quotes:
+  - "I wish I had come here sooner. It s as if I ve just been born and have started life over again."
 
 # --- DEATH ---
 date_of_death: 2018-09-08
@@ -85,9 +95,8 @@ circumstances: >
     most influential Kurdish Party, the Party of the Devil , and declared it
     unofficial and illegal , and ordered a military attack on Kurdistan. Mass
     executions and intense armed clashes continued in the region for mo
-event_context: null
-responsible_forces: null
-
+event_context: "Kurdish Problem in the Islamic Republic after the 1979 Islamic Revolution"
+responsible_forces: "Revolutionary Guards Information Sector"
 # --- VERIFICATION ---
 status: unverified
 sources:

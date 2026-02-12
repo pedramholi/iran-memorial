@@ -1,12 +1,20 @@
 id: malayeri-reyhaneh-jabbari-2014
 name_latin: "Reyhaneh Jabbari Malayeri"
 name_farsi: "ریحانه جباری ملایری"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1988-01-01"
+place_of_birth: "Tehran"
+gender: female
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/72926_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "student"
+education: "third year of studying computer software"
+family:
+  notes: "eldest child of a five-member family"
+quotes:
+  - "The chubby man pulled my head back, and the beardless man slapped my ears a few times: left, right, left, right. I experienced the first real thrashing of my life. ... I felt something in my back. I felt the swelling of my skin, and then ... rip.... my skin ruptured. I had a vision of my little sisters being made helpless like me. ... They bound your hands and feet. Then they hung you from a rod, like a piece of clothing, and kicked you in your stomach with their k"
 
 # --- DEATH ---
 date_of_death: 2014-10-25
@@ -86,8 +94,7 @@ circumstances: >
     from a rod, like a piece of clothing, and kicked you in your stomach with
     their k
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

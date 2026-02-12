@@ -3,7 +3,7 @@ name_latin: "Ja'far Sheibak"
 name_farsi: "جعفر شیبک"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -47,9 +47,8 @@ circumstances: >
     Mr. Sheibak s defense. Judgment The court condemned Mr. Ja far Sheibak to
     death and Branch 16 of the Supreme Court confirmed the ruling. He was
     hanged on Emamat Boulevard in Azadshahr, Mashhad, on May 13, 2003.
-event_context: null
-responsible_forces: null
-
+event_context: "2003 execution"
+responsible_forces: "Intelligence Deputy of the Security Forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

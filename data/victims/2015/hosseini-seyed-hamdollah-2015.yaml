@@ -2,8 +2,8 @@ id: hosseini-seyed-hamdollah-2015
 name_latin: "Seyed Hamdollah Hosseini"
 name_farsi: "سید‌حمدالله حسینی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Qorveh"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -42,8 +42,7 @@ circumstances: >
     2015. There is no further information available on the details of this
     verdict.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

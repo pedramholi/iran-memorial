@@ -3,10 +3,13 @@ name_latin: "Amir Kh."
 name_farsi: "امیر خ."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
 
 # --- DEATH ---
 date_of_death: 2009-04-15

@@ -3,7 +3,7 @@ name_latin: "Faqir Qanbarzehi"
 name_farsi: "فقیر قنبرزهی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -31,8 +31,7 @@ circumstances: >
     Mr. Faqir Qanbarzehi was condemned to death. He was executed in the prison
     yard for security reasons. The exact date of his execution is unknown.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Kerman Provincial Courthouse"
 # --- VERIFICATION ---
 status: unverified
 sources:

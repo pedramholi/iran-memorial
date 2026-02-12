@@ -2,8 +2,8 @@ id: johari-khaled-2016
 name_latin: "Khaled Johari"
 name_farsi: "خالد جوهری"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "DivanDarreh, Kordestan Province"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -46,8 +46,7 @@ circumstances: >
     of Mr. Johari was carried out on December 27, 2016, in Bandar Abbas
     Prison.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

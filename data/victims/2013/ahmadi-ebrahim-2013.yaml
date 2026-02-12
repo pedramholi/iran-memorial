@@ -3,10 +3,14 @@ name_latin: "Ebrahim Ahmadi"
 name_farsi: "ابراهیم احمدی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "I never intended to kill the victim. I owed the victim money and could not pay him back due to my financial problems, and I had been under psychological pressure."
 
 # --- DEATH ---
 date_of_death: 2013-01-16
@@ -56,8 +60,7 @@ circumstances: >
     Section 5 of the Gohardasht Prison on January 15, 2013 and was hanged in
     the Gohardasht Prison in Karaj on January 16, 2013 at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Tehran Intelligence Office 10"
 # --- VERIFICATION ---
 status: unverified
 sources:

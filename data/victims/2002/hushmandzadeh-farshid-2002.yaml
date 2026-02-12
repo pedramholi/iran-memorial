@@ -3,7 +3,7 @@ name_latin: "Farshid Hushmandzadeh"
 name_farsi: "فرشید هوشمندزاده"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,8 +38,7 @@ circumstances: >
     on May 9, 1998. The Supreme Court confirmed the ruling. He was hanged at
     the Qasr Prison yard in Tehran on May 15, 2002.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

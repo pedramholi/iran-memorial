@@ -1,12 +1,15 @@
 id: rigi-abdolmajid-abdolhamid-2011
 name_latin: "Abdolmajid (Abdolhamid) Rigi"
 name_farsi: "عبدالمجید‌ (عبدالحمید) ریگی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1975-01-01"
+place_of_birth: "Zabol"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/76194_thumb.jpeg"
+
+# --- LIFE ---
+family:
 
 # --- DEATH ---
 date_of_death: 2011-06-01

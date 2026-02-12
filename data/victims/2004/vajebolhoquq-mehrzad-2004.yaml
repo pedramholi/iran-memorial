@@ -3,10 +3,14 @@ name_latin: "Mehrzad Vajebolhoquq"
 name_farsi: "مهرزاد واجب الحقوق"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "the main factor for his behavior was associating with unsuitable people"
 
 # --- DEATH ---
 date_of_death: 2004-10-05

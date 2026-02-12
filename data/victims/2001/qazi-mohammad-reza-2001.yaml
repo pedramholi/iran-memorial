@@ -3,10 +3,16 @@ name_latin: "Mohammad Reza Qazi"
 name_farsi: "محمدرضا قاضی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  children: 0
+  notes: "accused of killing his wife because of a domestic dispute"
 
 # --- DEATH ---
 date_of_death: 2001-11-14

@@ -3,7 +3,7 @@ name_latin: "Abdolsamad (Abdollah) Kajkush"
 name_farsi: "عبدالصمد (عبدالله) کجکوش"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -46,8 +46,7 @@ circumstances: >
     Kajkush to death and the ruling was confirmed by the Supreme Court. He was
     hanged in the Iranshahr prison yard on August 8 or 12, 2007.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic Security Forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Abdolaziz D."
 name_farsi: "عبدالعزیز د."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -52,9 +52,8 @@ circumstances: >
     The verdict was validated by the Supreme Court as well as the Chief Public
     Prosecutor. Mr. Abdolaziz D. was hanged, along with another individual, in
     Qaen County on December 21, 2006
-event_context: null
-responsible_forces: null
-
+event_context: "trafficking illegal drugs"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

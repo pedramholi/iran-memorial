@@ -3,7 +3,7 @@ name_latin: "Navab Davudi"
 name_farsi: "نواب داودی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -45,9 +45,8 @@ circumstances: >
     18, 2004. The other defendants of this case were condemned to 15 years
     imprisonment, seven and five years exile to places with harsh
     environments, and 80 lashes.
-event_context: null
-responsible_forces: null
-
+event_context: "2003 robbery gang case"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

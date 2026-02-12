@@ -1,12 +1,18 @@
 id: rezaipur-susan-2021
 name_latin: "Susan Reza'ipur"
 name_farsi: "سوسن رضایی‌پور"
-date_of_birth: null
+date_of_birth: "1990-01-01"
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+quotes:
+  - "My husband was drunk from 3pm until late at night and he was beating me. He was always drunk and I could not take it anymore."
 
 # --- DEATH ---
 date_of_death: 2021-10-27
@@ -41,8 +47,7 @@ circumstances: >
     Reza ipur was sentenced to death for premeditated murder . On Wednesday,
     October 27, 2021, she was hung in the Central Prison of Qazvin.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

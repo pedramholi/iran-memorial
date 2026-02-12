@@ -2,11 +2,18 @@ id: heshele-gregorio-melman-1994
 name_latin: "Gregorio Melman (Heshele)"
 name_farsi: "گریگوریو ملمن"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Buenos Aires, Argentina"
+gender: male
 ethnicity: null
 religion: "Judaism"
 photo: "https://www.iranrights.org/actorphotos/11917_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "worked for ten years at AMIA’s Surveillance Sector"
+family:
+  marital_status: "married"
+  children: 1
+personality: "very sociable and talkative"
 
 # --- DEATH ---
 date_of_death: 1994-07-18
@@ -85,9 +92,8 @@ circumstances: >
     a danger point for terrorism. From the evidence gathered, two Iranian
     diplomats in Buenos Aires actively assisted Hezbollah. Mohsen Rabbani, who
     was in charge of the operation, was Iran’s newly appointed cultural atta
-event_context: null
-responsible_forces: null
-
+event_context: "AMIA bombing on July 18, 1994"
+responsible_forces: "Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

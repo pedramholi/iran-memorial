@@ -2,8 +2,8 @@ id: darvishi-shahab-2006
 name_latin: "Shahab Darvishi"
 name_farsi: "شهاب درویشی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Sahneh, Kermanshah province"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -48,9 +48,8 @@ circumstances: >
     appealed, but Branch 27 of the Supreme Court confirmed the verdict and
     insisted on this punishment.” Mr. Shahb Darvishi was hanged in public at 3
     p.m. on November 14, 2006 at Azadi Square in Kermanshah.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on November 14, 2006"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

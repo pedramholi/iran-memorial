@@ -2,11 +2,19 @@ id: mohammadi-esmail-2005
 name_latin: "Esma'il Mohammadi"
 name_farsi: "اسماعیل محمدی"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Saqqez, Tikantappeh"
+gender: male
+ethnicity: "Kurdish"
 religion: "Non-Believer"
 photo: "https://www.iranrights.org/actorphotos/35898_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "member of Komeleh Party of Iranian Kurdistan"
+family:
+  marital_status: "married"
+  children: 5
+  notes: "had 5 children from two marriages"
+beliefs: "communist"
 
 # --- DEATH ---
 date_of_death: 2005-09-04
@@ -86,8 +94,7 @@ circumstances: >
     brother. (Boroumand Center interview). The validity of the criminal
     charges brought against this defendant cannot be ascert
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Information Administration"
 # --- VERIFICATION ---
 status: unverified
 sources:

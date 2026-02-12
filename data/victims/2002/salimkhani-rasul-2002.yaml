@@ -2,11 +2,15 @@ id: salimkhani-rasul-2002
 name_latin: "Rasul Salimkhani"
 name_farsi: "رسول سلیم‌خانی"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Afghanistan"
+gender: male
+ethnicity: "Afghan"
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "the victim s daughter gave him money to kill her father and the victim s family was aware of this"
 
 # --- DEATH ---
 date_of_death: 2002-10-16

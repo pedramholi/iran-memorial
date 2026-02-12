@@ -3,10 +3,14 @@ name_latin: "P. A."
 name_farsi: "پ. الف."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/25058_thumb.jpeg"
+
+# --- LIFE ---
+quotes:
+  - "I accept that I had infringed the law and am ready to be punished for that, but our crime was not such to be punishable by death."
 
 # --- DEATH ---
 date_of_death: 2002-09-29

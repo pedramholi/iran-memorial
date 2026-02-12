@@ -2,11 +2,14 @@ id: mercovich-ileana-1994
 name_latin: "Ileana Mercovich"
 name_farsi: "ایلئانا مرکویچ"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Buenos Aires, Argentina"
+gender: female
 ethnicity: null
 religion: "Judaism"
 photo: "https://www.iranrights.org/actorphotos/11919_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "student, photographer"
 
 # --- DEATH ---
 date_of_death: 1994-07-18
@@ -85,9 +88,8 @@ circumstances: >
     at the embassy (though he had been in Argentina for eleven years, he was
     bestowed diplomatic immunity only in March) and was in charge of logistics
     for the operation. Aiding him wa
-event_context: null
-responsible_forces: null
-
+event_context: "AMIA bombing"
+responsible_forces: "Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

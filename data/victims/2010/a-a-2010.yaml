@@ -3,10 +3,14 @@ name_latin: "‘A A"
 name_farsi: "ع الف"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "purchasing, selling, transporting, and possessing of one kilogram and 375 grams of heroin"
 
 # --- DEATH ---
 date_of_death: 2010-05-20
@@ -41,9 +45,8 @@ circumstances: >
     the defendant's defence. Judgment The court condemned Mr. A. A. to death
     and the ruling was confirmed by the Supreme Court. He was hanged in public
     at Kut’abdollah Road adjacent to Abadan Terminal in Ahvaz on May 20, 2010.
-event_context: null
-responsible_forces: null
-
+event_context: "2010 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

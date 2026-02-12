@@ -2,11 +2,22 @@ id: sarab-mojtaba-mottale-1989
 name_latin: "Mojtaba Mottale' Sarab"
 name_farsi: "مجتبی مطلع سراب"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Tabriz"
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: "https://www.iranrights.org/actorphotos/61960_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "political activist"
+education: "studied medicine at Esfahan University"
+family:
+  marital_status: "married"
+  children: 1
+  notes: "had a child who was born soon after he and his wife were arrested"
+beliefs: "member of Fadaiyan Khalq Organization"
+quotes:
+  - "I had three wishes in life, only one of which came true: finding the love of my life."
 
 # --- DEATH ---
 date_of_death: 1989-04-10
@@ -85,9 +96,8 @@ circumstances: >
     Mottale Sarab had a strong body before his arrest. During his
     imprisonment, which lasted for about two years, Mr. Mottale Sarab had two
     other visits. These visits took place
-event_context: null
-responsible_forces: null
-
+event_context: "Cultural Revolution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

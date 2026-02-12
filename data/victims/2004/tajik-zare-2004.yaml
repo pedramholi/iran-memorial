@@ -3,7 +3,7 @@ name_latin: "Zare' Tajik"
 name_farsi: "زارع تاجیک"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -44,9 +44,8 @@ circumstances: >
     Supreme Court confirmed the ruling. He was hanged, along with the other
     defendant, in Iranshahr in 2004. The exact date of this execution is
     unknown.
-event_context: null
-responsible_forces: null
-
+event_context: "2004 execution"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

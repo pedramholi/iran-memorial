@@ -2,8 +2,8 @@ id: shakuri-ahmad-ahad-2013
 name_latin: "Ahmad (Ahad) Shakuri"
 name_farsi: "احمد (احد) شکوری"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Orumieh"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,9 +38,8 @@ circumstances: >
     Shakuri. Defense No information is available on Mr. Shakuri s defense.
     Judgment Mr. Ahmad (Ahad) Shakuri was hanged, along with two others, in
     the Orumieh Central Prison yard on Wednesday December 18, 2013.
-event_context: null
-responsible_forces: null
-
+event_context: "2013 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

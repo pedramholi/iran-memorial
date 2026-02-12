@@ -3,7 +3,7 @@ name_latin: "Behzad Minki"
 name_farsi: "بهزاد مینکی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -27,8 +27,7 @@ circumstances: >
     the report, Mr. Behzad Minki was executed in 2002. No specific information
     is available about this execution.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

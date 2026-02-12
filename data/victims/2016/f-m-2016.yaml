@@ -3,7 +3,7 @@ name_latin: "M. F."
 name_farsi: "م. ف."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -47,9 +47,8 @@ circumstances: >
     hanged, along with three other individuals, in Rasht Central Prison on
     January 16, 2016. -------------------------------------- * H.R. , S.Q. ,
     and A.A.
-event_context: null
-responsible_forces: null
-
+event_context: "2016 execution"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

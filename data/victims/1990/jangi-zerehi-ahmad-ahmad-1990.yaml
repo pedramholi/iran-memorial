@@ -3,7 +3,7 @@ name_latin: "Ahmad Ahmad Jangi-Zerehi"
 name_farsi: "احمد احمد جنگی زرهی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -30,8 +30,7 @@ circumstances: >
     sentenced to death and hanged along with three other defendants in the
     city of Zahedan.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Government of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

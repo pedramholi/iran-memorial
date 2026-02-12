@@ -1,12 +1,15 @@
 id: rahman-2001
 name_latin: "Rahman"
 name_farsi: "رحمان"
-date_of_birth: null
+date_of_birth: "1978-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
 
 # --- DEATH ---
 date_of_death: 2001-09-17

@@ -1,12 +1,19 @@
 id: khaleqdadi-mohammad-2008
 name_latin: "Mohammad Khaleqdadi"
 name_farsi: "محمد خالق‌دادی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1973-01-01"
+place_of_birth: "Shirtapeh village, Sarakhs city, Khorasan Razavi province"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/85038_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "bank employee"
+education: "studied to become a teacher"
+family:
+  marital_status: "married"
+  children: 1
 
 # --- DEATH ---
 date_of_death: 2008-07-27
@@ -51,9 +58,8 @@ circumstances: >
     hanged early morning on Sunday July 27, 2008 at Evin prison in Tehran. He
     was buried in Shirtapeh village, Sarakhs city, Khorasan Razavi province.
     (e-form March 25, 2021)
-event_context: null
-responsible_forces: null
-
+event_context: "2006/2007 arrest and 2008 execution"
+responsible_forces: "Islamic Revolutionary Court of Tehran"
 # --- VERIFICATION ---
 status: unverified
 sources:

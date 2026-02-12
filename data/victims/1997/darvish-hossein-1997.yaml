@@ -3,7 +3,7 @@ name_latin: "Hossein Darvish"
 name_farsi: "حسین درویش"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -47,8 +47,7 @@ circumstances: >
     Executions, the Qasr prison warden, the victim’s family, and the forensic
     team on February 16, 1997.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

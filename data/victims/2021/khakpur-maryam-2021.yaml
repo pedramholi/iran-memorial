@@ -1,12 +1,20 @@
 id: khakpur-maryam-2021
 name_latin: "Maryam Khakpur"
 name_farsi: "مریم خاکپور"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1980-01-01"
+place_of_birth: "Kashan"
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "divorced"
+  notes: "divorced her husband in 2014"
+quotes:
+  - "The illegal drugs did not belong to her and she was innocent."
+  - "the drugs belonged to her husband."
 
 # --- DEATH ---
 date_of_death: 2021-11-25
@@ -45,9 +53,8 @@ circumstances: >
     death. This sentence was carried out on Thursday November 25, 2021, at
     Dastgerd Prison in Esfahan, and she was hung. Ms. Khakpur s ex-husband was
     sentenced to 18 years in prison for the same charges.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on November 25, 2021"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

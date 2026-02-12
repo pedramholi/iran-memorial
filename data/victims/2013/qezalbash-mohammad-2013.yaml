@@ -2,9 +2,9 @@ id: qezalbash-mohammad-2013
 name_latin: "Mohammad Qezalbash"
 name_farsi: "محمد قزلباش"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Maku, Azerbaijan-e Gharbi"
+gender: male
+ethnicity: "Kurdish"
 religion: "Presumed Muslim"
 photo: null
 
@@ -31,7 +31,7 @@ circumstances: >
     Mohammad Qezelbash to death. He was hanged in Orumieh Central Prison on
     December 26, 2013 at dawn. No specific information is available about this
     execution.
-event_context: null
+event_context: "execution on December 26, 2013"
 responsible_forces: null
 
 # --- VERIFICATION ---

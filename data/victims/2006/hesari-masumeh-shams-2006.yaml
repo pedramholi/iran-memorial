@@ -3,10 +3,17 @@ name_latin: "M’asumeh Shams Hesari"
 name_farsi: "معصومه شمس حصاری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "housewife"
+education: "student"
+family:
+  marital_status: "married"
+  children: 3
 
 # --- DEATH ---
 date_of_death: 2006-06-21

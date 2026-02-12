@@ -3,10 +3,15 @@ name_latin: "Abbas Amiri"
 name_farsi: "عباس امیری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Christianity"
 photo: "https://www.iranrights.org/actorphotos/83886_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  notes: "wife is Ms. Sakineh Rahnama"
 
 # --- DEATH ---
 date_of_death: 2008-07-30
@@ -87,8 +92,7 @@ circumstances: >
     injuries resulting from the beatings by the security and information
     officers." Accordi
 event_context: null
-responsible_forces: null
-
+responsible_forces: "security and information officers"
 # --- VERIFICATION ---
 status: unverified
 sources:

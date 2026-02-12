@@ -3,7 +3,7 @@ name_latin: "Majid Mohammad'alian"
 name_farsi: "مجید محمدعلیان"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -37,8 +37,7 @@ circumstances: >
     condemned to death. He was hanged at the Qasr Prison yard in Tehran on
     October 16, 2002.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "police"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,22 @@
 id: torkamanzehi-mohammad-said-2015
 name_latin: "Mohammad Sa'id Torkamanzehi"
 name_farsi: "محمد‌سعید ترکمان‌زهی"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1969-01-21"
+place_of_birth: "Saravan, Sistan and Baluchestan"
+gender: male
+ethnicity: "Baloch"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/85338_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "primary school teacher"
+family:
+  marital_status: "married"
+  children: 8
+personality: "described as religious, knowledgeable, and deeply engaged in religious activities"
+beliefs: "joined the Jama at Tablighi (Society of Preachers) movement"
+quotes:
+  - "I highlighted the struggles and national-religious discrimination faced by the people of Sistan and Baluchestan."
 
 # --- DEATH ---
 date_of_death: 2015-04-07
@@ -86,8 +96,7 @@ circumstances: >
     government repression of Sunni Baluch groups had increased since February
     1994, when loc
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Jeish-al-Adl"
 # --- VERIFICATION ---
 status: unverified
 sources:

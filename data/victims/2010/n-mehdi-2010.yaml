@@ -3,7 +3,7 @@ name_latin: "Mehdi N"
 name_farsi: "مهدی ن"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -43,8 +43,7 @@ circumstances: >
     Mehdi N. to death and the ruling was confirmed by the Supreme Court. He
     was hanged in the Kerman prison on April 17, 2010.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

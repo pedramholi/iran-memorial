@@ -1,12 +1,23 @@
 id: valadbeigi-iman-2022
 name_latin: "Iman Valadbeigi"
 name_farsi: "ایمان ولدبیگی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1982-03-08"
+place_of_birth: "Isfahan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/86354_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "professional chess player"
+education: "mechanical engineering"
+family:
+  notes: "son of Mojtaba"
+personality: "a unique blend of gentleness and wit - someone whose sharp sense of humor and playful banter left a lasting impression"
+beliefs: "critical of government policies and actively participated in the 2022 'Woman, Life, Freedom' protests"
+quotes:
+  - "Every night, Iman would sit across from me and talk about what he wanted."
+  - "He would tell me how he had peacefully joined the protests on this street or that street. He even shared the details of his presence at the protests."
 
 # --- DEATH ---
 date_of_death: 2022-11-30
@@ -85,7 +96,7 @@ circumstances: >
     Human Rights Activists News Agency reported the number of recorded
     protests to be 1,262. The death toll, including protesters and passersby,
     stood at 527, of whom 71 were children. The number of arr
-event_context: null
+event_context: "2022 'Woman, Life, Freedom' protests"
 responsible_forces: null
 
 # --- VERIFICATION ---

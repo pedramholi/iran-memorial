@@ -1,9 +1,9 @@
 id: kamali-majid-2009
 name_latin: "Majid Kamali"
 name_farsi: "مجید کمالی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1985-09-14"
+place_of_birth: "Yazd"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/61677_thumb.jpeg"
@@ -85,9 +85,8 @@ circumstances: >
     repression of the demonstrations, saying, Basijis, through their presence
     in recent events, have blinded the eyes of the conspirators, and they
     should be appreciated The enemies of Islam wanted t
-event_context: null
-responsible_forces: null
-
+event_context: "2009 presidential election protests"
+responsible_forces: "security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,16 @@
 id: jafari-yasin-2009
 name_latin: "Yasin Ja'fari"
 name_farsi: "یاسین جعفری"
-date_of_birth: null
+date_of_birth: "1990-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "father-in-law of the deceased"
 
 # --- DEATH ---
 date_of_death: 2009-02-17
@@ -36,7 +40,7 @@ circumstances: >
     the family of the deceased for pardon. He was executed on the morning of
     February 17, 2009, in the Isfahan Central Prison. There is no information
     on the verdict leading to this execution.
-event_context: null
+event_context: "execution on February 17, 2009"
 responsible_forces: null
 
 # --- VERIFICATION ---

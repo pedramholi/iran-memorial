@@ -3,10 +3,18 @@ name_latin: "Mohammad Ali Kamalvand"
 name_farsi: "محمدعلی کمالوند"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/73823_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "pharmacist"
+family:
+  marital_status: "married"
+quotes:
+  - "I accept the robbery charge but I did not commit the rape."
+  - "I did not accept the charge of rape."
 
 # --- DEATH ---
 date_of_death: 2015-01-28
@@ -72,8 +80,7 @@ circumstances: >
     and he was hanged at the Evin Prison yard. It is unknown whether the lash
     ruling was carried out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Revolutionary Public Prosecutor s Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

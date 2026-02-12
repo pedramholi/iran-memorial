@@ -1,12 +1,22 @@
 id: hadad-nasrin-2018
 name_latin: "Nasrin Hadad"
 name_farsi: "نسرین حداد"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1960-06-28"
+place_of_birth: "Sardasht County, West Azarbaijan Province"
+gender: female
+ethnicity: "Kurd"
 religion: "Non-Believer"
 photo: "https://www.iranrights.org/actorphotos/83884_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "teacher"
+education: "graduated from the Teacher Training Institute in Spring of 1979"
+family:
+  marital_status: "married"
+  children: 2
+  notes: "daughter of Karim and Kafieh, wife of Mr. Mohammad Hassanpur"
+personality: "dignified, serene, sociable, and empathetic"
+beliefs: "loyal to the ideals of the Kurdistan Democratic Party"
 
 # --- DEATH ---
 date_of_death: 2018-09-08
@@ -86,8 +96,7 @@ circumstances: >
     sociable, and empathetic individual who lived a very simple life and was
     loyal to the ideals of the Kurdistan Democratic
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Sardasht Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

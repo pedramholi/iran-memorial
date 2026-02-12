@@ -3,10 +3,14 @@ name_latin: "M M"
 name_farsi: "م م"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "father of one of the defendants"
 
 # --- DEATH ---
 date_of_death: 2010-05-26
@@ -52,8 +56,7 @@ circumstances: >
     2010. According to the Ariana website, the bodies of this defendant and
     three other Afghans were given to the Afghan officials at the border.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Court of Yazd"
 # --- VERIFICATION ---
 status: unverified
 sources:

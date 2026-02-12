@@ -3,10 +3,14 @@ name_latin: "Shokat Borhanzehi"
 name_farsi: "شوکت برهان‌زهی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "son of Morad"
 
 # --- DEATH ---
 date_of_death: 2001-01-01
@@ -40,9 +44,8 @@ circumstances: >
     Shokat Borhanzehi to death and the Supreme Court confirmed the ruling. He
     was hanged in public in Iranshahr in October of 2001. The exact date of
     this execution is unknown.
-event_context: null
-responsible_forces: null
-
+event_context: "October 2001 execution"
+responsible_forces: "Islamic Revolutionary Court of Iranshahr"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Gholam H."
 name_farsi: "غلام ه."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -40,9 +40,8 @@ circumstances: >
     Defence No information is available on the defendant's defence. Judgment
     The court condemned Mr. Gholam H. to death and he was hanged in the Kerman
     prison on April 17, 2010.
-event_context: null
-responsible_forces: null
-
+event_context: "2010 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Morteza Yazdani"
 name_farsi: "مرتضی یزدانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
@@ -34,9 +34,8 @@ circumstances: >
     99 lashes. The Supreme Court confirmed the ruling. He was hanged at the
     Emam Hossein Square in Shiraz on February 14, 2001, after the lash ruling
     against him was carried out at the Adelabad Prison.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on February 14, 2001"
+responsible_forces: "Fars security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

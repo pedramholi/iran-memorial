@@ -1,12 +1,23 @@
 id: dehvari-emran-2016
 name_latin: "Emran Dehvari"
 name_farsi: "عمران دهواری"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1989-09-16"
+place_of_birth: "Khash city, Sistan and Baluchestan province"
+gender: male
+ethnicity: "Baloch"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/85532_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "medical student"
+education: "high school diploma"
+family:
+  marital_status: "married"
+  children: 1
+personality: "described as quiet yet dynamic and active"
+beliefs: "actively involved in religious activities"
+quotes:
+  - "he advocated for avoiding emotional reactions and instead emphasized the use of 'wisdom' to move forward."
 
 # --- DEATH ---
 date_of_death: 2016-11-20
@@ -86,8 +97,7 @@ circumstances: >
     approximately two-thirds of residents lack access to clean drinking water.
     Economic policies have caused Sistan and Baluchistan Province
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -2,11 +2,16 @@ id: rahnama-sakineh-2008
 name_latin: "Sakineh Rahnama"
 name_farsi: "سکینه رهنما"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Malek Shahr, Isfahan"
+gender: female
 ethnicity: null
 religion: "Christianity"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  notes: "married to Mr. Abbas Amiri"
 
 # --- DEATH ---
 date_of_death: 2008-08-03

@@ -3,10 +3,14 @@ name_latin: "Aziz Mardani"
 name_farsi: "عزیز مردانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "They expressed regret for their action."
 
 # --- DEATH ---
 date_of_death: 2004-10-13
@@ -64,9 +68,8 @@ circumstances: >
     The court condemned these two defendants to death and the Supreme Court
     confirmed the ruling. They were hanged in public in Sharifabad Square of
     Shiraz on October 13, 2004.
-event_context: null
-responsible_forces: null
-
+event_context: "2004 execution of Aziz Mardani"
+responsible_forces: "Shiraz police"
 # --- VERIFICATION ---
 status: unverified
 sources:

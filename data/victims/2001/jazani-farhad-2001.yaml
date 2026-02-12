@@ -3,7 +3,7 @@ name_latin: "Farhad Jazani"
 name_farsi: "فرهاد جزنی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -41,9 +41,8 @@ circumstances: >
     on Mr. Jazani s defense. Judgment The court condemned Mr. Farhad Jazani to
     death and the Supreme Court confirmed the ruling. He was hanged at the
     Qasr Prison yard on June 20, 2001.
-event_context: null
-responsible_forces: null
-
+event_context: "2001 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

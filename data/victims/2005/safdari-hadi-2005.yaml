@@ -3,10 +3,15 @@ name_latin: "Hadi Safdari"
 name_farsi: "هادی صفدری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  notes: "murdered his wife in 2002"
 
 # --- DEATH ---
 date_of_death: 2005-04-28
@@ -80,9 +85,8 @@ circumstances: >
     accomplice and witnessed this immoral act and filmed it, has been
     condemned to flogging and imprisonment and is now serving his prison
     sentence.”
-event_context: null
-responsible_forces: null
-
+event_context: "2005 execution"
+responsible_forces: "Public Prosecutor of Bojnord"
 # --- VERIFICATION ---
 status: unverified
 sources:

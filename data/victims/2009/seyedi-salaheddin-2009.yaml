@@ -1,12 +1,23 @@
 id: seyedi-salaheddin-2009
 name_latin: "Salaheddin Seyedi"
 name_farsi: "صلاح‌الدین سیدی"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1960-01-01"
+place_of_birth: "Bandan Village, Sarbaz County, Sistan and Baluchistan Province"
+gender: male
+ethnicity: "Baluchi"
 religion: "Islam (Sunni)"
 photo: null
+
+# --- LIFE ---
+occupation: "Sunni cleric, teacher, trader in motorcycle accessories"
+education: "elementary school education, studied in various seminaries such as Aziziyeh Dar al-Oloum of Zahedan and Haghaniyeh Religious Seminary in Iranshahr"
+family:
+  marital_status: "married"
+  children: 4
+personality: "sociable person and had a good relationship with people, especially the youth, and cared for those around him"
+beliefs: "follower of the Hanafi School of Sunnism"
+quotes:
+  - "Your verdict is death. Be certain that you will not leave this place alive."
 
 # --- DEATH ---
 date_of_death: 2009-03-03
@@ -85,9 +96,8 @@ circumstances: >
     lashes while tied to the rack, known in the prison as the miracle bed (ABC
     interview). Mr. Seyedi s government-appointed lawyer had met him for the
     first time in Zahedan Central Prison
-event_context: null
-responsible_forces: null
-
+event_context: "support of and membership in the Jondollah Group, moharebeh (taking up arms against the holy state), and acting against national security in the city of Zahedan"
+responsible_forces: "Intelligence Office of Iranshahr"
 # --- VERIFICATION ---
 status: unverified
 sources:

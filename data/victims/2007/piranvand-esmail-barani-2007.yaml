@@ -3,7 +3,7 @@ name_latin: "Esma'il Barani Piranvand"
 name_farsi: "اسماعیل بارانی پیرانوند"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -44,9 +44,8 @@ circumstances: >
     Piranvand to death and the ruling was confirmed by the Supreme Judiciary
     officials. He was hanged in the central prison of Iranshahr on October 31,
     2007.
-event_context: null
-responsible_forces: null
-
+event_context: "2007 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

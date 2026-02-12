@@ -3,10 +3,18 @@ name_latin: "Taleb (Abuzar) Maleki"
 name_farsi: "طالب (ابوذر) ملکی"
 date_of_birth: null
 place_of_birth: null
-gender: null
-ethnicity: null
+gender: male
+ethnicity: "Kurdish"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/76047_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "tailor"
+education: "high school diploma with a concentration in sciences"
+family:
+  marital_status: "single"
+personality: "personable, funny, kind, and patient"
+beliefs: "follower of the Shafe'i branch of Islam"
 
 # --- DEATH ---
 date_of_death: 2016-08-02
@@ -85,9 +93,8 @@ circumstances: >
     and a human rights lawyer, protested the sentences in a declaration and
     demanded that they be rescinded. Furthermore, Amnesty International, Human
     Rights Watch, Human Rig
-event_context: null
-responsible_forces: null
-
+event_context: "execution on August 2, 2016"
+responsible_forces: "Information Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,21 @@
 id: puyandeh-mohammad-jafar-1998
 name_latin: "Mohammad Ja'far Puyandeh"
 name_farsi: "محمد جعفر پوینده"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1954-01-01"
+place_of_birth: "Ashkazar, Yazd Province"
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: "https://www.iranrights.org/actorphotos/28412_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "sociologist and translator"
+education: "master's degree in sociology from Sorbonne University"
+family:
+  marital_status: "married"
+  notes: "survived by his wife"
+quotes:
+  - "Any legal restraint on the freedom of expression leads to the repression of thoughts and ideas. Limiting freedom of expression should be beyond the reach of political regimes. Repression and censorship will bring about dire consequences, even if the state attempts to use them as tools to protect its people from corruption and perversion."
 
 # --- DEATH ---
 date_of_death: 1998-12-09
@@ -85,9 +94,8 @@ circumstances: >
     afternoon of December 9, 1998, Mr. Mohammad Ja far Puyandeh left his house
     to attend a publishers meeting, and never returned. According to the
     testimony of his wife
-event_context: null
-responsible_forces: null
-
+event_context: "serial killings of intellectuals and dissident political figures in the second half of 1998"
+responsible_forces: "Ministry of Information (Security)"
 # --- VERIFICATION ---
 status: unverified
 sources:

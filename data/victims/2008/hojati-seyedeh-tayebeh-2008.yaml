@@ -1,12 +1,22 @@
 id: hojati-seyedeh-tayebeh-2008
 name_latin: "Seyedeh Tayebeh Hojati"
 name_farsi: "سیده طیبه حجتی"
-date_of_birth: null
+date_of_birth: "1984-01-01"
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/74589_thumb.jpeg"
+
+# --- LIFE ---
+education: "high school diploma"
+family:
+  marital_status: "married"
+  children: 0
+  notes: "married Mr. Reza Karimpur in December of 2002, divorced in December of 2003, remarried in January of 2004 (temporary marriage)"
+personality: "prisoners called her Babri [Tiger]"
+quotes:
+  - "\"because of her intense love for Elaheh s father, she did not want to separate from him and considered Elaheh as an obstacle. Therefore, she decided to murder her.\""
 
 # --- DEATH ---
 date_of_death: 2008-12-24
@@ -85,9 +95,8 @@ circumstances: >
     hidden behind a car before she took Elaheh s hand and walked away.
     (Iscanews) During the trial, Elaheh s father stated that an hour after the
     disappearance of his daughter, when he
-event_context: null
-responsible_forces: null
-
+event_context: "murder of Elaheh Karimpur on February 22, 2004"
+responsible_forces: "Tehran Intelligence Police Department 10"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -2,8 +2,8 @@ id: s-javad-2007
 name_latin: "Javad S."
 name_farsi: "جواد س."
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Rudan, Hormozgan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -43,8 +43,7 @@ circumstances: >
     ruling. Mr. Javad S. was hanged in Bandar Abbas prison. The exact date of
     execution is not mentioned in the media reports.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

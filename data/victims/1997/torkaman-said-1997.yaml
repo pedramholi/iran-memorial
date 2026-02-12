@@ -3,7 +3,7 @@ name_latin: "Sa'id Torkaman"
 name_farsi: "سعید ترکمن"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -41,9 +41,8 @@ circumstances: >
     explained to him by the Execution Manager in the Guard Office. After
     writing his will and performing the religious ceremony, he was hanged at
     Qasr prison (Tehran) before dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "1997 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,16 @@
 id: gorji-mohammad-2013
 name_latin: "Mohammad Gorji"
 name_farsi: "محمد گرجی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1953-01-01"
+place_of_birth: "Zarand, Saveh"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/85258_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "commander in the Liberation Army"
+family:
 
 # --- DEATH ---
 date_of_death: 2013-09-01
@@ -87,8 +91,7 @@ circumstances: >
     disarming of the Mojahedin members, the residents of the Ashraf Base came
     unde
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

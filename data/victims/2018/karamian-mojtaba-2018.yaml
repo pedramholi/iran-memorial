@@ -2,8 +2,8 @@ id: karamian-mojtaba-2018
 name_latin: "Mojtaba Karamian"
 name_farsi: "مجتبی کرمیان"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Mishkhas, Ilam Province"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -39,8 +39,7 @@ circumstances: >
     sentenced to death by hanging. He was executed at Ilam Central Prison, on
     Monday May 14, 2018.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Aqdas Hesarbu'i"
 name_farsi: "اقدس حصاربوئی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -39,8 +39,7 @@ circumstances: >
     was stoned to death by bystanders in Rajaishahr near Karaj. In the
     newspaper report, the date of the execution is not mentioned.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

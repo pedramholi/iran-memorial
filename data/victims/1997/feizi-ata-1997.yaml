@@ -1,12 +1,22 @@
 id: feizi-ata-1997
 name_latin: "Ata Feizi"
 name_farsi: "عطا فیضی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1972-08-26"
+place_of_birth: "Saqez, Kurdistan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "mechanic"
+education: "elementary and high school"
+family:
+  notes: "son of Abdolkhaleq"
+personality: "described as courageous, well-spoken, and empathetic"
+beliefs: "member of the Democratic Party of Iranian Kurdistan"
+quotes:
+  - "performed his Party missions with strong belief [in the mission] and extremely successfully"
 
 # --- DEATH ---
 date_of_death: 1997-02-12
@@ -86,8 +96,7 @@ circumstances: >
     the very inception of the Islamic Republic regime, the Islamic Republic
     officials have justified these crimes from an ideological an
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

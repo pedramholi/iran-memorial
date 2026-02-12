@@ -3,7 +3,7 @@ name_latin: "Ma'sumeh Aramideh"
 name_farsi: "معصومه آرمیده"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -44,9 +44,8 @@ circumstances: >
     s defense. Judgment The court announced Ms. Ma sumeh Aramideh to be a
     corruptor on the earth and sentenced her to death. (Aftab-e-Yazd) She was
     hanged in the Mashhad central prison onSeptember 5, 2007at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "2007 executions"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

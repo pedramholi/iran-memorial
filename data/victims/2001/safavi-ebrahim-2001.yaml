@@ -3,7 +3,7 @@ name_latin: "Ebrahim Safavi"
 name_farsi: "ابراهیم صفوی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -41,8 +41,7 @@ circumstances: >
     death and the Supreme Judicial Council confirmed the ruling. He was hanged
     at the location of the committed crime on November 6, 2001.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

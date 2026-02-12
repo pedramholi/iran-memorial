@@ -3,10 +3,19 @@ name_latin: "Mahmud Ra'isi Najafi"
 name_farsi: "محمود رئیسی ‌نجفی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/61452_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "construction worker"
+family:
+  marital_status: "married"
+  notes: "his wife"
+quotes:
+  - "These armed forces caught me, hit me with batons, kicked me, and injured me badly."
+  - "I think one of them felt sorry for me and he threw me out of the vehicle."
 
 # --- DEATH ---
 date_of_death: 2009-06-28
@@ -85,9 +94,8 @@ circumstances: >
     prevent such news from being broadcast, the Iranian government expelled
     foreign journalists from the country and banned news agencies from
     reporting on the events. Over the next three days, protester
-event_context: null
-responsible_forces: null
-
+event_context: "2009 presidential election protests"
+responsible_forces: "pro-government armed forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

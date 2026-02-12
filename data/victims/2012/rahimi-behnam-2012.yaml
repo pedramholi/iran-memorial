@@ -1,12 +1,22 @@
 id: rahimi-behnam-2012
 name_latin: "Behnam Rahimi"
 name_farsi: "بهنام رحیمی"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1980-01-01"
+place_of_birth: "Sanandaj"
+gender: male
+ethnicity: "Kurdish"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/73006_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "worked at a kabob shop"
+education: "associate degree"
+family:
+  marital_status: "married"
+personality: "dedicated person who supported other prisoners"
+beliefs: "believed in the Shafei religion"
+quotes:
+  - "I want to leave the prison and become a father."
 
 # --- DEATH ---
 date_of_death: 2012-12-27
@@ -86,8 +96,7 @@ circumstances: >
     information is available regarding the evidence provided against Mr.
     Rahimi. However, according to the testi
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Information Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

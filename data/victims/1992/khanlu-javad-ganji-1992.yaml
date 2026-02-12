@@ -3,7 +3,7 @@ name_latin: "Javad Ganji Khanlu"
 name_farsi: "جواد گنجی خانلو"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -85,9 +85,8 @@ circumstances: >
     case of the demonstrations in Mashad, Shiraz and other cities has been
     eloquent in this respect. What began as a municipal incident blew up into
     a major event because the authorities were not prepared t
-event_context: null
-responsible_forces: null
-
+event_context: "1992 Protests in Mashhad"
+responsible_forces: "Islamic Revolutionary Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

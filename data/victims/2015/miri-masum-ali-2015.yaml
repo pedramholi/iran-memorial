@@ -3,7 +3,7 @@ name_latin: "Ma'sum Ali Miri"
 name_farsi: "معصوم‌علی میری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -42,9 +42,8 @@ circumstances: >
     available on Mr. Miri s defense. Judgment Mr. Ma sum Ali Miri was hanged,
     along with ten others, at the Qezelhesar Prison in Karaj on April 14,
     2015.
-event_context: null
-responsible_forces: null
-
+event_context: "2015 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

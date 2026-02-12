@@ -1,12 +1,22 @@
 id: moradzehi-ali-kurd-kolahuri-2022
 name_latin: "Ali Kurd Kolahuri (Moradzehi)"
 name_farsi: "علی کرد کلاهوری (مرادزهی)"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1997-05-22"
+place_of_birth: "Burtai, Mirjaveh County, Sistan and Baluchestan Province"
+gender: male
 ethnicity: null
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/87024_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "elementary school teacher"
+education: "master's degree student"
+family:
+  marital_status: "single"
+quotes:
+  - "My next bride will be a heavenly maiden."
+  - "We ve been oppressed all these years how long must we remain silent?"
+  - "Be patient. God knows what situation you are in."
 
 # --- DEATH ---
 date_of_death: 2022-11-04
@@ -85,9 +95,8 @@ circumstances: >
     heads and chests, shot them at close range, and in the back. Security
     forces have targeted faces with pellets, causing hundreds of protesters to
     lose their eyesight, and according
-event_context: null
-responsible_forces: null
-
+event_context: "2022 (Mahsa Amini) Protest background"
+responsible_forces: "security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

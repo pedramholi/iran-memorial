@@ -3,10 +3,13 @@ name_latin: "Khaleq"
 name_farsi: "خالق"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "guide"
 
 # --- DEATH ---
 date_of_death: 2003-01-01

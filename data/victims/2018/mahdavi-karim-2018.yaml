@@ -1,12 +1,21 @@
 id: mahdavi-karim-2018
 name_latin: "Karim Mahdavi"
 name_farsi: "کریم مهدوی"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1963-01-01"
+place_of_birth: "Qeshlakh, Saqqez County, Kurdistan Province"
+gender: male
+ethnicity: "Kurdish"
 religion: "Presumed Muslim (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/83896_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "Peshmerga"
+education: "elementary school (fifth grade)"
+family:
+  marital_status: "married"
+  notes: "son of Rahim"
+personality: "empathetic, responsible, sociable, pleasant, and kind individual"
+beliefs: "member of the Democratic Party of Iranian Kurdistan"
 
 # --- DEATH ---
 date_of_death: 2018-09-08

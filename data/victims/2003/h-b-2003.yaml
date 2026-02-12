@@ -3,7 +3,7 @@ name_latin: "B. H."
 name_farsi: "ب. ح."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -47,9 +47,8 @@ circumstances: >
     Intersection in Ahvaz on February 25, 2003 in the morning. The third
     defendant of this case was condemned to 10 years imprisonment. (Jomhuri
     Eslami newspaper)
-event_context: null
-responsible_forces: null
-
+event_context: "2002 armed robbery case"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

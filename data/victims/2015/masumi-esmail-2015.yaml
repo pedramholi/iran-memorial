@@ -3,7 +3,7 @@ name_latin: "Esma'il Ma'sumi"
 name_farsi: "اسماعیل معصومی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -41,9 +41,8 @@ circumstances: >
     defense. Judgment Mr. Esma il Ma sumi was hanged at the Adelabad Prison in
     Shiraz on February 5, 2015. No specific information is available about
     this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on February 5, 2015"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

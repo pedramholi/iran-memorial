@@ -1,12 +1,18 @@
 id: zergani-abdolreza-sanavati-2007
 name_latin: "Abdolreza Sanavati (Zergani)"
 name_farsi: "عبدالرضا سنواتی (زرگانی)"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1973-01-01"
+place_of_birth: "Ahvaz"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/72867_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "welder"
+education: "elementary school"
+family:
+  marital_status: "married"
 
 # --- DEATH ---
 date_of_death: 2007-11-13
@@ -85,9 +91,8 @@ circumstances: >
     officially accused the UK of involvement in the bombings and declared that
     the bombers had been trained in Iraq, in regions under British army
     control, where they had acqu
-event_context: null
-responsible_forces: null
-
+event_context: "Ahvaz bombings of 2005-2006"
+responsible_forces: "Iranian authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

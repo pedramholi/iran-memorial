@@ -2,8 +2,8 @@ id: zohrehvand-reza-2000
 name_latin: "Reza Zohrehvand"
 name_farsi: "رضا زهره‌وند"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Malayer"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
@@ -30,8 +30,7 @@ circumstances: >
     the Supreme Court confirmed the ruling. He was hanged in public in
     Khorramabad on April 19, 2000.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Supreme Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Abdolkarim Reihanifard"
 name_farsi: "عبدالکریم ریحانی‌فرد"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -34,9 +34,8 @@ circumstances: >
     confirmed the ruling. He was executed, along with two others, at the
     police station in Torbat-e Jam, Khorasan, in March of 2002. There is no
     further information on this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "execution in March 2002"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

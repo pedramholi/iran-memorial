@@ -1,9 +1,9 @@
 id: gamshadzehi-khaleqdad-2015
 name_latin: "Khaleqdad Gamshadzehi"
 name_farsi: "خالق داد گمشادزهی"
-date_of_birth: null
+date_of_birth: "1955-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -42,9 +42,8 @@ circumstances: >
     Defense No information is available on Mr. Gamshadzehi s defense. Judgment
     Mr. Khaleqdad Gamshadzehi was hanged, along with three others, at Zahedan
     Prison on March 7, 2015.
-event_context: null
-responsible_forces: null
-
+event_context: "2015 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

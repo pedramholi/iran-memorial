@@ -3,7 +3,7 @@ name_latin: "Morad Davari"
 name_farsi: "مراد داوری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -43,8 +43,7 @@ circumstances: >
     Judgment Mr. Davari was sentenced to death. He was executed with two other
     defendants. No further information is available about this case.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

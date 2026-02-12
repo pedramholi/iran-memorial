@@ -3,7 +3,7 @@ name_latin: "Mohammad Lak"
 name_farsi: "محمد لک"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -29,8 +29,7 @@ circumstances: >
     the Supreme Court. He was hanged in public at Shah-Seyed ali quarter in
     Qom on October 16, 2000.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic News Agency"
 # --- VERIFICATION ---
 status: unverified
 sources:

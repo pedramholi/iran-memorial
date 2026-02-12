@@ -2,8 +2,8 @@ id: saber-lal-mohammad-ghani-2000
 name_latin: "Lal Mohammad Ghani Saber"
 name_farsi: "لال‌محمد غنی‌صابر"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Zabol"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -45,9 +45,8 @@ circumstances: >
     death. The Supreme Court and the General Public Prosecutor confirmed the
     ruling and he was hanged, along with two others, in Mazandaran in 2000. No
     specific information is available about this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "2000 execution"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

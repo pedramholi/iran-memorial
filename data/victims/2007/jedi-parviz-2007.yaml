@@ -3,7 +3,7 @@ name_latin: "Parviz Jedi"
 name_farsi: "پرویز جدی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -54,9 +54,8 @@ circumstances: >
     Mr. Parviz Jedi to death and the Supreme Court confirmed the ruling. He
     was hanged at the Nakhle-Nakhoda intersection in Bandar Abbas on May 15,
     2007.
-event_context: null
-responsible_forces: null
-
+event_context: "2007 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

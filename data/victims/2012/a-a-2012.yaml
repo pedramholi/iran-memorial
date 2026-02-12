@@ -3,7 +3,7 @@ name_latin: "A. A."
 name_farsi: "ع. ع."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -43,9 +43,8 @@ circumstances: >
     sentenced Mr. A. A. to death. This verdict was approved by the Chief
     Public Prosecutor and Mr. A. A. was hanged in the Central Prison of Arak
     County on January 3, 2012.
-event_context: null
-responsible_forces: null
-
+event_context: "2012 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

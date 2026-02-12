@@ -1,10 +1,10 @@
 id: purrashidi-lazem-2015
 name_latin: "Lazem Purrashidi"
 name_farsi: "لازم پوررشیدی"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1995-01-01"
+place_of_birth: "Haluvan Village, Siluvaneh District near Orumieh"
+gender: male
+ethnicity: "Kurdish"
 religion: "Presumed Muslim"
 photo: null
 
@@ -42,8 +42,7 @@ circumstances: >
     Purrashidi was hanged in the Shahab Prison in Kerman on February 7, 2015
     at dawn. No specific information is available about this execution.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

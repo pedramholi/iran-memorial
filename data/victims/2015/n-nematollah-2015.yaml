@@ -3,7 +3,7 @@ name_latin: "Ne'matollah N."
 name_farsi: "نعمت‌الله ن."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -47,9 +47,8 @@ circumstances: >
     Judiciary. Mr. Nematollah N. was hanged in Arak Central Prison on April
     12, 2015. -------------------------- *Messers: Hamed N., Mohammad L. and
     Mahmud S.
-event_context: null
-responsible_forces: null
-
+event_context: "2015 execution"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

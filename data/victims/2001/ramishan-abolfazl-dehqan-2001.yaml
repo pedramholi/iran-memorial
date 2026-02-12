@@ -3,7 +3,7 @@ name_latin: "Abolfazl Dehqan Ramishan"
 name_farsi: "ابوالفضل دهقان‌ رامیشان"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -59,9 +59,8 @@ circumstances: >
     Square in Qom on November 10, 2001. Twenty-one other defendants were also
     condemned to imprisonment, exile, and lashes and the rulings against seven
     of them were confirmed by the Supreme Court.
-event_context: null
-responsible_forces: null
-
+event_context: "2001 execution"
+responsible_forces: "Basij"
 # --- VERIFICATION ---
 status: unverified
 sources:

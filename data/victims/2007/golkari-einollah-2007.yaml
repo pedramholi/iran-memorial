@@ -1,9 +1,9 @@
 id: golkari-einollah-2007
 name_latin: "Einollah Golkari"
 name_farsi: "عین‌الله گلکاری"
-date_of_birth: null
+date_of_birth: "1952-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -45,9 +45,8 @@ circumstances: >
     condemned Mr. Einollah Golkari to death and confiscation of his
     properties. After the ruling was confirmed by the Supreme Court, he was
     hanged in public on April 21, 2007. Mr. Einollah Golkari was 55 years old.
-event_context: null
-responsible_forces: null
-
+event_context: "2007 execution"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

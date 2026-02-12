@@ -1,12 +1,18 @@
 id: abadi-leila-kargar-haji-2014
 name_latin: "Leila Kargar Haji Abadi"
 name_farsi: "لیلا کارگر حاجی آبادی"
-date_of_birth: null
+date_of_birth: "1972-03-15"
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Baha'i"
 photo: "https://www.iranrights.org/actorphotos/87129_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "private tutor"
+education: "completed her education at a Bahá' school"
+family:
+  notes: "youngest of five siblings, three brothers and one sister"
 
 # --- DEATH ---
 date_of_death: 2014-12-30
@@ -86,8 +92,7 @@ circumstances: >
     Islamic Republic outside Iran in countries such as the Philippines,
     Indonesia, Japan, India, and Pakistan in
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Fajr Army"
 # --- VERIFICATION ---
 status: unverified
 sources:

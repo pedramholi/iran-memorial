@@ -1,12 +1,24 @@
 id: allahmoradi-zanyar-2022
 name_latin: "Zanyar AllahMoradi"
 name_farsi: "زانیار الله‌مرادی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1997-11-24"
+place_of_birth: "Sanandaj"
+gender: male
 ethnicity: null
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/87192_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "worker"
+education: "associate degree in electronics"
+family:
+  notes: "son of Rahim (Khalifeh Ebrahim) and Nasrin Ahmadi"
+personality: "calm, cheerful, optimistic, and sociable"
+beliefs: "participated in protests"
+quotes:
+  - "I am still able to work. One must be grateful to God."
+  - "A Kurd-seller is taking away my sisters and brothers. I cannot remain silent."
+  - "They are all my sisters and brothers. I cannot stand to see injustice."
 
 # --- DEATH ---
 date_of_death: 2022-11-15
@@ -85,7 +97,7 @@ circumstances: >
     through the beginning of 2023. The State s crackdown was swift and
     accompanied by intermittent landline and cellular internet network
     shutdowns, as well as threats against and arrests of victim
-event_context: null
+event_context: "2022 (Mahsa Amini) Protest background"
 responsible_forces: null
 
 # --- VERIFICATION ---

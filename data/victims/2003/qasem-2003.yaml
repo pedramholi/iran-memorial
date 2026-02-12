@@ -3,7 +3,7 @@ name_latin: "Qasem"
 name_farsi: "قاسم"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -28,9 +28,8 @@ circumstances: >
     Judgment The court condemned Mr. Qasem to death, and Branch 27 of the
     Supreme Court confirmed the ruling. He was hanged in public in Khoramshahr
     in June of 2003. The exact date of this execution is not known.
-event_context: null
-responsible_forces: null
-
+event_context: "execution in June 2003"
+responsible_forces: "Khoramshahr Courthouse"
 # --- VERIFICATION ---
 status: unverified
 sources:

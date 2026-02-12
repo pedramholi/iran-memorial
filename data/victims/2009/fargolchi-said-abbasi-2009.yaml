@@ -1,12 +1,18 @@
 id: fargolchi-said-abbasi-2009
 name_latin: "Sa'id Abbasi Fargolchi"
 name_farsi: "سعید عباسی فرگلچی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1985-01-01"
+place_of_birth: "Tehran"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/80406_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "store owner"
+family:
+  marital_status: "single"
+  notes: "son of Sattar"
 
 # --- DEATH ---
 date_of_death: 2009-06-20
@@ -86,9 +92,8 @@ circumstances: >
     the post-election demonstrations in June 2009, pictures of some
     plainclothes agents were posted on internet websites. Internet users
     helped to identify some of them and provided
-event_context: null
-responsible_forces: null
-
+event_context: "2009 presidential election protests"
+responsible_forces: "paramilitary forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

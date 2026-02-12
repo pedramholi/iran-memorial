@@ -3,10 +3,13 @@ name_latin: "Ahmad Qanbarzehi"
 name_farsi: "احمد قنبرزهی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "member of a smuggling gang"
 
 # --- DEATH ---
 date_of_death: 2007-05-08
@@ -56,9 +59,8 @@ circumstances: >
     Judgment The court condemned Mr. Ahmad Qanbarzehi to death and the ruling
     was confirmed by the Supreme Court. He was hanged in public in Chatrud,
     Kerman, on May 8, 2007.
-event_context: null
-responsible_forces: null
-
+event_context: "2007 execution"
+responsible_forces: "anti narcotics security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

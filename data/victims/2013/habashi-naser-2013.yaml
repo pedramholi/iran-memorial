@@ -1,12 +1,17 @@
 id: habashi-naser-2013
 name_latin: "Naser Habashi"
 name_farsi: "ناصر حبشی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1983-01-01"
+place_of_birth: "Amol"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/85259_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "member of the Mojahedin Khalq Organization"
+family:
+  notes: "his mother was a teacher; he had an 8-month-old brother"
 
 # --- DEATH ---
 date_of_death: 2013-09-01
@@ -86,9 +91,8 @@ circumstances: >
     resulted in the killing and wounding of Mojahedin Khalq members. The base
     was also bombed several times during the United States' war with Iraq in
     20
-event_context: null
-responsible_forces: null
-
+event_context: "evacuation of Ashraf Base in 2013"
+responsible_forces: "Islamic Revolutionary Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

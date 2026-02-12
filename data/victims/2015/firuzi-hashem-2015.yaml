@@ -3,7 +3,7 @@ name_latin: "Hashem Firuzi"
 name_farsi: "هاشم فیروزی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -43,8 +43,7 @@ circumstances: >
     Shiraz on March 29, 2015.There is no information available on the details
     of this verdict.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Ali Kalateh"
 name_farsi: "علی کلاته"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -45,9 +45,8 @@ circumstances: >
     defendant. Defense No information is available on his defense. Judgment
     The court condemned Mr. Ali Kalateh to death and he was hanged in Tehran
     on March 1, 1989.
-event_context: null
-responsible_forces: null
-
+event_context: "1989 execution of drug traffickers"
+responsible_forces: "Center for Combating Narcotics"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,16 @@
 id: abdollahi-abolfazl-2009
 name_latin: "Abolfazl Abdollahi"
 name_farsi: "ابوالفضل عبدالهی"
-date_of_birth: null
+date_of_birth: "1988-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "student"
+education: "associated degree in electronics"
 
 # --- DEATH ---
 date_of_death: 2009-06-20
@@ -85,9 +89,8 @@ circumstances: >
     of Tehran confirmed the active and decisive role of Basij forces in the
     repression of the demonstrations, saying, Basijis, through their presence
     in recent events, have blinded the eyes of the conspi
-event_context: null
-responsible_forces: null
-
+event_context: "2009 presidential election protests"
+responsible_forces: "security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

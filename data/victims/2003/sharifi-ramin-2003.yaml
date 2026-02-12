@@ -2,11 +2,17 @@ id: sharifi-ramin-2003
 name_latin: "Ramin Sharifi"
 name_farsi: "رامین شریفی"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Merangevereh Village near Divandareh, Kurdistan"
+gender: male
+ethnicity: "Kurd"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/74568_thumb.jpeg"
+
+# --- LIFE ---
+education: "middle-school"
+family:
+  marital_status: "single"
+beliefs: "member of the Democratic Party of Iranian Kurdistan"
 
 # --- DEATH ---
 date_of_death: 2003-12-07
@@ -74,9 +80,8 @@ circumstances: >
     family but was buried by officials at Behesht-e Mohammadi cemetery in
     Sanandaj. Mr. Sharifi s relatives identified his grave location and
     exhumed his body to verify his identity. (ABF interview)
-event_context: null
-responsible_forces: null
-
+event_context: "2003 execution"
+responsible_forces: "Intelligence Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

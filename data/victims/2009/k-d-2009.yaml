@@ -1,12 +1,17 @@
 id: k-d-2009
 name_latin: "D. K."
 name_farsi: "د. ک."
-date_of_birth: null
+date_of_birth: "1973-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+quotes:
+  - "I had no intention of killing the victim, and that I had gotten involved in the fight on behalf of my brother and had only defended myself during the fight."
 
 # --- DEATH ---
 date_of_death: 2009-03-11
@@ -62,9 +67,8 @@ circumstances: >
     the forgiveness of the victim s first-degree blood relatives. However, his
     attempts in that regard eventually proved fruitless. Mr. D. K. was hanged
     in Adelabad Prison in Shiraz on the morning of March 11, 2009.
-event_context: null
-responsible_forces: null
-
+event_context: "group fight of May 18, 2004"
+responsible_forces: "Judiciary Police of Marvdasht"
 # --- VERIFICATION ---
 status: unverified
 sources:

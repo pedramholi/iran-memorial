@@ -3,7 +3,7 @@ name_latin: "Ali Khuban"
 name_farsi: "علی خوبان"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -50,9 +50,8 @@ circumstances: >
     information regarding the evidence provided against the defendant. Defense
     No information is available on Mr. Khuban’s defense. Judgment Based on the
     court’s ruling, Mr. Ali Khuban was hanged in Neyshabur.
-event_context: null
-responsible_forces: null
-
+event_context: "1989 law imposing mandatory death sentences on drug traffickers"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

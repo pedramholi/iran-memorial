@@ -2,8 +2,8 @@ id: mehdizadeh-mansur-2015
 name_latin: "Mansur Mehdizadeh"
 name_farsi: "منصور مهدی‌زاده"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Mianeh"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -54,9 +54,8 @@ circumstances: >
     confirmed the ruling, it was carried out on Monday August 17, 2015 and Mr.
     Mehdizadeh was hanged, along with five others, at the Bandar-e Abbas
     Central Prison yard at six a. m.
-event_context: null
-responsible_forces: null
-
+event_context: "2015 execution"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

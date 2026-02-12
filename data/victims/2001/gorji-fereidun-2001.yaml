@@ -3,7 +3,7 @@ name_latin: "Fereidun Gorji"
 name_farsi: "فریدون گرجی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -51,9 +51,8 @@ circumstances: >
     and 8 years imprisonment with hard labor. The Supreme Court confirmed the
     ruling. He was hanged in public at the Kazerun Gate in Shiraz on October
     29, 2001.
-event_context: null
-responsible_forces: null
-
+event_context: "fall of 2000"
+responsible_forces: "Fars Provincial Courthouse"
 # --- VERIFICATION ---
 status: unverified
 sources:

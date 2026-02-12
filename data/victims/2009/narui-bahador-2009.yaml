@@ -3,7 +3,7 @@ name_latin: "Bahador Naru'i"
 name_farsi: "بهادر ناروئی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -44,9 +44,8 @@ circumstances: >
     to death by hanging. The Supreme Court approved this verdict (Aftab News
     Website). Mr. Naru i was executed, along with another person, on the
     morning of January 3, 2009, in the Central Prison of Zahedan.
-event_context: null
-responsible_forces: null
-
+event_context: "2009 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

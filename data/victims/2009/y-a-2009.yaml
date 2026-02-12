@@ -3,7 +3,7 @@ name_latin: "A. Y."
 name_farsi: "الف. ی."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -48,9 +48,8 @@ circumstances: >
     February 17, 2009, at the Central Prison of Bushehr. The family of the
     victim were in attendance. There is no information on the details of the
     verdict leading to this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on February 17, 2009"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

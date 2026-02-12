@@ -1,12 +1,21 @@
 id: rajabi-atefeh-sahaleh-2004
 name_latin: "Atefeh Sahaleh Rajabi"
 name_farsi: "عاطفه سهاله رجبی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1987-09-21"
+place_of_birth: "Neka, Mazandaran Province"
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/17444_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  marital_status: "single"
+  children: 0
+  notes: "daughter of Bibi Ra ee and Safarali; her parents were divorced when she was a toddler; her mother died in an automobile accident when she was 5 years old; her brother drowned in a river."
+personality: "described as a very kind girl"
+quotes:
+  - "\"During the three months Ms. Sahaleh was in detention, he only visited with her for 10 minutes.\""
 
 # --- DEATH ---
 date_of_death: 2004-08-15
@@ -85,9 +94,8 @@ circumstances: >
     immoral relations with a number of individuals as evidence for Ms. Sahaleh
     s arrest and prosecution. Pursuant to the judge s order, an inquiry was
     made with Behshahr Prison regarding Ms. Sahal
-event_context: null
-responsible_forces: null
-
+event_context: "arrested three times in the course of one year on charges of Non-Muhsan Zina"
+responsible_forces: "Neka law enforcement officials"
 # --- VERIFICATION ---
 status: unverified
 sources:

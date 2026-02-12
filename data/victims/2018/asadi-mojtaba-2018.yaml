@@ -3,7 +3,7 @@ name_latin: "Mojtaba Asadi"
 name_farsi: "مجتبی اسدی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -43,8 +43,7 @@ circumstances: >
     executed, along with another person, in Raja i Shahr Prison, Karaj, on
     August 28, 2018.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

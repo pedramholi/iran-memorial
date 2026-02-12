@@ -1,12 +1,18 @@
 id: qahremani-saru-2018
 name_latin: "Saru Qahremani"
 name_farsi: "سارو قهرمانی"
-date_of_birth: null
+date_of_birth: "1994-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/82748_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  marital_status: "engaged"
+personality: "quiet and shy family man"
+beliefs: "supporter of the Kurdistan Democratic Party"
 
 # --- DEATH ---
 date_of_death: 2018-01-13
@@ -85,9 +91,8 @@ circumstances: >
     though the authorities stated that he had been killed in armed skirmishes
     unrelated to the nationwide protests, there are no bullet wounds in his
     body, but there are bruises caused by severe beatings. Ac
-event_context: null
-responsible_forces: null
-
+event_context: "nationwide protests"
+responsible_forces: "Sanandaj Information Administration"
 # --- VERIFICATION ---
 status: unverified
 sources:

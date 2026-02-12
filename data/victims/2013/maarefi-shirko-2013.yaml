@@ -2,11 +2,22 @@ id: maarefi-shirko-2013
 name_latin: "Shirko Ma'arefi"
 name_farsi: "شیرکو معارفی"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Baneh, Kurdistan"
+gender: male
+ethnicity: "Kurd"
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/80574_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "Peshmerga"
+education: "high school"
+family:
+  marital_status: "single"
+  notes: "from a middle class family"
+personality: "funny and lively; he always laughed and would do whatever he could for his friends"
+beliefs: "joined Komala Party in 2004"
+quotes:
+  - "Even at the time of my arrest, I was not willing to use my gun and shoot. The feelings I carried within me were not terror, fear and violence; on the contrary, my heart was filled with love for humanity and a desire for freedom."
 
 # --- DEATH ---
 date_of_death: 2013-11-04
@@ -86,8 +97,7 @@ circumstances: >
     Central Prison after two months. He was tortured physically and mentally
     in the Ministry of Intelligence detention center of Sanadaj. In a
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,10 +3,13 @@ name_latin: "Mitra Lotfi"
 name_farsi: "میترا لطفی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "student"
 
 # --- DEATH ---
 date_of_death: 2009-06-20
@@ -85,9 +88,8 @@ circumstances: >
     users helped to identify some of them and provided evidence that these
     individuals were affiliated with the Basij paramilitary groups, the
     Revolutionary Guard Corps, and state intelligence forces
-event_context: null
-responsible_forces: null
-
+event_context: "2009 presidential election protests"
+responsible_forces: "Basij"
 # --- VERIFICATION ---
 status: unverified
 sources:

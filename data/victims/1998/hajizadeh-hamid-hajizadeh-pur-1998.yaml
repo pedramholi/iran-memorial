@@ -2,11 +2,19 @@ id: hajizadeh-hamid-hajizadeh-pur-1998
 name_latin: "Hamid Hajizadeh (Pur Hajizadeh)"
 name_farsi: "حمید حاجی زاده (پورحاجی زاده)"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Bazanjan, Kerman Province"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/71615_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "writer, teacher, poet"
+education: "associate degree in literature, bachelor's degree in literature"
+family:
+  marital_status: "married"
+  children: 3
+beliefs: "supporter and member of the National Front"
 
 # --- DEATH ---
 date_of_death: 1998-09-22
@@ -85,9 +93,8 @@ circumstances: >
     not clear - was the official policy of the Islamic Republic of Iran s
     Ministry of Information for over a decade. Mr. Hajizadeh and his son s
     names were first mentioned as two of the v
-event_context: null
-responsible_forces: null
-
+event_context: "Chain Murders"
+responsible_forces: "Ministry of Intelligence"
 # --- VERIFICATION ---
 status: unverified
 sources:

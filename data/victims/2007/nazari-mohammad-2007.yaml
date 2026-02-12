@@ -2,8 +2,8 @@ id: nazari-mohammad-2007
 name_latin: "Mohammad Nazari"
 name_farsi: "محمد نظری"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Afghanistan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -48,9 +48,8 @@ circumstances: >
     court condemned Mr. Mohammad Nazari to death and the ruling was confirmed
     by the supreme judiciary officials. He was hanged in Varmin prison yard on
     March 2, 2007.
-event_context: null
-responsible_forces: null
-
+event_context: "2007 execution"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

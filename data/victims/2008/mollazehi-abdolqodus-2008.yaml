@@ -1,12 +1,21 @@
 id: mollazehi-abdolqodus-2008
 name_latin: "Abdolqodus Mollazehi"
 name_farsi: "عبدالقدوس ملازهی"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1980-01-01"
+place_of_birth: "Iranshahr, Sistan and Baluchestan Province"
+gender: male
+ethnicity: "Baluch"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/83532_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "religious cleric"
+education: "graduated with the degree of Molavi"
+family:
+  marital_status: "married"
+  children: 7
+personality: "spiritual, religious, and social personality"
+beliefs: "adherent of the Hanafi school of Islam"
 
 # --- DEATH ---
 date_of_death: 2008-04-09
@@ -85,9 +94,8 @@ circumstances: >
     and was very cold during winter . (Boroumand Center interview with Mr.
     Mollazehi s co-defendant). After spending three days there, on December
     16, 2007, Mr. Mollazehi and 8 to
-event_context: null
-responsible_forces: null
-
+event_context: "arrest on December 13, 2007"
+responsible_forces: "Iranshahr Information Administration"
 # --- VERIFICATION ---
 status: unverified
 sources:

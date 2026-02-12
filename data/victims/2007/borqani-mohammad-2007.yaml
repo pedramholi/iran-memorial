@@ -3,7 +3,7 @@ name_latin: "Mohammad Borqani"
 name_farsi: "محمد برقانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -44,9 +44,8 @@ circumstances: >
     defense. Judgment The court announced Mr. Mohammad Borqani to be a
     corruptor on the earth and sentenced her to death. (Aftab-e-Yazd) He was
     hanged in the Mashhad central prison onSeptember 5, 2007at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "2007 executions"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

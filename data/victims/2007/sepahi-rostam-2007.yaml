@@ -3,7 +3,7 @@ name_latin: "Rostam Sepahi"
 name_farsi: "رستم سپاهی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -42,8 +42,7 @@ circumstances: >
     confirmed by the Supreme Judiciary. He was hanged in the Zahedan prison
     yard on November 15, 2007.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

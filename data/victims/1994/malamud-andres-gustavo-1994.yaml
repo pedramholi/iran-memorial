@@ -2,11 +2,20 @@ id: malamud-andres-gustavo-1994
 name_latin: "Andres Gustavo Malamud"
 name_farsi: "آندرس گوستاوو مالامود"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Buenos Aires"
+gender: male
 ethnicity: null
 religion: "Judaism"
 photo: "https://www.iranrights.org/actorphotos/11915_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "architect"
+family:
+  marital_status: "married"
+  children: 2
+  notes: "had been married for six years"
+quotes:
+  - "Beyond his story and the anecdotes that could describe him, the truth is that the bombing of July 18th cut his life short, together with his family’s."
 
 # --- DEATH ---
 date_of_death: 1994-07-18
@@ -85,9 +94,8 @@ circumstances: >
     The Hezbollah operatives, led by Imad Mughnieh, arrived in Buenos Aires
     with fake European passports on July 1, 1994. A flurry of phone calls from
     the airport traced them to Foz de Iguazu in the Tri-Border Area, a loos
-event_context: null
-responsible_forces: null
-
+event_context: "AMIA bombing"
+responsible_forces: "Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

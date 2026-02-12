@@ -3,10 +3,14 @@ name_latin: "Yarmohammad Samadi"
 name_farsi: "یارمحمد صمدی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "the defendant murdered the two children and dumped their bodies in a well two years ago."
 
 # --- DEATH ---
 date_of_death: 2005-12-28
@@ -43,9 +47,8 @@ circumstances: >
     thousand people were present including the judicial and local officials.
     The families of the victims did not pardon the murderer; therefore, the
     ruling was enforced.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on December 28, 2005"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,17 @@
 id: jafarzadeh-mohammad-meqdad-2013
 name_latin: "Mohammad (Meqdad) Ja’farzadeh"
 name_farsi: "محمد (مقداد) جعفرزاده"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1963-01-01"
+place_of_birth: "Tabriz"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/85234_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "member of the Mojahedin Khalq Organization"
+family:
+beliefs: "member of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 2013-09-01
@@ -86,8 +91,7 @@ circumstances: >
     resulted in the killing and wounding of Mojahedin Khalq members. The base
     was also bombed several times during the United States' war with
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

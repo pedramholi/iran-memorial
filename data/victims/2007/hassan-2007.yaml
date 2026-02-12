@@ -3,7 +3,7 @@ name_latin: "Hassan"
 name_farsi: "حسن"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -51,9 +51,8 @@ circumstances: >
     Republic s authorities as Villains and Hooligans , and inspecting of
     workshops, dress shops, barber shops, photo shops, etc. were also added to
     the police agenda.
-event_context: null
-responsible_forces: null
-
+event_context: "To Advance the Social Order"
+responsible_forces: "Islamic Republic Security Forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

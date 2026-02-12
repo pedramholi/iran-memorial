@@ -3,10 +3,14 @@ name_latin: "Fakhteh Samadi"
 name_farsi: "فاخته صمدی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "The old man intended to harm me devilishly. Believe me, I just committed the crime to defend myself."
 
 # --- DEATH ---
 date_of_death: 2007-10-17

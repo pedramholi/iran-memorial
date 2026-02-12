@@ -3,7 +3,7 @@ name_latin: "Ezatollah Kiani"
 name_farsi: "عزت‌الله کیانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -36,9 +36,8 @@ circumstances: >
     available on Mr. Kiani s defense. Judgment Mr. Kiani was sentenced to
     death by hanging. He and another person were executed in Dastgerd Prison,
     Esfahan, on Wednesday, May 4, 2016.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on May 4, 2016"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

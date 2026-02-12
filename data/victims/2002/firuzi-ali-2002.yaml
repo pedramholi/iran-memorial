@@ -3,10 +3,14 @@ name_latin: "Ali Firuzi"
 name_farsi: "علی فیروزی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "the victim intended to rape him"
 
 # --- DEATH ---
 date_of_death: 2002-04-16

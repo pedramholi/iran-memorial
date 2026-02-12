@@ -3,7 +3,7 @@ name_latin: "Mostafa Tondro Somesaraie"
 name_farsi: "مصطفی تندرو صومعه سرایی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -37,8 +37,7 @@ circumstances: >
     Mr. Tondro Somesaraie was sentenced to death. His execution was carried
     out in the presence of the victims' relatives.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic’s authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

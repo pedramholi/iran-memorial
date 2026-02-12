@@ -3,10 +3,16 @@ name_latin: "Fereshteh Esfandiari"
 name_farsi: "فرشته اسفندیاری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/84116_thumb.jpeg"
+
+# --- LIFE ---
+personality: "inspired all of us with her zeal, her revolutionary drive, her perseverance, and her efficiency"
+beliefs: "follower of Mojahedin Khalq Organization"
+quotes:
+  - "As soon as she started working at Sedaye Mojahed, she inspired all of us with her zeal, her revolutionary drive, her perseverance, and her efficiency."
 
 # --- DEATH ---
 date_of_death: 1995-05-17
@@ -85,9 +91,8 @@ circumstances: >
     the MKO in 1977. In January of 1979, the imprisoned Muslim leaders of the
     MKO were released, along with other political prisoners. They began to
     re-organize the MKO and to recruit new members,
-event_context: null
-responsible_forces: null
-
+event_context: "May 17, 1995 attack in Baghdad"
+responsible_forces: "Mobarezin e Iraq"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Yuness Sa'idi Nejad"
 name_farsi: "یونس سعیدی نژاد"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -39,8 +39,7 @@ circumstances: >
     defense. Judgment Mr. Sa'idi Nejad was found guilty of drug trafficking
     and sentenced to death. He was hanged in prison.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal of Zahedan"
 # --- VERIFICATION ---
 status: unverified
 sources:

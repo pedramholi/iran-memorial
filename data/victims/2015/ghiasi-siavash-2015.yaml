@@ -2,11 +2,16 @@ id: ghiasi-siavash-2015
 name_latin: "Siavash Ghiasi"
 name_farsi: "سیاوش غیاثی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Bonab"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  children: 1
 
 # --- DEATH ---
 date_of_death: 2015-01-21
@@ -85,9 +90,8 @@ circumstances: >
     necessary to prove that all three perpetrated the killing blow to the
     victim or all three jointly perpetrated a single killing blow. In the
     present case, the victim was strangled with a rope. It is the
-event_context: null
-responsible_forces: null
-
+event_context: "2014 kidnapping and murder case"
+responsible_forces: "Ministry of Information"
 # --- VERIFICATION ---
 status: unverified
 sources:

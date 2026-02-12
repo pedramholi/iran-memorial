@@ -1,12 +1,16 @@
 id: firuzjai-yarali-gartabar-1995
 name_latin: "Yarali Gartabar Firuzja'i"
 name_farsi: "یارعلی گرتبار فیروزجایی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1988-01-01"
+place_of_birth: "Babol"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/84340_thumb.jpeg"
+
+# --- LIFE ---
+education: "high school"
+beliefs: "supporter of Mojahedin Khalq Iran Organization"
 
 # --- DEATH ---
 date_of_death: 1995-07-10
@@ -86,9 +90,8 @@ circumstances: >
     Iran to reside in France, where he founded the National Council of
     Resistance. After the MKO leaders and many of its members were expelled
     from France, they went to I
-event_context: null
-responsible_forces: null
-
+event_context: "July 10, 1995"
+responsible_forces: "Iranian regime"
 # --- VERIFICATION ---
 status: unverified
 sources:

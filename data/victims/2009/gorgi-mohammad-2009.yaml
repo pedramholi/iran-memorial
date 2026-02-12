@@ -3,7 +3,7 @@ name_latin: "Mohammad Gorgi"
 name_farsi: "محمد گرگی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -33,7 +33,7 @@ circumstances: >
     on the morning of February 17, 2009, along with four other people, in the
     Central Prison of Isfahan (Human Rights and Democracy Activists of Iran).
     There is no information on the verdict leading to this execution.
-event_context: null
+event_context: "execution on February 17, 2009"
 responsible_forces: null
 
 # --- VERIFICATION ---

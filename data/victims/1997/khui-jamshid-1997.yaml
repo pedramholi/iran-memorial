@@ -3,7 +3,7 @@ name_latin: "Jamshid Khu'i"
 name_farsi: "جمشید خویی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -40,9 +40,8 @@ circumstances: >
     after the ruling was confirmed by the Supreme Court, he was executed in
     public in the village of Fandokht in Qayenat county (Southern Khorasan
     province).
-event_context: null
-responsible_forces: null
-
+event_context: "1997 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

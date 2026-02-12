@@ -3,7 +3,7 @@ name_latin: "Torab A"
 name_farsi: "تراب الف"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -40,9 +40,8 @@ circumstances: >
     The court condemned Mr. Torab A. to death. According to the report, he was
     hanged at Ashayer Square in Khoramshahr on April 13, 2010, based on the
     Immediate Principle of Criminal Sentence Execution.
-event_context: null
-responsible_forces: null
-
+event_context: "2010 execution"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

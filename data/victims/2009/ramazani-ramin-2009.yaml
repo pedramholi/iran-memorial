@@ -1,12 +1,24 @@
 id: ramazani-ramin-2009
 name_latin: "Ramin Ramazani"
 name_farsi: "رامین رمضانی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1987-06-21"
+place_of_birth: "Tehran"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/86864_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "artist"
+education: "secondary school with a focus on computer studies"
+family:
+  notes: "son of Mehdi and Zahra"
+personality: "calm, composed, and responsible"
+beliefs: "not politically active but participated in protests against the election results"
+quotes:
+  - "If you don't see me again goodbye"
+  - "Ramin voted for Mr. Musavi"
+  - "He wasn t involved in politics, but he cared about what was right. He went into the streets to defend his vote and stood with the people. He always insisted that we are Iranian and must not depend on foreigners."
 
 # --- DEATH ---
 date_of_death: 2009-06-15
@@ -85,7 +97,7 @@ circumstances: >
     to the mayor of Tehran. As the demonstrations were ending, paramilitary
     forces attacked the marchers, injuring and killing several people. To
     prevent such news from bei
-event_context: null
+event_context: "2009 post-presidential election unrest"
 responsible_forces: null
 
 # --- VERIFICATION ---

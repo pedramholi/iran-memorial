@@ -3,10 +3,19 @@ name_latin: "Fatemeh Rajabpur Chukami"
 name_farsi: "فاطمه رجب‌پور چوکامی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "employee and teacher"
+education: "master's degree in Educational Technology"
+family:
+  notes: "daughter of Ms. Sorur Borumand Chukami, had one sister and two brothers"
+personality: "devout believer"
+quotes:
+  - "She didn t charge some families. For some, she even bought clothes. When some children got sick, she took them to the doctor at her own expense."
 
 # --- DEATH ---
 date_of_death: 2009-06-15
@@ -86,7 +95,7 @@ circumstances: >
     Public gatherings of any kind were declared illegal, and police,
     motorcycle-riding special units wearing black uniforms and helmets, and
     plainclothes agents brutally enforc
-event_context: null
+event_context: "2009 post-election protests"
 responsible_forces: null
 
 # --- VERIFICATION ---

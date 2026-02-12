@@ -2,8 +2,8 @@ id: sirudi-mohammad-ali-1989
 name_latin: "Mohammad Ali Sirudi"
 name_farsi: "محمدعلی سیرودی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Dargaz, Khorasan Razavi province"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -41,8 +41,7 @@ circumstances: >
     newspaper, Mr. Mohammad Ali Sirudi was hanged in public in Takhti Stadium
     of Dargaz.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

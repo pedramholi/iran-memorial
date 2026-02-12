@@ -3,7 +3,7 @@ name_latin: "Kazem Ala'emi"
 name_farsi: "کاظم علائمی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -36,9 +36,8 @@ circumstances: >
     death, 520 months imprisonment, returning the stolen property, and 148
     lashes. The Supreme Court confirmed the ruling. He was hanged in public at
     Azadshahr Intersection in Mashhad on August 15, 2001.
-event_context: null
-responsible_forces: null
-
+event_context: "2001 execution"
+responsible_forces: "security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Hassan F."
 name_farsi: "حسن ف."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -39,8 +39,7 @@ circumstances: >
     defense. Judgment The court condemned Mr. Hassan F. to death. He was
     hanged in the Tabriz Central Prison on January 8, 2014.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

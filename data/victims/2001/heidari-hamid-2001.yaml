@@ -3,7 +3,7 @@ name_latin: "Hamid Heidari"
 name_farsi: "حمید حیدری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -58,9 +58,8 @@ circumstances: >
     sent recommendations to some authorities in order to stop this execution;
     however, the Head of Judiciary personally observed and investigated the
     case and confirmed the ruling being carried out on the specific day.
-event_context: null
-responsible_forces: null
-
+event_context: "murder of a Basij member in 2000"
+responsible_forces: "Basij"
 # --- VERIFICATION ---
 status: unverified
 sources:

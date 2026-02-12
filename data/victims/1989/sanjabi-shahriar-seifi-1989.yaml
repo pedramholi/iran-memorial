@@ -1,12 +1,18 @@
 id: sanjabi-shahriar-seifi-1989
 name_latin: "Shahriar Seifi Sanjabi"
 name_farsi: "شهریار سیفی سنجابی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1963-01-01"
+place_of_birth: "Kermanshah"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "sympathizer of the Mojahedin Khalq Organization"
+education: "high school diploma in mathematics"
+personality: "bright student and had a good sense of humor"
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1989-01-01
@@ -80,9 +86,8 @@ circumstances: >
     groups outside Iran. Judgment No specific information is available about
     the death sentence. Mr. Shahriar Seifi Sanjabi was executed during the
     mass killings of political prisoners in March of 1989.
-event_context: null
-responsible_forces: null
-
+event_context: "1988 mass execution"
+responsible_forces: "Iranian authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

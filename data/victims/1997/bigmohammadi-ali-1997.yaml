@@ -3,7 +3,7 @@ name_latin: "Ali Bigmohammadi"
 name_farsi: "علی بیگ محمدی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -37,8 +37,7 @@ circumstances: >
     to death and, after the ruling was confirmed by the Supreme Court, he was
     executed in public. Kayhan does not mention the date of this execution.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,20 @@
 id: khaneqah-turaj-shafii-2002
 name_latin: "Turaj Shafi'i Khaneqah"
 name_farsi: "تورج شفیعی خانقاه"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1970-01-01"
+place_of_birth: "Masal, Talesh"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/74044_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "professional"
+education: "high school graduate"
+family:
+  marital_status: "single"
+  children: 0
+  notes: "became in charge of his family of four siblings and his mother after his father's death"
 
 # --- DEATH ---
 date_of_death: 2002-04-25
@@ -70,9 +78,8 @@ circumstances: >
     Khaneqah hanged himself by his clothes in solitary confinement at Qasr
     Prison the night before his execution was scheduled. His body was buried
     at the Behesht-e Zahra cemetery in Tehran.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on April 25, 2002"
+responsible_forces: "Intelligence Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

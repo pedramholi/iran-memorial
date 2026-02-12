@@ -2,9 +2,9 @@ id: nikandish-qader-2013
 name_latin: "Qader Nikandish"
 name_farsi: "قادر نیک‌اندیش"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Gugjelu village near Miandoab"
+gender: male
+ethnicity: "Kurd"
 religion: "Presumed Muslim"
 photo: null
 
@@ -40,9 +40,8 @@ circumstances: >
     available on Mr. Nikandish s defense. Judgment Mr. Qader Nikandish was
     hanged, along with three others, in the Orumieh Central Prison yard on
     Monday December 16, 2013.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on December 16, 2013"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

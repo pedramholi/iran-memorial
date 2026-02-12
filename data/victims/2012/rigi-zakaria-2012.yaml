@@ -1,12 +1,25 @@
 id: rigi-zakaria-2012
 name_latin: "Zakaria Rigi"
 name_farsi: "زکریا ریگی"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1997-01-01"
+place_of_birth: "Zahedan"
+gender: male
+ethnicity: "Baluch"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/82895_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "high school student"
+education: "high school student majoring in mathematics and physics"
+family:
+  marital_status: "single"
+  children: 0
+  notes: "second child in the family, had three brothers"
+personality: "intelligent, kind, and religious"
+beliefs: "protective of other people's rights"
+quotes:
+  - "I am at your disposal. Do whatever you want with me and whatever you think is expedient."
+  - "I did not wish the murder victim's blood to have been spilled in vain and for the killing to go unpunished."
 
 # --- DEATH ---
 date_of_death: 2012-03-18
@@ -85,9 +98,8 @@ circumstances: >
     appearance, which is in line with their religion s requirements, and for
     performing their religious rites; the authorities force them to trim their
     beards by insulting t
-event_context: null
-responsible_forces: null
-
+event_context: "mass altercation at a mosque in Zahedan"
+responsible_forces: "Zahedan Criminal Investigations Bureau"
 # --- VERIFICATION ---
 status: unverified
 sources:

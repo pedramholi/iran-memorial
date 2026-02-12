@@ -3,10 +3,14 @@ name_latin: "Hossein Vaziri"
 name_farsi: "حسین وزیری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "he had a previous conviction for distribution of narcotics"
 
 # --- DEATH ---
 date_of_death: 1989-03-01
@@ -43,9 +47,8 @@ circumstances: >
     narcotics.” Defense No information is available on Mr. Vaziri’s defense.
     Judgment The court condemned Mr. Hossein Vaziri to death and he was hanged
     in Kerman on March 1, 1989.
-event_context: null
-responsible_forces: null
-
+event_context: "1989 law imposing mandatory death sentences on drug traffickers"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

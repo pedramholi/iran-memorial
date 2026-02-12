@@ -1,12 +1,17 @@
 id: soltani-hossein-2013
 name_latin: "Hossein Soltani"
 name_farsi: "حسین سلطانی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1956-01-01"
+place_of_birth: "Babukan, around Shahreza"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/85267_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "worked in a company"
+education: "high school diploma, Associate Degree from Technical Institute in Ahvaz"
+beliefs: "member of The Association of the Supporters of the MKO"
 
 # --- DEATH ---
 date_of_death: 2013-09-01
@@ -86,8 +91,7 @@ circumstances: >
     2003, inflicting casualties, property, and financial damage. After the
     International Security Assistance Force (ISAF) attack on Iraq and the disa
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

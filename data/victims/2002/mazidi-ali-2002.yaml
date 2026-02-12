@@ -3,10 +3,16 @@ name_latin: "Ali Mazidi"
 name_farsi: "علی مزیدی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/73540_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "parliament candidate"
+education: "PhD in economics"
+quotes:
+  - "I am guilty [of a crime] but not a murderer."
 
 # --- DEATH ---
 date_of_death: 2002-08-21
@@ -53,8 +59,7 @@ circumstances: >
     and the observer judge in Qasr Prison on August 21, 2002. No information
     is available about the lash ruling.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Intelligence Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

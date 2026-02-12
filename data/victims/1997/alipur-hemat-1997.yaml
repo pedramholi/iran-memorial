@@ -3,7 +3,7 @@ name_latin: "Hemat Alipur"
 name_farsi: "همت عالی پور"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -45,9 +45,8 @@ circumstances: >
     Court. On the morning of July 29, 1997, he received the lashes and was
     hanged in public in front of Bakhtar hospital in Shohada square of
     Khorramabad.
-event_context: null
-responsible_forces: null
-
+event_context: "June 2, 1997"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

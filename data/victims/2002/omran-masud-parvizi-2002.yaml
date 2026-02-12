@@ -2,11 +2,18 @@ id: omran-masud-parvizi-2002
 name_latin: "Mas'ud Parvizi Omran"
 name_farsi: "مسعود پرویزی عمران"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Amol"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/75804_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "medical student"
+family:
+  marital_status: "single"
+quotes:
+  - "I had kidnapped his child. On the day of the incident, I had asked the child to get into my car and he did so without any resistance because we were acquaintances."
 
 # --- DEATH ---
 date_of_death: 2002-10-30
@@ -85,9 +92,8 @@ circumstances: >
     and they could get some money by forging the father s signature.
     International human rights organizations have repeatedly condemned the
     government of the Islamic Republic of Iran for its systematic us
-event_context: null
-responsible_forces: null
-
+event_context: "kidnapping and murder of a nine-year-old boy on May 5, 2002"
+responsible_forces: "Criminal Investigator"
 # --- VERIFICATION ---
 status: unverified
 sources:

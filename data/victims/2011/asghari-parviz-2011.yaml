@@ -3,7 +3,7 @@ name_latin: "Parviz Asghari"
 name_farsi: "پرویز اصغری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -42,9 +42,8 @@ circumstances: >
     available on the defendant's defence. Judgment The court condemned Mr.
     Parviz Asghari to death and he was hanged in Tehran on January 12, 2011 at
     dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "2009"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

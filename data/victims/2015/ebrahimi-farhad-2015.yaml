@@ -3,7 +3,7 @@ name_latin: "Farhad Ebrahimi"
 name_farsi: "فرهاد ابراهیمی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -43,8 +43,7 @@ circumstances: >
     Supreme Court. Therefore, the families of these two defendants filed a
     complaint against the Public Prosecutor of Orumieh.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

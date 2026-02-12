@@ -1,12 +1,16 @@
 id: jalali-mir-shojaeddin-motevali-2013
 name_latin: "Mir Shoja'eddin Motevali Jalali"
 name_farsi: "میر‌شجاع‌ألدین متولی جلالی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1953-01-01"
+place_of_birth: "Astaneh Ashrafiyeh, Gilan Province"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/85244_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "supporter of the Mojahedin Khalq Organization of Iran"
+family:
 
 # --- DEATH ---
 date_of_death: 2013-09-01
@@ -87,8 +91,7 @@ circumstances: >
     under the protection of U.S. forces. Several intelligence services,
     including the FBI, went to the Ashraf Base on behalf of t
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

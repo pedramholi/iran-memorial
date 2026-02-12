@@ -3,7 +3,7 @@ name_latin: "Eskandar Me'raji"
 name_farsi: "اسكندر معراجی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -27,9 +27,8 @@ circumstances: >
     defendant. Defense No information is available on Mr. Me’raji’s defense.
     Judgment On December 29, 2005, Mr. Eskandar Me’raji was hanged at 22nd of
     Bahman square in Ilam.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on December 29, 2005"
+responsible_forces: "Iranian National News Agency"
 # --- VERIFICATION ---
 status: unverified
 sources:

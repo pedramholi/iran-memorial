@@ -2,8 +2,8 @@ id: gashtasbi-ruhollah-2015
 name_latin: "Ruhollah Gashtasbi"
 name_farsi: "روح‌الله گشتاسبی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Gachsaran"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -34,8 +34,7 @@ circumstances: >
     court condemned Mr. Ruhollah Gashtasbi to death. He was hanged in the
     Gachsaran Prison yard on May 28, 2015 in the morning.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "IRNA"
 # --- VERIFICATION ---
 status: unverified
 sources:

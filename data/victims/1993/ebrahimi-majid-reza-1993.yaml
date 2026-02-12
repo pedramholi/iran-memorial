@@ -1,12 +1,15 @@
 id: ebrahimi-majid-reza-1993
 name_latin: "Majid Reza Ebrahimi"
 name_farsi: "مجید‌رضا ابراهیمی"
-date_of_birth: null
+date_of_birth: "1987-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1993-10-06
@@ -86,8 +89,7 @@ circumstances: >
     officials have justified these crimes from an ideological and legal
     standpoint. In the spring of 1979, Sadeq Khalkhali, the first C
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

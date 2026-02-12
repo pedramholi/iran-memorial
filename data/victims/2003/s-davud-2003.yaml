@@ -3,10 +3,13 @@ name_latin: "Davud S."
 name_farsi: "داوود س."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "car parts manufacturing employee"
 
 # --- DEATH ---
 date_of_death: 2003-01-01
@@ -45,9 +48,8 @@ circumstances: >
     death and the Supreme Court confirmed the ruling. He was hanged, along
     with another person, at the Qasr Prison in Tehran in 2003. No specific
     information is available about this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "execution in 2003"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

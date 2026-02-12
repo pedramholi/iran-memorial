@@ -3,10 +3,14 @@ name_latin: "Mohammad Reza"
 name_farsi: "محمدرضا"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "Because of consuming alcoholic beverages, I was unaware of what I was doing at the moment."
 
 # --- DEATH ---
 date_of_death: 2004-02-25
@@ -50,8 +54,7 @@ circumstances: >
     Supreme Court confirmed the ruling. He was hanged in Qasr Prison in Tehran
     on February 25, 2004.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

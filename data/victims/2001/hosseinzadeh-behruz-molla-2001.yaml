@@ -3,7 +3,7 @@ name_latin: "Behruz Molla Hosseinzadeh"
 name_farsi: "بهروز ملاحسین‌زاده"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -40,8 +40,7 @@ circumstances: >
     Hosseinzadeh s defense. Judgment A court condemned Mr. Behruz Molla
     Hosseinzadeh to death and he was hanged in 2001.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

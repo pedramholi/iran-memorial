@@ -3,7 +3,7 @@ name_latin: "Ali B."
 name_farsi: "علی ب."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -39,9 +39,8 @@ circumstances: >
     Court of Shiraz sentenced Mr. Ali B. to death. The verdict was validated
     by the Supreme Court. Mr. Ali B. was hanged in the courtyard of Shiraz s
     Adelabad Prison on April 8, 2006.
-event_context: null
-responsible_forces: null
-
+event_context: "2006 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

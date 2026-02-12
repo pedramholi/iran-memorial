@@ -3,7 +3,7 @@ name_latin: "Farhad Akrami"
 name_farsi: "فرهاد اکرمی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/73993_thumb.jpeg"
@@ -86,8 +86,7 @@ circumstances: >
     article. As can be observed, the law has provided for the punishments of
     flogging and imprisonment for a
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Intelligence Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

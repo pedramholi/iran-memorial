@@ -3,10 +3,14 @@ name_latin: "Ali Sukhtehzadeh"
 name_farsi: "علی سوخته زاده"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "During the primary interrogations, the defendant confessed [to the crime] and told the detectives that he had murdered the five victims."
 
 # --- DEATH ---
 date_of_death: 2005-03-13
@@ -62,9 +66,8 @@ circumstances: >
     condemned him to death. The Supreme Court approved this sentence ( Jomhuri
     Eslami ). Mr. Sukhtehzadeh was hanged in public and in front of the same
     bank branch on March 13, 2005.
-event_context: null
-responsible_forces: null
-
+event_context: "March 13, 2005 execution"
+responsible_forces: "Ahvaz intelligent police"
 # --- VERIFICATION ---
 status: unverified
 sources:

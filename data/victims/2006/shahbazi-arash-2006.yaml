@@ -3,7 +3,7 @@ name_latin: "Arash Shahbazi"
 name_farsi: "آرش شهبازی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -43,9 +43,8 @@ circumstances: >
     37 of the Supreme Court. Mr. Shahbazi was publicly hanged at the crime
     scene in East Nazar Street of Isfahan (Alfred intersection) on January 24,
     2006.
-event_context: null
-responsible_forces: null
-
+event_context: "murder of a 21-year old man in East Nazar Street of Isfahan"
+responsible_forces: "Judiciary Police of Isfahan"
 # --- VERIFICATION ---
 status: unverified
 sources:

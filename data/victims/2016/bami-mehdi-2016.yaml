@@ -3,10 +3,13 @@ name_latin: "Mehdi Bami"
 name_farsi: "مهدی بمی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/82962_thumb.jpeg"
+
+# --- LIFE ---
+family:
 
 # --- DEATH ---
 date_of_death: 2016-07-25
@@ -50,9 +53,8 @@ circumstances: >
     Karaj Central Prison along with Mr. Jamshid Dini , Mr. Mr. Majid Farjad
     Pezeshk , and Reza Teimouri on July 25, 2016. There is no information on
     the verdict leading to this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "2016 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

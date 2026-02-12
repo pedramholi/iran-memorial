@@ -3,7 +3,7 @@ name_latin: "Mohammad Reza Saleh"
 name_farsi: "محمدرضا صالح"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -41,9 +41,8 @@ circumstances: >
     defense. Judgment The court condemned Mr. Mohammad Reza Saleh to death and
     the ruling was confirmed by the Supreme Judiciary Officials. He was hanged
     in the Zahedan prison yard on December 17, 2007.
-event_context: null
-responsible_forces: null
-
+event_context: "2007 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

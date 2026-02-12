@@ -3,10 +3,14 @@ name_latin: "A."
 name_farsi: "آ."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
 
 # --- DEATH ---
 date_of_death: 2014-02-19
@@ -43,8 +47,7 @@ circumstances: >
     Sentence Enforcement and other officials at Mashhad Central Prison on
     February 19, 2014.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

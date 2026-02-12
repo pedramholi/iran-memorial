@@ -1,12 +1,20 @@
 id: hassanpur-mohammad-2018
 name_latin: "Mohammad Hassanpur"
 name_farsi: "محمد حسن‌پور"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1951-01-01"
+place_of_birth: "Sardasht County, West Azarbaijan Province"
+gender: male
+ethnicity: "Kurdish"
 religion: "Presumed Muslim (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/83888_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "employee of Sardasht County's Post and Telegraph Administration"
+education: "high school diploma"
+family:
+  marital_status: "married"
+personality: "very dignified, serene, empathetic, kind, and sociable individual"
+beliefs: "member of the Democratic Party of Iranian Kurdistan"
 
 # --- DEATH ---
 date_of_death: 2018-09-08
@@ -85,7 +93,7 @@ circumstances: >
     Kurdish political organizations boycotting the April 1979 Referendum on
     instituting an Islamic Republic; led to serious, and at times armed,
     clashes between the central gover
-event_context: null
+event_context: "1979 Revolution"
 responsible_forces: null
 
 # --- VERIFICATION ---

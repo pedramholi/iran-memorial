@@ -1,12 +1,21 @@
 id: mansur-kamran-1992
 name_latin: "Kamran Mansur"
 name_farsi: "کامران منصور"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1950-01-01"
+place_of_birth: "Tehran"
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: "https://www.iranrights.org/actorphotos/84013_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "political activist"
+education: "PhD in Mechanical Engineering"
+family:
+  notes: "born in a well-to-do family"
+beliefs: "member of Ettehadieh Communist-haye Iran (Iran Communists Union)"
+quotes:
+  - "We will start with villages because Erteja (archaic and outdated; here referring to the Islamic republic regime) is concentrated in towns and cities, and the probability of us being repressed in villages is lower, and we can rely on the village masses for a revolutionary war. We must quickly create partisan groups, free various regions, and expand our forces. Relying on armed fighting, we can and we must recruit activists and pioneers in towns near a particular region, that is, from among urban masses, especially the proletariat and those who live on the fringes, who are in contact with the farmers themselves."
 
 # --- DEATH ---
 date_of_death: 1992-07-01
@@ -85,9 +94,8 @@ circumstances: >
     villages and towns in Soleimanieh Province, finally settling in the town
     of Ranieh. He was in charge of the Ettehadieh Communist-haye Iran s
     Kurdistan Committee and was director of "Seday-e
-event_context: null
-responsible_forces: null
-
+event_context: "1981 political repression and 1982 military clashes in Amol"
+responsible_forces: "Islamic Republic government"
 # --- VERIFICATION ---
 status: unverified
 sources:

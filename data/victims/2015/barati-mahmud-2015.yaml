@@ -3,10 +3,16 @@ name_latin: "Mahmud Barati"
 name_farsi: "محمود براتی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/75811_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "teacher"
+family:
+  children: 1
+  notes: "father of a 3-year-old son at the time of arrest, 12 years old at the time of execution"
 
 # --- DEATH ---
 date_of_death: 2015-09-07
@@ -86,8 +92,7 @@ circumstances: >
     Barati. The real owner of narcotics was executed that day and the
     execution of Mr. Barati was postponed for further investigation. The p
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

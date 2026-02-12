@@ -1,12 +1,18 @@
 id: esmailzadeh-majid-2020
 name_latin: "Majid Esma'ilzadeh"
 name_farsi: "مجید اسماعیل‌زاده"
-date_of_birth: null
+date_of_birth: "1998-09-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "father was a laborer of limited financial means"
+quotes:
+  - "Just like that, I get a call from them telling me to come see my son!"
 
 # --- DEATH ---
 date_of_death: 2020-04-18
@@ -76,9 +82,8 @@ circumstances: >
     father lamented being summoned by prison officials at the eleventh hour
     for their final goodbyes: Just like that, I get a call from them telling
     me to come see my son!
-event_context: null
-responsible_forces: null
-
+event_context: "execution on April 18, 2020"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

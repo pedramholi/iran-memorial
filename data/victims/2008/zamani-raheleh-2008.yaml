@@ -1,12 +1,22 @@
 id: zamani-raheleh-2008
 name_latin: "Raheleh Zamani"
 name_farsi: "راحله زمانی"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1980-01-01"
+place_of_birth: "Idly, Sarab, Ardebil Province"
+gender: female
+ethnicity: "Azeri"
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/73583_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "hairdresser"
+family:
+  marital_status: "married"
+  children: 2
+  notes: "mother of a five-year-old daughter and a three-year-old son"
+personality: "described as calm, meek and shy"
+quotes:
+  - "I was 14. We lived in a village in Ardebil [Province]. The boys went to school in another village that had a school, but my father didn t allow me to go. One day when I came back from working on our farm, my mother told me that I had a suitor [who had asked for my hand in marriage] and that my father had accepted. They had agreed to have the marriage ceremony the following week. I had no idea what a husband even was. They said if you get married there will be one less mouth to feed."
 
 # --- DEATH ---
 date_of_death: 2008-01-02
@@ -85,9 +95,8 @@ circumstances: >
     Campaign) who were incarcerated in the same ward as Ms. Zamani, and
     retained Ms. Arzani as her attorney. Therefore, Ms. Zamani had a lawyer
     (of her choice) only three
-event_context: null
-responsible_forces: null
-
+event_context: "murder of her husband, Mohammad, in Eslamshahr on April 5, 2005"
+responsible_forces: "Tehran Province Criminal Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

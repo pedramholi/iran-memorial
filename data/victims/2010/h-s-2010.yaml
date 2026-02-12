@@ -3,7 +3,7 @@ name_latin: "S H"
 name_farsi: "س ح"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -41,9 +41,8 @@ circumstances: >
     The court condemned Mr. S. H. to death and the ruling was confirmed by the
     General Public Prosecutor. He was hanged at the Karun prison in Ahvaz on
     July 21, 2010.
-event_context: null
-responsible_forces: null
-
+event_context: "2010 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

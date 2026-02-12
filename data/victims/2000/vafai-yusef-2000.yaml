@@ -3,7 +3,7 @@ name_latin: "Yusef Vafa’i"
 name_farsi: "یوسف وفایی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -32,8 +32,7 @@ circumstances: >
     Court confirmed the ruling. He was hanged in public at Mahdasht in Karaj
     in June of 2000. The exact date of this execution is unknown.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Intelligence Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

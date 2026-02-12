@@ -1,12 +1,24 @@
 id: farokhzad-fereidun-1992
 name_latin: "Fereidun Farokhzad"
 name_farsi: "فریدون فرخزاد"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1936-10-09"
+place_of_birth: "Tehran"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/85764_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "poet, radio and television producer, singer, television and radio host, songwriter, composer, actor, political activist"
+education: "master's degree in contemporary history, doctorate in political law"
+family:
+  marital_status: "married"
+  children: 2
+  notes: "first marriage resulted in two children, one of whom died in infancy; second marriage ended in divorce after a few months"
+quotes:
+  - "An artist is responsible for speaking out when a nation is in distress and a country is under oppression."
+  - "After three years, I was dismissed from Radio Iran without any explanation, because I had known the family of Hamid Ashraf since childhood and had visited their home with a bouquet of roses after the Siahkal incident."
+  - "I have been summoned several times by the security officials due to my love for freedom and being free!!! They raided my house twice, tied my hands and eyes and took me to solitary confinement (Anti-Sabotage Committee), which was located behind the Shahrbani building. They treated me in a way that I will never forget for the rest of my life."
 
 # --- DEATH ---
 date_of_death: 1992-07-31

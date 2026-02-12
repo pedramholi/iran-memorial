@@ -1,12 +1,22 @@
 id: sangari-navid-farshid-afkari-2020
 name_latin: "Navid (Farshid) Afkari Sangari"
 name_farsi: "نوید (فرشید) افکاری سنگری"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1993-07-22"
+place_of_birth: "Sepidan, Shiraz"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/84103_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "welder and plasterer"
+education: "high school diploma"
+family:
+  marital_status: "single"
+  children: 0
+  notes: "had four brothers and an older sister"
+quotes:
+  - "I will tear up my birth certificate (if I have to) but I will not vote and betray [my] people."
 
 # --- DEATH ---
 date_of_death: 2020-09-12
@@ -85,9 +95,8 @@ circumstances: >
     the value of the Rial against the Dollar, many major cities across Iran
     were in turmoil due to urban protests. These protests began in Esfahan s
     Shahpur Jadid district and quickly spread to
-event_context: null
-responsible_forces: null
-
+event_context: "summer 2018 protests"
+responsible_forces: "Shiraz Criminal Court Two"
 # --- VERIFICATION ---
 status: unverified
 sources:

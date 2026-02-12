@@ -1,12 +1,21 @@
 id: qadimi-foad-2022
 name_latin: "Fo'ad Qadimi"
 name_farsi: "فواد قدیمی"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
-religion: "Presumed Muslim"
+date_of_birth: "1984-02-20"
+place_of_birth: "Qale Reyhaneh, near Divandarreh, Kurdistan Province"
+gender: male
+ethnicity: "Kurdish"
+religion: "Sunni"
 photo: "https://www.iranrights.org/actorphotos/86937_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "dry cleaner"
+education: "fifth grade"
+family:
+  marital_status: "married"
+  children: 2
+personality: "calm person with a sense of humor, generous, responsible, loved his family"
+beliefs: "participated in anti-government demonstrations"
 
 # --- DEATH ---
 date_of_death: 2022-09-21
@@ -85,7 +94,7 @@ circumstances: >
     lose their eyesight, and according to some reports women s genitalia.
     Since the start of the nationwide protests, and particularly after reports
     in la
-event_context: null
+event_context: "protests following the death of Mahsa Amini"
 responsible_forces: null
 
 # --- VERIFICATION ---

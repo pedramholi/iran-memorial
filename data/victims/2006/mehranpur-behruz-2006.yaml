@@ -1,12 +1,15 @@
 id: mehranpur-behruz-2006
 name_latin: "Behruz Mehranpur"
 name_farsi: "بهروز مهران‌پور"
-date_of_birth: null
+date_of_birth: "1984-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
 
 # --- DEATH ---
 date_of_death: 2006-01-06
@@ -38,8 +41,7 @@ circumstances: >
     available about his burial location. It is not known if his body was given
     to his family.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "IRNA"
 # --- VERIFICATION ---
 status: unverified
 sources:

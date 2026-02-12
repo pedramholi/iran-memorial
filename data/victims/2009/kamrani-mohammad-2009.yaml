@@ -1,12 +1,18 @@
 id: kamrani-mohammad-2009
 name_latin: "Mohammad Kamrani"
 name_farsi: "محمد کامرانی"
-date_of_birth: null
+date_of_birth: "1991-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/61284_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "student"
+education: "medical student"
+family:
+personality: "calm and polite"
 
 # --- DEATH ---
 date_of_death: 2009-07-16
@@ -85,9 +91,8 @@ circumstances: >
     of the smell . In Kahrizak, several people were unconscious. Officials
     could see that we may not survive. When detainees of July 9 entered the
     prison
-event_context: null
-responsible_forces: null
-
+event_context: "July 9, 2009 protest"
+responsible_forces: "Kahrizak prison"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -2,11 +2,23 @@ id: ahmadi-hamed-2015
 name_latin: "Hamed Ahmadi"
 name_farsi: "حامد احمدی"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Sanandaj"
+gender: male
+ethnicity: "Kurdish"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/73763_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "cell phone seller"
+education: "high school diploma"
+family:
+  marital_status: "married"
+  children: 1
+  notes: "oldest son of his family"
+personality: "pleasant, forgiving, and patient"
+beliefs: "proselytizing the Shafe'i religion"
+quotes:
+  - "We went to our death 45 times. We said farewell to life 45 times. Who can understand what it means to die 45 times? Who can understand what it means to put your head on the pillow 45 nights thinking it's the last night of your life?"
 
 # --- DEATH ---
 date_of_death: 2015-03-04
@@ -85,7 +97,7 @@ circumstances: >
     individuals and domestic and international institutions. In June 2014, 19
     human rights organizations objected to the sentences and demanded that
     they be revoked. Additionally, Amnesty
-event_context: null
+event_context: "execution of six individuals in Rajai Shahr Prison on March 4, 2015"
 responsible_forces: null
 
 # --- VERIFICATION ---

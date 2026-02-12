@@ -1,12 +1,21 @@
 id: estakhrian-arman-2009
 name_latin: "Arman Estakhrian"
 name_farsi: "آرمان استخریان"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1992-01-01"
+place_of_birth: "Shiraz"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "high school student"
+family:
+  marital_status: "single"
+  children: 0
+  notes: "father of one"
+quotes:
+  - "I was hit with a baton."
 
 # --- DEATH ---
 date_of_death: 2009-07-11
@@ -85,9 +94,8 @@ circumstances: >
     presence in Tehran s public squares to reinforce security at polling
     stations. Officials at election headquarters began reporting results soon
     after midnight, despite a statement from the Minis
-event_context: null
-responsible_forces: null
-
+event_context: "2009 presidential election protests"
+responsible_forces: "anti-riot police"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,17 @@
 id: madani-mir-hossein-2013
 name_latin: "Mir Hossein Madani"
 name_farsi: "میر‌حسین مدنی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1960-01-01"
+place_of_birth: "Malayer"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/85238_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "public relations at Camp Ashraf"
+education: "high school diploma"
+beliefs: "member of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 2013-09-01
@@ -86,9 +91,8 @@ circumstances: >
     Organization of Iran was in Iraq, the Ashraf Base was repeatedly the
     subject of missile, air, and ground attacks by the Iranian regime, which
     resulted in the killin
-event_context: null
-responsible_forces: null
-
+event_context: "2013 evacuation of Ashraf Base"
+responsible_forces: "Islamic Revolutionary Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

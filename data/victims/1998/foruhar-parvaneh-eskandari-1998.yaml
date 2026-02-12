@@ -1,12 +1,23 @@
 id: foruhar-parvaneh-eskandari-1998
 name_latin: "Parvaneh Eskandari Foruhar"
 name_farsi: "پروانه اسکندری فروهر"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1939-03-20"
+place_of_birth: "Tehran"
+gender: female
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/28400_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "student"
+family:
+  marital_status: "married"
+  children: 2
+  notes: "mother of two children"
+personality: "described as extremely sensitive and passionate"
+beliefs: "advocate for democracy"
+quotes:
+  - "Relentless and fearless in her cause."
 
 # --- DEATH ---
 date_of_death: 1998-11-22
@@ -86,9 +97,8 @@ circumstances: >
     search. Parastu Foruhar reported that documents and writings were
     confiscated and never returned to the family ( Melliun Iran ). State
     Investigation The state investigati
-event_context: null
-responsible_forces: null
-
+event_context: "1998 serial killings"
+responsible_forces: "Ministry of Information (Security)"
 # --- VERIFICATION ---
 status: unverified
 sources:

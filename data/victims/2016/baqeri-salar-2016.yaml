@@ -1,12 +1,18 @@
 id: baqeri-salar-2016
 name_latin: "Salar Baqeri"
 name_farsi: "سالار باقری"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1994-01-01"
+place_of_birth: "Bukan, Western Azerbayjan Province"
+gender: male
+ethnicity: "Kurdish"
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/85273_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "Peshmerga"
+education: "ninth grade"
+family:
+  marital_status: "single"
 
 # --- DEATH ---
 date_of_death: 2016-12-20
@@ -86,8 +92,7 @@ circumstances: >
     several occasions. At least dozens were killed on each side in these
     military clashes .** In subsequent y
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Kurdistan Democratic Party"
 # --- VERIFICATION ---
 status: unverified
 sources:

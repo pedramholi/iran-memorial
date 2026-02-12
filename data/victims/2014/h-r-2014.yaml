@@ -39,9 +39,8 @@ circumstances: >
     Defense No information is available on Ms./Mr. R. H.'s defense. Judgment
     Ms./Mr. R. H. was hanged in Delfan in January of 2014. No specific
     information is available about the defendant s execution.
-event_context: null
-responsible_forces: null
-
+event_context: "execution in January of 2014"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

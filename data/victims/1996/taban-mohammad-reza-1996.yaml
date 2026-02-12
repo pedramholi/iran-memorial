@@ -3,7 +3,7 @@ name_latin: "Mohammad Reza Taban"
 name_farsi: "محمدرضا تابان"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -36,8 +36,7 @@ circumstances: >
     information is available on the defense. Judgment Mr. Taban was sentenced
     to death and the sentence was carried out in public.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic’s authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

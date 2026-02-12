@@ -1,12 +1,19 @@
 id: mohammadi-mehran-2002
 name_latin: "Mehran Mohammadi"
 name_farsi: "مهران محمدی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1967-01-01"
+place_of_birth: "Kazerun"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "professional"
+education: "high school graduate"
+family:
+  marital_status: "married"
+beliefs: "humanist and defender of human rights"
 
 # --- DEATH ---
 date_of_death: 2002-07-03
@@ -48,9 +55,8 @@ circumstances: >
     Supreme Court confirmed the ruling. He was hanged in public at the
     Darvazeh-Shiraz Square in Esfahan on July 3, 2002 in the evening. His body
     was buried in Dalorahma Cemetery in Shiraz.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on July 3, 2002"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

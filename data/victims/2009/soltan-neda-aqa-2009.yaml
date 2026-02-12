@@ -3,10 +3,22 @@ name_latin: "Neda Aqa Soltan"
 name_farsi: "ندا آقاسلطان"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/61073_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "student"
+education: "studied Islamic philosophy at Tehran Azad University"
+family:
+  notes: "sister explains she used to say that the God they are teaching at these universities is different from the God I worship"
+personality: "courageous and frank"
+beliefs: "thought that the 2009 presidential election would be futile"
+quotes:
+  - "This is not my God. The God I worship, is a compassionate and loving God."
+  - "We heard that there were things going on in the street nearby; and there were protests going on. So we decided to go out and take a look."
+  - "I didn t want to kill her"
 
 # --- DEATH ---
 date_of_death: 2009-06-20
@@ -85,9 +97,8 @@ circumstances: >
     taking photos of him (BBC, June 25, 2009). Large crowds attended Neda s
     memorial service on July 30, 2009 and gathered at her grave at Behesht-e
     Zahra Cemetery in Tehran. Po
-event_context: null
-responsible_forces: null
-
+event_context: "2009 presidential election protests"
+responsible_forces: "Basij"
 # --- VERIFICATION ---
 status: unverified
 sources:

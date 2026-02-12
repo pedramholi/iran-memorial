@@ -1,12 +1,18 @@
 id: marhuni-ayaz-2005
 name_latin: "Ayaz Marhuni"
 name_farsi: "عیاض مرهونی"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1987-01-01"
+place_of_birth: "south west Iran"
+gender: male
+ethnicity: "Arab"
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "families had relocated to Mashhad after the breakout of the Iran-Iraq War"
+quotes:
+  - "\"we did not know committing such act is punishable by death\""
 
 # --- DEATH ---
 date_of_death: 2005-07-19
@@ -86,8 +92,7 @@ circumstances: >
     that the 13-year old was the son of a high ranking official. A Summary of
     the Defects of Mr. Ayaz Marhuni s Legal Proceedings
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Iranian authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

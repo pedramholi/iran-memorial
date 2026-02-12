@@ -2,11 +2,17 @@ id: hersalis-silvia-leonor-1994
 name_latin: "Silvia Leonor Hersalis"
 name_farsi: "سیلویا لئونور هرسالیس"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Buenos Aires, Argentina"
+gender: female
 ethnicity: null
 religion: "Judaism"
 photo: "https://www.iranrights.org/actorphotos/11860_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "job seeker"
+family:
+  children: 1
+  notes: "lived with her 19-year-old daughter and her mother"
 
 # --- DEATH ---
 date_of_death: 1994-07-18
@@ -86,9 +92,8 @@ circumstances: >
     diplomats in Buenos Aires actively assisted Hezbollah. Mohsen Rabbani, who
     was in charge of the operation, was Iran’s newly appointed cultural
     attaché at the
-event_context: null
-responsible_forces: null
-
+event_context: "AMIA bombing"
+responsible_forces: "Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

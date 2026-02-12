@@ -1,9 +1,9 @@
 id: a-reza-2010
 name_latin: "Reza A"
 name_farsi: "رضا الف"
-date_of_birth: null
+date_of_birth: "1984-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -43,8 +43,7 @@ circumstances: >
     rejected twice. He was hanged at the central prison yard in Esfahan on
     June 6, 2010. Mr. Reza A. was 26 years old.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

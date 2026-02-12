@@ -3,7 +3,7 @@ name_latin: "Mohammad Sha'banian"
 name_farsi: "محمد شعبانیان"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -52,9 +52,8 @@ circumstances: >
     Mohammad Sha'banian to death and the ruling was confirmed by the Supreme
     Judiciary Council. He was hanged in public in Abhar on January 23, 1989 at
     4 p.m.
-event_context: null
-responsible_forces: null
-
+event_context: "1989 execution"
+responsible_forces: "Abhar Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

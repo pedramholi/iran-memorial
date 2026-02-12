@@ -1,12 +1,15 @@
 id: tahmasbi-hossein-2009
 name_latin: "Hossein Tahmasbi"
 name_farsi: "حسین طهماسبی"
-date_of_birth: null
+date_of_birth: "1984-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/61651_thumb.jpeg"
+
+# --- LIFE ---
+family:
 
 # --- DEATH ---
 date_of_death: 2009-06-15
@@ -85,9 +88,8 @@ circumstances: >
     the ministry of information, influential political groups, or the armed
     forces. Following the post-election demonstrations in June 2009, pictures
     of some plaincl
-event_context: null
-responsible_forces: null
-
+event_context: "2009 presidential election protests"
+responsible_forces: "official armed agents"
 # --- VERIFICATION ---
 status: unverified
 sources:

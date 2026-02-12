@@ -3,7 +3,7 @@ name_latin: "Mohammad Shah Bakhsh"
 name_farsi: "محمد شه بخش"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -49,9 +49,8 @@ circumstances: >
     approved by the Supreme Court. Mr. Shahbakhsh was hanged publicly, along
     with two other individuals, at the Karegar Square of Zahedan on Sunday,
     December 24, 2006.
-event_context: null
-responsible_forces: null
-
+event_context: "2006 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

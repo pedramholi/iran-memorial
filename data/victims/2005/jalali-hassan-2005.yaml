@@ -2,9 +2,9 @@ id: jalali-hassan-2005
 name_latin: "Hassan Jalali"
 name_farsi: "حسن جلالی"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Khuzestan"
+gender: male
+ethnicity: "Arab"
 religion: "Islam"
 photo: null
 
@@ -85,9 +85,8 @@ circumstances: >
     million individuals, comprising approximately*** 3% of the country s
     population, reside in Khuzestan, Bushehr, Hormozgan, Fars, and Khorasan
     provinces. The largest number of Arabs reside
-event_context: null
-responsible_forces: null
-
+event_context: "protests in Khuzestan, April 15th to 24th, 2005"
+responsible_forces: "security and police forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

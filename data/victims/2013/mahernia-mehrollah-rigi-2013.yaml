@@ -1,12 +1,20 @@
 id: mahernia-mehrollah-rigi-2013
 name_latin: "Mehrollah Rigi Mahernia"
 name_farsi: "مهرالله ریگی ماهرنیا"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1996-01-01"
+place_of_birth: "Zahedan"
+gender: male
+ethnicity: "Baluchi"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/75038_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  marital_status: "unmarried"
+  children: 0
+quotes:
+  - "I was tortured in different ways: for example, there was something called the miracle bed where they would lay us prone with our arms and legs tied down and hit us on our feet with a heavy object after my stay in solitary confinement was over, the most painful torture I suffered was that I was allowed to go to the yard very infrequently and just before being let out, they would say, The last person to come out gets beaten. I would let everyone else go out of the cell first and took the beating myself because I was the youngest. They kicked and punched me and beat me with a pipe. They insulted me and treated me like an animal."
+  - "I was constantly tortured mentally and physically by agents of the Ministry of Intelligence during my detention in solitary confinement for a span of 10 months."
 
 # --- DEATH ---
 date_of_death: 2013-10-26
@@ -85,9 +93,8 @@ circumstances: >
     myself because I was the youngest. They kicked and punched me and beat me
     with a pipe. They insulted me and treated me like an animal. Mr. Rigi was
     pressured by the interrogator to make a confession
-event_context: null
-responsible_forces: null
-
+event_context: "Jaish ul-Adl operation"
+responsible_forces: "Ministry of Intelligence"
 # --- VERIFICATION ---
 status: unverified
 sources:

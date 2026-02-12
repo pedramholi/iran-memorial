@@ -2,11 +2,20 @@ id: gudarzi-saleh-2002
 name_latin: "Saleh Gudarzi"
 name_farsi: "صالح گودرزی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Ziveh Village near Kamyaran"
+gender: male
 ethnicity: null
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/73933_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "laborer"
+education: "illiterate"
+family:
+  marital_status: "married"
+  children: 3
+personality: "funny, sociable, and good-humored; very sensitive regarding the Kurdistan issues"
+beliefs: "member and sympathizer of the Democratic Party of Iranian Kurdistan (PDKI)"
 
 # --- DEATH ---
 date_of_death: 2002-10-13
@@ -84,8 +93,7 @@ circumstances: >
     having no mourning ceremony. His body was buried in the presence of local
     residents in the Cherusaneh Village near Kamyaran.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Intelligence Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

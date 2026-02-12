@@ -3,7 +3,7 @@ name_latin: "Taqi Mehdinejad"
 name_farsi: "تقی مهدی‌نژاد"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -30,9 +30,8 @@ circumstances: >
     Taqi Mehdinejad to death and the ruling was confirmed by the Supreme
     Court. He was hanged in public at the Basij Square in Babolsar in August
     of 2007. The exact date of this execution is unknown.
-event_context: null
-responsible_forces: null
-
+event_context: "execution in August 2007"
+responsible_forces: "Basij"
 # --- VERIFICATION ---
 status: unverified
 sources:

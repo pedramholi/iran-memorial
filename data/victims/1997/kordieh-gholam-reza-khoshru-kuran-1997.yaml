@@ -1,12 +1,16 @@
 id: kordieh-gholam-reza-khoshru-kuran-1997
 name_latin: "Gholam Reza Khoshru Kuran Kordieh"
 name_farsi: "غلامرضا خوشرو کوران کردیه"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1969-01-01"
+place_of_birth: "Kharuj, Quchan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/41405_thumb.jpeg"
+
+# --- LIFE ---
+quotes:
+  - "Because the child was crying and I wanted to calm him."
 
 # --- DEATH ---
 date_of_death: 1997-08-14
@@ -86,8 +90,7 @@ circumstances: >
     healthy. Judgment The court condemned Mr. Gholam Reza Khoshru to 214
     lashes and death. His case was sent by a special messenger to t
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Basij"
 # --- VERIFICATION ---
 status: unverified
 sources:

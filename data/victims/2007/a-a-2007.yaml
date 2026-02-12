@@ -1,9 +1,9 @@
 id: a-a-2007
 name_latin: "A. A."
 name_farsi: "آ. ع."
-date_of_birth: null
+date_of_birth: "1978-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -37,9 +37,8 @@ circumstances: >
     and the ruling was confirmed by the Supreme Court. He was executed in
     public in Gonbad-e Kavus in November 2007. The exact date of this
     execution is unknown. Mr. A. A. was 29 years old.
-event_context: null
-responsible_forces: null
-
+event_context: "execution in public in Gonbad-e Kavus in November 2007"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

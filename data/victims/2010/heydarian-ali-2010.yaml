@@ -2,11 +2,20 @@ id: heydarian-ali-2010
 name_latin: "Ali Heydarian"
 name_farsi: "علی حیدریان"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Sanandaj"
+gender: male
+ethnicity: "Kurd"
 religion: "Unknown"
 photo: "https://www.iranrights.org/actorphotos/64501_thumb.jpeg"
+
+# --- LIFE ---
+quotes:
+  - "I was arrested by several plainclothes agents on 19 August 2006 and taken to an unidentified location."
+  - "After entering a building in an unidentified location, one of the agents angrily heading towards me, and suddenly tripping me up. I was handcuffed. He proceeded to kick and punch me all over my face and body; he was so engrossed in the act, beaming with a mixture of satisfaction, anger and excitement Finally, one of his colleagues intervened to stop him."
+  - "Where are you from? I told him I was a Kurd from Sanandaj."
+  - "You are a Sunni. Why are you called Ali and your surname is Heidarian?"
+  - "I am the god here and your life is in my hands."
+  - "This is the end of the line. No-one will leave here alive."
 
 # --- DEATH ---
 date_of_death: 2010-05-09
@@ -86,8 +95,7 @@ circumstances: >
     I was taken to a clinic outside the detention center, where I found out
     that I had been held in Ward 209 of Evin Pri
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,9 +1,9 @@
 id: akbar-2003
 name_latin: "Akbar"
 name_farsi: "اکبر"
-date_of_birth: null
+date_of_birth: "1980-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -44,9 +44,8 @@ circumstances: >
     paid the rest of Dieh [blood money]. The other five defendants of this
     case were condemned between 18 months and 3 years imprisonment depending
     on their charges.
-event_context: null
-responsible_forces: null
-
+event_context: "murder of a 52-year-old man at the Mujen Village near Shahrud"
+responsible_forces: "Intelligence Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

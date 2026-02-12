@@ -1,12 +1,17 @@
 id: badavi-abdorrahman-2011
 name_latin: "Abdorrahman Badavi"
 name_farsi: "عبدالرحمن بداوی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1981-01-01"
+place_of_birth: "Shush"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  children: 3
 
 # --- DEATH ---
 date_of_death: 2011-04-14
@@ -86,9 +91,8 @@ circumstances: >
     calling for demonstrations, the organizers highlighted various factors,
     including the central government s policies in expropriating Arab farmers
     lands for various pr
-event_context: null
-responsible_forces: null
-
+event_context: "protests of April 2011"
+responsible_forces: "security and police forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

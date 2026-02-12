@@ -3,7 +3,7 @@ name_latin: "Abdorrahman B."
 name_farsi: "عبدالرحمن ب."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -42,9 +42,8 @@ circumstances: >
     the defense. Judgment The court condemned Mr. Abdorrahman B. to death and
     the Supreme Court confirmed the ruling. He was hanged in Bandar Khamir
     (Hormozgan Province) on May 15, 2007.
-event_context: null
-responsible_forces: null
-
+event_context: "2007 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

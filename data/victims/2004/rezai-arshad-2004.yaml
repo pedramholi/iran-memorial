@@ -1,12 +1,19 @@
 id: rezai-arshad-2004
 name_latin: "Arshad Reza'i"
 name_farsi: "ارشد رضائی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1981-01-01"
+place_of_birth: "Shushmeh-Sofla Village near Nosud, Kermanshah"
+gender: male
 ethnicity: null
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/74291_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "Peshmerga"
+education: "middle-school education"
+family:
+  marital_status: "married"
+beliefs: "member of the Democratic Party of Iranian Kurdistan"
 
 # --- DEATH ---
 date_of_death: 2004-01-01
@@ -86,8 +93,7 @@ circumstances: >
     activities and membership in the Democratic Party of Iranian Kurdistan.
     The validity of the criminal charges brought against this defendant
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Movement of Iraqi Kurdistan"
 # --- VERIFICATION ---
 status: unverified
 sources:

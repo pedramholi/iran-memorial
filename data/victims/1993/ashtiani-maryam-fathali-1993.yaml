@@ -1,12 +1,17 @@
 id: ashtiani-maryam-fathali-1993
 name_latin: "Maryam Fath'ali Ashtiani"
 name_farsi: "مریم قتحعلی آشتیانی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1986-01-01"
+place_of_birth: "Tehran"
+gender: female
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/85298_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  notes: "One of her brothers had been killed during the killings of summer 1988."
+beliefs: "supporter of the Mojahedin e Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1993-08-30
@@ -86,7 +91,7 @@ circumstances: >
     contains common parameters and detailed planning. It can be ascertained
     from the similarities between these murders in different countries that
     the
-event_context: null
+event_context: "killings of political prisoners in the summer of 1988"
 responsible_forces: null
 
 # --- VERIFICATION ---

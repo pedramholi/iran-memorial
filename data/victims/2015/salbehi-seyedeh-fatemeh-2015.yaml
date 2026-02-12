@@ -1,12 +1,19 @@
 id: salbehi-seyedeh-fatemeh-2015
 name_latin: "Seyedeh Fatemeh Salbehi"
 name_farsi: "سیده فاطمه سال‌بهی‌"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1991-11-08"
+place_of_birth: "Neyriz village, Abadeh Tashk, Fars Province"
+gender: female
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/76135_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  notes: "married under pressure from her family, divorced her first husband due to his violent nature, remarried a relative who was an employee of the Shiraz Judiciary's Dispute Resolution Council."
+quotes:
+  - "\"I had been forced to get married by my family, that I had problems with my husband, and that I had decided to kill him because of the hatred I felt for him.\""
 
 # --- DEATH ---
 date_of_death: 2015-10-13
@@ -85,9 +92,8 @@ circumstances: >
     remanded to another trial court, the Fars Province Criminal Court Branch
     Four, on that basis. The trial took place on May 14, 2014, with the
     judges, the plaintiff, the Defendant, and thei
-event_context: null
-responsible_forces: null
-
+event_context: "murder of her husband"
+responsible_forces: "Shiraz Valiasr Police Precinct"
 # --- VERIFICATION ---
 status: unverified
 sources:

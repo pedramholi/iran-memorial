@@ -3,7 +3,7 @@ name_latin: "Ali Reza Toliat"
 name_farsi: "علیرضا تولیت"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,8 +38,7 @@ circumstances: >
     hanged in public in Raja’ishahr near Karaj. In the newspaper’s report the
     date of the execution is not mentioned.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

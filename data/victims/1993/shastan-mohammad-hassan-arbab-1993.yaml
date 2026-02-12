@@ -2,11 +2,15 @@ id: shastan-mohammad-hassan-arbab-1993
 name_latin: "Mohammad Hassan Arbab Shastan"
 name_farsi: "محمد حسن ارباب شستان"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Shastun, Baluchestan"
+gender: male
+ethnicity: "Baluch"
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "military captain"
+beliefs: "supporter of the Mojahedin Khalq of Iran Organization"
 
 # --- DEATH ---
 date_of_death: 1993-06-06
@@ -32,8 +36,7 @@ circumstances: >
     form, Mr. Arbab Shastan was executed by Iranian regime s agents in the
     Baluch area of Karachi, Pakistan.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Iranian regime"
 # --- VERIFICATION ---
 status: unverified
 sources:

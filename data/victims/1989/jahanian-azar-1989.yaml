@@ -3,7 +3,7 @@ name_latin: "Azar Jahanian"
 name_farsi: "آذر جهانیان"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -62,9 +62,8 @@ circumstances: >
     is available on Ms. Jahanian’s defense. Judgment The Islamic Revolutionary
     court of Borujerd (Lorestan province) condemned Ms. Azar Jahanian to death
     as a corruptor on earth. She was hanged in public on February 14, 1989.
-event_context: null
-responsible_forces: null
-
+event_context: "1989 execution"
+responsible_forces: "Islamic Revolutionary court"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Rahim"
 name_farsi: "رحیم"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -40,8 +40,7 @@ circumstances: >
     confirmed by the Supreme Court, he was executed in Birjand on October 25,
     1997.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

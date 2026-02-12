@@ -2,11 +2,18 @@ id: kamrani-nesar-mohammad-2011
 name_latin: "Nesar Mohammad Kamrani"
 name_farsi: "نثار‌محمد کامرانی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Ghourian district, near Herat, Afghanistan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/83225_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "buying and selling plastic and stale bread"
+family:
+  marital_status: "married"
+  children: 4
+personality: "described as an upstanding person who everyone liked"
 
 # --- DEATH ---
 date_of_death: 2011-02-20

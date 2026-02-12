@@ -3,7 +3,7 @@ name_latin: "Sayyad N"
 name_farsi: "صیاد ن"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -45,8 +45,7 @@ circumstances: >
     and he was hanged in the Kerman Central prison yard. The exact date of
     this execution is unknown.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

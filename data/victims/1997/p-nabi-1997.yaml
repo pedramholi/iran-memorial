@@ -3,7 +3,7 @@ name_latin: "Nabi P."
 name_farsi: "نبی پ."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -37,8 +37,7 @@ circumstances: >
     detail of this execution. Mr. Nabi P. was hanged in Sari prison. The exact
     date of his execution is unknown.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -2,9 +2,9 @@ id: mahmudi-qader-2016
 name_latin: "Qader Mahmudi"
 name_farsi: "قادر محمودی"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Dazaj-e Siavosh, Orumieh"
+gender: male
+ethnicity: "Kurd"
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/82975_thumb.jpeg"
 
@@ -46,9 +46,8 @@ circumstances: >
     execution. ------------------------- * Ms. Moluk Nuri , Messrs. Esma'il
     Ayubi Jarami , Karam Kalshi , Behnam Pirkuzadegan , Efendi Omari ,
     Kret(Reza) Ebdalzadeh , and Farhad Maleki
-event_context: null
-responsible_forces: null
-
+event_context: "2016 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

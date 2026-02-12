@@ -1,12 +1,24 @@
 id: hashemzadeh-masud-2009
 name_latin: "Mas'ud Hashemzadeh"
 name_farsi: "مسعود هاشم‌زاده"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1981-09-07"
+place_of_birth: "Valiabad village, Zibakenar, Mazandaran Province"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/86900_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "musician"
+education: "high school diploma in experimental sciences"
+family:
+  notes: "son of Fatemeh Mohseni"
+personality: "calm, composed, hardworking, meticulous, and never gave up until he mastered whatever he set out to do"
+beliefs: "encouraged his family to vote and participate in shaping the country's destiny"
+quotes:
+  - "He only voted twice in his life once for President Khatami and once for presidential candidate Mr. Musavi."
+  - "This time, we all have to vote."
+  - "My son cared deeply about the people and his country. He had become so hopeful. I had never seen Mas'ud this cheerful before."
 
 # --- DEATH ---
 date_of_death: 2009-06-20
@@ -85,7 +97,7 @@ circumstances: >
     Tehran. The repression entered a new phase on June 19th after Ayatollah
     Khamenei s Friday sermon, in which he announced his support for
     Ahmadinejad and warned protestors that they were responsible
-event_context: null
+event_context: "2009 presidential election"
 responsible_forces: null
 
 # --- VERIFICATION ---

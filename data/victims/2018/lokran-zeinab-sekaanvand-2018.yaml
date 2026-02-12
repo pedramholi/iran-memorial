@@ -1,12 +1,18 @@
 id: lokran-zeinab-sekaanvand-2018
 name_latin: "Zeinab Sekaanvand Lokran"
 name_farsi: "زینب سکان‌وند لکران"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1994-06-22"
+place_of_birth: "Maku, West Azerbaijan Province"
+gender: female
+ethnicity: "Kurdish"
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/82917_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  children: 0
+  notes: "got married when she was 15 years old"
 
 # --- DEATH ---
 date_of_death: 2018-10-02
@@ -85,9 +91,8 @@ circumstances: >
     the absence of the basic guarantees of a fair trial. International human
     rights organizations have drawn attention to reports indicating that the
     Islamic
-event_context: null
-responsible_forces: null
-
+event_context: "execution on October 7, 2018"
+responsible_forces: "police"
 # --- VERIFICATION ---
 status: unverified
 sources:

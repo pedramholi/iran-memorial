@@ -3,7 +3,7 @@ name_latin: "Kamran Razaqi"
 name_farsi: "کامران رزاقی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -68,9 +68,8 @@ circumstances: >
     others, in Rajaee-Shahr Prison on Tuesday, September 7, 2004. The other
     members of the drug cartel received 10- or 15-year prison sentences and
     fines, as well as rulings for confiscation of belongings.
-event_context: null
-responsible_forces: null
-
+event_context: "Nicosia Cartel case"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

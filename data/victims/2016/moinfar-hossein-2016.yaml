@@ -3,7 +3,7 @@ name_latin: "Hossein Mo’infar"
 name_farsi: "حسین معین‌فر"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -39,8 +39,7 @@ circumstances: >
     Prison, Karaj. The day before his execution, the officials of Raja i Shahr
     Prison transferred Mr. Mo infar to solitary confinement.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

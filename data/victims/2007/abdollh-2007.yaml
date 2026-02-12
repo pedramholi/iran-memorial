@@ -3,10 +3,18 @@ name_latin: "Abdollh"
 name_farsi: "عبدالله"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  children: 1
+  notes: "father of an eight-month-old fetus"
+quotes:
+  - "I killed my sister-in-law because she was corrupt. I did not see anything myself but the shopkeepers talked about it."
 
 # --- DEATH ---
 date_of_death: 2007-12-06

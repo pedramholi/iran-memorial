@@ -3,10 +3,13 @@ name_latin: "Allameh Jian"
 name_farsi: "علامه ژیان"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+beliefs: "supporter of the Mojahedin e Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1998-01-01
@@ -85,9 +88,8 @@ circumstances: >
     executions, and justified the decision: These people have been sentenced
     to death; from the Iranian people s perspective, if someone wants to
     assassinate these individuals abroad, in any count
-event_context: null
-responsible_forces: null
-
+event_context: "Alghadir operation"
+responsible_forces: "Information Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

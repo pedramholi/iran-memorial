@@ -2,11 +2,18 @@ id: buby-naon-bernardo-mirochnik-1994
 name_latin: "Naon Bernardo Mirochnik (Buby)"
 name_farsi: "نائون برناردو میروچنیک"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Buenos Aires, Argentina"
+gender: male
 ethnicity: null
 religion: "Judaism"
 photo: "https://www.iranrights.org/actorphotos/11922_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "waiter"
+family:
+  children: 1
+  notes: "father and grandfather"
+personality: "always had a bright outlook on life, and enjoyed taking care of other people"
 
 # --- DEATH ---
 date_of_death: 1994-07-18
@@ -85,9 +92,8 @@ circumstances: >
     governed region bordering Argentina, Brazil, and Paraguay, that has become
     a danger point for terrorism. From the evidence gathered, two Iranian
     diplomats in Buenos Aires actively assisted Hezbollah. M
-event_context: null
-responsible_forces: null
-
+event_context: "AMIA bombing"
+responsible_forces: "Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

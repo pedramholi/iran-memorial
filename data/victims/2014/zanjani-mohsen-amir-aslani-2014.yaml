@@ -1,12 +1,22 @@
 id: zanjani-mohsen-amir-aslani-2014
 name_latin: "Mohsen Amir Aslani Zanjani"
 name_farsi: "محسن امیر اصلانی زنجانی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1977-01-01"
+place_of_birth: "Abadan"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/72813_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "psychologist"
+education: "bachelor's degree in psychology"
+family:
+  marital_status: "married"
+  children: 1
+quotes:
+  - "I will be free only when my thoughts are set free"
+  - "We have tried to present new methods to get rid of tormenting thoughts and life s bitter memories and to defeat depression, as well as to cultivate spirituality, strengthen inner forces, awaken the subconscious, and strengthen meta-sensory forces."
 
 # --- DEATH ---
 date_of_death: 2014-09-24
@@ -85,9 +95,8 @@ circumstances: >
     May 2, 2006, along with his wife and a number of his students, by
     plainclothes armed security agents who did not show an arrest warrant.
     They were having a meeti
-event_context: null
-responsible_forces: null
-
+event_context: "arrested on May 2, 2006"
+responsible_forces: "plainclothes armed security agents"
 # --- VERIFICATION ---
 status: unverified
 sources:

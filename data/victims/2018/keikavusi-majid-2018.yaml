@@ -2,8 +2,8 @@ id: keikavusi-majid-2018
 name_latin: "Majid Keikavusi"
 name_farsi: "مجید کیکاوسی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Marand"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -45,8 +45,7 @@ circumstances: >
     Judgment Mr. Majid Keikavusi was sentenced to death by hanging. He was
     executed in Zanjan Central Prison on Tuesday February 13, 2018.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

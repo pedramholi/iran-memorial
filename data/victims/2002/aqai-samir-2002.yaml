@@ -3,7 +3,7 @@ name_latin: "Samir Aqa'i"
 name_farsi: "سمیر آقائی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -30,8 +30,7 @@ circumstances: >
     presence of the victim s family and officials at the Qasr Prison yard when
     he was hanged on September 16, 2002.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Criminal Court of Tehran"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,20 @@
 id: changizi-fariba-1989
 name_latin: "Fariba Changizi"
 name_farsi: "فریبا چنگیزی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1956-01-01"
+place_of_birth: "Shiraz"
+gender: female
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+education: "bachelor's degree"
+family:
+  marital_status: "married"
+  notes: "Her husband, Mr. Mohammad Khakijavan was also a sympathizer of the Mojahedin Khalq Organization and was executed in Shiraz in 1982."
+quotes:
+  - "Hello, my dear little beauty. I hope you are well. I m sorry for all your troubles for coming here in the mornings. However, there are hopes that the problem will be resolved soon."
 
 # --- DEATH ---
 date_of_death: 1989-01-01
@@ -86,8 +94,7 @@ circumstances: >
     or had already completed when they were retried and sentenced to death.
     Charges No charge has been publicly leveled against the victims of the
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Mojahedin Khalq Organization"
 # --- VERIFICATION ---
 status: unverified
 sources:

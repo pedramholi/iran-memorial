@@ -3,10 +3,16 @@ name_latin: "Davoud Mohammadi"
 name_farsi: "داوود محمدی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+occupation: "veterinarian"
+beliefs: "opposing the government"
+quotes:
+  - "trials before Islamic revolutionary Courts have usually taken place in secret, sometimes inside prisons, that defendants have not usually enjoyed the right to be represented by a lawyer, and often have not even been made aware that the proceedings were in fact a trial and not an interrogation session."
 
 # --- DEATH ---
 date_of_death: 1989-01-01
@@ -38,7 +44,7 @@ circumstances: >
     evidence provided against the defendant. Defense No information is
     available on Mr. Mohammadi's defense. Judgment Mr. Mohammadi was sentenced
     to death and executed in October 1989.
-event_context: null
+event_context: "October 1989"
 responsible_forces: null
 
 # --- VERIFICATION ---

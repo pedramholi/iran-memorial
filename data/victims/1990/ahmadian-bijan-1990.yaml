@@ -3,7 +3,7 @@ name_latin: "Bijan Ahmadian"
 name_farsi: "بیژن احمدیان"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -85,9 +85,8 @@ circumstances: >
     Family s Reaction There is no information on the reaction of the family to
     this killing. --------------------- *Read more about the background of
     extrajudicial killings in the Islamic Re
-event_context: null
-responsible_forces: null
-
+event_context: "1989-1990"
+responsible_forces: "government agents"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -2,8 +2,8 @@ id: lourdes-jesus-maria-1994
 name_latin: "Jesus Maria Lourdes"
 name_farsi: "خسوس ماریا لوردس"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Buenos Aires, Argentina"
+gender: male
 ethnicity: null
 religion: "Judaism"
 photo: null
@@ -86,9 +86,8 @@ circumstances: >
     attaché at the embassy (though he had been in Argentina for eleven years,
     he was bestowed diplomatic immunity only in March) and was in charge of
     logistics
-event_context: null
-responsible_forces: null
-
+event_context: "AMIA bombing"
+responsible_forces: "Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

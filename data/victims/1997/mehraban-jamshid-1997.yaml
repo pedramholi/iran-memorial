@@ -3,7 +3,7 @@ name_latin: "Jamshid Mehraban"
 name_farsi: "جمشید مهربان"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/39341_thumb.jpeg"
@@ -38,9 +38,8 @@ circumstances: >
     Jamshid Mehraban to death and, after the ruling was confirmed by the
     Supreme Court, he was hanged in public in Khomeini Shahr (Esfehan
     province) on March 14, 1997.
-event_context: null
-responsible_forces: null
-
+event_context: "1997 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

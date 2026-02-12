@@ -2,11 +2,21 @@ id: kamangar-farzad-2010
 name_latin: "Farzad Kamangar"
 name_farsi: "فرزاد کمانگر"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Kamyaran, Kurdistan"
+gender: male
+ethnicity: "Kurdish"
 religion: "Unknown"
 photo: "https://www.iranrights.org/actorphotos/64506_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "teacher"
+personality: "charismatic and kind"
+beliefs: "believed in peaceful civil resistance"
+quotes:
+  - "I, Farzad Kamangar, known as Siamand, have worked as a teacher in the town of Kamyaran [in the Iranian province of Kurdistan] for 12 years."
+  - "The presence of tribal and ethnic minorities in Iran and the rest of the world is not a new phenomenon. Ethnic, cultural and tribal pluralism in a society could act as a double-edged sword for that society."
+  - "Perhaps one of the basic rights that every Iranian, Kurdish or otherwise, feels entitled to is the right to 'citizenship'; a right that stands against seclusion and exclusion."
+  - "Farzad Kamangar: We Are All People, dated 10 April 2010."
 
 # --- DEATH ---
 date_of_death: 2010-05-09

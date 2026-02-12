@@ -1,9 +1,9 @@
 id: eidi-yaser-abdi-2014
 name_latin: "Yaser Abdi (Eidi)"
 name_farsi: "یاسر عبدی (عیدی)"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1998-01-01"
+place_of_birth: "Minab"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -57,9 +57,8 @@ circumstances: >
     Revolutionary Court of Rudan condemned Mr. Yaser Abdi (Eidi) to death. The
     General Public Prosecutor signed the ruling, and he was hanged, along with
     three others, in Bandar-e Abbas Prison on March 2, 2014.
-event_context: null
-responsible_forces: null
-
+event_context: "2014 execution"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

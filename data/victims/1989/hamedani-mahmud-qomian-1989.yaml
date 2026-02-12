@@ -3,7 +3,7 @@ name_latin: "Mahmud Qomian Hamedani"
 name_farsi: "محمود قمیان همدانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -51,9 +51,8 @@ circumstances: >
     possession of the defendants.” Defense No information is available on Mr.
     Qomian’s defense. Judgment Based on the court’s ruling, Mr. Mahmud Qomian
     Hamadani was hanged in Jiroft or Kohnuj.
-event_context: null
-responsible_forces: null
-
+event_context: "1989"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

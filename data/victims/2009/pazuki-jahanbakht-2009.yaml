@@ -3,7 +3,7 @@ name_latin: "Jahanbakht Pazuki"
 name_farsi: "جهانبخت پازوکی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -20,7 +20,7 @@ circumstances: >
     Pazuki was killed in a street on December 27, 2009, the Ashura Day. The
     cause of his death is unknown. He is buried at the Behesht-e Zahra
     cemetery in Tehran.
-event_context: null
+event_context: "Ashura Day"
 responsible_forces: null
 
 # --- VERIFICATION ---

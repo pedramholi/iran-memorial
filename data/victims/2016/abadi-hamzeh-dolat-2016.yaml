@@ -3,7 +3,7 @@ name_latin: "Hamzeh Dolat Abadi"
 name_farsi: "حمزه دولت آبادی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -39,9 +39,8 @@ circumstances: >
     execution, the officials at Raja i Shahr Prison transferred Mr. Dolatabadi
     to solitary confinement. Mr. Dolatabadi was executed on the morning of
     Wednesday, April 13, 2016, in Raja i Shahr Prison, Karaj.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on April 13, 2016"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

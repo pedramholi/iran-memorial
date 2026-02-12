@@ -3,7 +3,7 @@ name_latin: "Ali Yadegar (Yadegari)"
 name_farsi: "علی یادگار (یادگاری)"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -45,9 +45,8 @@ circumstances: >
     (Yadegari) s defense. Judgment Mr. Ali Yadegar (Yadegari) was hanged,
     along with three others, in the Gohardasht (Raja ishahr) Prison yard on
     July 3, 2013 in the morning.
-event_context: null
-responsible_forces: null
-
+event_context: "2013 executions"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

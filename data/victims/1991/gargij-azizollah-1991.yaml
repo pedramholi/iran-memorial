@@ -3,7 +3,7 @@ name_latin: "Azizollah Gargij"
 name_farsi: "عزیزالله گرگیج"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -39,8 +39,7 @@ circumstances: >
     was found guilty of drug trafficking and sentenced to death. He was hanged
     in prison.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

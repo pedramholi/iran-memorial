@@ -3,7 +3,7 @@ name_latin: "Jabbar M."
 name_farsi: "جبار م."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -43,8 +43,7 @@ circumstances: >
     defendant’s execution are not known. According to the above source, Mr.
     Jabbar M. was hanged in the Delijan prison yard after due process.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

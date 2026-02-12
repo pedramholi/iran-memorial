@@ -3,7 +3,7 @@ name_latin: "Mohammad Pejman"
 name_farsi: "محمد پژمان"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -73,9 +73,8 @@ circumstances: >
     Government Building, the Provincial Security Council decided to carry out
     the executions separately and in a different time frame. Mr. Mohammad
     Pejman was hanged in Borj prison in Bushehr on May 29, 2007.
-event_context: null
-responsible_forces: null
-
+event_context: "2006 rape case"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

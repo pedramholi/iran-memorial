@@ -1,12 +1,18 @@
 id: rajabi-faezeh-zahra-1996
 name_latin: "Fa'ezeh (Zahra) Rajabi"
 name_farsi: "فائزه (زهرا) رجبی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1957-01-01"
+place_of_birth: "Tehran"
+gender: female
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/12327_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "architect"
+family:
+  marital_status: "married"
+beliefs: "member of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1996-02-20
@@ -85,9 +91,8 @@ circumstances: >
     not clear; however, these murders began in February 1979 and have
     continued since then, both inside and outside Iran. The Abdorrahman
     Boroumand Center has so far identified over 540 killings outside
-event_context: null
-responsible_forces: null
-
+event_context: "extrajudicial execution"
+responsible_forces: "IRGC"
 # --- VERIFICATION ---
 status: unverified
 sources:

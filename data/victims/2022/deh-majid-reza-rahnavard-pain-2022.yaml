@@ -1,12 +1,20 @@
 id: deh-majid-reza-rahnavard-pain-2022
 name_latin: "Majid Reza Rahnavard Pa'in Deh"
 name_farsi: "مجید‌رضا رهنورد پائین‌ده"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1999-01-01"
+place_of_birth: "Mashhad"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/85277_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "athlete"
+family:
+quotes:
+  - "I don t want the Quran to be read over my grave, or prayers said, or for anyone to cry. Rejoice! Play a happy song!"
+  - "Psychologically, I was not in a good mood, I did not feel well"
+  - "The sad and horrible news coming from cyberspace, deaths and crowds. The bad things that happened to our countrymen, the conflict between officers and the people."
 
 # --- DEATH ---
 date_of_death: 2022-12-12
@@ -85,9 +93,8 @@ circumstances: >
     confirmed the accused s mental health status at the time of the crime.
     Short, excerpted films from Mr. Rahnavard Pa in Deh s court sessions were
     broadcast by the media. In th
-event_context: null
-responsible_forces: null
-
+event_context: "fall 2022 nationwide protests"
+responsible_forces: "Khorasan Razavi IRGC Information Agency"
 # --- VERIFICATION ---
 status: unverified
 sources:

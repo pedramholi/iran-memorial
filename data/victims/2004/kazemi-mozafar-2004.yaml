@@ -1,12 +1,17 @@
 id: kazemi-mozafar-2004
 name_latin: "Mozafar Kazemi"
 name_farsi: "مظفر کاظمی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1975-01-01"
+place_of_birth: "Paveh, Kermanshah"
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: "https://www.iranrights.org/actorphotos/74283_thumb.jpeg"
+
+# --- LIFE ---
+education: "high school diploma"
+family:
+  marital_status: "single"
 
 # --- DEATH ---
 date_of_death: 2004-01-01
@@ -85,9 +90,8 @@ circumstances: >
     the president to receive information about his son; however, all these
     letters had no response. (ABF interview) Trial No information is available
     on Mr. Kazemi s trial. Charge
-event_context: null
-responsible_forces: null
-
+event_context: "1996 arrest of Peshmerga of the Democratic Party of Iranian Kurdistan"
+responsible_forces: "Islamic Movement of Iraqi Kurdistan"
 # --- VERIFICATION ---
 status: unverified
 sources:

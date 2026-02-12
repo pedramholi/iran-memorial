@@ -3,7 +3,7 @@ name_latin: "Na'im Qolje'i"
 name_farsi: "نعیم قلجه‌‌ای"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -63,9 +63,8 @@ circumstances: >
     on Tuesday, December 7, 2004. ------------------------ * Abdolmajid
     Forqan, Zia olhaq Kord Raji, Alireza Lavarzehi, Jom e Gorgij, Bidollah
     Gorgij, and Mohammad Ghos Hassanzehi
-event_context: null
-responsible_forces: null
-
+event_context: "2004 execution"
+responsible_forces: "police force of Sistan and Baluchistan Province"
 # --- VERIFICATION ---
 status: unverified
 sources:

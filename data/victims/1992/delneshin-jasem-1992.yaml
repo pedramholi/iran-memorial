@@ -2,11 +2,19 @@ id: delneshin-jasem-1992
 name_latin: "Jasem Delneshin"
 name_farsi: "جاسم دلنشین"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Varbolandi Village near Orumieh"
+gender: male
+ethnicity: "Kurd"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/73919_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "Sunni cleric"
+education: "seminary education"
+family:
+  marital_status: "single"
+  notes: "son of Fathollah"
+beliefs: "joined the Democratic Party of Iranian Kurdistan in 1982 and was a military commander"
 
 # --- DEATH ---
 date_of_death: 1992-01-01
@@ -77,8 +85,7 @@ circumstances: >
     Central Prison in the summer of 1992. (The letter by Osman Mostafapur) Mr.
     Delneshin s body was not given to his family. (ABF interview)
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

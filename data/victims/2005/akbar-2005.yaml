@@ -3,10 +3,14 @@ name_latin: "Akbar"
 name_farsi: "اکبر"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/40007_thumb.jpeg"
+
+# --- LIFE ---
+quotes:
+  - "Mr. Akbar stated that he shot the officer who followed him only to scare the police away and he did not intend to kill the officer."
 
 # --- DEATH ---
 date_of_death: 2005-08-10
@@ -52,8 +56,7 @@ circumstances: >
     the Supreme Court approved this ruling. Mr. Akbar was hanged in Evin
     prison on August 10, 2005.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,9 +1,9 @@
 id: farhadirad-mehdi-2009
 name_latin: "Mehdi Farhadirad"
 name_farsi: "مهدی فرهادی راد"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1971-07-28"
+place_of_birth: "Shahr-e Ray"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -85,9 +85,8 @@ circumstances: >
     that police forces will harshly counter any infringement of religious
     dignity and principles, of values of the Islamic Republic s holy regime,
     and of beliefs deeply rooted
-event_context: null
-responsible_forces: null
-
+event_context: "2009 Ashura protests"
+responsible_forces: "Tehran Police Department"
 # --- VERIFICATION ---
 status: unverified
 sources:

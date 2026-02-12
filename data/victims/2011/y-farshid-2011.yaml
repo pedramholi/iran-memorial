@@ -3,10 +3,16 @@ name_latin: "Farshid Y."
 name_farsi: "فرشید ی."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  children: 2
+  notes: "wife and two children"
 
 # --- DEATH ---
 date_of_death: 2011-01-01
@@ -40,9 +46,8 @@ circumstances: >
     2011 without informing his family. After his execution, prison officials
     contacted his family to go to the prison for his body. Mr. Farshid s wife
     and two children resided in Talesh, Gilan.
-event_context: null
-responsible_forces: null
-
+event_context: "execution in April 2011"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

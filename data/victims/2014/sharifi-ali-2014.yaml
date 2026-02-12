@@ -1,9 +1,9 @@
 id: sharifi-ali-2014
 name_latin: "Ali Sharifi"
 name_farsi: "علی شریفی"
-date_of_birth: null
+date_of_birth: "2000-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -34,7 +34,7 @@ circumstances: >
     Sharifi was less than 18 when arrested. No information is available on his
     defense. Judgment Mr. Ali Sharifi was hanged, along with three others, in
     the Bandar Abbas Central Prison on April 17, 2014.
-event_context: null
+event_context: "execution on April 17, 2014"
 responsible_forces: null
 
 # --- VERIFICATION ---

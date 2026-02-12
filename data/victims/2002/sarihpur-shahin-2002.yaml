@@ -3,7 +3,7 @@ name_latin: "Shahin Sarihpur"
 name_farsi: "شاهین صریح‌پور"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,9 +38,8 @@ circumstances: >
     Judgment The Islamic Revolutionary Court of Mahshahr condemned Mr. Shahin
     Sarihpur to death and the Supreme Court confirmed the ruling. He was
     hanged in public in Mahshahr on Sunday December 29, 2002.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on December 29, 2002"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

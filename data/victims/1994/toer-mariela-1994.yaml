@@ -2,8 +2,8 @@ id: toer-mariela-1994
 name_latin: "Mariela Toer"
 name_farsi: "ماریلا توئر"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Buenos Aires, Argentina"
+gender: female
 ethnicity: null
 religion: "Judaism"
 photo: "https://www.iranrights.org/actorphotos/11975_thumb.jpeg"
@@ -86,9 +86,8 @@ circumstances: >
     bestowed diplomatic immunity only in March) and was in charge of logistics
     for the operation. Aiding him was Ahmad Asghari, the 3rd Secretary at the
     em
-event_context: null
-responsible_forces: null
-
+event_context: "AMIA bombing"
+responsible_forces: "Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

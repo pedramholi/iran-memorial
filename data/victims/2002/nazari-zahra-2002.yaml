@@ -3,10 +3,17 @@ name_latin: "Zahra Nazari"
 name_farsi: "زهرا نظری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "widowed"
+  notes: "survived by her husband"
+quotes:
+  - "\"I killed my husband because he had dragged me into corruption.\""
 
 # --- DEATH ---
 date_of_death: 2002-10-16
@@ -39,8 +46,7 @@ circumstances: >
     confirmed the ruling. She was hanged at the Qasr Prison yard on October
     16, 2002.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

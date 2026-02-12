@@ -3,7 +3,7 @@ name_latin: "Mohammadyar Zohuri Rad"
 name_farsi: "محمدیار ظهوری‌راد"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -51,9 +51,8 @@ circumstances: >
     him to death and 6 years imprisonment with hard labor. The Supreme Court
     confirmed the ruling. He was hanged in public at the Kazerun Gate in
     Shiraz on October 29, 2001.
-event_context: null
-responsible_forces: null
-
+event_context: "2001 execution"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

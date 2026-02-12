@@ -3,7 +3,7 @@ name_latin: "Mehdi"
 name_farsi: "مهدی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -48,8 +48,7 @@ circumstances: >
     Pardon Commission. He was hanged at the Central Prison in Qom on June 8,
     2010.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

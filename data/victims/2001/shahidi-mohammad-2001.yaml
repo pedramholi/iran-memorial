@@ -3,7 +3,7 @@ name_latin: "Mohammad Shahidi"
 name_farsi: "محمد شهیدی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -30,9 +30,8 @@ circumstances: >
     Criminal Court in Tehran condemned Mr. Mohammad Shahidi to death and the
     Supreme Court confirmed the ruling. He was hanged, along with five others,
     in Qasr Prison in Tehran on January 17, 2001.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on January 17, 2001"
+responsible_forces: "Criminal Court in Tehran"
 # --- VERIFICATION ---
 status: unverified
 sources:

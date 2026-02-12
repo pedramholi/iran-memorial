@@ -3,10 +3,17 @@ name_latin: "Marta Treibman"
 name_farsi: "مارتا تریبمن"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Judaism"
 photo: "https://www.iranrights.org/actorphotos/11977_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "clerk"
+family:
+  marital_status: "married"
+  notes: "She and her husband loved to travel."
+personality: "good-natured, warm, simple, and full of spirit"
 
 # --- DEATH ---
 date_of_death: 1994-07-18
@@ -85,9 +92,8 @@ circumstances: >
     diplomats in Buenos Aires actively assisted Hezbollah. Mohsen Rabbani, who
     was in charge of the operation, was Iran’s newly appointed cultural
     attaché at the embassy (though he had been in Argentina for eleven years
-event_context: null
-responsible_forces: null
-
+event_context: "AMIA bombing"
+responsible_forces: "Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

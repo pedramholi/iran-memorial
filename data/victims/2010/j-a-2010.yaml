@@ -3,10 +3,14 @@ name_latin: "'A J"
 name_farsi: "ع ج"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "participation in hiding of 111 kilograms of heroin"
 
 # --- DEATH ---
 date_of_death: 2010-09-20
@@ -43,9 +47,8 @@ circumstances: >
     request for punishment reduction was denied by the Judiciary Pardon
     Commission. He was hanged at the central prison in Yazd on September 20,
     2010.
-event_context: null
-responsible_forces: null
-
+event_context: "2010 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

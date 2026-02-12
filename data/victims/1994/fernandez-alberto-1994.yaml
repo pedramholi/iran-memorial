@@ -2,11 +2,17 @@ id: fernandez-alberto-1994
 name_latin: "Alberto Fernandez"
 name_farsi: "آلبرتو فرناندز"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Buenos Aires, Argentina"
+gender: male
 ethnicity: null
 religion: "Judaism"
 photo: "https://www.iranrights.org/actorphotos/11822_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "delivered bakery products"
+family:
+  marital_status: "married"
+  children: 2
 
 # --- DEATH ---
 date_of_death: 1994-07-18
@@ -85,9 +91,8 @@ circumstances: >
     a danger point for terrorism. From the evidence gathered, two Iranian
     diplomats in Buenos Aires actively assisted Hezbollah. Mohsen Rabbani, who
     was in
-event_context: null
-responsible_forces: null
-
+event_context: "AMIA bombing"
+responsible_forces: "Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

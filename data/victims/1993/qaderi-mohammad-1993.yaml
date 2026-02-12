@@ -1,12 +1,23 @@
 id: qaderi-mohammad-1993
 name_latin: "Mohammad Qaderi"
 name_farsi: "محمد قادری"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1962-01-01"
+place_of_birth: "Sarukani, Piranshahr, West Azerbaijan"
+gender: male
+ethnicity: "Kurdish"
 religion: "Presumed Muslim (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/85780_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "commander"
+education: "third year of middle school"
+family:
+  children: 0
+  notes: "son of Ameneh and Mohammad Amin, had three brothers, one of whom became a Peshmerga member of the Democratic Party of Iranian Kurdistan and was killed during the Kurdish struggle."
+personality: "sharp, straightforward, decisive, fearless, and social"
+beliefs: "member of the Democratic Party of Iranian Kurdistan (PDKI)"
+quotes:
+  - "intelligent, straightforward, decisive, fearless, social, and honest."
 
 # --- DEATH ---
 date_of_death: 1993-08-13
@@ -86,9 +97,8 @@ circumstances: >
     struggle; it has, however, prioritized political struggle and the
     expression of the people of Kurdistan s demands through elections and
     other civil activit
-event_context: null
-responsible_forces: null
-
+event_context: "assassinated in Turkey"
+responsible_forces: "Iranian military and security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

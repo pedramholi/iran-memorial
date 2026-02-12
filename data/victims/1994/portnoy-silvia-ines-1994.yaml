@@ -2,11 +2,16 @@ id: portnoy-silvia-ines-1994
 name_latin: "Silvia Ines Portnoy"
 name_farsi: "سیلویا اینس پورتنوی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Concordia"
+gender: female
 ethnicity: null
 religion: "Judaism"
 photo: "https://www.iranrights.org/actorphotos/11938_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "cosmetologist and esthetician"
+family:
+personality: "very affectionate, selfless, and close with her family"
 
 # --- DEATH ---
 date_of_death: 1994-07-18
@@ -85,9 +90,8 @@ circumstances: >
     a danger point for terrorism. From the evidence gathered, two Iranian
     diplomats in Buenos Aires actively assisted Hezbollah. Mohsen Rabbani, who
     was in charge of the operation, was
-event_context: null
-responsible_forces: null
-
+event_context: "AMIA bombing on July 18, 1994"
+responsible_forces: "Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

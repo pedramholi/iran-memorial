@@ -2,8 +2,8 @@ id: r-h-2016
 name_latin: "H. R."
 name_farsi: "ح. ر."
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Takestan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -43,9 +43,8 @@ circumstances: >
     H. R. was hanged, along with three other individuals, in Rasht Central
     Prison on January 16, 2016. --------------------------------------- * S.Q.
     , M.F. , and A.A.
-event_context: null
-responsible_forces: null
-
+event_context: "2016 execution"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

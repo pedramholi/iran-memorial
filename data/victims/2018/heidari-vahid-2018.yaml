@@ -1,12 +1,19 @@
 id: heidari-vahid-2018
 name_latin: "Vahid Heidari"
 name_farsi: "وحید حیدری"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1995-01-01"
+place_of_birth: "Takieh, near Shazand"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/81096_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "street vendor"
+family:
+  marital_status: "single"
+  children: 0
+  notes: "Child of Hassan, had two brothers and three sisters, from a poor family, father was an injured Iran-Iraq war veteran."
 
 # --- DEATH ---
 date_of_death: 2018-01-05
@@ -85,9 +92,8 @@ circumstances: >
     generally began to subside. The head of the Revolutionary Guards Corps
     held a former official responsible for the protests and announced the end
     of the new sedition . On the eigh
-event_context: null
-responsible_forces: null
-
+event_context: "2018 nationwide protests"
+responsible_forces: "government forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

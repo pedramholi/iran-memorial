@@ -42,8 +42,7 @@ circumstances: >
     of the Judiciary confirmed the ruling. The ruling was carried out and he
     was hanged in Hamadan. The exact date of this execution is unknown.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

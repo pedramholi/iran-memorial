@@ -1,12 +1,18 @@
 id: javadifar-amir-2009
 name_latin: "Amir Javadifar"
 name_farsi: "امیر جوادی فر"
-date_of_birth: null
+date_of_birth: "1985-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/61251_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "song writer"
+education: "technology management student"
+family:
+personality: "full of lust for life"
 
 # --- DEATH ---
 date_of_death: 2009-07-15
@@ -85,9 +91,8 @@ circumstances: >
     windows. We banged on the door to get air, and instead, we had gasoline
     through the vent Detainees asked for water, but we only got one or two
     glasses of water a day We got a little piec
-event_context: null
-responsible_forces: null
-
+event_context: "2009 presidential election protests"
+responsible_forces: "Basij"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Mehdi Haqshenas"
 name_farsi: "مهدی حق‌شناس"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,8 +38,7 @@ circumstances: >
     Prison, Karaj. The day before his execution, officials at Raja i Shahr
     Prison transferred Mr. Haqshenas to solitary confinement.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

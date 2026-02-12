@@ -2,8 +2,8 @@ id: a-alireza-2006
 name_latin: "Alireza A."
 name_farsi: "علیرضا ع."
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Zahedan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -43,9 +43,8 @@ circumstances: >
     s defense. Judgment Mr. Alireza A. was sentenced to death. He was hanged,
     along with two other individuals, in Shahrud Police Central Command on
     Thursday, November 16, 2006.
-event_context: null
-responsible_forces: null
-
+event_context: "2006 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

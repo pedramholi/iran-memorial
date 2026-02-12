@@ -3,10 +3,20 @@ name_latin: "Behruz"
 name_farsi: "بهروز"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  children: 0
+  notes: "married to a woman who was involved in the murder case"
+quotes:
+  - "I was under tremendous pressure. I loved my wife and the fact that she lived with me when loving another man tortured me."
+  - "I don t know what happened next and how he was killed."
+  - "I really don t know who murdered him."
 
 # --- DEATH ---
 date_of_death: 2003-03-02
@@ -46,7 +56,7 @@ circumstances: >
     really don t know who murdered him. Judgment The court condemned Mr.
     Behruz to death and the Supreme Court confirmed the ruling. He was hanged
     in public in Sari on March 2, 2003.
-event_context: null
+event_context: "murder of a young man on March 21, 2002"
 responsible_forces: null
 
 # --- VERIFICATION ---

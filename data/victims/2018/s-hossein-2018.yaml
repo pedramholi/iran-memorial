@@ -3,10 +3,15 @@ name_latin: "Hossein S."
 name_farsi: "حسین س."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/83528_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "daily laborer"
+family:
+  marital_status: "married"
 
 # --- DEATH ---
 date_of_death: 2018-05-12

@@ -3,7 +3,7 @@ name_latin: "Mo'in H."
 name_farsi: "معین ه."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -35,8 +35,7 @@ circumstances: >
     out in presence of the judge of Sentence Enforcement in Karaj. Mr. Mo in
     H. was hanged in Karaj on July 4, 2002.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

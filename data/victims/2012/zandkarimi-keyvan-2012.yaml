@@ -1,12 +1,21 @@
 id: zandkarimi-keyvan-2012
 name_latin: "Keyvan Zandkarimi"
 name_farsi: "کیوان زندکریمی"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1988-01-01"
+place_of_birth: "Sanandaj"
+gender: male
+ethnicity: "Kurdish"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/73005_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "welder"
+education: "high school graduate"
+family:
+  marital_status: "married"
+  notes: "his wife was divorced after his arrest"
+personality: "calm person who faced difficulties patiently, compassionate and confidential toward people close to him"
+beliefs: "believed in the Shafei religion"
 
 # --- DEATH ---
 date_of_death: 2012-12-27
@@ -85,9 +94,8 @@ circumstances: >
     criminal charges brought against the defendant cannot be ascertained in
     the absence of the basic guarantees of a fair trial. Evidence of guilt No
     information is available regarding the evidence provide
-event_context: null
-responsible_forces: null
-
+event_context: "arrested at Sanandaj Terminal on July 18, 2009"
+responsible_forces: "Information Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

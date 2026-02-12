@@ -1,12 +1,16 @@
 id: fariqi-farshid-2005
 name_latin: "Farshid Fariqi"
 name_farsi: "فرشید فریقی"
-date_of_birth: null
+date_of_birth: "1984-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "I got in as a passenger and talked to the drivers in order to attract their trust. Then, I stabbed and killed them, and stole their valuables."
 
 # --- DEATH ---
 date_of_death: 2005-07-26
@@ -86,8 +90,7 @@ circumstances: >
     condemned to Qisas (death sentence) on five accounts, an execution by
     hanging, two years imprisonment, and 74 l
 event_context: null
-responsible_forces: null
-
+responsible_forces: "security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Ali Dabirian"
 name_farsi: "علی دبیریان"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -43,9 +43,8 @@ circumstances: >
     No information is available on Mr. Dabirian s defense. Judgment Mr. Ali
     Dabirian was hanged, along with seven other individuals, at the Qezelhesar
     Prison yard in Karaj on February 18, 2014.
-event_context: null
-responsible_forces: null
-
+event_context: "2014 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

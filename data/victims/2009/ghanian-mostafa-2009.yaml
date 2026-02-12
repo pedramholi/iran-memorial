@@ -1,12 +1,25 @@
 id: ghanian-mostafa-2009
 name_latin: "Mostafa Ghanian"
 name_farsi: "مصطفی غنیان"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1983-06-24"
+place_of_birth: "Mashhad"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/44477_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "university student"
+education: "associate degree from Islamic Azad University in Birjand; pursuing a bachelor's degree in agriculture at Azad University, Roudehen Branch"
+family:
+  marital_status: "single"
+  children: 0
+  notes: "son of Mohammad Taqi Ghanian"
+personality: "described as truly admirable"
+beliefs: "disagreed with the outcome of the 2009 presidential election and believed it was rigged"
+quotes:
+  - "I have never found a friend like Mostafa in my life."
+  - "a pious, humble, cheerful, warm-hearted, modest, kind and moral young man - someone whom all his friends described as truly admirable."
 
 # --- DEATH ---
 date_of_death: 2009-06-15
@@ -85,7 +98,7 @@ circumstances: >
     forces attacked the marchers, injuring and killing several people. To
     prevent such news from being broadcast, the Iranian government expelled
     foreign journalists from the country and banned news agencies from
-event_context: null
+event_context: "2009 Election"
 responsible_forces: null
 
 # --- VERIFICATION ---

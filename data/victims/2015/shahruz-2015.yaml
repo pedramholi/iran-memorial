@@ -3,10 +3,15 @@ name_latin: "Shahruz"
 name_farsi: "شهروز"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "worked in a restaurant"
+quotes:
+  - "I had drunk alcoholic beverages on the day of the incident."
 
 # --- DEATH ---
 date_of_death: 2015-04-16
@@ -49,9 +54,8 @@ circumstances: >
     Branch 113 of the Tehran Criminal Court condemned Mr. Shahruz to death and
     the Supreme Court confirmed the ruling. He was hanged, along with four
     others, at the Gohardasht Prison yard in Karaj on April 16, 2015.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on April 16, 2015"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

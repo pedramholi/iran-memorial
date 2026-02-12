@@ -2,8 +2,8 @@ id: asadi-hamed-2008
 name_latin: "Hamed Asadi"
 name_farsi: "حامد اسدی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Ivan-e Gharb"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -85,9 +85,8 @@ circumstances: >
     methods and only resort to firearms if those methods fail to control the
     situation. They must also warn the demonstrators. The law does not specify
     what other non-lethal methods should be u
-event_context: null
-responsible_forces: null
-
+event_context: "protests in Ivan-e Gharb on April 26, 2008"
+responsible_forces: "armed forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

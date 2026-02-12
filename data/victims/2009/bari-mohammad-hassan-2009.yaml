@@ -1,12 +1,16 @@
 id: bari-mohammad-hassan-2009
 name_latin: "Mohammad Hassan Bari"
 name_farsi: "محمد حسن بری"
-date_of_birth: null
+date_of_birth: "1986-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "lost his father when he was 2 years old; mother remarried; had a step-father who was an addict; mother divorced her second husband; mother married her landlord who was also an addict and abused her."
 
 # --- DEATH ---
 date_of_death: 2009-10-21
@@ -57,9 +61,8 @@ circumstances: >
     sentenced Mr. Bari to death by hanging . Section 37 of the Supreme Court
     approved his verdict. Mr. Bari was executed on the morning of Wednesday,
     October 21, 2009, in Evin Prison, Tehran.
-event_context: null
-responsible_forces: null
-
+event_context: "murder of his step-father"
+responsible_forces: "Tehran Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

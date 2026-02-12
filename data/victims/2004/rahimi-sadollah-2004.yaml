@@ -1,12 +1,17 @@
 id: rahimi-sadollah-2004
 name_latin: "Sa'dollah Rahimi"
 name_farsi: "سعدالله رحیمی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1985-01-01"
+place_of_birth: "Baneh, Kurdistan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+quotes:
+  - "they had kidnapped the boy to extort from his father and they did not intend to kill him."
 
 # --- DEATH ---
 date_of_death: 2004-03-08
@@ -61,9 +66,8 @@ circumstances: >
     hanged, along with another defendant of this case, in the Baneh Prison on
     Monday March 8, 2004 in the morning. (Hamshahri newspaper on March 11,
     2004)
-event_context: null
-responsible_forces: null
-
+event_context: "2004 kidnapping resulting in murder case"
+responsible_forces: "Public Court of Baneh"
 # --- VERIFICATION ---
 status: unverified
 sources:

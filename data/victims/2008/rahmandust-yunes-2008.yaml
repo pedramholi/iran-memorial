@@ -3,10 +3,13 @@ name_latin: "Yunes Rahmandust"
 name_farsi: "یونس رحماندوست"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+beliefs: "membership in the Jondallah Group"
 
 # --- DEATH ---
 date_of_death: 2008-06-16
@@ -31,8 +34,7 @@ circumstances: >
     sentence. Mr. Rahmandust was executed on June 16, 2008, in the Chabahar
     Prison.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

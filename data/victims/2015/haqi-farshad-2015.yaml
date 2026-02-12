@@ -1,12 +1,21 @@
 id: haqi-farshad-2015
 name_latin: "Farshad Haqi"
 name_farsi: "فرشاد حقی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1984-05-26"
+place_of_birth: "Shahr-e Rey, Tehran Province"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/83143_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "road construction contractor"
+education: "high school diploma"
+family:
+  marital_status: "married"
+  children: 1
+quotes:
+  - "He was kind of lost and confused for a while, and didn t even know how to make contact with the outside."
 
 # --- DEATH ---
 date_of_death: 2015-11-24

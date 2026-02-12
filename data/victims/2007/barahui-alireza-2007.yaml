@@ -3,7 +3,7 @@ name_latin: "Alireza Barahu'i"
 name_farsi: "علیرضا براهوئی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -47,9 +47,8 @@ circumstances: >
     condemned Mr. Alireza Barahu i to death and the ruling was confirmed by
     the Supreme Court. He was hanged at Darvazeh Sa di in Shiraz on September
     5, 2007.
-event_context: null
-responsible_forces: null
-
+event_context: "2005 armed clash"
+responsible_forces: "IRGC"
 # --- VERIFICATION ---
 status: unverified
 sources:

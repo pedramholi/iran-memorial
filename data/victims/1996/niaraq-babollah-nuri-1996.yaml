@@ -1,12 +1,18 @@
 id: niaraq-babollah-nuri-1996
 name_latin: "Babollah Nuri Niaraq"
 name_farsi: "باب‌الله نوری نیارق"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1951-01-01"
+place_of_birth: "Ardabil"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "roofer"
+family:
+  marital_status: "married"
+  children: 9
 
 # --- DEATH ---
 date_of_death: 1996-07-11

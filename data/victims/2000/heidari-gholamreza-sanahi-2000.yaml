@@ -3,7 +3,7 @@ name_latin: "Gholamreza Sanahi Heidari"
 name_farsi: "غلامرضا سنحی حیدری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -34,9 +34,8 @@ circumstances: >
     Judgment The court condemned Mr. Gholamreza Sanahi-Heidari to death. He
     was hanged by a crane at the Prison Intersection in Kerman on October 2,
     2000.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on October 2, 2000"
+responsible_forces: "Public Court of Kerman"
 # --- VERIFICATION ---
 status: unverified
 sources:

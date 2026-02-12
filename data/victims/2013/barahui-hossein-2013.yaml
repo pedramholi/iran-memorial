@@ -3,7 +3,7 @@ name_latin: "Hossein Barahu'i"
 name_farsi: "حسین براهویی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -86,9 +86,8 @@ circumstances: >
     details were specified regarding the court branch or the time of the
     confirmation. (Sistan Va Baluchistan Courthouse) Mr. Barahu i was hanged,
     along
-event_context: null
-responsible_forces: null
-
+event_context: "armed attack by Jaish ul-Adl on a border station in Sarvan, Sistan and Baluchistan on October 25, 2013"
+responsible_forces: "Ministry of Justice of Sistan and Baluchistan"
 # --- VERIFICATION ---
 status: unverified
 sources:

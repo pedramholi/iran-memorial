@@ -3,7 +3,7 @@ name_latin: "Hassan Molapur"
 name_farsi: "حسن مولاپور"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -37,8 +37,7 @@ circumstances: >
     to death. The Supreme Court confirmed the ruling. He was hanged at the
     Qasr Prison yard on October 24, 2001.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

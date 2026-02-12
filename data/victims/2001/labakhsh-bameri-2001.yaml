@@ -3,7 +3,7 @@ name_latin: "Bameri Labakhsh"
 name_farsi: "بامری لابخش"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -40,9 +40,8 @@ circumstances: >
     Judgment The court condemned Mr. Labakhsh Bameri to death and the Supreme
     Court confirmed the ruling. He was hanged in public in Iranshahr in
     November of 2001. No specific date of execution is reported.
-event_context: null
-responsible_forces: null
-
+event_context: "2001 execution"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

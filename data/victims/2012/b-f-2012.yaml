@@ -3,7 +3,7 @@ name_latin: "F. B."
 name_farsi: "ف. ب."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -48,8 +48,7 @@ circumstances: >
     Chief Public Prosecutor and the head of the Judiciary. Mr. F. B. was
     hanged in public in Neyriz County on Monday, November 12, 2012.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "IRGC"
 # --- VERIFICATION ---
 status: unverified
 sources:

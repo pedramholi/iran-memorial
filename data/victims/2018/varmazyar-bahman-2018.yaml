@@ -1,12 +1,17 @@
 id: varmazyar-bahman-2018
 name_latin: "Bahman Varmazyar"
 name_farsi: "بهمن ورمزیار"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1991-02-18"
+place_of_birth: "Hamedan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/82891_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "hair stylist"
+family:
+  marital_status: "single"
 
 # --- DEATH ---
 date_of_death: 2018-04-18
@@ -85,9 +90,8 @@ circumstances: >
     no information regarding the defense he and his attorney presented. A
     Summary of the Defects of Mr. Bahman Varmazyar s Legal Proceedings Mr.
     Bahman Varmazyar was sentenced to death for the cri
-event_context: null
-responsible_forces: null
-
+event_context: "armed robbery from a jewelry store in Hamedan s Hessar neighborhood on April 30, 2015"
+responsible_forces: "Hamedan Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

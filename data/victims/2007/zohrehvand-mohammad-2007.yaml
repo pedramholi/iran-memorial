@@ -1,9 +1,9 @@
 id: zohrehvand-mohammad-2007
 name_latin: "Mohammad Zohrehvand"
 name_farsi: "محمد زهره‌وند"
-date_of_birth: null
+date_of_birth: "1981-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -43,8 +43,7 @@ circumstances: >
     Torbat-e-Heidariyeh prison yard in May of 2007. The exact date of this
     execution is unknown. Mr. Mohammad Zohrehvand was 26 years old.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

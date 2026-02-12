@@ -3,7 +3,7 @@ name_latin: "Jalil Karimi"
 name_farsi: "جلیل کریمی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -56,9 +56,8 @@ circumstances: >
     Defense No information is available on Mr. Karimi’s defense. Judgment The
     Islamic Revolutionary court of Hamadan condemned Mr. Jalil Karimi to death
     as a corruptor on earth. He was hanged in public on February 14, 1989.
-event_context: null
-responsible_forces: null
-
+event_context: "1989"
+responsible_forces: "Islamic Revolutionary court"
 # --- VERIFICATION ---
 status: unverified
 sources:

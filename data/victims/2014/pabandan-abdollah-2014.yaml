@@ -3,7 +3,7 @@ name_latin: "Abdollah Pabandan"
 name_farsi: "عبدالله پابندان"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -49,9 +49,8 @@ circumstances: >
     to death. The General Public Prosecutor signed the ruling, and he was
     hanged, along with three others, in Bandar-e Abbas Prison on March 2,
     2014.
-event_context: null
-responsible_forces: null
-
+event_context: "2014 execution"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

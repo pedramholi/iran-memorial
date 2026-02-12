@@ -2,8 +2,8 @@ id: k-amir-abbas-2006
 name_latin: "Amir Abbas K."
 name_farsi: "امیر‌عباس ک."
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Ruyan (formerly Alamdeh)"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -42,9 +42,8 @@ circumstances: >
     Prison on Thursday, August 17, 2006. Mr. Amir Abbas K. s dead body was
     delivered to his family for burial after the execution had been carried
     out.
-event_context: null
-responsible_forces: null
-
+event_context: "August 17, 2006 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

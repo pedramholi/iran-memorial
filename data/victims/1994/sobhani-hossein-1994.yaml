@@ -3,10 +3,13 @@ name_latin: "Hossein Sobhani"
 name_farsi: "حسین سبحانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of PDKI (Iranian Kurdistan Democrat Party)"
 
 # --- DEATH ---
 date_of_death: 1994-01-01

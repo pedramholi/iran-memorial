@@ -3,7 +3,7 @@ name_latin: "Abdollah N"
 name_farsi: "عبدالله ن"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -41,9 +41,8 @@ circumstances: >
     Abdollah N. to death and the ruling was confirmed by the General Public
     Prosecutor. After the defendant’s requests for pardon were denied, twice,
     he was hanged in the Esfahan Central prison yard on December 4, 2010.
-event_context: null
-responsible_forces: null
-
+event_context: "2010"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

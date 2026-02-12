@@ -1,12 +1,24 @@
 id: ahmadi-bahram-2012
 name_latin: "Bahram Ahmadi"
 name_farsi: "بهرام احمدی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1992-01-01"
+place_of_birth: "Sanandaj, Kurdistan"
+gender: male
 ethnicity: null
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/72743_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "student"
+education: "studying math at Azadegan-e Baharan High School"
+family:
+  marital_status: "single"
+  children: 0
+  notes: "ninth and last child in his family; father was a laborer"
+personality: "calm, kind, and studious"
+beliefs: "promoted Sunni beliefs"
+quotes:
+  - "\"I want to help those who are poor and to raise awareness among people regarding the regime's injustice.\""
 
 # --- DEATH ---
 date_of_death: 2012-12-27
@@ -85,9 +97,8 @@ circumstances: >
     the regime, through participating in ideological and political classes,
     possessing, selling, and buying books and CDs of speeches related to Sunni
     beliefs. (Letter to Ban Ki-moon, September 2012 - ABF research) The vali
-event_context: null
-responsible_forces: null
-
+event_context: "2009 arrest"
+responsible_forces: "Ministry of Intelligence"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,16 @@
 id: mohammadi-dalir-2004
 name_latin: "Dalir Mohammadi"
 name_farsi: "دلیر محمدی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1980-01-01"
+place_of_birth: "Baneh, Kurdistan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "Mr. Mohammadi accepted the charge of kidnapping resulting in the murder."
 
 # --- DEATH ---
 date_of_death: 2004-03-08

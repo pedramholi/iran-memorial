@@ -3,7 +3,7 @@ name_latin: "Ali Heidarlu"
 name_farsi: "علی حیدرلو"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -37,8 +37,7 @@ circumstances: >
     condemned to death by the court. After the confirmation of the ruling by
     the Supreme Court, he was hanged at Tabriz prison.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

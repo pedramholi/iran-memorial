@@ -3,7 +3,7 @@ name_latin: "Arshad Farhadi"
 name_farsi: "ارشد فرهادی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -39,8 +39,7 @@ circumstances: >
     Arshad Farhadi was hanged at Orumieh Central Prison on January 21, 2015.
     No specific information is available about this execution.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

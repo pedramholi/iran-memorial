@@ -1,12 +1,21 @@
 id: karampur-musa-2001
 name_latin: "Musa Karampur"
 name_farsi: "موسی کرمپور"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1962-01-01"
+place_of_birth: "Shahrabad, Torbat-e Jam, Razavi Khorasan Province"
+gender: male
 ethnicity: null
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/85759_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "Imam of Friday prayer"
+family:
+  marital_status: "married"
+  children: 6
+quotes:
+  - "our leader and spokesman...we never tired of his speeches and meetings."
+  - "The intelligence service summoned me several times a week, blindfolded me, and attacked me like rabid dogs, torturing me in ways that make me tremble just thinking about it."
 
 # --- DEATH ---
 date_of_death: 2001-05-04
@@ -85,9 +94,8 @@ circumstances: >
     demolition, the intelligence officials asked him hypothetically, "If the
     Supreme Leader orders the demolition of the mosque, what is your opinion?"
     H
-event_context: null
-responsible_forces: null
-
+event_context: "demolition of the Sheikh Feiz Mohammad Mosque"
+responsible_forces: "intelligence officials"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,9 +1,9 @@
 id: afghani-hassan-2002
 name_latin: "Hassan Afghani"
 name_farsi: "حسن افغانی"
-date_of_birth: null
+date_of_birth: "1967-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -42,8 +42,7 @@ circumstances: >
     death and the Supreme Court confirmed the ruling. He was hanged at
     Adelabad Prison in Shiraz. The exact date of this execution is unknown.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,10 +3,13 @@ name_latin: "Karim Tujehli"
 name_farsi: "کریم توژه‌لی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of The Kurdish Democratic Party of Iran"
 
 # --- DEATH ---
 date_of_death: 2002-01-24
@@ -49,8 +52,7 @@ circumstances: >
     defense. Judgment Mr. Karim Tujehli was executed at the Orumieh Prison on
     January 24, 2002. There is no detail information about this execution.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Iranian regime"
 # --- VERIFICATION ---
 status: unverified
 sources:

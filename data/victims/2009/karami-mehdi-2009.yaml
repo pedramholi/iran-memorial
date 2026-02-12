@@ -1,12 +1,15 @@
 id: karami-mehdi-2009
 name_latin: "Mehdi Karami"
 name_farsi: "مهدی کرمی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1991-04-01"
+place_of_birth: "Tehran"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/61680_thumb.jpeg"
+
+# --- LIFE ---
+family:
 
 # --- DEATH ---
 date_of_death: 2009-06-15
@@ -86,9 +89,8 @@ circumstances: >
     command structure and organization of such groups, whose members wear
     ordinary clothing rather than official uniforms and may be affiliated with
     the minis
-event_context: null
-responsible_forces: null
-
+event_context: "2009 presidential election protests"
+responsible_forces: "security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

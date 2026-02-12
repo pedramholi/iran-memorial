@@ -3,7 +3,7 @@ name_latin: "Hamid Khezrji"
 name_farsi: "حمید خضرجی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -45,9 +45,8 @@ circumstances: >
     Mr. Khezrji to death by hanging. This sentence was approved by the Supreme
     Court. He was executed by public hanging in Golestan Boulevard, Koodak
     Square, in Ahvaz on Wednesday, September 29, 2004.
-event_context: null
-responsible_forces: null
-
+event_context: "2004 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

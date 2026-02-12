@@ -1,12 +1,16 @@
 id: teimuri-mohammad-2015
 name_latin: "Mohammad Teimuri"
 name_farsi: "محمد تیموری"
-date_of_birth: null
+date_of_birth: "1970-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  children: 2
 
 # --- DEATH ---
 date_of_death: 2015-07-29
@@ -45,8 +49,7 @@ circumstances: >
     was taken from his cell, at 7:30 am, on July 29, 2015. At 9 a.m. the same
     day, he was executed in Tabriz Prison.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

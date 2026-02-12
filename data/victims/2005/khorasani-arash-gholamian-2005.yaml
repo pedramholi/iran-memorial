@@ -3,10 +3,14 @@ name_latin: "Arash Gholamian Khorasani"
 name_farsi: "آرش غلامیان خراسانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "After awhile, along with four others, we established a gang. We got some motorcycles, a Kalashnikov, a sidearm, and a vehicle, and robbed an Interest Free Loan Fund."
 
 # --- DEATH ---
 date_of_death: 2005-07-06
@@ -62,9 +66,8 @@ circumstances: >
     “corruptor on earth,” and condemned him to death and returning the stolen
     money. He was executed in public in Qasemabad district in Mashhad at 10
     a.m. on July 6, 2005.
-event_context: null
-responsible_forces: null
-
+event_context: "2005 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

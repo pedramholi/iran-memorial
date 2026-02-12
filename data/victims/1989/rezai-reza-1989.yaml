@@ -3,10 +3,14 @@ name_latin: "Reza Reza'i"
 name_farsi: "رضا رضائی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "son of Taqi; brother of Ebad Reza’i"
 
 # --- DEATH ---
 date_of_death: 1989-03-01
@@ -44,9 +48,8 @@ circumstances: >
     of arms, assault, and battery.” Defense No information is available on his
     defense. Judgment The court condemned Mr. Reza Reza’i to death and he was
     hanged in Saveh (Markazi province) on March 1, 1989.
-event_context: null
-responsible_forces: null
-
+event_context: "1989 execution for drug trafficking"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

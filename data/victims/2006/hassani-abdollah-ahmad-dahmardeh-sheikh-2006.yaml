@@ -1,12 +1,18 @@
 id: hassani-abdollah-ahmad-dahmardeh-sheikh-2006
 name_latin: "Abdollah (Ahmad) Dahmardeh (Sheikh Hassani)"
 name_farsi: "احمد (عبدالله) دهمرده (شیخ حسنی)"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1973-01-01"
+place_of_birth: "Zahedan"
+gender: male
 ethnicity: null
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/82383_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "theoretician of Jondallah militant group"
+education: "ninth grade, seminary"
+family:
+  marital_status: "married"
 
 # --- DEATH ---
 date_of_death: 2006-10-30
@@ -85,9 +91,8 @@ circumstances: >
     cars, with their eyes blindfolded. After being held outside the Judge s
     office for awhile, they were called in. The trial took about a minute. The
     judge asked the
-event_context: null
-responsible_forces: null
-
+event_context: "armed resistance against the security forces of the Islamic Republic of Iran"
+responsible_forces: "Jondallah"
 # --- VERIFICATION ---
 status: unverified
 sources:

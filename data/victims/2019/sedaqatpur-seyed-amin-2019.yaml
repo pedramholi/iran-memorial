@@ -1,12 +1,16 @@
 id: sedaqatpur-seyed-amin-2019
 name_latin: "Seyed Amin Sedaqatpur"
 name_farsi: "سید امین صداقت‌پور"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "2001-10-13"
+place_of_birth: "Shiraz"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/83074_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  notes: "child of Gol Jan and Seyed Hamid"
 
 # --- DEATH ---
 date_of_death: 2019-04-25

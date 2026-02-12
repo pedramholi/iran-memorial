@@ -3,7 +3,7 @@ name_latin: "Alireza P."
 name_farsi: "علی‌رضا پ."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -45,8 +45,7 @@ circumstances: >
     County of Golpayegan s local Office of Roads and Transportation on March
     2, 2005.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Isfahan Province Police Force Command"
 # --- VERIFICATION ---
 status: unverified
 sources:

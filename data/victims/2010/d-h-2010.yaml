@@ -3,7 +3,7 @@ name_latin: "H D"
 name_farsi: "ح د"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -37,9 +37,8 @@ circumstances: >
     the defendant’s defence. Judgment The court condemned Mr. H. D. to death
     and the ruling was confirmed by the Supreme Court. He was hanged at the
     Karun prison in Ahvaz on October 16, 2010.
-event_context: null
-responsible_forces: null
-
+event_context: "2010 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

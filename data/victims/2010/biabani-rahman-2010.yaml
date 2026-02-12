@@ -3,7 +3,7 @@ name_latin: "Rahman Biabani"
 name_farsi: "رحمان بیابانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -42,8 +42,7 @@ circumstances: >
     condemned Mr. Rahman Biabani to death and he was hanged at the Qezelhesar
     prison in Karaj on May 8, 2010.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

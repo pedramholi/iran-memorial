@@ -2,8 +2,8 @@ id: jahangiri-zargham-2014
 name_latin: "Zargham Jahangiri"
 name_farsi: "ضرغام جهانگیری"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Minab"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -29,7 +29,7 @@ circumstances: >
     Mr. Jahangiri. Defense No information is available on Mr. Jahangiri s
     defense. Judgment Mr. Zargham Jahangiri was hanged, along with three
     others, in the Bandar-e Abbas Central Prison on April 17, 2014.
-event_context: null
+event_context: "execution on April 17, 2014"
 responsible_forces: null
 
 # --- VERIFICATION ---

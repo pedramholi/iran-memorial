@@ -3,7 +3,7 @@ name_latin: "Zolf'ali Dareh Bala'i"
 name_farsi: "ذولفعلی دره بالایی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -36,9 +36,8 @@ circumstances: >
     He was hanged, along with the other individual, in the presence of their
     victims families and other bystanders at the entrance of Fuladshahr of
     Najafabad (Esfehan province) on April 29, 2004 at 6:30 am.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on April 29, 2004"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

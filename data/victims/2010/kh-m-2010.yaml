@@ -3,7 +3,7 @@ name_latin: "M Kh"
 name_farsi: "م خ"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -37,9 +37,8 @@ circumstances: >
     Judgment No specific information is available about the defendant’s
     execution. Mr. M. Kh. was hanged in public at Namaz Square in Azna on
     August 11, 2010.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on August 11, 2010"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

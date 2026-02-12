@@ -3,10 +3,16 @@ name_latin: "Ja'far Kiani"
 name_farsi: "جعفر کیانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  children: 2
+  notes: "father of two children, one born in prison"
 
 # --- DEATH ---
 date_of_death: 2007-07-05
@@ -85,9 +91,8 @@ circumstances: >
     alive, someone smashed his head with a cement block and killed him. This
     is prosecutable charge if proven. According to Ms. Shadi Sardr, the stone
     were so large that even the form o
-event_context: null
-responsible_forces: null
-
+event_context: "2007 stoning execution"
+responsible_forces: "Judiciary"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Davud Daliran"
 name_farsi: "داوود دلیران"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -53,9 +53,8 @@ circumstances: >
     “corruptor on earth” and condemned him to death and returning the stolen
     money. He was executed in public in Qasemabad district in Mashhad at 10 on
     the morning of July 6, 2005.
-event_context: null
-responsible_forces: null
-
+event_context: "2005 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,15 @@
 id: rigi-jihand-2015
 name_latin: "Jihand Rigi"
 name_farsi: "جیهند ریگی"
-date_of_birth: null
+date_of_birth: "1987-01-01"
 place_of_birth: null
-gender: null
-ethnicity: null
+gender: male
+ethnicity: "Baluch"
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "political activist"
 
 # --- DEATH ---
 date_of_death: 2015-02-04
@@ -64,9 +67,8 @@ circumstances: >
     was hanged in the presence of the Public Prosecutor of Zahedan, the Head
     of Branch One of the Revolutionary Court of Zahedan, and his interrogator,
     at the Zahedan Central Prison on February 4, 2015 at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on February 4, 2015"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

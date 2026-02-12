@@ -3,7 +3,7 @@ name_latin: "Parvin Mirza'i"
 name_farsi: "پروین میرزایی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -43,9 +43,8 @@ circumstances: >
     No information is available on Ms. Mirza i s defense. Judgment The court
     condemned Ms. Parvin Mirza i to death. She was hanged in Kuhdasht,
     Lorestan, in July of 2001. The exact date of this execution is unknown
-event_context: null
-responsible_forces: null
-
+event_context: "execution in July 2001"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,9 +1,9 @@
 id: vali-javad-sanje-2016
 name_latin: "Javad Sanje Vali"
 name_farsi: "جواد سنجه‌ولی"
-date_of_birth: null
+date_of_birth: "1983-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -41,8 +41,7 @@ circumstances: >
     hanging. He was executed on Sunday September 18, 2016, in the Gorgan
     Prison.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

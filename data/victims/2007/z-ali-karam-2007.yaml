@@ -3,7 +3,7 @@ name_latin: "Ali Karam Z."
 name_farsi: "علی کرم ز."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -39,9 +39,8 @@ circumstances: >
     death. He was hanged in public in Khamir, Hormozgan Province, in May of
     2007. The report of this execution does not mention any confirmation of
     the ruling by the Supreme Court.
-event_context: null
-responsible_forces: null
-
+event_context: "2007 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,10 +3,16 @@ name_latin: "Shahram Azizi"
 name_farsi: "شهرام عزیزی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "student"
+education: "Career Technical College"
+family:
+  marital_status: "married"
 
 # --- DEATH ---
 date_of_death: 2000-01-01
@@ -38,8 +44,7 @@ circumstances: >
     on Mr. Azizi s defense. Judgment Mr. Shahram Azizi was hanged in Ramsar in
     2000. No specific information is available about this execution.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

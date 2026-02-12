@@ -1,12 +1,20 @@
 id: hanifeh-hesam-2009
 name_latin: "Hesam Hanifeh"
 name_farsi: "حسام حنیفه"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1990-01-01"
+place_of_birth: "Marand, East Azerbaijan Province"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/86888_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "cartographer"
+education: "high school diploma"
+family:
+  marital_status: "single"
+  children: 0
+  notes: "son of a working-class father"
 
 # --- DEATH ---
 date_of_death: 2009-06-15
@@ -85,9 +93,8 @@ circumstances: >
     ordinary clothing rather than official uniforms and may be affiliated with
     the ministry of information, influential political groups, or the armed
     forces. Following the post-election demonstr
-event_context: null
-responsible_forces: null
-
+event_context: "2009 presidential election protests"
+responsible_forces: "paramilitary forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

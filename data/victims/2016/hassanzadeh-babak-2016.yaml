@@ -2,8 +2,8 @@ id: hassanzadeh-babak-2016
 name_latin: "Babak Hassanzadeh"
 name_farsi: "بابک حسن‌زاده"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Sardasht, Kordestan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -44,9 +44,8 @@ circumstances: >
     leading to this execution. Mr. Hassanzadeh was hanged in Qorveh Prison in
     the morning of Tuesday November 08, 2016. Mr. Hassanzadeh was transferred
     to a solitary confinement in Qorveh Prison a day prior to his execution.
-event_context: null
-responsible_forces: null
-
+event_context: "2016 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

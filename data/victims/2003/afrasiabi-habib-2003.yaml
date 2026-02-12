@@ -1,12 +1,15 @@
 id: afrasiabi-habib-2003
 name_latin: "Habib Afrasiabi"
 name_farsi: "حبیب افراسیابی"
-date_of_birth: null
+date_of_birth: "1979-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
 
 # --- DEATH ---
 date_of_death: 2003-04-16
@@ -87,8 +90,7 @@ circumstances: >
     General or the Supreme Court rejected that argument, however, and upheld
     the death sentence. Although the pr
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

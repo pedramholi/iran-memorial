@@ -1,9 +1,9 @@
 id: shokuhi-ali-2012
 name_latin: "Ali Shokuhi"
 name_farsi: "علی شکوهی"
-date_of_birth: null
+date_of_birth: "1986-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -43,8 +43,7 @@ circumstances: >
     Qezelhesar Prison to a solitary confinement in Evin Prison a day prior to
     his execution.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,23 @@
 id: nuri-mohammad-nazar-1992
 name_latin: "Mohammad Nazar Nuri"
 name_farsi: "محمد‌نظر نوری"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1979-01-01"
+place_of_birth: "Bizmirabad, Sar-e Pol-e Zahab County, Kermanshah Province"
+gender: male
+ethnicity: "Kurdish"
 religion: "Non-Believer"
 photo: "https://www.iranrights.org/actorphotos/84849_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "farmer"
+education: "could just read and write"
+family:
+  marital_status: "married"
+  children: 7
+personality: "courageous, freedom-loving, humble, simple, and democratic"
+beliefs: "opponent of the Islamic Republic"
+quotes:
+  - "I will not leave Kurdistan so long as there is a tree standing here, unless they spill my blood."
 
 # --- DEATH ---
 date_of_death: 1992-11-04
@@ -86,9 +97,8 @@ circumstances: >
     however, these murders began in February 1979 and have continued since
     then, both inside and outside Iran. The Abdorrahman Boroumand Center has
     so far identified over 540 killings outside I
-event_context: null
-responsible_forces: null
-
+event_context: "Iran-Iraq war"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

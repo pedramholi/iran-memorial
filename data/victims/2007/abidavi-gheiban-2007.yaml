@@ -1,12 +1,18 @@
 id: abidavi-gheiban-2007
 name_latin: "Gheiban Abidavi"
 name_farsi: "غیبان عبیداوی"
-date_of_birth: null
+date_of_birth: "1969-01-01"
 place_of_birth: null
-gender: null
-ethnicity: null
+gender: male
+ethnicity: "Arab"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/71720_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "laborer"
+family:
+  marital_status: "married"
+  children: 4
 
 # --- DEATH ---
 date_of_death: 2007-12-01
@@ -85,7 +91,7 @@ circumstances: >
     Protests in the Following Years In the years since the violent incidents
     of April 15, 2005, the regime s forces have continued to violently
     suppress the peaceful protests of the Ara
-event_context: null
+event_context: "Khuzestan Protests"
 responsible_forces: null
 
 # --- VERIFICATION ---

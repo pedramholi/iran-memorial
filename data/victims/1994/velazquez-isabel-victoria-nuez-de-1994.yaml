@@ -2,11 +2,20 @@ id: velazquez-isabel-victoria-nuez-de-1994
 name_latin: "Isabel Victoria Nuñez de Velazquez"
 name_farsi: "ایزابل ویکتوریا نونیز ده ولازکز"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Buenos Aires, Argentina"
+gender: female
 ethnicity: null
 religion: "Judaism"
 photo: "https://www.iranrights.org/actorphotos/11988_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "administrative employee"
+family:
+  children: 1
+  notes: "mother of Gustavo"
+personality: "described as very active"
+quotes:
+  - "She struggled to obtain what she wanted, and left nothing pending, nothing for the next day; she was always concerned about the others, sometimes even neglecting herself."
 
 # --- DEATH ---
 date_of_death: 1994-07-18
@@ -85,9 +94,8 @@ circumstances: >
     the airport traced them to Foz de Iguazu in the Tri-Border Area, a loosely
     governed region bordering Argentina, Brazil, and Paraguay, that has become
     a danger point for terrorism. From the evidence gathered, two Iranian
-event_context: null
-responsible_forces: null
-
+event_context: "AMIA bombing on July 18, 1994"
+responsible_forces: "Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

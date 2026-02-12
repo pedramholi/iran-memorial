@@ -1,12 +1,15 @@
 id: narui-mohammadreza-shirvani-2016
 name_latin: "Mohammadreza Shirvani (Naru’i)"
 name_farsi: "محمدرضا شیروانی (نارویی)"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1989-01-01"
+place_of_birth: "Baluchestan"
+gender: male
+ethnicity: "Baluch"
 religion: "Islam (Sunni)"
 photo: null
+
+# --- LIFE ---
+occupation: "political activist"
 
 # --- DEATH ---
 date_of_death: 2016-05-01
@@ -87,8 +90,7 @@ circumstances: >
     an annual basis to carry out these executions, that there was a budget
     allocated and there were
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Iranian Government"
 # --- VERIFICATION ---
 status: unverified
 sources:

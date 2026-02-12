@@ -1,12 +1,22 @@
 id: rahimi-asghar-2012
 name_latin: "Asghar Rahimi"
 name_farsi: "اصغر رحیمی"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1986-01-01"
+place_of_birth: "Sanandaj"
+gender: male
+ethnicity: "Kurdish"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/72996_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "shopkeeper"
+education: "technical diploma in high school"
+family:
+  marital_status: "married"
+  children: 2
+  notes: "lost his father at the age of four"
+quotes:
+  - "His wish was to play one more time with his children."
 
 # --- DEATH ---
 date_of_death: 2012-12-27
@@ -85,9 +95,8 @@ circumstances: >
     sign his engagement letter. The defendants were taken to court and tried
     while handcuffed, shackled, and blindfolded. The session lasted only 10
     minutes. (A letter sen
-event_context: null
-responsible_forces: null
-
+event_context: "arrested on April 26, 2009"
+responsible_forces: "Information Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

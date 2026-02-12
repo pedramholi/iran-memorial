@@ -3,7 +3,7 @@ name_latin: "Hassan J."
 name_farsi: "حسن ج."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -44,9 +44,8 @@ circumstances: >
     Revolutionary Public Prosecution court condemned Mr. Hassan J. to death.
     The verdict was approved by the Supreme Court. He was hanged in public on
     August 22, 2005.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on August 22, 2005"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

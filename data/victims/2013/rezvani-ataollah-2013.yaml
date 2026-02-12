@@ -1,12 +1,22 @@
 id: rezvani-ataollah-2013
 name_latin: "Ata'ollah Rezvani"
 name_farsi: "عطاالله رضوانی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1961-03-19"
+place_of_birth: "Birjand"
+gender: male
 ethnicity: null
 religion: "Baha'i"
 photo: "https://www.iranrights.org/actorphotos/73124_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "mechanical engineering major"
+education: "mechanical engineering"
+family:
+  marital_status: "married"
+  children: 2
+beliefs: "active member of the Baha'i Community"
+quotes:
+  - "tell Rezvani that his turn will come"
 
 # --- DEATH ---
 date_of_death: 2013-08-24
@@ -86,8 +96,7 @@ circumstances: >
     are harmful and detrimental. They will not be acceptable. The interviewer
     asked another question: W
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Intelligence Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

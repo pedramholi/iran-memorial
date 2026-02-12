@@ -3,7 +3,7 @@ name_latin: "Damat Khasraji"
 name_farsi: "دمات خسرجی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -39,9 +39,8 @@ circumstances: >
     Judgment The court identified Mr. Damat Khasrji as a Mohareb [fighter
     against God] and condemned him to death. He was hanged, along with another
     person, at Fatholmobin Square in Dezful on May 13, 2001.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on May 13, 2001"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

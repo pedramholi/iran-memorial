@@ -3,10 +3,13 @@ name_latin: "Arash (Shayan)"
 name_farsi: "آرش (شایان)"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
 
 # --- DEATH ---
 date_of_death: 2015-01-28
@@ -59,8 +62,7 @@ circumstances: >
     January 28, 2015 at dawn. The two other defendants in this case were
     condemned to imprisonment for collaboration in the murder.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Intelligence Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

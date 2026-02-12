@@ -3,7 +3,7 @@ name_latin: "Davud Jamal Barezi"
 name_farsi: "داود جمال بارزی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -40,9 +40,8 @@ circumstances: >
     Judgment Mr. Davud Jamal Barezi was hanged, along with another person, in
     Jiroft Prison on February 26, 2015. There is no information on the details
     of this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "2015 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

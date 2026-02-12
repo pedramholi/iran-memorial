@@ -1,12 +1,24 @@
 id: hedayati-abubakr-kamran-1996
 name_latin: "Abubakr (Kamran) Hedayati"
 name_farsi: "ابوبکر (کامران) هدایتی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1949-01-01"
+place_of_birth: "Hajj Kand, Bukan, West Azerbaijan"
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "teacher"
+education: "bachelor's degree in chemistry"
+family:
+  marital_status: "married"
+  children: 1
+  notes: "father of one adopted son whose parents were killed in Mahabad"
+personality: "remembered as a man who had a positive outlook on life and strongly believed in women’s rights to equality"
+beliefs: "member of PDKI"
+quotes:
+  - "\"I encourage women to get education and work side by side with men.\""
 
 # --- DEATH ---
 date_of_death: 1996-07-06
@@ -85,9 +97,8 @@ circumstances: >
     residents of certain towns. In the next four years, Kurdish parties lost
     their grip on power in the region to a great extent, and relocated to
     Iraqi Kurdistan. Since then, a nu
-event_context: null
-responsible_forces: null
-
+event_context: "1979 Islamic Revolution"
+responsible_forces: "Islamic Republic government"
 # --- VERIFICATION ---
 status: unverified
 sources:

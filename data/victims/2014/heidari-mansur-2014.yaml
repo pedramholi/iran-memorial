@@ -3,7 +3,7 @@ name_latin: "Mansur Heidari"
 name_farsi: "منصور حیدری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -42,9 +42,8 @@ circumstances: >
     Heidari s defense. Judgment The court condemned Mr. Mansur Heidari to
     death. He was hanged in the Bandar-e Abbas Prison yard on August 26, 2014
     in the morning.
-event_context: null
-responsible_forces: null
-
+event_context: "2014 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -2,11 +2,20 @@ id: ramezanpur-ali-reza-2001
 name_latin: "Ali Reza Ramezanpur"
 name_farsi: "علیرضا (حمید) رمضان‌پور"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Bandar-e Anzali"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "worked at the Chuka Industrial Complex"
+family:
+  marital_status: "married"
+  children: 2
+  notes: "son of Manaf"
+quotes:
+  - "I had decided to put my children to rest for the sake of relieving my own pains and hardships."
 
 # --- DEATH ---
 date_of_death: 2001-11-13

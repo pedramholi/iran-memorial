@@ -3,7 +3,7 @@ name_latin: "Karamat"
 name_farsi: "کرامت"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,9 +38,8 @@ circumstances: >
     Judgment Mr. Karamat was hanged at Darolrahmeh in Neyriz, Fars, in July of
     2001. The exact date of this execution is unknown. No specific information
     is available about this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "execution in July 2001"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

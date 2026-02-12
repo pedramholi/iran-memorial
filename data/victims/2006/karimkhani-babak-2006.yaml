@@ -3,10 +3,15 @@ name_latin: "Babak Karimkhani"
 name_farsi: "بابک کریم‌خانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  notes: "wife is Raheleh Afrajudi"
 
 # --- DEATH ---
 date_of_death: 2006-01-18
@@ -65,9 +70,8 @@ circumstances: >
     Supreme Court approved the verdict. Mr. Karimkhani was hanged , along with
     his wife and another individual, in Evin Prison on Wednesday, January 18,
     2006. ------------------------- *Raheleh Afrajudi
-event_context: null
-responsible_forces: null
-
+event_context: "murder of two individuals on July 14, 2003"
+responsible_forces: "Police Station 104 of Abbasabad"
 # --- VERIFICATION ---
 status: unverified
 sources:

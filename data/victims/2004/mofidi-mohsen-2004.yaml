@@ -3,10 +3,15 @@ name_latin: "Mohsen Mofidi"
 name_farsi: "محسن مفیدی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "Mohsen apparently did not have access to adequate legal representation during his trial, as the person appointed to act as his lawyer lacked legal qualifications."
+  - "Mohsen was sentenced to four months' imprisonment, to be followed by 80 lashes, on charges including possession of medicine containing alcohol, consuming alcohol 20 years previously, possession of a satellite dish, and aiding and abetting his sisters 'corruption' (having boyfriends, which they allegedly admitted to having after being beaten in custody)."
 
 # --- DEATH ---
 date_of_death: 2004-02-22

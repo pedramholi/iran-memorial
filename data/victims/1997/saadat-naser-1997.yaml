@@ -3,10 +3,14 @@ name_latin: "Naser Sa'adat"
 name_farsi: "ناصر سعادت"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "confession"
 
 # --- DEATH ---
 date_of_death: 1997-03-13
@@ -47,9 +51,8 @@ circumstances: >
     defense. Judgment The court condemned Mr. Naser Sa’adat to death and,
     after the ruling was confirmed by the Supreme Court, he was hanged in
     public in Shahin Shahr (Esfehan province) on March 14, 1997.
-event_context: null
-responsible_forces: null
-
+event_context: "1997 execution"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

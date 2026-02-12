@@ -3,10 +3,15 @@ name_latin: "Mohammad Reza Vakili"
 name_farsi: "محمدرضا وکیلی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "caretaker"
+quotes:
+  - "He said he feared them and so had confessed to these crimes."
 
 # --- DEATH ---
 date_of_death: 2004-09-08
@@ -53,9 +58,8 @@ circumstances: >
     attorney was approved by Branch 20 of the Supreme Court, but the sentence
     concerning his wife was sent to the Public Court for reconsideration. Mr.
     Vakili was executed at Evin Prison on September 8, 2004.
-event_context: null
-responsible_forces: null
-
+event_context: "murder of a 76-year-old attorney and his 80-year-old wife on January 10, 2001"
+responsible_forces: "Tehran Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

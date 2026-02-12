@@ -2,11 +2,20 @@ id: miaii-salman-2013
 name_latin: "Salman Miaii"
 name_farsi: "سلمان میایی"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Chabahar, Sistan Va Baluchestan"
+gender: male
+ethnicity: "Baluch"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/75259_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "seminarian"
+education: "final year studying hadith"
+family:
+  marital_status: "married"
+  children: 2
+  notes: "father of two young children"
+personality: "pious person of calm demeanor"
 
 # --- DEATH ---
 date_of_death: 2013-10-26
@@ -86,8 +95,7 @@ circumstances: >
     (October 27, 2013.) The validity of the criminal charges brought against
     this defendant cannot be ascertained in the absence of the basic
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

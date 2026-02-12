@@ -3,7 +3,7 @@ name_latin: "Emam'ali Sufi"
 name_farsi: "امام علی صوفی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -52,9 +52,8 @@ circumstances: >
     the evidence provided against the defendant. Defence No information is
     available on Mr. Emamali Sufi's defence. Judgment Based on the court's
     ruling, Mr. Emamali Sufi was hanged in Hamadan.
-event_context: null
-responsible_forces: null
-
+event_context: "1989 law imposing mandatory death sentences on drug traffickers"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

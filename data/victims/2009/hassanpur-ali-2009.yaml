@@ -1,12 +1,20 @@
 id: hassanpur-ali-2009
 name_latin: "Ali Hassanpur"
 name_farsi: "علی حسن ‌پور"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1961-03-05"
+place_of_birth: "Tehran"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/61687_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "accountant"
+family:
+  marital_status: "married"
+  children: 2
+quotes:
+  - "A bullet hit his head. It entered below his right eye, at his cheek bone, and exited above his left ear."
 
 # --- DEATH ---
 date_of_death: 2009-06-15
@@ -85,9 +93,8 @@ circumstances: >
     Ali s body was naked except for the knee brace which he wore for knee
     pain. Officials Reaction On October 12, 2009, during an official ceremony,
     the Commander of t
-event_context: null
-responsible_forces: null
-
+event_context: "2009 presidential election protests"
+responsible_forces: "Basij"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,22 @@
 id: qader-kamal-sadeq-2016
 name_latin: "Kamal Sadeq Qader"
 name_farsi: "کمال صادق قادر"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1967-01-02"
+place_of_birth: "Penjwin, Sulaimaniyah"
+gender: male
+ethnicity: "Kurdish"
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/84820_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "retired employee of the Penjwin Forestry Department"
+education: "primary level"
+family:
+  marital_status: "married"
+  children: 4
+beliefs: "joined the Kurdistan Democratic Solution Party"
+quotes:
+  - "I came under pressure from the Patriotic Union of Kurdistan because of my links to PJAK."
 
 # --- DEATH ---
 date_of_death: 2016-04-13
@@ -85,9 +95,8 @@ circumstances: >
     ammunition to the party's forces in the border areas of Penjwin, as PJAK
     had previously been unable to establish a presence or operate in these
     areas. (ABC interview, April 20, 2
-event_context: null
-responsible_forces: null
-
+event_context: "protests in Penjwin district against corruption and the governance of the Kurdistan Regional Government"
+responsible_forces: "Asayish"
 # --- VERIFICATION ---
 status: unverified
 sources:

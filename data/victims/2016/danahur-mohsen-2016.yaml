@@ -1,12 +1,18 @@
 id: danahur-mohsen-2016
 name_latin: "Mohsen Danahur"
 name_farsi: "محسن داناهور"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1990-01-01"
+place_of_birth: "Tehran"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/85148_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+quotes:
+  - "With the efforts of Alborz province anti-narcotics police officers, he was identified and arrested in a raid in an underground workshop."
 
 # --- DEATH ---
 date_of_death: 2016-07-20
@@ -86,9 +92,8 @@ circumstances: >
     of Articles five and four of the Amendment Law***. The court further
     sentenced him to two years of imprisonment, 45 lashes, and a fine of
     twenty million rials for
-event_context: null
-responsible_forces: null
-
+event_context: "2011 drug-related crimes"
+responsible_forces: "Karaj Islamic Revolution Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

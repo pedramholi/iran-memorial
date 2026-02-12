@@ -3,8 +3,8 @@ name_latin: "Mas'ud Karamzehi"
 name_farsi: "مسعود کرم‌زهی"
 date_of_birth: null
 place_of_birth: null
-gender: null
-ethnicity: null
+gender: male
+ethnicity: "Baluch"
 religion: "Presumed Muslim"
 photo: null
 
@@ -44,9 +44,8 @@ circumstances: >
     hanging. He and two other people were executed in Bandar e Abbas Prison,
     on December 14, 2016. -------------------- *Mr. Nahtani and Mr.
     Gomshadzehi
-event_context: null
-responsible_forces: null
-
+event_context: "2016 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

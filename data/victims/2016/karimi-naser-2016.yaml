@@ -1,12 +1,22 @@
 id: karimi-naser-2016
 name_latin: "Naser Karimi"
 name_farsi: "ناصر کریمی"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1998-01-01"
+place_of_birth: "Baneh, Kurdistan Province"
+gender: male
+ethnicity: "Kurdish"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/85272_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "high school senior"
+education: "studying literature and humanities"
+family:
+  marital_status: "single"
+personality: "calm, popular, smart, responsible, and curious"
+beliefs: "member of the Kurdistan Democratic Party Youth Union"
+quotes:
+  - "He wished to return to Iranian Kurdistan and to serve the people."
 
 # --- DEATH ---
 date_of_death: 2016-12-20

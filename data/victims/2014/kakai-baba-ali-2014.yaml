@@ -1,12 +1,17 @@
 id: kakai-baba-ali-2014
 name_latin: "Baba Ali Kaka'i"
 name_farsi: "باباعلی کاکایی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1973-01-01"
+place_of_birth: "Harsin, Kermanshah"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "fabric seller"
+family:
+  children: 2
 
 # --- DEATH ---
 date_of_death: 2014-12-27
@@ -37,9 +42,8 @@ circumstances: >
     specific information is available about his execution. The authorities did
     not inform Mr. Kaka i s family. A cellmate of Mr. Kaka i notified them of
     his transfer to solitary confinement before execution.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on December 27, 2014"
+responsible_forces: "Islamic Revolutionary Court of Zahedan"
 # --- VERIFICATION ---
 status: unverified
 sources:

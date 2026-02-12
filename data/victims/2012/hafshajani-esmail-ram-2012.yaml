@@ -3,7 +3,7 @@ name_latin: "Esma'il Ram Hafshajani"
 name_farsi: "اسماعیل رام هفشجانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -51,9 +51,8 @@ circumstances: >
     Islamic Revolutionary Court of Shahr-e Kord. After the verdict was
     approved, he and two others were hanged in Shahr-e Kord Central Prison on
     April 10, 2012.
-event_context: null
-responsible_forces: null
-
+event_context: "2012 execution"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,19 @@
 id: narui-azim-abdolhalim-2013
 name_latin: "Azim (Abdolhalim) Naru'i"
 name_farsi: "عظیم (عبدالحلیم) نارویی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1955-01-01"
+place_of_birth: "Zabol"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/85245_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "worked at the Public Health Office of Zahedan and BooAli Hospital"
+education: "high school diploma"
+family:
+quotes:
+  - "In 1981, with the emergence of the nationwide revolutionary resistance, Mr. Naru'i was engaged in responding to the Organization's needs in that region."
 
 # --- DEATH ---
 date_of_death: 2013-09-01
@@ -86,8 +93,7 @@ circumstances: >
     base, and the Organization's members were trained there. The Mojahedin
     Khalq Organization of Iran had several
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

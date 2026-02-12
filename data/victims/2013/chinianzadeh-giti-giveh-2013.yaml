@@ -1,12 +1,17 @@
 id: chinianzadeh-giti-giveh-2013
 name_latin: "Giti Giveh Chinianzadeh"
 name_farsi: "گیتی گیوه چینیان‌زاده"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1958-01-01"
+place_of_birth: "Tehran"
+gender: female
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/84667_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "political activist"
+family:
+beliefs: "involved in political activities with militant students before the Revolution"
 
 # --- DEATH ---
 date_of_death: 2013-09-01
@@ -86,8 +91,7 @@ circumstances: >
     forces from Iraqi cities in the summer of 2009, the United States
     relinquished protection of Mojahedin Khalq Organization of Iran members t
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

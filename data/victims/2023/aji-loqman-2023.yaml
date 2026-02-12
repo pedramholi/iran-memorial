@@ -1,12 +1,22 @@
 id: aji-loqman-2023
 name_latin: "Loqman Aji"
 name_farsi: "لقمان آجی"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1998-06-15"
+place_of_birth: "Gargul-e Sofla, near Naqadeh, Western Azerbaijan"
+gender: male
+ethnicity: "Kurdish"
 religion: "Islam (Sunni)"
 photo: null
+
+# --- LIFE ---
+occupation: "Peshmerga"
+education: "high school"
+family:
+  marital_status: "single"
+  children: 0
+  notes: "son of Amir and Shilan Aji"
+personality: "described as a very calm man, guileless, smart, active, and capable"
+beliefs: "member of the Democratic Party of Kurdistan of Iran (HADKA)"
 
 # --- DEATH ---
 date_of_death: 2023-07-07
@@ -86,8 +96,7 @@ circumstances: >
     central government and the Peshmerga (Kurdistan Democratic Party s armed
     forces). On August 19, 1979, Ayatollah Khomeini lab
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Democratic Party of Kurdistan of Iran (HADKA)"
 # --- VERIFICATION ---
 status: unverified
 sources:

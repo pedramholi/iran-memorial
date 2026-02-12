@@ -1,9 +1,9 @@
 id: sarhadi-mohammad-2018
 name_latin: "Mohammad Sarhadi"
 name_farsi: "محمد سرحدی"
-date_of_birth: null
+date_of_birth: "1985-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -45,8 +45,7 @@ circumstances: >
     family of the victim. At that time, he was taken from the gallows back to
     the prison.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

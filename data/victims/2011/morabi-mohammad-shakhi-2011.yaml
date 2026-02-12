@@ -1,12 +1,18 @@
 id: morabi-mohammad-shakhi-2011
 name_latin: "Mohammad Shakhi Mo'rabi"
 name_farsi: "محمد شاخی معربی"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1982-01-01"
+place_of_birth: "Hamidieh"
+gender: male
+ethnicity: "Arab"
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "unemployed"
+education: "middle school"
+family:
+  marital_status: "single"
 
 # --- DEATH ---
 date_of_death: 2011-04-15
@@ -85,9 +91,8 @@ circumstances: >
     spokesperson officially denied [the existence of] this letter on Saturday,
     April 16, the demonstrations that had been called for by the Coordination
     Committee for Popular Protests in Ahvaz * continued exte
-event_context: null
-responsible_forces: null
-
+event_context: "April 15, 2012 demonstration by Arab citizens in Khuzestan"
+responsible_forces: "Basij"
 # --- VERIFICATION ---
 status: unverified
 sources:

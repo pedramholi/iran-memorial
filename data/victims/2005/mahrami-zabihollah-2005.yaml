@@ -1,12 +1,20 @@
 id: mahrami-zabihollah-2005
 name_latin: "Zabihollah Mahrami"
 name_farsi: "ذبیح الله محرمی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1946-01-01"
+place_of_birth: "Yazd"
+gender: male
 ethnicity: null
 religion: "Baha'i"
 photo: "https://www.iranrights.org/actorphotos/39856_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "installing venetian blinds"
+family:
+  marital_status: "married"
+  children: 4
+quotes:
+  - "After holding three consecutive meetings for guiding him [to the truth], despite the fact that he was given ample time to study the situation and to accept the suggestion [of this court] to be sent to a learned individual for investigating the shallow foundations of his beliefs, he refused to do so and, regardless of the tremendous efforts [of this court] towards encouraging him to repent for having committed the most grievous sin, i.e., apostasy, [the court] did not succeed [in its efforts] because of the enmity and the stubbornness of this individual."
 
 # --- DEATH ---
 date_of_death: 2005-12-15
@@ -84,9 +92,8 @@ circumstances: >
     Revolutionary Court of Yazd. At this session, too, Mr. Mahrami remained
     loyal to his religion; the Court issued its verdict the same day. Charges
     According to the court ruling of January 2, 1996, Mr. Mahrami was char
-event_context: null
-responsible_forces: null
-
+event_context: "1995 arrest and detention"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

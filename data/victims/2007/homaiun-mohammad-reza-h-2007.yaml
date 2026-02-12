@@ -1,9 +1,9 @@
 id: homaiun-mohammad-reza-h-2007
 name_latin: "Mohammad Reza H. (Homaiun)"
 name_farsi: "محمدرضا ه. (همایون)"
-date_of_birth: null
+date_of_birth: "1982-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -42,8 +42,7 @@ circumstances: >
     Marvdasht, on April 24, 2007. Mr. Mohammad Reza H. (Homaiun) was 25 years
     old.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

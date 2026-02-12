@@ -3,7 +3,7 @@ name_latin: "Ali Naderian"
 name_farsi: "علی نادریان"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -44,9 +44,8 @@ circumstances: >
     s defense. Judgment The court announced Mr. Ali Naderian to be a corruptor
     on the earth and sentenced her to death. (Aftab-e-Yazd) He was hanged in
     the Mashhad central prison on September 5, 2007 at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "2007 executions"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

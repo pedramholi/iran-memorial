@@ -2,11 +2,16 @@ id: rafinia-mohammad-reza-2006
 name_latin: "Mohammad Reza Rafi'nia"
 name_farsi: "محمدرضا رفیع‌نیا"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Kerman"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/83233_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  notes: "son of Mahmud"
+personality: "kind man, ready to help others"
 
 # --- DEATH ---
 date_of_death: 2006-11-26
@@ -86,8 +91,7 @@ circumstances: >
     religious minorities). Each year Iranian authorities sentence to death
     hundreds of alleged common criminals, following ju
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Kerman Resistance Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

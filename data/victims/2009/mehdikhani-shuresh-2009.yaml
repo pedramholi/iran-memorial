@@ -1,12 +1,24 @@
 id: mehdikhani-shuresh-2009
 name_latin: "Shuresh Mehdikhani"
 name_farsi: "شورش مهدی‌خانی"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1983-01-01"
+place_of_birth: "Sanandaj"
+gender: male
+ethnicity: "Kurdish"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/80107_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "mason's helper"
+education: "high school diploma"
+family:
+  marital_status: "single"
+  children: 0
+  notes: "child of Saeed"
+personality: "quiet man with a pleasant demeanor"
+beliefs: "invited people to read the Koran and study Sunni beliefs"
+quotes:
+  - "He was a religious man and an adherent of the Shafe'i branch of Islam, but did not belong to a particular group or organization."
 
 # --- DEATH ---
 date_of_death: 2009-07-30
@@ -85,9 +97,8 @@ circumstances: >
     in court. Defense Based on available information, Mr. Mehdikhani s
     attorneys pointed to the following in their brief to the appellate court:
     He was subjected to and was influenced by misguided r
-event_context: null
-responsible_forces: null
-
+event_context: "arrested on December 1, 2007"
+responsible_forces: "Sanandaj Information Administration"
 # --- VERIFICATION ---
 status: unverified
 sources:

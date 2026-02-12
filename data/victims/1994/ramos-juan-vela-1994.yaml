@@ -2,11 +2,14 @@ id: ramos-juan-vela-1994
 name_latin: "Juan Vela Ramos"
 name_farsi: "خوان ولا راموس"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Bolivia"
+gender: male
+ethnicity: "Bolivian"
 religion: "Judaism"
 photo: "https://www.iranrights.org/actorphotos/11984_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "worked in AMIA’s building renovations"
 
 # --- DEATH ---
 date_of_death: 1994-07-18
@@ -85,9 +88,8 @@ circumstances: >
     attaché at the embassy (though he had been in Argentina for eleven years,
     he was bestowed diplomatic immunity only in March) and was in charge of
     logistics for the operation. Aiding him was Ahmad Asghari, the 3rd Sec
-event_context: null
-responsible_forces: null
-
+event_context: "AMIA bombing"
+responsible_forces: "Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

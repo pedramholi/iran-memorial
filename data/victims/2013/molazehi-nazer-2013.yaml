@@ -1,12 +1,19 @@
 id: molazehi-nazer-2013
 name_latin: "Nazer Molazehi"
 name_farsi: "ناظر ملازهی"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1987-01-01"
+place_of_birth: "Saravan, Sistan va Baluchestan"
+gender: male
+ethnicity: "Baluch"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/75255_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  marital_status: "unmarried"
+  children: 0
+quotes:
+  - "Given that I had had no involvement with the Jundullah organization."
 
 # --- DEATH ---
 date_of_death: 2013-10-26
@@ -85,9 +92,8 @@ circumstances: >
     any sort of evidence, reason, or witnesses. In a written letter to UN
     Special Rapporteur Ahmed Shaheed, he stressed that he had had no
     involvement with the Jundullah organization, asking: Given that
-event_context: null
-responsible_forces: null
-
+event_context: "2013 October executions"
+responsible_forces: "Saravan County Intelligence Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

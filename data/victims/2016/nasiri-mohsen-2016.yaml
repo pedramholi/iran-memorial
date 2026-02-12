@@ -1,12 +1,22 @@
 id: nasiri-mohsen-2016
 name_latin: "Mohsen Nasiri"
 name_farsi: "محسن نصیری"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1985-01-01"
+place_of_birth: "Khalkhal"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/74742_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "street peddler"
+education: "high school senior"
+family:
+  marital_status: "single"
+  notes: "planned to marry his girlfriend before being arrested"
+personality: "funny, generous, and kind individual"
+quotes:
+  - "he showed his red finger to his family and informed them of his death sentence. He told them this meant signing his death sentence and there was no trial except finger printing."
 
 # --- DEATH ---
 date_of_death: 2016-01-12
@@ -86,9 +96,8 @@ circumstances: >
     for this purpose. The guard of the house where Mr. Nasiri was arrested
     told agents that night that he had seen a couple put the bag (of
     narcotics) in
-event_context: null
-responsible_forces: null
-
+event_context: "2013 trial"
+responsible_forces: "Islamic Revolutionary Court of Karaj"
 # --- VERIFICATION ---
 status: unverified
 sources:

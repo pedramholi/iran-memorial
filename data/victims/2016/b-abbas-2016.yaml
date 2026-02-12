@@ -1,12 +1,19 @@
 id: b-abbas-2016
 name_latin: "Abbas B."
 name_farsi: "عباس ب."
-date_of_birth: null
+date_of_birth: "1977-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "employed by one of the pseudo-governmental offices in Mazandaran Province"
+family:
+  marital_status: "married"
+quotes:
+  - "We thought she was well to do."
 
 # --- DEATH ---
 date_of_death: 2016-01-04

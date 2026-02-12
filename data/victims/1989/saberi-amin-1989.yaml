@@ -3,7 +3,7 @@ name_latin: "Amin Saberi"
 name_farsi: "امین صابری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -50,9 +50,8 @@ circumstances: >
     imprisonment and being released by pardon.” Defense No information is
     available on Mr. Saberi’s defense. Judgment Based on the court’s ruling,
     Mr. Amin Saberi was hanged in Mashhad.
-event_context: null
-responsible_forces: null
-
+event_context: "1989"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

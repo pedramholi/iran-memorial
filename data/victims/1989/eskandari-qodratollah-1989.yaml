@@ -3,7 +3,7 @@ name_latin: "Qodratollah Eskandari"
 name_farsi: "قدرت الله اسکندری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -40,9 +40,8 @@ circumstances: >
     Supreme Judiciary Council confirmed the ruling. He was stoned on February
     22, 1989 in the presence of the religious judge of the Islamic
     Revolutionary Court and some people in Zanjan.
-event_context: null
-responsible_forces: null
-
+event_context: "execution by stoning on February 22, 1989"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

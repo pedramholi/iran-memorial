@@ -3,7 +3,7 @@ name_latin: "Seyed Khalil Puranvari"
 name_farsi: "سیدخلیل پورانوری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/75378_thumb.jpeg"
@@ -49,9 +49,8 @@ circumstances: >
     representatives, police and court officials at Evin Prison in Tehran on
     January 9, 2003. No specific information is available about this
     execution.
-event_context: null
-responsible_forces: null
-
+event_context: "2003 execution"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

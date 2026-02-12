@@ -3,7 +3,7 @@ name_latin: "Reza Qorbani"
 name_farsi: "رضا قربانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -44,8 +44,7 @@ circumstances: >
     The court condemned Mr. Reza Ghorbani to death and he was hanged in Tehran
     on January 12, 2011 at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

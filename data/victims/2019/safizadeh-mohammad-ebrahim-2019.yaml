@@ -1,12 +1,22 @@
 id: safizadeh-mohammad-ebrahim-2019
 name_latin: "Mohammad Ebrahim Safizadeh"
 name_farsi: "محمد‌ابراهیم صفی‌زاده"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1955-03-16"
+place_of_birth: "Fandokht, Qa'en County, Southern Khorassan Province"
+gender: male
 ethnicity: null
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/83278_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "teacher"
+education: "Master's Degree in Arab Literature"
+family:
+  marital_status: "married"
+  children: 8
+  notes: "father of 2 girls and 6 boys"
+personality: "described as upright, ethical, and sociable"
+beliefs: "founder of the Sunni Religious Leaders Coordination Council of Khorassan; spokesperson and director of Iran's Sunni Adherents Front"
 
 # --- DEATH ---
 date_of_death: 2019-05-22

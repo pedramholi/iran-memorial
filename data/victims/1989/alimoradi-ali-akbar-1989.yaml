@@ -3,7 +3,7 @@ name_latin: "Ali Akbar Alimoradi"
 name_farsi: "علی اکبر علیمرادی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -58,9 +58,8 @@ circumstances: >
     The Islamic Revolutionary court of Gonbad (Golestan province) condemned
     Mr. Ali Akbar Alimoradi to death as a corruptor on earth. He was hanged in
     public on February 14, 1989.
-event_context: null
-responsible_forces: null
-
+event_context: "1989"
+responsible_forces: "Islamic Revolutionary court"
 # --- VERIFICATION ---
 status: unverified
 sources:

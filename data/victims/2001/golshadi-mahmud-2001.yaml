@@ -3,7 +3,7 @@ name_latin: "Mahmud Golshadi"
 name_farsi: "محمود گلشادی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -29,9 +29,8 @@ circumstances: >
     The Islamic Revolutionary Court of Najafabad condemned Mr. Mahmud Golshadi
     to death. He was executed in public at a square in Goldasht on January 4,
     2001. No specific information is available about this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on January 4, 2001"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

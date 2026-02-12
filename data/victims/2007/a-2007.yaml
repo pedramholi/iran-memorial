@@ -40,9 +40,8 @@ circumstances: >
     injured the victim with a knife. Judgment The court condemned the
     defendant to death and the ruling was confirmed by the Supreme Court. He
     was hanged at the Qazvin Central Prison on September 19, 2007 at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "2007 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

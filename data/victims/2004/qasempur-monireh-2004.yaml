@@ -3,10 +3,14 @@ name_latin: "Monireh Qasempur"
 name_farsi: "منیره قاسم پور"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "daughter-in-law of the victim"
 
 # --- DEATH ---
 date_of_death: 2004-07-11
@@ -40,9 +44,8 @@ circumstances: >
     Primary Court condemned the defendant to death and the Supreme Court
     confirmed the ruling. She was executed in Qazvin Central Prison on July
     11, 2004.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on July 11, 2004"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

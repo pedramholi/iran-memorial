@@ -1,12 +1,17 @@
 id: babajani-mohammadreza-salas-2018
 name_latin: "Mohammadreza Salas Babajani"
 name_farsi: "محمدرضا ثلاث باباجانی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1967-01-01"
+place_of_birth: "Borujerd, Lorestan Province"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/81801_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "bus driver"
+family:
+  children: 2
 
 # --- DEATH ---
 date_of_death: 2018-06-18
@@ -85,9 +90,8 @@ circumstances: >
     on June 17, 2018, at Rajaishahr Prison. (Majzooban-e Noor Website, June
     17, 2018, BBC Persian, June 18, 2018). It was stated that Mr. Salas was
     the driver of the bus that had run over three pol
-event_context: null
-responsible_forces: null
-
+event_context: "February 2018 protests"
+responsible_forces: "Basij"
 # --- VERIFICATION ---
 status: unverified
 sources:

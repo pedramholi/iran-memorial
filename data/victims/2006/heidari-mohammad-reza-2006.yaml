@@ -1,12 +1,18 @@
 id: heidari-mohammad-reza-2006
 name_latin: "Mohammad Reza Heidari"
 name_farsi: "محمدرضا حیدری"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1985-01-01"
+place_of_birth: "Shiraz"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "pursuing work"
+family:
+quotes:
+  - "I did not intend to kill the victim. I just wanted my money back. First I threatened him, but he would not agree. I shot him in the side and tried to leave the store. He stopped me, so I shot him in the head. I did not even threaten the people whom they say I took hostage."
 
 # --- DEATH ---
 date_of_death: 2006-11-08
@@ -78,9 +84,8 @@ circumstances: >
     sentence implementation branch of the Tehran District Attorney s Office.
     Mr. Heidari and three other people were executed by hanging in Evin Prison
     on November 09, 2006.
-event_context: null
-responsible_forces: null
-
+event_context: "murder in a jewelry store and the holding hostage of four women in a literacy class at Salman Farsi Boys School on May 11, 2004"
+responsible_forces: "Tehran Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

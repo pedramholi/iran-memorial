@@ -3,10 +3,14 @@ name_latin: "Mahmud Kazemi"
 name_farsi: "محمود کاظمی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "his confession"
 
 # --- DEATH ---
 date_of_death: 2004-09-16
@@ -38,8 +42,7 @@ circumstances: >
     Judgment The court of the city of Dezful condemned Mr. Kazemi to death by
     hanging. He was executed in Dezful on September 16, 2004.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

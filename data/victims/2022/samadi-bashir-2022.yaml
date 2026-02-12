@@ -3,10 +3,16 @@ name_latin: "Bashir Samadi"
 name_farsi: "بشیر صمدی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/84695_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  children: 8
+  notes: "father of 4 daughters and 4 sons"
 
 # --- DEATH ---
 date_of_death: 2022-03-14
@@ -43,8 +49,7 @@ circumstances: >
     Adelabad prison, in Shiraz on March 14, 2022. ----------------------- *
     Mr. Ahmad Gorgij, and Mr. Abdolreza Shafi e.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

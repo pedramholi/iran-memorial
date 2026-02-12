@@ -1,12 +1,16 @@
 id: yusefi-mehrdad-2001
 name_latin: "Mehrdad Yusefi"
 name_farsi: "مهرداد یوسفی"
-date_of_birth: null
+date_of_birth: "1983-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "son of Shamsollah"
 
 # --- DEATH ---
 date_of_death: 2001-05-29

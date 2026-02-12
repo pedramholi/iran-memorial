@@ -3,7 +3,7 @@ name_latin: "Mohsen Rahmati"
 name_farsi: "محسن رحمتی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -36,9 +36,8 @@ circumstances: >
     Rahmati. Defense No information is available on Mr. Rahmati s defense.
     Judgment Mr. Mohsen Rahmati was hanged, along with five others, at the
     Gohardasht Prison yard in Karaj on February 19, 2014.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on February 19, 2014"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

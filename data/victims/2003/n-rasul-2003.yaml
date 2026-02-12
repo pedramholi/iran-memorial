@@ -3,7 +3,7 @@ name_latin: "Rasul N."
 name_farsi: "رسول ن"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -37,8 +37,7 @@ circumstances: >
     Judgment Mr. N. was convicted of murder and sentenced to death. He was
     hanged at dawn in the courtyard of Qasr Prison.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

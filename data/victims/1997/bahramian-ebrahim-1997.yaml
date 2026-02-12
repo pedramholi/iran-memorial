@@ -3,7 +3,7 @@ name_latin: "Ebrahim Bahramian"
 name_farsi: "ابراهیم بهرامیان"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,8 +38,7 @@ circumstances: >
     Supreme Court, he was hanged in the presence of the victim's family in
     Sa’at Circle in Samirom.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

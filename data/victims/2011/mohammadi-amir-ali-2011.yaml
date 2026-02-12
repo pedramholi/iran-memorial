@@ -3,7 +3,7 @@ name_latin: "Amir Ali Mohammadi"
 name_farsi: "امیرعلی محمدی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -46,9 +46,8 @@ circumstances: >
     defendant s pardon request was denied by the Pardon Commission of the
     Judiciary and he was hanged in Raja ishahr prison in Karaj on January 19,
     2011.
-event_context: null
-responsible_forces: null
-
+event_context: "2011 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

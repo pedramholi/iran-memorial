@@ -3,7 +3,7 @@ name_latin: "Bahram Ashtari"
 name_farsi: "بهرام اشتری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,8 +38,7 @@ circumstances: >
     No information is available on Mr. Ashtari s defense. Judgment Mr. Bahram
     Ashtari was hanged at the Maragheh Prison yard on February 27, 2015.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

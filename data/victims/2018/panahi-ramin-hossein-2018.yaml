@@ -1,12 +1,21 @@
 id: panahi-ramin-hossein-2018
 name_latin: "Ramin Hossein Panahi"
 name_farsi: "رامین حسین‌پناهی"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1994-01-01"
+place_of_birth: "Dehgolan s Qaruchai village, Kurdistan Province"
+gender: male
+ethnicity: "Kurdish"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/82740_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "civil and political activist"
+education: "high school diploma"
+family:
+  notes: "child of Sharifeh and Mohammad Mirza; had 3 sisters and 5 brothers; one brother named Anvar had previously been sentenced to death; one brother is in jail; another brother died in a suspicious car accident; two brothers have been forced to leave the country."
+beliefs: "member of the Kurdistan Komeleh Party"
+quotes:
+  - "\"I believe in humanity, peoples welfare, equality, and women s rights.\""
 
 # --- DEATH ---
 date_of_death: 2018-09-08
@@ -85,9 +94,8 @@ circumstances: >
     execution in further announcements. (Boroumand Center, March 16, 2018,
     Deutsche Welle, June 2, 2018, and Amnesty International, September 8,
     2018). Arrest and detention On Friday, June 23, 2017, Mr. Hossein Panah
-event_context: null
-responsible_forces: null
-
+event_context: "arrested at the age of 16"
+responsible_forces: "Information Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

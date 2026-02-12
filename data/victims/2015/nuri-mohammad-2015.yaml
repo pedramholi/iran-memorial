@@ -1,9 +1,9 @@
 id: nuri-mohammad-2015
 name_latin: "Mohammad Nuri"
 name_farsi: "محمد نوری"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1990-01-01"
+place_of_birth: "Herat Province, Afghanistan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -45,9 +45,8 @@ circumstances: >
     Mohammad Nuri to death. He was moved to solitary confinement on the eve of
     the execution. Mr. Nuri was hanged in Zahedan Central Prison on April 11,
     2015. --------------------------- * Mr. Hatef Barahu'i
-event_context: null
-responsible_forces: null
-
+event_context: "2015 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

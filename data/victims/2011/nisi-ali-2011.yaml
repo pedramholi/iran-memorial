@@ -1,9 +1,9 @@
 id: nisi-ali-2011
 name_latin: "Ali Nisi"
 name_farsi: "علی نیسی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1989-01-01"
+place_of_birth: "Chan an Ghale, Kut-e Abdollah"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
@@ -85,9 +85,8 @@ circumstances: >
     , 50; and the Ahvaz Human Rights Organization , 160. Dozens of others were
     injured. The Ahvaz General and Revolutionary Prosecutor s Office announced
     the arr
-event_context: null
-responsible_forces: null
-
+event_context: "protests in April 2011 in Ahvaz"
+responsible_forces: "security and police forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

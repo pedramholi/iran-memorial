@@ -1,12 +1,16 @@
 id: fathollahnejad-mehdi-2013
 name_latin: "Mehdi Fathollahnejad"
 name_farsi: "مهدی قتح‌الله‌ نژاد"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1961-01-01"
+place_of_birth: "Tabriz"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/85808_thumb.jpeg"
+
+# --- LIFE ---
+education: "completed primary and secondary education in Tabriz; entered the Faculty of Engineering at the University of Tehran in 1969"
+beliefs: "member of Mojahedin Organization"
 
 # --- DEATH ---
 date_of_death: 2013-09-01
@@ -85,9 +89,8 @@ circumstances: >
     guards. (Human Rights Watch, April 15, 2011). According to available
     information, although Amnesty International had asked Iraqi authorities to
     conduct thorough and impartial investigations of
-event_context: null
-responsible_forces: null
-
+event_context: "evacuation of Ashraf Base in 2013"
+responsible_forces: "Iraqi forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

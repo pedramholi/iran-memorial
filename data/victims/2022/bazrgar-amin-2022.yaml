@@ -1,12 +1,19 @@
 id: bazrgar-amin-2022
 name_latin: "Amin Bazrgar"
 name_farsi: "امین بذرگر"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1994-02-05"
+place_of_birth: "Shiraz"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/85794_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "carpenter"
+beliefs: "humanity"
+quotes:
+  - "Our silence is betrayal!"
+  - "Silence is betrayal"
 
 # --- DEATH ---
 date_of_death: 2022-10-16
@@ -85,9 +92,8 @@ circumstances: >
     in Asia; Dubai, Iraq, and Turkey in the Middle East; Cyprus, France,
     Italy, Austria, Switzerland, Germany, Norway, Sweden, and Great Britain in
     Europe; and the United States
-event_context: null
-responsible_forces: null
-
+event_context: "Iranian demonstrations in August 2018"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

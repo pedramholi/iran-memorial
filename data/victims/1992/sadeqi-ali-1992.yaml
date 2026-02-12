@@ -3,9 +3,9 @@ name_latin: "Ali Sadeqi"
 name_farsi: "علی صادقی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
-religion: "Presumed Muslim"
+religion: "Christian"
 photo: null
 
 # --- DEATH ---
@@ -86,9 +86,8 @@ circumstances: >
     eloquent in this respect. What began as a municipal incident blew up into
     a major event because the authorities were not prepared to restore order
     thr
-event_context: null
-responsible_forces: null
-
+event_context: "1992 Protests in Mashhad"
+responsible_forces: "Islamic Revolutionary Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

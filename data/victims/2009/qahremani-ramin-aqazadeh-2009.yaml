@@ -1,12 +1,17 @@
 id: qahremani-ramin-aqazadeh-2009
 name_latin: "Ramin Aqazadeh Qahremani"
 name_farsi: "رامین آقازاده قهرمانی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1979-01-01"
+place_of_birth: "Tehran"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/61339_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  notes: "had three brothers"
+personality: "described as a calm, harmless, apolitical young man who was closely attached to his family"
 
 # --- DEATH ---
 date_of_death: 2009-07-18
@@ -86,9 +91,8 @@ circumstances: >
     the ministry of information, influential political groups, or the armed
     forces. Following the post-election demonstrations in June 2009, pictures
     of some pl
-event_context: null
-responsible_forces: null
-
+event_context: "2009 Election"
+responsible_forces: "paramilitary forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

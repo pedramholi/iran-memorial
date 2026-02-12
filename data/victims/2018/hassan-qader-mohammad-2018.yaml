@@ -2,8 +2,8 @@ id: hassan-qader-mohammad-2018
 name_latin: "Qader Mohammad Hassan"
 name_farsi: "قادر محمد‌حسن"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Bukan"
+gender: male
 ethnicity: null
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/82855_thumb.jpeg"
@@ -43,9 +43,8 @@ circumstances: >
     hanging. He and three other people were executed in the Central Prison of
     Orumieh on Monday April 23, 2018. Mr. Mohammad Hasan s memorial service
     was held in Hazrat e Abubakr e Seddiq Mosque in AmirAbad.
-event_context: null
-responsible_forces: null
-
+event_context: "2013 murder case"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

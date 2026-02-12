@@ -1,12 +1,20 @@
 id: rezai-ali-reza-2015
 name_latin: "Ali Reza Reza'i"
 name_farsi: "علیرضا رضایی"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1991-01-01"
+place_of_birth: "Tehran"
+gender: male
+ethnicity: "Afghan"
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/76005_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "sound recordist and director's assistant"
+education: "primary education"
+family:
+  marital_status: "single"
+  children: 0
+  notes: "lost his mother in 2008; father was a well-known metalsmith in Afghanistan"
 
 # --- DEATH ---
 date_of_death: 2015-09-20
@@ -85,9 +93,8 @@ circumstances: >
     minutes of fist punches and kicks; one such kick to Reza i s chest would
     prove life-threatening. The severity of beating was such that Mr. Reza i
     passed out and laid on the ground wit
-event_context: null
-responsible_forces: null
-
+event_context: "arrested on September 20, 2015 while crossing the Turkish border illegally"
+responsible_forces: "border patrol agents"
 # --- VERIFICATION ---
 status: unverified
 sources:

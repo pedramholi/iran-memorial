@@ -3,7 +3,7 @@ name_latin: "S. P."
 name_farsi: "ص. پ."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -41,8 +41,7 @@ circumstances: >
     death and the ruling was confirmed by the General Public Prosecutor s
     Office. He was hanged in Arak Central Prison on December 13, 2011.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

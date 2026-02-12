@@ -3,10 +3,17 @@ name_latin: "Reza Khanian"
 name_farsi: "رضا خانیان"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "fruit and vegetable center clerk"
+family:
+  notes: "father-in-law's residence mentioned in relation to the case."
+quotes:
+  - "Mr. Reza Khanian, fruit and vegetable center clerk, 74 lashes for committing robbery ; 50 lashes for participation in a forbidden act , amputation of hand for committing assault and battery and hanging by scaffold."
 
 # --- DEATH ---
 date_of_death: 1990-02-15
@@ -47,8 +54,7 @@ circumstances: >
     morning of February 15th, the defendant received 124 lashes first, he then
     had his hand amputated and was hanged in a public square.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

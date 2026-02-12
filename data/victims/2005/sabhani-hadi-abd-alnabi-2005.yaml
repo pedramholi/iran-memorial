@@ -2,9 +2,9 @@ id: sabhani-hadi-abd-alnabi-2005
 name_latin: "Hadi Abd Alnabi (Sabhani)"
 name_farsi: "هادی عبدالنبی (سبهانی)"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Khuzestan"
+gender: male
+ethnicity: "Arab"
 religion: "Islam"
 photo: null
 
@@ -86,9 +86,8 @@ circumstances: >
     provinces. The largest number of Arabs reside in the Southern and Western
     regions of Khuzestan. Although Khuzestan is a very rich province due to
     oil reserves and fertile
-event_context: null
-responsible_forces: null
-
+event_context: "2005 Khuzestan protests"
+responsible_forces: "security and police forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,16 @@
 id: qasem-2007
 name_latin: "Qasem"
 name_farsi: "قاسم"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1983-01-01"
+place_of_birth: "Kohnuj"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "narcotics transporter"
+family:
 
 # --- DEATH ---
 date_of_death: 2007-06-13
@@ -45,9 +49,8 @@ circumstances: >
     confiscation of his belongings and the ruling was confirmed by the Supreme
     Court. Mr. Qasem was hanged in Bandar Abbas prison on June 13, 2007. He
     was 24 years old.
-event_context: null
-responsible_forces: null
-
+event_context: "2007 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

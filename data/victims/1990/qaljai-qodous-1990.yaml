@@ -3,7 +3,7 @@ name_latin: "Qodous Qalja'i"
 name_farsi: "قدوس قلجایی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -47,8 +47,7 @@ circumstances: >
     further information is available on the verdict and the execution that
     took place in Zahedan.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -2,9 +2,9 @@ id: hazbeh-ali-2005
 name_latin: "Ali Hazbeh"
 name_farsi: "علی حزبه"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Khuzestan"
+gender: male
+ethnicity: "Arab"
 religion: "Islam"
 photo: null
 
@@ -85,9 +85,8 @@ circumstances: >
     population, reside in Khuzestan, Bushehr, Hormozgan, Fars, and Khorasan
     provinces. The largest number of Arabs reside in the Southern and Western
     regions of Khuzestan. Although Khuzestan is a very ric
-event_context: null
-responsible_forces: null
-
+event_context: "protests in Khuzestan, April 2005"
+responsible_forces: "security and police forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

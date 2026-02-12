@@ -3,10 +3,14 @@ name_latin: "Unknown"
 name_farsi: "ناشناس"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "trials before Islamic revolutionary Courts have usually taken place in secret, sometimes inside prisons, that defendants have not usually enjoyed the right to be represented by a lawyer, and often have not even been made aware that the proceedings were in fact a trial and not an interrogation session."
 
 # --- DEATH ---
 date_of_death: 1990-01-16
@@ -47,8 +51,7 @@ circumstances: >
     cause grievous pain leading to eventual death. The exact date of this
     execution is not known.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal of Bandar Anzali"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,10 +3,13 @@ name_latin: "Qaderi Moradi"
 name_farsi: "قادری مرادی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of PDKI"
 
 # --- DEATH ---
 date_of_death: 1994-01-01
@@ -33,8 +36,7 @@ circumstances: >
     available on Mr. Moradi's defense. Judgment Mr. Moradi was sentenced to
     death; the exact date of his execution, however, is not known.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Iranian authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

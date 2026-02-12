@@ -1,12 +1,22 @@
 id: baluchi-said-2015
 name_latin: "Sa'id Baluchi"
 name_farsi: "سعید بلوچی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1965-01-01"
+place_of_birth: "Koldar Village, Hormozgan Province"
+gender: male
 ethnicity: null
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/73925_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "transporting goods"
+education: "elementary education"
+family:
+  marital_status: "married"
+  children: 5
+quotes:
+  - "I was tortured in solitary confinement to confess that all the narcotics seized in the past eight months belonged to me."
+  - "The validity of the criminal charges brought against this defendant cannot be ascertained in the absence of the basic guarantees of a fair trial."
 
 # --- DEATH ---
 date_of_death: 2015-03-07
@@ -85,9 +95,8 @@ circumstances: >
     they were trumped-up. According to people close to him, when tortured in
     solitary confinement, agents forced Mr. Baluchi to put his fingerprint on
     papers the content of which he didn t know. (ABC interview) Acco
-event_context: null
-responsible_forces: null
-
+event_context: "arrest on September 28, 2012"
+responsible_forces: "Public Prosecutor's Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

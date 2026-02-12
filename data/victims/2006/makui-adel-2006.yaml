@@ -2,9 +2,9 @@ id: makui-adel-2006
 name_latin: "Adel Maku’i"
 name_farsi: "عادل ماکویی"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Jangah village, Maku"
+gender: male
+ethnicity: "Kurdish"
 religion: "Presumed Muslim"
 photo: null
 
@@ -85,9 +85,8 @@ circumstances: >
     order and security during illegal armed demonstrations, riots and armed
     rebellions. Such forces are required to act immediately upon orders of the
     commander to restore order, d
-event_context: null
-responsible_forces: null
-
+event_context: "February 2006 protests"
+responsible_forces: "security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,16 @@
 id: mahmudi-mohammad-ali-2013
 name_latin: "Mohammad Ali Mahmudi"
 name_farsi: "محمد‌علی محمودی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1958-01-01"
+place_of_birth: "Tabriz"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/85239_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "responsible for maintaining machinery"
+family:
 
 # --- DEATH ---
 date_of_death: 2013-09-01
@@ -86,8 +90,7 @@ circumstances: >
     under the protection of U.S. forces. Several intelligence services,
     including the FBI, went to the Ashraf Base on behalf of t
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

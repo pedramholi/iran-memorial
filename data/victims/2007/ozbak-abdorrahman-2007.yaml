@@ -2,8 +2,8 @@ id: ozbak-abdorrahman-2007
 name_latin: "Abdorrahman Ozbak"
 name_farsi: "عبدالرحمان ازبک"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Afghanistan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -48,9 +48,8 @@ circumstances: >
     court condemned Mr. Abdorrahman Ozbak to death and the ruling was
     confirmed by the supreme judiciary officials. He was hanged in Varmin
     Prison on March 2, 2007.
-event_context: null
-responsible_forces: null
-
+event_context: "2007 execution"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

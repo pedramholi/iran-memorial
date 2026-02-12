@@ -1,12 +1,15 @@
 id: amiri-mojtaba-2004
 name_latin: "Mojtaba Amiri"
 name_farsi: "مجتبى امیری"
-date_of_birth: null
+date_of_birth: "1987-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
 
 # --- DEATH ---
 date_of_death: 2004-10-13
@@ -62,9 +65,8 @@ circumstances: >
     condemned these two defendants to death and the Supreme Court confirmed
     the ruling. They were hanged in public in Sharifabad Square in Shiraz on
     October 13, 2004.
-event_context: null
-responsible_forces: null
-
+event_context: "2004"
+responsible_forces: "Shiraz police"
 # --- VERIFICATION ---
 status: unverified
 sources:

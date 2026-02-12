@@ -3,7 +3,7 @@ name_latin: "Azizollah Gholami Nasab"
 name_farsi: "عزیز الله غلامی نسب"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -37,8 +37,7 @@ circumstances: >
     to death and he was hanged in Ilam prison yard in the presence of the
     victim’s family and the judicial officials.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

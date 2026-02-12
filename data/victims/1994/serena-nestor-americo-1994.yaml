@@ -2,11 +2,18 @@ id: serena-nestor-americo-1994
 name_latin: "Nestor Americo Serena"
 name_farsi: "نستور آمریکو سرنا"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Buenos Aires, Argentina"
+gender: male
 ethnicity: null
 religion: "Judaism"
 photo: "https://www.iranrights.org/actorphotos/11962_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "mechanical engineer"
+family:
+  marital_status: "married"
+  notes: "several children"
+personality: "always had defined goals in life, and he wanted to set up his own company"
 
 # --- DEATH ---
 date_of_death: 1994-07-18
@@ -86,9 +93,8 @@ circumstances: >
     diplomats in Buenos Aires actively assisted Hezbollah. Mohsen Rabbani, who
     was in charge of the operation, was Iran’s newly appointed cultural
     attaché at th
-event_context: null
-responsible_forces: null
-
+event_context: "AMIA bombing"
+responsible_forces: "Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

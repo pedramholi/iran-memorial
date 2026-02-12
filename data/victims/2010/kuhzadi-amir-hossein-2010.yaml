@@ -1,12 +1,18 @@
 id: kuhzadi-amir-hossein-2010
 name_latin: "Amir Hossein Kuhzadi"
 name_farsi: "امیر حسین کوهزادی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1986-01-01"
+place_of_birth: "Tehran"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/64553_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "conscripted soldier"
+education: "high school graduate"
+family:
+  marital_status: "single"
 
 # --- DEATH ---
 date_of_death: 2010-05-26
@@ -41,9 +47,8 @@ circumstances: >
     of forks and spoons fell on the camera cables.
     ________________________________________________________________________ *
     The electronic form is the only source of information about this case.
-event_context: null
-responsible_forces: null
-
+event_context: "arrested on May 25, 2010 and murdered on May 26, 2010"
+responsible_forces: "Islamic Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Ezatollah Badali"
 name_farsi: "عزت‌الله بدلی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -43,9 +43,8 @@ circumstances: >
     Judgment Branch 22 of the Orumieh Court condemned Mr. Ezatollah Badali to
     death. The Supreme Court confirmed the ruling and he was hanged, along
     with two others, at the Orumieh Central Prison yard in 2000.
-event_context: null
-responsible_forces: null
-
+event_context: "2000"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

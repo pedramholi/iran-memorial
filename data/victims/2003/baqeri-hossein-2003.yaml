@@ -3,7 +3,7 @@ name_latin: "Hossein Baqeri"
 name_farsi: "حسین باقری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -28,9 +28,8 @@ circumstances: >
     Baqeri s defense. Judgment The Criminal Court of Tehran condemned Mr.
     Hossein Baqeri to death and the Supreme Court confirmed the ruling. He was
     hanged at the Qasr Prison in Tehran on July 16, 2003.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on July 16, 2003"
+responsible_forces: "Criminal Court of Tehran"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,23 @@
 id: dehvari-ali-2008
 name_latin: "Ali Dehvari"
 name_farsi: "علی دهواری"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1960-03-25"
+place_of_birth: "Aspich village, Sistan Baluchestan province"
+gender: male
+ethnicity: "Baluch"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/85342_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "Islamic scholar"
+education: "bachelor's degree in Hadith Science and Islamic Studies"
+family:
+  children: 1
+  notes: "son of Mohammad Nur and Fatemeh"
+beliefs: "adhered to the ideology of Salafism"
+quotes:
+  - "The distinction between my father and other Sunnis of Sistan and Baluchestan lay in his divergence from Hanafi ideology and jurisprudence. He emphasized that we do not adhere to the principle of imitation (Taqlid) in jurisprudence."
+  - "I do not criticize Shia beliefs, although I do not personally accept them. Similarly, I expect Shia scholars not to misrepresent Sunni beliefs in Shia pulpits and on television."
 
 # --- DEATH ---
 date_of_death: 2008-11-10

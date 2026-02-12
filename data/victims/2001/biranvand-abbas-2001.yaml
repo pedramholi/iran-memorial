@@ -2,8 +2,8 @@ id: biranvand-abbas-2001
 name_latin: "Abbas Biranvand"
 name_farsi: "عباس بیرانوند"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Khorramabad"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -35,9 +35,8 @@ circumstances: >
     Corruption on Earth by committing several armed robberies. The Supreme
     Court confirmed the ruling on July 21, 2001. He was hanged in public in
     Semnan on August 16, 2001.
-event_context: null
-responsible_forces: null
-
+event_context: "armed robbery"
+responsible_forces: "Intelligence Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

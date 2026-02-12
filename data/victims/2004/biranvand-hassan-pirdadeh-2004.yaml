@@ -1,12 +1,20 @@
 id: biranvand-hassan-pirdadeh-2004
 name_latin: "Hassan Pirdadeh Biranvand"
 name_farsi: "حسن پیرداده بیرانوند"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1974-01-01"
+place_of_birth: "Khoramabad"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "butcher"
+education: "middle school"
+family:
+  marital_status: "single"
+quotes:
+  - "he was innocent"
 
 # --- DEATH ---
 date_of_death: 2004-05-02
@@ -42,9 +50,8 @@ circumstances: >
     (Kourosh street) in Khoramabad. (e-form June 6, 2012, September 23, 2012,
     October 11, 2016). He was buried in the Salehin cemetery in Khoramabad
     (e-form June 22, 2015).
-event_context: null
-responsible_forces: null
-
+event_context: "execution on May 02, 2004"
+responsible_forces: "Kayhan"
 # --- VERIFICATION ---
 status: unverified
 sources:

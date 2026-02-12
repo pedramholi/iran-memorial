@@ -2,8 +2,8 @@ id: mazaheri-qader-2016
 name_latin: "Qader Mazaheri"
 name_farsi: "قادر مظاهری"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Azarshahr, Azarbaijan e Sharqi Province"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -43,9 +43,8 @@ circumstances: >
     Mr. Mazaheri s defense. Judgment The court sentenced Mr. Mazaheri to death
     by hanging. He was executed at the Tabriz Central Prison, on Monday, April
     11, 2016.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on April 11, 2016"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

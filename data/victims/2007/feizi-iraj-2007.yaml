@@ -3,10 +3,14 @@ name_latin: "Iraj Feizi"
 name_farsi: "ایرج فیضی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "the defendant murdered a young man with a knife blow to his heart in public in 2006."
 
 # --- DEATH ---
 date_of_death: 2007-10-25
@@ -34,9 +38,8 @@ circumstances: >
     information is available on Mr. Feizi’s defense. Judgment The court
     condemned Mr. Iraj Feizi to death and the Supreme Court confirmed the
     ruling. He was hanged in the central prison of Ilam on October 25, 2007.
-event_context: null
-responsible_forces: null
-
+event_context: "2006"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

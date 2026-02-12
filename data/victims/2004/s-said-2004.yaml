@@ -3,7 +3,7 @@ name_latin: "Sa'id S."
 name_farsi: "سعید س."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -40,8 +40,7 @@ circumstances: >
     and the Supreme Court confirmed the ruling. He was executed at the Ahvaz
     Prison yard on March 15, 2004 at 7 a.m.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Intelligence Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

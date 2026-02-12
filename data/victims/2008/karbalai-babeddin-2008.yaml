@@ -3,8 +3,8 @@ name_latin: "Babeddin Karbalai'"
 name_farsi: "باب‌الدین کربلایی"
 date_of_birth: null
 place_of_birth: null
-gender: null
-ethnicity: null
+gender: male
+ethnicity: "Baluchi"
 religion: "Presumed Muslim"
 photo: null
 
@@ -47,9 +47,8 @@ circumstances: >
     Babeddin Karbalai' to death. The verdict was validated by high-echelon
     judiciary authorities. Mr. Karbalai' was hanged, along with another
     individual, in the courtyard of Zahedan Prison on January 2, 2008.
-event_context: null
-responsible_forces: null
-
+event_context: "2008 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

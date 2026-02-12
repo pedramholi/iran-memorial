@@ -1,12 +1,22 @@
 id: moayedi-omid-2022
 name_latin: "Omid Mo'ayedi"
 name_farsi: "امید مؤیدی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "2002-05-22"
+place_of_birth: "Shiraz"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/85883_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "student"
+education: "degree in physical education"
+family:
+  notes: "son of Hamid and Farzaneh, had a brother named Navid"
+personality: "described as a polite and decent young man"
+beliefs: "critical of the political and social situation in Iran"
+quotes:
+  - "polite and decent"
 
 # --- DEATH ---
 date_of_death: 2022-11-15
@@ -85,9 +95,8 @@ circumstances: >
     children. The number of arrests (including of wounded protesters) was
     estimated at a minimum at 22,000 , of whom 766 had already been tried and
     convicted. More than 100 protesters were a
-event_context: null
-responsible_forces: null
-
+event_context: "November 2019 protests, nationwide protests sparked by the death of Mahsa Amini"
+responsible_forces: "security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

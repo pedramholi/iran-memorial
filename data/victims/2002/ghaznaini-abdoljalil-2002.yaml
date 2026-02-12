@@ -1,12 +1,19 @@
 id: ghaznaini-abdoljalil-2002
 name_latin: "Abdoljalil Ghaznaini"
 name_farsi: "عبدالجلیل غزنینی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1970-01-01"
+place_of_birth: "Birjand"
+gender: male
 ethnicity: null
 religion: "Islam (Sunni)"
 photo: null
+
+# --- LIFE ---
+occupation: "wholesaler merchant"
+education: "highschool diploma"
+family:
+  marital_status: "married"
+  children: 3
 
 # --- DEATH ---
 date_of_death: 2002-03-11
@@ -43,9 +50,8 @@ circumstances: >
     executed, along with two others, at the police station in Torbat-e Jam,
     Khorasan, on March 11, 2002, only about 6 months after his arrest. His
     body was not released to his family. (e-form 12/19/2019)
-event_context: null
-responsible_forces: null
-
+event_context: "execution on March 11, 2002"
+responsible_forces: "Islamic Revolutionary Court of Mashhad"
 # --- VERIFICATION ---
 status: unverified
 sources:

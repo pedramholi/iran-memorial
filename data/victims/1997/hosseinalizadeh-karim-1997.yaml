@@ -3,10 +3,13 @@ name_latin: "Karim Hosseinalizadeh"
 name_farsi: "کریم حسینعلی زاده"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "professional thief"
 
 # --- DEATH ---
 date_of_death: 1997-08-07
@@ -60,8 +63,7 @@ circumstances: >
     was hanged in the presence of plaintiffs and craftsmen in Evin prison on
     August 7, 1997.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Courts"
 # --- VERIFICATION ---
 status: unverified
 sources:

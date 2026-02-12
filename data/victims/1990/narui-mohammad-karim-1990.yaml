@@ -3,10 +3,15 @@ name_latin: "Mohammad Karim Naru'i"
 name_farsi: "محمدکریم ناروئی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "Head Postmaster"
+family:
+  notes: "brother of an opponent of the regime"
 
 # --- DEATH ---
 date_of_death: 1990-01-28
@@ -37,7 +42,7 @@ circumstances: >
     defendant. Defense No information is available on Mr. Naru'i's defense.
     Judgment Mr. Naru'i was sentenced to death in Zahedan and executed the day
     after his sentence was issued.
-event_context: null
+event_context: "execution in November 1990"
 responsible_forces: null
 
 # --- VERIFICATION ---

@@ -1,12 +1,22 @@
 id: khani-molan-abdollah-1997
 name_latin: "Molan Abdollah Khani"
 name_farsi: "مولان عبدالله‌ خانی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1949-01-01"
+place_of_birth: "Sardasht, Kurdistan Province, Iran"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/84671_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "driver"
+education: "elementary school"
+family:
+  marital_status: "single"
+  children: 0
+  notes: "had 4 brothers and 2 sisters"
+personality: "intelligent, very active, honest, self-made, and very meticulous"
+beliefs: "member of the Democratic Party of Kurdistan of Iran"
 
 # --- DEATH ---
 date_of_death: 1997-06-03
@@ -85,9 +95,8 @@ circumstances: >
     Khani to the police of Sulaymaniyah and to Asayesh, the Security
     Organization of Kurdistan, in Iraq. There has not yet been any legal
     investigation of this killing (Center Interview, November 16, 2021). Fa
-event_context: null
-responsible_forces: null
-
+event_context: "killed on June 3, 1997 while driving from Sulaymaniyah to the headquarters of the Democratic Party in Koy-Sanjaqk"
+responsible_forces: "armed men"
 # --- VERIFICATION ---
 status: unverified
 sources:

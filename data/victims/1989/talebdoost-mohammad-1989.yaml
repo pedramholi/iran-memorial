@@ -2,11 +2,17 @@ id: talebdoost-mohammad-1989
 name_latin: "Mohammad Talebdoost"
 name_farsi: "محمد طالب‌دوست"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Ghazian area of Bandar e Anzali, Gilan Province"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/85302_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  notes: "His father was a sailor and he had grown up in a middle-class family."
+personality: "described as patient"
+beliefs: "member of The Organization of Pioneer Warriors of Mostaz afin of Iran (Cause of the Oppressed)"
 
 # --- DEATH ---
 date_of_death: 1989-01-01
@@ -86,8 +92,7 @@ circumstances: >
     up for them to join the MKO in Iraq. Available investigations and research
     shows that Mr. Talebdoost and many others that were kidnapp
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Ministry of Information"
 # --- VERIFICATION ---
 status: unverified
 sources:

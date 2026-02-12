@@ -1,12 +1,19 @@
 id: rasuli-hossein-mum-2013
 name_latin: "Hossein Mum Rasuli"
 name_farsi: "حسین مام‌رسولی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1964-01-01"
+place_of_birth: "Naqadeh"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/85240_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "member of the Mojahedin Khalq Organization"
+family:
+  notes: "His brother was killed during an altercation in Qalatan village in 1981."
+quotes:
+  - "In 1979, during the presidential elections, I started to sell publications through the Urumiyeh Movahhed Association. In September 1981, I left the town and went to (join) the friends (Mojahedin) in the liberated area (Kurdistan)."
 
 # --- DEATH ---
 date_of_death: 2013-09-01
@@ -87,8 +94,7 @@ circumstances: >
     2003, inflicting casualties, property, and financial damage. After the
     International Security Assi
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

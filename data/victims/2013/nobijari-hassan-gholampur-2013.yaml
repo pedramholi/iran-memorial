@@ -1,12 +1,16 @@
 id: nobijari-hassan-gholampur-2013
 name_latin: "Hassan Gholampur Nobijari"
 name_farsi: "حسن غلام‌پور نوبیجاری"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1959-01-01"
+place_of_birth: "Lahijan"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/85228_thumb.jpeg"
+
+# --- LIFE ---
+education: "high school diploma"
+family:
 
 # --- DEATH ---
 date_of_death: 2013-09-01
@@ -87,8 +91,7 @@ circumstances: >
     disarming of the Mojahedin members, the residents of the Ashraf Base came
     under the
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,20 @@
 id: javanmardi-anvar-2001
 name_latin: "Anvar Javanmardi"
 name_farsi: "انور جوانمردی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1995-01-01"
+place_of_birth: "Saqez"
+gender: male
 ethnicity: null
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/79769_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "worked in an electrical appliance shop"
+education: "high school diploma"
+family:
+  notes: "second child of the family, had two sisters and two brothers"
+quotes:
+  - "Here in this prison we are ten times more the prisoners of the inmates than the regime."
 
 # --- DEATH ---
 date_of_death: 2001-06-20
@@ -85,9 +93,8 @@ circumstances: >
     Trial Mr. Javanmardi s case was open in the jurisdiction of the Branch Two
     Revolutionary Court of Urmia. According to his sister, the family never
     received a verdict. Mr. Javanmardi had been as
-event_context: null
-responsible_forces: null
-
+event_context: "1995 protests"
+responsible_forces: "Ministry of Information"
 # --- VERIFICATION ---
 status: unverified
 sources:

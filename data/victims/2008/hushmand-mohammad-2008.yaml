@@ -3,10 +3,14 @@ name_latin: "Mohammad Hushmand"
 name_farsi: "محمد هوشمند"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "In his defense, Mr. Hushmand stated that his main motive was robbery and he only murdered the victim so as not to be identified by him."
 
 # --- DEATH ---
 date_of_death: 2008-04-23
@@ -39,9 +43,8 @@ circumstances: >
     Tehran condemned Mr. Mohammad Hushmand to death. Branch 42 of the Supreme
     Court confirmed the ruling. He was hanged, along with four others, at the
     Evin Prison yard in Tehran on April 23, 2008.
-event_context: null
-responsible_forces: null
-
+event_context: "2008 execution"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

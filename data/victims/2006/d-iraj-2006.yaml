@@ -3,7 +3,7 @@ name_latin: "Iraj D."
 name_farsi: "ایرج د."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -42,8 +42,7 @@ circumstances: >
     to death. The verdict was validated by Branch 39 of the Supreme Court. Mr.
     Iraj D. was publicly hanged in Shushtar Counnty on March 6, 2005.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

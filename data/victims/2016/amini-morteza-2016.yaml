@@ -1,9 +1,9 @@
 id: amini-morteza-2016
 name_latin: "Morteza Amini"
 name_farsi: "مرتضی امینی"
-date_of_birth: null
+date_of_birth: "1991-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -43,8 +43,7 @@ circumstances: >
     executed with one other person, in Karaj Central Prison, on Thursday,
     October 20, 2016.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

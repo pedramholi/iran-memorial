@@ -2,11 +2,15 @@ id: fathi-ebadollah-1989
 name_latin: "Ebadollah Fat'hi"
 name_farsi: "عبادالله فتحی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Rasht"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/64826_thumb.jpeg"
+
+# --- LIFE ---
+family:
+beliefs: "member of the Mojahedin Khalq Organization (MKO)"
 
 # --- DEATH ---
 date_of_death: 1989-12-10
@@ -85,9 +89,8 @@ circumstances: >
     was allowed to visit his family in December of 1989. The visit was
     conducted from a distance and over a screen, but his family were allowed
     to bring some food and fruits for him and pass it on through
-event_context: null
-responsible_forces: null
-
+event_context: "1988-89 mass execution of political prisoners"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

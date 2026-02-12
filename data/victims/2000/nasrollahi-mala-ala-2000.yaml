@@ -3,10 +3,19 @@ name_latin: "Mala' (Ala') Nasrollahi"
 name_farsi: "ملاء (علاء) نصر اللهی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  children: 0
+  notes: "father of a seventeen-year-old daughter"
+quotes:
+  - "I accept the charge of murdering my wife."
+  - "We were relatives. My wife and her cousin would go out without my permission. On the day of the incident, I followed my wife and entered the doctor s office around 3:00 p.m. At that time, I became angry and stabbed her and myself. Then, I left the office. I intended to kill her cousin, too, but I changed my mind. I was always following my wife, thinking that she might cheat on me. Sometimes I took pictures of her in the streets."
 
 # --- DEATH ---
 date_of_death: 2000-06-14

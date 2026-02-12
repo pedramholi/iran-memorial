@@ -1,12 +1,17 @@
 id: mahmudzadeh-salar-2015
 name_latin: "Salar Mahmudzadeh"
 name_farsi: "سالار محمودزاده"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1988-06-29"
+place_of_birth: "Shahr-e Rey, Tehran"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "worked in the private sector"
+family:
+  marital_status: "married"
 
 # --- DEATH ---
 date_of_death: 2015-06-10
@@ -76,9 +81,8 @@ circumstances: >
     Right Organization). During their last visitation, Mr. Mahmudzadeh s
     family was under the impression that he was going to be transferred to
     another prison. (Electronic form).
-event_context: null
-responsible_forces: null
-
+event_context: "drug related crimes committed in Shahr-e Rey in 2014-15"
+responsible_forces: "Narcotics Administration"
 # --- VERIFICATION ---
 status: unverified
 sources:

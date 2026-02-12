@@ -3,7 +3,7 @@ name_latin: "Qasem Ayashi"
 name_farsi: "قاسم عیاشی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -44,9 +44,8 @@ circumstances: >
     No information is available on Mr. Ayashi’s defense. Judgment The court
     condemned Mr. Qasem Ayashi to death and he was hanged in Shiraz on March
     1, 1989.
-event_context: null
-responsible_forces: null
-
+event_context: "1989 law imposing mandatory death sentences on drug traffickers"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

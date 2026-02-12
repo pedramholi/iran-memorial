@@ -1,12 +1,21 @@
 id: karimi-shahab-2015
 name_latin: "Shahab Karimi"
 name_farsi: "شهاب کریمی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1988-07-19"
+place_of_birth: "Arak"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/76180_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "auto mechanic"
+education: "fifth grade"
+family:
+  marital_status: "married"
+  notes: "had a prior record of hospitalization at Razi (Aminabad) Mental Institution"
+quotes:
+  - "I was a simple worker and had only worked for three months at the drugs production shop, and that the drugs produced did not belong to me."
 
 # --- DEATH ---
 date_of_death: 2015-04-13
@@ -85,9 +94,8 @@ circumstances: >
     2, Row 17. (Boroumand Foundation research). Mr. Karimi had an in person
     visitation with his wife two days prior to the implementation of the
     sentence. He visited with the rest of
-event_context: null
-responsible_forces: null
-
+event_context: "collective case of drug production and distribution"
+responsible_forces: "Information Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

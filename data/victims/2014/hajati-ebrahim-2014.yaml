@@ -1,12 +1,17 @@
 id: hajati-ebrahim-2014
 name_latin: "Ebrahim Hajati"
 name_farsi: "ابراهیم حاجتی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1994-01-01"
+place_of_birth: "Bardskan Village, Khorasan Razavi Province"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/74644_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "high school student"
+family:
+  marital_status: "single"
 
 # --- DEATH ---
 date_of_death: 2014-04-20
@@ -85,9 +90,8 @@ circumstances: >
     with Qesas for criminals under the age of 18. Although the new Code
     provides that, if the individual under the age of 18 is not aware of the
     nature of the crime, and there is dou
-event_context: null
-responsible_forces: null
-
+event_context: "2010 murder case"
+responsible_forces: "Iranian authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

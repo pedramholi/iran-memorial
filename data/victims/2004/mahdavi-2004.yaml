@@ -3,10 +3,13 @@ name_latin: "Mahdavi"
 name_farsi: "مهدوی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "worker"
 
 # --- DEATH ---
 date_of_death: 2004-01-24
@@ -86,9 +89,8 @@ circumstances: >
     proven ineffective. b) There must be a final warning to the rioters and
     insurgents before the use of firearms. Note 1: The determination of riots
     under Articl
-event_context: null
-responsible_forces: null
-
+event_context: "protests against mass layoffs and unstable working conditions"
+responsible_forces: "military forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

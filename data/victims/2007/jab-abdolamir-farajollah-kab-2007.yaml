@@ -1,12 +1,17 @@
 id: jab-abdolamir-farajollah-kab-2007
 name_latin: "Abdolamir Farajollah Ka’b (Ja’b)"
 name_farsi: "عبدالامیر فرج‌الله کعب (چعب)"
-date_of_birth: null
+date_of_birth: "1977-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/72493_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "anthropology student"
+family:
+  marital_status: "single"
 
 # --- DEATH ---
 date_of_death: 2007-01-24
@@ -85,7 +90,7 @@ circumstances: >
     statement, then-President Mahmud Ahmadinejad spoke of the clear and
     obvious footprint of Iraq s occupiers in the Khuzestan incidents. (ISNA,
     January 25, 2006). The British government officially
-event_context: null
+event_context: "2005-2006 unrest and bombings"
 responsible_forces: null
 
 # --- VERIFICATION ---

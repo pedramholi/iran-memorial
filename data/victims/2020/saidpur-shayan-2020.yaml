@@ -1,12 +1,17 @@
 id: saidpur-shayan-2020
 name_latin: "Shayan Sa'idpur"
 name_farsi: "شایان سعید‌پور"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1997-09-21"
+place_of_birth: "Saqqez, Kurdistan Province"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/83770_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "athlete"
+family:
+  notes: "Accompanied by his father when he turned himself into police."
 
 # --- DEATH ---
 date_of_death: 2020-04-21
@@ -85,7 +90,7 @@ circumstances: >
     minor was affirmed in reports that quoted another informed source (HRANA
     12/6/2018). Under Article 91 of the Islamic Penal code, in force since
     2013, judges can spare minor defendants who wo
-event_context: null
+event_context: "August 16, 2015 street fight"
 responsible_forces: null
 
 # --- VERIFICATION ---

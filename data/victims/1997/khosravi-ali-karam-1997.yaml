@@ -3,7 +3,7 @@ name_latin: "Ali Karam Khosravi"
 name_farsi: "علی کرم خسروی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -37,8 +37,7 @@ circumstances: >
     Judgment The court condemned Mr. Ali Karam Khosravi to death and, after
     the ruling was confirmed by the Supreme Court, he was hanged in public.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,17 @@
 id: dakhel-masud-dalili-2013
 name_latin: "Mas'ud Dalili Dakhel"
 name_farsi: "مسعود دلیلی داخل"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1961-01-01"
+place_of_birth: "Dakhel, near Astaneh Ashrafieh, Gilan"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/84684_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "bodyguard"
+family:
+  notes: "father of a 50 year old and a 17 year old brother who were killed"
 
 # --- DEATH ---
 date_of_death: 2013-09-01
@@ -85,9 +90,8 @@ circumstances: >
     after he requested asylum. Background In 1986, the Mojahedin Khalq
     Organization of Iran s leadership, members, and supporters went to Iraq
     after they were expelled from France, and settled
-event_context: null
-responsible_forces: null
-
+event_context: "1984 Iran-Iraq War"
+responsible_forces: "Islamic Revolutionary Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

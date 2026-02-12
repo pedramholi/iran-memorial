@@ -2,11 +2,20 @@ id: nokohchi-mohammad-yusef-sohrabi-2008
 name_latin: "Mohammad Yusef Sohrabi (Nokohchi)"
 name_farsi: "محمد یوسف سهرابی (نکهچی)"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Matteh Sang, Sistan and Baluchestan Province"
+gender: male
+ethnicity: "Baluch"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/42759_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "teacher"
+education: "graduated from Manba-ol-olum Kuh Van seminary"
+family:
+  marital_status: "married"
+  children: 4
+personality: "dignified and quiet man"
+beliefs: "follower of the Naghshbandi order"
 
 # --- DEATH ---
 date_of_death: 2008-04-09
@@ -87,8 +96,7 @@ circumstances: >
     hands; they had forcibly placed us on the floor of the back seat where
     peopl
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Iranshahr Information Administration"
 # --- VERIFICATION ---
 status: unverified
 sources:

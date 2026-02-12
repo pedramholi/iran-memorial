@@ -3,7 +3,7 @@ name_latin: "Shahdust Miran Qanbarzehi"
 name_farsi: "شهدوست میران قنبرزهی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -45,8 +45,7 @@ circumstances: >
     Court. He was executed on July 8, 2000. No specific information is
     available about the location of this execution.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,19 @@
 id: shemirani-ali-ali-mojahed-2016
 name_latin: "Ali (Ali Mojahed) Shemirani"
 name_farsi: "علی (علی مجاهد) شمیرانی"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1979-01-01"
+place_of_birth: "Halabcheh, Kuku-ye Shahmiraneh, Iraqi Kurdistan"
+gender: male
+ethnicity: "Kurd"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/76110_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "public relations officer, editor-in-chief"
+family:
+  marital_status: "married"
+  children: 2
+beliefs: "member of the Islamist party Kataeb Navadegan Salahuddin Ayyubi"
 
 # --- DEATH ---
 date_of_death: 2016-08-02
@@ -87,8 +94,7 @@ circumstances: >
     also accused certain individuals of murder, who had been arrested after
     these a
 event_context: null
-responsible_forces: null
-
+responsible_forces: "IRGC"
 # --- VERIFICATION ---
 status: unverified
 sources:

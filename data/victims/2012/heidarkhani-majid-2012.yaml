@@ -2,11 +2,17 @@ id: heidarkhani-majid-2012
 name_latin: "Majid Heidarkhani"
 name_farsi: "مجید حیدرخانی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Tasuj, Kovar County, Fars Province"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+education: "high school diploma"
+family:
+  marital_status: "married"
+  children: 1
 
 # --- DEATH ---
 date_of_death: 2012-05-06
@@ -59,9 +65,8 @@ circumstances: >
     along with eight others on May 6, 2012. His belongings were confiscated by
     the decree of the court. Mr. Heidarkhani s body is buried in section 202
     of Behesht-e Zahra cemetery in Tehran (ABC e-form).
-event_context: null
-responsible_forces: null
-
+event_context: "drug trafficking"
+responsible_forces: "Revolutionary Court of Tehran"
 # --- VERIFICATION ---
 status: unverified
 sources:

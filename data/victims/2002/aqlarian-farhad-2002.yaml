@@ -3,7 +3,7 @@ name_latin: "Farhad Aqlarian"
 name_farsi: "فرهاد آق لریان"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -86,8 +86,7 @@ circumstances: >
     of the judge, they could call their families on the phone. Many police
     officers of a Special Unit were present at site in order to guara
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Tehran Judiciary"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Javad Sadeqi"
 name_farsi: "جواد صادقی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -39,8 +39,7 @@ circumstances: >
     this sentence was carried out, officials at Raja i Shahr Prison
     transferred Mr. Sadeqi to two solitary confinement cells.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

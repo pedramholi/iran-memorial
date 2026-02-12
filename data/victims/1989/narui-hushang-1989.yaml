@@ -3,7 +3,7 @@ name_latin: "Hushang Naru'i"
 name_farsi: "هوشنگ نارویی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -50,9 +50,8 @@ circumstances: >
     250 grams of heroin was discovered in the possession of the defendants.”
     Defense No information is available on Mr. Naru’i’s defense. Judgment
     Based on the court’s ruling, Mr. Hushang Naru’i was hanged in Estahbanat.
-event_context: null
-responsible_forces: null
-
+event_context: "1989"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

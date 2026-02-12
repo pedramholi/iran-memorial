@@ -3,7 +3,7 @@ name_latin: "Ehsan M."
 name_farsi: "احسان م."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -49,9 +49,8 @@ circumstances: >
     publicly hanged along with two other individuals* in the Khaju Square of
     the city of Kerman on Tuesday June 13, 2006. -------------------------
     *Mohammad Hossein S. and Alireza P.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on June 13, 2006"
+responsible_forces: "Public Court of Kerman Province"
 # --- VERIFICATION ---
 status: unverified
 sources:

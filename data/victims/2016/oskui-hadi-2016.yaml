@@ -1,9 +1,9 @@
 id: oskui-hadi-2016
 name_latin: "Hadi Osku'i"
 name_farsi: "هادی اسکویی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1985-01-01"
+place_of_birth: "Tayebad, Khorasan Province"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -41,8 +41,7 @@ circumstances: >
     Oskui was sentenced to death by hanging. He was executed on September 25,
     2016, in Tayebad Prison.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

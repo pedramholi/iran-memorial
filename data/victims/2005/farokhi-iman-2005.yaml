@@ -1,12 +1,16 @@
 id: farokhi-iman-2005
 name_latin: "Iman Farokhi"
 name_farsi: "ایمان فرخی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1984-01-01"
+place_of_birth: "Jiroft"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "noncommissioned officer"
+family:
 
 # --- DEATH ---
 date_of_death: 2005-01-19
@@ -78,9 +82,8 @@ circumstances: >
     and to receive 80 lashes for drinking alcoholic beverages. Branch Four of
     the Supreme Court confirmed the ruling. He was hanged, along with two
     others, at the Evin Prison yard in Tehran on January 19, 2005.
-event_context: null
-responsible_forces: null
-
+event_context: "2000 murder case"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

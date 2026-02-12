@@ -2,11 +2,21 @@ id: vekalat-hamed-2013
 name_latin: "Hamed Vekalat"
 name_farsi: "حامد وکالت"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Kuhban-e Zarabad, Konarak County, Sistan and Baluchistan"
+gender: male
+ethnicity: "Baluch"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/75266_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "guard at a dock construction company"
+family:
+  marital_status: "married"
+quotes:
+  - "Which of these tortures could I speak of that you d understand, that you could give form to in your mind, that wouldn t make your hair stand on end?"
+  - "For three months in the Intelligence facility I was subjected to the worst, most brutal tortures Three times they tied me down to the miracle bed. My feet were ruined. For two or three months they wouldn t fit in my slippers. I prayed sitting down."
+  - "I said I was disgusted with myself, that I d tell him anything he wanted, lies or whatever. He said No, not lies the truth."
+  - "They threw me into solitary, forcing me mentally and psychologically: for three months I was there all by myself. I said, Execution has an upside compared to all this torture you re doing. With execution, it s all over in a couple minutes. They said Aren t you afraid of execution? I said Execution has an upside: two minutes and a person is over and done with. With this stuff you guys are doing to my back and feet, my eyes are gonna burst."
 
 # --- DEATH ---
 date_of_death: 2013-10-26
@@ -85,9 +95,8 @@ circumstances: >
     of execution? I said Execution has an upside: two minutes and a person is
     over and done with. With this stuff you guys are doing to my back and
     feet, my eyes are gonna burst. I ve lost my fear of
-event_context: null
-responsible_forces: null
-
+event_context: "October 25, 2013 armed attack by Jaish ul-Adl"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

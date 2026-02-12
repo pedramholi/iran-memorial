@@ -3,10 +3,17 @@ name_latin: "Mansur Eskandari"
 name_farsi: "منصور اسکندری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/60894_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  children: 2
+  notes: "father of two small daughters"
+quotes:
+  - "I have two small daughters. I demanded the judge not to execute me for the sake of my daughters... I was the victim of the drug lords."
 
 # --- DEATH ---
 date_of_death: 2007-06-13
@@ -65,9 +72,8 @@ circumstances: >
     judge not to execute me for the sake of my daughters... I was the victim
     of the drug lords.” With a picture of his daughter in hand, he went to the
     gallows and put the rope around his neck by his own hands.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on June 13, 2007"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

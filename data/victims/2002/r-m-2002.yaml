@@ -2,8 +2,8 @@ id: r-m-2002
 name_latin: "M. R."
 name_farsi: "م. ر."
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Iranshahr"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -39,9 +39,8 @@ circumstances: >
     Revolutionary Court of Abadeh condemned Mr. M. R. to death and the Supreme
     Court confirmed the ruling. He was hanged in public at Basij Square in
     Abadeh, Fars Province on September 16, 2002.
-event_context: null
-responsible_forces: null
-
+event_context: "2002 execution"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

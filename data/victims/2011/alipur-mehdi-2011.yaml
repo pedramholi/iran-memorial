@@ -1,9 +1,9 @@
 id: alipur-mehdi-2011
 name_latin: "Mehdi Alipur"
 name_farsi: "مهدی علیپور"
-date_of_birth: null
+date_of_birth: "1989-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
@@ -38,8 +38,7 @@ circumstances: >
     was hanged at Shahrak Golestan in Shiraz on May 26, 2011. Mr. Mehdi Alipur
     was 22 years old.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "IRGC"
 # --- VERIFICATION ---
 status: unverified
 sources:

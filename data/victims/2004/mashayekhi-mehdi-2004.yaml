@@ -3,7 +3,7 @@ name_latin: "Mehdi Mashayekhi"
 name_farsi: "مهدی مشایخی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -33,7 +33,7 @@ circumstances: >
     Court confirmed the ruling. He was hanged, along with two others, in the
     presence of officials, including the judge of Sentence Enforcement, at the
     Evin Prison yard in Tehran on September 8, 2004.
-event_context: null
+event_context: "2001 murder case"
 responsible_forces: null
 
 # --- VERIFICATION ---

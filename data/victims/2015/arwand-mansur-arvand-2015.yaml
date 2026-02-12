@@ -2,11 +2,24 @@ id: arwand-mansur-arvand-2015
 name_latin: "Mansur Arvand (Arwand)"
 name_farsi: "منصور آروند"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Mahabad"
+gender: male
+ethnicity: "Kurdish"
 religion: "Non-Believer"
 photo: "https://www.iranrights.org/actorphotos/73735_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "athlete"
+education: "high school diploma"
+family:
+  marital_status: "married"
+  children: 2
+  notes: "father of two children, ages 16 and 7"
+personality: "very proud to be a Kurd"
+beliefs: "secret member of the Kurdistan Democratic Party"
+quotes:
+  - "He was upset to see young Kurds being drawn to drugs, and in order to prevent that, he had registered a large number of the city s youth at his club for free."
+  - "He was adamant about respecting women s rights and strived for equal rights for women."
 
 # --- DEATH ---
 date_of_death: 2015-05-27
@@ -86,8 +99,7 @@ circumstances: >
     agents. According to his brother, he had gone from 230 pounds to 130
     pounds and the family could not recognize him. H
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Information Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

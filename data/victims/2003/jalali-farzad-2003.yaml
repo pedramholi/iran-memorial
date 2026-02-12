@@ -3,7 +3,7 @@ name_latin: "Farzad Jalali"
 name_farsi: "فرزاد جلالی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -34,7 +34,7 @@ circumstances: >
     and to 74 lashes for being alone with an illegitimate person. The Appeals
     Court and Branch 32 of the Supreme Court confirmed the ruling. He was
     hanged in public at the Imam Square in Khoramabad on September 30, 2003.
-event_context: null
+event_context: "2003 execution"
 responsible_forces: null
 
 # --- VERIFICATION ---

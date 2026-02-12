@@ -1,12 +1,25 @@
 id: sudbakhsh-abdolreza-2010
 name_latin: "Abdolreza Sudbakhsh"
 name_farsi: "عبدالرضا سودبخش"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1949-01-01"
+place_of_birth: "Bandar Anzali"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/81420_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "specialist"
+education: "high school diploma"
+family:
+  marital_status: "married"
+  children: 4
+  notes: "father of three sons and a daughter"
+personality: "hard-working physician who loved his job"
+quotes:
+  - "\"He usually worked from 7 o clock in the morning until 11 o clock at night.\""
+  - "\"He tried to help others as much as he possibly could, including people he did not know.\""
+  - "\"He always persevered and tried to do his job as best he could, and would always take the path he considered to be the right one.\""
 
 # --- DEATH ---
 date_of_death: 2010-09-21
@@ -85,9 +98,8 @@ circumstances: >
     guards, and sent to the Investigating Judge s Office, Branch One.
     According to the Tehran Military Prosecutor s indictment against the
     defendants
-event_context: null
-responsible_forces: null
-
+event_context: "Kahrizak incident"
+responsible_forces: "Kahrizak Detention Center"
 # --- VERIFICATION ---
 status: unverified
 sources:

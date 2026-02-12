@@ -3,7 +3,7 @@ name_latin: "Ramezan Jamshidi"
 name_farsi: "رمضان جمشیدی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -46,9 +46,8 @@ circumstances: >
     Jamshidi s the death penalty, a ruling that was later upheld in Supreme
     Court. Mr. Ramezani was hanged alongside his co-defendant on the 20th of
     February, 2011 in Central Esfahan Prison.
-event_context: null
-responsible_forces: null
-
+event_context: "2011 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

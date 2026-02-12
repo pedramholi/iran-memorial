@@ -3,7 +3,7 @@ name_latin: "Musa"
 name_farsi: "موسی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -52,9 +52,8 @@ circumstances: >
     the evidence provided against the defendant. Defence No information is
     available on Mr. Musa's defence. Judgment Based on the court's ruling, Mr.
     Musa was hanged in Shiraz.
-event_context: null
-responsible_forces: null
-
+event_context: "1989"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -2,8 +2,8 @@ id: teimuri-fekri-2011
 name_latin: "Fekri Teimuri"
 name_farsi: "فکری تیموری"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Miandoab"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -45,9 +45,8 @@ circumstances: >
     Judgment The court condemned Mr. Fathollah Darvishi to death and the
     ruling was confirmed by the Supreme Court. He was hanged in the Miandoab
     Prison yard on May 10, 2011.
-event_context: null
-responsible_forces: null
-
+event_context: "2011 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

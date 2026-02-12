@@ -3,10 +3,14 @@ name_latin: "Majid J."
 name_farsi: "مجید ج."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "Before being executed, Mr. Majid J. rejected all his charges as totally false and pleaded innocent."
 
 # --- DEATH ---
 date_of_death: 2003-10-22
@@ -38,9 +42,8 @@ circumstances: >
     for drinking alcoholic beverages. Branches Two and 41 of the Supreme Court
     confirmed the ruling twice. He was hanged at the Mashhad Central Prison
     yard on October 22, 2003.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on October 22, 2003"
+responsible_forces: "General Court in Mashhad"
 # --- VERIFICATION ---
 status: unverified
 sources:

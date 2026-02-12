@@ -2,9 +2,9 @@ id: moniri-khosro-2015
 name_latin: "Khosro Moniri"
 name_farsi: "خسرو منیری"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Kolhar Village, Orumieh, Azarbaijan-e Gharbi"
+gender: male
+ethnicity: "Kurd"
 religion: "Presumed Muslim"
 photo: null
 
@@ -43,8 +43,7 @@ circumstances: >
     Central Prison on February 16, 2015 at dawn. No specific information is
     available about this execution.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

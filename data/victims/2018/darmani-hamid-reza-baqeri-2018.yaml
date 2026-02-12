@@ -1,12 +1,18 @@
 id: darmani-hamid-reza-baqeri-2018
 name_latin: "Hamid Reza Baqeri Darmani"
 name_farsi: "حمیدرضا باقری درمنی"
-date_of_birth: null
+date_of_birth: "1967-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/82935_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "businessman"
+family:
+  marital_status: "married"
+  children: 1
 
 # --- DEATH ---
 date_of_death: 2018-12-22
@@ -86,8 +92,7 @@ circumstances: >
     of complaints by 10 plaintiffs, the most important of whom was Jey Oil
     Compan
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Tehran Criminal Investigations"
 # --- VERIFICATION ---
 status: unverified
 sources:

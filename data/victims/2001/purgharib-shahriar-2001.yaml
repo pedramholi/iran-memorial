@@ -3,7 +3,7 @@ name_latin: "Shahriar Purgharib"
 name_farsi: "شهریار پورغریب"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -40,9 +40,8 @@ circumstances: >
     Defense No information is available on Mr. Purgharib s defense. Judgment
     The court condemned Mr. Shahriar Purgharib to death and the Supreme Court
     confirmed the ruling. He was hanged in Birjand on April 16, 2001.
-event_context: null
-responsible_forces: null
-
+event_context: "2001 execution"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

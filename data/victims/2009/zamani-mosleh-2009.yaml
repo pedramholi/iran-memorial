@@ -1,12 +1,18 @@
 id: zamani-mosleh-2009
 name_latin: "Mosleh Zamani"
 name_farsi: "مصلح زمانی"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1992-01-01"
+place_of_birth: "Dadaneh, Sanandaj"
+gender: male
+ethnicity: "Kurd"
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/75028_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  marital_status: "unmarried"
+quotes:
+  - "He should be executed to serve as a lesson for other Iranian young people."
 
 # --- DEATH ---
 date_of_death: 2009-12-17
@@ -85,9 +91,8 @@ circumstances: >
     authorities for the second time in order to prevent his execution. It had
     no effect. Mr. Zamani s request for pardon was rejected by the court
     (Rozhane). In an interview with th
-event_context: null
-responsible_forces: null
-
+event_context: "execution for a love affair"
+responsible_forces: "Sanandaj Criminal Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

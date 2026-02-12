@@ -2,8 +2,8 @@ id: shariati-farshad-2015
 name_latin: "Farshad Shari'ati"
 name_farsi: "فرشاد شریعتی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Sanandaj"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -44,9 +44,8 @@ circumstances: >
     Farshad Shariati to death. Mr. Shariati was hanged in Sananda Central
     Prison on January 8, 2015. However, there is no information available on
     the details of this verdict.
-event_context: null
-responsible_forces: null
-
+event_context: "2015 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

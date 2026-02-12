@@ -1,12 +1,21 @@
 id: sheibani-hassan-1993
 name_latin: "Hassan Sheibani"
 name_farsi: "حسن شیبانی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1938-01-02"
+place_of_birth: "Mazhan, Birjand, Northern Khorasan Province"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "warrant officer in the Gendarmerie"
+education: "two years of legal training at the Military High School"
+family:
+  children: 1
+  notes: "father of one daughter"
+quotes:
+  - "you can export the revolution to the Horn of Africa (meaning to the farthest and most unlikely places on the planet), but if there is no justice in Iran itself, you have failed."
 
 # --- DEATH ---
 date_of_death: 1993-01-08
@@ -86,9 +95,8 @@ circumstances: >
     his dirty laundry which he used to send out of prison to wash, in which he
     explained prison conditions and his trial. He spent most of his prison
     time in solitary
-event_context: null
-responsible_forces: null
-
+event_context: "1980s political repression in Iran"
+responsible_forces: "Intelligence Branch of the Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

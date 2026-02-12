@@ -2,8 +2,8 @@ id: shokati-sedqali-2000
 name_latin: "Sedq'ali Shokati"
 name_farsi: "صدقعلی شوکتی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Orumieh"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -43,9 +43,8 @@ circumstances: >
     Judgment Branch 22 of the Orumieh Court condemned Mr. Sedq ali Shokati to
     death. The Supreme Court confirmed the ruling and he was hanged, along
     with two others, at the Orumieh Central Prison yard in 2000.
-event_context: null
-responsible_forces: null
-
+event_context: "2000 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

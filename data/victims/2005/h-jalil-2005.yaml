@@ -3,7 +3,7 @@ name_latin: "Jalil H."
 name_farsi: "جلیل ح."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -40,9 +40,8 @@ circumstances: >
     public by Branch Three of Ahvaz Revolutionary Court for being “at war with
     God.” After the ruling was confirmed by Branch 32 of the Supreme Court, he
     was executed in the Serahtapeh District of Ahvaz on December 28, 2005.
-event_context: null
-responsible_forces: null
-
+event_context: "2005 execution"
+responsible_forces: "Ahvaz Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

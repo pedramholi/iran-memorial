@@ -1,12 +1,19 @@
 id: ahmadi-ataollah-by-1989
 name_latin: "Ata'ollah ‌By Ahmadi"
 name_farsi: "عطا‌الله بای احمدی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1933-08-11"
+place_of_birth: "Bandar Gaz, Mazandaran Province"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/84848_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "colonel in the Iran Imperial Armed Forces"
+education: "graduated in 1957-58 from the Officers School"
+family:
+  notes: "Two of Mr. By Ahmadi's sisters were arrested and one was executed."
+beliefs: "member of the Derafsh-e Kaviani Organization"
 
 # --- DEATH ---
 date_of_death: 1989-06-04
@@ -86,9 +93,8 @@ circumstances: >
     Italy, Austria, Switzerland, Germany, Norway, Sweden, and Great Britain in
     Europe; and the United States across the Atlantic Ocean. In most cases
     there
-event_context: null
-responsible_forces: null
-
+event_context: "Nojeh Coup d'état on 18 Tir 1359 (July 9, 1980)"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

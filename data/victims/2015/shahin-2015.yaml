@@ -2,8 +2,8 @@ id: shahin-2015
 name_latin: "Shahin"
 name_farsi: "شاهین"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Mehriz, Yazd Province"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -70,8 +70,7 @@ circumstances: >
     corpse of the victim had been found, near the city of Mehriz, in the
     presence of judicial, police, and security authorities on April 12, 2015.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Public Court of Yazd Province"
 # --- VERIFICATION ---
 status: unverified
 sources:

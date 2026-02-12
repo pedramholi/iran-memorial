@@ -3,7 +3,7 @@ name_latin: "A. B."
 name_farsi: "ع. ب."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -42,9 +42,8 @@ circumstances: >
     Province sentenced Mr. B.A. to death by hanging. This sentence was
     approved by the Supreme Court and the head of the Judiciary. He and the
     other person were executed in Sari Prison on January 8, 2018.
-event_context: null
-responsible_forces: null
-
+event_context: "2018 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

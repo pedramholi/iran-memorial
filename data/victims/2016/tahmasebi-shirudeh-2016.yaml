@@ -3,7 +3,7 @@ name_latin: "Shirudeh Tahmasebi"
 name_farsi: "شیروده طهماسبی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -42,8 +42,7 @@ circumstances: >
     at Parsilon Prison, Khoramabad, on Tuesday October 4, 2016. The other
     person s name and description remain unknown.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

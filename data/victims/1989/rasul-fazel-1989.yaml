@@ -1,12 +1,18 @@
 id: rasul-fazel-1989
 name_latin: "Fazel Rasul"
 name_farsi: "فاضل رسول"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1948-01-01"
+place_of_birth: "Sulaymaniyah, Iraq"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/30423_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "editor"
+beliefs: "political activist"
+quotes:
+  - "\"a man of dialogue\""
 
 # --- DEATH ---
 date_of_death: 1989-07-13
@@ -85,9 +91,8 @@ circumstances: >
     of Kurdistan, banned the PDKI for being the party of Satan. ( Sahifeye
     Nur: 8/257) In this way, the Leader of the Islamic Revolution of Iran
     blocked the road to any peaceful resolution po
-event_context: null
-responsible_forces: null
-
+event_context: "triple murder of Vienna"
+responsible_forces: "Iranian authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

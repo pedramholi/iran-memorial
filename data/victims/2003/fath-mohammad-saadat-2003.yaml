@@ -3,7 +3,7 @@ name_latin: "Mohammad Sa'adat Fath"
 name_farsi: "محمد سعادت فتح"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -47,8 +47,7 @@ circumstances: >
     and Branch 32 of the Supreme Court confirmed the ruling. He was hanged at
     the Qa m Maqam Farahani Square in Arak on January 30, 2003.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Public Court of Arak"
 # --- VERIFICATION ---
 status: unverified
 sources:

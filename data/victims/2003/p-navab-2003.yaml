@@ -3,7 +3,7 @@ name_latin: "Navab P."
 name_farsi: "نواب پ."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -45,9 +45,8 @@ circumstances: >
     the Supreme Court confirmed the ruling. He was hanged, along with the
     other four defendants, in public in Bam in 2003. No specific information
     is available about this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "2003"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

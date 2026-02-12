@@ -3,7 +3,7 @@ name_latin: "Gh F"
 name_farsi: "غ ف"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -36,9 +36,8 @@ circumstances: >
     available on the defendant's defence. Judgment The court condemned Mr. Gh.
     F. to death and he was hanged at Karun prison in Ahvaz on December 25,
     2010.
-event_context: null
-responsible_forces: null
-
+event_context: "2010 execution"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

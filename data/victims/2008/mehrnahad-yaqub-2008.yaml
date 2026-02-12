@@ -1,12 +1,22 @@
 id: mehrnahad-yaqub-2008
 name_latin: "Ya'qub Mehrnahad"
 name_farsi: "یعقوب مهرنهاد"
-date_of_birth: null
+date_of_birth: "1980-01-01"
 place_of_birth: null
-gender: null
-ethnicity: null
+gender: male
+ethnicity: "Baluch"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/40798_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "journalist"
+family:
+  marital_status: "married"
+  children: 3
+beliefs: "civil society activist"
+quotes:
+  - "I believe that the right to freedom of expression and freedom of thought and defending human rights while respecting other people s rights and dignity and while maintaining security and public order are my religious and legal duties"
+  - "Some expected that by rejecting [my] candidacy, they would attract young people into the arena of violent struggle but they ignore the fact that young people are too aware and know how to fight for their ideals without violence. We will pursue a wide scale struggle against monopoly and tyranny by rejecting violence. We are convinced that the future is ours and we will succeed acting with wisdom and rejecting violence because if the oppressed use violence as do the oppressors, there is no difference between them."
 
 # --- DEATH ---
 date_of_death: 2008-08-04
@@ -86,8 +96,7 @@ circumstances: >
     Tribunal of Zahedan, without the presence of a jury, his attorney, or his
     family (AUTNEWS, Aug. 5, 2008). Amnesty Inter
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Ministry of Intelligence"
 # --- VERIFICATION ---
 status: unverified
 sources:

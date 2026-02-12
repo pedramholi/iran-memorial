@@ -2,8 +2,8 @@ id: goldfeder-aida-monica-feldman-de-1994
 name_latin: "Aida Monica Feldman de Goldfeder"
 name_farsi: "آیدا مونیکا فلدمن دگلدفدر"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Buenos Aires, Argentina"
+gender: female
 ethnicity: null
 religion: "Judaism"
 photo: "https://www.iranrights.org/actorphotos/11820_thumb.jpeg"
@@ -86,9 +86,8 @@ circumstances: >
     attaché at the embassy (though he had been in Argentina for eleven years,
     he was bestowed diplomatic immunity only in March) and was in charge of
     logis
-event_context: null
-responsible_forces: null
-
+event_context: "AMIA bombing"
+responsible_forces: "Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

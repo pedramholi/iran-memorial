@@ -2,8 +2,8 @@ id: alghosi-majid-2005
 name_latin: "Majid Alghosi"
 name_farsi: "مجید الغوثی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Ojabit village, Kelardasht"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -42,8 +42,7 @@ circumstances: >
     the presence of judicial and security officials and the victim’s family in
     the courtyard of Noshahr Prison II (Mazandaran province).
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

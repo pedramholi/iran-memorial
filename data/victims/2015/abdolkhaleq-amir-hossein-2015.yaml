@@ -1,12 +1,16 @@
 id: abdolkhaleq-amir-hossein-2015
 name_latin: "Amir Hossein Abdolkhaleq"
 name_farsi: "امیرحسین عبدالخالق"
-date_of_birth: null
+date_of_birth: "1998-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "son of Haj Mohammad Khan"
 
 # --- DEATH ---
 date_of_death: 2015-08-17
@@ -60,9 +64,8 @@ circumstances: >
     confirmed the ruling, it was carried out on Monday August 17, 2015 and Mr.
     Abdolkhaleq was hanged, along with five others, at the Bandar-e Abbas
     Central Prison yard at six a. m.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on August 17, 2015"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

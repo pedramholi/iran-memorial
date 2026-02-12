@@ -1,12 +1,16 @@
 id: beigi-bahman-mohammad-2000
 name_latin: "Bahman Mohammad Beigi"
 name_farsi: "بهمن محمد‌بیگی"
-date_of_birth: null
+date_of_birth: "1960-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "father-in-law of the murder victim"
 
 # --- DEATH ---
 date_of_death: 2000-01-19
@@ -47,8 +51,7 @@ circumstances: >
     Prison on January 19, 2000 at dawn. No specific information is available
     about this execution.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

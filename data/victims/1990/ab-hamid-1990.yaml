@@ -3,10 +3,14 @@ name_latin: "Hamid Ab"
 name_farsi: "حمید آب"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+occupation: "industrial engineering student"
+education: "Sharif University of Technology"
 
 # --- DEATH ---
 date_of_death: 1990-01-01

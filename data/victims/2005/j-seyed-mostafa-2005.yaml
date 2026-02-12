@@ -1,12 +1,19 @@
 id: j-seyed-mostafa-2005
 name_latin: "Seyed Mostafa J."
 name_farsi: "سید مصطفی ج."
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1982-01-01"
+place_of_birth: "Tehran"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/76123_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "military service member"
+family:
+  notes: "supposed to take his mother to the doctor"
+quotes:
+  - "Why are you shooting, I haven t done anything"
 
 # --- DEATH ---
 date_of_death: 2005-10-15
@@ -85,9 +92,8 @@ circumstances: >
     J. s life and he died at that hospital due to the severity of his injuries
     and severe bleeding. Different accounts of this event have been given by
     various people, including the Prosecutor s Rep
-event_context: null
-responsible_forces: null
-
+event_context: "October 15, 2005"
+responsible_forces: "Nabard Street 132nd Police Precinct"
 # --- VERIFICATION ---
 status: unverified
 sources:

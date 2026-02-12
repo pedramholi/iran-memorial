@@ -3,7 +3,7 @@ name_latin: "Qodratollah Rudbari"
 name_farsi: "قدرت‌الله رودباری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -43,9 +43,8 @@ circumstances: >
     Rudbari's defense. Judgment Mr. Qodratollah Rudbari was hanged at the
     Kerman Prison yard on January 25, 2015. Before the execution, the families
     were informed and had a chance for their last visitations.
-event_context: null
-responsible_forces: null
-
+event_context: "2015 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

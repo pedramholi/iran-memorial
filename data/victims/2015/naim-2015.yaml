@@ -3,10 +3,17 @@ name_latin: "Na’im"
 name_farsi: "نعیم"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  notes: "Afghan citizen"
+quotes:
+  - "During his trial, he stated that his wife, huffing in anger, went to her father s house on the day of the incident. He could not make her come back. Therefore, he became angry and attacked his wife and her family."
 
 # --- DEATH ---
 date_of_death: 2015-04-16
@@ -48,9 +55,8 @@ circumstances: >
     the Tehran Criminal Court condemned Mr. Na im to death and Branch 27 of
     the Supreme Court confirmed the ruling. He was hanged, along with four
     others, at the Gohardasht Prison yard in Karaj on April 16, 2015.
-event_context: null
-responsible_forces: null
-
+event_context: "murder of his wife in Varamin on May 5, 2011"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

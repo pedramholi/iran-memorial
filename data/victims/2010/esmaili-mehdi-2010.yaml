@@ -1,9 +1,9 @@
 id: esmaili-mehdi-2010
 name_latin: "Mehdi Esma'ili"
 name_farsi: "مهدی اسماعیلی"
-date_of_birth: null
+date_of_birth: "1984-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -38,8 +38,7 @@ circumstances: >
     at Raja ishahr prison in Karaj in late February of 2010. Mr. Mehdi Esma
     ili was 26 years old.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

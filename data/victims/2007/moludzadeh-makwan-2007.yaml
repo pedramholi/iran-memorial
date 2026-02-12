@@ -3,10 +3,17 @@ name_latin: "Makwan Moludzadeh"
 name_farsi: "ماکوان مولودزاده"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/39636_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  notes: "father of Makwan Moludzadeh"
+quotes:
+  - "Makwan s mother and I beg you to help us save his life. Our twenty-year old son has been condemned to death in contradiction with religious rules and Islamic law."
+  - "That day, I saw that they put him on a donkey and let everyone see him. People would ask us with what charge they forced him to ride a donkey, but we didn t know what to say. Makwan had done nothing to deserve such humiliation."
 
 # --- DEATH ---
 date_of_death: 2007-12-04
@@ -85,9 +92,8 @@ circumstances: >
     Moludzadeh was tried at Branch One of the Criminal Court of Kermanshah.
     Some trial sessions took place in his home town Paveh. His attorney
     pointed out numerous flaws in the proceedings: At the trial, required by
-event_context: null
-responsible_forces: null
-
+event_context: "2007 execution of Makwan Moludzadeh"
+responsible_forces: "Public Prosecution office of Kermanshah Province"
 # --- VERIFICATION ---
 status: unverified
 sources:

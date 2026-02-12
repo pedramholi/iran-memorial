@@ -3,10 +3,16 @@ name_latin: "Nader Dastanpur"
 name_farsi: "نادر داستان‌پور"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/77985_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "worked at a store"
+family:
+  notes: "second child of his family; father was a shopkeeper"
+personality: "very well-regarded in the neighborhood; liked sports"
 
 # --- DEATH ---
 date_of_death: 2016-06-17
@@ -85,9 +91,8 @@ circumstances: >
     after his arrest at the detention center of Narmak police station, due to
     the severity of the injuries caused during his arrest and the failure to
     provide appro
-event_context: null
-responsible_forces: null
-
+event_context: "arrest on June 16, 2016"
+responsible_forces: "Narmak police station"
 # --- VERIFICATION ---
 status: unverified
 sources:

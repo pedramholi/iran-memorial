@@ -3,10 +3,17 @@ name_latin: "Mas'ud Hava'eji"
 name_farsi: "مسعود حوائجی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "currency exchange business"
+family:
+  notes: "survived by his wife"
+quotes:
+  - "confessions"
 
 # --- DEATH ---
 date_of_death: 1997-04-16
@@ -45,9 +52,8 @@ circumstances: >
     Mr. Hava’eji’s defense. Judgment The court condemned Mr. Mas’ud Hava’eji
     to death and, after the ruling was confirmed by the Supreme Court, he was
     executed at Qasr prison (Tehran) on April 16, 1997.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on April 16, 1997"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

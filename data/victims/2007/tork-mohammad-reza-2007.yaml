@@ -1,12 +1,15 @@
 id: tork-mohammad-reza-2007
 name_latin: "Mohammad Reza Tork"
 name_farsi: "محمدرضا ترک"
-date_of_birth: null
+date_of_birth: "1991-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
 
 # --- DEATH ---
 date_of_death: 2007-11-15
@@ -69,9 +72,8 @@ circumstances: >
     hanged, along with two other defendants of this case, at the Hamadan
     Prison yard on November 15, 2007. The fourth defendant of this case was
     condemned to five years imprisonment for assisting in murders.
-event_context: null
-responsible_forces: null
-
+event_context: "murder of three shepherds at the Zamanabad village near Malayer on November 5, 2005"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

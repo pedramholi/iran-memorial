@@ -1,9 +1,9 @@
 id: rajai-mehdi-2016
 name_latin: "Mehdi Raja'i"
 name_farsi: "مهدی رجائی"
-date_of_birth: null
+date_of_birth: "2000-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -35,7 +35,7 @@ circumstances: >
     Judgment A court condemned Mr. Mehdi Raja i to death. He was hanged, along
     with 11 others, at Raja ishahr Prison in Karaj on May 25, 2016. No further
     information is available about this execution.
-event_context: null
+event_context: "execution on May 25, 2016"
 responsible_forces: null
 
 # --- VERIFICATION ---

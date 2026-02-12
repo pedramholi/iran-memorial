@@ -1,12 +1,15 @@
 id: khoramnejad-ali-2007
 name_latin: "Ali Khoramnejad"
 name_farsi: "علی خرم نژاد"
-date_of_birth: null
+date_of_birth: "1985-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+family:
 
 # --- DEATH ---
 date_of_death: 2007-10-28
@@ -59,9 +62,8 @@ circumstances: >
     objection of families. Also, gatherings of families in front of government
     buildings forced authorities to carry out executions separately and in
     different times.
-event_context: null
-responsible_forces: null
-
+event_context: "2006 rape case"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

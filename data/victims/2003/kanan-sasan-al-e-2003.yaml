@@ -3,10 +3,13 @@ name_latin: "Sasan Al-e Kan'an"
 name_farsi: "ساسان آل کنعان"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: "https://www.iranrights.org/actorphotos/35678_thumb.jpeg"
+
+# --- LIFE ---
+family:
 
 # --- DEATH ---
 date_of_death: 2003-02-19
@@ -83,8 +86,7 @@ circumstances: >
     international standards as set out in the of the International Covenant on
     Civil and Political Rights (ICCPR), to which Iran is a state party.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

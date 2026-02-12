@@ -1,12 +1,22 @@
 id: yazdanpanah-said-1991
 name_latin: "Sa'id Yazdanpanah"
 name_farsi: "سعید یزدان‌پناه"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1964-09-18"
+place_of_birth: "Saqqezlu, Bucan County, West Azarbaijan Province"
+gender: male
 ethnicity: null
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/84665_thumb.jpeg"
+
+# --- LIFE ---
+education: "high school diploma"
+family:
+  notes: "son of Amineh Kake Mohammad Feizollah Beigi"
+personality: "described as a kind human being; he had an extensive network of people, and he had the ability of solving social problems and issues in spite of his youth"
+beliefs: "proponent of Kurdish nationalist thinking"
+quotes:
+  - "Sa eed was shot a few minutes after he left our home. We had gone to a store in our neighborhood with several other children to do some shopping when they said they were closed and that the storeowner s son had left in a wagon. We had just arrived near a street vendor s stand when someone came over and said that the situation was pretty chaotic. He said that a motorcyclist had just shot at a red [Toyota] Land Cruiser. We could see from afar that Kak Sa eed s head had fallen against the steering wheel."
+  - "the attackers were three terrorists with a motorcycle. They were somehow able to stop his car, and, unfortunately, put an end to that young fighter and Kurdish man of knowledge s life with two bullets."
 
 # --- DEATH ---
 date_of_death: 1991-09-19
@@ -86,9 +96,8 @@ circumstances: >
     (Hossein Yazdanpanah, Rudaw TV website, 2013-14). Mr. Yazdanpanah was 27
     years old at the time of his death. He was buried in Iraqi Kurdistan.
     Kurdistan Freedom Party Par
-event_context: null
-responsible_forces: null
-
+event_context: "killed on September 19, 1991"
+responsible_forces: "unknown"
 # --- VERIFICATION ---
 status: unverified
 sources:

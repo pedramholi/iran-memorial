@@ -3,10 +3,18 @@ name_latin: "Ebrahim Tale'i"
 name_farsi: "ابراهیم طالعی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/74152_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  marital_status: "single"
+  notes: "son of Mohammad"
+quotes:
+  - "I have no defense and cannot say anything."
+  - "I was fooled by my comradeship."
 
 # --- DEATH ---
 date_of_death: 2001-06-20

@@ -2,11 +2,15 @@ id: taqiabadi-ahmad-1997
 name_latin: "Ahmad Taqiabadi"
 name_farsi: "احمد تقی ‌آبادی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Nishabur"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "he explained his motivations for wrong-doing as having a disorganized life, futile marriages, and having psychological problems."
 
 # --- DEATH ---
 date_of_death: 1997-11-25
@@ -62,9 +66,8 @@ circumstances: >
     But finally the officials blindfolded him. He was executed in public in
     Shohada square of Shiraz on November 25, 1997 at 10 a.m., after he had
     received the last 100 lashes.
-event_context: null
-responsible_forces: null
-
+event_context: "1997 execution"
+responsible_forces: "Shiraz security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

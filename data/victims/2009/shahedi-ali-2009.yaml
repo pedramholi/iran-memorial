@@ -1,12 +1,15 @@
 id: shahedi-ali-2009
 name_latin: "Ali Shahedi"
 name_farsi: "علی شاهدی"
-date_of_birth: null
+date_of_birth: "1985-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
 
 # --- DEATH ---
 date_of_death: 2009-06-21
@@ -86,9 +89,8 @@ circumstances: >
     forces. Following the post-election demonstrations in June 2009, pictures
     of some plainclothes agents were posted on internet websites. Internet
     users help
-event_context: null
-responsible_forces: null
-
+event_context: "2009 presidential election protests"
+responsible_forces: "Tehran police"
 # --- VERIFICATION ---
 status: unverified
 sources:

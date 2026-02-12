@@ -3,7 +3,7 @@ name_latin: "Bayram Arsan"
 name_farsi: "بایرام آرسن"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -85,9 +85,8 @@ circumstances: >
     required to act immediately upon orders of the commander to restore order,
     disarm and collect weapons and ammunition, and arrest those to be handed
     over to the judicial au
-event_context: null
-responsible_forces: null
-
+event_context: "February 2006 protests"
+responsible_forces: "security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

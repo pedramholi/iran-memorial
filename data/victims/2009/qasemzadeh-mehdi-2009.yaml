@@ -1,12 +1,21 @@
 id: qasemzadeh-mehdi-2009
 name_latin: "Mehdi Qasemzadeh"
 name_farsi: "مهدی قاسم‌زاده"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1982-01-01"
+place_of_birth: "Miandoab, Uchtappeh"
+gender: male
+ethnicity: "Turk"
 religion: "Other"
 photo: "https://www.iranrights.org/actorphotos/72887_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "cattle farmer"
+education: "high school graduate"
+family:
+  marital_status: "single"
+  children: 0
+quotes:
+  - "Your tyranny is like leprosy that slowly gnaws at - and eats away - the flesh. You are like an extreme heat that evaporates [and destroys] everything this nation possesses: its life, sources of life, religion, integrity, principles, mercy, and fairness."
 
 # --- DEATH ---
 date_of_death: 2009-02-28
@@ -85,9 +94,8 @@ circumstances: >
     wounding of twenty others. The commander of Miandoab s police force, as
     well as Soltanali Mohammadi and his son, were among the dead. Mr. Mehdi
     Qasemzadeh s brother, Behrooz, w
-event_context: null
-responsible_forces: null
-
+event_context: "armed clashes in September and October 2004"
+responsible_forces: "police force"
 # --- VERIFICATION ---
 status: unverified
 sources:

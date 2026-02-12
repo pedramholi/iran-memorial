@@ -3,7 +3,7 @@ name_latin: "Ali Khashi"
 name_farsi: "علی خاشی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -41,9 +41,8 @@ circumstances: >
     No information is available on Mr. Khashi's defense. Judgment The court
     condemned Mr. Ali Khashi to death and the Supreme Court confirmed the
     ruling. He was hanged in the Iranshahr prison yard on May 21, 2007.
-event_context: null
-responsible_forces: null
-
+event_context: "2007 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

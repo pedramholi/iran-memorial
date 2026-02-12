@@ -1,12 +1,15 @@
 id: palani-hadi-2014
 name_latin: "Hadi Palani"
 name_farsi: "هادی پالانی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1999-01-01"
+place_of_birth: "Tapeh Darabkhan Village, Sar-e Pol-e Zahab, Kermanshah"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
 
 # --- DEATH ---
 date_of_death: 2014-08-25
@@ -49,8 +52,7 @@ circumstances: >
     Dizelabad Prison in Kermanshah on August 25, 2014. No specific information
     is available about this execution.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

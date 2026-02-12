@@ -3,10 +3,14 @@ name_latin: "'A Gh"
 name_farsi: "ع غ"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "purchasing one kilogram and 24 grams of heroin and possession of 985 grams of heroin"
 
 # --- DEATH ---
 date_of_death: 2010-09-20
@@ -41,9 +45,8 @@ circumstances: >
     condemned Mr. A. Gh. to death and the ruling was confirmed by the General
     Public Prosecutor’s Office. He was hanged at Karun prison in Ahvaz on
     September 20, 2010.
-event_context: null
-responsible_forces: null
-
+event_context: "2010 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

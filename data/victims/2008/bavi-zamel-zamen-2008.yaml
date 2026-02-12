@@ -1,12 +1,21 @@
 id: bavi-zamel-zamen-2008
 name_latin: "Zamel (Zamen) Bavi"
 name_farsi: "زامل (ضامن) باوی"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1978-01-01"
+place_of_birth: "Ahvaz"
+gender: male
+ethnicity: "Arab"
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/73093_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "grocery distribution store owner"
+education: "high school graduate"
+family:
+  marital_status: "married"
+  children: 1
+  notes: "father of a two-year-old child"
+personality: "popular and respected among the prisoners"
 
 # --- DEATH ---
 date_of_death: 2008-01-29
@@ -85,9 +94,8 @@ circumstances: >
     were then kept in solitary confinement cells, for months, at the
     Information Ministry s Detention Center. People being held were subjected
     to torture, in order to confess having taken part in the bom
-event_context: null
-responsible_forces: null
-
+event_context: "Ahvaz bombings"
+responsible_forces: "Iranian authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,10 +3,14 @@ name_latin: "Hassan D."
 name_farsi: "حسن د."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "he raped and murdered a woman in Chalus in 2004."
 
 # --- DEATH ---
 date_of_death: 2007-06-01
@@ -41,9 +45,8 @@ circumstances: >
     The court condemned Mr. Hassan D. to death and the ruling was confirmed by
     the judicial authorities. He was hanged in the presence of judicial and
     security officials of Tonekabon on June 1, 2007.
-event_context: null
-responsible_forces: null
-
+event_context: "2004"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

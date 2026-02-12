@@ -1,12 +1,18 @@
 id: sheidani-kurosh-2019
 name_latin: "Kurosh Sheidani"
 name_farsi: "کورش شیدانی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1967-01-01"
+place_of_birth: "Karaj"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/83510_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "accountant"
+family:
+  marital_status: "married"
+  children: 2
 
 # --- DEATH ---
 date_of_death: 2019-11-17
@@ -85,9 +91,8 @@ circumstances: >
     Commission declared the number of people killed in the protests against
     the increase in the price of gas to have been 230, including members of
     the police and security forces (5). Accord
-event_context: null
-responsible_forces: null
-
+event_context: "November 2019 protests"
+responsible_forces: "Iranian government"
 # --- VERIFICATION ---
 status: unverified
 sources:

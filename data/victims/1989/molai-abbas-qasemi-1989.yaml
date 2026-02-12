@@ -1,12 +1,18 @@
 id: molai-abbas-qasemi-1989
 name_latin: "Abbas Qasemi Mola'i"
 name_farsi: "عباس قاسمی مولائی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1958-12-01"
+place_of_birth: "Tehran"
+gender: male
 ethnicity: null
 religion: null
 photo: null
+
+# --- LIFE ---
+occupation: "electronics engineer"
+family:
+  marital_status: "married"
+  children: 1
 
 # --- DEATH ---
 date_of_death: 1989-01-01
@@ -85,9 +91,8 @@ circumstances: >
     inside the prison) had collaborated with armed members of the Mojahedin
     Khalq Organization in clashes with armed forces of the Islamic Republic,
     states that such claims “are false con
-event_context: null
-responsible_forces: null
-
+event_context: "1988 mass executions"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

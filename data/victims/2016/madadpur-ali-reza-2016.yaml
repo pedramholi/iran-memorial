@@ -1,12 +1,21 @@
 id: madadpur-ali-reza-2016
 name_latin: "Ali Reza Madadpur"
 name_farsi: "علیرضا مددپور"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1978-06-20"
+place_of_birth: "Karaj"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/75762_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "senior student of accounting"
+family:
+  marital_status: "single"
+  children: 0
+  notes: "son of Bayramali, came from a poor family, father was a simple laborer who became unable to work after an accident."
+quotes:
+  - "I had not gone to the house for purposes of manufacturing drugs."
 
 # --- DEATH ---
 date_of_death: 2016-08-27
@@ -85,9 +94,8 @@ circumstances: >
     drugs discovered at the house (Boroumand Foundation interview with a
     person with knowledge of the case, Court Decision, Boroumand Foundation
     research). Mr. Madadpur s co-defendants testified in the court and wrote
-event_context: null
-responsible_forces: null
-
+event_context: "arrested on November 12, 2011, trial on July 17, 2012"
+responsible_forces: "Police Force Drug Enforcement agents and Information Administration agents"
 # --- VERIFICATION ---
 status: unverified
 sources:

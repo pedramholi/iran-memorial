@@ -2,11 +2,15 @@ id: nedai-hassan-2002
 name_latin: "Hassan Neda'i"
 name_farsi: "حسن ندائی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Langrud"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/73336_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "student"
+education: "majoring in Islamic Education with a history minor"
 
 # --- DEATH ---
 date_of_death: 2002-02-12
@@ -42,8 +46,7 @@ circumstances: >
     on Tuesday February 12, 2002. According to the Iran newspaper on February
     17, 2002, the victim s mother pushed the stool from under his legs.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Public Court of Takestan"
 # --- VERIFICATION ---
 status: unverified
 sources:

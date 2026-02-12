@@ -3,10 +3,14 @@ name_latin: "Mostafa Rahimi"
 name_farsi: "مصطفی رحیمی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "mother was executed alongside him"
 
 # --- DEATH ---
 date_of_death: 2010-07-05
@@ -41,9 +45,8 @@ circumstances: >
     According to HRANA, Mr. Mostafa Rahimi and his mother were suddenly hanged
     at the central prison yard in Orumieh on July 5, 2010, without prior
     notice by officials.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on July 5, 2010"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

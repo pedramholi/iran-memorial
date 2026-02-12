@@ -1,12 +1,19 @@
 id: r-m-2015
 name_latin: "M. R."
 name_farsi: "م. ر."
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1998-01-01"
+place_of_birth: "Gilan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "single"
+  children: 0
+quotes:
+  - "Mr. M. R. accepted all the charges to protect the other two defendants, who were married."
 
 # --- DEATH ---
 date_of_death: 2015-01-14
@@ -46,9 +53,8 @@ circumstances: >
     Provincial Public Prosecutor at the Sari Prison yard on January 14, 2015
     at dawn. The other two defendants were condemned to 99 lashes each and
     exile in Bafq and Tabas.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on January 14, 2015"
+responsible_forces: "Provincial Criminal Court of Sari"
 # --- VERIFICATION ---
 status: unverified
 sources:

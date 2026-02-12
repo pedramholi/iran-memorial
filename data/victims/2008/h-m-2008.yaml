@@ -3,7 +3,7 @@ name_latin: "M. H."
 name_farsi: "م. ح."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -44,9 +44,8 @@ circumstances: >
     to the Sentence Enforcement Division of the Khorasan-e Razavi Courthouse.
     He was hanged, along with another person, at the Mashhad Central Prison
     yard on February 17, 2008 in the morning.
-event_context: null
-responsible_forces: null
-
+event_context: "2008 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -2,11 +2,14 @@ id: qalandarzehi-abdolghani-2018
 name_latin: "Abdolghani Qalandarzehi"
 name_farsi: "عبدالغنی قلندرزهی"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Gohar Kuh, Khash, Sistan va Baluchestan"
+gender: male
+ethnicity: "Baluch"
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
 
 # --- DEATH ---
 date_of_death: 2018-12-06
@@ -55,9 +58,8 @@ circumstances: >
     body was given to his family (Gunaz TV).
     -------------------------------------------------------- *Mr. Jalili
     Shahbakhsh , Mr. Yusef Shahbakhsh , and Mr. Ya qub Qalandarzehi
-event_context: null
-responsible_forces: null
-
+event_context: "2010 drug activities"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

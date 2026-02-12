@@ -1,12 +1,19 @@
 id: horaibi-abdolhossein-2007
 name_latin: "Abdolhossein Horaibi"
 name_farsi: "عبدالحسین حریبی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1974-01-01"
+place_of_birth: "Sarbandar, Khuzestan Province"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/72876_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "bakery owner"
+education: "elementary school"
+family:
+  marital_status: "married"
+  children: 4
 
 # --- DEATH ---
 date_of_death: 2007-12-31
@@ -86,9 +93,8 @@ circumstances: >
     statement, then-President Mahmud Ahmadinejad spoke of the clear and
     obvious footprint of Iraq s occupiers in the Khuzestan incidents. ( ISNA ,
     Ja
-event_context: null
-responsible_forces: null
-
+event_context: "2005 bombings and unrest"
+responsible_forces: "Iranian authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

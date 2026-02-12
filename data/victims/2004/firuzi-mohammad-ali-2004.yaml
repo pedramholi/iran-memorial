@@ -2,11 +2,15 @@ id: firuzi-mohammad-ali-2004
 name_latin: "Mohammad Ali Firuzi"
 name_farsi: "محمدعلی فیروزی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Marvdasht, Fars"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
 
 # --- DEATH ---
 date_of_death: 2004-02-24

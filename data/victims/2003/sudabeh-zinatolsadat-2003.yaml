@@ -3,10 +3,14 @@ name_latin: "Zinatolsadat (Sudabeh)"
 name_farsi: "زینت‌السادات (سودابه)"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/75721_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  marital_status: "temporary wife"
 
 # --- DEATH ---
 date_of_death: 2003-10-08
@@ -60,8 +64,7 @@ circumstances: >
     beverages. Branch Two of the Supreme Court confirmed the ruling. She was
     hanged at the Qasr or Evin Prison yard in Tehran on October 8, 2003.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

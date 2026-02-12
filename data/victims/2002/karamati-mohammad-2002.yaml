@@ -3,7 +3,7 @@ name_latin: "Mohammad Karamati"
 name_farsi: "محمد كرامتی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -40,8 +40,7 @@ circumstances: >
     Islamic Revolutionary Tribunal of Tabriz sentenced Mr. Karamati to death.
     Confirmed by the country s Chief Prosecutor, the verdict was carried out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -2,11 +2,19 @@ id: salehi-amjad-2016
 name_latin: "Amjad Salehi"
 name_farsi: "امجد صالحی"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Sanandaj"
+gender: male
+ethnicity: "Kurd"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/76091_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "supermarket owner"
+education: "architecture student"
+family:
+  marital_status: "married"
+personality: "quiet man who helped the poor out financially"
+beliefs: "moderate religious views"
 
 # --- DEATH ---
 date_of_death: 2016-08-02
@@ -85,9 +93,8 @@ circumstances: >
     individuals and organizations. On June 12, 2014, eighteen human rights
     organizations, including the Abdorrahman Boroumand Foundation and a human
     rights lawyer, protested the sentences in a declaration and de
-event_context: null
-responsible_forces: null
-
+event_context: "execution of 25 individuals on August 2, 2016"
+responsible_forces: "Sanandaj Information Administration"
 # --- VERIFICATION ---
 status: unverified
 sources:

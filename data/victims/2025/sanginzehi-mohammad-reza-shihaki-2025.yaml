@@ -1,12 +1,16 @@
 id: sanginzehi-mohammad-reza-shihaki-2025
 name_latin: "Mohammad Reza Shihaki (SanginZehi)"
 name_farsi: "محمدرضا شیهکی (سنگین‌زهی)"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "2005-01-01"
+place_of_birth: "Masjed Abolfazl, Bazman District, Iranshahr County, Sistan and Baluchestan Province"
+gender: male
+ethnicity: "Baloch"
 religion: "Presumed Muslim (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/87156_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  notes: "son of Khan Mohammad"
 
 # --- DEATH ---
 date_of_death: 2025-10-02
@@ -59,9 +63,8 @@ circumstances: >
     plaintiff s family were close relatives of Mr. Shihaki, and despite
     efforts by his family, they refused to give consent (Baloch Activists
     Campaign, October 2, 2025).
-event_context: null
-responsible_forces: null
-
+event_context: "2016 family dispute leading to murder charge"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

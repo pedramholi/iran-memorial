@@ -1,12 +1,18 @@
 id: ebrahimnejad-ezzatollah-1999
 name_latin: "Ezzatollah Ebrahimnejad"
 name_farsi: "عزت‌الله ابراهیم‌نژاد"
-date_of_birth: null
+date_of_birth: "1978-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/33208_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "law graduate"
+education: "graduated from the School of Law of the University of Ahvaz in 1998"
+personality: "energetic character"
+beliefs: "active participation in public marches and demonstrations"
 
 # --- DEATH ---
 date_of_death: 1999-07-09
@@ -85,9 +91,8 @@ circumstances: >
     students in the campus incident. The trial was conducted in the 7th branch
     of the military court of the armed forces of the Islamic Republic of Iran.
     The court dismissed the cases against Far
-event_context: null
-responsible_forces: null
-
+event_context: "July 9, 1999 Incident"
+responsible_forces: "Riot Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

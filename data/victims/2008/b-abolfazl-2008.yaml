@@ -1,12 +1,18 @@
 id: b-abolfazl-2008
 name_latin: "Abolfazl B."
 name_farsi: "ابوالفضل ب."
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1988-01-01"
+place_of_birth: "Mashhad"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "bicyclist"
+family:
+quotes:
+  - "I am innocent and was forced to accept charges because of psychological and physical pressures on me."
 
 # --- DEATH ---
 date_of_death: 2008-02-16
@@ -77,9 +83,8 @@ circumstances: >
     hanged, along with another person, observing of religious orders, in the
     presence of authorities and a forensics physician at the Mashhad Central
     Prison yard on February 16, 2008.
-event_context: null
-responsible_forces: null
-
+event_context: "rape and harassment of eight under-10-year-old girls"
+responsible_forces: "security force"
 # --- VERIFICATION ---
 status: unverified
 sources:

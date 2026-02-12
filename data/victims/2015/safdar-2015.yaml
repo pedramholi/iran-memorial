@@ -3,7 +3,7 @@ name_latin: "Safdar"
 name_farsi: "صفدر"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -48,9 +48,8 @@ circumstances: >
     death and the Supreme Court confirmed the ruling. He was hanged, along
     with four others, at the Gohardasht Prison yard in Karaj on April 16,
     2015.
-event_context: null
-responsible_forces: null
-
+event_context: "2015 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

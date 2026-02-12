@@ -3,7 +3,7 @@ name_latin: "Azizollah Najarian"
 name_farsi: "عزیزالله نجاریان"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -40,9 +40,8 @@ circumstances: >
     was validated by high-echelon judiciary authorities. Mr. Najarian was
     publicly hanged, along with another individual, in Zahedan on Wednesday,
     November 1, 2006.
-event_context: null
-responsible_forces: null
-
+event_context: "2006 execution"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

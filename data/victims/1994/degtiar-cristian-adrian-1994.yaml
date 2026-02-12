@@ -2,11 +2,21 @@ id: degtiar-cristian-adrian-1994
 name_latin: "Cristian Adrian Degtiar"
 name_farsi: "کریستیان آدرین دگتیار"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Buenos Aires, Argentina"
+gender: male
 ethnicity: null
 religion: "Judaism"
 photo: "https://www.iranrights.org/actorphotos/11811_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "DAIA staffer"
+education: "computer technician"
+family:
+  notes: "described as an idealist and a defender of human rights"
+personality: "described as an idealist and a defender of human rights"
+beliefs: "did not join any political parties, preferring to use his writing to express his beliefs"
+quotes:
+  - "Collective memory and awareness will be the best defense against living through the horror."
 
 # --- DEATH ---
 date_of_death: 1994-07-18
@@ -86,9 +96,8 @@ circumstances: >
     the help of Iranian diplomats stationed at the embassy in Buenos Aires.
     The Hezbollah operatives, led by Imad Mughniya, arrived in Buenos Aires
     with fake E
-event_context: null
-responsible_forces: null
-
+event_context: "AMIA bombing on July 18, 1994"
+responsible_forces: "Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,9 +1,9 @@
 id: rajabi-ali-safarpur-2005
 name_latin: "Ali Safarpur Rajabi"
 name_farsi: "علی صفرپور رجبی"
-date_of_birth: null
+date_of_birth: "1985-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -44,8 +44,7 @@ circumstances: >
     commissar, and the chief of the police at Basij Circle in Poldokhtar (
     Kayhan ).
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

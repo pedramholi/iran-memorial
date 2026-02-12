@@ -3,7 +3,7 @@ name_latin: "Seyed Rajab Parvandi"
 name_farsi: "سید رجب پروندی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -35,9 +35,8 @@ circumstances: >
     Parvandi’s defense. Judgment Mr. Seyed Rajab Parvandi was hanged in the
     presence of the Public Prosecutor of Bijar, victims’ families, and police
     officers in Bijar (Kordestan province) on March 4, 1989.
-event_context: null
-responsible_forces: null
-
+event_context: "1989 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

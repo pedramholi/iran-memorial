@@ -1,12 +1,25 @@
 id: vaziri-farahmand-sadeq-2003
 name_latin: "Farahmand Sadeq Vaziri"
 name_farsi: "فرهمند صادق وزیری"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1959-01-01"
+place_of_birth: "Sanandaj"
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: "https://www.iranrights.org/actorphotos/71630_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "businessman"
+education: "diploma of higher education"
+family:
+  marital_status: "married"
+  children: 2
+  notes: "father of Puya and Helya"
+personality: "described as a caring and self-giving person who was kind to his family, friends, acquaintances and neighbours"
+beliefs: "joined the anti-monarchy opposition movement during the 1979 Revolution"
+quotes:
+  - "We could not even purchase a house or car in our names. To do so, we needed a permit from the intelligence unit of the [Islamic Revolution] Guards Corps."
+  - "My son Puya had come first in the billiard competition in the province. But because of our political background, he was barred from taking part in the national competition. Also, my daughter Helya had come first in the province's swimming and mathematics competitions, but, again, she too was barred from entering the national competitions. So we decided to leave [the country] because it was affecting the lives of our children who had had no part in our political activities."
 
 # --- DEATH ---
 date_of_death: 2003-07-06
@@ -85,9 +98,8 @@ circumstances: >
     taking part in national competitions without being given any reasons. "In
     fact, the runners-up in the aforementioned competitions were entered into
     the national ones instead of our children." The Sad
-event_context: null
-responsible_forces: null
-
+event_context: "1979 Revolution"
+responsible_forces: "security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

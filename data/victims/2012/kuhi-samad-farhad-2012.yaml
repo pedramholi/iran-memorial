@@ -1,12 +1,17 @@
 id: kuhi-samad-farhad-2012
 name_latin: "Samad (Farhad) (Kuhi)"
 name_farsi: "صمد (فرهاد) (کوهی)"
-date_of_birth: null
+date_of_birth: "1988-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+quotes:
+  - "I had described my motive for the murder as hatred towards the victim because of the victim's marriage proposal to the woman I loved."
 
 # --- DEATH ---
 date_of_death: 2012-10-25
@@ -50,9 +55,8 @@ circumstances: >
     confirmed the ruling. He was hanged, along with two others, at Raja ishahr
     Prison in Karaj on October 24, 2012. No specific information is available
     about this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on October 24, 2012"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,16 @@
 id: sheikholeslami-fariborz-2013
 name_latin: "Fariborz Sheikholeslami"
 name_farsi: "فریبرز شیخ‌الاسلامی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1971-01-01"
+place_of_birth: "Sabzevar"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/85266_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "nursing student"
+family:
 
 # --- DEATH ---
 date_of_death: 2013-09-01
@@ -87,8 +91,7 @@ circumstances: >
     under the protection of U.S. forces. Several intelligence services,
     including the FBI, went to the Ashr
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

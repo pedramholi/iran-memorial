@@ -1,12 +1,20 @@
 id: sani-mohammad-rajabi-2004
 name_latin: "Mohammad Rajabi Sani"
 name_farsi: "محمد رجبی‌ثانی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1965-01-10"
+place_of_birth: "Tehran"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/75568_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "driver"
+family:
+  marital_status: "married"
+  children: 2
+quotes:
+  - "No, they don t give me any pills here and I want to see the prison s physician."
 
 # --- DEATH ---
 date_of_death: 2004-11-09
@@ -86,8 +94,7 @@ circumstances: >
     need for pills several times. Prison officials refused to dispense the
     medicine without a judge s order, however (Hamshahri newspaper
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Police Station 128"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,16 @@
 id: fard-qadir-zamaemi-2004
 name_latin: "Qadir Zama'emi Fard"
 name_farsi: "قدیر ضمائمی فرد"
-date_of_birth: null
+date_of_birth: "1978-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "son of Gholam Ali"
 
 # --- DEATH ---
 date_of_death: 2004-12-12

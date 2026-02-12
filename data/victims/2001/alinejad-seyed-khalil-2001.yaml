@@ -1,12 +1,19 @@
 id: alinejad-seyed-khalil-2001
 name_latin: "Seyed Khalil Alinejad"
 name_farsi: "سید‌خلیل عالی‌نژاد"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
-religion: null
+date_of_birth: "1957-01-01"
+place_of_birth: "Sahneh, Kermanshah Province"
+gender: male
+ethnicity: "Kurdish"
+religion: "Yarsan"
 photo: "https://www.iranrights.org/actorphotos/83995_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "musician"
+education: "graduated from Tehran University Arts Department"
+family:
+  notes: "son of Seyed Shahmorad"
+personality: "free-spirited wayfarer of morality and mysticism, prominent master of modal and national music, enlightened and pragmatic elder"
 
 # --- DEATH ---
 date_of_death: 2001-11-18

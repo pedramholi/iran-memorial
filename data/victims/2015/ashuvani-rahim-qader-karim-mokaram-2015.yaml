@@ -1,12 +1,15 @@
 id: ashuvani-rahim-qader-karim-mokaram-2015
 name_latin: "Rahim (Qader) Karim Mokaram (Ashuvani)"
 name_farsi: "رحیم (قادر) کریم مکرم (آشوانی)"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1969-01-01"
+place_of_birth: "Hassanabad Village, Nalus District, near Oshnavieh, Azarbaijan-e Gharbi"
+gender: male
+ethnicity: "Kurd"
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "drug trafficker"
 
 # --- DEATH ---
 date_of_death: 2015-12-24
@@ -53,9 +56,8 @@ circumstances: >
     other defendants of this case to death and the Supreme Court confirmed the
     ruling. He was hanged, along with seven others, at the Qazvin Prison yard
     on December 24, 2015 at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "2015 execution"
+responsible_forces: "Islamic Revolutionary Court of Qazvin"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -2,8 +2,8 @@ id: zeraatgar-zakaria-1997
 name_latin: "Zakaria Zera'atgar"
 name_farsi: "ذکریا زراعتگر"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Sa’ich, Amol, Mazandaran"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -39,8 +39,7 @@ circumstances: >
     court condemned Mr. Zakaria Zera’atgar to death and, after the ruling was
     confirmed by the Supreme Court, he was executed.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

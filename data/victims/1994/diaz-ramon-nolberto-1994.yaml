@@ -2,11 +2,20 @@ id: diaz-ramon-nolberto-1994
 name_latin: "Ramon Nolberto Diaz"
 name_farsi: "رامون نولبرتو دیاز"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Entre Ríos"
+gender: male
 ethnicity: null
 religion: "Judaism"
 photo: "https://www.iranrights.org/actorphotos/11813_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "superintendent"
+family:
+  marital_status: "married"
+  children: 1
+  notes: "devoted to his wife and son"
+quotes:
+  - "Come back soon because we [Ramon and their son] miss you a lot."
 
 # --- DEATH ---
 date_of_death: 1994-07-18
@@ -86,9 +95,8 @@ circumstances: >
     governed region bordering Argentina, Brazil, and Paraguay, that has become
     a danger point for terrorism. From the evidence gathered, two Iranian
     diplomats in
-event_context: null
-responsible_forces: null
-
+event_context: "AMIA bombing on July 18, 1994"
+responsible_forces: "Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

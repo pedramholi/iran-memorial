@@ -2,11 +2,17 @@ id: mobinizadeh-jalal-1996
 name_latin: "Jalal Mobinizadeh"
 name_farsi: "جلال مبینی‌زاده"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Mashhad"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "snack seller"
+family:
+  notes: "took care of his father who was old and had had a stroke"
+beliefs: "supporter of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1996-12-31
@@ -85,9 +91,8 @@ circumstances: >
     leaders , had been executed during mass killings in the summer of 1989
     (3). According to this information and according to the statements given
     by responsible officials, it is
-event_context: null
-responsible_forces: null
-
+event_context: "Alghadir Operation"
+responsible_forces: "Information Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Ahmad A."
 name_farsi: "احمد الف."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -40,9 +40,8 @@ circumstances: >
     presented against the defendant. Defence No information is available on
     the defendant's defence. Judgment The court condemned Mr. Ahmad A. to
     death and he was hanged in Arak central prison on April 13, 2011.
-event_context: null
-responsible_forces: null
-
+event_context: "2011 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

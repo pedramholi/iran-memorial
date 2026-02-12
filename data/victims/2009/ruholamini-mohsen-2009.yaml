@@ -3,10 +3,19 @@ name_latin: "Mohsen Ruholamini"
 name_farsi: "محسن روح الامینی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/61802_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "information technology student"
+education: "School of Engineering of Tehran University"
+family:
+  notes: "son of Dr. Abdolhossein Ruholamini, former head of the Pasteur Institute of Iran, Secretary General of the Justice and Development Party, and an advisor to a presidential candidate."
+personality: "described as Pure, kind, and with no attachment to this world. He was always in search of the truth with great curiosity. He was not easily convinced, unlike other members of the new generation. He was not satisfied with the clich responses that we offer our youth."
+quotes:
+  - "\"On July 9, Mohsen was arrested by plainclothes individuals and transferred to the headquarters of the Tehran Metropolitan Police Department located on Kargar Street near Enqelab Square, along with other detainees.\""
 
 # --- DEATH ---
 date_of_death: 2009-01-01
@@ -85,9 +94,8 @@ circumstances: >
     unconscious. Officials Mr. Mohsen Ruholamini s cellmate who has since left
     Iran after being released spoke about the grave condition of Mr.
     Ruholamini in prison
-event_context: null
-responsible_forces: null
-
+event_context: "2009 protests"
+responsible_forces: "Tehran Metropolitan Police Department"
 # --- VERIFICATION ---
 status: unverified
 sources:

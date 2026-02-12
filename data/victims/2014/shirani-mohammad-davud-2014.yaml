@@ -1,12 +1,21 @@
 id: shirani-mohammad-davud-2014
 name_latin: "Mohammad Davud Shirani"
 name_farsi: "محمد‌داود شیرانی"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1978-01-01"
+place_of_birth: "Birjand, Southern Khorasan"
+gender: male
+ethnicity: "Baluchi"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/85329_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "speaker for Jaish ul-Adl, worked in the bazaar, car dealer"
+education: "high school diploma in humanities"
+family:
+  marital_status: "married"
+  children: 4
+  notes: "father of four"
+personality: "good at social interactions, very effective at uniting the dissidents"
 
 # --- DEATH ---
 date_of_death: 2014-06-29

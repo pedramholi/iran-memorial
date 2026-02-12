@@ -1,12 +1,15 @@
 id: asemani-arman-bahr-2017
 name_latin: "Arman Bahr Asemani"
 name_farsi: "آرمان بحر‌آسمانی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1979-02-11"
+place_of_birth: "Jiroft, Kerman Province"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/78129_thumb.jpeg"
+
+# --- LIFE ---
+family:
 
 # --- DEATH ---
 date_of_death: 2017-01-15

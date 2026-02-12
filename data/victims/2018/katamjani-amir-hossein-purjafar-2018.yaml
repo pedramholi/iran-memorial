@@ -1,12 +1,17 @@
 id: katamjani-amir-hossein-purjafar-2018
 name_latin: "Amir Hossein Purja'far Katamjani"
 name_farsi: "امیرحسین پورجعفر کتم جانی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1999-12-16"
+place_of_birth: "Kheirabad village, Varamin"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/82833_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  notes: "child of Roghieh and Habib; lived with his father, mother, and three sisters"
+personality: "described as belligerent and a loner; described as quiet and aloof by his only friend"
 
 # --- DEATH ---
 date_of_death: 2018-01-04
@@ -85,7 +90,7 @@ circumstances: >
     Purjafar s attorney, the trial was closed door when hearing the charge of
     salacious [and unchaste] act and was open to the public regarding the
     other charges . (Mizan, Fars, IRNA, a
-event_context: null
+event_context: "murder of Setayesh Qoreishi on April 10, 2016"
 responsible_forces: null
 
 # --- VERIFICATION ---

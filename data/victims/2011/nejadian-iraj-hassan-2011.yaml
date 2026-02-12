@@ -2,8 +2,8 @@ id: nejadian-iraj-hassan-2011
 name_latin: "Iraj Hassan Nejadian"
 name_farsi: "ایرج حسن نژادیان"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Alnabi village near Orumieh"
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -40,8 +40,7 @@ circumstances: >
     available about the defendant s execution. Mr. Iraj Hassan-nejadian was
     hanged in Orumieh Central Prison on March 3, 2011.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,22 @@
 id: amuri-hashem-shabaninejad-2014
 name_latin: "Hashem Sha'baninejad (Amuri)"
 name_farsi: "هاشم شعبانی نژاد (عموری)"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1991-01-01"
+place_of_birth: "Ramshir (Khalafieh)"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/71725_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "teacher"
+education: "Master's degree in political science"
+family:
+  marital_status: "married"
+  children: 1
+  notes: "supported his wife and daughter, as well as his mother, sister, and wounded war veteran father."
+quotes:
+  - "This is life s most important element and is constantly abused by those who base their survival on human beings ignorance and lack of awareness."
 
 # --- DEATH ---
 date_of_death: 2014-01-01
@@ -85,9 +95,8 @@ circumstances: >
     the demonstrations that had been called for by the Coordination Committee
     for Popular Protests in Ahvaz continued extensively in the coming days. In
     calling for demonstrations, [the organizers]
-event_context: null
-responsible_forces: null
-
+event_context: "2005-2006 demonstrations by Iranian Arabs residing in Khuzestan"
+responsible_forces: "Ministry of Information"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,10 +3,13 @@ name_latin: "Faramarz"
 name_farsi: "فرامرز"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+beliefs: "supporter of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1993-04-05
@@ -86,8 +89,7 @@ circumstances: >
     sentence issued by the Islamic Revolutionary Court. Therefore, they are
     Mahduroddam and their sentence is death regardless of
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

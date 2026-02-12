@@ -3,7 +3,7 @@ name_latin: "Ehsan G."
 name_farsi: "احسان گ."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -50,8 +50,7 @@ circumstances: >
     is not clear whether or not the case was referred to and confirmed by the
     Supreme Court.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Mahmud Maleki"
 name_farsi: "محمود ملکی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -42,9 +42,8 @@ circumstances: >
     presented against Mr. Maleki. Defense No information is available on Mr.
     Maleki s defense. Judgment Mr. Mansur Maleki was hanged, along with seven
     others, at the Raja ishahr (Gohardasht) Prison on April 14, 2015.
-event_context: null
-responsible_forces: null
-
+event_context: "2015 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

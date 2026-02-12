@@ -3,10 +3,18 @@ name_latin: "Hossein (Akbar) D."
 name_farsi: "حسین (اکبر) د."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/83527_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "carpenter"
+family:
+  marital_status: "married"
+  children: 10
+quotes:
+  - "[Nothing and no one] saw me armed where I went, not even the mosquitoes in the air. I went to places that were usually farm land. That is, I did not go to anybody s home, and I did not go to anybody s store. Even when I was committing robbery on some agricultural land, I would not go if I learned there were women or children there. As to why he was carrying a gun, he responded: I feared for my life. He added that he was stealing [electro] motors used in agricultural wells in order to pay for his family s living expenses. Regarding two counts of murder, he said: I had gone there to steal, and the murders were not intentional."
 
 # --- DEATH ---
 date_of_death: 2018-05-12
@@ -85,9 +93,8 @@ circumstances: >
     against God ) and Efsad fel-Arz ( spreading corruption on Earth ) through
     the commission of armed robbery and murder. The sentence was issued by the
     revolutionary court; the defendant s case
-event_context: null
-responsible_forces: null
-
+event_context: "Serial Murders"
+responsible_forces: "Golestan Province Criminal Investigation Bureau"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Abdorreza Ashiri"
 name_farsi: "عبدالرضا اشیری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -39,9 +39,8 @@ circumstances: >
     details of this judgment. According to the newspaper report, Branch 1601
     of Tehran Criminal Court Complex condemned Mr. Ali Asghar Ana’i, and he
     was hanged at dawn on July 18, 2001.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on July 18, 2001"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

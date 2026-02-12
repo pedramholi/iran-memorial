@@ -3,7 +3,7 @@ name_latin: "Mohammad Esma'il Soltani"
 name_farsi: "محمد اسماعیل سلطانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -53,9 +53,8 @@ circumstances: >
     smuggling narcotics.” Defense No information is available on Mr. Mohammad
     Soltani’s defense. Judgment Based on the court’s ruling, Mr. Mohammad
     Esma’il Soltani was hanged in Esfahan.
-event_context: null
-responsible_forces: null
-
+event_context: "1989"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

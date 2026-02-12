@@ -2,8 +2,8 @@ id: nami-ahmad-2016
 name_latin: "Ahmad Nami"
 name_farsi: "احمد نمی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Balulan, Orumieh"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -47,9 +47,8 @@ circumstances: >
     and three other defendants were executed on Tuesday April 19, 2016, in
     Orumieh Prison. ------------------------ *Messers: Manuchehr Razani,
     Alireza Sarebani, and Abdolhamid Moradi
-event_context: null
-responsible_forces: null
-
+event_context: "2016 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

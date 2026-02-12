@@ -1,12 +1,15 @@
 id: rahimi-ahmad-2014
 name_latin: "Ahmad Rahimi"
 name_farsi: "احمد رحیمی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1996-01-01"
+place_of_birth: "Bandar Abbas"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
 
 # --- DEATH ---
 date_of_death: 2014-04-17

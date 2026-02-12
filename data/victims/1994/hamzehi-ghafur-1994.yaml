@@ -3,10 +3,14 @@ name_latin: "Ghafur Hamzeh'i"
 name_farsi: "غفور حمزه‌ای"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim (Sunni)"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "Ghafur Hamzeh'i was shot dead outside his home in Baghdad."
 
 # --- DEATH ---
 date_of_death: 1994-08-04
@@ -38,8 +42,7 @@ circumstances: >
     Hamzei was not given the opportunity to defend himself before being
     killed. Judgment The judgment, if any, was not made public.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Minister of Information and Security, Hojatoleslam Ali Fallahian"
 # --- VERIFICATION ---
 status: unverified
 sources:

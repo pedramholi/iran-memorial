@@ -3,7 +3,7 @@ name_latin: "Mehri Siavashi"
 name_farsi: "مهری سیاوشی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -58,9 +58,8 @@ circumstances: >
     court of Tehran condemned Ms. Mehri Siavashi to death as a corruptor on
     Earth. She received 125 lashes as punishment before being hanged in public
     on February 14, 1989 in Tehran.
-event_context: null
-responsible_forces: null
-
+event_context: "1989 execution"
+responsible_forces: "Islamic Revolutionary court"
 # --- VERIFICATION ---
 status: unverified
 sources:

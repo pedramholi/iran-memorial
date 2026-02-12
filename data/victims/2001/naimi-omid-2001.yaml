@@ -1,12 +1,15 @@
 id: naimi-omid-2001
 name_latin: "Omid Na'imi"
 name_farsi: "امید نعیمی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1983-01-01"
+place_of_birth: "Firuzkola village near Dashtsar, Amol, Mazandaran"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
 
 # --- DEATH ---
 date_of_death: 2001-04-18

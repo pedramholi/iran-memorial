@@ -2,8 +2,8 @@ id: sargolzai-nader-2000
 name_latin: "Nader Sargolza'i"
 name_farsi: "نادر سرگل‌زائی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Zabol"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -46,9 +46,8 @@ circumstances: >
     Court and the General Public Prosecutor confirmed the ruling and he was
     hanged, along with two others, in Mazandaran in 2000. No specific
     information is available about this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "2000"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

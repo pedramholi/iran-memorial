@@ -2,11 +2,23 @@ id: barmashti-alem-2016
 name_latin: "Alem Barmashti"
 name_farsi: "عالم برماشتی"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Su, Sanandaj"
+gender: male
+ethnicity: "Kurdish"
 religion: "Islam (Sunni)"
 photo: "https://www.iranrights.org/actorphotos/76015_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "farmer"
+education: "7th grade"
+family:
+  marital_status: "married"
+  children: 1
+  notes: "child of Saleh"
+personality: "kind and jovial"
+beliefs: "follower of the Shafe'i branch of Islam"
+quotes:
+  - "\"I knew the Koran by heart.\""
 
 # --- DEATH ---
 date_of_death: 2016-08-02
@@ -85,9 +97,8 @@ circumstances: >
     Human Rights Defenders, and the Abdorrahman Borumand Foundation (December
     31, 2014) issued several declarations and calls to action, demanding the
     rescission of the death sentences issued for the defendants of the c
-event_context: null
-responsible_forces: null
-
+event_context: "execution of 25 individuals on August 2, 2016"
+responsible_forces: "IRGC"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,10 +3,13 @@ name_latin: "Bahman Eslami"
 name_farsi: "بهمن اسلامی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "champion"
 
 # --- DEATH ---
 date_of_death: 2000-11-06
@@ -60,8 +63,7 @@ circumstances: >
     [corruptor on Earth] and condemned him to death. The Supreme Court
     confirmed the ruling. He was hanged in Tehran on November 6, 2000 at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,10 +3,13 @@ name_latin: "Ahmad Aqa'i"
 name_farsi: "احمد آقایی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: null
 photo: null
+
+# --- LIFE ---
+beliefs: "supporter of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1997-01-10
@@ -85,9 +88,8 @@ circumstances: >
     the Middle East; Cyprus, France, Italy, Austria, Switzerland, Germany,
     Norway, Sweden, and Great Britain in Europe; and the United States across
     the Atlantic Ocean. In too many c
-event_context: null
-responsible_forces: null
-
+event_context: "operation named Alghadir"
+responsible_forces: "Information Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

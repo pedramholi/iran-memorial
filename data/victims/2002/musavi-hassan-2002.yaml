@@ -3,7 +3,7 @@ name_latin: "Hassan Musavi"
 name_farsi: "حسن موسوی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/25038_thumb.jpeg"
@@ -43,8 +43,7 @@ circumstances: >
     guarantees safety in the society, and we hope that punishments like this
     will teach a lesson to criminals and violators of the law."
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

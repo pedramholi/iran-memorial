@@ -3,7 +3,7 @@ name_latin: "Majid Dusti"
 name_farsi: "مجید دوستی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -52,9 +52,8 @@ circumstances: >
     Dusti to death. He was hanged in a Tehran prison along with eight others
     on May 6, 2012. His belongings were confiscated by the decree of the
     court.
-event_context: null
-responsible_forces: null
-
+event_context: "drug trafficking"
+responsible_forces: "Revolutionary Court of Tehran"
 # --- VERIFICATION ---
 status: unverified
 sources:

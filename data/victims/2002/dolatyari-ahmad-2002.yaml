@@ -3,10 +3,16 @@ name_latin: "Ahmad Dolatyari"
 name_farsi: "احمد دولتیاری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/41701_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "worked at an automobile body shop"
+personality: "known as Robin Hood, who took from the rich and gave to the poor"
+quotes:
+  - "I have not committed an act deserving of execution."
 
 # --- DEATH ---
 date_of_death: 2002-05-20
@@ -42,9 +48,8 @@ circumstances: >
     Court condemned Mr. Ahmad Dolatyari to death and this verdict was approved
     by the Supreme Court. He was hanged in public on May 20, 2002 in Be’sat
     district in south of Tehran city.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on May 20, 2002"
+responsible_forces: "Tehran Criminal Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

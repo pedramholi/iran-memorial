@@ -1,12 +1,15 @@
 id: dolat-mansur-1997
 name_latin: "Mansur Dolat"
 name_farsi: "منصور دولت"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1944-05-05"
+place_of_birth: "Yazd"
+gender: male
 ethnicity: null
 religion: "Baha'i"
 photo: null
+
+# --- LIFE ---
+occupation: "member of the Local Spiritual Assembly of the Baha'is of Taherabad"
 
 # --- DEATH ---
 date_of_death: 1997-04-15
@@ -86,8 +89,7 @@ circumstances: >
     of a religious minority; they cannot profess and practice their faith, and
     are banned from public functions. Discrimination under the law and in pra
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

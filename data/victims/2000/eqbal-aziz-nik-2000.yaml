@@ -3,10 +3,13 @@ name_latin: "Aziz Nik Eqbal"
 name_farsi: "عزیز نیک‌ اقبال"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+occupation: "farmer"
 
 # --- DEATH ---
 date_of_death: 2000-01-01

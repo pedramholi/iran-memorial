@@ -2,11 +2,17 @@ id: finkelchtein-leonor-gutman-de-1994
 name_latin: "Leonor Gutman de Finkelchtein"
 name_farsi: "لئونور گوتمن دفینکلشتین"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Buenos Aires, Argentina"
+gender: female
 ethnicity: null
 religion: "Judaism"
 photo: "https://www.iranrights.org/actorphotos/11828_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "law firm employee"
+family:
+  marital_status: "married"
+  children: 3
 
 # --- DEATH ---
 date_of_death: 1994-07-18
@@ -85,7 +91,7 @@ circumstances: >
     a danger point for terrorism. From the evidence gathered, two Iranian
     diplomats in Buenos Aires actively assisted Hezbollah. Mohsen Rabbani, who
     was in charge of the operation, w
-event_context: null
+event_context: "AMIA bombing"
 responsible_forces: null
 
 # --- VERIFICATION ---

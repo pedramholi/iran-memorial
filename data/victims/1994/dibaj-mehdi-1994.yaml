@@ -2,11 +2,26 @@ id: dibaj-mehdi-1994
 name_latin: "Mehdi Dibaj"
 name_farsi: "مهدی دیباج"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Esfahan"
+gender: male
 ethnicity: null
 religion: "Christianity"
 photo: "https://www.iranrights.org/actorphotos/85467_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "pastor"
+education: "studied Christian theology"
+family:
+  marital_status: "married"
+  children: 4
+  notes: "son of Hassan"
+personality: "lived in utmost simplicity and contentment"
+beliefs: "Christian faith"
+quotes:
+  - "When the seriousness of his faith became clear to his family, they kicked him out of the house. So, my father went to Tehran and took refuge in the house of a Christian there."
+  - "He lived in utmost simplicity and contentment."
+  - "He was a good father. He was a real believer. His faith was essential to him. [Before the arrest] we had a normal life. But he maintained his belief and insisted that we grow up in the Christian faith."
+  - "I have been accused of apostasy! They say, You were a Muslim, and you became a Christian. No, I was a non-believer for many years. I obeyed God's call by studying and researching. I believed in Jesus Christ, Lord, so that I may have eternal life (John: 6:47)."
 
 # --- DEATH ---
 date_of_death: 1994-06-04
@@ -87,8 +102,7 @@ circumstances: >
     Dibaj: "In response to this death sentence, Bishop Haik Hovsepian, who at
     that time was
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Court of Sary"
 # --- VERIFICATION ---
 status: unverified
 sources:

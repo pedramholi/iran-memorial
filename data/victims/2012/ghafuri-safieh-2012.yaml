@@ -1,12 +1,22 @@
 id: ghafuri-safieh-2012
 name_latin: "Safieh Ghafuri"
 name_farsi: "صفیه غفوری"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1984-01-01"
+place_of_birth: "Chahvarz, Lamard County, Fars Province"
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "homemaker"
+education: "eighth grade"
+family:
+  marital_status: "married"
+  notes: "pregnant at the time of her arrest"
+personality: "beautiful and intelligent"
+quotes:
+  - "I very much wished to change my life conditions."
 
 # --- DEATH ---
 date_of_death: 2012-07-12
@@ -85,9 +95,8 @@ circumstances: >
     but the bullet remained in her heart tissue until her death sentence was
     carried out. Ms. Ghaffuri once attempted suicide at Adelabad Prison
     because she had been ostr
-event_context: null
-responsible_forces: null
-
+event_context: "murder committed in one of Fars Province s towns in 2006"
+responsible_forces: "Iranian authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

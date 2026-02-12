@@ -3,7 +3,7 @@ name_latin: "Gholam Hossein Ahmadinia"
 name_farsi: "غلامحسین احمدی‌نیا"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -30,8 +30,7 @@ circumstances: >
     death and the Supreme Court confirmed the ruling. He was hanged at the
     Qasr Prison in Tehran on July 16, 2003.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Criminal Court of Tehran"
 # --- VERIFICATION ---
 status: unverified
 sources:

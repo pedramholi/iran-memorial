@@ -1,12 +1,15 @@
 id: sh-mojtaba-2004
 name_latin: "Mojtaba Sh."
 name_farsi: "مجتبی ش."
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1971-01-01"
+place_of_birth: "Semirom"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
 
 # --- DEATH ---
 date_of_death: 2004-11-23
@@ -73,9 +76,8 @@ circumstances: >
     deadly to the other person due to that person s illness, old age,
     incapacity, childhood, and the like, and the murderer is aware of the
     same.
-event_context: null
-responsible_forces: null
-
+event_context: "mass struggle in the Semirom City of Isfahan Province in 2000"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

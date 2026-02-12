@@ -1,9 +1,9 @@
 id: puyaifar-hossein-2008
 name_latin: "Hossein Puya'ifar"
 name_farsi: "حسین پویایی‌فر"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1987-01-01"
+place_of_birth: "Rabat, Sardasht County, West Azerbaijan Province"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -85,9 +85,8 @@ circumstances: >
     addition, they must follow the following sequence, if possible: a) Warning
     shots; b) Shots aimed at the lower body; c) Shots aimed at the upper body.
     (Note 3, Article 3) If an officer shoots following the above regulations
-event_context: null
-responsible_forces: null
-
+event_context: "protests on April 20, 2008"
+responsible_forces: "law enforcement officers"
 # --- VERIFICATION ---
 status: unverified
 sources:

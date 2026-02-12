@@ -1,12 +1,16 @@
 id: bakhshi-ahmad-2009
 name_latin: "Ahmad Bakhshi"
 name_farsi: "احمد بخشی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1985-01-01"
+place_of_birth: "Qa em Shahr, Mazandaran"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "criminal"
+family:
 
 # --- DEATH ---
 date_of_death: 2009-11-15
@@ -52,8 +56,7 @@ circumstances: >
     Shahr (Kayhan Newspaper). There is no information on the details of the
     verdict leading to this execution.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Ministry of Justice"
 # --- VERIFICATION ---
 status: unverified
 sources:

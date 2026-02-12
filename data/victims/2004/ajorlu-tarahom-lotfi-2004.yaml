@@ -2,11 +2,15 @@ id: ajorlu-tarahom-lotfi-2004
 name_latin: "Tarahom Lotfi Ajorlu"
 name_farsi: "ترحم لطفی آجرلو"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Ardabil"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
 
 # --- DEATH ---
 date_of_death: 2004-10-03
@@ -37,7 +41,7 @@ circumstances: >
     authorities at Imam Khomeini Square by the transportation terminal of Qa
     em-Shahr in the morning of October 3, 2004 (Kayhan daily, October 3,
     2004).
-event_context: null
+event_context: "public execution on October 3, 2004"
 responsible_forces: null
 
 # --- VERIFICATION ---

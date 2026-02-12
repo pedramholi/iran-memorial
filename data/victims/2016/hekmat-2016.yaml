@@ -2,11 +2,14 @@ id: hekmat-2016
 name_latin: "Hekmat"
 name_farsi: "حکمت"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Soleimanieh, Iraqi Kurdistan"
+gender: male
+ethnicity: "Kurdish"
 religion: "Islam (Sunni)"
 photo: null
+
+# --- LIFE ---
+occupation: "member of the Islamist party Kataeb Navadegan Salahuddin Ayyubi"
 
 # --- DEATH ---
 date_of_death: 2016-08-02
@@ -86,9 +89,8 @@ circumstances: >
     adherents, was followed by the reaction of numerous domestic and
     international individuals and organizations. On June 12, 2014, eighteen
     human rights orga
-event_context: null
-responsible_forces: null
-
+event_context: "execution of 25 individuals on August 2, 2016"
+responsible_forces: "IRGC"
 # --- VERIFICATION ---
 status: unverified
 sources:

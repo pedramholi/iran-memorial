@@ -3,7 +3,7 @@ name_latin: "Rasul Naderi"
 name_farsi: "رسول نادری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -40,9 +40,8 @@ circumstances: >
     Naderi's defense. Judgment Mr. Rasul Naderi was hanged at the Bam Central
     Prison between February 20 and 22, 2015. No specific information is
     available about this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "2015 executions"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,10 +3,20 @@ name_latin: "Khadijeh (Shahla) Jahed"
 name_farsi: "خدیجه (شهلا) جاهد"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/64417_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "nurse"
+education: "high school diploma and an associate's degree in nursing"
+family:
+  marital_status: "temporarily married"
+  notes: "temporary wife of Naser Mohammadkhani"
+personality: "nice, energetic, active, sociable"
+quotes:
+  - "According to Ms. Jahed, she was in love with Naser Mohammadkhani since she was 13."
 
 # --- DEATH ---
 date_of_death: 2010-12-01

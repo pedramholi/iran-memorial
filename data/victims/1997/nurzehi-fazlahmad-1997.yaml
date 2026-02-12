@@ -3,7 +3,7 @@ name_latin: "Fazlahmad Nurzehi"
 name_farsi: "فضل احمد نورزهی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -46,9 +46,8 @@ circumstances: >
     Fazlahmad Nurzehi was condemned to death and the Supreme Court confirmed
     the ruling. He was hanged in public at Ahmadian intersection in Gonabad on
     August 6, 1997.
-event_context: null
-responsible_forces: null
-
+event_context: "1997 execution"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -2,8 +2,8 @@ id: narui-2014
 name_latin: "Naru'i"
 name_farsi: "ناروئی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Zabol"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -42,8 +42,7 @@ circumstances: >
     hanged at Yasuj Prison in the Kohgiluyeh-va Boyerahmad province on January
     12, 2014.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

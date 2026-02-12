@@ -3,7 +3,7 @@ name_latin: "Akbar Daqiq Moshtari"
 name_farsi: "اکبر دقیق مشتری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -42,8 +42,7 @@ circumstances: >
     writing his will and performing a religious ceremony, he was hanged at
     Qasr prison (Tehran) before dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

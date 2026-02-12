@@ -1,12 +1,15 @@
 id: davudi-amir-2015
 name_latin: "Amir Davudi"
 name_farsi: "امیر داودی"
-date_of_birth: null
+date_of_birth: "1975-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
 
 # --- DEATH ---
 date_of_death: 2015-02-17

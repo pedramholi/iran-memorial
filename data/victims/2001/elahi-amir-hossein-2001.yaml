@@ -3,7 +3,7 @@ name_latin: "Amir Hossein Elahi"
 name_farsi: "امیرحسین الهی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -37,9 +37,8 @@ circumstances: >
     court condemned Mr. Amir Hossein Elahi to death and the Supreme Court
     confirmed the ruling. He was hanged at the Qasr Prison yard on June 20,
     2001.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on June 20, 2001"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

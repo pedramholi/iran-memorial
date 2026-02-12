@@ -1,12 +1,21 @@
 id: ehsani-ehsanollah-2016
 name_latin: "Ehsanollah Ehsani"
 name_farsi: "احسان‌الله احسانی"
-date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+date_of_birth: "1996-03-21"
+place_of_birth: "Ghazni Province, Qarabagh District, Afghanistan"
+gender: male
+ethnicity: "Hazara"
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/75998_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "welder and mason"
+education: "sixth-grade education"
+family:
+  notes: "child of Ali Khan; had two sisters and three brothers; loved his mother very much"
+personality: "quiet and fairly serious"
+quotes:
+  - "They tell me that I have stolen; I have done nothing, I just picked someone up and took him somewhere. He was the thief, he had stolen the motorcycle, and they think I was his accomplice. They torture me without giving me food and water; they want me to admit that I have committed ten crimes and to confess to them so that they ll stop torturing me. They say they will help me out and will tell the court that I cooperated and that because I m young, they will ask the court to give me a lighter sentence."
 
 # --- DEATH ---
 date_of_death: 2016-05-20
@@ -86,8 +95,7 @@ circumstances: >
     detention, Mr. Ehsani visited with his family on Sundays from behind a
     glass window for less than
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Zarej Police Precinct"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Abdolhamid Soltanzehi"
 name_farsi: "عبدالحمید سلطان زهی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -55,9 +55,8 @@ circumstances: >
     Defense No information is available on Mr. Soltanzehi’s defense. Judgment
     Based on the court's ruling, Mr. Abdolhamid Soltanzehi was hanged in
     Torbat-e Heidarieh.
-event_context: null
-responsible_forces: null
-
+event_context: "1989 law imposing mandatory death sentences on drug traffickers"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

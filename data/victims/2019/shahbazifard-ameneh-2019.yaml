@@ -1,12 +1,23 @@
 id: shahbazifard-ameneh-2019
 name_latin: "Ameneh Shahbazifard"
 name_farsi: "آمنه شهبازی‌فرد"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1983-12-30"
+place_of_birth: "Varkeh Rud, near Qazvin"
+gender: female
 ethnicity: null
 religion: "Presumed Muslim (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/83215_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "secretary"
+education: "high school"
+family:
+  marital_status: "married"
+  children: 3
+  notes: "mother of two daughters and one son"
+personality: "kind woman who always tried to help those around her"
+quotes:
+  - "I was trying to help an injured young man."
 
 # --- DEATH ---
 date_of_death: 2019-11-17
@@ -85,9 +96,8 @@ circumstances: >
     the leg. She approached to help him and removed her scarf to tie it around
     the wound. While tending to the injury, security forces shot her in the
     neck from behind and she died at the scene. (ABC intervie
-event_context: null
-responsible_forces: null
-
+event_context: "November 2019 protests"
+responsible_forces: "security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

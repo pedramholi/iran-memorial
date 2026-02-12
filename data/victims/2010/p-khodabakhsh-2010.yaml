@@ -1,9 +1,9 @@
 id: p-khodabakhsh-2010
 name_latin: "Khodabakhsh P."
 name_farsi: "خدابخش پ."
-date_of_birth: null
+date_of_birth: "1975-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -44,8 +44,7 @@ circumstances: >
     he was hanged in the Esfahan Central prison yard on July 5, 2010. Mr.
     Khodabakhsh P. was 35 years old.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

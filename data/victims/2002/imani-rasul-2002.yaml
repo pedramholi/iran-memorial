@@ -2,8 +2,8 @@ id: imani-rasul-2002
 name_latin: "Rasul Imani"
 name_farsi: "رسول ایمانی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Ajabshir, Azarbaijan-e Sharqi"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -46,8 +46,7 @@ circumstances: >
     yard. The exact date of this execution is unknown. According to the
     report, his properties were also confiscated.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

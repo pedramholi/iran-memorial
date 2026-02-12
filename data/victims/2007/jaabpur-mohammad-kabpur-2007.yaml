@@ -1,12 +1,19 @@
 id: jaabpur-mohammad-kabpur-2007
 name_latin: "Mohammad Ka'bpur (Ja'abpur)"
 name_farsi: "محمد کعب‌پور (چعب‌پور)"
-date_of_birth: null
+date_of_birth: "1978-01-01"
 place_of_birth: null
-gender: null
-ethnicity: null
+gender: male
+ethnicity: "Arab"
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/72489_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "student"
+education: "Shushtar University"
+family:
+  marital_status: "married"
+  children: 2
 
 # --- DEATH ---
 date_of_death: 2007-01-24
@@ -85,7 +92,7 @@ circumstances: >
     obvious footprint of Iraq s occupiers in the Khuzestan incidents. (ISNA,
     January 25, 2006). The British government officially denied these
     accusations and expressed its concern re
-event_context: null
+event_context: "2005-2006 unrest and bombings"
 responsible_forces: null
 
 # --- VERIFICATION ---

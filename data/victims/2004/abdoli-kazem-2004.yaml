@@ -3,10 +3,14 @@ name_latin: "Kazem Abdoli"
 name_farsi: "کاظم عبدلی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "On April 18, 2003 Kazem Abdoli was trying to steal a safe from his uncle's house."
 
 # --- DEATH ---
 date_of_death: 2004-09-19

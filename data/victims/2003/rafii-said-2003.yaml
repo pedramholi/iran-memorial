@@ -2,11 +2,16 @@ id: rafii-said-2003
 name_latin: "Sa'id Rafi'i"
 name_farsi: "سعید رفیعی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Hamadan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "gardener"
+quotes:
+  - "he stated that following his acquaintance with the property owner he went to the house, murdered the owner and his sister, and left with 72 thousand Tumans on May 1, 2001."
 
 # --- DEATH ---
 date_of_death: 2003-07-30
@@ -44,8 +49,7 @@ circumstances: >
     imprisonment. The Supreme Court confirmed the ruling. He was hanged at
     Qasr Prison in Tehran on July 30, 2003.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

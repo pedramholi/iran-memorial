@@ -3,10 +3,14 @@ name_latin: "Osman Dahmardeh"
 name_farsi: "عثمان ده‌مرده"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "His mother was executed along with him."
 
 # --- DEATH ---
 date_of_death: 2014-08-09
@@ -50,9 +54,8 @@ circumstances: >
     when arrested. No information is available on his defense. Judgment Mr.
     Osman Dahmardeh was hanged, along with four others, in the Zahedan Central
     Prison on August 9, 2014. His mother was executed along with him.
-event_context: null
-responsible_forces: null
-
+event_context: "2014 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

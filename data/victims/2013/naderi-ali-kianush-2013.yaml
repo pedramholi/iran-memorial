@@ -1,12 +1,21 @@
 id: naderi-ali-kianush-2013
 name_latin: "Ali (Kianush) Naderi"
 name_farsi: "علی (کیانوش) نادری"
-date_of_birth: null
+date_of_birth: "1995-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "high school student"
+education: "high school"
+family:
+quotes:
+  - "I did not intend to murder the old woman. I only intended to force her to give up the key to her safe."
+  - "I killed the old woman because of the insistence of my friend who was the victim's relative and was identified by her."
+  - "I expressed regret."
 
 # --- DEATH ---
 date_of_death: 2013-01-16
@@ -73,9 +82,8 @@ circumstances: >
     hanged in the Gohardasht Prison in Karaj on January 16, 2013 at dawn. One
     of his collaborators was condemned to 15 years and the other to 10 years
     imprisonment.
-event_context: null
-responsible_forces: null
-
+event_context: "murder of an eighty-year-old woman on November 12, 2008"
+responsible_forces: "police"
 # --- VERIFICATION ---
 status: unverified
 sources:

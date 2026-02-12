@@ -1,12 +1,22 @@
 id: dini-jamshid-2016
 name_latin: "Jamshid Dini"
 name_farsi: "جمشید دینی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1960-02-27"
+place_of_birth: "Tehran"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "audio and video device store owner"
+education: "high school diploma"
+family:
+  marital_status: "married"
+  children: 2
+personality: "remembered as a family man"
+quotes:
+  - "I attempted to commit suicide by cutting my wrists while in detention at the Intelligence Headquarters in Gohardasht."
 
 # --- DEATH ---
 date_of_death: 2016-07-25
@@ -85,9 +95,8 @@ circumstances: >
     October/November 2012, Branch 4 of the Islamic Revolutionary Court in
     Karaj sentenced Mr. Dini to two years in prison and execution. About two
     months later, the Supreme Court upheld the verdict. Mr. Jamshid
-event_context: null
-responsible_forces: null
-
+event_context: "2012 drug-related offences"
+responsible_forces: "Drug Control Headquarters"
 # --- VERIFICATION ---
 status: unverified
 sources:

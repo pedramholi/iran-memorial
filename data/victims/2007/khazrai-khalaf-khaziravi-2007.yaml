@@ -1,12 +1,17 @@
 id: khazrai-khalaf-khaziravi-2007
 name_latin: "Khalaf Khaziravi (Khazra'i)"
 name_farsi: "خلف خضیراوی (خضرائی)"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1967-01-01"
+place_of_birth: "Shadegan (Fallahieh)"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: "https://www.iranrights.org/actorphotos/72508_thumb.jpeg"
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  children: 1
 
 # --- DEATH ---
 date_of_death: 2007-01-24
@@ -85,9 +90,8 @@ circumstances: >
     obvious footprint of Iraq s occupiers in the Khuzestan incidents. (ISNA,
     January 25, 2006). The British government officially denied these
     accusations and expressed its concern regarding such statements
-event_context: null
-responsible_forces: null
-
+event_context: "2005-2006 unrest and bombings"
+responsible_forces: "IRGC"
 # --- VERIFICATION ---
 status: unverified
 sources:

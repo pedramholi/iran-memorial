@@ -3,8 +3,8 @@ name_latin: "Mohammad Baluch (Mola)"
 name_farsi: "محمد بلوچ (مولا)"
 date_of_birth: null
 place_of_birth: null
-gender: null
-ethnicity: null
+gender: male
+ethnicity: "Baluch"
 religion: "Presumed Muslim"
 photo: null
 
@@ -42,8 +42,7 @@ circumstances: >
     Baluch s defense. Judgment The court condemned Mr. Mohammad Baluch to
     death. He was hanged in the Bandar-e Abbas Prison yard on August 26, 2014.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

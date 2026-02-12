@@ -3,10 +3,13 @@ name_latin: "Reza Teimuri"
 name_farsi: "رضا تیموری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
 
 # --- DEATH ---
 date_of_death: 2016-07-25
@@ -50,9 +53,8 @@ circumstances: >
     Reza Teimuri was hanged in Karaj Central Prison along with Mr. Jamshid
     Dini , Mr. Majid Farjad Pezeshk , and Mr. Mehdi Bami on July 25, 2016.
     There is no information on the verdict leading to this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "2016 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -2,8 +2,8 @@ id: kuhi-adel-2015
 name_latin: "Adel Kuhi"
 name_farsi: "عادل کوهی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Khanqah Village near Orumieh, Azarbaijan-e Gharbi"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -43,9 +43,8 @@ circumstances: >
     Prison on February 16, 2015 at dawn. No specific information is available
     about this execution except that he was not allowed to visit his family
     for the last time. (Mafnews)
-event_context: null
-responsible_forces: null
-
+event_context: "execution on February 16, 2015"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Soraya Jalalvand"
 name_farsi: "ثریا جلال وند"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,8 +38,7 @@ circumstances: >
     condemned Ms. Soraya Jalalvand to death and the Supreme Court confirmed
     the ruling. She was hanged in the Nahavand prison.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

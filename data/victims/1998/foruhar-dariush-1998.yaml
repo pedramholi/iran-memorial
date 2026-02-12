@@ -1,12 +1,21 @@
 id: foruhar-dariush-1998
 name_latin: "Dariush Foruhar"
 name_farsi: "داریوش فروهر"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1928-12-28"
+place_of_birth: "Esfahan"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: "https://www.iranrights.org/actorphotos/28399_thumb.jpeg"
+
+# --- LIFE ---
+occupation: "political activist"
+family:
+  marital_status: "married"
+  children: 2
+  notes: "married to Parvaneh Eskandari"
+quotes:
+  - "the few months he spent in Evin Prison were much harsher than his 14 years of overall imprisonment during the previous regime"
 
 # --- DEATH ---
 date_of_death: 1998-11-22
@@ -85,9 +94,8 @@ circumstances: >
     were laid. The authorities hastened the process, transferring the bodies
     immediately after she signed the necessary documents, and rejecting her
     request to stay a moment by her parents. The For
-event_context: null
-responsible_forces: null
-
+event_context: "1998 serial killings"
+responsible_forces: "Ministry of Information (Security)"
 # --- VERIFICATION ---
 status: unverified
 sources:

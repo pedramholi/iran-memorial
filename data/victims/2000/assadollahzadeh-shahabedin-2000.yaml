@@ -3,7 +3,7 @@ name_latin: "Shahabedin Assadollahzadeh"
 name_farsi: "شهاب‌الدین اسدالله‌زاده"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -31,8 +31,7 @@ circumstances: >
     Judiciary Council confirmed the ruling. He was hanged in Salmanshahr in
     Mazandaran Province. The exact date of this execution is unknown.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:
