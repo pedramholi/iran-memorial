@@ -1,0 +1,38 @@
+id: jangarban-ghazal-2011
+name_latin: "Ghazal Jangarban"
+name_farsi: "غزل جنگربان"
+date_of_birth: null  # est. birth year: 2011
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: 15
+place_of_death: "Isfahan"
+province: "Isfahan"
+cause_of_death: "Gunshot"
+circumstances: >
+    15-year-old high school student shot with 3 bullets to the back, leg and
+  side by regime suppression forces in the dry riverbed of Zayandeh Rud in
+  Isfahan. The killing occurred in front of her terrified father's eyes. Her
+  grieving mother wrote that three fiery bullets came from nowhere and
+  mercilessly hit her body, and she only said 'Dad...' before dying. She was an
+  only child.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #5210"
+    date: null
+    type: community_database
+  - url: "https://x.com/irannewsagency0/status/2020797237203230844"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-12
+updated_by: "iranvictims-csv-import"

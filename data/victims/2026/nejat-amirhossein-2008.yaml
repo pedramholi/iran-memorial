@@ -1,0 +1,40 @@
+id: nejat-amirhossein-2008
+name_latin: "Amirhossein Nejat"
+name_farsi: "امیرحسین نجات"
+date_of_birth: null  # est. birth year: 2008
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 18
+place_of_death: "Darab"
+province: "Fars"
+cause_of_death: "Beating"
+circumstances: >
+    Killed by Islamic Republic criminal agents with multiple baton strikes to
+  the back of his head in Darab city. Family was told they must claim he was a
+  Basij member to receive his body. Burial ceremony was held at 4 AM in Darab
+  cemetery under regime threats with only a few close relatives present.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #4822"
+    date: null
+    type: community_database
+  - url: "https://t.me/RememberTheirNames/2319"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/iranianpapppi3/status/2020247925968748920"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-12
+updated_by: "iranvictims-csv-import"

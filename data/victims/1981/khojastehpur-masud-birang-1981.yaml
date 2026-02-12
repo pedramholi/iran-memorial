@@ -1,0 +1,61 @@
+id: khojastehpur-masud-birang-1981
+name_latin: "Mas'ud Birang Khojastehpur"
+name_farsi: "مسعود بی رنگ خجسته پور"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: "https://www.iranrights.org/actorphotos/42220_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1981-01-01
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The information about Mr. Mas’ud Birang Khojastehpur has been drawn from
+    an interview with a friend of his father. Mas’ud was a sympathizer of the
+    Mojahedin Khalq Organization. He was a high school student and was a minor
+    at the time of execution. His father, Mohammad Ali Birang Khojastehpur
+    (also spelled Khojastehpour) was a wrestling champion, and winner of the
+    bronze medal in Men’s Freestyle 52 kg wrestling in the 1956 Melbourne
+    Summer Olympics. The latter was a respected sportsman and a friend of
+    Gholam Reza Takhti, a wrestling champion. After his son’s execution, he
+    lost his job and career; he passed away in 2007. Mr. Mas’ud Birang
+    Khojastehpur was a studious scholar. He was sincere and humble. He
+    refrained from wearing brand name sports jackets that his father brought
+    from foreign countries, so that he would not appear to be flaunting
+    himself. Arrest and detention Mr. Birang Khojastehpur was arrested in his
+    father’s house in Tehran in the summer of 1981. He was first taken to the
+    Committee of Tohid Circle in Tehran and then transferred to Evin prison.
+    During his incommunicado detention in Evin, his family did not receive any
+    information from him. Trial There is no information regarding this trial.
+    Charges The charges brought against the defendant are not known. Evidence
+    of guilt No information is available concerning the evidence presented
+    against the accused. Defense No information is available concerning Mr.
+    Birang Khojastehpur’s defense. Judgment Mr. Mas’ud Birang Khojastehpur was
+    executed three or four days after arrest. No information is available on
+    the verdict leading to his execution. His body and will were not returned
+    to his family. He was buried at Behesht-e Zahra Cemetery. A few other high
+    school students were executed at the same time and buried next to him. Mr.
+    Mas’ud Birang Khojastehpur’s execution was announced in a newspaper. The
+    source of this information, who was a journalist of the Ettala’at
+    newspaper in 1981, states: “One day someone from the forensic team made a
+    call to the sports department of the Ettela’at newspaper and said that a
+    youth had been executed, whose father has the same name as the wrestling
+    champion and coach of the national team, Mohammad Ali Khojastehpur. We
+    immediately forwarded the news to his father. The news story was published
+    the same or the following day.”
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/42220/masud-birang-khojastehpur"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-12
+updated_by: "boroumand-photo-import"

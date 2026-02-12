@@ -1,0 +1,40 @@
+id: ahanchian-ahmad-2003
+name_latin: "Ahmad Ahanchian"
+name_farsi: "احمد آهنچیان"
+date_of_birth: null  # est. birth year: 2003
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-10
+age_at_death: 23
+place_of_death: "Mashhad"
+province: "Razavi Khorasan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Native of Quchan but resident of Mashhad. Shot by IRGC forces during the
+  national revolution at Student Bridge (Pol-e Daneshjou) in Mashhad alongside
+  his friend Shayan Bodaghi. Both were friends who sacrificed their lives for
+  the homeland. Buried in Quchan under security measures.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #3319"
+    date: null
+    type: community_database
+  - url: "https://x.com/damdami/status/2018250730616807771"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/shahramsadidi/status/2020269487245914519"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-12
+updated_by: "iranvictims-csv-import"

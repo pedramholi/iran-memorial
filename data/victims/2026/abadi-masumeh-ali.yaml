@@ -1,0 +1,35 @@
+id: abadi-masumeh-ali
+name_latin: "Masumeh (Faezeh) Ali-Abadi"
+name_farsi: "معصومه (فائزه) علی‌آبادی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: null
+place_of_death: "Sari"
+province: "Mazandaran"
+cause_of_death: "Gunshot"
+circumstances: >
+    From Dudangeh, Sari. On the night of 18 Dey, suppressors chased her and shot
+  her from behind in a quiet alley, killing her. Her family is still under
+  severe security pressure. No name has been mentioned from her until today.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #4973"
+    date: null
+    type: community_database
+  - url: "https://x.com/hekasrehcrisis/status/2020219661002936522"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-12
+updated_by: "iranvictims-csv-import"

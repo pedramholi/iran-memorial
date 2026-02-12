@@ -1,0 +1,59 @@
+id: shamai-masud-1983
+name_latin: "Mas'ud Shama'i"
+name_farsi: "مسعود شماعی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: "https://www.iranrights.org/actorphotos/38543_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1983-08-29
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Death in custody"
+circumstances: >
+    The information about Mr. Mas'ud Shama'i is taken from the book Our
+    Martyrs for Freedom and Socialism by Rah-e Kargar Publications. He was
+    born in Borujerd. Before the revolution, he was a student at Tehran
+    University, but was expelled in 1972 because of his political activities,
+    and went on to serve his compulsory military service. In 1974, he was
+    arrested and detained until the revolution. After the revolution he was
+    released from prison and became a student in Tabriz University majoring in
+    Electrical Engineering. When the Revolutionary Workers Organization of
+    Iran, Rah-e Kargar was established, he joined the Organization and was
+    quickly put in charge of publishing its main publication. "Rah-e Kargar"
+    or the "Revolutionary Workers Organization of Iran" was established in the
+    summer of 1979. The Organization was founded by individuals from various
+    leftist groups who rejected the idea of armed struggle and believed in
+    political action. They identified themselves as Marxist-Leninists,
+    promoting a socialist revolution and the leadership of the proletariat.
+    They differed with the pro-Soviet communist party, Tudeh, in that they
+    opposed the Islamic Republic and Ayatollah Khomeini's leadership. Arrest
+    and detention The circumstances of this defendant’s arrest and detention
+    are not known. According to the above source, Mr. Mas'ud Shama'i was
+    arrested on Sattarkhan Street in Tehran on December 21, 1981 as he was
+    waiting to meet someone. He was transferred to Evin Prison. Trial No
+    information is available on the defendant’s trial. Charges No information
+    is available on Mr. Mas'ud Shama'i’s charges. The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. Evidence of guilt The
+    report of this execution contains no evidence provided against the
+    defendant. Defense No information is available about his defense. Judgment
+    Whether or not there was a death sentence is not know. Mr. Mas'ud Shama'i
+    died in prison on August 29, 1983. The above book states that he died
+    under torture, but the prison authorities claimed that he had died of
+    heart attack.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/38543/masud-shamai"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-12
+updated_by: "boroumand-photo-import"

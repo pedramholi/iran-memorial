@@ -1,0 +1,28 @@
+id: hoquqi-mazyar-1979
+name_latin: "Mazyar Hoquqi"
+name_farsi: "مازیار حقوقی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: "https://www.iranrights.org/actorphotos/30499_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1979-07-16
+age_at_death: null
+place_of_death: "Ardebil"
+province: "Ardebil"
+cause_of_death: "Execution » Shooting"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-3660/mazyar-hoquqi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-12
+updated_by: "boroumand-photo-import"

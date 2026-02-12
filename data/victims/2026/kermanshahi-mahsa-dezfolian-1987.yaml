@@ -1,0 +1,37 @@
+id: kermanshahi-mahsa-dezfolian-1987
+name_latin: "Mahsa Dezfolian Kermanshahi"
+name_farsi: "مهسا دزفولیان کرمانشاهی"
+date_of_birth: null  # est. birth year: 1987
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: 39
+place_of_death: "Karaj"
+province: "Alborz"
+cause_of_death: null
+circumstances: >
+    39-year-old dentist from Kermanshah, died in Fardis area of Karaj
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #4317"
+    date: null
+    type: community_database
+  - url: "https://javidnaman.iranintl.com/memorial/tCKl8UDDdoQQUGMvcOtO3g"
+    name: "Iran International"
+    date: null
+    type: primary
+  - url: "https://x.com/jashnimitra/status/2020493918627148260"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-12
+updated_by: "iranvictims-csv-import"

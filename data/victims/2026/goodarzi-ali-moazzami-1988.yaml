@@ -1,0 +1,42 @@
+id: goodarzi-ali-moazzami-1988
+name_latin: "Ali Moazzami Goodarzi"
+name_farsi: "علی گودرزی"
+date_of_birth: null  # est. birth year: 1988
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: 38
+place_of_death: "Punak, Tehran"
+province: "Tehran"
+cause_of_death: null
+circumstances: >
+    Originally from Khorramabad, killed in Punak Tehran by direct shooting by
+  Islamic Republic regime terrorists during nationwide protest suppression
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #494"
+    date: null
+    type: community_database
+  - url: "https://x.com/fseifikaran/status/2013678441258737739"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/ChaawTimes/status/2014295933492646162"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/hirman__/status/2014538179114652138"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-12
+updated_by: "iranvictims-csv-import"

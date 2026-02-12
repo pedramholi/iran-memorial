@@ -1,0 +1,57 @@
+id: kiani-kurosh-1981
+name_latin: "Kurosh Kiani"
+name_farsi: "كوروش كيانى"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: "https://www.iranrights.org/actorphotos/38699_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1981-09-26
+age_at_death: 25
+place_of_death: "Kazerun"
+province: "Fars"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The information about Mr. Kurosh Kiani (Rah-e Kargar) is taken from the
+    book Our Martyrs for Freedom and Socialism by Rah-e Kargar Publications.
+    Mr. Kiani is also one of the 12028 individuals listed in an addendum to
+    the Mojahed magazine (No 261), published by Mojahedin Khalq Organization
+    in 1985. The list includes individuals, affiliated with various opposition
+    groups, who were executed or killed during clashes with the Islamic
+    Republic security forces from June 1981 to the publication date of the
+    magazine. Mr. Kiani was born in Mamasani (Fars province). After completing
+    his high school education in Mamasani and Shiraz, he entered the Medicine
+    College of Tehran University. After the revolution, he joined the
+    Revolutionary Workers Organization of Iran, Rah-e Kargar. He started his
+    political activities in Tehran and continued them in Mamasani. Rah-e
+    Kargar or the Revolutionary Workers Organization of Iran was established
+    in the summer of 1979. The Organization was founded by individuals from
+    various leftist groups who rejected the idea of armed struggle and
+    believed in political action. They identified themselves as
+    Marxist-Leninists, promoting a socialist revolution and the leadership of
+    the proletariat. They differed with the pro-Soviet communist party, Tudeh,
+    in that they opposed the Islamic Republic and Ayatollah Khomeini s
+    leadership. Arrest and detention The circumstances of this defendant s
+    arrest and detention are not known. According to the above source, the
+    Revolutionary Guards attacked his home one night in mid-summer 1981. They
+    arrested and took him to Kazerun prison. Trial No information is available
+    on the defendant s trial. Charges No information is available on Mr.
+    Kurosh Kiani s charges. Evidence of guilt The report of this execution
+    contains no evidence provided against the defendant. Defense No
+    information is available about his defense. Judgment No specific
+    information is available about the execution sentence. Mr. Kurosh Kiani
+    was executed by a firing squad in Kazerun on September 26, 1981.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7083/kurosh-kiani"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-12
+updated_by: "boroumand-photo-import"

@@ -1,0 +1,40 @@
+id: arzanlou-vahid
+name_latin: "Vahid Arzanlou"
+name_farsi: null
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: null
+place_of_death: "Tehranpars"
+province: "Tehran"
+cause_of_death: "Gunshot"
+circumstances: >
+    Brother of Hamid Arzanlou. Shot twice in the neck while running to help his
+  wounded brother. Died in hospital days after his brother's death. Regime
+  demanded $30,000 to return body and forced family to sign false cause of
+  death.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #256"
+    date: null
+    type: community_database
+  - url: "https://x.com/noamagid/status/2012637561257160767"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/Hamidrezavessa1/status/2012583492685574628"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-12
+updated_by: "iranvictims-csv-import"

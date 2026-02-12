@@ -1,0 +1,44 @@
+id: sharifi-golsa-2006
+name_latin: "Golsa Sharifi"
+name_farsi: "گلسا شریفی"
+date_of_birth: null  # est. birth year: 2006
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: 20
+place_of_death: "Yazd"
+province: "Yazd"
+cause_of_death: null
+circumstances: >
+    20-year-old from Abadeh but studying in Yazd where she was killed. Family is
+  under so much pressure that her mother said at the burial ceremony that her
+  child had a brain tumor. She was an intelligent girl who attended Farzanegan
+  High School in Abadeh.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #864"
+    date: null
+    type: community_database
+  - url: "https://t.me/poshtpardeha/248511"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/hekasrehcrisis/status/2015189470874603872"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/i/status/2015189470874603872"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-12
+updated_by: "iranvictims-csv-import"

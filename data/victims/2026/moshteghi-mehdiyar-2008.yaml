@@ -1,0 +1,44 @@
+id: moshteghi-mehdiyar-2008
+name_latin: "Mehdiyar Moshteghi"
+name_farsi: "مهدیار مشتاقی"
+date_of_birth: null  # est. birth year: 2008
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 18
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: null
+circumstances: >
+    18-year-old law student killed by Islamic Republic forces during Iran's
+  Shir-o-Khorshid (Lion and Sun) Revolution. He was a resident of Gilavand in
+  Tehran Province and worked at an oil change shop to support himself. Described
+  by friends as calm, lovable, and self-sacrificing.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2365"
+    date: null
+    type: community_database
+  - url: "https://x.com/hekasrehcrisis/status/2017331059998798005"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/HeKasrehCrisis/status/2017331059998798005"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/i/status/2017331059998798005"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-12
+updated_by: "iranvictims-csv-import"

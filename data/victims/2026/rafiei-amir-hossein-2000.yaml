@@ -1,0 +1,43 @@
+id: rafiei-amir-hossein-2000
+name_latin: "Amir Hossein Rafiei"
+name_farsi: "امیرحسین رفیعی"
+date_of_birth: null  # est. birth year: 2000
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-19
+age_at_death: 26
+place_of_death: "Varamin"
+province: "Tehran"
+cause_of_death: null
+circumstances: >
+    Killed one day after his birthday. His family reached out to friends saying
+  'they killed my brother' but they don't know where to report it to keep his
+  name alive.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #4026"
+    date: null
+    type: community_database
+  - url: "https://x.com/isamanyasin/status/2017538285250163153"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/Vatanfaae/status/2018211280163873135"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/2125"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-12
+updated_by: "iranvictims-csv-import"

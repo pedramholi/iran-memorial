@@ -1,0 +1,44 @@
+id: khalilzadeh-masud-1981
+name_latin: "Mas'ud Khalilzadeh"
+name_farsi: "مسعود خلیل زاده"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: "https://www.iranrights.org/actorphotos/39727_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1981-08-31
+age_at_death: 20
+place_of_death: "Sabzevar"
+province: "Khorasan\\Khorasan-e Razavi"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The information about Mr. Mas ud Khalilzadeh was drawn from the web site
+    of the Mojahedin Khalq Organization. He was born in Sabzevar. He was a
+    sympathizer of this organization. He was executed along with 8 other
+    sympathizers of the Mojahedin. Arrest and ِDetention The circumstances of
+    this defendant s arrest and detention are not known. According to the
+    website of the Mojahedin, he was detained in Sabzevar. Trial No
+    information is available on the defendant s trial. Charges No information
+    is available on Mr. Khalilzadeh s charges. Evidence of guilt The report of
+    this execution does not contain information regarding the evidence
+    provided against the defendant. Defense No information is available about
+    his defense. Judgment According to the website of the Mojahedin, the day
+    of the executions, the Revolutionary Guards of the city announced via
+    loudspeakers that they would no longer be soft on Mojahedin prisoners and
+    would execute them all. Mr. Mas ud Khalilzadeh was condemned to death and
+    executed by a firing squad in the northern hills of Sabzevar on August 31,
+    1981.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8795/masud-khalilzadeh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-12
+updated_by: "boroumand-photo-import"

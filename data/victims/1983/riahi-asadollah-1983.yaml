@@ -1,0 +1,56 @@
+id: riahi-asadollah-1983
+name_latin: "Asadollah Riahi"
+name_farsi: "اسدالله ریاحی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: "https://www.iranrights.org/actorphotos/36156_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1983-05-29
+age_at_death: 30
+place_of_death: "Iran"
+province: null
+cause_of_death: "Execution » Death in custody"
+circumstances: >
+    The information about Mr. Asadollah Riahi is taken from the book The Tudeh
+    Martyrs , copyright 2001 by The Tudeh Party of Iran publications. He was
+    born in Shahrekord. He was a member of the Tudeh Party. After receiving
+    his Master degree in Sociology from a university in France, he returned to
+    Iran and worked as a teacher in Shahr-e-kord. After the Revolution, he was
+    expelled from the teaching job and worked full time for the Party. The
+    Tudeh Party of Iran was created in 1941. The Tudeh's ideology was
+    Marxist-Leninist and it supported policies of the former Soviet Union. The
+    Tudeh Party played a major role in Iran's political scene until it was
+    banned for the second time following the August 19, 1953 coup. After the
+    1979 Revolution, the Tudeh Party declared the Ayatollah Khomeini and his
+    Islamic Republic regime revolutionaries and anti-imperialists and actively
+    supported the new government. Although the Tudeh Party never opposed the
+    Islamic Republic, it became the target of government attacks from 1982
+    when most of the Party's leaders and members were imprisoned. Arrest and
+    detention The circumstances of this defendant’s arrest and detention are
+    not known. Mr. Riahi was arrested in Shahr-e-kord in May, 1983. According
+    to the book The Tudeh Martyrs , he suffered two weeks of severe torture
+    after which he could not walk. On his last day, they took him to the
+    torture chamber at 5 pm and brought him back at 11 pm with broken hands
+    and legs, a dislocated jaw, and a severely burned back. His half-dead body
+    was carried to his cell on a stretcher. Trial No information is available
+    on the defendant’s trial. Charges No information is available on Mr.
+    Riahi’s charges. Evidence of guilt The report of this execution contains
+    no evidence provided against the defendant. Defence No information is
+    available about the defendant’s defence. Judgment Mr. Asadollah Riahi died
+    in prison on May 29, 1983. No information is available whether there was
+    any ruling against him or not.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/36156/asadollah-riahi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-12
+updated_by: "boroumand-photo-import"

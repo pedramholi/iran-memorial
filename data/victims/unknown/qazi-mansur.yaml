@@ -1,0 +1,41 @@
+id: qazi-mansur
+name_latin: "Mansur Qazi"
+name_farsi: "منصور قاضی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: "https://www.iranrights.org/actorphotos/35688_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: null
+place_of_death: "Iran"
+province: null
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The information about Mr. Mansur Qazi is based on a book titled Siavoshan,
+    Remembrance of the Ranjbaran Party of Iran s Martyrs by Baqer Mortazavi,
+    Germany, copyright 1999. Mr. Qazi went to Italy to continue his education
+    in the 1960s. After the revolution, he was a member of the Central
+    Committee of the Ranjbaran Party and the Head of the Party in Mazandaran.
+    Arrest and detention The circumstances of this defendant s arrest and
+    detention are unknown. Mr. Qazi was arrested while he was preparing an
+    armed struggle against the Islamic regime. Trial No information is
+    available on the defendant s trial. Charges No information is available on
+    Mr. Qazi s charges. Evidence of guilt The report of this execution
+    contains no evidence provided against the defendant. Defense No
+    information is available on Mr. Qazi's defense. Judgment No details are
+    available concerning Mr. Qazi's execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/35688/mansur-qazi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-12
+updated_by: "boroumand-photo-import"

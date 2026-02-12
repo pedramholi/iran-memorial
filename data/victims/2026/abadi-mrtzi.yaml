@@ -1,0 +1,28 @@
+id: abadi-mrtzi
+name_latin: null  # needs transliteration
+name_farsi: "مرتضی عبادی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: null
+place_of_death: "اصفهان"
+province: "Isfahan"
+cause_of_death: null
+circumstances: null
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://t.me/RememberTheirNames/2575"
+    name: "RememberTheirNames Telegram — #2447"
+    date: null
+    type: community_database
+last_updated: 2026-02-12
+updated_by: "telegram-rtn-import"

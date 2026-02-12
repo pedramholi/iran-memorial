@@ -1,0 +1,38 @@
+id: azad-reza-monji-1999
+name_latin: "Reza Monji Azad"
+name_farsi: "رضا منجی‌آزاد"
+date_of_birth: null  # est. birth year: 1999
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 27
+place_of_death: "Rasht"
+province: "Gilan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Father of a young daughter under two years old. Shot in the leg near Sabzeh
+  Meydan area of Rasht around 8 PM. After being shot, he was transferred from
+  hospital while still connected to IV and blood transfusion. According to an
+  eyewitness, his body was found the next day in a container in Bagh-e Rezvan
+  cemetery in Rasht with extensive blood traces at the scene. Had grown up
+  without a father since childhood.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #4942"
+    date: null
+    type: community_database
+  - url: "https://x.com/tavaana/status/2019999961832911089"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-12
+updated_by: "iranvictims-csv-import"

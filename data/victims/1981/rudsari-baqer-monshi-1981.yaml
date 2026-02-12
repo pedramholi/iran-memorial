@@ -1,0 +1,60 @@
+id: rudsari-baqer-monshi-1981
+name_latin: "Baqer Monshi Rudsari"
+name_farsi: "باقر منشی رودسری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: "https://www.iranrights.org/actorphotos/41724_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1981-09-23
+age_at_death: 17
+place_of_death: "Rudsar"
+province: "Gilan"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The information about Mr. Baqer Monshi Rudsari has been drawn from an
+    interview with a relative. He is also one of the 12028 individuals listed
+    in an addendum to the Mojahed magazine (No 261), published by Mojahedin
+    Khalq Organization in 1985. The list includes individuals, affiliated with
+    various opposition groups, who were executed or killed during clashes with
+    the Islamic Republic security forces from June 1981 to the publication
+    date of the magazine. Mr. Monshi Rudsari was born in Bibalan village near
+    Rudsar in Gilan province. At the time of arrest he was 17 years old and a
+    high school student. He was a sympathizer of the Mojahedin Khalq
+    Organization. He was not underground and was not armed, and his relative
+    believes that he was not involved in the Organizational activities. Before
+    arrest, he lived in his aunt s house, who looked after him and prevented
+    him from leaving the house, fearing he would be arrested if he did. One of
+    his brothers, Mr. Abbas Ali Monshi Rudsari, was executed during the
+    massacre of political prisoners in 1988. Arrest and detention The
+    circumstances of Mr. Monshi Rudsari s arrest and detention are not known.
+    He was arrested in a telephone booth in the second half of September 1981.
+    During his detention, which lasted for a week, he was held incommunicado.
+    Trial There is no information regarding this trial. Charges Mr. Monshi
+    Rudsari was charged with attacking the Basijis of Bibalan . The validity
+    of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    Evidence of guilt No information is available concerning the evidence
+    presented against the accused. Defense No information is available
+    concerning Monshi Rudari s defense. He was charged with attacking the
+    Basijis of Bibalan, although the authorities later attributed the same
+    attack to another cell of the Mojahedin Khalq Organization and executed
+    its members. Judgment No specific information is available about the
+    verdict leading to this execution. Mr. Baqer Monshi Rudsari was shot by a
+    firing squad on September 23, 1981 ( Mojahed magazine). The authorities
+    returned his body, covered in blood, to the family for interment, who
+    buried him in Amir Bandeh cemetery in Bibalan.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/41724/baqer-monshi-rudsari"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-12
+updated_by: "boroumand-photo-import"

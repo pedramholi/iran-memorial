@@ -1,0 +1,51 @@
+id: alizadeh-mohammad-1992
+name_latin: "Mohammad Alizadeh"
+name_farsi: "محمد علیزاده"
+date_of_birth: null  # est. birth year: 1992
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 34
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot directly by government forces' bullets in Rasht city. Originally from
+  Fouman county. Was a childhood friend of Mehran Basir Tavana who was killed in
+  the 2022-2023 protests and never forgot his grief over losing Mehran. Was
+  arrested for 15 days after chanting against government suppression and
+  violence at Mehran's 40-day memorial ceremony. Was a football enthusiast and
+  leader of Fouman football team, worked at a hookah lounge. Family was
+  pressured after his death - body was buried at night in complete silence with
+  only mother, sister and brother allowed to attend. Even hanging a black flag
+  on their house door was prohibited. Family had to pay bail to receive his body
+  and now remain silent due to fear of further pressure. Buried at Imamzadeh
+  Mirza in Fouman near his family's residence.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #760"
+    date: null
+    type: community_database
+  - url: "https://x.com/tavaana/status/2014493321742450890"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/HyrcaniHRM/status/2014611082493440400"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://www.instagram.com/p/DT2I4IWjJ7L"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-12
+updated_by: "iranvictims-csv-import"

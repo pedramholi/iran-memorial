@@ -1,0 +1,43 @@
+id: bayati-sahar
+name_latin: "Sahar Bayati"
+name_farsi: "سحر بیات"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: null
+place_of_death: "Tuyserkan"
+province: "Hamedan"
+cause_of_death: null
+circumstances: >
+    Killed in the path of homeland. Newlywed who went to the streets with her
+  husband. They prevented her burial in Tehran and she was forced to be buried
+  in Tuyserkan (her mother's city).
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #544"
+    date: null
+    type: community_database
+  - url: "https://x.com/mahestane_iran/status/2013670598992392345"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/farhadiraniiii/status/2016488164974543089"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/javidnamhamedan/23"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-12
+updated_by: "iranvictims-csv-import"

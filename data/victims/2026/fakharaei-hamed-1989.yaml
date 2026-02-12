@@ -1,0 +1,43 @@
+id: fakharaei-hamed-1989
+name_latin: "Hamed Fakharaei"
+name_farsi: "حامد فخرایی"
+date_of_birth: null  # est. birth year: 1989
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 37
+place_of_death: "Masoudiyeh, Tehran"
+province: "Tehran"
+cause_of_death: "Gunshot (headshot)"
+circumstances: >
+    Athlete and gym owner, father of two daughters aged 7 years and 4 months.
+  Shot by IRGC forces in front of Mas'oudiyeh police station - received 3
+  bullets to the side and from behind the head
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2159"
+    date: null
+    type: community_database
+  - url: "https://x.com/hekasrehcrisis/status/2017129199689974008"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/HeKasrehCrisis/status/2017129199689974008"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/2028"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-12
+updated_by: "iranvictims-csv-import"

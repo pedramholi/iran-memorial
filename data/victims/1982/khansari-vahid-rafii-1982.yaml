@@ -1,0 +1,49 @@
+id: khansari-vahid-rafii-1982
+name_latin: "Vahid Rafi'i Khansari"
+name_farsi: "وحید رفیعی خوانساری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: "https://www.iranrights.org/actorphotos/42246_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1982-03-11
+age_at_death: 20
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Fatal"
+circumstances: >
+    The information about Vahid Rafi’i Khansari, son of Mehdi, has been sent
+    to Omid via an electronic form by an individual familiar with this case.
+    He is also one of the 12028 individuals listed in an addendum to the
+    Mojahed magazine (No 261), published by Mojahedin Khalq Organization in
+    1985. The list includes individuals, affiliated with various opposition
+    groups, who were executed or killed during clashes with the Islamic
+    Republic security forces from June 1981 to the publication date of the
+    magazine. Mr. Rafi’i Khansari was born in 1961 in Orumieh. He was a
+    sympathizer of Mojahedin Khlaq Iran and was serving his compulsory
+    military service in Tehran. Arrest and detention The circumstances of Mr.
+    Rafi’i Khansari’s arrest and detention are not known, other than he was
+    arrested in an afternoon in October/November 1981 in Tehran and was taken
+    to Evin prison. Trial There is no information regarding this trial.
+    Charges The charges brought against the defendant are not known. The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    Evidence of guilt No information is available concerning the evidence
+    presented against the accused. Defense No information is available
+    concerning Mr. Rafi’i Khansari’s defense. Judgment No specific information
+    is available about the verdict leading to this execution. Mr. Vahid Rafi’i
+    Khansari was executed in Evin prison on March 11, 1982.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/42246/vahid-rafii-khansari"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-12
+updated_by: "boroumand-photo-import"

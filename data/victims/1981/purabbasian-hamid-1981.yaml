@@ -1,0 +1,65 @@
+id: purabbasian-hamid-1981
+name_latin: "Hamid Purabbasian"
+name_farsi: "حمید پورعباسیان"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: "https://www.iranrights.org/actorphotos/37159_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1981-07-22
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of Hamid Purabbasian and 14 other individuals was announced
+    in the Kayhan newspaper No. 11340 dated the 22nd of July 1981. Public
+    Relations department of the Public Prosecution Office released the names
+    and charges of the convicted individuals to the media. This execution was
+    also announced in the addendum of the Mojahed magazine, No. 261, published
+    by the Mojahedin Khalgh Organization on the 6th of September 1985. The
+    list includes 12,028 individuals, affiliated with various opposition
+    groups, who were executed or killed during clashes with the Islamic
+    Republic security forces from June 1981 to the publication date of the
+    magazine. Mr. Purabbasian is one of the 430 individuals whose name appears
+    on the list of Martyrs of the Peykar Organization for the Liberation of
+    the Working Class published on the website of Peykar Andeesheh. This list
+    contains the names of those members of the Organization who died after the
+    Revolution of 1979. More than 400 of the individuals on this list have
+    been executed. The Peykar Organization for the Liberation of the Working
+    Class was founded by a number of dissident members of the Mojahedin Khalq
+    Organization who had converted to Marxism-Leninism. Peykar was also joined
+    by a number of political organizations, known as Khat-e Se (Third line).
+    The founding tenets of Peykar included the rejection of guerrilla struggle
+    and a strong stand against the pro-Soviet policies of the Iranian Tudeh
+    Party. Peykar viewed the Soviet Union as a "Social imperialist" state,
+    believed that China had deviated from the Marxist-Leninist principles, and
+    radically opposed all factions of the Islamic regime of Iran. The brutal
+    repression of dissidents by the Iranian government and splits within
+    Peykar in 1981 and 1982 effectively dismantled the Organization and
+    scattered its supporters. By the mid-1980s, Peykar was no longer in
+    existence. Arrest and detention The circumstances of this defendant s
+    arrest and detention are not known. Trial No information is available on
+    the defendant s trial. Charges The Public Prosecution Office did not
+    release the charges brought against Mr. Purabbasian to the media. Evidence
+    of guilt The report of this execution does not contain information
+    regarding the evidence provided against the defendant. Defense No
+    information is available on his defense. Judgment In accordance with the
+    verdict of the Revolutionary Tribunal, Mr. Hamid Purabbasian was executed
+    by a firing squad at Evin prison in Tehran on the 21st of July 1981. No
+    information is available on the judgment but the bodies of the executed
+    individuals were transferred to the forensic medical team.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4829/hamid-purabbasian"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-12
+updated_by: "boroumand-photo-import"

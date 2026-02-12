@@ -1,0 +1,58 @@
+id: piriai-hassan-1981
+name_latin: "Hassan Piria'i"
+name_farsi: "حسن پیریایی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: "https://www.iranrights.org/actorphotos/38562_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1981-01-01
+age_at_death: 17
+place_of_death: "Borujerd"
+province: "Lorestan"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The information about Mr. Hassan Piria'i is taken from the book Our
+    Martyrs for Freedom and Socialism by Rah-e Kargar publication. Mr. Hasan
+    Piria’i is also one of the 12028 individuals listed in an addendum to the
+    Mojahed magazine (No 261), published by Mojahedin Khalq Organization in
+    1985. The list includes individuals, affiliated with various opposition
+    groups, who were executed or killed during clashes with the Islamic
+    Republic security forces from June 1981 to the publication date of the
+    magazine. He was born in Borujerd. In his first year in high school, he
+    dropped out of school to support his family. He joined the Rah-e Kargar
+    Organization in 1979. He was arrested once in 1980; but he was released
+    after few weeks. "Rah-e Kargar" or the "Revolutionary Workers Organization
+    of Iran" was established in the summer of 1979. The Organization was
+    founded by individuals from various leftist groups who had rejected the
+    idea of armed struggle and believed in political action. They introduced
+    themselves as Marxist-Leninists, promoting a socialist revolution and the
+    leadership of the proletariat. They differed with the pro-Soviet communist
+    party, Tudeh, in that they opposed the Islamic Republic and Ayatollah
+    Khomeini's leadership. Arrest and detention Mr. Hassan Piria'i was
+    arrested in the summer of 1981. Trial No information is available on the
+    defendant’s trial. Charges No information is available on his charges. The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    Evidence of guilt The report of this execution does not contain
+    information regarding the evidence provided against the defendant. Defense
+    No information is available about his defense. Judgment No specific
+    information is available about the execution sentence. According to the
+    above source, Mr. Hassan Piria'i was executed by firing squad in 1981. He
+    addressed his mother in his will: "When you get my full of holes body, I
+    want you not to cry and carry it with the slogans: death to the capitalist
+    and long live socialism."
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4266/hassan-piriai"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-12
+updated_by: "boroumand-photo-import"

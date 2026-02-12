@@ -1,0 +1,42 @@
+id: olati-khodadad-1966
+name_latin: "Khodadad Olati"
+name_farsi: "خداداد الفتی"
+date_of_birth: null  # est. birth year: 1966
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 60
+place_of_death: "Karaj"
+province: "Alborz"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot in the heart during protests in Fardis, Karaj. Originally from Lak,
+  Kermanshah. Left home at 8 PM and never returned. Had told his daughters
+  before leaving that he couldn't stay home on the anniversary of the Ukraine
+  flight incident where so many elites were killed, saying that if he went out,
+  one less young person would be killed. He told his children to always maintain
+  a fighting spirit and not fear martyrdom.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #4491"
+    date: null
+    type: community_database
+  - url: "https://t.me/RememberTheirNames/1410"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/realneo101/status/2020775482547937724"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-12
+updated_by: "iranvictims-csv-import"

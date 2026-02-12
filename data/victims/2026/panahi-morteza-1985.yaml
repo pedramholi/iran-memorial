@@ -1,0 +1,41 @@
+id: panahi-morteza-1985
+name_latin: "Morteza Panahi"
+name_farsi: "مرتضی پناهی"
+date_of_birth: null  # est. birth year: 1985
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: 41
+place_of_death: "Malakshahr, Isfahan"
+province: "Isfahan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot by government agents in the evening of 19 Dey in Malekshahr, Isfahan
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1607"
+    date: null
+    type: community_database
+  - url: "https://x.com/ras_e_isole/status/2014680813284008416"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/1377"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/masoudkazemi81/status/2020960217605997028"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-12
+updated_by: "iranvictims-csv-import"

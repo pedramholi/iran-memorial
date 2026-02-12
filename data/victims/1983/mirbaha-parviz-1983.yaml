@@ -1,0 +1,55 @@
+id: mirbaha-parviz-1983
+name_latin: "Parviz Mirbaha"
+name_farsi: "پرویز میربها"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: "https://www.iranrights.org/actorphotos/36127_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1983-11-09
+age_at_death: 29
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The information about Mr. Parviz Mirbaha is taken from the book Our
+    Martyrs in the Path to Freedom by Rah-e Kargar publications, copyright
+    1988. He was born in Zanjan and graduated with a mechanical engineering
+    degree from the Polytechnic University of Tehran. In 1973, during his
+    student years, he was active in a group which opposed the previous regime.
+    After the Revolution, he joined the Revolutionary Workers Organization of
+    Iran-Rah-e Kargar and was an activist among the workers. "Rah-e Kargar" or
+    the "Revolutionary Workers Organization of Iran" was established in the
+    summer of 1979. The Organization was founded by individuals from various
+    leftist groups who rejected the idea of armed struggle and believed in
+    political action. They identified themselves as Marxist-Leninists,
+    promoting a socialist revolution and the leadership of the proletariat.
+    They differed with the pro-Soviet communist party, Tudeh, in that they
+    opposed the Islamic Republic and Ayatollah Khomeini's leadership. Arrest
+    and detention The circumstances of this defendant’s arrest and detention
+    are unknown. According to the book, Mr. Mirbaha was arrested on November
+    2, 1981 and detained at the Evin Prison. He was reportedly tortured
+    severely during his 2-year detention. When he was condemned to death, he
+    told a friend: “My conscience is at ease. In order to save my life, I
+    never chose to give the executioners information about my comrades thereby
+    depriving a family of a loved one.” Trial No information is available on
+    the defendant’s trial. Charges No information is available on Mr.
+    Mirbaha’s charges. Evidence of guilt The report of this execution contains
+    no evidence provided against the defendant. Defence No information is
+    available about the defendant’s defence. Judgment No specific information
+    is available about the defendant’s execution. Mr. Mirbaha was executed by
+    a firing squad in the Evin Prison on November 9, 1983.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/36127/parviz-mirbaha"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-12
+updated_by: "boroumand-photo-import"

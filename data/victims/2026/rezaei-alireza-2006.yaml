@@ -1,0 +1,46 @@
+id: rezaei-alireza-2006
+name_latin: "Alireza Rezaei"
+name_farsi: "علیرضا رضایی"
+date_of_birth: null  # est. birth year: 2006
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: 20
+place_of_death: "Shahriar"
+province: "Tehran"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot with war bullet to the thigh and several pellets to the back on January
+  9th. Despite being alive on the first night, his death certificate was issued
+  on January 20th. His mother found him after five days of searching among
+  corpses. From Harsin, Kermanshah, residing in Tehran. Had recently held his
+  engagement celebration. Family was asked to introduce him as a 'Basiji' when
+  receiving the body but they refused.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2149"
+    date: null
+    type: community_database
+  - url: "https://x.com/mousavi1355/status/2017111700567203966"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/i/status/2017111700567203966"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/iliaaaa6/status/2017186694152294849"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-12
+updated_by: "iranvictims-csv-import"

@@ -1,0 +1,37 @@
+id: yarsorkhabadi-mostafa-2006
+name_latin: "Mostafa Yarsorkhabadi"
+name_farsi: "مصطفی یارسرخ‌آبادی"
+date_of_birth: null  # est. birth year: 2006
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-09
+age_at_death: 20
+place_of_death: "Mashhad"
+province: "Razavi Khorasan"
+cause_of_death: null
+circumstances: >
+    Born 1385, listed in hospital records
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #4347"
+    date: null
+    type: community_database
+  - url: "https://x.com/allahbakhshii/status/2013882320428597386"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/2606"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-12
+updated_by: "iranvictims-csv-import"

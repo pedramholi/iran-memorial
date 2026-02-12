@@ -1,0 +1,63 @@
+id: mazaheri-shirin-1982
+name_latin: "Shirin Mazaheri"
+name_farsi: "شیرین مظاهری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: "https://www.iranrights.org/actorphotos/41566_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1982-01-02
+age_at_death: 22
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    One of Ms. Shirin Mazaheri’s former cellmates has provided the information
+    about her through an electronic form. Ms. Mazehri’s is also one of the
+    12028 individuals listed in an addendum to the Mojahed magazine (No 261),
+    published by Mojahedin Khalq Organization in 1985. The list includes
+    individuals, affiliated with various opposition groups, who were executed
+    or killed during clashes with the Islamic Republic security forces from
+    June 1981 to the publication date of the magazine. Ms. Shirin Mazaheri was
+    a 22 year university student. She was slender and had balck eyes and black
+    hair; she was very beautiful. Arrest and detention Ms. Mazaheri was
+    arrested in November 1981 and taken to Evin prison. The details of her
+    arrest are not known. During incommunicado detention, she was denied the
+    right o have an attorney. Ms. Mazaheri spent the first few weeks of her
+    detention in corridors leading to interrogation room where detainees were
+    tortured. After interrogation, she was sent to Room 3 of section 240 of
+    Evin prison. Her sister, who was a few years younger than her, was also
+    kept in the same room. Ms. Mazaheri’s feet were wounded and bandaged due
+    to torture. Sometimes, her sister took her arms and helped her walk about
+    the corridor of the cell. The corridor was crowded but other cellmates
+    respected the two sisters and would step out of the way for them. Walking
+    was painful and difficult for Ms. Shirin Mazaheri but it helped the
+    healing of the wounds of her feet. Trial There is no information regarding
+    this trial. Charges The charges brought against the defendant are not
+    known. Evidence of guilt No information is available concerning the
+    evidence presented against the accused. Defense No information is
+    available concerning Ms. Mazaheri’s defense. Judgment In the afternoon of
+    January 2, 1982, Ms, Shirin Mazaheri’s name was called and she left the
+    cell a few minutes later. Around 9 p.m., the cellmates of Section 4 (where
+    Ms. Mazaheri had been detained) heard the firing squad followed by
+    single-shots. Shirin’s sister knew that Shirin was condemned to death and
+    was executed that night. She sobbed and cried for hour. This soon became a
+    general mourning in the cell. At this time, mourning was banned in prison.
+    Prisoners, who had recanted their political beliefs and now cooperated
+    with prison guards, informed them of the mourning in the cell. After that
+    the firing squad had a new location so that prisoners could rarely hear
+    the shots.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4912/shirin-mazaheri"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-12
+updated_by: "boroumand-photo-import"

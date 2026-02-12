@@ -1,0 +1,35 @@
+id: davashi-mohammadreza
+name_latin: "Mohammadreza Davashi"
+name_farsi: "محمدرضا دواشی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: null
+place_of_death: "Yazdanshahr"
+province: "Yazd"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot with direct fire by Islamic Republic suppressors in Yazdanshahr,
+  Isfahan. Government forces harassed his family, prevented burial, and demanded
+  money as 'bullet fee', but the Davashi family held a ceremony for him.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #4978"
+    date: null
+    type: community_database
+  - url: "https://x.com/allahbakhshii/status/2020429058581152132"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-12
+updated_by: "iranvictims-csv-import"

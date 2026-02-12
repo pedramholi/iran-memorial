@@ -1,0 +1,36 @@
+id: seifi-farid
+name_latin: "Farid Seifi"
+name_farsi: "فرید صیفی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-08
+age_at_death: null
+place_of_death: "Isfahan"
+province: "Isfahan"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot with war bullets by suppressive forces during Thursday protests. He had
+  been waiting for years to become a father and was about to fulfill his dream
+  soon, but Thursday night Islamic Republic bullets hit his heart. His wife is
+  pregnant with triplets.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #5228"
+    date: null
+    type: community_database
+  - url: "https://x.com/soranmansournia/status/2020996073700065499"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-12
+updated_by: "iranvictims-csv-import"

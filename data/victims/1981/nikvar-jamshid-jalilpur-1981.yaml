@@ -1,0 +1,47 @@
+id: nikvar-jamshid-jalilpur-1981
+name_latin: "Jamshid Jalilpur Nikvar"
+name_farsi: "جمشید جلیل پور نیک ور"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: "https://www.iranrights.org/actorphotos/38865_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1981-09-14
+age_at_death: 20
+place_of_death: "Tabriz"
+province: "Azarbaijan-e Sharqi"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    Mr. Jamshid Jalilpur Nikvar is one of the 12028 individuals listed in an
+    addendum to the Mojahed magazine (No 261), published by Mojahedin Khalq
+    Organization in 1985. The list includes individuals, affiliated with
+    various opposition groups, who were executed or killed during clashes with
+    the Islamic Republic security forces from June 1981 to the publication
+    date of the magazine. Additional information has been taken from an
+    electronic form sent to Omid by an individual familiar with this case.
+    Arrest and detention The exact circumstances of this defendant’s arrest
+    and detention are not known. Mr. Jalilpur Nikvar was arrested on September
+    14, 1981 (electronic form). Trial No information is available on the
+    defendant’s trial other than Mr. Jalilpur Nikvar was tried on September
+    14, 1981 (electronic form). Charges The charges brought against Jalilpur
+    Nikvar are not known. Evidence of guilt The report of this execution does
+    not contain information regarding the evidence provided against the
+    defendant. Defense No information is available on Mr. Jalilpur Ninvar’s
+    defense. Judgment The details of the verdict leading to this execution are
+    not known. Mr. Jamshid Jalilpur Nikvar was shot by a firing squad in
+    Tabriz on September 14, 1981, on the same day that he was arrested and
+    tried (electronic form).
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4886/jamshid-jalilpur-nikvar"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-12
+updated_by: "boroumand-photo-import"

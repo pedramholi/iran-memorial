@@ -1,0 +1,66 @@
+id: ahmadzadeh-mojtaba-1981
+name_latin: "Mojtaba Ahmadzadeh"
+name_farsi: "مجتبی احمدزاده"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: "https://www.iranrights.org/actorphotos/32905_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1981-10-30
+age_at_death: 25
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    News and information regarding the execution of Mr. Mojtaba Ahmadzadeh,
+    son of Taher, is sent to Abdorrahman Boroumand Center by a person who knew
+    him via an electronic form on December 11, 2020. (ABC e-form) Mr.
+    Ahmadzadeh is also one of the 12028 individuals listed in an addendum to
+    the Mojahed magazine (No 261), published by Mojahedin Khalq Organization
+    in 1985. The list includes individuals, affiliated with various opposition
+    groups, who were executed or killed during clashes with the Islamic
+    Republic security forces from June 1981 to the publication date of the
+    magazine. Additional information is taken from Bidaran website. Mr.
+    Mojtaba Ahmadzadeh was born on May 18, 1956 in Mashhad. He was a student
+    at Sharif University in Tehran. He was a member of Razmandegan
+    Organization was known as leftist activist at the university. He was
+    living in hiding since June 1981. (ABC e-form) The Razmandegan
+    Organization for the Liberation of the Working Class was founded in the
+    winter of 1979. Its activities were focused on the working class and
+    factories. The founding tenets of Razmandegan included the rejection of
+    armed struggle and a strong stand against the pro-Soviet policies of the
+    Iranian Tudeh Party. It viewed the Soviet Union as a Social imperialist
+    state and believed that China had deviated from the Marxist-Leninist
+    principles. Razmandegan was among the groups that became known as Khat-e
+    Se (Third line). By early 1981, disagreements on the Party s position on
+    the Iran-Iraq war caused internal splits in Razmandegan. These splits,
+    which coincided with the massive and brutal repression of dissidents by
+    the Iranian government, caused the Organization to disband. Arrest and
+    detention Once the members of Islamic Association of Students identified
+    Mr. Ahmadzadeh, he got arrested in early September 1981. There are no
+    further information regarding his arrest except that he was being
+    questioned about his father s whereabouts who was also living in hiding at
+    the time. Mr. Ahmadzadeh was detained in Evin Prison. (ABC e-form) Trial
+    No information is available on the defendant s trial. Charges The validity
+    of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    Evidence of guilt The report of this execution does not contain
+    information regarding the evidence provided against the defendant. Defense
+    No information is available on Mr. Ahmadzadeh's defense. Judgment Mr.
+    Mojtaba Ahmadzadeh was executed by firing squad in Evin prison on October
+    30, 1981. There is no information on the verdict leading to this
+    execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7452/mojtaba-ahmadzadeh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-12
+updated_by: "boroumand-photo-import"

@@ -1,0 +1,33 @@
+id: arzanfoodi-amir-mohammad
+name_latin: "Amir Mohammad Arzanfoodi"
+name_farsi: "امیر محمد ارزانفودی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: null
+place_of_death: "Hamedan"
+province: "Hamedan"
+cause_of_death: null
+circumstances: >
+    Described as beloved child of the homeland
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #4067"
+    date: null
+    type: community_database
+  - url: "https://t.me/javidnamhamedan/69"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-12
+updated_by: "iranvictims-csv-import"

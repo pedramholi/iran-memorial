@@ -1,0 +1,33 @@
+id: heydari-rahim
+name_latin: "Rahim Heydari"
+name_farsi: "رحیم حیدری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: 50
+place_of_death: "Najafabad"
+province: "Isfahan"
+cause_of_death: null
+circumstances: >
+    50-year-old man from Najafabad
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #3840"
+    date: null
+    type: community_database
+  - url: "https://x.com/KyokushinSoofi/status/2018936491519488378"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-12
+updated_by: "iranvictims-csv-import"

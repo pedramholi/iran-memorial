@@ -1,0 +1,33 @@
+id: rasouli-ehsan
+name_latin: "Ehsan Rasouli"
+name_farsi: "احسان رسولی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: null
+place_of_death: "Fari Abad village, Bakharz county, Khorasan Razavi province"
+cause_of_death: null
+circumstances: >
+    Killed by suppressive forces of the regime. From Fari Abad village in
+  Bakharz county, Khorasan Razavi province.
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #2074"
+    date: null
+    type: community_database
+  - url: "https://x.com/ashkvuo7000/status/2016542352450502879"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-12
+updated_by: "iranvictims-csv-import"

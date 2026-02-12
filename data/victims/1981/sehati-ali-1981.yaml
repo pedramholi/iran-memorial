@@ -1,0 +1,51 @@
+id: sehati-ali-1981
+name_latin: "Ali Sehati"
+name_farsi: "علی صحتی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam (Shi'a)"
+photo: "https://www.iranrights.org/actorphotos/38647_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1981-12-27
+age_at_death: 18
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The information about Mr. Ali Sehati has been drawn from an interview with
+    an individual familiar with this case. He was a senior at the Kharazmi
+    High School in Tehran and a sympathizer of the Mojahedin Khalq
+    Organization. The interviewee remembers him as a tall athletic man with
+    sharp features. Arrest and detention Mr. Sehati was arrested in Tehran in
+    November or December 1981. He was denied visitation rights. Trial The
+    details of his trial are not known. During the trial, it was revealed that
+    Mr. Sehati had lied during his interrogation. In October 1981, Mr. Sehati
+    saw a friend’s name on the list of the executed individuals in a press
+    release of the Central Islamic Revolutionary Prosecution Office. After
+    arrest and interrogation, under duress, Mr. Sehati gave this person’s name
+    to the authorities as someone who was in charge of Mr. Sehati’s political
+    activities. Later it turned out that this friend’s name was published by
+    mistake and that he was alive. At the trial, the religious judge brought
+    this person in front of Mr. Sehati. As soon as Mr. Sehati found out that
+    his friend was not dead, he retracted his confession, stressing that his
+    statement about his friend was baseless. Mr. Sehati was beaten and taken
+    out of the courtroom after this announcement. (This friend was executed in
+    1990.) Charges The charges brought against the defendant are not known.
+    Evidence of guilt At the trial, it was revealed that Mr. Sehati had lied
+    in his interrogations. Defense No information is available concerning his
+    defense. Judgment Mr. Ali Sehati was executed on December 27, 1981. He was
+    18 years old. He was buried at the Behesht-e Zahra cemetery.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/38647/ali-sehati"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-12
+updated_by: "boroumand-photo-import"

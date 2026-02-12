@@ -1,0 +1,33 @@
+id: abdi-mohammad-amin
+name_latin: "Mohammad Amin Abdi"
+name_farsi: "محمدامین عبدی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: 21
+place_of_death: "Birjand"
+province: "South Khorasan"
+cause_of_death: null
+circumstances: >
+    From Birjand, described as a name that hasn't been mentioned anywhere
+event_context: "2025-2026 Iranian nationwide protests"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #5308"
+    date: null
+    type: community_database
+  - url: "https://x.com/thisissarasara/status/2020468011052724333"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-12
+updated_by: "iranvictims-csv-import"

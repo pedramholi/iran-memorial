@@ -1,0 +1,38 @@
+id: gamasaei-milad-shida-1999
+name_latin: "Milad Shida Gamasaei"
+name_farsi: "میلاد شیدا گماسائی"
+date_of_birth: null  # est. birth year: 1999
+place_of_birth: null
+gender: null
+ethnicity: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 2026-01-15
+age_at_death: 27
+place_of_death: "Karaj"
+province: "Alborz"
+cause_of_death: "Gunshot"
+circumstances: >
+    Shot and killed during protests. Had been shot once before in 1401 (2022).
+  Was from Malayer but lived in Marlik area of Karaj. Had been married for only
+  3 months. Family was pressured by security agencies and forced to choose
+  between paying money or declaring him a 'martyr' to retrieve his body. Due to
+  difficult financial situation, family was forced to agree to the regime's
+  demand after waiting one week.
+event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: "unverified"
+sources:
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #4972"
+    date: null
+    type: community_database
+  - url: "https://x.com/jashnimitra/status/2020190816149311699"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-12
+updated_by: "iranvictims-csv-import"

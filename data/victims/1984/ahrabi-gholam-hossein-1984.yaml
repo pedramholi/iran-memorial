@@ -1,0 +1,58 @@
+id: ahrabi-gholam-hossein-1984
+name_latin: "Gholam Hossein Ahrabi"
+name_farsi: "غلام حسین اهرابی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: "https://www.iranrights.org/actorphotos/35837_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1984-06-12
+age_at_death: 39
+place_of_death: "Mashhad"
+province: "Khorasan\\Khorasan-e Razavi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    Earlier, Gholam Hossein Ahrabi learned Physics and lived in Europe for a
+    time. When the Ranjbaran Party formed in Iran, he became a valuable
+    member. Mr. Gholam Hossein Ahrabi is one of the 12,028 individuals listed
+    in an addendum to the Mojahed magazine (No. 261), published by the
+    Mojahedin Khalq Organization in 1985. The list includes individuals
+    affiliated with various opposition groups, who were executed or killed
+    during clashes with the Islamic Republic security forces from June 1981 to
+    the publication date of the magazine. Mr. Ahrabi is also one of the 282
+    individuals whose names were published in the UN report on the human
+    rights situation in Iran on November 13, 1985. This report includes a list
+    titled, Those who were executed without trial or jurisprudence in the
+    Islamic Republic, 1984-1985. Further information about Mr. Ahrabi is
+    gathered from a book titled Siavoshan: Remembrance of the Ranjbaran Party
+    of Iran s Martyrs, by Baqer Mortazavi 1999, Germany. Mr. Ahrabi was born
+    in 1945. He graduated from Tehran University in Physics. He went to
+    Germany in 1973 and returned to Iran before the Revolution. He was
+    arrested and detained for political activities. In February 1979, he was
+    released with other prisoners. With the creation of the Ranjbaran Party in
+    1979, he became an important member of the Party. Arrest and detention The
+    circumstances of this defendant s arrest and detention are not known. Mr.
+    Ahrabi was arrested in Mashhad in 1983. He was detained at the University
+    of Educational Sciences, which had been transformed into a prison.
+    According to his prison mates, he was tortured severely while in the
+    prison. Trial No information is available on the defendant s trial.
+    Charges No information is available on Mr. Ahrabi s charges. Evidence of
+    guilt The report of this execution contains no information regarding
+    evidence provided against the defendant. Defense No information is
+    available on Mr. Ahrabi's defense. Judgment No details are available on
+    Mr. Ahrabi's execution. He was hanged at dawn on June 12, 1984, at the
+    place of his detention.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4091/gholam-hossein-ahrabi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-12
+updated_by: "boroumand-photo-import"

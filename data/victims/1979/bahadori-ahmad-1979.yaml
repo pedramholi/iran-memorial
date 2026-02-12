@@ -1,0 +1,55 @@
+id: bahadori-ahmad-1979
+name_latin: "Ahmad Bahadori"
+name_farsi: "احمد بهادری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: "https://www.iranrights.org/actorphotos/29439_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1979-03-11
+age_at_death: null
+place_of_death: "Bagh-e Behesht Cemetery"
+province: "Hamedan"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    Kayhan Daily reported Lieutenant Ahmad Bahadori s execution along with two
+    others on 11 March 1979. Lieutenant Bahadori was an officer in Hamedan
+    Police Forces, a city in Hamedan Province in western Iran. Arrest and
+    detention The circumstances of Lieutenant Bahadori s arrest and detention
+    are not known. Trial The Revolutionary Tribunal of Hamedan tried
+    Lieutenant Bahadori at Hamedan Municipal s Salon in the presence of six
+    thousand people Charges Kayhan Daily reported that Lieutenant Bahadori and
+    his subordinates shot 7 people dead on 21 October and the following days,
+    however there is no further detail about this incident in the report and
+    the names of the alleged victims were not published. Evidence of guilt No
+    information is available concerning the evidence presented against the
+    defendant. Defense According to Kayhan, Lieutenant Bahadori said in his
+    defense: I am a villager and after the Land Reform, I sought refuge in the
+    city and unfortunately I happened to go to Police Department . He also
+    explained that he was merely operating according to his superior s
+    commands. He said that the killings were ordered by Major Ja fari, the
+    Head of the Anti-Espionage Unit. There is no further detail about his
+    defense and it is not clear if he had the opportunity to defend himself
+    effectively, for example whether he had access to a lawyer or the
+    possibility to summon witnesses in his favor, etc. The validity of the
+    criminal charges brought against this defendant cannot be ascertained in
+    the absence of the basic guarantees of a fair trial. Judgment The
+    Revolutionary Tribunal of Hamedan sentenced Lieutenant Bahadori to death.
+    He was shot dead on 11 March 1979 in Bagh Behesht Cemetery in Hamedan.
+    According to Kayhan, Lieutenant Bahadori requested not to be tied to the
+    execution pole. He also commanded the firing himself and requested that
+    the squad would aim his heart.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-3598/ahmad-bahadori"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-12
+updated_by: "boroumand-photo-import"

@@ -1,0 +1,62 @@
+id: samadi-mahmud-1981
+name_latin: "Mahmud Samadi"
+name_farsi: "محمود صمدی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: "https://www.iranrights.org/actorphotos/37316_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1981-02-02
+age_at_death: 25
+place_of_death: "Mahshahr"
+province: "Khuzestan"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    News of the execution of Mr. Mahmud Samadi, along with another person, was
+    published in the Peykar publication (No. 95 February 23, 1981 and No. 97,
+    March 9, 1981). Mr. Samadi is one of the 430 “Martyrs of the Peykar
+    Organization for the Liberation of the Working Class” published on the
+    website of Andeesheh va Peykar. This list contains the names of 400
+    members and sympathizers of the organization who have been executed. The
+    book From an Ebullient Ideal , published by the sympathizers of the Peykar
+    Organization in August of 1985, also reports this execution. Mr. Samadi
+    was born in Abadan in 1955. He was a student of School of Education at
+    Tehran University. Mr. Samadi was a co-founder of the student section of
+    Peykar. He was in charge of the Peykar student section in Abadan. The
+    Peykar Organization for the Liberation of the Working Class was founded by
+    a number of dissident members of the Mojahedin Khalq Organization who had
+    converted to Marxism-Leninism. Peykar was also joined by a number of
+    political organizations, known as Khat-e Se (Third line). The founding
+    tenets of Peykar included the rejection of guerrilla struggle and a strong
+    stand against the pro-Soviet policies of the Iranian Tudeh Party. Peykar
+    viewed the Soviet Union as a “social imperialist” state, believed that
+    China had deviated from the Marxist-Leninist principles, and radically
+    opposed all factions of the Islamic regime of Iran. The brutal repression
+    of dissidents by the Iranian government and splits within Peykar in 1981
+    and 1982 effectively dismantled the Organization and scattered its
+    supporters. By the mid-1980s, Peykar was no longer in existence. Arrest
+    and detention According to Peykar , Mr. Samadi was arrested in Mahshahr on
+    December 24, 1980, 37 days before his execution. His death certificate
+    states that signs of torture were seen on his body. Trial Mr. Samadi was
+    tried in the Mahshahr Islamic Revolutionary Court. Charges According to
+    the Peykar Organization’s reports, Mr. Samadi was charged with “propaganda
+    against the Iran-Iraq war and organizing the war victims’ movement.”
+    Evidence of guilt The report of this execution does not contain
+    information regarding the evidence provided against the defendant. Defense
+    No information is available on Mr. Samadi’s defense. Judgment Mr. Samadi
+    was executed by firing squad in Mahshahr on February 2, 1981. His body was
+    buried in the Beheshabad cemetery in Ahvaz.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/37316/mahmud-samadi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-12
+updated_by: "boroumand-photo-import"

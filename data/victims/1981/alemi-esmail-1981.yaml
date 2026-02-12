@@ -1,0 +1,58 @@
+id: alemi-esmail-1981
+name_latin: "Esma'il Alemi"
+name_farsi: "اسماعیل عالمی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: "https://www.iranrights.org/actorphotos/36852_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1981-01-01
+age_at_death: 25
+place_of_death: "Rasht"
+province: "Gilan"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The information about Mr. Esma'il Alemi is based on an interview with a
+    person close to him, and the addendum to the Mojahed magazine published by
+    the Mojahedin Khalq Organization on September 6, 1985. Mr. Esma'il Alemi
+    was born in Noqrehdasht (in Rasht). He was a high school graduate and a
+    member of the Revolutionary Committee in Noqrehdasht. He was not a member
+    of the Mojahedin, but, he defended this organization in street discussions
+    and argued against the Islamic regime. The first time that he was arrested
+    he was beaten severely and, according to him, the officers pulled his
+    mustache with pliers. They threatened him in order that he should quit his
+    political activities. Revolutionary Committees were local organizations
+    established during the revolution in order to police the neighborhoods.
+    They consisted of local people, especially the youth who were
+    pro-revolutionary. They were dissolved into the Basij and the
+    Revolutionary Guards shortly after the establishment of the Islamic
+    Republic. Arrest and detention The exact date of Mr. Alemi's second arrest
+    is unknown. According to the interviewee, he was arrested in 1981 by the
+    Revolutionary Guards and transferred to the Rasht prison. He was executed
+    three days later. Trial No information is available on the defendant's
+    trial. Charges No information is available on the charges brought against
+    Mr. Esma'il Alemi. The validity of the criminal charges brought against
+    this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. Evidence of guilt The report of this execution
+    does not contain information regarding the evidence provided against the
+    defendant. Defense No information is available about his defense. Judgment
+    Mr. Esma'il Alemi was tried and condemned to death. He was executed by
+    firing squad at Rasht prison in 1981. The date of his execution in the
+    Mojahed list, however, is August 10, 1982. He was the first revolutionary
+    person executed in Rasht. According to the interviewee, the news of his
+    execution was announced on Rasht radio and published in the city
+    newspaper.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/36852/esmail-alemi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-12
+updated_by: "boroumand-photo-import"

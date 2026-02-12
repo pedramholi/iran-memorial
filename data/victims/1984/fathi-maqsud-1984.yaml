@@ -1,0 +1,64 @@
+id: fathi-maqsud-1984
+name_latin: "Maqsud Fathi"
+name_farsi: "مقصود فتحی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: "https://www.iranrights.org/actorphotos/41435_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1984-08-19
+age_at_death: 29
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The information about Mr. Maqsud Fathi has been gathered from his
+    brother’s letter to him, published on Asr-e Nou website (August 19, 2009),
+    on the 25th anniversary of his execution. Mr. Fathi is also one of the
+    12028 individuals listed in an addendum to the Mojahed magazine (No 261),
+    published by Mojahedin Khalq Organization on September 6, 1985. The list
+    includes individuals, affiliated with various opposition groups, who were
+    executed or killed during clashes with the Islamic Republic security
+    forces from June 1981 to the publication date of the magazine. Additional
+    information about him is taken from the book Our Martyrs for Freedom and
+    Socialism by Rah-e Kargar publication. Mr. Fathi was born in a village
+    around Tabriz. He went to high school in Orumieh. He was a sociology
+    graduate from Tehran University. He worked with the Fadaiyan Khalq
+    Organization starting in 1975. In 1979, he joined the Rah-e Kargar
+    Organization and played a role in the publication of Rah-e Kargar
+    magazine. Mr. Fathi’s brother writes about him, “Your presence made me
+    feel safe and happy… You laughed little, but you spoke even less. But you
+    spoke kindly, kinder than all the world’s smiles.” “Rah-e Kargar” or the
+    “Revolutionary Workers Organization of Iran” was established in the summer
+    of 1979. The Organization was founded by individuals from various leftist
+    groups who had rejected the idea of armed struggle and believed in
+    political action. They introduced themselves as Marxist-Leninists,
+    promoting a socialist revolution and the leadership of the proletariat.
+    They differed with the pro-Soviet communist party, Tudeh, in that they
+    opposed the Islamic Republic and Ayatollah Khomeini's leadership. Arrest
+    and detention Mr. Fathi was arrested along with his wife on May 19, 1983.
+    He was transferred to Evin prison. No information is available about his
+    possible visitation with his family. Trial No information is available on
+    the defendant’s trial. Charges No information is available on Mr. Fathi’s
+    charges. Evidence of guilt The report of this execution does not contain
+    information regarding the evidence provided against the defendant. Defense
+    No information is available about the defense. Judgment No specific
+    information is available about the defendant’s execution verdict.
+    According to available information, Mr. Fathi was called his father on the
+    phone the day of the execution or one day before, saying goodbye and
+    asking his father to take care of his mother and daughter. Mr. Fathi was
+    executed by firing squad in Evin prison on August 19, 1984.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-5167/maqsud-fathi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-12
+updated_by: "boroumand-photo-import"

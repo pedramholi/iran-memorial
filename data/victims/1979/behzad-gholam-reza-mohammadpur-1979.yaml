@@ -1,0 +1,58 @@
+id: behzad-gholam-reza-mohammadpur-1979
+name_latin: "Gholam Reza Mohammadpur Behzad"
+name_farsi: "غلامرضا محمدی پور بهزاد"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: "https://www.iranrights.org/actorphotos/29233_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1979-07-13
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of Mr. Gholam Reza Hommadpur Behzad, known as Reza the Turk,
+    was announced in the Kayhan newspaper on July 14, 1979. Arrest and
+    detention The circumstances of this defendant’s arrest and detention are
+    not known. Trial No detailed information is available on the defendant’s
+    trial. He was tried at the Islamic Revolutionary Tribunal of Tehran.
+    According to the newspaper, the court deliberations lasted for hours.
+    Charges Mr. Mohammadpur Behzad was charged with “sodomy with children
+    under 12 years of age, establishment of casinos, and promotion of sedition
+    and collection of unlawful interest”. The validity of the criminal charges
+    brought against this defendant cannot be ascertained in the absence of the
+    basic guarantees of a fair trial. International human rights organizations
+    have drawn attention to reports indicating that the Islamic Republic’s
+    authorities have brought trumped-up charges against their political
+    opponents and executed them for drug trafficking, sexual, and other
+    criminal offences. The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of guilt The report of this
+    execution refers to his “explicit confession”. International human rights
+    organizations have repeatedly condemned the government of the Islamic
+    Republic of Iran for its systematic use of severe torture and solitary
+    confinement to obtain confessions from detainees and have questioned the
+    authenticity of confessions obtained under duress. In the case of
+    political detainees, these confessions are, at times, televised. The
+    National Television broadcasts confessions during which prisoners plead
+    guilty to vague and false charges, repent and renounce their political
+    beliefs, and/or implicate others. Human rights organizations have also
+    pointed to the pattern of retracted confessions by those prisoners who are
+    freed. Defense No information is available on his defense. Judgment The
+    Islamic Revolutionary Tribunal condemned Mr. Gholam Reza Mohammadpur
+    Behzad to death. He was execuited, along with two other individuals, at 1
+    a.m. on July 13, 1979 in Tehran.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-3672/gholam-reza-mohammadpur-behzad"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-12
+updated_by: "boroumand-photo-import"
