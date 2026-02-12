@@ -31,6 +31,15 @@ export async function getEventBySlug(slug: string) {
     where: { slug },
     include: {
       victims: {
+        select: {
+          slug: true,
+          nameLatin: true,
+          nameFarsi: true,
+          dateOfDeath: true,
+          placeOfDeath: true,
+          causeOfDeath: true,
+          photoUrl: true,
+        },
         orderBy: { dateOfDeath: "asc" },
       },
       sources: true,
@@ -350,6 +359,15 @@ export async function getStats() {
 
 export async function getRecentVictims(limit = 6) {
   return prisma.victim.findMany({
+    select: {
+      slug: true,
+      nameLatin: true,
+      nameFarsi: true,
+      dateOfDeath: true,
+      placeOfDeath: true,
+      causeOfDeath: true,
+      photoUrl: true,
+    },
     orderBy: { createdAt: "desc" },
     take: limit,
   });
