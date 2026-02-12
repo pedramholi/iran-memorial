@@ -3,7 +3,7 @@ name_latin: "Mehrshad Jafarpour"
 name_farsi: "مهرشاد جعفرپور"
 date_of_birth: null  # est. birth year: 1979
 place_of_birth: null
-gender: null
+gender: "male"
 ethnicity: null
 photo: "https://storage.googleapis.com/media-cdn-7k9x2/img_31012_0_telegram_v1.jpg"
 # --- DEATH ---

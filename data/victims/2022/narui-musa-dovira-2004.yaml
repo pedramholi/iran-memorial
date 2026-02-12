@@ -1,6 +1,6 @@
 id: narui-musa-dovira-2004
 name_latin: "Musa Dovira Narui"
-name_farsi: null
+name_farsi: "موسی دویراء (نارویی)"
 date_of_birth: null  # est. birth year: 2004
 place_of_birth: null
 gender: male
@@ -12,7 +12,7 @@ date_of_death: 2022-09-30
 age_at_death: 18
 place_of_death: "Zahedan, Sistan-Baluchestan Province"
 province: "Sistan va Baluchestan"
-cause_of_death: null
+cause_of_death: "Arbitrary Execution » Arbitrary shooting"
 circumstances: null
 event_context: "Woman, Life, Freedom movement (2022 Mahsa Amini protests)"
 responsible_forces: null
@@ -24,5 +24,8 @@ sources:
     name: "Wikipedia — Deaths during the Mahsa Amini protests"
     date: null
     type: encyclopedia
+  - url: "https://www.iranrights.org/memorial/story/86816/musa-duira-e-naru-i"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
 last_updated: 2026-02-09
 updated_by: "wikipedia-parser-script"

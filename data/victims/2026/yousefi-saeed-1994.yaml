@@ -3,7 +3,7 @@ name_latin: "Saeed Yousefi"
 name_farsi: "سعید یوسفی"
 date_of_birth: null  # est. birth year: 1994
 place_of_birth: null
-gender: null
+gender: "male"
 ethnicity: null
 photo: "https://storage.googleapis.com/media-cdn-7k9x2/img_29384_0_web_v1.png"
 # --- DEATH ---

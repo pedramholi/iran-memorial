@@ -3,12 +3,12 @@ name_latin: "Mohammad Bozorgi"
 name_farsi: "محمد بزرگی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: "male"
 ethnicity: null
 photo: "https://storage.googleapis.com/media-cdn-7k9x2/img_25735_0_twitter_v1.jpg"
 # --- DEATH ---
 date_of_death: null
-age_at_death: null
+age_at_death: 18
 place_of_death: "Ekbatan"
 cause_of_death: null
 circumstances: >
@@ -26,6 +26,16 @@ sources:
     type: community_database
   - url: "https://x.com/b0oseh/status/2017569078714499113"
     name: "Source"
+    date: null
+    type: primary
+  - url: "https://www.iranrights.org/memorial/story/44141/mohammad-bozorgi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+  - url: "https://www.iranrights.org/memorial/story/34300/mohammad-bozorgi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+  - url: "https://javidnaman.iranintl.com/memorial/tCKl8UDDdoQQUGMvcU9LmA"
+    name: "Iran International"
     date: null
     type: primary
 last_updated: 2026-02-12

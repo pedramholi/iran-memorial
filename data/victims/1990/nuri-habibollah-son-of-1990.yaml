@@ -53,5 +53,8 @@ sources:
   - url: "https://www.iranrights.org/memorial/story/2396/habibollah-son-of-nuri"
     name: "Abdorrahman Boroumand Center — Omid Memorial"
     type: memorial_database
+  - url: "https://www.iranrights.org/memorial/story/2398/habibollah-son-of-feyzollah"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
 last_updated: 2026-02-09
 updated_by: "boroumand-import"

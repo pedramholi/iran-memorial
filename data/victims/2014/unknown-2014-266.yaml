@@ -24,5 +24,17 @@ sources:
   - url: "https://www.iranrights.org/memorial/story/79457/unknown"
     name: "Abdorrahman Boroumand Center — Omid Memorial"
     type: memorial_database
+  - url: "https://www.iranrights.org/memorial/story/79454/unknown"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+  - url: "https://www.iranrights.org/memorial/story/79455/unknown"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+  - url: "https://www.iranrights.org/memorial/story/79456/unknown"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+  - url: "https://www.iranrights.org/memorial/story/79458/unknown"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
 last_updated: 2026-02-10
 updated_by: "boroumand-import"

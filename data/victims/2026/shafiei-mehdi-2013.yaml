@@ -46,5 +46,9 @@ sources:
     name: "Source"
     date: null
     type: primary
+  - url: "https://t.me/javidnamhamedan/256"
+    name: "Source"
+    date: null
+    type: primary
 last_updated: 2026-02-12
 updated_by: "iranvictims-csv-import"

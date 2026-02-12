@@ -3,7 +3,7 @@ name_latin: "Mohammad Javad Rahimian"
 name_farsi: "محمدجواد رحیمیان"
 date_of_birth: null  # est. birth year: 1996
 place_of_birth: null
-gender: null
+gender: "male"
 ethnicity: null
 photo: "https://storage.googleapis.com/media-cdn-7k9x2/img_29444_0_web_v1.jpg"
 # --- DEATH ---

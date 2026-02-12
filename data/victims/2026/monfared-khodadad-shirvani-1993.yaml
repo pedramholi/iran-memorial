@@ -3,7 +3,7 @@ name_latin: "Khodadad Shirvani Monfared"
 name_farsi: "خداداد شیروانی منفرد"
 date_of_birth: null  # est. birth year: 1993
 place_of_birth: null
-gender: null
+gender: "male"
 ethnicity: null
 photo: "https://storage.googleapis.com/media-cdn-7k9x2/img_39639_0_telegram_v1.jpg"
 # --- DEATH ---
@@ -32,6 +32,10 @@ sources:
     type: primary
   - url: "https://x.com/sasanrahimpour1/status/2020590720512413907"
     name: "Source"
+    date: null
+    type: primary
+  - url: "https://javidnaman.iranintl.com/memorial/vN7MNz32cVvzOpuuClUQIv"
+    name: "Iran International"
     date: null
     type: primary
 last_updated: 2026-02-12

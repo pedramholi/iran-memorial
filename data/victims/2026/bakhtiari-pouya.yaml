@@ -8,10 +8,10 @@ ethnicity: null
 photo: null
 
 # --- DEATH ---
-date_of_death: null
-age_at_death: null
-place_of_death: null
-cause_of_death: null
+date_of_death: 2019-11-16
+age_at_death: 27
+place_of_death: "Razahban Blvd"
+cause_of_death: "Arbitrary Execution » Arbitrary shooting » Assault weapon/ Fire arm » targeting vital organs"
 circumstances: >
     Referenced as someone who would be alive if the December 1996 protests had
     become a revolution
@@ -29,5 +29,8 @@ sources:
     name: "Source"
     date: null
     type: primary
+  - url: "https://www.iranrights.org/memorial/story/86364/puya-bakhtiari"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
 last_updated: 2026-02-09
 updated_by: "iranvictims-csv-import"

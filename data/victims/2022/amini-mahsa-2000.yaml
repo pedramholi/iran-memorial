@@ -106,5 +106,8 @@ sources:
     name: "Source"
     date: null
     type: primary
+  - url: "https://www.iranrights.org/memorial/story/-8952/mahsa-jina-amini"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
 last_updated: 2026-02-12
 updated_by: "iran-memorial project"

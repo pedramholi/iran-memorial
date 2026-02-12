@@ -1,6 +1,6 @@
 id: shirouzehi-jaber-2010
 name_latin: "Jaber Shirouzehi"
-name_farsi: null
+name_farsi: "جابر شیروزهی"
 date_of_birth: null  # est. birth year: 2010
 place_of_birth: null
 gender: male
@@ -34,5 +34,8 @@ sources:
     name: "Amnesty International — Killings of children (MDE 13/6104/2022)"
     date: 2022-12-09
     type: ngo_report
+  - url: "https://www.iranrights.org/memorial/story/86824/jaber-shiruzehi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
 last_updated: 2026-02-09
 updated_by: "hrana-82day-import"

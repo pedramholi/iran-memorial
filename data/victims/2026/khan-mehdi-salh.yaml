@@ -9,7 +9,7 @@ photo: null
 
 # --- DEATH ---
 date_of_death: 2026-01-08
-age_at_death: null
+age_at_death: 30
 place_of_death: "Golpayegan"
 province: "Esfahan"
 cause_of_death: null
@@ -31,6 +31,10 @@ sources:
     type: primary
   - url: "https://x.com/HeKasrehCrisis/status/2018555464208769040"
     name: "Source"
+    date: null
+    type: primary
+  - url: "https://javidnaman.iranintl.com/memorial/7G0E78pdgELSDZc0D9xATo"
+    name: "Iran International"
     date: null
     type: primary
 last_updated: 2026-02-09

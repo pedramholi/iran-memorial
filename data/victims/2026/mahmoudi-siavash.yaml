@@ -8,11 +8,11 @@ ethnicity: null
 photo: null
 
 # --- DEATH ---
-date_of_death: null
-age_at_death: null
+date_of_death: 2022-09-21
+age_at_death: 17
 place_of_death: "Tehran"
 province: "Tehran"
-cause_of_death: null
+cause_of_death: "Arbitrary Execution » Arbitrary shooting » Unspecified  weapon » targeting vital organs"
 circumstances: >
     Killed during protests in Dey month 1404, buried in section 327 of Behesht-e
     Zahra cemetery. His mother Leila Mahdavi describes the cemetery section as now
@@ -32,5 +32,8 @@ sources:
     name: "Source"
     date: null
     type: primary
+  - url: "https://www.iranrights.org/memorial/story/-8957/siavash-mahmudi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
 last_updated: 2026-02-09
 updated_by: "iranvictims-csv-import"

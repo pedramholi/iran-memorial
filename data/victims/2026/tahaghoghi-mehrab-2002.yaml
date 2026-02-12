@@ -3,7 +3,7 @@ name_latin: "Mehrab Tahaghoghi"
 name_farsi: "محراب تحققی"
 date_of_birth: null  # est. birth year: 2002
 place_of_birth: null
-gender: null
+gender: "male"
 ethnicity: null
 photo: "https://storage.googleapis.com/media-cdn-7k9x2/img_41531_0_telegram_v1.jpg"
 # --- DEATH ---

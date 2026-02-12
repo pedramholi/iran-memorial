@@ -94,5 +94,8 @@ sources:
   - url: "https://www.iranrights.org/memorial/story/-8372/mohammad-sohrab-habibi"
     name: "Abdorrahman Boroumand Center — Omid Memorial"
     type: memorial_database
+  - url: "https://www.iranrights.org/memorial/story/-8373/mohammad-baqer-soheil-habibi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
 last_updated: 2026-02-12
 updated_by: "boroumand-photo-import"

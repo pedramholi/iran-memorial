@@ -23,5 +23,17 @@ sources:
     name: "RememberTheirNames Telegram — #2575"
     date: null
     type: community_database
+  - url: "https://t.me/RememberTheirNames/805"
+    name: "RememberTheirNames Telegram — #755"
+    date: null
+    type: community_database
+  - url: "https://t.me/RememberTheirNames/973"
+    name: "RememberTheirNames Telegram — #921"
+    date: null
+    type: community_database
+  - url: "https://t.me/RememberTheirNames/2718"
+    name: "RememberTheirNames Telegram — #2576"
+    date: null
+    type: community_database
 last_updated: 2026-02-12
 updated_by: "telegram-rtn-import"

@@ -3,7 +3,7 @@ name_latin: "Mohammad Shahbakhsh (Mirbaluchzehi)"
 name_farsi: "محمد شه بخش (میربلوچ زهی)"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: "male"
 ethnicity: null
 religion: "Presumed Muslim (Sunni)"
 photo: null
@@ -24,5 +24,12 @@ sources:
   - url: "https://www.iranrights.org/memorial/story/86738/mohammad-shahbakhsh-mirbaluchzehi"
     name: "Abdorrahman Boroumand Center — Omid Memorial"
     type: memorial_database
+  - url: "https://www.iranrights.org/memorial/story/74379/mohammad-shahbakhsh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+  - url: "https://en.wikipedia.org/wiki/Deaths_during_the_Mahsa_Amini_protests"
+    name: "Wikipedia — Deaths during the Mahsa Amini protests"
+    date: null
+    type: encyclopedia
 last_updated: 2026-02-09
 updated_by: "boroumand-import"

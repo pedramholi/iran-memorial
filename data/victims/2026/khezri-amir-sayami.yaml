@@ -8,7 +8,7 @@ ethnicity: null
 photo: "https://storage.googleapis.com/media-cdn-7k9x2/img_30739_0_telegram_v1.jpg"
 # --- DEATH ---
 date_of_death: 2026-01-23
-age_at_death: null
+age_at_death: 44
 place_of_death: "Mashhad"
 province: "Khorasan-e Razavi"
 cause_of_death: null
@@ -26,6 +26,10 @@ sources:
     type: community_database
   - url: "https://t.me/RememberTheirNames/1770"
     name: "Source"
+    date: null
+    type: primary
+  - url: "https://javidnaman.iranintl.com/memorial/yEYwvbhpDrCFHYzchrh55c"
+    name: "Iran International"
     date: null
     type: primary
 last_updated: 2026-02-12

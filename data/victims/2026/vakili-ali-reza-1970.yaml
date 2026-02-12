@@ -3,7 +3,7 @@ name_latin: "Ali Reza Vakili"
 name_farsi: "علی رضا وکیلی"
 date_of_birth: null  # est. birth year: 1970
 place_of_birth: null
-gender: null
+gender: "male"
 ethnicity: null
 photo: "https://storage.googleapis.com/media-cdn-7k9x2/img_26205_0_twitter_v1.jpg"
 # --- DEATH ---

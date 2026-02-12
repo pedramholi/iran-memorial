@@ -8,7 +8,7 @@ ethnicity: null
 photo: "https://storage.googleapis.com/media-cdn-7k9x2/img_27064_0_web_v1.jpg"
 # --- DEATH ---
 date_of_death: 2026-01-09
-age_at_death: null
+age_at_death: 38
 place_of_death: "Shahriar"
 province: "Tehran"
 cause_of_death: null
@@ -29,6 +29,10 @@ sources:
     date: null
     type: primary
   - url: "https://t.me/RememberTheirNames/1181"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/manotonews/status/2020090167332389321"
     name: "Source"
     date: null
     type: primary

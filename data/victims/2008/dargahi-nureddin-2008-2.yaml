@@ -95,5 +95,8 @@ sources:
   - url: "https://www.iranrights.org/memorial/story/-9052/nureddin-dargahi"
     name: "Abdorrahman Boroumand Center — Omid Memorial"
     type: memorial_database
+  - url: "https://www.iranrights.org/memorial/story/86678/nureddin-dargahi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
 last_updated: 2026-02-09
 updated_by: "boroumand-import"

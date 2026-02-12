@@ -1,6 +1,6 @@
 id: pasikhani-pouya-ahmadpour-2005
 name_latin: "Pouya (Ali) Ahmadpour Pasikhani"
-name_farsi: null
+name_farsi: "پویا (علی) احمد‌پور پسیخانی"
 date_of_birth: null  # est. birth year: 2005
 place_of_birth: null
 gender: male
@@ -25,5 +25,8 @@ sources:
     name: "Wikipedia — Deaths during the Mahsa Amini protests"
     date: null
     type: encyclopedia
+  - url: "https://www.iranrights.org/memorial/story/86473/puya-ali-ahmadpur-pasikhani"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
 last_updated: 2026-02-09
 updated_by: "wikipedia-parser-script"

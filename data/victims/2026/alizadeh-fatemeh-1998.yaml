@@ -32,5 +32,9 @@ sources:
     name: "Source"
     date: null
     type: primary
+  - url: "https://x.com/persian_picture/status/2020467988575535464"
+    name: "Source"
+    date: null
+    type: primary
 last_updated: 2026-02-12
 updated_by: "iranvictims-csv-import"

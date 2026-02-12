@@ -28,5 +28,13 @@ sources:
     name: "Source"
     date: null
     type: primary
+  - url: "https://x.com/banafshehviola/status/2012756226661355750"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/movaghat68/status/2012657348133962090"
+    name: "Source"
+    date: null
+    type: primary
 last_updated: 2026-02-12
 updated_by: "iranvictims-csv-import"

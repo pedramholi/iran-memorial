@@ -1,6 +1,6 @@
 id: pousheh-javad-2011
 name_latin: "Javad Pousheh"
-name_farsi: null
+name_farsi: "جواد پوشه"
 date_of_birth: null  # est. birth year: 2011
 place_of_birth: null
 gender: male
@@ -32,5 +32,8 @@ sources:
     name: "Amnesty International — Killings of children (MDE 13/6104/2022)"
     date: 2022-12-09
     type: ngo_report
+  - url: "https://www.iranrights.org/memorial/story/86785/javad-pusheh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
 last_updated: 2026-02-09
 updated_by: "wikipedia-parser-script"

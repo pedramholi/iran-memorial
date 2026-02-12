@@ -1,6 +1,6 @@
 id: azarnoosh-pedram-2004
 name_latin: "Pedram Azarnoosh"
-name_farsi: null
+name_farsi: "پدرام آذرنوش"
 date_of_birth: null  # est. birth year: 2004
 place_of_birth: null
 gender: male
@@ -28,5 +28,8 @@ sources:
     name: "Wikipedia — Deaths during the Mahsa Amini protests"
     date: null
     type: encyclopedia
+  - url: "https://www.iranrights.org/memorial/story/86460/pedram-azarnush"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
 last_updated: 2026-02-09
 updated_by: "hrana-82day-import"

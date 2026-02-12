@@ -94,5 +94,8 @@ sources:
   - url: "https://www.iranrights.org/memorial/story/-8584/abdolreza-shafii"
     name: "Abdorrahman Boroumand Center — Omid Memorial"
     type: memorial_database
+  - url: "https://www.iranrights.org/memorial/story/85437/abdolreza-shafii"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
 last_updated: 2026-02-09
 updated_by: "boroumand-import"

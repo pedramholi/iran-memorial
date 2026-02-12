@@ -1,6 +1,6 @@
 id: saidi-elaheh
 name_latin: "Elaheh Sa’idi"
-name_farsi: null
+name_farsi: "الهه سعیدی"
 date_of_birth: null
 place_of_birth: null
 gender: female
@@ -12,7 +12,7 @@ date_of_death: 2022-10-10
 age_at_death: null
 place_of_death: "Saqqez, Kurdistan Province"
 province: "Kordestan"
-cause_of_death: null
+cause_of_death: "Arbitrary Execution » Arbitrary shooting"
 circumstances: null
 event_context: "Woman, Life, Freedom movement (2022 Mahsa Amini protests)"
 responsible_forces: null
@@ -24,5 +24,8 @@ sources:
     name: "Wikipedia — Deaths during the Mahsa Amini protests"
     date: null
     type: encyclopedia
+  - url: "https://www.iranrights.org/memorial/story/86375/elaheh-saidi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
 last_updated: 2026-02-09
 updated_by: "wikipedia-parser-script"

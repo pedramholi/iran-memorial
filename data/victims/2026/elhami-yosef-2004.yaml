@@ -30,5 +30,13 @@ sources:
     name: "Source"
     date: null
     type: primary
+  - url: "https://x.com/jashnimitra/status/2020855149078397224"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/2684"
+    name: "Source"
+    date: null
+    type: primary
 last_updated: 2026-02-12
 updated_by: "iranvictims-csv-import"

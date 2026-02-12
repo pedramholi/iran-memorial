@@ -1,6 +1,6 @@
 id: bahramian-murad
 name_latin: "Murad Bahramian"
-name_farsi: null
+name_farsi: "مراد بهرامیان"
 date_of_birth: null
 place_of_birth: null
 gender: male
@@ -9,7 +9,7 @@ photo: null
 
 # --- DEATH ---
 date_of_death: 2022-11-16
-age_at_death: null
+age_at_death: 49
 place_of_death: "Semirom"
 cause_of_death: "Unknown"
 circumstances: null
@@ -27,5 +27,8 @@ sources:
     name: "Wikipedia — Deaths during the Mahsa Amini protests"
     date: null
     type: encyclopedia
+  - url: "https://www.iranrights.org/memorial/story/86474/morad-bahramian"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
 last_updated: 2026-02-09
 updated_by: "hrana-82day-import"

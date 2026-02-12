@@ -56,5 +56,8 @@ sources:
   - url: "https://www.iranrights.org/memorial/story/-8083/vahid-sh"
     name: "Abdorrahman Boroumand Center — Omid Memorial"
     type: memorial_database
+  - url: "https://www.iranrights.org/memorial/story/82580/vahid-sh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
 last_updated: 2026-02-09
 updated_by: "boroumand-import"

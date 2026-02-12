@@ -7,7 +7,7 @@ gender: male
 ethnicity: null
 photo: "https://storage.googleapis.com/media-cdn-7k9x2/img_41497_0_telegram_v1.jpg"
 # --- DEATH ---
-date_of_death: null
+date_of_death: 2026-01-09
 age_at_death: 62
 place_of_death: "Tehran"
 province: "Tehran"
@@ -26,6 +26,10 @@ sources:
     type: community_database
   - url: "https://javidnaman.iranintl.com/memorial/8cbuB3R32ZSkEGIlYvRgG1"
     name: "Iran International"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/2631"
+    name: "Source"
     date: null
     type: primary
 last_updated: 2026-02-12

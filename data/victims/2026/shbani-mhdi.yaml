@@ -23,5 +23,49 @@ sources:
     name: "RememberTheirNames Telegram — #2610"
     date: null
     type: community_database
+  - url: "https://t.me/RememberTheirNames/2771"
+    name: "RememberTheirNames Telegram — #2625"
+    date: null
+    type: community_database
+  - url: "https://t.me/RememberTheirNames/745"
+    name: "RememberTheirNames Telegram — #695"
+    date: null
+    type: community_database
+  - url: "https://t.me/RememberTheirNames/497"
+    name: "RememberTheirNames Telegram — #461"
+    date: null
+    type: community_database
+  - url: "https://t.me/RememberTheirNames/2639"
+    name: "RememberTheirNames Telegram — #2508"
+    date: null
+    type: community_database
+  - url: "https://t.me/RememberTheirNames/880"
+    name: "RememberTheirNames Telegram — #829"
+    date: null
+    type: community_database
+  - url: "https://t.me/RememberTheirNames/1630"
+    name: "RememberTheirNames Telegram — #1545"
+    date: null
+    type: community_database
+  - url: "https://t.me/RememberTheirNames/1263"
+    name: "RememberTheirNames Telegram — #1195"
+    date: null
+    type: community_database
+  - url: "https://t.me/RememberTheirNames/2711"
+    name: "RememberTheirNames Telegram — #2569"
+    date: null
+    type: community_database
+  - url: "https://t.me/RememberTheirNames/2720"
+    name: "RememberTheirNames Telegram — #2578"
+    date: null
+    type: community_database
+  - url: "https://t.me/RememberTheirNames/2003"
+    name: "RememberTheirNames Telegram — #1901"
+    date: null
+    type: community_database
+  - url: "https://t.me/RememberTheirNames/258"
+    name: "RememberTheirNames Telegram — #228"
+    date: null
+    type: community_database
 last_updated: 2026-02-12
 updated_by: "telegram-rtn-import"

@@ -11,7 +11,7 @@ date_of_death: 2026-01-08
 age_at_death: 23
 place_of_death: "Arak"
 province: "Markazi"
-cause_of_death: null
+cause_of_death: "Gunshot"
 circumstances: >
     Killed by the Islamic Republic regime during protests while completing
     mandatory military service. Originally from Jamalabad village in Shazand.
@@ -34,6 +34,10 @@ sources:
     date: null
     type: primary
   - url: "https://x.com/saeidvafa/status/2015902279329595430"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/iranwire/status/2020385698696860047"
     name: "Source"
     date: null
     type: primary

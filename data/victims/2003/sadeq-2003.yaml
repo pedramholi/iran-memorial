@@ -60,5 +60,8 @@ sources:
   - url: "https://www.iranrights.org/memorial/story/73706/sadeq"
     name: "Abdorrahman Boroumand Center — Omid Memorial"
     type: memorial_database
+  - url: "https://www.iranrights.org/memorial/story/75703/sadeq"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
 last_updated: 2026-02-09
 updated_by: "boroumand-import"

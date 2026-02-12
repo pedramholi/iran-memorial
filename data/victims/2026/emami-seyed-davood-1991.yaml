@@ -3,7 +3,7 @@ name_latin: "Seyed Davood Emami"
 name_farsi: "سید داوود امامی"
 date_of_birth: null  # est. birth year: 1991
 place_of_birth: null
-gender: null
+gender: "male"
 ethnicity: null
 photo: "https://storage.googleapis.com/media-cdn-7k9x2/img_37920_0_twitter_v1.jpg"
 # --- DEATH ---
@@ -34,6 +34,10 @@ sources:
     date: null
     type: primary
   - url: "https://x.com/callmenanaalk/status/2020772679100531017"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/kyokushinsoofi/status/2019364421810655267"
     name: "Source"
     date: null
     type: primary

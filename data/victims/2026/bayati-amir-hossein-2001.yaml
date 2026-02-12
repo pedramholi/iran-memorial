@@ -3,7 +3,7 @@ name_latin: "Amir Hossein Bayati"
 name_farsi: "امیرحسین بیاتی"
 date_of_birth: null  # est. birth year: 2001
 place_of_birth: null
-gender: null
+gender: "male"
 ethnicity: null
 photo: "https://storage.googleapis.com/media-cdn-7k9x2/img_20063_0_twitter_v1.jpg"
 # --- DEATH ---
@@ -37,6 +37,18 @@ sources:
     type: primary
   - url: "https://javidnaman.iranintl.com/memorial/255P39jiXgM2t3lNmMgsVw"
     name: "Iran International"
+    date: null
+    type: primary
+  - url: "https://x.com/Daikatuo/status/2007456429049856090"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://www.iran-emrooz.net/index.php/news2/125134/"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/walterakam/status/2016571251636994153"
+    name: "Source"
     date: null
     type: primary
 last_updated: 2026-02-12

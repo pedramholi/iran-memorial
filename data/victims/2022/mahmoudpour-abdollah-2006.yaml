@@ -1,6 +1,6 @@
 id: mahmoudpour-abdollah-2006
 name_latin: "Abdollah Mahmoudpour"
-name_farsi: null
+name_farsi: "عبدالله محمودپور"
 aliases: ['Mohammadpour']
 date_of_birth: null  # est. birth year: 2006
 place_of_birth: null
@@ -33,5 +33,8 @@ sources:
     name: "Amnesty International — Killings of children (MDE 13/6104/2022)"
     date: 2022-12-09
     type: ngo_report
+  - url: "https://www.iranrights.org/memorial/story/86282/abdollah-mahmudpur"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
 last_updated: 2026-02-09
 updated_by: "wikipedia-parser-script"

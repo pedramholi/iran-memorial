@@ -8,7 +8,7 @@ ethnicity: null
 photo: "https://storage.googleapis.com/media-cdn-7k9x2/img_38686_0_telegram_v1.jpg"
 # --- DEATH ---
 date_of_death: 2026-01-08
-age_at_death: null
+age_at_death: 43
 place_of_death: "Fardis, Karaj"
 province: "Alborz"
 cause_of_death: null
@@ -30,6 +30,10 @@ sources:
     type: primary
   - url: "https://x.com/manotonews/status/2014719016015659384"
     name: "Source"
+    date: null
+    type: primary
+  - url: "https://javidnaman.iranintl.com/memorial/tCKl8UDDdoQQUGMvcfpn2w"
+    name: "Iran International"
     date: null
     type: primary
 last_updated: 2026-02-12

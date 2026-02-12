@@ -3,7 +3,7 @@ name_latin: "Fa'Zh Aizi"
 name_farsi: "فائزه ایزی"
 date_of_birth: null  # est. birth year: 2010
 place_of_birth: null
-gender: null
+gender: "female"
 ethnicity: null
 photo: "https://storage.googleapis.com/media-cdn-7k9x2/img_38692_0_telegram_v1.jpg"
 # --- DEATH ---

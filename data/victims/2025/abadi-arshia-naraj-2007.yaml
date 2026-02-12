@@ -11,7 +11,7 @@ date_of_death: 2025-12-22
 age_at_death: 18
 place_of_death: "Piroozi, Tehran"
 province: "Tehran"
-cause_of_death: null
+cause_of_death: "Gunshot"
 circumstances: >
     Documented in Iran International Memorial as victim
 event_context: "2025-2026 Iranian nationwide protests (December 2025 uprising)"
@@ -29,6 +29,10 @@ sources:
     date: null
     type: primary
   - url: "https://t.me/RememberTheirNames/512"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/saeidvafa/status/2020759801173590409"
     name: "Source"
     date: null
     type: primary

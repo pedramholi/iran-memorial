@@ -10,7 +10,7 @@ photo: null
 
 # --- DEATH ---
 date_of_death: 2015-11-24
-age_at_death: null
+age_at_death: 63
 place_of_death: "Minab"
 province: "Hormozgan"
 cause_of_death: "Execution » Hanging"
@@ -70,6 +70,18 @@ responsible_forces: null
 status: unverified
 sources:
   - url: "https://www.iranrights.org/memorial/story/-7739/unknown"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+  - url: "https://www.iranrights.org/memorial/story/78451/musa-unknown-kadkhodai"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+  - url: "https://www.iranrights.org/memorial/story/78450/ali-unknown-faramarzi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+  - url: "https://www.iranrights.org/memorial/story/78449/shokrollah-unknown-baluchi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+  - url: "https://www.iranrights.org/memorial/story/78448/unknown"
     name: "Abdorrahman Boroumand Center — Omid Memorial"
     type: memorial_database
 last_updated: 2026-02-10

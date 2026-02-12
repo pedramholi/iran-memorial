@@ -1,6 +1,6 @@
 id: ghasemi-ardalan-1974
 name_latin: "Ardalan Ghasemi"
-name_farsi: null
+name_farsi: "اردلان قاسمی"
 date_of_birth: null  # est. birth year: 1974
 place_of_birth: null
 gender: male
@@ -28,5 +28,8 @@ sources:
     name: "Wikipedia — Deaths during the Mahsa Amini protests"
     date: null
     type: encyclopedia
+  - url: "https://www.iranrights.org/memorial/story/-9060/ardalan-qasemi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
 last_updated: 2026-02-09
 updated_by: "hrana-82day-import"

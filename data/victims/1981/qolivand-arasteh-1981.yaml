@@ -46,5 +46,8 @@ sources:
   - url: "https://www.iranrights.org/memorial/story/35861/arasteh-qolivand"
     name: "Abdorrahman Boroumand Center — Omid Memorial"
     type: memorial_database
+  - url: "https://www.iranrights.org/memorial/story/21409/arasteh-qolivand"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
 last_updated: 2026-02-12
 updated_by: "boroumand-photo-import"

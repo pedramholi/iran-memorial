@@ -3,7 +3,7 @@ name_latin: "Mohammad Hossein Askari"
 name_farsi: "محمدحسین عسکری"
 date_of_birth: null  # est. birth year: 1999
 place_of_birth: null
-gender: null
+gender: "male"
 ethnicity: null
 photo: "https://storage.googleapis.com/media-cdn-7k9x2/img_31121_0_telegram_v1.jpg"
 # --- DEATH ---

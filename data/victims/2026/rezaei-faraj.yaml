@@ -39,5 +39,13 @@ sources:
     name: "Source"
     date: null
     type: primary
+  - url: "https://x.com/iranianpapppi3/status/2020417879074607124"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/i/status/2020417879074607124"
+    name: "Source"
+    date: null
+    type: primary
 last_updated: 2026-02-12
 updated_by: "iranvictims-csv-import"

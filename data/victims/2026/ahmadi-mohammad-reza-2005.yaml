@@ -37,5 +37,17 @@ sources:
     name: "Source"
     date: null
     type: primary
+  - url: "https://iranhrs.org/جانباختگان-اعتراضات-۱۴۰۴/"
+    name: "Iran Human Rights Society"
+    date: null
+    type: primary
+  - url: "https://x.com/israelwarroom/status/2016973199997882861"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/RememberTheirNames/242"
+    name: "Source"
+    date: null
+    type: primary
 last_updated: 2026-02-12
 updated_by: "iranvictims-csv-import"

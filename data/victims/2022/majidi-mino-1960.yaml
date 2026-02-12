@@ -1,6 +1,6 @@
 id: majidi-mino-1960
 name_latin: "Mino Majidi"
-name_farsi: null
+name_farsi: "مینو مجیدی"
 date_of_birth: null  # est. birth year: 1960
 place_of_birth: null
 gender: female
@@ -28,5 +28,8 @@ sources:
     name: "Wikipedia — Deaths during the Mahsa Amini protests"
     date: null
     type: encyclopedia
+  - url: "https://www.iranrights.org/memorial/story/-8587/minu-majidi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
 last_updated: 2026-02-09
 updated_by: "hrana-82day-import"

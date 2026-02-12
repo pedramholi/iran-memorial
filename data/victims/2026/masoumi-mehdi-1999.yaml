@@ -38,5 +38,9 @@ sources:
     name: "Source"
     date: null
     type: primary
+  - url: "https://javidnaman.iranintl.com/memorial/tCKl8UDDdoQQUGMvcU8pVd"
+    name: "Iran International"
+    date: null
+    type: primary
 last_updated: 2026-02-12
 updated_by: "iranvictims-csv-import"

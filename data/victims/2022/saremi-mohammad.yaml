@@ -1,6 +1,6 @@
 id: saremi-mohammad
 name_latin: "Mohammad Saremi"
-name_farsi: null
+name_farsi: "محمد کشاورز (صارمی)"
 date_of_birth: null
 place_of_birth: null
 gender: male
@@ -12,7 +12,7 @@ date_of_death: 2022-10-31
 age_at_death: null
 place_of_death: "Borujerd, Lorestan Province"
 province: "Lorestan"
-cause_of_death: null
+cause_of_death: "Arbitrary Execution » Arbitrary shooting"
 circumstances: null
 event_context: "Woman, Life, Freedom movement (2022 Mahsa Amini protests)"
 responsible_forces: null
@@ -24,5 +24,8 @@ sources:
     name: "Wikipedia — Deaths during the Mahsa Amini protests"
     date: null
     type: encyclopedia
+  - url: "https://www.iranrights.org/memorial/story/86313/mohammad-keshavarz-saremi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
 last_updated: 2026-02-09
 updated_by: "wikipedia-parser-script"

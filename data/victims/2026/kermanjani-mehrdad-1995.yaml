@@ -39,5 +39,13 @@ sources:
     name: "Source"
     date: null
     type: primary
+  - url: "https://x.com/kyokushinsoofi/status/2020073149161677280"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://t.me/ParawNews/7741"
+    name: "Source"
+    date: null
+    type: primary
 last_updated: 2026-02-12
 updated_by: "iranvictims-csv-import"

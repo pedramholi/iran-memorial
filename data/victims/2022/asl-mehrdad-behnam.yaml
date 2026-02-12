@@ -1,6 +1,6 @@
 id: asl-mehrdad-behnam
 name_latin: "Mehrdad Behnam-Asl"
-name_farsi: null
+name_farsi: "مهرداد بهنام اصل"
 date_of_birth: null
 place_of_birth: null
 gender: male
@@ -9,10 +9,10 @@ photo: null
 
 # --- DEATH ---
 date_of_death: 2022-09-22
-age_at_death: null
+age_at_death: 27
 place_of_death: "Kohgiluyeh, Boyer-Ahmad / Dehdasht, Kohgiluyeh and Boyer-Ahmad Province"
 province: "Kohgiluyeh va Boyer-Ahmad"
-cause_of_death: null
+cause_of_death: "Arbitrary Execution » Arbitrary shooting"
 circumstances: null
 event_context: "Woman, Life, Freedom movement (2022 Mahsa Amini protests)"
 responsible_forces: null
@@ -24,5 +24,8 @@ sources:
     name: "Wikipedia — Deaths during the Mahsa Amini protests"
     date: null
     type: encyclopedia
+  - url: "https://www.iranrights.org/memorial/story/86471/mehrdad-behnam-asl"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
 last_updated: 2026-02-09
 updated_by: "wikipedia-parser-script"

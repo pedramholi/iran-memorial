@@ -3,7 +3,7 @@ name_latin: "Hassan Nasiri"
 name_farsi: "حسن نصیری"
 date_of_birth: null  # est. birth year: 1994
 place_of_birth: null
-gender: null
+gender: "male"
 ethnicity: null
 photo: "https://storage.googleapis.com/media-cdn-7k9x2/img_21011_0_twitter_v1.jpg"
 # --- DEATH ---

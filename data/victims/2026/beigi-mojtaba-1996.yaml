@@ -3,7 +3,7 @@ name_latin: "Mojtaba Beigi"
 name_farsi: "مجتبی بیگی"
 date_of_birth: null  # est. birth year: 1996
 place_of_birth: null
-gender: null
+gender: "male"
 ethnicity: null
 photo: "https://storage.googleapis.com/media-cdn-7k9x2/img_38292_0_twitter_v1.jpg"
 # --- DEATH ---

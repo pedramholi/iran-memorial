@@ -3,7 +3,7 @@ name_latin: "Mehdi (Kiarash) Safari"
 name_farsi: "مهدی (کیارش) صفری"
 date_of_birth: null  # est. birth year: 2003
 place_of_birth: null
-gender: null
+gender: "male"
 ethnicity: null
 photo: "https://storage.googleapis.com/media-cdn-7k9x2/img_26753_0_web_v1.jpg"
 # --- DEATH ---

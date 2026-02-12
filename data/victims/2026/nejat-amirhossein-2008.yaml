@@ -3,7 +3,7 @@ name_latin: "Amirhossein Nejat"
 name_farsi: "امیرحسین نجات"
 date_of_birth: null  # est. birth year: 2008
 place_of_birth: null
-gender: null
+gender: "male"
 ethnicity: null
 photo: "https://storage.googleapis.com/media-cdn-7k9x2/img_40165_0_telegram_v1.jpg"
 # --- DEATH ---

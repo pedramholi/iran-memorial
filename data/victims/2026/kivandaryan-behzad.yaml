@@ -8,7 +8,7 @@ ethnicity: null
 photo: "https://storage.googleapis.com/media-cdn-7k9x2/img_23450_0_telegram_v1.jpg"
 # --- DEATH ---
 date_of_death: 2026-01-15
-age_at_death: null
+age_at_death: 58
 place_of_death: "Isfahan"
 province: "Esfahan"
 cause_of_death: null
@@ -26,6 +26,10 @@ sources:
     type: community_database
   - url: "https://t.me/RememberTheirNames/1498"
     name: "Source"
+    date: null
+    type: primary
+  - url: "https://javidnaman.iranintl.com/memorial/s7x3ao9lUCHAJRA4Hlf3wm"
+    name: "Iran International"
     date: null
     type: primary
 last_updated: 2026-02-12

@@ -24,5 +24,9 @@ sources:
     name: "RememberTheirNames Telegram — #1652"
     date: null
     type: community_database
+  - url: "https://t.me/RememberTheirNames/703"
+    name: "RememberTheirNames Telegram — #656"
+    date: null
+    type: community_database
 last_updated: 2026-02-12
 updated_by: "telegram-rtn-import"

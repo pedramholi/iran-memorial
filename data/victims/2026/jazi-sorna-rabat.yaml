@@ -8,7 +8,7 @@ ethnicity: null
 photo: "https://storage.googleapis.com/media-cdn-7k9x2/img_39358_0_telegram_v1.jpg"
 # --- DEATH ---
 date_of_death: 2026-01-09
-age_at_death: null
+age_at_death: 22
 place_of_death: "Esfarayen"
 province: "Khorasan-e Shomali"
 cause_of_death: null
@@ -25,6 +25,14 @@ sources:
     date: null
     type: community_database
   - url: "https://t.me/RememberTheirNames/328"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/farhadgol60/status/2019865060387254574"
+    name: "Source"
+    date: null
+    type: primary
+  - url: "https://x.com/sonofniche/status/2020561772193706455"
     name: "Source"
     date: null
     type: primary

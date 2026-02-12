@@ -1,6 +1,6 @@
 id: rahimi-yahya
 name_latin: "Yahya Rahimi (sarabshahrak)"
-name_farsi: null
+name_farsi: "یحیی رحیمی"
 date_of_birth: null
 place_of_birth: null
 gender: male
@@ -28,5 +28,8 @@ sources:
     name: "Wikipedia — Deaths during the Mahsa Amini protests"
     date: null
     type: encyclopedia
+  - url: "https://www.iranrights.org/memorial/story/-8739/yahya-rahimi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
 last_updated: 2026-02-09
 updated_by: "hrana-82day-import"
