@@ -168,7 +168,13 @@ function VictimDetail({ victim, locale }: { victim: any; locale: Locale }) {
             {circumstances && (
               <div>
                 <h3 className="text-sm font-medium text-memorial-400 mb-2">{t("circumstances")}</h3>
-                <p className="text-memorial-200 leading-relaxed whitespace-pre-line">{circumstances}</p>
+                <div className="space-y-3">
+                  {circumstances.split('\n\n').map((paragraph: string, i: number) => (
+                    <p key={i} className="text-memorial-200 leading-relaxed">
+                      {paragraph.trim()}
+                    </p>
+                  ))}
+                </div>
               </div>
             )}
             {victim.event && (
@@ -203,20 +209,38 @@ function VictimDetail({ victim, locale }: { victim: any; locale: Locale }) {
                   <p className="text-sm text-memorial-400 mt-1">{formatDate(victim.burialDate, locale)}</p>
                 )}
                 {burialCircumstances && (
-                  <p className="text-memorial-300 mt-2 leading-relaxed whitespace-pre-line">{burialCircumstances}</p>
+                  <div className="mt-2 space-y-3">
+                    {burialCircumstances.split('\n\n').map((paragraph: string, i: number) => (
+                      <p key={i} className="text-memorial-300 leading-relaxed">
+                        {paragraph.trim()}
+                      </p>
+                    ))}
+                  </div>
                 )}
               </div>
             )}
             {familyPersecution && (
               <div>
                 <h3 className="text-sm font-medium text-memorial-400 mb-2">{t("familyPersecution")}</h3>
-                <p className="text-memorial-200 leading-relaxed whitespace-pre-line">{familyPersecution}</p>
+                <div className="space-y-3">
+                  {familyPersecution.split('\n\n').map((paragraph: string, i: number) => (
+                    <p key={i} className="text-memorial-200 leading-relaxed">
+                      {paragraph.trim()}
+                    </p>
+                  ))}
+                </div>
               </div>
             )}
             {victim.legalProceedings && (
               <div>
                 <h3 className="text-sm font-medium text-memorial-400 mb-2">{t("legalProceedings")}</h3>
-                <p className="text-memorial-200 leading-relaxed whitespace-pre-line">{victim.legalProceedings}</p>
+                <div className="space-y-3">
+                  {victim.legalProceedings.split('\n\n').map((paragraph: string, i: number) => (
+                    <p key={i} className="text-memorial-200 leading-relaxed">
+                      {paragraph.trim()}
+                    </p>
+                  ))}
+                </div>
               </div>
             )}
             {victim.tributes.length > 0 && (
