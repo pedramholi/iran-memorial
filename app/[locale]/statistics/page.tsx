@@ -4,6 +4,8 @@ import { getStatistics, type Statistics } from "@/lib/queries";
 import { formatNumber } from "@/lib/utils";
 import type { Locale } from "@/i18n/config";
 
+export const dynamic = "force-dynamic";
+
 export default async function StatisticsPage({
   params,
 }: {
