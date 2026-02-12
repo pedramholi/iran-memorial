@@ -1,0 +1,28 @@
+id: ahmadi-mehdi-2001
+name_latin: "Mehdi Ahmadi"
+name_farsi: "مهدی احمدی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: "https://www.iranrights.org/actorphotos/75156_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 2001-09-12
+age_at_death: 20
+place_of_death: "Shemiranat"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/75156/mehdi-ahmadi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-12
+updated_by: "boroumand-photo-import"

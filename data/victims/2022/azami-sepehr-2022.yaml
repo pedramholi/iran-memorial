@@ -1,0 +1,28 @@
+id: azami-sepehr-2022
+name_latin: "Sepehr A'zami"
+name_farsi: "سپهر اعظمی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Other"
+photo: "https://www.iranrights.org/actorphotos/85851_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 2022-12-06
+age_at_death: 24
+place_of_death: "Madani Hospital"
+province: "Alborz"
+cause_of_death: "Arbitrary Execution » Arbitrary shooting » Weapon loaded with metal pellets » at close range"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8948/sepehr-azami"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-12
+updated_by: "boroumand-photo-import"
