@@ -6,8 +6,7 @@ date_of_birth: null
 place_of_birth: "Sahneh, Kermanshah Province"
 gender: male
 ethnicity: Kurdish
-photo: null
-
+photo: "https://storage.googleapis.com/media-cdn-7k9x2/img_31914_0_telegram_v1.jpg"
 # --- LIFE ---
 occupation: "Human rights activist"
 
@@ -43,5 +42,5 @@ sources:
     name: "Iran Human Rights — Reza Rasaei Executed"
     date: 2024-08-06
     type: ngo_report
-last_updated: 2026-02-09
+last_updated: 2026-02-12
 updated_by: "iran-memorial project"

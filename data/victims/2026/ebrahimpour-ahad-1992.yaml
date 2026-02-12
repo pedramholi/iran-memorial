@@ -5,8 +5,7 @@ date_of_birth: null
 place_of_birth: null
 gender: male
 ethnicity: null
-photo: null
-
+photo: "https://storage.googleapis.com/media-cdn-7k9x2/img_19657_0_twitter_v1.jpg"
 # --- LIFE ---
 occupation: "Worker"
 
@@ -44,5 +43,5 @@ sources:
     name: "Source"
     date: null
     type: primary
-last_updated: 2026-02-09
+last_updated: 2026-02-12
 updated_by: "iran-memorial project"

@@ -5,8 +5,7 @@ date_of_birth: null
 place_of_birth: null
 gender: null
 ethnicity: null
-photo: null
-
+photo: "https://storage.googleapis.com/media-cdn-7k9x2/img_21744_0_twitter_v1.jpg"
 # --- DEATH ---
 date_of_death: 2026-01-09
 age_at_death: null

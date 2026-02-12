@@ -5,8 +5,7 @@ date_of_birth: 2006-04-01
 place_of_birth: null
 gender: female
 ethnicity: null
-photo: null
-
+photo: "https://storage.googleapis.com/media-cdn-7k9x2/img_30076_0_twitter_v1.jpg"
 # --- LIFE ---
 occupation: "Student (11th grade, art high school); Taekwondo athlete (Dan 3)"
 
@@ -51,5 +50,5 @@ sources:
     name: "Iran Human Rights — Calls for Investigation"
     date: null
     type: ngo_report
-last_updated: 2026-02-09
+last_updated: 2026-02-12
 updated_by: "iran-memorial project"

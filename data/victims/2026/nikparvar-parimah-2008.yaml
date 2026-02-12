@@ -5,8 +5,7 @@ date_of_birth: null  # est. birth year: 2008
 place_of_birth: null
 gender: female
 ethnicity: null
-photo: null
-
+photo: "https://storage.googleapis.com/media-cdn-7k9x2/img_34287_0_twitter_v1.jpg"
 # --- DEATH ---
 date_of_death: 2026-01-08
 age_at_death: 18
@@ -39,5 +38,5 @@ sources:
     name: "Source"
     date: null
     type: primary
-last_updated: 2026-02-09
+last_updated: 2026-02-12
 updated_by: "iranvictims-csv-import"

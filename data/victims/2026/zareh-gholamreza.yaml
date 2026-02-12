@@ -5,8 +5,7 @@ date_of_birth: null
 place_of_birth: null
 gender: male
 ethnicity: null
-photo: null
-
+photo: "https://storage.googleapis.com/media-cdn-7k9x2/img_37661_0_twitter_v1.jpg"
 # --- LIFE ---
 occupation: "Shopkeeper (ran 'Linda' flower shop)"
 
@@ -29,5 +28,5 @@ sources:
     name: "KHRN — At Least 150 Kurdish Citizens Killed"
     date: 2026-01-19
     type: ngo_report
-last_updated: 2026-02-09
+last_updated: 2026-02-12
 updated_by: "iran-memorial project"

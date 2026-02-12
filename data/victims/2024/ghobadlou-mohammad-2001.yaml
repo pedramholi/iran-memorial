@@ -5,8 +5,7 @@ date_of_birth: 2001-01-01
 place_of_birth: "Parand, Tehran Province"
 gender: male
 ethnicity: null
-photo: null
-
+photo: "https://storage.googleapis.com/media-cdn-7k9x2/img_31514_0_telegram_v1.jpg"
 # --- LIFE ---
 occupation: "Barber"
 
@@ -54,5 +53,5 @@ sources:
     name: "Source"
     date: null
     type: primary
-last_updated: 2026-02-09
+last_updated: 2026-02-12
 updated_by: "iran-memorial project"
