@@ -1,4 +1,5 @@
 import { prisma } from "./db";
+import { Prisma } from "@prisma/client";
 import type { Locale } from "@/i18n/config";
 
 const VICTIM_COLUMNS = `
@@ -131,29 +132,28 @@ export async function getVictimsList(params: {
   return { victims, total, page, pageSize, totalPages: Math.ceil(total / pageSize) };
 }
 
-/** Build filter WHERE clauses + param values for raw SQL */
-function buildFilterParams(params: { province?: string; year?: number; gender?: string }, startIdx: number) {
-  const clauses: string[] = [];
-  const values: any[] = [];
-  let idx = startIdx;
+/** Build safe parameterized filter fragment for raw SQL */
+function buildFilterFragment(params: { province?: string; year?: number; gender?: string }): Prisma.Sql {
+  const clauses: Prisma.Sql[] = [];
 
-  if (params.province) {
-    clauses.push(`v.province = $${idx}`);
-    values.push(params.province);
-    idx++;
+  if (params.province && typeof params.province === "string") {
+    clauses.push(Prisma.sql`v.province = ${params.province}`);
   }
-  if (params.gender) {
-    clauses.push(`v.gender = $${idx}`);
-    values.push(params.gender);
-    idx++;
+  if (params.gender && typeof params.gender === "string") {
+    // Whitelist valid genders
+    const valid = ["male", "female", "unknown"];
+    if (valid.includes(params.gender.toLowerCase())) {
+      clauses.push(Prisma.sql`v.gender = ${params.gender}`);
+    }
   }
-  if (params.year) {
-    clauses.push(`v.date_of_death >= $${idx}::date AND v.date_of_death <= $${idx + 1}::date`);
-    values.push(`${params.year}-01-01`, `${params.year}-12-31`);
-    idx += 2;
+  if (params.year && Number.isInteger(params.year) && params.year >= 1900 && params.year <= 2100) {
+    const yearStart = `${params.year}-01-01`;
+    const yearEnd = `${params.year}-12-31`;
+    clauses.push(Prisma.sql`v.date_of_death >= ${yearStart}::date AND v.date_of_death <= ${yearEnd}::date`);
   }
 
-  return { sql: clauses.length > 0 ? `AND ${clauses.join(" AND ")}` : "", values };
+  if (clauses.length === 0) return Prisma.empty;
+  return Prisma.sql`AND ${Prisma.join(clauses, " AND ")}`;
 }
 
 async function searchVictimsList(params: {
@@ -164,36 +164,42 @@ async function searchVictimsList(params: {
   gender?: string;
   search: string;
 }) {
-  const { page, pageSize, province, year, gender, search } = params;
+  const { page, province, year, gender, search } = params;
+  // Sanitize pagination
+  const safePageSize = Math.min(100, Math.max(1, Math.floor(Number(params.pageSize) || 24)));
+  const safePage = Math.max(1, Math.floor(Number(page) || 1));
+  const safeOffset = (safePage - 1) * safePageSize;
   const MIN_TSVECTOR_RESULTS = 5;
 
+  // Sanitize search: limit length, strip control characters
+  const cleanSearch = search.slice(0, 200).replace(/[^\p{L}\p{N}\s\-'.]/gu, "");
+  if (!cleanSearch.trim()) return { victims: [], total: 0, page: safePage, pageSize: safePageSize, totalPages: 0 };
+
   // Build tsquery: split words, join with &, add prefix matching
-  const tsQuery = search
+  const tsQuery = cleanSearch
     .split(/\s+/)
     .filter(Boolean)
     .map((w) => `${w}:*`)
     .join(" & ");
 
-  const filters = buildFilterParams({ province, year, gender }, 2);
+  const filterFrag = buildFilterFragment({ province, year, gender });
+  const columns = Prisma.raw(VICTIM_COLUMNS);
 
   // Step 1: Fast tsvector search (uses GIN index, ~1ms)
-  const tsValues = [tsQuery, ...filters.values];
-  const tsResults = await prisma.$queryRawUnsafe<any[]>(
-    `SELECT ${VICTIM_COLUMNS},
-      ts_rank(v.search_vector, to_tsquery('simple', $1)) AS ts_score
+  const tsResults = await prisma.$queryRaw<any[]>`
+    SELECT ${columns},
+      ts_rank(v.search_vector, to_tsquery('simple', ${tsQuery})) AS ts_score
     FROM victims v
-    WHERE v.search_vector @@ to_tsquery('simple', $1)
-    ${filters.sql}
+    WHERE v.search_vector @@ to_tsquery('simple', ${tsQuery})
+    ${filterFrag}
     ORDER BY ts_score DESC
-    LIMIT ${Number(pageSize)} OFFSET ${Number((page - 1) * pageSize)}`,
-    ...tsValues
-  );
+    LIMIT ${safePageSize} OFFSET ${safeOffset}
+  `;
 
-  const tsCount = await prisma.$queryRawUnsafe<{ total: number }[]>(
-    `SELECT COUNT(*)::int AS total FROM victims v
-    WHERE v.search_vector @@ to_tsquery('simple', $1) ${filters.sql}`,
-    ...tsValues
-  );
+  const tsCount = await prisma.$queryRaw<{ total: number }[]>`
+    SELECT COUNT(*)::int AS total FROM victims v
+    WHERE v.search_vector @@ to_tsquery('simple', ${tsQuery}) ${filterFrag}
+  `;
 
   const tsTotal = Number((tsCount as any[])[0]?.total) || 0;
 
@@ -202,41 +208,36 @@ async function searchVictimsList(params: {
     return {
       victims: mapRawVictims(tsResults),
       total: tsTotal,
-      page,
-      pageSize,
-      totalPages: Math.ceil(tsTotal / pageSize),
+      page: safePage,
+      pageSize: safePageSize,
+      totalPages: Math.ceil(tsTotal / safePageSize),
     };
   }
 
   // Step 3: Trigram fallback for fuzzy/typo matches (slower, ~50ms)
-  const trgmFilters = buildFilterParams({ province, year, gender }, 3);
-  const trgmValues = [tsQuery, search, ...trgmFilters.values];
-
   const [victims, countResult] = await Promise.all([
-    prisma.$queryRawUnsafe<any[]>(
-      `SELECT ${VICTIM_COLUMNS},
-        ts_rank(v.search_vector, to_tsquery('simple', $1)) AS ts_score,
+    prisma.$queryRaw<any[]>`
+      SELECT ${columns},
+        ts_rank(v.search_vector, to_tsquery('simple', ${tsQuery})) AS ts_score,
         GREATEST(
-          similarity(v.name_latin, $2),
-          similarity(coalesce(v.name_farsi, ''), $2)
+          similarity(v.name_latin, ${cleanSearch}),
+          similarity(coalesce(v.name_farsi, ''), ${cleanSearch})
         ) AS trgm_score
       FROM victims v
-      WHERE v.search_vector @@ to_tsquery('simple', $1)
-        OR similarity(v.name_latin, $2) > 0.15
-        OR similarity(coalesce(v.name_farsi, ''), $2) > 0.15
-      ${trgmFilters.sql}
+      WHERE v.search_vector @@ to_tsquery('simple', ${tsQuery})
+        OR similarity(v.name_latin, ${cleanSearch}) > 0.15
+        OR similarity(coalesce(v.name_farsi, ''), ${cleanSearch}) > 0.15
+      ${filterFrag}
       ORDER BY ts_score DESC, trgm_score DESC
-      LIMIT ${Number(pageSize)} OFFSET ${Number((page - 1) * pageSize)}`,
-      ...trgmValues
-    ),
-    prisma.$queryRawUnsafe<{ total: number }[]>(
-      `SELECT COUNT(*)::int AS total FROM victims v
-      WHERE v.search_vector @@ to_tsquery('simple', $1)
-        OR similarity(v.name_latin, $2) > 0.15
-        OR similarity(coalesce(v.name_farsi, ''), $2) > 0.15
-      ${trgmFilters.sql}`,
-      ...trgmValues
-    ),
+      LIMIT ${safePageSize} OFFSET ${safeOffset}
+    `,
+    prisma.$queryRaw<{ total: number }[]>`
+      SELECT COUNT(*)::int AS total FROM victims v
+      WHERE v.search_vector @@ to_tsquery('simple', ${tsQuery})
+        OR similarity(v.name_latin, ${cleanSearch}) > 0.15
+        OR similarity(coalesce(v.name_farsi, ''), ${cleanSearch}) > 0.15
+      ${filterFrag}
+    `,
   ]);
 
   const total = Number((countResult as any[])[0]?.total) || 0;
@@ -244,17 +245,20 @@ async function searchVictimsList(params: {
   return {
     victims: mapRawVictims(victims as any[]),
     total,
-    page,
-    pageSize,
-    totalPages: Math.ceil(total / pageSize),
+    page: safePage,
+    pageSize: safePageSize,
+    totalPages: Math.ceil(total / safePageSize),
   };
 }
 
 export async function searchVictims(query: string, limit = 20) {
-  const trimmed = query.trim();
+  // Sanitize: limit length, strip control characters
+  const trimmed = query.trim().slice(0, 200).replace(/[^\p{L}\p{N}\s\-'.]/gu, "");
   if (!trimmed) return [];
 
+  const safeLimit = Math.min(50, Math.max(1, Math.floor(Number(limit) || 20)));
   const MIN_TSVECTOR_RESULTS = 5;
+  const columns = Prisma.raw(VICTIM_COLUMNS);
 
   // Build tsquery with prefix matching
   const tsQuery = trimmed
@@ -264,37 +268,34 @@ export async function searchVictims(query: string, limit = 20) {
     .join(" & ");
 
   // Step 1: Fast tsvector search (~1ms with GIN index)
-  const tsResults = await prisma.$queryRawUnsafe<any[]>(
-    `SELECT ${VICTIM_COLUMNS},
-      ts_rank(v.search_vector, to_tsquery('simple', $1)) AS ts_score
+  const tsResults = await prisma.$queryRaw<any[]>`
+    SELECT ${columns},
+      ts_rank(v.search_vector, to_tsquery('simple', ${tsQuery})) AS ts_score
     FROM victims v
-    WHERE v.search_vector @@ to_tsquery('simple', $1)
+    WHERE v.search_vector @@ to_tsquery('simple', ${tsQuery})
     ORDER BY ts_score DESC
-    LIMIT ${Number(limit)}`,
-    tsQuery
-  );
+    LIMIT ${safeLimit}
+  `;
 
   if (tsResults.length >= MIN_TSVECTOR_RESULTS) {
     return mapRawVictims(tsResults);
   }
 
   // Step 2: Trigram fallback for fuzzy/typo matches
-  const results = await prisma.$queryRawUnsafe<any[]>(
-    `SELECT ${VICTIM_COLUMNS},
-      ts_rank(v.search_vector, to_tsquery('simple', $1)) AS ts_score,
+  const results = await prisma.$queryRaw<any[]>`
+    SELECT ${columns},
+      ts_rank(v.search_vector, to_tsquery('simple', ${tsQuery})) AS ts_score,
       GREATEST(
-        similarity(v.name_latin, $2),
-        similarity(coalesce(v.name_farsi, ''), $2)
+        similarity(v.name_latin, ${trimmed}),
+        similarity(coalesce(v.name_farsi, ''), ${trimmed})
       ) AS trgm_score
     FROM victims v
-    WHERE v.search_vector @@ to_tsquery('simple', $1)
-      OR similarity(v.name_latin, $2) > 0.15
-      OR similarity(coalesce(v.name_farsi, ''), $2) > 0.15
+    WHERE v.search_vector @@ to_tsquery('simple', ${tsQuery})
+      OR similarity(v.name_latin, ${trimmed}) > 0.15
+      OR similarity(coalesce(v.name_farsi, ''), ${trimmed}) > 0.15
     ORDER BY ts_score DESC, trgm_score DESC
-    LIMIT ${Number(limit)}`,
-    tsQuery,
-    trimmed
-  );
+    LIMIT ${safeLimit}
+  `;
 
   return mapRawVictims(results);
 }
