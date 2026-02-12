@@ -5,7 +5,7 @@
 A digital memorial for the victims of the Islamic Republic of Iran (1979–present). Every victim gets their own Wikipedia-style page, embedded in a chronological timeline. Trilingual (Farsi, English, German). Open source, community-driven.
 
 **Repository:** [github.com/pedramholi/iran-memorial](https://github.com/pedramholi/iran-memorial)
-**Status:** Phase 2A complete (data collection), Phase 2B/2C pending (enrichment & deployment)
+**Status:** Phase 2C complete — Live at memorial.n8ncloud.de
 
 ---
 
@@ -73,8 +73,10 @@ git mv docs/YYMMDD-NAME.md docs/archive/YYMMDD-NAME.md
 | Search | PostgreSQL `tsvector` (simple config) + `pg_trgm` |
 | i18n | next-intl (URL-based: `/fa/`, `/en/`, `/de/`) |
 | Styling | Tailwind CSS v4 (`@tailwindcss/postcss`) |
+| Validation | Zod (API input validation) |
+| Rate Limiting | In-memory sliding window (`lib/rate-limit.ts`) |
 | Container | Docker Compose (PostgreSQL + App) |
-| Webserver | Nginx (reverse proxy) |
+| Webserver | Nginx (reverse proxy, Cloudflare) |
 
 ---
 
@@ -104,6 +106,7 @@ iran-memorial/
 ├── lib/
 │   ├── db.ts                    # Prisma client singleton
 │   ├── queries.ts               # Reusable DB queries + localized() helper
+│   ├── rate-limit.ts            # In-memory rate limiter for API routes
 │   └── utils.ts                 # formatDate, formatNumber, formatKilledRange
 ├── messages/                    # fa.json, en.json, de.json (~102 keys each)
 ├── prisma/
@@ -241,10 +244,11 @@ border-start: 2px solid;     /* NOT border-left */
 
 | Issue | Status | Details |
 |-------|--------|---------|
-| No local PostgreSQL | ⚠️ Open | Docker not installed on dev machine. DB queries fall back to empty state. |
+| No local PostgreSQL | ⚠️ Open | Docker not installed on dev machine. DB queries fall back to empty state. SSH tunnel to server: `ssh -L 5434:localhost:5434 root@188.245.96.212` |
 | Middleware deprecation | ⚠️ Cosmetic | Next.js 16 warns about middleware → proxy migration. next-intl still uses middleware. Functional. |
-| Seed script untested | ⚠️ Open | Written but not run against real DB yet. Will test in Phase 2. |
-| No tests | ⚠️ Open | 0% coverage. Phase 2 priority. |
+| No tests | ⚠️ Open | 0% coverage. |
+| Server disk at 81% | ⚠️ Monitor | 6.9 GB free. Docker prune regularly after builds. |
+| Neda Soltan duplicate | ⚠️ Low | Two YAML entries for same person (different slugs). Low priority. |
 
 ---
 
@@ -253,9 +257,10 @@ border-start: 2px solid;     /* NOT border-left */
 | Version | Date | Highlights |
 |---------|------|------------|
 | v0.1.0 | 2026-02-09 | Phase 1: Full project setup — Next.js 16, Prisma, i18n, 8 pages, seed script, Docker, docs |
-| v0.2.0 | 2026-02-09 | Phase 2A: Multi-source data collection — 7 sources, 4,378 victims, dedup, enrichment |
+| v0.2.0 | 2026-02-09 | Phase 2A/B: Multi-source data collection — 7 sources, 4,378 victims, dedup, enrichment |
+| v0.3.0 | 2026-02-12 | Phase 2C: Deployment + AI enrichment (14K fields), source dedup (222K removed), pagination, security hardening |
 
-**Current:** v0.2.0 | Next.js 16 | TypeScript | Prisma 6 | Tailwind v4 | 3 languages | 0 tests
+**Current:** v0.3.0 | Next.js 16 | TypeScript | Prisma 6 | Tailwind v4 | 3 languages | Live at memorial.n8ncloud.de
 
 ---
 
@@ -269,6 +274,8 @@ border-start: 2px solid;     /* NOT border-left */
 | `scripts/parse_amnesty_children.py` | Amnesty children report | 41 enriched + 3 new |
 | `scripts/dedup_victims.py` | Deduplication (3 strategies) | -206 duplicates |
 | `scripts/scrape_boroumand.py` | Boroumand Foundation scraper | 203 enriched |
+| `scripts/extract-fields.ts` | AI field extraction (GPT-4o-mini) | 14,247 fields from 3,932 victims |
+| `scripts/dedup-sources.ts` | Source deduplication | -221,800 duplicate sources |
 
 ## Data Collection Status
 
@@ -281,6 +288,8 @@ border-start: 2px solid;     /* NOT border-left */
 | Amnesty Children Report | PDF parse | 3 | 41 enriched (155 fields) | DONE |
 | Boroumand Foundation | HTML scrape | 0 | 203 enriched (64 FA, 33 photos) | DONE |
 | Deduplication | Script | -206 | — | DONE |
+| AI Field Extraction | GPT-4o-mini | 0 | 14,247 fields from 3,932 victims | DONE |
+| Source Dedup | SQL script | 0 | -221,800 duplicate sources | DONE |
 | **Total** | | **4,378** | | |
 
 **Open:** Boroumand historical (1979–2021, ~26K potential), HRANA 20-Day (~0–20), Amnesty other reports (~10–30), IHR direct contact, KHRN 2025/2026
@@ -314,5 +323,5 @@ Co-Authored-By: Claude <model> <noreply@anthropic.com>
 
 ---
 
-**Last Updated:** 2026-02-09
+**Last Updated:** 2026-02-12
 **Maintainer:** Pedram Holi

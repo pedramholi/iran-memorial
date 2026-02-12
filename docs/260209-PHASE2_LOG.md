@@ -749,19 +749,154 @@ Commit: 8df7e1d
 | Kein shared network | SmartLivings (Port 5432) und Memorial komplett getrennt | AD-008 |
 | Gleicher VPS | Hetzner VPS, keine zusätzlichen Kosten | AD-008 |
 
-### Deployment-Schritte (noch nicht begonnen)
+### Deployment-Schritte
 
-- [ ] Docker-Netzwerk `memorial-net` auf VPS erstellen
-- [ ] PostgreSQL-Container starten (Port 5433)
-- [ ] Prisma-Migrationen ausführen
-- [ ] Seed-Script mit 4.581 YAML-Dateien laufen lassen
-- [ ] Next.js App deployen
-- [ ] Nginx + SSL konfigurieren
-- [ ] Domain + DNS einrichten
-- [ ] Cloudflare Free Tier aktivieren
-- [ ] Smoke-Test: Alle Seiten in 3 Sprachen prüfen
+- [x] Docker-Netzwerk `memorial-net` auf VPS erstellen
+- [x] PostgreSQL-Container starten (Port 5434)
+- [x] Prisma-Migrationen ausführen
+- [x] Seed-Script laufen lassen
+- [x] Next.js App deployen
+- [x] Nginx + SSL konfigurieren
+- [x] Domain + DNS einrichten (memorial.n8ncloud.de)
+- [x] Cloudflare aktivieren
+- [x] Smoke-Test
+
+---
+
+#### LOG-P2-027 | 2026-02-12 | BOROUMAND AI ENRICHMENT: 3.932 OPFER
+
+**Was:** Claude/OpenAI-basierte Extraktion strukturierter Felder aus Boroumand `circumstances_en` Freitext
+**Warum:** 4.185 Boroumand-Opfer haben reiche Texte aber leere strukturierte Felder (2x occupation, 1x education)
+
+```
+Script: scripts/extract-fields.ts (OpenAI GPT-4o-mini, function calling)
+  Felder: placeOfBirth, dateOfBirth, gender, ethnicity, religion, occupation,
+          education, familyInfo, personality, beliefs, quotes, responsibleForces, eventContext
+
+  Ergebnis:
+    - 3.932 Victims verarbeitet (253 ohne circumstances übersprungen)
+    - 14.247 DB-Felder aktualisiert
+    - 2.977 YAML-Dateien aktualisiert
+    - 0 Fehler, 48 Min 49 Sek
+
+  Top extrahierte Felder:
+    - gender: 3.704 (94%)
+    - responsibleForces: 2.741 (70%)
+    - occupation: 2.282 (58%)
+    - placeOfBirth: 1.718 (44%)
+    - education: 1.108 (28%)
+    - ethnicity: 797 (20%)
+
+Commit: a01a4f77
+```
+
+**Lesson Learned:** GPT-4o-mini mit function calling ist exzellent für strukturierte Extraktion aus Fließtext. ~$10 für 4K Victims. Nie überschreiben was schon befüllt ist (COALESCE-Pattern).
+
+---
+
+#### LOG-P2-028 | 2026-02-12 | SOURCE DEDUP: 221.800 DUPLIKATE ENTFERNT
+
+**Was:** Bereinigte doppelte Source-Einträge aus der Server-DB
+**Warum:** Seed-Script-Bug erzeugte Duplikate bei jedem Lauf (nicht idempotent)
+
+```
+Script: scripts/dedup-sources.ts
+  - CTE mit ROW_NUMBER() PARTITION BY (victim_id, name, url)
+  - Batched Deletes (5000 pro Batch)
+
+  Vorher: 251.118 Sources total
+  Nachher: 29.318 Sources (nur unique)
+  Gelöscht: 221.800 Duplikate
+
+Fix: prisma/seed.ts — deleteMany vor Source-Creation (idempotent)
+```
+
+---
+
+#### LOG-P2-029 | 2026-02-12 | PERFORMANCE: EVENT-SEITEN PAGINATION
+
+**Was:** Event-Seiten waren extrem langsam (WLF 2022: 794 Victims, 2026: 4.380)
+**Warum:** Alle Victims wurden auf einmal geladen, mit allen 44 Spalten
+
+```
+Fix 1: getEventBySlug — select statt include (nur 7 Felder für VictimCard)
+Fix 2: Pagination mit 50 pro Seite + ?page= Query-Parameter
+Fix 3: getRecentVictims — ebenfalls select-only
+
+  Vorher: ~1.8s (warm), alle Victims auf einer Seite
+  Nachher: ~0.32s (warm), 50 pro Seite mit Pagination-UI
+
+  Pagination-UI: Prev/Next Pfeile + max 7 Seitenbuttons mit Ellipsis
+
+Commit: d6f372fe + a0a3be97
+```
+
+---
+
+#### LOG-P2-030 | 2026-02-12 | CIRCUMSTANCES TEXT FORMATTING
+
+**Was:** Boroumand-Texte waren ein einziger Textblock ohne Absätze
+**Warum:** Boroumand-Texte haben keine `\n\n` — Section-Headers sind inline eingebettet
+
+```
+Fix: splitCircumstances() in victims/[slug]/page.tsx
+  3-Tier Splitting:
+  1. \n\n Split (normale Absätze)
+  2. Section-Header Split (Arrest, Trial, Charges, Defense, Judgment, etc.)
+  3. Satz-Grenzen-Fallback (~500 Zeichen)
+
+  Beispiel Neda Soltan: 1 Block → 11 lesbare Absätze
+
+Commit: c7416530
+```
+
+---
+
+#### LOG-P2-031 | 2026-02-12 | SECURITY HARDENING
+
+**Was:** Vollständiger Security Audit + 4 Fixes deployed
+**Warum:** SQL Injection, fehlende Rate Limits, keine Input-Validation, keine Security Headers
+
+```
+Findings:
+  CRITICAL: SQL Injection via $queryRawUnsafe + filters.sql Interpolation
+  HIGH: Keine Rate Limits auf /api/submit und /api/search
+  HIGH: Keine Input-Validation auf /api/submit
+  HIGH: Keine Security Headers (CSP, X-Frame-Options, HSTS, etc.)
+
+Fixes:
+  1. lib/queries.ts — $queryRawUnsafe → $queryRaw tagged templates
+     - buildFilterParams (String) → buildFilterFragment (Prisma.Sql)
+     - Gender whitelisted, Year range-validated, Search max 200 chars
+  2. lib/rate-limit.ts — In-Memory Sliding Window Rate Limiter
+     - /api/submit: 5 requests/hr per IP
+     - /api/search: 100 requests/min per IP
+  3. app/api/submit/route.ts — Zod Schema Validation
+     - name_latin (1-200), details (10-5000), email validation, etc.
+     - 400 mit feldspezifischen Fehlern bei ungültiger Eingabe
+  4. next.config.ts — Security Headers
+     - CSP, HSTS, X-Frame-Options: DENY, nosniff, Referrer-Policy, Permissions-Policy
+
+Verifiziert: curl -I memorial.n8ncloud.de → alle 6 Headers present
+
+Commit: efc20928
+```
+
+---
+
+## Phase 2C — Zusammenfassung
+
+| Metrik | Status |
+|--------|--------|
+| Deployment | ✅ Live auf memorial.n8ncloud.de |
+| Boroumand AI Enrichment | ✅ 14.247 Felder, 3.932 Victims |
+| Source Dedup | ✅ 221.800 Duplikate entfernt |
+| Event-Pagination | ✅ 50/Seite, 6x schneller |
+| Circumstances Formatting | ✅ 3-Tier Paragraph-Splitting |
+| Security Hardening | ✅ SQL Injection, Rate Limiting, Validation, Headers |
+| Disk-Management | ✅ Docker Prune, 92% → 81% |
 
 ---
 
 *Erstellt: 2026-02-09*
-*Letzte Aktualisierung: 2026-02-09*
+*Letzte Aktualisierung: 2026-02-12 (Phase 2C: Deployment + Security)*

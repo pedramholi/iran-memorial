@@ -158,6 +158,20 @@
 - **Fix:** Zweites Vorkommen nutzen: `first_idx = text.find(marker); start_idx = text.find(marker, first_idx + 1)`
 - **Prevention:** Bei PDF-Parsing immer prüfen ob Section-Header auch im ToC vorkommen. `text.find()` liefert das erste Vorkommen — bei strukturierten Dokumenten ist das oft das falsche.
 
+### BUG-007: SQL Injection via $queryRawUnsafe + String-Interpolation (2026-02-12)
+
+- **Symptom:** Security Audit deckte auf: `$queryRawUnsafe()` mit `${filters.sql}` Template-String-Interpolation — Attacker konnte via `province` oder `gender` Query-Parameter SQL injizieren
+- **Root Cause:** `buildFilterParams()` gab einen Raw-SQL-String zurück der direkt in Template-Literals interpoliert wurde. Prisma `$queryRawUnsafe` escaped Template-Strings NICHT — nur positional `$1`, `$2` Parameter sind sicher.
+- **Fix:** Komplett umgestellt auf `$queryRaw` (tagged template) + `Prisma.sql` Fragments. Neue `buildFilterFragment()` gibt `Prisma.Sql` zurück statt String. Gender whitelisted, Year range-validiert, Search auf 200 chars limitiert.
+- **Prevention:** NIEMALS `$queryRawUnsafe()` verwenden. Immer `$queryRaw` tagged template oder Prisma ORM. Bei Raw SQL: alle User-Inputs über `Prisma.sql` parametrisieren.
+
+### BUG-008: Source-Duplikate durch nicht-idempotentes Seed-Script (2026-02-12)
+
+- **Symptom:** 251.118 Source-Einträge in DB, aber nur 29.318 unique (221.800 Duplikate)
+- **Root Cause:** `prisma/seed.ts` Zeile 184 — Source-Creation-Loop ohne vorheriges deleteMany. Jeder Seed-Run fügte alle Sources erneut hinzu.
+- **Fix:** (a) `scripts/dedup-sources.ts` für Cleanup (221.800 gelöscht), (b) `prisma/seed.ts`: `deleteMany({ where: { victimId } })` vor Source-Creation
+- **Prevention:** Seed-Scripts müssen idempotent sein. Immer `deleteMany` vor Create-Loop.
+
 ---
 
 ## Deployment Gotchas
@@ -168,6 +182,25 @@
 - **next-intl Middleware vs Proxy:** Next.js 16 zeigt Deprecation-Warning für `middleware.ts`. next-intl hat noch keinen Proxy-Support. Warnung ist kosmetisch, Middleware funktioniert.
 - **.env nicht in Git:** `.env` ist in `.gitignore`. Template in `.env.example`. Auf Server muss `.env` manuell erstellt werden.
 - **poppler für PDF-Parsing:** `pdftotext` (aus dem poppler-Paket) wird zum Extrahieren von Text aus NGO-PDFs benötigt. Installation: `brew install poppler` (macOS). Ohne poppler scheitern alle PDF-Import-Scripts.
+- **Server package-lock.json Divergenz:** `npm install` auf Server erzeugt lokale Änderungen in `package-lock.json` (andere npm-Version). `git stash` vor `git pull` nötig.
+- **Docker Disk-Usage:** Build-Cache wächst schnell. Vor `docker compose up --build` prüfen: `df -h /`. Bei >90% erst `docker system prune -a -f && docker builder prune --all -f`.
+- **tsconfig exclude für scripts/:** `scripts/` muss in `tsconfig.json` `exclude` stehen — OpenAI SDK Types sind mit ES2017 Target inkompatibel und brechen den Next.js Build.
+- **.next/standalone/.env:** Build-Output kopiert `.env` in `.next/standalone/` — nie dieses Verzeichnis direkt deployen.
+
+---
+
+### AD-011: Security Hardening für API-Routen (2026-02-12)
+
+- **Decision:** Alle Raw-SQL-Queries auf Prisma `$queryRaw` tagged templates umgestellt, Rate Limiting + Zod-Validation auf API-Routen, Security Headers via `next.config.ts`
+- **Alternatives:** WAF (Cloudflare Pro), separate API-Gateway, NextAuth für alle Routen
+- **Rationale:** Minimaler Aufwand, maximaler Impact. `$queryRawUnsafe` mit String-Interpolation war ein echtes SQL-Injection-Risiko. In-Memory Rate Limiter reicht für unseren Traffic.
+- **Outcome:**
+  - `lib/queries.ts`: `$queryRawUnsafe()` → `$queryRaw` mit `Prisma.sql` tagged templates
+  - `lib/rate-limit.ts`: In-Memory Sliding Window (submit: 5/hr, search: 100/min per IP)
+  - `/api/submit`: Zod-Schema-Validation + Rate Limiting + 429 Retry-After
+  - `/api/search`: Rate Limiting
+  - `next.config.ts`: CSP, HSTS, X-Frame-Options, nosniff, Referrer-Policy, Permissions-Policy
+- **Revisit:** Bei höherem Traffic auf Redis-basiertes Rate Limiting umsteigen
 
 ---
 
@@ -182,6 +215,11 @@
 - **Iterative Namenslisten für Gender-Inferenz:** Gender-Abdeckung von 64% → 100% in 6 Iterationen über 2 Sessions. Methode: Unknowns analysieren → häufigste Namen identifizieren → Liste erweitern → erneut laufen lassen. Jede Iteration liefert abnehmende Erträge. ~500 persische/kurdische/baluchische Vornamen decken 4.581 Opfer zu 100% ab. Tippfehler-Varianten (aboalfzl, behruz, fa'zh) müssen explizit aufgenommen werden.
 - **Font-Strategie:** Inter (Google Fonts) für LTR, Vazirmatn für Farsi RTL — geladen via `<link>` im Locale-Layout, kein @font-face nötig.
 - **Multi-Source-Import vor PDF-Parsing:** Immer zuerst nach maschinenlesbaren Quellen suchen (CSVs, APIs, Wikitables). Community-Projekte wie iranvictims.com haben oft Download-Buttons. PDFs nur als letzte Option — pdftotext + Regex funktioniert aber gut für strukturierte NGO-Reports.
+- **Prisma.sql Tagged Templates statt $queryRawUnsafe:** `$queryRaw\`...\`` auto-parametrisiert alle `${variable}` Interpolationen. `Prisma.sql` für Fragments, `Prisma.raw()` nur für trusted Column-Lists, `Prisma.join()` für AND/OR-Ketten. Nie `$queryRawUnsafe` mit Template-Strings verwenden.
+- **In-Memory Rate Limiter mit Auto-Cleanup:** Sliding Window Counter pro IP+Endpoint, `setInterval().unref()` für Garbage Collection. Reicht für moderate Traffic-Mengen, bei Scale auf Redis umsteigen.
+- **Zod Schema Validation an API-Grenzen:** `z.object({...}).safeParse(body)` statt manuelle Checks. Gibt strukturierte Fehlermeldungen zurück (`fieldErrors`). Immer `.max()` auf Strings setzen um Memory-Exhaustion zu verhindern.
+- **Security Headers in next.config.ts:** `headers()` async function gibt Array von Header-Rules zurück. CSP muss `'unsafe-inline'` für Next.js enthalten (Inline-Styles). `frame-ancestors 'none'` ist stärker als X-Frame-Options.
+- **splitCircumstances() für lange Boroumand-Texte:** 3-Tier Paragraph-Splitting: (1) `\n\n`, (2) Section-Headers (Arrest, Trial, Charges...), (3) Satz-Grenzen alle ~500 Zeichen. Verhindert Wall-of-Text auf Opfer-Detailseiten.
 - **Name-based Dedup reicht für Erstimport:** `name.lower()` Matching fängt ~95% der Duplikate. Für die restlichen 5% (Transliterations-Varianten wie "Shirouzi" vs "Shirouzehi") braucht es ein dediziertes Dedup-Script. → Erledigt: `scripts/dedup_victims.py` hat 206 Duplikate in 4.581 Dateien gefunden (4.5%).
 - **Dedup-Scoring mit negativen Signalen:** Verschiedene Todesdaten (beide non-null) = -100 verhindert zuverlässig falsche Merges bei Namenszwillingen (z.B. "Mohammad Amini" in 2022 und 2026 — verschiedene Personen). Gleiches Farsi-Name (+50) + gleiches Todesdatum (+50) = fast sichere Duplikate.
 - **Union-Find für transitive Duplikat-Cluster:** Paarweise Duplikat-Erkennung erzeugt transitive Ketten (A≈B, B≈C → A,B,C sind ein Cluster). Union-Find gruppiert diese korrekt und verhindert Konflikte beim Merge (z.B. "Nima Khan Ahmadi" existierte 4x → 1 Cluster, 3 gelöscht).
@@ -373,16 +411,20 @@ IHR und HRANA haben eigene Datenformate. Pro Import-Quelle ein eigenes Mapping-S
 
 ## Performance Notes
 
-| Metrik | Zielwert | Aktuell (Phase 1) |
-|--------|----------|-------------------|
+| Metrik | Zielwert | Aktuell |
+|--------|----------|---------|
 | Build-Zeit | < 5s | 831ms |
 | Dev-Server Start | < 2s | 454ms |
 | Lighthouse Performance | > 90 | Ungemessen |
 | Lighthouse Accessibility | > 95 | Ungemessen |
-| DB Queries | < 50ms | Nicht testbar (kein lokaler PG) |
+| Event-Seite (warm) | < 500ms | ~320ms (nach Pagination-Fix) |
 | ISR Revalidation | 3600s | Konfiguriert |
+
+### Performance-Fixes (2026-02-12)
+- **Event-Seiten:** `getEventBySlug` lud alle 44 Victim-Spalten → nur 7 für VictimCard nötig. `select` statt `include` spart ~80% Daten.
+- **Pagination:** WLF 2022 hat 794 Victims, 2026 hat 4.380 → 50 pro Seite mit `?page=` Query-Parameter. Response: 1.8s → 0.32s (warm).
 
 ---
 
 *Erstellt: 2026-02-09*
-*Letzte Aktualisierung: 2026-02-09 (MEDIUM-Dedup abgeschlossen: 206 Duplikate total)*
+*Letzte Aktualisierung: 2026-02-12 (Security Hardening, Boroumand Enrichment, Performance Fixes)*
