@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
 
+# --- LIFE ---
+family:
+  notes: "executed shortly after the execution of her brother Mr. Ahmadreza Shadbakhti"
+
 # --- DEATH ---
 date_of_death: 1981-08-06
 age_at_death: 17

@@ -40,7 +40,7 @@ const openai = new OpenAI(); // reads OPENAI_API_KEY from env
 
 // --- Constants ---
 const BATCH_SIZE = 5; // parallel requests
-const BATCH_DELAY_MS = 200; // pause between batches
+const BATCH_DELAY_MS = 1000; // pause between batches
 const MODEL = "gpt-4o-mini";
 
 // --- Types ---
@@ -233,9 +233,9 @@ async function extractFields(circumstancesText: string): Promise<ExtractedFields
     return null;
   } catch (e: any) {
     if (e.status === 429) {
-      // Rate limited — wait and retry
-      console.log("  Rate limited, waiting 5s...");
-      await sleep(5000);
+      // Rate limited — wait 60s then retry
+      console.log("  Rate limited, waiting 60s...");
+      await sleep(60000);
       return extractFields(circumstancesText);
     }
     throw e;

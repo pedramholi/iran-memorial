@@ -88,8 +88,7 @@ circumstances: >
     Arrest and detention The circumstances of this defendant’s arrest and
     detention are not known.
 event_context: "June 20, 1981 demonstration"
-responsible_forces: null
-
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:
