@@ -1,0 +1,46 @@
+id: heidari-hushang-1981
+name_latin: "Hushang Heidari"
+name_farsi: "هوشنگ حیدری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam (Shi'a)"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-11-29
+age_at_death: 25
+place_of_death: "Dezful"
+province: "Khuzestan"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    Mr. Hushang Heidari is one of the 12,028 individuals listed in an addendum
+    to the Mojahed magazine (No 261), published by Mojahedin Khalq
+    Organization on September 6, 1985. The list includes individuals,
+    affiliated with various opposition groups, who were executed or killed
+    during clashes with the Islamic Republic security forces from June 1981 to
+    the publication date of the magazine. The information about Mr. Hushang
+    Heidari was drawn from the web site of the Mojahedin Khalq Organization.
+    He was born in Andimeshk. He was a high school teacher and a sympathizer
+    of this organization. Arrest and Detention The circumstances of this
+    defendant’s arrest and detention are not known. According to the web site
+    of the Mojahedin, he was tortured in prison. Trial No information is
+    available on the defendant’s trial. Charges No information is available on
+    Mr. Hushang Heidari’s charges. Evidence of guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against the defendant. Defense No information is available about his
+    defense. Judgment Mr. Hushang Heidari was condemned to death. He was
+    executed by firing squad in UNESCO prison (former UNESCO’s cultural and
+    health center used as a prison) in Dezful on November 29, 1981.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/35213/hushang-heidari"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

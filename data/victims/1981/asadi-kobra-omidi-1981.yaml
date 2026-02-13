@@ -1,0 +1,43 @@
+id: asadi-kobra-omidi-1981
+name_latin: "Kobra Omidi Asadi"
+name_farsi: "کبری امیدی اسدی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-01-01
+age_at_death: 16
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The information about Ms. Kobra Omidi Asadi is taken from the website of
+    the Mojahedin Khalq Organization (MKO). She was born in Tehran. She was a
+    high school student and an active sympathizer of the MKO in eastern
+    Tehran. Arrest and detention The circumstances of this defendant’s arrest
+    and detention are not known. Ms. Omidi Asadi was arrested during July 1981
+    and taken to Evin Prison. Trial No information is available on the
+    defendant’s trial except that it was held in Evin Prison. Charges No
+    information is available on Ms. Kobra Omidi Asadi's charges. The validity
+    of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    Evidence of guilt The report of this execution contains no evidence
+    provided against the defendant. Defence No information is available about
+    the defendant’s defence. Judgment Ms. Kobra Omidi Asadi was condemned to
+    death in court. She was executed by a firing squad in Evin Prison during
+    1981.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4401/kobra-omidi-asadi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

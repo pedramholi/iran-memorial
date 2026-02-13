@@ -1,0 +1,71 @@
+id: azali-fereshteh-1983
+name_latin: "Fereshteh Azali"
+name_farsi: "فرشته ازلی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1983-01-08
+age_at_death: 16
+place_of_death: "Unknown"
+province: null
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    Ms. Fereshteh Azali is one of the 12,028 individuals listed in an addendum
+    to the Mojahed magazine (No 261), published by Mojahedin Khalq
+    Organization in 1985. The list includes individuals, affiliated with
+    various opposition groups, who were executed or killed during clashes with
+    the Islamic Republic security forces from June 1981 to the publication
+    date of the magazine. Ms. Azali is also one of the 1,533 executed
+    prisoners listed by the Association of Iranian Women of Köln (Germany).
+    The list published in 1997 is entitled: "A partial list of names of women
+    executed by the Islamic Republic of Iran." Additional information about
+    Ms. Azali was sent via an electronic form by a person informed about her
+    case. According to this information, Ms. Azali was born in Amol in 1962 in
+    a working class family. She was a sympathizer of the Ettehadieh
+    Komonist-ha (the Communists’ Union). The Ettehadieh Komonist-ha was
+    created by exiled opponents of the Pahlavi regime who mostly belonged to
+    the Student Confederation. They followed the teachings of Mao Tse-Tung but
+    did not believe in guerilla warfare. The group became marked by
+    ideological divides during the periods preceding and following the 1979
+    revolution which caused it to split into several factions. One of the most
+    important rifts was triggered by the decision by a number of members to
+    take up arms and take over a city in Iran. The uprising plan, devised in
+    the midst of an active and violent anti-communist campaign by the
+    revolutionary Islamic government, split the Ettehadieh in two factions:
+    one believed in the armed movement and the other opposed it. In the winter
+    of 1982, armed members of the Ettehadieh hid in a forest in the North of
+    Iran (Jangal in Farsi) outside the city of Amol. This group, also known as
+    the Jangal group, was involved in several clashes with the revolutionary
+    guards and ultimately, on January 26, attacked the city of Amol hoping to
+    generate a general uprising. The attempt to seize Amol failed. It is
+    reported that a number of the group’s members, revolutionary guards, and
+    civilians were killed during the Amol clash. Subsequently, members of the
+    Ettehadieh, including those who opposed the Amol uprising, were arrested
+    and tried for belonging to the organization and for having participated in
+    the Amol clash. Arrest and detention There is no specific information on
+    the accused’s arrest and detention. Trial No information is available on
+    Ms. Azali’s trial. Charges The charges against Ms. Azali are unknown. The
+    validity of the criminal charges brought against this accused cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    Evidence of guilt The report of Ms. Azali’s execution did not provide any
+    specific information on the evidence presented against her. Defense No
+    information is available on Ms. Azali’s defense. Judgment Based on the
+    addendum to the Mojahed magazine, Ms. Azali was executed by a firing squad
+    in Amol in 1982. According to the information provided by the electronic
+    form, her execution date was January 8, 1983.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-5390/fereshteh-azali"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

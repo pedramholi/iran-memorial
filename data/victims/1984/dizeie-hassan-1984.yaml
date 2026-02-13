@@ -1,0 +1,50 @@
+id: dizeie-hassan-1984
+name_latin: "Hassan Dizeie"
+name_farsi: "حسن دیزه ای"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1984-05-20
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Fatal"
+circumstances: >
+    The execution of Mr. Hassan (Ali Akbar) Dizeie, along with 24 others, was
+    announced in a communiqu by the Anti-Narcotics Section of the Public
+    Prosecutor s Office.The communiqu was reported in the Jomhuri Eslami daily
+    on May 21, 1984. Arrest and detention The circumstances of this defendant
+    s arrest and detention are not known. Trial No information is available on
+    the defendant s trial. Charges According to this communiqu , Mr. Dizeie
+    was charged with being consistently involved in supplying and distributing
+    heroin, possessing 455 gm of heroin when arrested and being convicted 15
+    times. The validity of the criminal charges brought against this defendant
+    cannot be ascertained in the absence of the basic guarantees of a fair
+    trial. International human rights organizations have drawn attention to
+    reports indicating that the Islamic Republic s authorities have brought
+    trumped up charges against their political opponents and executed them for
+    drug trafficking, sexual, and other criminal offences. Thousands of
+    alleged drug traffickers have been sentenced to death following judicial
+    processes that fail to meet international standards. The exact number of
+    people convicted based on trumped-up charges is unknown. Evidence of guilt
+    The report of this execution does not contain information regarding the
+    evidence provided against the defendant. Defense No information is
+    available on Mr. Dizeie s defense. Judgment The Anti-Narcotics Islamic
+    Revolutionary Tribunal sentenced Mr. Dizeie to death. The sentence was
+    carried out at dawn.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/31388/hassan-dizeie"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

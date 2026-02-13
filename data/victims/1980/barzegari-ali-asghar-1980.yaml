@@ -1,0 +1,40 @@
+id: barzegari-ali-asghar-1980
+name_latin: "Ali Asghar Barzegari"
+name_farsi: "علی اصغر برزگری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-07-25
+age_at_death: null
+place_of_death: "Mashhad"
+province: "Khorasan\\Khorasan-e Razavi"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Mr. Ali Asghar Barzegari was reported by the
+    correspondent of the Jomhuri Eslami daily in Mashhad (July 26, 1980).
+    Arrest and detention The circumstances of this defendant s arrest and
+    detention are unknown. Trial No information is available on Mr. Barzegar s
+    trial. Charges The defendant was accused of having tortured large numbers
+    of revolutionaries, resulting in injuries and dismemberments. Evidence of
+    guilt The report provides no information regarding the evidence presented
+    against the defendant, except some witnesses testimonies indicating that
+    he insulted religious sanctities repeatedly during torture. Defense No
+    information is available on the defendant s defense. Judgment The Islamic
+    Revolutionary Tribunal of Mashhad sentenced Mr. Barzegar to death. He was
+    executed at dawn.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/12971/ali-asghar-barzegari"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,40 @@
+id: sedarat-nasrollah-1980
+name_latin: "Nasrollah Sedarat"
+name_farsi: "نصرالله صدارت"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-07-31
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of Mr. Nasrollah Sedarat and 14 others was reported in the
+    Jomhuri Eslami daily (July 31, 1980). Arrest and detention No information
+    is available on the circumstances of this defendant s arrest and
+    detention. Trial The circumstances of the defendant s trial are unknown.
+    Charges Besides the reference to Mr. Sedarat s position at the SAVAK
+    [Sazman e Amniat Va Ettelaat e Keshvar: Shah s political police], there is
+    no information in the report about the exact charges brough against the
+    defendant. Evidence of guilt The report of this execution provides no
+    information about any specific evidence of guilt presented against the
+    defendant. Defense No information is available on the defendant s defense.
+    Judgment The Islamic Revolutionary Tribunal of the Army sentenced Mr.
+    Sedarat to death. He was executed at dawn.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/13013/nasrollah-sedarat"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,59 @@
+id: damavandi-mohammad-seyed-mohsen-1981
+name_latin: "Mohammad Seyed Mohsen Damavandi"
+name_farsi: "محمد سید محسن دماوندى"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-01-01
+age_at_death: null
+place_of_death: "Iran"
+province: null
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The information about Mr. Mohammad Seyed Mohsen Damavandi is taken from
+    the book Our Martyrs for Freedom and Socialism by Rah-e Kargar
+    Publications. During the previous regime, in 1973, he was arrested for
+    being a sympathizer of the Fadayian Khalq Organization. After his release,
+    he joined the Marxist-Leninist section of the Mojahedin Organization. In
+    the spring of 1975, he was shot during an escape attempt. He was arrested,
+    tortured, and condemned to life imprisonment. After the revolution, he was
+    released from prison and he became one of the first members of the
+    Revolutionary Workers Organization of Iran, Rah-e Kargar. "Rah-e Kargar"
+    or the "Revolutionary Workers Organization of Iran" was established in the
+    summer of 1979. The Organization was founded by individuals from various
+    leftist groups who rejected the idea of armed struggle and believed in
+    political action. They identified themselves as Marxist-Leninists,
+    promoting a socialist revolution and the leadership of the proletariat.
+    They differed with the pro-Soviet communist party, Tudeh, in that they
+    opposed the Islamic Republic and Ayatollah Khomeini's leadership. Arrest
+    and detention Mr. Mohammad Seyed Mohsen Damavandi was arrested in Tehran
+    in August, 1981 and taken to Evin Prison. According to the above book, he
+    did not disclose his identity and in his last message to Rah-e Kargar
+    organization, he said: “I have not disclosed my identity or any other
+    secrets of our struggle. My punishment is execution. I will resist until
+    the last moment of my life.” Trial No information is available on the
+    defendant’s trial. Charges No information is available on Mr. Mohammad
+    Seyed Mohsen Damavandi’s charges. The validity of the criminal charges
+    brought against this defendant cannot be ascertained in the absence of the
+    basic guarantees of a fair trial. Evidence of guilt The report of this
+    execution contains no evidence provided against the defendant. Defense No
+    information is available about his defense. Judgment No specific
+    information is available about the death sentence. According to the above
+    source, Mr. Mohammad Seyed Mohsen Damavandi, under a pseudonym, was
+    executed by a firing squad in the summer of 1981.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/38494/mohammad-seyed-mohsen-damavandi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,41 @@
+id: ahmadi-shokrollah-1982-2
+name_latin: "Shokrollah Ahmadi"
+name_farsi: "شکرالله احمدی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1982-01-28
+age_at_death: null
+place_of_death: "Amol"
+province: "Mazandaran"
+cause_of_death: "Fatal"
+circumstances: >
+    Mr. Shokrollah Ahmadi is one of the 12028 individuals listed in an
+    addendum to the Mojahed magazine (No 261), published by Mojahedin Khalq
+    Organization in 1985. The list includes individuals, affiliated with
+    various opposition groups, who were executed or killed during clashes with
+    the Islamic Republic security forces from June 1981 to the publication
+    date of the magazine. Arrest and detention The circumstances of this
+    defendant’s arrest and detention are not known. Trial No information is
+    available on the defendant’s trial. Charges The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. Evidence of guilt The
+    report of this execution does not contain information regarding the
+    evidence provided against the defendant. Defense No information is
+    available on Mr. Ahmadi’s defense. Judgment
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/44437/shokrollah-ahmadi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

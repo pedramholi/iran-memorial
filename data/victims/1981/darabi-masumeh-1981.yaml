@@ -1,0 +1,45 @@
+id: darabi-masumeh-1981
+name_latin: "Ma'sumeh Darabi"
+name_farsi: "معصومه دارابی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-10-06
+age_at_death: 17
+place_of_death: "Ahvaz"
+province: "Khuzestan"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The information about the execution of Ms. Ma'sumeh Darabi was released in
+    a communique issued by the Ahvaz Revolutionary Tribunal and published in
+    the newspaper, Jomhuri Eslami , on October 8, 1981. Ms. Darabi had alleged
+    contacts with a Muslim opposition organization named Forqan. Ms. Darabi
+    was also one of the 1,533 executed prisoners listed by the Association of
+    Iranian Women of Koln (Germany). Arrest and detention The circumstances of
+    this defendant s arrest and detention are not known. Trial No information
+    is available on the defendant s trial. Charges Ms. Ma'sumeh Darabi was
+    charged with "being actively in touch with the Forqan organization";
+    "distributing banned publications"; posessing "membership to team houses";
+    and "assaulting security forces" Evidence of guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against the defendant. Defense No information is available on Ms. Darabi's
+    defense. Judgment Ms. Darabi was found guilty by the Ahvaz Islamic
+    Revolutionary Tribunal. She was executed on Tuesday, October 6th. No
+    further information is available on her conviction, sentence, and
+    execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-2833/masumeh-darabi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

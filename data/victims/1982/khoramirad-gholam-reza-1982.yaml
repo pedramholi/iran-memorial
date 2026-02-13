@@ -1,0 +1,55 @@
+id: khoramirad-gholam-reza-1982
+name_latin: "Gholam Reza Khoramirad"
+name_farsi: "غلامرضا خرمی راد"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1982-09-15
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Gholam Reza Khoramirad, along with nine others, was
+    announced in a communiqu by the public relations of the Anti-Narcotics
+    Section of the Public Prosecutor s Office in Tehran. This communiqu was
+    reported in the Jomhuri Eslami daily on September 16, 1982. Arrest and
+    detention The circumstances of this defendant s arrest and detention are
+    not known. Trial No information is available on the defendant s trial.
+    Charges Mr. Khoramirad was reported to be charged with establishing a drug
+    trafficking gang, being actively involved in the supply and distribution
+    of heroin, having contacts with the major international smugglers,
+    confessing to the fact that he had been a drug dealer, taking 9 kg of
+    heroin from Malek Dargahi and selling it to Qorban Ali Noruzi. He had been
+    gaining 100000 Rls. per each kilogram. The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic s authorities have brought trumped up charges against
+    their political opponents and executed them for drug trafficking, sexual,
+    and other criminal offences. Thousands of alleged drug traffickers have
+    been sentenced to death following judicial processes that fail to meet
+    international standards.The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against the defendant. Defense No information is available on Mr.
+    Khoramirad's defense. Judgment The Anti-Narcotics Islamic Revolutionary
+    Tribunal declared Mr. Khoramirad a corruptor on earth and sentenced him to
+    death. Having been confirmed by the Supreme Judicial Council, the sentence
+    was carried out.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/30382/gholam-reza-khoramirad"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

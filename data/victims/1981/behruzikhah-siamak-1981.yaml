@@ -1,0 +1,54 @@
+id: behruzikhah-siamak-1981
+name_latin: "Siamak Behruzikhah"
+name_farsi: "سیامک بهروزی خواه"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-10-11
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    Mr. Siamak Behruzikhah is one of the 12028 individuals listed in an
+    addendum to the Mojahed magazine (No 261), published by Mojahedin Khalq
+    Organization in 1985. The list includes individuals, affiliated with
+    various opposition groups, who were executed or killed during clashes with
+    the Islamic Republic security forces from June 1981 to the publication
+    date of the magazine. Additional information was sent by a person close to
+    him via an electronic form, according to which, Mr. Behruzikhah was
+    affiliated with the Fadaiyan Khalq Organization. The Fadaiyan Khalq
+    Organization, a Marxist Leninist group, inspired by the Cuban Revolution
+    and the urban guerilla movements of Latin America, was founded in 1971 by
+    two communist groups opposed to the Pahlavi regime. After the 1979
+    Revolution, the organization, which renounced armed struggle, split over
+    their support of the Islamic Republic and of the Soviet Union. The
+    Fadaiyan Khalq (Minority) opposed the Islamic Republic and was active
+    mainly in the political arena and the labor movement. The Fadaiyan Khalq
+    (Majority) supported and considered the Islamic Republic as a
+    revolutionary and anti-imperialist regime. After the spring of 1983,
+    however, the Islamic Republic targeted the Fadaiyan Khalq (Majority)
+    members solely because of their political beliefs. Arrest and detention
+    The circumstances of this defendant’s arrest and detention are not known.
+    Trial No information is available on the defendant’s trial. Charges The
+    charges brought against Mr. Behruzikhah are not known. Evidence of guilt
+    The report of this execution does not contain information regarding the
+    evidence provided against the defendant. Defense No information is
+    available on Mr. Behruzikhah's defense. Judgment Mr. Behruzikhah was shot
+    by firing squad in Tehran on October 11, 1981.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-5349/siamak-behruzikhah"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

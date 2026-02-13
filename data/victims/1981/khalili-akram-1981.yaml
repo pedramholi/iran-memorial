@@ -1,0 +1,59 @@
+id: khalili-akram-1981
+name_latin: "Akram Khalili"
+name_farsi: "اکرم خلیلی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam (Shi'a)"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-09-20
+age_at_death: 16
+place_of_death: "Najaf Abad"
+province: "Esfahan"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The information about the execution of Ms. Akram Khalili and 4 other
+    individuals was released in a communiqu of the Public Prosecutors Office,
+    were published in the Kayhan newspaper on September 21, 1981. This
+    execution was also reported in an addendum to the Mojahed magazine (No
+    261), published by Mojahedin Khalq Organization in 1985. The list includes
+    12028 individuals, affiliated with various opposition groups, who were
+    executed or killed during clashes with the Islamic Republic security
+    forces from June 1981 to the publication date of the magazine. Ms. Khalili
+    is also one of the 1533 executed prisoners listed by the Association of
+    Iranian Women of K ln (Germany). The list published in 1997 is entitled:
+    "A partial list of names of women executed by the Islamic Republic of
+    Iran. Further information regarding this execution was sent to Omid via an
+    electronic form by a person familiar with this case. Arrest and detention
+    According to the form, Ms. Khalili was arrested by the Najaf Abad
+    Revolutionary Guards in the summer of 1981 at dawn at her parent s house.
+    Further circumstances of her arrest and detention are not known. Trial No
+    information is available on the defendant s trial. Charges Based on the
+    communiqu of Public Prosecutor s Office, Ms. Khalili, along with another
+    defendant, was charged with active support of the [Mojahedin Khalq]
+    Organization, anti-revolutionary activities, approval of the theory of
+    armed struggle, causing disturbances in schools, spreading poisonous and
+    anti-revolutionary ideology and distributing banned pamphlets and
+    publications in schools. The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. Evidence of guilt The report of this execution
+    does not contain information regarding the evidence provided against the
+    defendant. Defense No information is available on Ms. Khalili's defense.
+    Judgment The Islamic Revolutionary Tribunal of Najaf Abad sentenced Ms.
+    Khalili to death. She was executed, along with 4 others, on September 20,
+    1981. According to the form, she was buried an hour or two after her
+    execution, without the presence of her family.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4044/akram-khalili"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

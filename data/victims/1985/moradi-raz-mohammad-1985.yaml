@@ -1,0 +1,49 @@
+id: moradi-raz-mohammad-1985
+name_latin: "Raz Mohammad Moradi"
+name_farsi: "راز محمد مرادی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1985-04-25
+age_at_death: null
+place_of_death: "Zahedan"
+province: "Sistan Va Baluchestan"
+cause_of_death: "Fatal"
+circumstances: >
+    The execution of Mr. Raz Mohammad Moradi, along with 21 others, was
+    reported in the Kayhan Daily on April 28, 1985. The validity of the
+    criminal charges brought against this defendant cannot be ascertained in
+    the absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic’s authorities have brought trumped up charges against
+    their political opponents and executed them for drug trafficking, sexual,
+    and other criminal offences. Thousands of alleged drug traffickers have
+    been sentenced to death following judicial processes that fail to meet
+    international standards. The exact number of people convicted based on
+    trumped-up charges is unknown Arrest and detention The circumstances of
+    this defendant’s arrest and detention are not known. Trial No information
+    is available on the defendant’s trial. Charges According to this report,
+    Mr. Moradi was charged with “being actively involved in supplying and
+    distributing narcotics in the region.” Evidence of guilt The report of
+    this execution does not contain information regarding the evidence
+    provided against the defendant. Defense No information is available on Mr.
+    Moradi’s defense. Judgment The Islamic Revolutionary Tribunal of Zahedan
+    sentenced Mr. Moradi to death. The sentence was confirmed by the Supreme
+    Judicial Council, and then it was carried out in the Islamic Penitentiary
+    of Zahedan’s Police Headquarters at 22:40 p.m.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/31547/raz-mohammad-moradi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

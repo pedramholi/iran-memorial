@@ -1,0 +1,55 @@
+id: nazliani-mohammad-ali-1980
+name_latin: "Mohammad Ali Nazliani"
+name_farsi: "محمد علی نزلیانی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-06-04
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    Officer Mohammad Ali Nazliani s name appeared in a list of 21 executed
+    individuals, reported by the Islamic Revolutionary Tribunals of Tehran and
+    Hamedan and published in the Jomhuri Eslami daily (June 7, 1980). Arrest
+    and detention The report provided no information regarding the
+    circumstances of Mr. Salehi s arrest and detention. Trial The Jomhuri
+    Eslami report mentioned that Officer Nazliani was tried in Tehran by the
+    religious judge who was also the head of the Campaign against Drugs and
+    Narcotics. No specific information was provided regarding his trial.
+    Charges Based on the report, Officer Nazliani, employee of the Qasr
+    Prison, was accused of having made a fortune by acting as a connection
+    between the prisoners and the drug cartel outside and smuggling in heroin
+    and opium for addicted prisoners. The validity of the criminal charges
+    brought against this defendant cannot be ascertained in the absence of the
+    basic guarantees of a fair trial. International human rights organizations
+    have drawn attention to reports indicating that the Islamic Republic s
+    authorities have brought trumped up charges against their political
+    opponents and executed them for drug trafficking, sexual, and other
+    criminal offences. Thousands of alleged drug traffickers have been
+    sentenced to death following judicial processes that fail to meet
+    international standards. The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of guilt The report did not
+    contain any information regarding the evidence presented against the
+    accused. Defense No information is available on Officer Nazliani s
+    defense. Judgment Officer Nazliani was found guilty of corruption on earth
+    and waging war against God. He was sentenced to confiscation of all his
+    belongings in addition to the death sentence. The death sentence was
+    carried out within moments after the issuance of the verdict.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/12653/mohammad-ali-nazliani"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

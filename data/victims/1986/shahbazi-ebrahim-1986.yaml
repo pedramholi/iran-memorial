@@ -1,0 +1,56 @@
+id: shahbazi-ebrahim-1986
+name_latin: "Ebrahim Shahbazi"
+name_farsi: "ابراهیم شهبازی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1986-01-01
+age_at_death: null
+place_of_death: "Karaj"
+province: "Tehran"
+cause_of_death: "Execution » Stoning"
+circumstances: >
+    The execution of Mr. Ebrahim Shahbazi was reported in the Kayhan daily on
+    April 19, 1986. The Islamic Revolutionary Prosecutor of Karaj told the
+    Kayhan reporter that 22 individuals, including 6 women and 16 men, had
+    been arrested regarding the same case, and that the High Judicial Court
+    had approved the execution sentence by stoning of some of them. He said
+    that these persons would be stoned to death in the future. Arrest and
+    detention The circumstances of this defendant’s arrest and detention are
+    not known. Trial No information is available on the defendant’s trial.
+    Charges According to this report, Mr. Shahbazi was charged with “adultery,
+    establishing a prostitution gang and turning his pastry shop to a place
+    for adultery.” The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. International human rights organizations have drawn
+    attention to reports indicating that the Islamic Republic’s authorities
+    have brought trumped-up charges against their political opponents and
+    executed them for drug trafficking, sexual, and other criminal offences.
+    Each year, Iranian authorities sentence to death hundreds of alleged
+    common criminals, following judicial processes that fail to meet
+    international standards. The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against the defendant. Defense No information is available on Mr.
+    Shahbazi’s defense. Judgment The Islamic Revolutionary Tribunal of Karaj
+    sentenced Mr. Shahbazi to death by stoning. The Supreme Court of the
+    Supreme Judicial Council approved the sentence. According to the
+    newspaper, the head of the Clergy Association of Karaj, delivered a
+    detailed speech on the divine commandments in the Quran. Mr. Ebrahim
+    Shahbazi was stoned to death in public.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/44125/ebrahim-shahbazi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

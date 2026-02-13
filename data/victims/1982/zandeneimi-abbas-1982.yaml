@@ -1,0 +1,45 @@
+id: zandeneimi-abbas-1982
+name_latin: "Abbas Zandeneimi"
+name_farsi: "عباس زندنیمی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1982-08-14
+age_at_death: null
+place_of_death: "Orumieh"
+province: "Azarbaijan-e Gharbi"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Mr. Abbas Zandeneimi, along with two others, was reported
+    in the Jomhuri Eslami daily on August 19, 1982. Arrest and detention The
+    circumstances of this defendant’s arrest and detention are not known.
+    Trial No information is available on the defendant’s trial. Charges
+    According to this report, Mr. Zandeneimi was charged with “armed action
+    against the Islamic Republic, membership in the banned Kordestan
+    Democratic Party (KDP), participation in clashes, carrying out an armed
+    attack including the use of TNT, against Hotel Mahabad, participation in
+    the clash in Azadi Square,throwing a grenade and setting on fire the car
+    of the revolutionary guards, which, based on the accused confession, led
+    to the martyrdom of 4 guards.” Evidence of guilt According to the report,
+    Mr. Zandeneimi confessed to have set on fire the car of the revolutionary
+    guards which led to the martyrdom of 4 guards. Defense No information is
+    available on Mr. Zandeneimi’s defense. Judgment The Islamic Revolution’s
+    Public Prosecutor’s Office in Mahabad declared Mr. Zandeneimi an enemy of
+    God and the Prophet and sentenced him to death. The sentence was carried
+    out.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/31439/abbas-zandeneimi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

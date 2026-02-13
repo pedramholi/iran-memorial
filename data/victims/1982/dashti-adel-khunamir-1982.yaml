@@ -1,0 +1,62 @@
+id: dashti-adel-khunamir-1982
+name_latin: "Adel Khunamir Dashti"
+name_farsi: "عادل خونامیر دشتی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1982-02-11
+age_at_death: 34
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    Mr. Adel Khunamir Dashti is one of the 12,028 individuals listed in an
+    addendum to the Mojahed magazine (No 261), published by Mojahedin Khalq
+    Organization in 1985. The list includes individuals, affiliated with
+    various opposition groups, who were executed or killed during clashes with
+    the Islamic Republic security forces from June 1981 to the publication
+    date of the magazine. Additional information about Mr. Khunamir Dashti,
+    son of Nurollah, is based on an electronic form sent to the Boroumand
+    Foundation by a person familiar with this case. According to this
+    information, he was married and had two children. He was born into a
+    working class family and his father was a senior political activist of the
+    Tudeh Party. Mr. Khunamir Dashti was an electrical engineer working in the
+    Radio and Television Organization. He was an expert at building remote
+    controlled listening devices. According to the electronic form, Mr.
+    Khunamir Dashti was a sympathizer of the Revolutionary Workers
+    Organization of Iran. Based on the addendum to the Mojahed magazine,
+    however, he was a member of Fadayian Khalq. “Rah-e Kargar” or the
+    “Revolutionary Workers Organization of Iran” was established in the summer
+    of 1979. The Organization was founded by individuals from various leftist
+    groups who rejected the idea of armed struggle and believed in political
+    action. They identified themselves as Marxist-Leninists, promoting a
+    socialist revolution and the leadership of the proletariat. They differed
+    with the pro-Soviet communist party, Tudeh, in that they opposed the
+    Islamic Republic and Ayatollah Khomeini’s leadership. Arrest and detention
+    According to the information sent to the Boroumand Foundation, Mr.
+    Khunamir Dashti was arrested at his work place in Tehran and transferred
+    to the Evin Prison. Trial No information is available on the accused’s
+    trial. Charges No information is available on Mr. Khunamir Dashti’s
+    charges. The validity of the criminal charges brought against this accused
+    cannot be ascertained in the absence of the basic guarantees of a fair
+    trial. Evidence of guilt The report of this execution does not contain
+    information regarding the evidence provided against the accused. Defence
+    No information is available about the accused’s defense. Judgment Based on
+    the addendum to the Mojahed magazine, Mr. Khunamir Dashti was executed by
+    a firing squad in Tehran on February 11, 1982.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-5394/adel-khunamir-dashti"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

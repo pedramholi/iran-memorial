@@ -1,0 +1,62 @@
+id: sadeqi-fathollah-1980
+name_latin: "Fathollah Sadeqi"
+name_farsi: "فتح الله صادقی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-07-21
+age_at_death: null
+place_of_death: "Esfahan Province"
+province: "Esfahan"
+cause_of_death: "Fatal"
+circumstances: >
+    The execution of Mr. Fathollah Sadeqi (son of Abolqasem Tonekabzadeh, born
+    in and resident of Homayun Shahr (Esfahan province, renamed Khomeini
+    Shahr) and three other individuals was reported in the Jomhuri Eslami
+    newspaper (July 22 and 24, 1980). Arrest and detention The circumstances
+    of this defendant s arrest and detention are not known. Trial No
+    information is available on the defendant s trial other than it took place
+    on July 20, 1980. Charges According to the July 22 report, Mr. Sadeqi was
+    charged with selling 10 kilograms of opium. The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic s authorities have brought trumped-up charges against
+    their political opponents and executed them for drug trafficking, sexual,
+    and other criminal offences. Thousands of alleged drug traffickers have
+    been sentenced to death following judicial processes that fail to meet
+    international standards. The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of guilt The July 22 report
+    referred to the information in his file and Mr. Sadeqi s confessions as
+    the evidence of guilt. International human rights organizations have
+    repeatedly condemned the government of the Islamic Republic of Iran for
+    its systematic use of severe torture and solitary confinement to obtain
+    confessions from detainees and have questioned the authenticity of
+    confessions obtained under duress. In the case of political detainees,
+    these confessions are, at times, televised. The National Television
+    broadcasts confessions during which prisoners plead guilty to vague and
+    false charges, repent and renounce their political beliefs, and/or
+    implicate others. Human rights organizations have also pointed to the
+    pattern of retracted confessions by those prisoners who are freed. Defense
+    Based on the news story, Mr. Sadeqi was given a chance to defend himself
+    at the court. However, no specific information about the circumstances of
+    the defense is available. Judgment The Special Court for Combating Drugs
+    and Narcotics declared Mr. Fathollah Sadeqi a corruptor on earth and an
+    enemy of God and his Prophet and sentenced him to death. He was executed
+    in Esfahan at dawn of July 21, 1980.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/13076/fathollah-sadeqi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

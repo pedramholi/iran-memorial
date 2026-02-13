@@ -1,0 +1,50 @@
+id: tamberchi-abbas-1982
+name_latin: "Abbas Tamberchi"
+name_farsi: "عباس تمبرچی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1982-01-01
+age_at_death: 43
+place_of_death: "Iran"
+province: null
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The information concerning Mr. Abbas Tamberchi is from a book titled
+    Siavoshan, “Remembrance of the Ranjbaran Party of Iran’s Martyrs” by Baqer
+    Mortazavi, Germany, copyright 1999. Mr. Tamberchi was born in Mashhad in
+    1939. After graduating from Alborz high school in Tehran, he attended and
+    graduated from Mashhad University with a degree in foreign languages. In
+    1963, he went to Switzerland and then to the US. There, he joined the
+    Revolutionary Organization who sent him to work in Dubai. Later he
+    secretly went on a visit to Iran. Ultimately, he left Dubai and returned
+    to Iran before the revolution. With the establishment of the Ranjbaran
+    Party, he became a member of the Central Committee. He was arrested in
+    1982 and during his time in prison he wrote: “During the imprisonment
+    days, like other times, loyalty and faithfulness to the principles is
+    necessary for happiness and well being.” Arrest and detention The
+    circumstances of this defendant’s arrest and detention are unknown. Mr.
+    Tamberchi was arrested in fall of 1982. Trial No information is available
+    on the defendant’s trial. Charges No information is available on Mr.
+    Tamberchi’s charges. Evidence of guilt The report of this execution does
+    not contain information regarding the evidence provided against the
+    defendant. Defense No information is available on Mr. Tamberchi's defense.
+    Judgment No detail information is available on Mr. Tamberchi's execution.
+    According to the existing information, he was executed in November of
+    1982.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/35693/abbas-tamberchi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

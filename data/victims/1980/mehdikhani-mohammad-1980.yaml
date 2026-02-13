@@ -1,0 +1,51 @@
+id: mehdikhani-mohammad-1980
+name_latin: "Mohammad Mehdikhani"
+name_farsi: "محمد مهدی خانی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-08-08
+age_at_death: null
+place_of_death: "Karaj"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of Mr. Mohammad Mehdikhani, born in Qazvin and a resident of
+    Pamonar in Tehran, was declared in a communiqu of the Public Relations
+    Office of the Islamic Revolutionary Guards (Pasdaran). The communiqu was
+    published by the Jomhuri Eslami daily (August 10, 1980). Arrest and
+    detention No information is available on the circumstances of Mr.
+    Mehdikhani s arrest and detention. Trial The communiqu specified that the
+    defendant was tried in the Special Islamic Revolutionary Court for
+    Campaign against Drugs and Narcotics but did not provide any information
+    about the trial. Charges Based on the communiqu , Mr. Mehdikhani was
+    charged with adultery . The validity of the criminal charges brought
+    against the defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that the Islamic Republic s
+    authorities have brought trumped-up charges against their political
+    opponents and executed them for drug trafficking, sexual, and other
+    criminal offences. Each year, Iranian authorities sentenced to death
+    hundreds of alleged common criminals, following judicial processes that
+    fail to meet international standards. The exact number of people convicted
+    based on trumped-up charges is unknown. Evidence of guilt The report did
+    not provide any information on the evidence presented against the
+    defendant. Defense No information on the accused s defense is available.
+    Judgment Mr. Mehdikhani was found guilty of corruption on earth and war
+    against God. He was sentenced to death and executed at 1 a.m.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/15633/mohammad-mehdikhani"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

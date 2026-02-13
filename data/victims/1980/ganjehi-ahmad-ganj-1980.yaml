@@ -1,0 +1,28 @@
+id: ganjehi-ahmad-ganj-1980
+name_latin: "Ahmad Ganj Ganjeh’i"
+name_farsi: "احمد گنج گنجه‌ای"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-04-23
+age_at_death: 22
+place_of_death: "Rasht"
+province: "Gilan"
+cause_of_death: "Arbitrary Execution » Arbitrary shooting"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/86726/ahmad-ganj-ganjeh-i"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

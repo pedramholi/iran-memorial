@@ -1,0 +1,48 @@
+id: sheikhi-ali-ahmad-1979
+name_latin: "Ali Ahmad Sheikhi"
+name_farsi: "علی احمد شیخی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1979-10-07
+age_at_death: null
+place_of_death: "Kermanshah"
+province: "Kermanshah"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of Mr. Ali Ahmad Sheikhi and another individual from Harsin
+    (Kermanshah province) was reported by the correspondents of the Kayhan
+    (October 8, 1979) and Enqelab Eslami (October 10, 1979) dailies in
+    Kermanshah. Arrest and detention The circumstances of this defendant’s
+    arrest and detention are not known. Trial No information is available on
+    the defendant’s trial. Charges Based on the report, Mr. Sheikhi was
+    charged with "murder and plunder, armed robbery, assault and battery of
+    the revolutionaries, harassing Muslims in order to support the hated
+    regime, carrying drugs, attacking the Revolutionary Guards, and
+    blackmailing the oppressed people." The validity of the criminal charges
+    brought against this defendant cannot be ascertained in the absence of the
+    basic guarantees of a fair trial. Evidence of guilt The Kayhan report
+    referred to the testimonies of the witnesses, but the content of the
+    testimonies remain unknown. Defense The Kayhan reporter mentioned that the
+    defense was heard, but no further details were provided. Judgment Based on
+    the Enqelab Eslami report, the Islamic Revolutionary Tribunal of
+    Kermanshah declared Mr. Sheikhi a "corruptor on earth" and an "enemy of
+    God" and sentenced him to death. The sentence was carried out at 11 p.m.
+    He was also ordered to hand over to the court the 120,000 Rials that he
+    had allegedly taken forcefully from the people of Parireh Village.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/28405/ali-ahmad-sheikhi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

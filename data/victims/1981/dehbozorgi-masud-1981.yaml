@@ -1,0 +1,57 @@
+id: dehbozorgi-masud-1981
+name_latin: "Mas'ud Dehbozorgi"
+name_farsi: "مسعود  ده‌ بزرگی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-07-08
+age_at_death: 23
+place_of_death: "Shiraz"
+province: "Fars"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The news of the execution of Mr. Mas’ud Deh Bozorgi and another individual
+    was announced in a report published in Kayhan on July 9, 1981. Mr. Deh
+    Bozorgi, 23, industrial worker, and a supporter of the Mojahedin Khalq
+    Organization, is also one of the 12,028 individuals listed in an addendum
+    to the Mojahed magazine (No 261), published by Mojahedin Khalq
+    Organization in 1985. The list includes individuals, affiliated with
+    various opposition groups, who were executed or killed during clashes with
+    the Islamic Republic security forces from June 1981 to the publication
+    date of the magazine. Arrest and detention The circumstances of Mr. Deh
+    Bozorgi’s arrest and detention are not known. Trial Based on the available
+    information, the Bandar Anzali Islamic Revolutionary Tribunal issued Mr.
+    Deh Bozorgi’s sentence. No detailed information is available on Mr. Deh
+    Bozorgi’s trial. Charges According to the Bandar Anzali Islamic
+    Revolutionary Prosecutor’s Office communiqué, Mr., Deh Bozorgi was charged
+    with “organizing and leading illegal demonstrations, causing disorder in
+    the town, agreeing to the entire platform of the [Mojahedin Khalq]
+    Organization including their declaration of armed resistance, publishing,
+    distributing, and posting banned magazines and leaflets, threatening
+    civilians with cold weapons, and explicit opposition to Imam and the
+    Government of the Islamic Republic.” This communiqué also referred to Mr.
+    Deh Bozorgi as “one of the most active elements in the Mojahedin [Khalq]
+    Organization.” . Evidence of guilt The report of this execution does not
+    contain information regarding the evidence provided against Mr. Deh
+    Bozorgi. Defense No information is available on Mr. Deh Bozorgi’s defense.
+    Judgment The Bandar Anzali Islamic Revolutionary Tribunal found Mr. Deh
+    Bozorgi guilty of “rebellion” and “waging war on God and the Prophet,” and
+    sentenced him to death. Mr. Deh Bozorgi was executed by a firing squad on
+    July 8, 1981 in Shiraz. Mr. Deh Bozorgi was 23 years old at the time of
+    his execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-5541/masud-dehbozorgi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,53 @@
+id: madadi-mina-1983
+name_latin: "Mina Madadi"
+name_farsi: "مینا مددی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1983-08-11
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Fatal"
+circumstances: >
+    The execution of Ms. Mina Madadi, along with seven others, was reported in
+    the Jomhuri Eslami daily on August 11, 1983. Arrest and detention The
+    circumstances of this defendant s arrest and detention are not known.
+    Trial No information is available on the defendant s trial. Charges Ms.
+    Madadi was reportedly charged with being persistently involved in the
+    supply and distribution of heroin, having a long history of selling heroin
+    in the packages containing 5 gm and 10 centigrams, transporting 28 gm of
+    heroin and confessing to supplying 15 packages, containing 50 gm of heroin
+    each and having a long history of supplying and distributing of heroin
+    several times. According to this report, she had worked in close
+    collaboration with the well-known international traffickers- some of whom
+    already executed- and established smuggling gangs. The validity of the
+    criminal charges brought against this defendant cannot be ascertained in
+    the absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic s authorities have brought trumped up charges against
+    their political opponents and executed them for drug trafficking, sexual,
+    and other criminal offences. Thousands of alleged drug traffickers have
+    been sentenced to death following judicial processes that fail to meet
+    international standards. The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against the defendant. Defense No information is available on Ms. Madadi's
+    defense. Judgment The Anti-Narcotics Section of the Public Prosecutor s
+    Office sentenced Ms. Madadi to death. The sentence was carried out.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/29263/mina-madadi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

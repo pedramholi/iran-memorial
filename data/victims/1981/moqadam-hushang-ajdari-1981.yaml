@@ -1,0 +1,51 @@
+id: moqadam-hushang-ajdari-1981
+name_latin: "Hushang Ajdari Moqadam"
+name_farsi: "هوشنگ اژدری مقدم"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-09-29
+age_at_death: 31
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The information about Mr. Hushang Ajdari Moqadam has been sent to Omid by
+    a relative through an electronic form. Mr. Ajdari Moqadam is one of the
+    12028 individuals listed in an addendum to the Mojahed magazine (No 261),
+    published by Mojahedin Khalq Organization in 1985. The list includes
+    individuals, affiliated with various opposition groups, who were executed
+    or killed during clashes with the Islamic Republic security forces from
+    June 1981 to the publication date of the magazine. According to the
+    information available, on July 7, 1976, Mr. Ajdari Moqadam graduated from
+    University of Salford (Manchester, UK) majoring in civil engineering. He
+    returned to Tehran and worked as a civil engineer on several projects.
+    During the Revolution of 1979, he started to work as a teacher. The sender
+    of the form remembers him as someone who “believed in social justice and
+    equality.” According to the Mojahend , he was married and had a child.
+    Arrest and detention The circumstances of this defendant’s arrest and
+    detention are not known. Trial No information is available on the
+    defendant’s trial. Charges The charge brought against the defendant is not
+    known. Evidence of guilt The report of this execution does not contain
+    information regarding the evidence provided against the defendant. Defense
+    No information is available on Mr. Ajdari Moqadam’s defense. The sender of
+    the electronic form states: “He was executed without charge. He was at the
+    wrong place at wrong time.” Judgment There is no information on the
+    verdict leading to this execution. Mr. Ajdari Moqadam was shot by firing
+    squad on September 29, 1981 in Tehran.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-5147/hushang-ajdari-moqadam"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

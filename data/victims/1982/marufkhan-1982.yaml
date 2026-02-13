@@ -1,0 +1,47 @@
+id: marufkhan-1982
+name_latin: "Ma'rufkhan"
+name_farsi: "معروف خان"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1982-01-01
+age_at_death: null
+place_of_death: "Bushehr"
+province: "Bushehr"
+cause_of_death: "Fatal"
+circumstances: >
+    The execution of Mr. Ma rufkhan , along with another person, was published
+    in the Jomhuri Eslami daily on January 23, 1982. Arrest and detention The
+    circumstances of this defendant s arrest and detention are not known.
+    Trial No information is available on the defendant s trial. Charges Mr. Ma
+    rufkhan was charged with drug dealing. The validity of the criminal
+    charges brought against defendants cannot be ascertained in the absence of
+    the basic guarantees of a fair trial. International human rights
+    organizations have drawn attention to reports indicating that the Islamic
+    Republic s authorities have brought trumped-up charges against their
+    political opponents and executed them for drug trafficking, sexual, and
+    other criminal offences. Thousands of alleged drug traffickers have been
+    sentenced to death following judicial processes that fail to meet
+    international standards. The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of guilt According to this report,
+    Mr. Ma rufkhan and another smuggler were caught in possession of 1 kg and
+    100 gm of heroin, several plastic bags for its packaging and one heroin
+    dosage device. Defense No information is available on Mr.Ma rufkhan's
+    defense. Judgment The Islamic Revolutionary Tribunal of Bushehr sentenced
+    Mr. Ma rufkhan to death. He was executed.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/23624/marufkhan"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

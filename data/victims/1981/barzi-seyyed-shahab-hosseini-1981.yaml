@@ -1,0 +1,57 @@
+id: barzi-seyyed-shahab-hosseini-1981
+name_latin: "Seyyed Shahab Hosseini Barzi"
+name_farsi: "سید شهاب حسینی برزی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam (Shi'a)"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-09-18
+age_at_death: 17
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The information about the execution of Mr. Seyyed Shahab Hosseini Barzi, a
+    follower of the Mojahedin Khalq Organization, and 80 other individuals was
+    released in a communiqué of the Central Islamic Revolutionary Tribunal,
+    published in the newspaper Kayhan , September 20, 1981. Moreover,
+    information regarding this case was sent to Omid via an electronic form by
+    a person who does not wish to be identified. Mr. Hosseini Barzi is also
+    one of the 12028 individuals listed in an addendum to the Mojahed magazine
+    (No 261), published by Mojahedin Khalq Organization in 1985. The list
+    includes individuals, affiliated with various opposition groups, who were
+    executed or killed during clashes with the Islamic Republic security
+    forces from June 1981 to the publication date of the magazine. Arrest and
+    detention Based on the information available on the form, a former
+    cellmate of Mr. Hosseini Barzi recalls that Mr. Hosseini Barzi was taken
+    to a cell at the Evin Prison in 1981 and spent only a few hours in
+    detention before being executed. Trial No information is available on the
+    defendant’s trial. Charges According to the communiqué, Mr. Hosseini Barzi
+    was accused of "being present in team houses, armed robbery, having guns,
+    walkie-talkies, and Molotov cocktails, shooting into a crowd, being a
+    member of the armed guerrilla organization, setting fire to different
+    centers including the treasury." These charges are collective and brought
+    against the defendant and 17 of the 81 individuals. The prosecution does
+    not mention any specific offense for the defendant. The validity of the
+    criminal charges brought against this defendant cannot be ascertained in
+    the absence of the basic guarantees of a fair trial. Evidence of guilt The
+    report of this execution does not contain information regarding the
+    evidence provided against the defendant. Defense No information is
+    available on Mr. Hosseini Barzi's defense. Judgment Mr. Hosseini Barzi was
+    declared a “corruptor on earth and an enemy of God” and was executed by a
+    firing squad at the Evin Prison on September 18, 1981.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4136/seyyed-shahab-hosseini-barzi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,63 @@
+id: sepasi-bahman-mohammad-1981
+name_latin: "Bahman (Mohammad) Sepasi"
+name_farsi: "بهمن (محمد) سپاسی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-01-01
+age_at_death: 27
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The information about Mr. Bahman Sepasi, son of Ali Akbar, is based on an
+    interview by the Abdorrahman Boroumand Foundation with his brother and an
+    electronic form sent to Omid by him. According to this information, he was
+    born in Rasht in 1954. He was single and graduated from Aryamehr (Sherif)
+    University in 1979. His last semester coincided with the revolution, when
+    he was among those who wrote articles about daily political issues of the
+    day, printed them on large papers, and installed them on walls of the
+    university for other students to read. Students had political debates
+    about these articles. Mr. Sepasi s articles attracted some attention. But
+    his political activities were limited to this and he had no affiliation
+    with any organization. After the closure of universities, he had no
+    activity and was considering marriage and moving outside Iran. Arrest and
+    detention According to the interviewee, Mr. Sepasi was arrested in a
+    Komiteh [revolutionary base] in the spring of 1982 when he was looking for
+    his brother, Alireza Sepasi, who had disappeared for several days, in
+    various institutions. Agents went to his house for a search while keeping
+    him in a car. When Mr. Sepasi saw the interviewee, he signaled as if there
+    was not an important issue. Since he had no political activities, his
+    family expected him to be released. Mr. Sepasi was detained at the Evin
+    Prison and had no visitations with his family. He was denied access to an
+    attorney. Trial No information is available on Mr. Sepasi s trial.
+    According to the interviewee, he was not tried. Charges No information is
+    available on Mr. Sepasi s charges. Evidence of guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against Mr. Sepasi. Defense No information is available about Mr. Sepasi s
+    defense. Judgment Mr. Bahman Sepasi was executed at the Evin Prison in
+    Tehran two or three weeks after his arrest in the spring of 1982. When his
+    parents went to the prison, authorities informed them of his execution and
+    gave them his will. They did not reveal his burial location. Sometime
+    later, however, they implied that he was buried at the Khavaran cemetery.
+    His brother, Alireza Sepasi, was also executed during the mass killings of
+    political prisoners in 1988. On a visitation day, when Mr. Sepasi s
+    parents went to the prison to visit Alireza and another imprisoned
+    brother, a prison official told them that Bahman Sepasi was executed by
+    mistake.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7934/bahman-mohammad-sepasi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

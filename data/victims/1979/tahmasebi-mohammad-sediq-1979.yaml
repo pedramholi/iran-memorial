@@ -1,0 +1,28 @@
+id: tahmasebi-mohammad-sediq-1979
+name_latin: "Mohammad Sediq Tahmasebi"
+name_farsi: "محمد صدیق طهماسبی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1979-07-16
+age_at_death: null
+place_of_death: "Qazvin"
+province: "Zanjan"
+cause_of_death: "Execution » Shooting"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-3318/mohammad-sediq-tahmasebi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,41 @@
+id: sahrayi-morteza-1980
+name_latin: "Morteza Sahrayi"
+name_farsi: "مرتضی صحرائی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-08-07
+age_at_death: null
+place_of_death: "Dezful"
+province: "Khuzestan"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of Sergeant Morteza Sahrayi was reported by the
+    correspondent of the Jomhuri Eslami daily in Ahvaz (August 9, 1980).
+    Arrest and detention No information is available on the circumstances of
+    Sergeant Sahrayi s arrest and detention. Trial The verdict was issued by
+    the Islamic Revolutionary Tribunal of Dezful. The report did not provide
+    any information about the trial. Charges Based on this report, Sergeant
+    Sahrayi was charged with being part of Dezful s armored brigade (# 2) and
+    suppressing the Revolutionaries, creating terror among people in the
+    revolutionary days, and shooting at people, which resulted in the
+    martyrdom of Reza Azak . Evidence of guilt The report did not provide any
+    specific information on the evidence presented against the defendant.
+    Defense No information on the accuseds defense is available. Judgment He
+    was executed at midnight.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/15569/morteza-sahrayi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

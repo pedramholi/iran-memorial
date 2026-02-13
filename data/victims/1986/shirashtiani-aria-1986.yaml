@@ -1,0 +1,44 @@
+id: shirashtiani-aria-1986
+name_latin: "Aria Shirashtiani"
+name_farsi: "آریا شیرآشتیانی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1986-11-08
+age_at_death: null
+place_of_death: "Tehran Province"
+province: "Tehran"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The information regarding the execution of Mr. Aria Shirashtiani was sent
+    to Omid via an electronic form by a person familiar with the case. Mr.
+    Shirashtiani was the founder of the opposition group Aria. Arrest and
+    detention Mr. Shirashtiani was arrested in Tehran on July 9, 1986. He was
+    detain for 2 months and was reportedly tortured during interrogation.
+    Trial No information is available on the defendant s trial. Charges
+    According to the form, Mr. Shirashtiani was charged with War on God, God s
+    Prophet and the deputy of the Twelfth Imam, treason, war on religion,
+    creating an anti-revolutionary group. The validity of the criminal charges
+    brought against this defendant cannot be ascertained in the absence of the
+    basic guarantees of a fair trial. Evidence of guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against the defendant. Defense No information is available on Mr.
+    Shirashtiani s defense. Judgment No specific information regarding the
+    death sentence is available. Mr. Shirashtiani was executed on November 8,
+    1986.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/40104/aria-shirashtiani"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

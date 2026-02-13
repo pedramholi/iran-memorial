@@ -1,0 +1,60 @@
+id: hayat-1980
+name_latin: "Hayat"
+name_farsi: "حیاط"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-07-03
+age_at_death: null
+place_of_death: "Kerman"
+province: "Kerman"
+cause_of_death: "Execution » Stoning"
+circumstances: >
+    The execution of Ms. Hayat and four others was reported to Pars News
+    Agency by the news center of the Revolutionary Guard (Pasdaran)
+    headquarters of Kerman. The Jomhuri Eslami daily published the report
+    (July 5, 1980). The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. International human rights organizations have drawn
+    attention to reports indicating that the Islamic Republic s authorities
+    have brought trumped up charges against their political opponents and
+    executed them for drug trafficking, sexual, and other criminal offences.
+    Each year, Iranian authorities sentence to death hundreds of alleged
+    common criminals, following judicial processes that fail to meet
+    international standards. The exact number of people convicted based on
+    trumped-up charges is unknown. Arrest and detention The circumstances of
+    this defendant s arrest and detention are not known. Trial No information
+    is available on Ms. Hayat s trial. Charges Based on the report, Ms. Hayat
+    was charged with prostitution, deluding young girls, and promoting
+    prostitution. Evidence of guilt The report did not provide any information
+    regarding the evidence presented against the defendant. Defense No
+    information is available on the defendant s defense. Judgment Based on the
+    report, the Islamic Revolutionary Tribunal of Kerman sentenced Ms. Hayat
+    and three other defendants to death by stoning. They were stoned to death
+    at 5:30 in the morning. Article 104 of the Islamic Republic's Penal Code
+    states that ''...the stones should not be too large so that the person
+    dies on being hit by one or two of them...'' and this punishment ,
+    according to Amnesty International "is designed to cause grievous pain
+    leading to eventual death." According to Reuters news agency, quoting one
+    of the members of Kerman's Tribunal speaking on condition of anonymity,
+    the victims were given ablution before the ceremony and were given white
+    tunics to wear. Their heads were covered with a hood. They were then
+    buried up to their chests, and stones of various dimensions were made
+    available. The President of the Tribunal personally threw the first stone,
+    followed by five other people. The stoning lasted fifteen minutes.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-3818/hayat"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

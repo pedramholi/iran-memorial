@@ -1,0 +1,67 @@
+id: alilou-torab-haj-1979
+name_latin: "Torab Haj Alilou"
+name_farsi: "تراب حاج علیلو"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1979-04-10
+age_at_death: null
+place_of_death: "Ardebil"
+province: "Ardebil"
+cause_of_death: "Fatal"
+circumstances: >
+    Mr. Torab Hajalilou is one of 438 victims listed in a March 13, 1980
+    Amnesty International report. The report lists defendants who were
+    convicted by Revolutionary Tribunals in the period from their inception
+    until 12 August 1979. The list of victims and charges is drawn from
+    sources including translations of indictments, reports of trials carried
+    out by local and foreign media and the bulletins of the official Pars News
+    Agency reports. International human rights organizations have drawn
+    attention to reports indicating that the Islamic Republic’s authorities
+    have executed individuals on trumped up charges such as drug trafficking,
+    sexual, and other criminal offences. The exact number of people convicted
+    based on trumped-up charges is unknown. Arrest and detention The report
+    provides no information on the arrest and detention of the defendant.
+    Trial The Kayhan correspondent's report of the defendant's 6-hour-trial
+    from Ardebil reads as follows: The trial of the accused of the Islamic
+    Revolutionary Tribunal of Ardebil, Haj Alilu, the former Head of the
+    town’s SAVAK started and members of families of martyrs and various
+    classes of Ardebil attended. First, the indictment of the Prosecutor
+    against the defendant, causing suffocation, arresting and imprisoning
+    freedom fighters, undue interference in administrative and municipal,
+    organizing attacks by stick wielding ruffians, leaving the town’s
+    responsibility to people who tried to please the former Shah, and indecent
+    acts was read. Then, Haj Alilou defended himself by noting that he was
+    innocent and that arrests were made based on order sent by the
+    headquarters. The trial lasted 6 hours following which the Court’s members
+    deliberated, convicted the accused as a corruptor on earth and a traitor
+    to the nation, sentenced him to death. The sentence was carried out.
+    Charges The charges against Mr. Hajalilou as listed in the Amnesty
+    International report and Kayhan daily are: corruption on earth, being a
+    traitor to the nation and acting against the security of the nation. The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    Evidence of guilt No information is available on the evidence presented
+    against Mr. Hajalilou. Defense No information is available regarding the
+    defense of the accused. Judgment The defendant's case was reported by
+    Reuters on April 9th. Amnesty notes that Mr. Hajalilou had been found not
+    guilty of torture, preventing people [from] attending prayers, working
+    against Islamic principles and taking away poeples' rights. He was
+    however, found guilty of acting against the security of the nation and
+    executed.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-3783/torab-haj-alilou"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

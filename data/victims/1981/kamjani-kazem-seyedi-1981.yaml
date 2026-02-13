@@ -1,0 +1,50 @@
+id: kamjani-kazem-seyedi-1981
+name_latin: "Kazem Seyedi Kamjani"
+name_farsi: "کاظم سیدی کمجانی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam (Shi'a)"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-09-20
+age_at_death: 26
+place_of_death: "Tabriz"
+province: "Azarbaijan-e Sharqi"
+cause_of_death: "Extrajudicial Execution » Extrajudicial shooting"
+circumstances: >
+    Mr. Kazem Seyedi Kamjani is one of the 12,028 individuals listed in an
+    addendum to the Mojahed magazine (No 261), published by Mojahedin Khalq
+    Organization on September 6, 1985. The list includes individuals,
+    affiliated with various opposition groups, who were executed or killed
+    during clashes with the Islamic Republic security forces from June 20,
+    1981 to the publication date of the magazine. Additional information about
+    Mr. Seyyedi Kamjani was taken from the website of the Mojahedin Khalq
+    Organization. He was a sympathizer of this organization. He was born in
+    Tehran. In 1975, while serving in the military in Qazvin, he was arrested
+    for political activity and condemned to six years imprisonment. He was
+    released in 1978 and became in charge of both the workers section and the
+    high school student section of the Mojahedin Khalq Organization in Tabriz.
+    Later on, he took charge of the information and security of the
+    organization in the Azarbaijan province. According to the Mojahedin s
+    website, Mr. Seyedi Kamjani was identified by the regime's agents while
+    driving on September 20, 1981. They shot and killed him using automatic
+    weapons. Arrest and detention Mr. Seyedi Kamjani was never arrested. Trial
+    The defendant never stood trial. Charges Mr. Seyedi Kamjani was never
+    officially charged. Evidence of guilt The report of this execution
+    contains no evidence provided against the defendant. Defence Mr. Seyedi
+    Kamjani never had a chance to defend himself. Judgment No information is
+    available about a possible ruling against the defendant.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/35831/kazem-seyedi-kamjani"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

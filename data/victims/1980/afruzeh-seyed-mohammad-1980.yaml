@@ -1,0 +1,54 @@
+id: afruzeh-seyed-mohammad-1980
+name_latin: "Seyed Mohammad Afruzeh"
+name_farsi: "سید محمد افروزه"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-07-02
+age_at_death: null
+place_of_death: "Zahedan"
+province: "Sistan Va Baluchestan"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of Seyed (Feyz) Mohammad Afruzeh was reported by the
+    correspondent of Pars News Agency in Zahedan. The Kayhan and Jomhuri
+    Eslami dailies published the report along with a communiqué of the Islamic
+    Revolutionary Tribunal of Sistan and Baluchestan (July 5, 1980). The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    International human rights organizations have drawn attention to reports
+    indicating that the Islamic Republic’s authorities have brought trumped up
+    charges against their political opponents and executed them for drug
+    trafficking, sexual, and other criminal offenses. Each year, Iranian
+    authorities sentence to death hundreds of alleged common criminals,
+    following judicial processes that fail to meet international standards.
+    The exact number of people convicted based on trumped-up charges is
+    unknown. Arrest and detention No information is available on the
+    circumstances of Mr. Afruzeh’s arrest and detention. Trial The reports
+    provide no information regarding the defendant’s trial. Charges Based on
+    the Islamic Revolutionary Tribunal communiqué, Mr. Afruzeh was charged
+    with the following: “sedition”, “armed robbery”, “murdering Constable
+    Ahmad Torkamani and stealing his gun”, “creating terror and insecurity”,
+    “participation in kidnapping”, and “plotting against the Islamic
+    Republic.” Evidence of guilt The reports do not provide any information on
+    the evidence presented against the defendant. Defense No information is
+    available on the defense. Judgment The Revolutionary Tribunal of Sistan
+    and Baluchestan found the defendant guilty of “corruption on earth” and
+    “waging war against God and his prophet.” Based on the report as published
+    in the Jomhuri Eslami daily, he was executed at 9 p.m. on a Wednesday.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-3363/seyed-mohammad-afruzeh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

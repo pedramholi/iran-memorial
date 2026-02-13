@@ -1,0 +1,43 @@
+id: musazadeh-baratollah-1979
+name_latin: "Baratollah Musazadeh"
+name_farsi: "برات الله موسی زاده"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1979-07-12
+age_at_death: null
+place_of_death: "Kashmar"
+province: "Khorasan\\Khorasan-e Razavi"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The news of Mr. Baratollah Musazadeh’s execution was reported by Kayhan
+    daily on July 12, 1979. Information regarding his arrest was sent to Omid
+    via an electronic form by a person familiar with Mr. Musazadeh’s case.
+    Arrest and detention According to the available information, it appears
+    that Mr. Musazadeh was detained for 3 months before his execution. No
+    further information is available regarding his arrest and location of
+    detention. Trial No information is available on the defendant’s trial.
+    Charges According to the newspaper report, Mr. Musazadeh was charged with
+    murder. The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. Evidence of guilt The report of this execution does not
+    contain information regarding the evidence provided against the defendant.
+    Defense No information is available on Mr. Musazadeh’s defense. Judgment
+    Mr. Musazadeh was sentenced to death and was executed in Kashmar after his
+    sentence was confirmed by the Islamic Revolutionary court of Khorasan.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4012/baratollah-musazadeh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,45 @@
+id: sarabi-farahi-1980
+name_latin: "Farahi Sarabi"
+name_farsi: "فرهی سرابی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-01-13
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of Colonel Farahi Sarabi and three others was reported in
+    the Ettela at daily (January 13, 1980). Arrest and detention The
+    circumstances of this defendant s arrest and detention are not known.
+    Trial No information is available on the defendant s trial. Charges Based
+    on the report, Colonel Sarabi was accused of being one of the criminals
+    who ordered the personnel under his commend to open fire on demonstrators
+    during the Black Friday [September 8, 1979] massacre in Tehran and
+    martyred a great number of the best youths of the nation. In addition, he
+    was accused of being the one who ordered the tanks to invade the Jorjani
+    Hospital. Evidence of guilt The report mentioned that the defendant s
+    charges were based on documents available in his file but provided no
+    specific information regarding the evidence presented against the
+    defendant. Defense No information is available on Commander Sarabi s
+    defense. Judgment The Third Branch of the Islamic Revolutionary Tribunal
+    declared Commander Sarabi an enemy of God and his prophet," the murderer
+    of the people of God, and an obvious example of corruption of earth. He
+    was executed at 11:39 p.m.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/12578/farahi-sarabi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

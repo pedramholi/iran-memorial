@@ -1,0 +1,46 @@
+id: safi-1981
+name_latin: "Safi"
+name_farsi: "صافی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-10-27
+age_at_death: null
+place_of_death: "Sistan Va Baluchestan Province"
+province: "Sistan Va Baluchestan"
+cause_of_death: "Fatal"
+circumstances: >
+    The execution of Mr. Safi, son of Asadollah, was announced in the Jomhuri
+    Eslami newspaper on October 29, 1981. Arrest and detention The
+    circumstances of this defendant’s arrest and detention are not known.
+    Trial No information is available on the defendant’s trial other than he
+    was tried at the Islamic Revolutionary Tribunal of Sistan va Baluchestan.
+    Charges Mr. Safi was charged with “the despicable act of sodomy”. The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    International human rights organizations have drawn attention to reports
+    indicating that the Islamic Republic’s authorities have brought trumped-up
+    charges against their political opponents and executed them for drug
+    trafficking, sexual, and other criminal offences. The exact number of
+    people convicted based on trumped-up charges is unknown. Evidence of guilt
+    The report of this execution does not contain information regarding the
+    evidence provided against the defendant. Defense No information is
+    available on his defense. Judgment In accordance with the Islamic
+    Revolutionary Tribunal of Sistan va Baluchestan, Mr. Safi was executed on
+    October 27, 1981.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/39444/safi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

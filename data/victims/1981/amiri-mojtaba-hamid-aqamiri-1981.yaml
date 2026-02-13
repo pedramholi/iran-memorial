@@ -1,0 +1,67 @@
+id: amiri-mojtaba-hamid-aqamiri-1981
+name_latin: "Mojtaba (Hamid) Aqamiri (Amiri)"
+name_farsi: "مجتبی (حمید) آقامیری (امیری)"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-07-02
+age_at_death: 17
+place_of_death: "Ahvaz"
+province: "Khuzestan"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of Mr. Mojtaba Aqamiri (with the pseudonym of Hamid Amiri)
+    and five other individuals was announced in the Jomhuri Eslami newspaper
+    (July 5, 1981). The news of this execution was followed by a communiqué
+    presented to Pars News Agency by the Islamic Revolutionary Tribunal of
+    Ahvaz. Part of the communiqué reads as follows: “... the anti-people
+    organizations have committed a crime unprecedented in history. These vile
+    mercenaries, under the guise of People's Mojahedin, People’s Fadaiyan of
+    Iran, and Peykar, and in connivance with the enemy of this country and
+    following the ominous plans of the world-domineering America, have engaged
+    in an armed rebellion against the Islamic Republic..." This execution was
+    also reported in an addendum to the Mojahed magazine (No 261), published
+    by Mojahedin Khalq Organization in 1985. The list includes 12028
+    individuals, affiliated with various opposition groups, who were executed
+    or killed during clashes with the Islamic Republic security forces from
+    June 1981 to the publication date of the magazine. Additional information
+    about Mr. Seyed Mojtaba Aqamiri is taken from the website of the People's
+    Mojahedin of Iran Organization (PMIO). He was born in Ahvaz, Kuzestan
+    province. He was a high school student and a sympathizer of the Mojahedin
+    Khalq Organization (MKO). He began his political activities in 1977. After
+    the revolution, he joined the Revolutionary Guards; but after three
+    months, he left the Guards and became active in the Hanif Young Moslem
+    Association (sympathizers of the MKO). According to the MKO website,
+    during the presidential candidacy of Masud Rajavi, he was very active and
+    got involved in several fights with the Hezbollah, becoming injured once.
+    Arrest and detention The circumstances of this defendant’s arrest and
+    detention are not known. Mr. Seyed Mojtaba Aqamiri was arrested on June
+    21, 1981 and was taken to Ahvaz Revolutionary Guard Center on July 1st.
+    Trial No information is available on the defendant’s trial. Charges
+    According to the Jomhuri Eslami newspaper, Mr. Aqamiri and three other
+    defendants were collectively charged with “armed rebellion against the
+    Islamic Republic of Iran” as members of the People’s Mojahedin. No details
+    of specific acts committed by individual defendants were provided. The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    Evidence of guilt The report of this execution contains no evidence
+    provided against the defendant. Defense No information is available about
+    his defense. Judgment The Islamic Revolutionary Tribunal of Ahvaz
+    sentenced Mr. Mojtaba Aqamiri to death. He was executed by a firing squad
+    at 1:45 a.m. on July 2nd, 1981 in Ahvaz.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-3508/mojtaba-hamid-aqamiri-amiri"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

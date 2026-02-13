@@ -1,0 +1,58 @@
+id: shahdadinejad-sohrab-1981
+name_latin: "Sohrab Shahdadinejad"
+name_farsi: "سهراب شهدادی‌نژاد"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-07-26
+age_at_death: 27
+place_of_death: "Kerman"
+province: "Kerman"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    News of the execution of Mr. Sohrab Shahdadinejad, son of Morad, along
+    with four others, was published in the Kayhan newspaper on July 27, 1981.
+    Mr. Sohrab Shahdadinejad is also one of the 12,028 individuals listed in
+    an addendum to the Mojahed magazine (No 261), published by the Mojahedin
+    Khalq Organization on September 6, 1985. The list includes individuals,
+    affiliated with various opposition groups, who were executed or killed
+    during clashes with the Islamic Republic security forces from June 1981 to
+    the publication date of the magazine. According to this source, Mr. Sohrab
+    Shahdadinejad was a high school graduate, an office clerk, married, and a
+    sympathizer of the Mojahedin Khalq Organization. Arrest and detention
+    There is no specific information on the defendant s arrest and detention.
+    Trial The Islamic Revolutionary Court of Kerman tried Mr. Sohrab
+    Shahdadinejad but no information is available on the defendant s trial.
+    Charges The charges against Mr. Sohrab Shahdadinejad were announced as,
+    uprising against the Islamic Republic of Iran, distributing hand-written
+    pamphlets against the Islamic Revolution, and supporting the enemies of
+    Islam. The validity of the criminal charges brought against this defendant
+    cannot be ascertained in the absence of the basic guarantees of a fair
+    trial. Evidence of guilt The report of this execution did not provide any
+    specific information on the evidence presented against the defendants.
+    Defense No information is available on Mr. Sohrab Shahdadinejad's defense.
+    Judgment َThe Islamic Revolutionary Court of Kerman identified Mr. Sohrab
+    Shahdadinejad as " Baghi (rebel), Mofsed (corruptor on Earth), Mohareb
+    (fighter) against God and the Prophet, and Mortad (apostate)." He was
+    condemned to death. The ruling was carried out when he was executed by
+    firing squad in Kerman on July 26, 1981 at 5 am. No specific information
+    is available about the defendant s execution. According to the
+    Revolutionary Public Prosecution Office in Kerman, those who were
+    annihilated have no right to be buried in the Moslem cemetery because they
+    were apostate. Mr. Sohrab Shahdadinejad was 27 years old.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8844/sohrab-shahdadinejad"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

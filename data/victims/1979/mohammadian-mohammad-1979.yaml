@@ -1,0 +1,56 @@
+id: mohammadian-mohammad-1979
+name_latin: "Mohammad Mohammadian"
+name_farsi: "محمد  محمدیان"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1979-03-07
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    Mr. Mohammad Mohammadian is one of 438 victims listed in a March 13, 1980
+    Amnesty International report. The report lists defendants who were
+    convicted by Revolutionary Tribunals in the period from their inception
+    until 12 August 1979. The list of victims and charges is drawn from
+    sources including translations of indictments, reports of trials carried
+    out by local and foreign media and the bulletins of the official Pars News
+    Agency reports. Mr. Mohammadian's execution was also announced along with
+    5 others in a communique issued by the Islamic Revolutionary Tribunal of
+    Iran and published by the Ayandegan daily, on March 8, 1979. International
+    human rights organizations have drawn attention to reports indicating that
+    the Islamic Republic’s authorities have brought trumped up charges against
+    their political opponents and executed them for drug trafficking, sexual,
+    and other criminal offences. Each year, Iranian authorities sentence to
+    death hundreds of alleged common criminals, following judicial processes
+    that fail to meet international standards. The validity of the criminal
+    charges brought against these defendants cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. The exact number of
+    people convicted based on trumped-up charges is unknown. Arrest and
+    detention The circumstances of this defendant’s arrest and detention are
+    not known. Trial No information is available on the defendant’s trial.
+    Charges Mr. Mohammadian was charged with "acts incompatible with chastity,
+    regarding minors." He was accused of being part of a group of corrupted
+    people who "earned a living by forcing youngsters into corruption and
+    indecent acts." Evidence of guilt The report of this execution does not
+    contain information regarding the evidence provided against the defendant.
+    Defense No information is available on Mr. Mohammadian's defense. Judgment
+    Mr. Mohammadian was convicted and sentenced to death. No further
+    information is available.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-3603/mohammad-mohammadian"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

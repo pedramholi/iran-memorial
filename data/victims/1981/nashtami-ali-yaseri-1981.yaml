@@ -1,0 +1,59 @@
+id: nashtami-ali-yaseri-1981
+name_latin: "Ali Yaseri Nashtami"
+name_farsi: "علی یاسری نشتمی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-07-30
+age_at_death: null
+place_of_death: "Rasht"
+province: "Gilan"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of Mr. Ali Yaseri Nashtami, born in 1955 and son of
+    Azizollah (whose last name was mis-printed Fashtami), along with three
+    other individuals, was announced by the Revolutionary Guards of Gilan
+    province and published in the Kayhan newspaper on August 3, 1981. He is
+    also one of the 12,028 individuals listed in an addendum to the Mojahed
+    magazine (No 261), published by the Mojahedin Khalq Organization on
+    September 6, 1985. The list includes individuals, affiliated with various
+    opposition groups, who were executed or killed during clashes with the
+    Islamic Republic security forces from June 1981 to the publication date of
+    the magazine. According to the Mojahed magazine, Mr. Yaseri Nashtami was
+    married and was affiliated with the Fadaiyan Khalq Organization (Minority
+    branch). The Fadaiyan Khalq Organization, a Marxist Leninist group
+    inspired by the Cuban Revolution and the urban guerilla movements of Latin
+    America, was founded in 1971 by two communist groups opposed to the
+    Pahlavi regime. Following the 1979 revolution, the Organization, which had
+    renounced armed struggle, split over their support of the Islamic Republic
+    and of the Soviet Union. The Fadaiyan Khalq Minority opposed the Islamic
+    Republic and was active mainly in the political arena and the labor
+    movement. Arrest and detention The circumstances of this defendant’s
+    arrest and detention are not known. Trial No information is available on
+    the defendant’s trial, other than Mr. Yaseri Nashtami was tried at the
+    Islamic Revolutionary Tribunal of Rasht. Charges Mr. Yaseri Nashtami was
+    charged with “participation in armed rebellious clashes. The validity of
+    the criminal charges brought against this defendant cannot be ascertained
+    in the absence of the basic guarantees of a fair trial. Evidence of guilt
+    The report of this execution does not contain information regarding the
+    evidence provided against the defendant. Defense No information is
+    available on Mr. Yaseri Nashtami’s defense. Judgment The Islamic
+    Revolutionary Court of Rasht identified Mr. Ali Yaseri Nashtami a “rebel,
+    corruptor, and an enemy of God” and condemned him to death. He was shot by
+    a firing squad in Rasht on July 30, 1981 at dawn. He was 26 years old.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/43900/ali-yaseri-nashtami"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

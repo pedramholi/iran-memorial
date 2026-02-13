@@ -1,0 +1,46 @@
+id: jafari-nasrollah-1981
+name_latin: "Nasrollah Ja'fari"
+name_farsi: "نصرالله جعفری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-08-09
+age_at_death: 22
+place_of_death: "Esfahan"
+province: "Esfahan"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Mr. Nasrollah Ja’fari, son of Ramezan and from Nosratabad
+    (Zanjan province), along with three other individuals, was announced in
+    the Jomhuri Eslami newspaper on August 12, 1981. Arrest and detention The
+    circumstances of this defendant’s arrest and detention are not known.
+    Trial No information is available on the defendant’s trial other than he
+    was tried at the Islamic Revolutionary Tribunal of Esfahan. Charges Mr.
+    Ja’fari was charged with “repeated acts of sodomy.” The validity of the
+    criminal charges brought against this defendant cannot be ascertained in
+    the absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic’s authorities have brought trumped-up charges against
+    their political opponents and executed them for drug trafficking, sexual,
+    and other criminal offences. The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against the defendant. Defense No information is available on his defense.
+    Judgment The Islamic Revolutionary Tribunal of Eshafan condemned Mr.
+    Nasrollah Ja’fari to death. He was executed in Esfahan on August 9, 1981.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/39420/nasrollah-jafari"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

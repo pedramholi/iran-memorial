@@ -1,0 +1,52 @@
+id: karimi-bahman-1986
+name_latin: "Bahman Karimi"
+name_farsi: "بهمن کریمی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1986-04-06
+age_at_death: 23
+place_of_death: "Qom"
+province: "Markazi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Bahman Karimi, resident of Abadan and son of Mokhtar,
+    along with co-defendant Ms. Tahereh Naqib, was reported in the Kayhan
+    daily on April 6, 1986. Arrest and detention The circumstances of this
+    defendant’s arrest and detention are not known. Trial No information is
+    available on the defendant’s trial, other than he was tried at the Penal
+    Court of Qom. Charges According to the newspaper, Mr. Karimi was charged
+    with “fornication” and “first-degree murder.” The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic’s authorities have brought trumped-up charges against
+    their political opponents and executed them for drug trafficking, sexual,
+    and other criminal offences. Each year, Iranian authorities sentence to
+    death hundreds of alleged common criminals, following judicial processes
+    that fail to meet international standards. The exact number of people
+    convicted based on trumped-up charges is unknown. Evidence of guilt The
+    report of this execution does not contain information regarding the
+    evidence provided against the defendant. Defense No information is
+    available on Mr. Karimi’s defense. Judgment The Penal Court f Qom
+    sentenced Mr. Bahman Karimi to flogging (for “fornication”) and death (for
+    murder). The Supreme Judicial Council approved the verdict. Mr. Karimi was
+    flogged 100 lashes and was hanged on April 6, 1986 in Qom. He was 23 years
+    old. Ms. Naqib (co-defendant and wife of the murdered man) was stoned to
+    death the same morning.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/44025/bahman-karimi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

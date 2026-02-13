@@ -1,0 +1,28 @@
+id: dastguri-morad-1979
+name_latin: "Morad Dastguri"
+name_farsi: "مراد دست گوری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1979-08-29
+age_at_death: null
+place_of_death: "Bushehr"
+province: "Bushehr"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/28450/morad-dastguri"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,54 @@
+id: babai-ali-reza-shah-1981
+name_latin: "Ali Reza Shah Baba'i"
+name_farsi: "علیرضا شاه بابایی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-09-04
+age_at_death: 24
+place_of_death: "Qae'mshahr"
+province: "Mazandaran"
+cause_of_death: "Fatal"
+circumstances: >
+    The information about Mr. Ali Reza Shah Baba’i has been acquired from an
+    interview with an activist of the same political affiliation, who was also
+    detained in the same prison in Qa’em Shahr (in the northern province of
+    Mazandaran). Mr. Shah Baba’i is also one of the 12028 individuals listed
+    in an addendum to the Mojahed magazine (No 261), published by Mojahedin
+    Khalq Organization in 1985. The list includes individuals, affiliated with
+    various opposition groups, who were executed or killed during clashes with
+    the Islamic Republic security forces from June 1981 to the publication
+    date of the magazine. Mr. Shah Baba’i was born in Mazandaran, he was
+    married and had a son. He was affiliated with the Fadaiyan Khalq
+    Organization, Minority faction. The Fadaiyan Khalq Organization, a Marxist
+    Leninist group inspired by the Cuban Revolution and the urban guerilla
+    movements of Latin America, was founded in 1971 by two communist groups
+    opposed to the Pahlavi regime. Following the 1979 revolution, the
+    Organization, which had renounced armed struggle, split over their support
+    of the Islamic Republic and of the Soviet Union. The Fadaiyan Khalq
+    Minority opposed the Islamic Republic and was active mainly in the
+    political arena and the labor movement. Arrest and detention Mr. Shah
+    Baba’i was arrested in Qa’em Shahr on September 1, 1981. No further
+    information is available regarding his arrest and detention. Trial No
+    information is available on the defendant’s trial. Charges The charge
+    brought against the defendant is not known. Evidence of guilt The report
+    of this execution does not contain information regarding the evidence
+    provided against the defendant. Defense No information is available on Mr.
+    Shah Baba’i’s defense. Judgment Mr. Shah Baba’i was executed in Qa’em
+    Shahr September 4, 1981, three days after his arrest. He was 24.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/61262/ali-reza-shah-babai"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

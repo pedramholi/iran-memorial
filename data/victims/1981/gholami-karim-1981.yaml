@@ -1,0 +1,48 @@
+id: gholami-karim-1981
+name_latin: "Karim Gholami"
+name_farsi: "کریم غلامی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-06-25
+age_at_death: null
+place_of_death: "Kermanshah"
+province: "Kermanshah"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Mr. Karim Gholami, son of Ahmad, along with two other
+    individuals was announced in the Kayhan newspaper on June 27, 1981. Arrest
+    and detention The circumstances of this defendant’s arrest and detention
+    are not known. Trial No information is available on the defendant’s trial
+    other than he was tried at the Islamic Revolutionary Tribunal of
+    Kermanshah. Charges There is no exact information on the personal charges
+    brought against him. The news story mentions the collective charge against
+    and two other individuals as “adultery, sodomy, and counter-Revolutionary
+    activities.” The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. International human rights organizations have drawn
+    attention to reports indicating that the Islamic Republic’s authorities
+    have brought trumped-up charges against their political opponents and
+    executed them for drug trafficking, sexual, and other criminal offences.
+    The exact number of people convicted based on trumped-up charges is
+    unknown. Evidence of guilt The report of this execution does not contain
+    information regarding the evidence provided against the defendant. Defense
+    No information is available on Mr. Gholami defense. Judgment The Islamic
+    Revolutionary Tribunal of Kermanshah condemned Mr. Karim Gholami to death.
+    He was executed on June 25, 1981 at Dizel Abad prison.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/39382/karim-gholami"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

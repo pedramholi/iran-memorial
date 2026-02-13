@@ -1,0 +1,48 @@
+id: sorush-abdolhosein-1979
+name_latin: "Abdolhosein Sorush"
+name_farsi: "عبدالحسین سروش"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1979-06-04
+age_at_death: null
+place_of_death: "Rafsanjan"
+province: "Kerman"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The information regarding Major Abdolhossein Sorush’s execution along with
+    one other was drawn from Kayhan Daily on 4 June 1979. Major Sorush was the
+    Head of Rafsanjan Police Station, a city in Kerman Province in
+    southeastern Iran. Arrest and detention The circumstances of Major
+    Sorush’s arrest and detention are not known. Trial The Revolutionary
+    Tribunal of Rafsanjan tried Major Sorush along with 13 others. According
+    to Kayhan, this trial was held “in the presence of hundreds of audiences
+    and reporters of mass media, radio and television” and lasted for two
+    sessions. Charges Kayhan Daily reported Major Sorush’s charges as
+    “ordering to shoot and murder three warriors named Hossein Ansari,
+    Mirafzali, and Akbar Moqimi”. Evidence of guilt No information is
+    available concerning the evidence presented against Major Sorush. Defense
+    No information is available concerning Major Sorush’s defense and it is
+    not clear if he had the opportunity to defend himself effectively, for
+    example whether he had access to a lawyer or the possibility to summon
+    witnesses in his favor, etc. The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. Judgment The Revolutionary Tribunal of
+    Rafsanjan sentenced Major Sorush along with one other to death. The
+    verdict was carried out at 5:00 a.m. on 4 June 1979.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-3686/abdolhosein-sorush"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

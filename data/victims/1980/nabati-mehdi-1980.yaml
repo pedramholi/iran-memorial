@@ -1,0 +1,49 @@
+id: nabati-mehdi-1980
+name_latin: "Mehdi Nabati"
+name_farsi: "مهدی نباتی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-01-01
+age_at_death: null
+place_of_death: "Esfahan"
+province: "Esfahan"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Mr. Mehdi Nabati (son of Heidar, known as Mehdi
+    Kermanshahi, born in Kermanshah and a resident of Esfahan) and three other
+    individuals was reported in the Jomhuri Eslami newspaper (July 24, 1980).
+    Arrest and detention The circumstances of this defendant’s arrest and
+    detention are not known. Trial No information is available on the
+    defendant’s trial. Charges Based on the newspaper’s report, Mr. Nabati was
+    charged with “carrying, possessing, buying, and selling heroin and opium.”
+    The validity of the criminal charges brought against this defendant cannot
+    be ascertained in the absence of the basic guarantees of a fair trial.
+    International human rights organizations have drawn attention to reports
+    indicating that the Islamic Republic’s authorities have brought trumped-up
+    charges against their political opponents and executed them for drug
+    trafficking, sexual, and other criminal offences. Thousands of alleged
+    drug traffickers have been sentenced to death following judicial processes
+    that fail to meet international standards. The exact number of people
+    convicted based on trumped-up charges is unknown. Evidence of guilt The
+    report of this execution does not contain information regarding the
+    evidence provided against the defendant. Defense No information is
+    available on Mr. Nabati’s defense. Judgment The Special Court for
+    Combating Drugs and Narcotics sentenced Mr. Mehdi Nabati to death. He was
+    executed in Esfahan. The exact date of execution is not known.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/44063/mehdi-nabati"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

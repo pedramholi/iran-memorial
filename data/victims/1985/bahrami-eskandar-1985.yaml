@@ -1,0 +1,60 @@
+id: bahrami-eskandar-1985
+name_latin: "Eskandar Bahrami"
+name_farsi: "اسکندر بهرامی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1985-11-15
+age_at_death: null
+place_of_death: "Bakhtaran"
+province: "Bakhtaran"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Mr. Eskandar Bahrami, son of Feizollah, along with 4
+    others, was reported in the Kayhan daily on November 17, 1985. Arrest and
+    detention The circumstances of this defendant’s arrest and detention are
+    not known. Trial No information is available on the defendant’s trial.
+    Charges According to the newspaper’s report, Mr. Bahrami and four other
+    individuals were collectively charged with “extortion and inhuman
+    activities through terrorizing people with weapons.” The validity of the
+    criminal charges brought against this defendant cannot be ascertained in
+    the absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic’s authorities have brought trumped-up charges against
+    their political opponents and executed them for drug trafficking, sexual,
+    and other criminal offences. Each year, Iranian authorities sentence to
+    death hundreds of alleged common criminals, following judicial processes
+    that fail to meet international standards. The exact number of people
+    convicted based on trumped-up charges is unknown. Evidence of guilt The
+    report of this execution refers to the confession of the accused as
+    evidence provided against the defendants. International human rights
+    organizations have repeatedly condemned the government of the Islamic
+    Republic of Iran for its systematic use of severe torture and solitary
+    confinement to obtain confessions from detainees and have questioned the
+    authenticity of confessions obtained under duress. In the case of
+    political detainees, these confessions are, at times, televised. The
+    National Television broadcasts confessions during which prisoners plead
+    guilty to vague and false charges, repent and renounce their political
+    beliefs, and/or implicate others. Human rights organizations have also
+    pointed to the pattern of retracted confessions by those prisoners who are
+    freed. Defense No information is available on Mr. Bahrami’s defense.
+    Judgment The Islamic Revolutionary Tribunal of Bakhtaran (Kermanshah)
+    sentenced Mr. Eskandar Bahrami to death. The Supreme Judicial Council
+    approved the sentence. He and four other individuals were executed at
+    Dizel Abad prison in Bakhtaran on November 15, 1985.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/44077/eskandar-bahrami"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

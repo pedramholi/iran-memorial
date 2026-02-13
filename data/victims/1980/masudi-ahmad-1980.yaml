@@ -1,0 +1,51 @@
+id: masudi-ahmad-1980
+name_latin: "Ahmad Mas'udi"
+name_farsi: "احمد مسعودی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-01-12
+age_at_death: null
+place_of_death: "Ahvaz"
+province: "Khuzestan"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Mr. Ahmad Mas udi and two others was reported by the
+    correspondent of Pars News Agency in Ahvaz. The report, which quoted the
+    spokesperson of the Islamic Revolutionary Tribunal of Khuzestan, was
+    published in the Ettela at daily (January 12, 1980). The validity of the
+    criminal charges brought against this defendant cannot be ascertained in
+    the absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic s authorities have brought trumped up charges against
+    their political opponents and executed them for drug trafficking, sexual,
+    and other criminal offences. Each year, Iranian authorities sentence to
+    death hundreds of alleged common criminals, following judicial processes
+    that fail to meet international standards. The exact number of people
+    convicted based on trumped-up charges is unknown. Arrest and detention The
+    circumstances of this defendant s arrest and detention are not known.
+    Trial No information is available on the defendant s trial. Charges The
+    report reads as follows: The defendant and two other individuals led a
+    group spread corruption among young people and, in addition to having
+    illegitimate and homosexual relationships, bought, sold, and exchanged
+    young boys for their filthy purposes. Evidence of guilt The report did not
+    contain any information regarding the evidence provided against the
+    defendant. Defense No information is available on Mr. Mas udi s defense.
+    Judgment The Islamic Revolutionary Tribunal of Khuzestan declared Mr. Mas
+    udi a corruptor on earth and he was subsequently executed.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/12575/ahmad-masudi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

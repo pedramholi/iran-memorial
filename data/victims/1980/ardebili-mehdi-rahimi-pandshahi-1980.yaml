@@ -1,0 +1,52 @@
+id: ardebili-mehdi-rahimi-pandshahi-1980
+name_latin: "Mehdi Rahimi (Pandshahi Ardebili)"
+name_farsi: "مهدی رحیمی (پندشاهی اردبیلی)"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-07-28
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of Mr. Mehdi Rahimi (Pandshahi Ardebili) was reported by the
+    head of the Task Force for Combating Drugs and Narcotics in a conversation
+    with the correspondent of Pars News Agency. The Jomhuri Eslami daily
+    published the report (July 29, 1980). Arrest and detention According to
+    the report, Mr. Rahimi was arrested by the Tehran police and detained in
+    the Evin prison. Trial Mr.Rahimi's case was examined at the Special
+    Islamic Revolutionary Tribunal for Combating Drugs and Narcotics. The
+    tribunal held session at night. Charges The head of the Task Force
+    specified that Mr. Rahimi was accused of being a professional,
+    international drug dealer. The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that the Islamic Republic s
+    authorities have brought trumped up charges against their political
+    opponents and executed them for drug trafficking, sexual, and other
+    criminal offences. Thousands of alleged drug traffickers have been
+    sentenced to death following judicial processes that fail to meet
+    international standards. The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of guilt The report does not
+    contain any information regarding the evidence presented against the
+    defendant. Defense No information is available on the defendant s defense.
+    Judgment Mr. Rahimi was sentenced to death. The sentence was carried out
+    immediately after the issuance of the verdict, a couple of hours past
+    midnight.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/12977/mehdi-rahimi-pandshahi-ardebili"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,28 @@
+id: qorbanlu-abbas-1981
+name_latin: "Abbas Qorbanlu"
+name_farsi: "عباس قربانلو"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-06-18
+age_at_death: 32
+place_of_death: "Zanjan"
+province: "Zanjan"
+cause_of_death: "Extrajudicial Execution"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/84061/abbas-qorbanlu"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,58 @@
+id: tehrani-reza-1979
+name_latin: "Reza Tehrani"
+name_farsi: "رضا تهرانی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1979-03-06
+age_at_death: null
+place_of_death: "Shiraz"
+province: "Fars"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    Mr. Reza Tehrani, son of Abdollah, is one of 438 victims listed in a March
+    13, 1980 Amnesty International report. The report lists defendants who
+    were convicted by Revolutionary Tribunals in the period from their
+    inception until 12 August 1979. The list of victims and charges is drawn
+    from sources including translations of indictments, reports of trials
+    carried out by local and foreign media and the bulletins of the official
+    Pars News Agency reports. The execution of Mr. Tehrani, along with two
+    other individuals, was also announced by the Kayhan newspaper on March 6,
+    1979, and the Ayandegan newspaper on March 7. Arrest and detention The
+    details of this defendant’s arrest and detention are not known. According
+    to the Kayhan report, he and his two co-defendants were arrested a few
+    days prior to their trial and execution. Trial No information is available
+    on the defendant’s trial other than he was tried at the Islamic
+    Revolutionary Tribunal of Shiraz. Charges According to the Ayandegan
+    newspaper, Mr. Tehrani and the other two individuals were charged with
+    “sodomy with a 16 year old boy named Ebrahim.” “In accordance with the
+    ruling of the religious court, Ebrahim was condemned to 100 lashes” and
+    the verdict was carried out. The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that the Islamic Republic’s
+    authorities have brought trumped-up charges against their political
+    opponents and executed them for drug trafficking, sexual, and other
+    criminal offences. The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against the defendant. Defense No information is available on his defense.
+    Judgment The Islamic Revolutionary Tribunal of Shiraz condemned Mr. Reza
+    Tehrani to death. He was executed by a firing squad, along with his two
+    co-defendants, at the Darolrahma cemetery in Shiraz.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-3586/reza-tehrani"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

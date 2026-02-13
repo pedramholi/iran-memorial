@@ -1,0 +1,50 @@
+id: sediq-mohammad-jafar-1983
+name_latin: "Mohammad Ja'far Sediq"
+name_farsi: "محمد جعفر صدیق"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1983-02-14
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Mohammad Jafar Sediq, along with eleven others, was
+    announced in a communiqu by the Tribunal of the Anti-Narcotics Section of
+    the Public Prosecutor s Office. The communiqu was reported in the Jomhuri
+    Eslami daily on February 15, 1983. Arrest and detention The circumstances
+    of this defendant s arrest and detention are not known. Trial No
+    information is available on the defendant s trial. Charges Mr. Sediq was
+    reported to be charged with transportation, storage and sale of 168.80 gm
+    of heroin. The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. International human rights organizations have drawn
+    attention to reports indicating that the Islamic Republic s authorities
+    have brought trumped up charges against their political opponents and
+    executed them for drug trafficking, sexual, and other criminal offences.
+    Thousands of alleged drug traffickers have been sentenced to death
+    following judicial processes that fail to meet international standards.
+    The exact number of people convicted based on trumped-up charges is
+    unknown. Evidence of guilt According to this report, Mr. Sediq had pleaded
+    guilty to make a living through armed robbery and sale of drugs. Defense
+    No information is available on Mr. Sediq's defense. Judgment The Tribunal
+    of the Anti-Narcotics Section of the Public Prosecutor s Office declared
+    Mr. Sediq a corruptor on earth and sentenced him to death. Having been
+    confirmed by the Supreme Court, the sentence was carried out.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/30032/mohammad-jafar-sediq"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,40 @@
+id: khanjari-abolghassem-1984
+name_latin: "Abolghassem Khanjari"
+name_farsi: "ابوالقاسم خانجری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1984-04-29
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Fatal"
+circumstances: >
+    Mr. Abolghassem Khanjari is among the 282 individuals listed in a United
+    Nations Report on The Situation of Human Right in the Islamic Republic of
+    Iran (Note by the Secretary General), published on 13 November 1985. The
+    report lists these individuals as "Persons who were allegedly summarily
+    and arbitrarily executed in the Islamic Republic of Iran: 1984-1985."
+    Arrest and detention The circumstances of Mr. Khanjari's arrest and
+    detention are not known. Trial There is no information regarding this
+    trial. Charges The charges brought against the defendant are not known.
+    Evidence of guilt No information is available concerning the evidence
+    presented against the accused. Defense No information is available
+    concerning Mr. Khanjari's defense. Judgment No specific information is
+    available about the verdict leading to this execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/2838/abolghassem-khanjari"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,43 @@
+id: ghazlavi-rahim-1979
+name_latin: "Rahim Ghazlavi"
+name_farsi: "رحیم غزلاوی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1979-10-04
+age_at_death: null
+place_of_death: "Khuzestan Province"
+province: "Khuzestan"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of Mr. Rahim Ghazlavi and 7 others was announced by the
+    Public Prosecutor of Abadan and Khoramshahr in a telephone conversation
+    with the correspondent of Pars News Agency in Ahvaz. The Kayhan and
+    Enqelab Eslami dailies published the news (October 4 & 6, 1979). Arrest
+    and detention The circumstances of this defendant’s arrest and detention
+    are not known. Trial No information is available on the defendant’s trial.
+    Charges Mr. Ghazlavi was charged with "having contacts with elements
+    outside the country, receiving guerilla training, taking preliminary steps
+    in view of an armed rebellion, and planning the bombing of the
+    Khorramshahr railroad and of the oil wells.” Evidence of guilt The report
+    of this execution does not contain any information regarding the evidence
+    presented against the defendant. Defense No information is available on
+    the defendant’s defense. Judgment The Islamic Revolutionary Tribunal of
+    Abadan and Khoramshahr sentenced Mr. Ghazlavi to death. The sentence was
+    carried out at 4 a.m.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/11785/rahim-ghazlavi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

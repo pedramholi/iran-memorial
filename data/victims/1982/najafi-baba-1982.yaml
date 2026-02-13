@@ -1,0 +1,40 @@
+id: najafi-baba-1982
+name_latin: "Baba Najafi"
+name_farsi: "بابا نجفی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1982-11-14
+age_at_death: null
+place_of_death: "Eslam Abad"
+province: "Kerman"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Baba Najafi, along with five others, was reported in
+    the Jomhuri Eslami daily on November 17, 1982. Arrest and detention The
+    circumstances of this defendant’s arrest and detention are not known.
+    Trial No information is available on the defendant’s trial. Charges Mr.
+    Najafi was reported to be charged with “armed uprising against the Islamic
+    Republic of Iran, collaborating with Saddam of Tikrit, being a member of
+    armed groups and armed robbery.” Evidence of guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against the defendant. Defense No information is available on Mr. Najafi's
+    defense. Judgment The Islamic Revolutionary Tribunal of Islam Abad-e Gharb
+    sentenced Mr. Najafi to death. Having been confirmed by the Islamic
+    Revolutionary Tribunals, the sentence was carried out.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/28929/baba-najafi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

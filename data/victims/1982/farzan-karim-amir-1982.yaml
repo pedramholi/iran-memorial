@@ -1,0 +1,62 @@
+id: farzan-karim-amir-1982
+name_latin: "Karim Amir Farzan"
+name_farsi: "کریم امیرفرزان"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1982-12-11
+age_at_death: null
+place_of_death: "Iran"
+province: null
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Mr. Karim Amir Farzan, along with five others, was
+    reported in the Jomhuri Eslami daily on December 11, 1982. The information
+    about his charges was published in the same newspaper on June 30, 1982.
+    Mr. Amir Farzan was a member of the Nima Group, which was formed by
+    officers of the Iranian army after the 1979 revolution. . The indictment
+    stressed that the Nima Group, whose members had nationalistic views and
+    had cooperated with members of the pro-Mossadeq National Front, had a
+    military and a political wing and had planned to overthrow the Islamic
+    regime. No other background information is available on the group.
+    Nureddin Kianuri, Secretary General of the Tudeh Parti (the Iranian
+    pro-Soviet communist party), mentions Nima in an article dated May 2,
+    2000, (refer to the Rahe Tudeh website). Kianuri stresses the fact that
+    the military branch of the Tudeh , which cooperated with the Islamic
+    Republic's authorities, discovered and "neutralized" the above mentioned
+    group, as well as other groups that planned a coup against the newly
+    established regime. Arrest and detention The circumstances of this
+    defendant’s arrest and detention are not known. Trial The defendant, along
+    with 4 other members of the Nima Group, was tried in the military court on
+    June 30, 1982. There is no mention of a presence of a defense attorney for
+    the defendants. Charges According to the newspaper report, the military
+    prosecutor read Mr. Amir Farzan’s charges from an indictment, during his
+    trial. The charges are as follows: “being a member of the Nima group,
+    based on his own confessions, holding a military meeting and discussing a
+    radical military action, participation in armed kidnapping, participation
+    in providing and distributing the pamphlets of a terrorist group called
+    Pars, and participation in the identification of a TV antenna in Qazvin’s
+    plains in order to carry out the menacing objectives of the group.” Also,
+    it is mentioned in the indictment that he had nationalistic opinions.
+    Evidence of guilt The report of this execution does not contain
+    information regarding the evidence provided against the defendant. Defense
+    No information is available on Mr. Amir Farzan’s defense. Judgment The
+    Revolutionary Tribunal of the Islamic Republic of Iran Army sentenced Mr.
+    Amir Farzan to death. Having been confirmed by the Supreme Court, the
+    sentence was carried out.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/35636/karim-amir-farzan"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

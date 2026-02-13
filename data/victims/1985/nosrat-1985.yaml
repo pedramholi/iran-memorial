@@ -1,0 +1,51 @@
+id: nosrat-1985
+name_latin: "Nosrat"
+name_farsi: "نصرت"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1985-01-01
+age_at_death: null
+place_of_death: "Rasht"
+province: "Gilan"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of Ms. Nosrat, along with another defendant, was reported in
+    the Kayhan daily on October 12, 1985. There is no mention of the
+    defendant’s last name in this report. Mr. Hossein Nazari, accused of
+    having relations with the two women, was also executed. Arrest and
+    detention The circumstances of this defendant’s arrest and detention are
+    not known. Trial No information is available on the defendant’s trial.
+    Charges According to this report, Ms. Nosrat was charged with “repeated
+    counts of adultery with Hossein Nazari, who was executed.” The validity of
+    the criminal charges brought against this defendant cannot be ascertained
+    in the absence of the basic guarantees of a fair trial. International
+    human rights organizations have drawn attention to reports indicating that
+    the Islamic Republic’s authorities have brought trumped-up charges against
+    their political opponents and executed them for drug trafficking, sexual,
+    and other criminal offences. Each year, Iranian authorities sentence to
+    death hundreds of alleged common criminals, following judicial processes
+    that fail to meet international standards. The exact number of people
+    convicted based on trumped-up charges is unknown. Evidence of guilt The
+    report of this execution does not contain information regarding the
+    evidence provided against the defendant. Defense No information is
+    available on Ms. Nosrat’s defense. Judgment The Islamic Revolutionary
+    Tribunal of the Army in Gilan sentenced Ms. Nosrat to death. An elected
+    assembly of the Supreme Judicial Council approved the sentence; she was
+    shot by a firing squad in Rasht.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/44046/nosrat"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

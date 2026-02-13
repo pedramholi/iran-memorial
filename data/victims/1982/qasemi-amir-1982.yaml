@@ -1,0 +1,54 @@
+id: qasemi-amir-1982
+name_latin: "Amir Qasemi"
+name_farsi: "امیر قاسمی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1982-03-02
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Amir Qasemi, along with twenty others, was announced
+    by the public relations of the Anti-Narcotic section of the Islamic
+    Republic Public Prosecution Office and reported in the Jomhuri Eslami
+    daily on March 3, 1982. Arrest and detention The circumstances of this
+    defendant s arrest and detention are not known. Trial No information is
+    available on the defendant s trial. Charges According to this report, Mr.
+    Qasemi was a repeat drug trafficker charged with being continuously
+    involved in drug dealing for which he had been convicted 8 times. The
+    validity of the criminal charges brought against defendants cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    International human rights organizations have drawn attention to reports
+    indicating that the Islamic Republic s authorities have brought trumped-up
+    charges against their political opponents and executed them for drug
+    trafficking, sexual, and other criminal offences. Thousands of alleged
+    drug traffickers have been sentenced to death following judicial processes
+    that fail to meet international standards. The exact number of people
+    convicted based on trumped-up charges is unknown. Evidence of guilt The
+    report of this execution does not contain information regarding the
+    evidence provided against the defendant. Defense No information is
+    available on Mr. Qasemi s defense. Judgment The Anti-Narcotics Section of
+    the Public Prosecutor s Office sentenced Mr. Qasemi to death. Having been
+    confirmed by the Supreme Judicial Council, the sentence was carried out.
+    According to this communiqu , he was sentenced to life imprisonment during
+    the previous regime and was a fugitive after the victory of the
+    revolution, but became active once again. He was also pardoned several
+    times.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/31210/amir-qasemi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,45 @@
+id: yavarzadeh-soheila-1981
+name_latin: "Soheila Yavarzadeh"
+name_farsi: "سهیلا یاورزاده"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-12-06
+age_at_death: null
+place_of_death: "Tehran Province"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    Ms. Soheila Yavarzadeh is one of the 12028 individuals listed in an
+    addendum to the Mojahed magazine (No 261), published by Mojahedin Khalq
+    Organization in 1985. The list includes individuals, affiliated with
+    various opposition groups, who were executed or killed during clashes with
+    the Islamic Republic security forces from June 1981 to the publication
+    date of the magazine. Additional information has been sent to Omid via an
+    electronic form. Ms. Yavarzadeh was a mechanical engineering student in
+    Ariamehr University of Technology (today Sharif University) and was
+    affiliated with the Mojahedin Khalq Organization. Arrest and detention The
+    circumstances of Ms. Yavarzadeh’s arrest and detention are not known.
+    Trial There is no information regarding this trial. Charges The charges
+    brought against the defendant are not known. Evidence of guilt No
+    information is available concerning the evidence presented against the
+    accused. Defense No information is available concerning Ms. Yavarzadeh’s
+    defense. Judgment No specific information is available about the verdict
+    leading to this execution. Ms. Soheila Yavarzadeh was shot by a firing
+    squad in Tehran on December 6, 1981.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4989/soheila-yavarzadeh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

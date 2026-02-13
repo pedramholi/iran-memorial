@@ -1,0 +1,63 @@
+id: hosseinkhani-hassan-shahram-1981
+name_latin: "Hassan (Shahram) Hosseinkhani"
+name_farsi: "حسن (شهرام) حسینخانی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-01-01
+age_at_death: 20
+place_of_death: "Kermanshah"
+province: "Kermanshah"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    News of the execution of Mr. Hassan (Shahram) Hosseinkhani is based on an
+    electronic form sent to Omid by a person familiar with his case. Mr.
+    Hosseinkhani is one of the 12,028 individuals listed in an addendum to
+    Mojahed magazine (No. 261), published by the Mojahedin Khalq Organization
+    in 1985. The list includes individuals, affiliated with various opposition
+    groups, who were executed or killed during clashes with the Islamic
+    Republic security forces from June 1981 to the publication date of the
+    magazine. According to the existing information, Mr. Hosseinkhani, 20, was
+    born and resided in Kermanshah. He was single, a high school graduate, and
+    a sympathizer of the Fadaiyan Khalq Guerilla Organization. The Fadaiyan
+    Khalq Guerilla Organization, a Marxist-Leninist group inspired by the
+    Cuban Revolution and the urban guerilla movements of Latin America, was
+    founded in 1971 by two communist groups opposed to the Pahlavi regime.
+    Following the 1979 revolution, this organization, which had renounced
+    armed struggle, split over their support of the Islamic Republic and of
+    the Soviet Union. A number of the organization s members, who did not
+    renounce armed struggle, founded the group The Fadaiyan Khalq Guerillas
+    (Ashraf Dehqan Branch). Arrest and detention The circumstances of Mr.
+    Hosseinkhani s arrest and detention are not known. According to the
+    information sent to Omid, he was arrested along with his brother in
+    Kermanshah in 1981. He was detained at the Revolutionary Guards location
+    in Kermanshah. His brother was released after two years. He was denied
+    access to an attorney. Trial No information is available on Mr.
+    Hosseinkhani s trial. Charges According to the electronic form, the charge
+    against Mr. Hosseinkhani was declared as, having a weapon. The validity of
+    the criminal charges brought against this defendant cannot be ascertained
+    in the absence of the basic guarantees of a fair trial. Evidence of guilt
+    The report of this execution does not contain information regarding the
+    evidence provided against Mr. Hosseinkhani. Defense No information is
+    available about Mr. Hosseinkhani s defense. Judgment According to the
+    information sent to Omid, Mr. Hassan (Shahram) Hosseinkhani was executed
+    by firing squad in Kermanshah in 1981. According to the Mojahed magazine,
+    he was hanged. He is buried at the Kermanshah Cemetery in the section
+    where most people who are executed are there. He wrote a will addressing
+    his mother.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7499/hassan-shahram-hosseinkhani"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

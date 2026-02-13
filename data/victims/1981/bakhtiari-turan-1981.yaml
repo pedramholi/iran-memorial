@@ -1,0 +1,43 @@
+id: bakhtiari-turan-1981
+name_latin: "Turan Bakhtiari"
+name_farsi: "توران بختیاری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam (Shi'a)"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-10-16
+age_at_death: 18
+place_of_death: "Tehran Province"
+province: "Tehran"
+cause_of_death: null
+circumstances: >
+    Ms. Turan Bakhtiari is one of the 1533 executed prisoners listed by the
+    Association of Iranian Women of Köln (Germany). The list published in 1997
+    is entitled: "A partial list of names of women executed by the Islamic
+    Republic of Iran." This execution was also reported in an addendum to the
+    Mojahed magazine (No 261), published by Mojahedin Khalq Organization in
+    1985. The list includes 12028 individuals, affiliated with various
+    opposition groups, who were executed or killed during clashes with the
+    Islamic Republic security forces from June 1981 to the publication date of
+    the magazine. Arrest and detention The circumstances of this defendant’s
+    arrest and detention are not known. Trial No information is available on
+    the defendant’s trial. Charges The charges against the defendant are
+    unknown. Evidence of guilt The report of this execution does not contain
+    information regarding the evidence provided against the defendant. Defense
+    No information is available on Ms. Bakhtiari's defense. Judgment No
+    specific information regarding the death sentence is available.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-3891/turan-bakhtiari"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

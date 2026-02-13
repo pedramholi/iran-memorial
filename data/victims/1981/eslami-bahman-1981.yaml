@@ -1,0 +1,75 @@
+id: eslami-bahman-1981
+name_latin: "Bahman Eslami"
+name_farsi: "بهمن  اسلامی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-10-05
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The news of the execution of Mr. Bahman Eslami, along with that of 60
+    others, was released by the Public Relations of the General Prosecutor's
+    Office in a communiqué published in the Jomhuri Eslami daily on October 6,
+    1981. The communiqué, which specifies that those executed were “members
+    and sympathizers of the anti-people groups who had risen against Islam and
+    the Qur'an”, begins as follows: “By purging the corruptors, clean the
+    earth from corruption (Qur'an Karim). Those who have not embraced faith
+    and are combating in an idolatrous path are forming rank against pious
+    people, and, by martyring the best and purest men, are attesting to the
+    fact that they are mercenaries of the great powers. It is the duty of you
+    pious men to stand up against them and uproot infidelity and hypocrisy.”
+    Mr. Eslami is also among the 12028 individuals listed in an addendum to
+    the Mojahed magazine (No 261), published by Mojahedin Khalq Organization
+    in 1985. The list includes individuals, affiliated with various opposition
+    groups, who were executed or killed during clashes with the Islamic
+    Republic security forces from June 1981 to the publication date of the
+    magazine. Arrest and detention The circumstances of this defendant’s
+    arrest and detention are not known. Trial No information is available on
+    the defendant’s trial. Charges There is no mention of the charges brought
+    specifically against this defendant. The General Prosecutor's Office does,
+    however, provide specific charges against one of the 61 individuals named
+    in the communiqué and charges against the group of individuals executed:
+    "It must be noted that Mohammad Kazem Golzadeh Ghafuri was directly
+    involved in the attack against the Majlis [parliament] during which he had
+    opened fire on the revolutionary guards in charge of the Majlis shuraye
+    Eslami. He was an active member of the military teams of the Monafeqin
+    [Hypocrites, term used by the Islamic Republic authorities when referring
+    to the People’s Mojaheddin Organization] and had also a role in the
+    unsuccessful assassination attempt on Mr. Hojatolesalm Khaz'ali and
+    Hojatoleslam Musavi Tabrizi, the General Prosecutor of the Revolution."
+    The communiqué notes that all the other defendants were members and
+    sympathizers of groups that it does not identify but refers to as
+    “anti-people groups.” The charges against these groups, as specified in
+    the communiqué, are as follows: " [rising] against Islam and the Qur'an by
+    participating in armed demonstrations and clashes with the Revolutionary
+    Guards, imposing martyrdom on people who are faithful to the revolution,
+    being present in safe houses, identifying and assassinating known clerics
+    and state dignitaries, carrying arms and grenades to oppose defenseless
+    people, taking action in order to blow up various centers, and being
+    involved in armed carjacking and bank robberies." Evidence of guilt The
+    statement issued by the Prosecutor’s Office does not contain information
+    regarding the evidence provided against the defendant. Defense No
+    information is available on the accused’s defense. Judgment Based on the
+    Public Prosecutor’s Office communiqué, the defendant was sentenced to
+    death for being “rebellious against Islam”, “an enemy of God”, and “a
+    corruptor on earth.” The sentence was carried out at dawn in the courtyard
+    of the Prison.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-5320/bahman-eslami"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

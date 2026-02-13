@@ -1,0 +1,56 @@
+id: khani-amir-1980
+name_latin: "Amir Khani"
+name_farsi: "امیر خانی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-02-06
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of Mr. Amir Khani was reported along with three others in
+    the Ettela at daily (February 7, 1980). Based on this report, a fifth
+    individual, Brigadier General Jamsheed Fathi Moqadam, former Commander of
+    Artillery of the Infantry Division of the Guard, asked to perform a
+    ceremonial washing right before the sentence was carried out. When,
+    concerned about his long absence, the Revolutionary Guards went to the
+    prison bathroom, they found that he had committed suicide by cutting his
+    wrist with a sharp object. He was reported to have bled to death. Arrest
+    and detention The circumstances of this defendant s arrest and detention
+    are not known. Trial According to the report, Mr. Khani was tried at the
+    Islamic Revolutionary Tribunal of the Center (Tehran) along with four
+    other defendants, two of them convicted of adultery and rape. No specific
+    information about the circumstances of the trial is provided in the
+    report. Charges The Revolutionary Tribunal explained the defendant s
+    charges to the correspondent of the Ettela at daily as follows: He was
+    appointed by the police to serve SAVAK [former regime political police].
+    in 1355 [1976] and since then, he has diligently suppressed the
+    revolutionaries. Evidence of guilt In his report to the correspondent of
+    the Ettela at daily, the Revolutionary Tribunal referred to a letter from
+    the Joint Anti-Terrorist Committee to the police, dated 1355/4/15
+    [06/05/1976], requesting medals for 13 individuals who participated in the
+    massacre of 41 Mojahedin and combatants during partisan operations,
+    exhibited bravery in these clashes, and had highly satisfying performances
+    in general. Allegedly, the defendant s name was mentioned as the twelfth
+    person on the list to be rewarded a medal for his services to the SAVAK.
+    Defense No information is available on the accused s defense. Judgment The
+    Islamic Revolutionary Tribunal of the Center (Tehran) sentenced Mr. Khani
+    to death. He was executed in the Evin prison at dawn.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/12595/amir-khani"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

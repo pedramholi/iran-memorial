@@ -1,0 +1,50 @@
+id: shahkarami-rajab-1982
+name_latin: "Rajab Shahkarami"
+name_farsi: "رجب شاه کرمی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1982-05-22
+age_at_death: null
+place_of_death: "Sari"
+province: "Mazandaran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of Mr. Rajab Shahkarami, along with two other convicts, was
+    published in the Jomhuri Eslami daily on June 1, 1982, based on the report
+    of the public relations of the Islamic Revolutionary Public Prosecutor’s
+    Office of Sari. Arrest and detention The circumstances of this defendant’s
+    arrest and detention are not known. Trial No information is available on
+    the defendant’s trial. Charges Mr. Shahkarami was charged with “actively
+    supporting the Hypocrites organization (term referred to the Mujahedin-e
+    Khalq Organization or MKO by the Islamic Republic authorities) . He had
+    been previously sentenced to two years imprisonment but had escaped from
+    prison before the end of his sentence and after a while he had
+    remorsefully returned. Nevertheless, he had held talks and set plans with
+    some members of the Hypocrites organization in prison to help them escape
+    in case he went out when taking leave of absence. ” Also, he was charged
+    with “participating in safe houses and having connections with the
+    high-ranking members in the organization and conspiracy against the
+    Islamic Republic of Iran. ” Evidence of guilt The report of this execution
+    does not contain information regarding the evidence provided against the
+    defendant. Defense No information is available on Mr.Shahkarami's defense.
+    Judgment The Islamic Revolutionary Tribunal of Sari found Mr. Shahkarami
+    guilty of being a corruptor on earth, enemy of God and the Prophet and
+    sentenced him to death. Having been confirmed by the Supreme Judicial
+    Court, this sentence was carried out.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/23483/rajab-shahkarami"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

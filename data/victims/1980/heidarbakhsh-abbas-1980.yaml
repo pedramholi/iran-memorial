@@ -1,0 +1,49 @@
+id: heidarbakhsh-abbas-1980
+name_latin: "Abbas Heidarbakhsh"
+name_farsi: "عباس حیدر بخش"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-06-27
+age_at_death: null
+place_of_death: "Tabriz"
+province: "Azarbaijan-e Sharqi"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of Mr.Abbas Heidarbakhsh was reported in the Jomhuri Eslami
+    daily (June 29, 1980)The validity of the criminal charges brought against
+    this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. Arrest and detention The circumstances of this
+    defendant s arrest and detention are not known. Trial The report mentioned
+    that the verdict was issued by the Islamic Revolutionary Tribunal of
+    Tabriz, after examining Mr. Heidarbakhsh s file. Charges Mr. Heidarbakhsh
+    was charged with the following: frequent attempts at murder and sodomy ,
+    participation in drug dealing , and creating corruption in the society.
+    International human rights organizations have drawn attention to reports
+    indicating that the Islamic Republic s authorities have brought trumped up
+    charges against their political opponents and executed them for drug
+    trafficking, sexual, and other criminal offences. Each year, Iranian
+    authorities sentence to death hundreds of alleged common criminals,
+    following judicial processes that fail to meet international standards.
+    The exact number of people convicted based on trumped-up charges is
+    unknown. Evidence of guilt The report of this execution does not contain
+    any information regarding the evidence presented against the defendant.
+    Defense No information is available on the accused s defense. Judgment
+    Based on the report, Mr. Heidarbakhsh was found guilty of corruption on
+    earth. He was executed at dawn.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/12751/abbas-heidarbakhsh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,65 @@
+id: rashedi-naji-asadi-1979
+name_latin: "Naji Asadi Rashedi"
+name_farsi: "ناجی اسدی راشدی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam (Shi'a)"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1979-09-28
+age_at_death: 29
+place_of_death: "Khorramshahr"
+province: "Khuzestan"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The information about Mr. Naji Asadi Rashedi, son of Ebrahim, was sent to
+    the Boroumand Foundation through two electronic forms by individuals
+    familiar with this case. According to this information, he was born in
+    Arvand Kenar in 1950. He was married and had two daughters. He was a sixth
+    grade graduate and a barge captain. According to one of the electronic
+    forms, he was affiliated with the Khalq-e Arab political organization.
+    However, according to the other electronic form, he had no political
+    affiliation. The news about Mr. Asadi Rashedi’s execution was published in
+    the Enqelab Eslami newspaper on September 29, 1979. This newspaper
+    published two separate reports about his execution. Arrest and detention
+    According to information sent via the electronic forms, Mr. Asadi Rashedi
+    was arrested in his home in Khorram Shahr at midnight of September 18,
+    1979. He was arrested without a warrant in order to answer some questions.
+    Mr. Asadi Rashedi was detained at a school and denied the right to have an
+    attorney. Trial According to the Enqelab Eslami newspaper, Mr. Asadi
+    Rashedi was tried at the Islamic Revolutionary Court of Abadan and Khorram
+    Shahr on September 27, 1979 and this court “confirmed his crimes.” Charges
+    According to one of the reports published in Enqelab Eslami newspaper, Mr.
+    Asadi Rashedi was charged with “distributing weapons among the
+    anti-revolutionaries, plotting to attack a division of the Khorram Shahr
+    police department with an RPG-7, having direct communications with foreign
+    states, inciting the youth against the Islamic Republic’s regime,” and
+    also “a corrupter on earth and waging a war against God.” According to
+    another report by the same newspaper on the same date, he was charged with
+    “having contacts with the Iraqi Ba’ath Party, importing illegal weapons,
+    attacking a police station with RPG-7, and plotting against the Islamic
+    Republic’s regime.” Based on one of the electronic forms, he was charged
+    with “membership in the Khalq-e Arab .” The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. Evidence of guilt Based
+    on the information provided in the electronic forms, no evidence was
+    provided against Mr. Asadi Rashedi during his trial. Defense No
+    information is available on this defendant’s defense. Judgment The Islamic
+    Revolutionary Court of Abadan and Khorram Shahr condemned Mr. Asadi
+    Rashedi to death. One day after this judgment, on September 28, 1979 at 2
+    a.m., Mr. Asadi Rashedi was executed by a firing squad inside one of
+    Revolutionary Guards’ locations in Khorram Shahr.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-5346/naji-asadi-rashedi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

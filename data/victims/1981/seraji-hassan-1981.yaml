@@ -1,0 +1,47 @@
+id: seraji-hassan-1981
+name_latin: "Hassan Seraji"
+name_farsi: "حسن سراجی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-09-06
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of Mr. Hassan Seraji, son of Hossein, along with 22 other
+    individuals, was announced in a communiqué of the Public Relations of the
+    National Prosecution office of the Islamic Republic and published in the
+    Kayhan newspaper on September 7, 1981. Arrest and detention The
+    circumstances of this defendant’s arrest and detention are not known.
+    Trial No information is available on the defendant’s trial other than he
+    was tried at the Central Islamic Revolutionary Tribunal. Charges Mr.
+    Seraji was charged with “sodomy and incest”. The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic’s authorities have brought trumped-up charges against
+    their political opponents and executed them for drug trafficking, sexual,
+    and other criminal offences. The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against the defendant. Defense No information is available on his defense.
+    Judgment In accordance with the Central Islamic Revolutionary Tribunal,
+    Mr. Hassan Seraji was executed at Evin prison on September 6, 1981.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/39439/hassan-seraji"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,55 @@
+id: meisami-ayub-1981
+name_latin: "Ayub Meisami"
+name_farsi: "ایوب میثمی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-01-01
+age_at_death: null
+place_of_death: "Bonab"
+province: "Azarbaijan-e Sharqi"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Mr. Ayub Meisami, son of Hossein, was announced in the
+    Kayhan newspaper on June 24, 1981 and in the Jomhuri Eslami newspaper on
+    June 25. Arrest and detention The circumstances of this defendant’s arrest
+    and detention are not known. Trial No information is available on the
+    trial session(s) other than he was tried at the Islamic Revolutionary
+    Tribunal of Tabriz. Charges The charge brought against Mr. Meisami was the
+    act of “sodomy.” The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. International human rights organizations have drawn
+    attention to reports indicating that the Islamic Republic’s authorities
+    have brought trumped-up charges against their political opponents and
+    executed them for drug trafficking, sexual, and other criminal offences.
+    The exact number of people convicted based on trumped-up charges is
+    unknown. Evidence of guilt The report of this execution refers to Mr.
+    Meisami’s repeated confessions. International human rights organizations
+    have repeatedly condemned the government of the Islamic Republic of Iran
+    for its systematic use of severe torture and solitary confinement to
+    obtain confessions from detainees and have questioned the authenticity of
+    confessions obtained under duress. In the case of political detainees,
+    these confessions are, at times, televised. The National Television
+    broadcasts confessions during which prisoners plead guilty to vague and
+    false charges, repent and renounce their political beliefs, and/or
+    implicate others. Human rights organizations have also pointed to the
+    pattern of retracted confessions by those prisoners who are freed. Defense
+    No information is available on his defense. Judgment In accordance with
+    the verdict of the Islamic Revolutionary Tribunal of Tabriz, Mr. Ayub
+    Meisami was executed in Bonab (in East Azarbaijan province).
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4365/ayub-meisami"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

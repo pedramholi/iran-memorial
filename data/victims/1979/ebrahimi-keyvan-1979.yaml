@@ -1,0 +1,28 @@
+id: ebrahimi-keyvan-1979
+name_latin: "Keyvan Ebrahimi"
+name_farsi: "کیوان ابراهیمی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam (Shi'a)"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1979-12-27
+age_at_death: null
+place_of_death: "Kerman"
+province: "Kerman"
+cause_of_death: "Extrajudicial Execution"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/84028/keyvan-ebrahimi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,47 @@
+id: khanderish-kobra-1980
+name_latin: "Kobra Khanderish"
+name_farsi: "کبری خنده ریش"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-07-23
+age_at_death: null
+place_of_death: "Dezful"
+province: "Khuzestan"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Ms. Kobra Khanderish was reported in the Jomhuri Eslami
+    daily (July 26, 1980) Arrest and detention The circumstances of this
+    defendant s arrest and detention are unknown. Trial No information is
+    available on Ms. Khanderish s trial. Charges According to the report, Ms.
+    Khanderish was charged with selling heroin and having extramarital sexual
+    relationships. The validity of the criminal charges brought against these
+    defendants cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. International human rights organizations have drawn
+    attention to reports indicating that the Islamic Republic s authorities
+    have brought trumped up charges against their political opponents and
+    executed them for drug trafficking, sexual, and other criminal offences.
+    Each year, Iranian authorities sentence to death hundreds of alleged
+    common criminals, following judicial processes that fail to meet
+    international standards. The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of guilt The report does not
+    contain any information about the evidence presented against the victim.
+    Defense No information is available on the defendant s defense. Judgment
+    The Islamic Revolutionary Tribunal of Dezful sentenced Ms. Khanderish to
+    death, and she was executed in the morning.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/12963/kobra-khanderish"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

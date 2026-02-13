@@ -1,0 +1,52 @@
+id: haqpasand-khoramshad-1985
+name_latin: "Khoramshad Haqpasand"
+name_farsi: "خرمشاد حق پسند"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1985-02-19
+age_at_death: 33
+place_of_death: "Tehran Province"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The information about Mr. Khoramshad Haqpasand is based on a book titled
+    Siavoshan, Remembrance of the Ranjbaran Party of Iran s Martyrs by Baqer
+    Mortazavi. This execution was also reported in an addendum to the Mojahed
+    magazine (No 261), published by Mojahedin Khalq Organization in 1985. The
+    list includes 12028 individuals, affiliated with various opposition
+    groups, who were executed or killed during clashes with the Islamic
+    Republic security forces from June 1981 to the publication date of the
+    magazine. Based on the information available on the published list by the
+    Mojahedin Khalq, Mr. Khoramshad Haqpasand was a married student with two
+    children. According to the Siavoshan book, after his high school
+    graduation, he went to Italy and studied medicine at Rome University. He
+    was a member of the Revolutionary Organization and after the 1979
+    revolution he joined the Ranjbaran Party. Arrest and detention The
+    circumstances of this defendant s arrest and detention are unknown.
+    According to the Siavoshan book, Mr. Haqpasand was arrested in the spring
+    of 1982 and spent three years in prison. Trial No information is available
+    on the defendant s trial. Charges No information is available on Mr.
+    Haqpasand s charges. Evidence of guilt The report of this execution
+    contains no information regarding the evidence provided against the
+    defendant. Defense No information is available on Mr. Haqpasand's defense.
+    Judgment No details are available regarding Mr. Haqpasand's death sentence
+    is. According to the Siavoshan book, he was executed by a firing squad in
+    the fall of 1985. But, according to the published list by the Mojahedin
+    Khalq, he was executed in February 1985.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4046/khoramshad-haqpasand"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

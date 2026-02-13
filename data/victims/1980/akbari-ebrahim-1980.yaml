@@ -1,0 +1,46 @@
+id: akbari-ebrahim-1980
+name_latin: "Ebrahim Akbari"
+name_farsi: "ابراهیم اکبری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-08-03
+age_at_death: null
+place_of_death: "Ahvaz"
+province: "Khuzestan"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Officer Ebrahim Akbari was announced in a communiqu of
+    the Islamic Revolutionary Tribunal of Ahvaz released to Pars News Agency.
+    The Jomhuri Eslami daily quoted the announcement in its report (August 4,
+    1980). Arrest and detention The circumstances of this defendant s arrest
+    and detention are not known. Trial According to the communiqu , The
+    Islamic Revolutionary Tribunal of Ahvaz held session at 6 p.m. to examine
+    the case of Officer Akbari. Charges Based on the communiqu , Officer
+    Akbari was charged with the following: Daring remarks about the grand
+    Imams, peace be upon Them, and blasphemous statements that prove his
+    apostasy Creating an atmosphere of terror and armed assault on people
+    Misusing the public treasury Extortion and blackmailing Aggression towards
+    people s honor [sexual] Dangerous seditions in various places and intense
+    activities against the revolutionaries before the success of the
+    revolution Evidence of guilt The report contains no information regarding
+    the evidence presented against the defendant. Defense No information is
+    available on Officer Akbari s defense. Judgment The Islamic Revolutionary
+    Tribunal of Ahvaz declared Officer Akbari a corruptor on earth. He was
+    executed at 3 a.m., within hours from the issuance of the death sentence.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/13039/ebrahim-akbari"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

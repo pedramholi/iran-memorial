@@ -1,0 +1,51 @@
+id: ruzitalab-naser-1981-2
+name_latin: "Naser Ruzitalab"
+name_farsi: "ناصر روزی طلب"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-08-25
+age_at_death: 26
+place_of_death: "Shiraz"
+province: "Fars"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    Mr. Naser Ruzitalab is one of the 12028 individuals listed in an addendum
+    to the Mojahed magazine (No 261), published by Mojahedin Khalq
+    Organization in 1985. The list includes individuals, affiliated with
+    various opposition groups, who were executed or killed during clashes with
+    the Islamic Republic security forces from June 1981 to the publication
+    date of the magazine. Additional information has been sent to Omid,
+    through an electronic form, by a friend who went to university with him.
+    The sender of the electronic form remembers Mr. Ruzitalab as very
+    intelligent. They studied together in Pahlavi University (today called
+    Shiraz University). Mr. Ruzitalab was affiliated with the Mojahedin Khalq
+    Organization and responsible for a group from Zand Street. He graduated
+    with a degree in chemical engineering. Arrest and detention The
+    circumstances of Mr. Ruzitalab’s arrest and detention are not known, other
+    than he was arrested in Shiraz in 1979 (electronic form). Trial There is
+    no information regarding this trial. Charges Mr. Ruzitalab was charged
+    with membership of the Mojahedin Khalq Organization (electronic form).
+    Evidence of guilt No information is available concerning the evidence
+    presented against the accused. Defense No information is available
+    concerning the defense. Mr. Ruzitalab was denied the right to have an
+    attorney. Judgment No specific information is available about the verdict
+    leading to this execution. the former of the electronic form states that
+    Mr. Naser Ruzitalab was executed in 1979, but the Mojahed magazine states
+    that he was shot by a firing squad on August 25, 1981.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4997/naser-ruzitalab"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

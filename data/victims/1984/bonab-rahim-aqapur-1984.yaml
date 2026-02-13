@@ -1,0 +1,45 @@
+id: bonab-rahim-aqapur-1984
+name_latin: "Rahim Aqapur Bonab"
+name_farsi: "رحیم آقا پور بناب"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1984-09-23
+age_at_death: 26
+place_of_death: "Tabriz"
+province: "Azarbaijan-e Sharqi"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    Mr. Rahim Aqapoor is among the 282 individuals listed in a United Nations
+    Report on The Situation of Human Right in the Islamic Republic of Iran
+    (Note by the Secretary General), published on 13 November 1985. The report
+    lists these individuals as "Persons who were allegedly summarily and
+    arbitrarily executed in the Islamic Republic of Iran: 1984-1985." This
+    execution was also reported in an addendum to the Mojahed magazine (No
+    261), published by Mojahedin Khalq Organization in 1985. The list includes
+    12028 individuals, affiliated with various opposition groups, who were
+    executed or killed during clashes with the Islamic Republic security
+    forces from June 1981 to the publication date of the magazine. Arrest and
+    detention The circumstances of Mr. Aqapoor's arrest and detention are not
+    known. Trial There is no information regarding this trial. Charges The
+    charges brought against the defendant are not known. Evidence of guilt No
+    information is available concerning the evidence presented against the
+    accused. Defense No information is available concerning Mr. Aqapoor's
+    defense. Judgment No specific information is available about the verdict
+    leading to this execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-3506/rahim-aqapur-bonab"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

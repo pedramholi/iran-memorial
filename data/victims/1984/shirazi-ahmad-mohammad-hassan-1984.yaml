@@ -1,0 +1,50 @@
+id: shirazi-ahmad-mohammad-hassan-1984
+name_latin: "Ahmad Mohammad Hassan Shirazi"
+name_farsi: "احمد محمد حسن شیرازی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1984-06-28
+age_at_death: null
+place_of_death: "Iran"
+province: null
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Mr. Ahmad Mohammad Hasan Shirazi, along with 4 others,
+    was reported in the Jomhuri Eslami daily on June 30, 1984. The report
+    quoted the public relations of the Islamic Revolution’s Public
+    Prosecutor’s Office in Tehran. Arrest and detention The circumstances of
+    this defendant’s arrest and detention are not known. Trial No information
+    is available on the defendant’s trial. Charges According to this report,
+    Mr. Shirazi was charged with “6 counts of armed robbery, 2 counts of
+    attempted armed robbery and carrying an unauthorized firearm.” The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    International human rights organizations have drawn attention to reports
+    indicating that the Islamic Republic’s authorities have brought trumped-up
+    charges against their political opponents and executed them for drug
+    trafficking, sexual, and other criminal offences. Each year, Iranian
+    authorities sentence to death hundreds of alleged common criminals,
+    following judicial processes that fail to meet international standards.
+    The exact number of people convicted based on trumped-up charges is
+    unknown. Evidence of guilt The report of this execution does not contain
+    information regarding the evidence provided against the defendant. Defense
+    No information is available on Mr. Shirazi’s defense. Judgment The 6th
+    division of the Islamic Revolutionary Tribunal of Tehran sentenced Mr.
+    Shirazi to death. The sentence was carried out in the afternoon.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/35712/ahmad-mohammad-hassan-shirazi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

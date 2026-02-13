@@ -1,0 +1,49 @@
+id: nargesi-fereshteh-1980
+name_latin: "Fereshteh Nargesi"
+name_farsi: "فرشته نرگسی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-08-09
+age_at_death: null
+place_of_death: "Hamedan"
+province: "Hamedan"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of Ms. Fereshteh Nargesi was reported by the Pars News
+    Agency correspondent in Hamedan. The Jomhuri Eslami daily published the
+    report (August 9, 1980). The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that the Islamic Republic’s
+    authorities have brought trumped up charges against their political
+    opponents and executed them for drug trafficking, sexual, and other
+    criminal offences. Each year, Iranian authorities sentence to death
+    hundreds of alleged common criminals, following judicial processes that
+    fail to meet international standards. The exact number of people convicted
+    based on trumped-up charges is unknown. Arrest and detention No
+    information is available on the circumstances of Ms. Nargesi’s arrest and
+    detention. Trial The verdict was issued by the Islamic Revolutionary
+    Tribunal of Hamedan. The report did not provide any information about the
+    trial. Charges Based on this report, Ms. Nargesi was charged with
+    “promoting corruption and prostitution” and “selling, buying, and
+    distributing drugs”. Evidence of guilt The report did not provide any
+    information on the evidence presented against the defendant. Defense No
+    information on the accuseds’ defense is available. Judgment Ms. Nargesi
+    was found guilty of “corruption on earth.” She was executed at dawn.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/15568/fereshteh-nargesi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

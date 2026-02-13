@@ -1,0 +1,52 @@
+id: malahati-ahmad-akhundi-1984
+name_latin: "Ahmad Akhundi Malahati"
+name_farsi: "احمد آخوندی ملاحتی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1984-04-08
+age_at_death: null
+place_of_death: "Tehran Province"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Ahmad Akhundi Malahati, along with 24 others, was
+    announced in a communiqué by the Anti-Narcotics Section of the Public
+    Prosecutor’s Office. The communiqué was reported in the Jomhuri Eslami
+    daily on April 9, 1984. Arrest and detention The circumstances of this
+    defendant’s arrest and detention are not known. Trial No information is
+    available on the defendant’s trial. Charges According to this communiqué,
+    Mr. Akhundi Malahati was charged with “dealing packages containing 5 g of
+    heroin, buying 500 g of heroin in Mashad and transporting it to Tehran.”
+    The validity of the criminal charges brought against this defendant cannot
+    be ascertained in the absence of the basic guarantees of a fair trial.
+    International human rights organizations have drawn attention to reports
+    indicating that the Islamic Republic’s authorities have brought trumped up
+    charges against their political opponents and executed them for drug
+    trafficking, sexual, and other criminal offences. Thousands of alleged
+    drug traffickers have been sentenced to death following judicial processes
+    that fail to meet international standards. The exact number of people
+    convicted based on trumped-up charges is unknown Evidence of guilt
+    According to this report, Mr. Akhundi Malahati was “in possession of 230 g
+    of heroin at the time of his arrest and had 11 previous convictions for
+    supplying and distributing narcotics and drug addiction.” Defense No
+    information is available on Mr. Akhundi Malahati’s defense. Judgment The
+    Anti-Narcotics Islamic Revolutionary Tribunal sentenced Mr. Akhundi
+    Malahati to death. After being confirmed by the Supreme Court, the
+    sentence was carried out at dawn.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/35646/ahmad-akhundi-malahati"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

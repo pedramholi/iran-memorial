@@ -1,0 +1,60 @@
+id: buraki-ebrahim-arshadi-1986
+name_latin: "Ebrahim Arshadi Buraki"
+name_farsi: "ابراهیم ارشدی بورکی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1986-11-21
+age_at_death: null
+place_of_death: "Fars Province"
+province: "Fars"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Ebrahim Arshadi Buraki, son of Darab, along with 6
+    others, was reported in the Kayhan newspaper on November 23, 1986.
+    Additional infomration was provided to Abdorrahman Boroumand Center via an
+    electronic form on January 30, 2019 by a person who knew Mr. Arshadi
+    Buraki. The Islamic Revolutionary Public Prosecution Office of Shiraz,
+    announced in a communiqu : The active devoted security and law enforcement
+    officers have purified our sacred land of the remnants of these thugs and
+    corruptors in a way that no one dares even think of committing a crime.
+    For the last time we warn the criminals not to commit anti-human and
+    shameful acts, otherwise they will have the same ominous destiny as these
+    criminals. Arrest and detention Mr. Arshadi Buraki was arrested in Shiraz;
+    however, there are no further information regarding his arrest and
+    detention. (E-from) Trial The trial took place at the Islamic
+    Revolutionary Tribunal of Shiraz. There is no other information regarding
+    this trial. (Kayhan newspaper) Charges Mr. Arshadi Buraki and six other
+    men were collectively charged with armed robbery, terrorizing people and
+    rape. (Kayhan Newspaper) The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that the Islamic Republic s
+    authorities have brought trumped-up charges against their political
+    opponents and executed them for drug trafficking, sexual, and other
+    criminal offences. Each year, Iranian authorities sentence to death
+    hundreds of alleged common criminals, following judicial processes that
+    fail to meet international standards. The exact number of people convicted
+    based on trumped-up charges is unknown. Defense No information is
+    available concerning Mr. Arshadi Buraki s defense. According to the
+    e-form, Mr. Arshadi Buraki was innocent. Judgment The Islamic
+    Revolutionary Tribunal of Shiraz sentenced Mr. Arshadi to death. The High
+    Judicial Council confirmed the sentence. He was hanged in public after the
+    Friday prayer of November 21, 1986, in a city in Fars Province. (Kayhan
+    Newspaper)
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8290/ebrahim-arshadi-buraki"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

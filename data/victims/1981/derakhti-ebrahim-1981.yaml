@@ -1,0 +1,51 @@
+id: derakhti-ebrahim-1981
+name_latin: "Ebrahim Derakhti"
+name_farsi: "ابراهیم درختی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-07-15
+age_at_death: null
+place_of_death: "Tabriz"
+province: "Azarbaijan-e Sharqi"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of Mr. Ebrahim Derakhti was reported by the newspaper Kayhan
+    on July 16th , 1981. International human rights organizations have drawn
+    attention to reports indicating that the Islamic Republic’s authorities
+    have brought trumped up charges against their political opponents and
+    executed them for drug trafficking, sexual, and other criminal offences. A
+    1989 law imposing mandatory death sentences on drug traffickers found in
+    possession of specified amounts (5 kg of hashish or opium, and more than
+    30 grams of heroin, codeine or methadone) of proscribed narcotics has been
+    used to sentence thousands of alleged drug traffickers to death, following
+    judicial processes that fail to meet international standards. The validity
+    of the criminal charges brought against defendants cannot be ascertained
+    in the absence of the basic guarantees of a fair trial. The exact number
+    of people convicted based on trumped-up charges is unknown. Arrest and
+    detention The circumstances of this defendant’s arrest and detention are
+    not known. Trial No information is available on the defendant’s trial.
+    Charges Mr. Ebrahim Derakhti was accused of "being in possession of 51
+    grams of heroin and 25 grams of opium". Evidence of guilt The report of
+    this execution does not contain information regarding the evidence
+    provided against the defendant. Defense No information is available on Mr.
+    Derakhti's defense. Judgment The Islamic Revolutionary Tribunal of Tabriz
+    issued the death sentence against Mr. Derakhti, for being "a corruptor on
+    earth and at war with God", and the Supreme Judicial Council approved the
+    verdict. He was executed at midnight on Wednesday July 15th, 1981.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/23459/ebrahim-derakhti"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

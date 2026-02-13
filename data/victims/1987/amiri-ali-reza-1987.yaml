@@ -1,0 +1,50 @@
+id: amiri-ali-reza-1987
+name_latin: "Ali Reza Amiri"
+name_farsi: "علیرضا امیری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1987-05-17
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Ali Reza Amiri was reported in the Kayhan daily on
+    May 17, 1987. Arrest and detention The circumstances of this defendant’s
+    arrest and detention are not known. Trial No information is available on
+    the defendant’s trial, other than he was tried at Branch 131 of Tehran’s
+    Penal Court, Division One. Charges Mr. Amiri was charged with first-degree
+    murder. The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. International human rights organizations have drawn
+    attention to reports indicating that the Islamic Republic’s authorities
+    have brought trumped-up charges against their political opponents and
+    executed them for drug trafficking, sexual, and other criminal offences.
+    Each year, Iranian authorities sentence to death hundreds of alleged
+    common criminals, following judicial processes that fail to meet
+    international standards. The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against the defendant. Defense No information is available on Mr. Amiri’s
+    defense. Judgment Branch 131 of Tehran’s Penal Court sentenced Mr. Amiri
+    to death and the Supreme Court approved the sentence. Mr. Ali Reza Amiri
+    was hanged at dawn of May 17, 1987 in the presence of the head of the
+    prison, representatives of Tehran’s Prosecutor, forensic doctor and the
+    judge at Qasr Prison in Tehran.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/44070/ali-reza-amiri"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

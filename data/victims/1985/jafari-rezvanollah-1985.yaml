@@ -1,0 +1,41 @@
+id: jafari-rezvanollah-1985
+name_latin: "Rezvanollah Jafari"
+name_farsi: "رضوان الله جعفری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 1985-01-01
+age_at_death: 40
+place_of_death: "Tehran Province"
+province: "Tehran"
+cause_of_death: "Fatal"
+circumstances: >
+    Information about Mr. Rezvanollah Ja’fari’s execution sent to Boroumand
+    Foundation via an electronic form by a person informed about this case.
+    According to this information, Mr. Ja’fari of, son of Ali, was born in
+    Qazvin in 1945. He had a Master’s degree. Arrest and detention There is no
+    specific information on Mr. Ja’fari’s arrest and detention. Trial No
+    information is available on Mr. Ja’fari’s trial. Charges The charges
+    against Mr. Ja’fari are unknown. The validity of the criminal charges
+    brought against Mr. Ja’fari cannot be ascertained in the absence of the
+    basic guarantees of a fair trial. Evidence of guilt The report of this
+    execution did not provide any specific information on the evidence
+    presented against Mr. Ja’fari. Defense No information is available on Mr.
+    Ja’fari’s defense. Judgment According to the electronic form report, Mr.
+    Ja’fari was executed in Tehran in 1985.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/64481/rezvanollah-jafari"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,42 @@
+id: khaledi-mohammad-1980
+name_latin: "Mohammad Khaledi"
+name_farsi: "محمد خالدی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-07-23
+age_at_death: null
+place_of_death: "Abadan"
+province: "Khuzestan"
+cause_of_death: "Fatal"
+circumstances: >
+    The execution of Mr. Mohammad Khaledi and three others was reported by the
+    correspondent of Pars News Agency. The Jomhuri Eslami daily published the
+    report (July 24, 1980). Arrest and detention The circumstances of this
+    defendant’s arrest and detention are not known. Trial No information is
+    available on the defendant’s trial. Charges Based on this report, the
+    charges against the defendant were: “bomb attack in the region of Tanki
+    Abolhasan during which one of the bombs exploded in his hand, resulting in
+    him losing a hand”, “attempt to bomb his cousin’s house”, and “carrying
+    and possessing a bomb that was discovered by the revolutionary guards.”
+    Evidence of guilt The report of this execution does not contain
+    information regarding the evidence provided against the defendant. Defense
+    No information is available on Mr. Khaledi’s defense. Judgment Mr. Khaledi
+    was executed at dawn after being convicted by the Islamic Revolutionary
+    Tribunal of Abadan and Khoramshahr.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/14925/mohammad-khaledi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

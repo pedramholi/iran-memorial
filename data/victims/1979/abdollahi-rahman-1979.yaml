@@ -1,0 +1,49 @@
+id: abdollahi-rahman-1979
+name_latin: "Rahman Abdollahi"
+name_farsi: "رحمان عبدالهی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1979-04-08
+age_at_death: null
+place_of_death: "Valiabad Cemetery"
+province: "Khuzestan"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    Kayhan Daily reported Mr. Rahman Abdollahi’s execution along with 2 others
+    on 8 April 1979. Mr. Abdollahi was a Constable in Dezful, a city in
+    Khuzestan Province in the south west of Iran. Arrest and detention The
+    circumstances of Mr. Abdollahi’s arrest and detention are not known. Trial
+    The Revolutionary Tribunal of Dezful tried Mr. Abdollahi with one other.
+    Charges Kayhan Daily reported Mr. Abdollahi’s charges together with one
+    other as “brutal repression of people during the Revolution and
+    anti-people action under the former regime”. He was also accused of
+    “opening fire at helpless and armless people in the demonstrations in
+    Dezful and in this unequal war, he caused many people’s death” Evidence of
+    guilt No information is available concerning the evidence presented
+    against the defendant. Defense No information is available concerning Mr.
+    Abdollahi’s defense and it is not clear if he had the opportunity to
+    defend himself effectively, for example whether he had access to a lawyer
+    or the possibility to summon witnesses in his favor, etc. The validity of
+    the criminal charges brought against this defendant cannot be ascertained
+    in the absence of the basic guarantees of a fair trial. Judgment The
+    Revolutionary Tribunal of Dezful recognized Mr. Abdollahi guilty of
+    “corruption on earth” and sentenced him to death. He was shot dead at 4:00
+    a.m. on 8 April 1979 in Valiabad Cemetery of Dezful by the Revolutionary
+    Guards.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-3762/rahman-abdollahi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

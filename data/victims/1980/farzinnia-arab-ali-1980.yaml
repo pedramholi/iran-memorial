@@ -1,0 +1,43 @@
+id: farzinnia-arab-ali-1980
+name_latin: "Arab Ali Farzinnia"
+name_farsi: "عربعلی فرزین نیا"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-01-13
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of Mr. Arab Ali Farzinnia and three others was reported in
+    the Ettela’at daily (January 13, 1980). Arrest and detention The
+    circumstances of this defendant’s arrest and detention are not known.
+    Trial No information is available on the defendant’s trial. Charges Based
+    on the report, Commander Farzinnia was accused of “personally shooting at
+    demonstrators on September 8, 1979”, as well as “fighting back against the
+    Mojahedin when they tried to take over Police Station No 6 the night
+    before the triumph of the Revolution (February 10, 1979), resulting in the
+    martyrdom of several people.” Evidence of guilt The report did not mention
+    anything about the evidence presented against the defendant. Defense No
+    information is available on Commander Farzinnia’s defense. Judgment The
+    Third Branch of the Islamic Revolutionary Tribunal declared Commander
+    Farzinnia an “enemy of God and his prophet," the “murderer of the people
+    of God,” and an “obvious example of corruption of earth.” He was executed
+    at 11:39 p.m.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/12579/arab-ali-farzinnia"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

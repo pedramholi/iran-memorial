@@ -1,0 +1,56 @@
+id: moqaddas-sirus-1981
+name_latin: "Sirus Moqaddas"
+name_farsi: "سیروس مقدس"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam (Shi'a)"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-07-02
+age_at_death: 19
+place_of_death: "Ahvaz"
+province: "Khuzestan"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of Mr. Sirus Moqaddas and five other individuals was
+    announced in the Jomhuri Eslami daily (July 5, 1981). The news of this
+    execution was followed by a communiqu presented to Pars News Agency by the
+    Islamic Revolutionary Tribunal of Ahvaz. Part of the communiqu reads as
+    follows: ... the anti-people organizations have committed a crime
+    unprecedented in history. These vile mercenaries, under the guise of
+    People's Mojahedin, People s Fadaiyan of Iran, and Peykar, and in
+    connivance with the enemy of this country and following the ominous plans
+    of the world-domineering America, have engaged in an armed rebellion
+    against the Islamic Republic..." This execution was also reported in an
+    addendum to the Mojahed magazine (No 261), published by Mojahedin Khalq
+    Organization in 1985. The list includes 12028 individuals, affiliated with
+    various opposition groups, who were executed or killed during clashes with
+    the Islamic Republic security forces from June 1981 to the publication
+    date of the magazine. Further information about Mr. Moqaddas case was sent
+    to Omid via an electronic form by a person familiar with the case. Arrest
+    and detention According to the form, Mr. Moqaddas was arrested for
+    distributing leaflets for the Mojahedin Organization in Ahvaz. No further
+    information is available regarding his arrest and detention. Trial No
+    information is available on the defendant s trial. Charges Mr. Moqaddas
+    and three other defendants were collectively charged with armed rebellion
+    against the Islamic Republic of Iran as members of the People s Mojahedin.
+    No details of specific acts committed by individual defendants were
+    provided. Evidence of guilt The report of this execution does not contain
+    information regarding the evidence provided against the defendant. Defense
+    No information is available on Mr. Moqaddas's defense. Judgment The
+    Islamic Revolutionary Tribunal of Ahvaz sentenced Mr. Moqaddas to death.
+    He was executed at 1:45 a.m.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4026/sirus-moqaddas"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

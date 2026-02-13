@@ -1,0 +1,49 @@
+id: mellat-rajabali-1980
+name_latin: "Rajabali Mellat"
+name_farsi: "رجبعلی ملت"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-02-07
+age_at_death: null
+place_of_death: "Mashhad"
+province: "Khorasan\\Khorasan-e Razavi"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Mr. Rajabali Mellat and another individual was reported
+    in the Ettela at daily (February 9, 1980) The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic s authorities have brought trumped-up charges against
+    their political opponents and executed them for drug trafficking, sexual,
+    and other criminal offences. Each year, Iranian authorities sentence to
+    death hundreds of alleged common criminals, following judicial processes
+    that fail to meet international standards. The exact number of people
+    convicted based on trumped-up charges is unknown. Arrest and detention The
+    circumstances of this defendant s arrest and detention are not known.
+    Trial The report mentioned that Mr. Mellat s case was examined at the
+    Islamic Revolutionary Tribunal of Mashhad. However, the specific
+    circumstances of the trial remain unknown. Charges Based on the report,
+    Mr. Mellat was charged with the intentional and premeditated murder of
+    Karbalayi Hosein Golmakani. Evidence of guilt There is no information
+    available on the evidence presented against the defendant. Defense The
+    report provided no information about the accused s defense. Judgment The
+    Islamic Revolutionary Tribunal of Mashhad declared Mr. Mellat a "corruptor
+    on earth and he was sentenced to death.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/12599/rajabali-mellat"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,47 @@
+id: fadaii-mohammad-1988
+name_latin: "Mohammad Fadaii"
+name_farsi: "محمد فدایی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1988-01-01
+age_at_death: null
+place_of_death: "Mashhad"
+province: "Khorasan\\Khorasan-e Razavi"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Mr. Mohammad Fadaii was reported by Mr. Galindo Pohl, the
+    Special Representative of the United Nations' Commission on Human Rights,
+    in his Report on the Situation of Human Rights in Iran (November 1990,
+    A/45/697). Arrest and detention It has been reported that "Mr. Fadaii was
+    sentenced to five years' imprisonment. At the end of his prison term,
+    which was spent in Meshed prison, he was released. In 1988, allegedly
+    without any reason, he was again arrested, subjected to several kinds of
+    torture." Trial No information is available on the defendant’s trial.
+    However it has been reported to the United Nations' Special
+    Representative, that at the time of this execution : "trials before
+    Islamic revolutionary Courts have usually taken place in secret, sometimes
+    inside prisons, that defendants have not usually enjoyed the right to be
+    represented by a lawyer, and often have not even been made aware that the
+    proceedings were in fact a trial and not an interrogation session."
+    Charges The charges brought against the defendant are not known. Evidence
+    of guilt The report of this execution does not contain information
+    regarding the evidence provided against the defendant. Defense No
+    information is available on Mr. Fadaii's defense. Judgment Mr. Fadaii was
+    sentenced to death and executed in Mashhad.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/12704/mohammad-fadaii"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

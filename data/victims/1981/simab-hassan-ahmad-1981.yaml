@@ -1,0 +1,46 @@
+id: simab-hassan-ahmad-1981
+name_latin: "Hassan Ahmad Simab"
+name_farsi: "حسن احمد سیماب"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-03-07
+age_at_death: null
+place_of_death: "Mashhad"
+province: "Khorasan\\Khorasan-e Razavi"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    News of the execution of Mr. Hassan Ahmad-Simab, son of Hossein, along
+    with twelve others, was published in the Jomhuri Eslami newspaper on July
+    5, 1981. Arrest and detention There is no specific information on the
+    defendant s arrest and detention. Trial The Islamic Revolutionary Court of
+    Mashhad tried Mr. Hassan Ahmad-Simab, but no information is available on
+    the defendant s trial. Charges The charges against Mr. Hassan Ahmad-Simab
+    were announced as, participation in an illegal demonstration after Imam s
+    boycott and carrying a knife and chain in order to confront people. The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    Evidence of guilt The report of this execution did not provide any
+    specific information on the evidence presented against the defendants.
+    Defense No information is available on Mr. Hassan Ahmad-Simab's defense.
+    Judgment َThe Islamic Revolutionary Court of Mashhad identified Mr. Hassan
+    Ahmad-Simab as "Mohareb (fighter) against God and the Prophet and Mofsed
+    (corruptor on Earth)." He was condemned to death. The ruling was carried
+    out when he was executed by firing squad in Mashhad on July 3, 1981. No
+    specific information is available about the defendant s execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/23474/hassan-ahmad-simab"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

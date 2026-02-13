@@ -1,0 +1,66 @@
+id: karami-abdollah-1982
+name_latin: "Abdollah Karami"
+name_farsi: "عبدالله کرمی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1982-01-01
+age_at_death: 24
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The information about Mr. Abdollah Karami is taken from the book Our
+    Martyrs in the Path to Freedom by Rah-e Kargar publications, copyright
+    1988. He joined the Rah-e Kargar Organization in 1979. He was arrested
+    once and detained for six months. He was again arrested after the
+    demonstrations on June 20, 1981and released later. "Rah-e Kargar" or the
+    "Revolutionary Workers Organization of Iran" was established in the summer
+    of 1979. The Organization was founded by individuals from various leftist
+    groups who rejected the idea of armed struggle and believed in political
+    action. They identified themselves as Marxist-Leninists, promoting a
+    socialist revolution and the leadership of the proletariat. They differed
+    with the pro-Soviet communist party, Tudeh, in that they opposed the
+    Islamic Republic and Ayatollah Khomeini's leadership. The demonstrations
+    of June 20, 1981, took place in protest against the parliament's
+    impeachment of President Banisadr and the Islamic Republic's systematic
+    policy of excluding the Mojahedin Khalq Organization (MKO) from taking
+    part in the country's politics, the refusal of Ayatollah Khomeini to meet
+    with MKO leaders and his insistence for to disarm them. Until then, the
+    MKO had supported the leadership of Ayatollah Khomeini and agreed to
+    function within the framework of the new political system. On June 20th,
+    however, the Organization officially changed its policy and tried to
+    overthrow the regime by organizing mass demonstrations, all over the
+    country . These demonstrations, which were severely suppressed and
+    resulted in the killing of dozens of demonstrators, were followed by a
+    wave of mass arrests and executions by the Revolutionary Guards and
+    para-military forces that targeted all the opposition groups. The massive
+    repression, unprecedented in the history of the Islamic Republic,
+    legitimized the months-old policy of harassment and suppression of
+    dissidents and ultimately resulted in the banning of all forms of
+    independent political dissent. Arrest and detention The circumstances of
+    this defendant’s arrest and detention are unknown. According to the above
+    book, Mr. Karami was arrested for the last time in April of 1982. Trial No
+    information is available on the defendant’s trial. Charges No information
+    is available on Mr. Karami’s charges. Evidence of guilt The report of this
+    execution contains no evidence provided against the defendant. Defence No
+    information is available about the defendant’s defence. Judgment No
+    specific information is available about the defendant’s execution. Mr.
+    Karami was executed by a firing squad in the Evin prison during April,
+    1982.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/36126/abdollah-karami"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

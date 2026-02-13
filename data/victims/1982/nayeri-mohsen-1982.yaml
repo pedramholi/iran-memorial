@@ -1,0 +1,40 @@
+id: nayeri-mohsen-1982
+name_latin: "Mohsen Nayeri"
+name_farsi: "محسن نیری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1982-09-29
+age_at_death: 18
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The information about Mr. Mohsen Nayeri, son of Ali Akbar, was taken from
+    an electronic form, sent to Omid by a relative. He was born in Shiraz on
+    August 19, 1963. He was a high school student and a sympathizer of the
+    Mojahedin Khalq Organization. Arrest and detention Mr. Nayeri was arrested
+    in January 1982 on a street in Tehran, and he was taken to Evin prison. No
+    further information is available about his arrest and detention. Trial Mr.
+    Nayeri was tried in September 1982. Charges Mr. Nayeri was charged with
+    sympathizing with the Mojahedin Khalq Organization. Evidence of guilt The
+    report of this execution does not contain information regarding the
+    evidence provided against the defendant. Defense No information is
+    available on Mr. Nayeri’s defense. Judgment Mr Nayeri was shot by firing
+    squad on September 29, 1982, at the age of 18.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-5339/mohsen-nayeri"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

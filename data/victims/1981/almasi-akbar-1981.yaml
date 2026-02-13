@@ -1,0 +1,46 @@
+id: almasi-akbar-1981
+name_latin: "Akbar Almasi"
+name_farsi: "اکبر الماسی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-09-12
+age_at_death: null
+place_of_death: "Qom"
+province: "Markazi"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Mr. Akbar Almasi, son of Hadi, was announced by the Pars
+    News Agency and published in the Kayhan newspaper on September 16, 1981.
+    Arrest and detention The circumstances of this defendant s arrest and
+    detention are not known. Trial No information is available on the
+    defendant s trial other than he was tried at the Islamic Revolutionary
+    Tribunal of Qom. Charges Mr. Almasi was charged with the despicable act of
+    sodomy . The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. International human rights organizations have drawn
+    attention to reports indicating that the Islamic Republic s authorities
+    have brought trumped-up charges against their political opponents and
+    executed them for drug trafficking, sexual, and other criminal offences.
+    The exact number of people convicted based on trumped-up charges is
+    unknown. Evidence of guilt The report of this execution does not contain
+    information regarding the evidence provided against the defendant. Defense
+    No information is available on his defense. Judgment In accordance with
+    the Islamic Revolutionary Tribunal of Qom, Mr. Akbar Almasi was executed
+    in Qom on September 12 or 13, 1981.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/39432/akbar-almasi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

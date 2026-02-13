@@ -1,0 +1,57 @@
+id: hadidi-aria-1981
+name_latin: "Aria Hadidi"
+name_farsi: "آریا حدیدی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-07-18
+age_at_death: 20
+place_of_death: "Mashhad"
+province: "Khorasan\\Khorasan-e Razavi"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    News of the execution of Mr. Aria Hadidi, son of Javad and resident of
+    Mashhad, along with two others, was published in the Kayhan newspaper on
+    July 19, 1981. Mr. Aria Hadidi is one of the 12,028 individuals listed in
+    an addendum to the Mojahed magazine (No 261), published by the Mojahedin
+    Khalq Organization on September 6, 1985. The list includes individuals,
+    affiliated with various opposition groups, who were executed or killed
+    during clashes with the Islamic Republic security forces from June 1981 to
+    the publication date of the magazine. According to this source, Mr. Aria
+    Hadidi was a high school graduate, single, and a sympathizer of the
+    Mojahedin Khalq Organization. Arrest and detention There is no specific
+    information on the defendant s arrest and detention. Trial The Islamic
+    Revolutionary Court of Mashhad tried Mr. Aria Hadidi, but no information
+    is available on the defendant s trial. Charges The charges against Mr.
+    Aria Hadidi were announced as, participation in an armed and violent
+    demonstration, leading this demonstration, attacking defenseless people,
+    beating and injuring people with Nunchaku, disturbing the city,
+    contradicting the Islamic and revolutionary people, going against the Imam
+    s order, possessing a carpet cutter, and guiding anti-revolutionaries to
+    riot around Mashhad. The validity of the criminal charges brought against
+    this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. Evidence of guilt The report of this execution
+    did not provide any specific information on the evidence presented against
+    the defendants. Defense No information is available on Mr. Aria Hadidi's
+    defense. Judgment َThe Islamic Revolutionary Court of Mashhad identified
+    Mr. Aria Hadidi as "Mofsed (corruptor on Earth), Mohareb [a person who
+    wages war against God], and Baghi (rebel)." He was condemned to death. The
+    Supreme Judicial Council confirmed the ruling. No specific information is
+    available about the defendant s execution. Mr. Aria Hadidi was 20 years
+    old.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-5374/aria-hadidi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

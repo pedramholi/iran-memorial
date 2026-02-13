@@ -1,0 +1,59 @@
+id: laqai-asghar-1981
+name_latin: "Asghar Laqa'i"
+name_farsi: "اصغر لقائی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-10-22
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The information about Asghar Laqa i was taken from an interview with a
+    family friend. Mr. Laqahi is also one of the 12028 individuals listed in
+    an addendum to the Mojahed magazine (No 261), published by Mojahedin Khalq
+    Organization in 1985. The list includes individuals, affiliated with
+    various opposition groups, who were executed or killed during clashes with
+    the Islamic Republic security forces from June 1981 to the publication
+    date of the magazine. Mr. Laqa i was born in Tehran. He was married and
+    had two sons: the younger one was born after his execution. He worked at
+    the Tehran s bazaar. He was a nationalist and member of the Iran Nation
+    Party. The Iran Nation Party was founded in 1951 as the result of a split
+    from the Pan Iranist Party. The nationalist Iran Nation Party endorsed Dr.
+    Mohammad Mossadeq s policies and actively resisted the coup of August 18,
+    1953, which overthrew the Mossadeq government. The Iran Nation Party
+    excluded Pan Iranism from its ideology in 1961. The Iran Nation Party
+    joined the National Front, which was led by Dr. Shapur Bakhtiar, Dariush
+    Foruhar, and Dr. Karim Sanjabi. The Party remained a member of this
+    coalition until the Revolution. In 1979, the Iran Nation Party joined the
+    Islamic Revolution forces and accepted the leadership of Ayatollah
+    Khomeini. In June 1981, when the Iranian government intensified its
+    oppression of political opposition and banned political parties, the Iran
+    Nation Party limited its activities. The relative political opening that
+    followed the presidential election of May 23, 1996, encouraged the Iran
+    Nation Party to resume its activities unofficially, in particular among
+    students. Arrest and detention Mr. Laqa i was arrested in Tehran in 1981.
+    No further information is available. Trial No information is available on
+    the defendant s trial. Charges Mr. Laqa i was reportedly charged with
+    giving refuge to the impeached president, Bani Sadr. Evidence of guilt The
+    report of this execution does not contain information regarding the
+    evidence provided against the defendant. Defense No information is
+    available on Mr. Laqa i s defense. Judgment Mr. Laqa i was sentenced to
+    death and executed in 1981 in Evin prison.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7106/asghar-laqai"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

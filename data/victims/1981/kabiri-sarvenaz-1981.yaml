@@ -1,0 +1,66 @@
+id: kabiri-sarvenaz-1981
+name_latin: "Sarvenaz Kabiri"
+name_farsi: "سروناز کبیری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam (Shi'a)"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-09-29
+age_at_death: 17
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    Ms. Sarvenaz Kabiri, daughter of Reza, a follower of the Mojahedin Khalq
+    of Iran Organization, is also one of the 12028 individuals listed in an
+    addendum to the Mojahed magazine (No 261), published by Mojahedin Khalq
+    Organization in 1985. The list includes individuals, affiliated with
+    various opposition groups, who were executed or killed during clashes with
+    the Islamic Republic security forces from June 1981 to the publication
+    date of the magazine. Ms. Kabiri is also one of the 1533 executed
+    prisoners listed by the Association of Iranian Women of Köln (Germany).
+    The list published in 1997 is entitled: “A partial list of names of women
+    executed by the Islamic Republic of Iran”. The Central Islamic
+    Revolutionary Republic Prosecutor’s Office announced the execution of 43
+    individuals, including Ms. Kabiri, in a communiqué, published in the
+    Kayhan newspaper on September 30, 1981. Additional information regarding
+    Ms. Kabiri’s case was sent to Omid via two electronic forms by persons
+    familiar with her case. She was born in Tehran in February 1964. She was a
+    student at the Anushirvan Dadgar high school. Arrest and detention
+    According to the available information, Ms. Kabiri was arrested in Enqelab
+    Street. The Kayhan report mentions that all the defendants were arrested
+    for having participated in protests and armed rebellion against the regime
+    that occurred days before their execution. It is not clear, however, how
+    many days Ms. Kabiri was detained prior to her execution. Trial No
+    specific information is available on the defendant’s trial. It can be
+    referred from the official sources that the entire process of arrest,
+    interrogation, investigation, and trial took only a few days. Charges
+    According to the official communiqué, Ms. Kabiri was one of “the followers
+    or members of the Anti-people Organization of Hypocrites [a name used by
+    the Islamic Republic for the Mojahedin Khalq Organization], who
+    participated in the recent protests and armed clashes, and caused injury
+    and death of innocent people and the destruction of public properties
+    through armed attacks against the hezbollah nation, and burning buses and
+    other public and private transport vehicles.” These charges are collective
+    and brought against 27 defendants. The prosecution does not mention any
+    individual charges against Ms. Kabiri. Evidence of guilt The communiqué
+    states that arms and guns were recovered in the arrest of Ms. Kabiri and
+    26 other individuals. Defense No information is available on Ms. Kabiri's
+    defense. Judgment Central Islamic Revolutionary Tribunal sentenced Ms.
+    Kabiri to death. She was executed at Evin prison at dawn of September 29,
+    1981.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4270/sarvenaz-kabiri"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

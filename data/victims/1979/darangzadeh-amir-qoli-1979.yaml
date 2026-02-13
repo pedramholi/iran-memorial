@@ -1,0 +1,52 @@
+id: darangzadeh-amir-qoli-1979
+name_latin: "Amir Qoli Darangzadeh"
+name_farsi: "امیر قلی دارنگ زاده"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1979-09-04
+age_at_death: null
+place_of_death: "Shiraz"
+province: "Fars"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The report of Mr. Amir Qoli Darangzadeh’s trial and execution was
+    published in the Kayhan and Enqelab Eslami newspapers of September 4 and
+    5, 1979. Arrest and detention Based on the Kayhan report, Mr. Darangzadeh
+    was arrested by Air Force officials of Shiraz at his home in Marvdasht
+    (Fars Province) a few days before his trial. Trial The Kayhan report
+    mentioned that the trial was held in the morning of September 2, and
+    deliberation about the cases of Mr. Darangzadeh and two others lasted an
+    hour altogether. Charges Mr. Darangzadeh was charged with “possession of
+    72 grams of heroin and selling it to two distributors.” The validity of
+    the criminal charges brought against this defendant cannot be ascertained
+    in the absence of the basic guarantees of a fair trial. International
+    human rights organizations have drawn attention to reports indicating that
+    the Islamic Republic’s authorities have brought trumped-up charges against
+    their political opponents and executed them for drug trafficking, sexual,
+    and other criminal offences. Each year, Iranian authorities sentence to
+    death hundreds of alleged common criminals, following judicial processes
+    that fail to meet international standards. The exact number of people
+    convicted based on trumped-up charges is unknown. Evidence of guilt
+    According to Kayhan , at the time of arrest Mr. Darangzadeh was selling
+    heroin to two individuals. Defense No information is available on the
+    defense. Judgment The Islamic Revolutionary Tribunal of Shiraz declared
+    Mr. Darangzadeh a “corruptor on earth, as described in the Koranic
+    scripture.” He was shot by firing squad at midnight on September 4, 1979
+    in Adel-Abad prison in Shiraz.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/28462/amir-qoli-darangzadeh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

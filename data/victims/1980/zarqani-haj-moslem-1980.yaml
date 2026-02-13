@@ -1,0 +1,49 @@
+id: zarqani-haj-moslem-1980
+name_latin: "Haj Moslem Zarqani"
+name_farsi: "حاج مسلم زرقانی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-08-21
+age_at_death: null
+place_of_death: "Sabzevar"
+province: "Khorasan\\Khorasan-e Razavi"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Haj Moslem Zarqani was reported along with six others by
+    the correspondent of the Jomhuri Eslami daily in Sabzevar (August 23,
+    1980). Arrest and detention There is no information available on the
+    circumstances of Mr. Zarqani s arrest and detention in this report. Trial
+    The report provided no information on Mr. Zamandi s trial. Charges Based
+    on the report, the defendant was charged with drug trafficking. The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    International human rights organizations have drawn attention to reports
+    indicating that the Islamic Republic s authorities have brought trumped up
+    charges against their political opponents and executed them for drug
+    trafficking, sexual, and other criminal offences. Thousands of alleged
+    drug traffickers have been sentenced to death following judicial processes
+    that fail to meet international standards. The exact number of people
+    convicted based on trumped-up charges is unknown. Evidence of guilt The
+    report indicated that the defendant had twenty one kilograms and six
+    hundred grams of opium and nine kilograms and three hundred grams of opium
+    sap in his possession at the time of his arrest. Defense No information on
+    the accused s defense is available. Judgment The Islamic Revolutionary
+    Tribunal of Sabzevar sentenced Mr. Zarqandi to death. He was executed at
+    dawn, three days after his trial.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/15708/haj-moslem-zarqani"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

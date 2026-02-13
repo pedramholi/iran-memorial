@@ -1,0 +1,52 @@
+id: biranvand-qamar-1980
+name_latin: "Qamar Biranvand"
+name_farsi: "قمر بیران وند"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-06-27
+age_at_death: null
+place_of_death: "Ahvaz"
+province: "Khuzestan"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Ms. Qamar Biranvand was reported in the Jomhuri Eslami
+    daily (June 29, 1980) Arrest and detention The circumstances of this
+    defendant s arrest and detention are not known. Trial No information is
+    available on Ms. Biranvand s trial. Charges Based on the report, Ms.
+    Biranvand was charged with the following: selling her body and
+    establishing several prostitution centers in Ahvaz s Kuy e Ashena and in
+    other cities throughout the years , exploiting and coercing women, girls,
+    and children into prostitution through loan recognition) , and even trying
+    to delude her own daughter to sell herself. The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic s authorities have brought trumped up charges against
+    their political opponents and executed them for drug trafficking, sexual,
+    and other criminal offences. Each year, Iranian authorities sentence to
+    death hundreds of alleged common criminals, following judicial processes
+    that fail to meet international standards. The exact number of people
+    convicted based on trumped-up charges is unknown. Evidence of guilt The
+    report mentioned that the verdict was issued based on the defendant s
+    implicit statements and confession , the witnesses and informed people s
+    testimonies, and documents available in her file. Defense No information
+    is available on the accused s defense. Judgment Based on the report, Ms.
+    Biranvand was sentenced to death at the Islamic Revolutionary Tribunal of
+    Ahvaz. The sentence was carried out in the city at dawn.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/12745/qamar-biranvand"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

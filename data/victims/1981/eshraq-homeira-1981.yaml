@@ -1,0 +1,76 @@
+id: eshraq-homeira-1981
+name_latin: "Homeira Eshraq"
+name_farsi: "حمیرا اشراق"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam (Shi'a)"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-11-26
+age_at_death: 20
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The news of the execution of Ms. Homeira Eshraq and 35 (in Kayhan ) and 48
+    (in Jomhuri Eslami ) other individuals was released in a communiqué of the
+    Central Islamic Revolutionary Public Prosecutor’s Office, published in the
+    Kayhan and Jomhuri Eslami dailies on November 26, 1981. This execution was
+    also reported in an addendum to the Mojahed magazine (No 261), published
+    by Mojahedin Khalq Organization (MKO) in 1985. The list includes 12028
+    individuals, affiliated with various opposition groups, who were executed
+    or killed during clashes with the Islamic Republic security forces from
+    June 1981 to the publication date of the magazine. Additional information
+    about Ms. Eshraq is taken from the MKO website. She was a MKO sympathizer.
+    She worked with the "Nasle Enqelab" (Revolutionary Generation)
+    publication. After the start of the Organization’s armed struggle, she
+    became the commander of a high school student battalion. Arrest and
+    detention There is no specific information on the defendant’s arrest and
+    detention. According to the MKO website, Ms. Eshraq was arrested after the
+    demonstration of June 20, 1981. She probably spent her five-month
+    detention at the Evin prison. She was reportedly tortured so severely that
+    she could not walk. The demonstration of June 20, 1981, was a protest
+    against the parliament's impeachment of President Banisadr and the Islamic
+    Republic's systematic policy of excluding the MKO from the country's
+    political scene, as well as Ayatollah Khomeini’s refusal to meet with MKO
+    leaders and his insistence to disarm them. Until then, the MKO had
+    supported the leadership of Ayatollah Khomeini and agreed to function
+    within the framework of the new political system. On June 20, 1981, the
+    MKO officially changed its policy and tried to overthrow the regime by
+    organizing mass demonstrations throughout the country . These
+    demonstrations, which were severely suppressed and resulted in the killing
+    of dozens of demonstrators, were followed by a wave of mass arrests and
+    executions by the Revolutionary Guards and para-military forces that
+    targeted not only the MKO, but all other opposition groups. The massive
+    repression, unprecedented in the history of the Islamic Republic,
+    legitimized the months-old state harassment and suppression of dissidents
+    and resulted in the banning of all forms of independent political dissent.
+    Trial No information is available on the defendant’s trial. Charges
+    According to the communiqué of the Central Public Prosecutor’s Office, Ms.
+    Eshraq was charged with “being the commander of a special operations unit
+    in charge of sabotage and revolts in order to overthrow the Islamic
+    regime.” The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. Evidence of guilt The report of this execution contains no
+    evidence provided against the defendant. Defence No information is
+    available on Ms. Eshraq's defence. Judgment BBased on the information
+    available in the Kayhan and the Jomhuri Eslami dailies, the Central
+    Islamic Republic Court declared Ms. Eshraq a “corruptor, enemy and fighter
+    against God” and sentenced her to death. She was executed by a firing
+    squad at the Evin Prison on the dawn of November 25, 1981. However,
+    according to the MKO website, Ms. Eshraq was executed by the firing squad
+    in the Evin prison, while in a wheelchair, on November 26, 1981.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-5329/homeira-eshraq"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

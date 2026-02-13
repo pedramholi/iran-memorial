@@ -1,0 +1,51 @@
+id: sojdei-jalal-1981
+name_latin: "Jalal Sojde'i"
+name_farsi: "جلال سجده ای"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-12-23
+age_at_death: null
+place_of_death: "Tehran Province"
+province: "Tehran"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Brigadier General Jalal Sojde’i, son of Mohammad Kazem,
+    and 21 other individuals was announced by the Public Relations section of
+    the Central Islamic Revolutionary Prosecutor’s Office and published in the
+    Jomhuri Eslami and the Kayhan newspapers on December 26, 1981. The reports
+    state that he “was head of Savak in Zanjan, and for three years was the
+    head of the so-call anti-sabotage joint committee of the overthrown
+    Pahlavi regime”. Arrest and detention The circumstances of Brigadier
+    General Sojde’i’s arrest and detention are not known. Trial There is no
+    information regarding this trial, other than he was tried at the Central
+    Islamic Revolutionary Tribunal. Charges Brigadier General Sojde’i and
+    another individual were collectively charged with “participation in the
+    shameful coup d’état of August 19 [1953], repression of honorable Muslim
+    population of Qom in 1963, repression of students of Tehran University
+    during the Revolution, following the orders of [Amir Abbas] Hoveyda,
+    arresting a group of opponents of the Monarchy, martyring hundreds of
+    youth through torture methods of the Middle Ages”. The validity of the
+    criminal charges brought against this defendant cannot be ascertained in
+    the absence of the basic guarantees of a fair trial. Evidence of guilt No
+    information is available concerning the evidence presented against the
+    accused. Defense No information is available concerning Brigadier General
+    Sojde’i’s defense. Judgment The Central Islamic Revolutionary Tribunal
+    condemned Brigadier General Jalal Sojde’i to death. He was executed on
+    December 23, 1981 in Tehran.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/43899/jalal-sojdei"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

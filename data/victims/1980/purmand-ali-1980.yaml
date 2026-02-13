@@ -1,0 +1,48 @@
+id: purmand-ali-1980
+name_latin: "Ali Purmand"
+name_farsi: "علی پورمند"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-07-29
+age_at_death: null
+place_of_death: "Tabriz"
+province: "Azarbaijan-e Sharqi"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Mr. Ali Purmand and three other people was reported by
+    the correspondent of the Jomhuri Eslami daily in Tabriz (July 30, 1980).
+    Arrest and detention The circumstances of this defendant s arrest and
+    detention are not known. Trial Mr. Purmand was tried at the Islamic
+    Revolutionary Tribunal of Tabriz on July 29, 1980. No information is
+    available on the circumstances of the trial. Charges Based on the report,
+    Mr. Purmand was charged with drug dealing. The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic s authorities have brought trumped up charges against
+    their political opponents and executed them for drug trafficking, sexual,
+    and other criminal offences. Thousands of alleged drug traffickers have
+    been sentenced to death following judicial processes that fail to meet
+    international standards. The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against the defendant. Defense No information is available on Mr. Purmand
+    s defense. Judgment Mr. Purmand was sentenced to death. She was executed
+    at dawn, within hours from her trial.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/12991/ali-purmand"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

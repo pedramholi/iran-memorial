@@ -1,0 +1,40 @@
+id: homayuni-sama-hadi-1981
+name_latin: "Sama Hadi Homayuni"
+name_farsi: "صما هادی همایونی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-10-03
+age_at_death: null
+place_of_death: "Karaj"
+province: "Tehran"
+cause_of_death: "Fatal"
+circumstances: >
+    The execution of Mr. Sama Hadi Homayuni and two others was announced in a
+    communiqué by the Public Relations Office of the Prosecutor's office. The
+    Jomhuri Eslami daily published this communiqué (October 7, 1981). Arrest
+    and detention No information is available on Mr. Homayuni's arrest or
+    detention. Trial No information is available on Mr. Homayuni's trial.
+    Charges Mr. Homayuni was charged with “introducing himself as Ebi” and
+    “collaborating with Mohamad Maqbudi in the assassination of Ahad Foru'i,
+    the Bassij Commander of Mian Jadeh.” Evidence of guilt No information is
+    available about the evidence of guilt presented against the defendant.
+    Defense There is no information about the accused's defense. Judgment Mr.
+    Homayuni was convicted by the Islamic Revolutionary Tribunal of Karaj and
+    sentenced to death. He was executed on October 3rd.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4727/sama-hadi-homayuni"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

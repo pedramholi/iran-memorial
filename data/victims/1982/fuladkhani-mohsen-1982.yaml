@@ -1,0 +1,48 @@
+id: fuladkhani-mohsen-1982
+name_latin: "Mohsen Fuladkhani"
+name_farsi: "محسن فولادخانی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1982-01-01
+age_at_death: 22
+place_of_death: "Bandar Abbas"
+province: "Hormozgan"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    Mr. Mohsen Fuladkhani (Fadayian Khalq Guerrilla Organization) is one of
+    the 12028 individuals listed in an addendum to the Mojahed magazine (No
+    261), published by Mojahedin Khalq Organization in 1985. The list includes
+    individuals, affiliated with various opposition groups, who were executed
+    or killed during clashes with the Islamic Republic security forces from
+    June 1981 to the publication date of the magazine. The Fadayian Khalq
+    Guerrilla Organization, a Marxist Leninist group inspired by the Cuban
+    Revolution and the urban guerrilla movements of Latin America, was founded
+    in 1971 by two communist groups opposed to the Pahlavi regime. Following
+    the 1979 revolution, the Organization, which had renounced armed struggle,
+    split over their support of the Islamic Republic and of the Soviet Union.
+    A number of the Organization’s members, who did not renounce armed
+    struggle, founded the group the Fadayian Khalq Guerrillas (Ashraf Dehqani
+    Branch). Arrest and detention The circumstances of this defendant’s arrest
+    and detention are not known. Trial No information is available on the
+    defendant’s trial. Charges The charge brought against the defendant is not
+    known. Evidence of guilt The report of this execution does not contain
+    information regarding the evidence provided against the defendant. Defense
+    No information is available on Mr. Fuladkhani’s defense. Judgment There is
+    no information on the verdict leading to this execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/66625/mohsen-fuladkhani"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

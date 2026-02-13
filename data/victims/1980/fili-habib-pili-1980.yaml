@@ -1,0 +1,54 @@
+id: fili-habib-pili-1980
+name_latin: "Habib Pili (Fili)"
+name_farsi: "حبیب پیلی (فیلی)"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-07-03
+age_at_death: null
+place_of_death: "Shiraz"
+province: "Fars"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of Mr. Habib Pili (Fili) and 15 others was reported by the
+    correspondents of the Jomhuri Eslami and Kayhan dailies in Shiraz (July 5,
+    1980). Arrest and detention The circumstances of this individual s arrest
+    and detention are not known. Trial Based on the Jomhuri Eslami report, the
+    religious judge traveled to Shiraz and, after visiting the Revolutionary
+    Guard (Pasdaran) headquarters of Shiraz, headed for the Shiraz Tribunal,
+    where he examined the cases of sixteen individuals charged with a range of
+    crimes from killing and suppression of revolutionary combatants to drug
+    dealing and sodomy. Mr. Pili (Fili) was one of the defendants. Charges
+    Based on the Kayhan report, Mr. Pili (Fili) was charged with buying and
+    selling drugs and sodomy. The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that the Islamic Republic s
+    authorities have brought trumped up charges against their political
+    opponents and executed them for drug trafficking, sexual, and other
+    criminal offences. Thousands of alleged drug traffickers have been
+    sentenced to death following judicial processes that fail to meet
+    international standards. The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of guilt The reports contain no
+    information regarding the evidence presented against the defendant at the
+    trial. Defense No information is available on the defendant s defense.
+    Judgment The judge sentenced the defendant to death. The Jomhuri Eslami
+    report specifies that the sentence included confiscation of property for
+    six of the accused. It is not clear whether or not Mr. Pili (Fili) s
+    properties were confiscated.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/12832/habib-pili-fili"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

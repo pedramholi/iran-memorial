@@ -1,0 +1,52 @@
+id: taqi-farkhondeh-mohammad-1982
+name_latin: "farkhondeh Mohammad taqi"
+name_farsi: "فرخنده محمد تقی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1982-01-01
+age_at_death: 18
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The information about Ms. Farkhondeh Mohammadtaqi is drawn from an
+    interview with a person familiar with this case. She was born in Tehran in
+    1963. She was a high school student and a sympathizer of the Mojahedin
+    Khalq Organization. According to those close to her, she was very quiet
+    and kind. Her brother, Reza Keivanzad, was also executed in 1985. Arrest
+    and detention Ms. Farkhondeh Mohammadtaqi was arrested in September 1981
+    by Revolutionary Guards who were wearing plain clothes inside her father’s
+    home. The Guards said that they were taking her only to ask a few
+    questions. She was detained at Evin Prison, Section 209. The interviewee
+    quotes Ms. Mohammadtaqi’s cellmates that she was severely tortured. Trial
+    No information is available on the defendant’s trial. Charges No
+    information is available on Ms. Farkhondeh Mohammadtaqi’s charges.
+    According to the interviewee, the religious judge told her that she was
+    “obstinate, stubborn, and a believer in Mojahedin.” The validity of the
+    criminal charges brought against this defendant cannot be ascertained in
+    the absence of the basic guarantees of a fair trial. Evidence of guilt The
+    report of this execution contains no evidence provided against the
+    defendant. Defense No information is available about her defense. Judgment
+    Ms. Farkhondeh Mohammadtaqi was executed by a firing squad in January
+    1982. According to the interviewee, the officials did not inform her
+    family of her execution. About three months later, officials called her
+    family and told them to go to Behesht-e Zahra Cemetery (in Tehran) and ask
+    for her burial place. Her burial place was number 76, row 36 in section
+    92.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/36182/farkhondeh-mohammad-taqi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

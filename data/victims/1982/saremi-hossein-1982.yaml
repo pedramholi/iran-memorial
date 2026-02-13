@@ -1,0 +1,80 @@
+id: saremi-hossein-1982
+name_latin: "Hossein Saremi"
+name_farsi: "حسین صارمی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1982-02-04
+age_at_death: null
+place_of_death: "Sanandaj"
+province: "Kordestan"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    Mr. Hossein Saremi (The Democratic Party of Iranian Kurdistan) is one of
+    the 12028 individuals listed in an addendum to the Mojahed magazine (No
+    261), published by Mojahedin Khalq Organization in 1985. The list includes
+    individuals, affiliated with various opposition groups, who were executed
+    or killed during clashes with the Islamic Republic security forces from
+    June 1981 to the publication date of the magazine. The Democratic Party of
+    Iranian Kurdistan (PDKI) was founded in Mahabad (West Azarbaijan province)
+    in August 1945 and replaced the “Komalay Ziyanaway Kurd” (Council of
+    Kurdish Resurrection, the first Kurd political group). In January 1946,
+    while the North West parts of Iran were occupied by the Army of the former
+    Soviet Union, the PDKI announced self-determination of “Mahabad Republic”
+    which lasted for only 11 months. After the fall of the Mahabad Republic,
+    the leaders of the PDKI were executed or imprisoned; some went underground
+    or fled to Iraqi Kurdistan. After some time, the Party resumed its
+    activities until with the coup of 1953 and the fall of Mossadeq’s
+    government, it was repressed and turned to armed struggle. During the
+    Revolution of 1979, the PDKI came to power in certain areas in the Western
+    Iran. Conflicts between the new central Shiite government of Iran and the
+    mainly Sunni province of Kordestan, regarding the role of minorities in
+    the drafting of the constitution, specification of Shiite as the official
+    state religion, and particularly the autonomy of the region, ended in
+    armed clashes between the Revolutionary Guards and the peshmerga (the
+    militia of the PDKI) particularly in the cities of Sanandaj (Kurdistan
+    province) and Paveh (Kermanshah province). Subsequent to such conflicts
+    that resulted in some casualties, on August 18, 1979, Ayatollah Khomeini
+    issued an order to the military and the armed forces to “move to Paveh and
+    end the fighting…” In the same order, he encouraged them to use force and
+    threatened that: “if they do not move toward Paveh within 24 hours with
+    missiles and tanks and all necessary arsenals, I will hold them
+    accountable. And in case of any infringement of this order, I will treat
+    them in a Revolutionary manner” ( Sahifeh-ye Emam , p. 285). On August 19,
+    Ayatollah Khomeini called the PDKI the “party of Satan” and declared it
+    “unofficial and illegal” noting that some of these “anti-Islamic”
+    individuals had boycotted the referendum of April 1, when people went to
+    polls to vote for or against the Islamic regime ( ibid p. 311). In
+    accordance with Khomeini’s order, Ayatollah Sadeq Khalkhali traveled the
+    western region of Iran and condemned many individuals to summary
+    execution. Mass executions and conflicts continued for many months in the
+    region. Disagreements between PDKI and the other major Kurd Organization
+    called Komaleh brought about the death of hundreds of members on both
+    sides. Moreover, as a result of the ruthless repression by the Islamic
+    Republic, many members of the PDKI fled to Iraq. The Islamic Republic
+    continued its fights against the PDKI. Various leaders of the Party were
+    assassinated, such as Abdorrahman Qasemlu (Vienna, 1989), and Mohammad
+    Sadeq Sharafkandi (Berlin, 1992). Arrest and detention The circumstances
+    of this defendant’s arrest and detention are not known. Trial No
+    information is available on the defendant’s trial. Charges The charge
+    brought against the defendant is not known. Evidence of guilt The report
+    of this execution does not contain information regarding the evidence
+    provided against the defendant. Defense No information is available on Mr.
+    Saremi’s defense. Judgment There is no information on the verdict leading
+    to this execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/63884/hossein-saremi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

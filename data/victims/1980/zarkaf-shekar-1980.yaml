@@ -1,0 +1,50 @@
+id: zarkaf-shekar-1980
+name_latin: "Shekar Zarkaf"
+name_farsi: "شکر زرکف"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-07-25
+age_at_death: null
+place_of_death: "Ahvaz"
+province: "Khuzestan"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of Ms. Shekar Zarkaf was reported by the correspondent of
+    Pars News Agency in Ahvaz. The report was published in the Jomhuri Eslami
+    daily (July 26, 1980) Arrest and detention The circumstances of this
+    defendant s arrest and detention are unknown. Trial No specific
+    information about the circumstances of the trial is available. Charges The
+    report quoted the news headquarters of the Islamic Revolutionary Guards,
+    which announced the defendant s charges as several acts incompatible with
+    chastity , selling her body repeatedly , making oppressed girls available
+    to unchaste men , and obtaining and distributing drugs. The validity of
+    the criminal charges brought against this defendant cannot be ascertained
+    in the absence of the basic guarantees of a fair trial. International
+    human rights organizations have drawn attention to reports indicating that
+    the Islamic Republic s authorities have brought trumped up charges against
+    their political opponents and executed them for drug trafficking, sexual,
+    and other criminal offences. Thousands of alleged drug traffickers have
+    been sentenced to death following judicial processes that fail to meet
+    international standards. The exact number of people convicted based on
+    trumped-up charges is unknown Evidence of guilt The report contains no
+    information about the evidence presented against the defendant. Defense No
+    information is available on the defendant s defense. Judgment The Islamic
+    Revolutionary Public Prosecutor of Dezful sentenced Ms. Zarkaf to death.
+    She stood before the firing squad at dawn on July 25, 1980.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/12958/shekar-zarkaf"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

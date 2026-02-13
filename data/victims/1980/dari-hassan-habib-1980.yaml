@@ -1,0 +1,63 @@
+id: dari-hassan-habib-1980
+name_latin: "Hassan (Habib) Dari"
+name_farsi: "حسن (حبیب) دری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-08-15
+age_at_death: null
+place_of_death: "Esfahan"
+province: "Esfahan"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Mr. Hasan Dari and two others convicted of participation
+    in an unrealized coup d’etat plan known as Noje was reported by the
+    correspondent of the Jomhuri Eslami daily in Isfahan (August 18, 1980). In
+    his 07/19/1980 indictment (published in the Enqelab Eslami and Jomhuri
+    Eslami dailies, July 20, 1980), the public prosecutor provided the
+    following “necessary explanation” about some other participants of this
+    coup d’etat that was never put to practice: “This conspiracy is not a
+    single incident and these conspirators cannot be considered ordinary
+    convicts. These are criminals who have undermined the newly-found truth,
+    honor, and dignity of a liberated umma [community of Muslim people].
+    Considering that and by consulting the holly verses of the Koran regarding
+    the punishment of the ‘rebel’ against the Islamic sovereign, it is
+    imperative that the convicts receive their punishment according to the
+    Shari’a law.” According to previous reports and communiqués (Jomhuri
+    Eslami daily, July 20 and 31, 1980), the network involved in the planning
+    of the coup d’etat consisted of both military and civilian members. Arrest
+    and detention No information is available on the circumstances of Mr.
+    Dari’s arrest and detention. Trial Based on the report, the Second Special
+    Branch of the Army’s Office of Prosecution held session in Isfahan on
+    Thursday evening, 08/14/80, to try seven civilians allegedly involved in
+    planning the above-mentioned coup d’etat. The reading of the indictment by
+    the Army’s public prosecutor was preceded by the recitation of a few lines
+    from the Holy Koran. The trial lasted 5 hours. Charges According to this
+    report, the defendants were collectively accused of plotting a potential
+    coup d’etat. Although the report does not provide any specific information
+    on this un-launched coup d’etat plot, a previous communiqué of the Army’s
+    Islamic Revolutionary Tribunal (Jomhuri Eslami daily, July 20, 1980)
+    indicates that the coup d'etat was intended to establish an "American
+    social democratic" regime and to organize a referendum so that people
+    could decide on the nature of the political regime. Evidence of guilt The
+    report does not provide any information on the evidence presented against
+    the defendant. Defense No information on the accused’s defense is
+    available. Judgment The Second Special Branch of the Army’s Office of
+    Prosecution in Isfahan sentenced Mr. Dari to death. The sentence was
+    carried immediately on the night of the trial.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/15665/hassan-habib-dari"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

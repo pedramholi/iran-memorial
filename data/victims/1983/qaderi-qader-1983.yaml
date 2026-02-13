@@ -1,0 +1,28 @@
+id: qaderi-qader-1983
+name_latin: "Qader Qaderi"
+name_farsi: "قادر قادری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim (Sunni)"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1983-12-11
+age_at_death: null
+place_of_death: "Azarbaijan-e Gharbi Province"
+province: "Azarbaijan-e Gharbi"
+cause_of_death: "Extrajudicial Execution"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/84071/qader-qaderi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

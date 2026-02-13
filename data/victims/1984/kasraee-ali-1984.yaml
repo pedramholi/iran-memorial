@@ -1,0 +1,53 @@
+id: kasraee-ali-1984
+name_latin: "Ali Kasraee"
+name_farsi: "علی کسرایی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1984-07-09
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Ali Kasraee, along with 24 others, was announced in a
+    communiqu by the public relations of the Anti-Narcotics Section of the
+    Public Prosecutor s Office in Tehran. The communiqu was reported in the
+    Jomhuri Eslami daily on July 10, 1984. Arrest and detention The
+    circumstances of this defendant s arrest and detention are not known.
+    Trial No information is available on the defendant s trial. Charges
+    According to this communiqu , Mr. Kasraee was charged with being
+    consistenly and actively involved in supplying and distributing narcotics,
+    dealing 300 to 400 kg of opium once, organizing an international
+    drug-trafficking gang, possessing 59 kg of opium and having a criminal
+    record for supplying and distributing opium. The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic s authorities have brought trumped up charges against
+    their political opponents and executed them for drug trafficking, sexual,
+    and other criminal offences. Thousands of alleged drug traffickers have
+    been sentenced to death following judicial processes that fail to meet
+    international standards. The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against the defendant. Defense No information is available on Mr. Kasraee
+    s defense. Judgment The Anti-Narcotics Islamic Revolutionary Tribunal
+    declared Mr. Kasraee a corruptor on earth and sentenced him to death. The
+    sentence was carried out in prison at dawn.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/30623/ali-kasraee"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

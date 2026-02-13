@@ -1,0 +1,53 @@
+id: bastarni-abdolhai-1982
+name_latin: "Abdolha'i Bastarni"
+name_farsi: "محمد بسترنی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1982-09-12
+age_at_death: 29
+place_of_death: "Sanandaj"
+province: "Kordestan"
+cause_of_death: "Fatal"
+circumstances: >
+    The news of the execution of Mr. Mohammad Bastarni, along with seventeen
+    others, was published in Jomhuri Eslami on September 18, 1982. Arrest and
+    detention The circumstances of this defendant’s arrest and detention are
+    not known. Trial No information is available on the defendant’s trial.
+    Charges According to this report, Mr. Bastarni and other defendants were
+    collectively charged with “collaboration with the counter-revolutionary
+    grouplets who are enemies of God, activities against the Islamic Republic,
+    attacking the fellow members of the police and military forces, trading
+    weapons, extortion, committing the hideous act of sodomy, drug dealing and
+    having relations with the members of the infidel Baas party.” There is no
+    mention of the specific charges against the defendant. The validity of the
+    criminal charges brought against this defendant cannot be ascertained in
+    the absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic’s authorities have brought trumped-up charges against
+    their political opponents and executed them for drug trafficking, sexual,
+    and other criminal offences. Each year, Iranian authorities sentence to
+    death hundreds of alleged common criminals, following judicial processes
+    that fail to meet international standards. The exact number of people
+    convicted based on trumped-up charges is unknown. Evidence of guilt The
+    report of this execution does not contain information regarding the
+    evidence provided against the defendant. Defense No information is
+    available on Mr. Bastarni’s defense. Judgment The Islamic Revolutionary
+    Tribunal of Sanandaj declared Mr. Bastarni an enemy of God and a corruptor
+    and sentenced him to death. He was executed on September 12, 1982.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/30411/abdolhai-bastarni"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

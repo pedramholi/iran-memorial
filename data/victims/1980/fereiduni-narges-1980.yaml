@@ -1,0 +1,48 @@
+id: fereiduni-narges-1980
+name_latin: "Narges Fereiduni"
+name_farsi: "نرگس فریدونی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-06-29
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Ms. Narges Fereiduni and another individual was reported
+    by the correspondent of Jomhuri Eslami daily in Qazvin (June 24, 1980)
+    Arrest and detention The circumstances of this defendant s arrest and
+    detention are not known. Trial The report mentioned that Ms. Fereiduni s
+    case was examined at the Islamic Revolutionary Tribunal for Combatting
+    Drugs and Narcotics located at Qasr Prison. However, no specific
+    information about the circumstances of the trial was provided. Charges
+    Based on this report, Ms. Fereiduni was charged with promoting young girls
+    prostitution and having 36 criminal records in distributing drugs. The
+    validity of the criminal charges brought against defendants cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    International human rights organizations have drawn attention to reports
+    indicating that the Islamic Republic s authorities have brought trumped up
+    charges against their political opponents and executed them for drug
+    trafficking, sexual, and other criminal offences. The exact number of
+    people convicted based on trumped-up charges is unknown. Evidence of guilt
+    The report of this execution does not contain information regarding the
+    evidence provided against the defendant. Defense No information is
+    available on the accused s defense. Judgment Based on the report, Ms.
+    Fereiduni was sentenced to death. She was executed at dawn.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/12755/narges-fereiduni"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,63 @@
+id: amirfathi-hojjatollah-1979
+name_latin: "Hojjatollah Amirfathi"
+name_farsi: "حجت الله امیرفتحی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1979-04-15
+age_at_death: null
+place_of_death: "Ardebil"
+province: "Ardebil"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    Major Hojjatollah Amirfathi is one of 438 victims listed in a March 13,
+    1980 Amnesty International report. The report lists defendants who were
+    convicted by Revolutionary Tribunals in the period from their inception
+    until 12 August 1979. The list of victims and charges is drawn from
+    sources including translations of indictments, reports of trials carried
+    out by local and foreign media and the bulletins of the official Pars News
+    Agency reports. Further information regarding Major Amirfathi s execution
+    was sent to Omid via an electronic form by a person familiar with this
+    case. Arrest and detention According to the electronic form, Major
+    Amirfathi was arrested by the Tehran Committee on April 13, 1979 at 10 am.
+    He was taken to Qasr Prison for one day before being transferred to the
+    Revolutionary Committee of Ardebil. He detained for two days during which
+    he had a short visit with his family. Trial Based on the available
+    information on the form, Major Amirfathi was tried at Ardebil s former
+    police headquarters on April 14, 1979. His trial reportedly lasted 5 hours
+    and he was denied an attorney. Charges The charges against Major
+    Amirfathi, as listed in the Amnesty International report, are: corruption
+    on earth, war on God, mass murder, destroying property, illegal entry into
+    people s houses, as well as armed attack and/or attacking people s homes.
+    The validity of the criminal charges brought against this defendant cannot
+    be ascertained in the absence of the basic guarantees of a fair trial.
+    International human rights organizations have drawn attention to reports
+    indicating that the Islamic Republic s authorities have executed
+    individuals on trumped up-charges such as drug trafficking, sexual, and
+    other criminal offences. The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of guilt According to the form,
+    the evidence used against Major Amirfathi was the complaints against him
+    by some former members of the SAVAK [former regime s political police]. On
+    the form it is mentioned that the witnesses against the defendant were
+    ill-intentioned and accused him of charges for which they did not have
+    sufficient evidence. Defense No information is available on his defense
+    except that he had no legal representation. Judgment Mr. Hojjatollah
+    Amirfathi was sentenced to death and executed on April 15, 1979 at the
+    Ardebil Committee. No further information is available regarding this
+    defendant s sentencing.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-3534/hojjatollah-amirfathi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,28 @@
+id: shir-ebrahim-khan-1979
+name_latin: "Ebrahim Khan Shir"
+name_farsi: "ابراهیم خان شیر"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1979-09-03
+age_at_death: null
+place_of_death: "Gorgan"
+province: "Mazandaran"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/28459/ebrahim-khan-shir"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

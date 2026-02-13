@@ -1,0 +1,59 @@
+id: jafari-qasem-1980
+name_latin: "Qasem Ja'fari"
+name_farsi: "قاسم جعفری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-07-21
+age_at_death: 44
+place_of_death: "Shahr-e Rey"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of Mr. Qasem Ja fari, father of three, was reported in the
+    Jomhuri Eslami daily (July 22, 1980). Arrest and detention Based on the
+    report, the defendant was arrested at his work place the night before his
+    execution. Trial The report mentioned that the defendant was tried the
+    morning after his arrest at the Special Revolutionary Tribunal of District
+    14 in Shar-e Ray. Charges Mr. Qasem Ja'fari was charged with an act
+    incompatible with chastity. The report specifies that the defendant, a
+    policeman during the Shah s, was fired before the revolution for the same
+    crime and worked at a restaurant since then. He was arrested for deluding
+    many young small-town boys and sexually assaulting them. The validity of
+    the criminal charges brought against this defendant cannot be ascertained
+    in the absence of the basic guarantees of a fair trial. International
+    human rights organizations have drawn attention to reports indicating that
+    the Islamic Republic s authorities have brought trumped up charges against
+    their political opponents and executed them for drug trafficking, sexual,
+    and other criminal offences. Each year, Iranian authorities sentence to
+    death hundreds of alleged common criminals, following judicial processes
+    that fail to meet international standards. The exact number of people
+    convicted based on trumped-up charges is unknown. Evidence of guilt The
+    report of this execution does not contain any information regarding the
+    evidence provided against the defendant. Defense No information is
+    available on the defendant s defense. Judgment Mr. Ja'fari was found
+    guilty of corruption on earth. He was shot to death by District 14
+    Revolutionary Guards at 2 pm, within an hour since the issuance of the
+    verdict, at one of the headquarters in the district. In response to why
+    they did not present the case to the Islamic Revolutionary Tribunal of the
+    Center before carrying out the sentence on their own, the head of District
+    14 Committee s Task Force mentioned that the Special Revolutionary
+    Tribunal held by this Committee took orders from the same Ayatollahs as
+    the Center (Ayatollah Meshkini and Ayatollah Montazeri), which was why
+    they did not seek consultation from the Center.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/12941/qasem-jafari"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

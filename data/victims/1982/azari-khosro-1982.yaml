@@ -1,0 +1,56 @@
+id: azari-khosro-1982
+name_latin: "Khosro Azari"
+name_farsi: "خسرو آذری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1982-01-01
+age_at_death: 19
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The news about the execution of Mr. Khosro Azari was sent to the Boroumand
+    Foundation via an electronic form by a person familiar with his case.
+    According to this information, Mr. Azari, son of Abolhasan, was born in
+    Hamadan in 1963. He was a high school graduate, a conscripted soldier at
+    the army, and a sympathizer of the Fadaiyan Khalq Organization
+    (Minority).* The Fadaiyan Khalq Organization, a Marxist Leninist group
+    inspired by the Cuban Revolution and the urban guerilla movements of Latin
+    America, was founded in 1971 by two communist groups opposed to the
+    Pahlavi regime. Following the 1979 revolution, the Organization, which had
+    renounced armed struggle, split over their support of the Islamic Republic
+    and of the Soviet Union. The Fadaiyan Khalq Minority opposed the Islamic
+    Republic and was active mainly in the political arena and the labor
+    movement. Arrest and detention According to the information in the
+    electronic form, Mr. Azari was arrested in Tehran and transferred to the
+    Evin Prison. Trial According to the electronic form, Mr. Azari was tried
+    by an Islamic Revolutionary Court and his trial lasted for about 5
+    minutes. Charges According to the electronic form, Mr. Azari was charged
+    with apostasy and membership in the Fadaiyan Khalq Minority.” The validity
+    of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    Evidence of guilt There is no information on evidence presented against
+    this defendant. Defense No information is available on the defendant’s
+    defense. Judgment According to the electronic form, Mr. Azari was
+    condemned to death by an Islamic Revolutionary Court was and his death
+    sentence was carried out by a firing squad at the Evin Prison in Tehran in
+    1982.
+    ________________________________________________________________________ *
+    The electronic form is the only source of information about this case.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/64551/khosro-azari"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,60 @@
+id: bijari-gholam-reza-1981
+name_latin: "Gholam Reza Bijari"
+name_farsi: "غلام رضا بیجاری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-12-26
+age_at_death: 24
+place_of_death: "Mashhad"
+province: "Khorasan\\Khorasan-e Razavi"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of Mr. Gholam Reza Bijari, son of Mohammad Hossein, along
+    with 20 other individuals, was announced in a communiqué of the Public
+    Relations department of the Central Islamic Revolutionary Prosecutor’s
+    Office and published in the Jomhuri Eslami newspaper on December 30, 1981.
+    Mr. Bojari is also one of the 12028 individuals listed in an addendum to
+    the Mojahed magazine (No 261), published by Mojahedin Khalq Organization
+    in 1985. The list includes individuals, affiliated with various opposition
+    groups, who were executed or killed during clashes with the Islamic
+    Republic security forces from June 1981 to the publication date of the
+    magazine. Additional information has been sent to Omid via an electronic
+    form by an individual familiar with this case. Mr. Bijari was born in
+    Bijar (today’s South Khorasan province) into a farmer family. He was
+    affiliated with the Mojahedin Khalq Organization. The communiqué of the
+    Prosecutor’s Office begins with this verse of the Koran: “Verily, the
+    hypocrites shall be in the lowest depth of the fire” [4: 145]. Arrest and
+    detention The circumstances of this defendant’s arrest and detention are
+    not known other than he was arrested in Mashad by the Revolutionary
+    Guards. Trial No information is available on the defendant’s trial.
+    Charges The personal charge brought against Mr. Bijari is not known. He
+    and 11 other individuals were collectively charged with: “membership of
+    the military-political division of the Hypocrites, participation in
+    several assassinations, causing armed clashes, participation in illegal
+    demonstrations and identification of individuals, activities in safe
+    houses and houses of corruption, throwing Molotov Cocktails and setting
+    buses on fire, causing explosions with gas and grenades, possessions and
+    carrying arms.” The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. Evidence of guilt The report of this execution does not
+    contain information regarding the evidence provided against the defendant.
+    Defense No information is available on Mr. Bijari’s defense. Judgment An
+    Islamic Revolutionary tribunal condemned Mr. Gholam Reza Bijari to death.
+    He and 11 other individuals were executed on December 26, 1981 in Mashad.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4889/gholam-reza-bijari"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

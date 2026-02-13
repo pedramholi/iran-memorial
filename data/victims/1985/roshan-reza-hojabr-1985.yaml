@@ -1,0 +1,52 @@
+id: roshan-reza-hojabr-1985
+name_latin: "Reza Hojabr Roshan"
+name_farsi: "رضا هژبر روشن"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1985-05-21
+age_at_death: null
+place_of_death: "Kerman"
+province: "Kerman"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Reza Hojabr Roshan, son of Shir Ali, along with 6
+    others, was announced in a communiqué of the Islamic Revolutionary
+    Prosecution’s Office of Kerman and reported in the Kayhan newspaper on May
+    21, 1985. Arrest and detention The circumstances of this defendant’s
+    arrest and detention are not known. Trial Mr. Hojabr Roshan was tried at
+    the Islamic Revolutionary Tribunal of Kerman. No other information is
+    available on the trial. Charges According to the report, Mr. Hojabr Roshan
+    was charged with “dealing and distributing 2.25 kg of heroin as well as
+    buying and transporting 10.3 kg of heroin.” The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic’s authorities have brought trumped-up charges against
+    their political opponents and executed them for drug trafficking, sexual,
+    and other criminal offences. Each year, Iranian authorities sentence to
+    death hundreds of alleged common criminals, following judicial processes
+    that fail to meet international standards. The exact number of people
+    convicted based on trumped-up charges is unknown. Evidence of guilt No
+    information is available concerning the evidence presented against the
+    accused. Defense No information is available on Mr. Hojabr Roshan’s
+    defense. Judgment The Islamic Revolutionary Tribunal of Kerman sentenced
+    Mr. Hojabr Roshan to death. The Islamic Revolutionary Supreme Court
+    approved the sentence. He and ten other men were hanged on May 21, 1985 at
+    prison of the Police Department of Kerman.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/60764/reza-hojabr-roshan"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

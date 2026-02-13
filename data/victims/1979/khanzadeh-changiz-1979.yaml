@@ -1,0 +1,28 @@
+id: khanzadeh-changiz-1979
+name_latin: "Changiz Khanzadeh"
+name_farsi: "چنگیز خان زاده"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1979-07-12
+age_at_death: null
+place_of_death: "Orumieh"
+province: "Azarbaijan-e Gharbi"
+cause_of_death: "Execution » Shooting"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-3669/changiz-khanzadeh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

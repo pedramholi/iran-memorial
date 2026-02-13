@@ -1,0 +1,55 @@
+id: abbasi-aliaqa-1987
+name_latin: "Aliaqa Abbasi"
+name_farsi: "علی آقا عباسی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1987-12-23
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Aliaqa Abbasi was reported in the Kayhan newspaper on
+    December 24, 1987. Arrest and detention The circumstances of this
+    defendant’s arrest and detention are not known. Trial No information is
+    available on the defendant’s trial. Charges According to the report, Mr.
+    Abbasi was charged with “first-degree murder.” The validity of the
+    criminal charges brought against this defendant cannot be ascertained in
+    the absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic’s authorities have brought trumped-up charges against
+    their political opponents and executed them for drug trafficking, sexual,
+    and other criminal offences. Each year, Iranian authorities sentence to
+    death hundreds of alleged common criminals, following judicial processes
+    that fail to meet international standards. The exact number of people
+    convicted based on trumped-up charges is unknown. Evidence of guilt The
+    report of this execution does not contain information regarding the
+    evidence provided against the defendant. Defense No information is
+    available on Mr. Abbasi’s defense. Judgment Branch 135 of Penal Court
+    sentenced Mr. Abbasi to death. Having been confirmed by Branch 16 of the
+    Supreme Court and the Head of the Supreme Judicial Council, the sentence
+    was carried out in prison at dawn. According to the report, Mr. Abbasi
+    “was taken from the solitary confinement to the prison guard’s room at
+    4:30 a.m. At first… the religious rituals were performed. Then after
+    saying his morning prayers and writing his will, the convict was taken to
+    the gallows. He was executed in the presence of the director of the
+    Prison, Assistant Prosecutor and forensic doctor. His body was removed
+    from the gallowed and carried to the Department of Forensic Medicine after
+    12 minutes.”
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/60661/aliaqa-abbasi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,63 @@
+id: dashti-ezzatollah-1979
+name_latin: "Ezzatollah Dashti"
+name_farsi: "عزت الله دشتی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1979-04-10
+age_at_death: 38
+place_of_death: "Borujerd"
+province: "Lorestan"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The information regarding Mr. Ezzatollah Dashti s case is collected from
+    Kayhan Daily (10 and 11 April, 1979) and an Eform which a person close to
+    him sent Abdorrahman Boroumand Foundation (ABF) on 6 December 2010. Mr.
+    Dashti was born in Anuj village in Malayer, a city in Hamedan Province in
+    western Iran. He was a lieutenant in the police force in Borujerd in
+    Lorestan Province in the west of Iran. He was not affiliated with any
+    political parties or groups. He had 4 children, 2 daughters and 2 sons
+    (ABF Eform). Arrest and detention Mr. Dashti turned himself in to the
+    Revolutionary Committees in Tehran in March 1979 according to a person
+    close to him (ABF Eform). Trial The Revolutionary Tribunal of Borujerd
+    tried Mr. Dashti with two others. According to Kayhan, this was an open
+    trial in which 200 people attended. It lasted for 12 hours (Kayhan, 11
+    April, 1979). The court was held in the building of the Borujerd
+    Municipality (ABF Eform). Charges According to a person close to Mr.
+    Dashti, he was charged with shooting warning shots, waging war on god,
+    beating protesters, kissing the hand of the former queen, Farah, and being
+    loyal to Shah and the country (ABd Eform). Kayhan did not report the
+    details of Mr. Dashti s charges individually, but it generally reported
+    that Mr. Dashti along with another defendants were charged with murder,
+    beating, torture, and trespassing on private property (Kayhan, 11 April
+    1979). Evidence of guilt Kayhan referred to some testimonies against Mr.
+    Dashti. According to the information which was sent to ABF, the witnesses
+    were not neutral and they were paid to testify against the defendant.
+    Other than these testimonies, there was no other evidence against Mr.
+    Dashti (ABF Eform). Defense There is no information about Mr. Dashti s
+    defense. According to the information which was sent to ABF, he was
+    deprived of his rights to access a lawyer or prepare his defense, etc. He
+    was also denied the right to appeal the verdict (ABF Eform). The word
+    which Kayhan used for his trial was interrogation which per se can create
+    doubts about the court s neutrality (Kayhan, 11 April 1358). Judgment The
+    Revolutionary Tribunal of Borujerd declared Mr. Dashti guilty and
+    sentenced him to death. This verdict was carried out at 5:20 a.m. on 10
+    April 1979 in the Central Prison of Borujerd by a fire squad. The next
+    day, Kayhan published a picture of Mr. Dashti, tied up to an execution
+    pole and blindfolded.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-3564/ezzatollah-dashti"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

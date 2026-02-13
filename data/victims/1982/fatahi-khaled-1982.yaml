@@ -1,0 +1,58 @@
+id: fatahi-khaled-1982
+name_latin: "Khaled Fatahi"
+name_farsi: "خالد فتاحی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1982-08-16
+age_at_death: null
+place_of_death: "Kordestan Province"
+province: "Kordestan"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of Mr. Khaled Fatahi, along with two others, was reported in
+    the Jomhuri Eslami daily on August 29, 1982. Mr. Khaled Fatahi (Democratic
+    Party of Iranian Kordestan) is also one of the 12028 individuals listed in
+    an addendum to the Mojahed magazine (No 261), published by Mojahedin Khalq
+    Organization in 1985. The list includes individuals, affiliated with
+    various opposition groups, who were executed or killed during clashes with
+    the Islamic Republic security forces from June 1981 to the publication
+    date of the magazine. The Democratic Party of Iranian Kordestan (PDKI) was
+    founded in 1945 with the objective to gain autonomy for Kurdistan, in
+    north-west of Iran. After the Revolution, conflicts between the new
+    central Shiite government and the mainly Sunni Kurdistan, regarding the
+    role of minorities in the drafting of the constitution, specification of
+    Shiite as the official state religion, and particularly the autonomy of
+    the region, ended in armed clashes between the Revolutionary Guards and
+    the peshmerga (the militia of the PDKI). The PDKI boycotted the referendum
+    of April 1, when people went to polls to vote for or against the Islamic
+    regime. On August 19, 1979 Ayatollah Khomeini called the PDKI the “party
+    of Satan” and declared it “unofficial and illegal.” Mass executions and
+    fighting broke out and continued for several months in the region. By
+    1983, PDKI had lost much of its influence in the region. Various leaders
+    of the PDKI have been assassinated. Arrest and detention The circumstances
+    of this defendant’s arrest and detention are not known. Trial No
+    information is available on the defendant’s trial. Charges Mr. Fatahi was
+    reported to be charged with “collaborating with Kurdestan Democratic Party
+    (KDP) and being armed when arrested during the clash in Ali Abad, located
+    in Naqdareh.” Evidence of guilt The report of this execution does not
+    contain information regarding the evidence provided against the defendant.
+    Defense No information is available on Mr. Fatahi’s defense. Judgment The
+    Islamic Revolutionary Tribunal of Takab sentenced Mr. Fatahi to death. The
+    sentence was carried out.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-5654/khaled-fatahi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

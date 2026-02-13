@@ -1,0 +1,41 @@
+id: vaziri-lotfollah-azimi-1982
+name_latin: "Lotfollah Azimi Vaziri"
+name_farsi: "لطف الله عظیمی وزیری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1982-03-12
+age_at_death: null
+place_of_death: "Ilam"
+province: "Ilam"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The executions of Mr. Lotfollah Azimi Vaziri and another defendant were
+    published in the Jomhuri Eslami daily on March 13, 1982. Arrest and
+    detention The circumstances of this defendant’s arrest and detention are
+    not known. Trial No information is available on the defendant’s trial.
+    Charges According to this report, Mr. Azimi Vaziri’s charges were
+    “attempting to strengthen the detested Monarchy, widespread propaganda
+    against the Islamic Republic and in favor of Hoveida who was executed,
+    apostasy from the true religion of Islam.” Evidence of guilt The report of
+    this execution does not contain information regarding the evidence
+    provided against the defendant. Defense No information is available on Mr.
+    Azimi Vaziri’s defense. Judgment The Islamic Revolutionary Tribunal of
+    Ilam sentenced Mr. Azimi Vaziri to death. Having been confirmed by the
+    Supreme Court of the Islamic Revolution, the sentence was carried out.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/23620/lotfollah-azimi-vaziri"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,80 @@
+id: amani-mohammad-taqi-1983
+name_latin: "Mohammad Taqi Amani"
+name_farsi: "محمدتقی امانی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1983-02-17
+age_at_death: 27
+place_of_death: "Tabriz"
+province: "Azarbaijan-e Sharqi"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    Information about Mr. Mohammad Taqi Amani was obtained from an Omid
+    Memorial electronic form filled in by a friend who went to college with
+    him, as well as from a book published by Rah-e Kargar titled Our Martyrs
+    for Freedom and Socialism . Additional information about Mr. Amani s
+    detention was obtained from one of his former fellow inmates. The news of
+    Mr. Amani s execution also appeared in an addendum to the Mojahed magazine
+    published by the People s Mojahedin of Iran Organization (No 261,
+    September 6, 1985). The addendum lists 12028 individuals, affiliated with
+    various opposition groups, who were executed or killed during clashes with
+    the Islamic Republic security forces from June 1981 to the publication
+    date of the magazine. Mr. Amani was born in 1955 in Zanjan to a working
+    class family. He was a student at the Social Science Faculty of Tehran
+    University and was active in student and anti-monarchy movements before
+    the revolution. In 1976, he was arrested and sentenced to five years in
+    prison, but he was released in 1979. He started his collaboration with
+    Rah-e Kargar Organization shortly after. He had an extensive social
+    network, was calm and graceful, and very popular among his friends and
+    others. He enjoyed reading, thinking, and debating. Rah-e Kargar or
+    Organization of the Revolutionary Workers of Iran announced its existence
+    in July 1979. The organization consisted of various leftist groups that
+    opposed guerilla warfare, were in favor of political opposition, and
+    proclaimed themselves as Marxist-Leninists for socialist revolution and
+    rule of the proletariat. They differed from the Tudeh Party (communist
+    party supportive of the Soviet Union) in that they opposed the Islamic
+    Republic and Ayatollah Khomeini s leadership from the beginning. Arrest
+    and detention Mr. Amani, a resident of Tehran, was dispatched by the
+    Organization to Tabriz for organizational activities since the spring of
+    1981. Based on the report in the book published by Rah e Kargar, Mr. Amani
+    was arrested randomly along with 40 other young people on a Tabriz street.
+    His former fellow inmate testified that Mr. Amani was heavily tortured but
+    did not reveal any information about his role in the Organization. About a
+    year later, when further information about his activities was disclosed,
+    he was tortured once again, this time for ten days. Trial Mr. Amani was
+    tried twice. The fist time, he was sentenced to life in prison. But a year
+    later, upon receiving new information, they took him to court again and
+    this time he was sentenced to death. The details of his trials remain
+    unknown. Charges No information about the charges brought against Mr.
+    Amani is available. He was not allowed to have an attorney during his
+    detention and trial. Evidence of guilt The report of this execution does
+    not contain information regarding the evidence provided against the
+    defendant. Defense No information is available on Mr. Amani s defense.
+    Judgment The details of the verdict are unknown. According to a friend who
+    went to college with the defendant, the news of Mr. Amani s execution was
+    published in one of the nation s official newspapers in early November,
+    1981. This is while a former fellow inmate saw him in Tabriz Prison after
+    this date, some time in late November or December, 1981. In the list
+    prepared by the People s Mojahedin of Iran Organization, the date of Mr.
+    Amani s execution is mentioned as February 17, 1983. He was executed in
+    Tabriz. Mr. Amani received a visit from his mother before his execution in
+    the prison. The book published by Rah e Kargar reports that he looked at
+    his mother with tears in his eyes and said: Mother, don t think that I m
+    crying. These are only tears of joy. I m happy that I was able to succeed.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/38963/mohammad-taqi-amani"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

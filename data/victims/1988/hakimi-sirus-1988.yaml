@@ -1,0 +1,98 @@
+id: hakimi-sirus-1988
+name_latin: "Sirus Hakimi"
+name_farsi: "سیروس حکیمی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1988-01-01
+age_at_death: 48
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The information about Mr. Sirus Hakimi has been sent to Omid, via an
+    electronic form, by a friend. Additional information has been drawn from
+    the book The Martyrs of the Tudeh Party of Iran , by the Tudeh Party
+    Publications. Mr. Hakimi graduated from the Military College and was a
+    First Captain in the Navy. He was also a member of the Tudeh Party of
+    Iran. He was married and had 5 children. He was a victim of the mass
+    killings of political prisoners in 1988. The majority of the executed
+    prisoners were members of the Mojahedin Khalq Organization. Other victims
+    included members or sympathizers of Marxist-Leninist organizations, such
+    as the Fedaiyan Khalq (Minority) and the Peykar Organization, which
+    opposed the Islamic Republic, as well as the Tudeh Party and the Fedaiyan
+    Khalq (Majority), which did not. Information about the mass executions has
+    been gathered by the Boroumand Foundation from the memoir of Ayatollah
+    Montazeri, reports of human rights organizations, interviews with victims’
+    families, and witnesses’ memoirs. The Tudeh Party of Iran was created in
+    1941. The Tudeh’s ideology was Marxist Leninist and it supported the
+    former Soviet Union's policies. The Party played a major role on Iran's
+    political scene until it was banned for a second time following the August
+    19, 1953 coup. After the 1979 Revolution, the Tudeh declared Ayatollah
+    Khomeini and the Islamic Republic regime revolutionaries and
+    anti-imperialists and actively supported the new government. Although the
+    Party never opposed the Islamic Republic, it became the target of its
+    attacks from 1982 when most of the Party’s leaders and members were
+    imprisoned. Arrest and detention There is no specific information on the
+    defendant’s arrest and detention, other than Mr. Hakimi was arrested by
+    the Revolutionary Guards in April/May 1983. Trial Mr. Hakimi was tried in
+    Evin prison and condemned to ten years imprisonment. Specific details on
+    the circumstances of the trials that led to the execution of Mr. Hakimi
+    and thousands of other individuals in 1988 are not known. According to
+    existing information, there was no official trial with the presence of an
+    attorney and prosecutor. Those who were executed in 1988 were sent to a
+    three-man committee consisting of a religious judge, a representative from
+    the Intelligence Ministry, and a Public Prosecutor of Tehran. This
+    committee asked the leftist prisoners some questions about their beliefs
+    and whether or not they believed in God. The relatives of political
+    prisoners executed in 1988 refute the legality of the judicial process
+    that resulted in thousands of executions throughout Iran. In their 1988
+    open letter to then Minister of Justice Dr. Habibi, they argue that the
+    official secrecy surrounding these executions is proof of their
+    illegality. They note that an overwhelming majority of these prisoners had
+    been tried and sentenced to prison terms, which they were either serving
+    or had already completed serving when they were retried and sentenced to
+    death. Charges At his first trial, Mr. Hakimi was charged with “membership
+    of the Tudeh Party of Iran.” No charge has been publicly leveled against
+    the victims of the 1988 mass executions. In their letters to the Minister
+    of Justice (1988), and to the UN Special Rapporteur visiting Iran
+    (February 2003), the families of the victims refer to the authorities
+    accusations against the prisoners – accusations that may have led to their
+    execution. These accusations include being “counter-revolutionary,
+    anti-religion, and anti-Islam,” as well as being “associated with military
+    action or with various [opposition] groups based near the borders.” An
+    edict of the Leader of the Islamic Republic, Ayatollah Khomeini,
+    reproduced in the memoirs of Ayatollah Montazeri, his designated
+    successor, corroborates the reported claims regarding the charges against
+    the executed prisoners. In this edict, Ayatollah Khomeini refers to
+    members of the Mojahedin Khalq Organization as “hypocrites” who do not
+    believe in Islam and “wage war against God” and decrees that prisoners who
+    still approve of the positions taken by this organization are also “waging
+    war against God” and should be sentenced to death. Defendants, who did not
+    belong to the Organization named by the leader of the Islamic Republic,
+    may have been accused of being “anti-religion” for not having renounced
+    his or her beliefs. Evidence of guilt The report of this execution does
+    not contain information regarding the evidence provided against the
+    defendant. Defense No information is available on Mr. Hakimi’s defense. In
+    their open letter, the families of the prisoners noted that defendants
+    were not given the opportunity to defend themselves in court. The same
+    letter, rebutting the accusation that these prisoners (from inside the
+    prison) had collaborated with armed members of the Mojahedin Organization
+    in clashes with armed forces of the Islamic Republic, states that such
+    claims “are false considering the circumstances in prisons; for our chi
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4214/sirus-hakimi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

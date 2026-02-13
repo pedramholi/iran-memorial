@@ -1,0 +1,43 @@
+id: masudzadeh-jalil-1980
+name_latin: "Jalil Mas'udzadeh"
+name_farsi: "جلیل مسعود زاده"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-04-12
+age_at_death: null
+place_of_death: "Abadan"
+province: "Khuzestan"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Mr. Jalil Mas udzadeh was reported by the Ettela at daily
+    from Abadan (April 12, 1980). Arrest and detention No information is
+    available on the circumstances of this defendant s arrest and detention.
+    Trial The report mentioned that the Islamic Revolutionary Tribunal of
+    Abadan met at midnight to try Mr. Mas udzadeh. Charges According to the
+    report, the defendant s charges were as follows: assaulting and engaging
+    in armed clashes at the Islamic Revolutionary Public Prosecution Office of
+    Abadan, resulting in the escape of an imprisoned criminal, as well as
+    obtaining a weapon and using it in acts of sedition. The report provides
+    no specific detail regarding the crimes the defendant has been charged
+    with. Evidence of guilt There is no information about the evidence
+    presented against the defendant. Defense The report provides no
+    information on the accused s defense. Judgment The Tribunal found Mr. Mas
+    udzadeh guilty of corruption on earth and waging war against God. He was
+    executed at 3:30 in the afternoon, 3 days after his trial.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/12631/jalil-masudzadeh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

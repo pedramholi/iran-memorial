@@ -1,0 +1,60 @@
+id: salahshur-dariush-1981
+name_latin: "Dariush Salahshur"
+name_farsi: "داریوش سلحشور"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam (Shi'a)"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-11-29
+age_at_death: 19
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The information about the execution of Mr. Dariush Salashur and 29 other
+    individuals was released in a communiqu of the Central Public Prosecutor s
+    Office, and published in the newspaper Kayhan on December 1, 1981. This
+    execution was also reported in an addendum to the Mojahed magazine (No
+    261), published by Mojahedin Khalq Organization in 1985. The list includes
+    12028 individuals, affiliated with various opposition groups, who were
+    executed or killed during clashes with the Islamic Republic security
+    forces from June 1981 to the publication date of the magazine. The
+    information about Mr. Salahshur, a sympathizer of the Mojahedin Khalq
+    Organization (MKO), is taken from the MKO website. He was known as "Mehdi
+    Rezai'i" in the prison. Arrest and detention The circumstances of this
+    defendant s arrest and detention are unknown. Trial No information is
+    available on the defendant s trial. According to the website of the
+    Mojahedin, a trial was staged for him in front of the foreign reporters.
+    Charges Based on the Kayhan newspaper s report, the Public Prosecutor s
+    Office stated the following charges against Mr. Salashur: being one of the
+    heads of the armed forces of the Hypocrites Organization [the name the
+    Islamic regime had for the MKO], identifying the Hezbollahi people and
+    locating their houses and other revolutionary institutions. The validity
+    of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    Evidence of guilt The report of this execution does not contain
+    information regarding the evidence provided against the defendant. Defence
+    No detailed information is available about the Mr. Salahshur s defence.
+    However, the MKO website quotes part of his defence in the court: "With
+    the suppression of freedoms, the ruling regime stands against the
+    revolutionary forces. That's why I took up arms. My action is not
+    anti-revolutionary or fighting against God. On the contrary, follows the
+    path of the revolution." Judgment According to the official communiqu of
+    the Public Prosecutor s Office, Mr. Salashur, along with 29 others, were
+    declared corruptors, enemies of God and fighters against God and sentenced
+    to death. He was executed on November 29, 1981 at the Evin Prison.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8832/dariush-salahshur"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

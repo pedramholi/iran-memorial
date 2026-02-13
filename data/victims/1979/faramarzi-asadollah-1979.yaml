@@ -1,0 +1,54 @@
+id: faramarzi-asadollah-1979
+name_latin: "Asadollah Faramarzi"
+name_farsi: "اسدالله فرامرزی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1979-10-04
+age_at_death: null
+place_of_death: "Aligudarz"
+province: "Lorestan"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of Mr. Asadollah Faramarzi was reported by the correspondent
+    of the Kayhan daily in Aligudarz and the correspondent of Pars News Agency
+    in Qom (October 4, 1979). The Enqelab Eslami daily of October 4 published
+    the Pars News Agency report. The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that the Islamic Republic’s
+    authorities have brought trumped up charges against their political
+    opponents and executed them for drug trafficking, sexual, and other
+    criminal offences. Each year, Iranian authorities sentence to death
+    hundreds of alleged common criminals, following judicial processes that
+    fail to meet international standards. The exact number of people convicted
+    based on trumped-up charges is unknown. Arrest and detention The
+    circumstances of this defendant’s arrest and detention are not known.
+    Trial The Kayhan report specified that Mr. Faramarzi’s trial at the
+    Islamic Revolutionary Public Prosecution Office of Aligudarz was public
+    and lasted 10 hours. Charges Mr. Faramarzi, referred to in the Kayhan
+    report as “one of the prominent landowners of the Deh Haji and Kahriz
+    region,” was charged with “violating people’s sexual honor”, “assault
+    resulting in death”, and “creating terror among people.” Evidence of guilt
+    The Kayhan report of this execution referred only to the “witnesses’
+    testimonies” as the evidence presented against the defendant. Defense The
+    Kayhan report mentioned that Mr. Faramarzi’s defense was heard, but the
+    nature and circumstances of the defense remain unknown. Judgment Mr.
+    Faramarzi was sentenced to death. The sentence was carried out at 1 a.m.,
+    based on the Kayhan repor, or at 2:30 a.m., based on the Pars report.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/11789/asadollah-faramarzi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

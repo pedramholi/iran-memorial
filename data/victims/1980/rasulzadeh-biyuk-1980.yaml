@@ -1,0 +1,50 @@
+id: rasulzadeh-biyuk-1980
+name_latin: "Biyuk Rasulzadeh"
+name_farsi: "بیوک رسول زاده"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-07-14
+age_at_death: null
+place_of_death: "Tabriz"
+province: "Azarbaijan-e Sharqi"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Mr. Biyuk Rasulzadeh and 6 others was reported by the
+    correspondent of the Jomhuri Eslami daily in Tabriz (July 15, 1980). The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    International human rights organizations have drawn attention to reports
+    indicating that the Islamic Republic s authorities have brought trumped up
+    charges against their political opponents and executed them for drug
+    trafficking, sexual, and other criminal offences. Each year, Iranian
+    authorities sentence to death hundreds of alleged common criminals,
+    following judicial processes that fail to meet international standards.
+    The exact number of people convicted based on trumped-up charges is
+    unknown. Arrest and detention The circumstances of this defendant s arrest
+    and detention are not known. Trial There is no information available about
+    the circumstances of the trial. Charges Based on the report, Mr.
+    Rasulzadeh and his co-defendant were charged with acts incompatible with
+    chastity and repeated sodomy, so much so that this immoral and filthy act
+    had become like a chronic disease with them. Evidence of guilt The report
+    does not contain information regarding the evidence provided against the
+    defendant. Defense No information is available on Mr. Rasulzadeh s
+    defense. Judgment The Islamic Revolutionary Tribunal of Tabriz declared
+    Mr. Rasulzadeh a corruptor on earth and sentenced him to death. He was
+    executed in the evening.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/12889/biyuk-rasulzadeh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,54 @@
+id: bari-samir-1980
+name_latin: "Samir Bari"
+name_farsi: "سمیر بری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-07-27
+age_at_death: null
+place_of_death: "Abadan"
+province: "Khuzestan"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of Mr. Samir Bari was announced in a communiqu of the
+    Islamic Revolutionary Public Prosecution Office of Abadan and Khoramshahr,
+    published in the Jomhuri Eslami daily (July 29, 1980). Arrest and
+    detention No information is available on the circumstances of this
+    defendant s arrest and detention. Trial Based on the communiqu , the
+    defendant was tried at the Islamic Revolutionary Tribunal of Abadan and
+    Khoramshahr in July 29, 1980. Charges According to the communiqu , Mr.
+    Bari was accused of being an Iraqi spy. Specifically, he was charged with
+    passing on reports to the Ba th party about the Abadan refinery, the
+    Islamic Revolutionary Tribunal, the Enqelab (Revolution) prison, and the
+    Kuwaities bazaar. Allegedly, he was one of the top students of the Ba th
+    Party s student union. Having completed the arms training sessions with
+    highest degrees and after working under the direct supervision of Faruq
+    Al- ami, the head of the union, he had volunteered to go to Abadan on an
+    espionage mission. Evidence of guilt The communiqu mentioned that the
+    verdict was issued based on the defendant s confessions as well as
+    discovered reels and tapes. Defense No information is available on the
+    defendant s defense. Judgment After quoting some Koranic verses, the
+    communiqu reads as follows: Once again the Ba th party was struck by God s
+    cunning. Sometimes in Kurdistan, sometimes in Khuzestan, they committed
+    the most wicked criminal acts with the illusion that they could lead this
+    wounded nation s Islamic Republic astray. What an illusion! Once again a
+    mercenary spy was caught in the grip of the Islamic Justice to see the
+    results of his shameful acts. Mr. Bari was found guilty of corruption on
+    earth and waging war against God. He was executed at 5:42 p.m. on the day
+    of his trial.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/12983/samir-bari"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,46 @@
+id: ilbeigi-mohammad-ali-1982
+name_latin: "Mohammad Ali Ilbeigi"
+name_farsi: "محمد علی ایل بیگی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1982-01-01
+age_at_death: null
+place_of_death: "Iran"
+province: null
+cause_of_death: "Fatal"
+circumstances: >
+    The execution of Mr. Mohammad Ali Ilbeigi, along with two others, was
+    announced in a communiqué by the public relations of the Islamic
+    Revolution’s Public Prosecutor’s Office which was quoted in the Jomhuri
+    Eslami daily on August 5, 1982. Arrest and detention The circumstances of
+    this defendant’s arrest and detention are not known. Trial No information
+    is available on the defendant’s trial. Charges Mr. Ilbeigi was reported to
+    be charged with “organizational contacts with other active members and
+    supporters of the Mujahedin-e Khalq Organization (MKO), continued
+    political, military, cultural and propagandistic activities in favor of
+    the organization, activisim in the Muslim Students Association affiliated
+    with the organization and establishing a safe house for the organization.”
+    Evidence of guilt The report of this execution does not contain
+    information regarding the evidence provided against the defendant. Defense
+    No information is available on Mr.Ilbeigi’s defense. Judgment “The Islamic
+    Revolutionary Tribunal of Mashad declared Mr. Ilbeigi an enemy of God and
+    the Prophet as well as rebellious against God and people and sentenced him
+    to death since his culpability was obvious.” Having been confirmed by the
+    Islamic Revolutionary Supreme Tribunal, the sentence was carried out.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/28949/mohammad-ali-ilbeigi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

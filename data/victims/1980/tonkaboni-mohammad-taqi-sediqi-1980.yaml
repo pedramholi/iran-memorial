@@ -1,0 +1,58 @@
+id: tonkaboni-mohammad-taqi-sediqi-1980
+name_latin: "Mohammad Taqi Sediqi Tonkaboni"
+name_farsi: "محمد تقی صدیقی تنکابنی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-02-18
+age_at_death: null
+place_of_death: "Sari"
+province: "Mazandaran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of Major Mohammad Taqi Sediqi Tonkaboni and another
+    individual was reported in the Ettela’at daily (February 19, 1980).
+    Additional information has been sent to Omid via an electronic form by an
+    individual familiar with this case. The sender of this form remembers
+    Major Sediqi Tonkaboni was as “an exemplary pious and liberated
+    individual.” He taught at the Police Academy and had been transferred to
+    Mazandaran province about a year prior to his arrest. Arrest and detention
+    The circumstances of this defendant’s arrest and detention are not known.
+    Trial There is no information regarding this trial other than Major Sediqi
+    Tonkaboni was tried at the Islamic Revolutionary Tribunal of Sari
+    (Mazandaran province). Charges According to the report, the defendant was
+    charged with “murder and suppression of demonstrators as well as acting
+    towards strengthening the foundations of the detested former regime and
+    preventing the spread of the Iranian nation’s Islamic Revolution.” The
+    report provides no other information regarding these charges. The validity
+    of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    Evidence of guilt No information is available concerning the evidence
+    presented against the accused. Defense No information is available
+    concerning Major Sediqi Tonkaboni’s defense. Judgment According to the
+    electronic form, the court condemned Major Mohammad Taqi Tonkaboni to one
+    year imprisonment, which he served in Sari prison. When the religious
+    judge, Ayatollah Sadeq Khalkhali was on a trip to prosecute ethnic
+    Torkamans, he spent a night in Sari, during which he visited the Sari
+    prison. There, he re-tried Major Sediqi Tonkaboni and condemned him to
+    death. Based on the newspaper report, the Islamic Revolutionary Tribunal
+    of Sari declared Major Sediqi Tonkaboni a “corruptor on earth” and “at war
+    with God and His Prophet.” This Tribunal may refer to the same re-trial by
+    Aatollah Khalkhali. He personally shot Major Sediqi Tonkaboni with his own
+    hand-gun (electronic form).
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4918/mohammad-taqi-sediqi-tonkaboni"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

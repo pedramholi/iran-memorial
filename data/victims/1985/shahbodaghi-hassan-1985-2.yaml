@@ -1,0 +1,48 @@
+id: shahbodaghi-hassan-1985-2
+name_latin: "Hassan Shahbodaghi"
+name_farsi: "حسن شاه بداغی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1985-01-01
+age_at_death: null
+place_of_death: "Mashhad"
+province: "Khorasan\\Khorasan-e Razavi"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Mr. Hassan Shahbodaghi, along with ten others, was
+    reported in the Kayhan Daily on April 10, 1985. The validity of the
+    criminal charges brought against this defendant cannot be ascertained in
+    the absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic’s authorities have brought trumped up charges against
+    their political opponents and executed them for drug trafficking, sexual,
+    and other criminal offences. Thousands of alleged drug traffickers have
+    been sentenced to death following judicial processes that fail to meet
+    international standards. The exact number of people convicted based on
+    trumped-up charges is unknown Arrest and detention The circumstances of
+    this defendant’s arrest and detention are not known. Trial No information
+    is available on the defendant’s trial. Charges According to this report,
+    Mr. Shahbodaghi was “a professional drug trafficker.” Evidence of guilt
+    The report of this execution does not contain information regarding the
+    evidence provided against the defendant. Defense No information is
+    available on Mr. Shahbodaghi’s defense. Judgment The Islamic Revolutionary
+    Tribunal of Mashad sentenced Mr. Shahbodaghi to death. Having been
+    confirmed by the Islamic Revolution’s Supreme Court, the sentence was
+    carried out.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/31519/hassan-shahbodaghi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,53 @@
+id: jabbari-hormoz-1979
+name_latin: "Hormoz Jabbari"
+name_farsi: "هرمز جباری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1979-07-06
+age_at_death: null
+place_of_death: "Mashhad"
+province: "Khorasan\\Khorasan-e Razavi"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The information regarding Mr. Hormoz Jabari s execution was drawn from
+    Kayhan Daily on 7 July 1979. Mr. Jabari was a police officer and Head of
+    the Execution Unit of the Common Counter-Sabotage Committee in Mashhad,
+    Khorasan Province northeastern Iran. Arrest and detention The
+    circumstances of Mr. Jabari s arrest and detention are not known. Trial
+    The Revolutionary Tribunal of Mashhad tired Mr. Jabari along with five
+    others on 5 July 1979. This was the 13th session of this court since its
+    establishment. Charges Kayhan Daily reported Mr. Jabari s charges as the
+    following: effective participation in operation, planning and surrendering
+    the houses of guerillas; arresting the warriors as the Head of the
+    Execution Unit of the so-called Common Counter-Sabotage Committee;
+    murdering a person named, Hashem Baba Ali; throwing tear gas at Baba Ali s
+    landlord s house which made the landlady come outside with her child and
+    then the agents shot at them. These shootings made the landlady
+    handicapped and injured the child Evidence of guilt No information is
+    available concerning the evidence presented against Mr. Jabari. Defense No
+    information is available concerning Mr. Jabari s defense and it is not
+    clear if he had the opportunity to defend himself; for example, if he
+    could summon witnesses on his behalf or if he had the legal assistance of
+    an attorney. The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. Judgment The Revolutionary Tribunal of Mashhad after 5 hours
+    of deliberation declared Mr. Jabari guilty of corruption on earth and war
+    on God and the Prophet of God. He was sentenced to death. The sentence was
+    carried out at 2:45 a.m. on 6 July 1979.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-3313/hormoz-jabbari"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

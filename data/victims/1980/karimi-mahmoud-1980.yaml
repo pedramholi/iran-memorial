@@ -1,0 +1,28 @@
+id: karimi-mahmoud-1980
+name_latin: "Mahmoud Karimi"
+name_farsi: "محمود کریمی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-08-07
+age_at_death: null
+place_of_death: "Sanandaj"
+province: "Kordestan"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/61319/mahmoud-karimi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,60 @@
+id: pakiman-abbas-1983
+name_latin: "Abbas Pakiman"
+name_farsi: "عباس پاک ایمان"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1983-08-02
+age_at_death: 31
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The information about Mr. Abbas Pakiman has been sent to Omid by an
+    individual familiar with this case, via an electronic form. Mr. Pakiman
+    was born in Hamedan in May/June 1952. He had a bachelor’s degree in
+    business administration. He was initially a sympathizer of the Mojahedin
+    Khalq Organization who later became a Marxist and joined the Arman-e
+    Kargar Organization. Later he joined Razmandegan, and then the Sahand
+    Organization. He was a husband and a father of one. The Sahand
+    Organization (or Ettehad-e Mobarezan-e Komonist”) was founded after the
+    Islamic Revolution of February 1979, with a specific focus on ideology.
+    After Sahand developed the project of the Communist Party of Iran in 1982,
+    and the Party was founded by Sahand and Komala and remainders of such
+    Communist organizations as Peykar, Razmandegan, and some affiliates of the
+    Fadaiyan Khalq. Komala in Kurdistan became the center of the Communist
+    Party of Iran, whose main publication was the “Communist” monthly
+    magazine. Arrest and detention The details of Mr. Pakiman’s arrest and
+    detention are not known. He was arrested on Match 11, 1982. The
+    Revolutionary Guardsmen interrogated him at the Joined Committee and Evin
+    prison; the interrogation lasted for about one year. He had only a few
+    visits with his family. Trial There is no detailed information regarding
+    this trial, other than Mr. Pakiman was tried at the Joined Committee of
+    the Police in September 1982. The trial lasted for 20 minutes. Charges Mr.
+    Pakiman was, reportedly, charged with “opposition to the Islamic Republic,
+    and membership to anti-Islamic groups.” The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. Evidence of guilt
+    According to the available information, the report and testimony of the
+    interrogators and the indictment were used as evidence of guilt. Defense
+    No information is available concerning Mr. Pakiman’s defense. He was
+    denied the right to have an attorney or access to his file. Judgment The
+    court condemned Mr. Pakiman to death. Mr. Pakiman was denied the right to
+    appeal to this verdict. He was shot by a firing squad in Tehran on August
+    2, 1983.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/41852/abbas-pakiman"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

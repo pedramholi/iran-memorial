@@ -1,0 +1,62 @@
+id: shafii-haman-1981
+name_latin: "Haman Shafi'i"
+name_farsi: "حامان شفیعی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-08-15
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    Mr. Haman Shafi’i, a Fadayian Khalq Guerrilla Organization supporter, is
+    also one of the 12,028 individuals listed in an addendum to the Mojahed
+    magazine (No 261), published by Mojahedin Khalq Organization in 1985. The
+    list includes individuals, affiliated with various opposition groups, who
+    were executed or killed during clashes with the Islamic Republic security
+    forces from June 1981 to the publication date of the magazine. The
+    Fadayian Khalq Guerrilla Organization, a Marxist Leninist group inspired
+    by the Cuban Revolution and the urban guerrilla movements of Latin
+    America, was founded in 1971 by two communist groups opposed to the
+    Pahlavi regime. Following the 1979 revolution, the Organization, which had
+    renounced armed struggle, split over their support of the Islamic Republic
+    and of the Soviet Union. A number of the Organization’s members, who did
+    not renounce armed struggle, founded the group the Fadayian Khalq
+    Guerrillas (Ashraf Dehqani Branch). Arrest and detention The circumstances
+    of Mr. Shafi’i’s arrest and detention are not known. Trial According to
+    the Central Islamic Revolutionary Tribunal’s communiqué, the Central
+    Islamic Revolutionary Tribunal issued the sentences for Mr. Shafi’i and 18
+    other individuals. No information is available on the Mr. Shafi’i’s trial.
+    Charges The Central Islamic Revolutionary Prosecutor’s Office communiqué
+    announced the following charges against Mr. Shafi’i and 18 other
+    individuals “waging war on God and His Prophet,” “supporting anti-people
+    grouplets,” “attacking innocent civilians and assault, battery and murder
+    of the same,” “living in safe houses,” “acting to overthrow the Islamic
+    Republic,” “planning the assassination of state dignitaries,” and
+    “attempting to implement the plans of world imperialism, particularly
+    America.” This communiqué referred to the executed individuals as those
+    “waging war on God and the Prophet.” According to this communiqué, the
+    only charge specific to Mr. Shafi’i was the following: “member of the
+    American grouplet of Ashraf Dehqan”. Evidence of guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against Mr. Shafi’i. Defense No information is available on Mr. Shafi’i’s
+    defense. Judgment The Central Islamic Revolutionary Tribunal sentenced Mr.
+    Shafi’i to death. Mr. Shafi’i was executed by a firing squad on August 15,
+    1981.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-5563/haman-shafii"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

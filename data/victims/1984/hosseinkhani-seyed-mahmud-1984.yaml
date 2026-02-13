@@ -1,0 +1,60 @@
+id: hosseinkhani-seyed-mahmud-1984
+name_latin: "Seyed Mahmud Hosseinkhani"
+name_farsi: "سیدمحمود حسین خانی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1984-03-11
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Seyed Mahmud Hosseinkhani, along with 21 others, was
+    announced in a communiqu by the Anti-Narcotics Section of the Public
+    Prosecutor s Office. The communiqu was reported in the Jomhuri Eslami
+    daily on March 11, 1984. The communiqu states: the Anti-Narcotics Section
+    of the Islamic Revolution s Public Prosecutor s Office sentenced 22
+    professional traffickers who were mercenaries and servants of foreigners.
+    These firm and revolutionary sentences were issued in reply to the calling
+    of the valiant people that scream with all of their hearts: Fight, fight,
+    fight until victory! and in defiance of our second war imposed by the
+    estekbar-e jahani (Universal Arrogance). Arrest and detention The
+    circumstances of this defendant s arrest and detention are not known.
+    Trial No information is available on the defendant s trial. Charges
+    According to this report, Mr. Hosseinkhani was charged with being actively
+    involved in the supply and distribution of opium, possessing 104.500 kg of
+    opium when arrested, supervising the transportation of 300 kg of opium
+    from Gonabad to Kerman, buying 95 kg of opium in Kerman and selling it in
+    Tehran at two different times as well as having a criminal record for
+    supplying and distributing opium. The validity of the criminal charges
+    brought against this defendant cannot be ascertained in the absence of the
+    basic guarantees of a fair trial. International human rights organizations
+    have drawn attention to reports indicating that the Islamic Republic s
+    authorities have brought trumped up charges against their political
+    opponents and executed them for drug trafficking, sexual, and other
+    criminal offences. Thousands of alleged drug traffickers have been
+    sentenced to death following judicial processes that fail to meet
+    international standards. The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against the defendant. Defense No information is available on Mr.
+    Hosseinkhani s defense. Judgment The Anti-Narcotics Islamic Revolutionary
+    Tribunal sentenced Mr. Hosseinkhani to death. Having been confirmed by the
+    Supreme Court, the sentence was carried out in Qasr prison at dawn.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/31039/seyed-mahmud-hosseinkhani"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

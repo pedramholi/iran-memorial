@@ -1,0 +1,52 @@
+id: eshraqi-habibollah-1979
+name_latin: "Habibollah Eshraqi"
+name_farsi: "حبیب الله اشراقی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1979-10-03
+age_at_death: null
+place_of_death: "Esfahan Province"
+province: "Esfahan"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Mr. Habibollah Eshraqi was reported by the Kayhan
+    correspondent in Esfahan (October 4, 1979). Arrest and detention The
+    report specified that Mr. Eshraqi had been released on bail after having
+    been detained and kept in prison for a long while but that he had been
+    re-arrested after that. Trial Mr. Eshraqi’s case was examined at the
+    Islamic Revolutionary Tribunal of Esfahan, presided by the religious
+    judge. Charges Mr. Eshraqi, “former director of Shir va Khorshid e Sorkh
+    [Red Lion and Sun, Iranian Red Cross under the Shah], former head of the
+    Art and Culture Bureau and head of the School of Midwifery who had been
+    directing the Shir va Khorshid and other institutions for 29 years,” was
+    charged with the following: “Embezzlement of millions of Tomans from
+    Muslims’ treasury, providing means for debauchery for himself and those
+    associated with the regime and the detested Pahlavi family, inciting to
+    corruption and prostitution many young girls and boys and forcing them to
+    act in an inhuman way, and persisting in strengthening the hated Pahlavi
+    Regime.” Evidence of guilt The report of this execution only referred to
+    the “witnesses’ testimonies and complaints” as the evidence of guilt
+    presented against the defendant. Defense It was said that Mr. Eshraqi’s
+    defense was heard, but the nature and circumstances of the defense remain
+    unknown. Judgment Following the reading of the indictment, and after
+    hearing the complaints and the defense, the Tribunal deliberated and
+    declared Mr. Eshraqi guilty of “corruption on earth” and “waging war
+    against God.” He was condemned to execution and confiscation of property.
+    The death sentence was carried out immediately.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/11780/habibollah-eshraqi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

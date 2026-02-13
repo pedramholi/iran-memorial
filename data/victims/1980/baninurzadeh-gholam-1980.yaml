@@ -1,0 +1,49 @@
+id: baninurzadeh-gholam-1980
+name_latin: "Gholam Baninurzadeh"
+name_farsi: "غلام بنی نورزاده"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-08-02
+age_at_death: null
+place_of_death: "Mashhad"
+province: "Khorasan\\Khorasan-e Razavi"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Mr. Gholam Baninurzadeh and another person was reported
+    by the correspondent of the Jomhuri Eslami daily in Mashhad (August 4,
+    1980). Arrest and detention The circumstances of this defendant s arrest
+    and detention are not known. Trial No specific information about the
+    circumstances of the trial was provided. Charges Based on the report, Mr.
+    Baninurzadeh was charged with carrying 30 kilograms of heroin and a
+    sidearm as well as collaboration with drug dealers. The validity of the
+    criminal charges brought against this defendant cannot be ascertained in
+    the absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic s authorities have brought trumped up charges against
+    their political opponents and executed them for drug trafficking, sexual,
+    and other criminal offences. Each year, Iranian authorities sentence to
+    death hundreds of alleged common criminals, following judicial processes
+    that fail to meet international standards. The exact number of people
+    convicted based on trumped-up charges is unknown. Evidence of guilt The
+    report contains no information regarding the evidence presented against
+    the defendant. Defense No information is available on Mr. Baninurzadeh s
+    defense. Judgment The Special Islamic Revolutionary Tribunal for Combating
+    Drugs and Narcotics in the East of the Country sentenced Mr. Baninurzadeh
+    to death. He was executed at dawn.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/13030/gholam-baninurzadeh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

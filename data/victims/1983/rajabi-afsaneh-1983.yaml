@@ -1,0 +1,49 @@
+id: rajabi-afsaneh-1983
+name_latin: "Afsaneh Rajabi"
+name_farsi: "افسانه رجبی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1983-04-07
+age_at_death: 22
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    Ms. Afsaneh Rajabi is one of the 12028 individuals listed in an addendum
+    to the Mojahed magazine (No 261), published by Mojahedin Khalq
+    Organization in 1985. The list includes individuals, affiliated with
+    various opposition groups, who were executed or killed during clashes with
+    the Islamic Republic security forces from June 1981 to the publication
+    date of the magazine. Additional information has been drawn from an
+    electronic form sent to Omid by an individual familiar with this case.
+    According to the electronic form, she was a member of the Mojahedin Khalq
+    Organization. Arrest and detention The exact circumstances of this
+    defendant’s arrest and detention are not known. According to the form, she
+    had escaped prison once and went underground. Torture wounds were visible
+    on her body. After some time, an individual close to her was arrested and
+    tortured in order to disclose her location. She was re-arrested and was
+    detained in Qasr and Evin prisons. Trial No information is available on
+    the defendant’s trial. Charges According to the form, Ms. Rajabi was
+    charged with affiliation with the Mojahedin Khalq Organization. Evidence
+    of guilt The report of this execution does not contain information
+    regarding the evidence provided against the defendant. Defense No
+    information is available on Ms. Rajabi’s defense. Judgment Ms. Afsaneh
+    Rajabi was executed by a firing squad in Tehran on April 7, 1983 ( Mojahed
+    ).
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4766/afsaneh-rajabi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

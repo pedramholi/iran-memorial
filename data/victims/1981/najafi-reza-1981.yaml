@@ -1,0 +1,46 @@
+id: najafi-reza-1981
+name_latin: "Reza Najafi"
+name_farsi: "رضا نجفی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-10-06
+age_at_death: null
+place_of_death: "Ahvaz"
+province: "Khuzestan"
+cause_of_death: "Fatal"
+circumstances: >
+    The execution of Mr. Reza Najafi, son of Seyed Reza, was announced in the
+    Kayhan and the Jomhuri Eslami newspaper on October 8, 1981. Arrest and
+    detention The circumstances of this defendant’s arrest and detention are
+    not known. Trial No information is available on the defendant’s trial
+    other than he was tried at the Islamic Revolutionary Tribunal of Ahvaz.
+    Charges Mr. Najafi was charged with “several counts of the despicable act
+    of sodomy”. The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. International human rights organizations have drawn
+    attention to reports indicating that the Islamic Republic’s authorities
+    have brought trumped-up charges against their political opponents and
+    executed them for drug trafficking, sexual, and other criminal offences.
+    The exact number of people convicted based on trumped-up charges is
+    unknown. Evidence of guilt The report of this execution does not contain
+    information regarding the evidence provided against the defendant. Defense
+    No information is available on his defense. Judgment In accordance with
+    the Islamic Revolutionary Tribunal of Ahvaz, Mr. Reza Najafi was executed
+    on October 6, 1981 at dawn.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-5018/reza-najafi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

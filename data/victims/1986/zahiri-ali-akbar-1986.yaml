@@ -1,0 +1,49 @@
+id: zahiri-ali-akbar-1986
+name_latin: "Ali Akbar Zahiri"
+name_farsi: "علی اکبر ظهیری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1986-03-04
+age_at_death: null
+place_of_death: "Bakhtaran"
+province: "Bakhtaran"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Mr. Akbar Zahiri was reported in the Kayhan daily on
+    March 4, 1986. Arrest and detention The circumstances of this defendant’s
+    arrest and detention are not known. Trial No information is available on
+    the defendant’s trial. Charges According to this report, Mr. Zahiri was
+    charged with murder. The validity of the criminal charges brought against
+    this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that the Islamic Republic’s
+    authorities have brought trumped-up charges against their political
+    opponents and executed them for drug trafficking, sexual, and other
+    criminal offences. Each year, Iranian authorities sentence to death
+    hundreds of alleged common criminals, following judicial processes that
+    fail to meet international standards. The exact number of people convicted
+    based on trumped-up charges is unknown. Evidence of guilt The report of
+    this execution does not contain information regarding the evidence
+    provided against the defendant. Defense No information is available on Mr.
+    Zahiri's defense. Judgment Mr. Zahiri was sentenced to death. No
+    information is available about the court which issued the death sentence.
+    After being confirmed by the Supreme Court, the sentence (Qesas or law of
+    Talion) was carried out in front of the victim’s next of kin (avengers of
+    blood) at Bakhtaran’s Dizelabad prison.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/35749/ali-akbar-zahiri"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,49 @@
+id: teimurshahi-teimur-1979
+name_latin: "Teimur Teimurshahi"
+name_farsi: "تیمور تیمورشاهی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1979-10-02
+age_at_death: null
+place_of_death: "Tehran Province"
+province: "Tehran"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Mr. Teimur Teimurshahi was reported by the Kayhan daily
+    (October 2, 1979). The validity of the criminal charges brought against
+    this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that the Islamic Republic’s
+    authorities have brought trumped up charges against their political
+    opponents and executed them for drug trafficking, sexual, and other
+    criminal offences. Each year, Iranian authorities sentence to death
+    hundreds of alleged common criminals, following judicial processes that
+    fail to meet international standards. The exact number of people convicted
+    based on trumped-up charges is unknown. Arrest and detention The
+    circumstances of this defendant’s arrest and detention are not known.
+    Trial Based on the report, the Islamic Revolutionary Tribunal of the
+    Center met in the morning and “after necessary investigations,” issued the
+    sentence. Charges Based on the report, Mr. Teimurshahi was accused of
+    “sodomy.” Evidence of guilt The report of this execution does not contain
+    information regarding the evidence provided against the defendant. Defense
+    No information is available on Mr. Teimurshahi's defense. Judgment Mr.
+    Teimurshahi was sentenced to death, and the sentence was carried out at
+    dawn, in less than 24 hours since the issuance of the verdict. His body
+    was transferred to the morgue.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/11432/teimur-teimurshahi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

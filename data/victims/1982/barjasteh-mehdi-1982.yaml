@@ -1,0 +1,50 @@
+id: barjasteh-mehdi-1982
+name_latin: "Mehdi Barjasteh"
+name_farsi: "مهدی برجسته"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1982-07-05
+age_at_death: null
+place_of_death: "Kashmar"
+province: "Khorasan\\Khorasan-e Razavi"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of Mr. Mahdi Barjasteh, along with three others, was
+    announced by the public relations of the Chief Public Prosecutor of the
+    Islamic Revolution and reported in the Jomhuri Eslami daily on July 14,
+    1982. Mr. Barjasteh is also one of the 12028 individuals listed in an
+    addendum to the Mojahed magazine (No 261), published by Mojahedin Khalq
+    Organization in 1985. The list includes individuals, affiliated with
+    various opposition groups, who were executed or killed during clashes with
+    the Islamic Republic security forces from June 1981 to the publication
+    date of the magazine. Arrest and detention The circumstances of this
+    defendant’s arrest and detention are not known. Trial No information is
+    available on the defendant’s trial. Charges Mr. Barjasteh was reported to
+    be charged with “actively supporting the Mujahedin-e Khalq Organization
+    (MKO), trying to build a safe house, employing forces, contacting liberal
+    Monarchists who had no political affiliation in order to take military
+    action in Kashmar, keeping and making bombs and “se rahi” (kind of
+    explosive) for destructive purposes, constant contact with high-ranking
+    members of MKO and continuing to take commands from them once they had
+    declared their armed battle.” Evidence of guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against the defendant. Defense No information is available on Mr.
+    Barjasteh’s defense. Judgment The Islamic Revolutionary Tribunal of
+    Hamedan sentenced Mr. Barjasteh to death. The sentence was carried out.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-3897/mehdi-barjasteh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,78 @@
+id: tahamtani-abbas-1983
+name_latin: "Abbas Tahamtani"
+name_farsi: "عباس تهمتنی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1983-01-01
+age_at_death: 20
+place_of_death: "Khoy"
+province: "Azarbaijan-e Gharbi"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The information about Mr. Abbas Tahamtani is based on an electronic form
+    sent to Omid by a person familiar with his case. According to the existing
+    information, he was born in Khoy in 1962. He grew up in a middle-class
+    family, had a high school diploma, and was a sympathizer of the Fadaiyan
+    Khalq Minority Organization. Mr. Abbas Tahamtani is one of the 12,028
+    individuals listed in an addendum to the Mojahed magazine (No. 261),
+    published by the Mojahedin Khalq Organization in 1985. The list includes
+    individuals affiliated with various opposition groups, who were executed
+    or killed during clashes with Islamic Republic security forces from June
+    1981 to the publication date of the magazine. His name is also published
+    by the Fadaiyan Khalq Minority Organization in its victims list, In Memory
+    of Unknown Fadai Victims. The Fadaiyan Khalq Organization, a
+    Marxist-Leninist group inspired by the Cuban Revolution and the urban
+    guerilla movements of Latin America, was founded in 1971 by two communist
+    groups opposed to the Pahlavi regime. In 1981, the FKO, which had opted
+    for open political and electoral activity after the revolution, split over
+    the critique of the concept of urban guerilla warfare and the support of
+    the Islamic Republic and of the Soviet Union. The Fadaiyan Khalq Minority
+    opposed the Islamic Republic, and though it did not abandon the theory of
+    armed struggle, its activities were mainly limited to the political arena
+    and the labor movement. Following the Mojahedin Khalq Organization s June
+    21st declaration of armed struggle, the Fadaiyan announced the
+    organization of combatant cells. However, based on available information,
+    these cells did not become operational. Many of the groups members and
+    supporters were arrested and executed in the early 1980 s. Arrest and
+    detention The circumstances of Abbas Tahamtani s arrest and detention are
+    not known. According to information sent to Omid, he was arrested by the
+    Revolutionary Guards in Khoy in November of 1982. He was detained and
+    interrogated at the Basij Center in Khoy. He was denied access to an
+    attorney, and his family was unaware of where he was for some time.
+    According to this report, he was interrogated for three months. Trial No
+    information is available on Mr. Tahamtani s trial. According to the
+    information sent to Omid, his trial took place in Orumieh in the spring of
+    1983. Quoting an eye witness, the trial session lasted only 15 to 20
+    minutes. Charges According to the information sent to Omid, the charges
+    against Mr. Tahamtani were announced in the indictment as sympathizing
+    with Aqalyatte [the Fadaiyan Khalq Minority Organization] and creating
+    study groups. The validity of the criminal charges brought against this
+    defendant cannot be ascertained, given the absence of the basic guarantees
+    of a fair trial. Evidence of guilt The report of Mr. Tahamtani s execution
+    does not contain information regarding the evidence provided against him.
+    Defense No information is available about Mr. Tahamtani s defense.
+    According to information sent to Omid (quoting a person being present at
+    the court), Mr. Tahamtani defended his organization s beliefs. Judgment No
+    specific information is available about Mr. Tahamtani s execution.
+    According to the existing information, he was executed by firing squad in
+    the evening of his trial day, in 1983. The location of his execution,
+    according to the electronic form, was Orumieh. However, other sources
+    reported it as Khoy. The family received the body and buried it at the old
+    cemetery of their town.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7815/abbas-tahamtani"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

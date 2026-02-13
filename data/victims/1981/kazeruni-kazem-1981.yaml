@@ -1,0 +1,65 @@
+id: kazeruni-kazem-1981
+name_latin: "Kazem Kazeruni"
+name_farsi: "کاظم کازرونی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-07-26
+age_at_death: 28
+place_of_death: "Kerman"
+province: "Kerman"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    News of the execution of Mr. Kazem Kazeruni, son of Mohammad, along with
+    four others, was published in the Kayhan newspaper on July 27, 1981. Mr.
+    Kazem Kazeruni is one of the 12,028 individuals listed in an addendum to
+    the Mojahed magazine (No 261), published by the Mojahedin Khalq
+    Organization on September 6, 1985. The list includes individuals,
+    affiliated with various opposition groups, who were executed or killed
+    during clashes with the Islamic Republic security forces from June 1981 to
+    the publication date of the magazine. According to this source, Mr. Kazem
+    Kazeruni was a high school graduate, married, a teacher, and a sympathizer
+    of the Fadaiyan Organization. The Fadaiyan Khalq Organization, a Marxist
+    Leninist group inspired by the Cuban Revolution and the urban guerilla
+    movements of Latin America, was founded in 1971 by two communist groups
+    opposed to the Pahlavi regime. Following the 1979 revolution, the
+    Organization, which had renounced armed struggle, split over their support
+    of the Islamic Republic and of the Soviet Union. The Fadaiyan Khalq
+    Minority opposed the Islamic Republic and was active mainly in the
+    political arena and the labor movement. Arrest and detention There is no
+    specific information on the defendant s arrest and detention. Trial The
+    Islamic Revolutionary Court of Kerman tried Mr. Kazem Kazeruni, but no
+    information is available on the defendant s trial. Charges The charges
+    against Mr. Kazem Kazeruni were announced as, armed uprising against the
+    Islamic Republic of Iran, sympathizing with and offering practical support
+    for a deviant and destructive group of Fadaiyan Khalq Minority that is in
+    war with Islam, and distribution of its publications. The validity of the
+    criminal charges brought against this defendant cannot be ascertained in
+    the absence of the basic guarantees of a fair trial. Evidence of guilt The
+    report of this execution did not provide any specific information on the
+    evidence presented against the defendant. Defense No information is
+    available on Mr. Kazem Kazeruni's defense. Judgment َThe Islamic
+    Revolutionary Court of Kerman identified Mr. Kazem Kazeruni as "Baghi
+    (rebel), Mofsed (corruptor on Earth), Mohareb (fighter) against God and
+    the Prophet, and Mortad (apostate)." He was condemned to death. The ruling
+    was carried out when he was executed by firing squad in Kerman on July 26,
+    1981 at 5 am. No specific information is available about the defendant s
+    execution. The Public and Revolutionary Prosecutor Office of Kerman
+    announced that, because the executed individuals are apostate, they have
+    no right to be buried in the Moslem cemetery.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8817/kazem-kazeruni"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

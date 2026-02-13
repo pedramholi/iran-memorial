@@ -1,0 +1,50 @@
+id: amiri-zabihollah-1986
+name_latin: "Zabihollah Amiri"
+name_farsi: "ذبیح الله امیری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1986-11-25
+age_at_death: null
+place_of_death: "Zahedan"
+province: "Sistan Va Baluchestan"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of Mr. Zabihollah Amiri, along with four others, was
+    reported in the Kayhan Daily on November 26, 1986. Arrest and detention
+    The circumstances of Mr. Amiri s arrest and detention are not known. Trial
+    There is no information regarding this trial. Charges According to this
+    report, Mr. Amiri was charges as being the head of a drug-trafficking gang
+    and large-scale drug distribution in northern Tehran, Qazvin, Zanjan and
+    Sirjan as well as importing drugs from Pakistan. The validity of the
+    criminal charges brought against this defendant cannot be ascertained in
+    the absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic s authorities have brought trumped-up charges against
+    their political opponents and executed them for drug trafficking, sexual,
+    and other criminal offences. Thousands of alleged drug traffickers have
+    been sentenced to death following judicial processes that fail to meet
+    international standards. The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of guilt No information is
+    available concerning the evidence presented against the accused. Defense
+    No information is available concerning Mr. Amiri s defense. Judgment The
+    Islamic Revolutionary Tribunal of Zahedan declared Mr. Amiri a corruptor
+    on earth and sentenced him to death. Having been confirmed by the Supreme
+    Judicial Council, the sentence was carried out in the Anti-Narcotics
+    Section of the Public Prosecutor s Office in the afternoon.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/31577/zabihollah-amiri"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

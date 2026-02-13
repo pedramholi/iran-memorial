@@ -1,0 +1,52 @@
+id: sheikhi-babollah-1980
+name_latin: "Babollah Sheikhi"
+name_farsi: "باب الله شیخی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-06-05
+age_at_death: null
+place_of_death: "Hamedan"
+province: "Hamedan"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    Mr. Babollah Sheikhi s name appeared in a list of 21 executed individuals,
+    reported by the Islamic Revolutionary Tribunals of Tehran and Hamedan and
+    published the Jomhuri Eslami daily (June 7, 1980). Arrest and detention
+    The report provided no information regarding the circumstances of Mr.
+    Shiekhi s arrest and detention. Trial The Jomhuri Eslami report mentioned
+    that Mr. Sheikhi was tried at the Islamic Revolutionary Tribunal of
+    Hamedan, presided by the religious judge. No specific information was
+    provided regarding his trial. Charges Based on the report, Mr. Sheikhi was
+    accused of having accompanied another defendant (Bahman Rashidi) to the
+    village of Jarqan to buy drugs after his release from prison. The validity
+    of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    International human rights organizations have drawn attention to reports
+    indicating that the Islamic Republic s authorities have brought trumped up
+    charges against their political opponents and executed them for drug
+    trafficking, sexual, and other criminal offences. Thousands of alleged
+    drug traffickers have been sentenced to death following judicial processes
+    that fail to meet international standards. The exact number of people
+    convicted based on trumped-up charges is unknown. Evidence of guilt The
+    report mentioned that Mr. Rashidi was arrested with some drugs on him, but
+    the nature and amount of the drugs were not specified. Defense No
+    information is available on Mr. Rashidi s defense. Judgment Mr. Rashidi
+    was sentenced to death and confiscation of all his belongings. The death
+    sentence was carried out within moments after the issuance of the verdict.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/12658/babollah-sheikhi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,59 @@
+id: khungah-gholam-reza-1986
+name_latin: "Gholam Reza Khungah"
+name_farsi: "غلامرضا خونگاه"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1986-01-01
+age_at_death: null
+place_of_death: "Torbat-e Heydarieh"
+province: "Khorasan\\Khorasan-e Razavi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Gholam Reza Khungah, along with three others, was
+    reported in the Kayhan newspaper on February 25, 1986. Arrest and
+    detention According to the newspaper, Mr. Khungah was arrested in Behshahr
+    (Mazandaran province). Trial No information is available on the trial,
+    other than Mr. Khungah was tried at the Penal Court of Shahrud (Semnan
+    province). Charges According to this report, Mr. Khungah was charged with
+    murder. The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. International human rights organizations have drawn
+    attention to reports indicating that the Islamic Republic’s authorities
+    have brought trumped-up charges against their political opponents and
+    executed them for drug trafficking, sexual, and other criminal offences.
+    Each year, Iranian authorities sentence to death hundreds of alleged
+    common criminals, following judicial processes that fail to meet
+    international standards. The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of guilt According to this report,
+    Mr. Khungah “confessed to the murder of his wife and her brother during
+    the interrogation.” International human rights organizations have
+    repeatedly condemned the government of the Islamic Republic of Iran for
+    its systematic use of severe torture and solitary confinement to obtain
+    confessions from detainees and have questioned the authenticity of
+    confessions obtained under duress. In the case of political detainees,
+    these confessions are, at times, televised. The National Television
+    broadcasts confessions during which prisoners plead guilty to vague and
+    false charges, repent and renounce their political beliefs, and/or
+    implicate others. Human rights organizations have also pointed to the
+    pattern of retracted confessions by those prisoners who are freed. Defense
+    No information is available on Mr. Khungah’s defense. Judgment The Penal
+    Court of Shahrud sentenced Mr. Khungah to death. The Supreme Court
+    approved the sentence. He was hanged in public in Torbat-e Heydarieh
+    (Khorasan province) by the victims’ next of kin (avengers of blood).
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/44639/gholam-reza-khungah"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,55 @@
+id: eftekharian-mohammad-1986
+name_latin: "Mohammad Eftekharian"
+name_farsi: "محمد افتخاریان"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1986-04-23
+age_at_death: 33
+place_of_death: "Karaj"
+province: "Tehran"
+cause_of_death: "Execution » Stoning"
+circumstances: >
+    The execution of Mr. Mohammad Eftekharian, along with another defendant,
+    was reported in the Kayhan newspaper on May 21, 1986. The report states:
+    “The Public Prosecutor of Karaj warned all corruptors and criminals, who
+    promote evil deeds and prostitution and intend to corrupt the Islamic
+    community. He asked people to inform the judiciary and law enforcement
+    officials about such matters so that Islamic principles would be
+    implemented.” Arrest and detention The circumstances of this defendant’s
+    arrest and detention are not known. Trial Mr. Eftekharian was tried at the
+    Islamic Revolutionary Tribunal of Karaj. No other information is available
+    on the trial. Charges According to this report, Mr. Eftekharian was
+    charged with “promoting evil deeds and establishing corruption and
+    prostitution centers.” The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that the Islamic Republic’s
+    authorities have brought trumped-up charges against their political
+    opponents and executed them for drug trafficking, sexual, and other
+    criminal offences. Each year, Iranian authorities sentence to death
+    hundreds of alleged common criminals, following judicial processes that
+    fail to meet international standards. The exact number of people convicted
+    based on trumped-up charges is unknown. Evidence of guilt The report of
+    this execution does not contain information regarding the evidence
+    provided against the defendant. Defense No information is available on Mr.
+    Eftekharian’s defense. Judgment The Islamic Revolutionary Tribunal of
+    Karaj sentenced Mr. Eftekharian to death by stoning. The Supreme Judicial
+    Council confirmed the sentence. He and another man were stoned to death in
+    public on April 23, 1986.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/44675/mohammad-eftekharian"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

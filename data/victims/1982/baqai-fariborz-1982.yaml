@@ -1,0 +1,68 @@
+id: baqai-fariborz-1982
+name_latin: "Fariborz Baqa'i"
+name_farsi: "فریبرز بقایی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1982-02-04
+age_at_death: 25
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The information about the execution of Mr. Fariborz Baqa'i, born in
+    Esfahan, was a fourth-year electrical engineering student in Aryamehr
+    University, was sent to Omid via electronic form by a person close to him
+    who did not wish to be identified. The source specified that very little
+    information has been available on the process leading to the execution of
+    Mr. Baqa'i. The latter was known to have had leftist political leanings.
+    Prior to his arrest, he had been attacked and stabbed (several times in
+    the back) in the street by Hezbollah members in the spring of 1981 and had
+    been hospitalized and treated. Mr. Baqa'i is remembered as a young man who
+    loved to hike, hunt, and paint. He also was fond of pastries and
+    creampuffs in particular. Further information regarding this case was
+    gathered from the book Our Martyrs for Freedom and Socialism, a memoriam
+    of the victims of the Rah-e Kargar Organization. Mr. Baqa i joined the
+    Tudeh Party in the beginning of the 1979 Revolution. But due to the Party
+    s obvious support of Khomeini, he left the Tudeh Party in 1980 and became
+    a member of a revolutionary worker s organization, known as Rah-e Kargar.
+    He was active in selling and distribution of pamphlets and publications in
+    the street, and participated in street debates. Arrest and detention The
+    circumstances of this defendant s arrest are not known and the authorities
+    did not inform the family of the arrest. Based on information provided to
+    Omid, the family concerned by the absence of Mr. Baqa'i had looked for him
+    in hospitals and had gone to the police where they had been informed of
+    his arrest. According to the Rah-e Kargar book, he was arrested in Tehran
+    on 4 August 1981. His arrest is reported to have taken place during a
+    random control of cars in the Vanak Circle during which all the passengers
+    of a car, including Mr. Baqa'i, were arrested. No information is available
+    on the authorities carrying out the arrest. The defendant was not seen by
+    his relatives after being arrested. Trial No information is available on
+    the defendant s trial. Charges The validity of the criminal charges
+    brought against this defendant cannot be ascertained in the absence of the
+    basic guarantees of a fair trial. Evidence of guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against the defendant. Defense No information is available on Mr. Baqa'i's
+    defense. Judgment The defendant was sentenced to death and executed. Based
+    on the available information, the authorities did not inform the family of
+    the imminence of Mr. Baqa'i's execution and did not show them the
+    sentence. The prison authorities reportedly informed the defendant's
+    spouse who had gone to Evin prison to visit her husband that she should
+    look for him at the Behesht-e Zahra cemetery. The family's knowledge of
+    the execution date is based on the cemetery's records.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/34292/fariborz-baqai"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

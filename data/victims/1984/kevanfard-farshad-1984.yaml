@@ -1,0 +1,39 @@
+id: kevanfard-farshad-1984
+name_latin: "Farshad Kevanfard"
+name_farsi: "فرشاد کیوانفرد"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1984-07-14
+age_at_death: null
+place_of_death: "Esfahan Province"
+province: "Esfahan"
+cause_of_death: "Fatal"
+circumstances: >
+    Mr. Farshad Kevanfard was listed in a United Nations 1985 report on the
+    situation of human rights in the Islamic Republic of Iran. According to
+    this report, he was "allegedly summarily or arbitrarily executed." Arrest
+    and detention No information is available concerning the defendant's
+    arrest and detention. Trial No information is available concerning Mr.
+    Kevanfard's trial. Charges No information is available concerning any
+    charges brought against the defendant. Evidence of guilt No information is
+    available concerning any evidence used against the defendant. Defense No
+    information is available concerning Mr. Kevanfard's defense. Judgment No
+    information is available about the verdict, except that Mr. Kevanfard was
+    executed.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/2622/farshad-kevanfard"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

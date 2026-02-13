@@ -1,0 +1,42 @@
+id: zarei-hamid-1981
+name_latin: "Hamid Zare'i"
+name_farsi: "حمید زارعی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-11-06
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    h2 About this Case /h2 p Mr. Hamid Zare'i is one of the 12028 individuals
+    listed in an addendum to the i Mojahed /i magazine (No 261), published by
+    Mojahedin Khalq Organization in 1985. The list includes individuals,
+    affiliated with various opposition groups, who were executed or killed
+    during clashes with the Islamic Republic security forces from June 1981 to
+    the publication date of the magazine. /p h3 Arrest and detention /h3 p The
+    circumstances of Mr. Zare'i s arrest and detention are not known. /p h3
+    Trial /h3 p No information is available on Mr. Zare'i s trial. /p h4
+    Charges /h4 p The charge brought against Mr. Zare'i is not known. /p h4
+    Evidence of guilt /h4 p The report of this execution does not contain
+    information regarding the evidence provided against the defendant. /p h4
+    Defense /h4 p No information is available on Mr. Zare'i s defense. /p h4
+    Judgment /h4 p There is no information on the verdict leading to this
+    execution. /p
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/71199/hamid-zarei"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

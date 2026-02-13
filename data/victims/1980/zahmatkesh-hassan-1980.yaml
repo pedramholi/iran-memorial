@@ -1,0 +1,51 @@
+id: zahmatkesh-hassan-1980
+name_latin: "Hassan Zahmatkesh"
+name_farsi: "حسن زحمتکش"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-07-23
+age_at_death: null
+place_of_death: "Tehran Province"
+province: "Tehran"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Mr. Hassan Zahmatkesh, son of Musa and a resident of
+    Hamedan, along with 9 other individuals was reported by the correspondent
+    of Pars New Agency, quoting the religious judge of the Anti-Narcotic
+    Islamic Revolutionary Tribunals. The Jomhuri Eslami newspaper published
+    the report on July 24, 1980. Arrest and detention This individual was
+    arrested by the Police. No other information is available on his arrest
+    and detention. Trial No information is available on the defendant’s trial.
+    Charges Reportedly, the defendant was largely active in drug trafficking
+    in Tehran and throughout the West of the country. The validity of the
+    criminal charges brought against this defendant cannot be ascertained in
+    the absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic’s authorities have brought trumped-up charges against
+    their political opponents and executed them for drug trafficking, sexual,
+    and other criminal offences. Thousands of alleged drug traffickers have
+    been sentenced to death following judicial processes that fail to meet
+    international standards. The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of guilt Based on the report, the
+    defendant was arrested with 21 kilograms and 362 grams of heroin. Defense
+    No information is available on the defense. Judgment The religious judge
+    of the Anti-Narcotic Islamic Revolutionary Tribunal sentenced Mr. Hassan
+    Zahmatkesh to death. He was executed early in the morning on Wednesday
+    July 23, 1980.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/28572/hassan-zahmatkesh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

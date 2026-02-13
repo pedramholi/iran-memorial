@@ -1,0 +1,65 @@
+id: alizadeh-kabus-1980
+name_latin: "Kabus Alizadeh"
+name_farsi: "کابوس علیزاده"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-08-07
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of Major Kabus Alizadeh and 12 others convicted of
+    participation in an unrealized coup d’etat plan known as Noje was declared
+    in a communiqué of the Public Relations of the Islamic Revolutionary
+    Public Prosecutor’s central office. The communiqué was published in the
+    Jomhuri Eslami daily (August 7, 1980). In his 07/19/1980 indictment
+    (published in the Enqelab Eslami and Jomhuri Eslami dailies, July 20,
+    1980), the public prosecutor provided the following “necessary
+    explanation” about some other participants of this coup d’etat that was
+    never put to practice: “This conspiracy is not a single incident and these
+    conspirators cannot be considered ordinary convicts. These are criminals
+    who have undermined the newly-found truth, honor, and dignity of a
+    liberated umma [community of Muslim people]. Considering that and by
+    consulting the holly verses of the Koran regarding the punishment of the
+    ‘rebel’ against the Islamic sovereign, it is imperative that the convicts
+    receive their punishment according to the Shari’a law.” Arrest and
+    detention No information is available on the circumstances of Major
+    Alizadeh’s arrest and detention. Trial According to this communiqué, the
+    First Branch of the Islamic Revolutionary Tribunal of the Center held
+    sessions from 08/04/1980 to 08/06/1980 to examine the cases of these
+    thirtheen defendants. Charges No individual charges were specified for
+    Major Alizadeh. Collectively, the defendants were charged with “rebellion
+    against the just Imam and the Islamic Republic of Iran” and “enjoying
+    assistance from such powerful supporters as America and Israel.” The
+    public prosecutor’s 07/19/1980 indictment reads as follows regarding some
+    other participants of this coup d’etat plan: “These enthusiasts of the
+    Shah’s rotten, filthy, and reactionary regime, these supporters of the
+    blood-thirsty American imperialism, had in mind to bring ‘American social
+    democracy’ as a gift to the liberated people of Iran. They had in mind to
+    re-asses the opinion of our heroic nation about the return of the royal
+    system through a referendum […].” Evidence of guilt The communiqué did not
+    provide any specific information on the evidence presented against the
+    defendants. Defense The communiqué indicated that the accused’s defense
+    was heard, but provided no further specific information. Judgment The
+    First Branch of the Islamic Revolutionary Tribunal of the Center declared
+    Major Alizadeh a “corruptor on earth” and an “enemy of God and his
+    prophet” and sentenced him to death. He was executed at 1 a.m., within
+    hours since his trial.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/15356/kabus-alizadeh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

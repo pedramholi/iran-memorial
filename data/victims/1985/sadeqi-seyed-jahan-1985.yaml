@@ -1,0 +1,47 @@
+id: sadeqi-seyed-jahan-1985
+name_latin: "Seyed Jahan Sadeqi"
+name_farsi: "سید جهان صادقی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1985-01-01
+age_at_death: 23
+place_of_death: "Shiraz"
+province: "Fars"
+cause_of_death: "Fatal"
+circumstances: >
+    The execution of Mr. Seyed Jahan Sadeqi was reported in the Kayhan daily
+    on March 7, 1985. Arrest and detention The circumstances of Mr. Sadeqi’s
+    arrest and detention are not known. Trial There is no information
+    regarding this trial, other than it took place at Branch 14 of the Penal
+    Court I of Shiraz. Charges Mr. Sadeqi was charged with “first degree
+    murder of an individual named Nasrollah Andarz” which took place on
+    October 19, 1981. The validity of the criminal charges brought against
+    this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that the Islamic Republic’s
+    authorities have brought trumped-up charges against their political
+    opponents and executed them for drug trafficking, sexual, and other
+    criminal offences. The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of guilt No information is
+    available concerning the evidence presented against the accused. Defense
+    No information is available concerning Mr. Sadeqi’s defense. Judgment
+    Branch 14 of the Penal Court I of Shiraz condemned Mr. Seyed Jahan Sadeqi
+    to death; the Supreme Court approved the sentence. Mr. Sadeqi was executed
+    in Shiraz. He was 23 years of age.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/43932/seyed-jahan-sadeqi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

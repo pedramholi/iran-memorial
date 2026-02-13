@@ -1,0 +1,63 @@
+id: salari-ahmad-1979
+name_latin: "Ahmad Salari"
+name_farsi: "احمد سالاری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1979-09-11
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of Colonel Ahmad Salari was reported in the Enqelab Eslami
+    and Kayhan dailies of September 11, 1979. Further information regarding
+    the method and place of execution was drawn from an electronic form sent
+    to Omid by a person familiar with this case who has asked to remain
+    anonymous. Arrest and detention The only information available regarding
+    this defendant s arrest and detention is that he was held at the Evin
+    Prison. Trial Based on the Enqelab Eslami report, the court held 6
+    sessions to discuss the cases of this defendant and 6 others. It entered
+    deliberation on Thursday, September 6. Charges The Kayhan report listed
+    the defendant s charges as follows: Participation in the arrest and
+    interrogation, along with torture, of a large number of Mojahedin and
+    combatants, including Navab Safavi, Khalil Tahmasbi, and other members of
+    the Islamic Fedayeen group, while in charge of military commandership in
+    the shameful post-coup years of 1953-1956 Obtaining confessions from the
+    opponents of the detested Pahlavi regime through beastly tortures [ ]
+    Participation and direct involvement in the torture of one of the
+    combatants named Dr. Mohammadreza Monzavi, resulting in his death in
+    1955/56 [...] Participation in creating suppression, and therefore
+    strengthening the foundations of the Idolatrous Regime, through 18 years
+    of service at the SAVAK [Shah s political police] between the years of
+    1957 and 1975. Evidence of guilt The Kayhan report referred to the
+    documents available in the file , defendant s own confessions , complaints
+    , and witnesses testimonies in this regard. In the Kayhan daily of
+    September 6, 1979, the head of the Islamic Revolutionary Tribunal of
+    Tabriz said of the general conditions of complaints and testimonies in the
+    Revolutionary Tribunals: We have different types of witnesses or
+    complainants: First are those whom we know are to be trusted because of
+    their background, second are those who take oath, and finally there are
+    those who actually present well-documented evidence. It is not clear
+    whether or not in this case any well-documented evidence was presented
+    against the defendant. Defense No information is available on the defense.
+    Judgment The First Branch of the Islamic Revolutionary Tribunal of the
+    Center (Tehran) declared Col. Salari a clear example of a corruptor on
+    earth and sentenced him to death. The execution was carried out at Evin
+    Prison.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4010/ahmad-salari"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

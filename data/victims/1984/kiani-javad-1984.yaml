@@ -1,0 +1,52 @@
+id: kiani-javad-1984
+name_latin: "Javad Kiani"
+name_farsi: "جواد کیانی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1984-05-30
+age_at_death: null
+place_of_death: "Nahavand"
+province: "Hamedan"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Mr. Javad Kiani, along with 19 others, was announced by
+    the public relations officer of the Islamic Revolution’s Public
+    Prosecutor’s Office in Nahavand and reported in the Jomhuri Eslami Daily
+    on May 31, 1984. The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. International human rights organizations have drawn
+    attention to reports indicating that the Islamic Republic’s authorities
+    have brought trumped up charges against their political opponents and
+    executed them for drug trafficking, sexual, and other criminal offences.
+    Thousands of alleged drug traffickers have been sentenced to death
+    following judicial processes that fail to meet international standards.
+    The exact number of people convicted based on trumped-up charges is
+    unknown Arrest and detention The circumstances of this defendant’s arrest
+    and detention are not known. Trial No information is available on the
+    defendant’s trial. Charges According to this report, Mr.Kiani was charged
+    with “participation in an international drug-trafficking gang,
+    participation in the transportation and purchase of 114 kg of opium, sale
+    of 22 kg of opium, and being a repeat drug offender.” Evidence of guilt
+    The report of this execution does not contain information regarding the
+    evidence provided against the defendant. Defense No information is
+    available on Mr. Kiani’s defense. Judgment The Anti-Narcotics Islamic
+    Revolutionary Tribunal of Tehran sentenced Mr. Kiani to death. Having been
+    confirmed by the Islamic Revolution’s Supreme Court, the sentence was
+    carried out in the morning.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/31425/javad-kiani"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

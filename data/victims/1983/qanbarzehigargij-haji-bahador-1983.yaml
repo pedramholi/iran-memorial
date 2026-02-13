@@ -1,0 +1,54 @@
+id: qanbarzehigargij-haji-bahador-1983
+name_latin: "Haji Bahador Qanbarzehigargij"
+name_farsi: "حاجی بهادر قنبرزهی گرگیج"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1983-10-24
+age_at_death: null
+place_of_death: "Zahedan"
+province: "Sistan Va Baluchestan"
+cause_of_death: "Fatal"
+circumstances: >
+    The execution of Mr. Haji Bahador Qanbarzehigargij, along with 19 others,
+    was announced in a communiqu from the public relations office of the
+    Islamic Revolution s Public Prosecutor s Office in Sistan and Baluchestan.
+    The communiqu was reported in the Jomhuri Eslami Daily on October 25,
+    1983. Arrest and detention The circumstances of this defendant s arrest
+    and detention are not known. Trial No information is available on the
+    defendant s trial. Charges Mr. Qanbarzehigargij was reportedly charged
+    with being consistently and actively involved in the purchase and
+    distribution of 300 kg of heroin, purchasing and distributing drugs
+    several other times, establishing an armed drug- trafficking gang and
+    dealing in weapons. The validity of the criminal charges brought against
+    this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that the Islamic Republic s
+    authorities have brought trumped up charges against their political
+    opponents and executed them for drug trafficking, sexual, and other
+    criminal offences. Thousands of alleged drug traffickers have been
+    sentenced to death following judicial processes that fail to meet
+    international standards. The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against the defendant. Defense No information is available on Mr.
+    Qanbarzehigargij 's defense. Judgment The Islamic Revolutionary Tribunal
+    of Sistan and Baluchestan sentenced Mr. Qanbarzehigargij to death. Having
+    been confirmed by the Supreme Court, the sentence was carried out in the
+    Islamic Revolutionary Committee at 1 a.m.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/30096/haji-bahador-qanbarzehigargij"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

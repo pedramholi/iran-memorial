@@ -1,0 +1,58 @@
+id: bavafa-shahin-1980
+name_latin: "Shahin Bavafa"
+name_farsi: "شهین باوفا"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-07-17
+age_at_death: 30
+place_of_death: "Sanandaj"
+province: "Kordestan"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    In Sanandaj, bombs targeted citizens and ambulances. Shahin Bavafa showed
+    arriving journalists the destruction of the hospital. Later, they would
+    describe, in L Express, her anger and her request. The execution of Ms.
+    Shahin Bavafa was reported by the French weekly L'Express , July 5-11,
+    1980: Tuesday May 6, 1980, Christian Hoche and Jacques Haillot, reporters
+    for L Express , were clandestinely entering Sanandaj, the capital of
+    southern Kurdistan. The city had been bombed night and day for several
+    weeks. ... In the prevailing atmosphere of blood and death, the
+    journalists were greeted by a smile, a soft voice: Shahin Bavafa, the
+    thirty year-old manager of the hospital. She told the visitors about the
+    murderous madness of the Pasdarans, or Revolutionary Guards, who bombed
+    ... the civilian population . She showed them the operating room,
+    destroyed the day before by a 120-mm shell. Ms. Bavafa also told the
+    reporters that the [central government] had fired at ambulances and that
+    the hospital had no serum, antibiotics, anesthetics or even simple
+    bandages. When they were leaving, she asked the two journalists to promise
+    that we [ L'Express ] would share her message of distress and anger in our
+    magazine to the Western public. Moreover, she insisted that her name be
+    mentioned so that no one could doubt the authenticity of the report. She
+    told the journalists that her testimony would be stronger if it was not
+    anonymous. Arrest and detention On Tuesday, May 13 th , the 28th division
+    of the Iranian Army and the Revolutionary Guards captured the town of
+    Sanandaj. Ms. Bavafa was reportedly arrested a few days later. Trial No
+    information is available on the defendant s trial. Charges The report of
+    this execution specifies that Ms. Bavafa was charged with "sabotage" and
+    "publishing a counter-revolutionary call to insurrection in a foreign
+    magazine." Evidence of guilt The victim's inteview with the two French
+    journalists was reportedly the evidence used by the authorities. Defense
+    No information is available on Ms. Bavafa's defense. Judgment Ms. Shahin
+    Bavafa was sentenced to death.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/11247/shahin-bavafa"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

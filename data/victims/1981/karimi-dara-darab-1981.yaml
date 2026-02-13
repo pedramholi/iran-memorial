@@ -1,0 +1,67 @@
+id: karimi-dara-darab-1981
+name_latin: "Dara (Darab) Karimi"
+name_farsi: "دارا (داراب) کریمی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-12-04
+age_at_death: 20
+place_of_death: "Qae'mshahr"
+province: "Mazandaran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The information about Mr. Darab Karimi is taken from the book Our Martyrs
+    in the Path to Freedom , copyright 1988 by Rah-e Kargar publications. He
+    was born in Pol-e-sefid village near Savadkuh. In 1980, he joined the
+    Revolutionary Workers Organization of Iran-Rah-e Kargar. He worked for
+    this organization and sold its publications in Qa'emshahr. This execution
+    was also reported in an addendum to the Mojahed magazine (No 261),
+    published by Mojahedin Khalq Organization (MKO) in 1985. The list includes
+    12028 individuals, affiliated with various opposition groups, who were
+    executed or killed during clashes with the Islamic Republic security
+    forces from June 1981 to the publication date of the magazine. According
+    to the addendum, Mr. Karimi was a member of the Peykar Organization.
+    "Rah-e Kargar" or the "Revolutionary Workers Organization of Iran" was
+    established in the summer of 1979. The Organization was founded by
+    individuals from various leftist groups who rejected the idea of armed
+    struggle and believed in political action. They called themselves as
+    Marxist-Leninists, promoting a socialist revolution and the leadership of
+    the proletariat. They differed with the pro-Soviet communist party, the
+    Tudeh Party, in that they opposed the Islamic Republic and Ayatollah
+    Khomeini's leadership. Arrest and detention The circumstances of this
+    defendant’s arrest and detention are not known. Mr. Darab Karimi was
+    arrested in Qa'emshahr in the summer of 1981. He was transferred to the
+    city’s prison. Trial No information is available on the defendant’s trial.
+    According to the book, his trial location was the Qa'emshahr Prison.
+    Charges No information is available on Mr. Karimi’s charges. Evidence of
+    guilt The report of this execution contains no evidence provided against
+    the defendant. Defence No information is available about the defendant’s
+    defence. Judgment No specific information is available about the
+    defendant’s execution. Based on the information present at the Mojahedin
+    Addendum, Mr. Karimi was executed on November 25, 1981. According to the
+    Rah-e Kargar book, the court first sentenced Mr. Karimi to three years
+    imprisonment. But, after being pressured by the Hezbollah forces of the
+    city, the court condemned him to death. He was executed by a firing squad
+    in the Qa'emshahr Prison on December 4, 1981. According to the same
+    source, the officials delivered his body to his family in Pol-e-sefid;
+    but, they did not give them permission for to bury him in the cemetery.
+    His father secretly buried him in his own land at night. During his
+    memorial ceremony, the Revolutionary Guards were stationed in front of his
+    house to prevent people from attending. However, the local people visited
+    his family to express their condolences.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-5479/dara-darab-karimi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

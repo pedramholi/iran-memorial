@@ -1,0 +1,47 @@
+id: fahimi-ali-1980
+name_latin: "Ali Fahimi"
+name_farsi: "علی فهیمی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-08-19
+age_at_death: null
+place_of_death: "Revolutionary Guards Headquarters"
+province: "Bushehr"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Mr.Ali Fahimi was reported by the correspondent of
+    Jomhuri Eslami daily in Bushehr (August 19, 1980). Arrest and detention
+    There is no information available on Mr. Fahimi s arrest and detention.
+    Trial No information about the circumstances of the trial is available.
+    Charges The defendant was charged with selling and buying drugs . The
+    validity of the criminal charges brought against this defendent cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    International human rights organizations have drawn attention to reports
+    indicating that the Islamic Republic s authorities have brought trumped up
+    charges against their political opponents and executed them for drug
+    trafficking, sexual, and other criminal offences. The exact number of
+    people convicted based on trumped-up charges is unknown. Evidence of guilt
+    According to the report, the verdict was based on the defendant s own
+    confessions and the fact that he had been imprisoned nine times before for
+    drug-related charges. Defense No information on the accused s defense is
+    available. Judgment The Islamic Revolutionary Tribunal of Bushehr declared
+    Mr. Fahimi a corruptor and sentenced him to death and confiscation of
+    property. He was executed in the Islamic Revolutionary Guards (Pasdaran)
+    Headquarters in Bushehr.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/15686/ali-fahimi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

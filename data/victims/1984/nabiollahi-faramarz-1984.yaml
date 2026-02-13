@@ -1,0 +1,57 @@
+id: nabiollahi-faramarz-1984
+name_latin: "Faramarz Nabiollahi"
+name_farsi: "فرامرز نبی اللهی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1984-01-01
+age_at_death: 33
+place_of_death: "Ahvaz"
+province: "Khuzestan"
+cause_of_death: "Execution » Death in custody"
+circumstances: >
+    The information about Mr. Faramarz Nabiolahi is taken from the book Our
+    Martyrs in the Path to Freedom , copyright 1988 by Rah-e Kargar
+    Publications. He was born in Masjed-e Soleyman. During the Revolution, he
+    was active as a sympathizer of the Fadayian Khalq Oranization, and in 1979
+    he joined the Revolutionary Workers Organization of Iran-Rah-e Kargar. In
+    1983, he was working in a factory in Ahvaz when he was selected as a
+    representative for the workers of the factory. This execution was also
+    reported in an addendum to the Mojahed magazine (No 261), published by
+    Mojahedin Khalq Organization (MKO) in 1985. The list includes 12028
+    individuals, affiliated with various opposition groups, who were executed
+    or killed during clashes with the Islamic Republic security forces from
+    June 1981 to the publication date of the magazine. "Rah-e Kargar" or the
+    "Revolutionary Workers Organization of Iran" was established in the summer
+    of 1979. The Organization was founded by individuals from various leftist
+    groups who rejected the idea of armed struggle and believed in political
+    action. They identified themselves as Marxist-Leninists, promoting a
+    socialist revolution and the leadership of the proletariat. They differed
+    with the pro-Soviet communist party, Tudeh, in that they opposed the
+    Islamic Republic and Ayatollah Khomeini's leadership. Arrest and detention
+    The circumstances of this defendant’s arrest and detention are unknown.
+    According to the book, Mr. Nabiolahi was arrested in the summer of 1984
+    and detained at the Ahvaz Prison. Mr. Nabiolahi reportedly died under
+    torture in 1984, but according to the Mojahedin addendum, he was executed
+    by a firing squad. Trial No information is available on the defendant’s
+    trial. Charges No information is available on Mr. Nabiolahi’s charges.
+    Evidence of guilt The report of this execution contains no evidence
+    provided against the defendant. Defence No information is available about
+    the defendant’s defence. Judgment There is no information regarding this
+    defendant’s execution sentence.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/36187/faramarz-nabiollahi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

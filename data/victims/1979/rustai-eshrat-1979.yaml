@@ -1,0 +1,54 @@
+id: rustai-eshrat-1979
+name_latin: "Eshrat Rusta'i"
+name_farsi: "عشرت روستایی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1979-09-13
+age_at_death: 50
+place_of_death: "Malayer"
+province: "Hamedan"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of Mr. Eshrat Rusta’i and three others was reported by the
+    correspondents of the Enqelab Eslami and Kayhan dailies in Malayer
+    (September 13, 1979). Arrest and detention Based on the reports, a group
+    of 40 Police and Islamic Revolutionary Committee Guards were involved in
+    arresting the defendant and eight other alleged smugglers. Trial Mr.
+    Rusta’i’s trial, headed by a religious judge, was reportedly held in the
+    presence of a large number of people at the amphitheatre of Dr. Shari’ati
+    High School in Malayer. The session was held at night and, based on Kayhan
+    , trial and deliberations took 5 hours. Charges Based on the Kayhan
+    report, Mr. Rusta’i was "part of a drug trafficking band equipped for
+    producing and distributing heroin." The validity of the criminal charges
+    brought against this defendant cannot be ascertained in the absence of the
+    basic guarantees of a fair trial. International human rights organizations
+    have drawn attention to reports indicating that the Islamic Republic’s
+    authorities have brought trumped-up charges against their political
+    opponents and executed them for drug trafficking, sexual, and other
+    criminal offences. Thousands of alleged drug traffickers have been
+    sentenced to death following judicial processes that fail to meet
+    international standards. The exact number of people convicted based on
+    trumped-up charges is unknown Evidence of guilt Based on the Kayhan
+    report, the defendant and the other members of the band were found in
+    possession of 14 kilograms and 625 grams of heroin, some arms and bullets,
+    and some carbonate and heroin laboratory devices. Defense No information
+    is available on the defense. Judgment The Islamic Revolutionary Tribunal
+    of Malayer sentenced Mr. Rusta’i to death. He was executed at dawn,
+    shortly after the issuance of the verdict.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/27447/eshrat-rustai"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

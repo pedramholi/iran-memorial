@@ -1,0 +1,55 @@
+id: qobadi-zabihollah-1981
+name_latin: "Zabihollah Qobadi"
+name_farsi: "ذبیح‌الله قبادی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-07-07
+age_at_death: 46
+place_of_death: "Qae'mshahr"
+province: "Mazandaran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The news of the execution of Mr. Zabihollah Qobadi, 46, was announced by
+    reports published in Jomhouri Eslami and Kayhan on July 8, 1981. Arrest
+    and detention The circumstances of Mr. Qobadi s arrest and detention are
+    not known. Trial Based on the available information, the Qa em Shahr
+    Islamic Revolutionary Tribunal issued Mr. Qobadi s sentence. No
+    information is available on the Mr. Qobadi s trial. Charges According to
+    the Jomhouri Eslami report, Mr. Qobadi was charged with active
+    participation in the August 19 [1953] Coup, suppression of
+    revolutionaries, leading pro-Shah demonstrations, mobilizing Qarikola and
+    Ahangarkola mobs to crush the demonstration of Muslims during the
+    Revolution, cooperation with Major Nurani, the deputy of SAVAK in Qom
+    during the Revolution, establishing a committee to fight the Islamic
+    Republic of Iran and holding meetings for this purpose every Monday,
+    assault and battery, being accessory to murder, murder, sale and use of
+    opium. According to Kayhan , however, Mr. Qobadi and three other
+    individuals were charged with active involvement in clashes of American
+    grouplets, leading the People s Hypocrites [Organization] in this town [Qa
+    em Shahr], disarming the Revolutionary Guards, assault and battery, and
+    involvement in the May 4 [1981] clashes in this town [Qa em Shahr].] .
+    Evidence of guilt The report of this execution does not contain
+    information regarding the evidence provided against Mr. Qobadi. Defense No
+    information is available on Mr. Qobadi s defense. Judgment The Qae m Shahr
+    Islamic Revolutionary Tribunal found Mr. Qobadi guilty of waging war on
+    God and God s Prophet, rebellion, and corruption on earth, and sentenced
+    him to death. Mr. Qobadi was executed on July 7, 1981 on the side of the
+    Shirgah-Qa em Shahr road. Mr. Qobadi was 46 years old at the time of his
+    execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-5586/zabihollah-qobadi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

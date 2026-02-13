@@ -1,0 +1,39 @@
+id: khalkhali-gholam-reza-1982
+name_latin: "Gholam Reza Khalkhali"
+name_farsi: "غلامرضا خلخالی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1982-01-01
+age_at_death: null
+place_of_death: "Mashhad"
+province: "Khorasan\\Khorasan-e Razavi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The news of the execution of Mr. Gholam Reza Khalkhali, along with 3
+    others, was published in the Jomhuri Eslami daily on July 21, 1982. Arrest
+    and detention The circumstances of this defendant’s arrest and detention
+    are not known. Trial No information is available on the defendant’s trial.
+    Charges Mr. Khalkhali was reported to be a member of the Mujahedin-e Khalq
+    Organization (MKO). Evidence of guilt The report of this execution does
+    not contain information regarding the evidence provided against the
+    defendant. Defense No information is available on Mr. Khalkhali's defense.
+    Judgment The Islamic Revolutionary Tribunal of Mashhad sentenced Mr.
+    Khalkhali to death. Having been confirmed by the Supreme Judicial Council,
+    the sentence was carried out.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/30393/gholam-reza-khalkhali"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,47 @@
+id: madadi-vajiheh-1982
+name_latin: "Vajiheh Madadi"
+name_farsi: "وجیهه مددی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1982-03-14
+age_at_death: null
+place_of_death: "Hamedan Province"
+province: "Hamedan"
+cause_of_death: "Fatal"
+circumstances: >
+    The execution of Ms. Vajiheh Madadi was reported in the Jomhuri Eslami
+    daily, quoting the public relations of the Islamic Revolutionary Public
+    Prosecutor s Office in Hamedan . Arrest and detention The circumstances of
+    this defendant s arrest and detention are not known. Trial No information
+    is available on the defendant s trial. Charges Ms. Madadi was reported to
+    be charged with adultery. The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that the Islamic Republic s
+    authorities have brought trumped up charges against their political
+    opponents and executed them for drug trafficking, sexual, and other
+    criminal offences. Each year, hundreds of alleged common criminals are
+    convicted following judicial processes that fail to meet international
+    standards. The exact number of people convicted based on trumped-up
+    charges is unknown. Evidence of guilt The report of this execution does
+    not contain information regarding the evidence provided against the
+    defendant. Defense No information is available on Ms. Madadi's defense.
+    Judgment The 1st division of the Islamic Revolutionary Tribunal of Hamedan
+    sentenced Ms. Madadi to death. The sentence was carried out.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/23611/vajiheh-madadi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

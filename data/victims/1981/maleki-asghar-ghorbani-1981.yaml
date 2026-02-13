@@ -1,0 +1,52 @@
+id: maleki-asghar-ghorbani-1981
+name_latin: "Asghar Ghorbani Maleki"
+name_farsi: "اصغر قربانی ملکی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-01-01
+age_at_death: 18
+place_of_death: "Iran"
+province: null
+cause_of_death: "Execution » Other execution method"
+circumstances: >
+    The information about the case of Mr. Asghar Ghorbani Maleki was related
+    in the United Nations' report (A/45/697, 6 November 1990) on the situation
+    of human rights in the Islamic Republic of Iran. This case was brought to
+    the attention of UN special rapporteur by "dailies from various
+    countries", which published the statement of a witness, to the execution
+    of Mr. Ghorbani Maleki. Reportedly, the witness "had been imprisoned from
+    1981 to 1984 for having taken part in an anti-government demonstration and
+    had been tortured for 85 days before being interrogated." She had been
+    forced to watch the execution of Mr. Ghorbani Maleki, and two other
+    people. Arrest and detention The circumstances of Mr. Ghorbani Maleki
+    arrest and detention are not known. Trial There is no information
+    regarding this trial. Charges The charges brought against the defendant
+    are not known. Evidence of guilt No information is available concerning
+    the evidence presented against the accused. Defense No information is
+    available concerning Mr. Ghorbani Maleki's defense. Judgment No specific
+    information is available about the verdict. According to the UN report the
+    witness was forced to watch the death by burning of Mr. Ghorbani Maleki
+    along with the execution of another 18-year old young man and a 37-year
+    old woman that took place in an Iranian prison: "they had been thrown into
+    a furnace by guards, named Jamshid Sohrabi and Mojtaba Halvai." When the
+    witness was freed, she visited the family of Asghar Ghorbani Maleki," who
+    told her that prison guards had brought them a box containing Asghar’s
+    ashes and that, as a consequence of the shock this had caused, the young
+    man’s father had committed suicide."
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/11320/asghar-ghorbani-maleki"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

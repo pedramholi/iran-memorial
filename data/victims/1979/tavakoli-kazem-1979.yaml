@@ -1,0 +1,48 @@
+id: tavakoli-kazem-1979
+name_latin: "Kazem Tavakoli"
+name_farsi: "کاظم توکلی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1979-09-01
+age_at_death: null
+place_of_death: "Bandar Abbas"
+province: "Hormozgan"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Mr. Kazem Tavakoli was announced in the Kayhan newspaper
+    on September 1, 1979, and the Enqelab-e Eslami on September 2. He was a
+    chef. Arrest and detention The circumstances of this defendant’s arrest
+    and detention are not known. Trial No information is available on the
+    defendant’s trial other than he was tried at the Islamic Revolutionary
+    Tribunal of Bandar Abbas. Charges Mr. Tavakoli was charged with “sodomy.”
+    The Kayhan report mentions other charges, but they are not included here
+    since they were not confirmed by the Enqelab-e Eslami newspaper. The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    International human rights organizations have drawn attention to reports
+    indicating that the Islamic Republic’s authorities have brought trumped-up
+    charges against their political opponents and executed them for drug
+    trafficking, sexual, and other criminal offences. The exact number of
+    people convicted based on trumped-up charges is unknown. Evidence of guilt
+    The report of this execution does not contain information regarding the
+    evidence provided against the defendant. Defense No information is
+    available on his defense. Judgment The Islamic Revolutionary Tribunal of
+    Bandar Abbas condemned Mr. Kazem Tavakoli to death. He was executed at
+    dawn on September 1, 1979.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4367/kazem-tavakoli"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

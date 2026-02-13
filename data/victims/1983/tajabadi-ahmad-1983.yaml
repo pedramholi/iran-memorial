@@ -1,0 +1,48 @@
+id: tajabadi-ahmad-1983
+name_latin: "Ahmad Tajabadi"
+name_farsi: "احمد تاج آبادی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1983-11-15
+age_at_death: 23
+place_of_death: "Bandar Abbas"
+province: "Hormozgan"
+cause_of_death: "Fatal"
+circumstances: >
+    The execution of Mr. Ahmad Tajabadi, along with three others, was reported
+    in the Jomhuri Eslami daily on November 16, 1983. Arrest and detention The
+    circumstances of this defendant s arrest and detention are not known.
+    Trial No information is available on the defendant s trial. Charges Mr.
+    Tajabadi was reportedly charged with large-scale drug trafficking,
+    transportation, distribution and storage. The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic s authorities have brought trumped up charges against
+    their political opponents and executed them for drug trafficking, sexual,
+    and other criminal offences. Thousands of alleged drug traffickers have
+    been sentenced to death following judicial processes that fail to meet
+    international standards. The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against the defendant. Defense No information is available on Mr.
+    Tajabadi's defense. Judgment The Islamic Revolutionary Tribunal of
+    Hormozgan sentenced Mr. Tajabadi to death. Having been confirmed by the
+    Islamic Revolutionary Supreme Court, the sentence was carried out at dawn.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/29304/ahmad-tajabadi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

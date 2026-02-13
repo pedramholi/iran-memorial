@@ -1,0 +1,67 @@
+id: salemi-mahmud-1979
+name_latin: "Mahmud Salemi"
+name_farsi: "محمود سالمی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1979-08-30
+age_at_death: null
+place_of_death: "Saveh"
+province: "Markazi"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Mr. Mahmud Salemi was reported in the newspaper Enqelabe
+    Eslami on September 1st, 1979. The validity of the criminal charges
+    brought against this defendant cannot be ascertained in the absence of the
+    basic guarantees of a fair trial. International human rights organizations
+    have drawn attention to reports indicating that the Islamic Republic’s
+    authorities have brought trumped up charges against their opponents and
+    executed them for drug trafficking, sexual, and other criminal offences.
+    Each year, Iranian authorities sentence to death hundreds of alleged
+    common criminals, following judicial processes that fail to meet
+    international standards. The exact number of people convicted based on
+    trumped-up charges is unknown. Arrest and detention The circumstances of
+    this defendant’s arrest and detention are not known. However, based on a
+    letter to the Revolutionary Prosecutor of Saveh by the Central Province’s
+    Governor, published in the daily Enqelab-e Eslami on February 20, 1980,
+    prisoners were tortured at the time of the defendant’s detention. The
+    letter, which is published along with the official minutes of his visit to
+    the Saveh Police Headquarters and his meeting with the prisoners and a
+    forensic doctor’s report regarding signs of torture on a detainee, reads
+    as follows: “Mr. Abdollahi, Islamic Revolutionary Prosecutor of Saveh,
+    With all due respects, I am submitting the report of my visit to the
+    Shahrebani Nedamatgah [Police Headquarters’ Detention Center] of Saveh and
+    two attachments signed by the authorities at the Police Headquarters. Most
+    prisoners have been tortured in such a way that is even distressing to
+    describe. Even those individuals who have been arrested and tortured 40
+    days ago are still showing clear signs of torture on their bodies. For
+    most cases, the reason for the arrest is unclear. I urge you to take the
+    appropriate measures and order an end to torture and investigate the
+    situation of those existing [detainees] and report the findings to the
+    Governor’s Office. [Signature]: Abbas Samii, Governor of Central
+    Province”. Trial The Islamic Revolutionary Tribunal of Saveh held three
+    sessions to examine the charges brought against the defendant. Charges The
+    defendant was charged with the murder of two individuals named Abolhassan
+    Mandani and Mohammad Zeki. Evidence of guilt The report of this execution
+    mentions the locality where the crime allegedly took place and the fire
+    arm the defendant had used. At the time of the crime the defendant was
+    serving as a revolutionary guard. Defense No information is available on
+    Mr. Salemi's defense. Judgment The Islamic Revolutionary Tribunal of Saveh
+    issued a death sentence against Mr. Salemi. He was executed on Thursday at
+    3:35 am.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/23451/mahmud-salemi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

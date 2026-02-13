@@ -1,0 +1,55 @@
+id: rasuli-hassanollah-1985
+name_latin: "Hassanollah Rasuli"
+name_farsi: "حسن الله رسولی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1985-01-28
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Hassanollah Rasuli, son of Sa’id, along with 24
+    others, was reported in the Kayhan daily on January 28, 1985. Arrest and
+    detention The circumstances of this defendant’s arrest and detention are
+    not known. Trial No information is available on the defendant’s trial,
+    other than Mr. Rasuli was tried at one of the tribunals of the Islamic
+    Revolutionary Prosecution Office to Combat Drugs in Tehran. Charges
+    According to this report, Mr. Rasuli and another defendant were
+    collectively charged with “possessing 2.90 kg of heroin when arrested,
+    selling 6 kg of heroin to the officers, selling 20-gram packages of heroin
+    several times, being greatly and continuously active in supplying and
+    distributing heroin”. Mr. Rasuli was reportedly an “armed smuggler.” The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    International human rights organizations have drawn attention to reports
+    indicating that the Islamic Republic’s authorities have brought trumped-up
+    charges against their political opponents and executed them for drug
+    trafficking, sexual, and other criminal offences. Each year, Iranian
+    authorities sentence to death hundreds of alleged common criminals,
+    following judicial processes that fail to meet international standards.
+    The exact number of people convicted based on trumped-up charges is
+    unknown. Evidence of guilt According to this report, Mr. Rasuli has had “a
+    criminal record for supplying and distributing narcotics” Defense No
+    information is available on Mr. Rasuli’s defense. Judgment One of the
+    tribunals of the Islamic Revolutionary Prosecution Office to Combat Drugs
+    in Tehran sentenced Mr. Rasuli to death and the Supreme Court approved the
+    verdict. Mr. Hassanollah Rasuli and 24 other individuals were hanged at
+    Qasr prison in Tehran on January 28, 1985.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/44109/hassanollah-rasuli"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

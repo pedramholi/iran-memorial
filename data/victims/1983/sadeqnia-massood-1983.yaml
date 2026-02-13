@@ -1,0 +1,42 @@
+id: sadeqnia-massood-1983
+name_latin: "Massood Sadeqnia"
+name_farsi: "مسعود صادق نیا"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1983-07-28
+age_at_death: null
+place_of_death: "Iran"
+province: null
+cause_of_death: "Fatal"
+circumstances: >
+    The execution of Mr. Massood Sadeqnia, along with seven others, was
+    announced in a communiqué by the public relations department of the Army’s
+    Public Prosecutor’s Office. The communiqué was reported in the Jomhuri
+    Eslami Daily on July 31, 1983. Arrest and detention The circumstances of
+    this defendant’s arrest and detention are not known. Trial No information
+    is available on the defendant’s trial. Charges Mr. Sadeqnia was reported
+    to be charged with participation in “the escape conspiracy of President
+    Banisadr.” Evidence of guilt The report of this execution does not contain
+    information regarding the evidence provided against the defendant. Defense
+    No information is available on Mr. Sadeqnia's defense. Judgment The
+    Islamic Revolutionary Tribunal of the Army sentenced Mr. Sadeqnia to
+    death. Having been confirmed by the Islamic Revolution’s Supreme Tribunal
+    of Qom, the sentence was carried out on the anniversary of the escape of
+    the former President Banisadr.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/29386/massood-sadeqnia"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

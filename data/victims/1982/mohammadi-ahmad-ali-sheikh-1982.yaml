@@ -1,0 +1,49 @@
+id: mohammadi-ahmad-ali-sheikh-1982
+name_latin: "Ahmad Ali Sheikh Mohammadi"
+name_farsi: "احمد علی شیخ محمدی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1982-09-12
+age_at_death: null
+place_of_death: "Bakhtaran"
+province: "Bakhtaran"
+cause_of_death: "Fatal"
+circumstances: >
+    The execution of Mr. Ahmad Ali Sheikh Mohammadi, along with three others,
+    was reported in the Jomhuri Eslami daily on September 13, 1982. Arrest and
+    detention The circumstances of this defendant’s arrest and detention are
+    not known. Trial No information is available on the defendant’s trial.
+    Charges According to this report, Mr. Sheikh Mohammadi was charged with
+    “active participation in bombing networks and killing innocent Muslims,
+    traveling to Iraq illegally, contacting the heads of the traitors and
+    anti-revolutionaries, being actively involved in overthrowing the Islamic
+    Republic of Iran, bringing a suitcase containing explosives from Iraq to
+    blow up the strategic and populated centers, getting training in Baqdad
+    for destruction, importing weapons and munitions from Iraq with the
+    intention of assassinating the Muslims, bringing a frame containing Imam’s
+    picture which was made of explosives with the intention of detonating it
+    in Friday prayers in Tehran. Fortunately he was arrested before putting
+    his heinous plan into practice.” Evidence of guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against the defendant. Defense No information is available on Mr. Sheikh
+    Mohammadi's defense. Judgment The Islamic Revolutionary Tribunal of the
+    Islamic Republic’s Army sentenced Mr. Sheikh Mohammadi to death. The
+    sentence was carried out in front of huge numbers of people at Azadi
+    circle in Bakhtaran.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/31127/ahmad-ali-sheikh-mohammadi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

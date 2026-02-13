@@ -1,0 +1,52 @@
+id: zamani-baratali-1981
+name_latin: "Barat'ali Zamani"
+name_farsi: "براتعلی زمانی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-09-27
+age_at_death: 28
+place_of_death: "Esfahan"
+province: "Esfahan"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    Information about the execution of Mr. Barat'ali Zamani and 52 other
+    individuals was released in a communique of the Esfahan Islamic
+    Revolutionary Tribunal, published in the newspaper Jomhuri Eslami ,
+    September 30, 1981. Mr. Zamani (Mojahedin Khalq Iran) is also one of the
+    12028 individuals listed in an addendum to the Mojahed magazine (No 261),
+    published by Mojahedin Khalq Organization in 1985. The list includes
+    individuals, affiliated with various opposition groups, who were executed
+    or killed during clashes with the Islamic Republic security forces from
+    June 1981 to the publication date of the magazine. Arrest and detention No
+    information is available about Mr. Zamani's arrest or detention. Trial No
+    information is available about the defendant's trial. Charges Mr. Zamani
+    was accused of "being a member of the armed wing of the People' s
+    Mojahedin Organization... armed action against the Islamic Republic of
+    Iran, terror, murder and attacking the revolutionary guard and bassij
+    brothers, attacking the Bassij dormitories, throwing Molotov cocktails and
+    three ways [explosives] in public places, [aiming] cars and shops of the
+    revolutionary guards, Bassij and the hezbollahi people." These charges are
+    collective and brought against the defendant and 52 other individuals. The
+    prosecution does not mention any specific offense for the defendant.
+    Evidence of guilt No information is available about evidence presented
+    against the defendant. Defense No information is available about the
+    defendant's defense. Judgment He was found guilty of "armed rebellion
+    against the Islamic Republic", and sentenced to death. He was executed on
+    Sunday night, September 27th.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-3986/baratali-zamani"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

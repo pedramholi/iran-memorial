@@ -1,0 +1,47 @@
+id: mirmahmudzadeh-abdollah-1982
+name_latin: "Abdollah Mirmahmudzadeh"
+name_farsi: "عبدالله میرمحمودزاده"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1982-05-01
+age_at_death: null
+place_of_death: "Mashhad"
+province: "Khorasan\\Khorasan-e Razavi"
+cause_of_death: "Fatal"
+circumstances: >
+    The execution of Mr. Abdollah Mirmahmudzadeh, along with 10 others, was
+    reported in the Jomhuri Eslami daily on May 3, 1982, quoting the public
+    relations of the Islamic Revolutionary Public Prosecutor’s Office of
+    Mashad. Arrest and detention The circumstances of this defendant’s arrest
+    and detention are not known. Trial No information is available on the
+    defendant’s trial. Charges Mr. Mirmahmudzadeh was charged with
+    participating in the assassination of a group of persons (some of whose
+    names are mentioned and the rest are indicated as “the committed Hizbollah
+    members in Mashad”), “being highly and continuously active in the
+    military-political wing of the Hypocrites organization (the term used by
+    the Islamic Republic authorities when referring to the Mujahedin-e Khalq
+    Organization or MKO), carrying out an armed attack on the governmental and
+    revolutionary institutions, exploding homes belonging to Hizbollah members
+    and residing in safe houses.” Evidence of guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against the defendant. Defense No information is available on
+    Mr.Mirmahmudzadeh’s defense. Judgment The Islamic Revolutionary Tribunal
+    of Mashad sentenced Mr.Mirmahmudzadeh to death. The sentence was carried
+    out.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/23561/abdollah-mirmahmudzadeh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

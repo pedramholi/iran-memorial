@@ -1,0 +1,85 @@
+id: arehchi-mina-1981
+name_latin: "Mina Arehchi"
+name_farsi: "مینا اره چی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam (Shi'a)"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-09-22
+age_at_death: 18
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The news of Ms. Mina Arehchi s execution, and 22 others, comes from the
+    Kayhan daily on September 23, 1981 that quotes the Islamic Republic s
+    Public Prosecutor s Central Office. Additional information was drawn from
+    an electronic form was sent to Omid by a person familiar with her case.
+    Furthermore, Ms. Arehchi is one of the 1533 executed prisoners listed by
+    the Association of Iranian Women of K ln (Germany). The list published in
+    1997 is entitled: "A partial list of names of women executed by the
+    Islamic Republic of Iran. This execution was also reported in an addendum
+    to the Mojahed magazine (No 261), published by Mojahedin Khalq
+    Organization in 1985. The list includes 12028 individuals, affiliated with
+    various opposition groups, who were executed or killed during clashes with
+    the Islamic Republic security forces from June 1981 to the publication
+    date of the magazine. Ms. Arehchi was a sympathizer of the Mojahedin Khalq
+    Organization (MKO), an Islamist Revolutionary Organization that supported
+    the 1979 revolution and the Islamic Republic until June 1981, when it
+    joined the opposition. In June 20, 1981, a large demonstration took place
+    in protest against the parliament's impeachment of President Banisadr and
+    the Islamic Republic's systematic policy of excluding the Mojahedin Khalq
+    Organization (MKO) from the country's political scene, the refusal of
+    Ayatollah Khomeini to meet with MKO leaders, and his insistence for them
+    to disarm. The MKO, a Marxist Islamist revolutionary organization, had
+    until then supported the leadership of Ayatollah Khomeini and agreed to
+    function within the framework of the new political system. On June 20th,
+    the organization officially changed its policy and tried to overthrow the
+    regime by organizing nation-wide mass demonstrations in which some of the
+    demonstrators were armed. These protests, which were severely suppressed
+    and resulted in the killing of dozens of demonstrators, were followed by a
+    wave of mass arrests and executions by the Revolutionary Guards and
+    para-military forces that targeted not only the MKO, but all other
+    opposition groups. The massive repression, unprecedented in the history of
+    the Islamic Republic, legitimized as official government policy the
+    months-old state harassment and suppression of dissidents and resulted in
+    the banning of all forms of independent political dissent. Arrest and
+    detention According to the information on the form, Ms. Arehchi was
+    arrested on September 11, 1981, around 3 pm. She was taken to the
+    Revolutionary Committee and later transferred to the Evin Prison. Ms.
+    Arehchi was not allowed any visitation with her family; her only contact
+    with her family was reported to be a phone call that alerted them of her
+    arrest. She was not given access to an attorney. Trial No information is
+    available on the defendant s trial. The Kayhan daily mentions that the
+    Central Islamic Revolutionary Court gave out the verdict in Ms. Arehchi s
+    case. It is not clear, however, if Ms. Arehchi was tried by this court.
+    Charges The charges against Ms. Arehchi were announced by the Islamic
+    Republic s Public Prosecutor s Central Office. These charges were
+    published by Kayhan daily and are as follows: Being a member of the
+    American hypocrites organization (a name commonly used for the MKO by the
+    Islamic government), being present in team houses, being a member of the
+    publicity team, having Molotov cocktail, participating in armed
+    demonstrations, throwing Molotov cocktails at different locations, helping
+    in the identification of the Hezbollah houses. The validity of the
+    criminal charges brought against this defendant cannot be ascertained in
+    the absence of the basic guarantees of a fair trial. Evidence of guilt The
+    report of this execution does not contain information regarding the
+    evidence provided against the defendant. Defense No information is
+    available on Ms. Arehchi s defense. Judgment Ms. Arehchi was declared a
+    corruptor on earth and an enemy of God and was sentenced to death. She was
+    executed in the evening at Evin Prison.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4072/mina-arehchi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

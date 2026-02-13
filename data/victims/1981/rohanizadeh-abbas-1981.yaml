@@ -1,0 +1,58 @@
+id: rohanizadeh-abbas-1981
+name_latin: "Abbas Rohanizadeh"
+name_farsi: "عباس روحانی‌زاده"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-07-07
+age_at_death: 23
+place_of_death: "Qae'mshahr"
+province: "Mazandaran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The news of the execution of Mr. Abbas Rohanizadeh was announced by
+    reports in Jomhouri Eslami and Kayhan on July 8, 1981. Mr. Rohanizadeh,
+    23, industrial worker, and a supporter of the Mojahedin Khalq
+    Organization, is also one of the 12,028 individuals listed in an addendum
+    to the Mojahed magazine (No 261), published by Mojahedin Khalq
+    Organization in 1985. The list includes individuals, affiliated with
+    various opposition groups, who were executed or killed during clashes with
+    the Islamic Republic security forces from June 1981 to the publication
+    date of the magazine. Arrest and detention The circumstances of this Mr.
+    Rohanizadeh’s arrest and detention are not known. Trial Based on the
+    available information the Qa’em Shahr Islamic Revolutionary Tribunal
+    issued Mr. Rohanizadeh’s sentence. No information is available on Mr.
+    Rohanizadeh’s trial. Charges According to the Jomhouri Eslami report Mr.
+    Rohanizadeh was charged with “activity, leadership and involvement in
+    clashes in support of the Mojahedin Khalq Organization against the Islamic
+    Republic while possessing cables, stones and cartridge belts, and injuring
+    a number of steadfast Muslims.” According to Kayhan , however, Mr.
+    Rohanizadeh and three other individuals were charged with actively
+    participating in clashes of the American grouplets, leadership of the
+    Hypocrites in this town [Qa’em Shahr], disarming the Revolutionary Guards,
+    assault and battery, and participating in May 4 clashes in Qa’em Shahr.
+    Evidence of guilt The report of this execution does not contain
+    information regarding the evidence provided against Mr. Rohanizadeh.
+    Defense No information is available on Mr. Rohanizadeh’s defense. Judgment
+    The Qa’em Shahr Islamic Revolutionary Tribunal found Mr. Rohanizadeh
+    guilty of waging war on God and God’s Prophet, rebellion, and corruption
+    on earth, and sentenced him to death. The Supreme Judicial Council
+    affirmed this verdict. Mr. Rohanizadeh was executed by a firing squad on
+    the side of the Shirgah-Qa’em Shahr road on July 7, 1981. Mr. Rohanizadeh
+    was 23 years old at the time of his execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-5589/abbas-rohanizadeh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

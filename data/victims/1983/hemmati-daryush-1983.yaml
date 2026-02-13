@@ -1,0 +1,51 @@
+id: hemmati-daryush-1983
+name_latin: "Daryush Hemmati"
+name_farsi: "داریوش همتی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1983-05-30
+age_at_death: 25
+place_of_death: "Ahvaz"
+province: "Khuzestan"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The information about Mr. Daryush Hemmati, son of Ali, has been sent to
+    Omid by an individual familiar with this case, via an electronic form. Mr.
+    Hemmati is one of the 12028 individuals listed in an addendum to the
+    Mojahed magazine (No 261), published by Mojahedin Khalq Organization in
+    1985. The list includes individuals, affiliated with various opposition
+    groups, who were executed or killed during clashes with the Islamic
+    Republic security forces from June 1981 to the publication date of the
+    magazine. According to the available information, Mr. Hemmati was born in
+    Abadan on March 21, 1958. He was a member of the Mojahedin Khalq
+    Organizatio. According to the Mojahed magazine, he served in the army,
+    possibly in his compulsory military service. Arrest and detention The
+    details of this defendant’s arrest and detention are not known, other than
+    he was arrested in Ahvaz in 1981 and imprisoned in Kazerun prison. During
+    two years of detention, he wrote to his family and had visits with them.
+    According to the electronic form, he was tortured in prison. Trial No
+    information is available on the defendant’s trial, other than the trial
+    took place in Ahvaz in 1983. Charges Mr. Hemmati was charged with
+    “sympathizing with the Mojahedin Khlaq Organization.” Evidence of guilt
+    The report of this execution does not contain information regarding the
+    evidence provided against the defendant. Defense No information is
+    available on Mr. Hemmati’s defense. Judgment The court condemned Mr.
+    Daryush Hemmati to death. He was shot by a firing squad in Ahvaz on May
+    30, 1983. He was buried at the Beheshtabad cemetery in Ahvaz.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/42294/daryush-hemmati"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

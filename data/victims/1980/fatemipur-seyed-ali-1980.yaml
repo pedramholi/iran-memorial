@@ -1,0 +1,52 @@
+id: fatemipur-seyed-ali-1980
+name_latin: "Seyed Ali Fatemipur"
+name_farsi: "سید علی فاطمی پور"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-08-02
+age_at_death: null
+place_of_death: "Mashhad"
+province: "Khorasan\\Khorasan-e Razavi"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Seyed Ali Fatemipur and another person was reported by
+    the correspondent of the Jomhuri Eslami daily in Mashhad (August 4, 1980).
+    Arrest and detention The circumstances of this defendant s arrest and
+    detention are not known. Trial No specific information about the
+    circumstances of the trial was provided. Charges The report mentioned that
+    Mr. Fatemipur was charged with carrying two bags of opium, weighing a
+    total of 154 kilograms as well as having a past record of carrying 36
+    kilograms of opium, for which he had been sentenced to a year in prison
+    before the revolution. The defendant is reported to have escaped from
+    prison during the revolutionary unrest. The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic s authorities have brought trumped up charges against
+    their political opponents and executed them for drug trafficking, sexual,
+    and other criminal offences. Each year, Iranian authorities sentence to
+    death hundreds of alleged common criminals, following judicial processes
+    that fail to meet international standards. The exact number of people
+    convicted based on trumped-up charges is unknown. Evidence of guilt The
+    report contains no information regarding the evidence presented against
+    the defendant. Defense No information is available on Mr. Fatemipur s
+    defense. Judgment The Special Islamic Revolutionary Tribunal for Combating
+    Drugs and Narcotics in the East of the Country sentenced Mr. Fatemipur to
+    death. He was executed at dawn.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/13031/seyed-ali-fatemipur"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

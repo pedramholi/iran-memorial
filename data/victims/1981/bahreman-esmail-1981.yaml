@@ -1,0 +1,58 @@
+id: bahreman-esmail-1981
+name_latin: "Esma'il Bahreman"
+name_farsi: "اسماعیل بهرمان"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-09-10
+age_at_death: null
+place_of_death: "Behbahan"
+province: "Khuzestan"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    Mr. Esma'il Bahraman is one of the 12,028 individuals listed in an
+    addendum to the Mojahed magazine (No 261), published by Mojahedin Khalq
+    Organization (MKO) on September 6, 1985. The list includes individuals,
+    affiliated with various opposition groups, who were executed or killed
+    during clashes with the Islamic Republic security forces from June 1981 to
+    the publication date of the magazine. Additional information about Mr.
+    Bahraman is taken from the book Our Martyrs in the Path to Freedom by
+    Rah-e Kargar publications, copyright 1988. He was born in Omidieh. He was
+    a student in Jondishapur University of Ahvaz and a sympathizer of the
+    Rah-e Kargar Organization. "Rah-e Kargar" or the "Revolutionary Workers
+    Organization of Iran" was established in the summer of 1979. The
+    Organization was founded by individuals from various leftist groups who
+    had rejected the idea of armed struggle and believed in political action.
+    They introduced themselves as Marxist-Leninists, promoting a socialist
+    revolution and the leadership of the proletariat. They differed with the
+    pro-Soviet communist party, Tudeh, in that they opposed the Islamic
+    Republic and Ayatollah Khomeini's leadership. Arrest and detention The
+    circumstances of this defendant’s arrest and detention are unknown.
+    According to the Rah-e Kargar book, Mr. Bahraman was arrested in Ramhormoz
+    in late August 1981. During his last days, he was tortured so severely
+    that his hand was barely attached to his body when he was executed. Trial
+    No information is available on the defendant’s trial. Charges No
+    information is available on Mr. Bahraman’s charges. Evidence of guilt The
+    report of this execution contains no evidence provided against the
+    defendant. Defence No information is available about the defendant’s
+    defence. Judgment No specific information is available about the
+    defendant’s execution. According to the book, Mr. Bahraman was executed by
+    a firing squad in Behbahan on September 10, 1981. His body was given to
+    his family 34 kilometres away from Behbahan and he was buried in his
+    birthplace, Omidieh.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4118/esmail-bahreman"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

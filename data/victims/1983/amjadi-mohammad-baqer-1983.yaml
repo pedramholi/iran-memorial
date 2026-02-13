@@ -1,0 +1,60 @@
+id: amjadi-mohammad-baqer-1983
+name_latin: "Mohammad Baqer Amjadi"
+name_farsi: "محمدباقر امجدی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1983-03-07
+age_at_death: 27
+place_of_death: "Khoramabad"
+province: "Lorestan"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The news about the execution of Mr. Mohammad Baqer Amjadi, son of Ali, was
+    sent to the Boroumand Foundation sent via an electronic form by a person
+    informed about this case. According to this information, Mr. Amjadi was
+    born in Borujerd in 1956. He was a high school graduate and worked as a
+    teacher. He was a sympathizer of the Fadaiyan Khalq Organization. Mr.
+    Amjadi’s execution was also reported in an addendum to the Mojahed
+    magazine (No 261), published by Mojahedin Khalq Organization in 1985. The
+    addendum includes 12,028 individuals, affiliated with various opposition
+    groups, who were executed or killed during clashes with the Islamic
+    Republic security forces from June 1981 to the publication date of the
+    magazine. The Fadaiyan Khalq Organization, a Marxist Leninist group
+    inspired by the Cuban Revolution and the urban guerilla movements of Latin
+    America, was founded in 1971 by two communist groups opposed to the
+    Pahlavi regime. Following the 1979 revolution, the Organization, which had
+    renounced armed struggle, split over their support of the Islamic Republic
+    and of the Soviet Union. Arrest and detention According to the information
+    sent by the electronic form, Mr. Amjadi was arrested in July of 1982
+    around noon in Pole Dokhtar. He was then transferred to Khorramabad’s
+    Intelligence Office prison. During the eight months that Mr. Amjadi was in
+    detention, he was able to visit his family about ten times. Trial No
+    information is available on Mr. Amjadi’s trial. Charges According to the
+    electronic form, Mr. Amjadi’s only charge was his membership in Fadaiyan
+    Khalq Organization. The validity of the criminal charges brought against
+    this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. Evidence of guilt The report of this execution
+    did not provide any specific information on the evidence presented against
+    the defendant. Defense No information is available on Mr. Amjadi’s
+    defense. According to the electronic form, he was denied the right to an
+    attorney and was not even arraigned. Judgment According to the electronic
+    form, Mr. Amjadi was executed on March 7, 1983 by a firing squad at the
+    Falak Olaflak Prison in Khorramabad. The addendum to the Mojahed magazine
+    confirms that he was executed in 1983 in Khorramabad by a firing squad.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/64549/mohammad-baqer-amjadi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

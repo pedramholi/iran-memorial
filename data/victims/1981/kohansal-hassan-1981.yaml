@@ -1,0 +1,42 @@
+id: kohansal-hassan-1981
+name_latin: "Hassan Kohansal"
+name_farsi: "حسن کهنسال"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-07-29
+age_at_death: null
+place_of_death: "Mashhad"
+province: "Khorasan\\Khorasan-e Razavi"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The news of the execution of Mr. Hasan Kohansal was announced in a
+    communiqué by the Mashad Islamic Revolutionary Prosecutor’s Office
+    published in Jomhouri Eslami on July 30, 1981. Arrest and detention The
+    circumstances of Mr. Kohansal’s arrest and detention are not known. Trial
+    No information is available on Mr. Kohansal’s trial. Based on the
+    available information, the Mashad Islamic Revolutionary Tribunal issued
+    Mr. Kohansal’s sentence. Charges Mr. Kohansal was charged with “throwing
+    Molotov cocktails in public facilities and private properties in Mashad.”
+    . Evidence of guilt The report of this execution does not contain
+    information regarding the evidence provided against Mr. Kohansal. Defense
+    No information is available on Mr. Kohansal’s defense. Judgment The Mashad
+    Islamic Revolutionary Tribunal found Mr. Kohansal guilty of corruption on
+    earth and waging war on God, and sentenced him to death. Mr. Kohansal was
+    executed on July 29, 1981 in Mashad.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/65403/hassan-kohansal"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

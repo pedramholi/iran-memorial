@@ -1,0 +1,59 @@
+id: bavi-hamid-1980
+name_latin: "Hamid Bavi"
+name_farsi: "حمید باوی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-06-09
+age_at_death: null
+place_of_death: "Ahvaz"
+province: "Khuzestan"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Mr. Hamid Bavi was announced in a communiqu of the
+    Islamic Revolutionary Tribunal of Khuzestan in Ahvaz published in the
+    Jomhuri Eslami daily (June 10, 1980). Arrest and detention The communiqu
+    as published by the Jomhuri Eslami daily shows the date of the alleged
+    crime by the defendant (July 17, 1980) to be 37 days after the date
+    mentioned for his execution (June 10, 1980). Therefore, it is not clear
+    what the actual dates of the alleged crime and the consequent arrest were.
+    The communiqu claims that Mr. Bavi was detained only after his own clear
+    confession to murder. However, while further investigations were being
+    made during his detention, he started to pretend that he was insane in
+    order to escape the penalty. He did such strange things as eating frogs
+    and meat, which prompted the court to have three medical specialists
+    examine him for insanity. Trial No information is available about Mr. Bavi
+    s trial. Charges According to the communiqu , Mr. Bavi was charged with
+    martyring the Revolutionary Guard Iraj Sabzevari. The validity of the
+    criminal charges brought against this defendant cannot be ascertained in
+    the absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic s authorities have brought trumped up charges against
+    their political opponents and executed them for drug trafficking, sexual,
+    and other criminal offences. Thousands of alleged drug traffickers have
+    been sentenced to death following judicial processes that fail to meet
+    international standards. The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of guilt The communiqu mentions
+    that the charge was confirmed based on the medical specialists clear
+    opinion about the mental conditions of the defendant and other contents of
+    his file. However, no specific information regarding the circumstances of
+    obtaining the confessions and the nature of the contents of the file is
+    provided. Defense No information is available on Mr. Bavi s defense.
+    Judgment According to the communiqu , Mr. Bavi was sentenced to death
+    based on Qisas [the law of talion ]. He was executed at dawn.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/12679/hamid-bavi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

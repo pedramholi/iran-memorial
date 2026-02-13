@@ -1,0 +1,53 @@
+id: shamsnia-mahmud-1979
+name_latin: "Mahmud Shamsnia"
+name_farsi: "محمود شمس نیا"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1979-10-04
+age_at_death: null
+place_of_death: "Esfahan Province"
+province: "Esfahan"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of Seyyed Mahmud Shamsnia was reported by the Kayhan and
+    Enqelab Eslami correspondents in Esfahan (October 4, 1979). Based on the
+    Enqelab Eslami report, this individual was the first cleric sentenced to
+    death after the Revolution in Iran. The validity of the criminal charges
+    brought against this defendant cannot be ascertained in the absence of the
+    basic guarantees of a fair trial. International human rights organizations
+    have drawn attention to reports indicating that the Islamic Republic’s
+    authorities have brought trumped up charges against their political
+    opponents and executed them for drug trafficking, sexual, and other
+    criminal offences. Each year, Iranian authorities sentence to death
+    hundreds of alleged common criminals, following judicial processes that
+    fail to meet international standards. The exact number of people convicted
+    based on trumped-up charges is unknown. Arrest and detention The
+    circumstances of this defendant’s arrest and detention are not known.
+    Trial No information is available on Mr. Shamsnia’s trial. Charges
+    According to the report, Mr. Shamsnia was charged with “collaboration with
+    SAVAK, espionage, illegitimate use of the sacred religious attire,
+    praising the corrupt monarchy, deceiving uninformed people, misleading
+    innocent girls, offending public decency and homosexual acts under the
+    cover of religion and religious attire.” Evidence of guilt The report of
+    this execution does not contain any information regarding the evidence
+    presented against the defendant. Defense No information about Mr.
+    Shamsnia’s defense is available. Judgment The Revolutionary Tribunal of
+    Esfahan declared Seyyed Mahmud Shamsnia guilty of “corruption on earth”
+    and “waging war against God and his prophet.” He was sentenced to death.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/11779/mahmud-shamsnia"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

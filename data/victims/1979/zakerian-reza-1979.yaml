@@ -1,0 +1,67 @@
+id: zakerian-reza-1979
+name_latin: "Reza Zakerian"
+name_farsi: "رضا ذاکریان"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1979-08-05
+age_at_death: null
+place_of_death: "Yazd"
+province: "Yazd"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of Mr. Reza Zakerian and another individual was reported in
+    the Kayhan newspaper quoting a communiqué of the Islamic Revolutionary
+    Tribunal of Yazd (August 6, 1979). Amnesty Inetrnational’s report of March
+    13, 1980 lists this victim, without mentioning his name, among 438 persons
+    who were convicted and executed by Revolutionary Tribunals in the period
+    from their inception until August 12, 1979. The list of victims and
+    charges is drawn from sources including translations of indictments,
+    reports of trials carried out by local and foreign media and the bulletins
+    of the official Pars News Agency reports. Arrest and detention The
+    circumstances of this defendant’s arrest and detention are not known.
+    Trial No information is available on the trial. Charges Mr. Zakerian was
+    charged with being an accomplice in misguiding and eventually raping a
+    villager woman who had missed her bus and was lost in the city. The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    International human rights organizations have drawn attention to reports
+    indicating that the Islamic Republic’s authorities have brought trumped-up
+    charges against their political opponents and executed them for drug
+    trafficking, sexual, and other criminal offences. Each year, Iranian
+    authorities sentence to death hundreds of alleged common criminals,
+    following judicial processes that fail to meet international standards.
+    The exact number of people convicted based on trumped-up charges is
+    unknown. Evidence of guilt The report mentioned that the witnesses’
+    testimonies and the defendant’s clear confession regarding the sexual
+    assault were heard. International human rights organizations have
+    repeatedly condemned the government of the Islamic Republic of Iran for
+    its systematic use of severe torture and solitary confinement to obtain
+    confessions from detainees and have questioned the authenticity of
+    confessions obtained under duress. In the case of political detainees,
+    these confessions are, at times, televised. The National Television
+    broadcasts confessions during which prisoners plead guilty to vague and
+    false charges, repent and renounce their political beliefs, and/or
+    implicate others. Human rights organizations have also pointed to the
+    pattern of retracted confessions by those prisoners who are freed. Defense
+    No information is available on the defense. Judgment The Islamic
+    Revolutionary Tribunal of Yazd declared Mr. Zakerian “a corruptor and an
+    anti-revolutionary” for rape and “violating people’s honor.” He was
+    sentenced to death, and executed by firing squad at 2:30 a.m. on August 6,
+    1979 in Yazd.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-3781/reza-zakerian"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

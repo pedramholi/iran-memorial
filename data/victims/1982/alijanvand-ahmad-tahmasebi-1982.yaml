@@ -1,0 +1,58 @@
+id: alijanvand-ahmad-tahmasebi-1982
+name_latin: "Ahmad Tahmasebi Alijanvand"
+name_farsi: "احمد طهماسبی علیجاموند"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1982-01-01
+age_at_death: 23
+place_of_death: "Ahvaz"
+province: "Khuzestan"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    Information regarding the execution of Mr. Ahmad Tahmasebi Alijanvand was
+    sent to the Boroumand Foundation via an electronic form by a person
+    familiar with his case. According to this information, Mr. Tahmasebi
+    Alijanvand, son of Mohammad, was born in Masjed Soleiman in 1959. He was a
+    high school graduate, single, and a sympathizer of the Fadaiyan Khalq
+    Minority. The Fadaiyan Khalq Organization, a Marxist Leninist group
+    inspired by the Cuban Revolution and the urban guerilla movements of Latin
+    America, was founded in 1971 by two communist groups opposed to the
+    Pahlavi regime. Following the 1979 revolution, the Organization, which had
+    renounced armed struggle, split over their support of the Islamic Republic
+    and of the Soviet Union. The Fadaiyan Khalq Minority opposed the Islamic
+    Republic and was active mainly in the political arena and the labor
+    movement. Arrest and Detention There is no specific information on Mr.
+    Tahmasebi Alijanvand’s arrest and detention. Trial No information is
+    available on the accused’s trial. Charges No information is available on
+    the charges against the accused. The validity of the criminal charges
+    brought against Mr. Tahmasebi Alijanvand cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that
+    Islamic Republic authorities have brought trumped-up charges against their
+    political opponents and executed them for alleged drug trafficking,
+    sexual, and other criminal offences. Each year Iranian authorities
+    sentence to death hundreds of alleged common criminals, following judicial
+    processes that fail to meet international standards. The exact number of
+    people convicted based on trumped-up charges is unknown. Evidence of Guilt
+    The report of Mr. Tahmasebi Alijanvand’s execution did not provide any
+    specific information on the evidence presented against him. Defence No
+    information is available on the accused’s defense. Judgment According to
+    the electronic form report, Mr. Tahmasebi Alijanvand was executed by a
+    firing squad in Ahvaz in October or November of 1982.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/64430/ahmad-tahmasebi-alijanvand"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,28 @@
+id: hosseini-sadat-1988
+name_latin: "Sadat Hosseini"
+name_farsi: "سادات حسینی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1988-01-01
+age_at_death: 60
+place_of_death: "Shiraz"
+province: "Fars"
+cause_of_death: "Execution » Shooting"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-3178/sadat-hosseini"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

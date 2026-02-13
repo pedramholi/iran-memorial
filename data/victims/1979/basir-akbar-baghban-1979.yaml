@@ -1,0 +1,50 @@
+id: basir-akbar-baghban-1979
+name_latin: "Akbar Baghban Basir"
+name_farsi: "اکبر باغبان بصیر"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1979-07-15
+age_at_death: null
+place_of_death: "Esfahan"
+province: "Esfahan"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    Kayhan Daily reported the execution of Mr. Aliakbar Baghban Basir, who was
+    also known as Akbar Malideh, on 15 July 1979. Arrest and detention The
+    circumstances of Mr. Baghban Basir’s arrest and detention are not known.
+    Trial The Revolutionary Tribunal of Esfahan tried Mr. Baghban Basir.
+    Charges Kayhan Daily reported Mr. Baghban Basir’s charges as the
+    following: “kidnapping children and raping them; drug dealing and
+    possession of heroin; selling children to voluptuous people; gambling;
+    attacking the Revolutionary Guards and assaulting a guard with a knife”.
+    Evidence of guilt No information is available concerning the evidence
+    presented against the defendant. Defense No information is available
+    concerning Baghban Basir’s defense and it is not clear if he had the
+    opportunity to defend himself effectively, for example whether he had
+    access to a lawyer or the possibility to summon witnesses in his favor,
+    etc. The validity of the criminal charges brought against this defendant
+    cannot be ascertained in the absence of the basic guarantees of a fair
+    trial. International human rights organizations have drawn attention to
+    reports indicating that the Islamic Republic’s authorities have brought
+    trumped-up charges against their political opponents and executed them for
+    drug trafficking, sexual, and other criminal offences. The exact number of
+    people convicted based on trumped-up charges is unknown. Judgment The
+    Revolutionary Tribunal of Esfahan sentenced Mr. Baghban Basir to death. He
+    was executed by shooting at dawn on 15 July 1979.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-5523/akbar-baghban-basir"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

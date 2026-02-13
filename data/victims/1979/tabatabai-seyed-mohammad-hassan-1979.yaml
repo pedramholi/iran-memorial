@@ -1,0 +1,62 @@
+id: tabatabai-seyed-mohammad-hassan-1979
+name_latin: "Seyed Mohammad Hassan Tabataba'i"
+name_farsi: "سید محمد حسن طباطبایی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1979-10-04
+age_at_death: null
+place_of_death: "Kermanshah"
+province: "Kermanshah"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of Mr. Seyed Mohammad Hassan Tabataba’i and three others was
+    reported by the correspondent of the Pars News Agency in Kermanshah and
+    published in the Enqelab Eslami daily (October 6, 1979). The Kermanshah
+    correspondent of the Kayhan daily, too, reported the news, quoting the
+    communiqué of the Islamic Revolutionary Tribunal of Kermanshah regarding
+    the case (October 6, 1979). The communiqué reads as follows: "Now that the
+    magnificent revolution of the Muslim people of Iran and the firm and
+    uncompromising leadership of Imam Khomeini have destroyed the palace of
+    Arrogance in this land, everybody is expecting that their wishes for
+    achieving Islamic brotherhood and equality, living freely in a God-fearing
+    society, and uprooting corruption and corruptors will come true. It is
+    towards such a goal that the sword of Islamic Justice has come out of the
+    sleeve of the Islamic Revolutionary Tribunals and everyday enemies of God
+    and the People and violators of people's lives, livelihoods, and honor
+    fall off on the lowest grounds of degradation and the society is cleansed
+    from the stain of their filthy existence." Arrest and detention The
+    circumstances of this defendant’s arrest and detention are not known.
+    Trial No information is available on the defendant’s trial. Charges Mr.
+    Tabataba’i was charged with “having a long record in robbery, rape, drug
+    trafficking, deluding youngsters, and repeated acts of sodomy.” The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    International human rights organizations have drawn attention to reports
+    indicating that the Islamic Republic’s authorities have brought trumped-up
+    charges against their political opponents and executed them for drug
+    trafficking, sexual, and other criminal offences. Each year, Iranian
+    authorities sentence to death hundreds of alleged common criminals,
+    following judicial processes that fail to meet international standards.
+    The exact number of people convicted based on trumped-up charges is
+    unknown. Evidence of guilt The report of this execution does not contain
+    information regarding the evidence provided against the defendant. Defense
+    No information is available on the defense. Judgment Mr. Tabataba’i was
+    sentenced to death. The sentence was carried out the same evening, at 9:30
+    p.m.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/25251/seyed-mohammad-hassan-tabatabai"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

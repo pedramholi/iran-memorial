@@ -1,0 +1,56 @@
+id: arjmandi-susan-1982
+name_latin: "Susan Arjmandi"
+name_farsi: "سوسن ارجمندی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1982-01-01
+age_at_death: 22
+place_of_death: "Shiraz"
+province: "Fars"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    Ms. Susan Arjmandi is one of the 430 individuals whose name appears on the
+    list of “Martyrs of the Peykar Organization for the Liberation of the
+    Working Class” published on the website of Peykar Andeesheh. This
+    execution was also announced in the addendum of the Mojahed magazine, No.
+    261, published by the Mojahedin Khalgh Organization on September 6, 1985.
+    The list includes 12,028 individuals, affiliated with various opposition
+    groups, who were executed or killed during clashes with the Islamic
+    Republic security forces from June 1981 to the publication date of the
+    magazine. The Peykar Organization for the Liberation of the Working Class
+    was founded by a number of dissident members of the Mojahedin Khalq
+    Organization who had converted to Marxism-Leninism. Peykar was also joined
+    by a number of political organizations, known as Khat-e Se (Third line).
+    The founding tenets of Peykar included the rejection of guerrilla struggle
+    and a strong stand against the pro-Soviet policies of the Iranian Tudeh
+    Party. Peykar viewed the Soviet Union as a "Social imperialist" state,
+    believed that China had deviated from the Marxist-Leninist principles, and
+    radically opposed all factions of the Islamic regime of Iran. The brutal
+    repression of dissidents by the Iranian government and splits within
+    Peykar in 1981 and 1982 effectively dismantled the Organization and
+    scattered its supporters. By the mid-1980s, Peykar was no longer in
+    existence. Arrest and detention The circumstances of Ms. Arjmandi’s arrest
+    and detention are not known. Trial There is no information regarding this
+    trial. Charges The charges brought against the defendant are not known.
+    Evidence of guilt No information is available concerning the evidence
+    presented against the accused. Defense No information is available
+    concerning Ms. Arjmandi’s defense. Judgment No specific information is
+    available about the verdict leading to this execution. Ms. Susan Arjmandi
+    was hanged in Shiraz in April/May 1982.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4392/susan-arjmandi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

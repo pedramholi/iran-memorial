@@ -1,0 +1,72 @@
+id: kuchesfehani-mir-ahmad-masumi-1979
+name_latin: "Mir Ahmad Ma’sumi Kuchesfehani"
+name_farsi: "میر احمد معصومی کوچصفهانی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1979-03-13
+age_at_death: 54
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    Information regarding Mr. Mirahmad Ma’sumi Kuchesfehani’s execution was
+    drawn from two electronic forms (E-forms) which were sent to Abdorrahman
+    Boroumand Foundation (ABF) and two reports by Kayhan daily on 12 March
+    1980 and 13 September 2007. Mr. Kuchesfehani was born in 1924 in Rasht. He
+    obtained his master’s degree in sociology from the University of Tehran
+    (E-forms). The newspaper report quoted him saying that he had a law degree
+    (LL.B) from the University of Tehran (Kayhan, 12 March 1980). He was a
+    teacher at first, but in 1959 he was employed by the organization in
+    charge of domestic security and intelligence service known as SAVAK under
+    the Shah’s regime. He gained numerous honors and medals during his career
+    (Kayhan, 13 September 2007). He was married with 4 children (E-forms)
+    Arrest and detention Mr. Kuchesfehani was arrested around 23 February 1979
+    at his home in Tehran. There is no further detail about the circumstances
+    regarding his arrest and detention. According to the information sent to
+    ABF, his family could not visit him during his detention (E-forms). Trial
+    The Revolutionary Tribunal of Tehran tried Mr. Kuchesfehani along with 10
+    others. This trial took place in the first hours of the morning of 11
+    March 1980 and continued until the dawn of 12 March (Kayhan, 12 March
+    1980). Charges The charges brought against the defendant in the indictment
+    are not know, but his collaboration with SAVAK was the core of his charges
+    (Kayhan, 12 March 1980). The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. Evidence of guilt No information is available
+    concerning the evidence presented against the accused. Kayhan reported
+    that the defendants who had been interrogated by Mr. Kuchesfehani
+    attributed torturous and insulting behaviors to him (Kayhan, 12 March
+    1980). It is not clear in Kayhan’s report who these defendants were and if
+    they were present at the court to give their testimonies. Defense No
+    information is available concerning Mr. Kuchesfehani’s defense. According
+    to the E-form, he was deprived from the assistance of an attorney.
+    According to Kayhan , he denied torturing the detainees and said: “I have
+    an LL.B from University of Tehran. In 1959 when I was searching for a job
+    in the Judiciary as a judge, a person named Farhang Sa’adatmand encouraged
+    me to work in SAVAK. I started working in the Judicial Section which was
+    supervised by Dr. Farzin… If you want to know what happened, ask Ayatollah
+    Taleqani [high ranking cleric and member of the revolutionary clerical
+    elite led byAyatollah Khomeini] Considering all that happened, I do not
+    have anything to say. I am confident that the judges of this court will
+    consider the case fairly. So I end my defense here.” (Kayhan, 12 March
+    1980) Judgment The Revolutionary Tribunal of Tehran declared Mr.
+    Kuchesfehani’s verdict along with 10 others at 5 a.m. and declared them
+    guilty of “corruption on earth” and sentenced them to death. This verdict
+    was carried out at 6:58 a.m. by the a firing squad in Qasr Prison (Kayhan,
+    12 March 1980).
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-3618/mir-ahmad-ma-sumi-kuchesfehani"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

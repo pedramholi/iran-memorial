@@ -1,0 +1,32 @@
+id: kamandar-qorban-ali-1980
+name_latin: "Qorban Ali Kamandar"
+name_farsi: "قربان علی کماندار"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-07-29
+age_at_death: null
+place_of_death: "Karaj"
+province: "Tehran"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The Special Drugs Division of the Islamic Revolutionary Tribunal of Karaj
+    found Mr. Qorban Ali Kamandar guilty of "corruption on earth" and "war on
+    God" allegedly for "addiction" and "selling his own daughter". He was
+    executed at midnight. Source : Tehran newspaper Jomhuri Eslami.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/13022/qorban-ali-kamandar"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

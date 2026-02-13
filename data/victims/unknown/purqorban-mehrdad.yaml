@@ -1,0 +1,53 @@
+id: purqorban-mehrdad
+name_latin: "Mehrdad Purqorban"
+name_farsi: "مهرداد پورقربان"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: 19
+place_of_death: "Bandar Anzali"
+province: "Gilan"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of Mr. Mansur Purqorban, along with twelve others, was
+    reported in the Jomhuri Eslami Daily on January 3, 1982. The report quoted
+    a communiqu from the public relations office of the Islamic Revolution s
+    Chief Public Prosecutor. Additional information regarding Mr. Purqorban
+    was drawn from a list of 12028 individuals published in an addendum to the
+    Mojahed magazine (No 261), by Mojahedin Khalq Organization in 1985. The
+    list includes individuals, affiliated with various opposition groups, who
+    were executed or killed during clashes with the Islamic Republic security
+    forces from June 1981 to the publication date of the magazine. Arrest and
+    detention The circumstances of this defendant s arrest and detention are
+    not known. Trial No information is available on the defendant s trial.
+    Charges According to this communiqu , Mr. Purqorban was a member of the
+    military wing and his alleged charges were armed insurrection against the
+    Islamic Republic of Iran, directing the military team of the Mujahedin-e
+    Khalq Organization or MKO in Port Anzali, participation in many
+    destructive terrorist operations, assassination of the 14-year-old Esmaeel
+    Dalir and Haj Ahmad Fathali Zadeh, providing munitions, housing and etc.
+    for the operational teams of the MKO and living in a MKO safe house.
+    Evidence of guilt According to this report, Mr. Purqorban s death sentence
+    was issued due to the others confessions about the fact that he was in
+    charge of the team. Defense No information is available on Mr. Purqorban's
+    defense. Judgment The Islamic Revolutionary Tribunal of Port Anzali found
+    Mr. Mansurian guilty of being a corruptor on earth, an enemy of God and
+    rebellious against the Islamic government. He was sentenced to death. The
+    sentence was carried out.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-5278/mehrdad-purqorban"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

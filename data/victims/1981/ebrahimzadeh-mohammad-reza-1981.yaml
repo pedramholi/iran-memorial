@@ -1,0 +1,67 @@
+id: ebrahimzadeh-mohammad-reza-1981
+name_latin: "Mohammad Reza Ebrahimzadeh"
+name_farsi: "محمد رضا ابراهیم زاده"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-11-11
+age_at_death: null
+place_of_death: "Tabriz"
+province: "Azarbaijan-e Sharqi"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The Public Relations Department of the Central Public Prosecutor’s Office
+    announced in a communiqué the execution of Mr. Mohammad Reza Ebrahimzadeh,
+    son of Rahim, along with twenty two others. The communiqué was published
+    in the Kayhan newspaper on November 12, 1981. Mr. Ebrahimzadeh is one of
+    the 12,028 individuals listed in an addendum to the Mojahed magazine (No
+    261), published by the Mojahedin Khalq Organization on September 6, 1985.
+    The list includes individuals, affiliated with various opposition groups,
+    who were executed or killed during clashes with the Islamic Republic
+    security forces from June 1981 to the publication date of the magazine.
+    Moreover, Mr. Ebrahimzadeh is among the 430 individuals whose names appear
+    on the list of “Martyrs of the Peykar Organization for the Liberation of
+    the Working Class” published on the website of Andeesheh va Peykar. The
+    Peykar Organization for the Liberation of the Working Class was founded by
+    a number of dissident members of the Mojahedin Khalq Organization who had
+    converted to Marxism-Leninism. Peykar was also joined by a number of
+    political organizations, known as Khat-e Se (Third line). The founding
+    tenets of Peykar included the rejection of guerrilla struggle and a strong
+    stand against the pro-Soviet policies of the Iranian Tudeh Party. Peykar
+    viewed the Soviet Union as a “Social imperialist” state, believed that
+    China had deviated from the Marxist-Leninist principles, and radically
+    opposed all factions of the Islamic regime of Iran. The brutal repression
+    of dissidents by the Iranian government and splits within Peykar in 1981
+    and 1982 effectively dismantled the Organization and scattered its
+    supporters. By the mid-1980s, Peykar was no longer in existence. Arrest
+    and detention The circumstances of this defendant’s arrest and detention
+    are not known. Trial No information is available on the defendant’s trial,
+    other than he was tried at the Islamic Rwevolutionary Tribunal of Tabriz.
+    Charges The collective charges brought against Mr. Ebrahimzadeh and 8
+    other men were announced as “armed rebellion against the Islamic Republic,
+    distribution of leaflets and other publications of the Organization,
+    apostasy, and living in safe-houses.” Personal charges against Mr.
+    Ebrahimzadeh are not known. The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. Evidence of guilt The report of this execution
+    does not contain information regarding the evidence provided against the
+    defendant. Defense No information is available on Mr. Ebrahimzadeh’s
+    defense. Judgment َThe Islamic Revolutionary Tribunal of Tabriz condemned
+    Mr. Ebrahimzadeh to death. He and 8 other men were shot by firing squad in
+    Tabriz on November 9 or 10, 1981.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-5114/mohammad-reza-ebrahimzadeh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

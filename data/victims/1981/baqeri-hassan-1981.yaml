@@ -1,0 +1,62 @@
+id: baqeri-hassan-1981
+name_latin: "Hassan Baqeri"
+name_farsi: "حسن باقری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-07-12
+age_at_death: 33
+place_of_death: "Behshahr"
+province: "Mazandaran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of Mr. Hassan Baqeri, a farmer residing in Tir Tash, was
+    reported in the Jomhuri-e Eslami daily along with that of 8 others in the
+    towns of Sanandaj and Behshahr on July 13, 1981. This report mentions that
+    Mr. Baqeri was a supporter of the "Mojahedin Khalq of Iran Organization or
+    other such grouplets." This account, however, does not specify the group
+    to which Mr. Baqeri belongs to. The execution of Mr. Baqer, a member of
+    the Fadayian Khalq of Iran Organization, was also reported in an addendum
+    to the Mojahed magazine (No 261), published by Mojahedin Khalq
+    Organization in 1985. The list includes 12028 individuals, affiliated with
+    various opposition groups, who were executed or killed during clashes with
+    the Islamic Republic security forces from June 1981 to the publication
+    date of the magazine. Mr. Baqeri's name is further mentioned on the list
+    of the executed members of the Fadayian Khalq of Iran Organization, on the
+    Organization's website. Arrest and detention The circumstances of this
+    defendant s arrest and detention are not known. Trial According to the
+    newspaper report, Mr. Baqeri refused to reveal his identity during his
+    detention and trial. No further information is available about this trial.
+    Charges The report specifies that Mr. Baqeri and the four other convicts
+    were charged with "threatening and intimidating Muslim people," "insulting
+    the combatant clergy and the Islamic Republic," "repeated clashes with the
+    people," "disseminating rumors and organizing demonstrations in favor of
+    the impeached President Bani-Sadr, which demonstrations resulted in
+    burning tires and throwing stones at security forces," "organizing secret
+    political gatherings and team houses," "disturbing the mind of the youth
+    by misleading them with wrong ideas," "distributing political leaflets and
+    posters," "defending the political ideas of the People's Mojahedin
+    Organization," "participating in disarming Revolutionary Guard brothers,
+    and consistently opposing the Islamic Revolution." Evidence of guilt The
+    report of this execution does not contain information regarding the
+    evidence provided against the defendant. Defense No information is
+    available on Mr. Baqeri's defense. Judgment The Islamic Revolutionary
+    Tribunal of Behshahr found Mr. Baqeri guilty of "corruption on earth" and
+    "rebellion against God and the People". He was executed at dawn on July
+    12, 1981.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-3883/hassan-baqeri"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

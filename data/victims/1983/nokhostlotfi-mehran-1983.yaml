@@ -1,0 +1,60 @@
+id: nokhostlotfi-mehran-1983
+name_latin: "Mehran Nokhostlotfi"
+name_farsi: "مهران نخست لطفی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1983-01-07
+age_at_death: 24
+place_of_death: "Karaj"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The information about Mr. Mehran Nakhostlotfi is based on an interview
+    with a person close to him. He is also is among the 282 individuals listed
+    in a United Nations Report on The Situation of Human Right in the Islamic
+    Republic of Iran (Note by the Secretary General), published on 13 November
+    1985. The report lists these individuals as “Persons who were allegedly
+    summarily and arbitrarily executed in the Islamic Republic of Iran:
+    1984-1985.” He was born in Rasht, a high school graduate and a sympathizer
+    of the Mojahedin Khalq Organization. During the Revolution, he was an
+    activist and a member of the Revolutionary Committee in the Noqrehdasht
+    Quarter of Rasht. Arrest and detention The details of Mr. Mehran
+    Nakhostlotfi’s arrest and detention are not known. He was arrested in his
+    house in Tehran in the summer of 1981. He was detained at Evin and
+    Gohardasht prisons. For more than one year, his family had no information
+    about his detention location. According to the interviewee, after a
+    visitation with her son, his mother said: “My son was deformed because of
+    severe torture and his head was swollen.” Trial No information is
+    available on the defendant’s trial. Charges No information is available on
+    Mr. Nakhostlotfi’s charges. Evidence of guilt The report of this execution
+    does not contain information regarding the evidence provided against the
+    defendant. Defense No information is available about Mr. Nakhostlotfi’s
+    defense. Judgment No specific information is available about the execution
+    sentence. Mr. Mehran Nakhostlotfi was executed at Gohardasht prison on
+    January 7, 1983. A few months after his only visitation, the officials of
+    Gohardasht called his parents and asked them to pick up their son’s
+    belongings. According to the interviewee, “When most prisons were
+    overpopulated, a Human Rights delegation was scheduled to visit the
+    prisons. In order to reduce the number of prisoners, officials executed
+    Mehran, along with 400 other prisoners. I met a person at Behesht-e Zahran
+    cemetery who claimed that he witnessed the mass burial of victims.
+    According to him, ‘They dug a huge area with a bulldozer and we counted
+    400 bodies.’ They called this section of Behesht-eZahran ‘Kafarabad’ [a
+    place for infidels].”
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-3090/mehran-nokhostlotfi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

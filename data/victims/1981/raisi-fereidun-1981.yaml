@@ -1,0 +1,60 @@
+id: raisi-fereidun-1981
+name_latin: "Fereidun Ra'isi"
+name_farsi: "فریدون رئیسی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-07-08
+age_at_death: 18
+place_of_death: "Behshahr"
+province: "Mazandaran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The information regarding Mr. Fereidun Ra isi is based on a book titled
+    Siavoshan, Remembrance of the Ranjbaran Party of Iran s Martyrs by Baqer
+    Mortazavi and the Jomhuri Eslamiand Kayhan newspapers on July 8, 1981.
+    These papers published the news of Mr. Fereidun Ra isi s execution and
+    that of another person. Mr. Fereidun Ra isi was a laborer s activist for
+    the Party. After the revolution, he was chosen to be on the founding board
+    of the Workers Confederation of Iran. This execution was also reported in
+    an addendum to the Mojahed magazine (No 261), published by Mojahedin Khalq
+    Organization in 1985. The list includes 12028 individuals, affiliated with
+    various opposition groups, who were executed or killed during clashes with
+    the Islamic Republic security forces from June 1981 to the publication
+    date of the magazine. Arrest and detention The circumstances of this
+    defendant s arrest and detention are unknown. Trial No information is
+    available on the defendant s trial. Charges According to the Siavoshan
+    book, the charge against Mr. Ra isi was the membership in the Workers
+    Confederation of Iran. In the report of Jomhuri Eslami, his charges are
+    participating in activities and leadership in the Mazandaran Branch of the
+    Workers Confederation of Iran as the Organization s secretary. Also, he
+    was active among the laborers in order to divert. And, he also fought in
+    the Rostamkola clash. The validity of the criminal charges brought against
+    this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. Evidence of guilt The report of theJomhuri
+    Eslaminewspaper stated the evidence against Mr. Ra isi is the Workers
+    Confederation of Cities supported his dismissal and the Ranjbaran Party in
+    its newspaper number 58 clearly supported him as a real defender of
+    laborers rights. Defense No information is available on Mr. Fereidun Ra
+    isi's defense. Judgment The Revolutionary Court of Behshahr declared Mr.
+    Fereidun Ra isi a corruptor on Earth (Mofsed) and an innate apostate
+    (Mortad Fetri) and condemned him to death. According to the Siavoshan
+    book, Mr. Fereidun Ra isi was executed by firing squad in July 1981.
+    TheJomhuri Eslaminewspaper reported that because of being a Mortad
+    (apostate), his body was denied burial in the Moslem cemetery.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4045/fereidun-raisi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

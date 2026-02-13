@@ -1,0 +1,50 @@
+id: ostovari-shirali-1984
+name_latin: "Shirali Ostovari"
+name_farsi: "شیرعلی استواری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1984-04-08
+age_at_death: null
+place_of_death: "Tehran Province"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Shir Ali Ostovari, along with 24 others, was
+    announced in a communiqué by the Anti-Narcotics Section of the Public
+    Prosecutor’s Office. The communiqué was reported in the Jomhuri Eslami
+    daily on April 9, 1984. Arrest and detention The circumstances of this
+    defendant’s arrest and detention are not known. Trial No information is
+    available on the defendant’s trial. Charges According to this communiqué,
+    Mr. Ostovari was charged with “transporting more than 1.5 kg of heroin
+    from Orumieh to Tehran for sale, being actively involved in the supply and
+    distribution of heroin.” The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that the Islamic Republic’s
+    authorities have brought trumped up charges against their political
+    opponents and executed them for drug trafficking, sexual, and other
+    criminal offences. Thousands of alleged drug traffickers have been
+    sentenced to death following judicial processes that fail to meet
+    international standards. The exact number of people convicted based on
+    trumped-up charges is unknown Evidence of guilt According to this report,
+    Mr. Ostovari sold “1.5 kg of heroin to officers” Defense No information is
+    available on Mr. Ostovari’s defense. Judgment The Anti-Narcotics Islamic
+    Revolutionary Tribunal sentenced Mr. Ostovari to death. After being
+    confirmed by the Supreme Court, the sentence was carried out at dawn.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/35639/shirali-ostovari"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

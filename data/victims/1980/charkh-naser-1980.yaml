@@ -1,0 +1,60 @@
+id: charkh-naser-1980
+name_latin: "Naser Charkh"
+name_farsi: "ناصر چرخ"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-07-19
+age_at_death: null
+place_of_death: "Zahedan"
+province: "Sistan Va Baluchestan"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The information about the execution of Mr. Naser Charkh and three other
+    individuals has been taken from the communiqué of the Prosecutor’s Office
+    of the Sistan and Baluchestan province and published in the Jomhuri Eslami
+    newspaper, dated July 20, 1980. According to this communiqué, when Mr.
+    Charkh and four other police officers left their headquarters in Rask
+    (Sistan and Baluchestan province) on a mission, they were attacked by
+    rebels on the road and their arms were forcefully taken away from them.
+    One of the officers was killed in the confrontation. Based on the news
+    published Jomhuri Eslami , a few days after the Rask incident, 11 members
+    of the Islamic Revolutionary Guards Corps were killed by rebels in a
+    similar event. The Islamic Revolutionary Tribunal of Sistan and
+    Baluchestan convicted the remaining four men from the Rask incident on the
+    grounds that “if [they] had not given up their ammunition [to the rebels],
+    which is in itself a great conspiracy, the rebels would have never gotten
+    the false idea that they could also steal the ammunition of the
+    Revolutionary Guards without any resistance.” There is no evidence upon
+    which to verify the veracity of these claims or the existence of any
+    connection between the two mentioned events. Arrest and detention The
+    circumstances of Mr. Charkh’s arrest and detention are not known. Trial
+    There is no information regarding this trial other than the defendants
+    were tried at the Islamic Revolutionary Tribunal of Sistan and
+    Baluchestan. Charges The collective charges brought against Mr. Charkh and
+    his three codefendants have been published in the newspaper as “submission
+    of arms to murders of 10 martyred Revolutionary Guards”. The validity of
+    the criminal charges brought against this defendant cannot be ascertained
+    in the absence of the basic guarantees of a fair trial. Evidence of guilt
+    No information is available concerning the evidence presented against the
+    accused. Defense No information is available concerning Mr. Charkh’s
+    defense. Judgment The Islamic Revolutionary Tribunal named Mr. Naser
+    Charkh a “corruptor on earth” and “at war with God and hid prophet” and
+    condemned him to death. He was executed, along with his three
+    codefendants, in Rask at 9 p.m. on July 19, 1980.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/12955/naser-charkh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

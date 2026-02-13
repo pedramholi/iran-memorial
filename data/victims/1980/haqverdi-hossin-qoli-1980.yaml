@@ -1,0 +1,52 @@
+id: haqverdi-hossin-qoli-1980
+name_latin: "Hossin Qoli Haqverdi"
+name_farsi: "حسین قلی حق وردی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-03-03
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of Mr. Hosein Qoli Haqverdi was announced in a communiqu of
+    the public relations unit of the Chief Islamic Revolutionary Public
+    Prosecution Office. The announcement was published in the Ettela at daily
+    (March 4, 1980) The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. International human rights organizations have drawn
+    attention to reports indicating that the Islamic Republic s authorities
+    have brought trumped up charges against their political opponents and
+    executed them for drug trafficking, sexual, and other criminal offences.
+    Each year, Iranian authorities sentence to death hundreds of alleged
+    common criminals, following judicial processes that fail to meet
+    international standards. The exact number of people convicted based on
+    trumped-up charges is unknown. Arrest and detention The circumstances of
+    this defendant s arrest and detention are not known. Trial The communiqu
+    specified that Mr. Haqverdi was tried along with a former police officer
+    at the first branch of the Islamic Revolutionary Tribunal. However, no
+    information regarding the circumstances of the trial was provided. Charges
+    According to the communiqu , Mr. Haqverdi was charged with murdering two
+    individuals by the names of Mohammad Ali Ja fari and Abdollah Ra isi, as
+    well as his own mother. Evidence of guilt This communiqu contained no
+    information regarding the evidence provided against the defendant. Defense
+    No information is available on the accused s defense. Judgment Mr.
+    Haqverdi was sentenced to death and the sentence was carried out at 10:30
+    p.m. at the Evin prison courtyard.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/12617/hossin-qoli-haqverdi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

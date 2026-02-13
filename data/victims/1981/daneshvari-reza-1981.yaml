@@ -1,0 +1,61 @@
+id: daneshvari-reza-1981
+name_latin: "Reza Daneshvari"
+name_farsi: "رضا دانشوری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-06-12
+age_at_death: null
+place_of_death: "Tabriz"
+province: "Azarbaijan-e Sharqi"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of Mr. Reza Daneshvari, son of Jamshid, and Akbar Parvari,
+    along with 3 other individuals, was announced in the communiqué of the
+    Revolutionary Public Prosecution Office of Tabriz, and published in the
+    Kayhan newspaper on June 13, 1981. Arrest and detention The circumstances
+    of this defendant’s arrest and detention are not known. Trial No
+    information is available on the defendant’s trial other than he was tried
+    at the Islamic Revolutionary Tribunal of Tabriz. Charges The charges
+    brought against Mr. Daneshvari, according to the communiqué of the
+    Revolutionary Public Prosecution Office, were “repeated acts of sodomy,
+    and moral corruption.” The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that the Islamic Republic’s
+    authorities have brought trumped-up charges against their political
+    opponents and executed them for drug trafficking, sexual, and other
+    criminal offences. The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of guilt The report of this
+    execution only refers to “their own explicit and repeated confessions”
+    regarding the evidence provided against Mr. Daneshvari and his
+    co-defendant. International human rights organizations have repeatedly
+    condemned the government of the Islamic Republic of Iran for its
+    systematic use of severe torture and solitary confinement to obtain
+    confessions from detainees and have questioned the authenticity of
+    confessions obtained under duress. In the case of political detainees,
+    these confessions are, at times, televised. The National Television
+    broadcasts confessions during which prisoners plead guilty to vague and
+    false charges, repent and renounce their political beliefs, and/or
+    implicate others. Human rights organizations have also pointed to the
+    pattern of retracted confessions by those prisoners who are freed. Defense
+    No information is available on his defense. Judgment The Islamic
+    Revolutionary Tribunal of Tabriz condemned Mr. Reza Daneshvari to death.
+    He was executed by a firing squad along with 4 other individuals on June
+    12, 1981 at Tarbiz prison.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/39409/reza-daneshvari"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,53 @@
+id: abuzarda-hassan-1981
+name_latin: "Hassan Abuzarda'"
+name_farsi: "حسن ابوذرداء"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-07-15
+age_at_death: 28
+place_of_death: "Esfahan"
+province: "Esfahan"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The news of the execution of Mr. Hassan Abuzarda was announced in a report
+    published in Kayhan on July 15, 1981 and a report in Jomhouri Eslami
+    published on July 16, 1981. Mr. Abuzarda , 28, teacher, and a supporter of
+    the Mojahedin Khalq Organization is also one of the 12,028 individuals
+    listed in an addendum to the Mojahed magazine (No 261), published by
+    Mojahedin Khalq Organization in 1985. The list includes individuals,
+    affiliated with various opposition groups, who were executed or killed
+    during clashes with the Islamic Republic security forces from June 1981 to
+    the publication date of the magazine. Arrest and detention The
+    circumstances of Mr. Abuzarda s arrest and detention are not known. Trial
+    Based on the available information, the Isfahan Islamic Revolutionary
+    Tribunal issued Mr. Abuzarda s sentence. No information is available on
+    the defendant s trial. Charges According to the report published in Kayhan
+    Mr. Abuzarda was charged with possession of two trucks filled with
+    magazines and publications of grouplets and possession of stencil
+    equipment. The report in Jomhouri Eslami, however, announced that Mr.
+    Abuzarda was charged with armed rebellion against the Islamic Republic.
+    Evidence of guilt The report published in Kayhan cites possession of two
+    trucks filled with magazines and publications of grouplets and possession
+    of stencil equipment as evidence of guilt . Defense No information is
+    available on Mr. Abuzarda s defense. Judgment The Isfahan Islamic
+    Revolutionary Tribunal found Mr. Abuzarda guilty of corruption on earth
+    and rebellion, and sentenced him to death. Mr. Abuzarda was executed by a
+    firing squad on July 15, 1981. Mr. Abuzarda was 28 years old at the time
+    of his execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-5536/hassan-abuzarda"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

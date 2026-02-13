@@ -1,0 +1,67 @@
+id: shirzad-shohreh-1983
+name_latin: "Shohreh Shirzad"
+name_farsi: "شهره شیرزاد"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1983-01-01
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    Information about Ms. Shohreh Shirzad has been provided by a former
+    cellmate through an electronic form. Ms. Shirzad is one of the 430
+    individuals whose name appears on the list of “Martyrs of the Peykar
+    Organization for the Liberation of the Working Class” published on the
+    website of Peykar Andeesheh. This list contains the names of those members
+    of the Organization who died after the Revolution of 1979. More than 400
+    of the individuals on this list have been executed. According to her
+    cellmate, Ms. Shirzad had dark skin and black hair. She was from Abadan
+    and her cellmate called her “Abadani Girl.” Other prisoners from Room 6 of
+    Section 240 in Evin prison loved her. She was warm and friendly; she
+    always had a smile on her face. She was the only child in her family and
+    her mother did everything she could to prevent her execution. Ms. Shirzad
+    knew that she would be executed but she would not let that upset her. She
+    tried to enjoy her short life among her cellmates. The Peykar Organization
+    for the Liberation of the Working Class was founded by a number of
+    dissident members of the Mojahedin Khalq Organization who had converted to
+    Marxism-Leninism. Peykar was also joined by a number of political
+    organizations, known as Khat-e Se (Third line). The founding tenets of
+    Peykar included the rejection of guerrilla struggle and a strong stand
+    against the pro-Soviet policies of the Iranian Tudeh Party. Peykar viewed
+    the Soviet Union as a “Social imperialist” state, believed that China had
+    deviated from the Marxist-Leninist principles, and radically opposed all
+    factions of the Islamic regime of Iran. The brutal repression of
+    dissidents by the Iranian government and splits within Peykar in 1981 and
+    1982 effectively dismantled the Organization and scattered its supporters.
+    By the mid-1980s, Peykar was no longer in existence. Arrest and detention
+    The details of Ms. Shirzad’s arrest are not known. She was interrogated at
+    Branch 6 of the Prosecution Office in Evin prison, during which she was
+    flogged on her head and soles. During the first week of her detention, she
+    was kept in the corridor leading to interrogation room, from which one
+    could hear other prisoners being tortured. She was denied the right to be
+    represented by an attorney and access to her file. Trial There is no
+    information regarding this trial. Charges The charges brought against the
+    defendant are not known. Evidence of guilt No information is available
+    concerning the evidence presented against the accused. Defense No
+    information is available concerning Ms. Shirzad’s defense. Judgment No
+    specific information is available about the verdict leading to this
+    execution. Ms. Shoreh Shirzad was shot by a firing squad in Evin prison in
+    the winter of 1983.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4911/shohreh-shirzad"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,63 @@
+id: nejad-abolfazl-bahrami-1984
+name_latin: "Abolfazl Bahrami Nejad"
+name_farsi: "ابوالفضل بهرامی نژاد"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1984-02-26
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    Mr. Abolfazl Bahrami Nejad is among the 282 individuals listed in a United
+    Nations Report on The Situation of Human Right in the Islamic Republic of
+    Iran (Note by the Secretary General), published on November 13, 1985. The
+    report lists these individuals as "Persons Allegedly Summarily and
+    Arbitrarily Executed in the Islamic Republic of Iran: 1984-1985." The
+    additional information about Mr. Bahrami Nejad is taken from the book The
+    Tudeh Martyrs , copyright 2001 by The Tudeh Party of Iran Publications. He
+    was born in Ardebil. He was a student at the Technical University of
+    Tehran and an employee of the Computers Office of the Army. After the
+    Revolution, he joined the Tudeh Party and worked in a very sensitive
+    position in the party’s Secret Organization. The Tudeh Party of Iran was
+    created in 1941. The Tudeh's ideology was Marxist-Leninist and it
+    supported the former Soviet Union's policies. The Party played a major
+    role on Iran's political scene until it was banned following the August
+    19, 1953 coup. After the 1979 Revolution, the Tudeh actively supported the
+    Ayatollah Khomeini and his Islamic Republic. Although the Party never
+    opposed the Islamic Republic, it became the target of government attacks
+    from 1982 when most of the Party's leaders and members were imprisoned.
+    Arrest and detention The circumstances of this defendant’s arrest and
+    detention are unknown. Mr. Bahrami Nejad was arrested in Tehran in May
+    1983. Trial No information is available on the defendant’s trial. Charges
+    No information is available on Mr. Bahrami Nejad’s charges. The Tudeh
+    Martyrs book quotes Mr. Bahrami Nejad’s cellmate’s assertion that one of
+    the charges against him was his authorship of a book called “A Research on
+    Nature and Metaphysics.” The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. Evidence of guilt The report of this execution
+    contains no evidence provided against the defendant. Defence No
+    information is available about the defendant’s defence. Judgment No
+    specific information is available about the defendant’s execution
+    sentence. Mr. Bahrami Nejad was executed by a firing squad in the
+    Jamshidieh Garrison in Tehran on February 26, 1984. He was executed by a
+    firing squad along with his cousin, Mohammad Bahrami Nejad, and eight
+    others who were high ranking members of the military group of the Tudeh
+    Party.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4122/abolfazl-bahrami-nejad"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,47 @@
+id: azizian-mohammad-rasul-1980
+name_latin: "Mohammad Rasul Azizian"
+name_farsi: "محمد رسول عزیزیان"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-01-01
+age_at_death: null
+place_of_death: "Kerman"
+province: "Kerman"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Mr. Mohammad Rasul Azizian and two others was reported by
+    the correspondent of the Jomhuri Eslami daily in Kerman (July 26, 1980).
+    Arrest and detention The circumstances of this defendant s arrest and
+    detention are not known. Trial The trial took place on July 24, 1980.
+    Based on the report, deliberation and examination at the court lasted
+    several hours. Charges The defendant s charges were listed as follows:
+    Opposing the Islamic revolution and enmity with the sovereignty of the
+    Islamic Republic of Iran through false and misleading propaganda;
+    connection to counter-revolutionary groups, particularly the Kurdistan
+    branch of the People s Fedayeen guerilla fighters; distributing
+    anti-Islamic publications from the mentioned groups among the
+    simple-minded Muslim youth, particularly female students; and teaching
+    deviant thoughts and subjects in the classroom. Evidence of guilt The
+    report of this execution does not contain information regarding the
+    evidence provided against the defendant. Defense No information is
+    available on the defense. Judgment The Islamic Revolutionary Tribunal of
+    Kerman declared Mr. Azizian a corruptor on earth and an enemy of God and
+    sentenced him to death. The sentence was carried out at 11 p.m., shortly
+    after its issuance.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/12966/mohammad-rasul-azizian"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

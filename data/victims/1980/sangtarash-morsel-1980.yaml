@@ -1,0 +1,38 @@
+id: sangtarash-morsel-1980
+name_latin: "Morsel Sangtarash"
+name_farsi: "مرسل سنگتراش"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-07-14
+age_at_death: null
+place_of_death: "Tabriz"
+province: "Azarbaijan-e Sharqi"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Mr. Morsel Sangtarash and six others was reported in the
+    Jomhuri Eslami daily (July 5, 1980). Arrest and detention No information
+    is available on the circumstances of this defendant s arrest and
+    detention. Trial The report mentions that Mr. Sangtarash was tried by the
+    religious judge at the Special Court in Tehran. However, no specific
+    information about the trial is provided. Charges No charge is specified
+    for Mr. Sangtarash in this report. Evidence of guilt The report contains
+    no information regarding the evidence presented against the defendant.
+    Defense No information is available on the defendant s defense. Judgment
+    Mr. Sangtarash was executed in the evening.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/12894/morsel-sangtarash"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,54 @@
+id: jahromi-abdolhossein-torab-1981
+name_latin: "Abdolhossein Torab Jahromi"
+name_farsi: "عبدالحسین تراب جهرمی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-08-24
+age_at_death: 17
+place_of_death: "Shiraz"
+province: "Fars"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The information about Mr. Abdolhossein Torab Jahromi has been taken from
+    an interview with a family friend. He is one of the 12028 individuals
+    listed in an addendum to the Mojahed magazine (No 261), published by
+    Mojahedin Khalq Organization in 1985 (his name is printed Abdolhossein
+    Torab Jahromi). The list includes individuals, affiliated with various
+    opposition groups, who were executed or killed during clashes with the
+    Islamic Republic security forces from June 1981 to the publication date of
+    the magazine. Mr. Torab was born in Jahrom (Fars province) and lived with
+    his family in Shiraz. He was a high school student and a sympathizer of
+    the Mojahedin Khalq Organization. He distributed MKO leaflets throughout
+    the city using his motorcycle. Arrest and detention The circumstances of
+    his arrest and detention are not known other than he was arrested in
+    Shiraz in the spring or early summer of 1981 and taken to the detention
+    center of the Revolutionary Guards Corps. Trial Based on available
+    information, Mr. Torab did not have serious charges. His family members
+    were expecting his release. This coincided with Ayatollah Sadeq
+    Khalkhali’s visit to Shiraz. According to his cellmates, one night he was
+    taken to Khalkhali for trial. Charges The charge brought against the
+    defendant is not known. Evidence of guilt The report of this execution
+    does not contain information regarding the evidence provided against the
+    defendant. Defense No information is available on Mr. Torab’s defense. His
+    cellmates state that he was not charged with crimes that were punishable
+    by death. They suspect that Mr. Torab might have laughed in Khalkhali’s
+    presence and that was the basis for his execution. Judgment Khalkhali
+    condemned Mr. Torab to death. Based on the Mojahed magazine, he was shot
+    by firing squad on August 24, 1981. He was 17 years old.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-5337/abdolhossein-torab-jahromi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

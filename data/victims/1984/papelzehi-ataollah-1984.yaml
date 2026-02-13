@@ -1,0 +1,49 @@
+id: papelzehi-ataollah-1984
+name_latin: "Ataollah Papelzehi"
+name_farsi: "عظاء الله پاپل زهی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1984-05-09
+age_at_death: null
+place_of_death: "Torbat-e Jam"
+province: "Khorasan\\Khorasan-e Razavi"
+cause_of_death: "Fatal"
+circumstances: >
+    The execution of Mr. Ataollah Papelzehi was reported in the Jomhuri Eslami
+    daily on May 12, 1984. Arrest and detention The circumstances of this
+    defendant s arrest and detention are not known. Trial No information is
+    available on the defendant s trial. Charges According to this report, Mr.
+    Papelzehi was charged with being consistently involved in supplying and
+    dealing narcotics as well as selling 2.200 kg of heroin and a sack of
+    opium. The validity of the criminal charges brought against this defendant
+    cannot be ascertained in the absence of the basic guarantees of a fair
+    trial. International human rights organizations have drawn attention to
+    reports indicating that the Islamic Republic s authorities have brought
+    trumped up charges against their political opponents and executed them for
+    drug trafficking, sexual, and other criminal offences. Thousands of
+    alleged drug traffickers have been sentenced to death following judicial
+    processes that fail to meet international standards. The exact number of
+    people convicted based on trumped-up charges is unknown. Evidence of guilt
+    The report of this execution does not contain information regarding the
+    evidence provided against the defendant. Defense No information is
+    available on Mr. Papelzehi s defense. Judgment The Islamic Revolutionary
+    Tribunals of Torbat-e Jam and Kashmar sentenced Mr. Papelzehi to death.
+    Having been confirmed by the Islamic Revolution s Supreme Court, the
+    sentence was carried out at night.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/30539/ataollah-papelzehi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

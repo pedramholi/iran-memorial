@@ -1,0 +1,59 @@
+id: rad-mohammad-ali-sharifi-1979
+name_latin: "Mohammad Ali Sharifi Rad"
+name_farsi: "محمد علی شریفی راد"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam (Shi'a)"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1979-04-14
+age_at_death: 36
+place_of_death: "Khoramabad"
+province: "Lorestan"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The information regarding Mr. Mohammad Ali Sharifi Rad’s execution along
+    with one other was drawn from an Electronic form (E-form) which his son
+    sent to the Abdorrahman Boroumand Foundation (ABF) and a news report by
+    Kayhan Daily on 14 April 1979. Mr. Sharifi Rad’s titles included Major
+    Head of Police Guards of Khoramabad—located in Lorestan Province in the
+    west of Iran—and Head of the Central Police Station. He was married with
+    three children and a graduate from the Police University. His son
+    described his father: “He was a true nationalist. Although the triumph of
+    the Islamic Revolution was definitive, he did not desert his post and
+    preferred his country and his duties over everything thing he had in
+    life.” (ABF E-form) Arrest and detention Mr. Sharifi Rad was arrested on
+    11 February 1979 in Khoramabad (ABF E-form). Trial The Revolutionary
+    Tribunal of Khoramabad tried Mr. Sharifi Rad on 13 April 1979 (Kayhan).
+    Charges Kayhan Daily reported Mr. Sharifi Rad’s charges as: “4 counts of
+    murder; harassment, persecution, torture, and repression of people.”
+    Evidence of guilt No information is available concerning the evidence
+    presented against Mr. Sharifi Rad. Defense No information is available
+    concerning Sharifi Rad’s defense, and it is not clear if he had the
+    ability and opportunity to defend himself or if he had access to the
+    minimum standards of due process of law such as the legal assistance of an
+    attorney. The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. Judgment The Revolutionary Tribunal of Khoramabad declared
+    Mr. Sharifi guilty and sentenced him to death. According to Kayhan’s
+    report, Mr. Sharifi Rad and one other requested before the execution that
+    “people should not get close to their bodies and that the verdict should
+    be carried out in a way that they will not suffer” (Kayhan). The reasons
+    for these requests are not clear. Moreover, it is not known if the
+    defendants had seen an assault on the executees’ cadavers. Mr. Sharifi Rad
+    was presented before a firing squad on 14 April 1979 at 6:00 a.m. along
+    with one other. He was executed on his 36th birthday (Kayhan, ABF E-form).
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-5516/mohammad-ali-sharifi-rad"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

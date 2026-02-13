@@ -1,0 +1,71 @@
+id: aberi-behzad-1982
+name_latin: "Behzad Aberi"
+name_farsi: "بهزاد عابری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1982-09-12
+age_at_death: 20
+place_of_death: "Sanandaj"
+province: "Kordestan"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    News of the execution of Mr. Behzad Aberi, son of Baha odin, along with
+    seventeen others, was published in the Jomhuri Eslami daily on September
+    18, 1982. The information about Mr. Aberi is based on information sent to
+    Omid by a person familiar with his case. According to this information, he
+    was born in Sanandaj. He was married and a student at Tehran University.
+    He was a sympathizer of a radical socialist group. His mother, Ms. Farasat
+    Chovoshinejad, was killed during the government attack on Kurdistan in
+    1980. Arrest and Detention According to the information sent to Omid, he
+    was denied the right to an attorney or to defend himself. Authorities
+    pressured him to introduce his fellow comrades, reject his beliefs and
+    actions, and accept the official ideology in a televised interview, accept
+    all charges, work in prison to convert other prisoners, and to ask them to
+    work for the regime. Mr. Aberi rejected all these suggestions. Trial
+    According to the information sent to Omid, quoting a cellmate, the trial
+    session of Mr. Aberi took only five minutes. No further information is
+    available on the details of the defendant s trial. Charges According to
+    the report of the Jomhuri Eslami newspaper, Mr. Aberi and other defendants
+    were collectively charged with collaboration with the
+    counter-revolutionary groups who are enemies of God, activities against
+    the Islamic Republic, attacking the fellow members of the police and
+    military forces, trading weapons, extortion, committing the hideous act of
+    sodomy, drug dealing and having relations with the members of the infidel
+    Baath party. There is no mention of the specific charges against the
+    defendant. The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. International human rights organizations have drawn
+    attention to reports indicating that Islamic Republic authorities have
+    brought trumped-up charges against their political opponents and executed
+    them for alleged drug trafficking, sexual offenses, and other criminal
+    activities. Each year Iranian authorities sentence to death hundreds of
+    alleged common criminals, following judicial processes that fail to meet
+    international standards. The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of Guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against Mr. Aberi. Defense No information is available about Mr. Aberi s
+    defense. Judgment The Islamic Revolutionary Tribunal of Sanandaj declared
+    Mr. Aberi an enemy of God and a corruptor and sentenced him to death.
+    According to the information sent to Omid, he was executed by firing squad
+    in Sanandaj on September 12, 1982. Authorities asked the family for the
+    cost of three spent bullets and a cake, in order for the body to be
+    returned. However, after receiving what they asked for, they refused to
+    deliver the body. Mr. Aberi s family does not know where his grave is
+    located.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7171/behzad-aberi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

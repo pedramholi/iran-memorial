@@ -1,0 +1,51 @@
+id: faramarzian-leila-1982
+name_latin: "Leila Faramarzian"
+name_farsi: "لیلا فرامرزیان"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1982-01-01
+age_at_death: null
+place_of_death: "Ahvaz"
+province: "Khuzestan"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    Ms. Leila Faramarzian is one of the 1533 executed prisoners listed by the
+    Association of Iranian Women of Köln (Germany). The list published in 1997
+    is entitled: "A partial list of names of women executed by the Islamic
+    Republic of Iran." Additional information about her has been sent to Omid
+    via an electronic form by an individual familiar with this case. According
+    to this form, she was affiliated with the Tudeh Party. The Tudeh Party of
+    Iran was created in 1941. The Tudeh's ideology was Marxist Leninist and it
+    supported the former Soviet Union's policies. The Party played a major
+    role on Iran's political scene until it was banned for a second time
+    following the August 19, 1953 coup. After the 1979 Revolution, the Tudeh
+    declared Ayatollah Khomeini and the Islamic Republic regime
+    revolutionaries and anti-imperialists and actively supported the new
+    government. Although the Party never opposed the Islamic Republic, it
+    became the target of its attacks from 1982 when most of the Party's
+    leaders and members were imprisoned. Arrest and detention The
+    circumstances of Ms. Faramarzian’s arrest and detention are not known
+    other than she was arrested in Ahvaz. Trial There is no information
+    regarding this trial. Charges The charges brought against the defendant
+    are not known. Evidence of guilt No information is available concerning
+    the evidence presented against the accused. Defense No information is
+    available concerning the defense. Judgment No specific information is
+    available about the verdict leading to this execution. Ms. Leila
+    Faramarzian was executed in Ahvaz in 1982.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4814/leila-faramarzian"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

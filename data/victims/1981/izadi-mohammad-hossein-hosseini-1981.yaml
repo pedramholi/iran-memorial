@@ -1,0 +1,50 @@
+id: izadi-mohammad-hossein-hosseini-1981
+name_latin: "Mohammad Hossein Hosseini Izadi"
+name_farsi: "محمد حسین حسینی ایزدی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam (Shi'a)"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-11-24
+age_at_death: 18
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    Mr. Mohammad Hossein Hosseini Izadi is one of the 12,028 individuals
+    listed in an addendum to the Mojahed magazine (No 261), published by
+    Mojahedin Khalq Organization on September 6, 1985. The list includes
+    individuals, affiliated with various opposition groups, who were executed
+    or killed during clashes with the Islamic Republic security forces from
+    June 20, 1981 to the publication date of the magazine. The additional
+    information about Mr. Mohammad Hossein Hosseini Izadi was taken from the
+    website of the Mojahedin Khalq Organization. He was a sympathizer of this
+    organization in the Hashtrudi High School council. His sister, Zahra, who
+    was arrested at the same time, died under torture in the Evin prison in
+    December 1981. Arrest and detention There is no specific information on
+    the defendant’s arrest and detention. Mr. Hosseini Izadi was arrested in
+    September 1981 and was detained at the Evin prison. Trial No information
+    is available on the defendant’s trial. Charges No information is available
+    on Mr. Hosseini Izadi’s charges. Evidence of guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against the defendant. Defense No information is available on Mr. Hosseini
+    Izadi's defense. Judgment No specific information is available about this
+    execution. According to the Mojahedin’s website, two months after his
+    arrest, on November 24, 1981, Mr. Hosseini Izadi was executed by firing
+    squad in the Evin prison. His will was delivered to his family twenty days
+    later.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4082/mohammad-hossein-hosseini-izadi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

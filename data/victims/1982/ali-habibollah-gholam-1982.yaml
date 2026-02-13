@@ -1,0 +1,52 @@
+id: ali-habibollah-gholam-1982
+name_latin: "Habibollah Gholam Ali"
+name_farsi: "حبیب الله غلامعلی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1982-03-02
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Habibollah Gholam Ali, along with twenty others, was
+    announced by the public relations of the Anti-Narcotic section of the
+    Islamic Republic Public Prosecution Office and reported in the Jomhuri
+    Eslami daily on March 3, 1982. Arrest and detention The circumstances of
+    this defendant s arrest and detention are not known. Trial No information
+    is available on the defendant s trial. Charges According to this report,
+    Mr. Gholam Ali and another defendant possessed 275 gm of heroin the last
+    time they were arrested. They had confessed to selling 150 gm of heroin,
+    transporting heroin from Zahedan to Tehran and selling it many times. It
+    is also mentioned that he did not even smoke cigarettes. The validity of
+    the criminal charges brought against defendants cannot be ascertained in
+    the absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic s authorities have brought trumped-up charges against
+    their political opponents and executed them for drug trafficking, sexual,
+    and other criminal offences. Thousands of alleged drug traffickers have
+    been sentenced to death following judicial processes that fail to meet
+    international standards. The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against the defendant. Defense No information is available on Mr. Gholam
+    Ali s defense. Judgment The Anti-Narcotics Section of the Public
+    Prosecutor s Office sentenced Mr. Gholam Ali to death. Having been
+    confirmed by the Supreme Judicial Council, the sentence was carried out.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/31208/habibollah-gholam-ali"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

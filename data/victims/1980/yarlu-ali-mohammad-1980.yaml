@@ -1,0 +1,39 @@
+id: yarlu-ali-mohammad-1980
+name_latin: "Ali Mohammad Yarlu"
+name_farsi: "علی‌محمد یارلو"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-01-15
+age_at_death: 22
+place_of_death: "Arak"
+province: "Markazi"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of Mr. Ali Mohammad Yarlu and another individual was
+    reported in the Ettela at daily (January 16, 1980). Arrest and detention
+    The circumstances of this defendant s arrest and detention are not known.
+    Trial There is no information available about Sergeant Yarlu s trial.
+    Charges Based on the report, the defendant was charged with "murdering
+    Ayub Sharifi and suppressing the revolutionaries of Ashtyan on December
+    09, 1978." Evidence of guilt The report does not mention anything about
+    the evidence presented against the defendant. Defense No information is
+    available on the accused s defense. Judgment The Islamic Revolutionary
+    Tribunal of Arak declared Sergeant Ali Mohammad Yarlu a corruptor on
+    earth. He was executed on January 15, 1980, at 9 p.m.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/12582/ali-mohammad-yarlu"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,42 @@
+id: golzar-ali-1980
+name_latin: "Ali Golzar"
+name_farsi: "علی گلزار"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-07-18
+age_at_death: null
+place_of_death: "Kashan"
+province: "Esfahan"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Mr. Ali Golzar, a policeman, was reported by the
+    correspondent of the Jomhuri Eslami daily in Kashan (July 19, 1980).
+    Arrest and detention The report mentioned that the accused was arrested
+    and handed over to the prison officials by the Islamic Revolutionary
+    Guards of Kashan after being chased for 14 months. Trial Based on the
+    report, the Islamic Revolutionary Tribunal of Kashan met twice to examine
+    Mr. Golzar’s case. Charges According to the report, the defendant was
+    charged with “murdering, torturing, and suppressing the Muslim people of
+    Kashan.” Evidence of guilt The report mentioned that in order to reach at
+    the verdict, the witnesses’ testimonies were heard. However, no specific
+    information about the evidence of guilt presented by them was provided.
+    Defense No information is available on Mr. Golzar’s defense. Judgment
+    Based on the report, Mr. Golzar was sentenced to death and executed at two
+    in the morning.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/12907/ali-golzar"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

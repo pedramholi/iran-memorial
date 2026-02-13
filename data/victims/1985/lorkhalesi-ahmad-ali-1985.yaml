@@ -1,0 +1,51 @@
+id: lorkhalesi-ahmad-ali-1985
+name_latin: "Ahmad Ali Lorkhalesi"
+name_farsi: "احمدعلی لرخالصی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1985-04-21
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Ahmad Ali Lorkhalesi, along with ten others, was
+    reported in the Kayhan Daily on April 21, 1985. The validity of the
+    criminal charges brought against this defendant cannot be ascertained in
+    the absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic’s authorities have brought trumped up charges against
+    their political opponents and executed them for drug trafficking, sexual,
+    and other criminal offences. Thousands of alleged drug traffickers have
+    been sentenced to death following judicial processes that fail to meet
+    international standards. The exact number of people convicted based on
+    trumped-up charges is unknown Arrest and detention The circumstances of
+    this defendant’s arrest and detention are not known. Trial No information
+    is available on the defendant’s trial. Charges According to this report,
+    Mr. Lorkhalesi was charged with “being actively and consistently involved
+    in supplying and distributing heroin, dealing 6 kg of heroin before being
+    arrested, selling 3 kg of heroin to the Law Enforcement officers (Niruye
+    Entezami), being in contact with drug smugglers located near the borders,
+    and preparing 36 kg of heroin for sale.” Evidence of guilt The report of
+    this execution does not contain information regarding the evidence
+    provided against the defendant. Defense No information is available on Mr.
+    Lorkhalesi’s defense. Judgment The Anti-Narcotics Islamic Revolutionary
+    Tribunal sentenced Mr. Lorkhalesi to death. The sentence was carried out
+    in Qasr prison at dawn.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/31531/ahmad-ali-lorkhalesi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

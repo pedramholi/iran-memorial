@@ -1,0 +1,52 @@
+id: samadi-habib-1981
+name_latin: "Habib Samadi"
+name_farsi: "حبیب صمدی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-01-01
+age_at_death: 21
+place_of_death: "Tabriz"
+province: "Azarbaijan-e Sharqi"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    Mr. Habib Samadi is one of the 12,028 individuals listed in an addendum to
+    the Mojahed magazine (No 261), published by Mojahedin Khalq Organization
+    (MKO) on September 6, 1985. The list includes individuals, affiliated with
+    various opposition groups, who were executed or killed during clashes with
+    the Islamic Republic security forces from June 1981 to the publication
+    date of the magazine. Information about Mr. Samadi is taken from the book
+    Our Martyrs in the Path to Freedom , copyright 1988 by the Rah-e Kargar
+    publications. He was a sympathizer of the Revolutionary Workers
+    Organization of Iran-Rah-e Kargar. "Rah-e Kargar" or the "Revolutionary
+    Workers Organization of Iran" was established in the summer of 1979. The
+    Organization was founded by individuals from various leftist groups who
+    rejected the idea of armed struggle and believed in political action. They
+    identified themselves as Marxist-Leninists, promoting a socialist
+    revolution and the leadership of the proletariat. They differed with the
+    pro-Soviet communist party, Tudeh, in that they opposed the Islamic
+    Republic and Ayatollah Khomeini's leadership. Arrest and detention The
+    circumstances of this defendant s arrest and detention are unknown. Trial
+    No information is available on the defendant s trial. Charges No
+    information is available on Mr. Samadi s charges. Evidence of guilt The
+    report of this execution contains no evidence provided against the
+    defendant. Defence No information is available about the defendant s
+    defence. Judgment No specific information is available about the defendant
+    s execution. According to the Mojahedin list, Mr. Samadi was executed in
+    Tabriz by a firing squad in August 1981.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/36842/habib-samadi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,71 @@
+id: narimisa-esmail-1980
+name_latin: "Esma'il Narimisa"
+name_farsi: "اسماعیل نریمیسا"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-06-27
+age_at_death: 36
+place_of_death: "Ahvaz"
+province: "Khuzestan"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of Dr. Esma’il Narimisa was declared in a communiqué of the
+    Islamic Revolutionary Tribunal of Ahvaz regarding the execution of a group
+    of eight in this city. The communiqué was quoted as part of the Pars News
+    Agency report published in the Ettela’at daily (July 2, 1980). The
+    Enqelab-e Eslami daily of June 29, 1980 also reported the news. Additional
+    information has been sent to Omid via an electronic form by a relative.
+    Dr. Narimisa was born in Haftgerd (Khuzestan province). Arrest and
+    detention The circumstances of this defendant’s arrest and detention are
+    not known. Trial There is no information regarding this trial. Charges
+    Based on the communiqué, Dr. Narimissa was charged with “participation in
+    the clashes of Jondishapur University” as well as “planning and
+    participating in the conspiracy and flight of prisoners from the town hall
+    which led to several deaths and injuries.” The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. Evidence of guilt The
+    communiqué mentioned that “considering the past records of the accused,
+    his position towards the Islamic Republic, the testimonies of witnesses
+    and informed individuals, and other material available in his file, it
+    became obvious that the above named was one of the most efficient elements
+    of the Jondishapur University events and the town hall plot.” Defense No
+    information is available concerning the defense. Judgment The Islamic
+    Revolutionary Tribunal of Ahvaz sentenced Dr. Narimisa to death. The Pars
+    News Agency report in the Ettela’at daily called attention to a June 27
+    communiqué of the Association of Tehran Medical Assistants regarding Dr.
+    Narimisa’s case: “The communiqué refers to the efforts of the Association
+    to review the problem and gather the documents proving Dr. Narimisa’s
+    innocence, their contacts with officials in charge such as the Minister of
+    Education, the office of the President, the President’ advisors on legal
+    and medical affairs, Mr. Musavi Ardebili, Khamene’i, Sami, Sabaghian,… ,
+    and their demand for a public trial during which their documents would be
+    reviewed. Finally, [the communiqué] notes that: ‘Despite these persistent
+    efforts and the fact that the Prosecutor of Ahvaz had agreed to meet with
+    the representatives of the Association and see their documents on June 29,
+    we were informed that Dr. Esma’il Narimi’sa was executed by a firing squad
+    at dawn on Friday, June 27.’” According to the report, the execution of
+    Dr. Narimis’a led to a wave of protest and strike among healthcare
+    professionals in the cities of Ahvaz, Shiraz and Tehran. In reaction to
+    these events, the Friday Imam of Ahvaz, Hojatoleslam Taheri, speaking in
+    the city’s oil workers unity prayer, noted that “in penal matters Islam
+    makes no distinction between a doctor, a worker, or a cleric. At the same
+    time, in comparable circumstances with regard to the committed sin, the
+    punishment for the crime committed by a cleric, a doctor or an engineer is
+    heavier and harsher because they are learned and knowledgeable....”
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4890/esmail-narimisa"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

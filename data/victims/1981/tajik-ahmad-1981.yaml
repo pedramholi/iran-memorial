@@ -1,0 +1,48 @@
+id: tajik-ahmad-1981
+name_latin: "Ahmad Tajik"
+name_farsi: "احمد تاجیک"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-09-01
+age_at_death: null
+place_of_death: "Zahedan"
+province: "Sistan Va Baluchestan"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Mr. Ahmad Tajik, son of Gholam Hossein, was announced by
+    the Public Relations of the Public Prosecutor’s office in communiqué of
+    the Islamic Revolutionary Tribunal of Zahedan, and published in the
+    Jonhuri Eslami newspaper on September 2, 1981. Arrest and detention The
+    circumstances of this defendant’s arrest and detention are not known.
+    Trial No information is available on the defendant’s trial other than he
+    was tried at the Islamic Revolutionary Tribunal of Zahedan. Charges Mr.
+    Tajik was charged with “repeated counts of the despicable act of sodomy.”
+    The validity of the criminal charges brought against this defendant cannot
+    be ascertained in the absence of the basic guarantees of a fair trial.
+    International human rights organizations have drawn attention to reports
+    indicating that the Islamic Republic’s authorities have brought trumped-up
+    charges against their political opponents and executed them for drug
+    trafficking, sexual, and other criminal offences. The exact number of
+    people convicted based on trumped-up charges is unknown. Evidence of guilt
+    The report of this execution does not contain information regarding the
+    evidence provided against the defendant. Defense No information is
+    available on his defense. Judgment The Islamic Revolutionary Tribunal of
+    Zahedan condemned Mr. Ahmad Tajik to death. He was executed on September
+    1, 1981 at dawn.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/39429/ahmad-tajik"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

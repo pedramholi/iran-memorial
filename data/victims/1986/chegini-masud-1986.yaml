@@ -1,0 +1,55 @@
+id: chegini-masud-1986
+name_latin: "Mas'ud Chegini"
+name_farsi: "مسعود چگینی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1986-02-24
+age_at_death: null
+place_of_death: "Ahvaz"
+province: "Khuzestan"
+cause_of_death: "Fatal"
+circumstances: >
+    The execution of Mr. Mas’ud Chegini, son of Kazem, along with two others,
+    was reported in the Kayhan newspaper on February 26, 1986. Arrest and
+    detention The circumstances of this defendant’s arrest and detention are
+    not known. Trial No information is available on the defendant’s trial.
+    Charges According to this report, Mr. Chegini was affiliated with the
+    Mojahedin Khalq Organization. He and two other men were collectively
+    charged with “martyring a committed worker of the Hezbollah [Party of God]
+    named Omati during the holy month of Ramadan, espionage for the Bath
+    regime in Iraq, participation in military operations against the forces of
+    Islam in Kordestan fronts, receiving weapons from the enemies in the Bath
+    regime and intention to assassinate some of the oppressed and pious
+    persons, loyal to the Islamic Republic.” The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic’s authorities have brought trumped-up charges against
+    their political opponents and executed them for drug trafficking, sexual,
+    and other criminal offences. Each year, Iranian authorities sentence to
+    death hundreds of alleged common criminals, following judicial processes
+    that fail to meet international standards. The exact number of people
+    convicted based on trumped-up charges is unknown. Evidence of guilt The
+    report of this execution does not contain information regarding the
+    evidence provided against the defendant. Defense No information is
+    available on Mr. Chegini’s defense. Judgment The Islamic Revolutionary
+    Tribunal of Ahvaz declared Mr. Chegini a “corruptor on earth and an enemy
+    of God” and sentenced him to death. He and two other persons were executed
+    on February 24, 1986 at dawn.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/44631/masud-chegini"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

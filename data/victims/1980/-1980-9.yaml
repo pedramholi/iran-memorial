@@ -1,0 +1,56 @@
+id: -1980-9
+name_latin: null
+name_farsi: null
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-06-20
+age_at_death: null
+place_of_death: "Kerman"
+province: "Kerman"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of this unnamed person and 8 others was announced in a
+    report by the correspondent of Pars News Agency in Kerman, published in
+    the Jomhuri Eslami daily (June 21, 1980) The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic’s authorities have brought trumped up charges against
+    their political opponents and executed them for drug trafficking, sexual,
+    and other criminal offences. Thousands of alleged drug traffickers have
+    been sentenced to death following judicial processes that fail to meet
+    international standards. The exact number of people convicted based on
+    trumped-up charges is unknown Arrest and detention The circumstances of
+    this defendant’s arrest and detention are not known. Trial No information
+    is available on the circumstances of the defendant’s trial, except that
+    the Islamic Revolutionary Tribunal of Kerman held session on Thursday,
+    June 19, 1980, to examine the cases of 33 drug smugglers, including that
+    of this unnamed individual. Charges Based on the report, the defendants
+    were collectively charged with the following: “carrying and distributing
+    drugs, participating in the murder of a Revolutionary Guard, spreading
+    prostitution, keeping alcoholic drinks, engaging in sexually dishonoring
+    offenses, taking advantage of innocent children and raping them, and
+    robbery.” The report does not specify the charges against each individual
+    separately. Evidence of guilt The report of this execution does not
+    contain information regarding the evidence provided against the defendant.
+    Defense No information is available on the accused’s defense. Judgment The
+    religious judge of the Special Revolutionary Tribunal and the head of the
+    Combat against Drugs and Narcotics sentenced this unnamed individual to
+    death. The death sentence was carried out at dawn.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/12717/name-unknown"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

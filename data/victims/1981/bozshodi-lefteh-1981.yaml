@@ -1,0 +1,55 @@
+id: bozshodi-lefteh-1981
+name_latin: "Lefteh Bozshodi"
+name_farsi: "لفته بزشدی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-01-06
+age_at_death: null
+place_of_death: "Ahvaz"
+province: "Khuzestan"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Mr. Lefteh Bojshadi, son of Abdossadeh, and 4 other
+    individuals was announced in the Kayhan and the Jomhuri Eslami newspapers
+    on October 8, 1981. Arrest and detention The circumstances of this
+    defendant s arrest and detention are not known. Trial No information is
+    available on the defendant s trial other than he was tried at the Islamic
+    Revolutionary Tribunal of Ahvaz. Charges Mr. Bojshadi was charged with
+    adultery . The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. International human rights organizations have drawn
+    attention to reports indicating that the Islamic Republic s authorities
+    have brought trumped-up charges against their political opponents and
+    executed them for drug trafficking, sexual, and other criminal offences.
+    The exact number of people convicted based on trumped-up charges is
+    unknown. Evidence of guilt The report of this execution refers to his
+    explicit confession . International human rights organizations have
+    repeatedly condemned the government of the Islamic Republic of Iran for
+    its systematic use of severe torture and solitary confinement to obtain
+    confessions from detainees and have questioned the authenticity of
+    confessions obtained under duress. In the case of political detainees,
+    these confessions are, at times, televised. The National Television
+    broadcasts confessions during which prisoners plead guilty to vague and
+    false charges, repent and renounce their political beliefs, and/or
+    implicate others. Human rights organizations have also pointed to the
+    pattern of retracted confessions by those prisoners who are freed. Defense
+    No information is available on his defense. Judgment In accordance with
+    the Islamic Revolutionary Tribunal of Ahvaz, Mr. Lefteh Bojshodi was
+    executed on October 6, 1981 at dawn.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7158/lefteh-bozshodi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

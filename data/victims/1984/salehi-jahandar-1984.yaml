@@ -1,0 +1,60 @@
+id: salehi-jahandar-1984
+name_latin: "Jahandar Salehi"
+name_farsi: "جهاندار صالحی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1984-01-01
+age_at_death: 31
+place_of_death: "Tehran Province"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    Mr. Jahandar Salehi is one of the 430 individuals whose names appear on
+    the list of “Martyrs of the Peykar Organization for the Liberation of the
+    Working Class” published on the website of Andeesheh va Peykar. This list
+    contains the names of those members of the organization who died after the
+    revolution of 1979. More than 400 of the individuals on this list have
+    been executed. According to this report, Mr. Jahandar Salehi, 31, was born
+    in Masjedsoleiman and had a bachelor’s degree in mathematics. According to
+    “Andishe Peikar” website, He was first arrested in 1980/1981 and sentenced
+    to 5-year imprisonment. After receiving his sentence he escaped from the
+    prison along with 5 others in April 1981 The Peykar Organization for the
+    Liberation of the Working Class was founded by a number of dissident
+    members of the Mojahedin Khalq Organization who had converted to
+    Marxism-Leninism. Peykar was also joined by a number of political
+    organizations, known as Khat-e Se (Third line). The founding tenets of
+    Peykar included the rejection of guerrilla struggle and a strong stand
+    against the pro-Soviet policies of the Iranian Tudeh Party. Peykar viewed
+    the Soviet Union as a "Social imperialist" state, believed that China had
+    deviated from the Marxist-Leninist principles, and radically opposed all
+    factions of the Islamic regime of Iran. The brutal repression of
+    dissidents by the Iranian government and splits within Peykar in 1981 and
+    1982 effectively dismantled the Organization and scattered its supporters.
+    By the mid-1980s, Peykar was no longer in existence. Arrest and detention
+    Based on the report from “Andishe Peikar” website, Mr. Salehi was arrested
+    again in 1984, but there are no details available on his arrest and
+    detention. Trial No information is available on the defendant’s trial.
+    Charges No information is available on Mr. Jahandar Salehi's charges.
+    Evidence of guilt The report of this execution does not contain
+    information regarding the evidence provided against the defendant. Defense
+    No information is available on Mr. Jahandar Salehi's defense. Judgment
+    According to the list of Martyrs of the Peykar Organization, Mr. Jahandar
+    Salehi was executed in 1984 after the second arrest in Tehran. No specific
+    information is available about the defendant’s execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-5522/jahandar-salehi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

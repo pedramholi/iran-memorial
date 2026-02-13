@@ -1,0 +1,39 @@
+id: molayi-ali-1980
+name_latin: "Ali Molayi"
+name_farsi: "علی مولائی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-01-01
+age_at_death: null
+place_of_death: "Qazvin"
+province: "Zanjan"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of Mr. Ali Molayi and two others was reported by the
+    correspondent of the Ettela’at daily in Qazvin (January 3, 1980). Arrest
+    and detention No information is available on the circumstances of Mr.
+    Molayi’s arrest and detention. Trial According to the report, Mr. Molayi
+    was tried along with six others at the Islamic Revolutionary Tribunal of
+    Qazvin. Charges The report makes no mention of the charges brought against
+    the defendant. Evidence of guilt There is no information about the
+    evidence presented against the defendant. Defense No information is
+    available on the accused’s defense. Judgment The Islamic Revolutionary
+    Tribunal of Qazvin declared Mr. Molayi a “corruptor on earth”. He was
+    executed at 11 p.m.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/12555/ali-molayi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

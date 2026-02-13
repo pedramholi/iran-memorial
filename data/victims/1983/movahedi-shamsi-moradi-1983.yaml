@@ -1,0 +1,52 @@
+id: movahedi-shamsi-moradi-1983
+name_latin: "Shamsi Moradi Movahedi"
+name_farsi: "شمسی مرادی موحدی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1983-10-06
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Ms. Shamsi Moradi Movahedi, along with sixteen others,
+    was announced in a communiqu from the Anti-Narcotics Section of the Public
+    Prosecutor s Office in Tehran. The communiqu was reported in the Jomhuri
+    Eslami Daily on October 8, 1983. Arrest and detention The circumstances of
+    this defendant s arrest and detention are not known. Trial No information
+    is available on the defendant s trial. Charges Ms. Moradi Movahedi was
+    reportedly charged with participating in the supply and distribution of
+    narcotics, bringing heroin from Zahedan to sell it after being released
+    from prison, and having been convicted previously several times . The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    International human rights organizations have drawn attention to reports
+    indicating that the Islamic Republic s authorities have brought trumped up
+    charges against their political opponents and executed them for drug
+    trafficking, sexual, and other criminal offences. Thousands of alleged
+    drug traffickers have been sentenced to death following judicial processes
+    that fail to meet international standards. The exact number of people
+    convicted based on trumped-up charges is unknown. Evidence of guilt The
+    report of this execution does not contain information regarding the
+    evidence provided against the defendant. Defense No information is
+    available on Mr. Moradi Movahedi's defense. Judgment The Anti-Narcotics
+    Islamic Revolutionary Tribunal in Tehran declared Mr. Moradi Movahedi a
+    corruptor on earth and sentenced him to death. Having been confirmed by
+    the Supreme Court, the sentence was carried out at 5 a.m.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/30286/shamsi-moradi-movahedi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

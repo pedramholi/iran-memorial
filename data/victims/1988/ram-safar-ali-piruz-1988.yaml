@@ -1,0 +1,50 @@
+id: ram-safar-ali-piruz-1988
+name_latin: "Safar Ali Piruz Ram"
+name_farsi: "صفرعلی پیروزرام"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1988-08-03
+age_at_death: 28
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    Mr. Safar Ali Piruzram is one of 1000 people identified in a UN Human
+    Rights Commission's Special Representative's Report, "Names and
+    particulars of persons allegedly executed by the Islamic Republic of Iran
+    during the period July-December 1988," published January 26, 1989. The
+    report specifies that although 1000 names are mentioned, "in all
+    probability" there were several thousand victims. "Most of the alleged
+    victims were members of the Mojahedin. However, members of the Tudeh
+    Party, People's Fedaiyan Organization, Rahe Kargar, and Komala
+    Organization and 11 mollahs were also said to be among the alleged
+    victims." He is also among 3208 members and sympathizers of the People's
+    Mojahedin Organization of Iran (PMOI) whose execution was reported by the
+    organization in a book entitled Crime Against Humanity. This book
+    documents the 1988-89 mass execution of political prisoners. Additional
+    information was drawn from the Bidaran website. Arrest and detention The
+    circumstances of this defendant s arrest and detention are not known.
+    Trial No information is available on Mr. Piruzram's trial. Charges No
+    information is available concerning the charges against Mr. Piruzram.
+    Evidence of guilt The report does not contain information regarding the
+    evidence provided against the defendant. Defense No information is
+    available on Mr. Piruzram's defense. Judgment No information is available
+    on the judgment or whether an appeal was allowed. No further information
+    is available.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8862/safar-ali-piruz-ram"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

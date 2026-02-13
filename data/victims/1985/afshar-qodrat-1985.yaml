@@ -1,0 +1,51 @@
+id: afshar-qodrat-1985
+name_latin: "Qodrat Afshar"
+name_farsi: "قدرت افشار"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1985-04-23
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Qodrat Afshar, along with 10 others, was reported in
+    the Kayhan Daily on April 23, 1985. The validity of the criminal charges
+    brought against this defendant cannot be ascertained in the absence of the
+    basic guarantees of a fair trial. International human rights organizations
+    have drawn attention to reports indicating that the Islamic Republic’s
+    authorities have brought trumped up charges against their political
+    opponents and executed them for drug trafficking, sexual, and other
+    criminal offences. Thousands of alleged drug traffickers have been
+    sentenced to death following judicial processes that fail to meet
+    international standards. The exact number of people convicted based on
+    trumped-up charges is unknown Arrest and detention The circumstances of
+    this defendant’s arrest and detention are not known. Trial No information
+    is available on the defendant’s trial. Charges According to this report,
+    Mr. Afshar was charged with “being actively involved in supplying and
+    distributing heroin, purchasing 200-gram packages of heroin in Zahedan and
+    selling them in Tehran, selling 5-gram packages of heroin in Tehran,
+    possessing 59 gm of heroin when arrested, taking advantage of the young
+    people to make them transport narcotics from Zahedan and having illicit
+    relationships with them.” Evidence of guilt The report of this execution
+    does not contain information regarding the evidence provided against the
+    defendant. Defense No information is available on Mr. Afshar’s defense.
+    Judgment The Anti-Narcotics Islamic Revolutionary Tribunal sentenced Mr.
+    Afshar to death. The sentence was carried out in prison at dawn.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/31538/qodrat-afshar"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

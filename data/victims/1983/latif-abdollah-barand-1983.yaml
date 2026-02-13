@@ -1,0 +1,55 @@
+id: latif-abdollah-barand-1983
+name_latin: "Abdollah Barand Latif"
+name_farsi: "عبدالله برند لطیف"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1983-12-25
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Fatal"
+circumstances: >
+    The execution of Mr. Abdollah Barand Latif, along with fifteen others, was
+    announced in a communiqu by the Anti-Narcotics Section of the Public
+    Prosecutor s Office in Tehran. The communiqu was reported in the Jomhuri
+    Eslami daily on December 26, 1983. Arrest and detention The circumstances
+    of this defendant s arrest and detention are not known. Trial No
+    information is available on the defendant s trial. Charges According to
+    this communiqu , Mr. Barand Latif was charged with being actively involved
+    in the supply and distribution of heroin, transporting 19 gm of heroin
+    when arrested, being in drug business: supplying and distributing heroin
+    for 9 years, supplying and distributing packages containing 50 gm or 100
+    gm of heroin over a period of time, selling 1 kg of heroin once and being
+    convicted of supplying and distributing heroin several times. The validity
+    of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    International human rights organizations have drawn attention to reports
+    indicating that the Islamic Republic s authorities have brought trumped up
+    charges against their political opponents and executed them for drug
+    trafficking, sexual, and other criminal offences. Thousands of alleged
+    drug traffickers have been sentenced to death following judicial processes
+    that fail to meet international standards. The exact number of people
+    convicted based on trumped-up charges is unknown. Evidence of guilt The
+    report of this execution does not contain information regarding the
+    evidence provided against the defendant. Defense No information is
+    available on Mr. Barand Latif s defense. Judgment The Islamic
+    Revolutionary Tribunal of Anti-Drug Campaign in Tehran sentenced Mr.
+    Barand Laif to death. Having been confirmed by the Supreme Court, the
+    sentence was carried out in Shurabad at dawn.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/30067/abdollah-barand-latif"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

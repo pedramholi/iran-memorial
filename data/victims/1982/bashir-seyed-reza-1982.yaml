@@ -1,0 +1,52 @@
+id: bashir-seyed-reza-1982
+name_latin: "Seyed Reza Bashir"
+name_farsi: "سیدرضا بشیر"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1982-05-30
+age_at_death: null
+place_of_death: "Bandar Abbas"
+province: "Hormozgan"
+cause_of_death: "Fatal"
+circumstances: >
+    The execution of Mr. Seyed Reza Bashir, along with nine others, was
+    announced in a communiqué by the public relations office of the Public
+    Prosecutor’s Office of the Islamic Revolution in Hormozgan. The communiqué
+    was published in the Jomhuri Eslami Daily on June 2, 1982. Arrest and
+    detention The circumstances of this defendant’s arrest and detention are
+    not known. Trial No information is available on the defendant’s trial.
+    Charges According to this communiqué, Mr. Bashir, along with nine others,
+    was generally charged with actively supporting the Mujahedin-e Khalq
+    Organization or MKO, “membership in the Organization, participation in
+    planning and commanding different military operations , assassination of
+    Dehqani (a policeman), Pourdalir, Haji Gholamhosseiny and Haj Izadpanah
+    (the martyrs), participation in planning the destruction of the bridge
+    connecting Bandar Abbas to Shiraz, destruction of a quay, explosion of a
+    ship of provisions ,participation in an armed robbery, hiding in safe
+    houses, possession of different weapons and intra-organizational
+    marriages” [marriages among the members of the MKO to promote its
+    interest- translator’s note]. Specifically, he was reported to be a
+    messenger between Bandar Abbas and Shiraz. Evidence of guilt The report of
+    this execution does not contain information regarding the evidence
+    provided against the defendant. Defense No information is available on
+    Mr.Bashir’s defense. Judgment According to the Islamic Revolutionary
+    Tribunal of Bandarabbas, Mr. Bashir was found guilty of being a corruptor
+    and an enemy of God and was sentenced to death. The sentence was carried
+    out.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/23592/seyed-reza-bashir"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

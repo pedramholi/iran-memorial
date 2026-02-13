@@ -1,0 +1,45 @@
+id: kianfar-farshad-1982
+name_latin: "Farshad Kianfar"
+name_farsi: "فرشاد کیانفر"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1982-07-18
+age_at_death: null
+place_of_death: "Esfahan"
+province: "Esfahan"
+cause_of_death: "Fatal"
+circumstances: >
+    The execution of Mr. Farshad Kianfar, along with three others, was
+    announced in a communiqu by the public relations office of the Islamic
+    Revolution s Public Prosecutor s Office. The communiqu was reported in the
+    Jomhuri Eslami Daily on July 24, 1982. Arrest and detention The
+    circumstances of this defendant s arrest and detention are not known.
+    Trial No information is available on the defendant s trial. Charges
+    According to this communiqu , Mr. Kianfar was charged with membership in
+    the Mujahedin-e Khalq Organization (MKO), participating in an armed
+    uprising against the Islamic Republic, throwing Molotov cocktails which
+    resulted in the death of several military personnel, assassinating
+    numberous people: he pleaded guilty to martyring six persons and wounding
+    four others. Evidence of guilt The report of this execution does not
+    contain information regarding the evidence provided against the defendant.
+    Defense No information is available on Mr. Kianfar's defense. Judgment Mr.
+    Kianfar was declared an enemy of God and the Prophet, a corruptor on earth
+    and rebellious against God and people and was sentenced to death. There is
+    no reference to the court which issued the death sentence in this report.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/31118/farshad-kianfar"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

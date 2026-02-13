@@ -1,0 +1,72 @@
+id: mahmudi-bahman-1983
+name_latin: "Bahman Mahmudi"
+name_farsi: "بهمن محمودی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1983-04-18
+age_at_death: null
+place_of_death: "Iran"
+province: null
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    Mr. Bahman Mahmudi is one of the 430 individuals whose names appear on the
+    list of “Martyrs of the Peykar Organization for the Liberation of the
+    Working Class” published on the website of Andeesheh va Peykar. This list
+    contains the names of those members of the organization who died after the
+    revolution of 1979. More than 400 of the individuals on this list have
+    been executed. According to this report, Mr. Bahman Mahmudi was the
+    brother of Mr. Morteza Mahmudi who was executed in Tehran in August of
+    1984. They both were active members of the Student Confederation in the
+    US. The Peykar Organization for the Liberation of the Working Class was
+    founded by a number of dissident members of the Mojahedin Khalq
+    Organization who had converted to Marxism-Leninism. Peykar was also joined
+    by a number of political organizations, known as Khat-e Se (Third line).
+    The founding tenets of Peykar included the rejection of guerrilla struggle
+    and a strong stand against the pro-Soviet policies of the Iranian Tudeh
+    Party. Peykar viewed the Soviet Union as a “Social imperialist” state,
+    believed that China had deviated from the Marxist-Leninist principles, and
+    radically opposed all factions of the Islamic regime of Iran. The brutal
+    repression of dissidents by the Iranian government and splits within
+    Peykar in 1981 and 1982 effectively dismantled the Organization and
+    scattered its supporters. By the mid-1980s, Peykar was no longer in
+    existence. The Confederation of Iranian Students, National Union, (CISNU)
+    was the outcome of a 1962 merger of Iranian students’ associations formed
+    two years earlier in Europe and the United States with the aim of
+    promoting cooperation, strengthening students groups, and informing them
+    of their rights and obligations. The Confederation was composed mainly of
+    members or sympathizers of the National Front and the Tudeh. During the
+    first years of its activities, the organization’s leadership was dominated
+    by the National Front supporters. In the 1960s and 1970s, the
+    Confederation became a significant opposition force outside Iran, bringing
+    media visibility to political prisoners and repression in Iran. In 1971,
+    the Iranian government declared the CISNU illegal. The Confederation
+    radicalized progressively and by the mid-1970s, it was dominated by
+    pro-guerrilla student organizations. Its new Charter (1975) explicitly
+    called for the overthrow of the Shah’s regime. After the Islamic
+    Revolution most of its members returned to Iran. Arrest and detention The
+    circumstances of this defendant’s arrest and detention are not known.
+    Trial No information is available on the defendant’s trial. Charges No
+    information is available on Mr. Mahmudi’s charges. Evidence of guilt The
+    report of this execution does not contain information regarding the
+    evidence provided against the defendant. Defense No information is
+    available on Mr. Mahmudi’s defense. Judgment According to the list of
+    Martyrs of the Peykar Organization, Mr. Bahman Mahmudi was executed on
+    April 18, 1983. No specific information is available about the defendant’s
+    execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/37404/bahman-mahmudi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

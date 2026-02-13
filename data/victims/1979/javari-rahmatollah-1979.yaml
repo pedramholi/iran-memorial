@@ -1,0 +1,28 @@
+id: javari-rahmatollah-1979
+name_latin: "Rahmatollah Javari"
+name_farsi: "رحمت الله جاوری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1979-08-20
+age_at_death: null
+place_of_death: "Shahreza"
+province: "Esfahan"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/24804/rahmatollah-javari"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

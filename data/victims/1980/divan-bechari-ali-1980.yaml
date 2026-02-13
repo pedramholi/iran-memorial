@@ -1,0 +1,44 @@
+id: divan-bechari-ali-1980
+name_latin: "Ali Divan-Bechari"
+name_farsi: "علی دیوان بچاری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-07-23
+age_at_death: null
+place_of_death: "Abadan"
+province: "Khuzestan"
+cause_of_death: "Fatal"
+circumstances: >
+    The execution of Mr. Ali Divan-Bechari and three others was reported by
+    the correspondent of Pars News Agency. The Jomhuri Eslami daily published
+    the report (July 24, 1980). Arrest and detention The circumstances of this
+    defendant’s arrest and detention are not known. Trial No information is
+    available on the defendant’s trial. Charges Based on this report, the
+    charges against the defendant were: “martyring the revolutionary guard
+    Reza Bandeh Bahman”, “repeated travel to Iraq and collaboration with
+    elements of Ba’th Party”, “bringing weapons and ammunitions from Iraq and
+    distributing them for sabotage”, “armed rebellion against the Islamic
+    Republic of Iran”, “espionage”, “collaboration with anti-revolutionary
+    elements”, and “carrying and possessing 1436 bullets.” Evidence of guilt
+    The report of this execution does not contain information regarding the
+    evidence provided against the defendant. Defense No information is
+    available on Mr. Divan-Bechari 's defense. Judgment Mr. Divan-Bechari was
+    executed at dawn after being convicted by the Islamic Revolutionary
+    Tribunal of Abadan and Khoramshahr.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/14923/ali-divan-bechari"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

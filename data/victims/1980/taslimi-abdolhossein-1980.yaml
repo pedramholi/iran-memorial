@@ -1,0 +1,28 @@
+id: taslimi-abdolhossein-1980
+name_latin: "Abdolhossein Taslimi"
+name_farsi: "عبدالحسین تسلیمی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Baha'i"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-08-21
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Extrajudicial Execution"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/84038/abdolhossein-taslimi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

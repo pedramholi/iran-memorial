@@ -1,0 +1,50 @@
+id: dornaji-mostafa-1983
+name_latin: "Mostafa Dornaji"
+name_farsi: "مصطفی درناجی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1983-12-18
+age_at_death: null
+place_of_death: "Zahedan"
+province: "Sistan Va Baluchestan"
+cause_of_death: "Fatal"
+circumstances: >
+    The execution of Mr. Mostafa Dornaji, along with twelve others, was
+    announced in a communiqu by the Islamic Revolution s Committee in Sistan
+    and Baluchestan. The communiqu was reported in the Jomhuri Eslami daily on
+    December 20, 1983. Arrest and detention The circumstances of this
+    defendant s arrest and detention are not known. Trial No information is
+    available on the defendant s trial. Charges Mr. Dornaji was reportedly
+    charged with being actively involved in the production and distribution of
+    narcotics and participation in buying and transporting 6 kg of heroin. The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    International human rights organizations have drawn attention to reports
+    indicating that the Islamic Republic s authorities have brought trumped up
+    charges against their political opponents and executed them for drug
+    trafficking, sexual, and other criminal offences. Thousands of alleged
+    drug traffickers have been sentenced to death following judicial processes
+    that fail to meet international standards. The exact number of people
+    convicted based on trumped-up charges is unknown. Evidence of guilt The
+    report of this execution does not contain information regarding the
+    evidence provided against the defendant. Defense No information is
+    available on Mr. Dornaji s defense. Judgment According to this report, Mr.
+    Dornaji was executed. The Tribunal which issued his death sentence was not
+    specified.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/30041/mostafa-dornaji"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

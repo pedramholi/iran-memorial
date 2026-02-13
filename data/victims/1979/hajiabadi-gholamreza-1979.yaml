@@ -1,0 +1,50 @@
+id: hajiabadi-gholamreza-1979
+name_latin: "Gholamreza Hajiabadi"
+name_farsi: "غلامرضا حاجی آبادی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1979-08-30
+age_at_death: null
+place_of_death: "Esfahan"
+province: "Esfahan"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The information about the execution of Mr. Gholamreza Hajiabadi was
+    published by the newspaper Enqelab-e Eslami , September 1, 1979.
+    International human rights organizations have drawn attention to reports
+    indicating that the Islamic Republic’s authorities have brought trumped-up
+    charges against their political opponents and executed them for drug
+    trafficking, sexual, and other criminal offences. Each year, Iranian
+    authorities sentence to death hundreds of alleged common criminals,
+    following judicial processes that fail to meet international standards.
+    The validity of the criminal charges brought against these defendants
+    cannot be ascertained in the absence of the basic guarantees of a fair
+    trial. The exact number of people convicted based on trumped-up charges is
+    unknown. Arrest and detention The circumstances of this defendant’s arrest
+    and detention are not known. Trial No information is available on the
+    defendant’s trial. Charges The charges brought against the defendant were
+    "rape, adultery, participating in looting and setting the city of
+    Najafabad on fire." Evidence of guilt The report of this execution does
+    not contain information regarding the evidence provided against the
+    defendant. Defense No information is available on Mr. Hajiabadi's defense.
+    Judgment The defendant was sentenced to death by the Islamic Revolutionary
+    Tribunal of Najafabad for being a "corruptor on earth and at war with
+    God." He was executed at dawn on Thursday, August 30, 2004, in the city of
+    Esfahan.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/23446/gholamreza-hajiabadi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

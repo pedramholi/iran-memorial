@@ -1,0 +1,52 @@
+id: ebrahimi-bahman-1981
+name_latin: "Bahman Ebrahimi"
+name_farsi: "بهمن ابراهیمی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-09-02
+age_at_death: 16
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    Mr. Bahman Ebrahimi is one of the 12028 individuals listed in an addendum
+    to the Mojahed magazine (No 261), published by Mojahedin Khalq
+    Organization in 1985. The list includes individuals, affiliated with
+    various opposition groups, who were executed or killed during clashes with
+    the Islamic Republic security forces from June 1981 to the publication
+    date of the magazine. Ms. Ebrahimi's name is also on the list of the
+    victims of the 1988-89 mass execution of political prisoners published in
+    a November 2, 1989 United Nations Report of the Economic and Social
+    Council on the Situation of human rights in the Islamic Republic of Iran,
+    prepared by Mr. Reynaldo Galindo Pohl (El Salvador), Special
+    Representative of the Commission on Human Rights. Executed prisoners were
+    mostly members or sympathizers of the People s Mojahedin Organization of
+    Iran, or other Marxist Leninist organizations such as, the People s
+    Fedayin of Iran, the Tudeh Party, and the Peykar Organization. Regarding
+    this case, the United Nations' report indicates that Mr. Bahman Ebrahimi
+    was executed in the city of Mashad in the province of Khorasan in November
+    1988. Arrest and detention The circumstances of this defendant s arrest
+    and detention are not known. Trial No information is available on the
+    defendant s trial. Charges The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. Evidence of guilt The report of this execution
+    does not contain information regarding the evidence provided against the
+    defendant. Defense No information is available on Mr. Ebrahimi's defense.
+    Judgment No information is available about the verdict.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/32822/bahman-ebrahimi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

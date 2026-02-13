@@ -1,0 +1,38 @@
+id: dabat-havilush-1980
+name_latin: "Havilush Dabat"
+name_farsi: "هوینوش دبات"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-07-21
+age_at_death: null
+place_of_death: "Dezful"
+province: "Khuzestan"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    According to Tehran newspaper Jomhuri Eslami, the Islamic Revolutionary
+    Tribunal of Ahvaz found Mr. Havilush Dabat guilty of "corruption on earth"
+    allegedly for "leading the sabotage operation in the bombings of
+    Sabzab-Andimeshk train and three oil pipelines in Shush". The communique
+    from the Islamic Revolutionary Tribunal of Ahvaz claimed that Mr. Dabat
+    died of "illness and mental discomfort" in prison a month and a half
+    before the sentence was carried out about the rest of the "sabotage
+    group". "However, since not all the members of the group were arrested
+    then and further investigations were still under way, for judicial
+    reasons, his death was kept secret until after the executions."
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/12930/havilush-dabat"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

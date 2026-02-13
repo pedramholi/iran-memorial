@@ -1,0 +1,46 @@
+id: baghi-abdolkarim-1980
+name_latin: "Abdolkarim Baghi"
+name_farsi: "عبد الکریم باغی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-06-27
+age_at_death: null
+place_of_death: "Ahvaz"
+province: "Khuzestan"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Mr. Abdolkarim Baghi, a driver, along with that of seven
+    other individuals, was reported in the Jomhuri Eslami daily (June 29,
+    1980) Arrest and detention The circumstances of this defendant’s arrest
+    and detention are not known. Trial No information is available on Mr.
+    Baghi’s trial. Charges Based on the report, Mr. Baghi was charged with the
+    following: “being active in a terrorist network against the Islamic
+    Republic”, “illegal bordercrossing to Iraq and smuggling arms”,
+    “participation in an unsuccessful attempt to explode an electricity
+    transformer”, “assistance in the explosion of oil pipelines”, “continuing
+    terrorist operations despite the execution of his collaborators”, and
+    “penetrating the Islamic Revolutionary Guard headquarters in Ahvaz as a
+    spy and a conduit for Iraq.” Evidence of guilt The verdict was based on
+    investigations of the Revolutionary Guards and the Revolutionary Public
+    Prosecution Office, as well as testimonies of trusted and informed
+    sources. Defense No information is available on the accused’s defense.
+    Judgment Based on the report, Mr. Baghi was sentenced to death at the
+    Islamic Revolutionary Tribunal of Ahvaz. The sentence was carried out in
+    the city at dawn.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/12742/abdolkarim-baghi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

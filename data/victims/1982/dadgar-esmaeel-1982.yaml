@@ -1,0 +1,51 @@
+id: dadgar-esmaeel-1982
+name_latin: "Esmaeel Dadgar"
+name_farsi: "اسماعیل دادگر"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1982-07-18
+age_at_death: null
+place_of_death: "Esfahan"
+province: "Esfahan"
+cause_of_death: "Fatal"
+circumstances: >
+    The execution of Mr. Esmaeel Dadgar, along with three others, was
+    announced in a communiqué from the public relations office of the Islamic
+    Revolution’s Public Prosecutor’s Office. The communiqué was reported in
+    the Jomhuri Eslami Daily on July 24, 1982. Arrest and detention The
+    circumstances of this defendant’s arrest and detention are not known.
+    Trial No information is available on the defendant’s trial. Charges
+    According to this communiqué, Mr. Dadgar was charged with membership in
+    the Mujahedin-e Khalq Organization (MKO), “being the deputy chief for the
+    MKO military wing in Esfahan, participating in armed car robbery,
+    masterminding the assassinations of Habib Khalifeh Soltani and
+    Hojatolislam Salek along with those of Hojatolislam Beheshtinezhad, the
+    religious judge in Shiraz, his little nephew and Mehdi Hanaeenezhad (a
+    revolutionary guard and an engineer), throwing grenades at the Islamic
+    Revolution Guards Corps in Tukhji, assassinating two members of the Basij
+    Force (a para military security force) in Seyed Mosque, assassinating
+    another Basij member as well as a revolutionary guard on Tir street, and
+    supporting the MKO political and military positions.” Evidence of guilt
+    The report of this execution does not contain information regarding the
+    evidence provided against the defendant. Defense No information is
+    available on Mr. Dadgar's defense. Judgment Mr. Dadgar was declared an
+    enemy of God and the Prophet, a corruptor on earth as well as an insurgent
+    and was sentenced to death. There is no reference to the court which
+    issued the death sentence in this report.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/31115/esmaeel-dadgar"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

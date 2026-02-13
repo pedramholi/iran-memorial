@@ -1,0 +1,50 @@
+id: bayati-iraj-sham-1980
+name_latin: "Iraj Sham Bayati"
+name_farsi: "ایرج شام بیاتی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-08-24
+age_at_death: null
+place_of_death: "Sari"
+province: "Mazandaran"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Mr. Iraj Sham Bayati and two others was reported by the
+    Pars News Agency correspondent in Sari. The report was published in the
+    Jomhuri Eslami daily (August 24, 1980). The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic s authorities have brought trumped up charges against
+    their political opponents and executed them for drug trafficking, sexual,
+    and other criminal offences. Each year, Iranian authorities sentence to
+    death hundreds of alleged common criminals, following judicial processes
+    that fail to meet international standards. The exact number of people
+    convicted based on trumped-up charges is unknown. Arrest and detention
+    There is no information available on the circumstances of Mr. Sham Bayati
+    s arrest and detention in this report. Trial The report provided no
+    information on Mr. Sham Bayati s trial. Charges Based on the report, the
+    defendant was charged with attacking Kelar Abad s National Bank. No
+    specific information about the nature and outcomes of the attack was
+    provided in the report. Evidence of guilt There is no information
+    available on the evidence presented against the defendant. Defense No
+    information on the accused s defense is available. Judgment The Islamic
+    Revolutionary Tribunal of Tonekabon sentenced Mr. Sham Bayati to death. He
+    was executed immediately.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/15722/iraj-sham-bayati"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

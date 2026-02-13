@@ -1,0 +1,54 @@
+id: najari-esmaeel-satari-1983
+name_latin: "Esmaeel Satari Najari"
+name_farsi: "اسماعیل ستاری نجاری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1983-12-07
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Fatal"
+circumstances: >
+    The execution of Mr. Esmaeel Satari Najari, along with nineteen others,
+    was announced in a communiqu from the Anti-Narcotics Section of the Public
+    Prosecutor s Office in Tehran. This communiqu was reported in the Jomhuri
+    Eslami Daily on December 8, 1983. Arrest and detention The circumstances
+    of this defendant s arrest and detention are not known. Trial No
+    information is available on the defendant s trial. Charges According to
+    the official communiqu , Mr. Satari Najari was charged with being
+    consistently and actively involved in the purchase and distribution of
+    heroin, possessing 108.50 centigram of heroin when arrested, confessing to
+    buying packages of 100 gm of heroin and selling them in packages of 5 gm,
+    and having a previous record of robbery as well as purchasing and
+    distributing heroin. The validity of the criminal charges brought against
+    this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that the Islamic Republic s
+    authorities have brought trumped up charges against their political
+    opponents and executed them for drug trafficking, sexual, and other
+    criminal offences. Thousands of alleged drug traffickers have been
+    sentenced to death following judicial processes that fail to meet
+    international standards. The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against the defendant. Defense No information is available on Mr. Satari
+    Najari s defense. Judgment One of the tribunals of the Anti-Narcotics
+    Section of the Public Prosecutor s Office in Tehran sentenced Mr. Satari
+    Najari to death. The sentence was carried out at dawn.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/29175/esmaeel-satari-najari"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

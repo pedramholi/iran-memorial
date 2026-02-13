@@ -1,0 +1,53 @@
+id: purmusa-mohammad-reza-1982
+name_latin: "Mohammad Reza Purmusa"
+name_farsi: "محمدرضا پورموسی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1982-12-11
+age_at_death: null
+place_of_death: "Iran"
+province: null
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Colonel Mohammad Reza Purmusa, along with five others,
+    was reported in the Jomhuri Eslami daily on December 11, 1982. The
+    information about his charges was published in the same newspaper on June
+    30, 1982. Mr. Purmusa was a member of the Nima Group, which was formed by
+    officers of the Iranian army after the 1979 revolution. The charges
+    brought in court against some members referred to their nationalistic
+    views (including relationship and cooperation with members of the
+    pro-Mossadeq National Front) and the existence of a Nima military, as well
+    as a political branch. No other background information is available on the
+    group. Nureddin Kianuri, Secretary General of the Tudeh Parti (the Iranian
+    pro-Soviet communist party), mentions Nima in an article dated May 2,
+    2000, (www.rahetudeh.com). Kianuri stresses the fact that the military
+    branch of the Tudeh , which cooperated with the Islamic Republic's
+    authorities, discovered and "neutralized" the above mentioned group, as
+    well as other groups that planned a coup against the newly established
+    regime. Arrest and detention The circumstances of this defendant’s arrest
+    and detention are not known. Trial No information is available on the
+    defendant’s trial. Charges Colonel Purmusa was reported to be charged with
+    being a member of the Nima group Also, it is mentioned in the indictment
+    that he had nationalistic opinions. Evidence of guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against the defendant. Defense No information is available on Colonel
+    Purmusa’s defense. Judgment The Revolutionary Tribunal of the Islamic
+    Republic of Iran Army sentenced Colonel Purmusa to death. Having been
+    confirmed by the Supreme Court, the sentence was carried out.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/35637/mohammad-reza-purmusa"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

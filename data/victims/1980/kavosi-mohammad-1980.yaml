@@ -1,0 +1,48 @@
+id: kavosi-mohammad-1980
+name_latin: "Mohammad Kavosi"
+name_farsi: "محمد کاوسی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-07-15
+age_at_death: null
+place_of_death: "Mashhad"
+province: "Khorasan\\Khorasan-e Razavi"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Mr. Mohammad Kavosi was reported in the Jomhuri Eslami
+    daily (July 16, 1980) The validity of the criminal charges brought against
+    this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that the Islamic Republic’s
+    authorities have brought trumped up charges against their political
+    opponents and executed them for drug trafficking, sexual, and other
+    criminal offences. Each year, Iranian authorities sentence to death
+    hundreds of alleged common criminals, following judicial processes that
+    fail to meet international standards. The exact number of people convicted
+    based on trumped-up charges is unknown. Arrest and detention The
+    circumstances of this defendant’s arrest and detention are not known.
+    Trial No information is available on Mr. Kavosi’s trial. Charges Based on
+    the report, Mr. Kavosi was charged with “several armed robberies in the
+    Kalat and Dargaz regions” and “having various criminal records.” Evidence
+    of guilt The report of this execution does not contain information
+    regarding the evidence provided against the defendant. Defense No
+    information is available on Mr. Kavosi’s defense. Judgment Based on the
+    report, the Islamic Revolutionary Tribunal of Mashhad sentenced Mr. Kavosi
+    to death. He was executed at two in the morning.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/12901/mohammad-kavosi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

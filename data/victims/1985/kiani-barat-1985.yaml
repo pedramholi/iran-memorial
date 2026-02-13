@@ -1,0 +1,52 @@
+id: kiani-barat-1985
+name_latin: "Barat Kiani"
+name_farsi: "برات کیانی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1985-06-26
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Fatal"
+circumstances: >
+    The executions of Mr. Barat Kiani, son of Ja’far, and another defendant
+    were reported in the Kayhan daily on April 20, 1985. Arrest and detention
+    The circumstances of this defendant’s arrest and detention are not known.
+    Trial No information is available on the defendant’s trial, except that
+    Mr. Kiani was tried at Branch 137 of the Penal Court of Tehran. Charges
+    According to this report, Mr. Kiani was charged with “participation in a
+    first-degree murder, storing an unauthorized weapon, threatening with a
+    weapon and adultery with the victim’s wife.” The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic’s authorities have brought trumped-up charges against
+    their political opponents and executed them for drug trafficking, sexual,
+    and other criminal offences. Each year, Iranian authorities sentence to
+    death hundreds of alleged common criminals, following judicial processes
+    that fail to meet international standards. The exact number of people
+    convicted based on trumped-up charges is unknown. Evidence of guilt The
+    report of this execution does not contain information regarding the
+    evidence provided against the defendant. Defense No information is
+    available on Mr. Kiani’s defense. Judgment Branch 137 of the Penal Court
+    of Tehran sentenced Mr. Kiani to death. The Supreme Court approved the
+    verdict and Mr. Barat Kiani was executed in Qasr prison on June 26, 1985.
+    According to the newspaper report, “The victim’s wife was sentenced to 50
+    lashes and a prison term of eight and half years.”
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/44186/barat-kiani"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

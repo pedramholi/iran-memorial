@@ -1,0 +1,44 @@
+id: khaksar-iran-1983
+name_latin: "Iran Khaksar"
+name_farsi: "ایران خاکسار"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1983-01-01
+age_at_death: 29
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The information about Ms. Iran Khaksar was sent to Omid by a former
+    cell-mate through an electronic form. She was born in 1954 in Tehran, was
+    a sympathizer of the Komaleh organization. She studied at Tehran
+    University Law School. Her husband was also executed. Arrest and detention
+    Ms. Khaksar was arrested in August 1982 in Tehran. She was detained in the
+    Joint Anti-Sabotage Committee and the headquarters of the Revolutionary
+    Guards. She was denied visitors. The first time, her cellmate saw her in
+    prison, her feet had been lashed and she was unable to walk properly.
+    Trial No information is available on the defendant’s trial, other than it
+    took place at the Joint Committee. Charges Ms. Khaksar was charged with
+    membership in the Komaleh organization. Evidence of guilt The report of
+    this execution does not contain information regarding the evidence
+    provided against the defendant. Defense No information is available on Ms.
+    Khaksar’s defense. She was denied a defense attorney. Judgment There is no
+    information on the verdict leading to this execution. Ms. Khaksar was
+    executed in Evin prison in October 1983. She was 29 years old.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-5351/iran-khaksar"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

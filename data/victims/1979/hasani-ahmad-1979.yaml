@@ -1,0 +1,53 @@
+id: hasani-ahmad-1979
+name_latin: "Ahmad Hasani"
+name_farsi: "احمد حسنی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1979-05-08
+age_at_death: null
+place_of_death: "Tehran Province"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    Mr. Ahmad Hosseini, the chief of a SAVAK patrol unit, is one of 438
+    victims listed in a March 13, 1980 Amnesty International report. The
+    report lists defendants who were convicted by Revolutionary Tribunals in
+    the period from their inception until 12 August 1979. The list of victims
+    and charges is drawn from sources including translations of indictments,
+    reports of trials carried out by local and foreign media and the bulletins
+    of the official Pars News Agency reports. International human rights
+    organizations have drawn attention to reports indicating that the Islamic
+    Republic’s authorities have executed individuals on trumped up charges
+    such as drug trafficking, sexual, and other criminal offences. The exact
+    number of people convicted based on trumped-up charges is unknown. Arrest
+    and detention No information regarding the defendant's arrest and
+    detention is available. Trial Amnesty International's report on this
+    execution contains no information regarding the defendant's identity or
+    trial. Charges The charges against Mr. Hosseini, as listed in the report,
+    are: corruption on earth; war on God; war on God's prophet and the deputy
+    Imam Zaman; war against the representative of the Twelfh Imam; insulting
+    the religious groups, Insulting the Imam,insulting Muslim prisoners;
+    slander and injury to the people; mass murder; torture. The validity of
+    the criminal charges brought against this defendant cannot be ascertained
+    in the absence of the basic guarantees of a fair trial. Evidence of guilt
+    No information is available on the evidence presented against Mr.
+    Hosseini. Defense No information is available regarding the defense of the
+    accused. Judgment The defendant was sentenced to death and executed. No
+    other details are available.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-3708/ahmad-hasani"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

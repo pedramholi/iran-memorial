@@ -1,0 +1,40 @@
+id: dabat-abbas-1980
+name_latin: "Abbas Dabat"
+name_farsi: "عباس دبات"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-07-21
+age_at_death: null
+place_of_death: "Dezful"
+province: "Khuzestan"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Mr. Abbas Dabat was reported along with five others by
+    the correspondent of the Jomhuri Eslami daily in Ahvaz (July 22, 1980).
+    Arrest and detention No information is available on the circumstances of
+    this defendant’s arrest and detention. Trial No information is available
+    on Mr. Dabat’s trial. Charges According to the report, Mr. Dabat was
+    charged with “participation in the train explosion at the Sabzab-Andimeshk
+    station” and “membership in a sabotage network.” Evidence of guilt The
+    report does not contain any information about the evidence presented
+    against the defendant. Defense No information is available on the
+    defendant’s defense. Judgment The Islamic Revolutionary Tribunal of Ahvaz
+    found Mr. Dabat and the other five defendants guilty of “corruption on
+    earth.” They were executed at 10 a.m.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/12928/abbas-dabat"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

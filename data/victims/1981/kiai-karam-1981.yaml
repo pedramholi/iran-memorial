@@ -1,0 +1,45 @@
+id: kiai-karam-1981
+name_latin: "Karam Kiai"
+name_farsi: "کرم کیائی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-12-04
+age_at_death: null
+place_of_death: "Karaj"
+province: "Tehran"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Mr. Karam Kiai of Qazvin, a resident of Karaj, and three
+    others was announced in a communique of the public relations office of the
+    Chief Public Prosecutor on December 6, 1981(Jomhuri Eslami daily). Arrest
+    and detention The circumstances of this defendant’s arrest and detention
+    are not known. Trial No information is available on the defendant’s trial.
+    Charges Mr. Kiai was charged with "membership in a team house and in the
+    military branch", "working in a printing house for the benefit of the
+    Monafeqin [hypocrites; term used by the Islamic Republic to refer to the
+    members of the People's Mojahedin of Iran] organization", "having a prior
+    detention record in Qazvin", "more than 7 instances of throwing hand
+    grenades and shooting at revolutionary guards", "injuring one of the
+    Muslim residents of Karaj and stealing his car", and "complete belief in
+    the Monafeqin’s armed action." Evidence of guilt No details of evidence
+    presented against Mr. Kiai are available. Defense No information is
+    available on Mr. Kiai's defense. Judgment The Islamic Revolutionary
+    Tribunal of Karaj declared Mr. Kiai guilty of "corruption on earth",
+    "waging war against God", and "rebellion." He was sentenced to death.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/11326/karam-kiai"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

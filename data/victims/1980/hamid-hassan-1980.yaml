@@ -1,0 +1,55 @@
+id: hamid-hassan-1980
+name_latin: "Hassan Hamid"
+name_farsi: "حسن حمید"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-07-14
+age_at_death: null
+place_of_death: "Rasht"
+province: "Gilan"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of Mr. Hassan Hamid was announced by the Islamic
+    Revolutionary Guard headquarters of Rasht. The Jomhuri Eslami daily
+    published the announcement along with a communiqu of the Islamic
+    Revolutionary Tribunal regarding this case (July 16, 1980). The communiqu
+    ends as follows: In bringing about the painful clash of Gilan University,
+    leftist, rightist and Monafeq [hypocrites, referring to the People s
+    Mojahedin of Iran] grouplets were involved, and the above-mentioned
+    defendant was an ally of these treacherous grouplets. The clash resulted
+    in the martyrdom of a number of pure Muslim youths who had responded to
+    their president's call and rushed to the university to wipe off the germs
+    of the rotten imperialist culture and replace it with rich Islamic
+    culture. Arrest and detention The circumstances of this defendant s arrest
+    and detention are not known. Trial There is no information available on
+    the circumstances of Mr. Hamid s trial. Charges According to the communiqu
+    , the defendant was charged with uprising against the people and the
+    sovereignty of the Islamic Republic. Evidence of guilt The communiqu
+    mentions that the verdict was issued based on the defendant s own
+    confession regarding finding and keeping a large knife on the day of the
+    university unrest, as well as the witnesses testimonies as follows: He has
+    been actively resisting the zealous, freedom-loving, and Muslim people of
+    Gilan, resulting in assault and battery and even martyrdom of a few,
+    despite the laws of the Islamic Revolutionary Council, orders of the
+    Republic, and confirmation of the leader of the Revolution, Imam Khomeini.
+    Defense No information is available on Mr. Hamid s defense. Judgment Based
+    on the communiqu , the Islamic Revolutionary Tribunal of Gilan found Mr.
+    Hamid guilty of waging war against God and his prophet. He was executed at
+    dawn.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/12898/hassan-hamid"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

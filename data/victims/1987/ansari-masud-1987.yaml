@@ -1,0 +1,74 @@
+id: ansari-masud-1987
+name_latin: "Mas'ud Ansari"
+name_farsi: "مسعود انصاری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1987-05-04
+age_at_death: 30
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The information about Mr. Mas'ud Ansari is based on an interview with his
+    sister. He was born in Khorramabad in 1957 and had two children. He was a
+    student in Tehran Polytechnic University and a sympathizer of the Fadaiyan
+    Khalq Organization. He was arrested once in Khorramabad in August of 1980.
+    He was condemned to six months imprisonment for being a member of the
+    Fadaiyan Khalq Majority, but he was released after four months. The
+    Fadaiyan Khalq Organization, a Marxist Leninist group, inspired by the
+    Cuban Revolution and the urban guerilla movements of Latin America, was
+    founded in 1971 by two communist groups opposed to the Pahlavi regime.
+    Following the 1979 Revolution, the Organization, which had renounced armed
+    struggle, split over their support of the Islamic Republic and of the
+    Soviet Union. The Fadaiyan Khalq Majority considered the Islamic Republic
+    as a revolutionary and anti-imperialist regime and supported it. After the
+    spring of 1983, however, the Islamic Republic targeted its members solely
+    because of their political beliefs. Arrest and detention Mr. Mas'ud Ansari
+    was arrested in Tehran while going to a house for a meeting on October 20,
+    1984. The house was surrounded by Revolutionary Guards. They beat him
+    severely before arresting him. According to the interviewee, he told the
+    family later about the circumstances of his arrest. He was held at the
+    Joint Committee, Khorramabad prison, and Evin prison. Five months after
+    his arrest, he had a visit from his mother. During this visit, the marks
+    of torture and signs of solitary confinement were evident on his body.
+    According to his sister, he was tortured severely at the Joint Committee
+    and at Khorramabad prison in such a way that he lost his psychological
+    balance and his memory, and suffered from severe headaches. During a visit
+    with his wife after returning from Khorramabad, he did not recognize her
+    and spoke gibberish. According to one of his cellmates, he was given
+    tranquilizers and slept most of the time. Trial No information is
+    available on the defendant’s trial. According to his sister quoting a
+    cellmate, one day Mr. Ansari returned from interrogation and told his
+    cellmate that he hit his interrogator. Shortly after, his name was called
+    and he was executed. Charges No information is available on Mas'ud
+    Ansari's charges. Evidence of guilt The report of this execution does not
+    contain information regarding the evidence provided against the defendant.
+    Defense No information is available about his defense. Mr. Mas'ud Ansari
+    was denied the right to have an attorney. Judgment No specific information
+    is available about the defendant's execution sentence. According to his
+    sister quoting a cellmate, Mr. Mas'ud Ansari was executed by firing squad
+    at Evin prison on May 4, 1987. When his mother went to visit him at Evin,
+    the officials told her that he was buried in Khavaran cemetery. She went
+    to Khavaran and searched the fresh soil with her hands until she could
+    recognize her son's pants and finally saw his face. A few days later, she
+    put a metal plaque on the soil with her son's name engraved on it. After
+    some time, the regime's agents destroyed all the graves with a bulldozer.
+    Today, Mr. Ansari's mother has no idea about the location of her son's
+    remains.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/33587/masud-ansari"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

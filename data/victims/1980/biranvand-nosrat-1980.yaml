@@ -1,0 +1,48 @@
+id: biranvand-nosrat-1980
+name_latin: "Nosrat Biranvand"
+name_farsi: "نصرت بیران وند"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-06-27
+age_at_death: null
+place_of_death: "Ahvaz"
+province: "Khuzestan"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Ms. Nosrat Biranvand, along of that of 7 other
+    individuals, was reported in the Jomhuri Eslami daily (June 29, 1980)
+    Arrest and detention The circumstances of this defendant s arrest and
+    detention are not known. Trial No information is available on Ms.
+    Biranvand s trial. Charges Based on the report, Ms. Biranvand was charged
+    with the following: selling herself , bringing women and girls from
+    different cities around the country and exploiting them , and establishing
+    various Houses of Corruption for many years. The validity of the criminal
+    charges brought against defendants cannot be ascertained in the absence of
+    the basic guarantees of a fair trial. International human rights
+    organizations have drawn attention to reports indicating that the Islamic
+    Republic s authorities have brought trumped up charges against their
+    political opponents and executed them for drug trafficking, sexual, and
+    other criminal offences. The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of guilt The report of this
+    execution does not contain any information regarding the evidence
+    presented against the defendant. Defense No information is available on
+    the accused s defense. Judgment Ms. Biranvand was sentenced to death and
+    confiscation of her belongings at the Islamic Revolutionary Tribunal of
+    Ahvaz. The sentence was carried out in the city at dawn.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/12747/nosrat-biranvand"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

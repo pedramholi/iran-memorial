@@ -1,0 +1,54 @@
+id: niku-hassan-afshari-1982
+name_latin: "Hassan Afshari Niku"
+name_farsi: "حسن افشاری نیکو"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1982-01-01
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    Information about Mr. Hassan Afshari Niku has been taken from an
+    electronic form sent to Omid by an individual familiar with this case who
+    was a wife’s cellmate. Mr. Afshari Niku began his political activism when
+    he enrolled at the Sharif University of Technology before the 1979
+    Revolution. He opposed the monarchy and joined the Rah-e Kargar
+    organization. First he was active in the labor section and later in
+    students’ section of the Organization. Some time before his arrest, he
+    left the Organization due to disagreement with its policies; and he was no
+    longer politically active. “Rah-e Kargar” or the “Revolutionary Workers
+    Organization of Iran” was established in the summer of 1979. The
+    Organization was founded by individuals from various leftist groups who
+    rejected the idea of armed struggle and believed in political action. They
+    identified themselves as Marxist-Leninists, promoting a socialist
+    revolution and the leadership of the proletariat. They differed with the
+    pro-Soviet communist party, Tudeh, in that they opposed the Islamic
+    Republic and Ayatollah Khomeini’s leadership. Arrest and detention Mr.
+    Afshari Niku was arrested in the winter of 1982, along with his wife, and
+    taken to Evin prison. The details of his arrest and detention are not
+    known. He was kept incommunicado and was denied the right to be
+    represented by an attorney. Trial There is no information regarding this
+    trial. Charges The charges brought against the defendant are not known.
+    Evidence of guilt No information is available concerning the evidence
+    presented against the accused. Defense No information is available
+    concerning Mr. Afshari Niku’s defense. Judgment No specific information is
+    available about the verdict leading to this execution. Mr. Hassan Afshari
+    Niku was executed in Evin prison in the summer of 1982.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/41534/hassan-afshari-niku"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

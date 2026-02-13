@@ -1,0 +1,50 @@
+id: fatemi-mariam-1982
+name_latin: "Mariam Fatemi"
+name_farsi: "مریم فاطمی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1982-01-01
+age_at_death: 30
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The information regarding Ms. Mariam Fatemi’s execution was sent to Omid
+    via an electronic form by a person familiar with the case. Her husband was
+    executed at the same time. This execution was also reported in an addendum
+    to the Mojahed magazine (No 261), published by Mojahedin Khalq
+    Organization in 1985. The list includes 12028 individuals, affiliated with
+    various opposition groups, who were executed or killed during clashes with
+    the Islamic Republic security forces from June 1981 to the publication
+    date of the magazine. Arrest and detention According to the form, Ms.
+    Fatemi was arrested by the Revolutionary Guards in Tehran in February
+    1982. She was detained at the Evin Prison, first in solitary confinement
+    and then taken to section 240 of the Prison. She was detained for about a
+    month before her execution and was not allowed legal representation or
+    visitation with her family. She was repeatedly tortured while in prison
+    and had to be sent to the Prison hospital for her injuries. Trial Based on
+    the available information, Ms. Fatemi was tried at the Evin Prison in
+    February 1982. She had no lawyer or access to her file. No further
+    information is available regarding her trial. Charges The charges brought
+    against Ms. Fatemi are not known. Evidence of guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against the defendant. Defense No information is available on Ms. Fatemi's
+    defense. Judgment Ms. Fatemi was sentenced to death and in the absence of
+    an appeal process, she was executed at the Evin Prison in the March 1982.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4129/mariam-fatemi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

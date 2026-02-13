@@ -1,0 +1,58 @@
+id: kashani-azam
+name_latin: "A'zam Kashani"
+name_farsi: "اعظم کاشانی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam (Shi'a)"
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: 25
+place_of_death: "Iran"
+province: null
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    Ms. A’zam Kashani is one of the 1533 executed prisoners listed by the
+    Association of Iranian Women of Köln (Germany). The list published in 1997
+    is entitled: "A partial list of names of women executed by the Islamic
+    Republic of Iran. This execution was also reported in an addendum to the
+    Mojahed magazine (No 261), published by Mojahedin Khalq Organization (MKO)
+    in 1985. The list includes 12028 individuals, affiliated with various
+    opposition groups, who were executed or killed during clashes with the
+    Islamic Republic security forces from June 1981 to the publication date of
+    the magazine. Further information was sent to Omid via an electronic form
+    by a person familiar with the case. Ms. Kashani was very active in the
+    Mojahedin Khalq Organization and according to the form she was a member of
+    the Organization. Her 2 sisters and brother were also arrested in 1981. On
+    the addendum of the Mojahed magazine it is mentioned that Ms. Kashani had
+    been killed during an armed clash with the Revolutionary Guards. On the
+    form, however, it is stated that Ms. Kashani was injured during the clash,
+    but later taken to prison and executed. The sender of the form, points out
+    to a testimony of one of the prisoners who recalled seeing a note written
+    on the prison wall saying “My name is A’zam Kashani, I was tried on the
+    [unknown date] and sentenced to death.” Arrest and detention Based on the
+    information available on the form, Ms. Kashani, along with her mother, was
+    arrested during an armed clash with the Revolutionary Guards at a
+    Mojahedin team house in the Tehranpars area in 1982. Ms. Kashani was
+    injured during the clash, and her mother, who had lost consciousness, did
+    not see her after the incident. Her family was not notified of the
+    location of her detention. Trial No information is available on the
+    defendant’s trial. Charges The charges against this defendant are not
+    known. Evidence of guilt The report of this execution does not contain
+    information regarding the evidence provided against the defendant. Defense
+    No information is available on Ms. Kashani's defense. Judgment No specific
+    information regarding the death sentence is available.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4142/azam-kashani"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

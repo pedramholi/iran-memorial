@@ -1,0 +1,48 @@
+id: hosseinpur-mohammad-1981
+name_latin: "Mohammad Hosseinpur"
+name_farsi: "محمد حسین پور"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-12-07
+age_at_death: null
+place_of_death: "Orumieh"
+province: "Azarbaijan-e Gharbi"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of Mr. Mohammad Hosseinpur, along with fourteen others, was
+    reported in the Jomhuri Eslami daily, quoting a communiqué from the
+    Islamic Revolutionary of Orumieh. Arrest and detention The circumstances
+    of this defendant’s arrest and detention are not known. Trial No
+    information is available on the defendant’s trial. Charges In this
+    communiqué, Mr. Hosseinpur’s charges were not specifically mentioned. He
+    and fourteen others were generally charged with “armed insurrection
+    against the Islamic Republic of Iran and the Imam of the Ummah, membership
+    in a banned Democratic group, participation in clashes, armed riots in
+    Kurdestan and illegal demonstrations, ambushing, killing and burning the
+    Revolutionary Guards and the forces in the army as well as martyring them
+    during the clashes in darlak- Kuseh Kahrir- Inderqash- Tapeh Safaie-
+    bardimesh and the internal clashes of Mahabad, for instance at Ard square,
+    Azadi crossroads, Gavaznha Square and the Police Headquarters of Mahabad.”
+    Evidence of guilt The report of this execution does not contain
+    information regarding the evidence provided against the defendant. Defense
+    No information is available on Mr. Hosseinpur’s defense. Judgment The
+    Islamic Revolutionary Tribunal of Orumieh declared Mr. Hosseinpur an enemy
+    of God, the Prophet, and the people and sentenced him to death, based on
+    the confessions and evidence. The sentence was carried out.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/24036/mohammad-hosseinpur"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

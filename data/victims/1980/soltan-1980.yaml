@@ -1,0 +1,48 @@
+id: soltan-1980
+name_latin: "Soltan"
+name_farsi: "سلطان"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-07-25
+age_at_death: null
+place_of_death: "Mashhad"
+province: "Khorasan\\Khorasan-e Razavi"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of this individual, referred to as Soltan, was reported by
+    the correspondent of the Jomhuri Eslami daily in Mashhad (July 26, 1980).
+    Arrest and detention The circumstances of this defendant s arrest and
+    detention are unknown. Trial No information is available on Soltan s
+    trial. Charges Based on the report, the defendant was charged with armed
+    robbery through creating terror and harassment and inhuman acts as well as
+    sexually assaulting a married woman. The validity of the criminal charges
+    brought against these defendants cannot be ascertained in the absence of
+    the basic guarantees of a fair trial. International human rights
+    organizations have drawn attention to reports indicating that the Islamic
+    Republic s authorities have brought trumped up charges against their
+    political opponents and executed them for drug trafficking, sexual, and
+    other criminal offences. Each year, Iranian authorities sentence to death
+    hundreds of alleged common criminals, following judicial processes that
+    fail to meet international standards. The exact number of people convicted
+    based on trumped-up charges is unknown. Evidence of guilt The report did
+    not contain any information regarding the evidence presented against the
+    defendant. Defense No information is available on the defendant s defense.
+    Judgment The Islamic Revolutionary Tribunal of Mashhad sentenced this
+    individual to death to death. He was executed at dawn.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/12972/soltan"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

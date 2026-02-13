@@ -1,0 +1,65 @@
+id: iravani-habibollah-1980
+name_latin: "Habibollah Iravani"
+name_farsi: "حبیب‌الله ایروانی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: null
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-01-01
+age_at_death: 66
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The information regarding Mr. Habibollah Irvani has been drawn from an
+    electronic form sent to Omid by an individual familiar with this case. Mr.
+    Irvani was born in Tehran in 1914 and worked as an entertainer for
+    weddings and parties, acting in ruhozi plays. He was married with
+    children. The sender of the form remembers Mr. Irvani as gentle, simple,
+    and sincere. Ruhozi ( over-the-pool ) theatre has roots in Iranian urban
+    culture. It was generally performed at celebrations and weddings. The
+    actors put wooden planks over the pool in the yard so that the audience
+    can better see the stage. One of the characteristics of this genre of
+    theatre is improvised lyrics about social issues, at times critical of
+    social problems, accompanied by rhythmic music and dance. Today this genre
+    of music is on the verge of extinction. Arrest and detention The exact
+    circumstances of Mr. Irvani s arrest and detention are not known. He was
+    arrested in his house on Molavi Street in Tehran and detained in Qasr
+    prison. Trial There is no information regarding this trial, other than the
+    accused was tried by Ayatollah Khalkhali. Charges Mr. Irvani was charged
+    with international drug trafficking . The validity of the criminal charges
+    brought against this defendant cannot be ascertained in the absence of the
+    basic guarantees of a fair trial. Evidence of guilt According to the
+    electronic form, there was no evidence to prove the alleged charge.
+    Defense No information is available concerning Mr. Irvani s defense. The
+    sender of the electronic form states that Mr. Khalkhali did not understand
+    the word defense. This individuals asserts the reasoning behind the
+    sentence was that such minstrels would spread debauchery and corruption
+    and should be eradicated. The sender of the form goes on to say that Mr.
+    Irvani was falsely charged with international drug trafficking even though
+    he would sometimes get lost traveling through Tehran. The sender of the
+    form emphasizes that Mr. Irvani was not wealthy and lived in a rented
+    shanty , and was condemned to death solely for his profession. Judgment No
+    specific information is available about the verdict leading to this
+    execution. According to the form, one day very early in the morning, Mr.
+    Irvani felt very cold in prison and asked for a blanket. The prison guard
+    left and returned a few minutes later and said that the judge wanted Mr.
+    Irvani to go and fetch a blanket. Mr. Irvani followed the guard into the
+    prison yard. The religion judge was waiting outside and told the jailer to
+    bring a rope to warm up the prisoner. Mr. Iravni was hanged in Qasr prison
+    in 1980.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/41908/habibollah-iravani"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,44 @@
+id: shirini-karim-1979
+name_latin: "Karim Shirini"
+name_farsi: "کریم شیرینی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1979-08-28
+age_at_death: null
+place_of_death: "Unknown"
+province: null
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    Mr. Karim Shirini was one of 20 Kurds executed in the Saqez Garrison on
+    the order of Ayatollah Khalkhali, according to Akhbare Rooz (Iranian
+    Political Bulletin) of November 3, 2003. The article, written after the
+    death of Ayatollah Khalkhali in Tehran, refers to executions of Kurds in
+    Sanandaj during the latter half of August, 1979. Ayatollah Khalkhali was
+    the religious judge sent by Tehran to Kurdistan at the time of these
+    executions. The article quotes reports from Kayhan and Ettela at dailies,
+    and from the Komeleh Party newsletter. The original report and a
+    photograph of the execution first appeared in Ettela'at, August 28, 1979
+    (6 Shahrivar 1358). Arrest and detention The circumstances of this
+    defendant s arrest and detention are not known. Trial No trial was held.
+    Charges No information about the charges against Mr. Shirini is available.
+    Evidence of guilt The report of this execution does not contain
+    information regarding the evidence provided against the defendant. Defense
+    No information is available about any defense offered by Mr. Shirini.
+    Judgment Mr. Shirini was executed on the order of Ayatollah Khalkhali.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4560/karim-shirini"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,43 @@
+id: chehri-nosratollah-1981
+name_latin: "Nosratollah Chehri"
+name_farsi: "نصرت الله چهری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-08-14
+age_at_death: 17
+place_of_death: "Kermanshah"
+province: "Kermanshah"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The information about Mr. Nosratollah Chehri was drawn from the website of
+    the People's Mojahedin of Iran Organization (PMIO). He was born in
+    Kermanshah. He was a high school student, a worker, and a sympathizer of
+    the Mojahedin Khalq Organization (MKO). Arrest and detention The
+    circumstances of this defendant s arrest and detention are not known. Mr.
+    Nosratollah Chehri was arrested and taken to Kermanshah Prison in the
+    summer of 1981. Trial No information is available on the defendant s
+    trial. Charges No information is available on Mr. Nosratollah Chehri s
+    charges. The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. Evidence of guilt The report of this execution contains no
+    evidence provided against the defendant. Defense No information is
+    available about his defense. Judgment Mr. Nosratollah Chehri was condemned
+    to death. He was executed by a firing squad in the Kermanshah prison on
+    August 14, 1981.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/38435/nosratollah-chehri"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

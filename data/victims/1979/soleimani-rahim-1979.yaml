@@ -1,0 +1,28 @@
+id: soleimani-rahim-1979
+name_latin: "Rahim Soleimani"
+name_farsi: "رحیم سلیمانی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1979-09-02
+age_at_death: null
+place_of_death: "Qarna"
+province: "Azarbaijan-e Gharbi"
+cause_of_death: "Arbitrary Execution"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/28837/rahim-soleimani"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

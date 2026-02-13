@@ -1,0 +1,49 @@
+id: paktiani-dorangol-1984
+name_latin: "Dorangol Paktiani"
+name_farsi: "دوران گل پاکتیانی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1984-07-18
+age_at_death: null
+place_of_death: "Zahedan"
+province: "Sistan Va Baluchestan"
+cause_of_death: "Fatal"
+circumstances: >
+    The execution of Mr. Dorangol Paktiani, along with thirteen others, was
+    reported in the Jomhuri Eslami daily on July 8, 1984. Arrest and detention
+    The circumstances of this defendant s arrest and detention are not known.
+    Trial No information is available on the defendant s trial. Charges
+    According to this report, Mr. Paktiani was charged with being actively
+    involved in supplying and distributing narcotics as well as distributing 2
+    kg of heroin. The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. International human rights organizations have drawn
+    attention to reports indicating that the Islamic Republic s authorities
+    have brought trumped up charges against their political opponents and
+    executed them for drug trafficking, sexual, and other criminal offences.
+    Thousands of alleged drug traffickers have been sentenced to death
+    following judicial processes that fail to meet international standards.
+    The exact number of people convicted based on trumped-up charges is
+    unknown. Evidence of guilt The report of this execution does not contain
+    information regarding the evidence provided against the defendant. Defense
+    No information is available on Mr. Paktiani s defense. Judgment The
+    Islamic Revolutionary Tribunal of Zahedan declared Mr. Paktiani a
+    corruptor on earth and sentenced him to death. Having been confirmed by
+    the Supreme Judicial Council, the sentence was carried out at night.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/31355/dorangol-paktiani"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

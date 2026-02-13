@@ -1,0 +1,47 @@
+id: sureh-qasem-ahmadnejad-1979
+name_latin: "Qasem Ahmadnejad Sureh"
+name_farsi: "قاسم احمدنژاد سوره"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1979-09-14
+age_at_death: null
+place_of_death: "Orumieh"
+province: "Azarbaijan-e Gharbi"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of Mr. Qasem Ahmadnejad Sureh and another individual was
+    reported by Pars News Agency in Orumieh. The Enqelab Eslami and Kayhan
+    newspapers published the news (September 15 and 16, 1979, respectively).
+    Arrest and detention The circumstances of this defendant s arrest and
+    detention are not known. Trial The trial was held on August 5, 1979, and
+    the deliberation reportedly lasted several days. Charges The defendant,
+    who had reportedly served the SAVAK (the National Intelligence and
+    Security Organization under the previous regime) for 16 years, was charged
+    with playing an effective role in suppressing the political activists ,
+    more specifically in arresting and interrogating 6 of the Kurdish
+    combatants of Kermanshah, all of whom were condemned to death prior to the
+    1979 Revolution. The validity of the criminal charges brought against this
+    defendant cannot be ascertained, given the absence of basic guarantees
+    provided in a fair trial. Evidence of guilt Based on the report, the
+    testimonies and complaints were heard. Defense The report referred to the
+    defendant s complete defense but provided no further information in this
+    regard. Judgment The Islamic Revolutionary Tribunal of Orumieh declared
+    Mr. Ahmadnejad Sureh a corruptor on earth and an enemy of God and
+    sentenced him to death. He was executed at dawn of September 14, 1979.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/24429/qasem-ahmadnejad-sureh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

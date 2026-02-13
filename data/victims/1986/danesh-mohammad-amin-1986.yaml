@@ -1,0 +1,45 @@
+id: danesh-mohammad-amin-1986
+name_latin: "Mohammad Amin Danesh"
+name_farsi: "محمد امین دانش"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1986-01-12
+age_at_death: null
+place_of_death: "Iranshahr"
+province: "Sistan Va Baluchestan"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Mr. Mohammad Amin Danesh was reported in a 1990 Report of
+    the Economic and Social Council of the United Nations on The Situation of
+    Human Rights in the Islamic Republic of Iran. 6 November 1990, A/45/697.
+    Arrest and detention The circumstances of this defendant’s arrest and
+    detention are not known. Trial No information is available on the
+    defendant’s trial. However it has been reported to the United Nations
+    special representative : " That trials before Islamic revolutionary courts
+    have usually taken place in secret, sometimes inside prisons, that
+    defendants have not usually enjoyed the right to be represented by a
+    lawyer, and often have not even been made aware that the proceedings were
+    in fact a trial and not an interrogation session". Charges The charges
+    brought against the defendant are not known. Evidence of guilt The report
+    of this execution does not contain information regarding the evidence
+    provided against the defendant. Defense No information is available on
+    this person's defense. Judgment It has been reported that Mr. Danesh was
+    executed on 12 January 1986 in Iranshahr and that his body was burned by
+    the Guardians of the revolution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/12706/mohammad-amin-danesh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

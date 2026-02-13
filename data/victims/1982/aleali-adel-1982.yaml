@@ -1,0 +1,46 @@
+id: aleali-adel-1982
+name_latin: "Adel Ale'ali"
+name_farsi: "عادل ال علی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1982-09-09
+age_at_death: null
+place_of_death: "Iran"
+province: null
+cause_of_death: "Fatal"
+circumstances: >
+    The executions of Mr. Adel Ale Ali and another individual were announced
+    in a communiqué by the Islamic Revolution’s Public Prosecutor’s Office in
+    Ahvaz, which was quoted in the Jomhuri Eslami newspaper on September 11,
+    1982. Arrest and detention The circumstances of this defendant’s arrest
+    and detention are not known. Trial No information is available on the
+    defendant’s trial. Charges Mr. Ale'ali was reported to be charged with
+    “frequent trips to Iraq, importing weapons and explosives in order to
+    collaborate with anti-Revolutionary forces in Iran, participation in
+    exploding oil pipelines located in Abadan-Ahvaz route, collaboration with
+    the Zionist-Baath aggressors and directing them during their occupation of
+    Khoramshahr, coming to Iran with the intention of spying, membership in
+    the Baath Party.” Evidence of guilt The report of this execution does not
+    contain information regarding the evidence provided against the defendant.
+    Defense No information is available on Mr. Ale'ali's defense. Judgment The
+    Islamic Revolutionary Tribunal of Ahvaz found Mr. Ale'ali guilty of being
+    rebellious against the righteous Imam, an enemy of God and the Prophet as
+    well as a corruptor on earth. Having been confirmed by the Supreme
+    Judicial Council, his death sentence was carried out by the repentants.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/28941/adel-aleali"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

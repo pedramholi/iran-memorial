@@ -1,0 +1,50 @@
+id: majomard-mohammad-ali-hatefi-1987
+name_latin: "Mohammad Ali Hatefi Majomard"
+name_farsi: "محمد علی هاتفی مجومرد"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1987-11-03
+age_at_death: null
+place_of_death: "Yazd"
+province: "Yazd"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Mr. Mohammad Ali Hatefi Majomard was reported in the
+    Kayhan newspaper on November 5, 1987. Arrest and detention The
+    circumstances of this defendant’s arrest and detention are not known.
+    Trial No information is available on the defendant’s trial, other than he
+    was tried at Branch 6 of the Public Penal Court of Yazd. Charges According
+    to the report, Mr. Hatefi Majomard was charged with “kidnapping, rape and
+    armed robbery.” The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. International human rights organizations have drawn
+    attention to reports indicating that the Islamic Republic’s authorities
+    have brought trumped-up charges against their political opponents and
+    executed them for drug trafficking, sexual, and other criminal offences.
+    Each year, Iranian authorities sentence to death hundreds of alleged
+    common criminals, following judicial processes that fail to meet
+    international standards. The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against the defendant. Defense No information is available on Mr. Hatefi
+    Majomard’s defense. Judgment Branch Six of the Penal Court of Yazd
+    sentenced Mr. Hatefi Majomard to death. The Supreme Judicial Counc
+    approved the verdict. He was executed at the prison of the Police
+    Department in the presence of some of the plaintiffs on November 3, 1987.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/44024/mohammad-ali-hatefi-majomard"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

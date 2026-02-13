@@ -1,0 +1,57 @@
+id: vali-mohammad-shafi-1981
+name_latin: "Mohammad Shafi' Vali"
+name_farsi: "محمد شفیع والى"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-01-01
+age_at_death: 32
+place_of_death: "Iran"
+province: null
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The information about Mr. Mohammad Shafi’ Vali is taken from the book Our
+    Martyrs for Freedom and Socialism by Rah-e Kargar Publications. He was an
+    Air Force technician. Before the revolution, he was affiliated with the
+    Fadaiyan Khalq Organization; but he disengaged from the Organization in
+    1976. He was one of the main organizers of the revolt against the Royal
+    Guards on February 10, 1979 (the night that the monarchy fell). After the
+    revolution, he joined the Revolutionary Workers Organization of Iran,
+    Rah-e Kargar. He and another Air Force technician, Hassan Tabataba’i, (who
+    was executed along with him) published the United Responsible Army
+    Personnel Publication. "Rah-e Kargar" or the "Revolutionary Workers
+    Organization of Iran" was established in the summer of 1979. The
+    Organization was founded by individuals from various leftist groups who
+    rejected the idea of armed struggle and believed in political action. They
+    identified themselves as Marxist-Leninists, promoting a socialist
+    revolution and the leadership of the proletariat. They differed with the
+    pro-Soviet communist party, Tudeh, in that they opposed the Islamic
+    Republic and Ayatollah Khomeini's leadership. Arrest and detention Mr.
+    Mohammad Shafi’ Vali was arrested on the street, along with another Air
+    Force technician, Hassan Tabataba’i, in September 1981. Trial No
+    information is available on the defendant’s trial. Charges No information
+    is available on Mr. Mohammad Shafi’ Vali’s charges. According to the above
+    source, when arrested, he was carrying packages of the Organization’s
+    publications. The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. Evidence of guilt The evidence brought against him may be
+    packages of the Organization’s publications that he was carrying at the
+    time of arrest. Defense No information is available about his defense.
+    Judgment According to the above source, without disclosing his full name,
+    Mr. Mohammad Shafi’ Vali was executed by a firing squad in 1981.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/38493/mohammad-shafi-vali"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

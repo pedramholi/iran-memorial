@@ -1,0 +1,48 @@
+id: nejad-hassan-behmanesh-1979
+name_latin: "Hassan Behmanesh Nejad"
+name_farsi: "حسن بهمنش نژاد"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1979-11-10
+age_at_death: null
+place_of_death: "Shiraz"
+province: "Fars"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of Mr. Hassan Behmaneshnejad was reported by the Kayhan
+    correspondent in Shiraz (November 11, 1979). The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic s authorities have brought trumped up charges against
+    their political opponents and executed them for drug trafficking, sexual,
+    and other criminal offences. Each year, Iranian authorities sentence to
+    death hundreds of alleged common criminals, following judicial processes
+    that fail to meet international standards. The exact number of people
+    convicted based on trumped-up charges is unknown. Arrest and detention The
+    circumstances of this defendant s arrest and detention are not known.
+    Trial No information is available on the defendant s trial. Charges Based
+    on this report, Mr. Behmaneshnejad was charged with raping a 6-year-old
+    girl. Evidence of guilt The report of this execution does not contain
+    information regarding the evidence provided against the defendant. Defense
+    No information is available on Mr. Behmaneshnejad's defense. Judgment The
+    Islamic Revolutionary Tribunal of Shiraz sentenced Mr. Behmaneshnejad to
+    death. The sentence was carried out at 11 p.m. in the shooting court of
+    the Adel Abad prison in Shiraz.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4011/hassan-behmanesh-nejad"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

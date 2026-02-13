@@ -1,0 +1,47 @@
+id: sarati-ahmad-1983
+name_latin: "Ahmad Sarati"
+name_farsi: "احمد ساراتی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1983-11-15
+age_at_death: 25
+place_of_death: "Bandar Abbas"
+province: "Hormozgan"
+cause_of_death: "Fatal"
+circumstances: >
+    The execution of Mr. Ahmad Sarati, along with three others, was reported
+    in the Jomhuri Eslami daily on November 16, 1983. Arrest and detention The
+    circumstances of this defendant s arrest and detention are not known.
+    Trial No information is available on the defendant s trial. Charges Mr.
+    Sarati was reportedly charged with drug trafficking and distribution. The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    International human rights organizations have drawn attention to reports
+    indicating that the Islamic Republic s authorities have brought trumped up
+    charges against their political opponents and executed them for drug
+    trafficking, sexual, and other criminal offences. Thousands of alleged
+    drug traffickers have been sentenced to death following judicial processes
+    that fail to meet international standards. The exact number of people
+    convicted based on trumped-up charges is unknown. Evidence of guilt The
+    report of this execution does not contain information regarding the
+    evidence provided against the defendant. Defense No information is
+    available on Mr. Sarati's defense. Judgment According to this report, Mr.
+    Sarati was declared a corruptor on earth and was executed. But there is no
+    information about the court which issued his death sentence in the report.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/29307/ahmad-sarati"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

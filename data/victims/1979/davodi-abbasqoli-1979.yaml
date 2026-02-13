@@ -1,0 +1,62 @@
+id: davodi-abbasqoli-1979
+name_latin: "Abbasqoli Davodi"
+name_farsi: "عباس قلی داودی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1979-04-09
+age_at_death: null
+place_of_death: "Ahmadabad Cemetery"
+province: "Khuzestan"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    Captain Abbas Qoli Davudi is one of 438 victims listed in a March 13, 1980
+    Amnesty International report. The report lists defendants who were
+    convicted by Revolutionary Tribunals in the period from their inception
+    until 12 August 1979. The list of victims and charges is drawn from
+    sources including translations of indictments, reports of trials carried
+    out by local and foreign media and the bulletins of the official Pars News
+    Agency reports. International human rights organizations have drawn
+    attention to reports indicating that the Islamic Republic’s authorities
+    have executed individuals on trumped up charges such as drug trafficking,
+    sexual, and other criminal offences. The exact number of people convicted
+    based on trumped-up charges is unknown. Arrest and detention No
+    information regarding the defendant's arrest and detention is available.
+    Trial Amnesty International's report on this execution contains no
+    information regarding the defendant's identity or trial. Charges The
+    charges against Captain Davudi, as listed in the Amnesty International
+    Report, are: insulting the religious groups, insulting Muslim prisoners,
+    insulting the Imam, insulting the pure clergymen and trying to discredit
+    them by calling them communists; violating the right of people. N.B. - On
+    8 May reports circulated in Iran and abroad that a defendant had been
+    executed for "insulting the Imam". (63) On 16 May Ayatollah Azar Qomi
+    denied this and said that "It is against religious law to sentence to
+    death for insulting the Imam..." (64) On 26 May, Ayatollah Khomeini issued
+    an edict banning anyone from insulting the clergy. The edict provided for
+    trial in a revolutionary tribunal and also made provision for the trial of
+    persons who "posed as clergymen for their own ends". (65) The offence of
+    "insulting the Imam" is included within List A, Category 2d as the source
+    of Amnesty International's information on this matter comes within the
+    category of material on which these lists have been compiled." The
+    validity of the charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    Evidence of guilt No information is available on the evidence presented
+    against Captain Davoudi. Defense No information is available regarding the
+    defense of the accused. Judgment The defendant was sentenced to death and
+    executed. No other details are available.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-3560/abbasqoli-davodi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

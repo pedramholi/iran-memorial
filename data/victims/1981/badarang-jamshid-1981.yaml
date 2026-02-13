@@ -1,0 +1,49 @@
+id: badarang-jamshid-1981
+name_latin: "Jamshid Badarang"
+name_farsi: "جمشید بادارنگ"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-12-06
+age_at_death: 21
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    Mr. Jamshid Badarang, son of Mohammad and born in Ahvaz, is one of the
+    12028 individuals listed in an addendum to the Mojahed magazine (No 261),
+    published by Mojahedin Khalq Organization in 1985. The list includes
+    individuals, affiliated with various opposition groups, who were executed
+    or killed during clashes with the Islamic Republic security forces from
+    June 1981 to the publication date of the magazine. The information about
+    Mr. Badarang has been sent to Omid by a relative via an electronic form.
+    Mr. Badarang was a computer science student at Advertisement Group, and
+    affiliated with the Mojahedin Khalq Organization. Arrest and detention The
+    details of this defendant’s arrest and detention are not known. Mr.
+    Badarang was arrested in September 1981 in Tehran and transferred to Qasr
+    prison. During his imprisonment of about 50 days, he had only two visits
+    with his family. Trial No information is available on the defendant’s
+    trial. Charges Mr. Badarang was charged with carrying Mojahedin’s
+    leaflets, and selling the Mojahed Newspaper. Evidence of guilt The report
+    of this execution does not contain information regarding the evidence
+    provided against the defendant. Defense No information is available on Mr.
+    Badarang’s defense. He was denied the right to have an attorney. Judgment
+    There is no information on the verdict leading to this execution. Mr.
+    Jamshid Badarang was executed on December 6, 1981 in Qasr prison. He was
+    21 years old.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-5034/jamshid-badarang"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

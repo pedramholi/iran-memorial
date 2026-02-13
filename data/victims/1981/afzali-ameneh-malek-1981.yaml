@@ -1,0 +1,66 @@
+id: afzali-ameneh-malek-1981
+name_latin: "Ameneh Malek Afzali"
+name_farsi: "آمنه ملک افضلی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam (Shi'a)"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-09-18
+age_at_death: 18
+place_of_death: "Babol"
+province: "Mazandaran"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The information about the execution of Ms. Ameneh Malek Afzali and another
+    individual was released in a report by the Babol Islamic Revolutionary
+    Tribunal and published in the Kayhan newspaper on July 19, 1981. Ms. Malek
+    Afzali is also one of the 1,533 executed prisoners listed by the
+    Association of Iranian Women of Köln (Germany). The list was published on
+    September 10, 1997 and is entitled: "A Partial List of Women Executed by
+    the Islamic Republic of Iran.” This list has been updated by former
+    political prisoners living in various countries. Furthermore, this
+    execution was reported in an addendum to the Mojahed magazine (No 261),
+    published by the Mojahedin Khalq Organization (MKO) in 1985. The list
+    includes 12028 individuals affiliated with various opposition groups who
+    were executed or killed during clashes with the Islamic Republic security
+    forces from June 1981 to the publication date of the magazine. Additional
+    information about Ms. Malek Afzali is taken from the MKO website. She was
+    born in a village close to Qa'emshahr in the province of Mazandaran. She
+    was a high school student when she became a MKO sympathizer. She was
+    active in anti-regime demonstrations during 1980 and 1981. Arrest and
+    detention There is no specific information on the defendant’s arrest and
+    detention. According to the MKO website, Ms. Malek Afzali was arrested in
+    May 1981. During her two-month detention, she was reportedly tortured so
+    severely that she had to be taken to the hospital. Trial No information is
+    available on the defendant’s trial. Charges According to the Babol Islamic
+    Revolutionary Tribunal’s report, Ms. Malek Afzali was charged with “active
+    participation in clashes in this city [Babol], leading clashes and
+    disturbing the peace, causing disorder at the Azarm High School in Babol,
+    demolishing an office at the high school and breaking the window panes in
+    the office and classrooms, beating and wounding a teacher during a fight,
+    performing marked activities to promote the Mojahedin Organization’s armed
+    struggle against the Islamic Republic of Iran.” The validity of the
+    criminal charges brought against this defendant cannot be ascertained in
+    the absence of the basic guarantees of a fair trial. Evidence of guilt The
+    report of this execution contains no evidence provided against the
+    defendant. Defense No information is available on Ms. Malek Afzali's
+    defense. Judgment No specific information is available about this
+    execution. Based on the newspaper report, Babol’s Islamic Revolutionary
+    Tribunal sentenced Ms. Malek Afzali to death and this sentence was
+    confirmed by the Supreme Judicial Council. She was executed at 4:30 pm in
+    Babol on July 18, 1981.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4110/ameneh-malek-afzali"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

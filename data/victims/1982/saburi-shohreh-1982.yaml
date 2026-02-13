@@ -1,0 +1,56 @@
+id: saburi-shohreh-1982
+name_latin: "Shohreh Saburi"
+name_farsi: "شهره صبوری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1982-01-01
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    Information about Ms. Shohreh Saburi has been sent to Omid by her former
+    cellmate from Room 6 of Section 240 in Evin prison, via an electronic
+    form. Ms. Saburi was affiliated with Fadaiyan Khalq Organization (Minority
+    branch). The Fadaiyan Khalq Organization, a Marxist Leninist group
+    inspired by the Cuban Revolution and the urban guerilla movements of Latin
+    America, was founded in 1971 by two communist groups opposed to the
+    Pahlavi regime. Following the 1979 revolution, the Organization, which had
+    renounced armed struggle, split over their support of the Islamic Republic
+    and of the Soviet Union. The Fadaiyan Khalq Minority opposed the Islamic
+    Republic and was active mainly in the political arena and the labor
+    movement. Arrest and detention Ms. Saburi was arrested in the winter of
+    1982 in Tehran, along with her husband, Mr. Fariborz Keshavarz, and her
+    sister-in-law, by the Revolutionary Guards of Committee 3000, for their
+    affiliation with the Fadaiyan Khalq Organization. (Committee 3000 is the
+    former Committee Against Sabotage, which was later renamed Tohidi prison;
+    today it is a museum.) After interrogation, Ms. Saburi was transferred to
+    Evin prison. She was detained in Room 6 of Section 240. She knew she would
+    be executed and had confided this information to some of her trusted
+    cellmates. During her detention she was denied visitation rights and the
+    right to have an attorney. Trial There is no information regarding this
+    trial. Charges The charges brought against the defendant in court are not
+    known. Evidence of guilt No information is available concerning the
+    evidence presented against the accused. Defense No information is
+    available concerning Ms. Saburi’s defense. Judgment No specific
+    information is available about the verdict leading to this execution. One
+    afternoon in February/March 1982, Ms. Shohreh Saburi was called from
+    section 240 and never returned. She and her husband were shot by a firing
+    squad in Evin prison, along with a few other individuals.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/41564/shohreh-saburi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

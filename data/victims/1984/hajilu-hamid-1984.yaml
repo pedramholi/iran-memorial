@@ -1,0 +1,47 @@
+id: hajilu-hamid-1984
+name_latin: "Hamid Hajilu"
+name_farsi: "حمید حاجیلو"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam (Shi'a)"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1984-09-14
+age_at_death: 27
+place_of_death: "Tabriz"
+province: "Azarbaijan-e Sharqi"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    Mr. Hamid Hajilu (a university student, a medical intern, and a supporter
+    of the Mojahedin Khalq Organization of Iran) is one of the 12028
+    individuals listed in an addendum to the Mojahed magazine (No 261),
+    published by Mojahedin Khalq Organization in 1985. The list includes
+    individuals, affiliated with various opposition groups, who were executed
+    or killed during clashes with the Islamic Republic security forces from
+    June 1981 to the publication date of the magazine. Mr. Hajilu is also
+    among the 282 individuals listed in a United Nations Report on The
+    Situation of Human Right in the Islamic Republic of Iran (Note by the
+    Secretary General), published on 13 November 1985. The report lists these
+    individuals as "Persons who were allegedly summarily and arbitrarily
+    executed in the Islamic Republic of Iran: 1984-1985." Arrest and detention
+    The circumstances of this defendant s arrest and detention are not known.
+    Trial No information is available on the defendant s trial. Charges The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    Evidence of guilt The report of this execution does not contain
+    information regarding the evidence provided against the defendant. Defense
+    No information is available on Mr. Hajilu's defense. Judgment
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-2930/hamid-hajilu"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

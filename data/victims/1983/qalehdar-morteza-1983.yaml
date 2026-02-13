@@ -1,0 +1,75 @@
+id: qalehdar-morteza-1983
+name_latin: "Morteza Qal'ehdar"
+name_farsi: "مرتضی قلعه دار"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1983-11-29
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    h2>About this Case News of the execution of Mr. Morteza Qal'edar and his
+    will were published in the Peykargar magazine (publication of the Peykar
+    Student Union in West Berlin), number 6, in February of 1985. Mr. Qal'edar
+    is also one of the 430 individuals whose names appear on the list of
+    “Martyrs of the Peykar Organization for the Liberation of the Working
+    Class” published on the website of Andeesheh va Peykar. This list contains
+    the names of those members of the organization who died after the
+    revolution of 1979. More than 400 of the individuals on this list have
+    been executed. Further information was provided by one of his former
+    comrades. According to Peykargar , Mr. Morteza Qal'edar was born in 1953
+    in Borujerd (in the western province of Lorestan). He entered Tabriz
+    University in 1969. After the revolution, he participated in founding a
+    group called "The Revolutionaries for the Liberation of the Working
+    Class." This group joined the Peykar organization in 1980. He was active
+    in a Southern District of the organization and then joined the Khuzestan
+    Committee of the Peykar organization. According to his comrade, Mr.
+    Qal'edar was a courteous and kind man with a great sense of
+    responsibility. He was married and had a daughter. The Peykar Organization
+    for the Liberation of the Working Class was founded by a number of
+    dissident members of the Mojahedin Khalq Organization who had converted to
+    Marxism-Leninism. Peykar was also joined by a number of political
+    organizations, known as Khat-e Se (Third line). The founding tenets of
+    Peykar included the rejection of guerrilla struggle and a strong stand
+    against the pro-Soviet policies of the Iranian Tudeh Party. Peykar viewed
+    the Soviet Union as a "Social imperialist" state, believed that China had
+    deviated from the Marxist-Leninist principles, and radically opposed all
+    factions of the Islamic regime of Iran. The brutal repression of
+    dissidents by the Iranian government and splits within Peykar in 1981 and
+    1982 effectively dismantled the Organization and scattered its supporters.
+    By the mid-1980s, Peykar was no longer in existence. Arrest and detention
+    According to the Peykargar publication, Mr. Morteza Qal'edar was preparing
+    to leave the country, but was arrested a few days before his departure
+    when attempting to visit the hiding place of his documents and books in
+    order to give them to his comrades. No other detail is known about his
+    arrest and detention. Trial No information is available on the defendant’s
+    trial. Charges No information is available on Mr. Qal'edar’s charges.
+    Evidence of guilt The report of this execution does not contain
+    information regarding the evidence provided against the defendant.
+    However, according to the Peykargar report, he was identified by the
+    regime's agents in prison. Defense No information is available on Mr.
+    Qal'edar's defense. Judgment According to the Peykargar report, Mr.
+    Qal'edar was executed by firing squad in Tehran on November 29, 1983. The
+    will left for his mother is dated November 29, 1983. He says in his will,
+    “My good dear mother, I’m sorry that I was unable to provide for you and
+    could not present you with everything that would make you happy... I only
+    wish you joy and success. I greet my beloved wife and daughter. I wish
+    them health and happiness...”
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/37371/morteza-qalehdar"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

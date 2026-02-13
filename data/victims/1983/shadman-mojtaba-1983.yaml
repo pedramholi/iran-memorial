@@ -1,0 +1,54 @@
+id: shadman-mojtaba-1983
+name_latin: "Mojtaba Shadman"
+name_farsi: "مجتبی شادمان"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1983-01-01
+age_at_death: 19
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Fatal"
+circumstances: >
+    The information about Mr. Mojtaba Shadman has been drawn from an interview
+    with a former cellmate. This person stated: “I met him in prison. We were
+    in the same cell for four months and we became close friends… When I was
+    taken for interrogation, I was wearing his jacket. When I was returned, he
+    had been already taken to another cell. The Revolutionary Guards took away
+    his jacket from me…” Mr. Shadman was affiliated with the Fadaiyan Khalq
+    Organization (Minority branch). The Fadaiyan Khalq Organization, a Marxist
+    Leninist group inspired by the Cuban Revolution and the urban guerilla
+    movements of Latin America, was founded in 1971 by two communist groups
+    opposed to the Pahlavi regime. Following the 1979 revolution, the
+    Organization, which had renounced armed struggle, split over their support
+    of the Islamic Republic and of the Soviet Union. The Fadaiyan Khalq
+    Minority opposed the Islamic Republic and was active mainly in the
+    political arena and the labor movement. Arrest and detention The
+    circumstances of Mr. Shadman’s arrest and detention are not known other
+    than when he was arrested, he was armed; he was kept in Evin prison. Trial
+    There is no information regarding this trial. Charges According to a
+    cellmate, Mr. Shadman had told him that he was charged with “armed robbery
+    and participation in armed clashes.” The validity of the criminal charges
+    brought against this defendant cannot be ascertained in the absence of the
+    basic guarantees of a fair trial. Evidence of guilt No information is
+    available concerning the evidence presented against the accused, other
+    than he was armed at the time of arrest. Defense No information is
+    available concerning Mr. Shadman’s defense. Judgment No specific
+    information is available about the verdict leading to this execution. Mr.
+    Mojtaba Shadman was executed in Evin prison in the fall of 1983.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/41856/mojtaba-shadman"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

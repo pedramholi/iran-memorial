@@ -1,0 +1,60 @@
+id: arani-heshmatollah-baghbani-1981
+name_latin: "Heshmatollah Baghbani Arani"
+name_farsi: "حشمت الله باغبانی آرانی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-07-05
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    News of the execution of Mr. Heshmatollah Baghbani-Arani, along with
+    twenty-two others, was published in the Kayhan and Jomhuri Eslami
+    newspapers on July 19, 1981, quoting the Public Relations Office of the
+    Public and Revolutionary Prosecutor’s Office of the Islamic Republic. Mr.
+    Heshmatollah Baghbani-Arani is also one of the 12,028 individuals listed
+    in an addendum to the Mojahed magazine (No 261), published by the
+    Mojahedin Khalq Organization on September 6, 1985. The list includes
+    individuals, affiliated with various opposition groups, who were executed
+    or killed during clashes with the Islamic Republic security forces from
+    June 1981 to the publication date of the magazine. According to this
+    source, Mr. Heshmatollah Baghbani-Arani was a sympathizer of the Mojahedin
+    Khalq Organization. Arrest and detention There is no specific information
+    on the defendant’s arrest and detention. Trial The Islamic Revolutionary
+    Court of Kashan tried Mr. Heshmatollah Baghbani-Arani, but no information
+    is available on the defendant’s trial. Charges The charges against Mr.
+    Heshmatollah Baghbani-Arani were announced as, “being a leader of the
+    Monafeqin [Mojahedin] Organization in Kashan, a high ranking member [of
+    the organization], and the coordinator for other members and the
+    organizational plans in the surrounding area and in Aran, Jajrud, Natanz,
+    and Mahabad.” The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. Evidence of guilt The report of this execution did not
+    provide any specific information on the evidence presented against this
+    defendant. Defense No information is available on Mr. Heshmatollah
+    Baghbani-Arani's defense. Judgment َThe Islamic Revolutionary Court of
+    Kashan identified Mr. Heshmatollah Baghbani-Arani as "Mofsed (corruptor on
+    Earth), Mohareb [a person who wages war against God], and Baghi (rebel)."
+    He was condemned to death and the ruling was referred to the Central
+    Revolutionary and Public Prosecutor Office to be carried out. Mr.
+    Heshmatollah Baghbani-Arani was executed by firing squad in the Evin
+    prison yard on July 5, 1981 at night. No specific information is available
+    about the defendant’s execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-5430/heshmatollah-baghbani-arani"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

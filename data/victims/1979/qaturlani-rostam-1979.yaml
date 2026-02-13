@@ -1,0 +1,55 @@
+id: qaturlani-rostam-1979
+name_latin: "Rostam Qaturlani"
+name_farsi: "رستم قطورلانی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1979-09-14
+age_at_death: null
+place_of_death: "Orumieh"
+province: "Azarbaijan-e Gharbi"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of Mr. Rostam Qaturlani, also known as Rostam Darhehchai'i,
+    and another individual was reported by the official Pars News Agency and
+    published in the September 15, 1979 issue of the newspaper Enqelab-e
+    Eslami . The Kayhan daily of September 16, 1979 also published the news.
+    The validity of the criminal charges brought against this defendant cannot
+    be ascertained in the absence of the basic guarantees of a fair trial.
+    International human rights organizations have drawn attention to reports
+    indicating that the Islamic Republic’s authorities have brought trumped-up
+    charges against their political opponents and executed them for drug
+    trafficking, sexual, and other criminal offences. Thousands of alleged
+    drug traffickers have been sentenced to death following judicial processes
+    that fail to meet international standards. The exact number of people
+    convicted based on trumped-up charges is unknown. Arrest and detention The
+    circumstances of this defendant’s arrest and detention are not known.
+    Trial No information is available on the defendant’s trial except that he
+    was tried by the Islamic Revolutionary Tribunal of Orumieh on September 9,
+    1979. The report also indicates that the case was examined and the verdict
+    was issued in one session. Charges The charges brought against the
+    defendant were "drug and arms trafficking", "corruption on earth and
+    enmity with God." Evidence of guilt According to the prosecution, "47
+    grams of heroin, 1.65 grams of opium sap, one Berno fire arm and different
+    kinds of bullets," were found in Mr. Qaturlani's home. Defense No
+    information is available on Mr. Qaturlani's defense. Judgment The Islamic
+    Revolutionary Tribunal of Orumieh, referring to "old police files" on the
+    defendant and dismissing his defense as "baseless," found him guilty of
+    "corruption on earth and enmity with God." Mr. Qaturlani was condemned to
+    death. He was executed at dawn, five days after the verdict was issued.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/24428/rostam-qaturlani"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

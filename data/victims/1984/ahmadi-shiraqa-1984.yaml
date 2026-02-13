@@ -1,0 +1,63 @@
+id: ahmadi-shiraqa-1984
+name_latin: "Shiraqa Ahmadi"
+name_farsi: "شیرآقا احمدی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1984-12-03
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Shiraqa Ahmadi, along with 24 others, was announced
+    in a communiqu from the public relations officer of the Anti-Narcotics
+    Section of Tehran s Public Prosecutor s Office. The communiqu was reported
+    in the Jomhuri Eslami Daily on December 9, 1984. The communiqu stated: "
+    The Anti-Narcotics Section of Tehran s Public Prosecutor s Office declared
+    25 international professional drug traffickers corruptors on earth and
+    issued a firm and revolutionary death sentence against them. These
+    sentences were issued following the repeated warnings by the Public
+    Prosecutor s Office to the drug smugglers- these death dealers and
+    partisans of estekbar-e jahani (the universal arrogance) to repent from
+    their hideous acts and return to the humane, Islamic society of Iran.
+    Moreover, the Hezbollah Ummah (community) had recurrently asked the
+    Islamic Revolution s Tribunals for severe punishment of these persons who
+    consciously corrupted the young in this country." Arrest and detention The
+    circumstances of this defendant s arrest and detention are not known.
+    Trial No information is available on the defendant s trial. Charges
+    According to this report, Mr. Ahmadi was charged with being consistently
+    and actively involved in supplying and distributing drugs, possessing 1.12
+    kg of hashish, and having a previous criminal record for purchasing and
+    distributing drugs. The validity of the criminal charges brought against
+    this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that the Islamic Republic s
+    authorities have brought trumped up charges against their political
+    opponents and executed them for drug trafficking, sexual, and other
+    criminal offences. Thousands of alleged drug traffickers have been
+    sentenced to death following judicial processes that fail to meet
+    international standards. The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against the defendant. Defense No information is available on Mr. Ahmadi s
+    defense. Judgment The Anti-Narcotics Islamic Revolutionary Tribunal
+    declared Mr. Ahmadi a corruptor on earth and sentenced him to death.
+    Having been confirmed by the Supreme Judicial Court, the sentence was
+    carried out in prison at dawn.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/31044/shiraqa-ahmadi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

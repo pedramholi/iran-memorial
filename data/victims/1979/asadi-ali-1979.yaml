@@ -1,0 +1,57 @@
+id: asadi-ali-1979
+name_latin: "Ali Asadi"
+name_farsi: "علی اسدی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1979-09-13
+age_at_death: 50
+place_of_death: "Malayer"
+province: "Hamedan"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of Mr. Ali Asadi along with three others including his
+    brother and nephew was reported by the correspondents of the Enqelab
+    Eslami and Kayhan dailies in Malayer (September 13, 1979). The validity of
+    the criminal charges brought against this defendant cannot be ascertained
+    in the absence of the basic guarantees of a fair trial. International
+    human rights organizations have drawn attention to reports indicating that
+    the Islamic Republic’s authorities have brought trumped-up charges against
+    their political opponents and executed them for drug trafficking, sexual,
+    and other criminal offences. Thousands of alleged drug traffickers have
+    been sentenced to death following judicial processes that fail to meet
+    international standards. The exact number of people convicted based on
+    trumped-up charges is unknown Arrest and detention Based on the reports, a
+    group of 40 Police and Islamic Revolutionary Committee Guards, headed by
+    Captain Ghiasvand and Hosein Maleki, were involved in arresting the
+    defendant and eight other alleged smugglers. Trial Mr. Asadi’s trial,
+    headed by a religious judge, was reportedly held in the presence of a
+    large number of people at the amphitheatre of Dr. Shari’ati High School in
+    Malayer. The session was held at night and lasted several hours. Charges
+    Based on the Kayhan report, Mr. Asadi was part of a drug cartel equipped
+    for producing and distributing heroin. Evidence of guilt Reportedly, the
+    defendant and the other alleged smugglers were found in possession of 13
+    kilograms of heroin in one-kilogram packages, one pistol, one kilogram of
+    opium sap, 25 kilograms of carbonate used for making heroin, and a
+    complete set of heroin laboratory devices. Defense No information is
+    available on the defense. Judgment The Islamic Revolutionary Tribunal of
+    Malayer sentenced Mr. Asadi to death. Based on the Kayhan report, he was
+    executed at dawn, shortly after the issuance of the verdict. All of his
+    properties (orchards and farms) in the Juzan village were subsequently
+    confiscated, excluding one residential unit.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/27446/ali-asadi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

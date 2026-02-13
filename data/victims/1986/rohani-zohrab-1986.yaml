@@ -1,0 +1,49 @@
+id: rohani-zohrab-1986
+name_latin: "Zohrab Rohani"
+name_farsi: "ظهراب روحانی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1986-02-25
+age_at_death: null
+place_of_death: "Shiraz"
+province: "Fars"
+cause_of_death: "Fatal"
+circumstances: >
+    The execution of Mr. Zohrab Rohani, son of Darab, along with three others,
+    was reported in the Kayhan newspaper on February 25, 1986. Arrest and
+    detention The circumstances of this defendant’s arrest and detention are
+    not known. Trial Mr. Rohani was tried at Branch 13 of Penal Court of
+    Shiraz. No other information is available about the trial. Charges
+    According to this report, Mr. Rohani was charged with first-degree murder.
+    The validity of the criminal charges brought against this defendant cannot
+    be ascertained in the absence of the basic guarantees of a fair trial.
+    International human rights organizations have drawn attention to reports
+    indicating that the Islamic Republic’s authorities have brought trumped-up
+    charges against their political opponents and executed them for drug
+    trafficking, sexual, and other criminal offences. Each year, Iranian
+    authorities sentence to death hundreds of alleged common criminals,
+    following judicial processes that fail to meet international standards.
+    The exact number of people convicted based on trumped-up charges is
+    unknown. Evidence of guilt The report of this execution does not contain
+    information regarding the evidence provided against the defendant. Defense
+    No information is available on Mr. Rohani’s defense. Judgment Branch 13 of
+    the Penal Court of Shiraz sentenced Mr. Rohani to death. The Supreme Court
+    approved the sentence. He was executed in Adelabad prison in Shiraz on
+    February 25, 1986.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/44637/zohrab-rohani"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

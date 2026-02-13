@@ -1,0 +1,53 @@
+id: zare-reza-1982
+name_latin: "Reza Zare'"
+name_farsi: "رضا زارع"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1982-06-13
+age_at_death: 18
+place_of_death: "Shiraz"
+province: "Fars"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    Mr. Reza Zare is among the 282 individuals listed in a United Nations
+    Report on The Situation of Human Right in the Islamic Republic of Iran
+    (Note by the Secretary General), published on 13 November 1985. The report
+    lists these individuals as "Persons who were allegedly summarily and
+    arbitrarily executed in the Islamic Republic of Iran: 1984-1985." Mr. Reza
+    Zare' (Ashraf Dehqani Branch) is also one of the 12028 individuals listed
+    in an addendum to the Mojahed magazine (No 261), published by Mojahedin
+    Khalq Organization in 1985. The list includes individuals, affiliated with
+    various opposition groups, who were executed or killed during clashes with
+    the Islamic Republic security forces from June 1981 to the publication
+    date of the magazine. The Fadayian Khalq Guerrilla Organization, a Marxist
+    Leninist group inspired by the Cuban Revolution and the urban guerrilla
+    movements of Latin America, was founded in 1971 by two communist groups
+    opposed to the Pahlavi regime. Following the 1979 revolution, the
+    Organization, which had renounced armed struggle, split over their support
+    of the Islamic Republic and of the Soviet Union. A number of the
+    Organization s members, who did not renounce armed struggle, founded the
+    group the Fadayian Khalq Guerrillas (Ashraf Dehqani Branch). Arrest and
+    detention The circumstances of Mr. Zare' s arrest and detention are not
+    known. Trial No information is available on the Mr. Zare' s trial. Charges
+    The charge brought against Mr. Zare' is not known. Evidence of guilt The
+    report of this execution does not contain information regarding the
+    evidence provided against the defendant. Defense No information is
+    available on Mr. Zare' s defense. Judgment There is no information on the
+    verdict leading to this execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-3426/reza-zare"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

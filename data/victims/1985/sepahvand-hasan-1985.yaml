@@ -1,0 +1,53 @@
+id: sepahvand-hasan-1985
+name_latin: "Hasan Sepahvand"
+name_farsi: "حسن سپه وند"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1985-01-03
+age_at_death: null
+place_of_death: "Public Prosecutor's office"
+province: "Markazi"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Mr. Hasan Sepahvand, along with two others, was reported
+    in the Kayhan daily on January 3, 1985. Arrest and detention The
+    circumstances of this defendant’s arrest and detention are not known.
+    Trial No information is available on the defendant’s trial. Charges
+    According to this report, Mr. Sepahvand was charged with “repeated
+    banditry, armed robbery, and threatening people on the way between Khoram
+    Abad and Qom.” The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. International human rights organizations have drawn
+    attention to reports indicating that the Islamic Republic’s authorities
+    have brought trumped-up charges against their political opponents and
+    executed them for drug trafficking, sexual, and other criminal offences.
+    Each year, Iranian authorities sentence to death hundreds of alleged
+    common criminals, following judicial processes that fail to meet
+    international standards. The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against the defendant. Defense No information is available on Mr.
+    Sepahvand’s defense. Judgment The 1st division of the Islamic
+    Revolutionary Tribunal of Qom sentenced Mr. Sepahvand to death. After
+    being confirmed, the sentence was carried out in the Islamic Revolution’s
+    Public Prosecutor’s Office. According to this report, the sentence was
+    issued based on article 198 of the law of Hodud and Qesas (the law of
+    talio and physical punishment) as well as article 11 of the Islamic
+    Punishment Law.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/35738/hasan-sepahvand"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

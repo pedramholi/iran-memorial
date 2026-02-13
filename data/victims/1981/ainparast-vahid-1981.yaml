@@ -1,0 +1,66 @@
+id: ainparast-vahid-1981
+name_latin: "Vahid A'inparast"
+name_farsi: "وحید آیین پرست"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-01-01
+age_at_death: 15
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    Information about Mr. Vahid A inparast is based on an electronic form sent
+    to Omid by a cousin of his friend, Fariborz Daneshmand. According to this
+    information, he was a fifteen-year-old boy who, along with his friend
+    Fariborz, went to watch a demonstration turning into a clash around
+    Enqelab Square, in Tehran, in June of 1981. Mr. A inparast was the oldest
+    child in his family. The electronic form sender remembers him as a
+    youngster who loved to live, dressed well, and always smiled.
+    International laws have strictly prohibited capital punishment against
+    those who were under the age of 18 at the time of committing the crime. As
+    a party to the Covenant on Civil and Political Rights and the Convention
+    on the Rights of the Child, Iran has the obligation to avoid capital
+    punishment for an offense committed before the age of eighteen. Arrest and
+    detention The circumstances of Mr. A inparast s arrest and detention are
+    not known. According to information sent to Omid , he was arrested around
+    Tehran s Enqelab Square, in 1981. According to his friend, Fariborz
+    Daneshmand, when he and Vahid approached the demonstration location, they
+    realized that there were some clashes; therefore, they ran away like
+    others, but Vahid was arrested by plainclothes agents. The only contact
+    that Mr. A inparast had with his family was a phone conversation that took
+    place the same night, several hours after his arrest, during which he
+    asked for his mother s help: Mother, tell them that I am not a sympathizer
+    of any group. I was just there to watch. According to the electronic form
+    sender, a man took the phone harshly and told his mother to go to the
+    Komiteh for visitation the next morning. Trial No information is available
+    on Mr. A inparast s trial. Charges No information is available on Mr. A
+    inparast s charges. The validity of the criminal charges brought against
+    this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. Evidence of guilt The report of this execution
+    does not contain information regarding the evidence provided against Mr. A
+    inparast. Defense No information is available about Mr. A inparast s
+    defense. Judgment No specific information is available about Mr. A
+    inparast s execution. According to the electronic form, Mr. Vahid A
+    inparast was executed by firing squad in Tehran the day after his arrest
+    in June of 1981. Authorities did not inform his family of the sentence.
+    The family was only informed of the execution when they went to prison to
+    visit him. This report quotes Vahid s mother, feeling a lump in her
+    throat, saying, Vahid s voice and his entreaties are always in my ears. He
+    was terrified and asked for my help. I could not do anything for him.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/72206/vahid-ainparast"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

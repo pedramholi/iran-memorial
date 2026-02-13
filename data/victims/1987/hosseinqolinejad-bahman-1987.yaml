@@ -1,0 +1,46 @@
+id: hosseinqolinejad-bahman-1987
+name_latin: "Bahman Hosseinqolinejad"
+name_farsi: "بهمن حسین قلی نژاد"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1987-01-01
+age_at_death: null
+place_of_death: "Shiraz"
+province: "Fars"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Mr. Bahman Hosseinqolinezhad, son of Reza, was reported
+    in the Kayhan daily on March 16, 1987. Arrest and detention The
+    circumstances of Mr. Hosseinqolinezhad s arrest and detention are not
+    known. Trial There is no information regarding this trial. Charges Mr.
+    Hosseinqolinezhad was charged with first-degree murder. The validity of
+    the criminal charges brought against this defendant cannot be ascertained
+    in the absence of the basic guarantees of a fair trial. International
+    human rights organizations have drawn attention to reports indicating that
+    the Islamic Republic s authorities have brought trumped-up charges against
+    their political opponents and executed them for drug trafficking, sexual,
+    and other criminal offences. Each year, Iranian authorities sentence to
+    death hundreds of alleged common criminals, following judicial processes
+    that fail to meet international standards. The exact number of people
+    convicted based on trumped-up charges is unknown. Defense No information
+    is available concerning Mr. Hosseinqolinezhad s defense. Judgment Branch
+    14 of First Division of the Penal Court of Shiraz sentenced Mr. Bahman
+    Hosseinqolinezhad to death. The Supreme Court, approved the sentence and
+    Mr. Hosseinqolinezhad was executed at Adelabad prison in Shiraz.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/44060/bahman-hosseinqolinejad"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

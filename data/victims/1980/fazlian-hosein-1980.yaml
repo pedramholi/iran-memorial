@@ -1,0 +1,50 @@
+id: fazlian-hosein-1980
+name_latin: "Hosein Fazlian"
+name_farsi: "حسین فضلیان"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1980-08-06
+age_at_death: null
+place_of_death: "Karaj"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of Mr. Hosein Fazlian and two others was reported in the
+    Jomhuri Eslami daily (August 7, 1980). Arrest and detention No information
+    is available on the circumstances of Mr. Fazlian s arrest and detention.
+    Trial The verdict was issued by the Special Islamic Revolutionary Court
+    for Campaign against Drugs and Narcotics. This report does not provide any
+    specific information about the trial. Charges Based on this report, Mr.
+    Fazlian, resident of Hamedan, was charged with selling and buying drugs
+    voluntarily . The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. International human rights organizations have drawn
+    attention to reports indicating that the Islamic Republic s authorities
+    have brought trumped up charges against their political opponents and
+    executed them for drug trafficking, sexual, and other criminal offences.
+    Thousands of alleged drug traffickers have been sentenced to death
+    following judicial processes that fail to meet international standards.
+    The exact number of people convicted based on trumped-up charges is
+    unknown. Evidence of guilt The report does not provide any specific
+    information on the evidence presented against the defendant. Defense No
+    information on the accuseds defense is available. Judgment Mr. Fazlian was
+    sentenced to death for corruption on earth and waging war against God ,
+    and he was executed at 7:30 am by the Islamic Revolutionary Guards
+    (Pasdaran).
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/15498/hosein-fazlian"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

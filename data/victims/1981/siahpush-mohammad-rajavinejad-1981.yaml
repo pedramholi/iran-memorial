@@ -1,0 +1,42 @@
+id: siahpush-mohammad-rajavinejad-1981
+name_latin: "Mohammad Rajavinejad Siahpush"
+name_farsi: "محمد رجوی نژاد سیاهپوش"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-10-06
+age_at_death: null
+place_of_death: "Ahvaz"
+province: "Khuzestan"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The information about the execution of Mr. Mohammad Rajavinejad Siahpush
+    was released in a communique issued by the Ahvaz Revolutionary Tribunal
+    and published in the newspaper Jomhuri Eslami on October 8, 1981. Arrest
+    and detention The circumstances of this defendant’s arrest and detention
+    are not known. Trial No information is available on the defendant’s trial.
+    Charges Mr. Mohammad Rajavinejad Siahpush was charged with "armed
+    insurrection against the Islamic Republic" and "participation in street
+    demonstrations and clashes with the security forces." Evidence of guilt
+    The report of this execution does not contain information regarding the
+    evidence provided against the defendant. Defense No information is
+    available on Mr. Mohammad Rajavinejad Siahpush's defense. Judgment Mr.
+    Rajavinejad Siahpush was found guilty by the Ahvaz Islamic Revolutionary
+    Tribunal. He was executed on Tuesday, October 6th. No further information
+    is available on his conviction, sentence and execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/593/mohammad-rajavinejad-siahpush"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

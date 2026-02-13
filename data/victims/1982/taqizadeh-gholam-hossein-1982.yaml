@@ -1,0 +1,57 @@
+id: taqizadeh-gholam-hossein-1982
+name_latin: "Gholam Hossein Taqizadeh"
+name_farsi: "غلامحسین تقی زاده"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1982-01-28
+age_at_death: null
+place_of_death: "Gachsaran"
+province: "Kohgiluyeh-va Boyer-Ahmad"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    Mr. Gholam Hossein Taqizadeh is one of the 12,028 individuals listed in an
+    addendum to the Mojahed magazine (No 261), published by Mojahedin Khalq
+    Organization on September 6, 1985. The list includes individuals,
+    affiliated with various opposition groups, who were executed or killed
+    during clashes with the Islamic Republic security forces from June 1981 to
+    the publication date of the magazine. Mr. Taqizadeh’s name is also
+    mentioned in the book Our Martyrs for Freedom and Socialism , by Rah-e
+    Kargar publications (1988). Additional information has been sent to Omid
+    to an individual close to him through an electronic form. According to
+    this form, he was an energetic and loving young man, with a good sense of
+    humor. He was a sympathizer of the Revolutionary Workers Organization of
+    Iran, Rah-e Kargar. “Rah-e Kargar” or the “Revolutionary Workers
+    Organization of Iran” was established in the summer of 1979. The
+    Organization was founded by individuals from various leftist groups who
+    rejected the idea of armed struggle and believed in political action. They
+    identified themselves as Marxist-Leninists, promoting a socialist
+    revolution and the leadership of the proletariat. They differed with the
+    pro-Soviet communist party, Tudeh, in that they opposed the Islamic
+    Republic and Ayatollah Khomeini’s leadership. Arrest and detention The
+    exact circumstances of this defendant’s arrest and detention are unknown.
+    He was arrested on January 17, 1982 (electronic form). Trial No
+    information is available on the defendant’s trial other than it took place
+    in Gachsaran (Kohkiluyeh va Boyerahmad province). Charges No information
+    is available on Mr. Taqizadeh’s charges. Evidence of guilt The report of
+    this execution contains no evidence provided against the defendant.
+    Defense No information is available about the defense. Judgment No
+    specific information is available about the defendant’s execution
+    sentence. According to the electronic form, Mr. Gholam Hossein Taqizadeh
+    was executed in Gachsaran by a firing squad on January 28, 1982.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4450/gholam-hossein-taqizadeh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

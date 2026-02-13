@@ -1,0 +1,57 @@
+id: madah-moharam-ali-1985
+name_latin: "Moharam Ali Madah"
+name_farsi: "محرمعلی مداح"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1985-12-30
+age_at_death: null
+place_of_death: "Ardebil"
+province: "Ardebil"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Moharam Ali Madah was reported in the Kayhan daily on
+    December 30, 1985. Arrest and detention The circumstances of this
+    defendant’s arrest and detention are not known. Trial No information is
+    available on the defendant’s trial. Charges According to this report, Mr.
+    Madah was charged with murder. The validity of the criminal charges
+    brought against this defendant cannot be ascertained in the absence of the
+    basic guarantees of a fair trial. International human rights organizations
+    have drawn attention to reports indicating that the Islamic Republic’s
+    authorities have brought trumped-up charges against their political
+    opponents and executed them for drug trafficking, sexual, and other
+    criminal offences. Each year, Iranian authorities sentence to death
+    hundreds of alleged common criminals, following judicial processes that
+    fail to meet international standards. The exact number of people convicted
+    based on trumped-up charges is unknown. Evidence of guilt According to the
+    report, Mr. Madah confessed to his crime during the first round of
+    interrogations. International human rights organizations have repeatedly
+    condemned the government of the Islamic Republic of Iran for its
+    systematic use of severe torture and solitary confinement to obtain
+    confessions from detainees and have questioned the authenticity of
+    confessions obtained under duress. In the case of political detainees,
+    these confessions are, at times, televised. The National Television
+    broadcasts confessions during which prisoners plead guilty to vague and
+    false charges, repent and renounce their political beliefs, and/or
+    implicate others. Human rights organizations have also pointed to the
+    pattern of retracted confessions by those prisoners who are freed. Defense
+    No information is available on Mr. Madah’s defense. Judgment The Ardabil
+    Court sentenced Mr. Madah to death. Mr. Moharam Ali Madah was hanged at 7
+    a.m. on December 30, 1985 in the prison of the police department of
+    Ardabil.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/44137/moharam-ali-madah"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,68 @@
+id: -1981-9
+name_latin: null
+name_farsi: null
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1981-12-23
+age_at_death: null
+place_of_death: "Tehran Province"
+province: "Tehran"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of this unnamed individual, and 21 other persons was
+    announced by the Public Relations section of the Central Islamic
+    Revolutionary Prosecutor’s Office and published in the Jomhuri Eslami and
+    the Kayhan newspapers on December 26, 1981. This person was affiliated
+    with the Mojahedin Khalq Organization. Arrest and detention The
+    circumstances of this defendant’s arrest and detention are not known.
+    Trial No information is available on the defendant’s trial, other than he
+    was tried at the Central Islamic Revolutionary Tribunal. Charges The
+    personal charges brought against this person are not known. He and 18
+    other individuals were collectively charged with: “Plotting and rebellion
+    against the regime of the Islamic Republic of Iran, participation in armed
+    demonstration, including the demonstration of June 20, providing place and
+    financing for the Hypocrites [i.e. the Mojahedin Khalq Organization],
+    participation in assassinations of the Revolutionary Guards brothers,
+    possession of arms and ammunitions, active membership in armed teams of
+    the Hypocrites, and living in safe houses.” The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. The demonstration of June
+    20, 1981, took place in protest against the parliament’s impeachment of
+    President Banisadr and the Islamic Republic’s systematic policy of
+    excluding the Mojahedin Khalq Organization (MKO) from the country’s
+    political scene, the refusal of Ayatollah Khomeini to meet with MKO
+    leaders and his insistence for them to disarm. The MKO had until then
+    supported the leadership of Ayatollah Khomeini and agreed to function
+    within the framework of the new political system. On June 20, the
+    Organization officially changed its policy and tried to overthrow the
+    regime by organizing mass demonstrations, in which some of the
+    demonstrators were armed, all over the country. These demonstrations,
+    which were severely suppressed and resulted in the killing of dozens of
+    demonstrators, were followed by a wave of mass arrests and executions by
+    the Revolutionary Guards and para-military forces that targeted not only
+    the MKO, but all other opposition groups. The massive repression,
+    unprecedented in the history of the Islamic Republic, legitimized as
+    official government policy the months-old state harassment and suppression
+    of dissidents and resulted in the banning of all forms of independent
+    political dissent. Evidence of guilt The report of this execution does not
+    contain information regarding the evidence provided against the defendant.
+    Defense No information is available on the defense. Judgment The Central
+    Islamic Revolutionary Tribunal condemned this individual to death.
+    According to Kayhan , he was executed in Tehran on December 23, 1981.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/43895/name-unknown"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,40 @@
+id: -1983-5
+name_latin: null
+name_farsi: null
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1983-07-27
+age_at_death: null
+place_of_death: "Rasht"
+province: "Gilan"
+cause_of_death: "Fatal"
+circumstances: >
+    The execution of this unnamed defendant was reported in the Jomhuri Eslami
+    Daily on July 31, 1983. Arrest and detention The circumstances of this
+    defendant’s arrest and detention are not known. Trial No information is
+    available on the defendant’s trial. Charges The defendant was reported to
+    be a member of the Mujahedin-e Khalq Organization (MKO) who was charged
+    with “the murder of Hojatolislam Habibzadeh as well as the assassination
+    of Hezbollah members in Rasht.” Evidence of guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against the defendant. Defense According to this report, the defendant had
+    confessed to his crime. Judgment This unnamed defendant was executed.
+    There is no information about the Tribunal which issued the death
+    sentence.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/29403/name-unknown"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"
