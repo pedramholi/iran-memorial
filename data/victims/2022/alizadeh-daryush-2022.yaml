@@ -1,41 +1,25 @@
 id: alizadeh-daryush-2022
-name_latin: "Daryush Alizadeh"
-name_farsi: "داریوش علیزاده"
+name_latin: Daryush Alizadeh
+name_farsi: داریوش علیزاده
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
-religion: "Presumed Muslim (Sunni)"
+place_of_birth: Saqqez
+gender: male
+ethnicity: Kurdish
+religion: Presumed Muslim (Sunni)
 photo: null
-
-# --- DEATH ---
 date_of_death: 2022-10-08
 age_at_death: 33
-place_of_death: "Sanandaj"
-province: "Kordestan"
-cause_of_death: "Arbitrary Execution » Arbitrary shooting"
-circumstances: >
-    2022 Protests - Sanandaj Following the death of Jina Mahsa Amini on
-    September 15, 2022, protests commenced at Jina s funeral in her hometown
-    of Saqqez and spread afterward to other cities in Kordestan. Sanandaj was
-    the first city where protesters turned out in solidarity with the people
-    of Saqqez, and during the months-long duration of the Women, Life, Freedom
-    uprising, various streets and neighborhoods in Sanandaj witnessed ongoing
-    anti-government protests. Sanandaj was the city with the highest number of
-    Kurdish citizens who lost their lives in the uprising 22 of 123 total
-    throughout Iran. State forces first killed protesters in this city on
-    October 8, 2022. Repression of popular protests in Sanandaj was so intense
-    that Amnesty International warned in an October 10, 2022 statement of
-    widespread dimensions of repression, with state forces using weapons of
-    war and firing at houses.
-event_context: null
-responsible_forces: null
-
-# --- VERIFICATION ---
+place_of_death: Sanandaj
+province: Kordestan
+cause_of_death: Arbitrary Execution » Arbitrary shooting
+circumstances: |
+  2022 Protests - Sanandaj Following the death of Jina Mahsa Amini on September 15, 2022, protests commenced at Jina s funeral in her hometown of Saqqez and spread afterward to other cities in Kordestan. Sanandaj was the first city where protesters turned out in solidarity with the people of Saqqez, and during the months-long duration of the Women, Life, Freedom uprising, various streets and neighborhoods in Sanandaj witnessed ongoing anti-government protests. Sanandaj was the city with the highest number of Kurdish citizens who lost their lives in the uprising 22 of 123 total throughout Iran. State forces first killed protesters in this city on October 8, 2022. Repression of popular protests in Sanandaj was so intense that Amnesty International warned in an October 10, 2022 statement of widespread dimensions of repression, with state forces using weapons of war and firing at houses.
+event_context: 2022 Protests - Sanandaj
+responsible_forces: state forces
 status: unverified
 sources:
-  - url: "https://www.iranrights.org/memorial/story/86393/daryush-alizadeh"
-    name: "Abdorrahman Boroumand Center — Omid Memorial"
+  - url: https://www.iranrights.org/memorial/story/86393/daryush-alizadeh
+    name: Abdorrahman Boroumand Center — Omid Memorial
     type: memorial_database
 last_updated: 2026-02-13
-updated_by: "boroumand-import"
+updated_by: boroumand-import

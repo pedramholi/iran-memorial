@@ -1,41 +1,37 @@
 id: shirouzehi-jaber-2010
-name_latin: "Jaber Shirouzehi"
-name_farsi: "جابر شیروزهی"
-date_of_birth: null  # est. birth year: 2010
+name_latin: Jaber Shirouzehi
+name_farsi: جابر شیروزهی
+date_of_birth: null
 place_of_birth: null
 gender: male
 ethnicity: Baluchi
-photo: null
-
-# --- DEATH ---
+photo: https://www.iranrights.org/actorphotos/86824_thumb.jpeg
 date_of_death: 2022-09-30
 age_at_death: 12
-place_of_death: "Zahedan"
-province: "Sistan va Baluchestan"
-cause_of_death: "Gunshot (headshot, live ammunition)"
-circumstances: >
-    Killed during Bloody Friday. Shot in the head. Iranian authorities claimed
-    'there is no death record' to UN Human Rights Council.
-event_context: "Woman, Life, Freedom movement (2022 Mahsa Amini protests)"
+place_of_death: Zahedan
+province: Sistan va Baluchestan
+cause_of_death: Gunshot (headshot, live ammunition)
+circumstances: |
+  Killed during Bloody Friday. Shot in the head. Iranian authorities claimed 'there is no death record' to UN Human Rights Council.
+event_context: Woman, Life, Freedom movement (2022 Mahsa Amini protests)
 responsible_forces: null
-
-# --- VERIFICATION ---
-status: "unverified"
+status: unverified
 sources:
-  - url: "https://www.en-hrana.org/wp-content/uploads/2022/12/82-Day-WLF-Protest-in-Iran-2022-English.pdf"
-    name: "HRANA — 82-Day Comprehensive Report"
+  - url: https://www.en-hrana.org/wp-content/uploads/2022/12/82-Day-WLF-Protest-in-Iran-2022-English.pdf
+    name: HRANA — 82-Day Comprehensive Report
     date: 2022-12-01
     type: ngo_report
-  - url: "https://en.wikipedia.org/wiki/Deaths_during_the_Mahsa_Amini_protests"
-    name: "Wikipedia — Deaths during the Mahsa Amini protests"
+  - url: https://en.wikipedia.org/wiki/Deaths_during_the_Mahsa_Amini_protests
+    name: Wikipedia — Deaths during the Mahsa Amini protests
     date: null
     type: encyclopedia
-  - url: "https://www.amnesty.org/en/documents/mde13/6104/2022/en/"
-    name: "Amnesty International — Killings of children (MDE 13/6104/2022)"
+  - url: https://www.amnesty.org/en/documents/mde13/6104/2022/en/
+    name: Amnesty International — Killings of children (MDE 13/6104/2022)
     date: 2022-12-09
     type: ngo_report
-  - url: "https://www.iranrights.org/memorial/story/86824/jaber-shiruzehi"
-    name: "Abdorrahman Boroumand Center — Omid Memorial"
+  - url: https://www.iranrights.org/memorial/story/86824/jaber-shiruzehi
+    name: Abdorrahman Boroumand Center — Omid Memorial
     type: memorial_database
 last_updated: 2026-02-09
-updated_by: "hrana-82day-import"
+updated_by: hrana-82day-import
+religion: Islam (Sunni)

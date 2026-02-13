@@ -1,31 +1,28 @@
 id: bacheh-amin-goleh
-name_latin: "Amin Goleh Bacheh"
-name_farsi: "امین گله بچه"
+name_latin: Amin Goleh Bacheh
+name_farsi: امین گله بچه
 date_of_birth: null
 place_of_birth: null
 gender: male
 ethnicity: null
 photo: null
-
-# --- DEATH ---
 date_of_death: 2022-09-30
 age_at_death: null
-place_of_death: "Zahedan, Sistan-Baluchestan Province"
-province: "Sistan va Baluchestan"
-cause_of_death: "Arbitrary Execution » Arbitrary shooting"
+place_of_death: Zahedan, Sistan-Baluchestan Province
+province: Sistan va Baluchestan
+cause_of_death: Arbitrary Execution » Arbitrary shooting
 circumstances: null
-event_context: "Woman, Life, Freedom movement (2022 Mahsa Amini protests)"
+event_context: Woman, Life, Freedom movement (2022 Mahsa Amini protests)
 responsible_forces: null
-
-# --- VERIFICATION ---
-status: "unverified"
+status: unverified
 sources:
-  - url: "https://en.wikipedia.org/wiki/Deaths_during_the_Mahsa_Amini_protests"
-    name: "Wikipedia — Deaths during the Mahsa Amini protests"
+  - url: https://en.wikipedia.org/wiki/Deaths_during_the_Mahsa_Amini_protests
+    name: Wikipedia — Deaths during the Mahsa Amini protests
     date: null
     type: encyclopedia
-  - url: "https://www.iranrights.org/memorial/story/86828/amin-galleh-bacheh"
-    name: "Abdorrahman Boroumand Center — Omid Memorial"
+  - url: https://www.iranrights.org/memorial/story/86828/amin-galleh-bacheh
+    name: Abdorrahman Boroumand Center — Omid Memorial
     type: memorial_database
 last_updated: 2026-02-09
-updated_by: "wikipedia-parser-script"
+updated_by: wikipedia-parser-script
+religion: Islam (Sunni)

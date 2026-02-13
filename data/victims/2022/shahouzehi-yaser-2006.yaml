@@ -1,37 +1,33 @@
 id: shahouzehi-yaser-2006
-name_latin: "Yaser Shahouzehi"
-name_farsi: "یاسر شاهوزهی (باچیزی)"
-date_of_birth: null  # est. birth year: 2006
+name_latin: Yaser Shahouzehi
+name_farsi: یاسر شاهوزهی (باچیزی)
+date_of_birth: null
 place_of_birth: null
 gender: male
 ethnicity: Baluchi
 photo: null
-
-# --- DEATH ---
 date_of_death: 2022-09-30
 age_at_death: 16
-place_of_death: "Zahedan, Sistan-Baluchestan Province"
-province: "Sistan va Baluchestan"
-cause_of_death: "Gunshot (heart, live ammunition)"
-circumstances: >
-    Killed during Bloody Friday. Shot in heart. Authorities claimed 'no death
-    record' to UN.
-event_context: "Woman, Life, Freedom movement (2022 Mahsa Amini protests)"
+place_of_death: Zahedan, Sistan-Baluchestan Province
+province: Sistan va Baluchestan
+cause_of_death: Gunshot (heart, live ammunition)
+circumstances: |
+  Killed during Bloody Friday. Shot in heart. Authorities claimed 'no death record' to UN.
+event_context: Woman, Life, Freedom movement (2022 Mahsa Amini protests)
 responsible_forces: null
-
-# --- VERIFICATION ---
-status: "unverified"
+status: unverified
 sources:
-  - url: "https://en.wikipedia.org/wiki/Deaths_during_the_Mahsa_Amini_protests"
-    name: "Wikipedia — Deaths during the Mahsa Amini protests"
+  - url: https://en.wikipedia.org/wiki/Deaths_during_the_Mahsa_Amini_protests
+    name: Wikipedia — Deaths during the Mahsa Amini protests
     date: null
     type: encyclopedia
-  - url: "https://www.amnesty.org/en/documents/mde13/6104/2022/en/"
-    name: "Amnesty International — Killings of children (MDE 13/6104/2022)"
+  - url: https://www.amnesty.org/en/documents/mde13/6104/2022/en/
+    name: Amnesty International — Killings of children (MDE 13/6104/2022)
     date: 2022-12-09
     type: ngo_report
-  - url: "https://www.iranrights.org/memorial/story/86819/yaser-shahuzehi-bachizi"
-    name: "Abdorrahman Boroumand Center — Omid Memorial"
+  - url: https://www.iranrights.org/memorial/story/86819/yaser-shahuzehi-bachizi
+    name: Abdorrahman Boroumand Center — Omid Memorial
     type: memorial_database
 last_updated: 2026-02-09
-updated_by: "wikipedia-parser-script"
+updated_by: wikipedia-parser-script
+religion: Islam (Sunni)
