@@ -249,7 +249,8 @@ border-start: 2px solid;     /* NOT border-left */
 | No tests | ⚠️ Open | 0% coverage. |
 | Server disk at 90% | ⚠️ Monitor | 3.9 GB free. Docker build cache reclaimable: ~3.8 GB. Prune regularly. |
 | Neda Soltan duplicate | ⚠️ Low | Two YAML entries for same person (different slugs). Low priority. |
-| Boroumand fetch ongoing | ⏳ Running | ~12K entries fetching with 4 parallel workers (~2h ETA). After: gender + seed + deploy. |
+| Boroumand fetch ongoing | ⏳ Running | ~10K/12K done (~82%), 4 parallel workers. After: gender + seed + deploy. |
+| External image optimization | ✅ Fixed | iranrights.org Cloudflare blocks server IP → `unoptimized` prop on `<Image>`. Browser fetches directly. |
 
 ---
 
@@ -311,7 +312,7 @@ border-start: 2px solid;     /* NOT border-left */
 | `docs/LEARNINGS.md` | Bugs, Architecture Decisions, Patterns |
 | `docs/260209-PHASE1_PLAN.md` | Phase 1–4 Roadmap mit Metriken |
 | `docs/260209-PHASE1_LOG.md` | Phase 1 Ausführungslog (14 Einträge) |
-| `docs/260209-PHASE2_LOG.md` | Phase 2+3 Ausführungslog (38 Einträge) |
+| `docs/260209-PHASE2_LOG.md` | Phase 2+3 Ausführungslog (39 Einträge) |
 
 ---
 
@@ -330,5 +331,5 @@ Co-Authored-By: Claude <model> <noreply@anthropic.com>
 
 ---
 
-**Last Updated:** 2026-02-12
+**Last Updated:** 2026-02-13
 **Maintainer:** Pedram Holi

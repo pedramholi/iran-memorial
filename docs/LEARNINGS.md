@@ -447,6 +447,14 @@ IHR und HRANA haben eigene Datenformate. Pro Import-Quelle ein eigenes Mapping-S
 - **Fix:** `const slug = String(v.id)` Coercion in seed-new-only.ts und sync-gender-to-db.ts.
 - **Prevention:** YAML-IDs immer in Anführungszeichen oder explizit zu String konvertieren.
 
+### BUG-012: iranrights.org Fotos nicht angezeigt — Cloudflare Bot Protection (2026-02-13)
+
+- **Symptom:** Alle Opfer-Fotos von `iranrights.org/actorphotos/` waren auf der Website nicht sichtbar (leerer Kreis statt Foto). Betraf ~200+ Boroumand-Einträge mit Fotos.
+- **Root Cause:** Next.js `<Image>` Komponente optimiert Bilder serverseitig über `/_next/image?url=...`. Der Server (Hetzner-IP) wird von iranrights.org's Cloudflare mit `cf-mitigated: challenge` blockiert → 403 Forbidden. Next.js gibt dann "url parameter is valid but upstream response is invalid" zurück.
+- **Diagnose:** `curl -sI` von lokaler Maschine → 200 OK. `curl -sI` vom Server → 403 mit `cf-mitigated: challenge`. Auch mit Browser-User-Agent blockiert → IP-basierte Blockade, nicht User-Agent.
+- **Fix:** `unoptimized` Prop auf alle `<Image>` Komponenten (VictimCard.tsx + victims/[slug]/page.tsx). Browser fetcht Bilder direkt von iranrights.org statt über den Server-Proxy.
+- **Prevention:** Bei externen Bild-URLs immer testen ob der Server die Quelle erreichen kann. Datacenter-IPs werden oft von Cloudflare geblockt. `unoptimized` als Fallback für nicht-erreichbare Quellen.
+
 ---
 
 ## Patterns That Work (Ergänzung 2026-02-13)
@@ -455,8 +463,9 @@ IHR und HRANA haben eigene Datenformate. Pro Import-Quelle ein eigenes Mapping-S
 - **Farsi-Name-basierte Duplikat-Erkennung:** Lateinische Transliterationen haben zu viele Varianten (Bayat/Bayati, Menbari/Monbari). Farsi-Name normalisieren (ZWNJ, Diacritics, Kaf/Yeh-Varianten entfernen) → zuverlässigste Matching-Methode. Implementiert in `scripts/dedup_2026_internal.py`.
 - **Parallel Scraping mit ThreadPoolExecutor:** 4 Worker × 1s Delay = ~100 Entries/min statt 13/min (8× schneller). Fetch parallel, YAML-Erstellung sequentiell (Slug-Eindeutigkeit). Batch-Größe = Worker × 4.
 - **Source-Merge bei Duplikat-Löschung:** Beim Löschen von Duplikaten immer unique Sources (Twitter/Telegram-Links) in das Original mergen. iranvictims.com hat oft Primärquellen die Boroumand nicht hat.
+- **`unoptimized` für externe Bilder hinter Cloudflare:** Next.js Image Optimization proxied Bilder serverseitig — Datacenter-IPs werden von Cloudflare geblockt (`cf-mitigated: challenge`). Mit `unoptimized` Prop fetcht der Browser direkt → Cloudflare-Challenge wird im Browser gelöst. Trade-off: keine WebP/AVIF-Konvertierung, aber Bilder werden überhaupt angezeigt.
 
 ---
 
 *Erstellt: 2026-02-09*
-*Letzte Aktualisierung: 2026-02-13 (Boroumand Historical Import, Dedup, Parallel Scraping)*
+*Letzte Aktualisierung: 2026-02-13 (BUG-012 Cloudflare Photo Fix, Boroumand Historical Import, Dedup, Parallel Scraping)*

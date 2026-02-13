@@ -1067,6 +1067,33 @@ Nächste Schritte nach Abschluss:
   4. Commit + Push + Deploy
 ```
 
+#### LOG-P3-008 | 2026-02-13 | FIX: IRANRIGHTS.ORG FOTOS NICHT ANGEZEIGT
+
+**Was:** Alle Fotos von iranrights.org waren auf der Live-Website nicht sichtbar
+**Warum:** Next.js Image Optimization proxied Bilder serverseitig → Hetzner-IP von Cloudflare blockiert
+
+```
+Diagnose:
+  - curl von lokal → 200 OK (31KB JPEG)
+  - curl vom Server → 403 Forbidden (cf-mitigated: challenge)
+  - Docker-Container → 403 (wget --spider)
+  - Next.js /_next/image → "url parameter is valid but upstream response is invalid"
+  - Ursache: Cloudflare Bot Protection blockiert alle Datacenter-IPs
+
+Fix:
+  - `unoptimized` Prop auf <Image> in:
+    - app/[locale]/victims/[slug]/page.tsx (Detail-Foto)
+    - components/VictimCard.tsx (Listen-Foto)
+  - Browser fetcht Bilder direkt (besteht Cloudflare-Challenge)
+
+Verifiziert:
+  - Deployed: ff55ee8a
+  - memorial.n8ncloud.de/de/victims/jahanbani-nader-1979 → Foto sichtbar
+  - HTML: src="https://www.iranrights.org/actorphotos/..." (direkt, nicht /_next/image)
+```
+
+**Lesson Learned:** Next.js Image Optimization funktioniert nur wenn der Server die Quelle erreichen kann. Datacenter-IPs werden oft von Cloudflare blockiert. → BUG-012
+
 ---
 
 ## Phase 3 — Zusammenfassung (Zwischenstand)
@@ -1083,4 +1110,4 @@ Nächste Schritte nach Abschluss:
 ---
 
 *Erstellt: 2026-02-09*
-*Letzte Aktualisierung: 2026-02-13 (Phase 3: Boroumand Historical Import)*
+*Letzte Aktualisierung: 2026-02-13 (Phase 3: Boroumand Historical Import + Photo Fix)*
