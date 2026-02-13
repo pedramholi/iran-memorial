@@ -1,46 +1,51 @@
-id: kia-maedeh-moradi-2004-2
+id: "kia-maedeh-moradi-2004-2"
 name_latin: "Maedeh Moradi Kia"
 name_farsi: "مائده مرادی‌کیا"
-date_of_birth: null  # est. birth year: 2004
+date_of_birth: null
 place_of_birth: null
-gender: female
+gender: "female"
 ethnicity: null
 photo: "https://storage.googleapis.com/media-cdn-7k9x2/img_19982_0_twitter_v1.jpg"
-# --- DEATH ---
 date_of_death: 2026-01-09
 age_at_death: 22
 place_of_death: "Sattar Khan Street"
+province: "Tehran"
 cause_of_death: "Gunshot"
 circumstances: >
-    Newlywed who was killed only one week after her wedding by direct shooting
-    from Khamenei's agents. Security forces delivered her body to the family 10
-    days after the killing, only after receiving money and a written commitment
-    not to hold public funeral ceremonies. According to the burial permit issued
-    by the Sari forensic medicine office, cause of death was 'rupture of abdominal
-    organs and fracture of lumbar spine' due to 'impact of hard high-speed
-    projectile', clearly referring to being shot with war bullets by government
-    agents.
+    Newlywed who was killed only one week after her wedding by direct shooting from Khamenei's agents. Security forces delivered her body to the family 10 days after the killing, only after receiving money and a written commitment not to hold public funeral ceremonies. According to the burial permit issued by the Sari forensic medicine office, cause of death was 'rupture of abdominal organs and fracture of lumbar spine' due to 'impact of hard high-speed projectile', clearly referring to being shot with war bullets by government agents.
+    22-year-old woman from Hamedan who was killed in Tehran by the Islamic Terrorist Republic. She had only been married for a few months.
+    Listed in Iran International memorial
 event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
 responsible_forces: null
-
-# --- VERIFICATION ---
 status: "unverified"
 sources:
   - url: "https://iranvictims.com"
     name: "iranvictims.com — Victim #274"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://x.com/__Injaneb96/status/2012644628495741249"
     name: "Source"
     date: null
-    type: primary
+    type: "primary"
   - url: "https://x.com/hengawo/status/2013015289240125666"
     name: "Hengaw Organization"
     date: null
-    type: primary
+    type: "primary"
   - url: "https://x.com/HengawO/status/2013015289240125666"
     name: "Hengaw Organization"
     date: null
-    type: primary
-last_updated: 2026-02-12
+    type: "primary"
+  - url: "https://t.me/javidnamhamedan/29"
+    name: "Source"
+    date: null
+    type: "primary"
+  - url: "https://x.com/ka3rimi/status/2016262617229066447"
+    name: "Source"
+    date: null
+    type: "primary"
+  - url: "https://javidnaman.iranintl.com/memorial/vN7MNz32cVvzOpuuClVVvG"
+    name: "Iran International"
+    date: null
+    type: "primary"
+last_updated: "2026-02-13"
 updated_by: "iranvictims-csv-import"

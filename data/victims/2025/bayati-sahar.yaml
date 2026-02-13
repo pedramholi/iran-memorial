@@ -13,9 +13,10 @@ place_of_death: "Tehran"
 province: "Tehran"
 cause_of_death: null
 circumstances: >
-    Killed in the path of homeland. Newlywed who went to the streets with her
-    husband. They prevented her burial in Tehran and she was forced to be buried
-    in Tuyserkan (her mother's city).
+    Killed in the path of homeland. Was pregnant at the time; her newborn baby
+    survived. Newlywed who went to the streets with her husband. They prevented
+    her burial in Tehran and she was forced to be buried in Tuyserkan (her
+    mother's city).
 event_context: "2025-2026 Iranian nationwide protests (December 2025 uprising)"
 responsible_forces: null
 
@@ -38,5 +39,9 @@ sources:
     name: "Source"
     date: null
     type: primary
-last_updated: 2026-02-12
+  - url: "https://t.me/javidnamhamedan/150"
+    name: "Source"
+    date: null
+    type: primary
+last_updated: 2026-02-13
 updated_by: "iranvictims-csv-import"

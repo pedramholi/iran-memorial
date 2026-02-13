@@ -1,75 +1,90 @@
-id: tghi-pvr-main
-name_latin: null  # needs transliteration
+id: "tghi-pvr-main"
+name_latin: null
 name_farsi: "معین تقی‌پور"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: "male"
 ethnicity: null
 photo: null
-# --- DEATH ---
 date_of_death: 2026-01-09
-age_at_death: null
+age_at_death: 17
 place_of_death: "کرج"
 province: "Alborz"
-cause_of_death: null
-circumstances: null
+cause_of_death: "Gunshot (headshot)"
+circumstances: >
+    17-year-old protester from Karaj, killed by direct gunshot to the head by government agents on the evening of 19 Dey 1404 in the city. After the killing, his family was subjected to systematic pressure and extortion: 50 million tomans for 'bullet costs', 20 million tomans for burial permit, and 200 million tomans for burial in a six-story grave. In total, 800 million tomans was demanded just for permission to bury their child's body in Karaj. The regime threatened the family that if they protested, the body would be buried in a remote cemetery. During the burial ceremony, extensive presence of security agents was reported and the family was banned from any eulogies, memorial services and gatherings, and were forced into silence with written commitments.
+
 event_context: "2025-2026 Iranian nationwide protests"
 responsible_forces: null
-
-# --- VERIFICATION ---
 status: "unverified"
 sources:
   - url: "https://t.me/RememberTheirNames/1032"
     name: "RememberTheirNames Telegram — #978"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/1928"
     name: "RememberTheirNames Telegram — #1827"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/2762"
     name: "RememberTheirNames Telegram — #2618"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/1217"
     name: "RememberTheirNames Telegram — #1153"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/1285"
     name: "RememberTheirNames Telegram — #1218"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/755"
     name: "RememberTheirNames Telegram — #705"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/2742"
     name: "RememberTheirNames Telegram — #2600"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/2180"
     name: "RememberTheirNames Telegram — #2066"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/490"
     name: "RememberTheirNames Telegram — #455"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/2704"
     name: "RememberTheirNames Telegram — #2563"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/2629"
     name: "RememberTheirNames Telegram — #2499"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/1219"
     name: "RememberTheirNames Telegram — #1155"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/1975"
     name: "RememberTheirNames Telegram — #1876"
     date: null
-    type: community_database
-last_updated: 2026-02-12
+    type: "community_database"
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #1328"
+    date: null
+    type: "community_database"
+  - url: "https://x.com/ashkvuo7000/status/2015710026233528722"
+    name: "Source"
+    date: null
+    type: "primary"
+  - url: "https://x.com/allahbakhshii/status/2017227150487621774"
+    name: "Source"
+    date: null
+    type: "primary"
+  - url: "https://javidnaman.iranintl.com/memorial/faVC3p6tCxw9DOdQYNXK8i"
+    name: "Iran International"
+    date: null
+    type: "primary"
+last_updated: "2026-02-13"
 updated_by: "telegram-rtn-import"

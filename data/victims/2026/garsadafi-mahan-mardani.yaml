@@ -1,33 +1,34 @@
-id: garsadafi-mahan-mardani
+id: "garsadafi-mahan-mardani"
 name_latin: "Mahan Mardani Garsadafi"
 name_farsi: "ماهان مردانی گرصدفی"
 date_of_birth: null
 place_of_birth: null
-gender: male
+gender: "male"
 ethnicity: null
 photo: "https://storage.googleapis.com/media-cdn-7k9x2/img_37951_0_twitter_v1.jpg"
-# --- DEATH ---
 date_of_death: 2026-01-09
 age_at_death: null
 place_of_death: "Tehran"
 province: "Tehran"
 cause_of_death: "Gunshot"
 circumstances: >
-    Kurdish Yarsan citizen shot by security forces during popular protests in
-    Tehran in the evening of 19 Dey 1404.
+    Kurdish Yarsan citizen shot by security forces during popular protests in Tehran in the evening of 19 Dey 1404.
+    Kurdish citizen from Qasr-e Shirin and industrial management student at Shahroud University. Shot in the back by military-security forces of the Islamic Republic while in front of his family home during popular protests in Qods city (Qaleh Hassan Khan). His mother found his bloody body when she opened the door. Security forces initially transferred his body to hospital then to Kahrizak. Initially 700 million tomans was demanded for body delivery, but family refused to pay and body was eventually delivered. Security forces did not allow transfer of body to Qasr-e Shirin, forcing family to hold burial ceremony on 23 Dey under security force control with limited attendance of close relatives in Tehran.
 event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
 responsible_forces: null
-
-# --- VERIFICATION ---
 status: "unverified"
 sources:
   - url: "https://iranvictims.com"
     name: "iranvictims.com — Victim #4407"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://x.com/kurdistanhrn/status/2014460051079979504"
     name: "Source"
     date: null
-    type: primary
-last_updated: 2026-02-12
+    type: "primary"
+  - url: "https://x.com/kurdistanhrn/status/2016216472738042074"
+    name: "Source"
+    date: null
+    type: "primary"
+last_updated: "2026-02-13"
 updated_by: "iranvictims-csv-import"

@@ -1,12 +1,11 @@
-id: roosta-mohammad-ghasem-2012
+id: "roosta-mohammad-ghasem-2012"
 name_latin: "Mohammad Ghasem Roosta"
 name_farsi: "محمدقاسم روستا"
-date_of_birth: null  # est. birth year: 2012
+date_of_birth: null
 place_of_birth: null
-gender: male
+gender: "male"
 ethnicity: null
-photo: null
-# --- DEATH ---
+photo: "https://storage.googleapis.com/media-cdn-7k9x2/img_20439_0_twitter_v1.jpg"
 date_of_death: 2026-01-02
 age_at_death: 14
 place_of_death: "Marvdasht"
@@ -14,27 +13,30 @@ province: "Fars"
 cause_of_death: null
 circumstances: >
     Killed by security forces of the Islamic Republic regime
+    Child killed during protests
 event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
 responsible_forces: null
-
-# --- VERIFICATION ---
 status: "unverified"
 sources:
   - url: "https://iranvictims.com"
     name: "iranvictims.com — Victim #50"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://x.com/Daikatuo/status/2007456429049856090"
     name: "Source"
     date: null
-    type: primary
+    type: "primary"
   - url: "https://www.iran-emrooz.net/index.php/news2/125134/"
     name: "Source"
     date: null
-    type: primary
+    type: "primary"
   - url: "https://javidnaman.iranintl.com/memorial/255P39jiXgM2t3lNmMj0Cm"
     name: "Iran International"
     date: null
-    type: primary
-last_updated: 2026-02-12
+    type: "primary"
+  - url: "https://x.com/HengawO/status/2012641346142572662"
+    name: "Hengaw Organization"
+    date: null
+    type: "primary"
+last_updated: "2026-02-13"
 updated_by: "iranvictims-csv-import"

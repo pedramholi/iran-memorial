@@ -1,37 +1,46 @@
-id: babaei-iman-1999
+id: "babaei-iman-1999"
 name_latin: "Iman Babaei"
 name_farsi: "ایمان بابایی"
-date_of_birth: null  # est. birth year: 1999
+date_of_birth: null
 place_of_birth: null
-gender: male
+gender: "male"
 ethnicity: null
 photo: "https://storage.googleapis.com/media-cdn-7k9x2/img_26176_0_twitter_v1.jpg"
-# --- DEATH ---
 date_of_death: 2026-01-08
 age_at_death: 27
 place_of_death: "Pirbakran, Falavarjan, Isfahan"
 province: "Esfahan"
 cause_of_death: null
 circumstances: >
-    From Pirbakran city in Falavarjan, Isfahan. Commemorated by Isfahan Voice
-    account.
+    From Pirbakran city in Falavarjan, Isfahan. Commemorated by Isfahan Voice account.
+    From Dargan village in Pir Bakran, Falavarjan district of Isfahan
 event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
 responsible_forces: null
-
-# --- VERIFICATION ---
 status: "unverified"
 sources:
   - url: "https://iranvictims.com"
     name: "iranvictims.com — Victim #2762"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://x.com/mousavi1355/status/2017953575452770374"
     name: "Source"
     date: null
-    type: primary
+    type: "primary"
   - url: "https://x.com/visfehan/status/2018006496672469318"
     name: "Source"
     date: null
-    type: primary
-last_updated: 2026-02-12
+    type: "primary"
+  - url: "https://x.com/visfehan/status/2014709165306888315"
+    name: "Source"
+    date: null
+    type: "primary"
+  - url: "https://x.com/maryammoqaddam/status/2014711935275536389"
+    name: "Source"
+    date: null
+    type: "primary"
+  - url: "https://x.com/MaryamMoqaddam/status/2014711935275536389"
+    name: "Source"
+    date: null
+    type: "primary"
+last_updated: "2026-02-13"
 updated_by: "iranvictims-csv-import"

@@ -1,43 +1,50 @@
-id: ghafi-alireza-ghaleh-2003
+id: "ghafi-alireza-ghaleh-2003"
 name_latin: "Alireza Ghaleh Ghafi"
 name_farsi: "علیرضا قلعه قافی"
-date_of_birth: null  # est. birth year: 2003
+date_of_birth: null
 place_of_birth: null
-gender: male
+gender: "male"
 ethnicity: null
 photo: null
-# --- DEATH ---
 date_of_death: 2026-01-08
 age_at_death: 23
 place_of_death: "Azadshahr, Golestan Province"
 province: "Golestan"
 cause_of_death: "Gunshot"
 circumstances: >
-    Law student, shot by regime suppression forces during national uprising.
-    Described as a conscious, promising young man concerned with justice who
-    became a victim of government bullets instead of sitting in his classroom.
-    Part of organized killing of Iranian youth during the national uprising.
+    Law student, shot by regime suppression forces during national uprising. Described as a conscious, promising young man concerned with justice who became a victim of government bullets instead of sitting in his classroom. Part of organized killing of Iranian youth during the national uprising.
+
 event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
 responsible_forces: null
-
-# --- VERIFICATION ---
 status: "unverified"
 sources:
   - url: "https://iranvictims.com"
     name: "iranvictims.com — Victim #1418"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://x.com/anitabakt/status/2015865479403810915"
     name: "Source"
     date: null
-    type: primary
+    type: "primary"
   - url: "https://x.com/i/status/2015810286733623673"
     name: "Source"
     date: null
-    type: primary
+    type: "primary"
   - url: "https://x.com/Persian_picture/status/2015823937586737168"
     name: "Source"
     date: null
-    type: primary
-last_updated: 2026-02-12
+    type: "primary"
+  - url: "https://t.me/RememberTheirNames/1335"
+    name: "RememberTheirNames Telegram — #1268"
+    date: null
+    type: "community_database"
+  - url: "https://t.me/RememberTheirNames/2712"
+    name: "RememberTheirNames Telegram — #2570"
+    date: null
+    type: "community_database"
+  - url: "https://t.me/RememberTheirNames/1369"
+    name: "RememberTheirNames Telegram — #1301"
+    date: null
+    type: "community_database"
+last_updated: "2026-02-13"
 updated_by: "iranvictims-csv-import"

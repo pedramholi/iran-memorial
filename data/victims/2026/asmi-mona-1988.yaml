@@ -1,46 +1,54 @@
-id: asmi-mona-1988
+id: "asmi-mona-1988"
 name_latin: "Mona Asmi"
 name_farsi: "مونا اسمی"
-date_of_birth: null  # est. birth year: 1988
+date_of_birth: null
 place_of_birth: null
-gender: female
+gender: "female"
 ethnicity: null
 photo: "https://storage.googleapis.com/media-cdn-7k9x2/img_38063_0_twitter_v1.jpg"
-# --- DEATH ---
 date_of_death: 2026-01-08
 age_at_death: 38
 place_of_death: "Rasht"
 province: "Gilan"
 cause_of_death: "Gunshot"
 circumstances: >
-    Shot directly by government suppression forces during popular protests on
-    Thursday evening. She was a 38-year-old Gilaki woman from Rasht, married and
-    mother of one child. She was targeted from behind by government forces.
+    Shot directly by government suppression forces during popular protests on Thursday evening. She was a 38-year-old Gilaki woman from Rasht, married and mother of one child. She was targeted from behind by government forces.
+    Shot in the heart from behind during protests in Rasht. Left behind a young son who keeps asking why there are no photos of his mother anywhere.
 event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
 responsible_forces: null
-
-# --- VERIFICATION ---
 status: "unverified"
 sources:
   - url: "https://iranvictims.com"
     name: "iranvictims.com — Victim #4435"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://x.com/allahbakhshii/status/2015140272481374387"
     name: "Source"
     date: null
-    type: primary
+    type: "primary"
   - url: "https://x.com/hengawo/status/2015372459046785176"
     name: "Hengaw Organization"
     date: null
-    type: primary
+    type: "primary"
   - url: "https://t.me/RememberTheirNames/1092"
     name: "Source"
     date: null
-    type: primary
+    type: "primary"
   - url: "https://javidnaman.iranintl.com/memorial/arh0kOme1YEvhe6nUji1pV"
     name: "Iran International"
     date: null
-    type: primary
-last_updated: 2026-02-12
+    type: "primary"
+  - url: "https://x.com/mojtabapourbakh/status/2015162980954956004"
+    name: "Source"
+    date: null
+    type: "primary"
+  - url: "https://x.com/Sssccpp/status/2015177486187761792"
+    name: "Source"
+    date: null
+    type: "primary"
+  - url: "https://x.com/persuasion_elli/status/2016954140539146724"
+    name: "Source"
+    date: null
+    type: "primary"
+last_updated: "2026-02-13"
 updated_by: "iranvictims-csv-import"

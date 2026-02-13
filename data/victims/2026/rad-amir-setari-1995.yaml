@@ -1,37 +1,42 @@
-id: rad-amir-setari-1995
+id: "rad-amir-setari-1995"
 name_latin: "Amir Setari Rad"
 name_farsi: "امیر ستاری‌راد"
-date_of_birth: null  # est. birth year: 1995
+date_of_birth: null
 place_of_birth: null
-gender: male
+gender: "male"
 ethnicity: null
 photo: "https://storage.googleapis.com/media-cdn-7k9x2/img_22665_0_instagram_v1.jpg"
-# --- DEATH ---
 date_of_death: 2026-01-09
 age_at_death: 31
 place_of_death: "Karaj"
 province: "Alborz"
 cause_of_death: "Gunshot"
 circumstances: >
-    Shot directly by government suppression forces during protests in Haft Houz
-    area
+    Shot directly by government suppression forces during protests in Haft Houz area
+    Listed in Iran International Memorial, located in Mehr Shahr, Karaj
 event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
 responsible_forces: null
-
-# --- VERIFICATION ---
 status: "unverified"
 sources:
   - url: "https://iranvictims.com"
     name: "iranvictims.com — Victim #1645"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://www.instagram.com/p/DUBA8_TAWWU"
     name: "Source"
     date: null
-    type: primary
+    type: "primary"
   - url: "https://t.me/RememberTheirNames/1603"
     name: "Source"
     date: null
-    type: primary
-last_updated: 2026-02-12
+    type: "primary"
+  - url: "https://javidnaman.iranintl.com/memorial/vN7MNz32cVvzOpuuClRIsZ"
+    name: "Iran International"
+    date: null
+    type: "primary"
+  - url: "https://t.me/RememberTheirNames/239"
+    name: "Source"
+    date: null
+    type: "primary"
+last_updated: "2026-02-13"
 updated_by: "iranvictims-csv-import"

@@ -1,39 +1,38 @@
-id: kamal-javad-taheri-2002
+id: "kamal-javad-taheri-2002"
 name_latin: "Javad Taheri Kamal"
 name_farsi: "جواد طاهری کمال"
-date_of_birth: null  # est. birth year: 2002
+date_of_birth: null
 place_of_birth: null
-gender: male
+gender: "male"
 ethnicity: null
 photo: "https://storage.googleapis.com/media-cdn-7k9x2/img_23623_0_twitter_v1.jpg"
-# --- DEATH ---
 date_of_death: 2026-01-09
 age_at_death: 24
 place_of_death: "Karaj"
 province: "Alborz"
 cause_of_death: "Gunshot (headshot)"
 circumstances: >
-    Shot in the head with a military bullet by Khamenei's mercenaries in Fardis
-    city. His lifeless body was returned by two friends who were with him, given
-    to his family, and buried at night in one of the villages near Arak without a
-    death certificate.
+    Shot in the head with a military bullet by Khamenei's mercenaries in Fardis city. His lifeless body was returned by two friends who were with him, given to his family, and buried at night in one of the villages near Arak without a death certificate.
+    Died on 19 Dey 1404 in Malard
 event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
 responsible_forces: null
-
-# --- VERIFICATION ---
 status: "unverified"
 sources:
   - url: "https://iranvictims.com"
     name: "iranvictims.com — Victim #2119"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://x.com/nika_injast/status/2016948464681193676"
     name: "Source"
     date: null
-    type: primary
+    type: "primary"
   - url: "https://x.com/kyokushinsoofi/status/2019558160713884150"
     name: "Source"
     date: null
-    type: primary
-last_updated: 2026-02-12
+    type: "primary"
+  - url: "https://t.me/RememberTheirNames/1930"
+    name: "Source"
+    date: null
+    type: "primary"
+last_updated: "2026-02-13"
 updated_by: "iranvictims-csv-import"

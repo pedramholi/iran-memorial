@@ -1,308 +1,322 @@
-id: ghli-pvr-rza-2
-name_latin: null  # needs transliteration
+id: "ghli-pvr-rza-2"
+name_latin: null
 name_farsi: "رضا قلی‌‌پور"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: "male"
 ethnicity: null
-photo: null
-
-# --- DEATH ---
+photo: "https://storage.googleapis.com/media-cdn-7k9x2/img_41805_0_twitter_v1.jpg"
 date_of_death: 2026-01-08
-age_at_death: null
+age_at_death: 20
 place_of_death: "مشهد"
 province: "Razavi Khorasan"
 cause_of_death: null
-circumstances: null
+circumstances: >
+    Supermarket owner killed in Mashhad, Shaqayeq Street, Haft-e Tir Boulevard
+
 event_context: "2025-2026 Iranian nationwide protests"
 responsible_forces: null
-
-# --- VERIFICATION ---
 status: "unverified"
 sources:
   - url: "https://t.me/RememberTheirNames/2512"
     name: "RememberTheirNames Telegram — #2387"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/999"
     name: "RememberTheirNames Telegram — #946"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/2730"
     name: "RememberTheirNames Telegram — #2588"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/1452"
     name: "RememberTheirNames Telegram — #1382"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/2767"
     name: "RememberTheirNames Telegram — #2622"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/2722"
     name: "RememberTheirNames Telegram — #2580"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/856"
     name: "RememberTheirNames Telegram — #804"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/508"
     name: "RememberTheirNames Telegram — #471"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/1309"
     name: "RememberTheirNames Telegram — #1242"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/2650"
     name: "RememberTheirNames Telegram — #2519"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/1962"
     name: "RememberTheirNames Telegram — #1862"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/2208"
     name: "RememberTheirNames Telegram — #2093"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/1614"
     name: "RememberTheirNames Telegram — #1530"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/2201"
     name: "RememberTheirNames Telegram — #2086"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/202"
     name: "RememberTheirNames Telegram — #169"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/1120"
     name: "RememberTheirNames Telegram — #1061"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/750"
     name: "RememberTheirNames Telegram — #700"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/2082"
     name: "RememberTheirNames Telegram — #1975"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/251"
     name: "RememberTheirNames Telegram — #219"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/147"
     name: "RememberTheirNames Telegram — #116"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/2253"
     name: "RememberTheirNames Telegram — #2136"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/1658"
     name: "RememberTheirNames Telegram — #1573"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/2697"
     name: "RememberTheirNames Telegram — #2556"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/2449"
     name: "RememberTheirNames Telegram — #2327"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/1250"
     name: "RememberTheirNames Telegram — #1184"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/2757"
     name: "RememberTheirNames Telegram — #2614"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/163"
     name: "RememberTheirNames Telegram — #131"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/2481"
     name: "RememberTheirNames Telegram — #2359"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/505"
     name: "RememberTheirNames Telegram — #469"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/2784"
     name: "RememberTheirNames Telegram — #2637"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/599"
     name: "RememberTheirNames Telegram — #557"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/1322"
     name: "RememberTheirNames Telegram — #1256"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/1177"
     name: "RememberTheirNames Telegram — #1114"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/2755"
     name: "RememberTheirNames Telegram — #2612"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/1675"
     name: "RememberTheirNames Telegram — #1590"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/105"
     name: "RememberTheirNames Telegram — #74"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/932"
     name: "RememberTheirNames Telegram — #880"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/2702"
     name: "RememberTheirNames Telegram — #2561"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/1997"
     name: "RememberTheirNames Telegram — #1897"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/2184"
     name: "RememberTheirNames Telegram — #2070"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/204"
     name: "RememberTheirNames Telegram — #171"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/210"
     name: "RememberTheirNames Telegram — #177"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/1174"
     name: "RememberTheirNames Telegram — #1111"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/582"
     name: "RememberTheirNames Telegram — #541"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/1379"
     name: "RememberTheirNames Telegram — #1311"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/1408"
     name: "RememberTheirNames Telegram — #1339"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/2311"
     name: "RememberTheirNames Telegram — #2193"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/777"
     name: "RememberTheirNames Telegram — #727"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/1915"
     name: "RememberTheirNames Telegram — #1814"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/2333"
     name: "RememberTheirNames Telegram — #2214"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/729"
     name: "RememberTheirNames Telegram — #680"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/2775"
     name: "RememberTheirNames Telegram — #2629"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/1119"
     name: "RememberTheirNames Telegram — #1060"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/2715"
     name: "RememberTheirNames Telegram — #2573"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/1132"
     name: "RememberTheirNames Telegram — #1072"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/2314"
     name: "RememberTheirNames Telegram — #2196"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/1469"
     name: "RememberTheirNames Telegram — #1397"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/2049"
     name: "RememberTheirNames Telegram — #1945"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/1252"
     name: "RememberTheirNames Telegram — #1186"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/956"
     name: "RememberTheirNames Telegram — #904"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/1711"
     name: "RememberTheirNames Telegram — #1625"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/1348"
     name: "RememberTheirNames Telegram — #1281"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/714"
     name: "RememberTheirNames Telegram — #667"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/2786"
     name: "RememberTheirNames Telegram — #2639"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/540"
     name: "RememberTheirNames Telegram — #502"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/2768"
     name: "RememberTheirNames Telegram — #2623"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/2713"
     name: "RememberTheirNames Telegram — #2571"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/1780"
     name: "RememberTheirNames Telegram — #1692"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/2778"
     name: "RememberTheirNames Telegram — #2631"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/1968"
     name: "RememberTheirNames Telegram — #1869"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/1042"
     name: "RememberTheirNames Telegram — #987"
     date: null
-    type: community_database
-last_updated: 2026-02-12
+    type: "community_database"
+  - url: "https://iranvictims.com"
+    name: "iranvictims.com — Victim #998"
+    date: null
+    type: "community_database"
+  - url: "https://x.com/gr2493/status/2014837951394725972"
+    name: "Source"
+    date: null
+    type: "primary"
+  - url: "https://x.com/hamiparvane/status/2016280101512474649"
+    name: "Source"
+    date: null
+    type: "primary"
+  - url: "https://x.com/allahbakhshii/status/2013882320428597386"
+    name: "Source"
+    date: null
+    type: "primary"
+last_updated: "2026-02-13"
 updated_by: "telegram-rtn-import"

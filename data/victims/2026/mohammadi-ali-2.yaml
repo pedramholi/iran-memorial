@@ -1,53 +1,63 @@
-id: mohammadi-ali-2
+id: "mohammadi-ali-2"
 name_latin: "Ali Mohammadi"
 name_farsi: "علی محمدی"
 date_of_birth: null
 place_of_birth: null
-gender: male
+gender: "male"
 ethnicity: null
 photo: "https://storage.googleapis.com/media-cdn-7k9x2/img_26412_0_web_v1.jpg"
-# --- DEATH ---
-date_of_death: null
+date_of_death: 2026-01-08
 age_at_death: 43
 place_of_death: "Karaj, Alborz"
 province: "Alborz"
-cause_of_death: null
+cause_of_death: "Gunshot"
 circumstances: >
     Victim commemorated in Iran International memorial
+    19-year-old Kurdish citizen from Norabad Delfan killed during popular protests in Qarchak, Tehran province. Shot by military-security forces of the Islamic Republic with war bullets hitting his left arm and heart. Despite being transferred to hospital with family present, his body was not handed over to them. Family later found his body among hundreds of other victims' bodies in Kahrizak and received it at Behesht-e Zahra cemetery. Burial ceremony held in one of the villages of Norabad Delfan in Lorestan province.
 event_context: "2025-2026 Iranian nationwide protests"
 responsible_forces: null
-
-# --- VERIFICATION ---
 status: "unverified"
 sources:
   - url: "https://www.iranrights.org/memorial/story/77158/ali-mohammadi"
     name: "Abdorrahman Boroumand Center — Omid Memorial"
-    type: memorial_database
+    type: "memorial_database"
   - url: "https://www.iranrights.org/memorial/story/84439/ali-mohammadi"
     name: "Abdorrahman Boroumand Center — Omid Memorial"
-    type: memorial_database
+    type: "memorial_database"
   - url: "https://www.iranrights.org/memorial/story/17716/ali-mohammadi"
     name: "Abdorrahman Boroumand Center — Omid Memorial"
-    type: memorial_database
+    type: "memorial_database"
   - url: "https://www.iranrights.org/memorial/story/24021/ali-mohammadi"
     name: "Abdorrahman Boroumand Center — Omid Memorial"
-    type: memorial_database
+    type: "memorial_database"
   - url: "https://www.iranrights.org/memorial/story/71586/ali-mohammadi"
     name: "Abdorrahman Boroumand Center — Omid Memorial"
-    type: memorial_database
+    type: "memorial_database"
   - url: "https://www.iranrights.org/memorial/story/71587/ali-mohammadi"
     name: "Abdorrahman Boroumand Center — Omid Memorial"
-    type: memorial_database
+    type: "memorial_database"
   - url: "https://www.iranrights.org/memorial/story/71588/ali-mohammadi"
     name: "Abdorrahman Boroumand Center — Omid Memorial"
-    type: memorial_database
+    type: "memorial_database"
   - url: "https://iranvictims.com"
     name: "iranvictims.com — Victim #2832"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://javidnaman.iranintl.com/memorial/255P39jiXgM2t3lNmMjJ35"
     name: "Iran International"
     date: null
-    type: primary
-last_updated: 2026-02-12
+    type: "primary"
+  - url: "https://t.me/RememberTheirNames/2290"
+    name: "Source"
+    date: null
+    type: "primary"
+  - url: "https://x.com/kurdistanhrn/status/2020124130545201199"
+    name: "Source"
+    date: null
+    type: "primary"
+  - url: "https://x.com/historyinpik/status/2020971604906484148"
+    name: "Source"
+    date: null
+    type: "primary"
+last_updated: "2026-02-13"
 updated_by: "boroumand-import"

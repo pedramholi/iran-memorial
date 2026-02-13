@@ -1,37 +1,34 @@
-id: nasiri-nasir
+id: "nasiri-nasir"
 name_latin: "Nasir Nasiri"
 name_farsi: "نصیر نصیری"
 date_of_birth: null
 place_of_birth: null
-gender: male
+gender: "male"
 ethnicity: null
 photo: null
-# --- DEATH ---
 date_of_death: null
 age_at_death: null
 place_of_death: "Rostamabad, Gilan Province"
 province: "Gilan"
 cause_of_death: null
 circumstances: >
-    Kurdish citizen killed during protests in Tehran. Originally from
-    Rostamabad, Gilan Province.
+    Kurdish citizen killed during protests in Tehran. Originally from Rostamabad, Gilan Province.
+    Listed in Iran International Memorial as a victim
 event_context: "2025-2026 Iranian nationwide protests"
 responsible_forces: null
-
-# --- VERIFICATION ---
 status: "unverified"
 sources:
   - url: "https://iranvictims.com"
     name: "iranvictims.com — Victim #514"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://x.com/HengawO/status/2012889204846465369"
     name: "Hengaw Organization"
     date: null
-    type: primary
+    type: "primary"
   - url: "https://javidnaman.iranintl.com/memorial/vN7MNz32cVvzOpuuClWmZy"
     name: "Iran International"
     date: null
-    type: primary
-last_updated: 2026-02-12
+    type: "primary"
+last_updated: "2026-02-13"
 updated_by: "iranvictims-csv-import"

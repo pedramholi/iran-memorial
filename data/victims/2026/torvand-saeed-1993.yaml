@@ -1,46 +1,42 @@
-id: torvand-saeed-1993
+id: "torvand-saeed-1993"
 name_latin: "Saeed Torvand"
 name_farsi: "سعید تروند"
-date_of_birth: null  # est. birth year: 1993
+date_of_birth: null
 place_of_birth: null
-gender: male
+gender: "male"
 ethnicity: null
 photo: null
-# --- DEATH ---
 date_of_death: 2026-01-08
 age_at_death: 33
 place_of_death: "Abadan"
 province: "Khuzestan"
 cause_of_death: "Gunshot"
 circumstances: >
-    33-year-old Kurdish man from Mehran in Ilam province, oil company contractor
-    in Abadan. Shot directly with war bullets by Islamic Republic suppression
-    forces during popular protests in Abadan on Thursday evening 18 Dey 1404.
-    Family was threatened for 5 days and had to give written commitment before
-    being allowed to collect his body. Buried on Tuesday 23 Dey 1404 in his
-    birthplace, Chalab village in Mehran county. He was married with one young
-    child.
+    33-year-old Kurdish man from Mehran in Ilam province, oil company contractor in Abadan. Shot directly with war bullets by Islamic Republic suppression forces during popular protests in Abadan on Thursday evening 18 Dey 1404. Family was threatened for 5 days and had to give written commitment before being allowed to collect his body. Buried on Tuesday 23 Dey 1404 in his birthplace, Chalab village in Mehran county. He was married with one young child.
+    Engineer from Ilam province, killed by Islamic Republic regime forces while in exile. Described as sacrificing his life for freedom and homeland.
 event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
 responsible_forces: null
-
-# --- VERIFICATION ---
 status: "unverified"
 sources:
   - url: "https://iranvictims.com"
     name: "iranvictims.com — Victim #499"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://x.com/kurdpa_farsi/status/2013685872168751590"
     name: "Source"
     date: null
-    type: primary
+    type: "primary"
   - url: "https://x.com/HengawO/status/2013719279015747794"
     name: "Hengaw Organization"
     date: null
-    type: primary
+    type: "primary"
   - url: "https://www.instagram.com/p/DTxszGGCEAS"
     name: "Source"
     date: null
-    type: primary
-last_updated: 2026-02-12
+    type: "primary"
+  - url: "https://x.com/irannewsagency0/status/2019331767409233960"
+    name: "Source"
+    date: null
+    type: "primary"
+last_updated: "2026-02-13"
 updated_by: "iranvictims-csv-import"

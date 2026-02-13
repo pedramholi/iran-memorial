@@ -1,46 +1,54 @@
-id: valipour-nima-1999
+id: "valipour-nima-1999"
 name_latin: "Nima Valipour"
 name_farsi: "نیما ولی‌پور"
-date_of_birth: null  # est. birth year: 1999
+date_of_birth: null
 place_of_birth: null
-gender: male
+gender: "male"
 ethnicity: null
 photo: "https://storage.googleapis.com/media-cdn-7k9x2/img_29418_0_web_v1.jpg"
-# --- DEATH ---
 date_of_death: 2026-01-16
 age_at_death: 27
 place_of_death: "Andisheh, Tehran"
 province: "Tehran"
 cause_of_death: "Gunshot"
 circumstances: >
-    Shot in the throat by regime suppressive forces directly in front of his
-    workplace at Nagin Shopping Center, Phase 3 Andisheh, after closing his shop
-    on the evening of 19 Dey 1404. He immediately fell into a coma and after
-    several days of struggling with death, died on 27 Dey. His body was buried in
-    his birthplace Qaem-shahr. He was a young man full of hope and dreams, and his
-    only 'crime' was being present on the street during the national uprising of
-    the Iranian people.
+    Shot in the throat by regime suppressive forces directly in front of his workplace at Nagin Shopping Center, Phase 3 Andisheh, after closing his shop on the evening of 19 Dey 1404. He immediately fell into a coma and after several days of struggling with death, died on 27 Dey. His body was buried in his birthplace Qaem-shahr. He was a young man full of hope and dreams, and his only 'crime' was being present on the street during the national uprising of the Iranian people.
+    Shot in the throat while standing in front of his protein shop in Andisheh Phase 3 on 19 Dey. Was in a coma for 10 days before dying. Described as an athlete who was cheerful and full of life enthusiasm. Buried in his birthplace Qaemshahr.
 event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
 responsible_forces: null
-
-# --- VERIFICATION ---
 status: "unverified"
 sources:
   - url: "https://iranvictims.com"
     name: "iranvictims.com — Victim #3480"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://javidnaman.iranintl.com/memorial/faVC3p6tCxw9DOdQYByKyK"
     name: "Iran International"
     date: null
-    type: primary
+    type: "primary"
   - url: "https://www.instagram.com/p/DURgbsukbmV"
     name: "Source"
     date: null
-    type: primary
+    type: "primary"
   - url: "https://x.com/irannewsagency0/status/2018677511240953914"
     name: "Source"
     date: null
-    type: primary
-last_updated: 2026-02-12
+    type: "primary"
+  - url: "https://x.com/HeKasrehCrisis/status/2018035617288835524"
+    name: "Source"
+    date: null
+    type: "primary"
+  - url: "https://x.com/persephone7597/status/2016941788079022381"
+    name: "Source"
+    date: null
+    type: "primary"
+  - url: "https://x.com/i/status/2016941788079022381"
+    name: "Source"
+    date: null
+    type: "primary"
+  - url: "https://x.com/HeKasrehCrisis/status/2018036085410951581"
+    name: "Source"
+    date: null
+    type: "primary"
+last_updated: "2026-02-13"
 updated_by: "iranvictims-csv-import"

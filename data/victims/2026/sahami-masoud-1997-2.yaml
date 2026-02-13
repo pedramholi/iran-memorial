@@ -1,37 +1,47 @@
-id: sahami-masoud-1997-2
+id: "sahami-masoud-1997-2"
 name_latin: "Masoud Sahami"
 name_farsi: "مسعود سهامی"
-date_of_birth: null  # est. birth year: 1997
+date_of_birth: null
 place_of_birth: null
-gender: male
+gender: "male"
 ethnicity: null
 photo: null
-# --- DEATH ---
 date_of_death: 2026-01-08
 age_at_death: 29
 place_of_death: "Islamabad-e Gharb"
 province: "Kermanshah"
 cause_of_death: "Gunshot"
 circumstances: >
-  Shot on 18 Dey (2026-01-08), bullet hit his back causing spinal cord injury,
-  died on 19 Dey (2026-01-09)
+    Shot on 18 Dey (2026-01-08), bullet hit his back causing spinal cord injury, died on 19 Dey (2026-01-09)
+    Killed during protests in Islamabad-e Gharb (Shababad). Identity confirmed by Hengaw Organization for Human Rights as one of 14 confirmed fatalities.
+    Died in Islamabad-e Gharb, Kermanshah Province
 event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
 responsible_forces: null
-
-# --- VERIFICATION ---
 status: "unverified"
 sources:
   - url: "https://iranvictims.com"
     name: "iranvictims.com — Victim #4607"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://t.me/RememberTheirNames/545"
     name: "Source"
     date: null
-    type: primary
+    type: "primary"
   - url: "https://x.com/historyinpik/status/2019902843638190547"
     name: "Source"
     date: null
-    type: primary
-last_updated: 2026-02-12
+    type: "primary"
+  - url: "https://x.com/HengawO/status/2014072784213754211"
+    name: "Hengaw Organization"
+    date: null
+    type: "primary"
+  - url: "https://x.com/KurdistanHRN/status/2015913476179325172"
+    name: "Source"
+    date: null
+    type: "primary"
+  - url: "https://x.com/hekasrehcrisis/status/2017474670878957660"
+    name: "Source"
+    date: null
+    type: "primary"
+last_updated: "2026-02-13"
 updated_by: "iranvictims-csv-import"

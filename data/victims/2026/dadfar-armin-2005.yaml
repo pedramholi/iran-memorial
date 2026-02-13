@@ -1,47 +1,42 @@
-id: dadfar-armin-2005
+id: "dadfar-armin-2005"
 name_latin: "Armin Dadfar"
 name_farsi: "آرمین دادفر"
-date_of_birth: null  # est. birth year: 2005
+date_of_birth: null
 place_of_birth: null
-gender: male
+gender: "male"
 ethnicity: null
 photo: "https://storage.googleapis.com/media-cdn-7k9x2/img_27075_0_web_v1.jpg"
-# --- DEATH ---
 date_of_death: 2026-01-08
 age_at_death: 21
 place_of_death: "Ilam"
 province: "Ilam"
 cause_of_death: "Gunshot"
 circumstances: >
-    21-year-old Kurdish man from Badrah county in Ilam province. Shot and killed
-    by direct gunfire from Islamic Republic suppression forces during popular
-    protests in Ilam on Thursday evening 18 Dey 1404. Son of Mokhtar, from Sartang
-    village in Badrah county, Ilam province.
+    21-year-old Kurdish man from Badrah county in Ilam province. Shot and killed by direct gunfire from Islamic Republic suppression forces during popular protests in Ilam on Thursday evening 18 Dey 1404. Son of Mokhtar, from Sartang village in Badrah county, Ilam province.
+    Killed during protests in Kermanshah or Badrah areas
 event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
 responsible_forces: null
-
-# --- VERIFICATION ---
 status: "unverified"
 sources:
   - url: "https://iranvictims.com"
     name: "iranvictims.com — Victim #3106"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://javidnaman.iranintl.com/memorial/vN7MNz32cVvzOpuuClT0Mc"
     name: "Iran International"
     date: null
-    type: primary
+    type: "primary"
   - url: "https://x.com/kurdpa_farsi/status/2014228415423942788"
     name: "Source"
     date: null
-    type: primary
+    type: "primary"
   - url: "https://t.me/RememberTheirNames/608"
     name: "Source"
     date: null
-    type: primary
+    type: "primary"
   - url: "https://x.com/HengawO/status/2014280444745830546"
     name: "Hengaw Organization"
     date: null
-    type: primary
-last_updated: 2026-02-12
+    type: "primary"
+last_updated: "2026-02-13"
 updated_by: "iranvictims-csv-import"

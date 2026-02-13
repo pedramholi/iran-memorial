@@ -1,42 +1,46 @@
-id: alimohammadi-fatemeh-2002
+id: "alimohammadi-fatemeh-2002"
 name_latin: "Fatemeh Alimohammadi"
 name_farsi: "فاطمه علی‌محمدی"
-date_of_birth: null  # est. birth year: 2002
+date_of_birth: null
 place_of_birth: null
-gender: female
+gender: "female"
 ethnicity: null
-photo: null
-# --- DEATH ---
+photo: "https://storage.googleapis.com/media-cdn-7k9x2/img_40398_0_twitter_v1.jpg"
 date_of_death: 2026-01-08
 age_at_death: 24
 place_of_death: "Hashtgerd"
 province: "Alborz"
 cause_of_death: null
 circumstances: >
-    Nuclear physics engineer and inventor of nuclear chips. Described as a
-    scientific elite who sacrificed her life for the homeland. Killed on 18 Dey in
-    Hashtgerd.
+    Nuclear physics engineer and inventor of nuclear chips. Described as a scientific elite who sacrificed her life for the homeland. Killed on 18 Dey in Hashtgerd.
+    24-year-old elite graduate student of nuclear physics at Mazandaran University, inventor and young monarchist supporter, killed by Islamic Republic terrorists while helping another wounded person. Three years earlier she lost her father to illness and lived with her mother and sister. She called herself the 'little man of the house'.
 event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
 responsible_forces: null
-
-# --- VERIFICATION ---
 status: "unverified"
 sources:
   - url: "https://iranvictims.com"
     name: "iranvictims.com — Victim #2580"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://x.com/me_hamed_myself/status/2017685781943406723"
     name: "Source"
     date: null
-    type: primary
+    type: "primary"
   - url: "https://x.com/irannewsagency0/status/2018271241224732862"
     name: "Source"
     date: null
-    type: primary
+    type: "primary"
   - url: "https://x.com/allahbakhshii/status/2018269571715571713"
     name: "Source"
     date: null
-    type: primary
-last_updated: 2026-02-12
+    type: "primary"
+  - url: "https://x.com/i/status/2019183461966479742"
+    name: "Source"
+    date: null
+    type: "primary"
+  - url: "https://t.me/RememberTheirNames/2050"
+    name: "RememberTheirNames Telegram — #1946"
+    date: null
+    type: "community_database"
+last_updated: "2026-02-13"
 updated_by: "iranvictims-csv-import"

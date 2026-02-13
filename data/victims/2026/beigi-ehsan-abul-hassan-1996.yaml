@@ -1,43 +1,38 @@
-id: beigi-ehsan-abul-hassan-1996
+id: "beigi-ehsan-abul-hassan-1996"
 name_latin: "Ehsan Abul-Hassan Beigi"
 name_farsi: "احسان ابوالحسنی بیگی"
-date_of_birth: null  # est. birth year: 1996
+date_of_birth: null
 place_of_birth: null
-gender: male
+gender: "male"
 ethnicity: null
 photo: null
-# --- DEATH ---
 date_of_death: 2026-01-08
 age_at_death: 30
 place_of_death: "Shiraz"
 province: "Fars"
 cause_of_death: "Gunshot"
 circumstances: >
-  Shot directly in the throat and several other parts of his body while
-  engaged in hand-to-hand combat with several suppression forces. Died from
-  bleeding caused by throat wound. Was single and had been supporting and caring
-  for his brother who had cancer, covering his medical expenses.
+    Shot directly in the throat and several other parts of his body while engaged in hand-to-hand combat with several suppression forces. Died from bleeding caused by throat wound. Was single and had been supporting and caring for his brother who had cancer, covering his medical expenses.
+
 event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
 responsible_forces: null
-
-# --- VERIFICATION ---
 status: "unverified"
 sources:
   - url: "https://iranvictims.com"
     name: "iranvictims.com — Victim #1571"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://x.com/KyokushinSoofi/status/2015891206450868676"
     name: "Source"
     date: null
-    type: primary
+    type: "primary"
   - url: "https://x.com/hekasrehcrisis/status/2016585434411814938"
     name: "Source"
     date: null
-    type: primary
+    type: "primary"
   - url: "https://t.me/RememberTheirNames/1521"
     name: "Source"
     date: null
-    type: primary
-last_updated: 2026-02-12
+    type: "primary"
+last_updated: "2026-02-13"
 updated_by: "iranvictims-csv-import"

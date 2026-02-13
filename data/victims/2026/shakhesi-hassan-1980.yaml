@@ -1,42 +1,42 @@
-id: shakhesi-hassan-1980
+id: "shakhesi-hassan-1980"
 name_latin: "Hassan Shakhesi"
 name_farsi: "حسن شاخصی"
-date_of_birth: null  # est. birth year: 1980
+date_of_birth: null
 place_of_birth: null
-gender: male
+gender: "male"
 ethnicity: null
-photo: null
-# --- DEATH ---
+photo: "https://storage.googleapis.com/media-cdn-7k9x2/img_34290_0_twitter_v1.jpg"
 date_of_death: 2026-01-08
 age_at_death: 46
 place_of_death: "Tehranpars, Tehran"
 province: "Tehran"
-cause_of_death: null
+cause_of_death: "Gunshot"
 circumstances: >
-    Killed by IR security forces during protests in Tehranpars district. Body
-    was released for burial but exact time, location of death, and circumstances
-    of body release are not available.
+    Killed by IR security forces during protests in Tehranpars district. Body was released for burial but exact time, location of death, and circumstances of body release are not available.
+    Father of two children aged 16 and 13. Shot in the heart with a war bullet by security forces while helping wounded protesters to safety in Tehranpars area during protests. He was helping transport injured people to safe locations when he was targeted and killed by Islamic Republic security agents. According to his friend, after seeing wounded and killed compatriots, he shouted 'Don't be afraid, I am your bodyguard' and rescued several wounded people, taking them to parking areas of nearby houses. He was shot from behind in his pure heart by Zahhak agents while going back to help another person.
 event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
 responsible_forces: null
-
-# --- VERIFICATION ---
 status: "unverified"
 sources:
   - url: "https://iranvictims.com"
     name: "iranvictims.com — Victim #111"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://x.com/Daikatuo/status/2011843247153246303"
     name: "Source"
     date: null
-    type: primary
+    type: "primary"
   - url: "https://x.com/soranmansournia/status/2012472223093727736"
     name: "Source"
     date: null
-    type: primary
+    type: "primary"
   - url: "https://x.com/Soranmansournia/status/2012472223093727736"
     name: "Source"
     date: null
-    type: primary
-last_updated: 2026-02-12
+    type: "primary"
+  - url: "https://x.com/kayhanlondon/status/2019084887651737749"
+    name: "Source"
+    date: null
+    type: "primary"
+last_updated: "2026-02-13"
 updated_by: "iranvictims-csv-import"

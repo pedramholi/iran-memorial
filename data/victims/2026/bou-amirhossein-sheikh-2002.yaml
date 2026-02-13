@@ -1,12 +1,11 @@
-id: bou-amirhossein-sheikh-2002
+id: "bou-amirhossein-sheikh-2002"
 name_latin: "Amirhossein Sheikh Bou"
 name_farsi: "امیرحسین شیخ بو"
-date_of_birth: null  # est. birth year: 2002
+date_of_birth: null
 place_of_birth: null
-gender: male
+gender: "male"
 ethnicity: null
 photo: null
-# --- DEATH ---
 date_of_death: 2026-01-08
 age_at_death: 24
 place_of_death: "Mashhad"
@@ -14,23 +13,26 @@ province: "Khorasan-e Razavi"
 cause_of_death: "Gunshot"
 circumstances: >
     Shot directly by government suppressive forces during people's protests
+    Listed as victim number 414 in memorial post
 event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
 responsible_forces: null
-
-# --- VERIFICATION ---
 status: "unverified"
 sources:
   - url: "https://iranvictims.com"
     name: "iranvictims.com — Victim #3233"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://x.com/ReadThis2wice/status/2017485749525086380"
     name: "Source"
     date: null
-    type: primary
+    type: "primary"
   - url: "https://x.com/manotonews/status/2015862302831222978"
     name: "Source"
     date: null
-    type: primary
-last_updated: 2026-02-12
+    type: "primary"
+  - url: "https://t.me/RememberTheirNames/449"
+    name: "Source"
+    date: null
+    type: "primary"
+last_updated: "2026-02-13"
 updated_by: "iranvictims-csv-import"

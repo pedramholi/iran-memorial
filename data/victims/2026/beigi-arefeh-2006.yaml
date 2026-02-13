@@ -1,44 +1,42 @@
-id: beigi-arefeh-2006
+id: "beigi-arefeh-2006"
 name_latin: "Arefeh Beigi"
 name_farsi: "عارفه بیگی"
-date_of_birth: null  # est. birth year: 2006
+date_of_birth: null
 place_of_birth: null
-gender: female
+gender: "female"
 ethnicity: null
 photo: null
-# --- DEATH ---
 date_of_death: 2026-01-08
 age_at_death: 20
 place_of_death: "Zarrin Shahr, Isfahan"
 province: "Esfahan"
 cause_of_death: "Judicial execution"
 circumstances: >
-    Shot by security forces during protests. First shot in the side while still
-    alive, then executed with a shot to the head. This method constitutes a
-    deliberate execution and extrajudicial killing. Family was forced to pay 750
-    million tomans as 'bullet fee' to retrieve her body. Her body was buried eight
-    days after her death at 6 AM under strict security measures.
+    Shot by security forces during protests. First shot in the side while still alive, then executed with a shot to the head. This method constitutes a deliberate execution and extrajudicial killing. Family was forced to pay 750 million tomans as 'bullet fee' to retrieve her body. Her body was buried eight days after her death at 6 AM under strict security measures.
+    Shot by regime suppression forces in Zarinshahr, Isfahan. First shot in the side, then while still alive, executed with a bullet to the head
 event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
 responsible_forces: null
-
-# --- VERIFICATION ---
 status: "unverified"
 sources:
   - url: "https://iranvictims.com"
     name: "iranvictims.com — Victim #801"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://x.com/prdsaas/status/2014218574550696187"
     name: "Source"
     date: null
-    type: primary
+    type: "primary"
   - url: "https://x.com/MTavoli/status/2014758240987316640"
     name: "Source"
     date: null
-    type: primary
+    type: "primary"
   - url: "https://x.com/niohberg/status/2014823260320337978"
     name: "Source"
     date: null
-    type: primary
-last_updated: 2026-02-12
+    type: "primary"
+  - url: "https://x.com/isamanyasin/status/2014857093942055330"
+    name: "Source"
+    date: null
+    type: "primary"
+last_updated: "2026-02-13"
 updated_by: "iranvictims-csv-import"

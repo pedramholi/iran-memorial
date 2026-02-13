@@ -1,37 +1,42 @@
-id: armaki-ebrahim-mostafapour-1994
+id: "armaki-ebrahim-mostafapour-1994"
 name_latin: "Ebrahim Mostafapour Armaki"
 name_farsi: "ابراهیم مصطفی‌‌پور ارمکی"
-date_of_birth: null  # est. birth year: 1994
+date_of_birth: null
 place_of_birth: null
-gender: male
+gender: "male"
 ethnicity: null
 photo: null
-# --- DEATH ---
 date_of_death: 2026-01-08
 age_at_death: 32
 place_of_death: "Babol, Mazandaran"
 province: "Mazandaran"
 cause_of_death: null
 circumstances: >
-    Listed in Iran International Memorial - specific circumstances of death not
-    provided in available information
+    Listed in Iran International Memorial - specific circumstances of death not provided in available information
+
 event_context: "2025-2026 Iranian nationwide protests (January 2026 uprising)"
 responsible_forces: null
-
-# --- VERIFICATION ---
 status: "unverified"
 sources:
   - url: "https://iranvictims.com"
     name: "iranvictims.com — Victim #2786"
     date: null
-    type: community_database
+    type: "community_database"
   - url: "https://javidnaman.iranintl.com/memorial/255P39jiXgM2t3lNmMgGM3"
     name: "Iran International"
     date: null
-    type: primary
+    type: "primary"
   - url: "https://t.me/RememberTheirNames/1985"
     name: "Source"
     date: null
-    type: primary
-last_updated: 2026-02-12
+    type: "primary"
+  - url: "https://t.me/RememberTheirNames/2472"
+    name: "RememberTheirNames Telegram — #2350"
+    date: null
+    type: "community_database"
+  - url: "https://t.me/RememberTheirNames/1371"
+    name: "RememberTheirNames Telegram — #1303"
+    date: null
+    type: "community_database"
+last_updated: "2026-02-13"
 updated_by: "iranvictims-csv-import"
