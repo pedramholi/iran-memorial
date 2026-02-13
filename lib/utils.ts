@@ -44,10 +44,7 @@ export function formatKilledRange(
   high: number | null | undefined,
   locale: Locale
 ): string {
-  if (low && high && low !== high) {
-    return `${formatNumber(low, locale)}–${formatNumber(high, locale)}`;
-  }
-  if (low) return formatNumber(low, locale);
   if (high) return formatNumber(high, locale);
+  if (low) return formatNumber(low, locale);
   return "";
 }
