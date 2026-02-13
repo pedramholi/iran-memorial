@@ -3,10 +3,13 @@ name_latin: "Qodratollah Torkaman"
 name_farsi: "قدرت الله ترکمن"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+occupation: "military"
 
 # --- DEATH ---
 date_of_death: 1981-12-22
@@ -85,9 +88,8 @@ circumstances: >
     Based on the information released in July 1980 following the first
     executions of those involved in the coup, the defendants confessions and
     the re
-event_context: null
-responsible_forces: null
-
+event_context: "Tudeh Party persecution"
+responsible_forces: "Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

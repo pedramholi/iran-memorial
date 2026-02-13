@@ -37,8 +37,7 @@ circumstances: >
     Judicial Council, the sentence was carried out in the presence of judicial
     officials in the Shahrebani (police) Prison at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

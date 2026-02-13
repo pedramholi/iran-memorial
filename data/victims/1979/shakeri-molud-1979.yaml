@@ -3,7 +3,7 @@ name_latin: "Molud Shakeri"
 name_farsi: "مولود شاکری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -43,8 +43,7 @@ circumstances: >
     Sergeant Shakeri to death, “after hours of deliberation.” He was executed
     at 2:30 a.m., 6 to 9 days after his alleged crime.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

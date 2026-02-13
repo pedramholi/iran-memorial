@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+education: "high school"
+
 # --- DEATH ---
 date_of_death: 1981-09-27
 age_at_death: 15
@@ -85,9 +88,8 @@ circumstances: >
     impeached President (Banisadr) fled Iran to reside in France, where they
     founded the National Council of Resistance. After the MKO leaders and many
     of its members were expelled from France, they went to Iraq and founded th
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq"
+responsible_forces: "Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

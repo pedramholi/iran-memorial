@@ -39,8 +39,7 @@ circumstances: >
     in the presence of a representative of the Public Prosecution Office and
     Head of the Police Department.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

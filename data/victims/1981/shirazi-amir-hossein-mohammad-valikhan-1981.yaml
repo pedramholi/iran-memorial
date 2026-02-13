@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+occupation: "military"
+education: "high school"
+
 # --- DEATH ---
 date_of_death: 1981-10-05
 age_at_death: null
@@ -85,9 +89,8 @@ circumstances: >
     corruptor on earth. The sentence was carried out at dawn in the courtyard
     of the Prison. _________________________ *The exclusion of MKO members
     from government offices and the closure of thei
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq"
+responsible_forces: "Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

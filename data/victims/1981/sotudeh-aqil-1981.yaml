@@ -3,10 +3,13 @@ name_latin: "Aqil Sotudeh"
 name_farsi: "عقیل ستوده"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+education: "high school"
 
 # --- DEATH ---
 date_of_death: 1981-08-19
@@ -86,9 +89,8 @@ circumstances: >
     In the summer of 1981, the leader of the MKO and the impeached President
     (Banisadr) fled Iran to reside in France, where they founded the National
     Council of Resi
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq"
+responsible_forces: "Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

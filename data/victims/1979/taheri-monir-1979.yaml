@@ -3,10 +3,14 @@ name_latin: "Monir Taheri"
 name_farsi: "منیر طاهری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "military"
+education: "high school"
 
 # --- DEATH ---
 date_of_death: 1979-02-23
@@ -86,8 +90,7 @@ circumstances: >
     torture in Shiraz and Mashhad. It pointed to the fact that the defendant
     had never served in, nor been to, Shiraz and h
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Revolutionary Committee, Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

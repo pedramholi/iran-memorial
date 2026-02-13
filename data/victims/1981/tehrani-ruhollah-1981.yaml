@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+occupation: "teacher"
+
 # --- DEATH ---
 date_of_death: 1981-08-29
 age_at_death: null
@@ -43,7 +46,7 @@ circumstances: >
     Ruhollah Tehrani was executed by firing squad in Tehran on August 29,
     1981. No specific information is available about the defendant’s
     execution.
-event_context: null
+event_context: "Mojahedin-e Khalq; Tudeh Party persecution; 1979 Revolution"
 responsible_forces: null
 
 # --- VERIFICATION ---

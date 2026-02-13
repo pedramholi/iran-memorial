@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+occupation: "lawyer"
+
 # --- DEATH ---
 date_of_death: 1983-01-01
 age_at_death: null
@@ -54,9 +57,8 @@ circumstances: >
     specific information is available about the verdict leading to this
     execution. Ms. Shoreh Shirzad was shot by a firing squad in Evin prison in
     the winter of 1983.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq; Tudeh Party persecution; 1979 Revolution"
+responsible_forces: "Prison authorities (Evin)"
 # --- VERIFICATION ---
 status: unverified
 sources:

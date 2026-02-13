@@ -2,8 +2,8 @@ id: shafii-satiar-1979
 name_latin: "Satiar Shafi'i"
 name_farsi: "ساتیار شفیعی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Seifabad, Fars Province"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,9 +38,8 @@ circumstances: >
     however, according to Kauhan , “the execution was to take place in Shiraz
     for certain reasons”. Mr. Satiar Shafi’i and his brother were executed by
     firing squad in Shiraz at 2 a.m. on December 7, 1979.
-event_context: null
-responsible_forces: null
-
+event_context: "1979 execution"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

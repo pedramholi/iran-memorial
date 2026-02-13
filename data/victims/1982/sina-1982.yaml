@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+occupation: "professor"
+
 # --- DEATH ---
 date_of_death: 1982-07-18
 age_at_death: 31
@@ -35,9 +38,8 @@ circumstances: >
     information regarding the evidence provided against the defendant. Defense
     No information is available on Mr./Ms. Sina’s defense. Judgment There is
     no information on the verdict leading to this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq"
+responsible_forces: "Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+occupation: "military"
+education: "high school"
+
 # --- DEATH ---
 date_of_death: 1981-12-06
 age_at_death: 21
@@ -83,9 +87,8 @@ circumstances: >
     In defense: In spite of the armed struggle announcement by the MKO on June
     20, 1981, many sympathizers of the organization had no military training,
     were not armed, and did not participate in armed conflict.
-event_context: null
-responsible_forces: null
-
+event_context: "Iran-Iraq War; Mojahedin-e Khalq"
+responsible_forces: "Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

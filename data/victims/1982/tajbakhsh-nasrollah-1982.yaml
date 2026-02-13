@@ -3,10 +3,14 @@ name_latin: "Nasrollah Tajbakhsh"
 name_farsi: "نصرالله تاج بخش"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "student"
+education: "the student"
 
 # --- DEATH ---
 date_of_death: 1982-11-24
@@ -49,9 +53,8 @@ circumstances: >
     Judgment According to the list of Martyrs of the Peykar Organization, Mr.
     Tajbakhsh was executed by firing squad in Shiraz on November 23, 1982. He
     was 21.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq; Tudeh Party persecution; 1979 Revolution"
+responsible_forces: "Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

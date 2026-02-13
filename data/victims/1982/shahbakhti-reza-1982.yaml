@@ -1,12 +1,16 @@
 id: shahbakhti-reza-1982
 name_latin: "Reza Shahbakhti"
 name_farsi: "رضا شاه بختی"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1945-01-01"
+place_of_birth: "Sabzevar, Khorasan Razavi"
 gender: male
 ethnicity: null
 religion: null
 photo: null
+
+# --- LIFE ---
+occupation: "high school graduate"
+education: "high school graduate"
 
 # --- DEATH ---
 date_of_death: 1982-12-08
@@ -79,9 +83,8 @@ circumstances: >
     available regarding Mr. Shahbakhti’s defense. He was denied the right to
     have an attorney. Judgment Mr. Reza Shahbakhti was condemned to death and
     shot by a firing squad on December 8, 1982.
-event_context: null
-responsible_forces: null
-
+event_context: "Nojeh coup"
+responsible_forces: "Islamic Republic of Iran authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

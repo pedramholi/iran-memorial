@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+occupation: "teacher"
+education: "elementary school"
+
 # --- DEATH ---
 date_of_death: 1984-01-01
 age_at_death: 27
@@ -28,9 +32,8 @@ circumstances: >
     the evidence provided against the defendant. Defense No information is
     available on Mr./Ms. Sokuti's defense. Judgment There is no information on
     the verdict leading to this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq"
+responsible_forces: "Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

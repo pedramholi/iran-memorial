@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+occupation: "military"
+
 # --- DEATH ---
 date_of_death: 1982-03-17
 age_at_death: null
@@ -30,8 +33,7 @@ circumstances: >
     Tribunal of Sari sentenced Mr. Tadavaki to death. The sentence was carried
     out at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

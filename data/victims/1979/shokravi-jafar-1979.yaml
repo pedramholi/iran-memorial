@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "military"
+
 # --- DEATH ---
 date_of_death: 1979-05-09
 age_at_death: null
@@ -38,8 +41,7 @@ circumstances: >
     available on the defense. Judgment The defendant was sentenced to death
     and executed. No further information is available.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

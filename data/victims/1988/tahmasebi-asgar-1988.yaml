@@ -3,10 +3,14 @@ name_latin: "Asgar Tahmasebi"
 name_farsi: "عسگر طهماسبی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "military"
+education: "high school"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -85,9 +89,8 @@ circumstances: >
     near the borders. An edict of the Leader of the Islamic Republic,
     Ayatollah Khomeini, reproduced in the memoirs of Ayatollah Montazeri, his
     designated successor, corroborates the reported claims regarding the cha
-event_context: null
-responsible_forces: null
-
+event_context: "1988 prison massacres; Mojahedin-e Khalq"
+responsible_forces: "Prison authorities (Gohardasht)"
 # --- VERIFICATION ---
 status: unverified
 sources:

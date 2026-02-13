@@ -4,9 +4,12 @@ name_farsi: "علی اصغر عرب طاهری"
 date_of_birth: null
 place_of_birth: null
 gender: male
-ethnicity: null
+ethnicity: "Arab"
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "military"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -58,7 +61,7 @@ circumstances: >
     the families reject the claim of the authorities that these prisoners were
     able to engage with the political groups outside Iran. Judgment No
     sentence was issued publicly.
-event_context: null
+event_context: "Mojahedin-e Khalq"
 responsible_forces: null
 
 # --- VERIFICATION ---

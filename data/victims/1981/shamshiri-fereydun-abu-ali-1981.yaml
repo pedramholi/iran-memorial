@@ -3,7 +3,7 @@ name_latin: "Fereydun Abu 'Ali Shamshiri"
 name_farsi: "فریدون ابو علی شمشیری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
@@ -37,9 +37,8 @@ circumstances: >
     and rebellious against the Islamic government. He was sentenced to death.
     The sentence was carried out. According to the Mojahed Magazine this
     execution took place in Aghajari on December 6th.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq"
+responsible_forces: "Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

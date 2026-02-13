@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "journalist"
+
 # --- DEATH ---
 date_of_death: 1979-10-07
 age_at_death: null

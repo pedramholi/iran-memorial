@@ -3,10 +3,13 @@ name_latin: "Qodratollah Shirkhani"
 name_farsi: "قدرت الله شیرخانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+occupation: "military"
 
 # --- DEATH ---
 date_of_death: 1981-12-22
@@ -83,9 +86,8 @@ circumstances: >
     carried out when he was executed by firing squad in Orumiyeh on December
     21, 1981. No specific information is available about the defendant s
     execution.
-event_context: null
-responsible_forces: null
-
+event_context: "Tudeh Party persecution"
+responsible_forces: "Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

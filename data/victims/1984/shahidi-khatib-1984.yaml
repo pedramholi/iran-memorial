@@ -29,9 +29,8 @@ circumstances: >
     evidence provided against the defendant. Defense No information is
     available on Ms. Shahidi's defense. Judgment No specific information is
     available about this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq"
+responsible_forces: "Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Hosein Shahbazi"
 name_farsi: "حسین شهبازی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -35,9 +35,8 @@ circumstances: >
     on Mr. Shahbazi s defense. Judgment The Special Islamic Revolutionary
     Tribunal for Combating Drugs and Narcotics sentenced Mr. Shahbazi to
     death. He was executed at 11 a.m.
-event_context: null
-responsible_forces: null
-
+event_context: "1980"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

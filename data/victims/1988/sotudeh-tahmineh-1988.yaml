@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+occupation: "worker"
+
 # --- DEATH ---
 date_of_death: 1988-01-01
 age_at_death: 25
@@ -85,9 +88,8 @@ circumstances: >
     relatives from the outside during their detention: "Our children lived in
     most difficult conditions. All visits were limited to 10 minutes behind a
     glass divider through a telephone every two weeks. Over seven year
-event_context: null
-responsible_forces: null
-
+event_context: "Kurdish resistance; Mojahedin-e Khalq; Tudeh Party persecution; Fedaiyan persecution"
+responsible_forces: "Prison authorities (Evin)"
 # --- VERIFICATION ---
 status: unverified
 sources:

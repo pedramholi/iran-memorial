@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+education: "high school"
+
 # --- DEATH ---
 date_of_death: 1981-10-03
 age_at_death: 17
@@ -86,9 +89,8 @@ circumstances: >
     Banisadr. Despite the fact that the regime called this demonstration
     illegal, thousands came to the streets, some of whom confronted the
     Revolutionary Gu
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq"
+responsible_forces: "Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

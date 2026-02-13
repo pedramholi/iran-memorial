@@ -3,10 +3,14 @@ name_latin: "Shamsoddin Amir Shahkarami"
 name_farsi: "شمس الدین امیر شاه کرمی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "farmer"
+education: "high school"
 
 # --- DEATH ---
 date_of_death: 1981-10-03
@@ -47,9 +51,8 @@ circumstances: >
     Amir Shahkarami's defense. Judgment The details of verdict leading to this
     execution are not known. Mr. Amir Shahkarami was executed in Esfehan in
     1981.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq"
+responsible_forces: "Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,10 +3,13 @@ name_latin: "Abdolhosein Sorush"
 name_farsi: "عبدالحسین سروش"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+occupation: "lawyer"
 
 # --- DEATH ---
 date_of_death: 1979-06-04
@@ -36,8 +39,7 @@ circumstances: >
     Rafsanjan sentenced Major Sorush along with one other to death. The
     verdict was carried out at 5:00 a.m. on 4 June 1979.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

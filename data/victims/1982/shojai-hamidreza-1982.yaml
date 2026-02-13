@@ -47,9 +47,8 @@ circumstances: >
     list of Martyrs of the Peykar Organization, Mr. Hamidreza Shoja’i was
     executed by firing squad in Mashhad on April 17, 1982. No specific
     information is available about the defendant’s execution.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq; Tudeh Party persecution; 1979 Revolution"
+responsible_forces: "Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

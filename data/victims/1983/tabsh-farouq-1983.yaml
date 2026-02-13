@@ -3,10 +3,15 @@ name_latin: "Farouq Tabsh"
 name_farsi: "فاروق الطبش"
 date_of_birth: null
 place_of_birth: null
-gender: null
-ethnicity: null
-religion: null
+gender: male
+ethnicity: "Arab"
+religion: "Sunni"
 photo: null
+
+# --- LIFE ---
+occupation: "engineer"
+family:
+  children: 2
 
 # --- DEATH ---
 date_of_death: 1983-04-18
@@ -85,7 +90,7 @@ circumstances: >
     countries? ... America pursues its corrupt goals through [Islamic and
     Arab] governments dependent on it, through wicked writers and speakers,
     and Muslims are just sitting [and doing nothing]. Is it n
-event_context: null
+event_context: "Iran-Iraq War"
 responsible_forces: null
 
 # --- VERIFICATION ---

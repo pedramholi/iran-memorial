@@ -29,9 +29,8 @@ circumstances: >
     Defense /h4 p No information is available on Mr. Zurani s defense. /p h4
     Judgment /h4 p There is no information on the verdict leading to this
     execution. /p
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq"
+responsible_forces: "Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

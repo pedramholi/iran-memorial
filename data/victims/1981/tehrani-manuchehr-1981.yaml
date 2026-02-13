@@ -60,9 +60,8 @@ circumstances: >
     Council confirmed the ruling. The ruling was carried out in Noshahr or
     Chalus on July 6, 1981 at night. No specific information is available
     about the defendant’s execution.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq; Tudeh Party persecution; 1979 Revolution"
+responsible_forces: "Revolutionary Court, Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

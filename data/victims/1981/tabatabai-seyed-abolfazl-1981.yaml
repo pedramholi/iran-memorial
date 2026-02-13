@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+occupation: "military"
+
 # --- DEATH ---
 date_of_death: 1981-12-29
 age_at_death: null
@@ -44,7 +47,7 @@ circumstances: >
     “corruptor on earth, at war with God and the honorable Prophet, and a
     rebel” and condemned him to death. He and 5 other codefendants were
     executed on December 29, 1981 in Yazd.
-event_context: null
+event_context: "Mojahedin-e Khalq; 1981-85 reign of terror"
 responsible_forces: null
 
 # --- VERIFICATION ---

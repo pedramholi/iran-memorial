@@ -3,7 +3,7 @@ name_latin: "Hosein Torabi"
 name_farsi: "حسین ترابی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -42,9 +42,8 @@ circumstances: >
     Tribunal of the Center found Brig. Gen. Torabi guilty of corruption on
     earth. He received a death sentence and was executed at 1:00 a.m., within
     hours from the issuance of the verdict.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq"
+responsible_forces: "Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

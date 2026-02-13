@@ -3,10 +3,13 @@ name_latin: "Mahmud Fakhr Yazdi"
 name_farsi: "محمود فخر یزدی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "lawyer"
 
 # --- DEATH ---
 date_of_death: 1979-04-23
@@ -51,8 +54,7 @@ circumstances: >
     verdict for Mr. Fakhr was or if there was one. He was executed by shooting
     at dawn of 23 April 1979 along with two others (Kayhan).
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,10 +3,14 @@ name_latin: "Ashraf Fada'i Tabrizi"
 name_farsi: "اشرف فدایی تبریزی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "student"
+education: "in prison and graduated from high school student"
 
 # --- DEATH ---
 date_of_death: 1988-08-15
@@ -85,9 +89,8 @@ circumstances: >
     Ayatollah Khomeini, reproduced in the memoirs of Ayatollah Montazeri, his
     designated successor, corroborates the reported claims regarding the
     charges against the execut
-event_context: null
-responsible_forces: null
-
+event_context: "1988 prison massacres; Kurdish resistance; Mojahedin-e Khalq; Tudeh Party persecution; Fedaiyan persecution"
+responsible_forces: "Intelligence Ministry, Prison authorities (Gohardasht)"
 # --- VERIFICATION ---
 status: unverified
 sources:

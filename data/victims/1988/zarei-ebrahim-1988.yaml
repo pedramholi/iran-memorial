@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Unknown"
 photo: null
 
+# --- LIFE ---
+education: "high school"
+
 # --- DEATH ---
 date_of_death: 1988-01-01
 age_at_death: null
@@ -85,9 +88,8 @@ circumstances: >
     the National Liberation Army of Iran in 1987, which entered Iranian
     territory a few times during the Iran-Iraq war. They were defeated in July
     1988 during their last operation, the Forugh Javidan Operation.
-event_context: null
-responsible_forces: null
-
+event_context: "Iran-Iraq War; Kurdish resistance; Mojahedin-e Khalq; Tudeh Party persecution; Fedaiyan persecution"
+responsible_forces: "Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

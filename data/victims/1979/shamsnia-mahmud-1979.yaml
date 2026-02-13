@@ -3,10 +3,13 @@ name_latin: "Mahmud Shamsnia"
 name_farsi: "محمود شمس نیا"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "cleric"
 
 # --- DEATH ---
 date_of_death: 1979-10-04

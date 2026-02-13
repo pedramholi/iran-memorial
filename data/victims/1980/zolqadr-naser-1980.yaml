@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "cleric"
+
 # --- DEATH ---
 date_of_death: 1980-07-03
 age_at_death: null

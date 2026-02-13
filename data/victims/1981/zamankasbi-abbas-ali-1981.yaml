@@ -55,9 +55,8 @@ circumstances: >
     Tehran on the 21st of July 1981. No information is available on the
     judgment but the bodies of the executed individuals were transferred to
     the forensic medical team.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq; Tudeh Party persecution; 1979 Revolution"
+responsible_forces: "Security forces, Prison authorities (Evin)"
 # --- VERIFICATION ---
 status: unverified
 sources:

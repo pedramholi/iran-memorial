@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
 
+# --- LIFE ---
+occupation: "teacher"
+
 # --- DEATH ---
 date_of_death: 1983-01-01
 age_at_death: 25
@@ -29,9 +32,8 @@ circumstances: >
     report of this execution does not contain information regarding the
     evidence provided against the defendant. Defense No information is
     available on Mr. Haj Soleymani’s defense. Judgment
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq"
+responsible_forces: "Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

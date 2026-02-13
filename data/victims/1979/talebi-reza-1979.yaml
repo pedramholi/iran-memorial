@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "driver"
+
 # --- DEATH ---
 date_of_death: 1979-09-01
 age_at_death: null

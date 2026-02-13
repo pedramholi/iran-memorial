@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+occupation: "worker"
+education: "high school"
+
 # --- DEATH ---
 date_of_death: 1981-07-03
 age_at_death: 29
@@ -85,9 +89,8 @@ circumstances: >
     the National Liberation Army of Iran in 1987, which entered Iranian
     territory a few times during the Iran-Iraq war. They were defeated in July
     1988 during their last operation, the For
-event_context: null
-responsible_forces: null
-
+event_context: "Iran-Iraq War; Mojahedin-e Khalq"
+responsible_forces: "Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

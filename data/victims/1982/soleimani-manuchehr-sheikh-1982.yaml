@@ -8,6 +8,12 @@ ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
 
+# --- LIFE ---
+occupation: "student"
+education: "school student"
+family:
+  marital_status: "single"
+
 # --- DEATH ---
 date_of_death: 1982-01-01
 age_at_death: 20
@@ -86,9 +92,8 @@ circumstances: >
     a few times during the Iran-Iraq war. They were defeated in July 1988
     during their last operation, the Forugh Javidan Operation. A few days
     after this operation, tho
-event_context: null
-responsible_forces: null
-
+event_context: "Iran-Iraq War; Mojahedin-e Khalq"
+responsible_forces: "Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

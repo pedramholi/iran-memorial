@@ -37,9 +37,8 @@ circumstances: >
     Tribunal of Karaj condemned Mr. Hamid Reza Yusefi to death. He was shot by
     a firing squad in Karaj on December 28, 1981 at dawn. At the time of
     execution, he was 25 years old.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq"
+responsible_forces: "Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

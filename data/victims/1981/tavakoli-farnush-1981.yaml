@@ -31,9 +31,8 @@ circumstances: >
     provided against the defendant. Defense No information is available on Ms.
     Tavakoli's defense. Judgment No specific information regarding the death
     sentence is available.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq"
+responsible_forces: "Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

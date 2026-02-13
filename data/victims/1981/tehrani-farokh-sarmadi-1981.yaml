@@ -3,10 +3,13 @@ name_latin: "Farokh Sarmadi Tehrani"
 name_farsi: "فرخ سرمدی تهرانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+occupation: "military"
 
 # --- DEATH ---
 date_of_death: 1981-12-22
@@ -84,9 +87,8 @@ circumstances: >
     Earth) and Mohareb (fighter) against God." He was condemned to death. The
     ruling was carried out when he was executed by firing squad in Tehran on
     December 21, 1981. No specific information is available a
-event_context: null
-responsible_forces: null
-
+event_context: "Tudeh Party persecution"
+responsible_forces: "Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

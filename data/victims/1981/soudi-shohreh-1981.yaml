@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+occupation: "military"
+
 # --- DEATH ---
 date_of_death: 1981-12-26
 age_at_death: null
@@ -39,7 +42,7 @@ circumstances: >
     defense. Judgment An Islamic Revolutionary tribunal condemned Ms. Shohreh
     So’udi to death. She and 11 other individuals were executed on December
     26, 1981 in Mashad.
-event_context: null
+event_context: "Mojahedin-e Khalq; 1981-85 reign of terror"
 responsible_forces: null
 
 # --- VERIFICATION ---

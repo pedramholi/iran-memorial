@@ -37,8 +37,7 @@ circumstances: >
     Council, the sentence was carried out by the Islamic Republic Police
     (Shahrbani) of Torbat Heidarieh.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

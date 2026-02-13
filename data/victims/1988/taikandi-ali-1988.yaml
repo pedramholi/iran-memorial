@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+occupation: "lawyer"
+
 # --- DEATH ---
 date_of_death: 1988-01-01
 age_at_death: 24
@@ -86,9 +89,8 @@ circumstances: >
     given the opportunity to defend themselves in court. The same letter,
     rebutting the accusation that these prisoners (from inside the prison) had
     collaborated wi
-event_context: null
-responsible_forces: null
-
+event_context: "1988 prison massacres; Mojahedin-e Khalq; Tudeh Party persecution; Fedaiyan persecution"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -47,9 +47,8 @@ circumstances: >
     Martyrs of the Peykar Organization, Mr. Esma il Akanehdust was executed by
     firing squad in Tabriz on June 29, 1981. No specific information is
     available about the defendant s execution.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq; Tudeh Party persecution; 1979 Revolution"
+responsible_forces: "Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+occupation: "military"
+
 # --- DEATH ---
 date_of_death: 1988-01-01
 age_at_death: null
@@ -85,9 +88,8 @@ circumstances: >
     conditions for seven years, which proves the truth of our claim.” Judgment
     The details regarding the execution sentence are not available. According
     to available information, leftist
-event_context: null
-responsible_forces: null
-
+event_context: "1988 prison massacres; Mojahedin-e Khalq; Tudeh Party persecution"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

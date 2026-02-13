@@ -72,9 +72,8 @@ circumstances: >
     when he was executed by firing squad in the Evin prison yard on July 5,
     1981 at night. No specific information is available about the defendant’s
     execution.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq"
+responsible_forces: "Revolutionary Court, Security forces, Prison authorities (Evin)"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Rasul Hassan Zadeh"
 name_farsi: "رسول حسن زاده"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -36,8 +36,7 @@ circumstances: >
     enemy of God, the Prophet, and the people and sentenced him to death,
     based on the confessions and evidence. The sentence was carried out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

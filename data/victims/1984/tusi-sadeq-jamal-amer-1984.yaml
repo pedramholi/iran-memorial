@@ -32,9 +32,8 @@ circumstances: >
     the evidence presented against the accused. Defense No information is
     available concerning Mr. Amer Toosi's defense. Judgment No specific
     information is available about the verdict leading to this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq"
+responsible_forces: "Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

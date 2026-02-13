@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+education: "high school"
+
 # --- DEATH ---
 date_of_death: 1981-08-16
 age_at_death: 23
@@ -86,9 +89,8 @@ circumstances: >
     streets, some of whom confronted the Revolutionary Guardsmen and
     Hezbollahis. The number of casualties that resulted from this
     demonstration is unkn
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq"
+responsible_forces: "Revolutionary Court, Security forces, Prison authorities (Evin)"
 # --- VERIFICATION ---
 status: unverified
 sources:

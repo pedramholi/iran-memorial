@@ -53,9 +53,8 @@ circumstances: >
     Martyrs of the Peykar Organization, Mr. Sa’id Zorufi was executed by
     firing squad in Sari on May 31, 1981. No specific information is available
     about the defendant’s execution.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq; Tudeh Party persecution; 1979 Revolution"
+responsible_forces: "Revolutionary Court, Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "pastry shop owner"
+
 # --- DEATH ---
 date_of_death: 1986-01-01
 age_at_death: null
@@ -44,8 +47,7 @@ circumstances: >
     detailed speech on the divine commandments in the Quran. Mr. Ebrahim
     Shahbazi was stoned to death in public.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

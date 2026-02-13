@@ -3,10 +3,14 @@ name_latin: "Ruhollah (Karim) Qasemlu'i Takantapeh"
 name_farsi: "روح الله (کریم) قاسملوئی تکان تپه"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "military"
+education: "high school"
 
 # --- DEATH ---
 date_of_death: 1985-02-23
@@ -85,9 +89,8 @@ circumstances: >
     founded the National Council of Resistance. After the MKO leaders and many
     of its members were expelled from France, they went to Iraq and founded
     the National Liberation Army of Iran in 1987, which enter
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq"
+responsible_forces: "Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+occupation: "student"
+education: "school student"
+
 # --- DEATH ---
 date_of_death: 1981-08-18
 age_at_death: 18
@@ -85,9 +89,8 @@ circumstances: >
     centers and publishing houses, in conjunction with to the Islamic Republic
     authorities’ different interpretation of Islam, widened the gap between
     the two. Authorities of the new regime r
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq"
+responsible_forces: "Revolutionary Court, Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

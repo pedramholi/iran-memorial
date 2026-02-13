@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+occupation: "military"
+
 # --- DEATH ---
 date_of_death: 1982-05-30
 age_at_death: null
@@ -45,9 +48,8 @@ circumstances: >
     Revolutionary Tribunal of Bandarabbas, Mr. Tarmu was found guilty of being
     a corruptor and an enemy of God and was sentenced to death. The sentence
     was carried out.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq"
+responsible_forces: "Basij, Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

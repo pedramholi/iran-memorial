@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+occupation: "lawyer"
+
 # --- DEATH ---
 date_of_death: 1988-01-01
 age_at_death: 25
@@ -79,9 +82,8 @@ circumstances: >
     Judgment No specific information is available about the execution
     sentence. According to the MKO website, Mr. Majid Taleqani was executed at
     Evin prison in late August 1988.
-event_context: null
-responsible_forces: null
-
+event_context: "Kurdish resistance; Mojahedin-e Khalq; Tudeh Party persecution; Fedaiyan persecution"
+responsible_forces: "Intelligence Ministry, Prison authorities (Evin)"
 # --- VERIFICATION ---
 status: unverified
 sources:

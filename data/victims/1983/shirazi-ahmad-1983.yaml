@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+occupation: "journalist"
+
 # --- DEATH ---
 date_of_death: 1983-08-13
 age_at_death: 24
@@ -47,9 +50,8 @@ circumstances: >
     available information, Mr. Shirazi defended his organization and Marxism
     in the court. Judgment Mr. Shirazi was executed in Evin prison on August
     13, 1983. He was 24.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq; Tudeh Party persecution; 1979 Revolution"
+responsible_forces: "Prison authorities (Evin)"
 # --- VERIFICATION ---
 status: unverified
 sources:

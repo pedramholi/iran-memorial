@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+occupation: "lawyer"
+
 # --- DEATH ---
 date_of_death: 1988-07-30
 age_at_death: 30
@@ -79,9 +82,8 @@ circumstances: >
     victims belongings to their families. The bodies, however, were not
     returned to them. The bodies were buried in mass graves. Authorities
     warned the families of prisoners against holding memorial ceremonies.
-event_context: null
-responsible_forces: null
-
+event_context: "1988 prison massacres; Mojahedin-e Khalq; Tudeh Party persecution; Fedaiyan persecution"
+responsible_forces: "Intelligence Ministry, Prison authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

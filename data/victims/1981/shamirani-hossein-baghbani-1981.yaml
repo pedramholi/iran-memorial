@@ -34,9 +34,8 @@ circumstances: >
     is available on Mr. Baghbani Shamirani's defense. Judgment Mr. Hossein
     Baghbani Shemirani was executed by firing squad on October 20, 1981 in the
     Evin Prison. There is no further information available.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq"
+responsible_forces: "Security forces, Prison authorities (Evin)"
 # --- VERIFICATION ---
 status: unverified
 sources:

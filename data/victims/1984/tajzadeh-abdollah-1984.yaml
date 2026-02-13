@@ -4,9 +4,13 @@ name_farsi: "عبدالله تاج زاده"
 date_of_birth: null
 place_of_birth: null
 gender: male
-ethnicity: null
+ethnicity: "Kurdish"
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "lawyer"
+education: "high school"
 
 # --- DEATH ---
 date_of_death: 1984-06-26
@@ -85,9 +89,8 @@ circumstances: >
     committing the crime. As a party to the Covenant on Civil and Political
     Rights and the Convention on the Rights of the Child, Iran has the
     obligation to avoid capital punishment
-event_context: null
-responsible_forces: null
-
+event_context: "Kurdish resistance"
+responsible_forces: "Intelligence Ministry, Prison authorities (Evin)"
 # --- VERIFICATION ---
 status: unverified
 sources:

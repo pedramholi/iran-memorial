@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
 
+# --- LIFE ---
+education: "high school"
+
 # --- DEATH ---
 date_of_death: 1981-07-02
 age_at_death: 16
@@ -85,9 +88,8 @@ circumstances: >
     as “Hypocrites” and the Hezbollahi supporters of the regime attacked the
     Mojahedin sympathizers regularly during demonstrations and while
     distributing publications, leading to the de
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq"
+responsible_forces: "Revolutionary Court, Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

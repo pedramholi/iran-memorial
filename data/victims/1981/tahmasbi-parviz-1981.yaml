@@ -46,9 +46,8 @@ circumstances: >
     available on Mr. Tahmasbi's defense. Judgment According to the list of
     Martyrs of the Peykar Organization, Mr. Tahmasbi was executed by firing
     squad in Shiraz in the summer of 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq; Tudeh Party persecution; 1979 Revolution"
+responsible_forces: "Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

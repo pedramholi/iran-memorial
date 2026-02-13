@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "physician"
+
 # --- DEATH ---
 date_of_death: 1980-08-25
 age_at_death: null
@@ -85,7 +88,7 @@ circumstances: >
     newspaper report did not provide any specific information on the evidence
     presented against the defendants. Defense No information is available
     regarding the defense. Mr. Vesali was denied the righ
-event_context: null
+event_context: "Tudeh Party persecution"
 responsible_forces: null
 
 # --- VERIFICATION ---

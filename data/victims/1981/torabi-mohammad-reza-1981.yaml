@@ -68,9 +68,8 @@ circumstances: >
     Abbas identified Mr. Torabi as “corruptor on earth, enemy of God and the
     Prophet, and a rebel” and condemned him to death. He was executed on
     October 13, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq; Tudeh Party persecution"
+responsible_forces: "Basij, Revolutionary Court, Security forces, Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Barat'ali Zamani"
 name_farsi: "براتعلی زمانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
@@ -39,9 +39,8 @@ circumstances: >
     defendant's defense. Judgment He was found guilty of "armed rebellion
     against the Islamic Republic", and sentenced to death. He was executed on
     Sunday night, September 27th.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq"
+responsible_forces: "Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

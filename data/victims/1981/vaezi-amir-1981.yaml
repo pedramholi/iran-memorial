@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+occupation: "student"
+education: "school student"
+
 # --- DEATH ---
 date_of_death: 1981-01-08
 age_at_death: null
@@ -42,7 +46,7 @@ circumstances: >
     According to the list of Martyrs of the Peykar Organization, Mr. Amir
     Va’zi was executed by firing squad in Arak on January 8, 1982. No specific
     information is available about the defendant’s execution.
-event_context: null
+event_context: "Mojahedin-e Khalq; Tudeh Party persecution; 1979 Revolution"
 responsible_forces: null
 
 # --- VERIFICATION ---

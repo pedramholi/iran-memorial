@@ -4,9 +4,15 @@ name_farsi: "بهروز شاهوردی‌لو"
 date_of_birth: null
 place_of_birth: null
 gender: male
-ethnicity: null
+ethnicity: "Azerbaijani"
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "military"
+family:
+  marital_status: "married"
+  children: 3
 
 # --- DEATH ---
 date_of_death: 1985-09-16
@@ -85,9 +91,8 @@ circumstances: >
     officially announced the regime s decision to implement extrajudicial
     executions, and justified the decision: These people have been sentenced
     to death; from the Iranian peop
-event_context: null
-responsible_forces: null
-
+event_context: "1979 Revolution"
+responsible_forces: "Revolutionary Court, Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

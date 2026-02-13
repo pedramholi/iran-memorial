@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+occupation: "student"
+
 # --- DEATH ---
 date_of_death: 1981-08-27
 age_at_death: 32
@@ -58,9 +61,8 @@ circumstances: >
     (corruptor on Earth)." He was condemned to death, and the ruling carried
     out in the Evin prison yard on September 19, 1981. No exact information is
     available about the details of the court verdict.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq; Tudeh Party persecution; 1979 Revolution"
+responsible_forces: "Revolutionary Court, Security forces, Prison authorities (Evin)"
 # --- VERIFICATION ---
 status: unverified
 sources:

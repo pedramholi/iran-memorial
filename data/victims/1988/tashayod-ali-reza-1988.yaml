@@ -8,6 +8,12 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+occupation: "lawyer"
+education: "electrical engineering student"
+family:
+  marital_status: "married"
+
 # --- DEATH ---
 date_of_death: 1988-01-01
 age_at_death: null
@@ -86,9 +92,8 @@ circumstances: >
     Ayatollah Khomeini, reproduced in the memoirs of Ayatollah Montazeri, his
     designated successor, corroborates the reported claims regarding the
     charges
-event_context: null
-responsible_forces: null
-
+event_context: "1988 prison massacres; Kurdish resistance; Mojahedin-e Khalq; Tudeh Party persecution; Fedaiyan persecution"
+responsible_forces: "Intelligence Ministry, Prison authorities (Evin)"
 # --- VERIFICATION ---
 status: unverified
 sources:

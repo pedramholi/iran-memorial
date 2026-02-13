@@ -3,10 +3,14 @@ name_latin: "Mansur Eskandari Torqoban"
 name_farsi: "منصور اسکندری ترقبان"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "student"
+education: "a student"
 
 # --- DEATH ---
 date_of_death: 1983-01-01
@@ -42,9 +46,8 @@ circumstances: >
     According to the Mojahedn , Mr. Eskandari Torqoban was shot by firing
     squad in Tehran on March 20, 1982. However, based on the information in
     the electronic form, he was executed in Evin prison in November 1983.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq"
+responsible_forces: "Security forces, Prison authorities (Evin)"
 # --- VERIFICATION ---
 status: unverified
 sources:

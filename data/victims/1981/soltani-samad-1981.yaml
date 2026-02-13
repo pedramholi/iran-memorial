@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+occupation: "teacher"
+education: "school student"
+
 # --- DEATH ---
 date_of_death: 1981-11-25
 age_at_death: 17
@@ -72,9 +76,8 @@ circumstances: >
     change of sentence to the death penalty, in the case of Mr. Soltani, was
     due to the appearance of his interview with the Javanan magazine at the
     court. Mr. Samad Soltani was only 17 years old.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq"
+responsible_forces: "Revolutionary Court, Security forces, Prison authorities (Evin)"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+occupation: "military"
+
 # --- DEATH ---
 date_of_death: 1988-07-27
 age_at_death: 29
@@ -76,7 +79,7 @@ circumstances: >
     specific information is available about the defendant’s execution. Ms.
     Zahra Falahati Haj Zare' was hanged during the mass killings of the
     political prisoners on July 27, 1988.
-event_context: null
+event_context: "Kurdish resistance; Mojahedin-e Khalq; Tudeh Party persecution; Fedaiyan persecution"
 responsible_forces: null
 
 # --- VERIFICATION ---

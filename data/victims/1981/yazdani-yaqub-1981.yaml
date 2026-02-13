@@ -3,10 +3,13 @@ name_latin: "Ya'qub Yazdani"
 name_farsi: "یعقوب یزدانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "teacher"
 
 # --- DEATH ---
 date_of_death: 1981-07-07
@@ -83,9 +86,8 @@ circumstances: >
     issued its verdict. The Kayhan and the Jomhuri Eslami newspapers reported
     that because of being an apostate, his body was denied burial in the
     Muslim cemetery.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq; Tudeh Party persecution"
+responsible_forces: "Revolutionary Court, Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

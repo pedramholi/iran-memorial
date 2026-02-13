@@ -3,10 +3,13 @@ name_latin: "Manuchehr Solukitabal Vandani"
 name_farsi: "منوچهر سلوکی طبال وندانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "engineer"
 
 # --- DEATH ---
 date_of_death: 1982-12-05
@@ -53,9 +56,8 @@ circumstances: >
     Iran Army sentenced Mr. Manuchehr Solukitabal Vandani to death and the
     verdict was confirmed by the Supreme Court. Mr. Solukitabal Vandani was
     executed on December 5, 1982.
-event_context: null
-responsible_forces: null
-
+event_context: "Tudeh Party persecution"
+responsible_forces: "Prison authorities (Evin)"
 # --- VERIFICATION ---
 status: unverified
 sources:

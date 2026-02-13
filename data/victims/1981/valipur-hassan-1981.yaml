@@ -49,9 +49,8 @@ circumstances: >
     Mr. Hassan Valipur as "Mohareb (fighter) against God and the People, and
     Baghi (rebel)." He was condemned to death. The ruling was carried out when
     he was executed in Shiraz on July 8, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq; Tudeh Party persecution; 1979 Revolution"
+responsible_forces: "Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

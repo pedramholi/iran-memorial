@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "military"
+
 # --- DEATH ---
 date_of_death: 1979-04-07
 age_at_death: 55
@@ -52,9 +55,8 @@ circumstances: >
     Molavi Taleqani and the other defendants were sentenced to death. This
     verdict was announced at 1 a.m. April 4, 1979. He was executed at the Qasr
     Prison in Tehran.
-event_context: null
-responsible_forces: null
-
+event_context: "1979 Revolution"
+responsible_forces: "Revolutionary Court, Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

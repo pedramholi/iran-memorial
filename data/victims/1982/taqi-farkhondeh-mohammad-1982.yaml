@@ -3,10 +3,14 @@ name_latin: "farkhondeh Mohammad taqi"
 name_farsi: "فرخنده محمد تقی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "student"
+education: "school student"
 
 # --- DEATH ---
 date_of_death: 1982-01-01
@@ -39,9 +43,8 @@ circumstances: >
     family and told them to go to Behesht-e Zahra Cemetery (in Tehran) and ask
     for her burial place. Her burial place was number 76, row 36 in section
     92.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq"
+responsible_forces: "Prison authorities (Evin)"
 # --- VERIFICATION ---
 status: unverified
 sources:

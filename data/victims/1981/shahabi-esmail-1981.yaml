@@ -3,11 +3,16 @@ name_latin: "Esma'il Shahabi"
 name_farsi: "اسماعیل شهابی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+beliefs: "member of Mojahedin Khalq Organization"
+
+occupation: "military"
+education: "high school"
 # --- DEATH ---
 date_of_death: 1981-01-01
 age_at_death: null
@@ -84,9 +89,8 @@ circumstances: >
     training, were not armed, and did not participate in armed conflict.
     Arrest and detention The circumstances of this defendant’s arrest and
     detention are not known.
-event_context: null
-responsible_forces: null
-
+event_context: "June 20, 1981 demonstration"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -4,9 +4,13 @@ name_farsi: "عبدالرضا عرب وزیری فر"
 date_of_birth: null
 place_of_birth: null
 gender: null
-ethnicity: null
+ethnicity: "Arab"
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "military"
+education: "high school"
 
 # --- DEATH ---
 date_of_death: 1984-09-06
@@ -83,9 +87,8 @@ circumstances: >
     inside the country. In spite of the armed struggle announcement by the MKO
     on June 20, 1981, many sympathizers of the organization had no military
     training, were not armed, and did not participate in armed conflict.
-event_context: null
-responsible_forces: null
-
+event_context: "Iran-Iraq War; Mojahedin-e Khalq"
+responsible_forces: "Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

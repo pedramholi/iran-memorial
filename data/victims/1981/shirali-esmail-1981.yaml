@@ -3,10 +3,14 @@ name_latin: "Esma'il Shirali"
 name_farsi: "اسماعیل شیرآلی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "student"
+education: "a student"
 
 # --- DEATH ---
 date_of_death: 1981-09-22
@@ -60,9 +64,8 @@ circumstances: >
     (rebel), Mofsed (corruptor on Earth), Mohareb (fighter) against God the
     Prophet, and Mortad (apostate)." He was condemned to death. The ruling was
     carried out when he was executed in Aghajari on September 22, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq; Tudeh Party persecution; 1979 Revolution"
+responsible_forces: "Revolutionary Court, Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

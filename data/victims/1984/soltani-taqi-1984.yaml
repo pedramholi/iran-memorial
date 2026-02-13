@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+occupation: "physician"
+
 # --- DEATH ---
 date_of_death: 1984-04-03
 age_at_death: null
@@ -28,9 +31,8 @@ circumstances: >
     evidence provided against the defendant. Defense No information is
     available on Dr. Soltani s defense. Judgment There is no information on
     the verdict leading to this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq"
+responsible_forces: "Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

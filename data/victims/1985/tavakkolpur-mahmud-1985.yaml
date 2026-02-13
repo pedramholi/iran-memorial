@@ -3,7 +3,7 @@ name_latin: "Mahmud Tavakkolpur"
 name_farsi: "محمود توکل پور"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
@@ -42,9 +42,8 @@ circumstances: >
     Judgment The Islamic Revolutionary Tribunal of Arak sentenced Mr.
     Tavakolpur to death. The Supreme Court approved the sentence. He was
     hanged in public in Arak.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq"
+responsible_forces: "Revolutionary Committee"
 # --- VERIFICATION ---
 status: unverified
 sources:

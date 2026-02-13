@@ -3,10 +3,16 @@ name_latin: "Sediqeh Valikhani"
 name_farsi: "صدیقه ولیخانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "physician"
+education: "high school"
+family:
+  marital_status: "married"
 
 # --- DEATH ---
 date_of_death: 1981-12-20
@@ -85,9 +91,8 @@ circumstances: >
     founded the National Council of Resistance. After the MKO leaders and many
     of its members were expelled fromFrance, they went toIraqand founded the
     National Liberation Army of Iran in 1987, which entere
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq"
+responsible_forces: "Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

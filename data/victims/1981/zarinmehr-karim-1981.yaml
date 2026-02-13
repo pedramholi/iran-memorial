@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+education: "high school"
+
 # --- DEATH ---
 date_of_death: 1981-07-03
 age_at_death: 22
@@ -48,9 +51,8 @@ circumstances: >
     of Martyrs of the Peykar Organization, Mr. Karim Zarinmehr was executed by
     firing squad in Esfahan on July 3, 1981. No specific information is
     available about the defendant’s execution.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq; Tudeh Party persecution; 1979 Revolution"
+responsible_forces: "Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

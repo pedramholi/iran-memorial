@@ -3,10 +3,13 @@ name_latin: "Mahmud Farid Sofiani"
 name_farsi: "محمود فرید صوفیانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "cleric"
 
 # --- DEATH ---
 date_of_death: 1980-01-12
@@ -87,8 +90,7 @@ circumstances: >
     apprehension and mayhem among the populace, committing arson, holding a
     clu
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

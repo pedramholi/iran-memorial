@@ -3,7 +3,7 @@ name_latin: "Yvonne Stein"
 name_farsi: "ایون اشتاین"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -86,8 +86,7 @@ circumstances: >
     1980 attempt on his life). The assassination was carried out by members of
     the Islamic Republic Revolutionary Gu
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

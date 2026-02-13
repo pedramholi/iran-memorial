@@ -3,10 +3,14 @@ name_latin: "Ne'matollah Sadat Shokuhi"
 name_farsi: "نعمت الله سادات شکوهی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
 
 # --- DEATH ---
 date_of_death: 1982-05-27
@@ -47,9 +51,8 @@ circumstances: >
     available on Mr. Sadat Shokuhi's defense. Judgment According to the list
     of Martyrs of the Peykar Organization, Mr. Sadat Shokuhi was hanged in
     Mashhad on May 27, 1982.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq; Tudeh Party persecution; 1979 Revolution"
+responsible_forces: "Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

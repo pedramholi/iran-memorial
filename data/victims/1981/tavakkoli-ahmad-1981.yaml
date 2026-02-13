@@ -45,9 +45,8 @@ circumstances: >
     evidence provided against the defendant. Defense No information is
     available on Mr. Tavakkoli's defense. Judgment Mr. Ahmad Tavakkoli was
     executed by firing squad in Bandar Abbas on August 22, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq; Tudeh Party persecution; 1979 Revolution"
+responsible_forces: "Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

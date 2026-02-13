@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+occupation: "lawyer"
+education: "high school"
+
 # --- DEATH ---
 date_of_death: 1987-01-08
 age_at_death: 34
@@ -62,8 +66,7 @@ circumstances: >
     the list of victims of the Fadaiyan Khalq Organization Majority, he was
     executed by firing squad in March of 1988.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Prison authorities (Evin)"
 # --- VERIFICATION ---
 status: unverified
 sources:

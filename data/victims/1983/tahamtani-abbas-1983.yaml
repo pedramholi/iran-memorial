@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+occupation: "worker"
+education: "high school"
+
 # --- DEATH ---
 date_of_death: 1983-01-01
 age_at_death: 20
@@ -65,9 +69,8 @@ circumstances: >
     according to the electronic form, was Orumieh. However, other sources
     reported it as Khoy. The family received the body and buried it at the old
     cemetery of their town.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq"
+responsible_forces: "Basij, Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

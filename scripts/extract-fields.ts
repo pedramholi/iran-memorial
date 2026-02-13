@@ -1,23 +1,23 @@
 /**
  * extract-fields.ts — Extract structured biographical fields from circumstances_en
  *
- * Uses OpenAI GPT-4o-mini with function calling to extract structured data from the
+ * Uses Claude Haiku with tool use to extract structured data from the
  * free-text circumstances field of Boroumand-imported victims. Only fills
  * fields that are currently null/empty — never overwrites existing data.
  * Updates both the PostgreSQL database and the corresponding YAML files.
  *
  * Usage:
- *   npx tsx scripts/extract-fields.ts                    # Full run (all ~4185 victims)
+ *   npx tsx scripts/extract-fields.ts                    # Full run
  *   npx tsx scripts/extract-fields.ts --dry-run           # Preview extraction for first 5
  *   npx tsx scripts/extract-fields.ts --limit 100         # Process first 100
  *   npx tsx scripts/extract-fields.ts --resume            # Resume from last progress
  *   npx tsx scripts/extract-fields.ts --dry-run --limit 3 # Quick test
  *
- * Requires: OPENAI_API_KEY environment variable
+ * Requires: ANTHROPIC_API_KEY environment variable
  */
 
 import { PrismaClient } from "@prisma/client";
-import OpenAI from "openai";
+import Anthropic from "@anthropic-ai/sdk";
 import { readFileSync, writeFileSync, existsSync } from "fs";
 import { join, dirname } from "path";
 import { fileURLToPath } from "url";
@@ -36,12 +36,12 @@ const limit = limitIdx !== -1 ? parseInt(process.argv[limitIdx + 1], 10) : null;
 
 // --- Clients ---
 const prisma = new PrismaClient();
-const openai = new OpenAI(); // reads OPENAI_API_KEY from env
+const anthropic = new Anthropic(); // reads ANTHROPIC_API_KEY from env
 
 // --- Constants ---
 const BATCH_SIZE = 5; // parallel requests
-const BATCH_DELAY_MS = 1000; // pause between batches
-const MODEL = "gpt-4o-mini";
+const BATCH_DELAY_MS = 500; // pause between batches
+const MODEL = "claude-haiku-4-5-20251001";
 
 // --- Types ---
 interface ExtractedFields {
@@ -79,95 +79,91 @@ interface VictimRow {
   eventContext: string | null;
 }
 
-// --- OpenAI Function Definition ---
-const extractionFunction: OpenAI.ChatCompletionTool = {
-  type: "function",
-  function: {
-    name: "save_extracted_fields",
-    description:
-      "Save the structured biographical fields extracted from the victim's circumstances text. Only include fields that are explicitly mentioned in the text. Do not guess or infer.",
-    parameters: {
-      type: "object",
-      properties: {
-        place_of_birth: {
-          type: "string",
-          description: 'Birth city/region. Example: "Kanisur, Kurdistan". Omit if not mentioned.',
-        },
-        date_of_birth: {
-          type: "string",
-          description: "Birth date in YYYY-MM-DD format. Use YYYY-01-01 if only year is known. Omit if not mentioned.",
-        },
-        gender: {
-          type: "string",
-          enum: ["male", "female"],
-          description: "Infer from pronouns (he/him → male, she/her → female). Omit if unclear.",
-        },
-        ethnicity: {
-          type: "string",
-          description:
-            'Ethnic group if explicitly mentioned. Examples: "Kurdish", "Baluch", "Arab", "Azerbaijani". Omit if not mentioned.',
-        },
-        religion: {
-          type: "string",
-          description:
-            "Religion ONLY if specifically named (e.g. \"Baha'i\", \"Sunni\", \"Christian\"). Do NOT return \"Presumed Muslim\" or \"Islam\" — those are already in the database. Omit if not mentioned or only generically Muslim.",
-        },
-        occupation: {
-          type: "string",
-          description:
-            'Job or occupation. Examples: "farmer", "nursing student", "teacher", "shopkeeper". Omit if not mentioned.',
-        },
-        education: {
-          type: "string",
-          description:
-            'Education level or field. Examples: "high school diploma", "mechanical engineering student", "university student". Omit if not mentioned.',
-        },
-        family_info: {
-          type: "object",
-          description: "Family information if mentioned. Omit if not mentioned.",
-          properties: {
-            marital_status: {
-              type: "string",
-              description: '"single", "married", "widowed", etc.',
-            },
-            children: {
-              type: "integer",
-              description: "Number of children if mentioned.",
-            },
-            notes: {
-              type: "string",
-              description: 'Other family details. Example: "father of three", "mother was a teacher".',
-            },
+// --- Claude Tool Definition ---
+const extractionTool: Anthropic.Tool = {
+  name: "save_extracted_fields",
+  description:
+    "Save the structured biographical fields extracted from the victim's circumstances text. Only include fields that are explicitly mentioned in the text. Do not guess or infer.",
+  input_schema: {
+    type: "object" as const,
+    properties: {
+      place_of_birth: {
+        type: "string",
+        description: 'Birth city/region. Example: "Kanisur, Kurdistan". Omit if not mentioned.',
+      },
+      date_of_birth: {
+        type: "string",
+        description: "Birth date in YYYY-MM-DD format. Use YYYY-01-01 if only year is known. Omit if not mentioned.",
+      },
+      gender: {
+        type: "string",
+        enum: ["male", "female"],
+        description: "Infer from pronouns (he/him → male, she/her → female). Omit if unclear.",
+      },
+      ethnicity: {
+        type: "string",
+        description:
+          'Ethnic group if explicitly mentioned. Examples: "Kurdish", "Baluch", "Arab", "Azerbaijani". Omit if not mentioned.',
+      },
+      religion: {
+        type: "string",
+        description:
+          "Religion ONLY if specifically named (e.g. \"Baha'i\", \"Sunni\", \"Christian\"). Do NOT return \"Presumed Muslim\" or \"Islam\" — those are already in the database. Omit if not mentioned or only generically Muslim.",
+      },
+      occupation: {
+        type: "string",
+        description:
+          'Job or occupation. Examples: "farmer", "nursing student", "teacher", "shopkeeper". Omit if not mentioned.',
+      },
+      education: {
+        type: "string",
+        description:
+          'Education level or field. Examples: "high school diploma", "mechanical engineering student", "university student". Omit if not mentioned.',
+      },
+      family_info: {
+        type: "object",
+        description: "Family information if mentioned. Omit if not mentioned.",
+        properties: {
+          marital_status: {
+            type: "string",
+            description: '"single", "married", "widowed", etc.',
+          },
+          children: {
+            type: "integer",
+            description: "Number of children if mentioned.",
+          },
+          notes: {
+            type: "string",
+            description: 'Other family details. Example: "father of three", "mother was a teacher".',
           },
         },
-        personality: {
-          type: "string",
-          description:
-            'How the person was described by family/friends. Example: "described as brave and kind-hearted". Omit if not mentioned.',
-        },
-        beliefs: {
-          type: "string",
-          description:
-            'Political beliefs or activism. Example: "member of PJAK", "civil rights activist". Omit if not mentioned.',
-        },
-        quotes: {
-          type: "array",
-          items: { type: "string" },
-          description:
-            "Direct quotes attributed to the victim. Only include exact quotes from the text. Omit if none found.",
-        },
-        responsible_forces: {
-          type: "string",
-          description:
-            'Forces responsible for the death. Examples: "IRGC", "Intelligence Ministry", "Basij". Omit if not mentioned.',
-        },
-        event_context: {
-          type: "string",
-          description:
-            'Historical event or protest context. Examples: "2019 November protests", "1988 prison massacres". Omit if not mentioned.',
-        },
       },
-      required: [],
+      personality: {
+        type: "string",
+        description:
+          'How the person was described by family/friends. Example: "described as brave and kind-hearted". Omit if not mentioned.',
+      },
+      beliefs: {
+        type: "string",
+        description:
+          'Political beliefs or activism. Example: "member of PJAK", "civil rights activist". Omit if not mentioned.',
+      },
+      quotes: {
+        type: "array",
+        items: { type: "string" },
+        description:
+          "Direct quotes attributed to the victim. Only include exact quotes from the text. Omit if none found.",
+      },
+      responsible_forces: {
+        type: "string",
+        description:
+          'Forces responsible for the death. Examples: "IRGC", "Intelligence Ministry", "Basij". Omit if not mentioned.',
+      },
+      event_context: {
+        type: "string",
+        description:
+          'Historical event or protest context. Examples: "2019 November protests", "1988 prison massacres". Omit if not mentioned.',
+      },
     },
   },
 };
@@ -208,16 +204,17 @@ function saveProgress(processedIds: Set<string>) {
   );
 }
 
-// --- OpenAI API call ---
-async function extractFields(circumstancesText: string): Promise<ExtractedFields | null> {
+// --- Claude API call ---
+async function extractFields(circumstancesText: string, retries = 0): Promise<ExtractedFields | null> {
+  const MAX_RETRIES = 5;
   try {
-    const response = await openai.chat.completions.create({
+    const response = await anthropic.messages.create({
       model: MODEL,
-      temperature: 0,
-      tools: [extractionFunction],
-      tool_choice: { type: "function", function: { name: "save_extracted_fields" } },
+      max_tokens: 1024,
+      system: SYSTEM_PROMPT,
+      tools: [extractionTool],
+      tool_choice: { type: "tool" as const, name: "save_extracted_fields" },
       messages: [
-        { role: "system", content: SYSTEM_PROMPT },
         {
           role: "user",
           content: `Extract biographical fields from this victim's circumstances text:\n\n${circumstancesText}`,
@@ -225,18 +222,22 @@ async function extractFields(circumstancesText: string): Promise<ExtractedFields
       ],
     });
 
-    // Find the function call in the response
-    const toolCall = response.choices[0]?.message?.tool_calls?.[0];
-    if (toolCall?.function?.arguments) {
-      return JSON.parse(toolCall.function.arguments) as ExtractedFields;
+    // Find the tool use block in the response
+    const toolBlock = response.content.find((b): b is Anthropic.ToolUseBlock => b.type === "tool_use");
+    if (toolBlock?.input) {
+      return toolBlock.input as ExtractedFields;
     }
     return null;
   } catch (e: any) {
     if (e.status === 429) {
-      // Rate limited — wait 60s then retry
-      console.log("  Rate limited, waiting 60s...");
-      await sleep(60000);
-      return extractFields(circumstancesText);
+      if (retries >= MAX_RETRIES) {
+        console.log(`  Rate limited ${MAX_RETRIES}x — skipping entry, will retry on next --resume`);
+        return null;
+      }
+      const waitSec = 30 * (retries + 1); // progressive: 30s, 60s, 90s...
+      console.log(`  Rate limited, waiting ${waitSec}s (retry ${retries + 1}/${MAX_RETRIES})...`);
+      await sleep(waitSec * 1000);
+      return extractFields(circumstancesText, retries + 1);
     }
     throw e;
   }
@@ -544,7 +545,9 @@ async function main() {
     const batch = toProcess.slice(i, i + BATCH_SIZE);
 
     const results = await Promise.allSettled(
-      batch.map(async (victim) => {
+      batch.map(async (victim, idx) => {
+        // Stagger requests: each 1s apart within the batch
+        if (idx > 0) await sleep(idx * 1000);
         const fields = await extractFields(victim.circumstancesEn!);
         if (!fields) return { victim, fieldsUpdated: 0, yamlUpdated: false };
 

@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+occupation: "military"
+
 # --- DEATH ---
 date_of_death: 1988-07-26
 age_at_death: null
@@ -85,9 +88,8 @@ circumstances: >
     clashes with armed forces of the Islamic Republic, states that such claims
     “are false considering the circumstances in prisons; for our children
     faced the most difficult conditions [in prison, with] visitation righ
-event_context: null
-responsible_forces: null
-
+event_context: "1988 prison massacres; Mojahedin-e Khalq; Tudeh Party persecution"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

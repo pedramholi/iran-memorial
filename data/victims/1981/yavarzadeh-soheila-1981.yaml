@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+occupation: "student"
+education: "engineering student"
+
 # --- DEATH ---
 date_of_death: 1981-12-06
 age_at_death: null
@@ -32,9 +36,8 @@ circumstances: >
     defense. Judgment No specific information is available about the verdict
     leading to this execution. Ms. Soheila Yavarzadeh was shot by a firing
     squad in Tehran on December 6, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq"
+responsible_forces: "Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

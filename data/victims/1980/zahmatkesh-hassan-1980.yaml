@@ -39,8 +39,7 @@ circumstances: >
     Zahmatkesh to death. He was executed early in the morning on Wednesday
     July 23, 1980.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

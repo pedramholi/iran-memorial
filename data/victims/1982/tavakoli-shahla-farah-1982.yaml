@@ -33,9 +33,8 @@ circumstances: >
     does not contain information regarding the evidence provided against the
     defendant. Defense No information is available on Ms. Tavakoli's defense.
     Judgment
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq"
+responsible_forces: "Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

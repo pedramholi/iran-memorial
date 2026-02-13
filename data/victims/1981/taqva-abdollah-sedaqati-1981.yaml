@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+occupation: "physician"
+education: "a student"
+
 # --- DEATH ---
 date_of_death: 1981-10-12
 age_at_death: null
@@ -79,9 +83,8 @@ circumstances: >
     available about his defense. Judgment The Central Islamic Revolutionary
     Tribunal condemned Mr. Abdollah Sedaqati Taqva to death. He was executed
     by a firing squad at Evin Prison on October 12, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq"
+responsible_forces: "Revolutionary Committee, Security forces, Prison authorities (Evin)"
 # --- VERIFICATION ---
 status: unverified
 sources:

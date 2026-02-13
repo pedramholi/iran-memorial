@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+occupation: "military"
+education: "high school"
+
 # --- DEATH ---
 date_of_death: 1981-10-14
 age_at_death: 27
@@ -84,9 +88,8 @@ circumstances: >
     training, were not armed, and did not participate in armed conflict.
     Arrest and detention The circumstances of this defendant’s arrest and
     detention are not known.
-event_context: null
-responsible_forces: null
-
+event_context: "Iran-Iraq War; Mojahedin-e Khalq"
+responsible_forces: "Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,18 @@
 id: shafii-mojtaba-1981
 name_latin: "Mojtaba Shafi'i"
 name_farsi: "مجتبی شفیعی"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1965-01-01"
+place_of_birth: "Arak"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "high school student"
+beliefs: "sympathizer of the Revolutionary Workers Organization of Iran, Rah-e Kargar"
+quotes:
+  - "Rah-e Kargar or the Revolutionary Workers Organization of Iran was established in the summer of 1979."
 
 # --- DEATH ---
 date_of_death: 1981-01-01
@@ -37,9 +43,8 @@ circumstances: >
     information is available about his defense. Judgment No specific
     information is available about the defendant s execution. Mr. Mojtaba
     Shafi i was executed by a firing squad in Arak in December 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "execution in December 1981"
+responsible_forces: "firing squad"
 # --- VERIFICATION ---
 status: unverified
 sources:

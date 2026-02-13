@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+occupation: "teacher"
+education: "foreign languages and was a high school teacher student"
+
 # --- DEATH ---
 date_of_death: 1988-08-12
 age_at_death: 36
@@ -85,7 +89,7 @@ circumstances: >
     The day after the demonstration, the Islamic Republic regime started a
     repressive campaign unprecedented in modern Iranian history. Thousands of
     MKO members and sympathizers were arrested or executed. O
-event_context: null
+event_context: "Mojahedin-e Khalq"
 responsible_forces: null
 
 # --- VERIFICATION ---

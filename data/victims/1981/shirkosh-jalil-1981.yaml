@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+education: "high school"
+
 # --- DEATH ---
 date_of_death: 1981-09-23
 age_at_death: 21
@@ -85,9 +88,8 @@ circumstances: >
     this demonstration illegal, thousands came to the streets, some of whom
     confronted the Revolutionary Guardsmen and Hezbollahis. The number of
     casualties that resulted from this demonstr
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq"
+responsible_forces: "Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

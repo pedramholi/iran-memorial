@@ -57,9 +57,8 @@ circumstances: >
     condemned Mr. Hamid Shoja’i to death and he was executed on June 29, 1981
     at midnight. No specific information is available about the defendant’s
     execution.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq; Tudeh Party persecution; 1981-85 reign of terror; 1979 Revolution"
+responsible_forces: "Revolutionary Court, Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

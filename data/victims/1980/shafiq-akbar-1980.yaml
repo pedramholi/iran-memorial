@@ -2,11 +2,14 @@ id: shafiq-akbar-1980
 name_latin: "Akbar Shafiq"
 name_farsi: "اکبر شفیق"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Orumieh"
 gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+beliefs: "cooperation with the outlawed Democratic Party of Kurdistan"
 
 # --- DEATH ---
 date_of_death: 1980-11-08
@@ -37,8 +40,7 @@ circumstances: >
     s defense. Judgment The Islamic Revolutionary Tribunal of Tabriz declared
     Mr. Shafiq an enemy of God. He was executed at night.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal of Tabriz"
 # --- VERIFICATION ---
 status: unverified
 sources:

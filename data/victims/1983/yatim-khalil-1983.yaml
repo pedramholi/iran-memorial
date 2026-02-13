@@ -4,9 +4,12 @@ name_farsi: "خلیل یتیم"
 date_of_birth: null
 place_of_birth: null
 gender: male
-ethnicity: null
+ethnicity: "Arab"
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+occupation: "military"
 
 # --- DEATH ---
 date_of_death: 1983-04-18
@@ -85,7 +88,7 @@ circumstances: >
     determine the fate of Muslim countries? ... America pursues its corrupt
     goals through [Islamic and Arab] governments dependent on it, through
     wicked writers and speakers, and Muslims are just sitting
-event_context: null
+event_context: "Iran-Iraq War"
 responsible_forces: null
 
 # --- VERIFICATION ---

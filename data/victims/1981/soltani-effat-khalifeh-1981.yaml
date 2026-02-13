@@ -3,7 +3,7 @@ name_latin: "Effat Khalifeh Soltani"
 name_farsi: "عفت خلیفه سلطانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
@@ -60,9 +60,8 @@ circumstances: >
     of "armed rebellion against the Islamic Republic" and sentenced to death.
     She was executed at the Dastgerd Prison on Sunday night, September 27,
     1981.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq; 1981-85 reign of terror"
+responsible_forces: "Basij, Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

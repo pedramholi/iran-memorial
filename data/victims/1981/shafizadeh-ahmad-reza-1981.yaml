@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+occupation: "founder of The Red Cell, in charge of the Worker s Section and propaganda"
+beliefs: "member of the Peykar Organization for the Liberation of the Working Class"
+
 # --- DEATH ---
 date_of_death: 1981-07-05
 age_at_death: null
@@ -72,9 +76,8 @@ circumstances: >
     court considered Mr. him an apostate and therefore prevented the burial of
     his body in the Muslim cemetery. He was buried instead in the non-Muslim
     cemetery without a ceremony.
-event_context: null
-responsible_forces: null
-
+event_context: "executed on July 5, 1981"
+responsible_forces: "Islamic Revolutionary Court of Kashan"
 # --- VERIFICATION ---
 status: unverified
 sources:

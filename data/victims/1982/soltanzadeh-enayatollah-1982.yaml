@@ -3,10 +3,13 @@ name_latin: "Enayatollah Soltanzadeh"
 name_farsi: "عنایت الله سلطان زاده"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+education: "science student"
 
 # --- DEATH ---
 date_of_death: 1982-02-08
@@ -48,9 +51,8 @@ circumstances: >
     accept, as I have, that death is the climax of life. I loved this life for
     its beauty…. I am approaching death smiling and happy. If you come to
     visit my grave, please come smiling.”
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq"
+responsible_forces: "Security forces, Prison authorities (Evin)"
 # --- VERIFICATION ---
 status: unverified
 sources:

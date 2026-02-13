@@ -3,7 +3,7 @@ name_latin: "Mansur Zamani"
 name_farsi: "منصور زمانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -64,8 +64,7 @@ circumstances: >
     earth. The Tribunal reached its verdict at 5 in the morning on March 5,
     1979, and Colonel Mansur Zamani was shot by firing squad immediately.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

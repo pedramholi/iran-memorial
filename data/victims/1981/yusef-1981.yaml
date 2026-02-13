@@ -36,8 +36,7 @@ circumstances: >
     about the defendant’s execution. Mr. Yusef was executed by a firing squad
     in Evin Prison on November 29, 1981.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Prison authorities (Evin)"
 # --- VERIFICATION ---
 status: unverified
 sources:

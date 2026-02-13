@@ -47,9 +47,8 @@ circumstances: >
     Judgment According to the list of Martyrs of the Peykar Organization, Mr.
     Hassan A’ineh Varzani was executed by firing squad in Shiraz in November
     25, 1982. He was 25 years old.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq; Tudeh Party persecution; 1979 Revolution"
+responsible_forces: "Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

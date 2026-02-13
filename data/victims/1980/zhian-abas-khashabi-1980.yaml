@@ -3,10 +3,13 @@ name_latin: "Abas Khashabi (Zhian)"
 name_farsi: "عباس خاشابی (ژیان)"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+occupation: "lawyer"
 
 # --- DEATH ---
 date_of_death: 1980-01-06

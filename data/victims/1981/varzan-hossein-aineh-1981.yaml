@@ -47,9 +47,8 @@ circumstances: >
     According to the list of Martyrs of the Peykar Organization, Mr. Hossein
     A’ineh Varzan was executed by firing squad in Tehran in November of 1981.
     No specific information is available about the execution sentence.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq; Tudeh Party persecution; 1979 Revolution"
+responsible_forces: "Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

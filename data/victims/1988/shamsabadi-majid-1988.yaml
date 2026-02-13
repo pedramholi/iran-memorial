@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+occupation: "student"
+education: "year student"
+
 # --- DEATH ---
 date_of_death: 1988-01-01
 age_at_death: 27
@@ -86,9 +90,8 @@ circumstances: >
     outside world. We faced such conditions for seven years, which proves the
     truth of our claim.” Judgment The details regarding the execution sentence
     are not available. Mr. Majid Shamsabadi w
-event_context: null
-responsible_forces: null
-
+event_context: "1988 prison massacres; Mojahedin-e Khalq; Tudeh Party persecution"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

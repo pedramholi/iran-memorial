@@ -40,9 +40,8 @@ circumstances: >
     against the defendant. Defense No information is available on Mr. Taheri’s
     defense. Judgment No specific information is available about the verdict
     leading to this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq; Tudeh Party persecution"
+responsible_forces: "Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -30,8 +30,7 @@ circumstances: >
     Tribunal. He was executed on Tuesday, October 6th. No further information
     is available on his conviction, sentence and execution.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

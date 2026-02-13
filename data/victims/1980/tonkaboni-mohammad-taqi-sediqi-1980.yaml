@@ -46,8 +46,7 @@ circumstances: >
     Aatollah Khalkhali. He personally shot Major Sediqi Tonkaboni with his own
     hand-gun (electronic form).
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

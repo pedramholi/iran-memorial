@@ -3,11 +3,16 @@ name_latin: "Esma'il Shahbazi"
 name_farsi: "اسماعیل شهبازی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+beliefs: "Mojahedin Khalq Iran"
+
+occupation: "military"
+education: "high school"
 # --- DEATH ---
 date_of_death: 1982-02-26
 age_at_death: 23
@@ -84,9 +89,8 @@ circumstances: >
     training, were not armed, and did not participate in armed conflict.
     Arrest and detention The circumstances of this defendant’s arrest and
     detention are not known.
-event_context: null
-responsible_forces: null
-
+event_context: "June 20, 1981 demonstration"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

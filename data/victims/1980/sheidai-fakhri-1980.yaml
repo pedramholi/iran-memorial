@@ -3,10 +3,14 @@ name_latin: "Fakhri Sheida'i"
 name_farsi: "فخری شیدایی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+occupation: "student"
+education: "fine arts student"
 
 # --- DEATH ---
 date_of_death: 1980-01-01
@@ -74,8 +78,7 @@ circumstances: >
     the verdict leading to this execution. Ms. Sheida i was executed by firing
     squad in November 1980.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

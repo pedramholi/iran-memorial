@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+occupation: "military"
+
 # --- DEATH ---
 date_of_death: 1981-12-26
 age_at_death: 18
@@ -44,9 +47,8 @@ circumstances: >
     available concerning Ms. Rohani Shirvani s defense. Judgment An Islamic
     Revolutionary tribunal condemned Ms. Farzaneh Rohani Shirvani to death.
     She and 11 other individuals were executed on December 26, 1981 in Mashad.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq"
+responsible_forces: "Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

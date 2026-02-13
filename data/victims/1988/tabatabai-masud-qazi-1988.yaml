@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+occupation: "military"
+
 # --- DEATH ---
 date_of_death: 1988-01-01
 age_at_death: 26
@@ -67,7 +70,7 @@ circumstances: >
     conditions the families reject the claim of the authorities that these
     prisoners were able to engage with any political group outside Iran.
     Judgment No sentence was issued publicly.
-event_context: null
+event_context: "Kurdish resistance; Mojahedin-e Khalq; Tudeh Party persecution; Fedaiyan persecution"
 responsible_forces: null
 
 # --- VERIFICATION ---

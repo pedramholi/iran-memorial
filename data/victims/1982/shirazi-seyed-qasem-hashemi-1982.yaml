@@ -47,9 +47,8 @@ circumstances: >
     According to the list of Martyrs of the Peykar Organization, Mr. Seyed
     Qasem Hashemi Shirazi was executed by firing squad in Bandar Abbas on
     November 21, 1982.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq; Tudeh Party persecution; 1979 Revolution"
+responsible_forces: "Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

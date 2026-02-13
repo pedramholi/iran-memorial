@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "farmer"
+
 # --- DEATH ---
 date_of_death: 1981-11-03
 age_at_death: 20
@@ -39,9 +42,8 @@ circumstances: >
     available on Mr. Tokhmafshan's defense. Judgment No information is
     available about the verdict leading to this execution. Mr. Javad
     Tokhmafshan was executed in Kermanshah on November 3, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq"
+responsible_forces: "Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

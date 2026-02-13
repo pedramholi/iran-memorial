@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "lawyer"
+
 # --- DEATH ---
 date_of_death: 1983-09-20
 age_at_death: null

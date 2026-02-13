@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
 
+# --- LIFE ---
+occupation: "student"
+education: "engineering student"
+
 # --- DEATH ---
 date_of_death: 1981-12-27
 age_at_death: 24
@@ -42,9 +46,8 @@ circumstances: >
     Defense No information is available on Ms. Timaji's defense. Judgment No
     specific information regarding the death sentence is available. Ms. Timaji
     was executed at Evin Prison on her 24th birthday, December 27, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq"
+responsible_forces: "Security forces, Prison authorities (Evin)"
 # --- VERIFICATION ---
 status: unverified
 sources:

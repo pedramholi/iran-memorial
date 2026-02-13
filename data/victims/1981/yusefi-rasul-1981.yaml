@@ -60,9 +60,8 @@ circumstances: >
     ruling was carried out in Tabriz between September 23 to 25, 1981. The
     list of MKO declared his execution date 25 September. No specific
     information is available about this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq; Tudeh Party persecution; 1979 Revolution"
+responsible_forces: "Revolutionary Court, Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+occupation: "student"
+education: "university student"
+
 # --- DEATH ---
 date_of_death: 1981-07-15
 age_at_death: 28
@@ -35,9 +39,8 @@ circumstances: >
     guilty of waging war on God, rebellion, and corruption on earth, and
     sentenced him to death. He was executed by a firing squad on July 15, 1981
     in Sari. Mr. Jalali was 28 years old at the time of his execution.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq"
+responsible_forces: "Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

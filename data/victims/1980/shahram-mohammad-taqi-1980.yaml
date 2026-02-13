@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+education: "mathematics student"
+
 # --- DEATH ---
 date_of_death: 1980-07-24
 age_at_death: 33
@@ -85,9 +88,8 @@ circumstances: >
     Republic Party) candidate for the upcoming parliamentary elections at the
     time, refuted their statement on the basis that it was impossible to have
     an impartial judge after the Revolution: “Th
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq"
+responsible_forces: "Revolutionary Committee, Police, Prison authorities (Evin)"
 # --- VERIFICATION ---
 status: unverified
 sources:

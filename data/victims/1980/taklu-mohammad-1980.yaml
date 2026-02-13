@@ -37,8 +37,7 @@ circumstances: >
     Tribunal of Hamedan found Mr. Taklu guilty of corruption on earth and
     sentenced him to death. He was executed at one a.m.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

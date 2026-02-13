@@ -44,9 +44,8 @@ circumstances: >
     specific information is available about the defendant’s execution
     sentence. According to the electronic form, Mr. Gholam Hossein Taqizadeh
     was executed in Gachsaran by a firing squad on January 28, 1982.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq"
+responsible_forces: "Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

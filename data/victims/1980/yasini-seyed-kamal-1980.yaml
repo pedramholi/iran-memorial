@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+occupation: "teacher"
+education: "the ideas of dr student"
+
 # --- DEATH ---
 date_of_death: 1980-03-03
 age_at_death: 20
@@ -78,8 +82,7 @@ circumstances: >
     A.M. on March 3, 1980. His body was handed over to his family that same
     morning.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Revolutionary Committee, Prison authorities (Evin)"
 # --- VERIFICATION ---
 status: unverified
 sources:

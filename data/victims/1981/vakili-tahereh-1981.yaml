@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "lawyer"
+
 # --- DEATH ---
 date_of_death: 1981-09-19
 age_at_death: 16
@@ -32,9 +35,8 @@ circumstances: >
     concerning Ms. Vakili’s defense. Judgment No specific information is
     available about the verdict leading to this execution. Ms. Tahereh Vakili
     was executed at dawn on September 19, 1981 in Evin prison.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq"
+responsible_forces: "Security forces, Prison authorities (Evin)"
 # --- VERIFICATION ---
 status: unverified
 sources:

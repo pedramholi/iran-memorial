@@ -38,8 +38,7 @@ circumstances: >
     the sentenced. He and 12 other individuals were hanged in the prison of
     the Police Department of Kerman on October 22, 1985.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Police"
 # --- VERIFICATION ---
 status: unverified
 sources:

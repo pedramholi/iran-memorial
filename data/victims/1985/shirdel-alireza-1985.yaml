@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+occupation: "student"
+education: "a student"
+
 # --- DEATH ---
 date_of_death: 1985-01-01
 age_at_death: null
@@ -31,8 +35,7 @@ circumstances: >
     regarding the death sentence is available. Mr. Shirdel was executed at
     Evin Prison and his body was never returned to his family.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Prison authorities (Evin)"
 # --- VERIFICATION ---
 status: unverified
 sources:

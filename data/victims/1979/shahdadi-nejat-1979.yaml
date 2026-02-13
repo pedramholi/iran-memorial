@@ -3,7 +3,7 @@ name_latin: "Nejat Shahdadi"
 name_farsi: "نجات شهدادی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -43,9 +43,8 @@ circumstances: >
     Judgment The Islamic Revolutionary Tribunal of Kerman declared Mr.
     Shahdadi a “corruptor on earth” and an “enemy of God” and sentenced him to
     death. The sentence was carried out immediately.
-event_context: null
-responsible_forces: null
-
+event_context: "1979"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

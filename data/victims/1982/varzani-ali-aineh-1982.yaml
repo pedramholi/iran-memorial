@@ -47,9 +47,8 @@ circumstances: >
     information is available about the execution verdict. According to the
     list of Martyrs of the Peykar Organization, Mr. Ali A’ineh Varzani was
     executed by firing squad in Shiraz on November 25, 1982. He was 21.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq; Tudeh Party persecution; 1979 Revolution"
+responsible_forces: "Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

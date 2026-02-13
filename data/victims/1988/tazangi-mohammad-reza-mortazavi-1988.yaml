@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
 
+# --- LIFE ---
+occupation: "military"
+education: "high school"
+
 # --- DEATH ---
 date_of_death: 1988-01-01
 age_at_death: 32
@@ -85,7 +89,7 @@ circumstances: >
     executions is proof of their illegality. They note that an overwhelming
     majority of these prisoners had been tried and sentenced to prison terms,
     which they were either serving or had a
-event_context: null
+event_context: "1988 prison massacres; Mojahedin-e Khalq"
 responsible_forces: null
 
 # --- VERIFICATION ---

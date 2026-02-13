@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+occupation: "military"
+
 # --- DEATH ---
 date_of_death: 1981-12-29
 age_at_death: null
@@ -33,7 +36,7 @@ circumstances: >
     Tribunal of Bushehr found Mr. Avaz Zadeh guilty of being a corruptor on
     earth, an enemy of God and rebellious against the Islamic government. She
     was sentenced to death. The sentence was carried out.
-event_context: null
+event_context: "Mojahedin-e Khalq"
 responsible_forces: null
 
 # --- VERIFICATION ---

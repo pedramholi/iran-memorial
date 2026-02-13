@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "military"
+
 # --- DEATH ---
 date_of_death: 1985-05-21
 age_at_death: null
@@ -38,9 +41,8 @@ circumstances: >
     Shafi’zadeh to death. The Islamic Revolutionary Supreme Court approved the
     sentence. He and ten other men were hanged on May 21, 1985 at prison of
     the Police Department of Kerman.
-event_context: null
-responsible_forces: null
-
+event_context: "1985 execution"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

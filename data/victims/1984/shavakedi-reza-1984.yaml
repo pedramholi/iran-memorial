@@ -36,8 +36,7 @@ circumstances: >
     confirmed by the Supreme Judicial Council, the sentence was carried out by
     the Islamic Revolutionary Committee at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Revolutionary Committee"
 # --- VERIFICATION ---
 status: unverified
 sources:

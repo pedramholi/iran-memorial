@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+occupation: "student"
+education: "physics student"
+
 # --- DEATH ---
 date_of_death: 1983-08-02
 age_at_death: 34
@@ -45,9 +49,8 @@ circumstances: >
     Judgment Mr. Mohammad Yazdanian was sentenced to death. He was denied the
     right to appeal against this verdict. He executed at Evin Prison on August
     2, 1983.
-event_context: null
-responsible_forces: null
-
+event_context: "Kurdish resistance; Mojahedin-e Khalq; 1979 Revolution"
+responsible_forces: "Police, Prison authorities (Evin)"
 # --- VERIFICATION ---
 status: unverified
 sources:

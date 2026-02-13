@@ -47,9 +47,8 @@ circumstances: >
     defense. Judgment The Central Islamic Revolutionary Tribunal condemned Mr.
     Hadi Akbari Zakat to death. According to the Kayhan newspaper, he was
     executed in Tehran on December 23, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq"
+responsible_forces: "Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

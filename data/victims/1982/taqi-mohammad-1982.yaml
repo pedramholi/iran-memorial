@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+occupation: "military"
+
 # --- DEATH ---
 date_of_death: 1982-01-19
 age_at_death: null
@@ -32,7 +35,7 @@ circumstances: >
     defendant. Defense No information is available on Mr.Taqi’s defense.
     Judgment The Islamic Revolutionary Tribunal of Hamedan sentenced Mr. Taqi
     to death. The sentence was carried out.
-event_context: null
+event_context: "Mojahedin-e Khalq"
 responsible_forces: null
 
 # --- VERIFICATION ---

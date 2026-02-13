@@ -56,9 +56,8 @@ circumstances: >
     Court of Tabriz idendified Mr. Naser Sorkhi as an “enemy of God and His
     Prophet, an apostate, and a rebel.” He was condemned to death. He was
     executed in Tabriz prison on August 7, 1981 at night.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq; Tudeh Party persecution"
+responsible_forces: "Revolutionary Court, Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

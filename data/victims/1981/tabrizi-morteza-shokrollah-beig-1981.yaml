@@ -46,9 +46,8 @@ circumstances: >
     No information is available on Mr. Shokrollah Beig Tabrizi's defense.
     Judgment According to the list of Martyrs of the Peykar Organization, Mr.
     Shokrollah Beig Tabrizi was executed in 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin-e Khalq; Tudeh Party persecution; 1979 Revolution"
+responsible_forces: "Security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:
