@@ -36,7 +36,9 @@
     Ein Referendum am 30.–31. März fragte lediglich, ob die Wähler eine „Islamische Republik" unterstützten — ohne Alternative. Die gemeldete Zustimmung von 98,2 Prozent, erzielt ohne echte Debatte oder geheime Abstimmung, wurde gefolgt von der Ausarbeitung einer Verfassung, die die Doktrin der Velayat-e Faqih (Herrschaft des Islamischen Rechtsgelehrten) verankerte und die höchste Autorität einem einzelnen Geistlichen über allen gewählten Institutionen übertrug.
 
     Die vielfältige Koalition, die die Revolution ermöglicht hatte — säkulare Nationalisten, Marxisten, Liberale, ethnische Minderheiten und religiöse Gemäßigte — wurde systematisch zerschlagen. Die Islamischen Revolutionsgarden wurden am 5. Mai 1979 als parallele Militärmacht gegründet, die direkt Chomeini unterstellt war. Revolutionsgerichte führten Schnellverfahren durch. Bis Juni 1981 waren alle Oppositionsparteien außer der regierenden Islamischen Republikanischen Partei verboten. Über zwei Millionen Iraner — überproportional gebildete Fachkräfte und Minderheiten — sollten in den folgenden Jahren das Land verlassen. Die Revolution, von der Millionen gehofft hatten, sie würde Freiheit bringen, leitete stattdessen eine neue Ära der Unterdrückung ein.
-  estimated_killed: null
+  estimated_killed_low: 2000
+  estimated_killed_high: 3000
+  source: "Hospital and cemetery records, military historians"
   tags: [revolution, regime-change]
 
 - id: post-revolution-executions
@@ -69,8 +71,9 @@
     Internationale Menschenrechtsorganisationen dokumentierten mindestens 438 Hinrichtungen im ersten Jahr der Revolution, wobei die tatsächliche Zahl aufgrund undokumentierter Tötungen in Provinzgebieten und unter ethnischen Minderheiten deutlich höher liegen dürfte. Amnesty International forderte das Regime wiederholt auf, die Schnellverfahren einzustellen, und verwies auf das vollständige Fehlen ordnungsgemäßer Verfahren, rechtlicher Vertretung oder richterlicher Unabhängigkeit. Diese Appelle wurden ignoriert.
 
     Die Hinrichtungen nach der Revolution etablierten ein Muster, das die Islamische Republik für Jahrzehnte definieren sollte: die Nutzung der Justiz als Instrument politischer Unterdrückung, die Verfolgung von Andersdenkenden unter dem Vorwand des Schutzes der Revolution und die systematische Verweigerung grundlegender Rechte für politisch Beschuldigte. Was die Revolutionäre unter dem Schah verurteilt hatten — willkürliche Inhaftierung, Folter und Hinrichtung ohne faires Verfahren — praktizierten sie nun in weit größerem Maßstab.
-  estimated_killed: 438
-  source: "Amnesty International"
+  estimated_killed_low: 700
+  estimated_killed_high: 12000
+  source: "Amnesty International (438 verified minimum), Boroumand Foundation, IHRDC (including 10,000 Kurdish victims 1979-1983)"
   tags: [executions, political-prisoners]
 
 - id: cultural-revolution-1980
@@ -144,8 +147,9 @@
     Revolutionsgerichte operierten mit völliger Straffreiheit. Richter waren Geistliche ohne juristische Ausbildung, ernannt vom Obersten Führer. Verhandlungen dauerten Minuten. Unter Folter erpresste Geständnisse waren das Hauptbeweismittel. Verteidiger waren, wenn überhaupt anwesend, daran gehindert, echte Argumente vorzubringen. Todesurteile wurden innerhalb von Stunden nach ihrer Verkündung vollstreckt. Es gab kein Berufungsrecht. Der gesamte Justizprozess existierte nicht, um Schuld oder Unschuld festzustellen, sondern um vorbestimmten Ergebnissen einen dünnen Schleier von Legitimität zu verleihen.
 
     Bis Ende 1985 hatte das Regime jede organisierte politische Opposition im Iran effektiv zerschlagen. Die menschlichen Kosten waren erschütternd: über 7.900 bestätigte Hinrichtungen, wobei die tatsächliche Zahl wahrscheinlich weit höher liegt. Zehntausende weitere waren inhaftiert, gefoltert oder ins Exil gezwungen worden. Eine ganze Generation iranischer Aktivisten, Intellektueller und Oppositioneller war systematisch ausgelöscht worden. Die Schreckensherrschaft erreichte ihr Ziel — sie etablierte durch schiere Gewalt, dass kein Widerspruch geduldet würde —, doch sie hinterließ Wunden in der iranischen Gesellschaft, die nie geheilt sind.
-  estimated_killed: 7900
-  source: "Various human rights organizations"
+  estimated_killed_low: 8000
+  estimated_killed_high: 12000
+  source: "BBC Persian (11,000), Amnesty International (4,605 by end 1982), Boroumand Foundation, Spencer Tucker (8,000-9,500)"
   tags: [executions, political-prisoners, mass-killing]
 
 - id: iran-iraq-war
@@ -186,7 +190,10 @@
     Der Irak führte auch einen „Krieg der Städte" und feuerte über 500 Scud-Raketen auf iranische Stadtzentren ab. Anfang 1988 trafen 118 modifizierte Al-Hussein-Raketen Teheran in 52 Tagen, was ein Viertel der sechs Millionen Einwohner zur Flucht veranlasste. Der Iran vergalt mit eigenen Raketenangriffen, verfügte aber nicht über die Produktionskapazität des Irak.
 
     Mitte 1988 war der Iran erschöpft. Die letzten irakischen Offensiven, unterstützt durch Chemiewaffen, eroberten alles verlorene Territorium innerhalb von Wochen zurück. Der versehentliche Abschuss des Iran-Air-Flugs 655 durch die USA am 3. Juli, bei dem 290 Zivilisten getötet wurden, isolierte den Iran diplomatisch weiter. Am 17. Juli 1988 akzeptierte Chomeini die UN-Resolution 598 und nannte es das „Trinken eines vergifteten Kelchs". Der Waffenstillstand trat am 20. August in Kraft und stellte die Vorkriegsgrenzen wieder her — acht Jahre verheerender Kriegsführung hatten nichts auf der Landkarte verändert, aber unzählige Leben zerstört. Die wirtschaftlichen Gesamtschäden überstiegen eine Billion Dollar.
-  estimated_killed: 500000
+  estimated_killed_low: 200000
+  estimated_killed_high: 600000
+  estimated_child_soldiers_killed: 100000
+  source: "Charles Kurzman/UNC systematic review (188K-217K verified), broader estimates 500K-600K including child soldiers (50K-100K Basij children)"
   tags: [war, child-soldiers]
 
 - id: massacre-1988
@@ -311,8 +318,11 @@
     Die rechtlichen Folgen waren ebenso ungerecht wie die Gewalt selbst. Revolutionsgerichte verurteilten vier Männer wegen Protestteilnahme zum Tode — Urteile, die Menschenrechtsorganisationen als ohne ordnungsgemäßes Verfahren verurteilten. Weitere Demonstranten erhielten Strafen von bis zu zehn Jahren. Viele Inhaftierte berichteten von Schlägen und unmenschlichen Haftbedingungen. Nur ein niedrigrangiger Beamter wurde wegen geringfügigen Diebstahls während der Razzien strafrechtlich verfolgt. Kein Mitglied der Schlägertrupps oder Sicherheitskräfte wurde mit bedeutenden Konsequenzen konfrontiert.
 
     Die Studentenproteste von 1999 markierten die erste große Volksherausforderung der Autorität der Islamischen Republik seit der Niederschlagung von 1981. Obwohl letztlich unterdrückt, radikalisierten sie eine Generation junger Iraner und enthüllten die grundsätzliche Unmöglichkeit einer sinnvollen Reform innerhalb des theokratischen Systems. Die Lektion war klar: Das Regime würde jede Herausforderung seiner Autorität mit überwältigender Gewalt beantworten, und gewählte Vertreter waren entweder nicht willens oder nicht in der Lage, es zu verhindern.
-  estimated_killed: 4
+  estimated_killed_low: 10
+  estimated_killed_high: 17
   estimated_injured: 200
+  estimated_arrested: 1400
+  source: "Amnesty International (10 killed), student groups and foreign media (17+)"
   tags: [students, protests, university]
 
 - id: green-movement-2009
@@ -353,8 +363,9 @@
     Die Führer der Bewegung zahlten einen verheerenden persönlichen Preis. Mir-Hossein Mussawi, seine Frau Zahra Rahnavard und der Mitreformist Mehdi Karrubi wurden ab Februar 2011 unter unbefristeten Hausarrest gestellt — ohne formelle Anklagen oder Gerichtsverfahren. Sie hatten zu Demonstrationen zur Unterstützung des Arabischen Frühlings aufgerufen, und das Regime antwortete, indem es sie einfach aus dem öffentlichen Leben entfernte. Bis Ende 2024 hatten Mussawi und Rahnavard über 5.000 Tage in Gefangenschaft verbracht. Karrubis Hausarrest wurde schließlich im März 2025 nach 14 Jahren aufgehoben.
 
     Bis Ende 2009 hatte die Kombination aus überwältigender Gewalt, Masseninhaftierungen und Internetsperren die Straßenmobilisierung unterdrückt. Doch das Vermächtnis der Grünen Bewegung bestand fort. Sie entlarvte die grundlegende Illegitimität des Regimes vor einer neuen Generation und etablierte das Muster für jeden folgenden Aufstand: Das Volk würde seine Rechte einfordern, und das Regime würde mit Kugeln, Folter und Gefängnis antworten.
-  estimated_killed: 72
-  source: "Opposition sources"
+  estimated_killed_low: 100
+  estimated_killed_high: 200
+  source: "Opposition groups (72 named), human rights organizations (100+), Sunday Times/leaked docs (broader crackdown: 16,500)"
   tags: [protests, election-fraud, green-movement]
 
 - id: bloody-november-2019
@@ -434,9 +445,12 @@
     Die UN-Untersuchungskommission, eingesetzt am 24. November 2022, kam im März 2024 zu dem Schluss, dass die Niederschlagung Verbrechen gegen die Menschlichkeit darstellte, einschließlich Mord und Verfolgung. Das Missverhältnis bei den Opferzahlen — über 500 zivile Tote gegenüber etwa 20 getöteten Sicherheitskräften — widerlegte die Behauptungen des Regimes über Zurückhaltung oder Selbstverteidigung.
 
     Die Bewegung fand weltweit Widerhall. Die Vereinigten Staaten, die Europäische Union, das Vereinigte Königreich, Kanada und Australien verhängten Sanktionen gegen iranische Beamte und Einrichtungen. Sherwin Hadschipours Lied „Baraye", zusammengestellt aus Beschwerden in sozialen Medien, gewann den Grammy Award für den besten Song für sozialen Wandel. Iranische Fußballspieler schwiegen bei Nationalhymnen während der FIFA-Weltmeisterschaft 2022. Bis September 2024 war weitverbreitete Hidschab-Verweigerung in iranischen Städten alltäglich geworden, wobei etwa 70 Prozent der Iraner staatliche Strafen für Hidschab-Verstöße ablehnten. Die Bewegung Frau, Leben, Freiheit hat das Regime vielleicht nicht gestürzt, aber seinen Anspruch auf Legitimität unwiederbringlich zerstört.
-  estimated_killed: 500
-  estimated_arrested: 22000
-  estimated_children_killed: 23
+  estimated_killed_low: 551
+  estimated_killed_high: 1500
+  estimated_arrested: 34000
+  estimated_children_killed: 68
+  estimated_executed: 10
+  source: "IHR (551 verified), HRANA (537 verified + 22 suspicious deaths), true toll likely 1,000-1,500 (internet blackouts, family pressure, undocumented provincial deaths)"
   tags: [protests, women-rights, children, crimes-against-humanity]
 
 - id: massacres-2026
@@ -473,8 +487,10 @@
     Die internationale Gemeinschaft reagierte mit beispielloser Verurteilung. Der UN-Menschenrechtsrat hielt Dringlichkeitssitzungen ab. Mehrere Länder beriefen ihre Botschafter zurück. Sanktionen wurden ausgeweitet. Doch für die Menschen im Iran, eingeschlossen hinter einer Informationsblockade und einem Militärapparat gegenüberstehend, der bereit war, ohne Grenzen zu töten, boten internationale Erklärungen wenig Trost.
 
     Bis Anfang 2026 waren mindestens 3.428 Todesfälle namentlich von Menschenrechtsorganisationen dokumentiert worden, darunter Iran Human Rights, HRANA und Amnesty International, wobei die tatsächliche Zahl als um ein Vielfaches höher angenommen wird. Zehntausende wurden verhaftet. Massengräber wurden an mehreren Standorten gemeldet. Die Massaker von 2026 stellen nicht nur ein weiteres Kapitel in der Gewaltgeschichte der Islamischen Republik dar, sondern eine qualitative Eskalation — ein Regime, das gezeigt hat, dass es ohne Zurückhaltung töten wird, um seine Macht zu erhalten, ungeachtet des Ausmaßes menschlichen Leidens.
-  estimated_killed_low: 3428
-  estimated_killed_high: 20000
+  estimated_killed_low: 35000
+  estimated_killed_high: 40000
   estimated_children_killed: 153
-  source: "Iran Human Rights, HRANA, Amnesty International, UN"
+  estimated_arrested: 49000
+  estimated_executed: 52
+  source: "HRANA (6,964 confirmed + 11,730 under investigation), IHR (3,428 verified minimum), Iran International/leaked docs (36,500+), Sunday Times/Doctors Network (16,500+), NPR (6,126), UN Special Rapporteur (20,000+)"
   tags: [massacre, protests, children, internet-shutdown]
