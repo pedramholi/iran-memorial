@@ -235,7 +235,7 @@ border-start: 2px solid;     /* NOT border-left */
 | Events | 12 | `data/events/timeline.yaml` |
 | Victims | ~28,400 | `data/victims/{year}/slug.yaml` |
 
-**Victims:** ~28,400 YAML files across 8 sources (Wikipedia, HRANA, IHR, iranvictims.com, Amnesty International, Boroumand Foundation historical, Boroumand Foundation enrichment, manual). Deduplicated via `scripts/dedup_victims.py` (206) + `scripts/dedup_2026_internal.py` (254) + `-2` suffix dedup (939) + `scripts/dedup-db.ts` (3,786) = 5,185 total duplicates removed. 31,366 victims in production DB.
+**Victims:** ~28,400 YAML files across 8 sources (Wikipedia, HRANA, IHR, iranvictims.com, Amnesty International, Boroumand Foundation historical, Boroumand Foundation enrichment, manual). Deduplicated via `scripts/dedup_victims.py` (206) + `scripts/dedup_2026_internal.py` (254) + `-2` suffix dedup (939) + `scripts/dedup-db.ts` (3,786) + `scripts/dedup-round5.ts` (102) = 5,298 total duplicates removed. 31,223 victims in production DB.
 **Events:** Revolution 1979, Reign of Terror 1981–85, Iran-Iraq War, 1988 Massacre, Chain Murders, Student Protests 1999, Green Movement 2009, Bloody November 2019, Woman Life Freedom 2022, 2026 Massacres
 
 ---
@@ -261,9 +261,9 @@ border-start: 2px solid;     /* NOT border-left */
 | v0.1.0 | 2026-02-09 | Phase 1: Full project setup — Next.js 16, Prisma, i18n, 8 pages, seed script, Docker, docs |
 | v0.2.0 | 2026-02-09 | Phase 2A/B: Multi-source data collection — 7 sources, 4,378 victims, dedup, enrichment |
 | v0.3.0 | 2026-02-12 | Phase 2C: Deployment + AI enrichment (14K fields), source dedup (222K removed), pagination, security hardening |
-| v0.4.0 | 2026-02-13 | Phase 3: Boroumand historical import — 31,366 victims in DB, 5,185 duplicates removed, parallel scraper (8× faster) |
+| v0.4.0 | 2026-02-13 | Phase 3: Boroumand historical import — 31,223 victims in DB, 5,298 duplicates removed, parallel scraper (8× faster) |
 
-**Current:** v0.4.0 | Next.js 16 | TypeScript | Prisma 6 | Tailwind v4 | 3 languages | 31,366 victims | Live at memorial.n8ncloud.de
+**Current:** v0.4.0 | Next.js 16 | TypeScript | Prisma 6 | Tailwind v4 | 3 languages | 31,223 victims | Live at memorial.n8ncloud.de
 
 ---
 
@@ -284,6 +284,7 @@ border-start: 2px solid;     /* NOT border-left */
 | `scripts/sync-gender-to-db.ts` | Sync gender YAML → DB | 6,271 gender updates |
 | `scripts/infer_gender.py` | Gender inference from first names | ~500 Persian names, 100% coverage on named victims |
 | `scripts/dedup-db.ts` | DB-level dedup (named + Unknown text) | -3,786 duplicates (493 sources moved) |
+| `scripts/dedup-round5.ts` | Farsi normalization dedup (NULL-date + char variants) | -102 duplicates (68 sources moved) |
 
 ## Data Collection Status
 
@@ -300,10 +301,13 @@ border-start: 2px solid;     /* NOT border-left */
 | Deduplication (Round 2) | Script | -265 | Sources merged into originals | DONE |
 | Deduplication (Round 3) | Script | -939 | -2 suffix duplicates merged | DONE |
 | Deduplication (Round 4) | Script | -3,786 | Named + Unknown text dedup | DONE |
+| Deduplication (Round 5) | Script | -102 | Farsi normalization + NULL-date | DONE |
 | AI Field Extraction | GPT-4o-mini | 0 | 15,787 fields from 8,051 victims | DONE |
 | Source Dedup | SQL script | 0 | -221,800 duplicate sources | DONE |
 | Event Death Tolls | Research | 0 | Corrected with diaspora/NGO sources | DONE |
-| **Total in DB** | | **31,366** | | |
+| UI: Show highest estimate | Code change | 0 | formatKilledRange → only high | DONE |
+| Fallback data sync | Code change | 0 | All death tolls + counts updated | DONE |
+| **Total in DB** | | **31,223** | | |
 
 **Open:** HRANA 20-Day (~0–20), Amnesty other reports (~10–30), IHR direct contact, KHRN 2025/2026
 

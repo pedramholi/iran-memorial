@@ -1219,20 +1219,86 @@ Commit: bed0072a3
 
 ---
 
+#### LOG-P3-013 | 2026-02-13 | DEDUP ROUND 5: FARSI NORMALIZATION + NULL-DATE
+
+**Was:** Letzte Duplikate bereinigt — NULL-Datum-Gruppen + Farsi-Zeichenvarianten
+**Warum:** Noch 107 Gruppen mit gleichem Farsi-Namen aber NULL-Todesdatum + 52 Paare mit gleichem Latin-Namen aber unterschiedlicher Farsi-Schreibweise (ZWNJ, ئی/یی, ک/ك)
+
+```
+Script: scripts/dedup-round5.ts (NEU)
+
+Kategorie 1: Gleicher Farsi-Name + NULL Todesdatum
+  - 107 Gruppen gefunden (Dry Run), 73 tatsächlich gemergt (Rest durch Round 4 bereits erledigt)
+  - Scoring-System wie dedup-db.ts
+
+Kategorie 2: Gleicher Latin-Name + Todesdatum, Farsi-Zeichenvarianten
+  - 52 Paare gefunden
+  - Farsi-Normalisierung: ZWNJ entfernen, Arabic→Persian Kaf/Yeh, Hamza, Diacritics
+  - 29 gemergt (gleiche normalisierte Farsi-Namen)
+  - 23 übersprungen (tatsächlich verschiedene Personen)
+
+Ergebnis:
+  - 102 DB-Einträge gelöscht (73 + 29)
+  - 77 YAML-Dateien gelöscht
+  - 68 Sources in Keeper verschoben
+  - 16 Felder aus Duplikaten in Keeper gemergt
+  - Alle Duplikat-Kategorien jetzt bei 0
+
+DB: 31.366 → 31.223 Victims
+Commit: (Teil von Phase 3 Final)
+```
+
+**Lesson Learned:** Farsi hat viele unsichtbare Zeichenvarianten (ZWNJ U+200C, Arabic Kaf ك vs Persian Kaf ک, Hamza-Varianten). Für Duplikat-Erkennung eine Normalisierungsfunktion verwenden die alle diese Varianten vereinheitlicht. Aber: Unterschiedliche normalisierte Farsi-Namen bei gleichem Latin-Namen = VERSCHIEDENE Personen (z.B. حسین vs حسن).
+
+---
+
+#### LOG-P3-014 | 2026-02-13 | UI: NUR HÖCHSTE OPFERZAHL ANZEIGEN + FALLBACK SYNC
+
+**Was:** Events zeigen nur noch die höchste geschätzte Opferzahl (nicht mehr Low–High Range) + Fallback-Daten synchronisiert
+**Warum:** Klare Kommunikation — eine Zahl statt verwirrende Spanne
+
+```
+Änderungen:
+
+1. lib/utils.ts — formatKilledRange():
+   - Vorher: "low – high" Range-Anzeige
+   - Nachher: Nur high (oder low wenn kein high vorhanden)
+
+2. lib/fallback-data.ts — Alle Werte aktualisiert:
+   - victimCount: 17.515 → 31.223
+   - sourceCount: 6.500 → 29.000
+   - Alle 11 Event Death Tolls korrigiert (Diaspora-Quellen)
+   - fallbackVictimsList.total: 17.515 → 31.223
+   - Neues Event "2026 Massacres" (35.000–40.000) aufgenommen
+
+3. ISR Cache Problem:
+   - Docker-Build ohne DB nutzt Fallback-Daten
+   - Alte Werte in fallback-data.ts → alte Zahlen auf der Website
+   - Fix: fallback-data.ts aktualisieren + Docker rebuild
+
+Commit: (amended in Phase 3 Final)
+```
+
+**Lesson Learned:** `lib/fallback-data.ts` wird während Docker-Build verwendet (kein DB-Zugang). Muss synchron gehalten werden mit den echten DB-Werten. ISR-Cache in `/app/.next/server/app/` persists across container restarts — nur ein full Docker rebuild (`--force-recreate`) erneuert die Seiten zuverlässig. NIEMALS das gesamte `.next/server/app/` Verzeichnis löschen — das verursacht 500-Fehler.
+
+---
+
 ## Phase 3 — Zusammenfassung (FINAL)
 
 | Metrik | Vorher | Nachher |
 |--------|--------|---------|
 | YAML-Dateien | 14.430 | ~28.400 |
-| DB Victims | 17.515 | 31.366 |
+| DB Victims | 17.515 | 31.223 |
 | Boroumand importiert | 7.636 | 26.815 (alle verarbeitet) |
 | Gender Coverage | ~85% | ~72% (28% unknown bei historischen) |
-| Duplikate entfernt (total) | 206 | 5.185 (206 + 265 + 939 + 3.786) |
+| Duplikate entfernt (total) | 206 | 5.298 (206 + 265 + 939 + 3.786 + 102) |
 | Event Death Tolls | Teils offiziell | Alle mit Diaspora-Quellen korrigiert |
 | Foto-Anzeige | Cloudflare-blockiert | unoptimized Fix deployed |
-| Neue Scripts | — | seed-new-only.ts, sync-gender-to-db.ts, dedup_2026_internal.py, infer_gender.py, dedup-db.ts |
+| Neue Scripts | — | seed-new-only.ts, sync-gender-to-db.ts, dedup_2026_internal.py, infer_gender.py, dedup-db.ts, dedup-round5.ts |
+| UI | Range-Anzeige | Nur höchste Opferzahl pro Event |
+| Fallback-Daten | Veraltet (17.515) | Synchron mit DB (31.223) |
 
 ---
 
 *Erstellt: 2026-02-09*
-*Letzte Aktualisierung: 2026-02-13 (Phase 3 FINAL: 31.366 Victims, Boroumand complete, Dedup ×4, Death Toll corrections)*
+*Letzte Aktualisierung: 2026-02-13 (Phase 3 FINAL: 31.223 Victims, Boroumand complete, Dedup ×5, Death Toll corrections, UI highest-only)*

@@ -486,7 +486,10 @@ IHR und HRANA haben eigene Datenformate. Pro Import-Quelle ein eigenes Mapping-S
 *Erstellt: 2026-02-09*
 - **Scoring-basiertes Dedup (dedup-db.ts):** Bei Duplikat-Gruppen den "besten" Eintrag per Scoring bestimmen: Non-null-Felder (+1), Photo (+10), Circumstances-Länge (+0-10), Event-Link (+5), Non-Boroumand-Source (+3). Höchster Score = Keeper. Sicherer als Heuristiken wie "erster Eintrag" oder "ältester".
 - **Unknown/ناشناس Dedup nur mit Text-Match:** Unbenannte Opfer (name_farsi = 'ناشناس') mit gleichem Datum sind NICHT automatisch Duplikate — es können verschiedene Personen sein. Nur dedupen wenn auch `circumstances_en` Text identisch ist (LEFT 200 chars). Ohne Text: nicht anfassen.
+- **Farsi-Normalisierung für Dedup (dedup-round5.ts):** Persisch hat unsichtbare Zeichenvarianten die zu falschen "Unterschieden" führen: ZWNJ (U+200C), Arabic Kaf ك vs Persian Kaf ک, Arabic Yeh ي vs Persian Yeh ی, Hamza-auf-Yeh ئ → ی, Ta Marbuta ة → ه, Alef Madda آ → ا, Arabic Diacritics (Fathatan–Hamza). Normalisierungsfunktion entfernt diese → zuverlässiges Matching. ABER: unterschiedliche normalisierte Farsi-Namen bei gleichem Latin-Namen = verschiedene Personen (23 korrekt übersprungen).
+- **Fallback-Daten synchron halten (lib/fallback-data.ts):** Docker-Build hat keinen DB-Zugang → nutzt statische Fallback-Daten. Wenn Event-Opferzahlen oder Victim-Count in der DB geändert werden, MUSS `fallback-data.ts` manuell aktualisiert werden. Sonst zeigt die Website nach jedem Docker-Build alte Zahlen bis ISR die Seiten neu generiert.
+- **ISR-Cache: Nie `.next/server/app/` komplett löschen:** ISR-Cache in `/app/.next/server/app/` persists across container restarts. Einzelne Cache-Dateien löschen ist OK, aber das gesamte Verzeichnis löschen verursacht 500-Fehler (Route-Handler fehlen). Stattdessen: `docker compose up -d --build --force-recreate` für sauberen Rebuild.
 
 ---
 
-*Letzte Aktualisierung: 2026-02-13 (BUG-014 DB-Level Dedup Round 4: 31.366 Victims)*
+*Letzte Aktualisierung: 2026-02-13 (Dedup Round 5 + UI highest-only + Fallback sync: 31.223 Victims)*
