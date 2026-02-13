@@ -1,0 +1,43 @@
+id: nahalbar-morteza
+name_latin: "Morteza Nahalbar"
+name_farsi: "مرتضی نهال بار"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Non-Believer"
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: null
+place_of_death: "Tabriz"
+province: "Azarbaijan-e Sharqi"
+cause_of_death: "Execution » Death in custody"
+circumstances: >
+    The information about Mr. Morteza Nahalbar is gathered from a book titled
+    Siavoshan, “Remembrance of the Ranjbaran Party of Iran’s Martyrs” by Baqer
+    Mortazavi © 1999, Germany. Mr. Nahalbar was born in Tabriz. He was a
+    member of the Student Confederation in Turkey. He returned to Iran, in the
+    beginning of the 1979 Revolution. Arrest and detention The circumstances
+    of this defendant’s arrest and detention are unknown. Mr. Nahalbar was
+    arrested in Tehran and transferred to the Tabriz prison. According to the
+    Siavoshan book, he lost his life during a hunger strike by the prisoners
+    when a guard hit him with a gun. There is no information about the date of
+    his death. Trial No information is available on the defendant’s trial.
+    Charges No information is available on Mr. Nahalbar’s charges. Evidence of
+    guilt The report of this execution contains no information regarding the
+    evidence provided against the defendant. Defense No information is
+    available on Mr. Nahalbar's defense. Judgment No details are available on
+    Mr. Nahalbar's execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/35840/morteza-nahalbar"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,45 @@
+id: khorsand-shirin
+name_latin: "Shirin Khorsand"
+name_farsi: "شیرین خرسند"
+date_of_birth: null
+place_of_birth: null
+gender: female
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Fatal"
+circumstances: >
+    The information about Ms. Shirin Khorsand has been sent to Omid, via an
+    electronic form, by her former cellmate, who was imprisoned in Section 240
+    in Evin prison with Ms. Khorsand. This individual remembers “kindness in
+    Shirin’s eyes.” Ms. Khorsand was affiliated with the Mojahedin Khalq
+    Organization. Arrest and detention The circumstances of Ms. Khorsand’s
+    arrest and detention are not known. She was arrested in 1981 or 82 and
+    according to her cellmate, when the prison guards “brought her to our
+    cell, her feet were swollen and bandaged due to having been flogged.”
+    Trial There is no information regarding this trial. When Ms. Khorsand was
+    in the same cell as the sender of the electronic form, she had not been
+    tried. Charges The charges brought against the defendant are not known.
+    Evidence of guilt No information is available concerning the evidence
+    presented against the accused. Defense No information is available
+    concerning Ms. Khorsand’s defense. She was denied the right to have an
+    attorney. Judgment No specific information is available about the verdict
+    leading to this execution. Ms. Shirin Khorsand was executed in Tehran
+    between 1982 and 84.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/41742/shirin-khorsand"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

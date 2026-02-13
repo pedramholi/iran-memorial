@@ -1,0 +1,72 @@
+id: gudarzi-masud-samadi
+name_latin: "Mas'ud Samadi Gudarzi"
+name_farsi: "مسعود صمدی گودرزی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: null
+place_of_death: "Iran"
+province: null
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    News of the execution of Mr. Mas’ud Samadi Gudarzi, son of Mohammad, along
+    with twenty-two others, was published in the Kayhan and Jomhuri Eslami
+    newspapers on July 7, 1981. The Public Relations Department of the Central
+    Public Prosecutor’s Office issued an announcement concerning these
+    executions, the defendants' names, and their charges, and released it to
+    the news agencies. This execution was also reported in the Peykar
+    publication (No. 122, October 12, 1981). Mr. Samadi Gudarzi is one of the
+    430 “Martyrs of the Peykar Organization for the Liberation of the Working
+    Class” published on the website of Andeesheh va Peykar. This list contains
+    more than 400 names of members and sympathizers of the organization who
+    have been executed. According to this report, Mr. Samadi Gudarzi was a
+    member of the Red Cell, a group of sympathizers of the Peykar organization
+    in Kashan (Esfahan province). The Peykar Organization for the Liberation
+    of the Working Class was founded by a number of dissident members of the
+    Mojahedin Khalq Organization who had converted to Marxism-Leninism. Peykar
+    was also joined by a number of political organizations, known as Khat-e Se
+    (Third line). The founding tenets of Peykar included the rejection of
+    guerrilla struggle and a strong stand against the pro-Soviet policies of
+    the Iranian Tudeh Party. Peykar viewed the Soviet Union as a “social
+    imperialist” state, believed that China had deviated from the
+    Marxist-Leninist principles, and radically opposed all factions of the
+    Islamic regime of Iran. The brutal repression of dissidents by the Iranian
+    government and splits within Peykar in 1981 and 1982 effectively
+    dismantled the Organization and scattered its supporters. By the
+    mid-1980s, Peykar was no longer in existence. Arrest and detention Mr.
+    Samadi Gudarzi was arrested in June of 1981. The details of this
+    defendant’s arrest and detention are not known. Trial No information is
+    available on the defendant’s trial. Charges The Public Relations
+    Department of the Central Public Prosecutor’s Office announced the charges
+    against Mr. Samadi Gudarzi “acting against the Islam Republic Regime,
+    having a record of destructive and hypocritical activities against Islam
+    and Muslims, and apostasy.” (‘Hypocrites’ is how officials of the Islamic
+    Reupblic referred to individuals affiliated with the Mojahedin Khalq
+    Organization.) The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. Evidence of guilt The report of this execution does not
+    contain information regarding the evidence provided against the defendant.
+    Defense No information is available on Mr. Samadi Gudarzi’s defense.
+    Judgment َThe Islamic Revolutionary Court of Kashan called Mr. Samadi
+    Gudarzi a “corruptor on earth), a rebel and at war with God.” He was
+    condemned to death and executed in Evin prison on July 5, 1981. The court
+    considered Mr. Samadi Gudarzi as apostate and therefore prevented the
+    burial of his body in the Muslim cemetery. He was buried in the non-Muslim
+    cemetery without proper ceremonies.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/37317/masud-samadi-gudarzi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

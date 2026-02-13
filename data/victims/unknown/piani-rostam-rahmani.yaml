@@ -1,0 +1,37 @@
+id: piani-rostam-rahmani
+name_latin: "Rostam Rahmani Piani"
+name_farsi: "رستم رحمانی پیانی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: null
+place_of_death: "Iran"
+province: null
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    Mr. Rostam Rahmani Piani’s name has been sent to Omid via an electronic
+    form by an individual familiar with this case. Arrest and detention The
+    circumstances of Mr. Rahmani PIani’s arrest and detention are not known
+    other than he was arrested in 1980-81. Trial There is no information
+    regarding this trial. Charges The charges brought against the defendant
+    are not known. Evidence of guilt No information is available concerning
+    the evidence presented against the accused. Defense No information is
+    available concerning Mr. Rahmani Piani’s defense. Judgment No specific
+    information is available about the verdict leading to this execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/40410/rostam-rahmani-piani"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

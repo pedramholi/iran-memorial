@@ -1,0 +1,46 @@
+id: nurian-adel
+name_latin: "Adel Nurian"
+name_farsi: "عادل نوریان"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Islam"
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: null
+place_of_death: "Qae'mshahr"
+province: "Mazandaran"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The information about Mr. Adel Nurian was taken from an interview with a
+    prisoner of Qaedmshahr and Sari prisons in the 1980s. Mr. Nurian is also
+    one of the 12028 individuals listed in an addendum to the Mojahed magazine
+    (No 261), published by Mojahedin Khalq Organization in 1985. The list
+    includes individuals, affiliated with various opposition groups, who were
+    executed or killed during clashes with the Islamic Republic security
+    forces from June 1981 to the publication date of the magazine. Based on
+    the interview, Mr. Nurian was born in Qaemshahr. Arrest and detention The
+    circumstances of this defendant’s arrest and detention are not known other
+    than he was arrested in the 1980s for his cooperation with the Mojahedin
+    Khalq Organization. Trial No information is available on the defendant’s
+    trial. Charges The charge brought against the defendant is not known.
+    Evidence of guilt The report of this execution does not contain
+    information regarding the evidence provided against the defendant. Defense
+    No information is available on Mr. Nurian’s defense. Judgment There is no
+    information on the verdict leading to this execution. According to the
+    Mojahed magazine, Mr. Nurian was shot by firing squad in February 1985 in
+    Qaemshahr. He was 21 years old. He is buried in Qaemshahr.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/62921/adel-nurian"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

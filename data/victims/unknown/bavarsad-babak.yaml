@@ -1,0 +1,47 @@
+id: bavarsad-babak
+name_latin: "Babak Bavarsad"
+name_farsi: "بابک باورصاد"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: null
+place_of_death: "Iran"
+province: null
+cause_of_death: "Fatal"
+circumstances: >
+    Information about Mr. Babak Bavarsad has been taken from an electronic
+    form sent to Omid by an individual familiar with this case. Arrest and
+    detention The exact circumstances of this defendant’s arrest and detention
+    are not known. According to the form, he was arrested at 3 in the
+    afternoon on a day in 1992 in Ahvaz (Khuzestan province). Trial No
+    information is available on the defendant’s trial other than the trial
+    took place in 1993 and lasted for only 1 hour. Charges Mr. Bavarsad was
+    charged with a sexual offence. The validity of the criminal charges
+    brought against this defendant cannot be ascertained in the absence of the
+    basic guarantees of a fair trial. International human rights organizations
+    have drawn attention to reports indicating that the Islamic Republic’s
+    authorities have brought trumped-up charges against their political
+    opponents and executed them for drug trafficking, sexual, and other
+    criminal offences. The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against the defendant. Defense No information is available on the defense
+    other than Mr. Bavarsad was not allowed to hire an attorney. Judgment The
+    details of the death sentence are not known.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/40229/babak-bavarsad"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

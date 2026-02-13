@@ -1,0 +1,46 @@
+id: dehqan-amanollah
+name_latin: "Amanollah Dehqan"
+name_farsi: "امان الله دهقان"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: null
+place_of_death: "Iran"
+province: null
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    Information about Mr. Amanollah Dehqan, a land owner and father, has been
+    drawn from an interview with an individual familiar with this case.
+    Amanollah Dehqan resided in Kelestan village, located on the road to
+    Shiraz between Ardekan (to the north) and Guyom (to the south). According
+    to the interviewee, residents of Kelestan were well-known for being
+    counter-revolutionary, and pro-monarchy. This caused acrimony with the
+    government and the village was not developed. The residents of Kelestan,
+    without government help , brought water to the village through a
+    subterranean canal. According to the same source, many other residents of
+    Kelestan were executed by the government. Arrest and detention The
+    circumstances of Mr. Dehqan’s arrest and detention are not known. Trial
+    There is no information regarding this trial. Charges The charges brought
+    against the defendant are not known. Evidence of guilt No information is
+    available concerning the evidence presented against the accused. Defense
+    No information is available concerning his defense. Judgment No specific
+    information is available concerning the verdict leading to this execution.
+    According to the interviewee, Mr. Amanollah Dehqan was executed publicly,
+    in front of the mosque that he had built on his own land.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/38569/amanollah-dehqan"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

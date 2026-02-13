@@ -1,0 +1,38 @@
+id: rohani-fahimeh-1988
+name_latin: "Fahimeh Rohani"
+name_farsi: "فهیمه روحانی"
+date_of_birth: null
+place_of_birth: null
+gender: female
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1988-01-01
+age_at_death: null
+place_of_death: "Iran"
+province: null
+cause_of_death: "Fatal"
+circumstances: >
+    The report of the execution of Ms. Fahimeh Rohani was sent to Omid via an
+    electronic form by an individual familiar with this case. Arrest and
+    detention The circumstances of this defendant’s arrest and detention are
+    not known. Trial No information is available on the defendant’s trial.
+    Charges There is no information regarding the charges brought up against
+    Ms. Rohani. Evidence of guilt The report of this execution does not
+    contain information regarding the evidence provided against the defendant.
+    Defense No information is available on Ms. Rohani’s defense. Judgment Ms.
+    Rohani was executed in the summer of 1988. The details the execution
+    sentence is unknown.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/35262/fahimeh-rohani"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,47 @@
+id: taqaddosi-khadijeh
+name_latin: "Khadijeh Taqaddosi"
+name_farsi: "خدیجه تقدسی"
+date_of_birth: null
+place_of_birth: null
+gender: female
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: null
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    Information about Ms. Khadijeh Taqaddosi has been drawn from an electronic
+    form sent to Omid via an individual familiar with this case. According to
+    this form, she was a university graduate and affiliated with the Sahand
+    Organization. The Sahand Organization (or Ettehad-e Mobarezan-e Komonist”)
+    was founded after the Islamic Revolution of February 1979, with a specific
+    focus on ideology. After Sahand developed the project of the Communist
+    Party of Iran in 1982, and the Party was founded by Sahand and Komala and
+    remainders of such Communist organizations as Peykar, Razmandegan, and
+    some affiliates of the Fadaiyan Khalq. Komala in Kurdistan became the
+    center of the Communist Party of Iran, whose main publication was the
+    “Communist” monthly magazine. Arrest and detention The circumstances of Ms
+    Taqaddosi’s arrest and detention are not known except for the fact that
+    she was arrested by the Revolutionary Guards in Tehran in 1982. Trial
+    There is no information regarding this trial. Charges The charges brought
+    against the defendant are not known. Evidence of guilt No information is
+    available concerning the evidence presented against the accused. Defense
+    No information is available concerning Ms. Taqaddosi’s defense. Judgment
+    No specific information is available about the verdict leading to this
+    execution. She was executed in Evin prison.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/40103/khadijeh-taqaddosi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"
