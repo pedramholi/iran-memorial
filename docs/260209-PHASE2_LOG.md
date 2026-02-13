@@ -898,5 +898,189 @@ Commit: efc20928
 
 ---
 
+## Phase 3: Boroumand Historical Import
+
+---
+
+#### LOG-P3-001 | 2026-02-13 | SEED 10K EXISTING YAMLS → DB
+
+**Was:** Inkrementelles Seeding von ~10K YAML-Dateien die nicht in der DB waren
+**Warum:** DB hatte 17.515 Victims, YAML-Dateien 14.430 — nach Boroumand-Imports existierten mehr Dateien als DB-Einträge
+
+```
+Script: scripts/seed-new-only.ts (NEU)
+  - Create-only Seed (kein upsert) — schützt AI-extrahierte Felder
+  - Lädt alle existierenden Slugs in einem Query
+  - Nur prisma.victim.create() für neue Einträge
+
+Ergebnis:
+  - Dry-Run zeigte 15 "neue" → Bug: YAML-IDs als negative Zahlen geparst (-1989)
+  - Fix: String(v.id) Coercion
+  - Nach Fix: 0 neue Einträge → alle 14.430 YAMLs waren bereits in DB
+  - Phase 1 war bereits abgeschlossen (DB hatte mehr als YAML-Dateien)
+
+Commit: 8f242f36 (als Teil von Phase 3 Batch)
+```
+
+**Lesson Learned:** YAML parst `-1989` als Integer -1989, nicht als String. → BUG-011
+
+---
+
+#### LOG-P3-002 | 2026-02-13 | GENDER INFERENCE + DB SYNC
+
+**Was:** Gender-Inferenz auf alle YAMLs + Sync zu DB
+**Warum:** Tausende historische Boroumand-Einträge hatten `gender: null`
+
+```
+Script 1: python3 scripts/infer_gender.py
+  - 3.778 Genders inferred (3.601 male + 177 female)
+
+Script 2: scripts/sync-gender-to-db.ts (NEU)
+  - Synct Gender von YAML zu DB wo sie sich unterscheiden
+  - Nur gender-Feld, alle anderen Felder unberührt
+  - 3.760 DB-Updates
+
+Commit: 8f242f36
+```
+
+---
+
+#### LOG-P3-003 | 2026-02-13 | AI FIELD EXTRACTION (RUNDE 2)
+
+**Was:** GPT-4o-mini Extraktion auf neue Boroumand-Einträge mit langen Texten
+**Warum:** 4.119 Victims mit `dataSource: "boroumand-import"` und `circumstancesEn > 200 chars`
+
+```
+Script: npx tsx scripts/extract-fields.ts --resume
+  - 4.119 Victims verarbeitet (stale progress file → alle reprocessed)
+  - 1.540 neue DB-Felder
+  - 293 YAML-Dateien aktualisiert
+  - 0 Fehler, ~47 Minuten
+  - Kosten: ~$10
+
+Commit: 8f242f36
+```
+
+---
+
+#### LOG-P3-004 | 2026-02-13 | PHASE 4: IMPORT 4.689 CACHED BOROUMAND ENTRIES
+
+**Was:** Import von 4.689 Boroumand-Einträgen mit gecachten Detail-Seiten
+**Warum:** Beim vorherigen Scraping waren 4.689 Detail-Seiten bereits gecacht aber noch nicht als YAML importiert
+
+```
+Script: python3 scripts/scrape_boroumand.py import-new --resume --cache-only
+  - Neues --cache-only Flag: überspringt Entries ohne Cache
+  - Fix: Type mismatch — Master-IDs sind int, Cache-Filenames str
+    → str(e['id']) in cached_ids
+  - 4.689 neue YAML-Dateien erstellt
+
+Nachbearbeitung:
+  - Gender Inference: 2.509 weitere Genders
+  - seed-new-only.ts: 4.258 neue Victims in DB (manche existierten schon)
+  - sync-gender-to-db.ts: Gender-Sync
+  - 13 malformed YAML-Dateien: try-catch in readYaml() hinzugefügt
+  - 2 invalide Daten: 2008-06-31 → 2008-06-30
+
+DB: 17.515 → 21.773 Victims
+Commit: c0b2cc52
+```
+
+---
+
+#### LOG-P3-005 | 2026-02-13 | DEDUP: CROSS-YEAR + INTERNAL 2026
+
+**Was:** Systematische Bereinigung von Duplikaten aus iranvictims.com
+**Warum:** iranvictims.com listet historische Opfer (Afkari 2020, Geravand 2023, etc.) fälschlicherweise als 2026-Protestopfer + interne Duplikate durch verschiedene Transliterationen
+
+```
+Cross-Year Duplikate:
+  - 13 identifiziert, 3 als False Positives wiederhergestellt
+  - 10 gelöscht, Sources in Originale gemergt
+  - bakhtiari-pouya nach 2019/ verschoben (war Aban 98 Opfer)
+  - mirzaei-mehdi mit detaillierten Umständen angereichert
+  - Hosseini-seyed-mohammad: Alias "(Kian)" hinzugefügt
+
+Interne 2026 Duplikate:
+  Script: scripts/dedup_2026_internal.py (NEU)
+  - Gruppierung nach normalisiertem Farsi-Name
+  - Scoring: non-null Felder + Sources
+  - Merge: fehlende Felder + unique Sources + non-redundante Umstände
+  - 234 Gruppen, 254 Loser-Dateien gelöscht
+  - 3.817 → 3.563 Dateien in 2026/
+
+DB-Cleanup:
+  - 263 Duplikat-Victims aus Prod-DB gelöscht
+  - bakhtiari-pouya Slug umbenannt
+  - DB: 21.773 → 21.510 Victims
+
+Commit: 9c60e567
+```
+
+**Lesson Learned:** Gleicher Name ≠ gleiche Person. Masoud (2026, Erschießung) ≠ Mas'ud (2010, Hinrichtung). → BUG-010
+
+---
+
+#### LOG-P3-006 | 2026-02-13 | PARALLEL SCRAPER OPTIMIZATION
+
+**Was:** Boroumand-Scraper von sequentiell auf 4 parallele Worker umgebaut
+**Warum:** Sequentiell: 13/min, ETA 31h für 12.290 Entries → zu langsam
+
+```
+Änderungen an scripts/scrape_boroumand.py:
+  - ThreadPoolExecutor mit 4 Workern
+  - Delay reduziert: 1.5-2.5s → 0.8-1.2s pro Worker
+  - Batch-Processing: 16 Entries parallel fetchen, YAML sequentiell schreiben
+  - Slug-Eindeutigkeit bleibt sequentiell (kein Race Condition)
+
+Ergebnis:
+  - Vorher: ~13/min (sequentiell, 2×2s Delay)
+  - Nachher: ~100/min (4 Worker, 2×1s Delay)
+  - Speed-Up: ~8×
+  - ETA: 31h → ~2h
+
+Commit: a0289496
+```
+
+---
+
+#### LOG-P3-007 | 2026-02-13 | BOROUMAND FULL FETCH (LAUFEND)
+
+**Was:** Verbleibende ~12.290 Boroumand-Einträge ohne Cache werden live gefetcht
+**Warum:** Phase 6 des Import-Plans — Detail-Seiten für alle verbleibenden Einträge
+
+```
+Befehl: nohup python3 -u scripts/scrape_boroumand.py import-new --resume
+Log: /tmp/boroumand-fetch.log
+PID: 74171
+
+Status (Stand ~16:00):
+  - 14.525 bereits verarbeitet (aus früheren Runs)
+  - ~400/12.290 neue in diesem Run
+  - ~100/min Speed
+  - ETA: ~2h
+
+Nächste Schritte nach Abschluss:
+  1. python3 scripts/infer_gender.py
+  2. npx tsx scripts/seed-new-only.ts
+  3. npx tsx scripts/sync-gender-to-db.ts
+  4. Commit + Push + Deploy
+```
+
+---
+
+## Phase 3 — Zusammenfassung (Zwischenstand)
+
+| Metrik | Vorher | Nachher |
+|--------|--------|---------|
+| YAML-Dateien | 14.430 | ~19.100 (+ ~12K Boroumand läuft) |
+| DB Victims | 17.515 | 21.510 |
+| Boroumand importiert | 7.636 | ~14.500 (+ 12K laufend) |
+| Gender Coverage | ~85% | ~95% |
+| Duplikate entfernt | 206 | 206 + 265 = 471 |
+| Neue Scripts | — | seed-new-only.ts, sync-gender-to-db.ts, dedup_2026_internal.py |
+
+---
+
 *Erstellt: 2026-02-09*
-*Letzte Aktualisierung: 2026-02-12 (Phase 2C: Deployment + Security)*
+*Letzte Aktualisierung: 2026-02-13 (Phase 3: Boroumand Historical Import)*

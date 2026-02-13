@@ -233,9 +233,9 @@ border-start: 2px solid;     /* NOT border-left */
 | Type | Count | Files |
 |------|-------|-------|
 | Events | 12 | `data/events/timeline.yaml` |
-| Victims | 4,378 | `data/victims/{year}/slug.yaml` |
+| Victims | ~19,100+ | `data/victims/{year}/slug.yaml` |
 
-**Victims:** 4,378 YAML files across 7 sources (Wikipedia, HRANA, IHR, iranvictims.com, Amnesty International, Boroumand Foundation, manual). Fully deduplicated via `scripts/dedup_victims.py` (206 duplicates removed). 44 child victims enriched with Amnesty data. 203 victims enriched with Boroumand data (64 Farsi names, 33 photos, 202 source links).
+**Victims:** ~19,100+ YAML files across 8 sources (Wikipedia, HRANA, IHR, iranvictims.com, Amnesty International, Boroumand Foundation historical, Boroumand Foundation enrichment, manual). Deduplicated via `scripts/dedup_victims.py` (206) + `scripts/dedup_2026_internal.py` (254) = 471 total duplicates removed. 21,510 victims in production DB. Boroumand historical import ongoing (~12K remaining).
 **Events:** Revolution 1979, Reign of Terror 1981–85, Iran-Iraq War, 1988 Massacre, Chain Murders, Student Protests 1999, Green Movement 2009, Bloody November 2019, Woman Life Freedom 2022, 2026 Massacres
 
 ---
@@ -247,8 +247,9 @@ border-start: 2px solid;     /* NOT border-left */
 | No local PostgreSQL | ⚠️ Open | Docker not installed on dev machine. DB queries fall back to empty state. SSH tunnel to server: `ssh -L 5434:localhost:5434 root@188.245.96.212` |
 | Middleware deprecation | ⚠️ Cosmetic | Next.js 16 warns about middleware → proxy migration. next-intl still uses middleware. Functional. |
 | No tests | ⚠️ Open | 0% coverage. |
-| Server disk at 81% | ⚠️ Monitor | 6.9 GB free. Docker prune regularly after builds. |
+| Server disk at 90% | ⚠️ Monitor | 3.9 GB free. Docker build cache reclaimable: ~3.8 GB. Prune regularly. |
 | Neda Soltan duplicate | ⚠️ Low | Two YAML entries for same person (different slugs). Low priority. |
+| Boroumand fetch ongoing | ⏳ Running | ~12K entries fetching with 4 parallel workers (~2h ETA). After: gender + seed + deploy. |
 
 ---
 
@@ -259,8 +260,9 @@ border-start: 2px solid;     /* NOT border-left */
 | v0.1.0 | 2026-02-09 | Phase 1: Full project setup — Next.js 16, Prisma, i18n, 8 pages, seed script, Docker, docs |
 | v0.2.0 | 2026-02-09 | Phase 2A/B: Multi-source data collection — 7 sources, 4,378 victims, dedup, enrichment |
 | v0.3.0 | 2026-02-12 | Phase 2C: Deployment + AI enrichment (14K fields), source dedup (222K removed), pagination, security hardening |
+| v0.4.0 | 2026-02-13 | Phase 3: Boroumand historical import — 21,510 victims in DB, 471 duplicates removed, parallel scraper (8× faster) |
 
-**Current:** v0.3.0 | Next.js 16 | TypeScript | Prisma 6 | Tailwind v4 | 3 languages | Live at memorial.n8ncloud.de
+**Current:** v0.4.0 | Next.js 16 | TypeScript | Prisma 6 | Tailwind v4 | 3 languages | Live at memorial.n8ncloud.de
 
 ---
 
@@ -273,9 +275,12 @@ border-start: 2px solid;     /* NOT border-left */
 | `scripts/import_iranvictims_csv.py` | iranvictims.com CSV import | 3,752 victims |
 | `scripts/parse_amnesty_children.py` | Amnesty children report | 41 enriched + 3 new |
 | `scripts/dedup_victims.py` | Deduplication (3 strategies) | -206 duplicates |
-| `scripts/scrape_boroumand.py` | Boroumand Foundation scraper | 203 enriched |
-| `scripts/extract-fields.ts` | AI field extraction (GPT-4o-mini) | 14,247 fields from 3,932 victims |
+| `scripts/dedup_2026_internal.py` | Internal 2026 dedup (Farsi name) | -254 duplicates |
+| `scripts/scrape_boroumand.py` | Boroumand Foundation scraper (4 workers) | ~14K+ historical victims |
+| `scripts/extract-fields.ts` | AI field extraction (GPT-4o-mini) | 15,787 fields from 8,051 victims |
 | `scripts/dedup-sources.ts` | Source deduplication | -221,800 duplicate sources |
+| `scripts/seed-new-only.ts` | Create-only DB seed (no upsert) | Incremental DB population |
+| `scripts/sync-gender-to-db.ts` | Sync gender YAML → DB | 6,269 gender updates |
 
 ## Data Collection Status
 
@@ -286,13 +291,15 @@ border-start: 2px solid;     /* NOT border-left */
 | iranvictims.com CSV | CSV import | 3,752 | — | DONE |
 | IHR Suspicious Deaths | Manual | 4 | 18 cross-validated | DONE |
 | Amnesty Children Report | PDF parse | 3 | 41 enriched (155 fields) | DONE |
-| Boroumand Foundation | HTML scrape | 0 | 203 enriched (64 FA, 33 photos) | DONE |
-| Deduplication | Script | -206 | — | DONE |
-| AI Field Extraction | GPT-4o-mini | 0 | 14,247 fields from 3,932 victims | DONE |
+| Boroumand Enrichment | HTML scrape | 0 | 203 enriched (64 FA, 33 photos) | DONE |
+| Boroumand Historical | HTML scrape | ~14,500+ | Full biographical text | **IN PROGRESS** |
+| Deduplication (Round 1) | Script | -206 | — | DONE |
+| Deduplication (Round 2) | Script | -265 | Sources merged into originals | DONE |
+| AI Field Extraction | GPT-4o-mini | 0 | 15,787 fields from 8,051 victims | DONE |
 | Source Dedup | SQL script | 0 | -221,800 duplicate sources | DONE |
-| **Total** | | **4,378** | | |
+| **Total in DB** | | **21,510** | | |
 
-**Open:** Boroumand historical (1979–2021, ~26K potential), HRANA 20-Day (~0–20), Amnesty other reports (~10–30), IHR direct contact, KHRN 2025/2026
+**Open:** Boroumand remaining ~12K (fetching, ETA ~2h), HRANA 20-Day (~0–20), Amnesty other reports (~10–30), IHR direct contact, KHRN 2025/2026
 
 ## Detailed Documentation
 
@@ -304,7 +311,7 @@ border-start: 2px solid;     /* NOT border-left */
 | `docs/LEARNINGS.md` | Bugs, Architecture Decisions, Patterns |
 | `docs/260209-PHASE1_PLAN.md` | Phase 1–4 Roadmap mit Metriken |
 | `docs/260209-PHASE1_LOG.md` | Phase 1 Ausführungslog (14 Einträge) |
-| `docs/260209-PHASE2_LOG.md` | Phase 2 Ausführungslog (26 Einträge) |
+| `docs/260209-PHASE2_LOG.md` | Phase 2+3 Ausführungslog (38 Einträge) |
 
 ---
 

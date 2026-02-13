@@ -426,5 +426,37 @@ IHR und HRANA haben eigene Datenformate. Pro Import-Quelle ein eigenes Mapping-S
 
 ---
 
+### BUG-009: iranvictims.com listet historische Opfer als 2026-Protestopfer (2026-02-13)
+
+- **Symptom:** Navid Afkari (hingerichtet 2020), Armita Geravand (gestorben 2023), Pouya Bakhtiari (erschossen 2019) u.a. unter `event_context: "2025-2026 Iranian nationwide protests"` in `data/victims/2026/`
+- **Root Cause:** iranvictims.com listet historische Opfer als "Helden" in ihrem 2026-Datensatz. Der CSV-Import hat sie blind als 2026-Opfer importiert.
+- **Fix:** Manueller Cross-Year-Abgleich: 13 Duplikate identifiziert, 3 als Falsch-Positive wiederhergestellt (verschiedene Personen mit gleichem Namen), 10 gelöscht + Sources in Originale gemergt
+- **Prevention:** Bei CSV-Imports mit `date_of_death: null` immer gegen existierende DB prüfen. Historische Referenzen ≠ neue Opfer.
+
+### BUG-010: Gleicher Name ≠ gleiche Person — False-Positive-Duplikate (2026-02-13)
+
+- **Symptom:** `masoud.yaml` (2026, erschossen bei Protesten) und `masud-2010.yaml` (hingerichtet für Drogenhandel) als Duplikate markiert. Ebenso `noshin.yaml` (Kopfschuss 2026) vs `nushin-2018.yaml` (Hinrichtung für Mord).
+- **Root Cause:** Gleicher Farsi-Name führte zur Duplikat-Erkennung, aber die Personen hatten völlig verschiedene Todesursachen, -daten und -kontexte.
+- **Fix:** 3 fälschlich gelöschte Dateien aus Git wiederhergestellt.
+- **Prevention:** Bei Name-only-Matching (ohne Todesdatum) IMMER `cause_of_death` und `circumstances` vergleichen. Hinrichtung ≠ Erschießung bei Protesten = andere Person.
+
+### BUG-011: YAML-ID als negative Zahl geparst (2026-02-13)
+
+- **Symptom:** `seed-new-only.ts --dry-run` zeigte 15 "neue" Einträge die eigentlich in der DB existierten. Prisma-Fehler: `slug: -1989` (Zahl statt String).
+- **Root Cause:** YAML parst `-1989` als negative Integer statt als String. Betrifft alle IDs die mit `-` und einer Jahreszahl beginnen (Boroumand-Konvention).
+- **Fix:** `const slug = String(v.id)` Coercion in seed-new-only.ts und sync-gender-to-db.ts.
+- **Prevention:** YAML-IDs immer in Anführungszeichen oder explizit zu String konvertieren.
+
+---
+
+## Patterns That Work (Ergänzung 2026-02-13)
+
+- **Create-only Seed (seed-new-only.ts):** Bei inkrementellen Imports nie `upsert` verwenden — das überschreibt AI-extrahierte Felder die nur in der DB, nicht im YAML existieren. Stattdessen: alle existierenden Slugs laden → `findUnique` → nur `create` für neue.
+- **Farsi-Name-basierte Duplikat-Erkennung:** Lateinische Transliterationen haben zu viele Varianten (Bayat/Bayati, Menbari/Monbari). Farsi-Name normalisieren (ZWNJ, Diacritics, Kaf/Yeh-Varianten entfernen) → zuverlässigste Matching-Methode. Implementiert in `scripts/dedup_2026_internal.py`.
+- **Parallel Scraping mit ThreadPoolExecutor:** 4 Worker × 1s Delay = ~100 Entries/min statt 13/min (8× schneller). Fetch parallel, YAML-Erstellung sequentiell (Slug-Eindeutigkeit). Batch-Größe = Worker × 4.
+- **Source-Merge bei Duplikat-Löschung:** Beim Löschen von Duplikaten immer unique Sources (Twitter/Telegram-Links) in das Original mergen. iranvictims.com hat oft Primärquellen die Boroumand nicht hat.
+
+---
+
 *Erstellt: 2026-02-09*
-*Letzte Aktualisierung: 2026-02-12 (Security Hardening, Boroumand Enrichment, Performance Fixes)*
+*Letzte Aktualisierung: 2026-02-13 (Boroumand Historical Import, Dedup, Parallel Scraping)*
