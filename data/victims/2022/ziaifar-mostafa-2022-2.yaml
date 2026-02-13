@@ -1,0 +1,28 @@
+id: ziaifar-mostafa-2022-2
+name_latin: "Mostafa Zia'ifar"
+name_farsi: "مصطفی ضیاء فر"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim (Shi'a)"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2022-06-29
+age_at_death: null
+place_of_death: "Karaj"
+province: "Alborz"
+cause_of_death: "Execution » Hanging"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/86156/mostafa-ziaifar"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

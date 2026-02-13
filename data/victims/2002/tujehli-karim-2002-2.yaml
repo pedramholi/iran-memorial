@@ -1,0 +1,61 @@
+id: tujehli-karim-2002-2
+name_latin: "Karim Tujehli"
+name_farsi: "کریم توژه‌لی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2002-01-24
+age_at_death: null
+place_of_death: "Orumieh"
+province: "Azarbaijan-e Gharbi"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    News of the execution of Mr. Karim Tujehli was published on the websites
+    of Asre-no on February 22, 2002. It was also reflected in a public call by
+    the Kurdish Democratic Party of Iran to human rights organizations on
+    September 1, 2003. Mr. Tujehli was a member of The Kurdish Democratic
+    Party of Iran. The Kurdish Democratic Party of Iran (PDKI) was founded in
+    1945 with the objective to gain autonomy for Kurdistan, in north-west
+    Iran. After the Revolution, conflicts between the new central Shiite
+    government and mainly Sunni Kurdistan regarding the role of minorities in
+    the drafting of the constitution, specification of Shiite as the official
+    state religion, and particularly the autonomy of the region, ended in
+    armed clashes between the Revolutionary Guards and the Peshmerga (the
+    militia of the PDKI). The PDKI boycotted the referendum of April 1, 1979
+    when people went to polls to vote for or against the Islamic regime. On
+    August 19, 1979, Ayatollah Khomeini called the PDKI the party of Satan and
+    declared it unofficial and illegal. Mass executions and fighting broke out
+    and continued for several months. By 1983, PDKI had lost much of its
+    influence in the region. Various leaders of the PDKI have been
+    assassinated. Arrest and detention According to the public call by the
+    Kurdish Democratic Party of Iran, in collaboration with the Turkish
+    police, the Iranian regime extradited Mr. Tujehli and several other
+    political refugees as smugglers and crooks. Mr. Tujehli was transferred to
+    the Orumieh Prison immediately and detained until February of 2002. He was
+    tortured in the prison. The circumstances of his arrest and detention are
+    not known. Trial No information is available on Mr. Tujehli s trial.
+    Charges According to the Committee for United Action for Democracy, the
+    charge brought against Mr. Tujehli was announced as cooperation with the
+    Kurdish Democratic Party of Iran. The validity of the criminal charges
+    brought against this defendant cannot be ascertained in the absence of the
+    basic guarantees of a fair trial. Evidence of guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against Mr. Tujehli. Defense No information is available on Mr. Tujehli s
+    defense. Judgment Mr. Karim Tujehli was executed at the Orumieh Prison on
+    January 24, 2002. There is no detail information about this execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7655/karim-tujehli"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

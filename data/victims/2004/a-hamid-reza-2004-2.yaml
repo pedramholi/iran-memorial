@@ -1,0 +1,58 @@
+id: a-hamid-reza-2004-2
+name_latin: "Hamid Reza A."
+name_farsi: "حمیدرضا الف."
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2004-01-01
+age_at_death: 34
+place_of_death: "Gonabad"
+province: "Khorasan\\Khorasan-e Razavi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Hamid Reza A., along with another person, was
+    published in the Kayhan newspaper on January 4, 2004, quoting the Head of
+    Political and Ideological Police Commander in Gonabad. He was from
+    Mashhad, where he resided, and his case was related to drug trafficking.
+    Arrest and detention Mr. Hamid Reza A. was arrested in 2001. The
+    circumstances of his arrest and detention are not known. Trial Mr. Hamid
+    Reza A. was tried in Gonabad. No information is available on his trial.
+    Charges The charge brought against Mr. Hamid Reza A. was announced as
+    transportation of narcotics. The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that the Islamic Republic
+    authorities have brought trumped-up charges, including drug trafficking,
+    sexual, and other criminal offences, against their opponents (including
+    political, civil society activists, as well as unionists and ethnic and
+    religious minorities). Thousands of alleged drug traffickers have been
+    sentenced to death following judicial processes that fail to meet
+    international standards. Scores of them were executed based on a 1989 law
+    imposing mandatory death sentences on drug traffickers found in possession
+    of specified amounts of proscribed narcotics (5 kg of hashish or opium,
+    and more than 30 grams of heroin, codeine or methadone). The exact number
+    of people convicted based on trumped-up charges is unknown. Evidence of
+    guilt The evidence presented against Mr. Hamid Reza A. was announced as
+    possession of 38 kilograms of heroin and 10 kilograms of opium. The same
+    evidence was used against the other defendant, who was arrested a year
+    later. Defense No information is available on Mr. Hamid Reza A. s defense.
+    Judgment Mr. Hamid Reza A. was condemned to death and the Supreme Court
+    confirmed the ruling. He was hanged, along with another person, in Gonabad
+    in early 2004. No specific information is available about the defendant s
+    execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/75782/hamid-reza-a"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

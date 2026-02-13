@@ -1,0 +1,41 @@
+id: mehdi-2003-4
+name_latin: "Mehdi"
+name_farsi: "مهدی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2003-01-01
+age_at_death: null
+place_of_death: "Esfahan"
+province: "Esfahan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Mehdi, along with four others, was published
+    in the Ettela at newspaper on July 20, 2003, quoting the Head of the
+    Criminal Court in Esfahan. Arrest and Detention There is no specific
+    information on Mr. Mehdi s arrest and detention. Trial No information is
+    available on Mr. Mehdi s trial. Charges The charges against Mr. Mehdi were
+    announced as "armed robbery and murdering a collaborator." The validity of
+    the criminal charges brought against this defendant cannot be ascertained
+    in the absence of the basic guarantees of a fair trial. Evidence of Guilt
+    The report of this execution did not provide any specific information on
+    the evidence presented against Mr. Mehdi. Defense No information is
+    available on Mr. Mehdi's defense. Judgment The court identified Mr. Mehdi
+    as Mohareb (fighter against God) and condemned him to death. He was hanged
+    in public in Esfahan around mid July of 2003.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/73560/mehdi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

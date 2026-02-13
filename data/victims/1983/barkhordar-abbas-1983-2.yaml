@@ -1,0 +1,59 @@
+id: barkhordar-abbas-1983-2
+name_latin: "Abbas Barkhordar"
+name_farsi: "عباس برخوردار"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Non-Believer"
+photo: "https://www.iranrights.org/actorphotos/35689_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1983-01-01
+age_at_death: 28
+place_of_death: "Iran"
+province: null
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The information about Mr Abbas Barkhordar is based on a book titled
+    Siavoshan: Remembrance of the Ranjbaran Party of Iran’s Martyrs by Baqer
+    Mortazavi, Germany, 1999. This execution was also reported in an addendum
+    to the Mojahed magazine (No 261), published by Mojahedin Khalq
+    Organization in 1985. The list includes 12028 individuals, affiliated with
+    various opposition groups, who were executed or killed during clashes with
+    the Islamic Republic security forces from June 1981 to the publication
+    date of the magazine. Mr. Barkhordar was married with two children.
+    Several years before the revolution, he went to the United States to
+    study. He graduated with a degree in Electronic Engineering. He was a
+    member of the Revolutionary Organization and also a board member of the
+    Student Confederation in the US. During the revolution, he returned to
+    Iran and started working as a manager at the Pars Electronic Industries.
+    At the same time, he was a leading member of the Ranjbaran Party. The
+    Ranjbaran Party of Iran was established, in Tehran, by a number of Marxist
+    groups and parties in late December 1979. The founders of Ranjbaran were
+    Marxist – Leninist and followers of Mao Tse-Tung’s school of thought. They
+    opposed the USA and the USSR and supported Ruhollah Khomeini as an
+    anti-imperialist leader. During the massive repression of 1981, the party
+    was banned and its leaders were executed. Its publication, Ranjbar , is
+    occasionally published outside Iran since 1981. Arrest and detention The
+    date of this defendant’s arrest is unknown. According to the existing
+    information, Mr. Barkhordar’s house was surrounded by the Revolutionary
+    Guards. He was arrested, shot, and injured when he tried to escape. Trial
+    Mr. Barkhordar did not have a trial. Charges There were no official
+    charges against Mr. Barkhordar. Evidence of guilt The report of this
+    execution contains no evidence provided against the defendant. Defense Mr.
+    Abbas Barkhordar did not have an opportunity to defend himself before
+    being killed. Judgment After being injured during his arrest, Mr.
+    Barkhordar was hospitalized. A few days later, he died. His body was
+    buried in Khavaran cemetery.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/35689/abbas-barkhordar"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

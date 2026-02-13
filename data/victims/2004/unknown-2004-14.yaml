@@ -1,0 +1,56 @@
+id: unknown-2004-14
+name_latin: "Unknown"
+name_farsi: "ناشناس"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2004-01-31
+age_at_death: null
+place_of_death: "Khoy"
+province: "Azarbaijan-e Gharbi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of an unknown individual, along with two others, was
+    published on the website of ISNA (Iranian Students News Agency) on January
+    31, 2004, quoting the Head of the Public Relations Office of the
+    Azerbaijan-e Gharbi Courthouse, on February 17, 2004, quoting the Head of
+    Prison Administration in Khoy, and in the Jomhuri Eslami newspaper on
+    February 4, 2004. The cases against these individuals were related to
+    kidnapping and murder of a young girl, 15 or 16 years old, on December 10,
+    2003. Arrest and detention This individual and the other two defendants
+    were arrested by the Special Police Forces shortly after the alleged crime
+    took place. They were detained for less than two months at the Khoy
+    Prison. The circumstances of his arrest and detention are not known. Trial
+    Branch Eleven of the General Court of Khoy tried this defendant. According
+    to the Jomhuri Eslami newspaper, this trial was open to public. No
+    information is available on his trial. Charges According to the Head of
+    Prison Administration in Khoy, the charges brought against this defendant
+    and the other two defendants were collectively announced as kidnapping and
+    rape. The validity of the criminal charges brought against this defendant
+    cannot be ascertained in the absence of the basic guarantees of a fair
+    trial. Evidence of guilt The report of this execution did not provide any
+    specific information on the evidence presented against the defendant.
+    Defense After arrest, the interrogation, trial, and prosecution of this
+    defendant and the other two took about 50 days before their execution
+    (Jomhuri Eslami newspaper). He objected to the ruling and his case was
+    referred to the Supreme Court. However, no information is available on his
+    defense. Judgment Branch 11 of the General Court of Khoy condemned the
+    defendant to death and Branch 32 of the Supreme Court confirmed the
+    ruling. He was hanged, along with two others, in public at Vali asr Square
+    in Khoy on January 31, 2004.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7983/unknown"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

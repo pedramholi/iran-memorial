@@ -1,0 +1,57 @@
+id: mehdizadeh-mohammad-ali-2000-2
+name_latin: "Mohammad Ali Mehdizadeh"
+name_farsi: "محمدعلی مهدی‌زاده"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2000-01-01
+age_at_death: null
+place_of_death: "Kerman"
+province: "Kerman"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Mohammad Ali Mehdizadeh was published in the
+    Iran newspaper on September 3, 2000. He was a civil engineer. Arrest and
+    detention The circumstances of Mr. Mehdizadeh s arrest and detention are
+    not known. Trial No information is available on Mr. Mehdizadeh s trial.
+    Charges The charge brought against Mr. Mehdizadeh was announced as murder.
+    According to the existing information, he had gone to his ex-wife s house
+    and killed her, firing three times, 18 months after they were divorced. No
+    detailed information is available on his charges. The validity of the
+    criminal charges brought against this defendant cannot be ascertained in
+    the absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic authorities have brought trumped-up charges, including
+    drug trafficking, sexual, and other criminal offences, against their
+    opponents (including political, civil society activists, as well as
+    unionists and ethnic and religious minorities). Each year Iranian
+    authorities sentence to death hundreds of alleged common criminals,
+    following judicial processes that fail to meet international standards.
+    The exact number of people convicted and executed based on trumped-up
+    charges is unknown. Evidence of guilt According to the existing
+    information, the evidence presented against Mr. Mehdizadeh was his
+    confession. International human rights organizations have repeatedly
+    condemned the government of the Islamic Republic of Iran for its
+    systematic use of severe torture and solitary confinement to obtain
+    confessions from detainees and have questioned the authenticity of
+    confessions obtained under duress. Defense No information is available on
+    Mr. Mehdizadeh s defense. Judgment The Kerman Court condemned Mr. Mohammad
+    Ali Mehdizadeh to death and the Supreme Court confirmed the ruling. He was
+    hanged in Kerman in September of 2000. No specific information is
+    available about this execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/74897/mohammad-ali-mehdizadeh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,40 @@
+id: mahmudi-abbas-2000-2
+name_latin: "Abbas Mahmudi"
+name_farsi: "عباس محمودی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2000-01-01
+age_at_death: 36
+place_of_death: "Ardebil"
+province: "Ardebil"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    News of the execution of Mr. Abbas Mahmudi was published in the Hamshahri
+    newspaper on June 10, 2000. He starting working at a poultry farm in 1994.
+    Arrest and Detention The circumstances of Mr. Mahmudi s arrest and
+    detention are not known. Trial No information is available concerning Mr.
+    Mahmudi s trial. Charges The charge against Mr. Abbas Mahmudi was
+    announced as murder. According to the Hamshahri newspaper, , he shot the
+    owner of the poultry farm to death a while after working there. Evidence
+    of Guilt The report of this execution does not contain information
+    regarding the evidence provided against Mr. Mahmudi. Defense No
+    information is available regarding Mr. Mahmudi's defense. Judgment Mr.
+    Abbas Mahmudi was executed in public in the village of Shamasbi, near
+    Ardebil, in June of 2000. The exact date of his execution is not known.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/73256/abbas-mahmudi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

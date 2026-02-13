@@ -1,0 +1,54 @@
+id: a-said-2006-2
+name_latin: "Sa'id A."
+name_farsi: "سعید ع."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2006-08-17
+age_at_death: null
+place_of_death: "Sari"
+province: "Mazandaran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Said A., along with another individual, was
+    announced by the websites of Khabar-e Jonub and Donya-ye Eqtesad (August
+    19, 2006). He was from Ruyan (formerly Alamdeh) and his case was related
+    to sexual offenses. Arrest and Detention There is no information available
+    on the details of Mr. Said A. s arrest and detention. Trial Mr. Said A.
+    was tried by a court in Mazandaran Province. However, there is no
+    information available on the session or sessions of his trial. Charges Mr.
+    Said A. was charged with non-marital sex. The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic authorities have brought trumped-up charges, including
+    drug trafficking, sexual, and other criminal offences, against their
+    opponents (including political, civil society activists, as well as
+    unionists and ethnic and religious minorities). Each year Iranian
+    authorities sentence to death hundreds of alleged common criminals,
+    following judicial processes that fail to meet international standards.
+    The exact number of people convicted and executed based on trumped-up
+    charges is unknown. Evidence of Guilt There is no information available on
+    the details of the evidence of guilt entered against Mr. Said A. Defense
+    There is no information available on the details of Mr. Said A. s defense.
+    Judgment A court in Mazandaran Province sentenced Mr. Said A. to death.
+    The verdict was approved by the Supreme Court. Mr. Said A. was hanged
+    along with another individual in the courtyard of Sari Prison on Thursday,
+    August 17, 2006. Mr. Said A. s dead body was delivered to his family for
+    burial after the execution had been carried out.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/83520/said-a"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

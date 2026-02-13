@@ -1,0 +1,45 @@
+id: kameli-hossein-ali-2003-2
+name_latin: "Hossein Ali Kameli"
+name_farsi: "حسینعلی کاملی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2003-10-23
+age_at_death: 26
+place_of_death: "Khorasan\\Khorasan-e Razavi Province"
+province: "Khorasan\\Khorasan-e Razavi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Hossein Ali Kameli was published in the
+    Kayhan newspaper on October 25, 2003. He was a resident of the Chakhmalu
+    Village in Khorasan. His case was related to a murder at the
+    Maneh-va-Somelqan Village, during a fight over a video tape in 2001.
+    Arrest and detention The circumstances of Mr. Kameli s arrest and
+    detention are not known. Trial A court in Khorasan tried Mr. Kameli. No
+    information is available on his trial. Charges The charge brought against
+    Mr. Kameli was announced as murder. The validity of the criminal charges
+    brought against this defendant cannot be ascertained in the absence of the
+    basic guarantees of a fair trial. Evidence of guilt The report of this
+    execution did not provide any specific information on the evidence
+    presented against Mr. Kameli. Defense The fight between Mr. Kameli and the
+    victim began with an argument and was not planned. No information is
+    available on his defense. Judgment A court in Khorasan condemned Mr.
+    Hossein Ali Kameli to death. He was hanged in public and in the presence
+    of the victim s family, at the Maneh-va-Somelqan Village, on October 23,
+    2003.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/75768/hossein-ali-kameli"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,28 @@
+id: shahrokhi-mehdi-salehi-qale-2022-2
+name_latin: "Mehdi Salehi Qal'e Shahrokhi"
+name_farsi: "مهدی صالحی قلعه شاهرخی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim (Shi'a)"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2022-04-14
+age_at_death: 39
+place_of_death: "Esfahan"
+province: "Esfahan"
+cause_of_death: "Execution » Death in custody"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/86268/mehdi-salehi-qale-shahrokhi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

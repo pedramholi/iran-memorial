@@ -1,0 +1,62 @@
+id: mikail-2001-2
+name_latin: "Mika'il"
+name_farsi: "میکائیل"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2001-08-10
+age_at_death: 40
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    News of the execution of Mr. Mika il was published on the website of
+    Nimruz on August 10, 2001. This case was related to kidnapping, rape, and
+    attempted murder of a young woman. According to the report, Mr. Mika il
+    was a fortune-teller who deceived women and young girls and took them to
+    his house. Arrest and detention According to the report, Mr. Mika il was
+    identified and arrested by police in 1997. His arrest was related to the
+    kidnapping of a girl college student for three months and the recovery of
+    her half-dead body in a ditch around Eslamshahr on July 6, 1997. The
+    circumstances of his arrest and detention are not known. Trial The Public
+    Court of Tehran tried Mr. Mika il out of order. No information is
+    available on his trial. Charges The charges brought against Mr. Mika il
+    were announced as deceiving, imprisoning, harassing, and torturing young
+    women. The validity of the criminal charges brought against this defendant
+    cannot be ascertained in the absence of the basic guarantees of a fair
+    trial. International human rights organizations have drawn attention to
+    reports indicating that the Islamic Republic authorities have brought
+    trumped-up charges, including drug trafficking, sexual, and other criminal
+    offences, against their opponents (including political, civil society
+    activists, as well as unionists and ethnic and religious minorities). Each
+    year Iranian authorities sentence to death hundreds of alleged common
+    criminals, following judicial processes that fail to meet international
+    standards. The exact number of people convicted and executed based on
+    trumped-up charges is unknown. Evidence of guilt The evidence presented
+    against Mr. Mika il was his confession, the confession of his wife, and
+    the testimony of the victim. During his confession, he stated that he
+    acted as a fortune-teller, befriended women who went to the shrine, and
+    took them to his house. International human rights organizations have
+    repeatedly condemned the government of the Islamic Republic of Iran for
+    its systematic use of severe torture and solitary confinement to obtain
+    confessions from detainees and have questioned the authenticity of
+    confessions obtained under duress. Defense No information is available on
+    Mr. Mika il s defense. Judgment The court condemned Mr. Mika il to death
+    and the Supreme Court confirmed the ruling. He was executed at the Evin
+    Prison yard in Tehran on August 1, 2001.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/74351/mikail"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,57 @@
+id: abuzar-2007-2
+name_latin: "Abuzar"
+name_farsi: "ابوذر"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2007-12-24
+age_at_death: 25
+place_of_death: "Kazerun"
+province: "Fars"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Abuzar was published on the websites of the
+    Iran newspaper and Fars Province Court House on December 25, and in the
+    Ettela at newspaper on December 31, 2007. According to the General and
+    Revolutionary Prosecutor of Kazerun, before murdering his wife, he had
+    been arrested and imprisoned several times for sedition, drinking, and
+    moral corruption. Arrest and Detention According to the reporter of the
+    Iran newspaper, at midnight in the beginning of July 2005, Police had to
+    check on a house in Hazrati Street in Kazerun because of the several
+    shootings where they found Maryam, 21-year-old, killed by gun. The
+    criminal investigators later arrested the victims husband, Abuzar. Trial
+    The trial took place in the Criminal Court of Fars province, Branch 5.
+    Charges The charges against the defendant was announced as, "murder."
+    According to the media reports, the defendant murdered his wife by
+    shooting her in 2005. The validity of the criminal charges brought against
+    this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that Islamic Republic authorities
+    have brought trumped-up charges against their political opponents and
+    executed them for alleged drug trafficking, sexual, and other criminal
+    offences. Each year Iranian authorities sentence to death hundreds of
+    alleged common criminals, following judicial processes that fail to meet
+    international standards. The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of Guilt The evidence reported
+    against the defendant was his confession and the collected reasons and
+    documents in his file . Defense According to the Iran newspaper report, he
+    denied murdering his wife during the primary interrogations. Judgment The
+    court condemned Mr. Abuzar to death and the ruling was confirmed by Branch
+    37 of the Supreme Court and Branch 15 of the Supreme Court Recognition. He
+    was hanged in public at a main square in Kazerun on December 24, 2007.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/71994/abuzar"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

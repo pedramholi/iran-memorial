@@ -1,0 +1,56 @@
+id: ruhollah-2005-2
+name_latin: "Ruhollah"
+name_farsi: "روح الله"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2005-11-18
+age_at_death: null
+place_of_death: "Dizel Abad"
+province: "Kermanshah"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    News of the execution of Mr. Ruhollah, along with two other individuals,
+    was published on the web sites of the Iran and the Sharq newspapers on
+    November 21, 2005. Arrest and Detention The circumstances of this
+    defendant’s arrest and detention are not known. According to the Iran
+    newspaper, “after the crime [kidnapping and rape of a 19-year old man] was
+    committed, a police team was formed to arrest these individuals. After the
+    arrest, the defendants were sent to the court.” The report did not specify
+    the dates when the crime and arrest took place. Trial No information is
+    available on the defendant’s trial. The newspaper report did not specify
+    the duration between the arrest and execution. It is not clear whether
+    there was an appeal court. Charges According to the Iran newspaper,
+    “police reported that three men named Yunes, Hossein, and Ruhollah, posing
+    as taxi drivers, kidnapped and raped a nineteen year old man.” The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    International human rights organizations have drawn attention to reports
+    indicating that Islamic Republic authorities have brought trumped-up
+    charges against their political opponents and executed them for alleged
+    drug trafficking, sexual, and other criminal offences. Each year Iranian
+    authorities sentence to death hundreds of alleged common criminals,
+    following judicial processes that fail to meet international standards.
+    The exact number of people convicted based on trumped-up charges is
+    unknown. Evidence of Guilt The report of this execution does not contain
+    information regarding the evidence provided against the defendant. Defense
+    No information is available on Mr. Ruhollah’s defense. Judgment The Iran
+    newspaper stated, that in accordance with the court verdict, Mr. Ruhollah
+    was executed at Dizelabad prison in Kermanshah at dawn on November 18,
+    2005.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/39591/ruhollah"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

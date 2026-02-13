@@ -1,0 +1,47 @@
+id: lotfi-abbas-2002-2
+name_latin: "Abbas Lotfi"
+name_farsi: "عباس لطفی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2002-10-24
+age_at_death: 26
+place_of_death: "Shahid Beheshti Square"
+province: "Khuzestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Abbas Lotfi, 26, was published in the Jomhuri
+    Eslami newspaper on October 26, 2002. Arrest and Detention According to
+    the report, the security forces at the Zal Bridge checkpoint, on the
+    border between Khuzestan and Lorestan provinces, arrested Mr. Lotfi in
+    March of 2002 shortly after he committed the crime. He was taken to the
+    judicial authorities. There is no specific information on his arrest and
+    detention. Trial The Head of Andimeshk Courthouse announced the ruling
+    against Mr. Lotfi. No information is available on his trial. Charges The
+    charges against Mr. Lotfi were announced as "murder and armed robbery."
+    According to the report, in March of 2002 he murdered a car owner by
+    shooting two bullets while stealing his Pride car on the road between
+    Andimeshk and Shush. The validity of the criminal charges brought against
+    this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. Evidence of Guilt The report of this execution
+    did not provide any specific information on the evidence presented against
+    Mr. Lotfi. Defense No information is available on Mr. Lotfi's defense.
+    Judgment The court condemned Mr. Abbas Lotfi to death and the Supreme
+    Court confirmed the ruling. He was hanged in public at the Shaid Beheshti
+    Square in Andimeshk on Thursday October 24, 2002.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7560/abbas-lotfi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

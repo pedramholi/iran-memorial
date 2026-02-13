@@ -1,0 +1,42 @@
+id: nabati-mohammad-2003-2
+name_latin: "Mohammad Nabati"
+name_farsi: "محمد نباتی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2003-01-01
+age_at_death: null
+place_of_death: "Qae'nat"
+province: "Khorasan\\Khorasan-e Razavi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Mohammad Nabati was published in the Kayhan
+    newspaper on April 10, 2003. His case was related to the murder of an
+    individual at the Eslamabad Village near Nimbluk, Qaenat, in May of 2001.
+    Arrest and detention The circumstances of Mr. Nabati s arrest and
+    detention are not known. Trial Mr. Nabati was tried in Khorasan province.
+    No information is available on his trial. Charges The charge brought
+    against Mr. Nabati was announced as murder. The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. Evidence of guilt The
+    report of this execution did not provide any specific information on the
+    evidence presented against Mr. Nabati. Defense No information is available
+    on Mr. Nabati s defense. Judgment Mr. Mohammad Nabati was hanged at
+    Central Prison in Qaenat in 2003. No specific information is available
+    about this execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/75740/mohammad-nabati"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

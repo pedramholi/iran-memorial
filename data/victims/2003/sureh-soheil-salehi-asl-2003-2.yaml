@@ -1,0 +1,59 @@
+id: sureh-soheil-salehi-asl-2003-2
+name_latin: "Soheil Salehi Asl Sureh"
+name_farsi: "سهیل صالحی‌اصل‌ سوره"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2003-04-27
+age_at_death: null
+place_of_death: "Ahvaz"
+province: "Khuzestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Soheil Salehi Asle Sureh was published in the
+    Jomhuri Eslami newspaper on April 29, 2003, quoting the Head of the Public
+    Relations Office of the Khuzestan Courthouse. Additional information was
+    taken from the Ettela at newspaper on April 29, 2003. According to the
+    existing information, Mr. Salehi s case was related to armed robberies
+    from taxi drivers around Ahvaz between April 2001 and May 2002. Arrest and
+    detention Police agents of the Station 13 in Ramshir arrested Mr. Salehi
+    in May of 2003, following a complaint filed by a taxi driver who had been
+    injured and his vehicle stolen by Mr. Salehi (Ettela at newspaper). The
+    circumstances of his arrest and detention are not known. Trial Branch Four
+    of the Islamic Revolutionary Court in Ahvaz tried Mr. Salehi. No
+    information is available on his trial. Charges According to the existing
+    information, the charge brought against Mr. Salehi was announced as
+    Moharebeh [fighting against God (Ettela at newspaper). He was accused of
+    hiring taxis, threatening the drivers using a handgun, and shooting at
+    them, and carjacking. The validity of the criminal charges brought against
+    this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. Evidence of guilt According to the existing
+    information, the evidence presented against Mr. Salehi was his confession,
+    complaints by plaintiffs, recovery of a weapon, police report, and
+    recovery of the stolen vehicles. (Ettela at newspaper) International human
+    rights organizations have repeatedly condemned the government of the
+    Islamic Republic of Iran for its systematic use of severe torture and
+    solitary confinement to obtain confessions from detainees and have
+    questioned the authenticity of confessions obtained under duress. Defense
+    No information is available on Mr. Salehi s defense. Judgment Branch Four
+    of the Islamic Revolutionary Court in Ahvaz condemned Mr. Soheil Salehi
+    Asle Sureh to death in public for Moharebeh [fighting against God]. Branch
+    32 of the Supreme Court confirmed the ruling on January 20, 2003. He was
+    hanged in public in Ahvaz on April 27, 2003 at dawn. No specific
+    information is available about this execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/75465/soheil-salehi-asl-sureh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

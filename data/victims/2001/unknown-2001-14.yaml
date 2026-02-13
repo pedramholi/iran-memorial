@@ -1,0 +1,63 @@
+id: unknown-2001-14
+name_latin: "unknown"
+name_farsi: "ناشناس"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2001-05-21
+age_at_death: 35
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Stoning"
+circumstances: >
+    The news of this execution was reported in an Amnesty International urgent
+    action dated 11 July 2001 based on newspaper reports of May 21, 2001. This
+    un-named woman was reportedly executed after serving eight years. Amnesty
+    notes that "stoning to death is the punishment for adultry under the
+    Iranian Penal Code. According to the Penal Code, men should be buried in a
+    pit in the ground up to their waists, and women buried up to their chests.
+    Individuals who manage to dig themselves out and escape from the pit
+    whilst the stoning is being carried out have their lives spared. Article
+    104 of the Penal Code states that ...stones should not be too large so
+    that the person dies on being hit by one or two of them... and is designed
+    to cause grievous pain leading to eventual death". ...An article
+    concerning this urgent action was published in the [English-language]
+    Tehran Times newspaper on 18 January. It stated that The West
+    intentionally wants to interfere in internal matters of Iran, leveling
+    baseless charges. It also said, Such a move by Amnesty is nothing but open
+    interference in Iran's internal affairs. International human rights
+    organizations have drawn attention to reports indicating that the Islamic
+    Republic s authorities have brought trumped up charges against their
+    political opponents and executed them for drug trafficking, sexual, and
+    other criminal offences. Each year, Iranian authorities sentence to death
+    hundreds of alleged common criminals, following judicial processes that
+    fail to meet international standards. The validity of the criminal charges
+    brought against these defendants cannot be ascertained in the absence of
+    the basic guarantees of a fair trial. The exact number of people convicted
+    based on trumped-up charges is unknown. Arrest and detention The
+    circumstances of this defendant s arrest and detention are not known.
+    Trial No information is available on the defendant s trial. Charges The
+    charge against the defendant is being "corrupt on earth" for appearing in
+    a pornographic film. Evidence of guilt The reported evidence presented
+    against the defendant is a witness testimony that she was the woman in the
+    film. Defense The defendant reportedly denied any involvement in the film.
+    There is no further information on her defense. Judgment The defendent was
+    convicted of corruption on earth, and sentenced to eight years in prison
+    followed by death by stoning, carried out sometime before May 21, 2001.
+    Her sentence was appealed and upheld by the Iranian Supreme Court.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/843/unknown"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,43 @@
+id: dolatabadi-ali-reza-kamali-2002-2
+name_latin: "Ali Reza Kamali Dolatabadi"
+name_farsi: "علیرضا کمالی دولت‌آبادی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2002-04-17
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Ali Reza Kamali Dolatabadi, along with two
+    others, was published in the Iran newspaper on April 18, 2002. Arrest and
+    detention The circumstances of Mr. Kamali Dolatabadi s arrest and
+    detention are not known. Trial Branch 1602 of the Criminal Court of Tehran
+    tried Mr. Kamali Dolatabadi. No information is available on his trial.
+    Charges The charge brought against Mr. Kamali Dolatabadi was announced as
+    murder. The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. Evidence of guilt The report of this execution does not
+    contain information regarding the evidence provided against Mr. Kamali
+    Dolatabadi. Defense No information is available on Mr. Kamali Dolatabadi s
+    defense. Judgment Branch 1602 of the Criminal Court of Tehran condemned
+    Mr. Ali Reza Kamali Dolatabadi to death and the Supreme Court confirmed
+    it. The ruling was carried out at the Qasr Prison yard when he was hanged
+    on April 17, 2002.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/73332/ali-reza-kamali-dolatabadi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

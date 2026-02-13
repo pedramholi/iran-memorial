@@ -1,0 +1,46 @@
+id: unknown-2002-4
+name_latin: "Unknown"
+name_farsi: "ناشناس"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2002-01-06
+age_at_death: 22
+place_of_death: "Ilam"
+province: "Ilam"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of an unknown man, 22, in Ilam was published in the
+    Jomhuri Eslami newspaper on January 7, 2001. Arrest and detention The
+    circumstances of the unknown man s arrest and detention are not known.
+    Trial According to the Central News Unit, Branch Four of the Public Court
+    of Ilam tried this unknown man. No information is available on his trial.
+    Charges The charge brought against the unknown man was announced as
+    murder. According to the report, this man murdered a female high school
+    teacher in Ilam at her house with blows of a knife in 2000. His motivation
+    for committing this murder was robbery of the victim s gold and jewelry.
+    The validity of the criminal charges brought against this defendant cannot
+    be ascertained in the absence of the basic guarantees of a fair trial.
+    Evidence of guilt The report of this execution did not provide any
+    specific information on the evidence presented against the defendant.
+    Defense No information is available on the unknown man s defense. Judgment
+    Branch Four of the Public Court of Ilam condemned the defendant to death
+    and the Supreme Court and the Head of the judiciary confirmed the ruling.
+    The unknown man was hanged in public at the Bahman-22 Square in Ilam on
+    January 6, 2001.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/75169/unknown"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

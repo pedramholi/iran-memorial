@@ -24,7 +24,11 @@ const DRY_RUN = process.argv.includes("--dry-run");
 
 function readYaml(filePath: string): any {
   const content = readFileSync(filePath, "utf-8");
-  return parse(content);
+  try {
+    return parse(content);
+  } catch {
+    return null; // Skip unparseable YAML
+  }
 }
 
 function findYamlFiles(dir: string): string[] {

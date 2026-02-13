@@ -1,0 +1,59 @@
+id: taraqikhah-ali-reza-2000-2
+name_latin: "Ali Reza Taraqikhah"
+name_farsi: "علیرضا ترقیخواه"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2000-01-19
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Ali Reza Taraqikhah, along with three others,
+    was published in the Iran newspaper on January 20, 2000. His case was
+    related to the murder of a 24-year-old man in Tehran during a fight on
+    June 7, 1998. Arrest and detention Mr. Taraqikhah was arrested in June of
+    1998 following the murder of a man. The circumstances of his arrest and
+    detention are not known. Trial Branch 1608 of the Criminal Court of Tehran
+    tried Mr. Taraqikhah. No information is available on his trial. Charges
+    The charge brought against Mr. Taraqikhah was announced as murder. He was
+    charged with the murder of a neighbor by blows of a knife on June 7, 1998.
+    According to the report, after he had a fight with his wife, neighbors
+    gathered in front of his house and he attempted to disperse them. No
+    detailed information is available on his charges. The validity of the
+    criminal charges brought against this defendant cannot be ascertained in
+    the absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic authorities have brought trumped-up charges, including
+    drug trafficking, sexual, and other criminal offences, against their
+    opponents (including political, civil society activists, as well as
+    unionists and ethnic and religious minorities). Each year Iranian
+    authorities sentence to death hundreds of alleged common criminals,
+    following judicial processes that fail to meet international standards.
+    The exact number of people convicted and executed based on trumped-up
+    charges is unknown. Evidence of guilt The report of this execution did not
+    provide any specific information on the evidence presented against Mr.
+    Taraqikhah. Defense No information is available on Mr. Taraqikhah s
+    defense. According to the report, he was very angry during the fight with
+    his wife, and when neighbors gathered, he committed the murder because of
+    his extreme anger and agitation. Judgment Branch 1608 of the Criminal
+    Court of Tehran condemned Mr. Ali Reza Taraqikhah to death. He was hanged,
+    along with three others, in Qasr Prison on January 19, 2000 at dawn. No
+    specific information is available about this execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/74884/ali-reza-taraqikhah"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

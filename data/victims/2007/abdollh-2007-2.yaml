@@ -1,0 +1,57 @@
+id: abdollh-2007-2
+name_latin: "Abdollh"
+name_farsi: "عبدالله"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2007-12-06
+age_at_death: null
+place_of_death: "Qazvin"
+province: "Zanjan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Abdollah was published on the websites of the
+    Hambastegi newspaper on December 5 and the Qods newspaper on December 8,
+    2007. Arrest and Detention According to theQodsnewspaper, based on the
+    marks on the victim s neck, officials suspected that the murderer might be
+    a person known to the victim. Therefore, when they noticed contradictions
+    in the statements by the victim s brother-in-law, they arrested him. Trial
+    According to the Hambasteginewspaper, this trial took place in Branch 71
+    of the Punitive Court of Tehran Province on August 28, but according to
+    theQodsnewspaper, it took place in Branch Ten of Public Court in Qazvin.
+    No further information is available on the defendant s trial. Charges The
+    charge against Mr. Abdollah was announced as "murder." According to
+    reports, he murdered his pregnant sister-in-law on April 4, 2005, claiming
+    that she was corrupted. The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. Evidence of Guilt The evidence presented
+    against the defendant was his confession and the statement of the victim s
+    husband saying his wife was alive when he left home and his brother had
+    been at their house since 8 in the morning of the day that his wife
+    disappeared. Additionally, during the police investigation, neighbors and
+    the victim s family members denied the defendant s claim of corruption and
+    confirmed the victim s chastity. Defence The defendant primarily denied
+    committing any crime, but later he accepted the charge and said, I killed
+    my sister-in-law because she was corrupt. I did not see anything myself
+    but the shopkeepers talked about it. Judgment The court condemned Mr.
+    Abdollah to death with the condition of paying half of Dieh (blood money)
+    by the victim s family for her murder and to paying Dieh and 5 years
+    imprisonment for killing an eight-month-old fetus. The ruling was
+    confirmed by the Supreme Court. He was hanged in the Central Qazvin prison
+    on December 6, 2007.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/71741/abdollh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

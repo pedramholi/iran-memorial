@@ -1,0 +1,42 @@
+id: raisi-abbas-1990-2
+name_latin: "Abbas Ra'isi"
+name_farsi: "عباس رئیسی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1990-03-29
+age_at_death: null
+place_of_death: "Zahedan"
+province: "Sistan Va Baluchestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Abbas Ra'isi was acknowledged in a list provided to
+    the Special representative of the United Nation's Commission on Human
+    Rights, Professor Reynaldo Galindo Pohl, by the Government of Iran This
+    list was published in a 1990 Report of the Economic and Social Council of
+    the United Nations on The Situation of Human Rights in the Islamic
+    Republic of Iran. A/45/697. Arrest and detention In his report, Mr.
+    Galindo Pohl provides the following information about the victim's arrest:
+    "Abbas Ra'isi, a navy officer stationed at Chah Bahar, was said to have
+    been arrested around September 1989 in Chah Bahar..." Trial No information
+    is available on the defendant s trial. Charges Evidence of guilt The
+    report of this execution does not contain information regarding the
+    evidence provided against the defendant. Defense No information is
+    available on Mr. Ra'isi's defense. Judgment Mr. Ra'isi was sentenced to
+    death and hanged along with three other defendants in the city of Zahedan.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/2316/abbas-raisi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

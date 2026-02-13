@@ -1,0 +1,57 @@
+id: dejagah-maryam-1982-2
+name_latin: "Maryam Dejagah"
+name_farsi: "مریم دژآگاه"
+date_of_birth: null
+place_of_birth: null
+gender: female
+ethnicity: null
+religion: "Non-Believer"
+photo: "https://www.iranrights.org/actorphotos/12288_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1982-10-29
+age_at_death: 19
+place_of_death: "Arak"
+province: "Markazi"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Ms. Maryam Dejagah, along with ten other individuals, was
+    reported in the Jomhuri Eslami daily on November 1, 1982. Additional
+    information has been sent to Omid by a friend of hers via an electronic
+    form. She is also among the 12028 individuals listed in an addendum to the
+    Mojahed magazine (No 261), published by Mojahedin Khalq Organization in
+    1985. The list includes individuals, affiliated with various opposition
+    groups, who were executed or killed during clashes with the Islamic
+    Republic security forces from June 1981 to the publication date of the
+    magazine. She was born in Dorud (Lorestan province) and was a teacher. She
+    was affiliated with the Fadaiyan Khalq Organization. The Fadaiyan Khalq
+    Organization, a Marxist Leninist group inspired by the Cuban Revolution
+    and the urban guerilla movements of Latin America, was founded in 1971 by
+    two communist groups opposed to the Pahlavi regime. Following the 1979
+    revolution, the Organization, which had renounced armed struggle, split
+    over their support of the Islamic Republic and of the Soviet Union. The
+    Fadaiyan Khalq Minority opposed the Islamic Republic and was active mainly
+    in the political arena and the labor movement. Arrest and detention The
+    circumstances of Ms. Dejagah’s arrest and detention are not known. Trial
+    There is no information regarding this trial. Charges According to this
+    report, Ms. Dejagah was “a member of the Central Committee of the Fadaiyan
+    Khalq Guerilla Organization (minority faction) that is at war with God.”
+    The validity of the criminal charges brought against this defendant cannot
+    be ascertained in the absence of the basic guarantees of a fair trial.
+    Evidence of guilt No information is available concerning the evidence
+    presented against the accused. Defense No information is available
+    concerning Ms. Dejagah’s defense. Judgment The Islamic Revolutionary
+    Tribunal of Arak sentenced Ms. Maryam Dejagah to death. The Supreme Court
+    of the Islamic Republic of Iran approved the sentence. She was executed in
+    Arak at mid-night on October 29, 1982 along with ten other individuals.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-3417/maryam-dejagah"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

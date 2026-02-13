@@ -1,0 +1,28 @@
+id: qeidi-said-1999-2
+name_latin: "Sa'id Qeidi"
+name_farsi: "سعید قیدی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1999-09-22
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Extrajudicial Execution"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/84614/said-qeidi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

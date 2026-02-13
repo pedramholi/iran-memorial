@@ -1,0 +1,52 @@
+id: b-ali-2006-2
+name_latin: "Ali B."
+name_farsi: "علی ب."
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2006-04-08
+age_at_death: null
+place_of_death: "Shiraz"
+province: "Fars"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Ali B. was announced by the website of IRNA
+    citing the Public and Revolutionary Prosecutor of Fars Province on April
+    8, 2006. The case of Mr. Ali B. pertains to the murder of his wife. Arrest
+    and detention There is no information available on the details of Mr. Ali
+    B. s arrest and detention. Trial Mr. Ali B. was tried by Branch 28 of the
+    Public Court of Shiraz. However, there is no information available on the
+    details of the session or sessions of Mr. Ali B. s trial. Charges Mr. Ali
+    B. was charged with murder. The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that the Islamic Republic
+    authorities have brought trumped-up charges, including drug trafficking,
+    sexual, and other criminal offences, against their opponents (including
+    political, civil society activists, as well as unionists and ethnic and
+    religious minorities). Each year Iranian authorities sentence to death
+    hundreds of alleged common criminals, following judicial processes that
+    fail to meet international standards. The exact number of people convicted
+    and executed based on trumped-up charges is unknown. Evidence of guilt
+    There is no information available on the details of the evidence of guilt
+    entered against Mr. Ali B. Defense There is no information available on
+    the details of Mr. Ali B. s defense. Judgment Branch 28 of the Public
+    Court of Shiraz sentenced Mr. Ali B. to death. The verdict was validated
+    by the Supreme Court. Mr. Ali B. was hanged in the courtyard of Shiraz s
+    Adelabad Prison on April 8, 2006.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/85083/ali-b"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

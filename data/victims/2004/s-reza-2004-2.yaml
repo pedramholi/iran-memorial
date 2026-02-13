@@ -1,0 +1,58 @@
+id: s-reza-2004-2
+name_latin: "Reza S."
+name_farsi: "رضا س."
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2004-01-07
+age_at_death: null
+place_of_death: "Tabriz"
+province: "Azarbaijan-e Sharqi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Reza S. was published in the Iran newspaper
+    on January 10, 2004. Additional information was taken from the Jomhuri
+    Eslami newspaper on December 2, 2003. According to the existing
+    information, he was married, had a criminal record, and his case was
+    related to the kidnapping and rape of 23 children between the age of 6 and
+    11 years old in Tabriz. Arrest and detention The Criminal Investigators in
+    Tabriz arrested Mr. Reza S. while he was molesting a seven-year-old girl
+    on July 8, 2003. He was identified during the police investigation
+    following several complaints filed by parents of rape victims. The
+    circumstances of his arrest and detention are not known. Trial Branch 38
+    of the General Court in Tabriz tried Mr. Reza S. No information is
+    available on his trial. Charges The charges brought against Mr. Reza S.
+    were announced as rape, robbery, and kidnapping. According to the existing
+    information, he was accused of deceiving and taking 23 children, between 6
+    and 11 years old, to construction buildings around Tabriz, threatening
+    them with a knife, stealing their gold, and raping them. The validity of
+    the criminal charges brought against this defendant cannot be ascertained
+    in the absence of the basic guarantees of a fair trial. Evidence of guilt
+    According to the existing information, the bases for Mr. Reza S. s
+    conviction was his confession (Jomhuri Eslami newspaper). International
+    human rights organizations have repeatedly condemned the government of the
+    Islamic Republic of Iran for its systematic use of severe torture and
+    solitary confinement to obtain confessions from detainees and have
+    questioned the authenticity of confessions obtained under duress. Defense
+    No information is available on Mr. Reza S. s defense. Judgment Branch 38
+    of the General Court in Tabriz condemned Mr. Reza S. to death in public
+    and the Supreme Court confirmed the ruling. He was hanged in public at the
+    Old Terminal Square in Tabriz on January 7, 2004 (Iran newspaper). The
+    court also condemned him to 20 years imprisonment and 74 lashes for
+    robbery and kidnapping (Jomhuri Eslami newspaper).
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/75968/reza-s"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

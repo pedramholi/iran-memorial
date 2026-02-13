@@ -1,0 +1,28 @@
+id: rakhshani-khalil-jalil-qanbarzehi-tanha-2022-2
+name_latin: "Khalil (Jalil) Qanbarzehi Tanha (Rakhshani)"
+name_farsi: "خلیل (جلیل) قنبرزهی تنها (رخشانی)"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Islam (Sunni)"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2022-09-29
+age_at_death: 25
+place_of_death: "Zahedan"
+province: "Sistan Va Baluchestan"
+cause_of_death: "Arbitrary Execution » Arbitrary shooting"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-9013/khalil-jalil-qanbarzehi-tanha-rakhshani"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

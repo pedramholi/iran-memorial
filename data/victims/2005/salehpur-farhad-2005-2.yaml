@@ -1,0 +1,50 @@
+id: salehpur-farhad-2005-2
+name_latin: "Farhad Salehpur"
+name_farsi: "فرهاد صالح پور"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2005-12-26
+age_at_death: 23
+place_of_death: "Saqqez"
+province: "Kordestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The of Mr. F'arhad Salehpur was published in the website of the Kayhan
+    newspaper and the website of Islamic Republic News Agency (IRNA) on
+    December 27, 2005. Arrest and detention The circumstances of this
+    defendant’s arrest and detention are not known. The media reported that
+    the crime was committed one year prior to the execution. Trial No
+    information is available on the defendant’s trial. Charges Mr. Farhad
+    Salehpur charged with murder. He reportedly set the body on fire. The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    International human rights organizations have drawn attention to reports
+    indicating that the Islamic Republic’s authorities have brought trumped-up
+    charges against their political opponents and executed them for drug
+    trafficking, sexual, and other criminal offences. Each year, Iranian
+    authorities sentence to death hundreds of alleged common criminals,
+    following judicial processes that fail to meet international standards.
+    The exact number of people convicted based on trumped-up charges is
+    unknown. Evidence of guilt The report of this execution does not contain
+    information regarding the evidence provided against the defendant. Defense
+    No information is available on Mr. Salehpur’s defense. Judgment The court
+    condemned Mr. Farhad Salehpur to death and the Supreme Court approved the
+    sentence. He was hanged in Saqez prison (Kordestan province) on December
+    26, 2005.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/43885/farhad-salehpur"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

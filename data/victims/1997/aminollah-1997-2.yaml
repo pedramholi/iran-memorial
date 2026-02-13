@@ -1,0 +1,55 @@
+id: aminollah-1997-2
+name_latin: "Aminollah"
+name_farsi: "امین الله"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1997-10-12
+age_at_death: null
+place_of_death: "Kashan"
+province: "Esfahan"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    News of the execution of Mr. Aminollah was published on the website of the
+    Hamshahri newspaper on October 13, 1997 and in the Kayhan newspaper on
+    October 14, 1997 (quoting the Political and Ideological Office of the
+    Security Forces of Kashan, Esfehan province). Arrest and Detention The
+    circumstances of this defendant’s arrest and detention are not known.
+    Trial No information is available on the defendant’s trial. The trial took
+    place in Kashan. Charges The charges against the defendant were announced
+    as "trafficking 34 kilograms and 200 grams morphine, 18 Kilograms and 940
+    grams opium." The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. International human rights organizations have drawn
+    attention to reports indicating that Islamic Republic authorities have
+    brought trumped-up charges against their political opponents and executed
+    them for alleged drug trafficking, sexual, and other criminal offences.
+    Thousands of alleged drug traffickers have been sentenced to death
+    following judicial processes that fail to meet international standards.
+    Scores of them were executed based on a 1989 law imposing mandatory death
+    sentences on drug traffickers found in possession of specified amounts of
+    proscribed narcotics (5 kg of hashish or opium, and more than 30 grams of
+    heroin, codeine or methadone). The exact number of people convicted based
+    on trumped-up charges is unknown. Evidence of Guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against the defendant. Defence No information is available on Mr.
+    Aminollah's defence. Judgment The court condemned Mr. Aminollah to death
+    and, after the ruling was confirmed by the Supreme Court, he was executed
+    in the presence of the victim's family and court officials in the Kashan
+    prison on October 12 , 1997.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/41275/aminollah"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

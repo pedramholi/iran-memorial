@@ -1,0 +1,48 @@
+id: karimi-amir-hossein-2002-2
+name_latin: "Amir Hossein Karimi"
+name_farsi: "امیرحسین کریمی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2002-04-17
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Amir Hossein Karimi, along with two others,
+    was published in the Iran newspaper on April 18, 2002. Arrest and
+    detention According to the report, with the cooperation of the victim s
+    father Mr. Karimi was arrested on February 24, 2001, ten days after
+    committing the crime. The circumstances of his arrest and detention are
+    not known. He was detained for 53 days. Trial The Criminal Court of Tehran
+    tried Mr. Karimi. No information is available on his trial. Charges The
+    charge brought against Mr. Karimi was announced as murdering his cousin.
+    The validity of the criminal charges brought against this defendant cannot
+    be ascertained in the absence of the basic guarantees of a fair trial.
+    Evidence of guilt The evidence provided against Mr. Karimi was his
+    confession. International human rights organizations have repeatedly
+    condemned the government of the Islamic Republic of Iran for its
+    systematic use of severe torture and solitary confinement to obtain
+    confessions from detainees and have questioned the authenticity of
+    confessions obtained under duress. Defense No information is available on
+    Mr. Karimi s defense. Judgment The Criminal Court of Tehran condemned Mr.
+    Amir Hossein Karimi to death and the Supreme Court confirmed it. The
+    ruling was carried out at the Qasr Prison yard when he was hanged on April
+    17, 2002 at 4 a.m.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/73334/amir-hossein-karimi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

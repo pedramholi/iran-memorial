@@ -1,0 +1,34 @@
+id: sharafkandi-mohammad-sadeq-1992-2
+name_latin: "Mohammad Sadeq Sharafkandi"
+name_farsi: "محمد صادق شرفکندی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim (Sunni)"
+photo: "https://www.iranrights.org/actorphotos/33125_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1992-09-17
+age_at_death: 52
+place_of_death: "Prager Street"
+province: null
+cause_of_death: "Extrajudicial Execution » Extrajudicial shooting"
+circumstances: >
+    Biographical information and the process of law - including details on the
+    arrest, trial, charges, evidence, defense, and judgment - with regard to
+    Mr. Sharafkandi is being collected and processed by ABF research team. The
+    completed case will be published on this page upon completion. Sharing any
+    information you may have about him would help us prepare his case better
+    and faster. Thank you for your understanding and assistance.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/33125/mohammad-sadeq-sharafkandi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

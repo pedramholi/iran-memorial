@@ -1,0 +1,50 @@
+id: r-yaqub-2005-2
+name_latin: "Ya'qub R."
+name_farsi: "یعقوب ر."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2005-05-02
+age_at_death: null
+place_of_death: "Ahvaz"
+province: "Khuzestan"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The news of the execution of Mr. Yaq ub R. was published in the web
+    edition of the Kayhan newspaper on May 3, 2005. Arrest and detention The
+    circumstances of this defendant s arrest and detention are unknown. Trial
+    No information is available on the defendant s trial. Charges The charge
+    against Mr. Yaq ub R. is mentioned as stabbing and murdering a taxi driver
+    named Amin R. and then stealing his car . The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic s authorities have brought trumped-up charges against
+    their political opponents and executed them for drug trafficking, sexual,
+    and other criminal offences. Each year, Iranian authorities sentence to
+    death hundreds of alleged common criminals, following judicial processes
+    that fail to meet international standards. The exact number of people
+    convicted based on trumped-up charges is unknown. Evidence of guilt The
+    report of this execution does not contain information regarding the
+    evidence provided against the defendant. Defense No information is
+    available on Mr. Yaq ub R.'s defense. Judgment No information is available
+    regarding the details of the verdict for this execution. According to
+    Kayhan , the court judgment was confirmed by Branch 32 of the Supreme
+    Court and Mr. Yaq ub R. was executed in Karun prison in Ahvaz on Monday,
+    May 2, 2005.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/35820/yaqub-r"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

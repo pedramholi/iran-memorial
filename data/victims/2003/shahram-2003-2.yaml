@@ -1,0 +1,60 @@
+id: shahram-2003-2
+name_latin: "Shahram"
+name_farsi: "شهرام"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2003-08-21
+age_at_death: null
+place_of_death: "Karaj"
+province: "Alborz"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Shahram, without his last name, along with
+    two others, was published in the Iran newspaper on August 31, 2003. His
+    case and the cases of two other defendants were related to drug
+    trafficking. Arrest and detention Mr. Shahram and the other two defendants
+    were identified and arrested by Narcotics Agents in Karaj, while
+    attempting to transport narcotics from Zahedan to Tehran, in April of
+    2002. He was detained for 17 months. The circumstances of his arrest and
+    detention are not known. Trial Branch Four of the Islamic Revolutionary
+    Court in Karaj tried Mr. Shahram. No information is available on his
+    trial. Charges The charge brought against Mr. Shahram and the two other
+    defendants was collectively announced as drug trafficking. The validity of
+    the criminal charges brought against this defendant cannot be ascertained
+    in the absence of the basic guarantees of a fair trial. International
+    human rights organizations have drawn attention to reports indicating that
+    the Islamic Republic authorities have brought trumped-up charges,
+    including drug trafficking, sexual, and other criminal offences, against
+    their opponents (including political, civil society activists, as well as
+    unionists and ethnic and religious minorities). Thousands of alleged drug
+    traffickers have been sentenced to death following judicial processes that
+    fail to meet international standards. Scores of them were executed based
+    on a 1989 law imposing mandatory death sentences on drug traffickers found
+    in possession of specified amounts of proscribed narcotics (5 kg of
+    hashish or opium, and more than 30 grams of heroin, codeine or methadone).
+    The exact number of people convicted based on trumped-up charges is
+    unknown. Evidence of guilt The evidence presented against Mr. Shahram and
+    the other two defendants was recovery of four kilograms of heroin hidden
+    in a tea flask when arrested, and possession of 16 kilograms of heroin.
+    Defense No information is available on Mr. Shahram s defense. Judgment
+    Branch Four of the Islamic Revolutionary Court in Karaj condemned Mr.
+    Shahram to death and the Supreme Court confirmed the ruling. He was
+    hanged, along with two others, at Qezelhesar Prison in Karaj on August 21,
+    2003.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/75713/shahram"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

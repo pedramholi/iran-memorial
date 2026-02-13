@@ -1,0 +1,67 @@
+id: abdolreza-2007-2
+name_latin: "Abdolreza"
+name_farsi: "عبدالرضا"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2007-06-13
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the conviction and execution of Mr. Abdolreza, along with two
+    others, was published on the websites of the E temad newspaper on January
+    4, the Sharq newspaper on January 3, 2006, the Hamshahri newspaper on
+    August 1, 2005, the Javan newspaper on August 1 and July 31, 2005, the
+    Meidan Zanan newspaper on October 29, 2006, and Iscanews on June 11 and
+    13, 2007. Arrest and Detention On March 24, 2004, residents of an
+    apartment complex in Malard, Karaj, reported the murder of a person in his
+    house. The police questioned the victim s wife. She claimed that four
+    masked men murdered her husband. After questioning the neighbors, they
+    denied seeing any unknown people except a young man who visited the victim
+    s apartment occasionally. The police suspected the victim s wife. During
+    the technical interrogations, she confessed to murdering her husband with
+    the help of a young man named Abdolreza. Then the police arrested the
+    defendant in Karaj on March 30, 2004. Trial According to the Hamshahri
+    newspaper, the defendant s trial took place in Branch 71 of the Criminal
+    Court of Tehran Province in two sessions. Charges The charge against Mr.
+    Abdolreza was announced as "murder." According to the media reports, the
+    defendant and the victim s wife had a secret relationship and murdered him
+    in collusion with each other. The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that Islamic Republic authorities
+    have brought trumped-up charges against their political opponents and
+    executed them for alleged drug trafficking, sexual, and other criminal
+    offences. Each year Iranian authorities sentence to death hundreds of
+    alleged common criminals, following judicial processes that fail to meet
+    international standards. The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of Guilt The evidence provided
+    against the defendant was announced as his confessions, the confession of
+    the victim s wife, the statement by victim s 10-year-old daughter
+    regarding her mother s secret relationship with the defendant, and the
+    forensic report. Defense According to the media reports, after being
+    arrested, the defendant said that he surrendered to his temptation and had
+    nothing to say on his defense. During the court session, the defendant and
+    his assistant accepted the murder charge but claimed that they had no
+    intention to kill the victim and that his death was an accident. Judgment
+    The court condemned Mr. Abdolreza to death and the ruling was confirmed by
+    Branch 36 of the Supreme Court. He was hanged in the Evin prison on June
+    13, 2007.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7189/abdolreza"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

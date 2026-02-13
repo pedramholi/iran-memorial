@@ -1,0 +1,45 @@
+id: moradi-qaderi-1994-2
+name_latin: "Qaderi Moradi"
+name_farsi: "قادری مرادی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1994-01-01
+age_at_death: null
+place_of_death: "Kermanshah"
+province: "Kermanshah"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    Details about the execution of Mr. Qaderi Moradi, a member of PDKI
+    (Iranian Kurdistan Democrat Party), were released in a 1995 report by
+    Amnesty International. Arrest and detention The accused was arrested near
+    the village of Kohlah in the region of Javanrud in July 1992 and was
+    reportedly tortured in detention. Trial No information is available on the
+    defendant s trial. Before the news of Mr. Moradi's execution was known,
+    Amnesty International wrote to the Iranian authorities in February 1994
+    requesting information about his legal situation, including whether he was
+    tried, the charges brought against him, and asking if copies of the trial
+    transcript and judgment could be obtained, if he was indeed tried. Amnesty
+    International made the same request in April 1994. By April 1995, Amnesty
+    had not received any response from the Iranian authorities. Charges The
+    charges brought against the victim are not known. Evidence of guilt The
+    report of this execution does not contain information regarding the
+    evidence provided against the defendant. Defense No information is
+    available on Mr. Moradi's defense. Judgment Mr. Moradi was sentenced to
+    death; the exact date of his execution, however, is not known.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/12860/qaderi-moradi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

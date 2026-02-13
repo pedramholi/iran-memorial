@@ -1,0 +1,41 @@
+id: baqeri-hossein-2003-2
+name_latin: "Hossein Baqeri"
+name_farsi: "حسین باقری"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2003-07-16
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Hossein Baqeri, along with a woman and two
+    other men, was published in the Iran newspaper on July 17, 2003. Arrest
+    and detention The circumstances of Mr. Baqeri s arrest and detention are
+    not known. Trial The Criminal Court of Tehran tried Mr. Baqeri. No
+    information is available on his trial. Charges The charge brought against
+    Mr. Baqeri was announced as murder. The validity of the criminal charges
+    brought against this defendant cannot be ascertained in the absence of the
+    basic guarantees of a fair trial. Evidence of guilt The report of this
+    execution did not provide any specific information on the evidence
+    presented against Mr. Baqeri. Defense No information is available on Mr.
+    Baqeri s defense. Judgment The Criminal Court of Tehran condemned Mr.
+    Hossein Baqeri to death and the Supreme Court confirmed the ruling. He was
+    hanged at the Qasr Prison in Tehran on July 16, 2003.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/73708/hossein-baqeri"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

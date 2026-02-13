@@ -1,0 +1,62 @@
+id: p-alireza-2006-4
+name_latin: "Alireza P."
+name_farsi: "علی‌رضا پ."
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2006-06-13
+age_at_death: null
+place_of_death: "Khaju Square"
+province: "Kerman"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Alireza P., along with two other individuals,
+    was announced by the website of ISNA citing the Public Relations Section
+    of the provincial Ministry of Justice office of Kerman Province (June 14,
+    2006) and the website of IRNA citing an authority in the Public Court of
+    Kerman Province (June 15, 2006). The case of Mr. Alireza P. and the other
+    two pertains to abduction, robbery and rape in the city of Kerman during
+    the February of 2006. Arrest and Detention There is no information
+    available on the details of Mr. Ehsan M. s arrest and detention. Trial Mr.
+    Alireza P. was tried by the Public Court of Kerman Province. However,
+    there is no information available on the session or sessions of Mr.
+    Alireza P. s trial. Charges Mr. Alireza P., along with two other
+    individuals, was charged with multiple counts of abduction, robbery and
+    rape. According to the report by the Public Relations Section of the
+    provincial Ministry of Justice office of Kerman Province, Mr. Alireza P.
+    and the other two, disguising themselves as taxi drivers, would abduct
+    female students, threaten them with a knife, steal their jewelry and
+    sexually abuse them (IRNA). The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that the Islamic Republic
+    authorities have brought trumped-up charges, including drug trafficking,
+    sexual, and other criminal offences, against their opponents (including
+    political, civil society activists, as well as unionists and ethnic and
+    religious minorities).Each year Iranian authorities sentence to death
+    hundreds of alleged common criminals, following judicial processes that
+    fail to meet international standards. The exact number of people convicted
+    and executed based on trumped-up charges is unknown. Evidence of Guilt
+    There is no information available on the details of the evidence entered
+    against Mr. Alireza P. Defense There is no information available on the
+    details of Mr. Alireza P. s defense. Judgment The Public Court of Kerman
+    Province sentenced Mr. Alireza P. to death. The verdict was approved by
+    the Supreme Court. Mr. Alireza P. was publicly hanged, along with two
+    other individuals*, in the Khaju Square of the city of Kerman on Tuesday
+    June 13, 2006. --------------------------- *Ehsan M., Mohammad Hossein S.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/85074/alireza-p"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,51 @@
+id: mozafari-majid-2002-2
+name_latin: "Majid Mozafari"
+name_farsi: "مجید مظفری"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2002-06-02
+age_at_death: 21
+place_of_death: "Ilam"
+province: "Ilam"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Majid Mozafari was announced in a report by the
+    Public Relations Office of Ilam's Justice Department, quoted by the
+    Jomhuri Eslami daily (web edition, June 06, 2002). Arrest and detention
+    The circumstances of this defendant s arrest and detention are not known.
+    Trial No information is available on the defendant s trial. Charges Mr.
+    Mozafari was charged with "murdering two women in 2001". Reportedly, he
+    had "murdered his two female relatives, ages 86 and 18, for family
+    conflicts." The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. International human rights organizations have drawn
+    attention to reports indicating that the Islamic Republic s authorities
+    have brought trumped up charges against their political opponents and
+    executed them for drug trafficking, sexual, and other criminal offences.
+    Each year, Iranian authorities sentence to death hundreds of alleged
+    common criminals, following judicial processes that fail to meet
+    international standards. The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against the defendant. Defense No information is available on Mr. Musavi's
+    defense. Judgment Mr. Mozafari was sentenced to death as retaliation for
+    manslaughter at Ilam's Justice Department. Confirmed by the Supreme Court
+    and authorized by the Head of the Judiciary, the verdict was carried out
+    in the morning in the presence of the family of the murdered women.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/25040/majid-mozafari"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

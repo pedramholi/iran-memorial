@@ -1,0 +1,65 @@
+id: alyari-yusef-1984-2
+name_latin: "Yusef Alyari"
+name_farsi: "یوسف آلیاری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: "https://www.iranrights.org/actorphotos/31131_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1984-08-14
+age_at_death: 39
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    Mr. Yusef Alyari is one of the 12,028 individuals listed in an addendum to
+    the Mojahed magazine (No 261), published by Mojahedin Khalq Organization
+    (MKO) on September 6, 1985. The list includes individuals, affiliated with
+    various opposition groups, who were executed or killed during clashes with
+    the Islamic Republic security forces from June 1981 to the publication
+    date of the magazine. The additional information about him is taken from
+    the book "Our Martyrs on the Path to Freedom" by Rah-e Kargar
+    Publications. Mr. Alyari was born in Tabriz. He was a law student at
+    National University of Tehran and a political activist. In 1970, when he
+    was serving in the military in a village near Tabriz, he was arrested and
+    released six months later. In 1973, he was arrested again and condemned to
+    six years imprisonment. He was released during the revolution. Mr. Yusef
+    Alyari co-founded the Rah-e Kargar Organization and a member of the
+    Organization’s Central Committee. He was in charge of the provinces for
+    awhile. Once during the summer of 1981, he was arrested and released.
+    "Rah-e Kargar" or the "Revolutionary Workers Organization of Iran" was
+    established in the summer of 1979. The Organization was founded by
+    individuals from various leftist groups who rejected the idea of armed
+    struggle and believed in political action. They introduced themselves as
+    Marxist-Leninists, promoting a socialist revolution and the leadership of
+    the proletariat. They differed with the pro-Soviet communist party, Tudeh,
+    in that they opposed the Islamic Republic and Ayatollah Khomeini's
+    leadership. Arrest and detention The circumstances of this defendant’s
+    arrest and detention are unknown. According to the above book, Mr. Yusef
+    Alyari was arrested while on Karaj road in August of 1983. He was taken to
+    Evin Prison. Trial No information is available on the defendant’s trial.
+    Charges No information is available on Mr. Yusef Alyari’s charges. The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    Evidence of guilt The report of this execution contains no evidence
+    provided against the defendant. Defense No information is available about
+    the defendant’s defense. Judgment No specific information is available
+    about the defendant’s execution. According to the above source, Mr. Yusef
+    Alyari was executed by a firing squad at Evin Prison on August 14, 1984.
+    He wrote in his will: "Mother, I wanted to take care of you and make you
+    happy. But, as you see, it didn't happen. You know that this is a willing
+    death."
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4209/yusef-alyari"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

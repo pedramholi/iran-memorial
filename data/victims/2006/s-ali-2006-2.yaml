@@ -1,0 +1,53 @@
+id: s-ali-2006-2
+name_latin: "Ali S."
+name_farsi: "علی س."
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2006-01-01
+age_at_death: 32
+place_of_death: "Bandar Abbas"
+province: "Hormozgan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Ali S., son of Sa diyar, was announced by the
+    Hambastegi Daily on February 1, 2006. He was originally from Qatar, but
+    was a naturalized Iranian. Mr. Ali S. s case pertains to the murder of a
+    75-year old man and wounding of his wife in March of 2002. Arrest and
+    Detention Mr. Ali S. was arrested by the Judiciary Police of Bandar Abbas
+    on August 22, 2002 and spent three years in prison. However, there is no
+    information available on the details of his arrest and detention. Trial
+    Mr. Ali S. was tried by a court in Bandar Abbas. However, there is no
+    information available on the details of the session or sessions of his
+    trial. Charges Mr. Ali S. was charged with manslaughter. The validity of
+    the criminal charges brought against this defendant cannot be ascertained
+    in the absence of the basic guarantees of a fair trial. Evidence of Guilt
+    Mr. Ali S. s confessions were entered against him as evidence of his
+    guilt. In the course of his confessions he admitted to murdering the
+    victim in revenge for his obstructing the marriage between his
+    granddaughter and Mr. Ali S. International human rights organizations have
+    repeatedly condemned the government of the Islamic Republic of Iran for
+    its systematic use of severe torture and solitary confinement to obtain
+    confessions from detainees and have questioned the authenticity of
+    confessions obtained under duress. Defense Mr. Ali S. said that he had
+    been drunk when the incident occurred. There is no more information
+    available on the details of his defense. Judgment A court in Hormozgan
+    Province sentenced Mr. Ali S. to death. The verdict was approved by the
+    Supreme Court. Mr. Ali S. was hanged in the courtyard of Bandar Abbas
+    Central Prison in 2005.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/85129/ali-s"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

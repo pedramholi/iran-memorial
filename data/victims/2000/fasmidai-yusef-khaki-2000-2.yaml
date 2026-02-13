@@ -1,0 +1,55 @@
+id: fasmidai-yusef-khaki-2000-2
+name_latin: "Yusef Khaki Fasmida’i"
+name_farsi: "یوسف خاکی فصمیدائی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2000-06-29
+age_at_death: null
+place_of_death: "Minab"
+province: "Hormozgan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Yusef Khaki Fasmida i was published in the
+    Resalat newspaper on July 1, 2000. Arrest and detention According to the
+    existing information, Mr. Khaki Fasmida i was arrested in 1998 following a
+    murder. The circumstances of his arrest and detention are not known. Trial
+    Branch One of the Public Court of Minab tried Mr. Khaki Fasmida i. No
+    information is available on his trial. Charges The charge brought against
+    Mr. Khaki Fasmida i was announced as murder. According to the report, the
+    court charged him with the murder of Mr. Mohammad Reza Malekizadeh in
+    1998. No detailed information is available on his charge. The validity of
+    the criminal charges brought against this defendant cannot be ascertained
+    in the absence of the basic guarantees of a fair trial. International
+    human rights organizations have drawn attention to reports indicating that
+    the Islamic Republic authorities have brought trumped-up charges,
+    including drug trafficking, sexual, and other criminal offences, against
+    their opponents (including political, civil society activists, as well as
+    unionists and ethnic and religious minorities). Each year Iranian
+    authorities sentence to death hundreds of alleged common criminals,
+    following judicial processes that fail to meet international standards.
+    The exact number of people convicted and executed based on trumped-up
+    charges is unknown. Evidence of guilt The report of this execution did not
+    provide any specific information on the evidence presented against Mr.
+    Khaki Fasmida i. Defense No information is available on Mr. Khaki Fasmida
+    i s defense. Judgment Branch One of the Public Court of Minab condemned
+    Mr. Yusef Khaki Fasmida i to death for murder. Branch 34 of the Supreme
+    Court confirmed the ruling. By the request of the victim s family, he was
+    hanged on June 29, 2000 in the morning. No specific information is
+    available about this execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/74838/yusef-khaki-fasmida-i"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

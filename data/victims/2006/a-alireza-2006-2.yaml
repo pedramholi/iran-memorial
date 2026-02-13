@@ -1,0 +1,56 @@
+id: a-alireza-2006-2
+name_latin: "Alireza A."
+name_farsi: "علیرضا ع."
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2006-11-16
+age_at_death: null
+place_of_death: "Shahrud"
+province: "Semnan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Alireza A. along with two other individuals
+    was announced by Javan daily (November 19, 2006) and Khabar-e Jonoub daily
+    (November 20, 2006). Mr. Alireza A. was from Zahedan and his case pertains
+    to storing and carrying illegal drugs. Arrest and detention There is no
+    information available on the details of Mr. Alireza A. s arrest and
+    detention. Trial There is no information available on the details of the
+    session or sessions of Mr. Alireza A. s trial. Charges Mr. Alireza A. was
+    charged with storing and carrying narcotics. The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic authorities have brought trumped-up charges, including
+    drug trafficking, sexual, and other criminal offences, against their
+    opponents (including political, civil society activists, as well as
+    unionists and ethnic and religious minorities). Thousands of alleged drug
+    traffickers have been sentenced to death following judicial processes that
+    fail to meet international standards. Scores of them were executed based
+    on a 1989 law imposing mandatory death sentences on drug traffickers found
+    in possession of specified amounts of proscribed narcotics (5 kg of
+    hashish or opium, and more than 30 grams of heroin, codeine or methadone).
+    The exact number of people convicted based on trumped-up charges is
+    unknown. Evidence of guilt Possessing 753.8 kilograms of crystal was
+    entered as evidence of guilt against Mr. Alireza A. (Khabar-e Jonoub).
+    However, Javan daily reported the amount of crystal as 8.357 kilograms.
+    Defense There is no information available on the details of Mr. Alireza A.
+    s defense. Judgment Mr. Alireza A. was sentenced to death. He was hanged,
+    along with two other individuals, in Shahrud Police Central Command on
+    Thursday, November 16, 2006.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8248/alireza-a"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,53 @@
+id: labakhsh-bameri-2001-2
+name_latin: "Bameri Labakhsh"
+name_farsi: "بامری لابخش"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2001-01-01
+age_at_death: null
+place_of_death: "Iranshahr"
+province: "Sistan Va Baluchestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Labakhsh Bameri, son of Rasulbakhsh and known
+    as Dakali, along with another person, was published in the Ettela at
+    newspaper on October 29, 2001, quoting the Public Relations Office of the
+    Islamic Revolutionary Court of Iranshahr. Arrest and detention The
+    circumstances of Mr. Bameri s arrest and detention are not known. Trial
+    Branch One of the Islamic Revolutionary Court of Iranshahr tried Mr.
+    Bameri. No information is available on his trial. Charges The charges
+    brought against Mr. Bameri were announced as sedition, road-blocking,
+    armed robbery, and creating public insecurity in the area. The validity of
+    the criminal charges brought against this defendant cannot be ascertained
+    in the absence of the basic guarantees of a fair trial. International
+    human rights organizations have drawn attention to reports indicating that
+    the Islamic Republic authorities have brought trumped-up charges,
+    including drug trafficking, sexual, and other criminal offences, against
+    their opponents (including political, civil society activists, as well as
+    unionists and ethnic and religious minorities). Each year Iranian
+    authorities sentence to death hundreds of alleged common criminals,
+    following judicial processes that fail to meet international standards.
+    The exact number of people convicted and executed based on trumped-up
+    charges is unknown. Evidence of guilt The report of this execution did not
+    provide any specific information on the evidence presented against Mr.
+    Bameri. Defense No information is available on Mr. Bameri s defense.
+    Judgment The court condemned Mr. Labakhsh Bameri to death and the Supreme
+    Court confirmed the ruling. He was hanged in public in Iranshahr in
+    November of 2001. No specific date of execution is reported.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/74366/bameri-labakhsh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

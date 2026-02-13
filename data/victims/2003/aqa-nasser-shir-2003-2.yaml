@@ -1,0 +1,65 @@
+id: aqa-nasser-shir-2003-2
+name_latin: "Nasser Shir Aqa"
+name_farsi: "ناصر شیرآقا"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2003-01-01
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Naser Shir Aqa was published in the Iran
+    newspaper on September 9, 2003. Additional information regarding his
+    prosecution was taken from the Ettela at newspaper of November 20, 2001.
+    Arrest and detention The circumstances of Mr. Shir Aqa s arrest and
+    detention are not known. According to the Ettela at newspaper, without
+    mentioning the date of arrest, inspectors of the Intelligence Police in
+    Tehran were able to follow clues, identify, and arrest a group of thieves
+    and their collaborators. Trial Branch 15 of the Public Court of Tehran
+    tried Mr. Shir Aqa. No information is available on his trial. Charges
+    According to the Iran newspaper, the charges brought against Mr. Shir Aqa
+    and the other 30 members of this network were collectively announced as
+    stealing 12,796,758,000 Rials, $316,830, and 37.3 kilograms of gold from
+    180 victims. According to the Ettela at newspaper, these thieves and purse
+    snatchers entered a bank as a customers and identified individuals with
+    large sums of money and bank notes. Then they informed their collaborators
+    outside the bank by cell phone to follow, attack, and rob them at the
+    first opportunity. They also identified people who bought gold in Tehran
+    Bazar, followed and robbed them after puncturing their cars tires. The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    Evidence of guilt The evidence presented against Mr. Shir Aqa and other
+    members of the gang was their confession and the complaints by plaintiffs.
+    During the trial, several plaintiffs described how their belongings were
+    stolen. Some claimed that the robbers knew exactly where they kept their
+    money such as in which pocket. International human rights organizations
+    have repeatedly condemned the government of the Islamic Republic of Iran
+    for its systematic use of severe torture and solitary confinement to
+    obtain confessions from detainees and have questioned the authenticity of
+    confessions obtained under duress. Defense No information is available on
+    Mr. Shir Aqa s defense. Judgment The court identified Mr. Naser Shir Aqa
+    as Mohareb (fighter against God) and condemned him to death. He was hanged
+    in Tehran in September of 2003. The exact date of his execution is
+    unknown. According to the Iran newspaper, after the death penalty against
+    12 members of this gang was confirmed, their cases were referred to the
+    Sentence Enforcement of the Tehran Criminal Court to be carried out in
+    several months. However, they had not been carried out due to judicial
+    reasons and Mr. Shir Aqa was the first to be executed.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/73745/nasser-shir-aqa"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

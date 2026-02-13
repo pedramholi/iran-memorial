@@ -1,0 +1,68 @@
+id: rad-naimeh-1982-2
+name_latin: "Na'imeh Rad"
+name_farsi: "نعیمه راد"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: "https://www.iranrights.org/actorphotos/41719_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1982-01-01
+age_at_death: 24
+place_of_death: "Mashhad"
+province: "Khorasan\\Khorasan-e Razavi"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The information about Ms. Na’imeh Rad has been drawn from an interview
+    with a relative. She is also one of the 12028 individuals listed in an
+    addendum to the Mojahed magazine (No 261), published by Mojahedin Khalq
+    Organization in 1985. The list includes individuals, affiliated with
+    various opposition groups, who were executed or killed during clashes with
+    the Islamic Republic security forces from June 1981 to the publication
+    date of the magazine. In her childhood, Ms. Rad was a happy, mischievous,
+    and very smart child. Since then she was interested in medicine and would
+    visit the hospital, where her mother worked as a nurse. She helped the
+    nurses in the hospital and had gone to the operation room to observe the
+    surgery before even admitted to medical school. In university, she would
+    repeat her lessons to other after the class. Before the 1979 Revolution,
+    she became interested in the Mojahedin Khalq Organization and met Mohammad
+    Qobadpur, whom she married in 1981. They went underground the same year.
+    Her husband died in street armed clashes. Arrest and detention The
+    circumstances of Ms. Rad’s arrest and detention are not known. She wrote
+    letter to her mother even when she lived underground. When her mother
+    stopped receiving letter, she feared that Ms. Rad might have been
+    arrested. The authorities never officially announced her arrest to her
+    family, but they believe that she was arrested in 1982 in Mashad. Ms. Rad
+    was held incommunicado during her detention. Trial There is no information
+    regarding this trial. Charges The charges brought against the defendant
+    are not known. Evidence of guilt No information is available concerning
+    the evidence presented against the accused. Defense No information is
+    available concerning Ms. Rad’s defense. Judgment No specific information
+    is available about the verdict leading to this execution. Ms. Na’imeh Rad
+    was shot by a firing squad in Mashad in August/September 1982 ( Mojahed
+    magazine). The authorities never announced her execution to her family.
+    When Ms. Rad’s mother stopped receiving her letters, she started listening
+    to Mojahedin Khalq Organization’s radio broadcasting from Iraq to maybe
+    learn about Ms. Rad’s whereabouts. This radio announced her name among
+    other executed individuals in Mashad in 1982. Ms. Rad’s mother and brother
+    went to Mashad’s revolutionary guards’ building. They were given a sealed
+    envelope and told to go to the courthouse of the Islamic Revolutionary
+    Court. There, they found out that the letter inside the sealed envelope
+    said that Ms. Rad was executed. But the authorities refused to tell them
+    where her body was buried. Her mother and brother then went to the
+    cemetery, to the section where the executed persons were buried. After a
+    verbal fight with the cemetery guard, they forced him to look into the
+    registry and show them Ms. Rad’s burial location.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4970/naimeh-rad"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

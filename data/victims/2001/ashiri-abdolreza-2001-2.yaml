@@ -1,0 +1,42 @@
+id: ashiri-abdolreza-2001-2
+name_latin: "Abdolreza Ashiri"
+name_farsi: "عبدالرضا اشیری"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2001-08-17
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Abdolreza Ashiri, along with seven others,
+    was published in the Iran newspaper on July 19, 2001. Arrest and detention
+    The circumstances of Mr. Ashiri s arrest and detention are not known.
+    Trial Branch 1608 of the Criminal Court of Tehran tried Mr. Ashiri. No
+    information is available on his trial. Charges The charge brought against
+    Mr. Ashiri was announced as murder. According to the report, he had
+    committed the murder on March 14, 1999. The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. Evidence of guilt The
+    report of this execution did not provide any specific information on the
+    evidence presented against Mr. Ashiri. Defense No information is available
+    on Mr. Ashiri s defense. Judgment The court condemned Mr. Abdolreza Ashiri
+    to death. He was hanged at the Qasr Prison yard in Tehran on July 18,
+    2001.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/75184/abdolreza-ashiri"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

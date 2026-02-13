@@ -1,0 +1,54 @@
+id: homaiun-mohammad-reza-h-2007-2
+name_latin: "Mohammad Reza H. (Homaiun)"
+name_farsi: "محمدرضا ه. (همایون)"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2007-04-24
+age_at_death: 25
+place_of_death: "Marvdasht"
+province: "Fars"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Mohammad Reza H. (Homaiun) was published on
+    the websites of the Iran newspaper on April 15, ISNA (Iranian Students
+    News Agency) on April 24, and the Khabare Jonub newspaper on April 26,
+    2007. Arrest and Detention There is no specific information on the
+    defendant s arrest and detention. Trial This trial took place at the
+    Marvdasht Court House. No further information is available on Mr. Mohammad
+    Reza H. s trial. Charges The charge against Mr. Mohammad Reza H. was
+    announced as "murder." The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that Islamic Republic authorities
+    have brought trumped-up charges against their political opponents and
+    executed them for alleged drug trafficking, sexual, and other criminal
+    offences. Each year Iranian authorities sentence to death hundreds of
+    alleged common criminals, following judicial processes that fail to meet
+    international standards. The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of Guilt The report of this
+    execution did not provide specific information on the evidence presented
+    against the defendant. According to the Khabare Jonubnewspaper, the
+    defendant murdered a person with a knife in the village of Kushk on August
+    8, 2004, during a fight. Defense No information is available on Mr.
+    Mohammad Reza H. s 's defense. Judgment The court condemned Mr. Mohammad
+    Reza H. (Homaiun) to death and the ruling was confirmed by the Supreme
+    Court and the Head of the Judiciary. He was hanged in public in Sahlabad,
+    Marvdasht, on April 24, 2007. Mr. Mohammad Reza H. (Homaiun) was 25 years
+    old.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/73103/mohammad-reza-h-homaiun"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

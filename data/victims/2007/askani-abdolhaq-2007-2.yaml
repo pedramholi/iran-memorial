@@ -1,0 +1,52 @@
+id: askani-abdolhaq-2007-2
+name_latin: "Abdolhaq Askani"
+name_farsi: "عبدالحق آسکانی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2007-05-21
+age_at_death: null
+place_of_death: "Sistan Va Baluchestan Province"
+province: "Sistan Va Baluchestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Abdolhaq Askani, along with another person,
+    was published on the websites of the Fars news agency on May 22 and the
+    Jomhuri Eslami newspaper on May 24, 2007 quoting the Public Relations
+    Office of the Sistan and Baluchestan Provincial Court. Arrest and
+    Detention The circumstances of this defendant’s arrest and detention are
+    not known. Trial No information is available on the defendant’s trial.
+    Charges The charges against Mr. Abdolhaq Askani were announced as
+    "participation in several armed robberies and roadblocks." The validity of
+    the criminal charges brought against this defendant cannot be ascertained
+    in the absence of the basic guarantees of a fair trial. International
+    human rights organizations have drawn attention to reports indicating that
+    Islamic Republic authorities have brought trumped-up charges against their
+    political opponents and executed them for alleged drug trafficking,
+    sexual, and other criminal offences. Each year Iranian authorities
+    sentence to death hundreds of alleged common criminals, following judicial
+    processes that fail to meet international standards. The exact number of
+    people convicted based on trumped-up charges is unknown. Evidence of Guilt
+    The report of this execution does not contain information regarding the
+    evidence provided against the defendant. The Fars news agency report
+    indicated "proved guilty", but there is no reference to how or based on
+    what evidence the defendant had been proved guilty. Defense No information
+    is available on Mr. Askani's defence. Judgment The court condemned Mr.
+    Abdolhaq Askani to death and the Supreme Court confirmed the ruling. He
+    was hanged in public in Saravan on May 21, 2007.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/42277/abdolhaq-askani"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

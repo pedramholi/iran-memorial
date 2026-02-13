@@ -1,0 +1,58 @@
+id: safari-hassan-2006-2
+name_latin: "Hassan Safari"
+name_farsi: "حسن صفری"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2006-03-09
+age_at_death: null
+place_of_death: "Tabas"
+province: "Khorasan-e Jonubi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Hassan Safari was announced by the websites
+    of ISNA (March 14, 2005) and Yazd-e Farda (March 11, 2005). Additional
+    information on this case was obtained from Islamic Republic daily (May 16,
+    2001). Mr. Safari was married, and from Halvan Village near Tabas. His
+    case pertains to the murder of his father-in-law, in front of the
+    provincial Ministry of Justice office building of Tabas County, on May 12,
+    2001. Arrest and detention Mr. Safari was arrested by the people and the
+    police force in Tabas County in 2001. However, there is no information
+    available on the details of his arrest and detention. Trial Mr. Safari
+    went on trial in Khorasan Province. However, there is no information
+    available on the details of the session or sessions of his trial. Charges
+    Mr. Safari was charged with murder and injuring an individual. The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    International human rights organizations have drawn attention to reports
+    indicating that the Islamic Republic authorities have brought trumped-up
+    charges, including drug trafficking, sexual, and other criminal offences,
+    against their opponents (including political, civil society activists, as
+    well as unionists and ethnic and religious minorities). Each year Iranian
+    authorities sentence to death hundreds of alleged common criminals,
+    following judicial processes that fail to meet international standards.
+    The exact number of people convicted and executed based on trumped-up
+    charges is unknown. Evidence of guilt There is no information available on
+    the details of the evidence of guilt brought against Mr. Safari. Defense
+    There is no information available on the details of Mr. Safari s defense.
+    Judgment Mr. Hassan Safari was sentenced to death on the charge of murder
+    and to paying blood-money on the charge of injuring his (the victim s)
+    wife. The verdict was validated by the Supreme Court on September 22, 2002
+    and by the head of the Judiciary on February 6, 2005. Mr. Safari was
+    hanged in the Tabas County Penitentiary on Thursday, March 9, 2005.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/85193/hassan-safari"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

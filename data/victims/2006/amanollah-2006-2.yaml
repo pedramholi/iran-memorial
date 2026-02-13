@@ -1,0 +1,57 @@
+id: amanollah-2006-2
+name_latin: "Amanollah"
+name_farsi: "امان‌الله"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2006-12-29
+age_at_death: null
+place_of_death: "Saravan"
+province: "Sistan Va Baluchestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Amanollah (without stating his family name),
+    son of Adineh, was announced by Islamic Republic daily (December 30, 2006)
+    citing the Public and Islamic Revolutionary Prosecutor of Saravan County.
+    Mr. Amanollah s case pertains to possessing illegal firearms, armed
+    robbery and obstructing roads. Arrest and detention Mr. Amanollah was
+    arrested after he had obstructed the Ghafourabad-Kulu road in Saravan
+    County. However, there is no further information available on the details
+    of his arrest and detention. Trial Mr. Amanollah was tried by the Islamic
+    Revolutionary Court of Zahedan. However, there is no information available
+    on the details of the session or sessions of his trial. Charges Mr.
+    Amanollah was charged with armed robbery. Before his last arrest, he had
+    spent some time in prison and then obtained a furlough on bail, during
+    which he obstructed the Ghafourabad-Kulu road. The validity of the
+    criminal charges brought against this defendant cannot be ascertained in
+    the absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic authorities have brought trumped-up charges, including
+    drug trafficking, sexual, and other criminal offences, against their
+    opponents (including political, civil society activists, as well as
+    unionists and ethnic and religious minorities). Each year Iranian
+    authorities sentence to death hundreds of alleged common criminals,
+    following judicial processes that fail to meet international standards.
+    The exact number of people convicted and executed based on trumped-up
+    charges is unknown. Evidence of guilt Having criminal records was entered
+    as evidence of guilt against Mr. Amanollah. Defense There is no
+    information available on the details of Mr. Amanollah s defense. Judgment
+    Branch One of the Islamic Revolutionary Court of Zahedan sentenced Mr.
+    Amanollah to death. The verdict was validated by the Supreme Court. Mr.
+    Amanollah was publicly hanged in Saravan County on December 29, 2006.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/82878/amanollah"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

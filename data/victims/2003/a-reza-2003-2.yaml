@@ -1,0 +1,48 @@
+id: a-reza-2003-2
+name_latin: "Reza A."
+name_farsi: "رضا الف."
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Islam"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2003-10-24
+age_at_death: 31
+place_of_death: "Shiraz"
+province: "Fars"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Reza A., known as Reza Tork, was published in
+    the Jamejam newspaper on October 25, 2003. His case was related to the
+    murder of a criminal investigative officer in 2001. Arrest and detention
+    Mr. Reza A. was first arrested by agents of Branch Eight of the Judiciary
+    Police in Shiraz in 2001. While transferring to a clinic, he killed an
+    officer and escaped. However, after 11 days, police were able to arrest
+    him again during a special operation in Abadan. He was detained for two
+    years. The circumstances of his arrest and detention are not known. Trial
+    A court with a special judge tried Mr. Reza A. in several sessions in Fars
+    province. No information is available on his trial. Charges The charges
+    brought against Mr. Reza A. were announced as creating intimidation and
+    fear in the public, extortion, money forgery, transporting narcotics, and
+    murder. The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. Evidence of guilt The evidence presented against Mr. Reza A.
+    was having a criminal record. Defense No information is available on Mr.
+    Reza A. s defense. Judgment A court condemned Mr. Reza A. to death and the
+    Supreme Court confirmed the ruling. He was hanged in public in the
+    presence of the victim s family and police authorities at Golestan in
+    Shiraz on October 24, 2003.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/75686/reza-a"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

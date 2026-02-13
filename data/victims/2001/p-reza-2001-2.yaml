@@ -1,0 +1,51 @@
+id: p-reza-2001-2
+name_latin: "Reza P."
+name_farsi: "رضا پ."
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2001-01-01
+age_at_death: 22
+place_of_death: "Ahvaz"
+province: "Khuzestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Reza P., a conscript, was published in the
+    Kayhan newspaper on July 30, 2001. Arrest and detention The circumstances
+    of Mr. Reza P. s arrest and detention are not known. Trial Branch 13 of
+    the Public Court of Ahvaz tried Mr. Reza P. No information is available on
+    his trial. Charges The charge brought against Mr. Reza P. was announced as
+    murder. According to the report, planning to murder, he went to a friend s
+    house and murdered him by several blows of a knife. The validity of the
+    criminal charges brought against this defendant cannot be ascertained in
+    the absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic authorities have brought trumped-up charges, including
+    drug trafficking, sexual, and other criminal offences, against their
+    opponents (including political, civil society activists, as well as
+    unionists and ethnic and religious minorities). Each year Iranian
+    authorities sentence to death hundreds of alleged common criminals,
+    following judicial processes that fail to meet international standards.
+    The exact number of people convicted and executed based on trumped-up
+    charges is unknown. Evidence of guilt The report of this execution did not
+    provide any specific information on the evidence presented against Mr.
+    Reza P. Defense No information is available on Mr. Reza P s defense.
+    Judgment The court condemned Mr. Reza P. to death and the Supreme Court
+    confirmed the ruling. He was hanged in Ahvaz in July of 2001. The exact
+    date of this execution is unknown.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/74355/reza-p"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

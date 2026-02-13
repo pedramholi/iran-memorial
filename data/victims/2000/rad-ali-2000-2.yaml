@@ -1,0 +1,40 @@
+id: rad-ali-2000-2
+name_latin: "Ali Rad"
+name_farsi: "علی راد"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2000-06-14
+age_at_death: 27
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Ali Rad, along with three others, was
+    published in the Hamshahri newspaper on June 15, 2000. Arrest and
+    Detention There is no specific information on Mr. Rad s arrest and
+    detention. Trial The Public Court of Tehran investigated the case of Mr.
+    Ali Rad . No information is available on his trial. Charges The charge
+    against Mr. Rad was announced as "murder." According to the newspaper
+    report, he killed a friend, who had come to his house at Ariashahr,
+    seeking debt, with an iron bar, in early 1996. Evidence of Guilt The
+    report of this execution does not contain information regarding the
+    evidence provided against Mr. Rad. Defense No information is available on
+    Mr. Rad's defense. Judgment The court condemned Mr. Ali Rad to death. He
+    was hanged at the Qasr prison in Tehran on June 14, 2000.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/73061/ali-rad"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

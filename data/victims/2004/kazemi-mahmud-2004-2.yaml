@@ -1,0 +1,50 @@
+id: kazemi-mahmud-2004-2
+name_latin: "Mahmud Kazemi"
+name_farsi: "محمود کاظمی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2004-09-16
+age_at_death: 23
+place_of_death: "Dezful"
+province: "Khuzestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Mahmud Kazemi was reported in Iran Newspaper and
+    Kayhan Newspaper on September 18, 2004. His case has to do with two counts
+    of murder and armed robbery. Arrest and detention The circumstances of Mr.
+    Kazemi s arrest and detention are not known. Trial According to available
+    information, Mr. Kazemi was tried twice. However, no information is
+    available on his trial. Charges The charges brought against Mr. Kazemi
+    were two counts of murder, armed robbery, inciting fear and intimidation,
+    and highway robbery (Kayhan Newspaper).He was accused of shooting and
+    killing a man during a motorcycle theft in 2003 and also of killing the
+    driver of a Peykan. The validity of the criminal charges brought against
+    this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. Evidence of guilt The evidence against Mr.
+    Kazemi was his confession . During the proceedings leading up to his
+    trial, he confessed to also having killed the driver of a Paykan.
+    Subsequently, the implementation of the sentence was postponed.
+    International human rights organizations have repeatedly condemned the
+    government of the Islamic Republic of Iran for its systematic use of
+    severe torture and solitary confinement to obtain confessions from
+    detainees and have questioned the authenticity of confessions obtained
+    under duress. Defense No information is available on Mr. Kazemi s defense.
+    Judgment The court of the city of Dezful condemned Mr. Kazemi to death by
+    hanging. He was executed in Dezful on September 16, 2004.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8104/mahmud-kazemi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

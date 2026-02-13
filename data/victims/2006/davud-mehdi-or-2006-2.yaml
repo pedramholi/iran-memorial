@@ -1,0 +1,47 @@
+id: davud-mehdi-or-2006-2
+name_latin: "Mehdi or Davud"
+name_farsi: "مهدی‌ یا داوود"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2006-09-06
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Mehdi or Davud without stating his family
+    name along with another individual, was announced by the websites of Iran
+    Student Correspondents Association (Iscanews) and Iranian Students News
+    Agency (ISNA) on September 6, 2006. Mr. Mehdi or Davud was 21, and his
+    case pertains to a murder in Tehran on June 10, 2004. Arrest and Detention
+    There is no information available on the details of Mr. Mehdi or Davud s
+    arrest and detention. Trial Mr. Mehdi or Davud was tried by Branch 74 of
+    the Public Court of Tehran. However, there is no information available on
+    the details of the session or sessions of his trial. Charges Mr. Mehdi or
+    Davud was charged with murder. He had entered a fight with two people,
+    during which he attacked them with a knife. The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. Evidence of Guilt There
+    is no information available on the details of the evidence entered against
+    Mr. Mehdi or Davud. Defense There is no information available on the
+    details of Mr. Mehdi or Davud s defense. Judgment Branch 74 of the Public
+    Court of Tehran sentenced Mr. Mehdi or Davud to death. The verdict was
+    approved by Branch 27 of the Supreme Court. Mr. Mehdi or Davud was hanged
+    in the Evin Prison of Tehran on September 6, 2006.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/85113/mehdi-or-davud"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

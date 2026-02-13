@@ -1,0 +1,42 @@
+id: zohrehvand-reza-2000-2
+name_latin: "Reza Zohrehvand"
+name_farsi: "رضا زهره‌وند"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Islam"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2000-04-19
+age_at_death: 21
+place_of_death: "Khoramabad"
+province: "Lorestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Reza Zohrehvand, a resident of Malayer, was
+    published in the Hamshahri newspaper on April 20, 2000, and the Ettela at
+    newspaper on April 30, 2000. Arrest and Detention The circumstances of Mr.
+    Zohrehvand s arrest and detention, and whether he had an attorney, are not
+    known. Trial Branch 13 of the Public Court of Khorramabad investigated
+    this case. No information is available on Mr. Zohrehvand s trial. Charges
+    The charge against Mr. Zohrehvand was announced as "murder. According to
+    the Hamshahri newspaper, he had killed Aliasghar Sha ban by stabbing her
+    with a knife in 1999. Evidence of Guilt The report of this execution does
+    not contain information regarding the evidence provided against Mr.
+    Zohrehvand. Defense No information is available on Mr. Zohrehvand's
+    defense. Judgment The court condemned Mr. Reza Zohrehvand to death, and
+    the Supreme Court confirmed the ruling. He was hanged in public in
+    Khorramabad on April 19, 2000.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/73262/reza-zohrehvand"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

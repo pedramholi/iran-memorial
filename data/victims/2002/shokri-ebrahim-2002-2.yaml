@@ -1,0 +1,45 @@
+id: shokri-ebrahim-2002-2
+name_latin: "Ebrahim Shokri"
+name_farsi: "ابراهیم شکری"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2002-07-17
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Ebrahim Shokri, along with two others, was
+    published in the Iran newspaper on July 21, 2002. Arrest and detention The
+    circumstances of Mr. Shokri s arrest and detention are not known. Trial
+    Branch 1602 of the Criminal Court of Tehran tried Mr. Shokri. No
+    information is available on his trial. Charges The charge brought against
+    Mr. Shokri was announced as murder. He was accused of murdering a young
+    person during a fight. The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. Evidence of guilt The evidence presented
+    against Mr. Shokri as his own confession. International human rights
+    organizations have repeatedly condemned the government of the Islamic
+    Republic of Iran for its systematic use of severe torture and solitary
+    confinement to obtain confessions from detainees and have questioned the
+    authenticity of confessions obtained under duress. Defense No information
+    is available on Mr. Shokri s defense. Judgment Branch 1602 of the Criminal
+    Court of Tehran condemned Mr. Ebrahim Shokri to death. He was hanged at
+    the Qasr Prison yard on July 17, 2002.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/74199/ebrahim-shokri"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

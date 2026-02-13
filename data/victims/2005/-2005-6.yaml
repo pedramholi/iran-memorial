@@ -1,0 +1,57 @@
+id: -2005-6
+name_latin: null
+name_farsi: null
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2005-08-14
+age_at_death: null
+place_of_death: "Bandar Abbas"
+province: "Hormozgan"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The news of the execution of an unknown person was published in the Sharq
+    newspaper on August 16, 2005. According to this report, he was imprisoned
+    in Bandar-e Abbas prison for drug trafficking. Arrest and detention The
+    defendant was re-arrested when he and three other prisoners attempted to
+    escape from the prison. Trial No information is available on the
+    defendant’s trial. Charges The charge against the defendant is reported as
+    “murdering his collaborator during an escape attempt from the Bandar-e
+    Abbas prison.” The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. International human rights organizations have drawn
+    attention to reports indicating that the Islamic Republic’s authorities
+    have brought trumped-up charges against their political opponents and
+    executed them for drug trafficking, sexual, and other criminal offences.
+    Each year, Iranian authorities sentence to death hundreds of alleged
+    common criminals, following judicial processes that fail to meet
+    international standards. The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of guilt In July, 2004, the
+    defendant and three other prisoners attempted to escape. They injured the
+    Prison Guard and broke the prison gate lock. According to Sharq , “as they
+    tried to escape, they were forced back to the Guard’s Office by other
+    guards. Half an hour later they were surrounded in the room. Two of the
+    prisoners surrendered while the two others did not. One of the remaining
+    two asked the other to surrender. When he refused, the man asked to be
+    killed. Then the armed prisoner shot and killed his collaborator.” Defense
+    No information is available on his defense. Judgment No details are
+    available concerning this execution. According to the Sharq newspaper, the
+    defendant was condemned to death. The Supreme Court confirmed the ruling
+    and he was executed in the Bandar-e Abbas prison yard on August 16, 2005
+    at dawn.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/35858/name-unknown"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

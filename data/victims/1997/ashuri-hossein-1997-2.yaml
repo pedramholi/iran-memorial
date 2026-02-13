@@ -1,0 +1,47 @@
+id: ashuri-hossein-1997-2
+name_latin: "Hossein Ashuri"
+name_farsi: "حسین آشوری"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1997-01-01
+age_at_death: null
+place_of_death: "Qae'nat"
+province: "Khorasan\\Khorasan-e Razavi"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Mr. Hossein Ashuri and another person was announced in
+    the Kayhan newspaper on January 8, 1997. Arrest and Detention The
+    circumstances of this defendant’s arrest and detention are not known.
+    Trial No information is available on the defendant’s trial. Charges The
+    charges against Mr. Hossein Ashuri were announced as “kidnapping, torture,
+    harming children, and corruption.” The validity of the criminal charges
+    brought against this defendant cannot be ascertained in the absence of the
+    basic guarantees of a fair trial. International human rights organizations
+    have drawn attention to reports indicating that Islamic Republic
+    authorities have brought trumped-up charges against their political
+    opponents and executed them for alleged drug trafficking, sexual, and
+    other criminal offences. Each year Iranian authorities sentence to death
+    hundreds of alleged common criminals, following judicial processes that
+    fail to meet international standards. The exact number of people convicted
+    based on trumped-up charges is unknown. Evidence of Guilt The report of
+    this execution does not contain information regarding the evidence
+    provided against the defendant. Defense No information is available on Mr.
+    Ashuri’s defense. Judgment The court condemned Mr. Hossein Ashuri to death
+    and he was executed in public in Qa’enat (Southern Khorasan province).
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/39234/hossein-ashuri"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

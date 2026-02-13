@@ -1,0 +1,71 @@
+id: bakhtiari-mostafa-1981-2
+name_latin: "Mostafa Bakhtiari"
+name_farsi: "مصطفی بختیاری"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Non-Believer"
+photo: "https://www.iranrights.org/actorphotos/64150_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1981-10-27
+age_at_death: null
+place_of_death: "Mahabad"
+province: "Azarbaijan-e Gharbi"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    News of the execution of Mr. Mostafa Bakhtiari, along with three others,
+    was published in the Kayhan newspaper on October 28, 1981. Detailed
+    information about these defendants and their charges were stated in an
+    announcement by the News Unit of the Revolutionary Guards of Mahabad. Mr.
+    Mostafa Bakhtiari is one of the 430 individuals whose names appear on the
+    list of Martyrs of the Peykar Organization for the Liberation of the
+    Working Class published on the website of Andeesheh va Peykar. This list
+    contains the names of those members of the organization who died after the
+    revolution of 1979. More than 400 of the individuals on this list have
+    been executed. Mr. Mostafa Bakhtiari is one of the 12,028 individuals
+    listed in an addendum to the Mojahed magazine (No 261), published by the
+    Mojahedin Khalq Organization on September 6, 1985. The list includes
+    individuals, affiliated with various opposition groups, who were executed
+    or killed during clashes with the Islamic Republic security forces from
+    June 1981 to the publication date of the magazine. The Peykar Organization
+    for the Liberation of the Working Class was founded by a number of
+    dissident members of the Mojahedin Khalq Organization who had converted to
+    Marxism-Leninism. Peykar was also joined by a number of political
+    organizations, known as Khat-e Se (Third line). The founding tenets of
+    Peykar included the rejection of guerrilla struggle and a strong stand
+    against the pro-Soviet policies of the Iranian Tudeh Party. Peykar viewed
+    the Soviet Union as a "Social imperialist" state, believed that China had
+    deviated from the Marxist-Leninist principles, and radically opposed all
+    factions of the Islamic regime of Iran. The brutal repression of
+    dissidents by the Iranian government and splits within Peykar in 1981 and
+    1982 effectively dismantled the Organization and scattered its supporters.
+    By the mid-1980s, Peykar was no longer in existence. Arrest and detention
+    The circumstances of this defendant s arrest and detention are not known.
+    Trial No information is available on the defendant s trial. According to
+    the Kayhan report, the defendant was tried by the Islamic Revolutionary
+    Court of Mahabad. Charges The charges against Mr. Mostafa Bakhtiari were
+    announced as, "participation in eleven armed conflicts and the killing of
+    several people, including brothers from the Army and Revolutionary Guards,
+    and defenseless people." The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. Evidence of guilt The report of this execution
+    does not contain information regarding the evidence provided against the
+    defendant. The report only refers to the confessions of the defendant.
+    Defense No information is available on Mr. Mostafa Bakhtiari's defense.
+    Judgment Based on the ruling issued by the Islamic Revolutionary Court of
+    Mahabad, Mr. Mostafa Bakhtiari was executed in Mahabad on October 24, 1981
+    in the afternoon. No specific information is available about this
+    execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-5070/mostafa-bakhtiari"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

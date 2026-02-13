@@ -1,0 +1,58 @@
+id: habibi-mohammad-said-zabihollah-2007-2
+name_latin: "Mohammad Sa'id Zabihollah Habibi"
+name_farsi: "محمدسعید ذبیح‌الله حبیبی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2007-09-05
+age_at_death: null
+place_of_death: "Mashhad"
+province: "Khorasan\\Khorasan-e Razavi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Mohammad Sa id Zabihollah Habibi along with
+    sixteen others was published on the websites of the Aftab-e-Yazd and Iran
+    newspaper on September 6, ISNA (Iranian Students News Agency) on September
+    7, 2007, and the website of Iranian human rights activists in Europe and
+    North America in September 2007, quoting the Head of the Public Relations
+    Office of the Khorasan Razavi Prisons Office. In its announcement on
+    September 5, 2007, Amnesty International was appalled at the reports of
+    these executions in the Islamic Republic and demanded they be stopped.
+    Arrest and Detention There is no specific information on Mr. Zabihollah
+    Habibi s arrest and detention. Trial No information is available on Mr.
+    Zabihollah Habibi s trial. Charges The charges against Mr. Zabihollah
+    Habibi were announced as narcotics related . The validity of the criminal
+    charges brought against these defendants cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that
+    Islamic Republic authorities have brought trumped-up charges against their
+    political opponents and executed them for alleged drug trafficking,
+    sexual, and other criminal offences. Thousands of alleged drug traffickers
+    have been sentenced to death following judicial processes that fail to
+    meet international standards. Scores of them were executed based on a 1989
+    law imposing mandatory death sentences on drug traffickers found in
+    possession of specified amounts of proscribed narcotics (5 kg of hashish
+    or opium, and more than 30 grams of heroin, codeine or methadone). The
+    exact number of people convicted based on trumped-up charges is unknown.
+    Evidence of Guilt The report of these executions does not contain
+    information regarding the evidence provided against Mr. Zabihollah Habibi.
+    Defense No information is available on Mr. Zabihollah Habibi s defense.
+    Judgment The court announced Mr. Mohammad Sa id Zabihollah Habibi to be a
+    corruptor on the earth and sentenced her to death. (Aftab-e-Yazd) He was
+    hanged in the Mashhad central prison on September 5, 2007 at dawn.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7643/mohammad-said-zabihollah-habibi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

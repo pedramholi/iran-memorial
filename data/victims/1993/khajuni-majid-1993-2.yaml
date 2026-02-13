@@ -1,0 +1,34 @@
+id: khajuni-majid-1993-2
+name_latin: "Majid Khajuni"
+name_farsi: "مجید خواجونی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1993-04-20
+age_at_death: null
+place_of_death: "Sirjan"
+province: "Kerman"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    Biographical information and the process of law - including details on the
+    arrest, trial, charges, evidence, defense, and judgment - with regard to
+    Mr. Khajuni is being collected and processed by ABF research team. The
+    completed case will be published on this page upon completion. Sharing any
+    information you may have about him would help us prepare his case better
+    and faster. Thank you for your understanding and assistance.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/25110/majid-khajuni"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

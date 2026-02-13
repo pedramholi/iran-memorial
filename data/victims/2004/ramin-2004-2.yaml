@@ -1,0 +1,51 @@
+id: ramin-2004-2
+name_latin: "Ramin"
+name_farsi: "رامین"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2004-01-12
+age_at_death: null
+place_of_death: "Tehran Province"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The news of the execution of a man named Ramin was published on the
+    website of the Sharq newspaper on January 13, 2004. Arrest and detention
+    The circumstances of this defendant’s arrest and detention are not known.
+    Trial No information is available on the defendant’s trial. In the report
+    of this execution, it is not stated that the case had been referred to a
+    higher court. Charges The charge against the defendant was announced as
+    "murder". The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. International human rights organizations have drawn
+    attention to reports indicating that authorities of the Islamic Republic
+    have brought trumped-up charges against political opponents and executed
+    them for a variety of criminal offences. Each year, Iranian authorities
+    sentence hundreds of alleged common criminals to death, following judicial
+    processes that fail to meet international standards. The exact number of
+    people convicted based on trumped-up charges is unknown. Evidence of guilt
+    The report of this execution contains no evidence provided against the
+    defendant. According to the paper report, "the defendant had several
+    fights allegedly because of his love of his neighbor's daughter in 2000.
+    The neighbor was opposed to their marriage. Finally, one day when the
+    neighbor was trying to park his car in front of his house, the defendant
+    killed him." Defense No information is available on Mr. Ramin's defense.
+    Judgment Based on the court ruling, Mr. Ramin was hanged in Tehran on
+    January 12, 2004.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/37058/ramin"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

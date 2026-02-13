@@ -1,0 +1,28 @@
+id: baltaqi-saleh-mirhashemi-2023-2
+name_latin: "Saleh Mirhashemi Baltaqi"
+name_farsi: null
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: null
+photo: "https://www.iranrights.org/actorphotos/86488_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 2023-01-01
+age_at_death: null
+place_of_death: null
+province: null
+cause_of_death: "Hanging"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-9006/saleh-mirhashemi-baltaqi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,57 @@
+id: shaltuki-reza-1983-2
+name_latin: "Reza Shaltuki"
+name_farsi: "رضا شلتوکی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Non-Believer"
+photo: "https://www.iranrights.org/actorphotos/38289_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1983-11-20
+age_at_death: 57
+place_of_death: "Iran"
+province: null
+cause_of_death: "Execution » Death in custody"
+circumstances: >
+    The information about Mr. Reza Shaltuki is taken from the book The Tudeh
+    Martyrs by The Tudeh Party of Iran Publications. He was born in Kermanshah
+    in 1926. He became a member of the Youth Organization of the Tudeh Party
+    in 1945. After graduating from the Air Force Military College, he joined
+    the Tudeh Party. In 1954, he was arrested and imprisoned. In November,
+    1978, he was released from prison and began his activities as a member of
+    the Political Bureau of the Tudeh Party. The Tudeh Party of Iran was
+    created in 1941. The Tudeh Party ideology was Marxist-Leninist and it
+    supported the former Soviet Union's policies. The Party played a major
+    role in Iran's political scene until it was banned for the second time
+    following the August 19, 1953 coup. After the 1979 Revolution, the Party
+    declared Ayatollah Khomeini and the Islamic Republic regime
+    revolutionaries and anti-imperialists and actively supported the new
+    government. Although the Party never opposed the Islamic Republic, it
+    became the target of government attacks in 1982 when most of the Party's
+    leaders and members were imprisoned. Arrest and detention The
+    circumstances of details of his arrest and detention are not known. Mr.
+    Reza Shaltuki was arrested by the Revolutionary Guards on February 6,
+    1983. According to the above book, he was severely tortured. This source
+    quotes a witness saying: "He lost quite a lot of weight before he died."
+    Trial No information is available on the defendant’s trial. Charges No
+    information is available on Mr. Reza Shaltuki’s charges. The validity of
+    the criminal charges brought against this defendant cannot be ascertained
+    in the absence of the basic guarantees of a fair trial. Evidence of guilt
+    The report of this execution contains no evidence provided against the
+    defendant. Defense No information is available about the defendant’s
+    defense. Judgment According to the above book, Mr. Reza Shaltuki died on
+    November 20, 1983 while being tortured. No information is available about
+    a possible ruling against him.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/38289/reza-shaltuki"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

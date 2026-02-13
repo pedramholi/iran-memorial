@@ -1,0 +1,42 @@
+id: soleimani-ali-reza-2001-3
+name_latin: "Ali Reza Soleimani"
+name_farsi: "علیرضا سلیمانی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2001-07-18
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Ali Reza Soleimani, along with seven others,
+    was published in the Iran newspaper on July 19, 2001. Arrest and detention
+    The circumstances of Mr. Soleimani s arrest and detention are not known.
+    Trial Branch 1601 of the Criminal Court of Tehran tried Mr. Soleimani. No
+    information is available on his trial. Charges The charge brought against
+    Mr. Soleimani was announced as murder. According to the report, he had
+    murdered a man named Seyed Mahmud Kuroshi. The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. Evidence of guilt The
+    report of this execution did not provide any specific information on the
+    evidence presented against Mr. Soleimani. Defense No information is
+    available on Mr. Soleimani s defense. Judgment The court condemned Mr. Ali
+    Reza Soleimani to death. He was hanged at the Qasr Prison yard in Tehran
+    on July 18, 2001.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/75180/ali-reza-soleimani"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

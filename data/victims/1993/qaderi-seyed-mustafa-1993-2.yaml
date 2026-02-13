@@ -1,0 +1,34 @@
+id: qaderi-seyed-mustafa-1993-2
+name_latin: "Seyed Mustafa Qaderi"
+name_farsi: "سید مصطفی قادری"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Non-Believer"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1993-01-01
+age_at_death: null
+place_of_death: "Tabriz"
+province: "Azarbaijan-e Sharqi"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    Biographical information and the process of law - including details on the
+    arrest, trial, charges, evidence, defense, and judgment - with regard to
+    Mr. Qaderi is being collected and processed by ABF research team. The
+    completed case will be published on this page upon completion. Sharing any
+    information you may have about him would help us prepare his case better
+    and faster. Thank you for your understanding and assistance.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/25118/seyed-mustafa-qaderi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

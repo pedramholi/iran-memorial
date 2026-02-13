@@ -1,0 +1,48 @@
+id: parvandi-seyed-rajab-1989-2
+name_latin: "Seyed Rajab Parvandi"
+name_farsi: "سید رجب پروندی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1989-03-04
+age_at_death: null
+place_of_death: "Bijar"
+province: "Kordestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Seyed Rajab Parvandi was published in the
+    Jomhuri Eslami newspaper on March 5, 1989. Arrest and Detention The
+    circumstances of this defendant’s arrest and detention are not known.
+    Trial No information is available on the defendant’s trial. Charges The
+    charges against Mr. Seyed Rajab Parvandi were announced as “murdering his
+    wife and his brother-in-law.” The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that Islamic Republic authorities
+    have brought trumped-up charges against their political opponents and
+    executed them for alleged drug trafficking, sexual, and other criminal
+    offences. Each year Iranian authorities sentence to death hundreds of
+    alleged common criminals, following judicial processes that fail to meet
+    international standards. The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of Guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against the defendant. Defense No information is available on Mr.
+    Parvandi’s defense. Judgment Mr. Seyed Rajab Parvandi was hanged in the
+    presence of the Public Prosecutor of Bijar, victims’ families, and police
+    officers in Bijar (Kordestan province) on March 4, 1989.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/39823/seyed-rajab-parvandi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

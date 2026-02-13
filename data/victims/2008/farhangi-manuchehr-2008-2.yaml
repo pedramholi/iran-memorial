@@ -1,0 +1,28 @@
+id: farhangi-manuchehr-2008-2
+name_latin: "Manuchehr Farhangi"
+name_farsi: "منوچهر فرهنگی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Zoroastrianism"
+photo: "https://www.iranrights.org/actorphotos/84708_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 2008-03-19
+age_at_death: 83
+place_of_death: "La Moraleja District"
+province: null
+cause_of_death: "Extrajudicial Execution"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/84708/manuchehr-farhangi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

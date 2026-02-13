@@ -1,0 +1,63 @@
+id: akbari-akbar-2007-2
+name_latin: "Akbar Akbari"
+name_farsi: "اکبر اکبری"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Unknown"
+photo: "https://www.iranrights.org/actorphotos/72125_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 2007-07-07
+age_at_death: 23
+place_of_death: "Esfahan"
+province: "Esfahan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Akbar Akbari was published on the websites of
+    Fars News Agency on January 23, ISCA news on March 5, ISNA (Iranian
+    Students News Agency) on July 2, 3, the Mardomsalari newspaper on July 2,
+    the E temad Melli newspaper on July 7, the Iran newspaper on July 8, and
+    the Public and Revolutionary Prosecutor s Office of Esfahan on July 2, 4,
+    7, 11, 2007. Arrest and Detention According to the media reports, after
+    eight women complained and reported being raped by an unknown man in an
+    area under the jurisdiction of Police Station 23, the defendant s arrest
+    was ordered by the police in the greater Esfahan. They managed to arrest
+    the defendant two weeks later when he was about to enter into the next
+    victim s house. Trial No information is available on the defendant s
+    trial. This trial took place in Branch 16 of the Punitive Court of
+    Esfahan. Charges The charges against the defendant were announced as
+    "forceful entries to houses and rape." According to the media reports,
+    after the defendant identified lonely women, he would enter their homes
+    and forcefully raped them. The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that Islamic Republic authorities
+    have brought trumped-up charges against their political opponents and
+    executed them for alleged drug trafficking, sexual, and other criminal
+    offences. Each year Iranian authorities sentence to death hundreds of
+    alleged common criminals, following judicial processes that fail to meet
+    international standards. The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of Guilt The evidence provided
+    against the defendant was his confession and being identified by the
+    plaintiffs. According to the Judge of Branch 16 of the Appeal Court, rapes
+    were proven in two cases. Defense During the trial and in his defense, the
+    defendant stated, I watched pornographic movies and became excited and
+    then planned devilishly to enter women s houses in order to rape them.
+    Judgment The court condemned Mr. Akbar Akbari to death and the ruling was
+    confirmed by Branch 27 of the Supreme Court. The execution date was
+    postponed after a pardon request to the Pardon Commission. After the
+    request was denied by the Pardon Commission of Esfahan, the defendant was
+    hanged in the Central prison of Esfahan on July 7, 2007.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7197/akbar-akbari"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

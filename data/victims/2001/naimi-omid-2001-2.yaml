@@ -1,0 +1,51 @@
+id: naimi-omid-2001-2
+name_latin: "Omid Na'imi"
+name_farsi: "امید نعیمی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2001-04-18
+age_at_death: 18
+place_of_death: "Amol"
+province: "Mazandaran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Omid Na imi was published in the Jomhuri
+    Eslami newspaper on April 21, 2001. He was an 18-year-old man from the
+    Firuzkola village near Dashtsar in Amol, Mazandaran. His case was related
+    to the murder of a 17-year-old from his village during an argument in
+    January of 2000. Mr. Na imi was only 17 years old when the incident
+    occurred. International laws have strictly prohibited capital punishment
+    against those who were under the age of 18 at the time of committing the
+    crime. As a party to the Covenant on Civil and Political Rights and the
+    Convention on the Rights of the Child, Iran has the obligation to avoid
+    capital punishment for an offence committed before the age of eighteen.
+    Arrest and detention Mr. Na imi was arrested around January of 2000 and
+    detained for a year. The circumstances of his arrest and detention are not
+    known. Trial No information is available on Mr. Na imi s trial. Charges
+    The charge brought against Mr. Na imi was announced as murder. According
+    to the newspaper report, the motive for the murder was an argument. The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    Evidence of guilt The report of this execution did not provide any
+    specific information on the evidence presented against Mr. Na imi Defense
+    Mr. Na imi was younger than 18 when the crime was committed. No
+    information is available on his defense. Judgment A court condemned Mr.
+    Omid Na imi to death. He was hanged in Amol Central Prison on April 18,
+    2001. No specific information is available about this execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/74858/omid-naimi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

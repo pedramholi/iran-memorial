@@ -1,0 +1,56 @@
+id: ghaznaini-abdoljalil-2002-2
+name_latin: "Abdoljalil Ghaznaini"
+name_farsi: "عبدالجلیل غزنینی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam (Sunni)"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2002-03-11
+age_at_death: 31
+place_of_death: "Torbat-e Jam"
+province: "Khorasan\\Khorasan-e Razavi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News and information regarding the execution of Mr. Abdoljalil Ghaznaini,
+    son of Mohammad, was sent to Abdorrahman Boroumand Center via an
+    electronic form on December 19, 2019 by a person familiar with his case
+    (e-form 12/19/2019). The news of this execution along with two others, was
+    also published in the Khorasan newspaper on March 14, 2002. Mr. Ghaznaini
+    was born in Birjand in 1970. He had a highschool diploma, was married and
+    had three daughters. He was a wholesaler merchant and often travelled to
+    Afghanistan, Pakistan, and Dubai. (e-form 12/19/2019) Arrest and detention
+    Mr. Ghaznaini was arrested at 7 PM on a day in September 2001 in Torbat-e
+    Jam. (e-from 12/19/2019) Trial Branch 12 of the Islamic Revolutionary
+    Court of Mashhad tried Mr. Ghaznaini. (Khorasan 03/14/2002). Mr. Ghaznaini
+    s trial lasted three months in torbat-e Jam. (e-form 12/19/2019) Charges
+    The charge brought against Mr. Ghaznaini and two other defendants were
+    collectively announced as, bombing in front of Hotel Homa in Mashhad.
+    According to a court official, two of these defendants had also been
+    charged with murder. However, the names of these two individuals were not
+    mentioned. (Khorasan 03/14/2002) However, according to the electronic
+    form, the charges announced to Mr. Ghaznaini's family were drug related.
+    The validity of the criminal charges brought against this defendant cannot
+    be ascertained in the absence of the basic guarantees of a fair trial.
+    Evidence of guilt The report of this execution does not contain
+    information regarding the evidence provided against Mr. Ghaznaini. Defense
+    No information is available on Mr. Ghaznaini s defense. Judgment Branch 12
+    of the Islamic Revolutionary Court of Mashhad condemned Mr. Jalil
+    Ghaznaini to death and the Supreme Court confirmed the ruling. He was
+    executed, along with two others, at the police station in Torbat-e Jam,
+    Khorasan, on March 11, 2002, only about 6 months after his arrest. His
+    body was not released to his family. (e-form 12/19/2019)
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8466/abdoljalil-ghaznaini"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

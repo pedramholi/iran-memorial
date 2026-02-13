@@ -1,0 +1,44 @@
+id: javaherian-ahmad-1981-2
+name_latin: "Ahmad Javaherian"
+name_farsi: "احمد جواهریان"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: "https://www.iranrights.org/actorphotos/39131_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1981-07-15
+age_at_death: 42
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The information about Mr. Ahmad Javaherian has been sent to Omid by an
+    individual familiar with this case, through an electronic form. He is also
+    one of the 12028 individuals listed in an addendum to the Mojahed magazine
+    (No 261), published by Mojahedin Khalq Organization in 1985. The list
+    includes individuals, affiliated with various opposition groups, who were
+    executed or killed during clashes with the Islamic Republic security
+    forces from June 1981 to the publication date of the magazine. Mr.
+    Javaherian was a businessman. Arrest and detention The circumstances of
+    this defendant’s arrest and detention are not known. Trial No information
+    is available on the defendant’s trial. Charges The charge brought against
+    Mr. Javaherian is not known. Evidence of guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against the defendant. Defense No information is available on Mr.
+    Javaherian’s defense. Judgment The details of the verdict leading to this
+    execution are not known. Mr. Ahmad Javaherian was shot by a firing squad
+    in Tehran on July 15, 1981.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4995/ahmad-javaherian"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

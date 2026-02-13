@@ -1,0 +1,65 @@
+id: qodsimaab-maryam-1981-2
+name_latin: "Maryam Qodsima'ab"
+name_farsi: "مریم قدسی مآب"
+date_of_birth: null
+place_of_birth: null
+gender: female
+ethnicity: null
+religion: "Islam"
+photo: "https://www.iranrights.org/actorphotos/35904_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1981-10-06
+age_at_death: 16
+place_of_death: "Ahvaz"
+province: "Khuzestan"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The information about the execution of Ms. Mariam Qodsima ab, known as
+    Fariba, was released in a communique issued by Ahvaz Revolutionary
+    Tribunal and published in the Jomhuri Eslami and the Kayhan newspapers on
+    October 8, 1981. This execution was also reported in an addendum to the
+    Mojahed magazine (No 261), published by Mojahedin Khalq Organization (MKO)
+    in 1985. The list includes 12028 individuals, affiliated with various
+    opposition groups, who were executed or killed during clashes with the
+    Islamic Republic security forces from June 1981 to the publication date of
+    the magazine. Further information about Ms. Qodsima ab was sent to Omid
+    via an electronic form by a person familiar with this case. According to
+    this form, Ms. Qodsima ab is remembered as being a devoted student, very
+    bright and studious. According to the MKO website, Ms. Qodsima ab was born
+    in Ahvaz. During her high school years she became a MKO sympathizer. She
+    began her political activities when she was only thirteen years old during
+    the 1979 Revolution. She entered the MKO Operational Teams when she was
+    sixteen years old. She was arrested and released three times. Arrest and
+    detention There is no specific information on the defendant s arrest and
+    detention. According to the MKO website, Ms. Qodsima ab was arrested in
+    Ahvaz on September 25, 1981, and tortured severely. Torture marks were
+    evident all over her body including her forehead, left eye, face, and even
+    the skin under her nails. Her family tried hard to get her body back.
+    Trial No information is available on the defendant s trial. Charges Ms.
+    Mariam Qodsima ab and 5 other individuals were collective charged with
+    armed insurrection against the Islamic Republic, participation in street
+    demonstration and clashes with the security forces, participation in
+    terrorist operations and bombings, participating in team houses,
+    approbation of the strategy of armed insurrection, participation in the
+    implementation of the terrorist attempt against Musavi Jazaeri, the Friday
+    Imam of Ahvaz ( Kayhan ). The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. Evidence of guilt The report of this execution
+    does not contain information regarding the evidence provided against the
+    defendant. Defense No information is available on Ms. Mariam Qodsima ab s
+    defense. Judgment No specific information is available about the verdict
+    leading to this execution. According to Jomhuri Eslami , the Revolutionary
+    Court of Ahvaz condemned Ms. Qodsima ab to death. She was executed on
+    October 6, 1981 at dawn.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-3452/maryam-qodsimaab"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

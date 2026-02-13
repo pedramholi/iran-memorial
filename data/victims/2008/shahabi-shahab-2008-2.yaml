@@ -1,0 +1,28 @@
+id: shahabi-shahab-2008-2
+name_latin: "Shahab Shahabi"
+name_farsi: "شهاب شهابی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2008-11-17
+age_at_death: null
+place_of_death: "Shahr-e Kord"
+province: "Chaharmahal Va-Bakhtiari"
+cause_of_death: "Execution » Hanging"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/81311/shahab-shahabi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

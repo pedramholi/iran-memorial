@@ -963,6 +963,8 @@ def cmd_import_new(args):
             with open(cache_file) as f:
                 detail = json.load(f)
             cached_count += 1
+        elif getattr(args, 'cache_only', False):
+            continue  # --cache-only: skip entries without cached detail
         else:
             en_html = fetch(DETAIL_URL.format(id=bid, slug=entry['slug']))
             delay()
@@ -1079,6 +1081,7 @@ def main():
     i.add_argument("--limit", type=int, help="Max entries to process")
     i.add_argument("--dry-run", action="store_true", help="Don't write files")
     i.add_argument("--resume", action="store_true", help="Resume from last progress")
+    i.add_argument("--cache-only", action="store_true", help="Only process entries with cached details (skip fetching)")
 
     args = p.parse_args()
 

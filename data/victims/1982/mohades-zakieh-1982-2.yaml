@@ -1,0 +1,61 @@
+id: mohades-zakieh-1982-2
+name_latin: "Zakieh Mohades"
+name_farsi: "زکیه محدث"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: "https://www.iranrights.org/actorphotos/21519_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1982-01-01
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Ms. Zakieh Mohades, along with 18 others, was announced
+    in a communiqué from the public relations officer of the Central
+    Headquarters of the Islamic Revolutionary Guards Corps and the Chief Publc
+    Prosecutor of the Islamic Revolution. The communiqué was published in the
+    Jomhuri Eslami Daily on May 5,1982. Part of the official communique reads
+    as follows: "In the Name of the Destroyer of the Oppressors With Salutes
+    to the warriors of Islam who fight with blasphemy, the army that
+    selflessly combats the manifestations of blasphemy and corruption in the
+    war fronts, seeking the path of liberation of the beloved Qods [Jeruslum].
+    The Ummah [community] of Hizbollah [Party of God] following the
+    announcement #1 of the Islamic Revolutionary Guards Corps, published on
+    Ordibehesht, 12th [May 2] struck severe blows against the world oppressors
+    and their mercenaries and agents of Imperialism and Zionism such as
+    Banisadr, Rajavi and Qasemlu –the agents of Imperialism and Zionism-
+    filling them with despair and anguish. We hereby inform you of another
+    severe blow by the guardians of the Islamic Revolution over the
+    reactionary, terrorist organization of the hypocrites." Arrest and
+    detention The circumstances of this defendant’s arrest and detention are
+    not known. Trial No information is available on the defendant’s trial.
+    Charges According to the above mentioned communiqué, Ms. Mohades was
+    charged with being “an active member of the educational center of the MKO
+    [or Mujahedin-e Khalq Organization], and the spouse of the executed Hamid
+    Jalal Zadeh, member of the MKO central committee”. She was also charged
+    with “intending to bomb public places, using a considerable number of
+    bombs, hand grenades, and explosives to cause terror in the detested
+    monarchists’ fashion.” Evidence of guilt The communiqué refers to the
+    discovery of explosives and documents but provides no details regarding
+    the evidence provided against the defendant. Defense No information is
+    available on Ms. Mohades’s defense. Judgment According to the public
+    relations office of the Central Headquarters of the Islamic Revolutionary
+    Guards Corps and the Chief Publc Prosecutor of the Islamic Revolution, Ms.
+    Mohades was “punished by divine wrath.” This communiqué does not provide
+    any information regarding the tribunal which issued the death sentence.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-3461/zakieh-mohades"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

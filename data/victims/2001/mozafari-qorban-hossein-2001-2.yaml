@@ -1,0 +1,49 @@
+id: mozafari-qorban-hossein-2001-2
+name_latin: "Qorban Hossein Mozafari"
+name_farsi: "قربان‌‌حسین مظفری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2001-08-29
+age_at_death: 26
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Qorban-Hossein Mozafari, known as Hossein
+    Qompoz, was published in the Hamshahri newspaper on August 30, 2001, and
+    in the Iran newspaper on August 29 and August 30, 2001. Arrest and
+    Detention According to the Iran newspaper, Mr. Mozafari escaped after
+    committing the murder; however, police arrested him. He was detained at
+    Qasr Prison. No further information is available regarding the
+    circumstances of his arrest and detention. Trial No information is
+    available on Mr. Mozafari s trial. Branch 1608 of the Tehran Criminal
+    Court investigated this case. Charges The charge against Mr. Mozafari was
+    announced as "murder." According to the Iran newspaper, he had a fight
+    with a young man named Reza at the Nezamabad Quarter, in Tehran, on
+    September 29, 2000, during which he injured Reza with cuts of a knife.
+    Minutes later, neighbors took Reza to a hospital in Nezamabad. While
+    nurses were attending him, Hossein Qompoz [Mr. Mozafari] arrived at his
+    bedside and stabbed him to death. Evidence of Guilt According to the Iran
+    newspaper, Mr. Mozafari confessed to committing the murder during his
+    interrogations and in front of the judge. Defense No information is
+    available concerning Mr. Mozafari s defense. Judgment The court condemned
+    Mr. Qorban-Hossein Mozzafari to death, and the Supreme Court confirmed the
+    ruling. He was hanged in public at Masil Ebrahimabad Street in Resalat
+    Quarter in Tehran on August 29, 2001.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7489/qorban-hossein-mozafari"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

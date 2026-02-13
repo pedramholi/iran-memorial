@@ -1,0 +1,46 @@
+id: manafi-hamid-2002-2
+name_latin: "Hamid Manafi"
+name_farsi: "حمید منافی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2002-01-01
+age_at_death: 43
+place_of_death: "Karaj"
+province: "Alborz"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Hamid Manafi was published in the Ettela at
+    newspaper on January 19, 2002. Arrest and Detention The Intelligence
+    Office Agents at a city in northern Iran arrested Mr. Manafi a few months
+    after he committed the crime and escaped. There is no specific information
+    on his arrest and detention. Trial A branch of the Public Court of Karaj
+    tried Mr. Manafi. No information is available on his trial. Charges
+    According to the Ettela at newspaper, the charge against Mr. Manafi was
+    announced as "murder." According to this report, Mr. Manafi had killed a
+    thirty-two-year-old man by inflicting two bullet wounds, and dropped his
+    body in a garden well in Mehrshahr. The validity of the criminal charges
+    brought against this defendant cannot be ascertained in the absence of the
+    basic guarantees of a fair trial. Evidence of Guilt The report of this
+    execution did not provide any specific information on the evidence
+    presented against Mr. Manafi. Defense No information is available on Mr.
+    Manafi's defense. Judgment A branch of the Public Court of Karaj condemned
+    Mr. Hamid Manafi to death and the Supreme Court confirmed the ruling. He
+    was hanged in public at the crime scene in Mehrshahr, Karaj. The exact
+    date of this execution is unknown.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/76160/hamid-manafi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

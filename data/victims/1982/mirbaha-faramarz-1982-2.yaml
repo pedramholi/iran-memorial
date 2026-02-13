@@ -1,0 +1,52 @@
+id: mirbaha-faramarz-1982-2
+name_latin: "Faramarz Mirbaha"
+name_farsi: "فرامرز میربها"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Non-Believer"
+photo: "https://www.iranrights.org/actorphotos/36186_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1982-01-29
+age_at_death: 29
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The information about Mr. Faramarz Mirbaha is taken from the book Our
+    Martyrs in the Path to Freedom , copyright 1988 by Rah-e Kargar
+    Publications. He was born in Zanjan and was an engineer having graduated
+    from the Tehran Science and Technology College. He joined the
+    Revolutionary Workers Organization of Iran-Rah-e Kargar in 1979. "Rah-e
+    Kargar" or the "Revolutionary Workers Organization of Iran" was
+    established in the summer of 1979. The Organization was founded by
+    individuals from various leftist groups who rejected the idea of armed
+    struggle and believed in political action. They identified themselves as
+    Marxist-Leninists, promoting a socialist revolution and the leadership of
+    the proletariat. They differed with the pro-Soviet communist party, Tudeh,
+    in that they opposed the Islamic Republic and Ayatollah Khomeini's
+    leadership. Arrest and detention The circumstances of this defendant’s
+    arrest and detention are unknown. According to the book, members of his
+    college’s Islamic Association identified Mr. Mirbaha in September 1981. He
+    was arrested and taken to the Evin Prison, section 3000. During the few
+    months before his execution, no one had any news of him. Trial No
+    information is available on the defendant’s trial. Charges No information
+    is available on Mr. Mirbaha’s charges. Evidence of guilt The report of
+    this execution contains no evidence provided against the defendant.
+    Defence No information is available about the defendant’s defence.
+    Judgment No specific information is available about the defendant’s
+    execution. According to the book, Mr. Mirbaha was executed by a firing
+    squad in the Evin Prison on January 29, 1982.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/36186/faramarz-mirbaha"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

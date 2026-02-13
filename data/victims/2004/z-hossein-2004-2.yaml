@@ -1,0 +1,47 @@
+id: z-hossein-2004-2
+name_latin: "Hossein Z."
+name_farsi: "حسین ز."
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2004-08-09
+age_at_death: null
+place_of_death: "Shabankareh"
+province: "Bushehr"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Hossein Z. was reported by Ettela at Newspaper,
+    Kayhan Newspaper, and Iran Newspaper (August 10, 2004). He was from
+    Samirom in Isfahan Province. His case has to do with the murder of a
+    member of a tribal group from Isfahan Province in March of 2002 in the
+    mountainous areas of Bushehr Province. Arrest and detention The
+    circumstances of Mr. Hossein Z. s arrest and detention are not known.
+    Trial The court of Shabankareh County, located near the town of Dashtestan
+    in Bushehr Province, tried Mr. Hossein Z. No information is available on
+    his trial. Charges The charge brought against Mr. Hossein Z. was murder .
+    According to available information, he murdered the victim with a knife.
+    The validity of the criminal charges brought against this defendant cannot
+    be ascertained in the absence of the basic guarantees of a fair trial.
+    Evidence of guilt The report of this execution does not contain
+    information regarding the evidence providedagainst Mr. Hossein Z. Defense
+    No information is available on Mr. Hossein Z. s defense. Judgment The
+    Shabankareh County Court sentenced Mr. Hossein Z. to death by hanging and
+    75 lashes. This sentence was approved by Branch 27 of the Supreme Court.
+    He was executed on August 9, 2004, in Shabankareh County. No information
+    is available regarding the implementation of the lashing sentence.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8105/hossein-z"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

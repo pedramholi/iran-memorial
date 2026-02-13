@@ -1,0 +1,28 @@
+id: hakim-mohammad-asef-ostad-2007-2
+name_latin: "Mohammad Asef Ostad Hakim"
+name_farsi: "محمد آصف استاد حکیم"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2007-06-15
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/82620/mohammad-asef-ostad-hakim"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

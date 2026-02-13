@@ -1,0 +1,34 @@
+id: shirafkan-kazem-1990-2
+name_latin: "Kazem Shirafkan"
+name_farsi: "کاظم شیرافکن"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1990-01-01
+age_at_death: 17
+place_of_death: "Iran"
+province: null
+cause_of_death: "Fatal"
+circumstances: >
+    The execution of Kazem Shirafkan is reported in a 2002 Amnesty
+    International's report entitled: "Children and the Death Penalty:
+    Executions worldwide since 1990". Kazem Shirafkan, who was convicted of
+    murder, was 17 at the time of execution. No information is available on
+    the circumstances of the trial, the evidence presented against the
+    defendant, and the latter's defense.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-3234/kazem-shirafkan"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,31 @@
+id: farvashi-roqieh-1985-2
+name_latin: "Roqieh Farvashi"
+name_farsi: "رقیه فروشی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: "https://www.iranrights.org/actorphotos/31469_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1985-01-28
+age_at_death: null
+place_of_death: "Mashhad"
+province: "Khorasan\\Khorasan-e Razavi"
+cause_of_death: "Fatal"
+circumstances: >
+    Information collected regarding Ms. Roqieh Farvashi is being processed and
+    will soon be published. If you have any information about Ms. Farvashi,
+    please help us complete her story by clicking here .
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/31469/roqieh-farvashi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

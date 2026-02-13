@@ -1,0 +1,56 @@
+id: mesbah-fatemeh-1981-2
+name_latin: "Fatemeh Mesbah"
+name_farsi: "فاطمه مصباح"
+date_of_birth: null
+place_of_birth: null
+gender: female
+ethnicity: null
+religion: "Islam (Shi'a)"
+photo: "https://www.iranrights.org/actorphotos/21611_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1981-09-19
+age_at_death: 13
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The information about the execution of Ms. Fatemeh Mesbah, a follower of
+    the Mojahedin Khalq Organization, and 80 other individuals was released in
+    a communiqué of the Central Islamic Revolutionary Tribunal, published in
+    the newspaper Kayhan , September 20, 1981. Moreover, Ms. Mesbah is also
+    one of the 1533 executed prisoners listed by the Association of Iranian
+    Women of Köln (Germany). The list published in 1997 is entitled: "A
+    partial list of names of women executed by the Islamic Republic of Iran.
+    This execution was also reported in an addendum to the Mojahed magazine
+    (No 261), published by Mojahedin Khalq Organization in 1985. The list
+    includes 12028 individuals, affiliated with various opposition groups, who
+    were executed or killed during clashes with the Islamic Republic security
+    forces from June 1981 to the publication date of the magazine. Further
+    information about Ms. Mesbah is taken from the MKO website. She was a high
+    school student and a MKO sympathizer. Her parents and five siblings were
+    also killed by the Islamic regime's agents in 1981 and 1982. Arrest and
+    detention There is no specific information on the defendant’s arrest and
+    detention. Ms. Mesbah was arrested during a street demonstration on
+    September 16, 1981. Trial No information is available on the defendant’s
+    trial. Charges There are no specific charges mentioned by the Public
+    Prosecutor’s communiqué for Ms. Mesbah. The Kayhan newspaper mentions that
+    all 81 defendants were charged with “anti-Islamic activities.” The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    Evidence of guilt The report of this execution contains no evidence
+    provided against the defendant. Defence No information is available on Ms.
+    Mesbah's defence. Judgment No specific information is available about this
+    execution. Ms. Mesbah was executed three days after her arrest on
+    September 19, 1981 at the Evin Prison.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4096/fatemeh-mesbah"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

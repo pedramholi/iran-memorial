@@ -1,0 +1,61 @@
+id: a-gholam-reza-2004-2
+name_latin: "Gholam Reza A."
+name_farsi: "غلام‌رضا الف."
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2004-08-19
+age_at_death: null
+place_of_death: "Kerman"
+province: "Kerman"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Gholam Reza A., alias Hossein Nasaki, along
+    with two other people, was reported in Jomhuri-ye Islami Newspaper citing
+    the Public Relations Office of the Ministry of Justice of the Province of
+    Kerman (September 21, 2004). His case has to do with drug smuggling and
+    threatening public security in the area of Golbaf and Kerman. Arrest and
+    detention Mr. Gholam Reza A. was arrested in 2002. According to the
+    report, he was arrested after two altercations and evading police in the
+    area of Golbaf and Kerman. He spent three years in jail. However, the
+    details of his arrest and detention are not known. Trial The Revolutionary
+    Court of Kerman tried Mr. Gholam Reza A. No information is available on
+    his trial. Charges The charges brought against Mr. Gholam Reza A. were
+    smuggling drugs, arms, alcoholic beverages, and threatening public
+    security in the area of Golbaf and Kerman . The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic authorities have brought trumped-up charges, including
+    drug trafficking, sexual, and other criminal offences, against their
+    opponents (including political, civil society activists, as well as
+    unionists and ethnic and religious minorities). Thousands of alleged drug
+    traffickers have been sentenced to death following judicial processes that
+    fail to meet international standards. Scores of them were executed based
+    on a 1989 law imposing mandatory death sentences on drug traffickers found
+    in possession of specified amounts of proscribed narcotics (5 kg of
+    hashish or opium, and more than 30 grams of heroin, codeine or methadone).
+    The exact number of people convicted based on trumped-up charges is
+    unknown. Evidence of guilt The report of this execution does not contain
+    information regarding the evidence providedagainst the defendant. Defense
+    No information is available on Mr. Gholam Reza A. s defense. Judgment The
+    Revolutionary Court of Kerman sentenced Mr. Gholam Reza A. to death by
+    hanging. This sentence was approved by the Supreme Court. He was executed,
+    along with two other people, on August 19, 2004. The public hanging took
+    place at the Haft Bagh Square in Kerman.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8099/gholam-reza-a"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

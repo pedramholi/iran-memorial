@@ -1,0 +1,45 @@
+id: aslani-ali-kazem-2001-2
+name_latin: "Ali Kazem Aslani"
+name_farsi: "علی‌کاظم اصلانی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2001-03-19
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    News of the execution of Mr. Ali-Kazem Aslani, along with four others, was
+    published in the Hamshahri newspaper on March 24 and in the Iran newspaper
+    on March 27, 2001. Arrest and Detention There is no specific information
+    concerning Mr. Aslani s arrest and detention. According to media reports,
+    the security forces and other related organizations carried out an
+    operation at the Khak Sefid area in Tehranpars and arrested 500 men and
+    women. The date of this operation was reportedly either February 22, or
+    February 25, 2001. Trial No information is available in regard to Mr.
+    Aslani s trial. Branch 27 of the Islamic Revolutionary Court of Tehran
+    investigated this case, referred to as Mahaleh-Jazireh, (Island Quarter).
+    Charges The charges against Mr. Ali-Kazem Aslani were announced as
+    "addiction to heroin and supplying and distributing over two kilograms of
+    heroin." Evidence of Guilt The report of this execution does not contain
+    information regarding the evidence provided against Mr. Aslani. Defense No
+    information is available regarding Mr. Aslani s defense. Judgment The
+    court condemned Mr. Ali-Kazem Aslani to death. He was executed in public
+    at the Khak Sefid area in Tehranpars on March 19, 2001.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7488/ali-kazem-aslani"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

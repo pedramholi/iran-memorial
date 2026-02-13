@@ -1,0 +1,61 @@
+id: mohammadi-mehran-2002-2
+name_latin: "Mehran Mohammadi"
+name_farsi: "مهران محمدی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2002-07-03
+age_at_death: 35
+place_of_death: "Azadi (Darvazeh Shiraz) Square"
+province: "Esfahan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Mehrab Mohammadi, also known as Mehran Reza
+    i, along with another person, was published in the Jomhuri-Eslami
+    newspaper on July 7, 2002, and in the Kayhan newspaper on July 4, 2002.
+    Additional information was taken from two electronic forms sent to Omid by
+    a person close to him. According to these forms, Mr. Mehrab Mohammadi, son
+    of Reza Qoli, was born in Kazerun in 1967. He was married, a high school
+    graduate, and a professional. He was a humanist and defender of human
+    rights. According to the newspaper reports, Mr. Mohammadi pretended to be
+    a police officer by wearing the uniform, created roadblocks, and committed
+    armed robbery. Arrest and detention According to the electronic forms, Mr.
+    Mohammadi was arrested in Shiraz on September 30, 2001 at 10 a.m. He was
+    transferred to the Intelligence Office detention center in Esfahan where
+    he was interrogated and detained. He was denied access to an attorney and
+    in spite of his stomach illness, could not visit a physician. Trial Branch
+    Two of the Islamic Revolutionary Court in Esfahan tried Mr. Mohammadi in
+    2001. No information is available on his trial. Charges According to the
+    newspaper reports, the charges brought against Mr. Mohammadi were
+    announced as addiction, armed robbery, sedition, assault and battery,
+    intentional assault and battery, piracy, shooting at officers and victims,
+    and using a military uniform. However, according to the electronic forms,
+    his charges were Moharebeh [fighting against God] and propaganda against
+    the regime. The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. Evidence of guilt The report of this execution did not
+    provide any specific information on the evidence presented against Mr.
+    Mohammadi. Defense No information is available on Mr. Mohammadi s defense.
+    According to one electronic form, an attorney was forced not to defend
+    him. Judgment Branch Two of the Islamic Revolutionary Court in Esfahan
+    identified Mr. Mehrab Mohammadi as Mohareb [fighter] against God and the
+    Prophet and Mofsed [corruptor on Earth], and condemned him to death. The
+    Supreme Court confirmed the ruling. He was hanged in public at the
+    Darvazeh-Shiraz Square in Esfahan on July 3, 2002 in the evening. His body
+    was buried in Dalorahma Cemetery in Shiraz.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7661/mehran-mohammadi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

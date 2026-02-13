@@ -1,0 +1,49 @@
+id: mohammadalian-majid-2002-2
+name_latin: "Majid Mohammad'alian"
+name_farsi: "مجید محمدعلیان"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2002-10-16
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Majid Mohammad alian, along with a woman and
+    two men, was published in the Iran newspaper on October 17, 2002.
+    Additional information regarding his arrest and prosecution was taken from
+    the Ettela at and Iran newspapers on March 11, 2002. Arrest and detention
+    Mr. Mohammad alian was arrested by police agents of the Azadegan Police
+    Station located on Saveh Road. He was detained for about 7 months. Trial
+    Mr. Mohammad alian was tried on March 10, 2002. No information is
+    available on his trial. Charges The charge brought against Mr. Mohammad
+    alian was announced as murder. The validity of the criminal charges
+    brought against this defendant cannot be ascertained in the absence of the
+    basic guarantees of a fair trial. Evidence of guilt The evidence presented
+    against Mr. Mohammad alian was his confession to murder during the
+    interrogation and the recovery of the victim s burned body on July 24,
+    2001 when the incident occurred. International human rights organizations
+    have repeatedly condemned the government of the Islamic Republic of Iran
+    for its systematic use of severe torture and solitary confinement to
+    obtain confessions from detainees and have questioned the authenticity of
+    confessions obtained under duress. Defense No information is available on
+    Mr. Mohammad alian s defense. Judgment Mr. Majid Mohammad alian was
+    condemned to death. He was hanged at the Qasr Prison yard in Tehran on
+    October 16, 2002.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/74226/majid-mohammadalian"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

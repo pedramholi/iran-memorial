@@ -1,0 +1,56 @@
+id: mohammadian-aziz-qoli-1981-2
+name_latin: "Aziz Qoli Mohammadian"
+name_farsi: "عزیزقلی محمدیان"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: "https://www.iranrights.org/actorphotos/36947_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1981-11-01
+age_at_death: 44
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    Mr. Aziz Qoli Mohammadian is one of the 12028 individuals listed in an
+    addendum to the Mojahed magazine (No 261), published by Mojahedin Khalq
+    Organization in 1985. The list includes individuals, affiliated with
+    various opposition groups, who were executed or killed during clashes with
+    the Islamic Republic security forces from June 1981 to the publication
+    date of the magazine. Further information was sent to Omid via an
+    electronic form by a person familiar with this case. Mr. Mohammadian was
+    an electrical engineer and a father of four. He was one of the followers
+    of Dr. Shapur Bakhtiar. The latter was a lawyer and pro-democracy
+    advocate; he was the head of the Iran Party (a social democratic party)
+    and the last prime minister during the Shah s regime. Dr. Bakhtiar was the
+    founder and leader of the first organized opposition movement against the
+    Islamic regime and was assassinated by Iranian security forces in France.
+    Arrest and detention According to the form, Mr. Mohammadian was arrested
+    on August 5, 1980 at around 10 am, in Tehran. He was first detained at the
+    Gezelhessar Prison and was later transferred to the Evin Prison. His
+    family was not informed of the location of his detention and it was only
+    months after his arrest that they located him. Mr. Mohammadian was allowed
+    visitation for a short period of time every 3 or 4 months. He was denied
+    legal counsel. Trial Based on the available information, Mr. Mohammadian
+    was tried by Tehran s Revolutionary Court. Charges The charges against the
+    defendant are unknown. Evidence of guilt The report of this execution does
+    not contain information regarding the evidence provided against the
+    defendant. Defense According to the form, Mr. Mohammadian was not given
+    the chance to defend himself. Judgment Mr. Mohammadian was executed at the
+    Evin Prison on November 1, 1981. The prison authorities told his family of
+    his execution three days later. No specific information regarding the
+    death sentence is available.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8819/aziz-qoli-mohammadian"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

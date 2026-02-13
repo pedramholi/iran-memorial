@@ -1,0 +1,50 @@
+id: elahi-amir-hossein-2001-2
+name_latin: "Amir Hossein Elahi"
+name_farsi: "امیرحسین الهی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2001-06-20
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Amir Hossein Elahi, along with three others,
+    was published in the Iran newspaper on June 21, 2001. Additional
+    information was taken from the Iran newspaper on June 20, 2001. Arrest and
+    detention The circumstances of Mr. Elahi s arrest and detention are not
+    known. Trial No information is available on Mr. Elahi s trial. Charges The
+    charge brought against Mr. Elahi was announced as murder. The validity of
+    the criminal charges brought against this defendant cannot be ascertained
+    in the absence of the basic guarantees of a fair trial. International
+    human rights organizations have drawn attention to reports indicating that
+    the Islamic Republic authorities have brought trumped-up charges,
+    including drug trafficking, sexual, and other criminal offences, against
+    their opponents (including political, civil society activists, as well as
+    unionists and ethnic and religious minorities). Each year Iranian
+    authorities sentence to death hundreds of alleged common criminals,
+    following judicial processes that fail to meet international standards.
+    The exact number of people convicted and executed based on trumped-up
+    charges is unknown. Evidence of guilt The report of this execution does
+    not contain information regarding the evidence provided against Mr. Elahi.
+    Defense No information is available on Mr. Elahi s defense. Judgment The
+    court condemned Mr. Amir Hossein Elahi to death and the Supreme Court
+    confirmed the ruling. He was hanged at the Qasr Prison yard on June 20,
+    2001.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/74510/amir-hossein-elahi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

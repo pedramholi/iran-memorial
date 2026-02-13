@@ -1,0 +1,28 @@
+id: a-pejman-2008-2
+name_latin: "Pejman A."
+name_farsi: "پژمان ع."
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2008-07-10
+age_at_death: null
+place_of_death: "Hamedan"
+province: "Hamedan"
+cause_of_death: "Execution » Hanging"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/80898/pejman-a"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

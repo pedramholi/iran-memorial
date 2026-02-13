@@ -1,0 +1,28 @@
+id: ghabrai-mohammad-reza-1985-2
+name_latin: "Mohammad Reza Ghabra'i"
+name_farsi: "محمدرضا غبرایی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Non-Believer"
+photo: "https://www.iranrights.org/actorphotos/64295_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1985-09-18
+age_at_death: 38
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-5366/mohammad-reza-ghabrai"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

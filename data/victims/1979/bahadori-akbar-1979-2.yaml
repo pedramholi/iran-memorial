@@ -1,0 +1,81 @@
+id: bahadori-akbar-1979-2
+name_latin: "Akbar Bahadori"
+name_farsi: "اکبر بهادری"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Islam (Shi'a)"
+photo: "https://www.iranrights.org/actorphotos/39780_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1979-05-10
+age_at_death: 55
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    Dr. Akbar Bahadori, a prominent politician and parliamentary
+    representative for Arak, is one of the 438 victims listed in a March 13,
+    1980 Amnesty International report. The report lists defendants who were
+    convicted by Revolutionary Tribunals in the period from their inception
+    until August of 1979. The list of victims and charges is drawn from
+    sources including translations of indictments, reports of trials carried
+    out by local and foreign media and the bulletins of the official Pars News
+    Agency. Additional information about Dr. Bahadori, son of Issa Khan, has
+    been drawn from two electronic forms sent to the Boroumand Foundation.
+    According to one of the forms, he was born at Akhchi Kahriz in Arak in
+    1924. He was married and had four daughters. Based on one of these forms,
+    Dr. Bahadori was a general surgeon and orthopedist in the armed forces and
+    had his own private practice Bahadori Clinic in the south of Tehran. The
+    sender of this electronic form remembers Dr. Bahadori as a generous man
+    who built a high-tech hospital in Arak. According to the other electronic
+    form, Dr. Bahadori was a physician, a parliamentarian, a Colonel in the
+    military, and he worked at the Bahadori Hospital. According to both
+    electronic forms, he had no political affiliations. A number of websites
+    have written about Dr. Bahadori and his father, who was a reputable
+    Iranian artist and painter. According to Essaabad blog, for example, Dr.
+    Bahadori established a number of hospitals in Arak and Tehran in his life
+    time, the most important of which was Qods Hospital in Arak. He also
+    founded the Baqiatollah al-A zam Hospital in Tehran. Based on this blog
+    and the Majlis Research Center website, Dr. Bahadori was a member of
+    parliament before the revolution at the 24th Parliament. Arrest and
+    detention No information regarding Dr. Bahadori s arrest and detention is
+    available. Trial According to the Keyhan newspaper, dated April 23, 1979,
+    Dr. Bahadori was tried by the Islamic Revolutionary Court of Arak and
+    after 12 hours of interrogation, the court submitted Dr. Bahadori s case
+    for the final judgment to Tehran. Charges The charges against Mr.
+    Bahadori, according to the Amnesty report, were as follows: collaboration
+    with the ousted regime and trying to re-establish the Shah s idolatrous
+    rule over the weak and defenseless people; collaborating with SAVAK;
+    taking wrong decisions in parliament; bringing pressure to divide the
+    people, crimes against the people and the revolution, activities against
+    the people during the revolution, crushing those seeking their rights,
+    threatening villagers, conspiring to break the people's will, creating
+    insecurity, creating terror among the public, and urging people to fight
+    against the revolution. According to the Keyhan newspaper and the
+    indictment by the Chief Prosecutor of the Islamic Revolutionary Court,
+    however, he was charged with accessory to two murders, trespass to
+    chattel, arson, and a number of other crimes. The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic s authorities have executed individuals on trumped up
+    charges such as drug trafficking, sexual, and other criminal offences. The
+    exact number of people convicted based on trumped-up charges is unknown.
+    Evidence of guilt No information is available on the evidence presented
+    against Dr. Bahadori. Defense No information is available on the accused s
+    defense. Judgment According to the Amnesty report, Dr. Bahadori was
+    sentenced to death and his sentence was carried out on May 10, 1979 in
+    Tehran.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4771/akbar-bahadori"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,58 @@
+id: izadi-zahra-hosseini-1981-2
+name_latin: "Zahra Hosseini Izadi"
+name_farsi: "زهرا حسینی ایزدی"
+date_of_birth: null
+place_of_birth: null
+gender: female
+ethnicity: null
+religion: "Islam (Shi'a)"
+photo: "https://www.iranrights.org/actorphotos/34960_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1981-12-15
+age_at_death: 20
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Death in custody"
+circumstances: >
+    Ms. Zahra Hosseini Izadi is one of the 12,028 individuals listed in an
+    addendum to the Mojahed magazine (No 261), published by Mojahedin Khalq
+    Organization on September 6, 1985. The list includes individuals,
+    affiliated with various opposition groups, who were either executed or
+    killed during clashes with the Islamic Republic security forces from June
+    20, 1981 to the publication date of the magazine. Ms. Hosseini Izadi is
+    also one of the 1533 executed prisoners listed by the Association of
+    Iranian Women of Köln (Germany). The list published in 1997 is entitled:
+    "A partial list of names of women executed by the Islamic Republic of
+    Iran. Additional information about Ms. Hosseini Izadi was taken from the
+    Mojahedin Khalq Organization’s website. She was an active sympathizer of
+    this organization in Marjan High School. Her brother, Mohammad Hossein,
+    was arrested at the same time and executed in the Evin prison in December
+    1981. Arrest and detention There is no specific information on the
+    defendant’s arrest and detention. Ms. Hosseini Izadi was arrested in
+    September 1981 and detained in the Evin prison for two months. According
+    to several cellmates quoted in the website of the Mojahedin, she was
+    tortured so severely that she was unconscious when they brought her back
+    to the cell. The prison officials didn't even give her cellmates bandages
+    to dress her wounds. Trial No information is available on the defendant’s
+    trial. Charges No information is available on Ms. Hosseini Izadi’s
+    charges. Evidence of guilt The report of this execution contains no
+    evidence provided against the defendant. Defense No information is
+    available on Ms. Hosseini Izadi's defense. Judgment No specific
+    information is available about this execution. According to the
+    Mojahedin’s website, based on the burial document in Beheshtezahra
+    cemetery, Ms. Zahra Hosseini Izadi died in the Evin prison while being
+    tortured on December 15, 1981 (A female guard verified this fact). But,
+    when her will was delivered to her family, prison officials said that she
+    had been executed along with her brother.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4004/zahra-hosseini-izadi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

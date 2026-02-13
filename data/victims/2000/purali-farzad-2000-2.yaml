@@ -1,0 +1,40 @@
+id: purali-farzad-2000-2
+name_latin: "Farzad Pur'ali"
+name_farsi: "فرزاد پورعلی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2000-11-26
+age_at_death: 28
+place_of_death: "Rasht"
+province: "Gilan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Farzad Pur ali, 28, was published on the
+    website of ISNA (Iranian Students News Agency) on November 26, 2000.
+    Arrest and Detention There is no specific information on Mr. Pur ali s
+    arrest and detention. Trial Branch Three of the Public Court in Rasht
+    investigated the case of Mr. Pur ali. No information is available on his
+    trial. Charges The charge against Mr. Pur ali was announced as "murder."
+    According to ISNA, he had murdered a security force student to rob his
+    cash in the summer of 2000. Evidence of Guilt The report of this execution
+    does not contain information regarding evidence provided against Mr. Pur
+    ali. Defense No information is available on Mr. Pur ali s defense.
+    Judgment The court condemned Mr. Farzad Pur ali to death on November 21,
+    2000. He was hanged near the Gaz Square in Rasht on November 26, 2000.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/73068/farzad-purali"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

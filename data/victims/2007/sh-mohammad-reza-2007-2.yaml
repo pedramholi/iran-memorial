@@ -1,0 +1,46 @@
+id: sh-mohammad-reza-2007-2
+name_latin: "Mohammad Reza Sh."
+name_farsi: "محمدرضا ش."
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2007-10-17
+age_at_death: 25
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Mohammad Reza Sh., along with eight others,
+    was published on the website of Iscanews on October 17, 2007. His case was
+    related to the murder of a 35-year-old man in a law office at Qolhak
+    Street in Tehran on October 18, 2004. Arrest and detention Mr. Mohammad
+    Reza Sh. was detained for three years. The circumstances of his arrest and
+    detention are not known. Trial Branch 74 of the Criminal Court of Tehran
+    tried Mr. Mohammad Reza Sh. A judge and four associates were present
+    during his trial. No information is available on his trial. Charges The
+    charge brought against Mr. Mohammad Reza Sh. was announced as murder. The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    Evidence of guilt The report of this execution did not provide any
+    specific information on the evidence presented against Mr. Mohammad Reza
+    Sh. Defense No information is available on Mr. Mohammad Reza Sh. s
+    defense. Judgment Branch 74 of the Criminal Court of Tehran condemned Mr.
+    Mohammad Reza Sh. to death. Branch 33 of the Supreme Court confirmed the
+    ruling. He was hanged, along with eight others, in Evin Prison on October
+    17, 2007.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7884/mohammad-reza-sh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,43 @@
+id: esfarvardini-abuzar-2001-2
+name_latin: "Abuzar Esfarvardini"
+name_farsi: "ابوذر اسفروردینی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2001-03-04
+age_at_death: 20
+place_of_death: "Qazvin"
+province: "Zanjan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Abuzar Esfarvardini, son of Ali Reza, was
+    published in the Jomhuri Eslami newspaper on March 12, 2001, quoting the
+    News and Information Office of the Judiciary. Arrest and detention The
+    circumstances of Mr. Esfarvardini s arrest and detention are not known.
+    Trial Branch 13 of the Public Court of Qazvin tried Mr. Esfarvardini. No
+    information is available on his trial. Charges The charge brought against
+    Mr. Esfarvardini was announced as murder. The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. Evidence of guilt The
+    report of this execution did not provide any specific information on the
+    evidence presented against Mr. Esfarvardini. Defense No information is
+    available on Mr. Esfarvardini s defense. Judgment The court condemned Mr.
+    Abuzar Esfarvardini to death and the Supreme Court confirmed the ruling.
+    He was executed at the location of the committed crime in Nezamabad
+    Village near Qazvin on March 4, 2001.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/74233/abuzar-esfarvardini"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

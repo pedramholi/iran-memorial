@@ -1,0 +1,51 @@
+id: pirayeshi-isa-2002-2
+name_latin: "Isa Pirayeshi"
+name_farsi: "عیسی پیرایشی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2002-12-12
+age_at_death: 19
+place_of_death: "Bandar Abbas"
+province: "Hormozgan"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    News of the execution of Mr. Isa Pirayeshi, known as Isa Lak, was
+    published in the Jomhuri Eslami newspaper on December 17, 2002. His case
+    was related to a murder that had happened in 2000 while he was only 17.
+    International laws have strictly prohibited capital punishment against
+    those who were under the age of 18 at the time of committing the crime. As
+    a party to the Covenant on Civil and Political Rights and the Convention
+    on the Rights of the Child, Iran has the obligation to avoid capital
+    punishment for an offence committed before the age of eighteen. Arrest and
+    detention The circumstances of Mr. Pirayeshi s arrest and detention are
+    not known. Trial The Homicide Special Branch of Judiciary in Hormozgan
+    province tried Mr. Pirayeshi. No information is available on his trial.
+    Charges The charges brought against Mr. Pirayeshi were announced as murder
+    and disrupting public order. He was accused of stabbing someone to death
+    at a wedding ceremony during a collective fight on August 18, 2000. The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    Evidence of guilt The report of this execution did not provide any
+    specific information on the evidence presented against Mr. Pirayeshi.
+    Defense No information is available on Mr. Pirayeshi s defense. Judgment
+    The Homicide Special Branch of Judiciary in Hormozgan province condemned
+    Mr. Isa Pirayeshi to death and the Judiciary validated the ruling. He was
+    executed in the Bandar-e Abbas Central Prison on December 12, 2002 in the
+    morning. He received 74 lashes before his execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/74214/isa-pirayeshi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

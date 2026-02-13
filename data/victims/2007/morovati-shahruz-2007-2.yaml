@@ -1,0 +1,61 @@
+id: morovati-shahruz-2007-2
+name_latin: "Shahruz Morovati"
+name_farsi: "شهروز مروتی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2007-10-02
+age_at_death: 27
+place_of_death: "Kermanshah Province"
+province: "Kermanshah"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Shahruz Morovati was announced on the websites of
+    ISNA (September 12), the Jomhuri Eslami newspaper (October 4), and the
+    Police Information Base (October 6), 2007. The Jomhuri Eslami newspaper
+    quotes the Revolutionary and Public Prosecutor saying: “The judicial
+    system in cooperation with the security forces will stand firm before
+    hooligans.” According to the same source, he was a member of “Adidas”
+    organized-crime ring. Mr. Shahab Darvishi, another alleged member of this
+    ring, was executed in 2006. Arrest and Detention According to ISNA, “After
+    a series of intelligence operations, the defendant was arrested by the
+    Intelligence Ministry forces in Kermanshah on September 10, 2007.” Trial
+    No information is available on the defendant’s trial other than he was
+    tried at Branch Two of the Public Court of Sahneh (Kermanshah province).
+    Charges The charges against Mr. Shahruz Morovati were announced as
+    “sodomy, establishment of a corruption ring, consumption of alcohol, and
+    sedition” (Police Information Base). The validity of the criminal charges
+    brought against this defendant cannot be ascertained in the absence of the
+    basic guarantees of a fair trial. International human rights organizations
+    have drawn attention to reports indicating that Islamic Republic
+    authorities have brought trumped-up charges against their political
+    opponents and executed them for alleged drug trafficking, sexual, and
+    other criminal offences. Each year Iranian authorities sentence to death
+    hundreds of alleged common criminals, following judicial processes that
+    fail to meet international standards. The exact number of people convicted
+    based on trumped-up charges is unknown. Evidence of Guilt The report of
+    this execution does not contain information regarding the evidence
+    provided against the defendant. According to the Jomhuri Eslami newspaper,
+    the defendant, who was arrested in 1999, escaped twice from the prison.
+    Defense No information is available on Mr. Morovati’s defense. Judgment
+    The court condemned Mr. Shahruz Morovati to death and the Supreme Court
+    confirmed the ruling. He was hanged in public in the Imam Square in Sahneh
+    on October 2, 2007. According to the Police Information Base, “During the
+    execution police established full security and the ruling was carried out
+    without any security issues.”
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4666/shahruz-morovati"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

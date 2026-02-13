@@ -1,0 +1,28 @@
+id: khanipur-mehdi-2000-2
+name_latin: "Mehdi Khanipur"
+name_farsi: "مهدی خانی‌پور"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2000-01-20
+age_at_death: null
+place_of_death: "Sabzevar"
+province: "Khorasan\\Khorasan-e Razavi"
+cause_of_death: "Extrajudicial Execution"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/84618/mehdi-khanipur"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

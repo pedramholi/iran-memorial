@@ -1,0 +1,48 @@
+id: asakereh-naser-2002-2
+name_latin: "Naser Asakereh"
+name_farsi: "ناصر عساکره"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2002-04-22
+age_at_death: null
+place_of_death: "Abadan"
+province: "Khuzestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Naser Asakereh was published in the Iran
+    newspaper on April 23, 2002, and in the Jomhuri-Eslami newspaper on April
+    4, 2002. Arrest and Detention According to the Central News Unit in
+    Abadan, after committing the crime, Mr. Asakereh escaped but was quickly
+    arrested by the Abadan Police. (Jomhuri-Eslami newspaper) There is no
+    specific information on his arrest and detention. Trial No information is
+    available on Mr. Asakereh s trial. Charges According to the Central News
+    Unit in Abadan, the charge against Mr. Asakereh was announced as "murder."
+    This report indicated that he was charged with the murder of a sergeant
+    who had gone to his house to arrest him in 2001. (Jomhuri-Eslami
+    newspaper) The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. Evidence of Guilt The report of this execution did not
+    provide any specific information on the evidence presented against Mr.
+    Asakereh. Defense No information is available on Mr. Asakereh 's defense;
+    however, he appealed the ruling and it was referred to the Appeals Court.
+    (Iran newspaper) Judgment Mr. Naser Asakereh was condemned to death and
+    the Appeals Court confirmed the ruling. He was hanged in public in Abadan
+    on April 2, 2002. His execution had once been postponed due to his heart
+    attack.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7657/naser-asakereh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

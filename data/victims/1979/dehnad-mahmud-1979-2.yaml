@@ -1,0 +1,46 @@
+id: dehnad-mahmud-1979-2
+name_latin: "Mahmud Dehnad"
+name_farsi: "محمود دهناد"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: "https://www.iranrights.org/actorphotos/28446_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1979-08-23
+age_at_death: null
+place_of_death: "Sarpol-e Zahab"
+province: "Bakhtaran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of Major Mahmud Dehnad and another individual was reported
+    by the correspondent of the Kayhan daily in Qasr e Shirin and an
+    electronic form sent to Abdorrahman Boroumand Center by a person close to
+    him. Mr. Mahmud Dehnad, son of Ahmad born in 1924 was a Major of
+    Gendarmerie in Qasr-e Shirin and Sarpol-e Zahab. He was married and had
+    three daughters. Arrest and detention The circumstances of this defendant
+    s arrest and detention are not known. Trial Based on the report, the trial
+    was held in a Garrison called Abuzar in Sar e Pol e Zahab. His trial
+    conducted by Khalkhali took only 20 minutes. Charges Major Dehnad was
+    charged with "suppressing the revolutionaries in Sar e Pol e Zahab."
+    According to the information of the e-form, he was charged with "being
+    anti-revolutionary". The validity of the criminal charges brought against
+    this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. Evidence of guilt The report of this execution
+    does not contain information regarding the evidence provided against the
+    defendant. Defense No information is available on the defense. Judgment
+    The Religious Judge of the Islamic Revolutionary Tribunal declared Major
+    Dehnad a corruptor on earth and an enemy of God. He was executed at dawn.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/28446/mahmud-dehnad"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

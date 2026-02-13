@@ -1,0 +1,28 @@
+id: qandian-golverdi-1989-2
+name_latin: "Golverdi Qandian"
+name_farsi: "گل‌وردی قندیان"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Baha'i"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1989-09-07
+age_at_death: 77
+place_of_death: "Gorgan"
+province: "Mazandaran"
+cause_of_death: "Extrajudicial Execution"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/84143/golverdi-qandian"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

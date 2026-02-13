@@ -1,0 +1,74 @@
+id: sadati-nader-2003-2
+name_latin: "Nader Sadati"
+name_farsi: "نادر ساداتی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2003-01-09
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Nader Sadati, along with five others, was
+    published by various sources including ISNA (Iranian Students News Agency)
+    on January 13, 2003 and the Jomhuri Eslami newspaper on January 14, 2003.
+    Additional information was taken from the Kayhan newspaper on August 11,
+    1996. Mr. Sadati, son of Mohammad, was from Kuhdasht, Lorestan. He resided
+    in Eslamshahr, Tehran. According to existing information, he was a member
+    of an eight-member gang of armed robbers. (Kayhan) Arrest and detention
+    Mr. Sadati was arrested, along with seven others members of a gang, in
+    August of 1996 following several reports regarding armed robbery from
+    carpet stores across Tehran (ISNA and Kayhan). The circumstances of his
+    arrest and detention are not known. Trial Branch 31 of the Islamic
+    Revolutionary Court of Tehran tried Mr. Sadati. No information is
+    available on his trial. Charges The charges brought against Mr. Sadati
+    were announced as leading a gang of armed robbers, participation in six
+    night-time armed robberies from carpet stores in Tehran threatening with a
+    hand gun, shooting at the stores owners and guards, participation in two
+    armed robberies from vehicles, threatening with a combat weapon at night,
+    participation in four armed clashes with police in Tehran involving
+    shooting at agents, carrying and possession of smuggled weapons and
+    ammunition, participation in over 20 armed and unarmed robberies from
+    residences in Tehran and stealing properties. The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic authorities have brought trumped-up charges, including
+    drug trafficking, sexual, and other criminal offences, against their
+    opponents (including political, civil society activists, as well as
+    unionists and ethnic and religious minorities). Each year Iranian
+    authorities sentence to death hundreds of alleged common criminals,
+    following judicial processes that fail to meet international standards.
+    The exact number of people convicted and executed based on trumped-up
+    charges is unknown. Evidence of guilt According to the Public Relations
+    Office of the Islamic Revolutionary Court, the arrested gang members have
+    confessed to several armed robberies in Tehran, armed clashes with the
+    police injuring several agents, and murdering one person in Varamin.
+    International human rights organizations have repeatedly condemned the
+    government of the Islamic Republic of Iran for its systematic use of
+    severe torture and solitary confinement to obtain confessions from
+    detainees and have questioned the authenticity of confessions obtained
+    under duress. Defense No information is available on Mr. Sadati s defense.
+    Judgment Branch 31 of the Islamic Revolutionary Court of Tehran condemned
+    Mr. Nader Sadati to death and the Supreme Court confirmed the ruling. He
+    was hanged, along with five others, in the presence of forensics
+    representatives, police and court officials at Evin Prison in Tehran on
+    January 9, 2003. No specific information is available about this
+    execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7901/nader-sadati"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,41 @@
+id: soltanifar-ali-2002-2
+name_latin: "Ali Soltanifar"
+name_farsi: "علی سلطانی‌فر"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2002-03-16
+age_at_death: null
+place_of_death: "Kazerun"
+province: "Fars"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Ali Soltanifar was published in the Khorasan
+    newspaper on March 17, 2002. Arrest and detention Mr. Soltanifar was
+    arrested at the Emam Square in Kazerun in April of 2000 following a
+    murder. The circumstances of his arrest and detention are not known. Trial
+    No information is available on Mr. Soltanifar s trial. Charges The charge
+    brought against Mr. Soltanifar was announced as murder. The validity of
+    the criminal charges brought against this defendant cannot be ascertained
+    in the absence of the basic guarantees of a fair trial. Evidence of guilt
+    The report of this execution did not provide any specific information on
+    the evidence presented against Mr. Soltanifar. Defense No information is
+    available on Mr. Soltanifar s defense. Judgment A court condemned Mr. Ali
+    Soltanifar to death. The Supreme Court confirmed the ruling. He was hanged
+    on March 16, 2002.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/75542/ali-soltanifar"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

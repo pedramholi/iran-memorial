@@ -1,0 +1,45 @@
+id: a-ali-2005-2
+name_latin: "Ali A."
+name_farsi: "علی الف."
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2005-01-01
+age_at_death: 25
+place_of_death: "Gorgan"
+province: "Mazandaran"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Mr. Ali A., aged 25, along with Mokhtar N., was announced
+    in the Kayhan on November 11, 2005. Arrest and detention The circumstances
+    of this defendant’s arrest and detention are not known. Trial No
+    information is available on the defendant’s trial. Charges Mr. Ali A. was
+    charged with “sodomy.” According to the news story, he had a criminal
+    record. The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. International human rights organizations have drawn
+    attention to reports indicating that the Islamic Republic’s authorities
+    have brought trumped-up charges against their political opponents and
+    executed them for drug trafficking, sexual, and other criminal offences.
+    The exact number of people convicted based on trumped-up charges is
+    unknown. Evidence of guilt The report of this execution does not contain
+    information regarding the evidence provided against the defendant. Defense
+    No information is available on his defense. Judgment The details of the
+    death sentence are not known. Mr. Ali A. was executed, along with his
+    co-defendant, at Bahonar Square in Gorgan.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/39540/ali-a"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,28 @@
+id: safari-isa-2022-2
+name_latin: "Isa Safari"
+name_farsi: "عیسی صفری"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2022-06-06
+age_at_death: null
+place_of_death: "Zahedan"
+province: "Sistan Va Baluchestan"
+cause_of_death: "Execution » Hanging"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/86047/isa-safari"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

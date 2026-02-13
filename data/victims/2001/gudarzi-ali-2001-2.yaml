@@ -1,0 +1,48 @@
+id: gudarzi-ali-2001-2
+name_latin: "Ali Gudarzi"
+name_farsi: "علی گودرزی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2001-02-11
+age_at_death: 38
+place_of_death: "Borujerd"
+province: "Lorestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Ali Gudarzi was published in the Hamshahri
+    newspaper on February 12, 2001. Arrest and Detention There is no specific
+    information on Mr. Gudarzi s arrest and detention. Trial No information is
+    available on Mr. Gudarzi s trial. Charges The charges against Mr. Ali
+    Gudarzi were announced as "murder and an illegitimate relationship."
+    According to the Hamshahri newspaper, he had murdered the Assistant
+    Director of the Foundation of Martyrs and Veterans Affairs in Borujerd
+    with the collaboration of the victim s wife, in November of 2000. Earlier
+    on November 26, 2000, the Ettela at newspaper had published the news of
+    the murder of the Assistant Director of the Shahid Foundation by an
+    unknown in Borujerd on November 22, 2000. Evidence of Guilt The report of
+    this execution does not contain information regarding the evidence
+    provided against Mr. Gudarzi. Defense No information is available on
+    Gudarzi s defense. Judgment The court condemned Mr. Ali Gudarzi to death
+    [Qesas for murder] and to 99 lashes for an illegitimate relationship. The
+    Supreme Court confirmed the ruling. According to the Hamshahri newspaper,
+    quoting a judicial authority, the investigation of this case took place
+    out of sequence, due to urgency and by order of the highest judicial
+    authority. Mr. Gudarzi was hanged in public at Takhti Street in Borujerd
+    on February 11, 2001, after he received 99 lashes.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/73273/ali-gudarzi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

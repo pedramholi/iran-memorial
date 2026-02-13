@@ -1,0 +1,28 @@
+id: alizadeh-fereshteh-1999-2
+name_latin: "Fereshteh Alizadeh"
+name_farsi: "علیزاده فرشته"
+date_of_birth: null
+place_of_birth: null
+gender: female
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1999-07-09
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Arbitrary Execution » Arbitrary shooting"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/86506/fereshteh-alizadeh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

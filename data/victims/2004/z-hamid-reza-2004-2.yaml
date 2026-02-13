@@ -1,0 +1,43 @@
+id: z-hamid-reza-2004-2
+name_latin: "Hamid Reza Z."
+name_farsi: "حمیدرضا ض."
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2004-07-28
+age_at_death: null
+place_of_death: "Kerman"
+province: "Kerman"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Hamid Reza Z. was published in the Jomhuri
+    Eslami newspaper on July 29, 2004. His case was related to raping an
+    11-year-old girl in 2004. Arrest and detention Mr. Hamid Reza Z. was on
+    the run after the incident; however, he was arrested in 2004. The
+    circumstances of his arrest and detention are not known. Trial Branch Ten
+    of the General Court in Kerman tried Mr. Hamid Reza Z. No information is
+    available on his trial. Charges The charge brought against Mr. Hamid Reza
+    Z. was announced as rape. The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. Evidence of guilt The evidence presented
+    against Mr. Hamid Reza Z. was a complaint by the victim s family and the
+    forensics report. Defense No information is available on Mr. Hamid Reza Z.
+    s defense. Judgment Branch Ten of the General Court in Kerman condemned
+    Mr. Hamid Reza Z. to death and the Supreme Court confirmed the ruling. He
+    was hanged in public at Haftbagh Square in Kerman on July 28, 2004.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/75919/hamid-reza-z"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

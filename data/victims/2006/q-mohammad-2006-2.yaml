@@ -1,0 +1,61 @@
+id: q-mohammad-2006-2
+name_latin: "Mohammad Q."
+name_farsi: "محمد ق."
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2006-12-18
+age_at_death: null
+place_of_death: "Bam"
+province: "Kerman"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Mohammad Q., along with another individual,
+    was announced by the website of the Police Information Center on December
+    19, 2006. His case, along with that of another individual, pertains to
+    trafficking illegal drugs as well as armed struggle against the police
+    force. Arrest and detention Mr. Mohammad Q. was arrested by the police
+    force of Kerman Province. According to the report by the Police
+    Information Center, he and another individual managed to escape after an
+    armed struggle with the police. He was later arrested by them. However,
+    there is no further information available on the details of Mr. Mohammad
+    Q. s and the other defendant s arrests and detention. Trial Mr. Mohammad
+    Q. went on trial in Kerman Province. However, there is no information
+    available on the details of the session or sessions of his trial. Charges
+    Mr. Mohammad Q. was charged with trafficking illegal drugs and armed
+    struggle with the police force. The validity of the criminal charges
+    brought against this defendant cannot be ascertained in the absence of the
+    basic guarantees of a fair trial. International human rights organizations
+    have drawn attention to reports indicating that the Islamic Republic
+    authorities have brought trumped-up charges, including drug trafficking,
+    sexual, and other criminal offences, against their opponents (including
+    political, civil society activists, as well as unionists and ethnic and
+    religious minorities). Thousands of alleged drug traffickers have been
+    sentenced to death following judicial processes that fail to meet
+    international standards. Scores of them were executed based on a 1989 law
+    imposing mandatory death sentences on drug traffickers found in possession
+    of specified amounts of proscribed narcotics (5 kg of hashish or opium,
+    and more than 30 grams of heroin, codeine or methadone). The exact number
+    of people convicted based on trumped-up charges is unknown. Evidence of
+    guilt There is no further information available on the details of the
+    evidence of guilt entered against Mr. Mohammad Q. Defense There is no
+    further information available on the details of Mr. Mohammad Q. s defense.
+    Judgment Mr. Mohammad Q. was sentenced to death. He was publicly hanged,
+    along with another defendant, in one of Bam County s squares on December
+    18, 2006.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/83152/mohammad-q"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

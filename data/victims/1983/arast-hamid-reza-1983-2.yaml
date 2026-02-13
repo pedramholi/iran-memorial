@@ -1,0 +1,67 @@
+id: arast-hamid-reza-1983-2
+name_latin: "Hamid Reza Arast"
+name_farsi: "آرست"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Islam"
+photo: "https://www.iranrights.org/actorphotos/44162_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1983-03-15
+age_at_death: 24
+place_of_death: "Rasht"
+province: "Gilan"
+cause_of_death: "Execution » Death in custody"
+circumstances: >
+    Mr. Hamid Reza Arast, son of Mansur, died when fire broke out in a prison
+    in Rasht. Reports about the fire have been published on the Bidaran
+    website (December 20, 2006), a book called Goodnight Comrade , prison
+    memoirs of Mr. Ahmad Musavi (2005), as well as an article by Mr. Kaveh,
+    posted on the Prison Dialogues website (2006). Additionally, Mr. Arast is
+    one of the 12028 individuals listed in an addendum to the Mojahed magazine
+    (No 261), published by Mojahedin Khalq Organization in 1985. Mr. Arast was
+    born in Rasht in 1958. Having graduated from junior high school, he began
+    working as an ironsmith. He was a sympathizer of the Fadaiyan Khalq
+    Guerillas (Ashraf Dehqani Branch). The Fadayian Khalq Guerilla
+    Organization, a Marxist Leninist group inspired by the Cuban Revolution
+    and the urban guerilla movements of Latin America, was founded in 1971 by
+    two communist groups opposed to the Pahlavi regime. Following the 1979
+    revolution, the Organization, which had renounced armed struggle, split
+    over their support of the Islamic Republic and of the Soviet Union. A
+    number of the Organization s members, who did not renounce armed struggle,
+    founded the group the Fadayian Khalq Guerillas (Ashraf Dehqani Branch).
+    Arrest and detention The circumstances of this defendant s arrest and
+    detention are not known. Trial No information is available on the
+    defendant s trial. Charges The charges against Mr. Arast are not known.
+    Evidence of guilt The report of this execution does not contain
+    information regarding the evidence provided against the defendant. Defense
+    No information is available on Mr. Arast s defense. Judgment On Tuesday,
+    March 15, 1983, fire broke out in the Gymnasium Prison in Rasht. Before
+    the 1979 Revolution, the building was used as a gymnasium for navy
+    officers. After the Revolution, the Revolutionary Guards confiscated the
+    building and used it as a prison. At the time, there were about 57
+    prisoners. The kerosene container of a heater in the guards room leaked
+    and caused a fire. The fire quickly spread to the cells due to their
+    wooden ceiling. Witnesses stated that the Revolutionary Guards went to the
+    prison yard but did not open the door for prisoners, fearing that they
+    would escape from prison. The guards even threatened the prisoners that if
+    they tried to get out of the building they would be shot. Based on
+    available information, navy officers asked the prison guards to open the
+    door and offered help to watch over the prisoners. The guards refused. It
+    was only after more Revolutionary Guards came to the location and
+    surrounded the prison that they opened the doors to the cells. Seven
+    prisoners lost their lives in the fire, one of whom was Mr. Arast. He was
+    23 years old.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-5357/hamid-reza-arast"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

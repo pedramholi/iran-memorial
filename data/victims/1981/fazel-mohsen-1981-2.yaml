@@ -1,0 +1,98 @@
+id: fazel-mohsen-1981-2
+name_latin: "Mohsen Fazel"
+name_farsi: "محسن فاضل"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Non-Believer"
+photo: "https://www.iranrights.org/actorphotos/33256_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1981-06-21
+age_at_death: 31
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The following information about Mr. Mohsen Fazel, son of Ahmad, was
+    obtained through an interview with a person close to him, and his own
+    writings in prison. Mr. Fazel was born in Mashhad on October 7, 1949. He
+    was a student in Chemical Engineering at Aryamehr University and a member
+    of the Peykar Organization for the Liberation of the Working Class. After
+    the widespread arrest of Mojahedin in 1971, he went underground and in
+    1974 left for Beirut, where he was active in the Palestine movement under
+    the pseudonym Sami. In November 1978, he returned to Iran as a member of
+    the Mojahedin Khalq Organization (Marxist-Leninist Section) and was
+    dispatched to Lebanon briefly on a political mission in 1979. He worked
+    for a construction company for a few months in 1979-1980. He is one of the
+    430 individuals whose name appears on the list of “Martyrs of the Peykar
+    Organization for the Liberation of the Working Class” published on the
+    website of Peykar Andeesheh. This list contains the names of those members
+    of the Organization who died after the Revolution of 1979. More than 400
+    of the individuals on this list have been executed. This execution was
+    also announced in the addendum of the Mojahed magazine, No. 261, published
+    by the Mojahedin Khalgh Organization on September 6, 1985. The list
+    includes 12,028 individuals, affiliated with various opposition groups,
+    who were executed or killed during clashes with the Islamic Republic
+    security forces from June 1981 to the publication date of the magazine.
+    The Peykar Organization for the Liberation of the Working Class was
+    founded by a number of dissident members of the Mojahedin Khalq
+    Organization who had converted to Marxism-Leninism. Peykar was also joined
+    by a number of political organizations, known as Khat-e Se (Third line).
+    The founding tenets of Peykar included the rejection of guerrilla struggle
+    and a strong stand against the pro-Soviet policies of the Iranian Tudeh
+    Party. Peykar viewed the Soviet Union as a “Social imperialist” state,
+    believed that China had deviated from the Marxist-Leninist principles, and
+    radically opposed all factions of the Islamic regime of Iran. The brutal
+    repression of dissidents by the Iranian government and splits within
+    Peykar in 1981 and 1982 effectively dismantled the Organization and
+    scattered its supporters. By the mid-1980s, Peykar was no longer in
+    existence. Arrest and detention On February 3, 1981, Mr. Fazel paid a
+    visit to the passport office regarding another trip to Lebanon. On his way
+    out of the office he was arrested by several individuals in civilian
+    clothes. His detention location was Evin Prison where he was kept
+    incommunicado in solitary confinement for 139 days (until his execution).
+    Even the attorney that his family hired for him was not allowed to meet
+    with him. Initially, the prison officials denied his existence entirely;
+    however, three weeks later when the news of his arrest appeared on the
+    first page of Ettela’at newspaper as well as in the Kayhan and the Jomhuri
+    Eslami newspapers, they told his family that “he is here but not allowed
+    to have visitors.” At that point, his family contacted Palestinian
+    officials in Tehran, who knew him as “Sami”, in order to obtain
+    information about his situation. The officials responded: “we have been
+    warned by Iranian officials to stay away from this issue.” Mr. Mohsen
+    Fazel has recounted the events of his arrest and his time in prison in
+    thirty-nine pages written in prison and smuggled out of prison. He wrote
+    about the difficult time of solitary confinement, and being deprived of
+    newspapers, books, and even paper and pen at times: “This is my seventieth
+    day in prison and still my status is unclear. Everyday, I have nothing to
+    do for 14-15 hours. The first 30-40 days in solitary confinement is really
+    terrifying. You wonder if time passes by at all, or whether you can bear
+    with time going by so slowly”. These pages as well as his will have been
+    published by Peykar Organization. Trial The details of court session(s)
+    are not known. He has written in his notes from prison: “I’m wondering
+    what charges will be brought up against me. Since the day my interrogator
+    told me to wait for trial, it has already been 39 days. In his will
+    published by Peykar Organization he’s written: “Finally after spending 139
+    days in solitary confinement deprived of everything, in this politically
+    charged atmosphere, in a rush trial, I was sentenced to death.” Charges
+    Mr. Fazel’s charge has been specified as “internal purges of the Mojahedin
+    Organization.” The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. Evidence of guilt There is no information regarding the
+    evidence presented against the defendant. In his will, Mr. Fazel has
+    written about the accusation of participation in the internal purges of
+    the Mojahedin Organization: “They brought up a charge against me which was
+    not, and could not be, supported by any evidence
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4621/mohsen-fazel"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

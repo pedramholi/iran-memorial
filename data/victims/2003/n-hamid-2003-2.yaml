@@ -1,0 +1,53 @@
+id: n-hamid-2003-2
+name_latin: "Hamid N."
+name_farsi: "حمید ن."
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2003-01-01
+age_at_death: null
+place_of_death: "Mahshahr"
+province: "Khuzestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Hamid N. was published in the Jomhuri Eslami
+    newspaper on December 23, 2003, quoting the Public Relations Office of the
+    Mahshahr Courthouse. His case was related to a murder. Arrest and
+    detention Mr. Hamid N. was arrested after the victim s father filed a
+    complaint against him. According to the victim s father, Mr. Hamid N. had
+    gone to their house two nights earlier and left the house with his son and
+    a video recorder and he had not seen his son since. After police searched
+    the defendant s house, they found the victim s body. The circumstances of
+    his arrest and detention are not known. Trial Branch Five of the General
+    Court of Mahshahr tried Mr. Hamid N. No information is available on his
+    trial. Charges The charge brought against Mr. Hamid N. was announced as
+    murder. According to the report, the murder occurred during a fight
+    between the defendant and the victim. The validity of the criminal charges
+    brought against this defendant cannot be ascertained in the absence of the
+    basic guarantees of a fair trial. Evidence of guilt The evidence presented
+    against Mr. Hamid N. was a complaint by the victim s father, recovery of
+    the victim s body, and his confession. International human rights
+    organizations have repeatedly condemned the government of the Islamic
+    Republic of Iran for its systematic use of severe torture and solitary
+    confinement to obtain confessions from detainees and have questioned the
+    authenticity of confessions obtained under duress. Defense No information
+    is available on Mr. Hamid N. s defense. Judgment Branch Five of the
+    General Court of Mahshahr condemned Mr. Hamid N. to death and Branch 31 of
+    the Supreme Court confirmed the ruling. He was hanged in Mahshahr in 2003.
+    No specific information is available about this execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/75737/hamid-n"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

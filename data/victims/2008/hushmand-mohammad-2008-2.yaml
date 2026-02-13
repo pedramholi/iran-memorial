@@ -1,0 +1,52 @@
+id: hushmand-mohammad-2008-2
+name_latin: "Mohammad Hushmand"
+name_farsi: "محمد هوشمند"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2008-04-23
+age_at_death: 40
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Mohammad Hushmand, along with four others,
+    was published on the websites of Fars news agency, Iran newspaper, and
+    Tehran-e Emruz on April 24, 2008, and on Iscanews on April 23, 2008. His
+    case was related to the murder of a 45-year-old man during a robbery.
+    Arrest and detention Mr. Hushmand had escaped after the murder but was
+    arrested several months later (Fars news agency). The circumstances of his
+    arrest and detention are not known. Trial Branch 71 of the Criminal Court
+    of Tehran tried Mr. Hushmand (Fars news agency). No information is
+    available on his trial. Charges The charge brought against Mr. Hushmand
+    was announced as murder. (Tehran-e Emruz) The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. Evidence of guilt The
+    evidence presented against Mr. Hushmand was his confession. (Iran
+    newspaper) International human rights organizations have repeatedly
+    condemned the government of the Islamic Republic of Iran for its
+    systematic use of severe torture and solitary confinement to obtain
+    confessions from detainees and have questioned the authenticity of
+    confessions obtained under duress. Defense In his defense, Mr. Hushmand
+    stated that his main motive was robbery and he only murdered the victim so
+    as not to be identified by him (Fars news agency). No further information
+    is available on his defense. Judgment Branch 71 of the Criminal Court of
+    Tehran condemned Mr. Mohammad Hushmand to death. Branch 42 of the Supreme
+    Court confirmed the ruling. He was hanged, along with four others, at the
+    Evin Prison yard in Tehran on April 23, 2008.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7885/mohammad-hushmand"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

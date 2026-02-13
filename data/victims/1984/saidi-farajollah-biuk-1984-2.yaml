@@ -1,0 +1,57 @@
+id: saidi-farajollah-biuk-1984-2
+name_latin: "Farajollah (Biuk) Sa'idi"
+name_farsi: "فرج الله (بیوک) سعیدی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Non-Believer"
+photo: "https://www.iranrights.org/actorphotos/36185_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1984-05-12
+age_at_death: 32
+place_of_death: "Iran"
+province: null
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The information about Mr. Farajollah (Biuk) Sa'idi is taken from the book
+    Our Martyrs in the Path to Freedom , copyright 1988 by Rah-e Kargar
+    publications. He was born in Tabriz. He studied at the Tehran Science and
+    Technology University. During the previous regime, in 1975, he was
+    arrested and detained for being a sympathizer of the Fedayian Khalq
+    Organization. In 1978, he was released and joined the Peykar Organization.
+    Later he joined the Revolutionary Workers Organization of Iran-Rah-e
+    Kargar. "Rah-e Kargar" or the "Revolutionary Workers Organization of Iran"
+    was established in the summer of 1979. The Organization was founded by
+    individuals from various leftist groups who rejected the idea of armed
+    struggle and believed in political action. They called themselves as
+    Marxist-Leninists, promoting a socialist revolution and the leadership of
+    the proletariat. They differed with the pro-Soviet communist party, Tudeh,
+    in that they opposed the Islamic Republic and Ayatollah Khomeini's
+    leadership. Arrest and detention The circumstances of this defendant’s
+    arrest and detention are not known. Mr. Sa'idi was arrested in his home on
+    February 8, 1982. According to the book, he was able to conceal his
+    identity from his captors for nine months, but a fellow prison revealed
+    his identity to the authorities and he was severely tortured after that.
+    Trial No information is available on the defendant’s trial. Charges No
+    information is available on Mr. Sa'idi’s charges. Evidence of guilt The
+    report of this execution contains no evidence provided against the
+    defendant. Defence No information is available about the defendant’s
+    defence. Judgment No specific information is available about the
+    defendant’s execution sentence. Mr. Sa'idi was executed by a firing squad
+    on May 12, 1984. In his will, he wrote: "My dear wife and my dear son, in
+    these final moments of my life, I wish you a happy life. My wife, don't be
+    sad for me. Get married after I am gone…. My son, try to be honourable and
+    enjoy your life…"
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/36185/farajollah-biuk-saidi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

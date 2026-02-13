@@ -1,0 +1,53 @@
+id: najarian-azizollah-2006-2
+name_latin: "Azizollah Najarian"
+name_farsi: "عزیزالله نجاریان"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2006-11-01
+age_at_death: null
+place_of_death: "Zahedan"
+province: "Sistan Va Baluchestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Azizollah Najarian, son of Shir Mohammad, was
+    announced by Islamic Republic daily on November 2, 2006. His case pertains
+    to carrying and storing narcotics. Arrest and detention There is no
+    information available on the details of Mr. Najarian s arrest and
+    detention. Trial Mr. Najarian was tried by the Islamic Revolutionary Court
+    of Zahedan. However, there is no information available on the details of
+    the session or sessions of his trial. Charges Mr. Najarian was charged
+    with carrying and storing heroin. The validity of the criminal charges
+    brought against this defendant cannot be ascertained in the absence of the
+    basic guarantees of a fair trial. International human rights organizations
+    have drawn attention to reports indicating that the Islamic Republic
+    authorities have brought trumped-up charges, including drug trafficking,
+    sexual, and other criminal offences, against their opponents (including
+    political, civil society activists, as well as unionists and ethnic and
+    religious minorities). Each year Iranian authorities sentence to death
+    hundreds of alleged common criminals, following judicial processes that
+    fail to meet international standards. The exact number of people convicted
+    and executed based on trumped-up charges is unknown. Evidence of guilt
+    Possessing 6 kilograms and 400 grams of heroin was entered as evidence of
+    guilt against Mr. Najarian. Defense There is no information available on
+    the details of Mr. Najarian s defense. Judgment The Islamic Revolutionary
+    Court of Zahedan sentenced Mr. Azizollah Najarian to death. The verdict
+    was validated by high-echelon judiciary authorities. Mr. Najarian was
+    publicly hanged, along with another individual, in Zahedan on Wednesday,
+    November 1, 2006.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/82889/azizollah-najarian"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

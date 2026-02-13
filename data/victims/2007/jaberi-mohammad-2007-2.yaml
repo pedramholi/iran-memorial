@@ -1,0 +1,57 @@
+id: jaberi-mohammad-2007-2
+name_latin: "Mohammad Jaberi"
+name_farsi: "محمد جابری"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2007-05-11
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    News of the execution of Mr. Mohammad Jaberi was published on the weblog
+    of the Human Rights Activists in Iran on June 1, 2007. Additional
+    information regarding this case was taken from research by the Abdorrahman
+    Boroumand Foundation. (ABF research) Mr. Jaberi, known as Safa Baba, was
+    between 50 and 60 years old. He suffered from mental disturbances and
+    claimed to be God. His daughter was also condemned to five years
+    imprisonment for a charge related to her father s case. She was detained
+    at Evin Prison at the same time as her father. Arrest and detention The
+    circumstances of Mr. Jaberi s arrest and detention are not known. However,
+    he was detained at Evin Prison. A prison guard told a witness in Evin
+    Prison that Mr. Jaberi was crazy and suffered from mental disturbances.
+    Because of his illness, Mr. Jaberi believed that he was God. He told his
+    cellmate: When they execute me tomorrow, the world will end. According to
+    the existing information, the prison authorities asked Mr. Jaberi to write
+    a statement of repentance and explain that his claim to be God had been
+    due to his psychological illness. Since Mr. Jaberi thought he was God,
+    however, he did not repent. (ABF research) Trial No information is
+    available on Mr. Mohammad Jaberi s trial. Charges The charge brought
+    against Mr. Mohammad Jaberi was announced as apostasy from Islam. (weblog
+    of the Human Rights Activists in Iran) Evidence of guilt Mr. Mohammad
+    Jaberi had written articles as censored sections of the Quran. He also had
+    written a letter to the Pope. (ABF research) Defense No information is
+    available on Mr. Mohammad Jaberi s defense. Judgment Mr. Mohammad Jaberi
+    was condemned to death. He was executed in the yard of Evin Prison in
+    Tehran on May 11, 2007. A prisoner who claimed to communicate with the
+    Hidden Imam and had been in a cell with Mr. Jaberi on the day before his
+    execution told a witness in Evin Prison: After his execution was carried
+    out, I wrote a statement of repentance because I realized that they don t
+    have mercy even for a mental patient. (ABF research)
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7922/mohammad-jaberi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

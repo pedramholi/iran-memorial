@@ -1,0 +1,56 @@
+id: kuhbanai-ali-2003-2
+name_latin: "Ali Kuhbana'i"
+name_farsi: "علی کوه‌بنائی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2003-05-25
+age_at_death: 41
+place_of_death: "Esfahan"
+province: "Esfahan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Ali Kuhbana i was published on Isfahansite on
+    May 26, 2003. Additional information regarding his arrest and prosecution
+    was published in the Ettela at newspaper on July 31, 2000. Arrest and
+    Detention According to the Ettela at newspaper, quoting the Commander of
+    the Security Forces in Kerman, Mr. Kuhbana i and his collaborators were
+    arrested based on cooperation between security forces in Kerman and
+    Esfahan. They were transferred to the Intelligence Police in Esfahan. The
+    report indicated that the date of arrest was kept confidential for
+    investigative reasons to protect the police operation and prevent escapees
+    from knowing it. Trial Branch Four of the Revolutionary Court tried Mr.
+    Kuhbana i. No information is available on his trial. Charges The charges
+    against Mr. Kuhbana i were announced as "armed robbery, piracy, sedition,
+    shooting at a Melli Bank agent in Kohandej Branch, carrying and possession
+    of two Kalashnikovs, and having a criminal record." The validity of the
+    criminal charges brought against this defendant cannot be ascertained in
+    the absence of the basic guarantees of a fair trial. Evidence of Guilt The
+    evidence presented against Mr. Kuhbana i was his confession, and recovery
+    of irrefutable documents at their hiding place. The contents of these
+    documents were not disclosed. (Ettela at newspaper) International human
+    rights organizations have repeatedly condemned the government of the
+    Islamic Republic of Iran for its systematic use of severe torture and
+    solitary confinement to obtain confessions from detainees and have
+    questioned the authenticity of confessions obtained under duress. Defense
+    No information is available on Mr. Kuhbana i's defense. Judgment The court
+    identified Mr. Ali Kuhbana i as Mohareb (fighter against God) and
+    condemned him to death on September 24, 2001. The Supreme Court confirmed
+    the ruling on September 7, 2002. He was hanged at the Rahnan Intersection
+    in Esfahan on May 25, 2003.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/73563/ali-kuhbanai"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

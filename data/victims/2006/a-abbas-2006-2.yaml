@@ -1,0 +1,81 @@
+id: a-abbas-2006-2
+name_latin: "Abbas A."
+name_farsi: "عباس الف."
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2006-01-01
+age_at_death: 33
+place_of_death: "Ahvaz"
+province: "Khuzestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Abbas A., known as Za bil, was announced by
+    the website of Fars News Agency citing the Public Relations Section of the
+    provincial Ministry of Justice office of Khuzestan Province (October 2,
+    2006), the website of Iscanews (November 8, 2006), and Hambastegi daily
+    (November 9, 2006). Additional information on this case was obtained from
+    Sharq daily and Kayhan daily citing the head of the Islamic Revolutionary
+    Court of Ahvaz (June 6, 2005). The case of Mr. Abbas A,. along with 12
+    other individuals, pertains to the murder of a little girl and an agent of
+    the police force in Ramhormoz, armed robbery of the villagers cattle, and
+    creating fear and trepidation in Khuzestan. One of the members of this
+    group of defendants passed away during the investigation due to heart
+    failure. Arrest and Detention Mr. Abbas A. was identified and arrested by
+    the police force of Khuzestan Province after they had received numerous
+    complaints from people who had been attacked by a band of robbers or lost
+    their belongings to them. However, there is no information available on
+    the details of Mr. Abbas A. s arrest and detention. Trial Mr. Abbas A. and
+    the other 11 individuals incriminated in this case were tried by Branch
+    One of the Islamic Revolutionary Court of Ahvaz. However, there is no
+    information available on the session or sessions of their trial. Charges
+    Mr. Abbas A. was charged with armed robbery and murder, as well as
+    creating fear and trepidation. The validity of the criminal charges
+    brought against this defendant cannot be ascertained in the absence of the
+    basic guarantees of a fair trial. International human rights organizations
+    have drawn attention to reports indicating that the Islamic Republic
+    authorities have brought trumped-up charges, including drug trafficking,
+    sexual, and other criminal offences, against their opponents (including
+    political, civil society activists, as well as unionists and ethnic and
+    religious minorities). Each year Iranian authorities sentence to death
+    hundreds of alleged common criminals, following judicial processes that
+    fail to meet international standards. The exact number of people convicted
+    and executed based on trumped-up charges is unknown. Evidence of Guilt The
+    evidence of guilt entered against Mr. Abbas A. and the other 11
+    constituted the following: the complaints of the robbed people, the
+    confessions of the defendants, the robbery of more than 22 calves, 104
+    sheep, more than one million toomans in cash, some gold, cloth, cameras,
+    television sets, a hunting rifle, two cars, possession of two AK-47
+    assault rifles along with three magazines and 654 bullets, two Colt
+    revolvers and 211 bullets, one Berno rifle, and a hunting rifle with 54
+    bullets. International human rights organizations have repeatedly
+    condemned the government of the Islamic Republic of Iran for its
+    systematic use of severe torture and solitary confinement to obtain
+    confessions from detainees and have questioned the authenticity of
+    confessions obtained under duress. Defense There is no information
+    available on the details of Mr. Abbas A. s defense. Judgment Branch One of
+    the Islamic Revolutionary Court of Ahvaz sentenced Mr. Abbas A. to death,
+    30 lashes and 5 million rials of fine. The verdict was approved by Branch
+    27 of the Supreme Court. Mr. Abbas A. was hanged to death in the Karoun
+    Prison of Ahvaz in 2006. Of the other 10 individuals implicated in this
+    case, 2 received death sentences, 2 amputation sentences (their right arms
+    and left legs were severed) as well as 10 years of imprisonment, and the
+    rest collectively received 70 years of imprisonment and 518 lashes. The
+    arms and legs of two of the 10 were amputated at the same time that Mr.
+    Abbas A. was being hanged on the gallows.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8652/abbas-a"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

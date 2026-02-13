@@ -1,0 +1,70 @@
+id: nematollahi-amir-saed-1986-2
+name_latin: "Amir Sa'ed Ne'matollahi"
+name_farsi: "امیر ساعد نعمت اللهی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Non-Believer"
+photo: "https://www.iranrights.org/actorphotos/64539_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1986-08-05
+age_at_death: 36
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The information regarding the execution of Mr. Amir Sa ed Ne matollahi,
+    son of Mohammad Mohsen, was sent to the Boroumand Foundation via an
+    electronic form by a person informed about this case. According to this
+    information, Mr. Ne matollahi was born in Malayer in 1950. He was an
+    electrical engineer, a graduate of Sharif University, and worked at a
+    utility company in Bandar Abbas. He was married and had a ten-month-old
+    son at the time of his arrest. His older brother (Mas ud Ne matollahi) was
+    executed two and half years before him in 1984. Mr. Ne matollahi and his
+    brother were sympathizers of the Iranian Fighting Workers Organization, a
+    faction that had split from the Tufan Organization. The person who sent
+    the electronic form remembers Mr. Ne matollahi as a kind, honest, and
+    honorable man. The Marxist-Leninist Organization of Tufan was founded in
+    the late 1960s. De-Stalinization policy of Khoroshev in the Soviet Union
+    led to a political crisis in Iranian communist party Tudeh, as in many
+    communist parties around the world. Three Tudeh leaders i.e. Forutan,
+    Qasemi Saqa i left the Party in 1963 to found the Revolutionary
+    Organization of the Tudeh Party and then the Marxist-Leninist Organization
+    of Tufan . The organization changed its name after the 1979 revolution and
+    first became The Party of workers and farmers of Iran and later on Iran
+    Work Party, Tufan. The Party believed in a one-party system and supported
+    a political system modeled after Albania, which it considered as the only
+    socialist countries. The Organization of Struggling Workers of Iran is a
+    split from Tufan founded by some of the party s personnel. Arrest and
+    detention According to the information sent by the electronic form, Mr. Ne
+    matollahi was arrested in Bandar Abbas in December of 1982 (three months
+    after the arrest of his brother Mas ud). After three or four days, he was
+    transferred to Ward 209 of the Evin Prison. He was denied any visitation
+    for three months, but later, he was allowed monthly visitations. Trial No
+    information is available on Mr. Ne matollahi s trial. Charges The charges
+    against Mr. Ne matollahi are unknown. The validity of the criminal charges
+    brought against Mr. Ne matollahi cannot be ascertained in the absence of
+    the basic guarantees of a fair trial. Evidence of guilt The report of this
+    execution did not provide any specific information on the evidence
+    presented against the defendant. Defense No information is available on
+    Mr. Ne matollahi s defense. He was denied the right to an attorney.
+    Judgment According to the information provided by the electronic form, Mr.
+    Ne matollahi was hanged in the Evin prison on August 5, 1986. His family
+    was not allowed to see him one last time before his execution. After Mr.
+    Ne matollahi was executed, the authorities contacted his family telling
+    them to call the Prison. When his family called the Prison they were told
+    to go to Evin and collect his clothes. Mr. Ne matollahi did not leave a
+    will and the location of his grave is not known.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/64539/amir-saed-nematollahi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

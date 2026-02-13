@@ -1,0 +1,28 @@
+id: salehi-bahram-2007-2
+name_latin: "Bahram Salehi"
+name_farsi: "بهرام صالحی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2007-04-08
+age_at_death: null
+place_of_death: "Arak"
+province: "Markazi"
+cause_of_death: "Execution » Hanging"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/82360/bahram-salehi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

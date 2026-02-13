@@ -1,0 +1,51 @@
+id: afshar-ali-reza-shokri-1980-2
+name_latin: "Ali Reza Shokri Afshar"
+name_farsi: "علیرضا شکری افشار"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: "https://www.iranrights.org/actorphotos/15668_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1980-08-16
+age_at_death: null
+place_of_death: "Tabriz"
+province: "Azarbaijan-e Sharqi"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Mr. Ali Reza Shokri Afshar and five others was reported
+    by the correspondent of the Jomhuri Eslami daily in Tabriz. Arrest and
+    detention No information is available on the circumstances of Mr. Shokri
+    Afshar s arrest and detention. Trial No specific information about the
+    trial was provided. Charges Based on the report, the defendant was charged
+    with acting against the Islamic Republic government, shooting at innocent
+    people and the revolutionary guards, spreading corruption and distributing
+    opium, murder and plunder of people, kidnapping, armed robbery, martyring
+    several revolutionary guards and army officers, and so forth. The validity
+    of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    International human rights organizations have drawn attention to reports
+    indicating that the Islamic Republic s authorities have brought trumped up
+    charges against their political opponents and executed them for drug
+    trafficking, sexual, and other criminal offences. Each year, Iranian
+    authorities sentence to death hundreds of alleged common criminals,
+    following judicial processes that fail to meet international standards.
+    The exact number of people convicted based on trumped-up charges is
+    unknown. Evidence of guilt The report does not provide any information on
+    the evidence presented against the defendant. Defense No information on
+    the accused s defense is available. Judgment The Islamic Revolutionary
+    Tribunal of Tabriz declared Mr. Shokri Afshar a corruptor on earth and
+    sentenced him to death. The sentence was carried out at dawn.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/15668/ali-reza-shokri-afshar"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

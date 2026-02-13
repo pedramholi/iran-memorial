@@ -1,0 +1,28 @@
+id: ledisani-abdollah-1994-2
+name_latin: "Abdollah Ledisani"
+name_farsi: "عبدالله لدیسانی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1994-07-23
+age_at_death: null
+place_of_death: "Darbandikhan"
+province: null
+cause_of_death: "Extrajudicial Execution"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/84306/abdollah-ledisani"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

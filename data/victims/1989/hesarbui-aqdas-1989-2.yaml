@@ -1,0 +1,51 @@
+id: hesarbui-aqdas-1989-2
+name_latin: "Aqdas Hesarbu'i"
+name_farsi: "اقدس حصاربوئی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1989-01-01
+age_at_death: null
+place_of_death: "Karaj"
+province: "Tehran"
+cause_of_death: "Execution » Stoning"
+circumstances: >
+    News of the execution of Ms. Aqdas Hesarbu’i, Mr. Ali Reza Toliat and
+    another individual, was published in the Jomhuri Eslami newspaper on March
+    8, 1989. Arrest and Detention The circumstances of this defendant’s arrest
+    and detention are not known. Trial No information is available on the
+    defendant’s trial. The trial took place in the Public Court of Karaj.
+    Charges The charges against Ms. Hesarbui were announced as “adultery, and
+    participation in the murder of her husband” along with her co-defendant
+    Mr. Ali Reza Toliat. The validity of the criminal charges brought against
+    this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that Islamic Republic authorities
+    have brought trumped-up charges against their political opponents and
+    executed them for alleged drug trafficking, sexual, and other criminal
+    offences. Each year Iranian authorities sentence to death hundreds of
+    alleged common criminals, following judicial processes that fail to meet
+    international standards. The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of Guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against the defendant. Defense No information is available on Ms.
+    Hesarbu’i’s defense. Judgment The court condemned Ms. Aqdas Hesarbu’i to
+    death by stoning. The Supreme Judiciary Council confirmed the ruling. She
+    was stoned to death by bystanders in Rajaishahr near Karaj. In the
+    newspaper report, the date of the execution is not mentioned.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/39816/aqdas-hesarbui"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

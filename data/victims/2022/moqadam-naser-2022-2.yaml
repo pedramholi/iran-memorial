@@ -1,0 +1,28 @@
+id: moqadam-naser-2022-2
+name_latin: "Naser Moqadam"
+name_farsi: "ناصر مقدم"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2022-05-26
+age_at_death: 25
+place_of_death: "Gorgan"
+province: "Golestan"
+cause_of_death: "Execution » Hanging"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/85995/naser-moqadam"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

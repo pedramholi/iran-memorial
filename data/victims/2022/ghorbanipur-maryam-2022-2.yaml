@@ -1,0 +1,29 @@
+id: ghorbanipur-maryam-2022-2
+name_latin: "Maryam Ghorbanipur"
+name_farsi: "مریم قربانی‌پور"
+date_of_birth: null
+place_of_birth: null
+gender: female
+ethnicity: null
+religion: "Presumed Muslim (Shi'a)"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2022-11-25
+age_at_death: 34
+place_of_death: "Shahr-e Kord"
+province: "Chaharmahal Va-Bakhtiari"
+cause_of_death: "Arbitrary Execution » Other arbitrary execution method"
+circumstances: >
+    https://docs.google.com/document/d/1t_MaXg4AAhDtWHkS7MA7usn_By765uH4hDkPO-HzAdc/edit?tab=t.0
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/86336/maryam-ghorbanipur"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

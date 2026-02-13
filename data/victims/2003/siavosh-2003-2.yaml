@@ -1,0 +1,47 @@
+id: siavosh-2003-2
+name_latin: "Siavosh"
+name_farsi: "سیاوش"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2003-01-01
+age_at_death: null
+place_of_death: "Behbahan"
+province: "Khuzestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Siavosh, son of Mohammad Khan, known as
+    Siakhan, along with another person, was published in the Jomhuri Eslami
+    newspaper on July 5, 2003, quoting the Public Relations Office of the
+    Khuzestan Courthouse. His case was related to banditry and rape. Arrest
+    and detention The circumstances of Mr. Siavosh s arrest and detention are
+    not known. Trial Branch Four of the Public Court in Behbahan tried Mr.
+    Siavosh No information is available on his trial. Charges According to the
+    Public Relations Office of the Khuzestan Courthouse, the charges brought
+    against Mr. Siavosh and the other defendant were collectively announced as
+    banditry, rape, and abominable adultery. The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. Evidence of guilt The
+    report of this execution did not provide any specific information on the
+    evidence presented against Mr. Siavosh. Defense No information is
+    available on Mr. Siavosh s defense. Judgment Branch Four of the Public
+    Court in Behbahan condemned Mr. Siavosh to death and the Supreme Court
+    confirmed the ruling. He was hanged, along with the other defendant, in
+    public at Shohada Square in Behbahan in 2003. No specific information is
+    available about this execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/75674/siavosh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,56 @@
+id: shafai-javad-1982-2
+name_latin: "Javad Shafa'i"
+name_farsi: "جواد شفائی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Islam (Shi'a)"
+photo: "https://www.iranrights.org/actorphotos/35707_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1982-01-01
+age_at_death: 27
+place_of_death: "Tehran Province"
+province: "Tehran"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The information about the execution of Mr. Javad Shafa'i was taken from
+    the Mojahedin Khalq web site. He was born in Kordestan. He was married and
+    a student at the Technical University of Tehran, majoring in Metallurgy.
+    He was a sympathizer of the Mojahedin Khalq Organization. This execution
+    was also reported in an addendum to the Mojahed magazine (No 261),
+    published by Mojahedin Khalq Organization in 1985. The list includes 12028
+    individuals, affiliated with various opposition groups, who were executed
+    or killed during clashes with the Islamic Republic security forces from
+    June 1981 to the publication date of the magazine. Arrest and detention No
+    details are available about Mr. Shafa'i's arrest and detention. He was
+    arrested in fall of 1981, and was detained in Evin prison. According to
+    the Mojahedin Khalq web site, he was tortured and his wife was pressured
+    for a confession. According to the same web site, “When they were
+    frustrated and unable to crush him, they gave him a book named “People’s
+    Hypocrites Against the People” and then set him in front of other
+    prisoners for a debate. He showed them the book and said: “They gave me
+    this book to read so I could debate. Do you think there could be a debate
+    between the executioner and the victim?” Then, he showed the marks of
+    torture on his feet and said: “They couldn’t get results by torture. What
+    debate can we have with them? The first condition for debate is to put
+    aside torture. Our first question is why do you torture people in prison?”
+    Trial No information is available on the defendant’s trial. Charges No
+    information is available on the charges against Mr. Shafa’i. Evidence of
+    guilt The report of this execution contains no evidence provided against
+    the defendant. Defense No information is available on Mr. Shafa'i's
+    defense. Judgment No details are available on the defendant’s death
+    sentence. According to the information available in the Mojahedin’s
+    addendum, Mr. Shafa'i was killed under torture in 1982.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/35707/javad-shafai"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,28 @@
+id: bachizi-hamed-shahuzehi-2022-2
+name_latin: "Hamed Shahuzehi (Bachizi)"
+name_farsi: "حامد شاهوزهی (باچیزی)"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Islam (Sunni)"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2022-10-02
+age_at_death: null
+place_of_death: "Zahedan"
+province: "Sistan Va Baluchestan"
+cause_of_death: "Arbitrary Execution » Arbitrary shooting"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/86845/hamed-shahuzehi-bachizi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

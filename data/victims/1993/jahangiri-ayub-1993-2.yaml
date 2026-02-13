@@ -1,0 +1,87 @@
+id: jahangiri-ayub-1993-2
+name_latin: "Ayub Jahangiri"
+name_farsi: "ایوب جهانگیری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam (Sunni)"
+photo: "https://www.iranrights.org/actorphotos/73918_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1993-01-01
+age_at_death: 26
+place_of_death: "Orumieh"
+province: "Azarbaijan-e Gharbi"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    News of the execution of Mr. Ayub Jahangiri, along with three others, was
+    published on the website of Peyke Iran on September 27, 2005, quoting the
+    Organization for Defending Human Rights in Kurdistan. Additional
+    information is taken from a letter written by Mr. Osman Mostafapur, Mr.
+    Jahangiri s casemate, to Mr. Ahmad Shaheed, United Nations Special
+    Rapporteur on the human rights situation in Iran (The Campaign to Defend
+    Political and Civil Prisoners, December 16, 2011), and the Abdorrahman
+    Boroumand Foundation interview with a member of the Democratic Party of
+    Iranian Kurdistan based on the archive of this party. Mr. Ayub Jahangiri,
+    son of Teymur, a young Sunni Kurd, was from the Kurisofla Village in Anzal
+    near Orumieh. He was a member of the Democratic Party of Iranian
+    Kurdistan. The Democratic Party of Iranian Kurdistan (PDKI) was founded in
+    1945 with the objective to gain autonomy for Kurdistan, in north western
+    of Iran. After the Revolution, conflicts between the new central Shiite
+    government and the mainly Sunni Kurdistan, regarding the role of
+    minorities in the drafting of the constitution, specification of Shiite as
+    the official state religion, and particularly the autonomy of the region,
+    ended in armed clashes between the Revolutionary Guards and the Peshmerga
+    (the militia of the PDKI). The PDKI boycotted the referendum of April 1,
+    when people went to polls to vote for or against the Islamic regime. On
+    August 19, 1979, Ayatollah Khomeini called the PDKI the party of Satan and
+    declared it unofficial and illegal. Mass executions and fighting broke out
+    and continued for several months in the region. By 1983, PDKI had lost
+    much of its influence in the region. Various leaders of the PDKI have been
+    assassinated. Arrest and detention According to the interviewee, while
+    performing their organizational duties, the Revolutionary Guards attacked
+    Mr. Jahangiri and six other peshmarga of the PDKI in Orumieh District on
+    July 14, 1991. (ABF interview) According to a member of this group, the
+    Revolutionary Guards at the Asengran Targur area near Orumieh arrested Mr.
+    Jahangiri and three others; two others were killed. (The letter by Osman
+    Mostafapur to Ahmad Shaheed, Campaign to Defend Political and Civil
+    Prisoners) The circumstances of Mr. Jahangiri s arrest and detention are
+    unknown; according to his cellmate letter to Ahmad Shaeed, however, he was
+    detained in solitary confinement by the Revolutionary Guards and the
+    Intelligence Office in Orumieh for six months. On January 8, 1992, Mr.
+    Jahangiri was transferred to the Orumieh Central Prison and met his
+    friends for the first time. He told his friends that he had been tortured
+    physically and mentally, and insulted by his interrogators for six months
+    during which he had no visitation with his family or his attorney. (The
+    letter by Osman Mostafapur to Ahmad Shaheed, Campaign to Defend Political
+    and Civil Prisoners) Trial According to a defendant in this case, Mr.
+    Jahangiri and others were tried on January 25, 1992. No information is
+    available on his trial. (The letter by Osman Mostafapur) Charges According
+    to the Organization for Defending the Human Rights in Kurdistan, the
+    charge against Mr. Jahangiri had been cooperation with the Kurdistan
+    Democratic Party of Iran . (Peyke Iran) The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. Evidence of guilt The
+    report of this execution does not contain information regarding the
+    evidence provided against Mr. Jahangiri. Defense No information is
+    available on Mr. Jahangiri s defense. According to a defendant in this
+    case, the court did not allow defendants to select their attorneys and
+    assigned them public defenders. (The letter by Osman Mostafapur) Judgment
+    The court condemned Mr. Ayub Jahangiri and two other defendants in this
+    case to death. According to a defendant, Mr. Jahangiri was notified
+    several months after the ruling was issued. He was executed at the Orumieh
+    Central Prison in the summer of 1992. (The letter by Osman Mostafapur) Mr.
+    Jahangiri s body was not given to his family and they were not informed of
+    his burial location. (ABF interview)
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7666/ayub-jahangiri"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

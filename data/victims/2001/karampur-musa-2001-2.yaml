@@ -1,0 +1,98 @@
+id: karampur-musa-2001-2
+name_latin: "Musa Karampur"
+name_farsi: "موسی کرمپور"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Islam (Sunni)"
+photo: "https://www.iranrights.org/actorphotos/85759_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 2001-05-04
+age_at_death: 39
+place_of_death: "Kharqa Mubarak Mosque"
+province: null
+cause_of_death: "Extrajudicial Execution » Bombing"
+circumstances: >
+    Molavi Musa Karampur served as the Imam of Friday prayer at the Sheikh
+    Feiz Mohammad Sunni mosque in Mashhad. The mosque was a place of worship
+    for Sunnis from various regions and Afghanistan. The mosque was destroyed,
+    and a tree was planted in its place. Additionally, the Imam of Friday
+    prayer was expelled from Iran. However, this action did not satisfy the
+    perpetrators. Information about the extrajudicial execution of Mr. Musa
+    Karampur, son of Ahmad, was gathered by the Abdorrahman Boroumand Center
+    (ABC) through interviews with one of his close friends on December 9,
+    2022, and another acquaintance on October 17, 2023, and from the Islamic
+    Republic News Agency - IRNA (May 8, 2001). Additional details about his
+    assassination were obtained from Mr. Karampur's speech in Herat,
+    Afghanistan on March 9, 2000, his book "The Last Cry of the Martyred
+    Sheikh Feiz Mohammad Mosque*" (published in 2006), Hamshahri Newspaper
+    (May 6, 2001), information written on his gravestone, and the websites and
+    Facebook pages of the Baloch Activists Campaign (February 2, 2015) and
+    Radio Azadi (December 29, 2018). Mr. Musa Karampur, born in 1962, was a
+    Sunni cleric from the village of Shahrabad, a district of Torbat-e Jam in
+    Razavi Khorasan Province (according to the information on his tombstone).
+    He was married and had six children. (Interview with ABC, October 17,
+    2023) Molavi Karampur began his religious education at the age of 12 at
+    the religious school in Torbat-e Jam. He was first arrested in 1981 in the
+    middle of a sermon at the mosque. While still a student, he was imprisoned
+    in Vakilabad prison in Mashhad and released after 40 days (ABC's Interview
+    with a close friend, December 9, 2022). He later wrote about those 40 days
+    in his book (The Last Cry), describing how security officials pressured
+    his weaknesses to the point that he repeatedly wished for death. According
+    to a friend, during his detention, Mr. Karampur was forced to swear to
+    cooperate with the security officials, so he advised other clerics not to
+    speak against the Islamic Republic in his presence to avoid lying. (ABC's
+    Interview with a close friend, December 9, 2022). In 1984, Mr. Karampur
+    went to the Darul Uloom School in Karachi, Pakistan, for one year to
+    complete his religious studies. He believed that he was being monitored by
+    one of his roommates during his studies in Pakistan, a fact that he
+    realized in later interrogations (book The Last Cry). Upon returning to
+    Iran in 1985, he resumed his religious activities, initially delivering
+    sermons at Mehrabad Mosque in Mashhad. In 1989, he was appointed as the
+    imam of Sheikh Feiz Mohammad Mosque, which was regarded as a "point of
+    communication" and the "heart of the Sunni community."(The Last Cry book).
+    In a televised interview, Abdollah Heidari, director of the Center for
+    Thought and Dialogue Studies and a classmate and friend of Molavi
+    Karampur, discussed his capabilities and activities. Heidari noted that
+    Molavi Karampur, initially an unknown young man, was transferred to Sheikh
+    Feiz Mohammad Mosque. However, due to his erudition and exemplary academic
+    performance, he leveraged the mosque as a cultural hub, drawing in young
+    people through a range of religious classes and programs (Kalameh Global
+    Network, Silent Scream Special Program, February 21, 2013). As the Imam of
+    the Sheikh Feiz Mohammad Mosque, he was very popular and eloquent, with
+    one close friend describing him as "our leader and spokesman...we never
+    tired of his speeches and meetings." (ABC's Interview with a Close Friend,
+    December 9, 2022). During his tenure at the Sheikh Feiz Mohammad Mosque,
+    he was repeatedly summoned and interrogated by security officials, writing
+    in his book, "The intelligence service summoned me several times a week,
+    blindfolded me, and attacked me like rabid dogs, torturing me in ways that
+    make me tremble just thinking about it. (Karampur s speech, March 9,
+    2000). In 1993, the Mashhad Municipality, backed by security and military
+    forces, demolished the Sheikh Feiz Mohammad Mosque. To prevent the
+    demolition, Mr. Karampur collected fatwas from influential Sunni scholars
+    stating that the demolition was un-Islamic, illegal, and impermissible.
+    However, upon learning of this, the intelligence officials arrested him
+    and confiscated the scroll containing the collected fatwas (Kalameh Global
+    Network, Silent Scream Special Program, February 21, 2013). Aware that the
+    demolition of the mosque would provoke Sunni protests, days before the
+    demolition, intelligence security officials circulated forged letters
+    purportedly signed by Molavi Karampur indicating his consent to the sale
+    and demolition of the mosque. This act was intended to defame him among
+    his followers and incite protesters against him (Karampur's speech, March
+    9, 2000). According to Mr. Karampur, during an interrogation before the
+    demolition, the intelligence officials asked him hypothetically, "If the
+    Supreme Leader orders the demolition of the mosque, what is your opinion?"
+    H
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8928/musa-karampur"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

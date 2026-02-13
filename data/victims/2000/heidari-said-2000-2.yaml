@@ -1,0 +1,53 @@
+id: heidari-said-2000-2
+name_latin: "Sa'id Heidari"
+name_farsi: "سعید حیدری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: "https://www.iranrights.org/actorphotos/73253_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 2000-04-10
+age_at_death: 21
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Sa id Heidari, along with four others, was
+    published in the Hamshahri newspaper on April 11, 2000. The Ettela at
+    newspaper published the news of his arrest and conviction on January 19
+    and November 28, 1999. According to these reports, Mr. Heidari worked as a
+    marketing agent. Following a phone conversation with one of a man, he went
+    to his house and talked to him. When he noticed that the man and his wife
+    live there alone and seemed that they had a good financial situation, he
+    was tempted to rob them. On January 16, 1999, at noon, he entered the
+    couple s house to rob them, pretending to deliver a postal package. Since
+    the house owner recognized him, he murdered the couple by stabbing with a
+    knife. Arrest and Detention According to the Ettela at newspaper, Mr.
+    Heidari was identified and arrested while driving the victims car on a
+    street in Qods Town. The circumstances of his arrest and detention are not
+    known. Trial Branch 1602 of the Tehran Criminal Court, presided Judge
+    Javad Esma ili, tried this case. No further information is available on
+    Mr. Heidari s trial. Charges The charges against Mr. Heidari were
+    announced as, "murder and robbery. Evidence of Guilt The evidence provided
+    against Mr. Heidari was his confession and a statement by a witness who
+    had spoken with the female victim. During a phone conversation, the latter
+    told the witness that the house bell rang, and a postal package was
+    waiting for her. Defense No information is available on Mr. Heidari's
+    defense. Judgment The court condemned Mr. Sa id Heidari to two counts of
+    Qesas (death penalty) for murder, plus two years imprisonment and 74
+    lashes for robbery. Branch 26 of the Supreme Court confirmed the ruling.
+    He was hanged in Qasr Prison on April 10, 2000.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/73253/said-heidari"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

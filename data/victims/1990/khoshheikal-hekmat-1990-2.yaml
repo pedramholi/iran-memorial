@@ -1,0 +1,66 @@
+id: khoshheikal-hekmat-1990-2
+name_latin: "Hekmat Khoshheikal"
+name_farsi: "حکمت خوش هیکل"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Non-Believer"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1990-03-19
+age_at_death: 28
+place_of_death: "Kermanshah"
+province: "Kermanshah"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    Information about Mr. Hekmat Khoshheikal has been drawn from an interview
+    with an individual familiar with this case. He was affiliated with the
+    Democratic Party of Iranian Kurdistan (PDKI). Having graduated from high
+    school, he started his compulsory military service. The Kurdish Democratic
+    Party of Iran (PDKI) was founded in 1945 with the objective to gain
+    autonomy for Kurdistan, in north-west of Iran. After the Revolution,
+    conflicts between the new central Shiite government and the mainly Sunni
+    Kurdistan, regarding the role of minorities in the drafting of the
+    constitution, specification of Shiite as the official state religion, and
+    particularly the autonomy of the region, ended in armed clashes between
+    the Revolutionary Guards and the peshmerga (the militia of the PDKI). The
+    PDKI boycotted the referendum of April 1, when people went to polls to
+    vote for or against the Islamic regime. On August 19, 1979 Ayatollah
+    Khomeini called the PDKI the “party of Satan” and declared it “unofficial
+    and illegal.” Mass executions and fighting broke out and continued for
+    several months in the region. By 1983, PDKI had lost much of its influence
+    in the region. Various leaders of the PDKI have been assassinated. Arrest
+    and detention Mr. Khoshheikal was arrested on August 19, 1989 at the Paveh
+    Garrison (Kermanshah province) where he was serving his military service.
+    He was detained at the Intelligence Unit of the Revolutionary Guards Corps
+    in Kermanshah. His family visited the Revolutionary Guards base to receive
+    some information about him. One day, as they were talking to a guard, they
+    saw Mr. Khoshheikal still in uniform and with handcuffs and tied feet. He
+    said that he was being taken to the court. A guard warned them against
+    speaking Kurdish and said they should only speak in Farsi. This was his
+    only visit with his family during the 7 months of detention. After this
+    visit, the family’s attempts for another visit remained ineffective. Trial
+    There is no information regarding this trial. Charges The charges brought
+    against the defendant are not known. Evidence of guilt No information is
+    available concerning the evidence presented against the accused. Defense
+    No information is available concerning Khoshheikal’s defense. He was
+    denied the right to an attorney or access to his file. Judgment On March
+    19, 1990 the authorities informed Mr. Hekmat Khoshheikal’s family that he
+    had been executed in Kermanshah. With lots of persistence, his family was
+    eventually allowed to bring the body from Kermanshah to Paveh. They found
+    out that the body had not been buried and merely thrown into a ditch. His
+    family was warned against talking about this incident to anyone. They were
+    later exiled from Paveh to Kermanshah.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/41413/hekmat-khoshheikal"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

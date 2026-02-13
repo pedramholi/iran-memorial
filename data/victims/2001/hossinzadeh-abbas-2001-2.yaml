@@ -1,0 +1,45 @@
+id: hossinzadeh-abbas-2001-2
+name_latin: "Abbas Hossinzadeh"
+name_farsi: "عباس حسین‌زاده"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2001-06-17
+age_at_death: 29
+place_of_death: "Borujerd"
+province: "Lorestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Abbas Hosseinzadeh, son of Parviz, was
+    published in the Iran newspaper on July 4, and in the Kayhan newspaper on
+    June 19, 2001. Arrest and Detention Mr. Hosseinzadeh had been arrested
+    during an armed clash at Abadeh in Shiraz in 1999. There is no specific
+    information on his arrest and detention. Trial The Public Court of
+    Borujerd tried Mr. Hosseinzadeh. No further information is available on
+    his trial. Charges The charges against Mr. Hosseinzadeh were announced as
+    "murder, drug trafficking, armed clashes with security forces, possession
+    of an illegal weapon, sedition, and public harassment in Borujerd." The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    Evidence of Guilt The report of this execution did not provide any
+    specific information on the evidence presented against Mr. Hosseinzadeh.
+    Defense No information is available on Mr. Hosseinzadeh s defense.
+    Judgment The court condemned Mr. Abbas Hosseinzadeh to death twice, and
+    the Supreme Court confirmed the ruling. He was hanged in public at the
+    Qiyam Square in Borujerd on June 17, 2001.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/75554/abbas-hossinzadeh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

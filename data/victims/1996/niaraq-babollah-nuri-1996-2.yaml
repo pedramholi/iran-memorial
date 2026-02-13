@@ -1,0 +1,52 @@
+id: niaraq-babollah-nuri-1996-2
+name_latin: "Babollah Nuri Niaraq"
+name_farsi: "باب‌الله نوری نیارق"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1996-07-11
+age_at_death: 45
+place_of_death: "Karaj"
+province: "Alborz"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    completed elementary education, during the six years he was in prison.
+    Information about the execution of Mr. Babollah Nuri Niaraq, son of
+    Yadollah, was obtained through the electronic form sent to the Abdorrahman
+    Boroumand Center by an informed person on February 28, 2018. Mr. Nuri
+    Niaraq was born in 1951 in the city of Ardabil. At his early childhood,
+    his parents separated and his grandmother took care of him. Mr. Nuri
+    Niaraq was married, with 9 children, and worked as a roofer. Mr. Nuri
+    Niaraq's case was related to drug trafficking. A few years after the 1979
+    revolution, Mr. Nuri Niaraq became addicted to drugs. Shortly after that,
+    owing financial difficulties and his addiction to drugs, Mr. Nuri Niaraq
+    started drug trafficking (in retail). Arrest and detention According to
+    available information, Mr. Nuri Niaraq was arrested in 1990 in Tehran.
+    There is no information available on the details of his arrest and
+    detention. During the six years Mr. Nuri Niaraq was in prison, he
+    completed elementary education. Trial No information is available on Mr.
+    Nuri Niaraq s trial. Charges The charge brought against Mr. Nuri Niaraq is
+    drug trafficking. Evidence of guilt The report of this execution states
+    that 60 kilograms of opium was cited as evidence against Mr. Nuri Niaraq.
+    Defense No information is available on Nuri Niaraq s defense. Judgment
+    According to available information, Mr. Nuri Niaraq was sentenced to
+    death. There is no information on the verdict leading to this execution.
+    Six years after his arrest, Mr. Babollah Nuri Niaraq was hanged on July 9,
+    1996 in Raja i Shahr prison. His family was denied a final visit before
+    the execution was carried out.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/80407/babollah-nuri-niaraq"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

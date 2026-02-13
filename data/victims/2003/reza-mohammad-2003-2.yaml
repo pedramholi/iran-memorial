@@ -1,0 +1,43 @@
+id: reza-mohammad-2003-2
+name_latin: "Mohammad Reza"
+name_farsi: "محمدرضا"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2003-01-01
+age_at_death: null
+place_of_death: "Bandar Anzali"
+province: "Gilan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Mohammad Reza was published in the Ettela at
+    newspaper on December 13, 2003. Arrest and detention The circumstances of
+    Mr. Mohammad Reza s arrest and detention are not known. Trial No
+    information is available on Mr. Mohammad Reza s trial. Charges The charge
+    brought against Mr. Mohammad Reza was announced as murder. According to
+    the report, he had murdered a person with a knife during a fight at the
+    Anzali market in 2000. The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. Evidence of guilt The report of this execution
+    did not provide any specific information on the evidence presented against
+    Mr. Mohammad Reza. Defense No information is available on Mr. Mohammad
+    Reza s defense. Judgment The court condemned Mr. Mohammad Reza to death
+    and Branch 42 of the Supreme Court confirmed the ruling. He was hanged in
+    Bandar-e Anzali in December of 2003. The exact date of this execution is
+    unknown.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/73743/mohammad-reza"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

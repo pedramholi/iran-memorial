@@ -1,0 +1,48 @@
+id: aminzadeh-mahmud-2007-2
+name_latin: "Mahmud Aminzadeh"
+name_farsi: "محمود امین‌زاده"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2007-07-24
+age_at_death: null
+place_of_death: "Kermanshah"
+province: "Kermanshah"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Mahmud Aminzadeh was published on the
+    websites of IRNA (Islamic Republic News Agency) on July 24, and the Kayhan
+    newspaper on July 25, 2007, quoting the Head of the Public Relations
+    Office of the Kermanshah Province Courthouse. Arrest and Detention There
+    is no specific information about Mr. Aminzadeh s arrest and detention.
+    Trial The Criminal Court of Kermanshah tried Mr. Aminzadeh. No further
+    information is available on his trial. Charges The charges against Mr.
+    Aminzadeh were announced as "murdering his wife, his two sisters-in-laws,
+    and his two children in 2004." According to the Head of Public Relations
+    Office of the Kermanshah Province Courthouse, he had a record for several
+    convictions including membership in anti-revolutionary groups. The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    Evidence of Guilt The report of this execution did not provide any
+    specific information on the evidence presented against Mr. Aminzadeh.
+    Defense According to the Head of Public Relations Office of the Kermanshah
+    Province Courthouse, Mr. Aminzadeh claimed chastity issues as his
+    motivation for the murder. Judgment The court condemned Mr. Mahmud
+    Aminzadeh to death and Branch 40 of the Supreme Court confirmed the
+    ruling. He was hanged in the Kermanshah Central Prison on July 24, 2007.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7569/mahmud-aminzadeh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

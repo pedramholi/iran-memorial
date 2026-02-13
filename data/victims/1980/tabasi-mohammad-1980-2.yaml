@@ -1,0 +1,51 @@
+id: tabasi-mohammad-1980-2
+name_latin: "Mohammad Tabasi"
+name_farsi: "محمد طبسی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: "https://www.iranrights.org/actorphotos/12878_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1980-07-11
+age_at_death: null
+place_of_death: "Sabzevar"
+province: "Khorasan\\Khorasan-e Razavi"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Mr. Mohammad Tabasi and four others was reported by the
+    correspondent of the Jomhuri Eslami daily in Sabzevar (July 13, 1980).
+    Arrest and detention The circumstances of this defendant s arrest and
+    detention are not known. Trial Based on the report, the Islamic
+    Revolutionary Public Prosecutor examined the case at the Islamic
+    Revolutionary Tribunal of Sabzevar on July 10, 1980. Charges The defendant
+    was charged with having a long history in buying and selling opium and
+    collaboration with gendarmerie officials on the Arba in day [Islamic holy
+    day] 1979, resulting in the martyrdom of five individuals. The validity of
+    the criminal charges brought against this defendant cannot be ascertained
+    in the absence of the basic guarantees of a fair trial. International
+    human rights organizations have drawn attention to reports indicating that
+    the Islamic Republic s authorities have brought trumped up charges against
+    their political opponents and executed them for drug trafficking, sexual,
+    and other criminal offences. Each year, Iranian authorities sentence to
+    death hundreds of alleged common criminals, following judicial processes
+    that fail to meet international standards. The exact number of people
+    convicted based on trumped-up charges is unknown. Evidence of guilt The
+    report does not contain information regarding the evidence provided
+    against the defendant. Defense No information is available on Mr. Tabasi s
+    defense. Judgment The Islamic Revolutionary Tribunal of Sabzevar sentenced
+    Mr. Tabasi to death and confiscation of his belongings. The death sentence
+    was carried out the day after the trial.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/12878/mohammad-tabasi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

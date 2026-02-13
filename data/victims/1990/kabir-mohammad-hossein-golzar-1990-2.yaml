@@ -1,0 +1,60 @@
+id: kabir-mohammad-hossein-golzar-1990-2
+name_latin: "Mohammad Hossein Golzar Kabir"
+name_farsi: "محمد‌حسین گلزار کبیر"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1990-02-15
+age_at_death: 27
+place_of_death: "Hamedan"
+province: "Hamedan"
+cause_of_death: "Execution » Beheading"
+circumstances: >
+    The execution of Mr. Mohammad Hossein Golzar Kabir was mentioned by the
+    Special representative of the United Nation's Commission on Human Rights,
+    Professor Reynaldo Galindo Pohl, in his report on the situation of human
+    rights in the Islamic Republic of Iran. A/45/697, 6 November 1990. This
+    execution was also reported by the daily Kayhan on 15 February 1990. The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    International human rights organizations have drawn attention to reports
+    indicating that the Islamic Republic s authorities have brought trumped up
+    charges against their political opponents and executed them for drug
+    trafficking, sexual, and other criminal offences. Each year, Iranian
+    authorities sentence to death hundreds of alleged common criminals,
+    following judicial processes that fail to meet international standards.
+    The exact number of people convicted based on trumped-up charges is
+    unknown. Arrest and detention According to Kayhan's report the defendant
+    was arrested on February 12th, 1990. He was executed on February 15th. His
+    arrest and detention lasted three days. Trial The UN report indicates that
+    on February 14th, 1990, a judicial panel was sent to Hamadan on behalf of
+    the Head of the Judiciary to deal with this case. The trial lasted one
+    day. Charges The defendant was charged with bank robbery and murder.
+    Evidence of guilt According to Kayhan, part of the money, robbed from the
+    Bank, was found in the defendant's residence. Defense No information is
+    available on Mr. Golzar Kabir's defense. The defendant was not allowed to
+    appeal the sentence. Judgment On February 14th, 1990, the judicial panel
+    representing the Head of the Judiciary issued the following sentence : "
+    Mr. Mohammad Hossein Golzar Kabir, discharged employee of the Hamadan
+    municipality, 74 lashes for committing robbery ; 74 lashes for
+    participation in a forbidden act ,the infliction of three injuries, and
+    decapitation by the just sword of the Imam Ali." The sentence was
+    confirmed by the Head of the Judiciary. In the morning of February 15th,
+    the defendant received 148 lashes first, received three injuries and then
+    he was beheaded in a public square.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8454/mohammad-hossein-golzar-kabir"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

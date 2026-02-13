@@ -1,0 +1,50 @@
+id: h-reza-2005-2
+name_latin: "Reza H."
+name_farsi: "رضا ح."
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2005-05-04
+age_at_death: null
+place_of_death: "Ahvaz"
+province: "Khuzestan"
+cause_of_death: "Fatal"
+circumstances: >
+    The execution of Mr. Reza H. was published on the websites of the Jomhuri
+    Eslami and the Javan newspapers on May 5, 2005. Arrest and detention The
+    circumstances of this defendant’s arrest and detention are not known.
+    Trial No information is available on the defendant’s trial. Charges
+    According to the report from the office of information and public
+    relations of Khuzestan province, the charges brought against Mr. Reza H.
+    were described as follows: “He committed a premeditated murder. He took
+    his victim, Hossain A., to Baghferdos and killed him with a knife.” The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    International human rights organizations have drawn attention to reports
+    indicating that the Islamic Republic’s authorities have brought trumped-up
+    charges against their political opponents and executed them for drug
+    trafficking, sexual, and other criminal offences. Each year, Iranian
+    authorities sentence to death hundreds of alleged common criminals,
+    following judicial processes that fail to meet international standards.
+    The exact number of people convicted based on trumped-up charges is
+    unknown. Evidence of guilt According to Jomhuri Eslami newspaper, this was
+    an honor killing. Defense No information is available on Mr. Reza H’s
+    defense. Judgment A court condemned Mr. Reza H. to death and Branch 26 of
+    the Supreme Court approved the sentence. He was executed in public on May
+    4, 2005 in Shahid Bandar square in Ahvaz.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/43887/reza-h"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

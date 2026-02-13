@@ -1,0 +1,28 @@
+id: oveisi-gholam-ali-1984-2
+name_latin: "Gholam-'Ali Oveisi"
+name_farsi: "غلامعلی اویسی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Islam"
+photo: "https://www.iranrights.org/actorphotos/29130_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1984-02-07
+age_at_death: null
+place_of_death: "Paris"
+province: null
+cause_of_death: "Extrajudicial Execution » Extrajudicial shooting"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4403/gholam-ali-oveisi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

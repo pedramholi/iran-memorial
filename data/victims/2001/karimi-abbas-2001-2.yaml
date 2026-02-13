@@ -1,0 +1,72 @@
+id: karimi-abbas-2001-2
+name_latin: "Abbas Karimi"
+name_farsi: "عباس کریمی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Unknown"
+photo: "https://www.iranrights.org/actorphotos/73921_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 2001-04-30
+age_at_death: 22
+place_of_death: "Saqqez Garrison"
+province: "Kordestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Abbas Karimi was announced by the office of
+    the Komala Party of Iranian Kurdistan. Additional information was taken
+    from the ABF interview with a member of this organization in Saqez and the
+    Komala Office in Erbil, Iraq. Mr. Karimi, known as Helu, 22, was single
+    and from Saqez in Kurdistan. He had a middle school education. In 1995, he
+    joined the Komala Party in Kurdistan and served for a year in Saqez and
+    the surrounding area. One year later, he became a Peshmerga and was active
+    in the Showan Battalion for five years. His responsibilities in Komala
+    included being a Group Deputy, working in the technical department of the
+    organization radio, being a Group Commander, and being in charge of the
+    library. In the mid 1960 s, several remaining members of the Kurdistan
+    Democratic Party of Iran established the Revolutionary Organization of
+    this party in Iraq. Among its leaders were Esma il Sharifzadeh, Abdollah
+    Mo ini, and Mola avareh, who began an armed guerrilla struggle in
+    Kurdistan inspired by the Cuban Revolution. The group was defeated in 1969
+    and several of its members arrested. The Revolutionary Organization of
+    Working People in Kurdistan (Komala) was established upon the release of a
+    number of the leaders in 1978. After the revolution, in accordance with
+    Marxist theory, Komala opposed capitalists and landlords, and encouraged
+    workers and peasants in Kurdistan, in particular in the city of Sanandaj
+    and vicinity where they had strong support, to initiate an armed uprising
+    against capitalists, landlords and the central government. In 1982, Komala
+    joined another Marxist group, Sahand, an organization concentrating mainly
+    on theory and ideology, and established the Communist Party of Iran.
+    Komala subsequently adopted the name The Kurdistan Organization of the
+    Communist Party of Iran, Komala. By the mid-1980s, the central government
+    had succeeded in pushing Komala fighters out of Kurdistan and into
+    Northern Iraq. Years later, Komala split from the Communist Party of Iran
+    and faced several schisms, each continuing to use the name Komala. Arrest
+    and detention Mr. Karimi was arrested in May of 2001 and detained at the
+    Saqez Prison for a week. The circumstances of his arrest and detention are
+    not known. Trial No information is available on Mr. Karimi s trial.
+    Charges According to the Komala Office in Arbil, the charge against Mr.
+    Karimi was announced as being a member of Komala. No detail information is
+    available regarding his charges. The validity of the criminal charges
+    brought against this defendant cannot be ascertained in the absence of the
+    basic guarantees of a fair trial. Evidence of guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against Mr. Karimi. Defense No information is available on Mr. Karimi s
+    defense. According to the Komala Office in Erbil, the time between his
+    arrest and execution was only one week. (ABF interview) Judgment Mr. Abbas
+    Karimi was hanged, along with another member of Komala, Mr. Baqi Rahimi,
+    at the Saqez Prison on April 30, 2001. There is no information on the
+    verdict leading to this execution or his burial location.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7668/abbas-karimi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

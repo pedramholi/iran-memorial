@@ -1,0 +1,55 @@
+id: zohrehvand-mohammad-2007-2
+name_latin: "Mohammad Zohrehvand"
+name_farsi: "محمد زهره‌وند"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2007-01-01
+age_at_death: 26
+place_of_death: "Torbat-e Heydarieh"
+province: "Khorasan\\Khorasan-e Razavi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Mohammad Zohrehvand was published on the
+    website of the Khorasan newspaper on May 19, 2007. Arrest and Detention
+    There is no specific information on the Mr. Zohrehvand s arrest and
+    detention. Trial This trial took place at Branch One of the Islamic
+    Revolutionary Court in Torbat-e-Heidariyeh. No further information is
+    available about Mr. Zohrehvand s trial. Charges The charges against Mr.
+    Mohammad Zohrehvand were announced as "transportation and possession of 15
+    kilograms of heroin." The validity of the criminal charges brought against
+    this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that Islamic Republic authorities
+    have brought trumped-up charges against their political opponents and
+    executed them for alleged drug trafficking, sexual, and other criminal
+    offences. Thousands of alleged drug traffickers have been sentenced to
+    death following judicial processes that fail to meet international
+    standards. Scores of them were executed based on a 1989 law imposing
+    mandatory death sentences on drug traffickers found in possession of
+    specified amounts of proscribed narcotics (5 kg of hashish or opium, and
+    more than 30 grams of heroin, codeine or methadone). The exact number of
+    people convicted based on trumped-up charges is unknown. Evidence of Guilt
+    The report of this execution did not provide any specific information on
+    the evidence presented against Mr. Zohrehvand. Defense No information is
+    available on the defendant's defense. Judgment The court condemned Mr.
+    Mohammad Zohrehvand to death and the Chief Public Prosecutor confirmed the
+    ruling. He was hanged in the presence of the judge in the
+    Torbat-e-Heidariyeh prison yard in May of 2007. The exact date of this
+    execution is unknown. Mr. Mohammad Zohrehvand was 26 years old.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/73102/mohammad-zohrehvand"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,47 @@
+id: barayamnejad-behrouz-2007-2
+name_latin: "Behrouz Barayamnejad"
+name_farsi: "بهروز برایم‌نژاد"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2007-01-01
+age_at_death: 18
+place_of_death: "Kerman"
+province: "Kerman"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Behruz Barayamnejad, son of Akbar, along with
+    seven others, was published on the website of HRANA (Human Rights
+    Activists News Agency) on September 21, 2015. This report collected names
+    of 13 individuals who had been condemned to death for committing crimes
+    when they were under the age of 18. Mr. Barayamnejad was from Bam and only
+    15 when the crime took place. International laws have strictly prohibited
+    capital punishment against those who were under the age of 18 at the time
+    of committing the crime. As a party to the Covenant on Civil and Political
+    Rights and the Convention on the Rights of the Child, Iran has the
+    obligation to avoid capital punishment for an offence committed before the
+    age of eighteen. Arrest and detention Mr. Barayamnejad was detained for 3
+    years. The circumstances of his arrest and detention are not known. Trial
+    No information is available on Mr. Barayamnejad s trial. Charges No
+    information is available on Mr. Barayamnejad s charges. Evidence of guilt
+    The report of this execution did not provide any specific information on
+    the evidence presented against Mr. Barayamnejad. Defense Mr. Barayamnejad
+    was under the age of 18 when the crime took place. No information is
+    available on his defense. Judgment Mr. Behruz Barayamnejad was hanged in
+    Kerman in 2007. No specific information is available about his execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/74423/behrouz-barayamnejad"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

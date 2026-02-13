@@ -1,0 +1,66 @@
+id: ebrahimzadeh-gholam-hossein-1983-2
+name_latin: "Gholam Hossein Ebrahimzadeh"
+name_farsi: "غلامحسین ابراهیم زاده"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Non-Believer"
+photo: "https://www.iranrights.org/actorphotos/31586_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1983-06-28
+age_at_death: 40
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    Mr. Gholam Hossein Ebrahimzadeh is one of the 12028 individuals listed in
+    an addendum to the Mojahed magazine (No 261), published by Mojahedin Khalq
+    Organization on September 6, 1985. The list includes individuals,
+    affiliated with various opposition groups, who were executed or killed
+    during clashes with the Islamic Republic security forces from June 1981 to
+    the publication date of the magazine. Additional information about Mr.
+    Ebrahimzadeh has been drawn from the book Our Martyrs for Freedom and
+    Socialism by Rah-e Kargar publications, 1988, as well as an interview with
+    an individual familiar with the case. Mr. Ebrahimzadeh was born in the
+    city of Kangavar (Kermanshah province). He graduated from Shiraz
+    University as a medical doctor. In 1967-68, he was a student activist in
+    Shiraz. In 1970, he co-founded the Setareh Sorkh (Red Star) group, which
+    used armed struggle in fighting the regime. In 1971, he was arrested and
+    condemned to 11 years imprisonment. During his last years in prison, he no
+    longer believed in armed struggle; and after his release in 1978, he
+    became a co-founder of the Rah-e Kargar Organization and a member of its
+    Central Committee. Rah-e Kargar or the Revolutionary Workers Organization
+    of Iran was established in the summer of 1979. The Organization was
+    founded by individuals from various leftist groups who had rejected the
+    idea of armed struggle and believed in political action. They introduced
+    themselves as Marxist-Leninists, promoting a socialist revolution and the
+    leadership of the proletariat. They differed with the pro-Soviet communist
+    party, Tudeh, in that they opposed the Islamic Republic and Ayatollah
+    Khomeini s leadership. Arrest and detention According to the Rah-e Kargar
+    book, The house where [Mr. Gholam Hossein Ebrahimzadeh] and Ali Reza
+    Shokuki, was attacked by the Revolutionary Guards on June 28, 1983. Both
+    men tried to escape. Ali Reza Shokuki was arrested in a dead-end alley.
+    Gholam Hossein Ebrahimzadeh was shot Trial No information is available on
+    the defendant s trial. Charges No information is available on Mr.
+    Ebrahimzadeh s charges. Evidence of guilt The report of this execution
+    does not contain information regarding the evidence provided against the
+    defendant. Defence No information is available about the defendant s
+    defence. Judgment According to the interviewee, Mr. Ebrahimzadeh was shot
+    and killed at the time of arrest on June 28, 1983. The Rah-e Kargar book,
+    in addition to this report, mentions another report, which states that Mr.
+    Ebrahimzadeh was arrested after being shot, and died at Evin prison under
+    torture. According to the Mojahed magazine, Mr. Ebrahimzadeh was executed
+    by a firing squad at Evin Prison on November 1, 1983.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4120/gholam-hossein-ebrahimzadeh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,50 @@
+id: fathi-masumeh-2000-2
+name_latin: "Ma'sumeh Fathi"
+name_farsi: "معصومه فتحی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2000-01-01
+age_at_death: null
+place_of_death: "Tabriz"
+province: "Azarbaijan-e Sharqi"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    News of the execution of Ms. Ma sumeh Fathi was published in the Jomhuri
+    Eslami newspaper on January 27, 2000, and referring to the public
+    relations office of the Azarbaijan-e Sharqi Courthouse. According to this
+    report, Ms. Fathi, known as Marjan, had been arrested, along with a
+    prostitution gang, in 1997. She was detained at the Revolutionary Guards
+    Central Base for Encouraging Good and Forbidding Wrong, waiting for
+    completion of her case. She planned to escape along with her cellmates.
+    During the escape, Ms. Fathi was confronted with Ms. Roqieh Mahmudi, an
+    agent of the Encouraging Good and Forbidding Wrong Center in Tabriz. She
+    killed her and escaped. Arrest and Detention The security forces in Tehran
+    identified and arrested Ms. Fathi one month later and transferred her to
+    Tabriz. The exact date of her arrest and whether she had an attorney are
+    not known. Trial The Public Court of Tabriz investigated this case. No
+    information is available on Ms. Fathi s trial. Charges The charge against
+    Ms. Fathi was announced as "murder. Evidence of Guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against Ms. Fathi. Defense No information is available on Ms. Fathi's
+    defense. Judgment The court condemned Ms. Ma sumeh Fathi to Qesas (the
+    death penalty) and the Supreme Court confirmed the ruling. She was
+    executed at the Tabriz prison yard. The exact date of this execution is
+    unknown. According to the newspaper report, the ruling was carried out a
+    few days before its publication on January 27, 2000.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/73252/masumeh-fathi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

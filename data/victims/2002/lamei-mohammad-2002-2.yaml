@@ -1,0 +1,50 @@
+id: lamei-mohammad-2002-2
+name_latin: "Mohammad Lame'i"
+name_farsi: "محمد لامعی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2002-05-15
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Mohammad Lame i, along with three others, was
+    published in the Iran newspaper on May 16, 2002. Arrest and Detention
+    There is no specific information on Lame i s arrest and detention. Trial
+    Branch 1402 of the Criminal Court of Tehran tried Mr. Lame i on November
+    6, 2000. No information is available on his trial. Charges The charge
+    against Mr. Lame i was announced as "murder." The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic authorities have brought trumped-up charges, including
+    drug trafficking, sexual, and other criminal offences, against their
+    opponents (including political, civil society activists, as well as
+    unionists and ethnic and religious minorities). Each year Iranian
+    authorities sentence to death hundreds of alleged common criminals,
+    following judicial processes that fail to meet international standards.
+    The exact number of people convicted and executed based on trumped-up
+    charges is unknown. Evidence of Guilt The report of this execution did not
+    provide any specific information on the evidence presented against Mr.
+    Lame i. Defense No information is available on Mr. Lame i s defense.
+    Judgment The court condemned Mr. Mohammad Lame i to death. The Supreme
+    Court confirmed the ruling. He was hanged out at the Qasr Prison yard in
+    Tehran on May 15, 2002.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/74538/mohammad-lamei"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

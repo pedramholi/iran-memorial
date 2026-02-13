@@ -1,0 +1,55 @@
+id: musavi-hassan-2002-2
+name_latin: "Hassan Musavi"
+name_farsi: "حسن موسوی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: "https://www.iranrights.org/actorphotos/25038_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 2002-06-03
+age_at_death: 22
+place_of_death: "Malayer"
+province: "Hamedan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Hassan Musavi was reported in the Jomhuri Eslami
+    daily (web edition, June 05, 2002) and Iran daily (web edition, June 06,
+    2002) . Arrest and detention The circumstances of this defendant s arrest
+    and detention are not known. Trial No information is available on the
+    defendant s trial, except that it was held five months after the alleged
+    crime. Charges Mr. Musavi was charged with murdering a man named Mohammad
+    Rashidi. Reportedly, he had stolen Mr. Rashidi's car after murdering him
+    in Ganjab, a village in the outskirts of Malayer. The validity of the
+    criminal charges brought against this defendant cannot be ascertained in
+    the absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic s authorities have brought trumped up charges against
+    their political opponents and executed them for drug trafficking, sexual,
+    and other criminal offences. Each year, Iranian authorities sentence to
+    death hundreds of alleged common criminals, following judicial processes
+    that fail to meet international standards. The exact number of people
+    convicted based on trumped-up charges is unknown. Evidence of guilt The
+    report of this execution does not contain information regarding the
+    evidence provided against the defendant. Defense No information is
+    available on Mr. Musavi's defense. Judgment Mr. Musavi was sentenced to
+    death as retaliation (Qisas) for murder at Malayer's Judiciary. The
+    verdict was confirmed by the Supreme Court and approbated by the Head of
+    Judiciary. He was hanged in public in Malayer's central square on June 03,
+    2002. The religious judge head of Malayer s Judiciary commented before the
+    sentence was carried out: "Public enforcement of certain sentences
+    guarantees safety in the society, and we hope that punishments like this
+    will teach a lesson to criminals and violators of the law."
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/25038/hassan-musavi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,62 @@
+id: barahui-abdolhamid-2001-2
+name_latin: "Abdolhamid Barahu'i"
+name_farsi: "عبدالحمید براهوئی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2001-01-01
+age_at_death: 26
+place_of_death: "Khorasan\\Khorasan-e Razavi Province"
+province: "Khorasan\\Khorasan-e Razavi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Abdolhamid Barahu i, along with two others,
+    was published in the Kayhan newspaper on February 25, 2001. He was from
+    Zahedan and his case and the cases of two others were related to drug
+    trafficking and connection with Afghan smugglers in Sistan-va-Baluchestan.
+    Arrest and detention The circumstances of Mr. Barahu i s arrest and
+    detention are not known. Trial Branch Nine of the Islamic Revolutionary
+    Court in Mashhad tried Mr. Barahu i and two other defendants. No
+    information is available on his trial. Charges According to the Public
+    Relations Office of the Political and Ideological Department of the
+    Security Forces in Chenaran, the charges brought against Mr. Barahu i and
+    two other defendants were collectively announced as supply, distribution,
+    and dealing narcotics; hiding and possession of a weapon; and connection
+    with armed Afghan hoodlums. The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that the Islamic Republic
+    authorities have brought trumped-up charges, including drug trafficking,
+    sexual, and other criminal offences, against their opponents (including
+    political, civil society activists, as well as unionists and ethnic and
+    religious minorities). Thousands of alleged drug traffickers have been
+    sentenced to death following judicial processes that fail to meet
+    international standards. Scores of them were executed based on a 1989 law
+    imposing mandatory death sentences on drug traffickers found in possession
+    of specified amounts of proscribed narcotics (5 kg of hashish or opium,
+    and more than 30 grams of heroin, codeine or methadone). The exact number
+    of people convicted based on trumped-up charges is unknown. Evidence of
+    guilt The evidence presented against Mr. Barahu i was possession of 3,070
+    kilograms of opium, over 400 kilograms of morphine, and possession of five
+    Kalashnikovs and 14 magazines. Defense No information is available on Mr.
+    Barahu i s defense. Judgment Branch Nine of the Islamic Revolutionary
+    Court in Mashhad condemned Mr. Abdolhamid Barahu i to death and the
+    Supreme Court confirmed the ruling. He was hanged, along with two others,
+    in public in Chenaran. No information is available about the date of this
+    execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/75591/abdolhamid-barahui"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,59 @@
+id: beigi-bahman-mohammad-2000-2
+name_latin: "Bahman Mohammad Beigi"
+name_farsi: "بهمن محمد‌بیگی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2000-01-19
+age_at_death: 35
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Bahman Mohammad Biegi, along with three
+    others, was published in the Iran newspaper on January 20, 2000. Mr.
+    Mohammad Biegi was 40 years old and a resident of a city in Zanjan
+    province. His case was related to the murder of a 55-year-old woman at her
+    house in Sa adatabad in Tehran on June 10, 1996. Arrest and detention The
+    police detectives arrested Mr. Mohammad Biegi at his residence near Zanjan
+    and transferred him to Tehran in June of 1991. His arrest was related to
+    clues found about the murder of his mother-in-law at her house in Sa
+    adatabad in Tehran. The circumstances of his arrest and detention are not
+    known. Trial The Criminal Court of Tehran tried Mr. Mohammad Biegi. No
+    information is available on his trial. Charges The charge brought against
+    Mr. Mohammad Biegi was announced as murder. He was charged with the murder
+    of his mother-in-law over a dispute, and escaping the scene. No detailed
+    information is available on his charges. The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic authorities have brought trumped-up charges, including
+    drug trafficking, sexual, and other criminal offences, against their
+    opponents (including political, civil society activists, as well as
+    unionists and ethnic and religious minorities). Each year Iranian
+    authorities sentence to death hundreds of alleged common criminals,
+    following judicial processes that fail to meet international standards.
+    The exact number of people convicted and executed based on trumped-up
+    charges is unknown. Evidence of guilt The report of this execution did not
+    provide any specific information on the evidence presented against Mr.
+    Mohammad Biegi. Defense No information is available on Mr. Mohammad Biegi
+    s defense. Judgment The Criminal Court of Tehran condemned Mr. Bahman
+    Mohammad Biegi to death. He was hanged, along with three others, in Qasr
+    Prison on January 19, 2000 at dawn. No specific information is available
+    about this execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/74880/bahman-mohammad-beigi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

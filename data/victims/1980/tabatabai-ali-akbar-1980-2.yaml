@@ -1,0 +1,28 @@
+id: tabatabai-ali-akbar-1980-2
+name_latin: "Ali Akbar Tabataba’i"
+name_farsi: "علی اکبر طباطبایی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: "https://www.iranrights.org/actorphotos/84044_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1980-07-22
+age_at_death: null
+place_of_death: "Maryland"
+province: null
+cause_of_death: "Extrajudicial Execution"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/84044/ali-akbar-tabataba-i"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

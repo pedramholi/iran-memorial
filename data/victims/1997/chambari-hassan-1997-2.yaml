@@ -1,0 +1,49 @@
+id: chambari-hassan-1997-2
+name_latin: "Hassan Chambari"
+name_farsi: "حسن چمبری"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1997-01-01
+age_at_death: null
+place_of_death: "Sari"
+province: "Mazandaran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Hassan Chambari was announced in the Kayhan newspaper
+    on November 19, 1997. Arrest and detention The circumstances of this
+    defendant’s arrest and detention are not known. Trial No information is
+    available on the defendant’s trial other than it took place at Branch 10
+    of the Sari Court. Charges The charge against Mr. Hassan Chambari was
+    announced as “murdering his brother-in-law, Sha’ban Mahmudi, in Sari
+    [Mazandaran province] in 1991.” The validity of the criminal charges
+    brought against this defendant cannot be ascertained in the absence of the
+    basic guarantees of a fair trial. International human rights organizations
+    have drawn attention to reports indicating that the Islamic Republic’s
+    authorities have brought trumped-up charges against their political
+    opponents and executed them for drug trafficking, sexual, and other
+    criminal offences. Each year, Iranian authorities sentence to death
+    hundreds of alleged common criminals, following judicial processes that
+    fail to meet international standards. The exact number of people convicted
+    based on trumped-up charges is unknown. Evidence of guilt The report of
+    this execution does not contain information regarding the evidence
+    provided against the defendant. Defense No information is available on Mr.
+    Chambari’s defense. Judgment The court condemned Mr. Hassan Chambari to
+    death and after the ruling was confirmed by the Supreme Court, he was
+    hanged in Sari in the presence of the victim’s family.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/39366/hassan-chambari"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

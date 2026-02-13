@@ -1,0 +1,66 @@
+id: qandi-habib-2003-2
+name_latin: "Habib Qandi"
+name_farsi: "حبیب قندی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2003-05-28
+age_at_death: 26
+place_of_death: "Esfahan"
+province: "Esfahan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Habib Qandi was published on the Isfahaninfo
+    website on June 3, 2003. Additional information regarding his arrest and
+    prosecution was taken from the Iran newspaper on March 17, and in the
+    Kayhan newspaper on March 19, 2003. According to the Iran newspaper
+    report, after a 12-year-old boy was missing from his school entrance, his
+    family received an anonymous call stating that the boy has been kidnapped
+    and demanding 50 million Tumans to release him. The Intelligence Police in
+    Esfahan got involved to tracking down the kidnappers. The next day the
+    near-dead body of the boy was recovered on a highway near Esfahan. He died
+    in the hospital. By asking the students of his school, police gathered
+    information regarding the kidnappers car. They also concluded that the
+    victim must have known the main kidnapper because he got into the car
+    willingly. Arrest and Detention On March 15, 2003, the Intelligence Police
+    in Esfahan summoned and arrested Mr. Qandi, a close relative of the
+    victim, after interrogating him. (Iran newspaper) Trial Branch 53 of the
+    Criminal Court in Esfahan tried Mr. Qandi. According to the Kayhan report,
+    the court session took four hours during which the judge read the charges
+    against the first and second row defendants and they defended themselves.
+    Charges The charges against Mr. Qandi were announced as "kidnapping,
+    extortion of 50 million Tumans, and murdering the kidnapped student." The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    Evidence of Guilt The evidence presented against Mr. Qandi was his
+    confession. He stated that since the boy s father was rich and had an
+    appliance shop, he and his friend planned the kidnapping and picked up the
+    boy from his school and took him to his workshop. (Iran newspaper)
+    International human rights organizations have repeatedly condemned the
+    government of the Islamic Republic of Iran for its systematic use of
+    severe torture and solitary confinement to obtain confessions from
+    detainees and have questioned the authenticity of confessions obtained
+    under duress. Defense In his defense, Mr. Qandi stated that his motivation
+    to murder was his financial difficulties and he had no animosity toward
+    the boy s father. When he realized that police were looking for the
+    kidnappers and that the boy had recognized him, he committed this stupid
+    act and murdered the boy in a mental panic. (Kayhan newspaper) Judgment
+    The court condemned Mr. Habib Qandi to death and the Supreme Court
+    confirmed the ruling. He was hanged in the Esfahan Central Prison on May
+    28, 2003.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/73569/habib-qandi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

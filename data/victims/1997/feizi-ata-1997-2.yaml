@@ -1,0 +1,98 @@
+id: feizi-ata-1997-2
+name_latin: "Ata Feizi"
+name_farsi: "عطا فیضی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1997-02-12
+age_at_death: 25
+place_of_death: "Sarchinar Bridge"
+province: null
+cause_of_death: "Extrajudicial Execution » Unspecified extrajudicial method"
+circumstances: >
+    Mr. Feizi was described by his friends as courageous, well-spoken, and
+    empathetic and as someone who had performed his Party missions with strong
+    belief [in the mission] and extremely successfully . Information regarding
+    the extrajudicial killing of Mr. Ata Feizi, son of Abdolkhaleq, was
+    obtained from a list of the Kudistan Democratic Party members who were
+    killed at the hands of the Islamic republic, available on Kurdistan Media
+    website, the Party s official website (March 10, 2019), and the Kurds
+    residing in America for Democracy and Human Rights website, the Life of a
+    Peshmerga (March 12, 2007). Mr. Feizi was born on August 26, 1972, in an
+    old neighborhood in the town of Saqez in Kurdistan province. He finished
+    his elementary and high school education in that same town but did not
+    continue his studies for certain reasons, and started working in a
+    mechanic s shop. Mr. Feizi was sent to serve his mandatory military
+    service in 1992, but ran away after completing basic training and joined
+    the Democratic Party of Iranian Kurdistan in 1993. (The Life of a
+    Peshmerga, March 12, 2007). Mr. Feizi was described by his friends as
+    courageous, well-spoken, and empathetic and as someone who had performed
+    his Party missions with strong belief [in the mission] and extremely
+    successfully . (The Life of a Peshmerga, March 12, 2007). The Democratic
+    Party of Iranian Kurdistan The Democratic Party of Iranian Kurdistan
+    (PDKI) was founded in 1945 with the goal to gain autonomy for Kurdistan,
+    in north-western Iran. After the Revolution, conflicts between the new
+    central Shiite government and mainly Sunni Kurdistan regarding the role of
+    minorities in the drafting of the constitution, specification of Shiite as
+    the official state religion, and particularly the autonomy of the region,
+    ended in armed clashes between the Revolutionary Guards and the peshmerga
+    (the militia of the PDKI). The PDKI boycotted the referendum of April 1,
+    1979, when people went to polls to vote for or against the Islamic regime.
+    On August 19, 1979, Ayatollah Khomeini called the PDKI the party of Satan
+    and declared it unofficial and illegal. Mass executions and fighting broke
+    out and continued for several months in the region. By 1983, the PDKI had
+    lost much of its influence in the region. In the years since various
+    leaders of the PDKI have been assassinated. Following internal disputes,
+    the party split in 2006 and two organizations were established as The
+    Democratic Party of Iranian Kurdistan, and The Democratic Party of
+    Kurdistan. B ackground of Extrajudicial Killings by the Islamic Republic
+    of Iran The Islamic Republic of Iran has a long history of politically
+    motivated violence in Iran and around the world. Since the 1979
+    Revolution, Islamic Republic operatives inside and outside the country
+    have engaged in kidnapping, disappearing, and killing a large number of
+    individuals whose activities they deemed undesirable. The actual number of
+    the victims of extrajudicial killings inside Iran is not clear; however,
+    these murders began in February 1979 and have continued since then, both
+    inside and outside Iran. The Abdorrahman Boroumand Center has so far
+    identified over 540 killings outside Iran attributed to the Islamic
+    Republic of Iran. Dissidents have been assassinated by the agents of the
+    Islamic Republic outside Iran in countries such as the Philippines,
+    Indonesia, Japan, India, and Pakistan in Asia; Dubai, Iraq, and Turkey in
+    the Middle East; Cyprus, France, Italy, Austria, Switzerland, Germany,
+    Norway, Sweden, and Great Britain in Europe; and the United States across
+    the Atlantic Ocean. In most cases there has not been much published and
+    the local authorities have not issued arrest warrants. But documentation,
+    evidence, and traces obtained through investigations conducted by local
+    police and judicial authorities confirm, however, the theory of state
+    committed crimes. In certain cases, these investigations have resulted in
+    the expulsion or arrest of Iranian diplomats. In limited cases outside
+    Iran, the perpetrators of these murders have been arrested and put on
+    trial and the evidence presented, revealed the defendants connection to
+    Iran s government institutions, and an arrest warrant has been issued for
+    Iran s Minister of Information. The manner in which these killings were
+    organized and implemented in Iran and abroad, is indicative of a single
+    pattern which, according to Roland Chatelin, the Swiss prosecutor,
+    contains common parameters and detailed planning. It can be ascertained
+    from the similarities between these murders in different countries that
+    the Iranian government is the principal entity who ordered the
+    implementation of these crimes. Iranian authorities have not officially
+    accepted responsibility for these murders and have even attributed their
+    commission to internal strife in opposition groups. Nevertheless, since
+    the very inception of the Islamic Republic regime, the Islamic Republic
+    officials have justified these crimes from an ideological an
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-8593/ata-feizi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

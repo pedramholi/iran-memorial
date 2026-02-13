@@ -1,0 +1,43 @@
+id: azizi-haj-mohammad-2002-2
+name_latin: "Haj Mohammad Azizi"
+name_farsi: "حاج‌محمد عزیزی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2002-01-30
+age_at_death: null
+place_of_death: "Yazd"
+province: "Yazd"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Haj Mohammad Azizi was published in the
+    Jomhuri-Eslami newspaper on January 31, 2002. Arrest and Detention There
+    is no specific information on Mr. Azizi s arrest and detention. Trial
+    Branch One of the Abarkuh Courthouse tried Mr. Azizi. No information is
+    available on his trial. Charges According to the Head of the Abarkuh
+    Courthouse, the charge against Mr. Azizi was two counts of premeditated
+    murder." The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. Evidence of Guilt The report of this execution did not
+    provide any specific information on the evidence presented against Mr.
+    Azizi. Defense No information is available on Mr. Azizi s defense.
+    Judgment Branch One of the Abarkuh Courthouse condemned Mr. Haj Mohammad
+    Azizi to death. The Supreme Court confirmed the ruling and the Head of
+    Judiciary validated it. The ruling was carried out on January 30, 2002 and
+    Mr. Azizi was hanged in public in Abarkuh.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/73462/haj-mohammad-azizi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

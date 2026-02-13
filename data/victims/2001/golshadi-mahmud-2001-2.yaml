@@ -1,0 +1,42 @@
+id: golshadi-mahmud-2001-2
+name_latin: "Mahmud Golshadi"
+name_farsi: "محمود گلشادی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2001-01-04
+age_at_death: null
+place_of_death: "Najaf Abad"
+province: "Esfahan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Mahmud Golshadi was published in the Jomhuri
+    Eslami newspaper on January 6, 2001. Arrest and detention The
+    circumstances of Mr. Golshadi s arrest and detention are not known. Trial
+    The Islamic Revolutionary Court of Najafabad tried Mr. Golshadi. No
+    information is available on his trial. Charges The charge brought against
+    Mr. Golshadi was announced as murdering a resident of Najafabad. The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    Evidence of guilt The report of this execution did not provide any
+    specific information on the evidence presented against Mr. Golshadi.
+    Defense No information is available on Mr. Golshadi s defense. Judgment
+    The Islamic Revolutionary Court of Najafabad condemned Mr. Mahmud Golshadi
+    to death. He was executed in public at a square in Goldasht on January 4,
+    2001. No specific information is available about this execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/75489/mahmud-golshadi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

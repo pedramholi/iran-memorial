@@ -1,0 +1,45 @@
+id: pursalehi-mohammad-2002-2
+name_latin: "Mohammad Pursalehi"
+name_farsi: "محمد پورصالحی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2002-01-01
+age_at_death: 35
+place_of_death: "Khorramshahr"
+province: "Khuzestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Mohammad Pursalehi was published in the
+    Jomhuri-Eslami newspaper on January 29, 2002. Arrest and Detention There
+    is no specific information on Mr. Pursalehi s arrest and detention. Trial
+    Branch Twelve of the Public Court of Ahvaz tried Mr. Pursalehi. No
+    information is available on his trial. Charges The charge against Mr.
+    Pursalehi was announced as "murder." According to the report, he killed a
+    man during a fighting in 1992. The validity of the criminal charges
+    brought against this defendant cannot be ascertained in the absence of the
+    basic guarantees of a fair trial. Evidence of Guilt The report of this
+    execution did not provide any specific information on the evidence
+    presented against Mr. Pursalehi. Defense No information is available on
+    Mr. Pursalehi s defense. Judgment Branch Twelve of the Public Court of
+    Ahvaz condemned Mr. Mohammad Pursalehi to death. The Supreme Court
+    confirmed the ruling and the Head of Judiciary validated it. The defendant
+    was hanged in public at the Haffar-e Gharbi District, Kuye Police, in
+    Khorramshahr. The victim s mother tied the noose around Mr. Pursahlehi s
+    neck. The exact date of this execution is unknown.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/76176/mohammad-pursalehi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

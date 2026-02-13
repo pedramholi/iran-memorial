@@ -1,0 +1,55 @@
+id: sadeq-2003-3
+name_latin: "Sadeq"
+name_farsi: "صادق"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2003-01-01
+age_at_death: null
+place_of_death: "Ramshir"
+province: "Khuzestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Sadeq, without his last name, was published
+    in the Jomhuri Eslami newspaper on August 25, 2003, quoting the
+    Information and Public Relations Office of the Khuzestan Courthouse. His
+    case was related to a carjacking and the murder of the car s owner. Arrest
+    and detention Mr. Sadeq was arrested by police when driving the victim s
+    car toward Ahvaz. Police first suspected the car and after searching it,
+    they found a bloody knife and arrested Mr. Sadeq immediately. The
+    circumstances of his arrest and detention are not known. Trial Branch
+    Three of the General Court in Ramhormoz tried Mr. Sadeq. No information is
+    available on his trial. Charges The charges brought against Mr. Sadeq were
+    announced as murder and robber. According to the report, he had hired a
+    taxi for Omidieh destination. On the way to Ramhormoz, he fought the
+    driver, intending to carjack. After tying the driver s hands and feet, he
+    murdered him with blows of a knife. The validity of the criminal charges
+    brought against this defendant cannot be ascertained in the absence of the
+    basic guarantees of a fair trial. Evidence of guilt The evidence presented
+    against Mr. Sadeq was announced as recovery of the murder weapon, his
+    confession, and other evidence. International human rights organizations
+    have repeatedly condemned the government of the Islamic Republic of Iran
+    for its systematic use of severe torture and solitary confinement to
+    obtain confessions from detainees and have questioned the authenticity of
+    confessions obtained under duress. Defense No information is available on
+    Mr. Sadeq s defense. Judgment Branch Three of the General Court in
+    Ramhormoz identified Mr. Sadeq as Mohareb [fighter against God], and
+    condemned him to death. The Supreme Court confirmed the ruling. He was
+    hanged in public in Ramshir in 2003. No specific information is available
+    about this execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/75703/sadeq"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,43 @@
+id: mohammadi-mostafa-2002-2
+name_latin: "Mostafa Mohammadi"
+name_farsi: "مصطفی محمدی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2002-10-16
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Mostafa Mohammadi, along with awoman and two
+    men, was published in the Iran newspaper on October 17, 2002. Arrest and
+    detention Mr. Mohammadi was detained for over one and a half years. The
+    circumstances of Mr. Mohammadi s arrest and detention are not known. Trial
+    Branch Five of the Damavand Court tried Mr. Mohammadi on June 13, 2001. No
+    information is available on his trial. Charges The charge brought against
+    Mr. Mohammadi was announced as murder. He was accused of murdering a man
+    in Damavand. The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. Evidence of guilt The report of this execution did not
+    provide any specific information on the evidence presented against Mr.
+    Mohammadi . Defense No information is available on Mr. Mohammadi s
+    defense. Judgment Branch Five of the Damavand Court condemned Mr. Mostafa
+    Mohammadi to death. He was hanged at the Qasr Prison yard on October 16,
+    2002.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/74205/mostafa-mohammadi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

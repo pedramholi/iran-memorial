@@ -1,0 +1,67 @@
+id: danesh-sasan-1986-2
+name_latin: "Sasan Danesh"
+name_farsi: "ساسان دانش"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Non-Believer"
+photo: "https://www.iranrights.org/actorphotos/42717_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1986-01-01
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Fatal"
+circumstances: >
+    The information about Mr. Sasan Danesh (known in prison as Hassan
+    Ebrahimzadeh) has been sent to Omid, via an electronic form, by a former
+    cellmate. Mr. Danesh was born in Babol (Mazandaran province) and had
+    educated siblings. After his mandatory military service, Mr. Danesh
+    travelled to Chicago, IL, and started his political activities at the
+    Confederation of Iranian Students, where he became familiar with leftist
+    organization. In 1979, he returned to Iran and continued his activism at
+    the Vahdat-e Komonisti Organization. The Vahdat-e Komonisti (Communist
+    Unity) Organization was founded in November 1978 by Communist political
+    activists, particularly students who were educated outside the country and
+    returned to Iran, as well as similar-minded activists inside the country.
+    The history of its founding dates back to the Ettehadieh Komonist-ha
+    (Communist Union), which was formed outside Iran in the late 1960 s. The
+    members of Vahdat-e Komonisti identified themselves as supporters of
+    political-military struggle for the preparation and accomplishment of a
+    Socialist revolution, and as leftists opposed to Stalinism and Maoism.
+    Among the activities of this organization were critiques of the political
+    and ideological standpoints of political organizations in Iran via
+    publication of Raha i , the main publication of the Vahdat-e Komonisti.
+    ِDuring the massive crackdown on opposition groups in June 1981, the
+    organization faced significant crises and split into various factions.
+    Members of the organization outside Iran continued their activism until
+    1986 through the publication of Andisheh Raha i and Bultan-e Akhbar-e Iran
+    (the Bulletin of Iranian News). Arrest and detention According to the
+    available information, Mr. Danesh was arrested in Tehran on May 1, 1981,
+    when he was returning home after having participated in a demonstration.
+    He was carrying several political leaflets at the time of arrest. He was
+    sent to Evin prison. In prison, he introduced himself as Hassan
+    Ebrahimzadeh, and his cellmates called him Uncle Hassan. Trial According
+    to his cellmate, Mr. Danesh was tried several times while the proceedings
+    lasted only a few minutes. He was eventually condemned to 2 years
+    imprisonment. He then was sent to Kohardasht prison (Karaj) and he was
+    kept in solitary confinement for 2 years. In 1986 he was tried again; the
+    trial lasted ten minutes. Charges Mr. Danesh was charged with defending
+    Marxism and apostasy. Evidence of guilt At the time of arrest, Mr. Danesh
+    was carring political leaflets. He also defended Marxism in prison and at
+    trials. No further information is available on the evidence provided
+    against him. Defense No information is available concerning Mr. Danesh s
+    defense. Judgment Mr. Sasan Danesh was executed in Evin prison in 1986.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/42717/sasan-danesh"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

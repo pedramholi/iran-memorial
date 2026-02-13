@@ -1,0 +1,69 @@
+id: najafi-kurosh-sadri-1982-2
+name_latin: "Kurosh Sadri Najafi"
+name_farsi: "کورش صدری نجفی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: "https://www.iranrights.org/actorphotos/64497_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1982-12-11
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The execution of Mr. Kurosh Sadri Najafi, along with five others, was
+    reported in the Jomhuri Eslami newspaper on December 11, 1982. The same
+    newspaper, on June 30, 1982, published the charges against him. Mr. Sadri
+    Najafi was a member of the Nima Group, which was formed by officers of the
+    Iranian army after the 1979 revolution. No other background information is
+    available on the group. Nureddin Kianuri, Secretary General of the Tudeh
+    Party (the Iranian communist party), mentioned Nima in an article dated
+    May 2, 2000 (Rahe Tudeh website). Kianuri stressed the fact that the
+    military branch of the Tudeh , which cooperated with the Islamic Republic
+    s authorities, discovered and neutralized the above mentioned group, as
+    well as other groups that planned a coup against the newly established
+    regime. Supplemental information about Mr. Sadri Najafi was sent to the
+    Boroumand Foundation by a person informed about this case. According to
+    this information, Mr. Sadri Najafi was born in Tehran. He grew up in an
+    affluent and educated family and had a Master s degree in economics. There
+    is a piece of hand writing left from Mr. Sadri as his "will" of which a
+    copy has also been forwarded to ABF by a person close to him. Arrest and
+    detention According to the information sent by the electronic form, Mr.
+    Sadri Najafi was arrested at a bus station in Tabriz and transferred to
+    the Evin Prison. Trial Mr. Sadri Najafi, along with 4 other members of the
+    Nima Group, was tried in a military court on June 30, 1982. There is no
+    mention of the presence of a defense attorney for the defendants. Charges
+    According to the Jomhouri Eslami newspaper, the charges that were read by
+    a military prosecutor during the trial, based on the indictment for Mr.
+    Sadri Najafi, were as follows: being a member of the Nima group; having an
+    active and crucial role in the establishment of this group; being a
+    participant in the demonstrations of the National Front at Ferdosi square
+    on June 15, 1981; being appointed by Dr. Shaygan as the person in charge
+    of recruiting nationalists and monarchists; and having a significant role
+    in the military-political wing of this group. The indictment also
+    mentioned that Mr. Sadri Najafi had nationalistic opinions. The validity
+    of the criminal charges brought against Mr. Sadri Najafi cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    Evidence of guilt The report of Mr. Sadri Najafi s execution did not
+    provide any specific information on the evidence presented against him.
+    Defense No information is available on Mr. Sadri Najafi s defense.
+    Judgment The Revolutionary Tribunal of the Army of the Islamic Republic of
+    Iran sentenced Mr. Sadri Najafi to death. Having been confirmed by the
+    Supreme Court, the sentence was carried out on December 11, 1982.
+    According to the information provided by electronic form, Mr. Sadri Najafi
+    was executed by a firing squad in the Evin prison.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-5402/kurosh-sadri-najafi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

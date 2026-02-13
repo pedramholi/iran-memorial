@@ -1,0 +1,28 @@
+id: khezri-mahmud-1992-2
+name_latin: "Mahmud Khezri"
+name_farsi: "محمود خضری"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1992-01-12
+age_at_death: null
+place_of_death: "Sulaymaniyah"
+province: null
+cause_of_death: "Extrajudicial Execution"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/84207/mahmud-khezri"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

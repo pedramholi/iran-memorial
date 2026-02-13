@@ -1,0 +1,55 @@
+id: adam-mohammad-2000-2
+name_latin: "Mohammad Adam"
+name_farsi: "محمد آدم"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2000-10-18
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Mohammad Adam, along with another person, was
+    published in the Entekhab newspaper on October 19, 2000. Arrest and
+    detention According to the existing information, Mr. Adam was arrested on
+    April 22, 2000 following the murder of a friend. The circumstances of his
+    arrest and detention are not known. Trial Branch 1601 of the Criminal
+    Court of Tehran tried Mr. Adam. No information is available on his trial.
+    Charges The charge brought against Mr. Adam was announced as murder.
+    According to the report, the court charged him with the murder of his
+    friend, Abdolreza Shahbazi, whom he had fought over a pigeon game on April
+    22, 2000. The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. International human rights organizations have drawn
+    attention to reports indicating that the Islamic Republic authorities have
+    brought trumped-up charges, including drug trafficking, sexual, and other
+    criminal offences, against their opponents (including political, civil
+    society activists, as well as unionists and ethnic and religious
+    minorities). Each year Iranian authorities sentence to death hundreds of
+    alleged common criminals, following judicial processes that fail to meet
+    international standards. The exact number of people convicted and executed
+    based on trumped-up charges is unknown. Evidence of guilt The report of
+    this execution did not provide any specific information on the evidence
+    presented against Mr. Adam. Defense No information is available on Mr.
+    Adam s defense. Judgment Branch 1601 of the Criminal Court of Tehran
+    condemned Mr. Mohammad Adam to death for murder. The Supreme Court
+    confirmed the ruling and he was hanged, along with another person, in Qasr
+    Prison on October 18, 2000 in the morning. No more specific information is
+    available about this execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/74810/mohammad-adam"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

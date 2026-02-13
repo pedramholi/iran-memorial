@@ -1,0 +1,28 @@
+id: nasab-abutaleb-mohammadi-2008-2
+name_latin: "Abutaleb Mohammadi Nasab"
+name_farsi: "ابوطالب محمدی نسب"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2008-01-28
+age_at_death: 31
+place_of_death: "Arak"
+province: "Markazi"
+cause_of_death: "Execution » Hanging"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/80704/abutaleb-mohammadi-nasab"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

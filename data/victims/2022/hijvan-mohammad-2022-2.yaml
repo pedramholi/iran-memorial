@@ -1,0 +1,28 @@
+id: hijvan-mohammad-2022-2
+name_latin: "Mohammad Hijvan"
+name_farsi: "محمد هیجوان"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim (Sunni)"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2022-06-13
+age_at_death: 40
+place_of_death: "Jiroft"
+province: "Kerman"
+cause_of_death: "Fatal"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/86120/mohammad-hijvan"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,60 @@
+id: r-morteza-2007-2
+name_latin: "Morteza R."
+name_farsi: "مرتضی ر."
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2007-10-17
+age_at_death: 20
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Morteza R., along with eight others, was
+    published on the website of Iscanews on October 17, 2008. His case was
+    related to the murder of an individual at Hashemabad Street in Tehran on
+    July 30, 2003. He was only 16 years old when the incident occurred.
+    International laws have strictly prohibited capital punishment against
+    those who were under the age of 18 at the time of committing the crime. As
+    a party to the Covenant on Civil and Political Rights and the Convention
+    on the Rights of the Child, Iran has the obligation to avoid capital
+    punishment for an offence committed before the age of eighteen. Arrest and
+    detention Mr. Morteza R. was detained for four years. The circumstances of
+    his arrest and detention are not known. Trial Branch 74 of the Criminal
+    Court of Tehran tried Mr. Morteza R. No information is available on his
+    trial. Charges The charge brought against Mr. Morteza R. was announced as
+    murder. According to the report, he had killed a 27-year-old man for not
+    paying the cost of five dresser handles. The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic authorities have brought trumped-up charges, including
+    drug trafficking, sexual, and other criminal offences, against their
+    opponents (including political, civil society activists, as well as
+    unionists and ethnic and religious minorities). Each year Iranian
+    authorities sentence to death hundreds of alleged common criminals,
+    following judicial processes that fail to meet international standards.
+    The exact number of people convicted and executed based on trumped-up
+    charges is unknown. Evidence of guilt The report of this execution did not
+    provide any specific information on the evidence presented against Mr.
+    Morteza R. Defense Mr. Morteza R. was younger than 18 when the crime was
+    committed. No information is available on his defense. Judgment Branch 74
+    of the Criminal Court of Tehran condemned Mr. Morteza R. to death. Branch
+    40 of the Supreme Court confirmed the ruling. He was hanged, along with
+    eight others, in Evin Prison on October 17, 2008.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7779/morteza-r"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

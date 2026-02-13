@@ -1,0 +1,46 @@
+id: rasuli-morteza-2001-2
+name_latin: "Morteza Rasuli"
+name_farsi: "مرتضی رسولی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2001-01-01
+age_at_death: 38
+place_of_death: "Babol"
+province: "Mazandaran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Morteza Rasuli was published in the Iran
+    newspaper on June 21, 2001. Arrest and detention The circumstances of Mr.
+    Rasuli s arrest and detention are not known. Trial No information is
+    available on Mr. Rasuli s trial. Charges The charge brought against Mr.
+    Rasuli was announced as murder. According to the report, he murdered a
+    female tenant in his residential building for her over-use of water during
+    a fight on September 21, 1996. The validity of the criminal charges
+    brought against this defendant cannot be ascertained in the absence of the
+    basic guarantees of a fair trial. Evidence of guilt The report of this
+    execution did not provide any specific information on the evidence
+    presented against Mr. Rasuli. Defense No information is available on Mr.
+    Rasuli s defense. Judgment The court condemned Mr. Morteza Rasuli to
+    death. He was hanged at the Babol Prison yard after five years when the
+    victim s family paid a half of the blood money (Diyeh) for a man.* No
+    specific date is available about his execution. *In the Iranian legal
+    system, women s blood money is considered half of a man. Therefore, for
+    carrying out the execution ruling, the victim s family is responsible to
+    pay the other half since the victim was a woman.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/75193/morteza-rasuli"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

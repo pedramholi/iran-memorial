@@ -1,0 +1,65 @@
+id: karbasi-qasem-1989-2
+name_latin: "Qasem Karbasi"
+name_farsi: "قاسم کرباسی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1989-03-10
+age_at_death: null
+place_of_death: "Hamedan"
+province: "Hamedan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Qasem Karbasi, along with 80 other
+    individuals who were executed in 27 different cities on one day, was
+    published in the Jomhuri Eslami newspaper in 1989 quoting Announcement
+    Number 7 from the Headquarters for Combating Narcotics. The announcement
+    concludes, "The Headquarters for Combating Narcotics warns traitors and
+    elements of colonialism and imperialism, who are actively involved in
+    importing and distributing destructive narcotics, to stop their wicked
+    activities before they are captured by the claws of Islamic justice, to
+    surrender to the security forces, to provide all information they have on
+    professional smugglers, and help arrest these merchants of death.
+    Certainly, the Islamic Revolutionary Court does not hesitate to uproot
+    corruptors and distributors of narcotics and will issue and execute God's
+    ruling against them." Arrest and Detention The circumstances of this
+    defendant’s arrest and detention are not known. Trial No information is
+    available on the defendant’s trial. It took place in the Revolutionary
+    Court of Hamadan. Charges The charges against Mr. Qasem Karbasi, along
+    with eight other individuals, were announced as "continuous participation
+    in dealing and distribution of narcotics, specifically 55 kilograms and
+    460 grams of heroin and tens of kilograms of opium, association with the
+    international smugglers, murder, and robbery. Some of the defendants had
+    previous convictions for the above charges." The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that
+    Islamic Republic authorities have brought trumped-up charges against their
+    political opponents and executed them for alleged drug trafficking,
+    sexual, and other criminal offences. Thousands of alleged drug traffickers
+    have been sentenced to death following judicial processes that fail to
+    meet international standards. Scores of them were executed based on a 1989
+    law imposing mandatory death sentences on drug traffickers found in
+    possession of specified amounts of proscribed narcotics (5 kg of hashish
+    or opium, and more than 30 grams of heroin, codeine or methadone). The
+    exact number of people convicted based on trumped-up charges is unknown.
+    Evidence of Guilt The report of this execution does not contain
+    information regarding the evidence provided against the defendant. Defence
+    No information is available on Mr. Qasem Karbasi's defence. Judgment Based
+    on the court's ruling, Mr. Qasem Karbasi was hanged in Hamadan.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/39990/qasem-karbasi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

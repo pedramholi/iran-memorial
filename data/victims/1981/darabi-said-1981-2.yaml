@@ -1,0 +1,78 @@
+id: darabi-said-1981-2
+name_latin: "Sa'id Darabi"
+name_farsi: "سعید دارابی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: null
+photo: "https://www.iranrights.org/actorphotos/35912_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1981-11-26
+age_at_death: 22
+place_of_death: "Mahshahr"
+province: "Khuzestan"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    The news of the execution of Mr. Sa’id Darabi along with that of 9 others,
+    was released by the Public Relations of the General Prosecutor's Office in
+    a communiqué published in the Jomhuri Eslami and Kayhan newspapers on
+    November 29, 1981. This execution was also reported in an addendum to the
+    Mojahed magazine (No 261), published by Mojahedin Khalq Organization (MKO)
+    in 1985. The list includes 12028 individuals, affiliated with various
+    opposition groups, who were executed or killed during clashes with the
+    Islamic Republic security forces from June 1981 to the publication date of
+    the magazine. Further information about Mr. Darabi was taken from MKO’s
+    website. He was born in Borujerd, was a medical student at the Ahvaz
+    University and a sympathizer of the MKO. After the demonstration of June
+    20, 1981, he went underground. The demonstration of June 20, 1981, was a
+    protest against the parliament's impeachment of President Banisadr and the
+    Islamic Republic's systematic policy of excluding the MKO from the
+    country's political scene, the Ayatollah Khomeini’s refusal to meet with
+    MKO leaders and his desire to disarm them. Until that day, the MKO had
+    supported the leadership of Ayatollah Khomeini and agreed to function
+    within the framework of the new political system. On June 20, 1981, the
+    MKO officially changed its policy and tried to overthrow the regime by
+    organizing mass demonstrations throughout the country. These
+    demonstrations, which were severely suppressed and resulted in the killing
+    of dozens of demonstrators, were followed by a wave of mass arrests and
+    executions by the Revolutionary Guards and paramilitary forces that
+    targeted not only the MKO, but all opposition groups. The massive
+    repression, unprecedented in the history of the Islamic Republic,
+    legitimized the months-old state harassment and suppression of dissidents
+    and resulted in the banning of all forms of independent political dissent.
+    Arrest and detention The circumstances of this defendant’s arrest and
+    detention are unknown. According to the MKO website, Mr. Darabi was
+    arrested during a secret meeting in Bandar Mahshahr in 1981. During
+    interrogations, he did not disclose his name. The prison officials knew
+    him as "Hamed". Trial No information is available on the defendant’s
+    trial. Charges According to the Public Prosecutor’s communiqué, the
+    charges against Mr. Darabi were announced as: “overlooking and
+    participating in burning of the cars of religious individuals, associating
+    with individuals with the Hypocrits Organization [the regime’s name for
+    the MKO] after the Organization’s declaration of armed struggle [against
+    the regime], membership in the military section [of MKO], being active
+    within team houses, storing arms and explosives, instigating and guiding
+    sympathizers [of MKO] to commit terrorist acts” These charges are
+    collective and brought against the defendant and three other individuals.
+    The prosecution does not mention any specific offense for the defendant.
+    The validity of the criminal charges brought against this defendant cannot
+    be ascertained in the absence of the basic guarantees of a fair trial.
+    Evidence of guilt The report of this execution contains no evidence
+    provided against the defendant. Defence No information is available about
+    the defendant’s defence. Judgment According to the newspaper accounts, the
+    Islamic Revolutionary Court of Mahshahr declared Mr. Darabi a “corruptor
+    on earth, fighter against God, and an enemy” and sentenced him to death.
+    The sentence was carried out on November 26, 1981.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4930/said-darabi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

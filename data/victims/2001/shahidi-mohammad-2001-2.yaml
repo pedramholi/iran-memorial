@@ -1,0 +1,43 @@
+id: shahidi-mohammad-2001-2
+name_latin: "Mohammad Shahidi"
+name_farsi: "محمد شهیدی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2001-01-17
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Mohammad Shahidi, along with five others, was
+    published in the Iran newspaper on January 18, 2001. Additional
+    information was taken from the Iran newspaper on January 17, 2001. His
+    case was related to a murder. Arrest and detention The circumstances of
+    Mr. Shahidi s arrest and detention are not known. Trial The Criminal Court
+    in Tehran tried Mr. Shahidi. No information is available on his trial.
+    Charges The charge brought against Mr. Shahidi was announced as murder.
+    The validity of the criminal charges brought against this defendant cannot
+    be ascertained in the absence of the basic guarantees of a fair trial.
+    Evidence of guilt The report of this execution does not contain
+    information regarding the evidence provided against Mr. Shahidi. Defense
+    No information is available on Mr. Shahidi s defense. Judgment The
+    Criminal Court in Tehran condemned Mr. Mohammad Shahidi to death and the
+    Supreme Court confirmed the ruling. He was hanged, along with five others,
+    in Qasr Prison in Tehran on January 17, 2001.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/75605/mohammad-shahidi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

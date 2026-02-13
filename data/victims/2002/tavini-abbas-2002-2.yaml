@@ -1,0 +1,49 @@
+id: tavini-abbas-2002-2
+name_latin: "Abbas Tavini"
+name_farsi: "عباس طوینی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2002-01-23
+age_at_death: null
+place_of_death: "Ahvaz"
+province: "Khuzestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Abbas Tavini, along with three others, was
+    published in the Jomhuri Eslami newspaper on January 24 and in the Kayhan
+    newspaper on January 27, 2002. Arrest and Detention According to the
+    Kayhan newspaper, police arrested Mr. Tavini in May of 2001. There is no
+    specific information on his arrest and detention. Trial The Islamic
+    Revolutionary Court of Ahvaz tried Mr. Tavini. No further information is
+    available on his trial. Charges According to the Jomhuri Eslami newspaper,
+    the charges against Mr. Tavini and three others were collectively
+    announced as "robbery and banditry, creating an insecure and intimidating
+    atmosphere, disturbing public security, and murdering an individual during
+    a robbery." The Kayhan newspaper did not report the murder charge. The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    Evidence of Guilt The report of this execution did not provide any
+    specific information on the evidence presented against Mr. Tavini. Defense
+    No information is available on Mr. Tavini's defense. Judgment The Islamic
+    Revolutionary Court of Ahvaz identified Mr. Abbas Tavini as Mohareb [
+    enemy of God] and condemned him to death. Branch 32 of the Supreme Court
+    confirmed the ruling. He was hanged in public and in the presence of
+    judges and a representative of Sentence Enforcement of the Islamic
+    Revolutionary Court of Ahvaz at Vaismolasani in Ahvaz on January 23, 2002.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7956/abbas-tavini"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

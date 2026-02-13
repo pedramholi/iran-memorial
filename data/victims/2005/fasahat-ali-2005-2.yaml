@@ -1,0 +1,51 @@
+id: fasahat-ali-2005-2
+name_latin: "Ali Fasahat"
+name_farsi: "علی فصاحت"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2005-09-14
+age_at_death: null
+place_of_death: "Yazd"
+province: "Yazd"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Ali Fesahat was published on the web site of the
+    Jomhuri Eslami newspaper on September 15, 2005. Arrest and Detention The
+    circumstances of this defendant’s arrest and detention are not known.
+    Trial No information is available on the defendant’s trial. According to
+    the report, Yazd Court issued the ruling, the Recognition Council
+    investigated it, and the Supreme Court confirmed it. Charges According to
+    the Jomhuri Eslami newspaper report, the defendant killed a young man,
+    named Ahmad Kheirandish, in a fight on February 24, 2005. The validity of
+    the criminal charges brought against this defendant cannot be ascertained
+    in the absence of the basic guarantees of a fair trial. International
+    human rights organizations have drawn attention to reports indicating that
+    Islamic Republic authorities have brought trumped-up charges against their
+    political opponents and executed them for alleged drug trafficking,
+    sexual, and other criminal offences. Each year Iranian authorities
+    sentence to death hundreds of alleged common criminals, following judicial
+    processes that fail to meet international standards. The exact number of
+    people convicted based on trumped-up charges is unknown. Evidence of Guilt
+    The report of this execution does not contain information regarding the
+    evidence provided against the defendant. Defense No information is
+    available on Mr. Fesahat’s defense. Judgment According to the Jomhuri
+    Eslami newspaper, Mr. Ali Fesahat was hanged in the presence of the
+    victim’s family and some bystanders in the Yazd Central Prison on
+    September 14, 2005.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/39953/ali-fasahat"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

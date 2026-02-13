@@ -1,0 +1,50 @@
+id: narui-mohammad-karim-1990-2
+name_latin: "Mohammad Karim Naru'i"
+name_farsi: "محمدکریم ناروئی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1990-01-28
+age_at_death: null
+place_of_death: "Zahedan"
+province: "Sistan Va Baluchestan"
+cause_of_death: "Execution » Unspecified execution method"
+circumstances: >
+    The execution of Mr. Mohammad Karim Naru'i was related by Mr. Galindo
+    Pohl, the Special Representative of the United Nations' Commission on
+    Human Rights, in his report on the situation of human rights in Iran
+    (November 1990, A/45/697). Mr. Naroui, the Head Postmaster at Chah Bahar,
+    was the brother of an opponent of the regime who had been smuggled out of
+    the country. Arrest and detention According to the UN report, Mr. Naru'i
+    was arrested around September 1989 in Chah Bahar. The group arrested at
+    the same time included also two of the opponent s nephews. Trial No
+    information is available on the defendant s trial. However it has been
+    reported to the United Nations' Special Representative, that at the time
+    of this execution : "trials before Islamic revolutionary Courts have
+    usually taken place in secret, sometimes inside prisons, that defendants
+    have not usually enjoyed the right to be represented by a lawyer, and
+    often have not even been made aware that the proceedings were in fact a
+    trial and not an interrogation session." Charges The charges brought
+    against Mr. Naru'i are not known, however his arrest may have been related
+    to his brother's flight from Iran. Mr. Naroui's brother was an opponent to
+    the Islamic Republic. Evidence of guilt The report of this execution does
+    not contain information regarding the evidence provided against the
+    defendant. Defense No information is available on Mr. Naru'i's defense.
+    Judgment Mr. Naru'i was sentenced to death in Zahedan and executed the day
+    after his sentence was issued.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/11404/mohammad-karim-narui"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

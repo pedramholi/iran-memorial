@@ -1,0 +1,49 @@
+id: zolfaqari-iraj-1979-2
+name_latin: "Iraj Zolfaqari"
+name_farsi: "ذوالفقاری"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Unknown"
+photo: "https://www.iranrights.org/actorphotos/65293_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1979-07-24
+age_at_death: null
+place_of_death: "Amol"
+province: "Mazandaran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    Kayhan Daily reported Major Iraj Zolfaqari s execution on 25 July 1979.
+    Major Zolfaqari was the Head of Amol Police Station, a city in Mazandaran
+    Province in the north of Iran. Arrest and detention The circumstances of
+    Major Zolfaqari s arrest and detention are not known. Trial The
+    Revolutionary Tribunal of Amol tried Major Zolfaqari. Charges Kayhan Daily
+    reported Major Zolfaqari s charges as murdering Qorbanali Sayfipasha, a
+    24-year-old bank clerk at Saderat Bank, and Behruz Gholami, a 19-year-old
+    student, assaulting the brave and Muslim people of Amol, and terrorizing
+    the region . Evidence of guilt No information is available concerning the
+    evidence presented against Major Zolfaqari. Defense No information is
+    available concerning Major Zolfaqari s defense and it is not clear if he
+    had the opportunity to defend himself effectively, for example whether he
+    had access to a lawyer or the possibility to summon witnesses in his
+    favor, etc. The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. Judgment The Revolutionary Tribunal of Amol recognized Major
+    Zolfaqari guilty of waging war on God, the Prophet, and the Deputy of the
+    Twelfth Imam and corruption on earth. He was sentenced to death. Kayhan
+    Daily also reported that his salary would be given to his parents after
+    his death. His execution verdict was carried out by the firing squad at
+    7:00 p.m. on 24 July 1979.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-5511/iraj-zolfaqari"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,57 @@
+id: j-hassan-2005-2
+name_latin: "Hassan J."
+name_farsi: "حسن ج."
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2005-08-22
+age_at_death: 18
+place_of_death: "Bandar Abbas"
+province: "Hormozgan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The news of the execution of Mr. Hassan J. and three other individuals was
+    published in the web edition of the Jomhuri Eslami newspaper on August 20,
+    2005 and the Jamejam newspaper on August 22. Jamejam mentioned the age of
+    the defendant to be 18 but his age at the time of the alleged crime is not
+    known. International laws have strictly prohibited capital punishment
+    against those who were under the age of 18 at the time of committing the
+    crime. As a party to the Covenant on Civil and Political Rights and the
+    Convention on the Rights of the Child, Iran has the obligation to avoid
+    capital punishment for an offence committed before the age of eighteen.
+    Arrest and detention The circumstances of this defendant s arrest and
+    detention are not known. There is no date of arrest in the reports. Trial
+    No information is available on the defendant s trial. Charges According to
+    the reports, the defendant was charged with kidnapping and raping a 10
+    year old girl . The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. International human rights organizations have drawn
+    attention to reports indicating that the Islamic Republic s authorities
+    have brought trumped-up charges against their political opponents and
+    executed them for drug trafficking, sexual, and other criminal offences.
+    Each year, Iranian authorities sentence to death hundreds of alleged
+    common criminals, following judicial processes that fail to meet
+    international standards. The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against the defendant. Defense No information is available on Mr. Hassan
+    J. s defense. Judgment According to Jomhuri Eslami , the Bandar Abbas
+    Revolutionary Public Prosecution court condemned Mr. Hassan J. to death.
+    The verdict was approved by the Supreme Court. He was hanged in public on
+    August 22, 2005.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4809/hassan-j"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

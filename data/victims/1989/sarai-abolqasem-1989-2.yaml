@@ -1,0 +1,57 @@
+id: sarai-abolqasem-1989-2
+name_latin: "Abolqasem Sara'i"
+name_farsi: "ابوالقاسم سرائی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1989-03-01
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Abolqasem Sara’i, son of Ali Lashkar, along with 49
+    other individuals who were executed in 15 different cities on one day for
+    drug trafficking, was announced in the communiqué of the Center for
+    Combating Narcotics and published in the Jomhuri Eslami newspaper on March
+    2, 1989. Arrest and Detention The circumstances of this defendant’s arrest
+    and detention are not known. Trial No information is available on the
+    defendant’s trial other than he was tried at the Revolutionary Court of
+    Tehran. Charges The collective charges brought against Mr. Sara’i and
+    seven other individuals, were announced as “continuous and persistent drug
+    trafficking, importing narcotics from Zahedan to Tehran and Saveh, and
+    possession of more than 32 kilograms of heroin and 3,306 kilograms of
+    opium.” The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. International human rights organizations have drawn
+    attention to reports indicating that Islamic Republic authorities have
+    brought trumped-up charges against their political opponents and executed
+    them for alleged drug trafficking, sexual, and other criminal offences.
+    Thousands of alleged drug traffickers have been sentenced to death
+    following judicial processes that fail to meet international standards.
+    Scores of them were executed based on a 1989 law, imposing mandatory death
+    sentences on drug traffickers found in possession of specified amounts of
+    proscribed narcotics (5 kg of hashish or opium, and more than 30 grams of
+    heroin, codeine, methadone, or morphine). The exact number of people
+    convicted based on trumped-up charges is unknown. Evidence of Guilt
+    According to the newspaper, Mr. Sara’i and seven co-defendants “had
+    criminal records including murder, robbery, possession of arms, assault,
+    and battery.” Defense No information is available on his defense. Judgment
+    The court condemned Mr. Abolqasem Sara’i to death and he was hanged in
+    Tehran on March 1, 1989.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/39624/abolqasem-sarai"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

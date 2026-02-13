@@ -1,0 +1,45 @@
+id: abadi-majid-mahmud-2002-2
+name_latin: "Majid Mahmud Abadi"
+name_farsi: "مجید محمودآبادی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2002-01-01
+age_at_death: null
+place_of_death: "Tabriz"
+province: "Azarbaijan-e Sharqi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Majid Mahmudabadi, known as Bala-Majid, was
+    published in the Ettela at newspaper on July 10, 2002. Arrest and
+    Detention There is no specific information on Mr. Mahmudabadi s arrest and
+    detention. Trial Branch 28 of the Public Court of Tabriz tried Mr.
+    Mahmudabadi. No information is available on his trial. Charges According
+    to the Public Relations Office of the Azarbaijan-e Sharqi Courthouse, the
+    charge against Mr. Mahmudabadi was announced as "murder." According to
+    this report, Mr. Mahmudabadi had murdered a man with blows of a knife in
+    public at A elgoli Park in Tabriz on September 18, 1998. The validity of
+    the criminal charges brought against this defendant cannot be ascertained
+    in the absence of the basic guarantees of a fair trial. Evidence of Guilt
+    The report of this execution did not provide any specific information on
+    the evidence presented against Mr. Mahmudabadi. Defense No information is
+    available on Mr. Mahmudabadi's defense. Judgment Branch 28 of the Public
+    Court of Tabriz condemned Mr. Majid Mahmudabadi to death and the Supreme
+    Court confirmed the ruling. He was hanged in the presence of victim s
+    family. The exact date of this execution is unknown.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/76157/majid-mahmud-abadi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

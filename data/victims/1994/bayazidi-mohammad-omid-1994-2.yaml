@@ -1,0 +1,28 @@
+id: bayazidi-mohammad-omid-1994-2
+name_latin: "Mohammad Omid Bayazidi"
+name_farsi: "محمد امید بایزیدی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim (Sunni)"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1994-07-31
+age_at_death: null
+place_of_death: "Soran (Diana)"
+province: null
+cause_of_death: "Extrajudicial Execution"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/84329/mohammad-omid-bayazidi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

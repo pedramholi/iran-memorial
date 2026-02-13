@@ -1,0 +1,28 @@
+id: taheri-sohrab-1994-2
+name_latin: "Sohrab Taheri"
+name_farsi: "سهراب طاهری"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1994-09-16
+age_at_death: null
+place_of_death: "Orumieh"
+province: "Azarbaijan-e Gharbi"
+cause_of_death: "Execution » Other execution method"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/84331/sohrab-taheri"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

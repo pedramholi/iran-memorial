@@ -1,0 +1,51 @@
+id: mansuri-khalil-2003-2
+name_latin: "Khalil Mansuri"
+name_farsi: "خلیل منصوری"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2003-01-09
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Khalil Mansuri, son of Seifollah, along with
+    five others, was published on the website of ISNA (Iranian Students News
+    Agency) on January 13, 2003 and in the Jomhuri Eslami newspaper on January
+    14, 2003. He was from Mazandaran. Arrest and detention The circumstances
+    of Mr. Mansuri s arrest and detention are not known. Trial According to
+    the Public Relations Office of the Islamic Revolutionary Court, a branch
+    of the Islamic Revolutionary Court of Tehran tried Mr. Mansuri. No
+    information is available on his trial. Charges The charges brought against
+    Mr. Mansuri were announced as sedition, fighting, hooliganism, creating
+    fear and intimidation and disturbing public peace and security in the
+    area, extortion, bullying, and multiple robberies. The validity of the
+    criminal charges brought against this defendant cannot be ascertained in
+    the absence of the basic guarantees of a fair trial. Evidence of guilt The
+    report of this execution did not provide any specific information on the
+    evidence presented against Mr. Mansuri. According to a report by the
+    Social Security Commission in Mazandaran, he had records for sedition,
+    extortion, and bullying before and after the revolution. Defense No
+    information is available on Mr. Mansuri s defense. Judgment A branch of
+    the Islamic Revolutionary Court of Tehran condemned Mr. Khalil Mansuri to
+    death and the Supreme Court confirmed the ruling. He was hanged, along
+    with five others, in the presence of forensics representatives, police and
+    court officials at Evin Prison in Tehran on January 9, 2003. No specific
+    information is available about this execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7906/khalil-mansuri"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

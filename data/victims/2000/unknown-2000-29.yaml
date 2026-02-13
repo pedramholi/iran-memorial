@@ -1,0 +1,63 @@
+id: unknown-2000-29
+name_latin: "Unknown"
+name_farsi: "ناشناس"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2000-01-01
+age_at_death: null
+place_of_death: "Iran"
+province: null
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of an unknown person was based on the Abdorrahman
+    Boroumand Foundation s research, quoting statistics announced by the
+    Security Deputy of the Interior Ministry published in the Iran newspaper
+    on June 30, 2001. This case was related to narcotics. According to the
+    Security Deputy of the Interior Ministry, a total of 15,869 individuals
+    had been arrested in relation to narcotics between March 21, 1999 and
+    March 20, 2000 among whom a total of 1,735 individuals had been condemned
+    to death. The death sentences against 400 individuals were confirmed and,
+    ultimately, a total of 233 individuals were executed. (Iran newspaper) *
+    Arrest and detention The circumstances of this defendant s arrest and
+    detention are not known. Trial No information is available on the
+    defendant s trial. Charges The charge brought against the defendant was
+    announced as crimes related to narcotics. The validity of the criminal
+    charges brought against this defendant cannot be ascertained in the
+    absence of the basic guarantees of a fair trial. International human
+    rights organizations have drawn attention to reports indicating that the
+    Islamic Republic authorities have brought trumped-up charges, including
+    drug trafficking, sexual, and other criminal offences, against their
+    opponents (including political, civil society activists, as well as
+    unionists and ethnic and religious minorities). Thousands of alleged drug
+    traffickers have been sentenced to death following judicial processes that
+    fail to meet international standards. Scores of them were executed based
+    on a 1989 law imposing mandatory death sentences on drug traffickers found
+    in possession of specified amounts of proscribed narcotics (5 kg of
+    hashish or opium, and more than 30 grams of heroin, codeine or methadone).
+    The exact number of people convicted based on trumped-up charges is
+    unknown. Evidence of guilt The report of this execution did not provide
+    any specific information on the evidence presented against the defendant.
+    Defense No information is available on the defendant s defense. Judgment
+    This individual was executed between March 21, 1999 and March 20, 2000.
+    However, no specific information is available about the defendant s
+    execution. * The Abdorrahman Boroumand Foundation had gathered the
+    identity of 55 individuals executed for narcotics related charges between
+    March 21, 1999 and March 20, 2000. Based on the newspaper report, another
+    178 unknown individuals would have been executed during this period.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/74916/unknown"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

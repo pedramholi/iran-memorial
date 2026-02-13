@@ -1,0 +1,65 @@
+id: hashemi-monirossadat-1983-2
+name_latin: "Monirossadat Hashemi"
+name_farsi: "منیرالسادات هاشمی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Non-Believer"
+photo: "https://www.iranrights.org/actorphotos/21811_thumb.jpeg"
+
+# --- DEATH ---
+date_of_death: 1983-08-13
+age_at_death: 29
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Shooting"
+circumstances: >
+    Ms. Monirolsadat Hashemi is one of the 1,533 executed prisoners listed by
+    the Association of Iranian Women of K ln (Germany). The list published in
+    1997 is entitled: "A partial list of names of women executed by the
+    Islamic Republic of Iran." Additional information was taken from an
+    interview with Ms. Monirolsadat Hashemi s sister-in-law. An electronic
+    form was also sent to the Omid. According to this information, she was a
+    sympathizer of the Sahand Organization (Ettehad-e Mobarezan-e Komonist).
+    Also, some information was taken from the website of the Communist Party
+    of Iran. Her name was reflected as Monir Hashemi on this site. According
+    to this website, Ms. Hashemi was born in 1954. She began her political
+    activities by joining a guerilla group after entering the university in
+    1974. She later joined the Marxist-Leninist faction of the Mojahedin Khalq
+    Organization. After the revolution, she joined the Sahand Organization and
+    became a member in 1980. She was active in the Worker Section of this
+    organization and became in charge of the Workers Section of South Tehran.
+    The Sahand Organization (or Ettehad-e Mobarezan-e Komonist) was founded
+    after the Islamic Revolution of February 1979, with a specific focus on
+    ideology. After Sahand developed the project of the Communist Party of
+    Iran in 1982, the Party was founded by Sahand and Komala and remainders of
+    such Communist organizations as Peykar, Razmandegan, and some affiliates
+    of the Fadaiyan Khalq. Later on, this party was divided into various
+    factions. Arrest and detention Ms. Monirolsadat Hashemi was arrested in
+    Tehran on June 9, 1982. When her husband, Mr. Mohammad Javad Qa edi left
+    the house to make a phone call and did not return, she was worried and
+    went outside to find him, where she was arrested. On the same day, Mr. Qa
+    edi s brother and sister were also arrested and all four of them were
+    taken to the Komiteh Moshtarek prison in a car. Trial No information is
+    available on the defendant s trial. Charges No information is available on
+    the defendant s charges. The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. Evidence of guilt The report of this execution
+    does not contain information regarding the evidence provided against the
+    defendant. Defense No information is available about the defendant s
+    defense. Judgment No specific information is available about the defendant
+    s execution. Monirolsadat Hashemi and her husband, Mr. Mohammad Javad Qa
+    edi, were executed by firing squad in the Evin prison in Tehran on August
+    13, 1983. They visited together for a few minutes on the same day.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7929/monirossadat-hashemi"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

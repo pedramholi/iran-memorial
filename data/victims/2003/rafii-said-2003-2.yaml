@@ -1,0 +1,56 @@
+id: rafii-said-2003-2
+name_latin: "Sa'id Rafi'i"
+name_farsi: "سعید رفیعی"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2003-07-30
+age_at_death: null
+place_of_death: "Tehran"
+province: "Tehran"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Sa id Rafi i, along with another person, was
+    published in the E temad newspaper on July 31, 2003. Additional
+    information regarding his arrest and prosecution was taken from the Ettela
+    at newspaper of May 23, 2001 and the Iran newspaper of November 6, 2001.
+    Arrest and detention According to the E temad newspaper, following the
+    recovery of two bodies in a villa in Tehran on May 3, 2001, police
+    investigators found out that a gardener, who used to work at this place,
+    had been seen at the location a few days earlier. After face drawing and
+    finding his residence in Hamadan, police identified his location and
+    arrested Mr. Rafi i. Trial No information is available on Mr. Rafi i s
+    trial. Charges The charge brought against Mr. Rafi i was announced as
+    murder. According to the E temad newspaper, after murdering the residents
+    of the villa, he stole money, gold, and valuables, and went to the
+    Kabudarahang Village. The validity of the criminal charges brought against
+    this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. Evidence of guilt The evidence presented
+    against Mr. Rafi i was his confession. According to the E temad newspaper,
+    during the interrogation, he stated that following his acquaintance with
+    the property owner he went to the house, murdered the owner and his
+    sister, and left with 72 thousand Tumans on May 1, 2001. International
+    human rights organizations have repeatedly condemned the government of the
+    Islamic Republic of Iran for its systematic use of severe torture and
+    solitary confinement to obtain confessions from detainees and have
+    questioned the authenticity of confessions obtained under duress. Defense
+    No information is available on Mr. Rafi i s defense. Judgment The court
+    condemned Mr. Sa id Rafi i to death (two counts) and two years
+    imprisonment. The Supreme Court confirmed the ruling. He was hanged at
+    Qasr Prison in Tehran on July 30, 2003.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/73744/said-rafii"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

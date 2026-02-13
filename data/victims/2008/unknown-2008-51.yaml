@@ -1,0 +1,28 @@
+id: unknown-2008-51
+name_latin: "Unknown"
+name_farsi: "ناشناس"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Unknown"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2008-01-01
+age_at_death: null
+place_of_death: "Sari"
+province: "Mazandaran"
+cause_of_death: "Execution » Hanging"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/81548/unknown"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

@@ -1,0 +1,52 @@
+id: karamati-mohammad-2002-2
+name_latin: "Mohammad Karamati"
+name_farsi: "محمد كرامتی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2002-11-02
+age_at_death: null
+place_of_death: "Tabriz"
+province: "Azarbaijan-e Sharqi"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Mohammad Karamati was announced by the Public
+    Relations Office of the Eastern Azerbaijan's Court House. The Jomhuri
+    Eslami daily quoted the announcement (web edition, November 3, 2002).
+    Arrest and detention The circumstances of this defendant s arrest and
+    detention are not known. Trial No information is available on the
+    defendant s trial. Charges Mr. Karamati was charged with possessing and
+    carrying 800 grams of heroin. The validity of the criminal charges brought
+    against this defendant cannot be ascertained in the absence of the basic
+    guarantees of a fair trial. International human rights organizations have
+    drawn attention to reports indicating that the Islamic Republic s
+    authorities have brought trumped up charges against their political
+    opponents and executed them for drug trafficking, sexual, and other
+    criminal offences. Thousands of alleged drug traffickers have been
+    sentenced to death following judicial processes that fail to meet
+    international standards. Scores of them were executed based on a 1989 law
+    imposing mandatory death sentences on drug traffickers found in possession
+    of specified amounts (5 kg of hashish or opium, and more than 30 grams of
+    heroin, codeine or methadone) of proscribed narcotics. The exact number of
+    people convicted based on trumped-up charges is unknown Evidence of guilt
+    The report of this execution does not contain information regarding the
+    evidence provided against the defendant. Defense No information is
+    available on Mr. Karamati's defense. Judgment The Third Branch of the
+    Islamic Revolutionary Tribunal of Tabriz sentenced Mr. Karamati to death.
+    Confirmed by the country s Chief Prosecutor, the verdict was carried out.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/25041/mohammad-karamati"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

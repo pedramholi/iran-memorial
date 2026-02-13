@@ -1,0 +1,60 @@
+id: batmani-naser-2006-2
+name_latin: "Naser Batmani"
+name_farsi: "ناصر باتمانی"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2006-01-01
+age_at_death: 22
+place_of_death: "Sanandaj"
+province: "Kordestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Naser Batmani was published on the websites
+    of the Human Rights Organization of Kurdistan and Iran Press News on
+    January 1, 2007, quoting the same organization. He was 22 years old and
+    from Kamyaran in Kurdistan. His case was related to the murder of an
+    individual. Mr. Batmani was 17 years old at the time of the incident.
+    International laws have strictly prohibited capital punishment against
+    those who were under the age of 18 at the time of committing the crime. As
+    a party to the Covenant on Civil and Political Rights and the Convention
+    on the Rights of the Child, Iran has the obligation to avoid capital
+    punishment for an offence committed before the age of eighteen. In a
+    detailed report regarding the execution of children and youth in Iran,
+    Amnesty International objected to the execution of Mr. Batmani. (January
+    2, 2008) Arrest and detention After his arrest, Mr. Batmani was detained
+    for five years. The circumstances of his arrest and detention are not
+    known. Trial No information is available on Mr. Batmani s trial. Charges
+    The charge brought against Mr. Batmani was announced as murder. The
+    validity of the criminal charges brought against this defendant cannot be
+    ascertained in the absence of the basic guarantees of a fair trial.
+    International human rights organizations have drawn attention to reports
+    indicating that the Islamic Republic authorities have brought trumped-up
+    charges, including drug trafficking, sexual, and other criminal offences,
+    against their opponents (including political, civil society activists, as
+    well as unionists and ethnic and religious minorities). Each year Iranian
+    authorities sentence to death hundreds of alleged common criminals,
+    following judicial processes that fail to meet international standards.
+    The exact number of people convicted and executed based on trumped-up
+    charges is unknown. Evidence of guilt The report of this execution does
+    not contain information regarding the evidence provided against Mr.
+    Batmani. Defense Mr. Batmani was younger than 18 when the crime took
+    place. No information is available on his defense. Judgment Mr. Naser
+    Batmani was hanged in Sanandaj Prison in December of 2006. There is no
+    information on the verdict leading to this execution.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/74918/naser-batmani"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

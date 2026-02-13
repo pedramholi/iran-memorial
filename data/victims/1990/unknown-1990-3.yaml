@@ -1,0 +1,59 @@
+id: unknown-1990-3
+name_latin: "Unknown"
+name_farsi: "ناشناس"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1990-01-16
+age_at_death: 31
+place_of_death: "Bandar Anzali"
+province: "Gilan"
+cause_of_death: "Execution » Stoning"
+circumstances: >
+    The information about the execution of this woman was related in the
+    November 1990 United Nations' report on the situation of human rights in
+    the Islamic Republic of Iran. The report refers to the January 16th news
+    wire from Agence France Press quoting the Iranian press about this
+    execution The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. International human rights organizations have drawn
+    attention to reports indicating that the Islamic Republic s authorities
+    have brought trumped up charges against their political opponents and
+    executed them for drug trafficking, sexual, and other criminal offences.
+    Each year, Iranian authorities sentence to death hundreds of alleged
+    common criminals, following judicial processes that fail to meet
+    international standards. The exact number of people convicted based on
+    trumped-up charges is unknown. Arrest and detention The circumstances of
+    this defendant s arrest and detention are not known. Trial No information
+    is available on the defendant s trial. However it has been reported to the
+    United Nations' special representative, that at the time of this execution
+    : "trials before Islamic revolutionary Courts have usually taken place in
+    secret, sometimes inside prisons, that defendants have not usually enjoyed
+    the right to be represented by a lawyer, and often have not even been made
+    aware that the proceedings were in fact a trial and not an interrogation
+    session." Charges The defendant was charged with "prostitution". Evidence
+    of guilt The report of this execution does not contain information
+    regarding the evidence provided against the defendant. Defense No
+    information is available on this person's defense. Judgment The Islamic
+    Revolutionary Tribunal of Bandar Anzali found the defendant guilty and
+    sentenced her to death by stoning. Article 104 of the Islamic Republic's
+    Penal Code states that ''...the stones should not be too large so that the
+    person dies on being hit by one or two of them...'' and is designed to
+    cause grievous pain leading to eventual death. The exact date of this
+    execution is not known.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/11399/unknown"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

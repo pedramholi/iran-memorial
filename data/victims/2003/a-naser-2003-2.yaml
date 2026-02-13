@@ -1,0 +1,47 @@
+id: a-naser-2003-2
+name_latin: "Naser A."
+name_farsi: "ناصر الف."
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2003-09-16
+age_at_death: 38
+place_of_death: "Esfahan"
+province: "Esfahan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    News of the execution of Mr. Naser A. was published in the Ettela at
+    newspaper on September 16, 2003, and in the Jomhuri Eslami newspaper on
+    September 17, 2003. His case was related to the murder of his cousin in
+    1997. Arrest and detention Mr. Naser A. was arrested in 1997 and was
+    detained for six years (Ettela at newspaper). The circumstances of his
+    arrest and detention are not known. Trial A court tried Mr. Naser A. in
+    Esfahan in 2000. No information is available on his trial. Charges The
+    charge brought against Mr. Naser A. was announced as murder. According to
+    the existing information, he had shot to death his cousin with a combat
+    weapon. The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. Evidence of guilt The report of this execution did not
+    provide any specific information on the evidence presented against Mr.
+    Naser A. Defense No information is available on Mr. Naser A. s defense.
+    Judgment A court condemned Mr. Naser A. to death in 2000. The Supreme
+    Court confirmed the ruling on June 1, 2003. He was hanged in Esfahan
+    Central Prison on September 16, 2003. The defendant s uncle put the cord
+    around his neck. Social workers in Esfahan Central Prison had gone to the
+    victim s house to get his family s pardon 15 times without success.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-7961/naser-a"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

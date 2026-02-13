@@ -1,0 +1,28 @@
+id: abdollahbeg-heidar-1995-2
+name_latin: "Heidar Abdollahbeg"
+name_farsi: "حیدر عبدالله‌بگ"
+date_of_birth: null
+place_of_birth: null
+gender: male
+ethnicity: null
+religion: "Presumed Muslim (Sunni)"
+photo: null
+
+# --- DEATH ---
+date_of_death: 1995-01-19
+age_at_death: null
+place_of_death: "Dokan"
+province: null
+cause_of_death: "Extrajudicial Execution"
+circumstances: null
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/84349/heidar-abdollahbeg"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

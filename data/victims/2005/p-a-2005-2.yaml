@@ -1,0 +1,56 @@
+id: p-a-2005-2
+name_latin: "A. P."
+name_farsi: "الف. پ."
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2005-08-22
+age_at_death: 22
+place_of_death: "Bandar Abbas"
+province: "Hormozgan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The news of the execution of an individual whose name is reported as A. P.
+    and three others was published in the web editions of the Jomhuri Eslami
+    newspaper on August 20, 2005 and the Jamejam newspaper on August 22, 2005.
+    Arrest and detention The circumstances of this defendant’s arrest and
+    detention are not known. There is no date of arrest in the reports. Trial
+    No information is available on the defendant’s trial. According to the
+    Jomhuri Eslami report, the court judgment issued on August 18, 2005 and
+    The Supreme Court confirmed it. Charges According to the reports, in May
+    or June of the same year, the defendant and his co-defendant entered a
+    house in Chahestan quarter of Bandar Abbas, stole the valuables, and raped
+    a woman. The validity of the criminal charges brought against this
+    defendant cannot be ascertained in the absence of the basic guarantees of
+    a fair trial. International human rights organizations have drawn
+    attention to reports indicating that the Islamic Republic’s authorities
+    have brought trumped-up charges against their political opponents and
+    executed them for drug trafficking, sexual, and other criminal offences.
+    Each year, Iranian authorities sentence to death hundreds of alleged
+    common criminals, following judicial processes that fail to meet
+    international standards. The exact number of people convicted based on
+    trumped-up charges is unknown. Evidence of guilt The report of this
+    execution does not contain information regarding the evidence provided
+    against the defendant. According to Jamejam , he had a criminal record of
+    9 counts of robbery, consumption of alcohol, and battery and wounding with
+    a knife.” Defense No information is available on Mr. A. P.’s defense.
+    Judgment According to Jomhuri Eslami , the Prosecutor of the Bandar Abbas
+    revolutionary and ordinary courts announced that Mr. A. P. was sentenced
+    to 10 years imprisonment, 74 lashes, and execution in public. He was
+    hanged in public in Bandar Abbas on August 22, 2005.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/-4806/a-p"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"

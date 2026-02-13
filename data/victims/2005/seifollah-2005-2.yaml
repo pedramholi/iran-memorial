@@ -1,0 +1,50 @@
+id: seifollah-2005-2
+name_latin: "Seifollah"
+name_farsi: "سیف الله"
+date_of_birth: null
+place_of_birth: null
+gender: null
+ethnicity: null
+religion: "Presumed Muslim"
+photo: null
+
+# --- DEATH ---
+date_of_death: 2005-01-01
+age_at_death: null
+place_of_death: "Borujerd"
+province: "Lorestan"
+cause_of_death: "Execution » Hanging"
+circumstances: >
+    The execution of Mr. Seifollah was announced in the website of the Jam-e
+    Jam newspaper on July 29, 2005. Arrest and detention The circumstances of
+    this defendant’s arrest and detention are not known. The date of the
+    defendant’s arrest is not known. Trial No information is available on the
+    defendant’s trial. Charges The charge against Mr. Seifollah is mentioned
+    as “carrying 4 kilograms heroin”. The validity of the criminal charges
+    brought against this defendant cannot be ascertained in the absence of the
+    basic guarantees of a fair trial. International human rights organizations
+    have drawn attention to reports indicating that the Islamic Republic’s
+    authorities have brought trumped-up charges against their political
+    opponents and executed them for drug trafficking, sexual, and other
+    criminal offences. Each year, Iranian authorities sentence to death
+    hundreds of alleged common criminals, following judicial processes that
+    fail to meet international standards. The exact number of people convicted
+    based on trumped-up charges is unknown. Evidence of guilt The report of
+    this execution does not contain information regarding the evidence
+    provided against the defendant. Defense No information is available on Mr.
+    Seifollah's defense. Judgment No information is available on the detail of
+    this execution. According to JameJam , the ruling was issued by Branch one
+    of the Islamic Revolutionary Court of Borujerd. Then, the Supreme Court
+    confirmed the ruling. The defendant was hanged in Qiam square of Borujerd
+    (Lorestan province). There is no date of execution in the report.
+event_context: null
+responsible_forces: null
+
+# --- VERIFICATION ---
+status: unverified
+sources:
+  - url: "https://www.iranrights.org/memorial/story/41469/seifollah"
+    name: "Abdorrahman Boroumand Center — Omid Memorial"
+    type: memorial_database
+last_updated: 2026-02-13
+updated_by: "boroumand-import"
