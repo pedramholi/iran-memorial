@@ -12,6 +12,8 @@ photo: "https://www.iranrights.org/actorphotos/61076_thumb.jpeg"
 occupation: "university student"
 family:
 
+education: "university student"
+  notes: "son of Aziz"
 # --- DEATH ---
 date_of_death: 2009-11-13
 age_at_death: 22

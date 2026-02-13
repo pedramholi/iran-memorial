@@ -8,6 +8,11 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: "https://www.iranrights.org/actorphotos/25056_thumb.jpeg"
 
+# --- LIFE ---
+quotes:
+  - "we do not deserve to be executed. The [women] who filed complaints against us did not resist our demands."
+  - "I accept that I had infringed the law and am ready to be punished for that, but our crime was not such to be punishable by death…"
+
 # --- DEATH ---
 date_of_death: 2002-09-29
 age_at_death: null

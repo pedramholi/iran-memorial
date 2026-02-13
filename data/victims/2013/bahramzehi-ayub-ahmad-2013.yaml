@@ -14,6 +14,8 @@ family:
   marital_status: "bachelor"
 personality: "ordinary young man who was not politically active or involved with any party or group"
 
+  children: 0
+  notes: "son of Golmohammad"
 # --- DEATH ---
 date_of_death: 2013-10-26
 age_at_death: 30

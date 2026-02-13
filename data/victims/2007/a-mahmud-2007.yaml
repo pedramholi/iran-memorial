@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+quotes:
+  - "He had deceitfully kidnapped a twenty year old man last year."
+
 # --- DEATH ---
 date_of_death: 2007-01-15
 age_at_death: 33
@@ -39,7 +43,7 @@ circumstances: >
     available on Mr. Mahmud’s defense. Judgment The court condemned Mr. Mahmud
     A. to death and Branch 27 of the Supreme Court confirmed the ruling. He
     was hanged in Shahid Mahalati Square of Qom on January 15, 2007.
-event_context: null
+event_context: "execution on January 15, 2007"
 responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified

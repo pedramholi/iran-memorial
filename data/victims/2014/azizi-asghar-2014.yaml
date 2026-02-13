@@ -47,9 +47,8 @@ circumstances: >
     Branch 11 of Tabriz court carried out the ruling. Mr. Asghar Azizi was
     hanged in public in Mianeh on Monday August 18, 2014 in the morning. (Mehr
     News Agency)
-event_context: null
-responsible_forces: null
-
+event_context: "2014 execution"
+responsible_forces: "Tabriz Courthouse"
 # --- VERIFICATION ---
 status: unverified
 sources:

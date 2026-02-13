@@ -36,7 +36,7 @@ circumstances: >
     the plaintiff of this case pardoned him, but without taking this into
     consideration, Mr. Ezzat Sarani was hanged in the Zahedan Central Prison
     on December 25, 2007.
-event_context: null
+event_context: "execution on December 25, 2007"
 responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified

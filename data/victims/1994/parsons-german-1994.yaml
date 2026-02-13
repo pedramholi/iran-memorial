@@ -2,7 +2,7 @@ id: parsons-german-1994
 name_latin: "German Parsons"
 name_farsi: "جرمن پارسونز"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Buenos Aires, Argentina"
 gender: male
 ethnicity: null
 religion: "Judaism"
@@ -13,6 +13,7 @@ occupation: "artist and set designer"
 family:
   marital_status: "married"
 
+  notes: "lived across the street from the AMIA building"
 # --- DEATH ---
 date_of_death: 1994-07-18
 age_at_death: 29

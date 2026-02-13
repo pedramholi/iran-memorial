@@ -11,6 +11,8 @@ photo: null
 # --- LIFE ---
 family:
 
+quotes:
+  - "Women, Life, Freedom"
 # --- DEATH ---
 date_of_death: 2022-11-16
 age_at_death: 24
@@ -83,8 +85,7 @@ circumstances: >
     violations in the Islamic Republic of Iran related to the protests that
     began on 16 September 2022, especially with respect to women and children.
 event_context: "2022 protests following the death of Mahsa Amini"
-responsible_forces: null
-
+responsible_forces: "morality police"
 # --- VERIFICATION ---
 status: unverified
 sources:

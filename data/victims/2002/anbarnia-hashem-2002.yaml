@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+quotes:
+  - "martyring and shooting to death, on August 7, 2002, Lt. Sergeant Hosein Amiri, a security guard on duty in Jamshidieh Park, using a shot gun."
+
 # --- DEATH ---
 date_of_death: 2002-10-27
 age_at_death: null
@@ -39,7 +43,7 @@ circumstances: >
     Anbarnia's defense. Judgment Mr. Anbarnia was sentenced to death and the
     sentence was carried out publicly in the park, where the alleged crime had
     taken place.
-event_context: null
+event_context: "August 7, 2002"
 responsible_forces: "Islamic Republic News Agency"
 # --- VERIFICATION ---
 status: unverified

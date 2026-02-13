@@ -2,7 +2,7 @@ id: s-f-2015
 name_latin: "F. S."
 name_farsi: "ف. س."
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Mashhad"
 gender: male
 ethnicity: null
 religion: "Presumed Muslim"
@@ -36,7 +36,7 @@ circumstances: >
     Criminal Court condemned Mr. M. S. to death and Branch 28 of the Supreme
     Court confirmed the ruling. He was hanged in the presence of the judicial
     and other officials in the Torqabeh Prison on January 19, 2015.
-event_context: null
+event_context: "murder case in the Torqabeh-Shandiz area"
 responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified

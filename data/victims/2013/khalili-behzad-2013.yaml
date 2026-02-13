@@ -8,6 +8,10 @@ ethnicity: "Kurdish"
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+family:
+  notes: "son of Mohammad Reza"
+
 # --- DEATH ---
 date_of_death: 2013-12-10
 age_at_death: 24

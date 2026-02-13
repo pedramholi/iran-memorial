@@ -14,6 +14,8 @@ family:
   marital_status: "single"
 personality: "intellectual committed to his Sunni faith"
 
+  children: 0
+  notes: "son of Mirza"
 # --- DEATH ---
 date_of_death: 2013-10-26
 age_at_death: 27

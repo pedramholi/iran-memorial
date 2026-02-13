@@ -8,6 +8,11 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+family:
+quotes:
+  - "from the waist up"
+
 # --- DEATH ---
 date_of_death: 2008-04-20
 age_at_death: 21

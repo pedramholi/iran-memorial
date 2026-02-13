@@ -36,9 +36,8 @@ circumstances: >
     hanged, along with the other defendant, in public at the victim s work
     location in Kermanshah on September 8, 2003, after his lash ruling was
     carried out.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on September 8, 2003"
+responsible_forces: "Public Court in Kamyaran"
 # --- VERIFICATION ---
 status: unverified
 sources:

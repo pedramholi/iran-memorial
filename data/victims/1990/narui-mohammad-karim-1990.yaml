@@ -13,6 +13,8 @@ occupation: "Head Postmaster"
 family:
   notes: "brother of an opponent of the regime"
 
+quotes:
+  - "trials before Islamic revolutionary Courts have usually taken place in secret, sometimes inside prisons, that defendants have not usually enjoyed the right to be represented by a lawyer, and often have not even been made aware that the proceedings were in fact a trial and not an interrogation session."
 # --- DEATH ---
 date_of_death: 1990-01-28
 age_at_death: null

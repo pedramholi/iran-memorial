@@ -2,7 +2,7 @@ id: del-behnaz-foruzandeh-2010
 name_latin: "Behnaz Foruzandeh Del"
 name_farsi: "بهناز فروزنده‌دل"
 date_of_birth: "1978-01-01"
-place_of_birth: null
+place_of_birth: "Orumieh"
 gender: female
 ethnicity: "Kurd"
 religion: "Islam (Sunni)"
@@ -16,6 +16,10 @@ family:
   notes: "mother of a twelve-year-old daughter"
 personality: "very kind and to some degree naive"
 
+quotes:
+  - "I was pregnant when arrested; however, my pregnancy was aborted due to the harsh treatment of officials and I was hospitalized during my first 20 days of detention."
+  - "I even denied my religion as a Sunni and pretended to be a Shi'a when entering the Women’s Prison hoping to reduce my sentence."
+  - "I insisted to talk to my daughter but this was not allowed."
 # --- DEATH ---
 date_of_death: 2010-10-10
 age_at_death: 32
@@ -86,7 +90,7 @@ circumstances: >
     Mothers Reconciliation Association in Mahabad, and having connections with
     the Kurdish parties. She was released after completing her sentence on
     November 20, 2012.
-event_context: null
+event_context: "2010 execution"
 responsible_forces: "Islamic Revolutionary Court of Zanjan"
 # --- VERIFICATION ---
 status: unverified

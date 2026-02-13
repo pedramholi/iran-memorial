@@ -15,6 +15,8 @@ family:
   children: 2
 personality: "described as a faithful, experienced, educated, and upstanding person"
 
+quotes:
+  - "he was sentenced to death for being honest, he was the only person who tried to reform things in a city full of corruption, where everyone supported injustice and this was the reason for his arrest"
 # --- DEATH ---
 date_of_death: 2016-07-27
 age_at_death: 31

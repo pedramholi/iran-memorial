@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+quotes:
+  - "the defendant was a friend of the victim’s family and a guest that night. During the night, he woke up and killed Majed Shahhosseini with stick. Then he approached the victim’s family who had woken up, killed two children and injured the wife and a two year old child, and escaped."
+
 # --- DEATH ---
 date_of_death: 1997-11-18
 age_at_death: null

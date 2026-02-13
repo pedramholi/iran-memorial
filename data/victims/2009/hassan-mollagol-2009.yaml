@@ -8,6 +8,9 @@ ethnicity: "Afghan"
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+family:
+
 # --- DEATH ---
 date_of_death: 2009-01-21
 age_at_death: 21

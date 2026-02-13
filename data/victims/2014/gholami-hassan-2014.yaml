@@ -11,6 +11,7 @@ photo: null
 # --- LIFE ---
 family:
 
+  notes: "son of Gholam"
 # --- DEATH ---
 date_of_death: 2014-03-02
 age_at_death: 21
@@ -50,7 +51,7 @@ circumstances: >
     without informing his family. After the execution, his family was
     contacted to receive the body in Shiraz. They took the body from Shiraz to
     the Khalili Village for burial.
-event_context: null
+event_context: "execution on March 2, 2014"
 responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified

@@ -42,7 +42,7 @@ circumstances: >
     Office. The defendant s pardon and sentence reduction request was denied
     by the Pardon Commission of Provincial Courthouse and he was hanged in
     Jiroft prison in 2011. The exact date of this execution is unknown.
-event_context: null
+event_context: "2011"
 responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified

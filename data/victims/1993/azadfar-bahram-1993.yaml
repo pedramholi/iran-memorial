@@ -96,8 +96,7 @@ circumstances: >
     of August 28, 1997 (Article, 2013), Mr. Bahram Azadfar was killed with a
     gun in the Altindag area of Ankara, Turkey. (Borou
 event_context: "1997 August 28 assassination"
-responsible_forces: null
-
+responsible_forces: "unknown"
 # --- VERIFICATION ---
 status: unverified
 sources:

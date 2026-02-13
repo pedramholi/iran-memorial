@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+family:
+  notes: "son of Hossein"
+
 # --- DEATH ---
 date_of_death: 2002-04-25
 age_at_death: 26

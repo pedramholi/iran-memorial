@@ -93,8 +93,7 @@ circumstances: >
     half-dead body in a valley in the Ghormaraz Woods and fled the scene.
     After a while, they worried that she
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Security Forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

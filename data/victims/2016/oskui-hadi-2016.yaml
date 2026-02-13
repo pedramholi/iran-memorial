@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+family:
+
 # --- DEATH ---
 date_of_death: 2016-09-25
 age_at_death: 31

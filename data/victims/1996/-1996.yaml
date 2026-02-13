@@ -3,7 +3,7 @@ name_latin: null
 name_farsi: null
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,8 +38,7 @@ circumstances: >
     out in front of the bank where the assault had allegedly taken place. His
     corpse was left on public view for 22 hours.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic’s authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -33,7 +33,7 @@ circumstances: >
     Qahremani Azar s defense. Judgment The court condemned Mr. Farman
     Qahremani Azar to death. He was executed in public at the Khak Sefid area
     in Tehranpars on March 19, 2001.
-event_context: null
+event_context: "execution on March 19, 2001"
 responsible_forces: "security forces"
 # --- VERIFICATION ---
 status: unverified

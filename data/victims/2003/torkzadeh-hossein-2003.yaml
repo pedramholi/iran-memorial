@@ -42,8 +42,7 @@ circumstances: >
     the Supreme Court confirmed the ruling. He was hanged in public in Kerman
     on May 13, 2003.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Security Forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

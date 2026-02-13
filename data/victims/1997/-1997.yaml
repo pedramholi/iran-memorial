@@ -37,9 +37,8 @@ circumstances: >
     reporter, based on the ruling of the Islamic Revolutionary Public
     Prosecutor, these defendants were recognized as "corruptors on Earth" and
     were hanged in public in a square in Mashhad on September 22, 1997.
-event_context: null
-responsible_forces: null
-
+event_context: "1997 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

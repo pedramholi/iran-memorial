@@ -56,9 +56,8 @@ circumstances: >
     Tehran sentenced Mr. Akbar to death. Branch 40 of the Supreme Court
     approved this sentence after two reviews. He and another person were hung
     in Evin prison, on September 20, 2006.
-event_context: null
-responsible_forces: null
-
+event_context: "murder incident on Piruzi Street in Tehran, on August 10, 2000"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -17,6 +17,8 @@ quotes:
   - "Some of his friends used to call him Arsalan because of his courage and boldness."
   - "He later changed his name to Arsalan."
 
+family:
+  marital_status: "single"
 # --- DEATH ---
 date_of_death: 2016-12-20
 age_at_death: 37

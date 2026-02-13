@@ -13,6 +13,7 @@ family:
   marital_status: "married"
   children: 2
 
+  notes: "had two sons"
 # --- DEATH ---
 date_of_death: 2009-06-20
 age_at_death: 48

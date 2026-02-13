@@ -42,8 +42,7 @@ circumstances: >
     not contain any information regarding the ruling and date of the
     execution.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "security forces in Fars province"
 # --- VERIFICATION ---
 status: unverified
 sources:

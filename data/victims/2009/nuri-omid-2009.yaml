@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "unknown"
+education: "unknown"
+
 # --- DEATH ---
 date_of_death: 2009-02-17
 age_at_death: 25
@@ -40,9 +44,8 @@ circumstances: >
     Activists in Iran). Mr. Nuri was executed on the morning of February 17,
     2009, in the Esfahan Central Prison. There is no information on the
     verdict leading to this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on February 17, 2009"
+responsible_forces: "unknown"
 # --- VERIFICATION ---
 status: unverified
 sources:

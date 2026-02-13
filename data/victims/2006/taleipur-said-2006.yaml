@@ -31,9 +31,8 @@ circumstances: >
     defense. Judgment Mr. Sa'id Tale ipur was sentenced to death. The verdict
     was validated by the Supreme Court. Mr. Tale ipur was hanged, along with
     another person, in Karaj s Gohardasht Prison on April 18, 2006.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on April 18, 2006"
+responsible_forces: "Supreme Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

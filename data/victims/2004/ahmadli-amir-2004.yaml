@@ -40,9 +40,8 @@ circumstances: >
     head of the Judiciary had approved the sentence, Mr. Ahmadli was publicly
     hanged in the Navab Square of the Khakfaraj area of Qom in the presence of
     the victims families on November 29, 2004 (Abrar daily).
-event_context: null
-responsible_forces: null
-
+event_context: "public execution on November 29, 2004"
+responsible_forces: "Qom Province s Court of Review"
 # --- VERIFICATION ---
 status: unverified
 sources:

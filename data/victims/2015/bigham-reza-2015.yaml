@@ -42,7 +42,7 @@ circumstances: >
     condemned Mr. Reza Bigham to death. The ruling was carried out after 12
     years on Thursday January 29, 2015 when he was hanged at the Bam Prison
     yard.
-event_context: null
+event_context: "execution on January 29, 2015"
 responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified

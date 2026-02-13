@@ -14,6 +14,10 @@ education: "high school diploma with a concentration in the sciences"
 family:
   marital_status: "single"
 
+personality: "serene"
+beliefs: "follower of the Shafe'i branch of Islam"
+quotes:
+  - "Because of his serene demeanor, Mr. Shahnazari s friends had been calling him Aram ( Serene ) since he was 15 years old."
 # --- DEATH ---
 date_of_death: 2016-08-02
 age_at_death: 31

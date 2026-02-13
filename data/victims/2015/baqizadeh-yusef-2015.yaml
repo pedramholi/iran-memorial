@@ -8,6 +8,9 @@ ethnicity: "Kurdish"
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "dealing narcotics"
+
 # --- DEATH ---
 date_of_death: 2015-08-29
 age_at_death: 56
@@ -43,7 +46,7 @@ circumstances: >
     Defense No information is available on Mr. Baqizadeh s defense. Judgment
     Mr. Yusef Baqizadeh was hanged at the Khorramabad Central Prison on August
     29, 2015. No specific information is available about his execution.
-event_context: null
+event_context: "execution on August 29, 2015"
 responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified

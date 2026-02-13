@@ -13,6 +13,8 @@ occupation: "public relations at Camp Ashraf"
 education: "high school diploma"
 beliefs: "member of the Mojahedin Khalq Organization"
 
+family:
+  notes: "born in a fairly well-to-do family"
 # --- DEATH ---
 date_of_death: 2013-09-01
 age_at_death: 53

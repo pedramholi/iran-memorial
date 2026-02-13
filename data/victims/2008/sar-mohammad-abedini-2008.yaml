@@ -11,6 +11,8 @@ photo: null
 # --- LIFE ---
 occupation: "taxi driving"
 
+quotes:
+  - "he said he had started talking with his passenger. During the conversation, he realized that the man was carrying a large amount of travelers checks. He was tempted to steal these, and that was why he killed the man."
 # --- DEATH ---
 date_of_death: 2008-01-30
 age_at_death: 32

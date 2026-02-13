@@ -15,6 +15,10 @@ family:
   marital_status: "married"
   children: 3
 
+quotes:
+  - "I was not present at the Varamin crime scene when my new sister-in-law was murdered and I was at their house."
+  - "I married one of the victims on his order. However, I knew about my husband s revenge from my new sister-in-law."
+  - "I was at my mother s house at the time and was not aware of their murder."
 # --- DEATH ---
 date_of_death: 2006-06-21
 age_at_death: 31
@@ -88,7 +92,7 @@ circumstances: >
     and to death for adultery. He was executed on January 18, 2006. The third
     and fourth row defendants were also condemned to 15 years imprisonment
     each for assistance in a murder.
-event_context: null
+event_context: "murder of a brother and a sister and two small children in Varamin in September of 2004"
 responsible_forces: null
 
 # --- VERIFICATION ---

@@ -13,6 +13,7 @@ education: "middle school"
 family:
   marital_status: "single"
 
+  children: 0
 # --- DEATH ---
 date_of_death: 2006-03-01
 age_at_death: 20

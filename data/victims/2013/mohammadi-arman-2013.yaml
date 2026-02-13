@@ -93,8 +93,7 @@ circumstances: >
     Although the new Code provides the same punishment for crimes that are
     subje
 event_context: null
-responsible_forces: null
-
+responsible_forces: "police"
 # --- VERIFICATION ---
 status: unverified
 sources:

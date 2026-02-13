@@ -8,6 +8,9 @@ ethnicity: "Arab"
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+family:
+
 # --- DEATH ---
 date_of_death: 2005-04-15
 age_at_death: 14

@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+family:
+  notes: "son of Lalmohammad"
+
 # --- DEATH ---
 date_of_death: 2006-01-01
 age_at_death: null

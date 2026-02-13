@@ -99,9 +99,8 @@ circumstances: >
     including the United Nations (for the purpose of conducting a referendum
     on the Islamic Republic under the auspices of the United Nations and/or
     reporting on the mass murd
-event_context: null
-responsible_forces: null
-
+event_context: "1979 Revolution"
+responsible_forces: "National Movement of the Iranian Resistance"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -12,6 +12,8 @@ photo: "https://www.iranrights.org/actorphotos/33596_thumb.jpeg"
 occupation: "school girl"
 beliefs: "sympathizer of the Mojahedin Khalq Organization"
 
+family:
+  notes: "daughter of Mahmud"
 # --- DEATH ---
 date_of_death: 1990-07-16
 age_at_death: 27

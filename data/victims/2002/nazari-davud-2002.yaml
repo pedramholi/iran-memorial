@@ -30,8 +30,7 @@ circumstances: >
     of the Criminal Court of Tehran condemned Mr. Davud Nazari to death. He
     was hanged at the Qasr Prison yard in Tehran on June 19, 2002.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Criminal Court of Tehran"
 # --- VERIFICATION ---
 status: unverified
 sources:

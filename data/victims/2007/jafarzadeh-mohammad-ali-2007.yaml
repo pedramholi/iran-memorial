@@ -11,6 +11,8 @@ photo: null
 # --- LIFE ---
 beliefs: "claimed to be a prophet of God"
 
+quotes:
+  - "I claim to be a prophet of God"
 # --- DEATH ---
 date_of_death: 2007-05-08
 age_at_death: null

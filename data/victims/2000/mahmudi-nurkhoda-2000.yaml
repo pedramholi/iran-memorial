@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+family:
+
 # --- DEATH ---
 date_of_death: 2000-01-19
 age_at_death: 40

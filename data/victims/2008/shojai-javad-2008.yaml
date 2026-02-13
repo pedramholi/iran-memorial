@@ -60,8 +60,7 @@ circumstances: >
     want him to be taken to the gallows, then we ll pardon him. We were there
     until 9 when we were told that Javad had been executed.
 event_context: "2008 execution"
-responsible_forces: null
-
+responsible_forces: "Branch 9 of the Public and Criminal Court of Esfehan"
 # --- VERIFICATION ---
 status: unverified
 sources:

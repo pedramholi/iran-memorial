@@ -12,6 +12,10 @@ photo: null
 quotes:
   - "claimed chastity issues as his motivation for the murder"
 
+family:
+  marital_status: "married"
+  children: 2
+  notes: "father of two children"
 # --- DEATH ---
 date_of_death: 2007-07-24
 age_at_death: null

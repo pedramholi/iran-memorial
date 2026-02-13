@@ -15,6 +15,7 @@ family:
   notes: "some grandchildren"
 beliefs: "leader at the OSFA (Organización Sionista Femenina Argentina, Women’s Argentine Zionist Organization)"
 
+education: "studying piano, Hebrew, and English"
 # --- DEATH ---
 date_of_death: 1994-07-18
 age_at_death: 58
@@ -94,8 +95,7 @@ circumstances: >
     diplomats in Buenos Aires actively assisted Hezbollah. Mohsen Rabbani, who
     wa
 event_context: "AMIA bombing on July 18, 1994"
-responsible_forces: null
-
+responsible_forces: "Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

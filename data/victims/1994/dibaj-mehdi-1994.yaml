@@ -1,7 +1,7 @@
 id: dibaj-mehdi-1994
 name_latin: "Mehdi Dibaj"
 name_farsi: "مهدی دیباج"
-date_of_birth: null
+date_of_birth: "1940-01-01"
 place_of_birth: "Esfahan"
 gender: male
 ethnicity: null
@@ -101,7 +101,7 @@ circumstances: >
     intensification of international pressure on Iran for the release of Mr.
     Dibaj: "In response to this death sentence, Bishop Haik Hovsepian, who at
     that time was
-event_context: null
+event_context: "arrest for apostasy"
 responsible_forces: "Islamic Revolutionary Court of Sary"
 # --- VERIFICATION ---
 status: unverified

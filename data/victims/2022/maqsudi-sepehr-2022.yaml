@@ -8,6 +8,10 @@ ethnicity: "Kurdish"
 religion: "Presumed Muslim (Shi'a)"
 photo: null
 
+# --- LIFE ---
+quotes:
+  - "Women, Life, Freedom"
+
 # --- DEATH ---
 date_of_death: 2022-11-16
 age_at_death: 14

@@ -17,6 +17,9 @@ family:
   notes: "father of four"
 personality: "good at social interactions, very effective at uniting the dissidents"
 
+beliefs: "speaker for Jaish ul-Adl"
+quotes:
+  - "\"If he did not cooperate with security organizations against Abdolmalek [Rigi] they would make problems for him.\""
 # --- DEATH ---
 date_of_death: 2014-06-29
 age_at_death: 36
@@ -94,9 +97,8 @@ circumstances: >
     clean drinking water, and economic policies have allowed it to remain one
     of the poorest-sourced provinces in education, health, and food. Civil
     unrest in the region has given wa
-event_context: null
-responsible_forces: null
-
+event_context: "emigrated to Pakistan in the spring of 2008"
+responsible_forces: "security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

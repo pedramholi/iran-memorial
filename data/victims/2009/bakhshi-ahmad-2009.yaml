@@ -55,7 +55,7 @@ circumstances: >
     in public, on the morning of November 15, 2009, in Velayat Square, Qa em
     Shahr (Kayhan Newspaper). There is no information on the details of the
     verdict leading to this execution.
-event_context: null
+event_context: "execution on November 15, 2009"
 responsible_forces: "Ministry of Justice"
 # --- VERIFICATION ---
 status: unverified

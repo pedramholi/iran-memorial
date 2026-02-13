@@ -2,7 +2,7 @@ id: fathalian-ali-2009
 name_latin: "Ali Fath'alian"
 name_farsi: "علی فتحعلیان"
 date_of_birth: "1989-07-05"
-place_of_birth: null
+place_of_birth: "Tehran"
 gender: male
 ethnicity: null
 religion: "Presumed Muslim (Shi'a)"
@@ -19,6 +19,8 @@ quotes:
   - "curiosity"
   - "eldest child of the house, the only son, and the future supporter"
 
+  marital_status: "single"
+  children: 0
 # --- DEATH ---
 date_of_death: 2009-06-20
 age_at_death: 20

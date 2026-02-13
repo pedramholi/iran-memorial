@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+beliefs: "member of the People's Mojahedin of Iran Organization (PMIO)"
+
 # --- DEATH ---
 date_of_death: 1989-01-01
 age_at_death: 24

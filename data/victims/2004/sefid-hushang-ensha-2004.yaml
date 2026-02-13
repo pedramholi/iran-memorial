@@ -34,9 +34,8 @@ circumstances: >
     was hanged, along with two others, in the presence of officials, including
     the judge of Sentence Enforcement, at the Evin Prison yard in Tehran on
     September 8, 2004.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on September 8, 2004"
+responsible_forces: "Criminal Court of Tehran"
 # --- VERIFICATION ---
 status: unverified
 sources:

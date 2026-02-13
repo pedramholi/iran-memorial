@@ -11,6 +11,8 @@ photo: null
 # --- LIFE ---
 family:
 
+quotes:
+  - "Women, Life, Freedom"
 # --- DEATH ---
 date_of_death: 2022-10-14
 age_at_death: 23

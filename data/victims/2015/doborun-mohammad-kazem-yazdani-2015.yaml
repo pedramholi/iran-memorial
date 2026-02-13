@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "unknown"
+
 # --- DEATH ---
 date_of_death: 2015-02-22
 age_at_death: 55

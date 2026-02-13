@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+quotes:
+  - "Some masked robbers attempted an armed robbery from a goldsmith’s shop in Sahneh more than a year ago."
+
 # --- DEATH ---
 date_of_death: 2007-11-12
 age_at_death: null

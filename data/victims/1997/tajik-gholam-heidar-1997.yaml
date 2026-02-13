@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+family:
+  notes: "son of Feiz Mohammad"
+
 # --- DEATH ---
 date_of_death: 1997-08-06
 age_at_death: null

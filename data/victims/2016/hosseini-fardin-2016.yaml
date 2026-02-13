@@ -16,6 +16,8 @@ family:
   children: 1
   notes: "had a 14-year-old daughter"
 
+quotes:
+  - "to have respect for his own rights and to respect the rights of others, and behave in conformity with legal and social norms and exigencies."
 # --- DEATH ---
 date_of_death: 2016-01-21
 age_at_death: 38
@@ -93,7 +95,7 @@ circumstances: >
     in September-October 2009, at 5 PM, Mr. Hosseini was beaten and arrested
     following an attack by Information Ministry forces on Mr. Hosseini and his
     fellow villager, on Hashtgerd s mai
-event_context: null
+event_context: "assassination of Hashtgerd's Friday Prayer Imam"
 responsible_forces: "Information Ministry"
 # --- VERIFICATION ---
 status: unverified

@@ -2,11 +2,15 @@ id: hedayati-seyed-zahed-2015
 name_latin: "Seyed Zahed Hedayati"
 name_farsi: "سید زاهد هدایتی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Bukan"
 gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "son of Mohammad Mohyeddin"
 
 # --- DEATH ---
 date_of_death: 2015-09-01

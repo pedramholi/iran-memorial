@@ -17,6 +17,8 @@ family:
   notes: "from one of the prominent families of Sanandaj"
 personality: "a good man"
 
+quotes:
+  - "it was indeed he who had hidden the illegal drugs in the truck, and that his son was innocent"
 # --- DEATH ---
 date_of_death: 2008-01-01
 age_at_death: 60
@@ -75,7 +77,7 @@ circumstances: >
     family. The court also sentenced two other defendants of the case to
     twenty years, another one to ten years, and Mr. Hadi s son to six months
     imprisonment.
-event_context: null
+event_context: "illegal drugs case"
 responsible_forces: "police force of Sanandaj"
 # --- VERIFICATION ---
 status: unverified

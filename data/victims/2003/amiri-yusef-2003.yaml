@@ -30,9 +30,8 @@ circumstances: >
     of the Criminal Court in Tehran condemned Mr. Yusef Amiri to death and the
     Supreme Court confirmed the ruling. He was hanged, along with another
     person, at the Qasr Prison yard in Tehran on December 10, 2003.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on December 10, 2003"
+responsible_forces: "Criminal Court in Tehran"
 # --- VERIFICATION ---
 status: unverified
 sources:

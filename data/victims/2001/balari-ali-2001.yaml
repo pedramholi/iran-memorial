@@ -37,7 +37,7 @@ circumstances: >
     Judgment The court condemned Mr. Ali Balari to death and the Supreme Court
     confirmed the ruling. He was hanged at the Qasr Prison yard on June 20,
     2001.
-event_context: null
+event_context: "execution on June 20, 2001"
 responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified

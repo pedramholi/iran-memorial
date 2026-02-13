@@ -38,7 +38,7 @@ circumstances: >
     condemned Ms. Mahi Kohali to death by stoning and the ruling was carried
     out in Zanjan. No information is available about the exact date of this
     execution.
-event_context: null
+event_context: "execution by stoning"
 responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified

@@ -13,6 +13,8 @@ occupation: "worked in the private sector"
 family:
   marital_status: "married"
 
+quotes:
+  - "Mr. Mahmudzadeh was born in a low income family on June 29, 1988, in Shahr-e Rey, a city to the south of Tehran."
 # --- DEATH ---
 date_of_death: 2015-06-10
 age_at_death: 26

@@ -8,6 +8,9 @@ ethnicity: "Kurdish"
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+family:
+
 # --- DEATH ---
 date_of_death: 2022-09-20
 age_at_death: 25

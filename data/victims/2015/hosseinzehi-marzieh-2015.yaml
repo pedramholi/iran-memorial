@@ -40,7 +40,7 @@ circumstances: >
     Ms. Marzieh Hosseinzehi was hanged, along with three others, in Kerman
     Prison on February 26, 2015. There is no information on the details of
     this execution.
-event_context: null
+event_context: "2015 execution"
 responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified

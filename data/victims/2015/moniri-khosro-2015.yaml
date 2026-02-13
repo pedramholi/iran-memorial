@@ -42,7 +42,7 @@ circumstances: >
     Moniri s defense. Judgment Mr. Khosro Moniri was hanged in the Orumieh
     Central Prison on February 16, 2015 at dawn. No specific information is
     available about this execution.
-event_context: null
+event_context: "execution on February 16, 2015"
 responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified

@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+quotes:
+  - "in February of 1997, the defendant kidnapped and murdered an eight year old boy named Morteza Jamshidi on his way to school."
+
 # --- DEATH ---
 date_of_death: 1997-01-01
 age_at_death: null

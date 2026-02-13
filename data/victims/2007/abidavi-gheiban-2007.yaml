@@ -2,7 +2,7 @@ id: abidavi-gheiban-2007
 name_latin: "Gheiban Abidavi"
 name_farsi: "غیبان عبیداوی"
 date_of_birth: "1969-01-01"
-place_of_birth: null
+place_of_birth: "Ahvaz"
 gender: male
 ethnicity: "Arab"
 religion: "Islam (Sunni)"
@@ -92,8 +92,7 @@ circumstances: >
     of April 15, 2005, the regime s forces have continued to violently
     suppress the peaceful protests of the Ara
 event_context: "Khuzestan Protests"
-responsible_forces: null
-
+responsible_forces: "security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

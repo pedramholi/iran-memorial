@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+quotes:
+  - "That trials before Islamic revolutionary courts have usually taken place in secret, sometimes inside prisons; that defendants have not usually enjoyed the right to be represented by a lawyer, and often have not even been made aware that the proceedings were in fact a trial and not an interrogation session."
+
 # --- DEATH ---
 date_of_death: 1990-05-22
 age_at_death: null

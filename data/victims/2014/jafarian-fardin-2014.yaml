@@ -12,6 +12,7 @@ photo: "https://www.iranrights.org/actorphotos/74436_thumb.jpeg"
 occupation: "athlete"
 family:
 
+beliefs: "Taekwondo"
 # --- DEATH ---
 date_of_death: 2014-10-18
 age_at_death: 18
@@ -89,7 +90,7 @@ circumstances: >
     save criminals under 18 from the death penalty. According to an
     established legal principle, in the event that the subsequent law is more
     lenient to an accused or a convicted criminal than the prior law, the s
-event_context: null
+event_context: "execution on October 18, 2014"
 responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified

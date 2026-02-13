@@ -12,6 +12,7 @@ photo: "https://www.iranrights.org/actorphotos/11804_thumb.jpeg"
 occupation: "student, bank receptionist, actress"
 education: "School of Economic Sciences"
 
+personality: "recipient of a Ms. Clueless award for her forgetfulness"
 # --- DEATH ---
 date_of_death: 1994-07-18
 age_at_death: 19
@@ -90,8 +91,7 @@ circumstances: >
     governed region bordering Argentina, Brazil, and Paraguay, that has become
     a danger point for terrorism. From the
 event_context: "AMIA bombing"
-responsible_forces: null
-
+responsible_forces: "Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

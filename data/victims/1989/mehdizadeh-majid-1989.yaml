@@ -8,6 +8,11 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+beliefs: "member of the People's Mojahedin of Iran Organization (PMIO)"
+quotes:
+  - "Our children lived in most difficult conditions. Visits were limited to 10 minutes behind a glass divider through a telephone every two weeks. We witnessed during the past seven years that they were denied access to anything that would have allowed them to establish contacts outside their prisons' walls."
+
 # --- DEATH ---
 date_of_death: 1989-01-01
 age_at_death: 25

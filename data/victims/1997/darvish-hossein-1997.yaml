@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+quotes:
+  - "On February 27, 1996, an old woman and an old man died in a fire in Shahrak Emam. The police identified [the defendant as] a person who stood to inherit from the victims. It was disclosed that he spent the previous night in their house. [The defendant] confessed to the interrogator that in order to achieve his goal [inheritance], he shot and killed his aunt and her husband and set their bodies ablaze."
+
 # --- DEATH ---
 date_of_death: 1997-02-16
 age_at_death: null

@@ -15,6 +15,7 @@ family:
 quotes:
   - "Let them execute me, Never do anything against the combatants in order to release me, I am innocent. I ll be a martyr and my execution won t be a problem. However, if a combatant is arrested, that will be a huge blow to the Baluch nation. I welcome my execution, but my conscious does not accept that you cooperating with the regime against the combatants."
 
+beliefs: "combatant"
 # --- DEATH ---
 date_of_death: 2007-03-14
 age_at_death: null
@@ -72,7 +73,7 @@ circumstances: >
     forty employees of Iranian Revolutionary Guards was exploded in Iranshahr
     during a terrorist attack and all its passengers were killed. The incident
     is known as Sarallah Boulevard operation.
-event_context: null
+event_context: "execution on March 14, 2007"
 responsible_forces: "Ministry of Intelligence"
 # --- VERIFICATION ---
 status: unverified

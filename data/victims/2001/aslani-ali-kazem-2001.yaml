@@ -32,7 +32,7 @@ circumstances: >
     information is available regarding Mr. Aslani s defense. Judgment The
     court condemned Mr. Ali-Kazem Aslani to death. He was executed in public
     at the Khak Sefid area in Tehranpars on March 19, 2001.
-event_context: null
+event_context: "2001 execution"
 responsible_forces: "security forces"
 # --- VERIFICATION ---
 status: unverified

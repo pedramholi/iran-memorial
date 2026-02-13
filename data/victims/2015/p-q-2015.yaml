@@ -31,9 +31,8 @@ circumstances: >
     P. to death, the Supreme Court confirmed the ruling and the Head of
     Judiciary validated it. He was hanged at the Sari Prison yard on Wednesday
     May 27, 2015 at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on May 27, 2015"
+responsible_forces: "Mazandaran Provincial Courthouse"
 # --- VERIFICATION ---
 status: unverified
 sources:

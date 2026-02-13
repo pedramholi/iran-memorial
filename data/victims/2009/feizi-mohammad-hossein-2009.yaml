@@ -16,6 +16,9 @@ family:
   children: 1
   notes: "father of a two-year-old child"
 
+beliefs: "joined the Student Basij"
+quotes:
+  - "he was constantly worried and upset during the tense days following the 2009 presidential election."
 # --- DEATH ---
 date_of_death: 2009-06-20
 age_at_death: 26

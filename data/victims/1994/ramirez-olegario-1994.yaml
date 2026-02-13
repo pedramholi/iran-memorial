@@ -93,8 +93,7 @@ circumstances: >
     a danger point for terrorism. From the evidence gathered, two Iranian
     diplomats in Buenos Aires actively assisted Hezbollah. Mohsen Ra
 event_context: "AMIA bombing on July 18, 1994"
-responsible_forces: null
-
+responsible_forces: "Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

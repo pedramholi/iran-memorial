@@ -50,9 +50,8 @@ circumstances: >
     15, 2009, in Adel Abad Prison in Shiraz (Khabar-e-Jonoub, April 16, 2009).
     There is no information on the details of the verdict leading to this
     execution.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on April 15, 2009"
+responsible_forces: "Criminal Court of Fars Province"
 # --- VERIFICATION ---
 status: unverified
 sources:

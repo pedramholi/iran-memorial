@@ -13,6 +13,8 @@ occupation: "hair stylist"
 family:
   marital_status: "single"
 
+quotes:
+  - "Expressing regret and remorse, he turned himself as well as the stolen property over to the authorities."
 # --- DEATH ---
 date_of_death: 2018-04-18
 age_at_death: 27
