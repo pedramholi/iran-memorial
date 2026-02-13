@@ -1322,6 +1322,53 @@ Commits: 1a43b6b93, 1fe2d9733, 49768d4c6
 
 ---
 
+#### LOG-P3-016 | 2026-02-13 | REGEX EXTRACTION + PROD DB SYNC
+
+**Was:** Pattern-basierte Feld-Extraktion ohne API für die verbleibenden 1.980 Victims + Prod-DB-Sync
+**Warum:** OpenAI RPD-Limit (10K/Tag) erschöpft, zweiter API-Key teilte selbe Org. Regex als schnelle Alternative.
+
+```
+Neues Script: scripts/extract-fields-regex.ts
+  - Kein API-Call nötig — reine Pattern-/Regex-Erkennung
+  - Gender: Pronoun-Analyse (he/him → male, she/her → female, 3:1 Ratio)
+  - Responsible Forces: 12 Patterns (IRGC, Basij, Intelligence Ministry, etc.)
+  - Event Context: 14 Patterns (1988 massacres, November 2019, WLF 2022, etc.)
+  - Occupation: 25+ Keyword-Patterns + "was a X" Satz-Patterns
+  - Education: "student of", "studied", "degree in" Patterns
+  - Family: "married", "father of X children", "survived by" Patterns
+  - Ethnicity: 9 Patterns (Kurdish, Baluch, Arab, Azerbaijani, etc.)
+  - Religion: 9 Patterns (Baha'i, Sunni, Christian, etc.)
+
+Ergebnis (1.980 Victims):
+  - eventContext: 1.430
+  - responsibleForces: 1.100
+  - occupationEn: 936
+  - education: 546
+  - gender: 98
+  - familyInfo: 34
+  - ethnicity: 19
+  - religion: 1
+  - Total: 4.164 Felder, 1.358 YAMLs aktualisiert
+  - Laufzeit: ~10 Sekunden (vs. ~3h für API)
+
+Prod-DB Sync:
+  - Regex-Extraktion auch auf Prod-DB: 26 weitere Felder
+  - pg_dump von lokal → Prod: kompletter DB-Replace
+  - Verifiziert: Prod = Lokal = 31.203 Victims, 42.924 Sources, 12 Events
+
+Script-Umstellung:
+  - extract-fields.ts von OpenAI GPT-4o-mini auf Claude Haiku umgestellt
+  - Progressive Backoff: 30s × retry# (statt fixer 60s)
+  - Max 5 Retries (statt endloser Rekursion)
+
+Commits: cde2cc9e5
+Deploy: docker compose up -d --build auf Server
+```
+
+**Lesson Learned:** Für strukturierte Felder mit klaren Mustern (Pronomen, Organisationsnamen, historische Events) ist Regex-Extraktion 1000× schneller und kostenlos. AI lohnt sich nur für nuancierte Felder (personality, beliefs, quotes) wo Kontext-Verständnis nötig ist.
+
+---
+
 ## Phase 3 — Zusammenfassung (FINAL)
 
 | Metrik | Vorher | Nachher |
@@ -1333,13 +1380,13 @@ Commits: 1a43b6b93, 1fe2d9733, 49768d4c6
 | Duplikate entfernt (total) | 206 | 5.318 (206 + 265 + 939 + 3.786 + 102 + 20) |
 | Event Death Tolls | Teils offiziell | Alle mit Diaspora-Quellen korrigiert |
 | Foto-Anzeige | Cloudflare-blockiert | unoptimized Fix deployed |
-| AI-Extraktion (total) | 15.787 Felder | 47.387 Felder (85%, 2.083 offen) |
+| AI-Extraktion (total) | 15.787 Felder | 35.764 Felder (AI: 31.600 + Regex: 4.164) |
 | Lokale DB | Nicht vorhanden | Synchron mit Produktion (pg_dump) |
-| Neue Scripts | — | seed-new-only.ts, sync-gender-to-db.ts, dedup_2026_internal.py, infer_gender.py, dedup-db.ts, dedup-round5.ts |
+| Neue Scripts | — | seed-new-only.ts, sync-gender-to-db.ts, dedup_2026_internal.py, infer_gender.py, dedup-db.ts, dedup-round5.ts, extract-fields-regex.ts |
 | UI | Range-Anzeige | Nur höchste Opferzahl pro Event |
-| Fallback-Daten | Veraltet (17.515) | Synchron mit DB (31.223) |
+| Fallback-Daten | Veraltet (17.515) | Synchron mit DB (31.203) |
 
 ---
 
 *Erstellt: 2026-02-09*
-*Letzte Aktualisierung: 2026-02-13 (Phase 3: 31.203 Victims, Dedup ×6, AI-Extraktion R2 85%, lokale DB sync)*
+*Letzte Aktualisierung: 2026-02-13 (Phase 3: 31.203 Victims, Dedup ×6, AI+Regex-Extraktion 35.764 Felder, Prod-DB sync)*

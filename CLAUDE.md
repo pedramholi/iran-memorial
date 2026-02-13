@@ -261,7 +261,7 @@ border-start: 2px solid;     /* NOT border-left */
 | v0.1.0 | 2026-02-09 | Phase 1: Full project setup — Next.js 16, Prisma, i18n, 8 pages, seed script, Docker, docs |
 | v0.2.0 | 2026-02-09 | Phase 2A/B: Multi-source data collection — 7 sources, 4,378 victims, dedup, enrichment |
 | v0.3.0 | 2026-02-12 | Phase 2C: Deployment + AI enrichment (14K fields), source dedup (222K removed), pagination, security hardening |
-| v0.4.0 | 2026-02-13 | Phase 3: Boroumand historical import — 31,203 victims in DB, 5,318 duplicates removed, parallel scraper (8× faster), AI extraction round 2 (31,600 fields) |
+| v0.4.0 | 2026-02-13 | Phase 3: Boroumand historical import — 31,203 victims in DB, 5,318 duplicates removed, parallel scraper (8× faster), AI+regex extraction (35,764 fields) |
 
 **Current:** v0.4.0 | Next.js 16 | TypeScript | Prisma 6 | Tailwind v4 | 3 languages | 31,203 victims | Live at memorial.n8ncloud.de
 
@@ -278,7 +278,8 @@ border-start: 2px solid;     /* NOT border-left */
 | `scripts/dedup_victims.py` | Deduplication (3 strategies) | -206 duplicates |
 | `scripts/dedup_2026_internal.py` | Internal 2026 dedup (Farsi name) | -254 duplicates |
 | `scripts/scrape_boroumand.py` | Boroumand Foundation scraper (4 workers) | 26,815 entries (all processed) |
-| `scripts/extract-fields.ts` | AI field extraction (GPT-4o-mini) | 47,387 fields from 20,251 victims (2,083 remaining) |
+| `scripts/extract-fields.ts` | AI field extraction (Claude Haiku / GPT-4o-mini) | 31,600 fields from 12,200 victims |
+| `scripts/extract-fields-regex.ts` | Pattern-based field extraction (no API) | 4,164 fields from 1,980 victims |
 | `scripts/dedup-sources.ts` | Source deduplication | -221,800 duplicate sources |
 | `scripts/seed-new-only.ts` | Create-only DB seed (no upsert) | Incremental DB population |
 | `scripts/sync-gender-to-db.ts` | Sync gender YAML → DB | 6,271 gender updates |
@@ -304,7 +305,8 @@ border-start: 2px solid;     /* NOT border-left */
 | Deduplication (Round 5) | Script | -102 | Farsi normalization + NULL-date | DONE |
 | Deduplication (Round 6) | SQL | -20 | -2 suffix merge (Farsi+date match) | DONE |
 | AI Field Extraction R1 | GPT-4o-mini | 0 | 15,787 fields from 8,051 victims | DONE |
-| AI Field Extraction R2 | GPT-4o-mini | 0 | 31,600 fields from 12,200 victims | 85% (2,083 remaining) |
+| AI Field Extraction R2 | GPT-4o-mini | 0 | 31,600 fields from 12,200 victims | DONE |
+| Regex Field Extraction | Pattern-based | 0 | 4,164 fields from 1,980 victims | DONE |
 | Source Dedup | SQL script | 0 | -221,800 duplicate sources | DONE |
 | Event Death Tolls | Research | 0 | Corrected with diaspora/NGO sources | DONE |
 | UI: Show highest estimate | Code change | 0 | formatKilledRange → only high | DONE |
