@@ -1096,18 +1096,109 @@ Verifiziert:
 
 ---
 
-## Phase 3 — Zusammenfassung (Zwischenstand)
+#### LOG-P3-009 | 2026-02-13 | BOROUMAND FETCH COMPLETE + FULL PIPELINE
+
+**Was:** Boroumand-Fetch abgeschlossen (alle 12.290 neue Entries) + komplette Pipeline ausgeführt
+**Warum:** Alle verbleibenden Boroumand-Einträge importieren und in die DB bringen
+
+```
+Fetch (4 parallele Worker, ~100/min):
+  - 14.525 aus früheren Runs + 12.290 neu = 26.815 total verarbeitet
+  - Alle Einträge erfolgreich, 0 Fehler
+  - Laufzeit: ~2h
+
+Gender Inference: python3 scripts/infer_gender.py
+  - 33.432 Dateien verarbeitet
+  - 9.617 neue Genders (8.313 male + 1.304 female)
+  - 23.815 unknown (historische Einträge ohne erkennbare Vornamen)
+
+Seed: npx tsx scripts/seed-new-only.ts
+  - 33.432 YAML-Dateien gelesen
+  - 18.840 bereits in DB (skip)
+  - 14.581 neue Victims created
+  - 11 malformed YAML übersprungen
+  - DB: 21.510 → 36.091 Victims
+
+Gender Sync: npx tsx scripts/sync-gender-to-db.ts
+  - 2 Updates (Rest bereits synchron oder null)
+
+Commit: (Teil von Phase 3 Final Batch)
+```
+
+---
+
+#### LOG-P3-010 | 2026-02-13 | EVENT DEATH TOLLS: DIASPORA-QUELLEN
+
+**Was:** Geschätzte Opferzahlen aller 12 Events mit realistischen Diaspora-/NGO-Quellen korrigiert
+**Warum:** Bisherige Zahlen basierten teilweise auf Regime-/UN-Zahlen die systematisch nach unten verfälscht sind
+
+```
+Quellen: HRANA, IHR, Amnesty International, Boroumand Foundation, BBC Persian,
+         Iran International, Reuters, AP, geleakte Dokumente, akademische Studien
+
+Korrekturen in data/events/timeline.yaml:
+  - Revolution 1979: null → 2.000-3.000
+  - Post-Revolution 1979-81: 438 → 700-12.000 (+ 10K kurdische Opfer)
+  - Reign of Terror 1981-85: 7.900 → 8.000-12.000
+  - Iran-Iraq War: 500.000 → 200.000-600.000 (+ 100K Kindersoldaten)
+  - 1988 Massacres: 4.482 → 4.482-30.000
+  - Chain Murders 1988-98: 80 → 80-300
+  - Student Protests 1999: 4 → 10-17
+  - Green Movement 2009: 72 → 100-200
+  - Bloody November 2019: 1.500 → 1.500-3.000
+  - Woman Life Freedom 2022: 500 → 551-1.500 (+ 68 Kinder, 10 Hingerichtete)
+  - 2026 Massacres: 3.428-20.000 → 35.000-40.000 (+ 52 Hingerichtete)
+
+Commit: f94c4ccc
+```
+
+**Lesson Learned:** Offizielle Zahlen der iranischen Regierung und von ihr beeinflusster UN-Berichte sind immer zu niedrig. Diaspora-NGOs (HRANA, IHR, Boroumand) geben konservative Minima; geleakte interne Dokumente zeigen oft 2-3× höhere Zahlen.
+
+---
+
+#### LOG-P3-011 | 2026-02-13 | DEDUP ROUND 3: -2 SUFFIX MERGE
+
+**Was:** 939 Duplikate mit `-2` Suffix im Slug gemergt und gelöscht
+**Warum:** Boroumand-Scraper erstellt `slug-2` wenn `slug.yaml` bereits existiert → viele sind echte Duplikate
+
+```
+Analyse:
+  - 4.433 Dateien mit `-2` Suffix gefunden
+  - Vergleich: Farsi-Name + Todesdatum gegen Original (ohne -2)
+  - 3.800 echte Duplikate (gleicher Name + Datum)
+  - 590 verschiedene Personen (behalten)
+
+Merge-Strategie (nicht nur löschen!):
+  - Felder: Leere Felder im Original werden aus Duplikat befüllt
+  - Sources: Unique Sources aus Duplikat werden ans Original angehängt
+  - YAML + DB parallel aktualisiert
+
+Ergebnis:
+  - 939 YAML-Dateien gelöscht (strictere Prüfung: Original muss existieren)
+  - 939 DB-Einträge gelöscht
+  - DB: 36.091 → 35.152 Victims
+
+Commit: (Teil von Phase 3 Final Batch)
+```
+
+**Lesson Learned:** Bei Scraper-generierten `-2` Suffixen: immer mergen statt nur löschen. Die Duplikate können unique Sources (Twitter, Telegram) oder ausgefüllte Felder enthalten die dem Original fehlen.
+
+---
+
+## Phase 3 — Zusammenfassung (FINAL)
 
 | Metrik | Vorher | Nachher |
 |--------|--------|---------|
-| YAML-Dateien | 14.430 | ~19.100 (+ ~12K Boroumand läuft) |
-| DB Victims | 17.515 | 21.510 |
-| Boroumand importiert | 7.636 | ~14.500 (+ 12K laufend) |
-| Gender Coverage | ~85% | ~95% |
-| Duplikate entfernt | 206 | 206 + 265 = 471 |
-| Neue Scripts | — | seed-new-only.ts, sync-gender-to-db.ts, dedup_2026_internal.py |
+| YAML-Dateien | 14.430 | ~32.500 |
+| DB Victims | 17.515 | 35.152 |
+| Boroumand importiert | 7.636 | 26.815 (alle verarbeitet) |
+| Gender Coverage | ~85% | ~72% (28% unknown bei historischen) |
+| Duplikate entfernt (total) | 206 | 1.410 (206 + 265 + 939) |
+| Event Death Tolls | Teils offiziell | Alle mit Diaspora-Quellen korrigiert |
+| Foto-Anzeige | Cloudflare-blockiert | unoptimized Fix deployed |
+| Neue Scripts | — | seed-new-only.ts, sync-gender-to-db.ts, dedup_2026_internal.py, infer_gender.py |
 
 ---
 
 *Erstellt: 2026-02-09*
-*Letzte Aktualisierung: 2026-02-13 (Phase 3: Boroumand Historical Import + Photo Fix)*
+*Letzte Aktualisierung: 2026-02-13 (Phase 3 FINAL: 35.152 Victims, Boroumand complete, Dedup ×3, Death Toll corrections)*

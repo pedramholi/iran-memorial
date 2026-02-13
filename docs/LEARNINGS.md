@@ -455,6 +455,13 @@ IHR und HRANA haben eigene Datenformate. Pro Import-Quelle ein eigenes Mapping-S
 - **Fix:** `unoptimized` Prop auf alle `<Image>` Komponenten (VictimCard.tsx + victims/[slug]/page.tsx). Browser fetcht Bilder direkt von iranrights.org statt über den Server-Proxy.
 - **Prevention:** Bei externen Bild-URLs immer testen ob der Server die Quelle erreichen kann. Datacenter-IPs werden oft von Cloudflare geblockt. `unoptimized` als Fallback für nicht-erreichbare Quellen.
 
+### BUG-013: Scraper `-2` Suffix erzeugt Massen-Duplikate (2026-02-13)
+
+- **Symptom:** 4.433 YAML-Dateien mit `-2` Suffix (z.B. `ahmadi-mohammad-2.yaml`), davon 3.800 echte Duplikate
+- **Root Cause:** `scrape_boroumand.py` erstellt `slug-2` wenn `slug.yaml` bereits existiert. Bei 26.815 Entries unvermeidlich — viele Opfer haben gleiche latinisierte Namen.
+- **Fix:** Merge-Script: Farsi-Name + Todesdatum vergleichen → wenn identisch: Felder + Sources in Original mergen → Duplikat-Datei + DB-Eintrag löschen. 939 Merges nach strenger Prüfung (Original muss existieren + exakter Match).
+- **Prevention:** Scraper sollte beim Import direkt gegen DB prüfen statt blind `-2` Dateien zu erstellen. Alternativ: Dedup als fester Pipeline-Schritt nach jedem Batch-Import.
+
 ---
 
 ## Patterns That Work (Ergänzung 2026-02-13)
@@ -464,8 +471,10 @@ IHR und HRANA haben eigene Datenformate. Pro Import-Quelle ein eigenes Mapping-S
 - **Parallel Scraping mit ThreadPoolExecutor:** 4 Worker × 1s Delay = ~100 Entries/min statt 13/min (8× schneller). Fetch parallel, YAML-Erstellung sequentiell (Slug-Eindeutigkeit). Batch-Größe = Worker × 4.
 - **Source-Merge bei Duplikat-Löschung:** Beim Löschen von Duplikaten immer unique Sources (Twitter/Telegram-Links) in das Original mergen. iranvictims.com hat oft Primärquellen die Boroumand nicht hat.
 - **`unoptimized` für externe Bilder hinter Cloudflare:** Next.js Image Optimization proxied Bilder serverseitig — Datacenter-IPs werden von Cloudflare geblockt (`cf-mitigated: challenge`). Mit `unoptimized` Prop fetcht der Browser direkt → Cloudflare-Challenge wird im Browser gelöst. Trade-off: keine WebP/AVIF-Konvertierung, aber Bilder werden überhaupt angezeigt.
+- **Merge statt Delete bei Duplikaten:** Duplikate können unique Sources (Twitter, Telegram-Links) oder ausgefüllte Felder haben die dem Original fehlen. Pipeline: (1) Felder aus Duplikat ins Original kopieren (nur wenn Original-Feld leer), (2) Unique Sources anhängen, (3) YAML + DB parallel aktualisieren, (4) erst dann Duplikat löschen.
+- **Event Death Tolls aus Diaspora-Quellen:** Offizielle iranische Zahlen und von ihnen beeinflusste UN-Berichte sind systematisch zu niedrig. Diaspora-NGOs (HRANA, IHR, Boroumand, Amnesty) liefern konservative verifizierte Minima. Geleakte interne Dokumente zeigen oft 2-3× höhere Zahlen. Immer `estimated_killed_low` (verifiziertes Minimum) und `estimated_killed_high` (Schätzung auf Basis interner Quellen) getrennt führen.
 
 ---
 
 *Erstellt: 2026-02-09*
-*Letzte Aktualisierung: 2026-02-13 (BUG-012 Cloudflare Photo Fix, Boroumand Historical Import, Dedup, Parallel Scraping)*
+*Letzte Aktualisierung: 2026-02-13 (BUG-013 -2 Suffix Dedup, Death Toll Corrections, Pipeline Complete: 35.152 Victims)*
