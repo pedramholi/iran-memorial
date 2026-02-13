@@ -62,8 +62,9 @@ DETAIL_CACHE = CACHE_DIR / "detail"
 VICTIMS_DIR = SCRIPT_DIR.parent / "data" / "victims"
 
 TOTAL_PAGES = 545
-MIN_DELAY = 1.5
-MAX_DELAY = 2.5
+MIN_DELAY = 0.8
+MAX_DELAY = 1.2
+PARALLEL_WORKERS = 4
 
 HEADERS = {
     "User-Agent": "iran-memorial-project/1.0 (human-rights-research; github.com/pedramholi/iran-memorial)",
@@ -949,97 +950,138 @@ def cmd_import_new(args):
     fetch_count = 0
     cached_count = 0
 
-    for i, entry in enumerate(unmatched):
+    # --- Parallel fetch helper ---
+    from concurrent.futures import ThreadPoolExecutor, as_completed
+    import threading
+
+    fetch_lock = threading.Lock()
+
+    def fetch_detail(entry):
+        """Fetch EN+FA detail pages for one entry, return (entry, detail, was_fetched)."""
         bid = entry['id']
-
-        if bid in processed_ids:
-            skipped_resume += 1
-            continue
-
-        # 1. Fetch or load detail pages
         cache_file = DETAIL_CACHE / f"{bid}.json"
 
         if cache_file.exists():
             with open(cache_file) as f:
                 detail = json.load(f)
-            cached_count += 1
-        elif getattr(args, 'cache_only', False):
-            continue  # --cache-only: skip entries without cached detail
-        else:
-            en_html = fetch(DETAIL_URL.format(id=bid, slug=entry['slug']))
-            delay()
-            fa_html = fetch(DETAIL_FA_URL.format(id=bid, slug=entry['slug']))
-            delay()
+            return (entry, detail, False)  # False = from cache
 
-            detail = {"boroumand_id": bid, "slug": entry['slug']}
-            if en_html:
-                detail["en"] = parse_detail_en(en_html)
-            if fa_html:
-                detail["fa"] = parse_detail_fa(fa_html)
+        if getattr(args, 'cache_only', False):
+            return (entry, None, False)  # skip
 
-            if not args.dry_run:
-                with open(cache_file, "w") as f:
-                    json.dump(detail, f, indent=2, ensure_ascii=False)
-            fetch_count += 1
+        en_html = fetch(DETAIL_URL.format(id=bid, slug=entry['slug']))
+        time.sleep(random.uniform(MIN_DELAY, MAX_DELAY))
+        fa_html = fetch(DETAIL_FA_URL.format(id=bid, slug=entry['slug']))
+        time.sleep(random.uniform(MIN_DELAY, MAX_DELAY))
 
-        detail_en = detail.get('en', {})
-        detail_fa = detail.get('fa', {})
+        detail = {"boroumand_id": bid, "slug": entry['slug']}
+        if en_html:
+            detail["en"] = parse_detail_en(en_html)
+        if fa_html:
+            detail["fa"] = parse_detail_fa(fa_html)
 
-        # 2. Determine year for directory
-        year = entry['_year']
-        if not year:
-            death_date = parse_boroumand_date(detail_en.get('date_of_killing', ''))
-            if death_date and len(death_date) >= 4:
-                year = int(death_date[:4])
-        if not year:
-            year = 'unknown'
+        if not args.dry_run:
+            with open(cache_file, "w") as f:
+                json.dump(detail, f, indent=2, ensure_ascii=False)
 
-        # 3. Generate unique slug
-        name = detail_en.get('name', entry['name'])
-        birth_date = parse_boroumand_date(detail_en.get('date_of_birth', ''))
-        birth_year = int(birth_date[:4]) if birth_date and len(birth_date) >= 4 else None
-        death_year = year if isinstance(year, int) else None
+        return (entry, detail, True)  # True = freshly fetched
 
-        slug = generate_slug(name, birth_year or death_year)
-        if not slug:
-            slug = f"boroumand-{bid}"
+    # Filter to entries that still need processing
+    todo = [e for e in unmatched if e['id'] not in processed_ids]
+    skipped_resume = len(unmatched) - len(todo)
+    if skipped_resume:
+        print(f"Skipped {skipped_resume} already processed entries")
+    print(f"Processing {len(todo)} entries with {PARALLEL_WORKERS} workers...\n")
 
-        base_slug = slug
-        suffix = 2
-        while slug in existing_slugs:
-            slug = f"{base_slug}-{suffix}"
-            suffix += 1
-        existing_slugs.add(slug)
+    # Process in batches: fetch in parallel, write YAML sequentially
+    BATCH_SIZE = PARALLEL_WORKERS * 4  # fetch 16 at a time
+    for batch_start in range(0, len(todo), BATCH_SIZE):
+        batch = todo[batch_start:batch_start + BATCH_SIZE]
+        results = []
 
-        # 4. Generate YAML
-        yaml_content = generate_yaml(entry, detail_en, detail_fa, slug, year)
+        with ThreadPoolExecutor(max_workers=PARALLEL_WORKERS) as executor:
+            futures = {executor.submit(fetch_detail, e): e for e in batch}
+            for future in as_completed(futures):
+                try:
+                    results.append(future.result())
+                except Exception as exc:
+                    entry = futures[future]
+                    print(f"  ✗ Worker error for {entry['id']}: {exc}")
 
-        # 5. Write file
-        year_dir = VICTIMS_DIR / str(year)
-        yaml_file = year_dir / f"{slug}.yaml"
+        # Sort results back to original order (by position in batch)
+        batch_ids = [e['id'] for e in batch]
+        results.sort(key=lambda r: batch_ids.index(r[0]['id']))
 
-        if args.dry_run:
-            if created < 5:
-                print(f"  DRY: {yaml_file.relative_to(VICTIMS_DIR)} — {name}")
-                if detail_fa.get('name_farsi'):
-                    print(f"       FA: {detail_fa['name_farsi']}")
-        else:
-            year_dir.mkdir(parents=True, exist_ok=True)
-            yaml_file.write_text(yaml_content)
+        # Sequential YAML creation (needs unique slug generation)
+        for entry, detail, was_fetched in results:
+            if detail is None:
+                continue  # cache-only skip
 
-        created += 1
-        processed_ids.add(bid)
+            bid = entry['id']
+            if was_fetched:
+                fetch_count += 1
+            else:
+                cached_count += 1
 
-        # Progress save every 50 entries
-        if not args.dry_run and created % 50 == 0:
-            with open(progress_file, "w") as f:
-                json.dump({'processed': list(processed_ids)}, f)
+            detail_en = detail.get('en', {})
+            detail_fa = detail.get('fa', {})
 
-        # Status every 100 entries
-        if created % 100 == 0:
-            fa = detail_fa.get('name_farsi', '—')
-            print(f"  [{i+1}/{len(unmatched)}] {created} created, "
-                  f"{fetch_count} fetched, {cached_count} cached — {name} ({fa})")
+            # 2. Determine year for directory
+            year = entry['_year']
+            if not year:
+                death_date = parse_boroumand_date(detail_en.get('date_of_killing', ''))
+                if death_date and len(death_date) >= 4:
+                    year = int(death_date[:4])
+            if not year:
+                year = 'unknown'
+
+            # 3. Generate unique slug
+            name = detail_en.get('name', entry['name'])
+            birth_date = parse_boroumand_date(detail_en.get('date_of_birth', ''))
+            birth_year = int(birth_date[:4]) if birth_date and len(birth_date) >= 4 else None
+            death_year = year if isinstance(year, int) else None
+
+            slug = generate_slug(name, birth_year or death_year)
+            if not slug:
+                slug = f"boroumand-{bid}"
+
+            base_slug = slug
+            suffix = 2
+            while slug in existing_slugs:
+                slug = f"{base_slug}-{suffix}"
+                suffix += 1
+            existing_slugs.add(slug)
+
+            # 4. Generate YAML
+            yaml_content = generate_yaml(entry, detail_en, detail_fa, slug, year)
+
+            # 5. Write file
+            year_dir = VICTIMS_DIR / str(year)
+            yaml_file = year_dir / f"{slug}.yaml"
+
+            if args.dry_run:
+                if created < 5:
+                    print(f"  DRY: {yaml_file.relative_to(VICTIMS_DIR)} — {name}")
+                    if detail_fa.get('name_farsi'):
+                        print(f"       FA: {detail_fa['name_farsi']}")
+            else:
+                year_dir.mkdir(parents=True, exist_ok=True)
+                yaml_file.write_text(yaml_content)
+
+            created += 1
+            processed_ids.add(bid)
+
+            # Progress save every 50 entries
+            if not args.dry_run and created % 50 == 0:
+                with open(progress_file, "w") as f:
+                    json.dump({'processed': list(processed_ids)}, f)
+
+            # Status every 100 entries
+            if created % 100 == 0:
+                fa = detail_fa.get('name_farsi', '—')
+                total_idx = batch_start + batch.index(entry) + 1 + skipped_resume
+                print(f"  [{total_idx}/{len(unmatched)}] {created} created, "
+                      f"{fetch_count} fetched, {cached_count} cached — {name} ({fa})")
 
     # Final progress save
     if not args.dry_run and processed_ids:
