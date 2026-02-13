@@ -45,6 +45,7 @@ export function VictimCard({
               fill
               sizes="64px"
               className="object-cover"
+              unoptimized
             />
           ) : (
             <svg className="w-7 h-7 text-memorial-600" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>

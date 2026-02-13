@@ -74,7 +74,7 @@ function VictimDetail({ victim, locale }: { victim: any; locale: Locale }) {
           {/* Photo */}
           <div className="relative h-24 w-24 sm:h-32 sm:w-32 flex-shrink-0 rounded-full bg-memorial-800/80 flex items-center justify-center overflow-hidden ring-2 ring-memorial-700/50">
             {victim.photoUrl ? (
-              <Image src={victim.photoUrl} alt={victim.nameLatin} fill sizes="(min-width: 640px) 128px, 96px" className="object-cover" />
+              <Image src={victim.photoUrl} alt={victim.nameLatin} fill sizes="(min-width: 640px) 128px, 96px" className="object-cover" unoptimized />
             ) : (
               <svg className="w-12 h-12 text-memorial-600" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>
                 <path strokeLinecap="round" strokeLinejoin="round" d="M15.75 6a3.75 3.75 0 1 1-7.5 0 3.75 3.75 0 0 1 7.5 0ZM4.501 20.118a7.5 7.5 0 0 1 14.998 0" />
