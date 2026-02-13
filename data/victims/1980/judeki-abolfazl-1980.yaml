@@ -36,9 +36,8 @@ circumstances: >
     Kerman declared Mr. Judeki a corruptor on earth and sentenced him to
     death. The sentence was carried out at 11 p.m., shortly after its
     issuance.
-event_context: null
-responsible_forces: null
-
+event_context: "1980"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

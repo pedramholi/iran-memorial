@@ -3,10 +3,16 @@ name_latin: "Shaye' Mazra'eh"
 name_farsi: "شایع مزرعه"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "taking part in murder"
+  - "taking part in bloody killings"
+  - "collaborating with SAVAK and informing on people resulting in their being tortured or killed by SAVAK"
 
 # --- DEATH ---
 date_of_death: 1979-04-12
@@ -39,8 +45,7 @@ circumstances: >
     available regarding the defense of the accused. Judgment The defendant was
     sentenced to death and executed. No other details are available.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic’s authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

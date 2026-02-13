@@ -3,7 +3,7 @@ name_latin: "Ommolbani Rahmi"
 name_farsi: "ام‌البنی رحمی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -37,8 +37,7 @@ circumstances: >
     available on Ms. Rahmi s defense. Judgment The Islamic Revolutionary
     Tribunal of Arak sentenced Ms. Rahmi to death. She was executed at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

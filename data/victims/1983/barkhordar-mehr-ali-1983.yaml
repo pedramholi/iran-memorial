@@ -3,7 +3,7 @@ name_latin: "Mehr Ali Barkhordar"
 name_farsi: "مهرعلی برخوردار"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -40,9 +40,8 @@ circumstances: >
     Revolutionary Tribunal in Tehran declared Mr. Barkhordar a corruptor on
     earth and sentenced him to death. Having been confirmed by the Supreme
     Court, the sentence was carried out at 5 a.m.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on October 8, 1983"
+responsible_forces: "Anti-Narcotics Section of the Public Prosecutor's Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

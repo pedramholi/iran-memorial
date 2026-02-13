@@ -36,9 +36,8 @@ circumstances: >
     Mr. Alizehi a corruptor on earth and sentenced him to death. Having been
     confirmed by the Islamic Supreme Court, the sentence was carried out in
     prison at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "1984 executions"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

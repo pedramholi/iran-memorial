@@ -1,12 +1,18 @@
 id: moqadasi-mahbod-1981
 name_latin: "Mahbod Moqadasi"
 name_farsi: "مهبد مقدسی"
-date_of_birth: null
+date_of_birth: "1961-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "high school student"
+family:
+  marital_status: "single"
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-02-07
@@ -41,9 +47,8 @@ circumstances: >
     out by the Revolutionary Guards when he was executed in Jahrom on July 2,
     1981. No specific information is available about the defendant s
     execution. Mr. Mahbod Moqadasi was 20 years old.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Islamic Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

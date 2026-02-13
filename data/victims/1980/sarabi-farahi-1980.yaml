@@ -3,10 +3,13 @@ name_latin: "Farahi Sarabi"
 name_farsi: "فرهی سرابی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "Colonel"
 
 # --- DEATH ---
 date_of_death: 1980-01-13
@@ -32,9 +35,8 @@ circumstances: >
     declared Commander Sarabi an enemy of God and his prophet," the murderer
     of the people of God, and an obvious example of corruption of earth. He
     was executed at 11:39 p.m.
-event_context: null
-responsible_forces: null
-
+event_context: "Black Friday [September 8, 1979] massacre"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

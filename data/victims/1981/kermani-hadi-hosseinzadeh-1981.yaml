@@ -8,6 +8,11 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+beliefs: "supporter of the Fadayian Khalq Guerrilla Organization"
+quotes:
+  - "member of the anti-people grouplet of the Fadayian Minority Guerrillas"
+
 # --- DEATH ---
 date_of_death: 1981-08-15
 age_at_death: null
@@ -56,9 +61,8 @@ circumstances: >
     Islamic Revolutionary Tribunal sentenced Mr. Hosseinzadeh Kermani to
     death. Mr. Hosseinzadeh Kermani was executed by a firing squad on August
     15, 1981 in Tehran’s Evin Prison.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on August 15, 1981"
+responsible_forces: "Central Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

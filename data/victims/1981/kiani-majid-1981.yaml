@@ -1,12 +1,20 @@
 id: kiani-majid-1981
 name_latin: "Majid Kiani"
 name_farsi: "مجید کیانی"
-date_of_birth: null
+date_of_birth: "1960-01-01"
 place_of_birth: null
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "university student"
+family:
+  notes: "son of Morad"
+beliefs: "active member of the Student Section of the American small group of Peykar"
+quotes:
+  - "Hail to the fighters of the war against the world’s infidels under the leadership of blood-thirsty America, and hail to the heroic and martyr-producing nation, which obstruct criminals and merciless Hypocrites, and which reports these criminals against the Koran and Islam to the armed forces and the judiciary on a daily basis, and which accepts the calling of the Koran that ‘O Prophet, strive hard against the unbelievers and the Hypocrites, and be firm against them’"
 
 # --- DEATH ---
 date_of_death: 1981-08-29
@@ -65,9 +73,8 @@ circumstances: >
     Kiani “at war with God and His Prophet, corruptor on earth, and rebel.” He
     was condemned to death and shot by firing squad on August 29, 1981. He was
     21 years old.
-event_context: null
-responsible_forces: null
-
+event_context: "executed on August 29, 1981"
+responsible_forces: "Central Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

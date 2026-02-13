@@ -8,6 +8,12 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+quotes:
+  - "deluding small children"
+  - "sodomy"
+  - "handing children over to debauchers."
+
 # --- DEATH ---
 date_of_death: 1980-07-08
 age_at_death: null
@@ -37,8 +43,7 @@ circumstances: >
     Javadzadeh’s defense. Judgment Based on the communiqué, Mr. Javanzadeh was
     declared a “corruptor on earth.” He was sentenced to death.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Public Prosecution Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

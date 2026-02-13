@@ -3,10 +3,14 @@ name_latin: "Torab Haj Alilou"
 name_farsi: "تراب حاج علیلو"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "he was innocent"
 
 # --- DEATH ---
 date_of_death: 1979-04-10
@@ -55,8 +59,7 @@ circumstances: >
     however, found guilty of acting against the security of the nation and
     executed.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

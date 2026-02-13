@@ -8,6 +8,11 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+occupation: "active member of the apostate organization of Peykar"
+quotes:
+  - "Greetings to the fighters of the battle against world infidels led by blood-thirsty America, and greetings to the nation which produces martyrs and heroes; [the nation that] impedes cruel and criminal Hypocrites and arrests a new group of them every day and brings them to the police or the judicial forces; [the nation that] accepts the calling of the Quran saying, ‘O Prophet! Strive hard against the unbelievers and the Hypocrites, and be firm against them.’"
+
 # --- DEATH ---
 date_of_death: 1981-08-29
 age_at_death: null
@@ -65,8 +70,7 @@ circumstances: >
     condemned him to death. He was executed by firing squad on August 29,
     1981.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Court of Tehran"
 # --- VERIFICATION ---
 status: unverified
 sources:

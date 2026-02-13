@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+beliefs: "member of the Moslem People's Party of Iran"
+
 # --- DEATH ---
 date_of_death: 1980-01-12
 age_at_death: null
@@ -86,9 +89,8 @@ circumstances: >
     Mr. Azadifar was charged with creating fear and apprehension and mayhem
     among the populace, committing arson, holding a club in his hand
     (insinuating that he wa
-event_context: null
-responsible_forces: null
-
+event_context: "January 1980 protests"
+responsible_forces: "Islamic Revolutionary Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

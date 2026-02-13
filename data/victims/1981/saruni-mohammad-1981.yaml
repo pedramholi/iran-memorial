@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+beliefs: "member of Peykar Organization for the Liberation of the Working Class"
+
 # --- DEATH ---
 date_of_death: 1981-08-04
 age_at_death: null
@@ -55,9 +58,8 @@ circumstances: >
     magazine, he was executed on the 4th of August, 1981. Kayhan and Jomhuri
     Eslami published the story of the execution by a firing squad at Evin
     Prison on the 5th of August.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

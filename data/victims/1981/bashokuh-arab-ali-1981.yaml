@@ -3,7 +3,7 @@ name_latin: "Arab Ali Bashokuh"
 name_farsi: "عرب علی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -62,9 +62,8 @@ circumstances: >
     being “rebellious against Islam”, “an enemy of God”, and “a corruptor on
     earth.” The sentence was carried out at dawn in the courtyard of the
     Prison.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

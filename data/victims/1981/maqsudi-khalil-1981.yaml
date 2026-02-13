@@ -2,7 +2,7 @@ id: maqsudi-khalil-1981
 name_latin: "Khalil Maqsudi"
 name_farsi: "خلیل مقصودی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Sarab, East Azarbaijan"
 gender: male
 ethnicity: null
 religion: "Presumed Muslim"
@@ -34,9 +34,8 @@ circumstances: >
     available on his defense. Judgment The Islamic Revolutionary Tribunal of
     Tabriz condemned Mr. Khalil Maqsudi to death. He was executed at Tabriz
     prison in the evening of August 15, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on August 15, 1981"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

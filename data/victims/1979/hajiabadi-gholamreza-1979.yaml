@@ -37,9 +37,8 @@ circumstances: >
     Tribunal of Najafabad for being a "corruptor on earth and at war with
     God." He was executed at dawn on Thursday, August 30, 2004, in the city of
     Esfahan.
-event_context: null
-responsible_forces: null
-
+event_context: "2004 execution"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,10 +3,16 @@ name_latin: "Morad Qashqa'i"
 name_farsi: "مراد قشقایی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+education: "high school graduate"
+family:
+  marital_status: "single"
+personality: "brave and honest person who was full of life and never hurt anybody"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -86,7 +92,7 @@ circumstances: >
     and to the UN Special Rapporteur visiting Iran (February 2003), the
     families of the victims refer to the authorities accusations against the
     priso
-event_context: null
+event_context: "1988 massacre"
 responsible_forces: null
 
 # --- VERIFICATION ---

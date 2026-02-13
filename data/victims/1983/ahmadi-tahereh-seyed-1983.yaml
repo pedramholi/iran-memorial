@@ -8,6 +8,16 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+occupation: "nursing student"
+family:
+  marital_status: "married"
+  children: 1
+  notes: "her husband, a sympathizer of the same Organization, was executed as well."
+beliefs: "sympathizer of Rah-e Kargar Organization"
+quotes:
+  - "I love you from the bottom of my heart. I always think about you. I recall how you worked hard through difficulties to raise us. My dears, Nuri and I started a sweet and productive life together. But, regretfully, destiny didn’t give us more time to be together."
+
 # --- DEATH ---
 date_of_death: 1983-04-26
 age_at_death: 26
@@ -59,8 +69,7 @@ circumstances: >
     regretfully, destiny didn’t give us more time to be together.” According
     to the source, the prison officials crossed out several lines of the will.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

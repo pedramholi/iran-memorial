@@ -3,7 +3,7 @@ name_latin: "Souheil Abdul-Massih"
 name_farsi: "سهیل عبد المسيح"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Christianity"
 photo: null
@@ -85,9 +85,8 @@ circumstances: >
     goals through [Islamic and Arab] governments dependent on it, through
     wicked writers and speakers, and Muslims are just sitting [and doing
     nothing]. Is it not our duty? Do Muslims h
-event_context: null
-responsible_forces: null
-
+event_context: "1983 bombing of the American Embassy in Beirut"
+responsible_forces: "Islamic Jihad"
 # --- VERIFICATION ---
 status: unverified
 sources:

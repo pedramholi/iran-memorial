@@ -2,11 +2,18 @@ id: golestanfard-mohammad-mehdi-1982
 name_latin: "Mohammad Mehdi Golestanfard"
 name_farsi: "محمد مهدی گلستان فرد"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Kazerun"
 gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "student"
+education: "Shiraz University"
+family:
+  notes: "younger brother, Sa'id, was killed in an armed conflict with the regime's agents near Marivan in 1986."
+beliefs: "sympathizer of the Mojahedin Organization"
 
 # --- DEATH ---
 date_of_death: 1982-07-17
@@ -69,9 +76,8 @@ circumstances: >
     Golestanfard's defense. Judgment No specific information is available
     about this execution. Based on the newspaper report, Mr. Golestanfard was
     executed in Shiraz in the night of July 17, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "June 20, 1981 demonstration"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

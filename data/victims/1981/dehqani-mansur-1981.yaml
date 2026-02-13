@@ -1,12 +1,16 @@
 id: dehqani-mansur-1981
 name_latin: "Mansur Dehqani"
 name_farsi: "منصور دهقانی"
-date_of_birth: null
+date_of_birth: "1957-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+family:
+beliefs: "member of Peykar Organization for the Liberation of the Working Class"
 
 # --- DEATH ---
 date_of_death: 1981-09-01
@@ -57,9 +61,8 @@ circumstances: >
     Mansur Dehqani “at war with God and His Prophet and a rebel against the
     Islamic regime.” He was condemned to death and executed by firing squad in
     Ahvaz on September 1, 1981 at dawn. He was 24.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

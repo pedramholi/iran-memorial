@@ -36,9 +36,8 @@ circumstances: >
     s defense. Judgment The Islamic Revolutionary Tribunal of Sabzevar
     sentenced Mr. Hezareh to death. The death sentence was carried out the day
     after the trial.
-event_context: null
-responsible_forces: null
-
+event_context: "1980"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

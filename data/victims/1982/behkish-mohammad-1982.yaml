@@ -8,6 +8,15 @@ ethnicity: null
 religion: "Unknown"
 photo: null
 
+# --- LIFE ---
+occupation: "student"
+education: "Mashhad Institute Technology"
+family:
+  marital_status: "married"
+  children: 1
+  notes: "father of a two years old boy"
+beliefs: "sympathizer of the Fadayian Khalq Organization (Minority)"
+
 # --- DEATH ---
 date_of_death: 1982-03-14
 age_at_death: 27

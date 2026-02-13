@@ -3,8 +3,8 @@ name_latin: "Abdolzaher Alizehi"
 name_farsi: "عبدالظاهر علیزهی"
 date_of_birth: null
 place_of_birth: null
-gender: null
-ethnicity: null
+gender: male
+ethnicity: "Baluch"
 religion: "Presumed Muslim"
 photo: null
 
@@ -39,8 +39,7 @@ circumstances: >
     confirmed by the Supreme Judicial Council, the sentence was carried out at
     night.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Akhtar Reza'i"
 name_farsi: "اختر رضایی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -36,8 +36,7 @@ circumstances: >
     found Ms. Reza'i a corruptor on earth and destroyer of a generation. She
     was executed at 3:30 in the morning.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

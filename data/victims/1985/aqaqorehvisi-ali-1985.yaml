@@ -36,9 +36,8 @@ circumstances: >
     Mr. Aqaqorehvisi to death. The Supreme Judicial Council confirmed the
     sentence and he was hanged in the prison of the Police Station of
     Bakhatarn on February 25, 1985.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on February 25, 1985"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

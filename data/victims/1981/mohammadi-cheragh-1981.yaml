@@ -3,10 +3,17 @@ name_latin: "Cheragh Mohammadi"
 name_farsi: "چراغ محمدی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "high school teacher"
+beliefs: "membership and continuous activity in the rebellious organization of Peykar"
+quotes:
+  - "a hand gun has been recovered from the defendant."
+  - "explicitly confessed to apostasy."
 
 # --- DEATH ---
 date_of_death: 1981-09-20
@@ -63,9 +70,8 @@ circumstances: >
     when he was executed in September of 1981. According to the website of
     Andeesheh va Peykar, he was executed by firing squad on September 20,
     1981.
-event_context: null
-responsible_forces: null
-
+event_context: "executed by firing squad on September 20, 1981"
+responsible_forces: "Islamic Revolutionary Court of Zahedan"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Abdolha'i Bastarni"
 name_farsi: "محمد بسترنی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -40,9 +40,8 @@ circumstances: >
     available on Mr. Bastarni’s defense. Judgment The Islamic Revolutionary
     Tribunal of Sanandaj declared Mr. Bastarni an enemy of God and a corruptor
     and sentenced him to death. He was executed on September 12, 1982.
-event_context: null
-responsible_forces: null
-
+event_context: "1982"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

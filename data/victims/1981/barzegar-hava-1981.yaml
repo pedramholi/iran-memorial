@@ -2,11 +2,17 @@ id: barzegar-hava-1981
 name_latin: "Hava Barzegar"
 name_farsi: "حوا برزگر"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Qa’emshahr"
+gender: female
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "activist"
+education: "high school graduate"
+family:
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-10-12
@@ -43,9 +49,8 @@ circumstances: >
     Barzegar was executed on October 12, 1981. The officials did not allow her
     family to bury her in a public cemetery. Her family had to wash her body
     at home and bury her in their yard.
-event_context: null
-responsible_forces: null
-
+event_context: "executed on October 12, 1981"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

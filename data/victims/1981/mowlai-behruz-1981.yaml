@@ -8,6 +8,12 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+education: "university graduate"
+family:
+  marital_status: "single"
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
+
 # --- DEATH ---
 date_of_death: 1981-07-05
 age_at_death: null
@@ -73,9 +79,8 @@ circumstances: >
     when he was executed by firing squad in the Evin prison yard on July 5,
     1981 at night. No specific information is available about the defendant’s
     execution.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

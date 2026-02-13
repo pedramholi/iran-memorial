@@ -2,11 +2,15 @@ id: sarrafpur-hasan-1988
 name_latin: "Hasan Sarrafpur"
 name_farsi: "حسن صراف پور"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Dezful"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "Air Force officer"
+beliefs: "member of the Tudeh Party"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -83,9 +87,8 @@ circumstances: >
     information is available about the defendant’s execution. According to the
     book, Mr. Sarrafpur was hanged during the mass killings of political
     prisoners in Gohardasht Prison in September 1988.
-event_context: null
-responsible_forces: null
-
+event_context: "mass killings of political prisoners in Gohardasht Prison in September 1988"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

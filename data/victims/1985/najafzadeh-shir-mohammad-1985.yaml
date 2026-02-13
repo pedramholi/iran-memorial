@@ -3,7 +3,7 @@ name_latin: "Shir Mohammad Najafzadeh"
 name_farsi: "شیرمحمد نجف زاده"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -41,8 +41,7 @@ circumstances: >
     1985. According to the newspaper report, “The victim’s wife was sentenced
     to 50 lashes and a prison term of eight and half years.”
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic’s authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

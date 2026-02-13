@@ -3,7 +3,7 @@ name_latin: "Mahmud Nurzehi"
 name_farsi: "محمود نورزهی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,8 +38,7 @@ circumstances: >
     s defense. Judgment According to this report, Mr. Nurzehi was executed.
     The Tribunal which issued his death sentence was not specified.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolution s Committee"
 # --- VERIFICATION ---
 status: unverified
 sources:

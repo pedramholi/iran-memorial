@@ -8,6 +8,11 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "head of the internal security of Khorasan's dissolved SAVAK"
+quotes:
+  - "enemy of God"
+
 # --- DEATH ---
 date_of_death: 1980-01-15
 age_at_death: null
@@ -36,8 +41,7 @@ circumstances: >
     of all his belongings except for one place of residence for his
     dependents. He was executed at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

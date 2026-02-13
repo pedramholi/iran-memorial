@@ -40,9 +40,8 @@ circumstances: >
     Revolutionary Tribunal declared Mr. Roshdi a corruptor on earth and
     sentenced him to death. Having been confirmed by the Supreme Judicial
     Council, the sentence was carried out.
-event_context: null
-responsible_forces: null
-
+event_context: "1982"
+responsible_forces: "Anti-Narcotics Section of the Public Prosecutor's Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,10 +3,13 @@ name_latin: "Aliakbar Atrak"
 name_farsi: "علی اکبر اترک"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+occupation: "manager of a Car Dealership"
 
 # --- DEATH ---
 date_of_death: 1981-12-22
@@ -85,9 +88,8 @@ circumstances: >
     assistance of an attorney, etc Judgment َThe Islamic Revolutionary Court
     of Tehran Army identified Mr. Atrak guilty of "corruption on Earth and
     waging war on God." He was condemned to death. The ruling was carr
-event_context: null
-responsible_forces: null
-
+event_context: "Nojeh coup"
+responsible_forces: "Islamic Revolutionary Court of Tehran Army"
 # --- VERIFICATION ---
 status: unverified
 sources:

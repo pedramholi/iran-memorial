@@ -1,12 +1,21 @@
 id: al-hashim-yolla-1983
 name_latin: "Yolla Al-Hashim"
 name_farsi: "يولا الهاشم"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1961-01-01"
+place_of_birth: "Beirut, Lebanon"
+gender: female
 ethnicity: null
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+occupation: "administrative assistant"
+education: "high school diploma"
+family:
+  notes: "had two sisters"
+personality: "described as very honest, very friendly, and very outgoing, someone beautiful inside and outside"
+quotes:
+  - "she was gifted with words and an excellent student in English, and this eventually won her employment at the American embassy, a position with which she was overjoyed."
 
 # --- DEATH ---
 date_of_death: 1983-04-18
@@ -85,9 +94,8 @@ circumstances: >
     them. Ayatollah Khomeini repeatedly demonized the United States and
     expressed concern about its influence in the Muslim world. He emphasized
     that Muslims had a duty to rise up against autocratic l
-event_context: null
-responsible_forces: null
-
+event_context: "1983 bombing of the American embassy in Beirut"
+responsible_forces: "Islamic Jihad"
 # --- VERIFICATION ---
 status: unverified
 sources:

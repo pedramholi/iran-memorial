@@ -1,12 +1,16 @@
 id: jafarpisheh-said-1981
 name_latin: "Sa'id Ja'farpisheh"
 name_farsi: "سعید جعفرپیشه"
-date_of_birth: null
+date_of_birth: "1962-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+beliefs: "supporter of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-08-16
@@ -85,9 +89,8 @@ circumstances: >
     demonstration protesting their treatment by governmental officials and the
     government officials efforts to impeach their ally, President Abolhassan
     Banisadr. Despite the fact that the regime called this demonstr
-event_context: null
-responsible_forces: null
-
+event_context: "1981 execution"
+responsible_forces: "Esfahan Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

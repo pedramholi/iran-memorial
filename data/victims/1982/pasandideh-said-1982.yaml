@@ -3,10 +3,13 @@ name_latin: "Sa'id Pasandideh"
 name_farsi: "سعید پسندیده"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of Peykar Organization for the Liberation of the Working Class"
 
 # --- DEATH ---
 date_of_death: 1982-02-03
@@ -46,7 +49,7 @@ circumstances: >
     list of Martyrs of the Peykar Organization, Mr. Sa’id Pasandideh was
     executed in the Qezelhesar prison on February 3, 1982. No specific
     information is available about the defendant’s execution.
-event_context: null
+event_context: "executed in Qezelhesar prison on February 3, 1982"
 responsible_forces: null
 
 # --- VERIFICATION ---

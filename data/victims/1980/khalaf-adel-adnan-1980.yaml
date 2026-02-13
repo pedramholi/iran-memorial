@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "Iraqi navy commando"
+
 # --- DEATH ---
 date_of_death: 1980-07-29
 age_at_death: null
@@ -35,8 +38,7 @@ circumstances: >
     “corruption on earth” and “waging war against God.” He was executed at
     dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

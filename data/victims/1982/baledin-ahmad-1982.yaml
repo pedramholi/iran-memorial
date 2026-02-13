@@ -8,6 +8,11 @@ ethnicity: null
 religion: "Unknown"
 photo: null
 
+# --- LIFE ---
+beliefs: "affiliated with various opposition groups, heading up a propaganda campaign for the banned Kurdestan Democratic Party (KDP)"
+quotes:
+  - "espionage, acting against the Islamic Republic as well as heading up a propaganda campaign for the banned Kurdestan Democratic Party (KDP), providing financial and human resources for the KDP, participting in an armed uprising against the Islamic Republic, and causing terror in the region."
+
 # --- DEATH ---
 date_of_death: 1982-08-07
 age_at_death: null
@@ -38,9 +43,8 @@ circumstances: >
     as well as a rebel and sentenced him to death. Having been confirmed by
     the Islamic Revolutionary Supreme Tribunal of Qom, the sentence was
     carried out at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "executed during clashes with the Islamic Republic security forces from June 1981 to the publication date of the magazine."
+responsible_forces: "Islamic Revolutionary Tribunal of Miandoab"
 # --- VERIFICATION ---
 status: unverified
 sources:

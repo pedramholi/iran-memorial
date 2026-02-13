@@ -85,9 +85,8 @@ circumstances: >
     prisoners in 1988. Ever since the summer of 1981, the MKO has continued
     its activities outside of Iran. No information is available regarding
     members and activities of the MKO inside the co
-event_context: null
-responsible_forces: null
-
+event_context: "June 20, 1981 demonstration"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

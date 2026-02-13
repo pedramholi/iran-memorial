@@ -3,7 +3,7 @@ name_latin: "Shokrollah Heidary"
 name_farsi: "شکرالله حیدری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -35,8 +35,7 @@ circumstances: >
     Heidary, a corruptor on earth, was seized by divine wrath and executed.
     There is no reference to the Tribunal which issued the death sentence.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

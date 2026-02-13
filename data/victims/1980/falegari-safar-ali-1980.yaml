@@ -3,7 +3,7 @@ name_latin: "Safar Ali Fa'legari"
 name_farsi: "صفر علی فعله گری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -36,8 +36,7 @@ circumstances: >
     legari s defense. Judgment Mr. Fa legari and the other three defendants
     were sentenced to death.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

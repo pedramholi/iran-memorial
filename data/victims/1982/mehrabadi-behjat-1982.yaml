@@ -3,7 +3,7 @@ name_latin: "Behjat Mehrabadi"
 name_farsi: "بهجت مهرآبادی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Non-Believer"
 photo: null
@@ -47,9 +47,8 @@ circumstances: >
     Martyrs of the Peykar Organization, Ms. Mehrabadi was executed by firing
     squad in Tehran in March of 1982. No other information is available about
     the defendant’s execution.
-event_context: null
-responsible_forces: null
-
+event_context: "executed or killed during clashes with the Islamic Republic security forces from June 1981 to the publication date of the magazine"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

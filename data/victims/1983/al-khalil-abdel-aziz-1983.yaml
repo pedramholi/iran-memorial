@@ -3,10 +3,13 @@ name_latin: "Abdel Aziz Al-Khalil"
 name_farsi: "عبد العزيز الخليل"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: null
 photo: null
+
+# --- LIFE ---
+occupation: "airline pilot"
 
 # --- DEATH ---
 date_of_death: 1983-04-18
@@ -85,9 +88,8 @@ circumstances: >
     and the enemy of humanity, reaches out from the other side of the world to
     determine the fate of Muslim countries? ... America pursues its corrupt
     goals through [Islamic and Arab] governments
-event_context: null
-responsible_forces: null
-
+event_context: "1983 bombing of the American Embassy in Beirut"
+responsible_forces: "Islamic Jihad"
 # --- VERIFICATION ---
 status: unverified
 sources:

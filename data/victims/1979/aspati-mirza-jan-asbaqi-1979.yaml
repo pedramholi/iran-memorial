@@ -3,7 +3,7 @@ name_latin: "Mirza Jan Asbaqi (Aspati)"
 name_farsi: "میرزاجان اسبقی (اسپتی)"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -86,9 +86,8 @@ circumstances: >
     Jomhuri Eslami, 28 and 29 August and Khalq Mosalman, 6 September 1979). In
     addition, the claims of the newspapers close to the government and the
     statemen
-event_context: null
-responsible_forces: null
-
+event_context: "1979 prison riots"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

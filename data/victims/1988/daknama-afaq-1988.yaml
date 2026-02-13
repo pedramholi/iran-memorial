@@ -3,7 +3,7 @@ name_latin: "Afaq Daknama"
 name_farsi: "آفاق دکنما"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Islam"
 photo: null
@@ -72,9 +72,8 @@ circumstances: >
     in the victims’ belongings to their families. The bodies, however, were
     not returned to them. The bodies were buried in mass graves. Authorities
     warned the families of prisoners against holding memorial ceremonies.
-event_context: null
-responsible_forces: null
-
+event_context: "1988-89 mass execution of political prisoners"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

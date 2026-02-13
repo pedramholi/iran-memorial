@@ -3,10 +3,17 @@ name_latin: "Qamar Azkia"
 name_farsi: "قمر ازکیا"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "librarian"
+family:
+  notes: "Her brother, Dr. Azkia, was a prominent professor and researcher of social sciences in Tehran University."
+personality: "independent woman and would not follow others without question"
+beliefs: "sympathizer of the MKO"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -85,9 +92,8 @@ circumstances: >
     victims of the 1988 mass execution. Months after the executions, prison
     authorities informed the families about the executions and handed in the
     victims’ belongings to their families. The bodies, however, were
-event_context: null
-responsible_forces: null
-
+event_context: "1988 mass executions"
+responsible_forces: "Prosecutor’s Office of Evin"
 # --- VERIFICATION ---
 status: unverified
 sources:

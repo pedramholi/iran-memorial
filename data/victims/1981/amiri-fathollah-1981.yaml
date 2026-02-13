@@ -3,7 +3,7 @@ name_latin: "Fathollah Amiri"
 name_farsi: "فتح الله امیری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
@@ -47,9 +47,8 @@ circumstances: >
     Martyrs of the Peykar Organization, Mr. Esma il Bornak was executed by
     firing squad in Arak on January 8, 1982. No specific information is
     available about the defendant s execution.
-event_context: null
-responsible_forces: null
-
+event_context: "executed by firing squad in Arak on January 8, 1982"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

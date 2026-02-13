@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+beliefs: "member of the legal committee of the American organization of Peykar"
+
 # --- DEATH ---
 date_of_death: 1981-09-02
 age_at_death: null
@@ -57,9 +60,8 @@ circumstances: >
     Mr. Mohammadi Moheb as an "enemy of God, a corruptor on earth and a rebel
     against the Islamic Regime" and condemned him to death. He was shot by
     firing squad in Evin prison on September 1, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Islamic Revolutionary Court of Tehran"
 # --- VERIFICATION ---
 status: unverified
 sources:

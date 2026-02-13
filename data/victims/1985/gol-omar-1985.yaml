@@ -2,11 +2,15 @@ id: gol-omar-1985
 name_latin: "Omar Gol"
 name_farsi: "عمر گل"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Afghanistan"
 gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "claimed that he had murdered his host in order to revenge his father’s blood"
 
 # --- DEATH ---
 date_of_death: 1985-01-01
@@ -34,8 +38,7 @@ circumstances: >
     on Mr. Gol’s defense. Judgment Mr. Gol was sentenced to death. The Supreme
     Court approved the sentence. He was hanged in Qasr prison in Tehran.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic’s authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

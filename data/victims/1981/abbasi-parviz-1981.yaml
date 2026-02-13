@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+beliefs: "member of the Peykar Organization for the Liberation of the Working Class"
+
 # --- DEATH ---
 date_of_death: 1981-07-08
 age_at_death: null
@@ -42,9 +45,8 @@ circumstances: >
     defense. Judgment The court identified Mr. Parviz Abbasi “an enemy of God
     and His prophet” and condemned him to death. He was executed by a firing
     squad in Shiraz on July 8, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "1981"
+responsible_forces: "Iranian government"
 # --- VERIFICATION ---
 status: unverified
 sources:

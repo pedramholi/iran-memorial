@@ -3,10 +3,13 @@ name_latin: "Allahverdi Khalilzadeh"
 name_farsi: "الله وردی خلیل زاده"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "Sergeant"
 
 # --- DEATH ---
 date_of_death: 1979-05-05

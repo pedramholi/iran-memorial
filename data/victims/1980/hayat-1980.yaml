@@ -3,7 +3,7 @@ name_latin: "Hayat"
 name_farsi: "حیاط"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -47,9 +47,8 @@ circumstances: >
     buried up to their chests, and stones of various dimensions were made
     available. The President of the Tribunal personally threw the first stone,
     followed by five other people. The stoning lasted fifteen minutes.
-event_context: null
-responsible_forces: null
-
+event_context: "1980"
+responsible_forces: "Revolutionary Guard"
 # --- VERIFICATION ---
 status: unverified
 sources:

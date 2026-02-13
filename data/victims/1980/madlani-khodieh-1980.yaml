@@ -3,7 +3,7 @@ name_latin: "Khodieh Madlani"
 name_farsi: "خدیه مادلانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,8 +38,7 @@ circumstances: >
     Madlani s defense. Judgment The Islamic Revolutionary Tribunal of Tabriz
     sentenced Ms. Madlani to death. She was executed at midnight.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

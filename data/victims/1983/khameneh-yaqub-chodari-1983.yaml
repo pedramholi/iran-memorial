@@ -3,10 +3,13 @@ name_latin: "Ya'qub Chodari Khameneh"
 name_farsi: "یعقوب چوداری خامنه"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+beliefs: "supporter of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1983-07-28
@@ -38,9 +41,8 @@ circumstances: >
     Chodari Khameneh to death. Having been confirmed by the Islamic
     Revolution’s Supreme Tribunal of Qom, the sentence was carried out on the
     anniversary of the escape of the former President Banisadr.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on the anniversary of the escape of the former President Banisadr"
+responsible_forces: "Islamic Revolutionary Tribunal of the Army"
 # --- VERIFICATION ---
 status: unverified
 sources:

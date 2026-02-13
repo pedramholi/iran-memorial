@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+quotes:
+  - "The Islamic Revolutionary Tribunal of Mashad declared Mr. Ilbeigi an enemy of God and the Prophet as well as rebellious against God and people and sentenced him to death since his culpability was obvious."
+
 # --- DEATH ---
 date_of_death: 1982-01-01
 age_at_death: null
@@ -34,8 +38,7 @@ circumstances: >
     to death since his culpability was obvious.” Having been confirmed by the
     Islamic Revolutionary Supreme Tribunal, the sentence was carried out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

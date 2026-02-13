@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+beliefs: "member of Mojahedin Khalq Iran"
+
 # --- DEATH ---
 date_of_death: 1983-07-23
 age_at_death: 26
@@ -84,7 +87,7 @@ circumstances: >
     of the “armed struggle” announcement by the MKO on June 20, 1981, many
     sympathizers of the organization had no military training, were not armed,
     and did not participate in armed conflict.
-event_context: null
+event_context: "1981 protests against the Islamic Republic"
 responsible_forces: null
 
 # --- VERIFICATION ---

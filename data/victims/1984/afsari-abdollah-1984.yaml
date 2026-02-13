@@ -2,11 +2,15 @@ id: afsari-abdollah-1984
 name_latin: "Abdollah Afsari"
 name_farsi: "عبدالله افسری"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Mameqan near the city of Tabriz"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "political activist"
+beliefs: "co-founded the Rah-e Kargar Organization"
 
 # --- DEATH ---
 date_of_death: 1984-01-01
@@ -46,9 +50,8 @@ circumstances: >
     specific information is available about the defendant’s execution.
     According to the Rah-e Kargar book, Mr. Afsari was executed by a firing
     squad in the Evin Prison in the fall of 1984.
-event_context: null
-responsible_forces: null
-
+event_context: "1981-1985 executions during clashes with the Islamic Republic security forces"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

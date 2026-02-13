@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "Colonel"
+
 # --- DEATH ---
 date_of_death: 1980-03-19
 age_at_death: null
@@ -32,8 +35,7 @@ circumstances: >
     report, Colonel Nurbakhsh was found guilty of corruption on earth. The
     death sentence was carried out at 9:30 p.m.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

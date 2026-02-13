@@ -3,10 +3,14 @@ name_latin: "Farah Ne'mati"
 name_farsi: "فرح نعمتی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "nurse"
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-12-06

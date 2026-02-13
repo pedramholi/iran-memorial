@@ -8,6 +8,12 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+beliefs: "affiliated with the Fadaiyan Khalq Organization (Minority branch)"
+quotes:
+  - "I met him in prison. We were in the same cell for four months and we became close friends… When I was taken for interrogation, I was wearing his jacket. When I was returned, he had been already taken to another cell. The Revolutionary Guards took away his jacket from me…"
+  - "armed robbery and participation in armed clashes."
+
 # --- DEATH ---
 date_of_death: 1983-01-01
 age_at_death: 19
@@ -41,9 +47,8 @@ circumstances: >
     available concerning Mr. Shadman’s defense. Judgment No specific
     information is available about the verdict leading to this execution. Mr.
     Mojtaba Shadman was executed in Evin prison in the fall of 1983.
-event_context: null
-responsible_forces: null
-
+event_context: "executed in Evin prison in the fall of 1983"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

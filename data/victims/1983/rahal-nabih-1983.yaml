@@ -1,12 +1,21 @@
 id: rahal-nabih-1983
 name_latin: "Nabih Rahal"
 name_farsi: "نبيه رحال"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1931-01-01"
+place_of_birth: "Burj-al-Barajneh, Beirut, Lebanon"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "security guard"
+family:
+  marital_status: "married"
+  children: 3
+personality: "praised his humor, his good looks, and his love for his children"
+quotes:
+  - "We shall keep striking at any imperialist presence in Lebanon, including the Multinational Force."
 
 # --- DEATH ---
 date_of_death: 1983-04-18
@@ -85,9 +94,8 @@ circumstances: >
     Khomeini repeatedly demonized the United States and expressed concern
     about its influence in the Muslim world. He emphasized that Muslims had a
     duty to rise up against autocratic leaders and that Iran wou
-event_context: null
-responsible_forces: null
-
+event_context: "1983 bombing of the American Embassy in Beirut"
+responsible_forces: "Islamic Jihad"
 # --- VERIFICATION ---
 status: unverified
 sources:

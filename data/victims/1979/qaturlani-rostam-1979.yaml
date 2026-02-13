@@ -42,9 +42,8 @@ circumstances: >
     defendant and dismissing his defense as "baseless," found him guilty of
     "corruption on earth and enmity with God." Mr. Qaturlani was condemned to
     death. He was executed at dawn, five days after the verdict was issued.
-event_context: null
-responsible_forces: null
-
+event_context: "1979"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

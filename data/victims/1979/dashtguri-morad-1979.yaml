@@ -3,7 +3,7 @@ name_latin: "Morad Dashtguri"
 name_farsi: "مراد دشت گوری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -37,8 +37,7 @@ circumstances: >
     Revolutionary Tribunal of Bushehr (also referred to in the Kayhan report
     as the Shari’a Court of Bushehr) sentenced Mr. Dashtguri to death.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal of Bushehr"
 # --- VERIFICATION ---
 status: unverified
 sources:

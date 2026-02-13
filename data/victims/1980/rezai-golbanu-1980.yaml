@@ -3,7 +3,7 @@ name_latin: "Golbanu Reza'i"
 name_farsi: "گل بانو رضایی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -37,8 +37,7 @@ circumstances: >
     Islamic Revolutionary Tribunal of Sabzevar sentenced Ms. Rezayi to death.
     She was executed at dawn, three days after her trial.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,21 @@
 id: nasrabadi-yahya-1981
 name_latin: "Yahya Nasrabadi"
 name_farsi: "یحیی نصرآبادی"
-date_of_birth: null
+date_of_birth: "1953-01-01"
 place_of_birth: null
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "seminary school student"
+family:
+  marital_status: "married"
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
+quotes:
+  - "serious activismty in Khorasan Branch of Mojahedin Khalq and playing a significant role in leading anti-revolutionaries in Mashhad."
+  - "possessing secret codes and special notebooks indicating his connection with the Central Committee of this organization."
 
 # --- DEATH ---
 date_of_death: 1981-03-07
@@ -43,9 +52,8 @@ circumstances: >
     was executed by firing squad in Mashhad on July 3, 1981. No specific
     information is available about the defendant’s execution. Mr. Yahya
     Nasrabadi was 28 years old.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

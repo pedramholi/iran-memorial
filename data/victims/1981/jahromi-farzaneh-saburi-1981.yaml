@@ -1,12 +1,15 @@
 id: jahromi-farzaneh-saburi-1981
 name_latin: "Farzaneh Saburi Jahromi"
 name_farsi: "فرزانه صبوری جهرمی"
-date_of_birth: null
+date_of_birth: "1965-01-01"
 place_of_birth: null
 gender: female
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+family:
 
 # --- DEATH ---
 date_of_death: 1981-11-25

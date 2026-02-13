@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
 
+# --- LIFE ---
+beliefs: "supporter of the Mojahedin Khalq of Iran Organization"
+
 # --- DEATH ---
 date_of_death: 1984-06-03
 age_at_death: 21
@@ -33,9 +36,8 @@ circumstances: >
     the evidence presented against the accused. Defense No information is
     available concerning Mr. Bakhshai Shahr Ba's defense. Judgment No specific
     information is available about the verdict leading to this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "1984-1985"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

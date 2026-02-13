@@ -1,12 +1,17 @@
 id: nikfar-ahmad-1988
 name_latin: "Ahmad Nikfar"
 name_farsi: "احمد نیکفر"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1994-01-01"
+place_of_birth: "Rudsar"
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "university student"
+family:
+beliefs: "member of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -86,7 +91,7 @@ circumstances: >
     charges against the executed prisoners. In this edict, Ayatollah Khomeini
     refers to members of the Mojahedin Khalq Organization as hypocrites who do
     no
-event_context: null
+event_context: "1988 massacre"
 responsible_forces: null
 
 # --- VERIFICATION ---

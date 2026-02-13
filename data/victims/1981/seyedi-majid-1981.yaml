@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+beliefs: "member of Fadaiyan Khalq Minority"
+
 # --- DEATH ---
 date_of_death: 1981-12-28
 age_at_death: 24
@@ -48,9 +51,8 @@ circumstances: >
     Revolutionary Tribunal of Karaj called Mr. Seyedi an enemy of God and
     condemned him to death. According to the newspaper, Mr. Majid Seyedi was
     shot by a firing squad in Karaj on December 28, 1981 at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Islamic Revolutionary Tribunal of Karaj"
 # --- VERIFICATION ---
 status: unverified
 sources:

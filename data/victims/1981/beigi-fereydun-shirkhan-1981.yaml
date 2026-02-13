@@ -3,10 +3,13 @@ name_latin: "Fereydun Shirkhan Beigi"
 name_farsi: "فریدون شیرخان بیگی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+beliefs: "supporter of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-08-16
@@ -85,9 +88,8 @@ circumstances: >
     June 21, 1981, the MKO announced an armed struggle against the Islamic
     Republic and assassinated a number of high-ranking officials and
     supporters of the Islamic regime. In the summer of 1981, the leader o
-event_context: null
-responsible_forces: null
-
+event_context: "June 20, 1981 demonstration"
+responsible_forces: "Central Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

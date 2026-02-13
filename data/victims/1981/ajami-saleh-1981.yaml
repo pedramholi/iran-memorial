@@ -33,9 +33,8 @@ circumstances: >
     No information is available on his defense. Judgment In accordance with
     the Islamic Revolutionary Tribunal of Ilam, Mr. Saleh Ajami was executed
     in Ilam on September 24, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "1981"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

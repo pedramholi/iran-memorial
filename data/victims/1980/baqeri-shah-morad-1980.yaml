@@ -3,7 +3,7 @@ name_latin: "Shah Morad Baqeri"
 name_farsi: "شاه مراد باقری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -40,8 +40,7 @@ circumstances: >
     Islamic Revolutionary Tribunal of the Center (Tehran) confirmed the
     verdict, and the defendant was hanged at the Bayazdid crossroad at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

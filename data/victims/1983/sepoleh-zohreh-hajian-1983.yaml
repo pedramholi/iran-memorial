@@ -8,6 +8,12 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+occupation: "activist"
+family:
+  notes: "Her brother had been executed for the same reason in 1972, before the Revolution."
+beliefs: "activist with the Fadaiyan Khalq Organization (Ashraf Dehqani) branch since the previous regime"
+
 # --- DEATH ---
 date_of_death: 1983-01-01
 age_at_death: null
@@ -41,7 +47,7 @@ circumstances: >
     defense. Judgment Ms. Zohreh Hajian Sepoleh was executed by a firing squad
     at Evin Prison in the winter of 1983. The details of her sentence and the
     exact date of her execution are not known.
-event_context: null
+event_context: "executed by a firing squad at Evin Prison in the winter of 1983"
 responsible_forces: null
 
 # --- VERIFICATION ---

@@ -2,11 +2,16 @@ id: einolyaqin-zohreh-1988
 name_latin: "Zohreh Einolyaqin"
 name_farsi: "زهره عین الیقین"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Esfahan"
 gender: female
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "MKO candidate for the parliament (Majles) election"
+education: "bachelors degree"
+beliefs: "sympathizer of the MKO"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -77,9 +82,8 @@ circumstances: >
     According to the MKO website, Ms. Zohreh 'Einolyaqin was hanged during the
     mass killings of the political prisoners in Evin Prison during August
     1988.
-event_context: null
-responsible_forces: null
-
+event_context: "1988-89 mass execution of political prisoners"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

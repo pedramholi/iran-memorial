@@ -51,9 +51,8 @@ circumstances: >
     Islamic Revolutionary Tribunal of the Center declared Lt. Saqafi a
     corruptor on earth and an enemy of God and his prophet and sentenced him
     to death. He was executed at 1 a.m., within hours since his trial.
-event_context: null
-responsible_forces: null
-
+event_context: "Noje coup d'etat plan"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,15 @@
 id: kia-rahman-keyvan-1981
 name_latin: "Rahman (Keyvan) Kia"
 name_farsi: "رحمان (کیوان)  کیا"
-date_of_birth: null
+date_of_birth: "1962-01-01"
 place_of_birth: null
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+beliefs: "supporter of the Fadayian Guerrilla Organization"
 
 # --- DEATH ---
 date_of_death: 1981-07-06
@@ -45,9 +48,8 @@ circumstances: >
     on earth, waging war on God, and apostasy, and sentenced him to death. Mr.
     Kia was executed by a firing squad in Noshahr on July 6, 1981. Mr. Kia was
     19 years old at the time of his execution.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

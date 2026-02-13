@@ -3,7 +3,7 @@ name_latin: "Amrollah Moradi"
 name_farsi: "امرالله مرادی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -35,8 +35,7 @@ circumstances: >
     sentenced Mr. Amrollah Moradi to death. The Supreme Court approved the
     sentence. He was executed in Qasr prison in Tehran.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

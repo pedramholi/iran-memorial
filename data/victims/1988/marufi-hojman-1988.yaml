@@ -3,10 +3,13 @@ name_latin: "Hojman Ma'rufi"
 name_farsi: "هژمن معروفی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "affiliate of the Democratic Party of Iranian Kordestan"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -86,9 +89,8 @@ circumstances: >
     “are false considering the circumstances in prisons; for our children
     faced the most difficult conditions [in prison, with] visitation rights of
     o
-event_context: null
-responsible_forces: null
-
+event_context: "mass killings of political prisoners in 1988"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

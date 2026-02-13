@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+beliefs: "member of the organizational cadre of the MKO"
+
 # --- DEATH ---
 date_of_death: 1981-12-29
 age_at_death: 20
@@ -37,8 +40,7 @@ circumstances: >
     against the Islamic government. He was sentenced to death. The sentence
     was carried out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal of Aghajari"
 # --- VERIFICATION ---
 status: unverified
 sources:

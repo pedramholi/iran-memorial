@@ -3,7 +3,7 @@ name_latin: "Seifollah Ebrahimi (Sabuni)"
 name_farsi: "سیف الله ابراهیمی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -40,9 +40,8 @@ circumstances: >
     Judgment Mr. Ebrahimi was sentenced to death. The sentence was carried out
     immediately after the issuance of the verdict, a couple of hours past
     midnight.
-event_context: null
-responsible_forces: null
-
+event_context: "1980 Revolution"
+responsible_forces: "Task Force for Combating Drugs and Narcotics"
 # --- VERIFICATION ---
 status: unverified
 sources:

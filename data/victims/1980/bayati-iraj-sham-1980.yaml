@@ -38,8 +38,7 @@ circumstances: >
     Revolutionary Tribunal of Tonekabon sentenced Mr. Sham Bayati to death. He
     was executed immediately.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

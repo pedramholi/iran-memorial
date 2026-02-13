@@ -35,9 +35,8 @@ circumstances: >
     provides no information regarding the tribunal that sentenced Mr. Noruzi
     but specifies that the Islamic Revolution Supreme Court confirmed the
     death sentence, which was carried out.
-event_context: null
-responsible_forces: null
-
+event_context: "1983"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -70,9 +70,8 @@ circumstances: >
     Judgment The Islamic Revolutionary Court of Tehran condemned Mr. Reza i to
     death. He was executed in the Evin prison yard in Tehran on August 15,
     1981.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on August 15, 1981"
+responsible_forces: "Revolutionary Prosecution Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

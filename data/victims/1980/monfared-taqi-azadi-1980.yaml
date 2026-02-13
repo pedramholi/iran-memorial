@@ -3,7 +3,7 @@ name_latin: "Taqi Azadi Monfared"
 name_farsi: "تقی آزادی منفرد"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -29,8 +29,7 @@ circumstances: >
     branch of the Islamic Revolutionary Tribunal of the Center (Tehran)
     sentenced Mr. Azadi Monfared to death.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

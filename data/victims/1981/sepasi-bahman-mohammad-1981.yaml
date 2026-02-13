@@ -1,12 +1,17 @@
 id: sepasi-bahman-mohammad-1981
 name_latin: "Bahman (Mohammad) Sepasi"
 name_farsi: "بهمن (محمد) سپاسی"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1954-01-01"
+place_of_birth: "Rasht"
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+education: "graduated from Aryamehr (Sherif) University in 1979"
+family:
+  marital_status: "single"
 
 # --- DEATH ---
 date_of_death: 1981-01-01
@@ -50,9 +55,8 @@ circumstances: >
     parents went to the prison to visit Alireza and another imprisoned
     brother, a prison official told them that Bahman Sepasi was executed by
     mistake.
-event_context: null
-responsible_forces: null
-
+event_context: "spring of 1982"
+responsible_forces: "Evin Prison"
 # --- VERIFICATION ---
 status: unverified
 sources:

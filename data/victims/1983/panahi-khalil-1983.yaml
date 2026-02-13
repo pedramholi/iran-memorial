@@ -40,9 +40,8 @@ circumstances: >
     defense. Judgment The Anti-Narcotics Section of the Public Prosecutor s
     Office in Tehran sentenced Mr. Panahi to death. The sentence was carried
     out in Qasr Prison.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on September 21, 1983"
+responsible_forces: "Anti-Narcotics Section of the Public Prosecutor s Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

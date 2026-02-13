@@ -3,10 +3,13 @@ name_latin: "Mirshams Ebrahimi"
 name_farsi: "میر شمس ابراهیمی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "sympathizer of the Peykar Organization"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -85,9 +88,8 @@ circumstances: >
     collaborated with armed members of the Mojahedin Organization in clashes
     with armed forces of the Islamic Republic, states that such claims “are
     false considering the circumstances in pr
-event_context: null
-responsible_forces: null
-
+event_context: "1988-89 mass execution of political prisoners"
+responsible_forces: "Iranian authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

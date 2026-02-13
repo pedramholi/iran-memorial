@@ -3,10 +3,15 @@ name_latin: "Abazar Dehbashi"
 name_farsi: "اباذر ده باشی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  children: 1
+  notes: "son of Hassan"
 
 # --- DEATH ---
 date_of_death: 1981-01-08
@@ -41,8 +46,7 @@ circumstances: >
     accordance with the verdict of the Islamic Revolutionary Tribunal of
     Tabriz, Mr. Abazar Dehbashi was executed in Tabriz.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

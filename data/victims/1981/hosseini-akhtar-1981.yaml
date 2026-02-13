@@ -3,7 +3,7 @@ name_latin: "Akhtar Hosseini"
 name_farsi: "اختر حسینی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -36,9 +36,8 @@ circumstances: >
     Hosseini's defense. Judgment The Islamic Revolutionary Tribunal of
     Kermanshah condemned Ms. Akhtar Hosseini to death. She was executed on
     June 25, 1981 at Dizel Abad prison.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on June 25, 1981"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

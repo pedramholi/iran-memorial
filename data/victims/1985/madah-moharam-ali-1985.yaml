@@ -3,7 +3,7 @@ name_latin: "Moharam Ali Madah"
 name_farsi: "محرمعلی مداح"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -44,9 +44,8 @@ circumstances: >
     Court sentenced Mr. Madah to death. Mr. Moharam Ali Madah was hanged at 7
     a.m. on December 30, 1985 in the prison of the police department of
     Ardabil.
-event_context: null
-responsible_forces: null
-
+event_context: "1985 execution"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

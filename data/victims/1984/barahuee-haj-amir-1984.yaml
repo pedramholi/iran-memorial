@@ -3,7 +3,7 @@ name_latin: "Haj Amir Barahuee"
 name_farsi: "حاج امیر براهوئی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -36,9 +36,8 @@ circumstances: >
     s defense. Judgment The Islamic Revolutionary Tribunal of Mashad sentenced
     Mr. Barahuee to death. Having been confirmed by the Islamic Revolution s
     Supreme Court, the sentence was carried out.
-event_context: null
-responsible_forces: null
-
+event_context: "1984"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

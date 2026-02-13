@@ -3,7 +3,7 @@ name_latin: "Nezam Enayati"
 name_farsi: "نظام عنایتی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -39,8 +39,7 @@ circumstances: >
     was confirmed by the Supreme Judicial Court. He received 74 lashes in
     prison and was executed.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

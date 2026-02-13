@@ -1,12 +1,19 @@
 id: heidari-saber-zafar-1988
 name_latin: "Saber Zafar Heidari"
 name_farsi: "صابر ظفر حیدری"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1942-01-01"
+place_of_birth: "Sarab"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "Air Force Major"
+education: "graduated from the Military College and the Law School of Tehran University"
+family:
+  marital_status: "married"
+beliefs: "member of the Tudeh Party"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -86,9 +93,8 @@ circumstances: >
     informed prisoners about the delegation s purpose and the serious
     implications of their responses. During the summer of 1988, according to
     survivors, a large nu
-event_context: null
-responsible_forces: null
-
+event_context: "1988 massacre"
+responsible_forces: "military court"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,10 +3,13 @@ name_latin: "Roudayna Sahyoun"
 name_farsi: "ردینة صهیون"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+occupation: "local employee of the American Embassy"
 
 # --- DEATH ---
 date_of_death: 1983-04-18
@@ -85,9 +88,8 @@ circumstances: >
     determine the fate of Muslim countries? ... America pursues its corrupt
     goals through [Islamic and Arab] governments dependent on it, through
     wicked writers and speakers, and Muslims are just
-event_context: null
-responsible_forces: null
-
+event_context: "1983 bombing of the American Embassy in Beirut"
+responsible_forces: "Islamic Jihad"
 # --- VERIFICATION ---
 status: unverified
 sources:

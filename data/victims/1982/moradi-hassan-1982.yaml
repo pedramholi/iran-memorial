@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+quotes:
+  - "he was arrested several months ago in relation with bombings, establishing safe houses, concealment of munitions and shooting at the Hezbollah Ummah (community)"
+
 # --- DEATH ---
 date_of_death: 1982-02-21
 age_at_death: null
@@ -30,8 +34,7 @@ circumstances: >
     on earth and sentenced him to death. Having been confirmed by the Supreme
     Judicial Council, the sentence was carried out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

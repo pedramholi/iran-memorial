@@ -1,12 +1,17 @@
 id: qadamgahi-hossein-1983
 name_latin: "Hossein Qadamgahi"
 name_farsi: "حسین قدمگاهی"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1953-01-01"
+place_of_birth: "Orumieh"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "high school teacher"
+education: "bachelor’s degree in Physics"
+beliefs: "member of the Tudeh Party"
 
 # --- DEATH ---
 date_of_death: 1983-09-24

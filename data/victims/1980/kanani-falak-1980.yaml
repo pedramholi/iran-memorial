@@ -3,7 +3,7 @@ name_latin: "Falak Kan'ani"
 name_farsi: "فلک کنعانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -31,9 +31,8 @@ circumstances: >
     No information is available on Mr. Kan ani 's defense. Judgment Mr. Kan
     ani was executed at dawn after being convicted by the Islamic
     Revolutionary Tribunal of Abadan and Khoramshahr.
-event_context: null
-responsible_forces: null
-
+event_context: "black Wednesday of 1979"
+responsible_forces: "revolutionary guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

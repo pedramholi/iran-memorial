@@ -2,7 +2,7 @@ id: nakhjavani-mokhtar-1981
 name_latin: "Mokhtar Nakhjavani"
 name_farsi: "مختار نخجوانی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Bonab, East Azarbaijan"
 gender: male
 ethnicity: null
 religion: "Presumed Muslim"
@@ -34,8 +34,7 @@ circumstances: >
     Nakhjavani was condemned to death and executed. The details of the
     execution and the verdict are not known.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic’s authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

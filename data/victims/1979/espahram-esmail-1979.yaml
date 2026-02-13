@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "Major General"
+
 # --- DEATH ---
 date_of_death: 1979-10-15
 age_at_death: null
@@ -39,8 +42,7 @@ circumstances: >
     retried in Tehran at his own request. After reconfirmation, the death
     sentence was carried out at dawn shortly after its issuance.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "SAVAK"
 # --- VERIFICATION ---
 status: unverified
 sources:

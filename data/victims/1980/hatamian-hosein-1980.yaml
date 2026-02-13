@@ -3,7 +3,7 @@ name_latin: "Hosein Hatamian"
 name_farsi: "حسین حاتمیان"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -44,8 +44,7 @@ circumstances: >
     belongings. The death sentence was carried out within moments after the
     issuance of the verdict.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

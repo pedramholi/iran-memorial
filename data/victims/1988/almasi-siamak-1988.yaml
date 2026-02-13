@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+beliefs: "member of the Peykar Organization for the Liberation of the Working Class"
+
 # --- DEATH ---
 date_of_death: 1988-01-01
 age_at_death: null
@@ -85,9 +88,8 @@ circumstances: >
     The same letter, rebutting the accusation that these prisoners (from
     inside the prison) had collaborated with armed members of the MKO in
     clashes with armed forces of the Islamic Republic, states that such claims
-event_context: null
-responsible_forces: null
-
+event_context: "1988 mass killings of political prisoners"
+responsible_forces: "Iranian authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -8,6 +8,11 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+occupation: "political activist"
+education: "enrolled at the Sharif University of Technology"
+beliefs: "opposed the monarchy, member of Rah-e Kargar organization"
+
 # --- DEATH ---
 date_of_death: 1982-01-01
 age_at_death: null
@@ -41,7 +46,7 @@ circumstances: >
     concerning Mr. Afshari Niku’s defense. Judgment No specific information is
     available about the verdict leading to this execution. Mr. Hassan Afshari
     Niku was executed in Evin prison in the summer of 1982.
-event_context: null
+event_context: "1982 execution"
 responsible_forces: null
 
 # --- VERIFICATION ---

@@ -32,9 +32,8 @@ circumstances: >
     against the defendant. Defense No information is available on his defense.
     Judgment The Islamic Revolutionary Tribunal of Tabriz condemned Mr. Ahmad
     Chenahi to death. He was executed in Orumieh on September 9, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "1981"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

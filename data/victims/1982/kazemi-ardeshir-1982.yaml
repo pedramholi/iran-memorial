@@ -84,9 +84,8 @@ circumstances: >
     of 1981, the MKO has continued its activities outside of Iran. No
     information is available regarding members and activities of the MKO
     inside the country.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 protests"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,16 @@
 id: khorsand-said-1981
 name_latin: "Sa'id Khorsand"
 name_farsi: "سعید خرسند"
-date_of_birth: null
+date_of_birth: "1963-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+family:
+beliefs: "supporter of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-10-07
@@ -85,9 +89,8 @@ circumstances: >
     government officials efforts to impeach their ally, President Abolhassan
     Banisadr. Despite the fact that the regime called this demonstration
     illegal, thousands came to the streets,
-event_context: null
-responsible_forces: null
-
+event_context: "1981 execution of political prisoners"
+responsible_forces: "Esfahan Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

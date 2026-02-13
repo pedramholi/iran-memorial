@@ -1,12 +1,16 @@
 id: jafarian-parviz-1981
 name_latin: "Parviz Ja'farian"
 name_farsi: "پرویز جعفریان"
-date_of_birth: null
+date_of_birth: "1957-01-01"
 place_of_birth: null
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "university student"
+beliefs: "supporter of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-07-13
@@ -86,9 +90,8 @@ circumstances: >
     Islamic regime. In the summer of 1981, the leader of the MKO and the
     impeached President (Banisadr) fled Iran to reside in France, where they
     founded the Natio
-event_context: null
-responsible_forces: null
-
+event_context: "1981 protests"
+responsible_forces: "Nur Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

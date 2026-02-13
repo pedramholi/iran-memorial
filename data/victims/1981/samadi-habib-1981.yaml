@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+beliefs: "sympathizer of the Revolutionary Workers Organization of Iran-Rah-e Kargar"
+
 # --- DEATH ---
 date_of_death: 1981-01-01
 age_at_death: 21
@@ -39,9 +42,8 @@ circumstances: >
     defence. Judgment No specific information is available about the defendant
     s execution. According to the Mojahedin list, Mr. Samadi was executed in
     Tabriz by a firing squad in August 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "executed in Tabriz by a firing squad in August 1981"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

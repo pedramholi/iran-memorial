@@ -3,10 +3,14 @@ name_latin: "Qorban Ali Gojani"
 name_farsi: "قربان علی گوجانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "high school teacher"
+beliefs: "member of Peykar Organization for the Liberation of the Working Class"
 
 # --- DEATH ---
 date_of_death: 1983-01-01
@@ -41,9 +45,8 @@ circumstances: >
     No information is available on Mr. Gojani's defense. Judgment Mr. Gojani
     was executed by firing squad in Aghajari in 1983. No further information
     is available about the execution.
-event_context: null
-responsible_forces: null
-
+event_context: "1983 execution"
+responsible_forces: "Iranian government"
 # --- VERIFICATION ---
 status: unverified
 sources:

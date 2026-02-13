@@ -3,7 +3,7 @@ name_latin: "Nokhas Bavandpur"
 name_farsi: "نوخاص باوند پور"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -36,9 +36,8 @@ circumstances: >
     the defendant’s defense. Judgment Mr. Bavandpur was sentenced to death.
     Based on the Kayhan report, he was executed at 10:45 p.m. in Dolatabad,
     Kermanshah.
-event_context: null
-responsible_forces: null
-
+event_context: "July 5, 1980"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -8,6 +8,13 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+occupation: "nurse"
+beliefs: "affiliated with the Mojahedin Khalq Organization"
+quotes:
+  - "a member of an armed team"
+  - "assassination of Revolutionary Guards brothers and individuals of the Party of God"
+
 # --- DEATH ---
 date_of_death: 1981-11-29
 age_at_death: null
@@ -43,9 +50,8 @@ circumstances: >
     “corruptors” and “enemies of God” and were sentenced to death. Mr.
     Ardeshir Mehrban Eshliki was shot by a firing squad on November 29, 1981
     in Tehran.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on November 29, 1981"
+responsible_forces: "Public Prosecutor’s Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

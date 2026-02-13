@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+beliefs: "actively supporting the Mujahedin-e Khalq Organization (MKO)"
+
 # --- DEATH ---
 date_of_death: 1982-07-05
 age_at_death: null
@@ -37,9 +40,8 @@ circumstances: >
     against the defendant. Defense No information is available on Mr.
     Barjasteh’s defense. Judgment The Islamic Revolutionary Tribunal of
     Hamedan sentenced Mr. Barjasteh to death. The sentence was carried out.
-event_context: null
-responsible_forces: null
-
+event_context: "executions during clashes with the Islamic Republic security forces from June 1981 to 1985"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

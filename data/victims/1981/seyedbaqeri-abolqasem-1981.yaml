@@ -3,10 +3,16 @@ name_latin: "Abolqasem Seyedbaqeri"
 name_farsi: "ابولقاسم سیدباقری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+family:
+beliefs: "member of the Fadaiyan Khalq Organization"
+quotes:
+  - "Qasem Seyedbaqeri son of Mohammad"
 
 # --- DEATH ---
 date_of_death: 1981-09-16
@@ -85,9 +91,8 @@ circumstances: >
     time of his arrest. Afterwards, the family frequently visited the
     cemetery. State agents and Basiji officials insulted them when they
     visited. Once, a young man of Basij (a paramilitary gro
-event_context: null
-responsible_forces: null
-
+event_context: "1981 political repression"
+responsible_forces: "Basij"
 # --- VERIFICATION ---
 status: unverified
 sources:

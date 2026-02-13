@@ -3,10 +3,13 @@ name_latin: "Jan Ali Ahmadi"
 name_farsi: "جان علی احمدی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "producing and selling heroin"
 
 # --- DEATH ---
 date_of_death: 1980-06-05
@@ -40,9 +43,8 @@ circumstances: >
     Ahmadi was sentenced to death and confiscation of all his belongings. The
     death sentence was carried out within moments after the issuance of the
     verdict.
-event_context: null
-responsible_forces: null
-
+event_context: "1980"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -8,6 +8,12 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+beliefs: "sympathizer of the Revolutionary Workers Organization of Iran, Rah-e Kargar"
+quotes:
+  - "Rah-e Kargar"
+  - "Revolutionary Workers Organization of Iran"
+
 # --- DEATH ---
 date_of_death: 1981-11-25
 age_at_death: null
@@ -35,7 +41,7 @@ circumstances: >
     information is available about his defense. Judgment No specific
     information is available about the death sentence. Mr. Mohammad Hassan
     Mohammadi was executed by a firing squad in Gorgan on November 25, 1981.
-event_context: null
+event_context: "executed by a firing squad in Gorgan on November 25, 1981"
 responsible_forces: null
 
 # --- VERIFICATION ---

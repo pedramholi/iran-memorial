@@ -39,8 +39,7 @@ circumstances: >
     confirmed by the Supreme Judicial Council, the sentence was carried out at
     night.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

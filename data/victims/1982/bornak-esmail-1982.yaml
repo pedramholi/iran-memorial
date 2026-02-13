@@ -3,10 +3,13 @@ name_latin: "Esma'il Bornak"
 name_farsi: "اسماعیل برناک"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of Peykar Organization for the Liberation of the Working Class"
 
 # --- DEATH ---
 date_of_death: 1982-01-08
@@ -47,9 +50,8 @@ circumstances: >
     Martyrs of the Peykar Organization, Mr. Esma’il Bornak was executed by
     firing squad in Arak on January 8, 1982. No specific information is
     available about the defendant’s execution.
-event_context: null
-responsible_forces: null
-
+event_context: "executed by firing squad in Arak on January 8, 1982"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

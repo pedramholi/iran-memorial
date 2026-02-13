@@ -2,11 +2,17 @@ id: motevasel-leila-1982
 name_latin: "Leila Motevasel"
 name_farsi: "لیلا متوسل"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Shiraz"
 gender: female
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "university student"
+beliefs: "sympathizer of the MKO"
+quotes:
+  - "a court had condemned her to three years imprisonment after her arrest; but they started to interrogate her again."
 
 # --- DEATH ---
 date_of_death: 1982-12-17
@@ -85,9 +91,8 @@ circumstances: >
     killed during the mass executions of political prisoners in 1988. Ever
     since the summer of 1981, the MKO has continued its activities outside of
     Iran. No information is available regarding members and activities
-event_context: null
-responsible_forces: null
-
+event_context: "June 20, 1981 demonstrations"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

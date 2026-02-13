@@ -2,7 +2,7 @@ id: rahimi-rahim-1985
 name_latin: "Rahim Rahimi"
 name_farsi: "رحیم رحیمی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Afghanistan"
 gender: male
 ethnicity: null
 religion: "Unknown"
@@ -36,8 +36,7 @@ circumstances: >
     Rahimi to death. After being confirmed by the Supreme Court, the sentence
     was carried out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

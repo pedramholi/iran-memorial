@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "international professional drug trafficker"
+
 # --- DEATH ---
 date_of_death: 1984-08-07
 age_at_death: null
@@ -38,9 +41,8 @@ circumstances: >
     Tribunal declared Mr. Tayefeh Razaqi a corruptor on earth and sentenced
     him to death. Having been confirmed by the Supreme Court, the sentence was
     carried out in prison at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "1984 execution"
+responsible_forces: "Anti-Narcotics Section of the Public Prosecutor's Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

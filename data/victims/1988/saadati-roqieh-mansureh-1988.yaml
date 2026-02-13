@@ -2,11 +2,17 @@ id: saadati-roqieh-mansureh-1988
 name_latin: "Roqieh (Mansureh) Sa'adati"
 name_farsi: "رقیه (منصوره) سعادتی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Shiraz"
+gender: female
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "school teacher"
+family:
+  children: 0
+  notes: "Her two brothers, who were also PMIO sympathizers, were executed by firing squads. Mohammadreza Sa'adati was executed during August, 1981 and Hesam Sa'adati was executed during the winter of 1984."
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -85,9 +91,8 @@ circumstances: >
     defendants were not given the opportunity to defend themselves in court.
     Against the assertion that prisoners were associated with guerrilla forces
     operating near the borders, the families s
-event_context: null
-responsible_forces: null
-
+event_context: "1988-89 mass execution of political prisoners"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -2,7 +2,7 @@ id: mirboluki-mohammad-1980
 name_latin: "Mohammad Mirboluki"
 name_farsi: "محمد میر بلوکی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Mashhad"
 gender: male
 ethnicity: null
 religion: "Presumed Muslim"
@@ -39,8 +39,7 @@ circumstances: >
     Tribunals and the Campaign against Drugs and Narcotics sentenced Mr.
     Mirboluki to death. He was executed at dawn the day after his trial.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Special Revolutionary Tribunals"
 # --- VERIFICATION ---
 status: unverified
 sources:

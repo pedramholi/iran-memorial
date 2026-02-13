@@ -2,11 +2,15 @@ id: moradi-leila-1980
 name_latin: "Leila Moradi"
 name_farsi: "لیلا مرادی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Sanandaj"
 gender: female
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "high school student"
+education: "high school"
 
 # --- DEATH ---
 date_of_death: 1980-06-12
@@ -46,9 +50,8 @@ circumstances: >
     Defense No information is available on Ms. Moradi's defense. Judgment
     According to the list of Martyrs of the Peykar Organization, Ms. Moradi
     was executed by firing squad in Kordestan on June 12, 1980.
-event_context: null
-responsible_forces: null
-
+event_context: "demonstration against the occupation of Sanandaj"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

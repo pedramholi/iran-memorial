@@ -1,12 +1,16 @@
 id: qorbani-fereshteh-shabani-1982
 name_latin: "Fereshteh Shabani (Qorbani)"
 name_farsi: "فرشته شبانی (قربانی)"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1957-01-01"
+place_of_birth: "Shiraz"
 gender: female
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
 
 # --- DEATH ---
 date_of_death: 1982-09-15
@@ -85,9 +89,8 @@ circumstances: >
     since the summer of 1981, the MKO has continued its activities outside of
     Iran. No information is available regarding members and activities of the
     MKO inside the country. In spite of the
-event_context: null
-responsible_forces: null
-
+event_context: "1981 protests"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

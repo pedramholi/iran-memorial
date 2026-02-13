@@ -1,8 +1,8 @@
 id: hamzehi-fatemeh-1988
 name_latin: "Fatemeh Hamzeh'i"
 name_farsi: "فاطمه حمزه‌ای"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1958-01-01"
+place_of_birth: "Tehran"
 gender: female
 ethnicity: null
 religion: "Islam"
@@ -71,9 +71,8 @@ circumstances: >
     truth of our claim.” Judgment No specific information is available about
     the execution sentence. Ms. Fatemeh Hamzeh’i was hanged during the mass
     killings of the political prisoners at Evin Prison in August 1988.
-event_context: null
-responsible_forces: null
-
+event_context: "1988-89 mass execution of political prisoners"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,10 +3,13 @@ name_latin: "Mas'ud Alemi"
 name_farsi: "مسعود عالمی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+beliefs: "affiliated with Mojahedin Khalq Iran"
 
 # --- DEATH ---
 date_of_death: 1982-01-01
@@ -31,9 +34,8 @@ circumstances: >
     the MKO on June 20, 1981, many sympathizers of the organization had no
     military training, were not armed, and did not participate in armed
     conflict.
-event_context: null
-responsible_forces: null
-
+event_context: "executed or killed during clashes from June 1981 to 1985"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

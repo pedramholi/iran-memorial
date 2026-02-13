@@ -1,12 +1,16 @@
 id: mojiri-ali-reza-1981
 name_latin: "Ali Reza Mojiri"
 name_farsi: "علیرضا مجیری"
-date_of_birth: null
+date_of_birth: "1963-01-01"
 place_of_birth: null
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "member of the Mojahedin Khalq Organization"
+beliefs: "member of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-07-15
@@ -40,9 +44,8 @@ circumstances: >
     God and God s Prophet, corruption on earth, and rebellion, and sentenced
     him to death. Mr. Mojiri was executed by a firing squad on July 15, 1981
     in Esfahan. Mr. Mojiri was 18 years old at the time of his execution.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on July 15, 1981"
+responsible_forces: "Esfahan Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

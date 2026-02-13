@@ -34,9 +34,8 @@ circumstances: >
     against the defendant. Defense No information is available on Mr. Boluri's
     defense. Judgment No information is available about the court verdict
     leading to this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "1984-1985"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

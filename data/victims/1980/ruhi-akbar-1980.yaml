@@ -43,9 +43,8 @@ circumstances: >
     religious judge sentenced Mr. Ruhi to death, following his arrest and
     trial on the same day. The sentence was immediately carried out in Dareh
     Morad Beyk, the same location at which he was arrested and tried.
-event_context: null
-responsible_forces: null
-
+event_context: "1980 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

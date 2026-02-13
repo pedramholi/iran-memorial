@@ -2,7 +2,7 @@ id: sadeqian-ahmad-ali-1982
 name_latin: "Ahmad Ali Sadeqian"
 name_farsi: "احمد‌علی صادقیان"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Shiraz"
 gender: male
 ethnicity: null
 religion: "Baha'i"
@@ -75,8 +75,7 @@ circumstances: >
     Ayatollah Khomeini, made execution a punishment for the crime of apostasy
     and decreed that a Muslim would not be punished for killing an apostate.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

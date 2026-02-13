@@ -3,10 +3,16 @@ name_latin: "Gita Alishahi"
 name_farsi: "گیتا علیشاهی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "teacher"
+education: "Mathematics, School of Education of Tehran University"
+personality: "described as shy and bashful"
+beliefs: "supporter of the Tudeh Party"
 
 # --- DEATH ---
 date_of_death: 1981-09-27
@@ -86,9 +92,8 @@ circumstances: >
     Alishahi s defense. According to the available information, Ms. Alishahi
     did not participate in the demonstration of September 27, 1981. Judgment
     No
-event_context: null
-responsible_forces: null
-
+event_context: "September 27, 1981 demonstration"
+responsible_forces: "Central Islamic Revolutionary Prosecutor's Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

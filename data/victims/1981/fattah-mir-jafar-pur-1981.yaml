@@ -3,7 +3,7 @@ name_latin: "Mir Ja'far Pur Fattah"
 name_farsi: "میر جعفر پورفتاح"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -39,9 +39,8 @@ circumstances: >
     being "a corruptor on earth and at war with God", and the Supreme Judicial
     Council approved the verdict. He was executed at midnight on Wednesday
     July 15th, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "1981"
+responsible_forces: "Islamic Revolutionary Tribunal of Tabriz"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,10 +3,13 @@ name_latin: "Sa'id Hassanpur"
 name_farsi: "سعید حسن پور"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+beliefs: "supporter of the Mojahedin Khalq Organization of Iran"
 
 # --- DEATH ---
 date_of_death: 1981-09-27
@@ -44,9 +47,8 @@ circumstances: >
     No information is available on Mr. Hassanpur's defense. Judgment He was
     found guilty of "armed rebellion against the Islamic Republic" and
     sentenced to death. He was executed on Sunday night, September 27th.
-event_context: null
-responsible_forces: null
-
+event_context: "executed on September 27, 1981"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

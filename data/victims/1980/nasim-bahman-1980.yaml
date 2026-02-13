@@ -1,12 +1,19 @@
 id: nasim-bahman-1980
 name_latin: "Bahman Nasim"
 name_farsi: "نسیم"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1940-01-01"
+place_of_birth: "Masjed-e Soleiman"
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "police major"
+education: "graduate of the Military Academy"
+family:
+  marital_status: "married"
+  children: 2
 
 # --- DEATH ---
 date_of_death: 1980-01-28
@@ -33,9 +40,8 @@ circumstances: >
     accused’s defense. Judgment The second branch of the Central Islamic
     Revolutionary Court sentenced Mr. Nasim to death and his sentences was
     carried out by a firing squad on January 28, 1980.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on January 28, 1980"
+responsible_forces: "Central Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,19 @@
 id: pakbaz-mariam-sara-1988
 name_latin: "Mariam (Sara) Pakbaz"
 name_farsi: "مریم (سارا) پاکباز"
-date_of_birth: null
+date_of_birth: "1964-01-01"
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+education: "high school diploma"
+family:
+beliefs: "MKO sympathizer"
+quotes:
+  - "Take this! She will repent soon and come out."
 
 # --- DEATH ---
 date_of_death: 1988-09-30
@@ -74,9 +81,8 @@ circumstances: >
     website, at one point in 1986, the Revolutionary Guards gave her bag to
     those who came to visit her and said: "Take this! She will repent soon and
     come out."
-event_context: null
-responsible_forces: null
-
+event_context: "1988-89 mass execution of political prisoners"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

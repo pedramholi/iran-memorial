@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "international professional drug trafficker"
+
 # --- DEATH ---
 date_of_death: 1984-07-09
 age_at_death: null
@@ -38,8 +41,7 @@ circumstances: >
     Tribunal declared Mr. Tajik Aliabadi a corruptor on earth and sentenced
     him to death. The sentence was carried out in prison at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Anti-Narcotics Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Hosein Qane'"
 name_farsi: "حسین قانع"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -57,8 +57,7 @@ circumstances: >
     corruptor on earth.” The sentence was carried out at dawn in the courtyard
     of the Prison.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "General Prosecutor's Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

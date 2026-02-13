@@ -1,12 +1,15 @@
 id: gholami-ali-asghar-1988
 name_latin: "Ali Asghar Gholami"
 name_farsi: "علی اصغر غلامی"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1956-01-01"
+place_of_birth: "Mashad"
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+education: "high school graduate"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -76,9 +79,8 @@ circumstances: >
     information is available about the verdict leading to this execution. Mr.
     Ali Asghar Gholami was hanged during the mass killings of the political
     prisoners in 1988 at Mashad Prison.
-event_context: null
-responsible_forces: null
-
+event_context: "1988 mass executions"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

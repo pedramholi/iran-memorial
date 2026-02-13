@@ -3,10 +3,15 @@ name_latin: "Sardar Reza'i"
 name_farsi: "سردار رضائی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "sympathizer of the Revolutionary Workers Organization of Iran, Rah-e Kargar"
+quotes:
+  - "Rah-e Kargar or the Revolutionary Workers Organization of Iran was established in the summer of 1979."
 
 # --- DEATH ---
 date_of_death: 1985-01-01
@@ -36,7 +41,7 @@ circumstances: >
     information is available about the death sentence. According to the above
     source, Mr. Sardar Reza’i was executed by a firing squad at Evin Prison in
     September 1985.
-event_context: null
+event_context: "executed by a firing squad at Evin Prison in September 1985"
 responsible_forces: null
 
 # --- VERIFICATION ---

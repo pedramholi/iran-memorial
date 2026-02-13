@@ -3,10 +3,13 @@ name_latin: "Mahmud Reza Farzaneh"
 name_farsi: "محمود رضا فرزانه"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+beliefs: "sympathizer and member of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-12-26
@@ -38,9 +41,8 @@ circumstances: >
     available concerning Mr. Farzaneh’s defense. Judgment An Islamic
     Revolutionary tribunal condemned Mr. Mahmud Reza Farzaneh to death. He and
     11 other individuals were executed on December 26, 1981 in Mashad.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Islamic Revolutionary tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

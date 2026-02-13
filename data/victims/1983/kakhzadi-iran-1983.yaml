@@ -3,10 +3,13 @@ name_latin: "Iran Kakhzadi"
 name_farsi: "ایران کاخزادی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "affiliated with Komala"
 
 # --- DEATH ---
 date_of_death: 1983-01-01

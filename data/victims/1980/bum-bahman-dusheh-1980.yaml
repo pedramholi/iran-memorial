@@ -36,9 +36,8 @@ circumstances: >
     Defense No information is available on the defendant’s defense. Judgment
     Mr. Dusheh Bum was sentenced to death. Based on the Kayhan report, he was
     executed at 10:45 p.m. in Dolatabad, Kermanshah.
-event_context: null
-responsible_forces: null
-
+event_context: "1980 execution"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

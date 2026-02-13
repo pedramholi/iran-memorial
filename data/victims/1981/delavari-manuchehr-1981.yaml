@@ -3,7 +3,7 @@ name_latin: "Manuchehr Delavari"
 name_farsi: "منوچهر دلاوری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -41,9 +41,8 @@ circumstances: >
     Earth) and condemned him to death. The ruling was carried out in Qa
     emshahr in October of 1981. No specific information is available about
     this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "1981"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

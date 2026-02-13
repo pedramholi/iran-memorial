@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+quotes:
+  - "While two bank employees were about to transfer half a million Tomans and some checks and documents to the Sugar Factory branch of Bank-e Iranian, they were subjected to an armed attack planned by Mohammad Mehdi Rastini, directed by Mohsen Rastini, and with the direct collaboration of the rest of the defendants."
+
 # --- DEATH ---
 date_of_death: 1980-01-12
 age_at_death: null
@@ -45,8 +49,7 @@ circumstances: >
     Islamic Revolutionary Tribunal of Isfahan sentenced Mr. Rastini to death
     and the verdict was immediately carried out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

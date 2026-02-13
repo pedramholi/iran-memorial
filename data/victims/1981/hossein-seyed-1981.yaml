@@ -38,9 +38,8 @@ circumstances: >
     Seyed-Hossein to death. The ruling was carried out in Ahvaz on January 6,
     1981. No specific information is available about the defendant s
     execution.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 execution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

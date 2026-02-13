@@ -1,12 +1,18 @@
 id: kabiri-sarvenaz-1981
 name_latin: "Sarvenaz Kabiri"
 name_farsi: "سروناز کبیری"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1964-02-01"
+place_of_birth: "Tehran"
+gender: female
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "student"
+education: "Anushirvan Dadgar high school"
+family:
+  notes: "daughter of Reza"
 
 # --- DEATH ---
 date_of_death: 1981-09-29
@@ -53,9 +59,8 @@ circumstances: >
     defense. Judgment Central Islamic Revolutionary Tribunal sentenced Ms.
     Kabiri to death. She was executed at Evin prison at dawn of September 29,
     1981.
-event_context: null
-responsible_forces: null
-
+event_context: "protests and armed rebellion against the regime"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

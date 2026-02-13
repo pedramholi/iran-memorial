@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Unknown"
 photo: null
 
+# --- LIFE ---
+occupation: "SAVAK interrogator"
+
 # --- DEATH ---
 date_of_death: 1979-05-16
 age_at_death: null

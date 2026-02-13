@@ -36,9 +36,8 @@ circumstances: >
     Tribunal of Sari found Mr. Salmani guilty of being a corruptor on earth,
     enemy of God and the Prophet and sentenced him to death. Having been
     confirmed by the Supreme Judicial Court, this sentence was carried out.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on June 1, 1982"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

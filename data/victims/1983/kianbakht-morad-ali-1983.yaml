@@ -3,7 +3,7 @@ name_latin: "Morad Ali Kianbakht"
 name_farsi: "مرادعلی کیان بخت"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -39,9 +39,8 @@ circumstances: >
     Kianbakht s defense. Judgment The Anti-Narcotics Section of the Public
     Prosecutor s Office in Tehran sentenced Mr. Kianbakht to death. The
     sentence was carried out in Qasr Prison.
-event_context: null
-responsible_forces: null
-
+event_context: "1983"
+responsible_forces: "Anti-Narcotics Section of the Public Prosecutor s Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

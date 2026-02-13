@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+quotes:
+  - "in the presence of the honorable family members of the persons that they have martyred."
+
 # --- DEATH ---
 date_of_death: 1985-06-15
 age_at_death: null
@@ -48,9 +52,8 @@ circumstances: >
     death. He and 5 others were executed in Evin prison on June 15, 1985 “in
     the presence of the honorable family members of the persons that they have
     martyred.”
-event_context: null
-responsible_forces: null
-
+event_context: "1985 executions"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

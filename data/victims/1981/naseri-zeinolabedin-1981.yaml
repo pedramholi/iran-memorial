@@ -2,8 +2,8 @@ id: naseri-zeinolabedin-1981
 name_latin: "Zeinol'abedin Naseri"
 name_farsi: "زین‌العابدین ناصری"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Borj village near Bojnord"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -40,9 +40,8 @@ circumstances: >
     Judgment The Khorasan Court condemned Mr. Zeinol abedin Naseri to death.
     The ruling was confirmed by the Supreme Judiciary Council and carried out
     in Mashhad on October 24, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on October 24, 1981"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

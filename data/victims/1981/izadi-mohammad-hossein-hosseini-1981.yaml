@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
 
+# --- LIFE ---
+family:
+beliefs: "sympathizer of Mojahedin Khalq Organization"
+
 # --- DEATH ---
 date_of_death: 1981-11-24
 age_at_death: 18
@@ -37,9 +41,8 @@ circumstances: >
     arrest, on November 24, 1981, Mr. Hosseini Izadi was executed by firing
     squad in the Evin prison. His will was delivered to his family twenty days
     later.
-event_context: null
-responsible_forces: null
-
+event_context: "executed on November 24, 1981"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

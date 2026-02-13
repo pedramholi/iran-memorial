@@ -3,7 +3,7 @@ name_latin: "Hushang Atashi"
 name_farsi: "هوشنگ آتشی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -37,8 +37,7 @@ circumstances: >
     sentenced Mr. Atashi to death. Having been confirmed by the Supreme
     Tribunal of Qom, the sentence was carried out in public.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

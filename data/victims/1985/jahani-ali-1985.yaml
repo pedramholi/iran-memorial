@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+beliefs: "affiliated with the Kurdish Democratic Party of Iran"
+
 # --- DEATH ---
 date_of_death: 1985-12-19
 age_at_death: null
@@ -42,8 +45,7 @@ circumstances: >
     Judgment No specific information is available about the verdict leading to
     this execution. Mr. Ali Jahani was hanged on December 19, 1985.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

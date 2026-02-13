@@ -1,12 +1,15 @@
 id: rezai-ali-1979
 name_latin: "Ali Reza’i"
 name_farsi: "علی رضایی"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1952-01-01"
+place_of_birth: "AzarShahr, Azarbaijan Sharqi Province"
 gender: male
 ethnicity: null
-religion: "Presumed Muslim"
+religion: "Muslim"
 photo: null
+
+# --- LIFE ---
+family:
 
 # --- DEATH ---
 date_of_death: 1979-12-06
@@ -85,9 +88,8 @@ circumstances: >
     Islamic Republic of Iran. (4) Opponents of the Islamic Republic have been
     assassinated by the agents of the Islamic Republic in various ways outside
     Iran, in countries such as the Philippines, Indonesia, Japan, India,
-event_context: null
-responsible_forces: null
-
+event_context: "1979 Revolution"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

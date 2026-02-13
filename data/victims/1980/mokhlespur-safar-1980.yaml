@@ -3,7 +3,7 @@ name_latin: "Safar Mokhlespur"
 name_farsi: "صفر مخلص پور"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,8 +38,7 @@ circumstances: >
     waging war against God , and he was executed at 7:30 am by the Islamic
     Revolutionary Guards (Pasdaran).
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+beliefs: "supporter of the Mojahedin Khalq of Iran Organization"
+
 # --- DEATH ---
 date_of_death: 1982-09-14
 age_at_death: 45
@@ -46,9 +49,8 @@ circumstances: >
     available on Mr. Heidari’s defense. Judgment The Islamic Revolutionary
     Tribunal of Sanandaj declared Mr. Heidari an enemy of God and a corruptor
     and sentenced him to death. The sentence was carried out.
-event_context: null
-responsible_forces: null
-
+event_context: "executed in 1982"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

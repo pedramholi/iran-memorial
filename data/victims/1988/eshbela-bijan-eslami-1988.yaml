@@ -1,12 +1,16 @@
 id: eshbela-bijan-eslami-1988
 name_latin: "Bijan Eslami Eshbela"
 name_farsi: "بیژن اسلامی اشبلا"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1961-01-01"
+place_of_birth: "Eshbela village, near Bandar Anzali, Gilan province"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+personality: "neat, organized, and had a good sense of humor"
+beliefs: "sympathizer of the Ashraf Dehqani Branch of the Fadaiyan Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -85,9 +89,8 @@ circumstances: >
     themselves in court. The same letter, rebutting the accusation that these
     prisoners (from inside the prison) had collaborated with armed members of
     the Mojahedin Organization in clashes with armed
-event_context: null
-responsible_forces: null
-
+event_context: "1988 mass killings of political prisoners"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

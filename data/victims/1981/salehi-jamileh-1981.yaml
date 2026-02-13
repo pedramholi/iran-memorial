@@ -1,12 +1,16 @@
 id: salehi-jamileh-1981
 name_latin: "Jamileh Salehi"
 name_farsi: "جمیله صالحی"
-date_of_birth: null
+date_of_birth: "1959-01-01"
 place_of_birth: null
 gender: female
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+family:
+beliefs: "supporter of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-10-07
@@ -85,9 +89,8 @@ circumstances: >
     officials and the government officials’ efforts to impeach their ally,
     President Abolhassan Banisadr. Despite the fact that the regime called
     this demonstration illegal, thousands came to th
-event_context: null
-responsible_forces: null
-
+event_context: "1981 execution"
+responsible_forces: "Islamic Revolutionary Prosecutor General’s Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

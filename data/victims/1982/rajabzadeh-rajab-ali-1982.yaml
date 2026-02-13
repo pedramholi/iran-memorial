@@ -3,7 +3,7 @@ name_latin: "Rajab Ali Rajabzadeh"
 name_farsi: "رجبعلی رجب زاده"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -35,8 +35,7 @@ circumstances: >
     Islamic Revolutionary Tribunal of Shiraz found Mr. Rajabzadeh guilty of
     being a corruptor on earth and sentenced him to death.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

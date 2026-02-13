@@ -2,11 +2,18 @@ id: pakdel-kamaloddin-1988
 name_latin: "Kamaloddin Pakdel"
 name_farsi: "کمال الدین پاکدل"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Kiashahr port, Gilan province"
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  children: 3
+  notes: "had two daughters at the time of arrest; third daughter was born in prison"
+beliefs: "member of the Fadaiyan Khalq Organization (Majority)"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -85,9 +92,8 @@ circumstances: >
     Republic, states that such claims “are false considering the circumstances
     in prisons; for our children faced most difficult conditions [in prison,
     with] visitation rights of once every 15 days, each vi
-event_context: null
-responsible_forces: null
-
+event_context: "1988 mass killings of political prisoners"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

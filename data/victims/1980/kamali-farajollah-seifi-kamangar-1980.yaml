@@ -8,6 +8,11 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+quotes:
+  - "“Seifollah Faraji Kamangir, the torturer and SAVAK interrogator also known as Dr. Kamali, joined the hated SAVAK since its very founding in 1335 [1957]. During the years of his service at SAVAK he tortured many revolutionary combatants in the most savagely brutal ways so that many of them, including Rezayi, Khalil Tabatabai, Moqayadi, Dibaj and others, were martyred.”"
+  - "“And for you in the Law of Talion [Qisas] there is life; O ye men of understanding.” [The Koran; 2:179] God’s hand came out of the sleeve of the Muslim masses and took its revenge from beastly criminals. The same criminals who, with a smile on their faces, raised their hands to strike lashes on the bare skin of our beloveds.”"
+
 # --- DEATH ---
 date_of_death: 1980-06-09
 age_at_death: null
@@ -50,8 +55,7 @@ circumstances: >
     issuance of the verdict. Mr. Kamangar’s body was transferred to the morgue
     for a death certificate.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

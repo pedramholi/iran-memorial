@@ -3,10 +3,13 @@ name_latin: "Sufi Abdollah Mohammadi"
 name_farsi: "صوفی عبدالله محمدی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+beliefs: "affiliated with The Democratic Party of Iranian Kordestan"
 
 # --- DEATH ---
 date_of_death: 1984-05-31
@@ -42,9 +45,8 @@ circumstances: >
     evidence provided against the defendant. Defense No information is
     available on Mr. Abdollah Mohammadi s defense. Judgment There is no
     information on the verdict leading to this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "armed clashes between the Revolutionary Guards and the peshmerga"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

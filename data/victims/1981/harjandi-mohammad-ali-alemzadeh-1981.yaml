@@ -1,12 +1,18 @@
 id: harjandi-mohammad-ali-alemzadeh-1981
 name_latin: "Mohammad Ali Alemzadeh Harjandi"
 name_farsi: "محمدعلی عالم زاده حرجندی"
-date_of_birth: null
+date_of_birth: "1950-01-01"
 place_of_birth: null
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "student"
+family:
+  marital_status: "married"
+beliefs: "sympathizer of the Nabard Group"
 
 # --- DEATH ---
 date_of_death: 1981-06-21
@@ -50,9 +56,8 @@ circumstances: >
     non-Moslem cemetery without washing and shroud. No specific information is
     available about the defendant s execution. Mr. Mohammadali
     Alemzadeh-Harjandi was 31 years old.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Islamic Revolutionary Court of Tehran"
 # --- VERIFICATION ---
 status: unverified
 sources:

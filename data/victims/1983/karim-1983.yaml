@@ -34,9 +34,8 @@ circumstances: >
     available on Mr. Karim s defense. Judgment The Islamic Revolutionary
     Tribunal of Mashad sentenced Mr. Karim to death. Having been confirmed by
     the Islamic Revolution s Supreme Court, the sentence was carried out.
-event_context: null
-responsible_forces: null
-
+event_context: "1983"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

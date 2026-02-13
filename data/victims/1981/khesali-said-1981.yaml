@@ -3,10 +3,13 @@ name_latin: "Sai’d Khesali"
 name_farsi: "سعید خصالی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+beliefs: "supporter of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-08-23
@@ -85,9 +88,8 @@ circumstances: >
     the regime of the Islamic Republic of Iran.” Evidence of guilt The report
     of this execution does not contain information regarding the evidence
     provided against Mr. Hezali (Khesali). Defense No information
-event_context: null
-responsible_forces: null
-
+event_context: "June 20, 1981 demonstration"
+responsible_forces: "Islamic Revolutionary Prosecutor’s Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+beliefs: "participation in the Central Committees of the [Mujahedin-e Khalq or MKO] militia"
+
 # --- DEATH ---
 date_of_death: 1982-01-01
 age_at_death: null
@@ -29,8 +32,7 @@ circumstances: >
     Revolutionary Tribunal of Kordestan sentenced Mr. Saremi to death. The
     sentence was carried out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal of Kordestan"
 # --- VERIFICATION ---
 status: unverified
 sources:

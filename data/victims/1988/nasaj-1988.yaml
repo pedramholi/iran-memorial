@@ -3,10 +3,14 @@ name_latin: "Nasaj"
 name_farsi: "محمود نساج"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "chemistry student, employee at Caterpillar Inc."
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -86,7 +90,7 @@ circumstances: >
     associated with military action or with various [opposition] groups based
     near the borders. An edict of the Leader of the Islamic Republic,
     Ayatollah Khomeini, rep
-event_context: null
+event_context: "1988 massacre"
 responsible_forces: null
 
 # --- VERIFICATION ---

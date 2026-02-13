@@ -8,6 +8,11 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+occupation: "student"
+education: "Tehran Polytechnic College"
+beliefs: "sympathizer of the Rah-e Kargar Organization"
+
 # --- DEATH ---
 date_of_death: 1981-11-25
 age_at_death: 21
@@ -53,9 +58,8 @@ circumstances: >
     Islamic Republic Court declared Mr. E'tezadi Dailami a corruptor, enemy
     and fighter against God and sentenced him to death. He was executed by a
     firing squad at the Evin Prison on the dawn of November 25, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Revolutionary Guard"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Abutaleb Javaheri"
 name_farsi: "ابوطالب جواهری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -29,9 +29,8 @@ circumstances: >
     No information is available on the Mr. Javaheri's defense. Judgment The
     second branch of the Islamic Revolutionary Tribunal of the Center (Tehran)
     sentenced Mr. Javaheri to death.
-event_context: null
-responsible_forces: null
-
+event_context: "January 29, 1980"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

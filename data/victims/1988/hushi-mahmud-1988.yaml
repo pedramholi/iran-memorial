@@ -3,7 +3,7 @@ name_latin: "Mahmud Hushi"
 name_farsi: "محمود هوشی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
@@ -36,9 +36,8 @@ circumstances: >
     defendant. Defense No information is available on Mr. Hushi's defense.
     Judgment No information is available on the judgment or whether an appeal
     was allowed. Mr. Hushi was executed September 14, 1988.
-event_context: null
-responsible_forces: null
-
+event_context: "1988-89 mass execution of political prisoners"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

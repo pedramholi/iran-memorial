@@ -3,10 +3,13 @@ name_latin: "Daoud Samadi (Alias Dr. Alai)"
 name_farsi: "داود صمدی (دکتر علایی)"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "chief of the strike branch of the joint anti-sabotage committee"
 
 # --- DEATH ---
 date_of_death: 1979-05-26
@@ -40,8 +43,7 @@ circumstances: >
     available on the defence. Judgment The defendant was sentenced to death
     and executed. No further information is available.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic’s authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

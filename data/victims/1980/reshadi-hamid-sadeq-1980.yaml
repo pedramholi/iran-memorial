@@ -35,9 +35,8 @@ circumstances: >
     evidence provided against the defendant. Defense No information is
     available on Mr. Sadeq Reshadi s defense. Judgment Mr. Sadeq Reshadi was
     sentenced to death. She was executed at dawn, within hours from her trial.
-event_context: null
-responsible_forces: null
-
+event_context: "July 30, 1980"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

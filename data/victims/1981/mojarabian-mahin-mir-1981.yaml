@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+beliefs: "supporter of the Mojahedin Khalq Organization"
+
 # --- DEATH ---
 date_of_death: 1981-10-07
 age_at_death: null
@@ -86,9 +89,8 @@ circumstances: >
     government officials efforts to impeach their ally, President Abolhassan
     Banisadr. Despite the fact that the regime called this demonstration
     illegal, t
-event_context: null
-responsible_forces: null
-
+event_context: "1981 execution"
+responsible_forces: "Esfahan Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

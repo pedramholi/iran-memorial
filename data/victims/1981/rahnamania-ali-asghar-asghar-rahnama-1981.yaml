@@ -1,12 +1,15 @@
 id: rahnamania-ali-asghar-asghar-rahnama-1981
 name_latin: "Ali Asghar (Asghar) Rahnama (Rahnamania)"
 name_farsi: "علی اصغر (اصغر) رهنما (رهنمانیا)"
-date_of_birth: null
+date_of_birth: "1959-01-01"
 place_of_birth: null
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+beliefs: "supporter of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-09-25
@@ -86,9 +89,8 @@ circumstances: >
     this demonstration illegal, thousands came to the streets, some of whom
     confronted the Revolutionary Guardsmen and Hezbollahis. The number of
     casualties that resulte
-event_context: null
-responsible_forces: null
-
+event_context: "1981 protests"
+responsible_forces: "Islamic Revolutionary Prosecutor General’s Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

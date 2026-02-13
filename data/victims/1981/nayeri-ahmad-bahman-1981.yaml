@@ -1,12 +1,22 @@
 id: nayeri-ahmad-bahman-1981
 name_latin: "Ahmad (Bahman) Nayeri"
 name_farsi: "احمد (بهمن) نیری"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1962-02-04"
+place_of_birth: "Tehran"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "student"
+education: "mining engineering"
+family:
+  notes: "brother of Mohsen Nayeri, who was executed in 1982."
+personality: "described as a gentle person with a passion for mathematics"
+beliefs: "sympathizer of the Razmandegan organization"
+quotes:
+  - "Today is Sunday, December 27, 1981. As I’m writing these words, I don’t know how the course of events will unfold after I’m done writing. I can ease the passing of time only by relying on my emotions, speaking for the last time with you my loved ones, and recalling the sweet memories of the times I spent with you."
 
 # --- DEATH ---
 date_of_death: 1981-12-27
@@ -56,9 +66,8 @@ circumstances: >
     will unfold after I’m done writing. I can ease the passing of time only by
     relying on my emotions, speaking for the last time with you my loved ones,
     and recalling the sweet memories of the times I spent with you.”
-event_context: null
-responsible_forces: null
-
+event_context: "1981 execution"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

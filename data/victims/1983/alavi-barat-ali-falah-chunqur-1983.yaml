@@ -3,7 +3,7 @@ name_latin: "Barat Ali Falah Chunqur Alavi"
 name_farsi: "براتعلی فلاح چونقورالوی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,8 +38,7 @@ circumstances: >
     Anti-Narcotics Section of the Public Prosecutor s Office sentenced Mr.
     Falah Chunqur Alavi to death. The sentence was carried out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

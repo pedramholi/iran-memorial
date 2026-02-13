@@ -37,9 +37,8 @@ circumstances: >
     No information is available on Mr. Alipur's defense. Judgment The Islamic
     Tribunal of Neyshabur sentenced Mr. Alipur to death. Being confirmed by
     the Islamic Revolutionary Tribunal, the sentence was carried out at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "1982"
+responsible_forces: "Islamic Revolution Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,10 +3,13 @@ name_latin: "Mahmud Samandar"
 name_farsi: "محمود سمندر"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of the Mojahedin"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -32,9 +35,8 @@ circumstances: >
     available on Mr. Samandar's defense. Judgment No information is available
     on the judgment or whether an appeal was allowed. No further information
     is available.
-event_context: null
-responsible_forces: null
-
+event_context: "July-December 1988"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

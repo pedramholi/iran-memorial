@@ -3,7 +3,7 @@ name_latin: "Esfandiyar Amirpur"
 name_farsi: "اسفندیار امیر پور"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -39,8 +39,7 @@ circumstances: >
     sentence was carried out in the prison of the Police Headquarters at
     night.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,10 +3,14 @@ name_latin: "Abdolkarim Javadi"
 name_farsi: "عبدالکریم جوادی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "university professor"
+beliefs: "affiliated with various opposition groups"
 
 # --- DEATH ---
 date_of_death: 1981-10-11
@@ -47,9 +51,8 @@ circumstances: >
     available on Mr. Javadi’s defense. Judgment According to the list of
     Martyrs of the Peykar Organization, Mr. Abdolkarim Javadi was executed by
     firing squad in Tehran on October 11, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "executed by firing squad in Tehran on October 11, 1981"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

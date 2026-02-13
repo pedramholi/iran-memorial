@@ -3,10 +3,13 @@ name_latin: "Mas'ud Haj Kazemi"
 name_farsi: "مسعود حاج‌کاظمی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of Mojahedin Khalq Organization (MKO)"
 
 # --- DEATH ---
 date_of_death: 1981-08-23
@@ -86,9 +89,8 @@ circumstances: >
     supporters of the Islamic regime. *In the summer of 1981, the leader of
     the MKO and the impeached President (Banisadr) fled Iran to reside in
     France, where they founded the National Council
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Islamic Revolutionary Prosecutor’s Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

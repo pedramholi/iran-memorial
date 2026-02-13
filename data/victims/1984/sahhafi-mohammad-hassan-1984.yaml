@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+occupation: "accountant"
+beliefs: "member of Peykar Organization for the Liberation of the Working Class"
+
 # --- DEATH ---
 date_of_death: 1984-01-01
 age_at_death: null
@@ -42,9 +46,8 @@ circumstances: >
     available on Mr. Sahafi’s defense. Judgment Mr. Sahafi was executed by
     firing squad in Tehran in 1984. No further information is available about
     the execution.
-event_context: null
-responsible_forces: null
-
+event_context: "1984 execution"
+responsible_forces: "Iranian government"
 # --- VERIFICATION ---
 status: unverified
 sources:

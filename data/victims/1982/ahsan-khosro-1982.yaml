@@ -41,9 +41,8 @@ circumstances: >
     defense. Judgment The Islamic Revolutionary Tribunal of Sanandaj declared
     Mr. Ahsan an enemy of God and a corruptor and sentenced him to death. He
     was executed on September 12, 1982.
-event_context: null
-responsible_forces: null
-
+event_context: "1982 execution"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

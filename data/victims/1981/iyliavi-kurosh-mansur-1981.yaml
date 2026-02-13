@@ -1,12 +1,17 @@
 id: iyliavi-kurosh-mansur-1981
 name_latin: "Kurosh Mansur Iyliavi"
 name_farsi: "کورش منصور ایلیاوی"
-date_of_birth: null
+date_of_birth: "1965-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "student"
+family:
+beliefs: "supporter of Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-08-07
@@ -86,9 +91,8 @@ circumstances: >
     unprecedented in modern Iranian history. Thousands of MKO members and
     sympathizers were arrested or executed. On June 21, 1981, the MKO
     announced an armed str
-event_context: null
-responsible_forces: null
-
+event_context: "1981 political repression"
+responsible_forces: "Central Islamic Revolutionary Prosecutor's Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

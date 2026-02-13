@@ -3,10 +3,13 @@ name_latin: "Hormoz Jabbari"
 name_farsi: "هرمز جباری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+occupation: "police officer"
 
 # --- DEATH ---
 date_of_death: 1979-07-06
@@ -40,9 +43,8 @@ circumstances: >
     of deliberation declared Mr. Jabari guilty of corruption on earth and war
     on God and the Prophet of God. He was sentenced to death. The sentence was
     carried out at 2:45 a.m. on 6 July 1979.
-event_context: null
-responsible_forces: null
-
+event_context: "1979"
+responsible_forces: "Revolutionary Tribunal of Mashhad"
 # --- VERIFICATION ---
 status: unverified
 sources:

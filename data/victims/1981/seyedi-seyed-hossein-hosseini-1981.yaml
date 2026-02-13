@@ -1,12 +1,19 @@
 id: seyedi-seyed-hossein-hosseini-1981
 name_latin: "Seyed Hossein Hosseini Seyedi"
 name_farsi: "سیدحسین حسینی سیدی"
-date_of_birth: null
+date_of_birth: "1964-01-01"
 place_of_birth: null
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "high school student"
+education: "high school"
+family:
+  notes: "son of Seyed Ahmad and Dusti Alinejad"
+beliefs: "supporter of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-08-31
@@ -86,9 +93,8 @@ circumstances: >
     supporters of the Islamic regime. * In the summer of 1981, the leader of
     the MKO and the impeached President (Banisadr) fled Iran to reside in
     France, where th
-event_context: null
-responsible_forces: null
-
+event_context: "1981 political repression"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

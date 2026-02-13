@@ -3,7 +3,7 @@ name_latin: "Manuchehr Ja'fari"
 name_farsi: "منوچهر جعفری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
@@ -43,8 +43,7 @@ circumstances: >
     of similar charges at the Islamic Revolutionary Tribunal of Ahvaz. They
     were executed at dawn in this city.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

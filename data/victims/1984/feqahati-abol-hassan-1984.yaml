@@ -3,10 +3,15 @@ name_latin: "Abol Hassan Feqahati"
 name_farsi: "ابوالحسن فقاهتی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of Mojahedin Khalq Organization"
+quotes:
+  - "allegedly summarily or arbitrarily executed"
 
 # --- DEATH ---
 date_of_death: 1984-05-02
@@ -85,9 +90,8 @@ circumstances: >
     information is available regarding members and activities of the MKO
     inside the country. In defense: In spite of the armed struggle
     announcement by the MKO on June 20, 1981, many sympathizers of the or
-event_context: null
-responsible_forces: null
-
+event_context: "June 20, 1981 demonstration"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

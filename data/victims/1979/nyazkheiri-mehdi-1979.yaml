@@ -49,8 +49,7 @@ circumstances: >
     available on the defense. Judgment Mr. Nyazkheiri was sentenced to death.
     The sentence was carried out the same evening, at 9:30 p.m.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

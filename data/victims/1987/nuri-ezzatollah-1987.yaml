@@ -8,6 +8,12 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+family:
+  marital_status: "married"
+  children: 2
+  notes: "father of grandchildren"
+
 # --- DEATH ---
 date_of_death: 1987-01-01
 age_at_death: 27
@@ -86,8 +92,7 @@ circumstances: >
     organized and implemented in Iran and abroad, is indicative of a single
     pattern which, according t
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Mojahedin Khalq Organization"
 # --- VERIFICATION ---
 status: unverified
 sources:

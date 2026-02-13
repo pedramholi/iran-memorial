@@ -8,6 +8,12 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+family:
+  marital_status: "married"
+  children: 4
+  notes: "mother of four"
+
 # --- DEATH ---
 date_of_death: 1979-10-09
 age_at_death: null
@@ -41,8 +47,7 @@ circumstances: >
     firing squad in the palace of the former Shah in Babol and was shot to
     death.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal of Babol"
 # --- VERIFICATION ---
 status: unverified
 sources:

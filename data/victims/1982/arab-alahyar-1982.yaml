@@ -3,10 +3,16 @@ name_latin: "Alahyar Arab"
 name_farsi: "الهیار عرب"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  children: 0
+  notes: "charged with the first-degree murder of his wife"
 
 # --- DEATH ---
 date_of_death: 1982-02-03
@@ -36,8 +42,7 @@ circumstances: >
     death. The sentence was confirmed by the Supreme Judicial Council. It was
     carried out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic’s authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

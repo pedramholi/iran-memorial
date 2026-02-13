@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+beliefs: "affiliate of the Democratic Party of Iranian Kordestan"
+
 # --- DEATH ---
 date_of_death: 1988-01-01
 age_at_death: null
@@ -86,9 +89,8 @@ circumstances: >
     “are false considering the circumstances in prisons; for our children
     faced the most difficult conditions [in prison, with] visitation rights of
     o
-event_context: null
-responsible_forces: null
-
+event_context: "1988 mass killings of political prisoners"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

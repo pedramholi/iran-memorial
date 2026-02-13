@@ -3,10 +3,13 @@ name_latin: "Ja'far Tariverdi Qazi Jahani"
 name_farsi: "جعفر تاری وردی قاضی جهانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of Peykar Organization for the Liberation of the Working Class"
 
 # --- DEATH ---
 date_of_death: 1981-01-01
@@ -40,9 +43,8 @@ circumstances: >
     evidence provided against the defendant. Defense No information is
     available on Mr. Tariverdi Qazi Jahani’s defense. Judgment Mr. Tariverdi
     Qazi Jahaniwas executed by firing squad in Tabriz in 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "executed by firing squad in Tabriz in 1981"
+responsible_forces: "Iranian government"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -4,9 +4,12 @@ name_farsi: "عزیز قبادی"
 date_of_birth: null
 place_of_birth: null
 gender: male
-ethnicity: null
+ethnicity: "Kurdish"
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+beliefs: "Democratic Party of Iranian Kordestan"
 
 # --- DEATH ---
 date_of_death: 1984-01-07
@@ -41,9 +44,8 @@ circumstances: >
     the evidence provided against the defendant. Defense No information is
     available on Mr. Qobadi’s defense. Judgment There is no information on the
     verdict leading to this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "clashes with the Islamic Republic security forces from June 1981 to the publication date of the magazine"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

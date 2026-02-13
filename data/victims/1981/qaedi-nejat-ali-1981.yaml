@@ -1,12 +1,15 @@
 id: qaedi-nejat-ali-1981
 name_latin: "Nejat Ali Qa'edi"
 name_farsi: "نجاتعلی قائدی"
-date_of_birth: null
+date_of_birth: "1965-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+family:
 
 # --- DEATH ---
 date_of_death: 1981-12-29
@@ -45,9 +48,8 @@ circumstances: >
     was condemned to death. He and 2 other individuals were executed on
     December 29, 1981 in Masjed-e Soleyman (Khuzestan province). He was 16 at
     the time of execution.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

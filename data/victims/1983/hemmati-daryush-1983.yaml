@@ -1,12 +1,15 @@
 id: hemmati-daryush-1983
 name_latin: "Daryush Hemmati"
 name_farsi: "داریوش همتی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1958-03-21"
+place_of_birth: "Abadan"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "member of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1983-05-30
@@ -38,9 +41,8 @@ circumstances: >
     available on Mr. Hemmati’s defense. Judgment The court condemned Mr.
     Daryush Hemmati to death. He was shot by a firing squad in Ahvaz on May
     30, 1983. He was buried at the Beheshtabad cemetery in Ahvaz.
-event_context: null
-responsible_forces: null
-
+event_context: "1981-1985"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

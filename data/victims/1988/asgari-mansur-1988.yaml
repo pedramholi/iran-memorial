@@ -3,7 +3,7 @@ name_latin: "Mansur Asgari"
 name_farsi: "منصور عسگری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
@@ -33,9 +33,8 @@ circumstances: >
     No information is available on Mr. Asgari's defense. Judgment No
     information is available on the judgment or whether an appeal was allowed.
     Mr. Asgari was executed in November, 1988.
-event_context: null
-responsible_forces: null
-
+event_context: "1988 Prison massacre"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

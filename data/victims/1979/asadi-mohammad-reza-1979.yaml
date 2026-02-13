@@ -2,11 +2,15 @@ id: asadi-mohammad-reza-1979
 name_latin: "Mohammad Reza Asadi"
 name_farsi: "محمود اسدی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Malayer"
 gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "father of one uncle"
 
 # --- DEATH ---
 date_of_death: 1979-09-13
@@ -44,9 +48,8 @@ circumstances: >
     executed at dawn, shortly after the issuance of the verdict. All of his
     properties (orchards and farms) in the Juzan village were subsequently
     confiscated, excluding one residential unit.
-event_context: null
-responsible_forces: null
-
+event_context: "1979"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,18 @@
 id: rezai-gharib-qorban-1980
 name_latin: "Gharib (Qorban) Reza'i"
 name_farsi: "غریب (قربان) رضایی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1958-01-01"
+place_of_birth: "Andimeshk"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "unemployed laborer"
+family:
+  marital_status: "married"
+  notes: "just gotten married a week before the March 1980 protests"
 
 # --- DEATH ---
 date_of_death: 1980-03-15
@@ -86,9 +92,8 @@ circumstances: >
     capital. However, when their demands were later rejected and deemed
     illegal, on March 15, 1980, thousands of people gathered in front of the
     Andimeshk Rail
-event_context: null
-responsible_forces: null
-
+event_context: "March 1980 protests"
+responsible_forces: "IRGC"
 # --- VERIFICATION ---
 status: unverified
 sources:

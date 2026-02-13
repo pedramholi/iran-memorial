@@ -8,6 +8,11 @@ ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
 
+# --- LIFE ---
+beliefs: "follower of the Mojahedin Khalq Organization"
+quotes:
+  - "being present in team houses, armed robbery, having guns, walkie-talkies, and Molotov cocktails, shooting into a crowd, being a member of the armed guerrilla organization, setting fire to different centers including the treasury."
+
 # --- DEATH ---
 date_of_death: 1981-09-18
 age_at_death: 17
@@ -44,9 +49,8 @@ circumstances: >
     available on Mr. Hosseini Barzi's defense. Judgment Mr. Hosseini Barzi was
     declared a “corruptor on earth and an enemy of God” and was executed by a
     firing squad at the Evin Prison on September 18, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "1981"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

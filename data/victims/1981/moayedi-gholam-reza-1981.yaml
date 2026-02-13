@@ -1,12 +1,16 @@
 id: moayedi-gholam-reza-1981
 name_latin: "Gholam Reza Mo’ayedi"
 name_farsi: "غلامرضا مؤیدی"
-date_of_birth: null
+date_of_birth: "1960-01-01"
 place_of_birth: null
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+family:
+beliefs: "supporter of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-09-23
@@ -85,9 +89,8 @@ circumstances: >
     Hezbollahis. The number of casualties that resulted from this
     demonstration is unknown but a large number of demonstrators were arrested
     and executed in the following days and weeks. The day after the demonst
-event_context: null
-responsible_forces: null
-
+event_context: "1981 protests"
+responsible_forces: "Islamic Revolutionary Prosecutor General’s Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

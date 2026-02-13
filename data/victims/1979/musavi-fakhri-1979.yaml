@@ -3,7 +3,7 @@ name_latin: "Fakhri Musavi"
 name_farsi: "فخری موسوی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -35,9 +35,8 @@ circumstances: >
     against the defendant. Defense No information is available on the defense.
     Judgment The Islamic Revolutionary Tribunal of Khorramabad sentence Ms.
     Musavi to death. She was shot by firing squad on September 3, 1979.
-event_context: null
-responsible_forces: null
-
+event_context: "1979"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

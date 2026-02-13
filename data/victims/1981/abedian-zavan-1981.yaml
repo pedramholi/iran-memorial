@@ -3,10 +3,13 @@ name_latin: "Zavan Abedian"
 name_farsi: "زاون عابدیان"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+beliefs: "affiliated with Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-09-29
@@ -86,9 +89,8 @@ circumstances: >
     participate in armed conflict. Based on the available information, the
     following human rights have been violated in this case: The right to
     libert
-event_context: null
-responsible_forces: null
-
+event_context: "June 20, 1981 demonstration"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

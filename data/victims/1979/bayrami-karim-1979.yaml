@@ -38,8 +38,7 @@ circumstances: >
     (Tehran) sentenced Mr. Bayrami to death. The Islamic Republic was thereby
     made responsible to provide a living for his dependents after his death.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

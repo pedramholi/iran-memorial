@@ -31,9 +31,8 @@ circumstances: >
     available concerning Ms. Fatemeh Farrokh Oji's defense. Judgment No
     specific information is available about the verdict leading to this
     execution.
-event_context: null
-responsible_forces: null
-
+event_context: "1984-1985"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

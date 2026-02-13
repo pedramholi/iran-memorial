@@ -42,9 +42,8 @@ circumstances: >
     on the communiqu , the Islamic Revolutionary Tribunal of Gilan found Mr.
     Hamid guilty of waging war against God and his prophet. He was executed at
     dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "Gilan University clash"
+responsible_forces: "Islamic Revolutionary Guard"
 # --- VERIFICATION ---
 status: unverified
 sources:

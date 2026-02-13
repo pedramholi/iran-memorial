@@ -3,7 +3,7 @@ name_latin: "Mahmud Robati"
 name_farsi: "محمود رباطی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -27,8 +27,7 @@ circumstances: >
     defendant s defense. Judgment The Islamic Revolutionary Tribunal of Dezful
     sentenced Mr. Robati to death, and he was executed in the morning.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

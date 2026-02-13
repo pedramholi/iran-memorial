@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+beliefs: "member of the Peykar Organization for the Liberation of the Working Class"
+
 # --- DEATH ---
 date_of_death: 1981-07-23
 age_at_death: 26
@@ -67,9 +70,8 @@ circumstances: >
     According to the background information on the communiqué of Public
     Prosecution Office, his body was buried in the cemetery assigned to
     non-Muslims.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on the 23rd of July 1981"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

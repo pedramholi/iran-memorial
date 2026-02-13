@@ -1,12 +1,18 @@
 id: farnia-farhad-1988
 name_latin: "Farhad Farnia"
 name_farsi: "فرهاد فرنیا"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1959-01-01"
+place_of_birth: "Babol"
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+education: "elementary school graduate"
+family:
+  notes: "family was informed of his death only after his execution."
+beliefs: "sympathizer of the MKO"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -53,9 +59,8 @@ circumstances: >
     information about the exact date of his execution. According to this
     source, the family of Mr. Farhad Farnia was informed of his death only
     after his execution.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 demonstrations against the parliament’s impeachment of President Banisadr"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

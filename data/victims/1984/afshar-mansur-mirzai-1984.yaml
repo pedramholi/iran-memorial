@@ -3,7 +3,7 @@ name_latin: "Mansur Mirza'i Afshar"
 name_farsi: "منصور میرزائی افشار"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -37,9 +37,8 @@ circumstances: >
     Mirza’i Afshar’s defense. Judgment The 6th division of the Islamic
     Revolutionary Tribunal of Tehran sentenced Mr. Mirza’i Afshar to death.
     The sentence was carried out in the afternoon.
-event_context: null
-responsible_forces: null
-
+event_context: "1984"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

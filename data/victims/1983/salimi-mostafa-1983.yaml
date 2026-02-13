@@ -36,8 +36,7 @@ circumstances: >
     but specifies that the Islamic Revolution Supreme Court confirmed the
     death sentence, which was carried out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

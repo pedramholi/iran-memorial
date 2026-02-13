@@ -1,12 +1,17 @@
 id: nasiri-farid-1981
 name_latin: "Farid Nasiri"
 name_farsi: "فرید نصیری"
-date_of_birth: null
+date_of_birth: "1965-01-01"
 place_of_birth: null
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "student"
+family:
+beliefs: "supporter of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-08-23
@@ -86,9 +91,8 @@ circumstances: >
     demonstration, the Islamic Republic regime started a repressive campaign
     unprecedented in modern Iranian history. Thousands of MKO members and
     sympathizer
-event_context: null
-responsible_forces: null
-
+event_context: "1981 protests"
+responsible_forces: "Islamic Revolutionary Prosecutor's Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

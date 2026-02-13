@@ -2,11 +2,16 @@ id: maleki-hossein-1983
 name_latin: "Hossein Maleki"
 name_farsi: "حسین ملکی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Astaneh Ashrafieh, Gilan province"
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "high school teacher"
+education: "bachelor’s degree in Biology from Tehran University"
+beliefs: "joined the MKO"
 
 # --- DEATH ---
 date_of_death: 1983-01-01
@@ -62,9 +67,8 @@ circumstances: >
     on January 29, 1983. His family took possession of his corpse and, during
     the funeral, they showed his tortured body to the attendees. According to
     the same source, he had died under torture.
-event_context: null
-responsible_forces: null
-
+event_context: "June 20, 1981 protests"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

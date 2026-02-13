@@ -1,12 +1,16 @@
 id: kiahur-turaj-1981
 name_latin: "Turaj Kiahur"
 name_farsi: "تورج کیاهور"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1957-01-01"
+place_of_birth: "Tehran"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "civil engineer"
+education: "master's degree in civil engineering"
 
 # --- DEATH ---
 date_of_death: 1981-10-05
@@ -51,8 +55,7 @@ circumstances: >
     corruptor on earth.” The sentence was carried out at dawn in the courtyard
     of the Prison.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

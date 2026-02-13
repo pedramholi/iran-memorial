@@ -3,7 +3,7 @@ name_latin: "Turaj Ali Malayeri"
 name_farsi: "تورج علی ملایری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
@@ -34,8 +34,7 @@ circumstances: >
     Malayeri’s defense. Judgment The Islamic Revolutionary Tribunal of Amol
     sentenced Mr. Malayeri to death. The sentence was carried out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Prosecutor’s Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

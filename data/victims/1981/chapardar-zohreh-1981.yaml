@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
 
+# --- LIFE ---
+beliefs: "supporter of the Mojahedin Khalq Organization"
+
 # --- DEATH ---
 date_of_death: 1981-09-28
 age_at_death: 21
@@ -32,9 +35,8 @@ circumstances: >
     report of this execution does not contain information regarding the
     evidence provided against the defendant. Defense No information is
     available on Ms. Chapardar’s defense. Judgment
-event_context: null
-responsible_forces: null
-
+event_context: "executed or killed during clashes from June 1981 to 1985"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

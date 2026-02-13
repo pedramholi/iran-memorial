@@ -38,8 +38,7 @@ circumstances: >
     Revolutionary Tribunal of Kerman declared Mr. Sheikh Taqi Abadi a
     corruptor on earth . He was executed in the morning after his trial.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

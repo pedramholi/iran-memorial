@@ -3,7 +3,7 @@ name_latin: "Ramazan Ali Hosseinian"
 name_farsi: "رمضانعلی حسینیان"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,9 +38,8 @@ circumstances: >
     defense. Judgment The Islamic Tribunal of Neyshabur sentenced Mr.
     Hosseinian to death. Being confirmed by the Islamic Revolutionary
     Tribunal, the sentence was carried out at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "1982"
+responsible_forces: "Islamic Revolution Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

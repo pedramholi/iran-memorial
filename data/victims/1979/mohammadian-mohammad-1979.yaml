@@ -8,6 +8,11 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+quotes:
+  - "acts incompatible with chastity, regarding minors"
+  - "earned a living by forcing youngsters into corruption and indecent acts"
+
 # --- DEATH ---
 date_of_death: 1979-03-07
 age_at_death: null
@@ -44,8 +49,7 @@ circumstances: >
     Mr. Mohammadian was convicted and sentenced to death. No further
     information is available.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

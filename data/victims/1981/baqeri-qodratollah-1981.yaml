@@ -3,10 +3,13 @@ name_latin: "Qodratollah Baqeri"
 name_farsi: "قدرت الله باقری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+beliefs: "supporter of the Mojahedin Khalq of Iran Organization"
 
 # --- DEATH ---
 date_of_death: 1981-07-12
@@ -46,9 +49,8 @@ circumstances: >
     Tribunal of Behshahr found Mr. Baqeri guilty of "corruption on earth" and
     "rebellion against God and the People". He was executed at dawn on July
     12, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on July 12, 1981"
+responsible_forces: "Islamic Revolutionary Tribunal of Behshahr"
 # --- VERIFICATION ---
 status: unverified
 sources:

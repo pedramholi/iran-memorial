@@ -3,10 +3,19 @@ name_latin: "Farrokhzad Jahangiri"
 name_farsi: "فرخ زاد جهانگیری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "F-14 pilot"
+education: "studied at the Air Force Academy"
+family:
+  marital_status: "married"
+  children: 1
+  notes: "father of one"
+beliefs: "member of the Neghab Organization"
 
 # --- DEATH ---
 date_of_death: 1980-07-19
@@ -82,9 +91,8 @@ circumstances: >
     Jahangiri was sentenced to death. At midnight, within hours after the
     issuance of the verdict, the defendant was executed at the same place
     where he was tried.
-event_context: null
-responsible_forces: null
-
+event_context: "coup d'etat known as Noje"
+responsible_forces: "Islamic Republic of Iran authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

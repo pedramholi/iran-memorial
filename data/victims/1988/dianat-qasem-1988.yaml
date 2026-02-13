@@ -2,11 +2,19 @@ id: dianat-qasem-1988
 name_latin: "Qasem Dianat"
 name_farsi: "قاسم دیانت"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Tehran"
 gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+education: "high school graduate"
+family:
+  marital_status: "single"
+  children: 0
+  notes: "mother took care of him and his three brothers"
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1988-01-01

@@ -1,7 +1,7 @@
 id: haqqani-gholam-reza-1980
 name_latin: "Gholam Reza Haqqani"
 name_farsi: "غلامرضا حقانی"
-date_of_birth: null
+date_of_birth: "1955-01-01"
 place_of_birth: null
 gender: male
 ethnicity: null
@@ -35,8 +35,7 @@ circumstances: >
     Haqqani guilty of “corruption on earth.” He was executed at dawn on July
     2, 1980 in Birjand. Gholam Reza was 25.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

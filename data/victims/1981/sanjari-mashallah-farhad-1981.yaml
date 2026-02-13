@@ -1,12 +1,16 @@
 id: sanjari-mashallah-farhad-1981
 name_latin: "Mashallah (Farhad) Sanjari"
 name_farsi: "ماشاالله (فرهاد) سنجری"
-date_of_birth: null
+date_of_birth: "1957-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "government employee"
+beliefs: "supporter of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-08-16
@@ -86,9 +90,8 @@ circumstances: >
     confronted the Revolutionary Guardsmen and Hezbollahis. The number of
     casualties that resulted from this demonstration is unknown but a large
     number
-event_context: null
-responsible_forces: null
-
+event_context: "1981 June 20 demonstration"
+responsible_forces: "Central Islamic Revolutionary Prosecutor’s Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

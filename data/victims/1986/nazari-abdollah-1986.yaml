@@ -35,9 +35,8 @@ circumstances: >
     Court of Shiraz sentenced Mr. Nazari to death. After the Supreme Court
     approved the sentence, he and another man were executed on April 20, 1986
     at Adel Abad prison in Shiraz.
-event_context: null
-responsible_forces: null
-
+event_context: "1986 execution"
+responsible_forces: "Islamic Republic’s authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

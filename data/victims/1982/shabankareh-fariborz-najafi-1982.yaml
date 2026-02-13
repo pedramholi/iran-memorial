@@ -1,12 +1,15 @@
 id: shabankareh-fariborz-najafi-1982
 name_latin: "Fariborz Najafi Shabankareh"
 name_farsi: "فریبرز نجفی شبانکاره"
-date_of_birth: null
+date_of_birth: "1957-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "engineer"
 
 # --- DEATH ---
 date_of_death: 1982-01-01
@@ -50,9 +53,8 @@ circumstances: >
     the Peykar Organization, Mr. Fariborz Najafi-Shabankareh was executed by
     firing squad in Shiraz during the winter of 1984. No specific information
     is available about the defendant’s execution.
-event_context: null
-responsible_forces: null
-
+event_context: "executed or killed during clashes with the Islamic Republic security forces from June 1981 to the publication date of the magazine."
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -40,9 +40,8 @@ circumstances: >
     that the sentence included confiscation of property for six of the
     accused. It is not clear whether or not Mr. Aghzabi s properties were
     confiscated.
-event_context: null
-responsible_forces: null
-
+event_context: "July 5, 1980"
+responsible_forces: "Revolutionary Guard (Pasdaran)"
 # --- VERIFICATION ---
 status: unverified
 sources:

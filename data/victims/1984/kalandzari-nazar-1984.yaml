@@ -3,10 +3,13 @@ name_latin: "Nazar Kalandzari"
 name_farsi: "نظر کلند زری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "drug trafficker"
 
 # --- DEATH ---
 date_of_death: 1984-05-09
@@ -36,8 +39,7 @@ circumstances: >
     confirmed by the Islamic Revolution s Supreme Court, the sentence was
     carried out at night.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunals"
 # --- VERIFICATION ---
 status: unverified
 sources:

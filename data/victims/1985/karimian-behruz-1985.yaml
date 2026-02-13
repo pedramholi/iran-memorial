@@ -8,6 +8,13 @@ ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
 
+# --- LIFE ---
+occupation: "doctor"
+family:
+  marital_status: "married"
+  children: 1
+  notes: "father of one"
+
 # --- DEATH ---
 date_of_death: 1985-03-10
 age_at_death: 29
@@ -62,8 +69,7 @@ circumstances: >
     death sentence. Having been confirmed by the Supreme Judicial Council, the
     sentence was carried out at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Intelligence Office of Mazandaran"
 # --- VERIFICATION ---
 status: unverified
 sources:

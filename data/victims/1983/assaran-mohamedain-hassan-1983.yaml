@@ -3,7 +3,7 @@ name_latin: "Mohamedain Hassan Assaran"
 name_farsi: "محمدیان حسن عصاران"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -85,9 +85,8 @@ circumstances: >
     out from the other side of the world to determine the fate of Muslim
     countries? ... America pursues its corrupt goals through [Islamic and
     Arab] governments dependent on it, through wicked writers and s
-event_context: null
-responsible_forces: null
-
+event_context: "1983 bombing of the American Embassy in Beirut"
+responsible_forces: "Islamic Jihad"
 # --- VERIFICATION ---
 status: unverified
 sources:

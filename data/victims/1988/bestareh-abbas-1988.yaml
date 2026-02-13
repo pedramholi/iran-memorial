@@ -8,6 +8,13 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+occupation: "literature student"
+education: "Tehran University"
+beliefs: "member of the Tudeh Party"
+quotes:
+  - "Our children lived under most difficult conditions. Visits were limited to 10 minutes behind a glass divider through a telephone every two weeks. During the past seven years, we witnessed that they were denied access to anything that would have allowed them to establish contacts outside their prisons' walls."
+
 # --- DEATH ---
 date_of_death: 1988-01-01
 age_at_death: 29
@@ -82,9 +89,8 @@ circumstances: >
     refusing to repent. Judgment No specific information is available about
     the defendant’s execution. Mr. Bestareh was hanged during the mass killing
     of the political prisoners in September 1988.
-event_context: null
-responsible_forces: null
-
+event_context: "mass killings of the political prisoners in 1988"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

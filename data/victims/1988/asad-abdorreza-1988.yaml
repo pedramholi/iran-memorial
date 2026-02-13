@@ -2,11 +2,17 @@ id: asad-abdorreza-1988
 name_latin: "Abdorreza Asad"
 name_farsi: "عبدالرضا اسد"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Shiraz"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "engineer in electronics"
+family:
+  marital_status: "married"
+  children: 1
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -77,9 +83,8 @@ circumstances: >
     bodies, however, were not returned to them. The bodies were buried in mass
     graves. Authorities warned the families of prisoners against holding
     memorial ceremonies.
-event_context: null
-responsible_forces: null
-
+event_context: "1988 mass executions"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+beliefs: "participating in the assassination of a group of persons, being highly and continuously active in the military-political wing of the Hypocrites organization, carrying out an armed attack on governmental and revolutionary institutions, exploding homes belonging to Hizbollah members"
+
 # --- DEATH ---
 date_of_death: 1982-05-01
 age_at_death: null
@@ -34,8 +37,7 @@ circumstances: >
     Mr.Mehdizadeh’s defense. Judgment The Islamic Revolutionary Tribunal of
     Mashad sentenced Mr.Mehdizadeh to death. The sentence was carried out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal of Mashad"
 # --- VERIFICATION ---
 status: unverified
 sources:

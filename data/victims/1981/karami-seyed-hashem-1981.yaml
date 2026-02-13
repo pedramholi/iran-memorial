@@ -8,6 +8,12 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+occupation: "active member of the Student Section and a member of the Publications Committee for the Peykar Organization"
+beliefs: "member of the Peykar Organization for the Liberation of the Working Class"
+quotes:
+  - "an active member of the Student Section and a member of the Publications Committee for the Peykar Organization, which opposes our nation"
+
 # --- DEATH ---
 date_of_death: 1981-08-15
 age_at_death: null
@@ -70,9 +76,8 @@ circumstances: >
     No information is available on the defense. Judgment The Islamic
     Revolutionary Court of Tehran condemned Mr. Karami to death. He was
     executed in Evin prison in Tehran on August 15, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on August 15, 1981"
+responsible_forces: "Revolutionary Prosecution Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,16 @@
 id: mokhtari-kheirollah-1981
 name_latin: "Kheirollah Mokhtari"
 name_farsi: "خیرالله مختاری"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1966-01-01"
+place_of_birth: "Hamadan"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "high school student"
+beliefs: "MKO sympathizer"
 
 # --- DEATH ---
 date_of_death: 1981-09-21
@@ -48,9 +52,8 @@ circumstances: >
     Mokhtari was executed by a firing squad in Hamadan on September 21, 1981.
     His body was delivered to his father s house. He is buried in the Bahar
     cemetery.
-event_context: null
-responsible_forces: null
-
+event_context: "executed on September 21, 1981"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

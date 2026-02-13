@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+beliefs: "sympathizer of the Revolutionary Workers Organization of Iran-Rah-e Kargar"
+
 # --- DEATH ---
 date_of_death: 1986-01-01
 age_at_death: null
@@ -34,7 +37,7 @@ circumstances: >
     defence. Judgment No specific information is available about the
     defendant’s execution sentence. Mr. Dadfar was executed by a firing squad
     in 1986.
-event_context: null
+event_context: "executed by a firing squad in 1986"
 responsible_forces: null
 
 # --- VERIFICATION ---

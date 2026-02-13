@@ -34,9 +34,8 @@ circumstances: >
     Judgment The Islamic Revolutionary Tribunal of Tabriz condemned Mr. Nader
     Sabzalizadeh to death. He was executed at Tabriz prison in the evening of
     August 15, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 execution"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

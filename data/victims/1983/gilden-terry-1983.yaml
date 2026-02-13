@@ -1,12 +1,22 @@
 id: gilden-terry-1983
 name_latin: "Terry Gilden"
 name_farsi: "تری گیلدن"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1957-09-15"
+place_of_birth: "Chandler, Arizona"
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+occupation: "bodyguard"
+family:
+  marital_status: "married"
+  children: 1
+  notes: "father of one daughter named Teresa, who was 4 months old when Mr. Gilden was killed"
+quotes:
+  - "he was so crazy about [his daughter]"
+  - "he loved kids, babies so yes, he was excited to be a father"
 
 # --- DEATH ---
 date_of_death: 1983-04-18
@@ -85,9 +95,8 @@ circumstances: >
     about the potential consequences of the United States support for Iraq. As
     Khomeini stated in a speech of July 25, 1982, If we see that governments
     are giving financial and military assistance to the Iraqi govern
-event_context: null
-responsible_forces: null
-
+event_context: "1983 bombing of the American Embassy in Beirut"
+responsible_forces: "Islamic Jihad"
 # --- VERIFICATION ---
 status: unverified
 sources:

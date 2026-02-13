@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+beliefs: "supporter of the Mojahedin Khalq Organization"
+
 # --- DEATH ---
 date_of_death: 1981-08-23
 age_at_death: null
@@ -85,9 +88,8 @@ circumstances: >
     number of demonstrators were arrested and executed in the following days
     and weeks. The day after the demonstration, the Islamic Republic regime
     started a repressive campaign – unprecedented in modern Iranian history.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 protests"
+responsible_forces: "Islamic Revolutionary Prosecutor’s Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

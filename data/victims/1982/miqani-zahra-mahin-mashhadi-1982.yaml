@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+beliefs: "member of the Mujahedin-e Khalq Organization (MKO)"
+
 # --- DEATH ---
 date_of_death: 1982-10-29
 age_at_death: 25
@@ -85,9 +88,8 @@ circumstances: >
     territory a few times during the Iran-Iraq war. They were defeated in July
     1988 during their last operation, the Forugh Javidan Operation. A few days
     after this operation, thousands of imprisone
-event_context: null
-responsible_forces: null
-
+event_context: "June 20, 1981 demonstration"
+responsible_forces: "Islamic Revolutionary Tribunal of Arak"
 # --- VERIFICATION ---
 status: unverified
 sources:

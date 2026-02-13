@@ -3,7 +3,7 @@ name_latin: "Zabihollah Ahmadzadeh"
 name_farsi: "ذبیح الله احمدزاده"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,8 +38,7 @@ circumstances: >
     confirmed by the Supreme Judicial Council, the sentence was carried out in
     the Islamic Penitentiary of Zahedan’s Police Headquarters at 22:40 p.m.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

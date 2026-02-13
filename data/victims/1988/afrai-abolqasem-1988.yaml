@@ -1,12 +1,20 @@
 id: afrai-abolqasem-1988
 name_latin: "Abolqasem Afra'i"
 name_farsi: "ابوالقاسم افرایی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1939-01-01"
+place_of_birth: "Some'esara"
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "police officer"
+education: "Military College"
+family:
+  marital_status: "married"
+  children: 4
+beliefs: "member of the Tudeh Party"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -77,9 +85,8 @@ circumstances: >
     Iran. Judgment No specific information is available about the defendant’s
     execution. According to the book "The Tudeh Martyrs", Mr. Afra’i was
     hanged in the Gohardasht prison in September 1988.
-event_context: null
-responsible_forces: null
-
+event_context: "1988 executions"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

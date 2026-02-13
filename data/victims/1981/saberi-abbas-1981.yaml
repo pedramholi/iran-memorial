@@ -1,12 +1,19 @@
 id: saberi-abbas-1981
 name_latin: "Abbas Saberi"
 name_farsi: "عباس صابری"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1946-01-01"
+place_of_birth: "Ahvaz"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+education: "high school diploma"
+family:
+  marital_status: "married"
+quotes:
+  - "His will and letters to his wife and brother are published in the Siavoshan book."
 
 # --- DEATH ---
 date_of_death: 1981-08-05
@@ -49,9 +56,8 @@ circumstances: >
     execution sentence. According to the Mojahedin list, he was executed by a
     firing squad on August 5, 1981 in Dezful. His will and letters to his wife
     and brother are published in the Siavoshan book.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

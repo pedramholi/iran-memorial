@@ -2,11 +2,14 @@ id: ansari-majid-1988
 name_latin: "Majid Ansari"
 name_farsi: "مجید انصاری"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Shiraz"
 gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+beliefs: "affiliated with the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -77,9 +80,8 @@ circumstances: >
     however, were not returned to them. The bodies were buried in mass graves.
     Authorities warned the families of prisoners against holding memorial
     ceremonies.
-event_context: null
-responsible_forces: null
-
+event_context: "1988 mass killings of political prisoners"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

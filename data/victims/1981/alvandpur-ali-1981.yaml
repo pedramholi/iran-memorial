@@ -1,12 +1,16 @@
 id: alvandpur-ali-1981
 name_latin: "Ali Alvandpur"
 name_farsi: "علی الوندپور"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1958-01-01"
+place_of_birth: "Rasht"
 gender: male
 ethnicity: null
 religion: null
 photo: null
+
+# --- LIFE ---
+occupation: "high school graduate"
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-08-04
@@ -85,9 +89,8 @@ circumstances: >
     founded the National Council of Resistance. After the MKO leaders and many
     of its members were expelled from France, they went to Iraq and founded
     the National Liberation Army of Iran i
-event_context: null
-responsible_forces: null
-
+event_context: "1981 protests"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

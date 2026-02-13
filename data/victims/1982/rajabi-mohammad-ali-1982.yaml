@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "professional drug trafficker"
+
 # --- DEATH ---
 date_of_death: 1982-03-02
 age_at_death: null
@@ -40,8 +43,7 @@ circumstances: >
     Office sentenced Mr. Rajabi to death. Having been confirmed by the Supreme
     Judicial Council, the sentence was carried out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic Public Prosecution Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

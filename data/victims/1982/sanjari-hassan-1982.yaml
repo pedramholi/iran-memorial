@@ -35,8 +35,7 @@ circumstances: >
     Revolutionary Tribunal of Shiraz found Mr. Sanjari guilty of being a
     corruptor on earth and sentenced him to death.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

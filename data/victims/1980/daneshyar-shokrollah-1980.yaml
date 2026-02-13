@@ -3,10 +3,14 @@ name_latin: "Shokrollah Daneshyar"
 name_farsi: "شکرالله دانشیار"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "in charge of Peykar’s tents"
+beliefs: "sympathizer of Peykar Organization for the Liberation of the Working Class"
 
 # --- DEATH ---
 date_of_death: 1980-10-19
@@ -50,7 +54,7 @@ circumstances: >
     against the defendant. Defense No information is available on Mr.
     Daneshyar’s defense. Judgment Mr. Daneshyar was executed by firing squad
     in Abadan on October 19, 1980.
-event_context: null
+event_context: "Iran-Iraq War"
 responsible_forces: null
 
 # --- VERIFICATION ---

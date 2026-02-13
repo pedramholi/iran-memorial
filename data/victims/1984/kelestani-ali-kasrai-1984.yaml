@@ -1,12 +1,18 @@
 id: kelestani-ali-kasrai-1984
 name_latin: "Ali Kasra'i Kelestani"
 name_farsi: "علی کسرایی کلستانی"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1942-01-01"
+place_of_birth: "Kelestan village"
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  notes: "his wife was battered during his arrest"
+personality: "kind and well-respected"
 
 # --- DEATH ---
 date_of_death: 1984-07-09
@@ -38,9 +44,8 @@ circumstances: >
     available about the death sentence. Mr. Ali Kasra’i Kelestani was executed
     by a firing squad at Gezelhesar on July 9, 1984. The authorities informed
     his family of his execution, after the burial.
-event_context: null
-responsible_forces: null
-
+event_context: "executed by a firing squad on July 9, 1984"
+responsible_forces: "government"
 # --- VERIFICATION ---
 status: unverified
 sources:

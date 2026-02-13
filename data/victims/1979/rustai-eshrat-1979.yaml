@@ -2,8 +2,8 @@ id: rustai-eshrat-1979
 name_latin: "Eshrat Rusta'i"
 name_farsi: "عشرت روستایی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Malayer"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -41,9 +41,8 @@ circumstances: >
     is available on the defense. Judgment The Islamic Revolutionary Tribunal
     of Malayer sentenced Mr. Rusta’i to death. He was executed at dawn,
     shortly after the issuance of the verdict.
-event_context: null
-responsible_forces: null
-
+event_context: "1979"
+responsible_forces: "Islamic Revolutionary Committee Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

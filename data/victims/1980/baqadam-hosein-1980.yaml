@@ -3,7 +3,7 @@ name_latin: "Hosein Baqadam"
 name_farsi: "حسین باقدم"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -36,8 +36,7 @@ circumstances: >
     Judgment The Islamic Revolutionary Tribunal of Dezful sentenced Mr.
     Baqadam to death. He was executed along at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

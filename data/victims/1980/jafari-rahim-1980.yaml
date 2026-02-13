@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "drug producer and dealer"
+
 # --- DEATH ---
 date_of_death: 1980-11-16
 age_at_death: null
@@ -45,9 +48,8 @@ circumstances: >
     sentenced Mr. Ja fari to death sometime between his arrest during the
     night and his execution at 11:00 a.m. The sentence was carried out in the
     Merianj cemetery.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on November 15th, 1980"
+responsible_forces: "Islamic Revolutionary Committee"
 # --- VERIFICATION ---
 status: unverified
 sources:

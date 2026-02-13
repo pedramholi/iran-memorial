@@ -3,10 +3,13 @@ name_latin: "Sa'id Loqmani Ardakani"
 name_farsi: "سعید لقمانی اردکانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of Mojahedin Khalq Iran"
 
 # --- DEATH ---
 date_of_death: 1981-10-05
@@ -87,8 +90,7 @@ circumstances: >
     government offices and the closure of their centers and publishing houses,
     in
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

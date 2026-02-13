@@ -1,7 +1,7 @@
 id: nokhodchari-ali-zamiri-1981
 name_latin: "Ali Zamiri Nokhodchari"
 name_farsi: "علی ضمیری نخودچری"
-date_of_birth: null
+date_of_birth: "1959-01-01"
 place_of_birth: null
 gender: male
 ethnicity: null
@@ -47,9 +47,8 @@ circumstances: >
     According to the list of Martyrs of the Peykar Organization, Mr. Ali
     Zamiri Nokhodchari was executed by firing squad in Mashhad on December 26,
     1981. He was 22 years old.
-event_context: null
-responsible_forces: null
-
+event_context: "executed or killed during clashes with the Islamic Republic security forces from June 1981 to the publication date of the magazine"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

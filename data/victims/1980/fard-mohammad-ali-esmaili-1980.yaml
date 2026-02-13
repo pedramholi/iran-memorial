@@ -45,9 +45,8 @@ circumstances: >
     Defense No information is available on the accused s defense. Judgment The
     Islamic Revolutionary Tribunal of the Center (Tehran) sentenced Mr.
     Esmaili Fard to death. He was executed in the Evin prison at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "Islamic Revolutionary Tribunal of the Center (Tehran)"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

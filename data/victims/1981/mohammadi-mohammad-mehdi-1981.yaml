@@ -8,6 +8,12 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+beliefs: "possible sympathizer of the Fadaiyan Khalq Organization (Minority)"
+quotes:
+  - "Sympathizing with the fighting groups, distributing books, publications, and cassettes for them, and organizing anti-revolutionaries under the cover of establishing a support fund for the relatives of these groups’ members."
+  - "effective activity against the Islamic Republic regime, weakening the regime by distribution of communist books, publications, and posters, misleading the younger generation by organizing anti-revolutionaries under the pretext of creating a support fund for those who were purged in the educational field, and establishing connections among various individuals in the organization."
+
 # --- DEATH ---
 date_of_death: 1981-12-22
 age_at_death: null
@@ -64,9 +70,8 @@ circumstances: >
     against Imam and the Islamic Regime, and Mortad (apostate)" and condemned
     him to death. The ruling was carried out in Shushtar on December 21, 1981
     at midnight.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on December 21, 1981"
+responsible_forces: "Islamic Revolutionary Court of Masjedsoleiman"
 # --- VERIFICATION ---
 status: unverified
 sources:

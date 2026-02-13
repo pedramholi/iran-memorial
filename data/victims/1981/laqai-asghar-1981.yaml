@@ -2,11 +2,19 @@ id: laqai-asghar-1981
 name_latin: "Asghar Laqa'i"
 name_farsi: "اصغر لقائی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Tehran"
 gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "worked at the Tehran bazaar"
+family:
+  marital_status: "married"
+  children: 2
+  notes: "the younger one was born after his execution"
+beliefs: "nationalist and member of the Iran Nation Party"
 
 # --- DEATH ---
 date_of_death: 1981-10-22
@@ -46,9 +54,8 @@ circumstances: >
     evidence provided against the defendant. Defense No information is
     available on Mr. Laqa i s defense. Judgment Mr. Laqa i was sentenced to
     death and executed in 1981 in Evin prison.
-event_context: null
-responsible_forces: null
-
+event_context: "executed or killed during clashes with the Islamic Republic security forces from June 1981 to the publication date of the magazine"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

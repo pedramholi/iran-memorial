@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
 
+# --- LIFE ---
+beliefs: "supporter of the Mojahedin Khalq Organization"
+
 # --- DEATH ---
 date_of_death: 1981-10-05
 age_at_death: null
@@ -64,9 +67,8 @@ circumstances: >
     death for being “rebellious against Islam”, “an enemy of God”, and “a
     corruptor on earth.” The sentence was carried out at dawn in the courtyard
     of the Prison.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

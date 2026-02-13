@@ -3,10 +3,13 @@ name_latin: "Nasrollah Sedarat"
 name_farsi: "نصرالله صدارت"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "position at the SAVAK"
 
 # --- DEATH ---
 date_of_death: 1980-07-31
@@ -28,8 +31,7 @@ circumstances: >
     Judgment The Islamic Revolutionary Tribunal of the Army sentenced Mr.
     Sedarat to death. He was executed at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal of the Army"
 # --- VERIFICATION ---
 status: unverified
 sources:

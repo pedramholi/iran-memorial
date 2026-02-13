@@ -2,11 +2,15 @@ id: ram-adel-1983
 name_latin: "Adel Ram"
 name_farsi: "عادل رام"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Bandar Torkaman"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+education: "high school"
+beliefs: "member of the Tudeh Party"
 
 # --- DEATH ---
 date_of_death: 1983-05-07

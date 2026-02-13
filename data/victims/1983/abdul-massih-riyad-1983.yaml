@@ -1,12 +1,19 @@
 id: abdul-massih-riyad-1983
 name_latin: "Riyad Abdul-Massih"
 name_farsi: "رياض عبد المسيح"
-date_of_birth: null
+date_of_birth: "1930-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Christianity"
 photo: null
+
+# --- LIFE ---
+occupation: "chief librarian"
+family:
+  marital_status: "married"
+  children: 2
+personality: "described as a civil and generous man"
 
 # --- DEATH ---
 date_of_death: 1983-04-18
@@ -85,9 +92,8 @@ circumstances: >
     and their insinuations and suggestions to their stooges in the region, he
     said in January of 1983. All problems are caused by them, and these
     problems will not be resolved unless we rid ourselves o
-event_context: null
-responsible_forces: null
-
+event_context: "1983 bombing of the American Embassy in Beirut"
+responsible_forces: "Islamic Jihad"
 # --- VERIFICATION ---
 status: unverified
 sources:

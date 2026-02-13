@@ -3,10 +3,13 @@ name_latin: "Abdolkarim Baghi"
 name_farsi: "عبد الکریم باغی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "driver"
 
 # --- DEATH ---
 date_of_death: 1980-06-27
@@ -34,8 +37,7 @@ circumstances: >
     Islamic Revolutionary Tribunal of Ahvaz. The sentence was carried out in
     the city at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Guard"
 # --- VERIFICATION ---
 status: unverified
 sources:

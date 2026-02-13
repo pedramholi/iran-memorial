@@ -3,10 +3,13 @@ name_latin: "Qodratollah Rezaeevand"
 name_farsi: "قدرت الله رضائی وند"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "international drug trafficker"
 
 # --- DEATH ---
 date_of_death: 1982-03-02
@@ -40,8 +43,7 @@ circumstances: >
     sentenced Mr. Rezaeevand to death. Having been confirmed by the Supreme
     Judicial Council, the sentence was carried out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary s Public Prosecutor s Office for Anti-Drug Campaign"
 # --- VERIFICATION ---
 status: unverified
 sources:

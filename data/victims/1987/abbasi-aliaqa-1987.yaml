@@ -3,10 +3,14 @@ name_latin: "Aliaqa Abbasi"
 name_farsi: "علی آقا عباسی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "was taken from the solitary confinement to the prison guard’s room at 4:30 a.m. At first… the religious rituals were performed. Then after saying his morning prayers and writing his will, the convict was taken to the gallows."
 
 # --- DEATH ---
 date_of_death: 1987-12-23
@@ -43,8 +47,7 @@ circumstances: >
     from the gallowed and carried to the Department of Forensic Medicine after
     12 minutes.”
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic’s authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -8,6 +8,11 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "sandwich-maker"
+quotes:
+  - "I will visit all areas of Kurdistan… and will bring to justice anybody who was involved in these bloody plots"
+
 # --- DEATH ---
 date_of_death: 1979-08-27
 age_at_death: null
@@ -85,9 +90,8 @@ circumstances: >
     10 other individuals as “corrupt on earth” and condemned them to death. At
     4:30 p.m. on August 27, 1979, the defendants were taken in front of a
     firing squad at Sanandaj airport. Mr. Pirvali “was s
-event_context: null
-responsible_forces: null
-
+event_context: "August 1979 executions"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

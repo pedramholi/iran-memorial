@@ -86,9 +86,8 @@ circumstances: >
     information is available regarding members and activities of the MKO
     inside the country. In defense: In spite of the “armed struggle”
     announcement by the MKO
-event_context: null
-responsible_forces: null
-
+event_context: "June 20, 1981 demonstration"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

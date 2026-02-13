@@ -3,10 +3,13 @@ name_latin: "Habibollah Matu"
 name_farsi: "حبیب الله ماتو"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-08-22
@@ -84,9 +87,8 @@ circumstances: >
     announcement by the MKO on June 20, 1981, many sympathizers of the
     organization had no military training, were not armed, and did not
     participate in armed conflict.
-event_context: null
-responsible_forces: null
-
+event_context: "June 20, 1981 demonstration"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

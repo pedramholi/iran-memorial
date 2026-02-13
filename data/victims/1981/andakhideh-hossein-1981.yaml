@@ -2,11 +2,16 @@ id: andakhideh-hossein-1981
 name_latin: "Hossein Andakhideh"
 name_farsi: "حسین اندخیده"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Bandar Dir, Bushehr province"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "teacher"
+education: "high school graduate"
+beliefs: "affiliated with various opposition groups"
 
 # --- DEATH ---
 date_of_death: 1981-08-29
@@ -49,7 +54,7 @@ circumstances: >
     defense. Judgment According to the list of the Peykar Organization, Mr.
     Hossein Andekhideh was shot by a firing squad in Bushehr on August 29,
     1981.
-event_context: null
+event_context: "executed on August 29, 1981"
 responsible_forces: null
 
 # --- VERIFICATION ---

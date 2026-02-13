@@ -8,6 +8,11 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+quotes:
+  - "Mr. Delavari was accused of being in possession of \"480 grams of heroin\"."
+  - "a corruptor on earth and at war with God"
+
 # --- DEATH ---
 date_of_death: 1981-07-15
 age_at_death: null
@@ -38,9 +43,8 @@ circumstances: >
     Mr. Delavari for being "a corruptor on earth and at war with God", and the
     Supreme Judicial Council approved the verdict. He was executed at midnight
     on Wednesday July 15th, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 execution"
+responsible_forces: "Islamic Revolutionary Tribunal of Tabriz"
 # --- VERIFICATION ---
 status: unverified
 sources:

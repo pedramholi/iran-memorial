@@ -1,12 +1,21 @@
 id: esfahani-hamidreza-borhani-1981
 name_latin: "Hamidreza Borhani Esfahani"
 name_farsi: "حمیدرضا برهانی اصفهانی"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1962-01-01"
+place_of_birth: "Esfahan"
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "student"
+education: "Hekim Sana i high school"
+family:
+  marital_status: "single"
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
+quotes:
+  - "Mr. Borhani-Esfahani defended his beliefs to the last moment."
 
 # --- DEATH ---
 date_of_death: 1981-10-30
@@ -85,9 +94,8 @@ circumstances: >
     sympathizers were arrested or executed. On June 21, 1981, the MKO
     announced an armed struggle against the Islamic Republic and assassinated
     a number of high-ranking officials and supporters of the Islam
-event_context: null
-responsible_forces: null
-
+event_context: "1981 protests"
+responsible_forces: "Revolutionary Guard"
 # --- VERIFICATION ---
 status: unverified
 sources:

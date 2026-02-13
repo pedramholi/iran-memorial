@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+occupation: "engineer"
+beliefs: "political activist"
+
 # --- DEATH ---
 date_of_death: 1981-10-19
 age_at_death: 30
@@ -49,9 +53,8 @@ circumstances: >
     Ashkan was executed on October 19, 1981; although in fact he died under
     torture in Chahbahar (in the province of Sistan and Baluchestan) in
     mid-September, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "executed on October 19, 1981; died under torture in mid-September, 1981"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

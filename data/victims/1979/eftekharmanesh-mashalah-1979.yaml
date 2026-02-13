@@ -3,10 +3,13 @@ name_latin: "Mashalah Eftekharmanesh"
 name_farsi: "ماشااله افتخارمنش"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "Lt. Colonel"
 
 # --- DEATH ---
 date_of_death: 1979-04-07

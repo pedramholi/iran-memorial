@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "head of the Oqab Team"
+beliefs: "member of the so-called Anti-Terrorist Joint Committee"
+
 # --- DEATH ---
 date_of_death: 1980-03-11
 age_at_death: null
@@ -33,8 +37,7 @@ circumstances: >
     regarding his defense is available. Judgment Mr. Azarbod was sentenced to
     death, and he stood before the firing squad in the morning.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "SAVAK"
 # --- VERIFICATION ---
 status: unverified
 sources:

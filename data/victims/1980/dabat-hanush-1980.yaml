@@ -3,7 +3,7 @@ name_latin: "Hanush Dabat"
 name_farsi: "حنوش دبات"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -30,8 +30,7 @@ circumstances: >
     found Mr. Dabat and the other five defendants guilty of “corruption on
     earth.” They were executed at 10 a.m.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

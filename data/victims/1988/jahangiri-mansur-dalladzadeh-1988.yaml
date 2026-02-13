@@ -1,12 +1,16 @@
 id: jahangiri-mansur-dalladzadeh-1988
 name_latin: "Mansur Dalladzadeh Jahangiri"
 name_farsi: "منصور دلال زاده جهانگیری"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1958-01-01"
+place_of_birth: "Tehran"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "student"
+education: "Aria Mehr University (today’s Sharif University)"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -84,9 +88,8 @@ circumstances: >
     victims’ belongings to their families. The bodies, however, were not
     returned to them. The bodies were buried in mass graves. Authorities
     warned the families of prisoners against holding memorial ceremonies.
-event_context: null
-responsible_forces: null
-
+event_context: "mass killings of political prisoners in 1988"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "police officer"
+
 # --- DEATH ---
 date_of_death: 1980-07-19
 age_at_death: null
@@ -47,9 +50,8 @@ circumstances: >
     Charkh a “corruptor on earth” and “at war with God and hid prophet” and
     condemned him to death. He was executed, along with his three
     codefendants, in Rask at 9 p.m. on July 19, 1980.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on July 19, 1980"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

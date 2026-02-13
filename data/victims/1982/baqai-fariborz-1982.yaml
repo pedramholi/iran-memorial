@@ -2,11 +2,20 @@ id: baqai-fariborz-1982
 name_latin: "Fariborz Baqa'i"
 name_farsi: "فریبرز بقایی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Esfahan"
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+occupation: "electrical engineering student"
+education: "fourth-year electrical engineering student"
+family:
+  marital_status: "married"
+  notes: "spouse was informed of the execution"
+personality: "remembered as a young man who loved to hike, hunt, and paint"
+beliefs: "leftist political leanings"
 
 # --- DEATH ---
 date_of_death: 1982-02-04
@@ -55,7 +64,7 @@ circumstances: >
     spouse who had gone to Evin prison to visit her husband that she should
     look for him at the Behesht-e Zahra cemetery. The family's knowledge of
     the execution date is based on the cemetery's records.
-event_context: null
+event_context: "1981"
 responsible_forces: null
 
 # --- VERIFICATION ---

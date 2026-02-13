@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Unknown"
 photo: null
 
+# --- LIFE ---
+occupation: "civil servant"
+
 # --- DEATH ---
 date_of_death: 1980-02-15
 age_at_death: 22
@@ -35,8 +38,7 @@ circumstances: >
     Judgment The Islamic Revolutionary Tribunal of Meshgin Shahr sentenced Mr.
     Naqavi to death. The sentence was carried out at 3 in the morning.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -37,9 +37,8 @@ circumstances: >
     against the defendant. Defense No information is available on Mr. Azadi's
     defense. Judgment The Anti-Narcotics Islamic Revolutionary Tribunal of
     Tehran sentenced Mr. Azadi to death. The sentence was carried out.
-event_context: null
-responsible_forces: null
-
+event_context: "1982"
+responsible_forces: "Anti-Narcotics Section of the Public Prosecutor's Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

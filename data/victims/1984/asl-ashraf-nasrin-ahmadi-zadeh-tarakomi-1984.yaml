@@ -3,7 +3,7 @@ name_latin: "Ashraf (Nasrin) Ahmadi Zadeh Tarakomi Asl"
 name_farsi: "اشرف (نسرین) احمدی زاده تراکمی اصل"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Islam"
 photo: null
@@ -30,9 +30,8 @@ circumstances: >
     No information is available on Ms. Ahmadi Zadeh Tarakomi Asl s defense.
     Judgment No specific information is available about the verdict leading to
     this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "executed or killed during clashes with the Islamic Republic security forces from June 1981 to 1985"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

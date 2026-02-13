@@ -1,12 +1,17 @@
 id: sanchuli-mahmud-1982
 name_latin: "Mahmud Sanchuli"
 name_farsi: "محمود سنچولی"
-date_of_birth: null
+date_of_birth: "1957-01-01"
 place_of_birth: null
-gender: null
-ethnicity: null
+gender: male
+ethnicity: "Baluch"
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "student"
+education: "Teacher Training School"
+beliefs: "activist for Peykar"
 
 # --- DEATH ---
 date_of_death: 1982-01-01
@@ -46,9 +51,8 @@ circumstances: >
     No information is available on Mr. Sanchuli s defense. Judgment According
     to Mojahed , Mr. Sanchuli was executed by firing squad in Zahedan on April
     10, 1982. He was 25 years old.
-event_context: null
-responsible_forces: null
-
+event_context: "executed on April 10, 1982"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

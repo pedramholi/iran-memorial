@@ -2,11 +2,16 @@ id: neyestanaki-majid-kalantar-1984
 name_latin: "Majid Kalantar Neyestanaki"
 name_farsi: "مجید کلانتر نیستانکی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Tehran"
 gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "high school student"
+education: "high school"
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1984-01-01
@@ -31,9 +36,8 @@ circumstances: >
     Judgment No specific information is available about the verdict leading to
     this execution. Mr. Majid Kalantar Neyestanaki was executed at Evin prison
     in 1984.
-event_context: null
-responsible_forces: null
-
+event_context: "1984"
+responsible_forces: "Iranian authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

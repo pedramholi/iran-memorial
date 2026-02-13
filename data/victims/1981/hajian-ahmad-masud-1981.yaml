@@ -8,6 +8,15 @@ ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
 
+# --- LIFE ---
+occupation: "assistant professor"
+education: "masters"
+family:
+  marital_status: "married"
+  children: 2
+  notes: "father of two"
+beliefs: "supporter of the Mojahedin Khalq Organization of Iran"
+
 # --- DEATH ---
 date_of_death: 1981-07-18
 age_at_death: 30
@@ -29,9 +38,8 @@ circumstances: >
     a fair trial. Evidence of guilt The report of this execution does not
     contain information regarding the evidence provided against the defendant.
     Defense No information is available on Mr. Hajian’s defense. Judgment
-event_context: null
-responsible_forces: null
-
+event_context: "executed or killed during clashes with the Islamic Republic security forces from June 1981 to the publication date of the magazine"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

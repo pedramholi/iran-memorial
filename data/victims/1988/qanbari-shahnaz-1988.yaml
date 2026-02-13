@@ -3,7 +3,7 @@ name_latin: "Shahnaz Qanbari"
 name_farsi: "شهناز قنبری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Islam"
 photo: null
@@ -36,9 +36,8 @@ circumstances: >
     defendant. Defense No information is available on Ms. Ghanbari's defense.
     Judgment No information is available on the judgment or whether an appeal
     was allowed. Ms. Ghanbari was executed in October, 1988.
-event_context: null
-responsible_forces: null
-
+event_context: "1988-89 mass execution of political prisoners"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

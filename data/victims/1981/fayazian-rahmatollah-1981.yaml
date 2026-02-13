@@ -3,10 +3,14 @@ name_latin: "Rahmatollah Fayazian"
 name_farsi: "رحمت‌الله فیاضیان"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+occupation: "police warrant officer"
+beliefs: "opposed the religious rule and believed in the separation of church and state"
 
 # --- DEATH ---
 date_of_death: 1981-12-22
@@ -83,9 +87,8 @@ circumstances: >
     condemned to death. The ruling was carried out when he was executed by
     firing squad in Sanandaj on December 21, 1981. No specific information is
     available about the defendant s execution.
-event_context: null
-responsible_forces: null
-
+event_context: "Nojeh coup"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

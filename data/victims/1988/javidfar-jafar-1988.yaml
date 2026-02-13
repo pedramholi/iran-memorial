@@ -1,12 +1,17 @@
 id: javidfar-jafar-1988
 name_latin: "Ja'far Javidfar"
 name_farsi: "جعفر جاويد فر"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1928-01-01"
+place_of_birth: "Kermanshah"
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "sociologist"
+education: "PhD in Sociology"
+beliefs: "member of the Tudeh Party"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -86,9 +91,8 @@ circumstances: >
     sentenced to death. It is possible that the prisoners who were members of
     organizations other than the Mojahedin Khalq were charge for being "anti
     religi
-event_context: null
-responsible_forces: null
-
+event_context: "1988 mass killings of political prisoners"
+responsible_forces: "Iranian authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

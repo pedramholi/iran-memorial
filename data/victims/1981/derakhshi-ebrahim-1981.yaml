@@ -1,12 +1,18 @@
 id: derakhshi-ebrahim-1981
 name_latin: "Ebrahim Derakhshi"
 name_farsi: "ابراهیم درخشی"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1958-01-01"
+place_of_birth: "Takab"
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "student"
+family:
+  marital_status: "single"
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-09-29
@@ -86,9 +92,8 @@ circumstances: >
     confinement to obtain confessions from detainees and have questioned the
     authenticity of confessions obtained under duress. In the case of
     political detainee
-event_context: null
-responsible_forces: null
-
+event_context: "demonstration of September 27, 1981"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

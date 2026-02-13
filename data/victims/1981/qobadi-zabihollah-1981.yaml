@@ -1,9 +1,9 @@
 id: qobadi-zabihollah-1981
 name_latin: "Zabihollah Qobadi"
 name_farsi: "ذبیح‌الله قبادی"
-date_of_birth: null
+date_of_birth: "1935-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -43,8 +43,7 @@ circumstances: >
     Shirgah-Qa em Shahr road. Mr. Qobadi was 46 years old at the time of his
     execution.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Qa em Shahr Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

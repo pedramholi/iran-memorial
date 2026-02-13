@@ -3,7 +3,7 @@ name_latin: "Mahmud Famil"
 name_farsi: "محمود فامیل"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,8 +38,7 @@ circumstances: >
     confirmed by the Islamic Revolution s Supreme Court, the sentence was
     carried out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

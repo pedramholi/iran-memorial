@@ -8,6 +8,11 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+occupation: "worked at the Water Piping Company"
+education: "high school graduate"
+beliefs: "member of the Mojahedin Khalq Organization"
+
 # --- DEATH ---
 date_of_death: 1988-01-01
 age_at_death: 28
@@ -85,7 +90,7 @@ circumstances: >
     authorities accusations against the prisoners accusations that may have
     led to their execution. These accusations include being
     counter-revolutionary, anti-religion, and anti-Islam, as well as b
-event_context: null
+event_context: "1988 massacre"
 responsible_forces: null
 
 # --- VERIFICATION ---

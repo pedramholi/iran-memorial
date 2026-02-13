@@ -2,7 +2,7 @@ id: salahi-samad-1981
 name_latin: "Samad Salahi"
 name_farsi: "صمد  صلاحی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Seyvand"
 gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
@@ -63,9 +63,8 @@ circumstances: >
     being “rebellious against Islam”, “an enemy of God”, and “a corruptor on
     earth.” The sentence was carried out at dawn in the courtyard of the
     Prison.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

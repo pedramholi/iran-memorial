@@ -3,7 +3,7 @@ name_latin: "Shah Karam Orkideh"
 name_farsi: "شاه کرم ارکیده"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -39,8 +39,7 @@ circumstances: >
     Tribunal of Karaj sentenced Mr. Shah Karam Orkideh to death. He was
     executed in Karaj.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

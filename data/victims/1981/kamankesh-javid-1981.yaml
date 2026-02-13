@@ -8,6 +8,12 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+beliefs: "member of Peykar Organization for the Liberation of the Working Class"
+quotes:
+  - "participation in street fighting, activities against the Islamic Republic Regime, propaganda, and distribution of hand-written publications."
+  - "Mohareb (fighter) against God and the Prophet, Mofsed (corruptor on Earth), and Baghi (rebel)"
+
 # --- DEATH ---
 date_of_death: 1981-10-20
 age_at_death: 15
@@ -59,9 +65,8 @@ circumstances: >
     Mofsed(corruptor on Earth), and Baghi (rebel)." He was condemned to death
     and the ruling carried out on October 20, 1981. No detailed information is
     available concerning this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "executed on October 20, 1981"
+responsible_forces: "Islamic Revolutionary Court of Borujerd"
 # --- VERIFICATION ---
 status: unverified
 sources:

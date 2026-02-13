@@ -8,6 +8,12 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+occupation: "senior in high school"
+beliefs: "opposed the government’s interpretation of Islam"
+quotes:
+  - "anti-Islam and anti-revolutionary"
+
 # --- DEATH ---
 date_of_death: 1982-01-01
 age_at_death: 18
@@ -41,8 +47,7 @@ circumstances: >
     his father was told that Mr. Purzad was executed, but the authorities did
     not disclose the location of his burial.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

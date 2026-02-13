@@ -1,12 +1,18 @@
 id: nuri-ataollah-1988
 name_latin: "Ata'ollah Nuri"
 name_farsi: "عطا‌الله نوری"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1964-01-01"
+place_of_birth: "Tehran"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "supporter of Mojahedin e Khalq Organization"
+education: "high school diploma"
+family:
+  marital_status: "single"
 
 # --- DEATH ---
 date_of_death: 1988-01-01

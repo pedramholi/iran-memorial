@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+beliefs: "member of Mojahedin Khalq Iran"
+
 # --- DEATH ---
 date_of_death: 1984-03-02
 age_at_death: 24
@@ -85,9 +88,8 @@ circumstances: >
     killed during the mass executions of political prisoners in 1988. Ever
     since the summer of 1981, the MKO has continued its activities outside of
     Iran. No information is available regarding members and
-event_context: null
-responsible_forces: null
-
+event_context: "June 20, 1981 demonstration"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

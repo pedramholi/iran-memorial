@@ -3,10 +3,13 @@ name_latin: "Sudabeh Baqayi"
 name_farsi: "سودابه بقایی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+beliefs: "supporter of the Mojahedin Khalq of Iran Organization"
 
 # --- DEATH ---
 date_of_death: 1981-11-29
@@ -31,9 +34,8 @@ circumstances: >
     information regarding the evidence provided against the defendant. Defense
     No information is available on Ms. Baqayi's defense. Judgment No specific
     information regarding the death sentence is available.
-event_context: null
-responsible_forces: null
-
+event_context: "executed prisoners listed by the Association of Iranian Women of Köln"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

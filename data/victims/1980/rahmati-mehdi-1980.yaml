@@ -37,8 +37,7 @@ circumstances: >
     Judgment The religious judge at the Islamic Revolutionary Tribunal of
     Isfahan sentenced Mr. Rahmati to death.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

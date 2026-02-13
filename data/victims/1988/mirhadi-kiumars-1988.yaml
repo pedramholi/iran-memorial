@@ -1,12 +1,15 @@
 id: mirhadi-kiumars-1988
 name_latin: "Kiumars Mirhadi"
 name_farsi: "کیومرث میر هادی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1963-01-01"
+place_of_birth: "Tehran"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "member of the High School Student Militia of MKO"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -71,9 +74,8 @@ circumstances: >
     information is available about the execution sentence. Mr. Kiumars Mirhadi
     was hanged during the mass killings of the political prisoners at
     Gohardasht Prison in August 1988.
-event_context: null
-responsible_forces: null
-
+event_context: "1988 mass execution of political prisoners"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

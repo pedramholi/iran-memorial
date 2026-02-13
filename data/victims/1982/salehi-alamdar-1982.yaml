@@ -1,12 +1,19 @@
 id: salehi-alamdar-1982
 name_latin: "Alamdar Salehi"
 name_farsi: "علمدار صالحی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1958-01-01"
+place_of_birth: "Bardestan, Bushehr"
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "teacher"
+education: "high school diploma"
+family:
+  marital_status: "single"
+beliefs: "supporter of the Peykar Organization for the Liberation of the Working Class"
 
 # --- DEATH ---
 date_of_death: 1982-09-19
@@ -48,9 +55,8 @@ circumstances: >
     on Mr. Salehi's defense. Judgment According to available information, Mr.
     Alamdar Salehi was hanged in public in the city of Bandar Abbas in
     1981-82. Mr. Salehi was 23 years old.
-event_context: null
-responsible_forces: null
-
+event_context: "1981-82"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

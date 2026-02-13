@@ -3,7 +3,7 @@ name_latin: "Eslami"
 name_farsi: "اسلامی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Islam"
 photo: null
@@ -58,9 +58,8 @@ circumstances: >
     the families reject the claim of the authorities that these prisoners were
     able to engage with the political groups outside Iran. Judgment No
     sentence was issued publicly.
-event_context: null
-responsible_forces: null
-
+event_context: "1988-89 mass execution of political prisoners"
+responsible_forces: "PMIO"
 # --- VERIFICATION ---
 status: unverified
 sources:

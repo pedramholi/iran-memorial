@@ -84,9 +84,8 @@ circumstances: >
     of the armed struggle announcement by the MKO on June 20, 1981, many
     sympathizers of the organization had no military training, were not armed,
     and did not participate in armed conflict.
-event_context: null
-responsible_forces: null
-
+event_context: "June 1981 protests"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

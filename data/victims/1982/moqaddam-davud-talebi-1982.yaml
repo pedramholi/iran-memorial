@@ -3,10 +3,14 @@ name_latin: "Davud Talebi Moqaddam"
 name_farsi: "داوود طالبی مقدم"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "senior activist"
+beliefs: "Head of the Central Committee of the Student Organization of Peykar"
 
 # --- DEATH ---
 date_of_death: 1982-01-01
@@ -43,7 +47,7 @@ circumstances: >
     Talebi Moqaddam’s defense. Judgment According to the list of Martyrs of
     the Peykar Organization, Mr. Davud Talebi Moqaddam was killed when
     tortured in the winter of 1982.
-event_context: null
+event_context: "winter of 1982"
 responsible_forces: null
 
 # --- VERIFICATION ---

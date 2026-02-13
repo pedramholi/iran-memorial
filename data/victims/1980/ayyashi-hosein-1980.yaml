@@ -3,7 +3,7 @@ name_latin: "Hosein Ayyashi"
 name_farsi: "حسین عیاشی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -33,9 +33,8 @@ circumstances: >
     declared Mr. Ayyashi a corruptor on earth and sentenced him to death. The
     sentence was carried out at 1 p.m. the day after his trial in Imam
     Khomeini Square in Ahvaz.
-event_context: null
-responsible_forces: null
-
+event_context: "1980"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -2,11 +2,16 @@ id: shafii-amir-1981
 name_latin: "Amir Shafi'i"
 name_farsi: "امیر شفیعی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Arak"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "high school student"
+education: "high school"
+beliefs: "sympathizer of the Revolutionary Workers Organization of Iran-Rah-e Kargar"
 
 # --- DEATH ---
 date_of_death: 1981-01-01
@@ -34,7 +39,7 @@ circumstances: >
     defence. Judgment No specific information is available about the
     defendant’s execution. According to the above source, Mr. Shafi’i was
     executed by firing squad in Arak in December of 1981.
-event_context: null
+event_context: "executed by firing squad in December of 1981"
 responsible_forces: null
 
 # --- VERIFICATION ---

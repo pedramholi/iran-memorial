@@ -3,10 +3,15 @@ name_latin: "Feyzollah Moshrefi"
 name_farsi: "فیض الله مشرفی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of Mojahedin Khalq Iran"
+quotes:
+  - "being a member of the armed wing of the People' s Mojahedin Organization... armed action against the Islamic Republic of Iran, terror, murder and attacking the revolutionary guard and bassij brothers, attacking the Bassij dormitories, throwing Molotov cocktails and three ways [explosives] in public places, [aiming] cars and shops of the revolutionary guards, Bassij and the hezbollahi people."
 
 # --- DEATH ---
 date_of_death: 1981-09-27
@@ -85,9 +90,8 @@ circumstances: >
     impeached President (Banisadr) fled Iran to reside in France, where they
     founded the National Council of Resistance. After the MKO leaders and many
     of its members were expelled from France, they went to Iraq and found
-event_context: null
-responsible_forces: null
-
+event_context: "June 1981 protests"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

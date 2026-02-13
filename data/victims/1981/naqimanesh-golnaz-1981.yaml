@@ -84,9 +84,8 @@ circumstances: >
     condemned to death. The ruling was carried out when she was executed by
     firing squad in Sanandaj on December 21, 1981. No specific information is
     available about the defendant s execution.
-event_context: null
-responsible_forces: null
-
+event_context: "Nojeh coup"
+responsible_forces: "Islamic Revolutionary Court of Tehran Army"
 # --- VERIFICATION ---
 status: unverified
 sources:

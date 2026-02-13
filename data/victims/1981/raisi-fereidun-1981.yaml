@@ -3,10 +3,14 @@ name_latin: "Fereidun Ra'isi"
 name_farsi: "فریدون رئیسی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "laborer"
+beliefs: "member of the Workers Confederation of Iran"
 
 # --- DEATH ---
 date_of_death: 1981-07-08
@@ -47,9 +51,8 @@ circumstances: >
     book, Mr. Fereidun Ra isi was executed by firing squad in July 1981.
     TheJomhuri Eslaminewspaper reported that because of being a Mortad
     (apostate), his body was denied burial in the Moslem cemetery.
-event_context: null
-responsible_forces: null
-
+event_context: "execution in July 1981"
+responsible_forces: "Revolutionary Court of Behshahr"
 # --- VERIFICATION ---
 status: unverified
 sources:

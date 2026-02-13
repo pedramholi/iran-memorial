@@ -86,9 +86,8 @@ circumstances: >
     The day after the demonstration, the Islamic Republic regime started a
     repressive campaign unprecedented in modern Iranian history. Thousands of
     MKO membe
-event_context: null
-responsible_forces: null
-
+event_context: "1981 protests"
+responsible_forces: "Intelligence Office of Mazandaran"
 # --- VERIFICATION ---
 status: unverified
 sources:

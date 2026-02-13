@@ -8,6 +8,15 @@ ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
 
+# --- LIFE ---
+occupation: "wrestling coach"
+education: "high school graduate"
+family:
+  marital_status: "single"
+  children: 0
+  notes: "son of Abas Ali"
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
+
 # --- DEATH ---
 date_of_death: 1988-01-01
 age_at_death: 29
@@ -85,7 +94,7 @@ circumstances: >
     2003), the families of the victims refer to the authorities accusations
     against the prisoners accusations that may have led to their executions.
     These accusations include being counter-revolutio
-event_context: null
+event_context: "1988 mass executions"
 responsible_forces: null
 
 # --- VERIFICATION ---

@@ -3,10 +3,13 @@ name_latin: "Abdolemam Khalifeh"
 name_farsi: "عبدالامام خلیفه"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+beliefs: "affiliated with the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1986-02-24
@@ -42,9 +45,8 @@ circumstances: >
     Tribunal of Ahvaz declared Mr. Khalifeh a “corruptor on earth and an enemy
     of God” and sentenced him to death. He and two other persons were executed
     on February 24, 1986 at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "1986 execution"
+responsible_forces: "Islamic Revolutionary Tribunal of Ahvaz"
 # --- VERIFICATION ---
 status: unverified
 sources:

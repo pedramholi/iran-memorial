@@ -8,6 +8,11 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+occupation: "employee of the Social Security Organization"
+family:
+  notes: "lived with his mother"
+
 # --- DEATH ---
 date_of_death: 1979-08-19
 age_at_death: 25
@@ -70,9 +75,8 @@ circumstances: >
     “corruptors on earth and at war with God and his prophet” and condemned
     them to death. They were shot by a firing squad at 2:40 a.m. on August 19,
     1979 in Dizelabad prison.
-event_context: null
-responsible_forces: null
-
+event_context: "August 18, 1979"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

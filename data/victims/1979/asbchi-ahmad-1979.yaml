@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "Sergeant"
+
 # --- DEATH ---
 date_of_death: 1979-04-16
 age_at_death: null
@@ -40,8 +43,7 @@ circumstances: >
     accused. Judgment The defendant was sentenced to death and executed. No
     other details are available.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic’s authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

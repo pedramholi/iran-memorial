@@ -40,9 +40,8 @@ circumstances: >
     s defense. Judgment The Islamic Revolutionary Tribunal of Esfahan declared
     Mr. Keshani a corruptor on earth and sentenced him to death. Mr. Mostafa
     Keshani was executed the same day on December 09, 1979.
-event_context: null
-responsible_forces: null
-
+event_context: "1979"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

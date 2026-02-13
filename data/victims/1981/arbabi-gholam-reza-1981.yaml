@@ -29,9 +29,8 @@ circumstances: >
     evidence provided against the defendant. Defense No information is
     available on Mr. Arbabi s defense. Judgment Mr. Arbabi was executed in
     July 1981. There is no further information available on his sentence.
-event_context: null
-responsible_forces: null
-
+event_context: "executed in July 1981"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

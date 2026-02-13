@@ -3,10 +3,15 @@ name_latin: "Nur Mohammad Chandavar"
 name_farsi: "نورمحمد چندآور"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "professional drug trafficker"
+quotes:
+  - "a professional drug trafficker"
 
 # --- DEATH ---
 date_of_death: 1985-01-28
@@ -36,8 +41,7 @@ circumstances: >
     confirmed by the Islamic Revolution’s Supreme Court and then it was
     carried out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal of Mashad"
 # --- VERIFICATION ---
 status: unverified
 sources:

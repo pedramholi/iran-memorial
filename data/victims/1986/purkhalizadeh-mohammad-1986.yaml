@@ -35,8 +35,7 @@ circumstances: >
     Kerman sentenced Mr. Purkhalilzadeh to death. The sentence was carried out
     in Kerman Penitentiary.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

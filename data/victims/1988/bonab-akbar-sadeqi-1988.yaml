@@ -1,12 +1,19 @@
 id: bonab-akbar-sadeqi-1988
 name_latin: "Akbar Sadeqi Bonab"
 name_farsi: "اکبر صادقی بناب"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1952-01-01"
+place_of_birth: "Tabriz"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "agriculture student"
+education: "incomplete education"
+family:
+  marital_status: "married"
+beliefs: "sympathizer of the Fadaiyan Khalq Organization-Majority"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -85,9 +92,8 @@ circumstances: >
     accusations include being counter-revolutionary, anti-religion, and
     anti-Islam, as well as being associated with military action or with
     various [opposition] groups based near the borders. An edict of the
-event_context: null
-responsible_forces: null
-
+event_context: "1988 mass killings of political prisoners"
+responsible_forces: "SAVAK"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+quotes:
+  - "followed an altercation that took place in Shari'at Kangavar school in Kermanshah over ideological disagreement."
+
 # --- DEATH ---
 date_of_death: 1979-08-31
 age_at_death: null
@@ -41,9 +45,8 @@ circumstances: >
     was issued by the Shari'a judge of the Islamic Revolutionary Tribunal of
     Kermanshah and was carried out the morning of Friday, August 31, 1979, in
     Dizelabad prison in Kermanshah.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on Friday, August 31, 1979"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

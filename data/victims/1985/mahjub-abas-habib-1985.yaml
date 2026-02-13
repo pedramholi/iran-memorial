@@ -3,10 +3,13 @@ name_latin: "Abas (Habib) Mahjub"
 name_farsi: "عباس (حبیب) محجوب"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1985-03-23
@@ -85,9 +88,8 @@ circumstances: >
     killed during the mass executions of political prisoners in 1988. Ever
     since the summer of 1981, the MKO has continued its activities outside of
     Iran. No information is available regardin
-event_context: null
-responsible_forces: null
-
+event_context: "1981 protests"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

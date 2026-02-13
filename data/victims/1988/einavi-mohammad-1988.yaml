@@ -1,12 +1,16 @@
 id: einavi-mohammad-1988
 name_latin: "Mohammad Einavi"
 name_farsi: "محمد عیناوی"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1981-01-01"
+place_of_birth: "Khoramshahr, Lorestan province"
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "high school student"
+education: "third year high school, majoring in electronics"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -85,9 +89,8 @@ circumstances: >
     a telephone from behind the glass window, and were deprived of any
     connection with the outside world. We faced such conditions for seven
     years, which proves the truth of our claim.” Judgment The de
-event_context: null
-responsible_forces: null
-
+event_context: "mass killings of political prisoners in 1988"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

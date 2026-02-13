@@ -32,9 +32,8 @@ circumstances: >
     against the defendant. Defense No information is available on his defense.
     Judgment In accordance with the Islamic Revolutionary Tribunal of Ilam,
     Mr. Abbas Abedini was executed on October 23, 1981 at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 execution"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

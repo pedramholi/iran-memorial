@@ -3,7 +3,7 @@ name_latin: "Esma'il Majidi Mobaraki"
 name_farsi: "اسماعیل مجیدی مبارکی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -39,9 +39,8 @@ circumstances: >
     declared Mr. Majidi Mobaraki a corruptor on earth and sentenced him to
     death. Having been confirmed by the Islamic Revolution s Supreme Court,
     the sentence was carried out in public.
-event_context: null
-responsible_forces: null
-
+event_context: "1985 execution"
+responsible_forces: "Islamic Revolution's Committee of Gilan"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,10 +3,13 @@ name_latin: "Susan Arjmandi"
 name_farsi: "سوسن ارجمندی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "affiliated with various opposition groups"
 
 # --- DEATH ---
 date_of_death: 1982-01-01
@@ -43,9 +46,8 @@ circumstances: >
     concerning Ms. Arjmandi’s defense. Judgment No specific information is
     available about the verdict leading to this execution. Ms. Susan Arjmandi
     was hanged in Shiraz in April/May 1982.
-event_context: null
-responsible_forces: null
-
+event_context: "executed or killed during clashes with the Islamic Republic security forces from June 1981 to the publication date of the magazine"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

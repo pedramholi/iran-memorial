@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+beliefs: "member of Ettehadieh Komonist-ha"
+
 # --- DEATH ---
 date_of_death: 1982-07-20
 age_at_death: null
@@ -64,8 +67,7 @@ circumstances: >
     by nature and sentenced him to death. Having been confirmed by the Supreme
     Judicial Council, the sentence was carried out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal of Esfahan"
 # --- VERIFICATION ---
 status: unverified
 sources:

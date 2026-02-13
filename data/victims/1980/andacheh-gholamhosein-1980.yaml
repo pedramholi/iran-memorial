@@ -3,10 +3,13 @@ name_latin: "Gholamhosein Andacheh"
 name_farsi: "غلامحسین انداچه"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "farmer"
 
 # --- DEATH ---
 date_of_death: 1980-07-03
@@ -51,8 +54,7 @@ circumstances: >
     personally threw the first stone, followed by five other people. The
     stoning lasted fifteen minutes.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Revolutionary Guard"
 # --- VERIFICATION ---
 status: unverified
 sources:

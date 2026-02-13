@@ -36,8 +36,7 @@ circumstances: >
     Bojnoord sentenced Mr. Izadi to death. Having been confirmed by the
     Supreme Judicial Council, the sentence was carried out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

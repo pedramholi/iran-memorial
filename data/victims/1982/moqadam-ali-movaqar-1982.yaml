@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+beliefs: "member of Mojahedin Khalq Iran"
+
 # --- DEATH ---
 date_of_death: 1982-08-15
 age_at_death: null
@@ -86,9 +89,8 @@ circumstances: >
     Liberation Army of Iran in 1987, which entered Iranian territory a few
     times during the Iran-Iraq war. They were defeated in July 1988 during
     their last operation, the For
-event_context: null
-responsible_forces: null
-
+event_context: "1981 protests"
+responsible_forces: "Islamic Revolutionary Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

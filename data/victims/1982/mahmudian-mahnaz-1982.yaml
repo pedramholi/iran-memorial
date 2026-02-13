@@ -1,12 +1,15 @@
 id: mahmudian-mahnaz-1982
 name_latin: "Mahnaz Mahmudian"
 name_farsi: "مهناز محمودیان"
-date_of_birth: null
+date_of_birth: "1958-01-01"
 place_of_birth: null
 gender: female
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of Peykar Organization for the Liberation of the Working Class"
 
 # --- DEATH ---
 date_of_death: 1982-11-25
@@ -45,9 +48,8 @@ circumstances: >
     available on Ms. Mahmudian's defense. Judgment Ms. Mahnaz Mahmudian was
     executed by firing squad in shiraz on November 25, 1982. She was 24 years
     old.
-event_context: null
-responsible_forces: null
-
+event_context: "executed during clashes with the Islamic Republic security forces"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

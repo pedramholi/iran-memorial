@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+beliefs: "opposed the Islamic Republic"
+
 # --- DEATH ---
 date_of_death: 1981-12-28
 age_at_death: null
@@ -44,9 +47,8 @@ circumstances: >
     Islamic Revolutionary Tribunal of Karaj called Mr. Farhad Radvar an “enemy
     of God” and condemned him to death. He was shot by a firing squad in Karaj
     on December 28, 1981 at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

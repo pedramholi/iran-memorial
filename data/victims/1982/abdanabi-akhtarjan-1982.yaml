@@ -3,7 +3,7 @@ name_latin: "Akhtarjan Abdanabi"
 name_farsi: "اختر جان عبدالنبی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -39,8 +39,7 @@ circumstances: >
     Office sentenced Mr. Abdanabi to death. Having been confirmed by the
     Supreme Judicial Council, the sentence was carried out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic Public Prosecution Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Ramezan Ali Noruzi"
 name_farsi: "رمضانعلی نوروزی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -42,9 +42,8 @@ circumstances: >
     No information is available on his defense. Judgment In accordance with
     the Islamic Revolutionary Tribunal of Mashad, Mr. Ramezan Ali Noruzi was
     executed on October 28, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on October 28, 1981"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

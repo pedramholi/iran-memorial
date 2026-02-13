@@ -3,10 +3,14 @@ name_latin: "Abolqasem Khanjari"
 name_farsi: "ابوالقاسم خانجاری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "graduate"
+education: "graduate of Esfehan University in geology"
 
 # --- DEATH ---
 date_of_death: 1985-04-29

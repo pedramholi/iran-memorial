@@ -1,12 +1,16 @@
 id: arghand-qanbar-1981
 name_latin: "Qanbar Arghand"
 name_farsi: "قنبر ارغند"
-date_of_birth: null
+date_of_birth: "1955-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "member of the Fadayian Khalq Guerrilla Organization"
+beliefs: "member of the Fadayian Khalq Guerrilla Organization"
 
 # --- DEATH ---
 date_of_death: 1981-07-13
@@ -48,9 +52,8 @@ circumstances: >
     Islamic Republic and sentenced him to death. The Supreme Judicial Council
     affirmed his sentence. He was executed by a firing squad on July 13, 1981
     in Langarud. Mr. Arghand was 26 years old at the time of his execution.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 execution"
+responsible_forces: "Langarud Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

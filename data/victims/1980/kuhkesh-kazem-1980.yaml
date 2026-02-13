@@ -8,6 +8,12 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "drug dealer"
+quotes:
+  - "famous and professional drug dealer"
+  - "creating gambling houses"
+
 # --- DEATH ---
 date_of_death: 1980-07-29
 age_at_death: null
@@ -23,8 +29,7 @@ circumstances: >
     most of his life in prison. He was executed at midnight. Source : Tehran
     newspaper Jomhuri Eslami.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal of Zanjan"
 # --- VERIFICATION ---
 status: unverified
 sources:

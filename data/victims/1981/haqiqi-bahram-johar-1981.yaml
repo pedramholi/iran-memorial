@@ -1,12 +1,16 @@
 id: haqiqi-bahram-johar-1981
 name_latin: "Bahram Johar Haqiqi"
 name_farsi: "بهرام جوهر حقیقی"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1963-01-01"
+place_of_birth: "Rasht"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "factory worker"
+education: "high school"
 
 # --- DEATH ---
 date_of_death: 1981-12-21
@@ -34,9 +38,8 @@ circumstances: >
     No information is available on Mr. Johar Haqiqi's defense. Judgment No
     detail information is available on Mr. Johar Haqiqi's execution. According
     to the above source, he was executed by firing squad in January,1982.
-event_context: null
-responsible_forces: null
-
+event_context: "executed by firing squad in January, 1982"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

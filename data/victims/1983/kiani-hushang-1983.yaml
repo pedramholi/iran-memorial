@@ -3,10 +3,13 @@ name_latin: "Hushang Kiani"
 name_farsi: "هوشنگ کیانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "affiliated with the Fadaiyan Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1983-09-06
@@ -41,9 +44,8 @@ circumstances: >
     accused. Defense No information is available concerning Kiani s defense.
     Judgment No specific information is available about the verdict leading to
     this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "executed or killed during clashes with the Islamic Republic security forces from June 1981 to the publication date of the magazine"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

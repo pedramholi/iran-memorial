@@ -3,7 +3,7 @@ name_latin: "Nezamodin Farand"
 name_farsi: "نظام الدین فرند"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -35,9 +35,8 @@ circumstances: >
     defense. Judgment The Islamic Revolutionary Tribunal of Kerman sentenced
     Mr. Farand to death. Having been confirmed by the Islamic Revolution s
     Supreme Court of Qom, the sentence was carried out before noon.
-event_context: null
-responsible_forces: null
-
+event_context: "1984"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

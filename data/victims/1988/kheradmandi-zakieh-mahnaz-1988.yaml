@@ -3,10 +3,16 @@ name_latin: "Zakieh (Mahnaz) Kheradmandi"
 name_farsi: "زکیه (مهناز) خردمندی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  children: 1
+  notes: "husband was executed in the same year"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -76,9 +82,8 @@ circumstances: >
     families. The bodies, however, were not returned to them. The bodies were
     buried in mass graves. Authorities warned the families of prisoners
     against holding memorial ceremonies.
-event_context: null
-responsible_forces: null
-
+event_context: "1988-89 mass execution of political prisoners"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

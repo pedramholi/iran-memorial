@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
 
+# --- LIFE ---
+beliefs: "follower of the People's Mojahedin Organization"
+
 # --- DEATH ---
 date_of_death: 1981-09-27
 age_at_death: 17
@@ -86,9 +89,8 @@ circumstances: >
     following days and weeks. The day after the demonstration, the Islamic
     Republic regime started a repressive campaign unprecedented in modern
     Iranian hi
-event_context: null
-responsible_forces: null
-
+event_context: "1981 protests"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

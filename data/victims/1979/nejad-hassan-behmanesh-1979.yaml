@@ -35,9 +35,8 @@ circumstances: >
     Islamic Revolutionary Tribunal of Shiraz sentenced Mr. Behmaneshnejad to
     death. The sentence was carried out at 11 p.m. in the shooting court of
     the Adel Abad prison in Shiraz.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on November 11, 1979"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -37,9 +37,8 @@ circumstances: >
     available on Mr. Babajani’s defense. Judgment The 6th division of the
     Islamic Revolutionary Tribunal of Tehran sentenced Mr. Babajani to death.
     The sentence was carried out in the afternoon.
-event_context: null
-responsible_forces: null
-
+event_context: "1984 execution"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

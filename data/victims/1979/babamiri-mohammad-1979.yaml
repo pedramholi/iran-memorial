@@ -4,7 +4,7 @@ name_farsi: "محمد بابامیری"
 date_of_birth: null
 place_of_birth: null
 gender: male
-ethnicity: null
+ethnicity: "Kurdish"
 religion: "Presumed Muslim"
 photo: null
 
@@ -31,9 +31,8 @@ circumstances: >
     information regarding the evidence provided against the defendant. Defense
     No information is available about any defense offered by Mr. Babamiri.
     Judgment Mr. Babamiri was executed on the order of Ayatollah Khalkhali.
-event_context: null
-responsible_forces: null
-
+event_context: "executions of Kurds in Sanandaj during the latter half of August, 1979"
+responsible_forces: "Ayatollah Khalkhali"
 # --- VERIFICATION ---
 status: unverified
 sources:

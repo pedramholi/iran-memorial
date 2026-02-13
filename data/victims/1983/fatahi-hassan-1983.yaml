@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+beliefs: "Democratic Party of Iranian Kordestan"
+
 # --- DEATH ---
 date_of_death: 1983-01-01
 age_at_death: 29
@@ -41,9 +44,8 @@ circumstances: >
     the evidence provided against the defendant. Defense No information is
     available on Mr. Fatahi’s defense. Judgment There is no information on the
     verdict leading to this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "clashes with the Islamic Republic security forces from June 1981 to the publication date of the magazine"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

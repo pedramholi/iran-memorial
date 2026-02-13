@@ -3,10 +3,13 @@ name_latin: "Ja'far Bayat"
 name_farsi: "جعفر بیات"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "affiliate of the Ettehadieh Komonist-ha group"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -85,9 +88,8 @@ circumstances: >
     contain information regarding the evidence provided against the defendant.
     Defense No information is available on Mr. Bayat’s defense. In their open
     letter, the families of the prisoners noted that
-event_context: null
-responsible_forces: null
-
+event_context: "1988 mass killings of political prisoners"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

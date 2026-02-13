@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
 
+# --- LIFE ---
+beliefs: "member of the Mojahedin-e Khalq Organization"
+
 # --- DEATH ---
 date_of_death: 1986-03-03
 age_at_death: 25
@@ -39,8 +42,7 @@ circumstances: >
     been confirmed by the Supreme Judicial Council, the sentence was carried
     out in the presence of the martyrs’ relatives.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal of Bakhtaran"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "drug trafficker"
+
 # --- DEATH ---
 date_of_death: 1984-03-11
 age_at_death: null
@@ -44,8 +47,7 @@ circumstances: >
     Having been confirmed by the Supreme Court, the sentence was carried out
     in Qasr prison at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Anti-Narcotics Section of the Public Prosecutor's Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

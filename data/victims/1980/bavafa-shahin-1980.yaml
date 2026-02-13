@@ -1,12 +1,19 @@
 id: bavafa-shahin-1980
 name_latin: "Shahin Bavafa"
 name_farsi: "شهین باوفا"
-date_of_birth: null
+date_of_birth: "1950-01-01"
 place_of_birth: null
 gender: male
-ethnicity: null
+ethnicity: "Kurdish"
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "manager of the hospital"
+family:
+quotes:
+  - "she asked the two journalists to promise that we [ L'Express ] would share her message of distress and anger in our magazine to the Western public."
+  - "her testimony would be stronger if it was not anonymous."
 
 # --- DEATH ---
 date_of_death: 1980-07-17
@@ -46,8 +53,7 @@ circumstances: >
     No information is available on Ms. Bavafa's defense. Judgment Ms. Shahin
     Bavafa was sentenced to death.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Pasdarans"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "policeman"
+
 # --- DEATH ---
 date_of_death: 1980-07-29
 age_at_death: null
@@ -31,9 +34,8 @@ circumstances: >
     Mohammadyari’s defense. Judgment Mr. Mohammadyari was found guilty of
     “corruption on earth” and “waging war against God.” He was executed at
     dawn on the day after his trial.
-event_context: null
-responsible_forces: null
-
+event_context: "1980"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

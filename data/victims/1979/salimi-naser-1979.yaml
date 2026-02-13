@@ -2,11 +2,15 @@ id: salimi-naser-1979
 name_latin: "Naser Salimi"
 name_farsi: "ناصر سلیمی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Sanandaj, Kordestan"
 gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "employee of the Department of Health"
+beliefs: "sympathizer of the Fadaiyan Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1979-08-27
@@ -85,9 +89,8 @@ circumstances: >
     on a chair. Scanning the prisoners through thick eyeglasses, he asked
     their names. Officers of the court told of the defendants’ alleged
     crimes.” The trial lasted for about
-event_context: null
-responsible_forces: null
-
+event_context: "wave of executions in Kurdistan"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

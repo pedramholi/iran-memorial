@@ -1,12 +1,15 @@
 id: bavand-sirus-1981
 name_latin: "Sirus Bavand"
 name_farsi: "سروش (سیروس) باوند"
-date_of_birth: null
+date_of_birth: "1959-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "supporter of the Fadayian Khalgh Guerrilla Organization"
 
 # --- DEATH ---
 date_of_death: 1981-07-05
@@ -44,9 +47,8 @@ circumstances: >
     sentenced him to death. He was executed by a firing squad on July 5, 1981
     in the Sari Islamic Revolutionary Guards Corps base. Mr. Bavand was 22
     years old at the time of his execution.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Sari Islamic Revolutionary Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

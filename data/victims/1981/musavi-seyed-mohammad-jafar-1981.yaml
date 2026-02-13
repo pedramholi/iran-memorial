@@ -1,12 +1,17 @@
 id: musavi-seyed-mohammad-jafar-1981
 name_latin: "Seyed Mohammad Ja'far Musavi"
 name_farsi: "سیدمحمدجعفر موسوی"
-date_of_birth: null
+date_of_birth: "1963-01-01"
 place_of_birth: null
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "executed along with his brother, Seyed Mohsen Musavi"
+beliefs: "supporter of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-10-07
@@ -85,9 +90,8 @@ circumstances: >
     1981, the MKO called for a demonstration protesting their treatment by
     governmental officials and the government officials efforts to impeach
     their ally, President Abolhassan Banisadr.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 execution"
+responsible_forces: "Esfahan Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

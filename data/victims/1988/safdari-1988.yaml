@@ -32,9 +32,8 @@ circumstances: >
     No information is available on Safdari's defense. Judgment No information
     is available on the judgment or whether an appeal was allowed. No further
     information is available.
-event_context: null
-responsible_forces: null
-
+event_context: "July-December 1988"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

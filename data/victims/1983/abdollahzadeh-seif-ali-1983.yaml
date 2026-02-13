@@ -3,7 +3,7 @@ name_latin: "Seif Ali Abdollahzadeh"
 name_farsi: "سیف علی عبدالله زاده"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -39,9 +39,8 @@ circumstances: >
     Tribunal in Tehran declared Mr. Abdollahzadeh a corruptor on earth and
     sentenced him to death. Having been confirmed by the Supreme Court, the
     sentence was carried out at 5 a.m.
-event_context: null
-responsible_forces: null
-
+event_context: "1983"
+responsible_forces: "Anti-Narcotics Section of the Public Prosecutor's Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

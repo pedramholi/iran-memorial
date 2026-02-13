@@ -3,7 +3,7 @@ name_latin: "Manuchehr Salimi"
 name_farsi: "منوچهر سلیمی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -85,9 +85,8 @@ circumstances: >
     condemned to death. The ruling was carried out when he was executed by
     firing squad in Tehran on December 21, 1981. No specific information is
     available about the defendant s exe
-event_context: null
-responsible_forces: null
-
+event_context: "Nojeh coup"
+responsible_forces: "Islamic Revolutionary Court of Tehran Army"
 # --- VERIFICATION ---
 status: unverified
 sources:

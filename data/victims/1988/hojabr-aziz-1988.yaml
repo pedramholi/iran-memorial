@@ -1,8 +1,8 @@
 id: hojabr-aziz-1988
 name_latin: "Aziz Hojabr"
 name_farsi: "عزیز هژبر"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1953-01-01"
+place_of_birth: "Masal, Gilan province"
 gender: male
 ethnicity: null
 religion: "Presumed Muslim"
@@ -25,7 +25,7 @@ circumstances: >
     information is available concerning Mr. Hojabr’s defense. Judgment No
     specific information is available about the verdict leading to this
     execution. Mr. Aziz Hojabr was hanged in Masal in 1988.
-event_context: null
+event_context: "1988"
 responsible_forces: null
 
 # --- VERIFICATION ---

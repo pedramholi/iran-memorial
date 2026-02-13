@@ -2,7 +2,7 @@ id: darangzadeh-amir-qoli-1979
 name_latin: "Amir Qoli Darangzadeh"
 name_farsi: "امیر قلی دارنگ زاده"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Marvdasht, Fars Province"
 gender: male
 ethnicity: null
 religion: "Presumed Muslim"
@@ -39,9 +39,8 @@ circumstances: >
     Mr. Darangzadeh a “corruptor on earth, as described in the Koranic
     scripture.” He was shot by firing squad at midnight on September 4, 1979
     in Adel-Abad prison in Shiraz.
-event_context: null
-responsible_forces: null
-
+event_context: "1979 execution"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

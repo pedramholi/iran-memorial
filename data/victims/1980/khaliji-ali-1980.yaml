@@ -34,9 +34,8 @@ circumstances: >
     defendant. Defense No information is available on Mr. Khaliji s defense.
     Judgment The Islamic Revolutionary Tribunal of Hamedan declared Mr.
     Khaliji a corruptor on earth. He was executed at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "1980"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

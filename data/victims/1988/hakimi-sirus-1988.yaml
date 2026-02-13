@@ -3,10 +3,18 @@ name_latin: "Sirus Hakimi"
 name_farsi: "سیروس حکیمی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "First Captain in the Navy"
+education: "graduated from the Military College"
+family:
+  marital_status: "married"
+  children: 5
+beliefs: "member of the Tudeh Party of Iran"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -85,9 +93,8 @@ circumstances: >
     prison) had collaborated with armed members of the Mojahedin Organization
     in clashes with armed forces of the Islamic Republic, states that such
     claims “are false considering the circumstances in prisons; for our chi
-event_context: null
-responsible_forces: null
-
+event_context: "mass killings of political prisoners in 1988"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

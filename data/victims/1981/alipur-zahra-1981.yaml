@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+occupation: "in charge of the militia team"
+
 # --- DEATH ---
 date_of_death: 1981-12-29
 age_at_death: null
@@ -34,8 +37,7 @@ circumstances: >
     corruptor on earth, an enemy of God and rebellious against the Islamic
     government. She was sentenced to death. The sentence was carried out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal of Bushehr"
 # --- VERIFICATION ---
 status: unverified
 sources:

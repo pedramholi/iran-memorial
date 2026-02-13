@@ -35,9 +35,8 @@ circumstances: >
     Islamic Revolutionary Tribunal of Hormozgan sentenced Mr. Asakzehi to
     death. Having been confirmed by the Islamic Revolution s Supreme Court,
     the sentence was carried out in public.
-event_context: null
-responsible_forces: null
-
+event_context: "1983"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

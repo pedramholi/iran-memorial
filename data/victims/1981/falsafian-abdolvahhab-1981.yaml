@@ -3,10 +3,13 @@ name_latin: "Abdolvahhab Falsafian"
 name_farsi: "عبدالوهاب فلسفیان"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "active in a four-member cell of the Fadaiyan Khalq Organization, Majority branch"
 
 # --- DEATH ---
 date_of_death: 1981-01-01
@@ -50,9 +53,8 @@ circumstances: >
     buried in a section of the Shiraz cemetery assigned to non-Muslims. This
     section, which includes the Bahai cemetery was reportedly later destroyed
     by state agents.
-event_context: null
-responsible_forces: null
-
+event_context: "executed on October 3, 1981"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

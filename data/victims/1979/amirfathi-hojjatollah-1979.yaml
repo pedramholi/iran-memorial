@@ -3,10 +3,13 @@ name_latin: "Hojjatollah Amirfathi"
 name_farsi: "حجت الله امیرفتحی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "Major"
 
 # --- DEATH ---
 date_of_death: 1979-04-15
@@ -50,9 +53,8 @@ circumstances: >
     Amirfathi was sentenced to death and executed on April 15, 1979 at the
     Ardebil Committee. No further information is available regarding this
     defendant s sentencing.
-event_context: null
-responsible_forces: null
-
+event_context: "1979 Iranian Revolution"
+responsible_forces: "Tehran Committee"
 # --- VERIFICATION ---
 status: unverified
 sources:

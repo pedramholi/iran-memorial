@@ -2,11 +2,17 @@ id: karimi-dara-darab-1981
 name_latin: "Dara (Darab) Karimi"
 name_farsi: "دارا (داراب) کریمی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Pol-e-sefid village near Savadkuh"
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "member of the Revolutionary Workers Organization of Iran-Rah-e Kargar"
+family:
+  notes: "His father secretly buried him in his own land at night."
+beliefs: "member of the Peykar Organization"
 
 # --- DEATH ---
 date_of_death: 1981-12-04
@@ -54,9 +60,8 @@ circumstances: >
     memorial ceremony, the Revolutionary Guards were stationed in front of his
     house to prevent people from attending. However, the local people visited
     his family to express their condolences.
-event_context: null
-responsible_forces: null
-
+event_context: "executed on November 25, 1981"
+responsible_forces: "Hezbollah"
 # --- VERIFICATION ---
 status: unverified
 sources:

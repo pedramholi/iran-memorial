@@ -1,12 +1,20 @@
 id: khazaeli-amir-hossein-1988
 name_latin: "Amir Hossein Khaza'eli"
 name_farsi: "امیر حسین خزائلی"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1952-01-01"
+place_of_birth: "Khoramshahr, Lorestan province"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "air force captain"
+family:
+  marital_status: "married"
+  children: 1
+  notes: "had a child who was born when Mr. Khaza’eli was in detention"
+beliefs: "member of the Tudeh Party"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -85,9 +93,8 @@ circumstances: >
     the opportunity to defend themselves in court. Against the assertion that
     prisoners were associated with guerrilla troops operating near the
     borders, the families submit the isolati
-event_context: null
-responsible_forces: null
-
+event_context: "1988 massacre"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

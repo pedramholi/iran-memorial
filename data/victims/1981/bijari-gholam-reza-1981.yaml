@@ -2,11 +2,17 @@ id: bijari-gholam-reza-1981
 name_latin: "Gholam Reza Bijari"
 name_farsi: "غلام رضا بیجاری"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Bijar, South Khorasan"
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "farmer"
+family:
+  notes: "son of Mohammad Hossein"
+beliefs: "affiliated with the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-12-26
@@ -47,9 +53,8 @@ circumstances: >
     Defense No information is available on Mr. Bijari’s defense. Judgment An
     Islamic Revolutionary tribunal condemned Mr. Gholam Reza Bijari to death.
     He and 11 other individuals were executed on December 26, 1981 in Mashad.
-event_context: null
-responsible_forces: null
-
+event_context: "executed on December 26, 1981"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

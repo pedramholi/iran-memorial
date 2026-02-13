@@ -3,10 +3,18 @@ name_latin: "Khoramshad Haqpasand"
 name_farsi: "خرمشاد حق پسند"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "student"
+education: "studied medicine at Rome University"
+family:
+  marital_status: "married"
+  children: 2
+beliefs: "member of the Revolutionary Organization"
 
 # --- DEATH ---
 date_of_death: 1985-02-19
@@ -39,7 +47,7 @@ circumstances: >
     is. According to the Siavoshan book, he was executed by a firing squad in
     the fall of 1985. But, according to the published list by the Mojahedin
     Khalq, he was executed in February 1985.
-event_context: null
+event_context: "1985 execution"
 responsible_forces: null
 
 # --- VERIFICATION ---

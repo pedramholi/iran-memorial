@@ -2,7 +2,7 @@ id: kab-mohammad-1980
 name_latin: "Mohammad Ka'b"
 name_farsi: "محمد کعب"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Kazem Va Layli village"
 gender: male
 ethnicity: null
 religion: "Presumed Muslim"
@@ -33,8 +33,7 @@ circumstances: >
     Dezful declared Mr. Ka b a corruptor on earth and an enemy of God and
     sentenced him to death. The sentence was carried out at 1:30 p.m.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Pasdar"
 # --- VERIFICATION ---
 status: unverified
 sources:

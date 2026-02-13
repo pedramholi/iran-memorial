@@ -2,11 +2,17 @@ id: ardekani-lila-molavi-1982
 name_latin: "Lila Molavi Ardekani"
 name_farsi: "لیلا مولوی اردکانی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Babol"
+gender: female
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "student"
+education: "Tehran University"
+family:
+beliefs: "member of the Mojahedin Khalq of Iran Organization"
 
 # --- DEATH ---
 date_of_death: 1982-09-07
@@ -48,8 +54,7 @@ circumstances: >
     evidence against her. Defense There is no mention of the defendant’s
     defense. Judgment Ms. Molavi Ardekani was executed at the Evin Prison.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

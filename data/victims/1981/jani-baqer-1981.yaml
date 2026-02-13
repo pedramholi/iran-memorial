@@ -1,12 +1,18 @@
 id: jani-baqer-1981
 name_latin: "Baqer Jani"
 name_farsi: "باقر جانی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1958-01-01"
+place_of_birth: "Ahvaz"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "high school graduate"
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
+quotes:
+  - "Mr. Baqer Jani was executed by a firing squad in Aghajari on September 12, 1981."
 
 # --- DEATH ---
 date_of_death: 1981-09-12
@@ -86,9 +92,8 @@ circumstances: >
     after this operation, thousands of imprisoned Mojahedin supporters were
     killed during the mass executions of political prisoners in 1988. Ever
     since
-event_context: null
-responsible_forces: null
-
+event_context: "1981 protests"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

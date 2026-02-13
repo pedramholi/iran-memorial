@@ -1,12 +1,15 @@
 id: sajadi-mahan-1981
 name_latin: "Mahan Sajadi"
 name_farsi: "ماهان سجادی"
-date_of_birth: null
+date_of_birth: "1957-01-01"
 place_of_birth: null
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+education: "high school"
 
 # --- DEATH ---
 date_of_death: 1981-12-20
@@ -37,9 +40,8 @@ circumstances: >
     defense. Judgment No detail information is available on Mr. Mahan Sajadi's
     death sentence. According to the above sources, he was executed by a
     firing squad on December 11, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "1981"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

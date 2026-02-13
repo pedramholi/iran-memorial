@@ -2,11 +2,14 @@ id: mostafavi-mohammad-reza-1982
 name_latin: "Mohammad Reza Mostafavi"
 name_farsi: "محمد رضا مصطفوی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Sabzevar, Khorasan"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "teacher"
 
 # --- DEATH ---
 date_of_death: 1982-01-01
@@ -44,9 +47,8 @@ circumstances: >
     the list of Martyrs of the Peykar Organization, Mr. Mostafavi was executed
     by firing squad in Mashhad in 1982. No specific information is available
     about the execution sentence.
-event_context: null
-responsible_forces: null
-
+event_context: "executed by firing squad in Mashhad in 1982"
+responsible_forces: "Peykar Organization for the Liberation of the Working Class"
 # --- VERIFICATION ---
 status: unverified
 sources:

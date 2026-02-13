@@ -1,12 +1,21 @@
 id: alavicheh-mahmud-mirzai-1981
 name_latin: "Mahmud Mirza'i Alavicheh"
 name_farsi: "محمود میرزایی علویجه"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1959-01-01"
+place_of_birth: "Esfehan"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "military service member"
+education: "high school"
+family:
+  notes: "brother of Ahmad, who was executed in 1988"
+quotes:
+  - "as many other sympathizers of this Organization, he was unaware of the significance and the consequences of the Demonstration of June 20. He thought of it as just another event in a series of struggles, such as the war, in the preceding months."
+  - "I thought I was to be transferred to a prison on an island in the Persian Gulf."
 
 # --- DEATH ---
 date_of_death: 1981-07-08
@@ -68,9 +77,8 @@ circumstances: >
     information is available about the verdict leading to this execution. Mr.
     Mahmud Mirza’i Alavicheh was shot by a firing squad on July 8, 1981 at the
     base of the Revolutionary Guards Corps in Esfehan.
-event_context: null
-responsible_forces: null
-
+event_context: "demonstration of June 20, 1981"
+responsible_forces: "Basij"
 # --- VERIFICATION ---
 status: unverified
 sources:

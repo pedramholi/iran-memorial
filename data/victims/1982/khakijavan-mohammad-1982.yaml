@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+beliefs: "having different responsibilities in the [Mujahedin-e Khalq Organization or MKO]"
+
 # --- DEATH ---
 date_of_death: 1982-12-11
 age_at_death: null
@@ -34,8 +37,7 @@ circumstances: >
     Mr. Khakijavan to death. Having been confirmed by the Supreme Judicial
     Council, the sentence was carried out at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolution Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

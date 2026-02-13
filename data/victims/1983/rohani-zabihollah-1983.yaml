@@ -3,7 +3,7 @@ name_latin: "Zabihollah Rohani"
 name_farsi: "ذبیح الله روحانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -42,8 +42,7 @@ circumstances: >
     in Tehran sentenced Mr. Rohani to death. The sentence was carried out at
     dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Anti-Narcotics Section of the Public Prosecutor s Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

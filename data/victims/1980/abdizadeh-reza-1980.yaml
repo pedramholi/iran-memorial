@@ -38,9 +38,8 @@ circumstances: >
     on Mr. Abdizadeh s defense. Judgment According to the report, Mr.
     Abdizadeh was found guilty of corruption on earth. The death sentence was
     carried out at 9:30 p.m March 19, 1980.
-event_context: null
-responsible_forces: null
-
+event_context: "1980 execution"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

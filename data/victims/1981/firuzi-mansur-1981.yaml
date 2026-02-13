@@ -1,12 +1,18 @@
 id: firuzi-mansur-1981
 name_latin: "Mansur Firuzi"
 name_farsi: "منصور فیروزی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1961-01-01"
+place_of_birth: "Zabol, Sistan and Baluchestan Province"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "college student"
+family:
+  notes: "son of Musa"
+beliefs: "supporter of the MKO"
 
 # --- DEATH ---
 date_of_death: 1981-06-15
@@ -86,9 +92,8 @@ circumstances: >
     Banisadr. Despite the fact that the regime called this demonstration
     illegal, thousands came to the streets, some of whom confronted the
     Revolutionary
-event_context: null
-responsible_forces: null
-
+event_context: "1980-1981 cultural revolution"
+responsible_forces: "Zahedan Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

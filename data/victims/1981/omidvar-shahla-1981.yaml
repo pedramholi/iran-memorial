@@ -2,11 +2,14 @@ id: omidvar-shahla-1981
 name_latin: "Shahla Omidvar"
 name_farsi: "شهلا امیدوار"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Bojnord"
 gender: female
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+beliefs: "affiliated with the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-08-07
@@ -34,9 +37,8 @@ circumstances: >
     defendant. Defense No information is available on Ms. Omidvar’s defense.
     Judgment Ms. Shahla Omidvar was executed by a firing squad in Bojnord on
     August 7, 1981 ( Mojahed ).
-event_context: null
-responsible_forces: null
-
+event_context: "executed on August 7, 1981"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

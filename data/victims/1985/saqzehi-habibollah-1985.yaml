@@ -3,7 +3,7 @@ name_latin: "Habibollah Sa'qzehi"
 name_farsi: "حبیب الله ساق زهی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,8 +38,7 @@ circumstances: >
     Anti-Narcotics Islamic Revolutionary Tribunal sentenced Mr. Sa'qzehi to
     death. The sentence was carried out in prison at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Anti-Narcotics Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

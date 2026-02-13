@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "Lieutenant General"
+
 # --- DEATH ---
 date_of_death: 1979-03-05
 age_at_death: null
@@ -38,8 +41,7 @@ circumstances: >
     verdict at 5 in the morning, and the death sentences was immediately
     carried out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

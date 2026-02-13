@@ -3,7 +3,7 @@ name_latin: "Habibollah Esmaeely"
 name_farsi: "حبیب الله اسماعیلی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,9 +38,8 @@ circumstances: >
     s defense. Judgment The Army Revolutionary Tribunal in Kerman sentenced
     Mr. Esmaeely to death. Having been confirmed by the Islamic Revolution s
     Supreme Court, the sentence was carried out.
-event_context: null
-responsible_forces: null
-
+event_context: "1984 execution"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

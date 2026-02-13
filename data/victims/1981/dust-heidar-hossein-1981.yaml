@@ -1,12 +1,17 @@
 id: dust-heidar-hossein-1981
 name_latin: "Heidar Hossein Dust"
 name_farsi: "حیدر حسین دوست"
-date_of_birth: null
+date_of_birth: "1957-08-12"
 place_of_birth: null
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "sympathizer of the Mojahedin Khalq Organization"
+education: "technical machinery diploma"
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-07-05
@@ -85,9 +90,8 @@ circumstances: >
     G3 weapons, bows and arrows, slings, knives, carpet cutters, homemade
     grenades, bags of salt and pepper, pieces of stone and brick, gallows
     ropes, and other tools such as spray pai
-event_context: null
-responsible_forces: null
-
+event_context: "1981 June protests"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

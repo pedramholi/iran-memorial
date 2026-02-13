@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+beliefs: "Mojahedin Khalq Organization sympathizer"
+
 # --- DEATH ---
 date_of_death: 1981-08-07
 age_at_death: null
@@ -86,9 +89,8 @@ circumstances: >
     assassinated a number of high-ranking officials and supporters of the
     Islamic regime. In the summer of 1981, the leader of the MKO and the
     impeached President
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Central Islamic Revolutionary Prosecutor's Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

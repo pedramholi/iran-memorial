@@ -8,6 +8,12 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+occupation: "government employee"
+education: "high school diploma"
+family:
+  marital_status: "single"
+
 # --- DEATH ---
 date_of_death: 1983-08-03
 age_at_death: 25
@@ -50,9 +56,8 @@ circumstances: >
     Hossein Mirfatah-Kuhaki was executed by firing squad in Amol on August 3,
     1983. No specific information is available about the defendant’s
     execution.
-event_context: null
-responsible_forces: null
-
+event_context: "executed by firing squad in Amol on August 3, 1983"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+occupation: "teacher"
+beliefs: "member of the Peykar Organization"
+
 # --- DEATH ---
 date_of_death: 1981-07-04
 age_at_death: 26
@@ -63,9 +67,8 @@ circumstances: >
     The court considered Ms. Samadi as apostate and prevented the burial of
     her body in the Muslim cemetery. She was buried in the non- Muslim
     cemetery without proper ceremonies.
-event_context: null
-responsible_forces: null
-
+event_context: "executed by firing squad in Evin prison on July 5, 1981"
+responsible_forces: "Islamic Revolutionary Court of Kashan"
 # --- VERIFICATION ---
 status: unverified
 sources:

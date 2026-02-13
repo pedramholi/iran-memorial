@@ -2,11 +2,15 @@ id: mohammad-hosseinpur-ali-akbar-1982
 name_latin: "Ali Akbar Mohammad-Hosseinpur"
 name_farsi: "علی اکبر محمد حسین پور"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Dorahi village near Borazjan"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "high school teacher"
+beliefs: "member of Peykar Organization for the Liberation of the Working Class"
 
 # --- DEATH ---
 date_of_death: 1982-11-25
@@ -49,9 +53,8 @@ circumstances: >
     According to the list of Martyrs of the Peykar Organization, Mr.
     Mohammad-Hosseinpur was executed by firing squad at Adelabad prison in
     Shiraz on November 25, 1982.
-event_context: null
-responsible_forces: null
-
+event_context: "executed on November 25, 1982"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

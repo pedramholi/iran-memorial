@@ -3,10 +3,14 @@ name_latin: "Davud Rakhshbahar"
 name_farsi: "داوود رخش بهار"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "university student"
+beliefs: "Mojahedin Khalq Iran"
 
 # --- DEATH ---
 date_of_death: 1982-04-21
@@ -28,9 +32,8 @@ circumstances: >
     evidence provided against the defendant. Defense No information is
     available on Mr. Rakhshbahar's defense. Judgment There is no information
     on the verdict leading to this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "executed or killed during clashes from June 1981 to 1985"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

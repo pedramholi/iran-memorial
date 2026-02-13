@@ -2,11 +2,14 @@ id: saremi-hossein-1982
 name_latin: "Hossein Saremi"
 name_farsi: "حسین صارمی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Mahabad, West Azarbaijan province"
 gender: male
-ethnicity: null
+ethnicity: "Kurdish"
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "affiliated with The Democratic Party of Iranian Kurdistan"
 
 # --- DEATH ---
 date_of_death: 1982-02-04
@@ -67,9 +70,8 @@ circumstances: >
     provided against the defendant. Defense No information is available on Mr.
     Saremi’s defense. Judgment There is no information on the verdict leading
     to this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "clashes with the Islamic Republic security forces from June 1981 to the publication date of the magazine"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

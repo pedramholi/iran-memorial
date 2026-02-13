@@ -41,8 +41,7 @@ circumstances: >
     Tribunal of Tehran sentenced Mr. Rahmani to death. The sentence was
     carried out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Anti-Narcotics Section of the Public Prosecutor's Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

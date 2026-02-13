@@ -35,8 +35,7 @@ circumstances: >
     property. He was executed in the Islamic Revolutionary Guards (Pasdaran)
     Headquarters in Bushehr.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

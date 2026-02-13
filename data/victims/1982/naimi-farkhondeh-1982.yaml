@@ -3,10 +3,13 @@ name_latin: "Farkhondeh Na'imi"
 name_farsi: "فرخنده نعیمی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of Peykar Organization for the Liberation of the Working Class"
 
 # --- DEATH ---
 date_of_death: 1982-01-01
@@ -41,7 +44,7 @@ circumstances: >
     the list of Martyrs of the Peykar Organization, Ms. Farkhondeh Na’imi was
     hanged in Bandar Abbas in 1982. No further information is available about
     this execution.
-event_context: null
+event_context: "1982 execution"
 responsible_forces: null
 
 # --- VERIFICATION ---

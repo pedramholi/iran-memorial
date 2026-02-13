@@ -3,7 +3,7 @@ name_latin: "Zoya Mohsenkhani"
 name_farsi: "زویا محسن خانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,8 +38,7 @@ circumstances: >
     Mohsenkhani s defense. Judgment The Islamic Revolutionary Tribunal of
     Tabriz sentenced Ms. Mohsenkhani to death. She was executed at midnight.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

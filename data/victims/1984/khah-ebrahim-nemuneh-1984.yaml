@@ -1,12 +1,18 @@
 id: khah-ebrahim-nemuneh-1984
 name_latin: "Ebrahim Nemuneh Khah"
 name_farsi: "ابراهیم نمونه خواه"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1957-01-01"
+place_of_birth: "Tabriz"
 gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "electrical and electronics engineering student"
+family:
+  notes: "son of Asadollah; had six brothers and one sister; two brothers and sister-in-law were also killed by the Islamic Regime."
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1984-09-14
@@ -86,9 +92,8 @@ circumstances: >
     their centers and publishing houses, in conjunction with to the Islamic
     Republic authorities different interpretation of Islam, widened the gap
     between
-event_context: null
-responsible_forces: null
-
+event_context: "1981"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

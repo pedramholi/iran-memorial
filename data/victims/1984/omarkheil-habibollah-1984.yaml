@@ -3,7 +3,7 @@ name_latin: "Habibollah Omarkheil"
 name_farsi: "حبیب الله عمرخیل"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -37,9 +37,8 @@ circumstances: >
     Zahedan sentenced Mr. Omarkheil to death. Having been confirmed by the
     Revolution s Court, the sentence was carried out in a Rehabilitation
     Center.
-event_context: null
-responsible_forces: null
-
+event_context: "1984"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

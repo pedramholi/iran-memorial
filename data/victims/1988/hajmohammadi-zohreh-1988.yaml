@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+personality: "described as very kind and with a good sense of humor"
+beliefs: "sympathizer of the Mojahedin Khalq Organization (MKO)"
+
 # --- DEATH ---
 date_of_death: 1988-01-01
 age_at_death: 25
@@ -85,9 +89,8 @@ circumstances: >
     are not available. Ms. Hajmohammadi was hanged in August 1988. Months
     after the executions, prison authorities informed the families about the
     executions and handed in the victims’
-event_context: null
-responsible_forces: null
-
+event_context: "1988 mass executions"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

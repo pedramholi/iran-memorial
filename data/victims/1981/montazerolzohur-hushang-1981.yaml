@@ -1,12 +1,20 @@
 id: montazerolzohur-hushang-1981
 name_latin: "Hushang Montazerolzohur"
 name_farsi: "هوشنگ منتظر‌الظهور"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1951-09-01"
+place_of_birth: "Shemiran, Tehran"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "wrestler"
+education: "high school diploma in Natural Sciences; graduated from Esfahan University in Physical Education"
+family:
+  notes: "son of Haydar"
+personality: "described as one of the best sports educators and one of the educated athletes and a champion of his time in his country and on the National Iranian Team"
+beliefs: "supporter of Mojahedin e Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-10-03
@@ -85,9 +93,8 @@ circumstances: >
     available information, Mr. Montazerolzohur was tried on October 1, 1981,
     in the same place where he was being held. He was blindfolded (Electronic
     form, March 2, 2022). At the trial and prior to the tr
-event_context: null
-responsible_forces: null
-
+event_context: "1981 National Championship Games in Yazd"
+responsible_forces: "revolutionary guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

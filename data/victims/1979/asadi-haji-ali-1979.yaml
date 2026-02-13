@@ -2,11 +2,16 @@ id: asadi-haji-ali-1979
 name_latin: "Haji Ali Asadi"
 name_farsi: "حاجی علی اسدی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Malayer"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  children: 1
+  notes: "father of one son"
 
 # --- DEATH ---
 date_of_death: 1979-09-13
@@ -44,9 +49,8 @@ circumstances: >
     executed at dawn, shortly after the issuance of the verdict. All of his
     properties (orchards and farms) in the Juzan village were subsequently
     confiscated, excluding one residential unit.
-event_context: null
-responsible_forces: null
-
+event_context: "1979 execution"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

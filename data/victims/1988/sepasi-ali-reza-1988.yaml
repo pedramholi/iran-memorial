@@ -1,12 +1,19 @@
 id: sepasi-ali-reza-1988
 name_latin: "Ali Reza Sepasi"
 name_farsi: "علیرضا سپاسی"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1958-01-01"
+place_of_birth: "Rasht"
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "student"
+education: "Esfahan Technical University"
+family:
+  marital_status: "single"
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -85,9 +92,8 @@ circumstances: >
     recanting their beliefs. Relatives of political prisoners executed in 1988
     refute the legality of the judicial process that resulted in thousands of
     executions throughout Iran. In their 1988 o
-event_context: null
-responsible_forces: null
-
+event_context: "1988 massacre"
+responsible_forces: "Basij"
 # --- VERIFICATION ---
 status: unverified
 sources:

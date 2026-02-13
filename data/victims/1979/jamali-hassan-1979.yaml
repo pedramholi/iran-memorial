@@ -8,6 +8,11 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "Warrant Officer"
+quotes:
+  - "Murdering of Naser Bedakhanian on January 17, 1979 on the road to Andimeshk."
+
 # --- DEATH ---
 date_of_death: 1979-12-24
 age_at_death: null
@@ -38,9 +43,8 @@ circumstances: >
     Tribunal of Dezful sentenced Mr. Hassan Jamali to death. The sentence was
     carried out by Dezful Islamic Revolutionary Guards at dawn on December 24,
     1979.
-event_context: null
-responsible_forces: null
-
+event_context: "1979 execution"
+responsible_forces: "Dezful Islamic Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

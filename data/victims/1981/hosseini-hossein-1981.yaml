@@ -8,6 +8,13 @@ ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
 
+# --- LIFE ---
+occupation: "engineer"
+family:
+  children: 2
+  notes: "father of two"
+beliefs: "supporter of the Mojahedin Khalq Organization of Iran"
+
 # --- DEATH ---
 date_of_death: 1981-01-01
 age_at_death: null
@@ -30,9 +37,8 @@ circumstances: >
     information regarding the evidence provided against the defendant. Defense
     No information is available on Mr. Hosseini’s defense. Judgment There is
     no information available on the specifics of this defendant's judgement.
-event_context: null
-responsible_forces: null
-
+event_context: "executed or killed during clashes from June 1981 to 1985"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

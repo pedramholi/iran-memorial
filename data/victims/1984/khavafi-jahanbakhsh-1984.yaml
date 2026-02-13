@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+quotes:
+  - "in possession of 531 g of heroin when he was arrested, and had a criminal record for supplying and distributing narcotics"
+
 # --- DEATH ---
 date_of_death: 1984-04-08
 age_at_death: null
@@ -42,8 +46,7 @@ circumstances: >
     death. After being confirmed by the Supreme Court, the sentence was
     carried out at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Anti-Narcotics Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

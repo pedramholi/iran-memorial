@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+beliefs: "member of Peykar Organization for the Liberation of the Working Class"
+
 # --- DEATH ---
 date_of_death: 1983-01-01
 age_at_death: null
@@ -41,9 +44,8 @@ circumstances: >
     Abrishamchi’s defense. Judgment Mr. Mehdi Abrishamchi was executed in Evin
     prison in 1983. No other information is available regarding this
     execution.
-event_context: null
-responsible_forces: null
-
+event_context: "1983 execution"
+responsible_forces: "Iranian government"
 # --- VERIFICATION ---
 status: unverified
 sources:

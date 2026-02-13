@@ -2,11 +2,16 @@ id: asadi-kobra-omidi-1981
 name_latin: "Kobra Omidi Asadi"
 name_farsi: "کبری امیدی اسدی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Tehran"
 gender: female
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "high school student"
+education: "high school student"
+beliefs: "active sympathizer of the MKO"
 
 # --- DEATH ---
 date_of_death: 1981-01-01
@@ -30,7 +35,7 @@ circumstances: >
     the defendant’s defence. Judgment Ms. Kobra Omidi Asadi was condemned to
     death in court. She was executed by a firing squad in Evin Prison during
     1981.
-event_context: null
+event_context: "1981"
 responsible_forces: null
 
 # --- VERIFICATION ---

@@ -3,10 +3,13 @@ name_latin: "Fazl Ahmad"
 name_farsi: "فضل احمد"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "international professional drug trafficker"
 
 # --- DEATH ---
 date_of_death: 1984-08-07
@@ -37,9 +40,8 @@ circumstances: >
     Anti-Narcotics Islamic Revolutionary Tribunal declared Mr. Ahmad a
     corruptor on earth and sentenced him to death. Having been confirmed by
     the Supreme Court, the sentence was carried out in prison at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "1984"
+responsible_forces: "Anti-Narcotics Section of the Public Prosecutor's Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

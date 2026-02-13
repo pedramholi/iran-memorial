@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+occupation: "high school student"
+personality: "kind and patient, and very intelligent"
+
 # --- DEATH ---
 date_of_death: 1988-01-01
 age_at_death: 26
@@ -85,9 +89,8 @@ circumstances: >
     conditions for seven years, which proves the truth of our claim. Judgment
     No verdict was publicly issued. Ms. Leila Hajian was hanged in July/August
     1988.
-event_context: null
-responsible_forces: null
-
+event_context: "1988-89 mass execution of political prisoners"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

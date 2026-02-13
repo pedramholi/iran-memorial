@@ -3,10 +3,13 @@ name_latin: "Esma'il Ebrahimi"
 name_farsi: "اسماعیل ابراهیمی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "Lieutenant Colonel"
 
 # --- DEATH ---
 date_of_death: 1985-01-03
@@ -41,8 +44,7 @@ circumstances: >
     and Qesas (the law of talio and physical punishment) as well as article 11
     of the Islamic Punishment Law.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

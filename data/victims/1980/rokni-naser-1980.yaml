@@ -8,6 +8,12 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "Lieutenant"
+family:
+  notes: "mother (Ms. Bibi Farokh Bikbakht) and brother-in-law (Majid Vesali) were executed for links to the attempted Nojeh coup."
+beliefs: "opposed the religious rule and believed in the separation of church and state"
+
 # --- DEATH ---
 date_of_death: 1980-08-07
 age_at_death: null
@@ -74,9 +80,8 @@ circumstances: >
     specific information is available about the verdict leading to this
     execution. According to the Iranian Imperial Air Force’s website, Lt.
     Naser Rokni was executed in Tehran on August 7, 1980.
-event_context: null
-responsible_forces: null
-
+event_context: "Nojeh coup"
+responsible_forces: "Islamic Republic of Iran authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

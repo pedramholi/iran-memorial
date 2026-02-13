@@ -1,12 +1,20 @@
 id: razmju-afsaneh-1981
 name_latin: "Afsaneh Razmju"
 name_farsi: "افسانه رزمجو"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1965-01-01"
+place_of_birth: "Tehran"
 gender: female
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "student"
+education: "eleventh grade"
+family:
+  marital_status: "single"
+  children: 0
+  notes: "daughter of Ardeshir"
 
 # --- DEATH ---
 date_of_death: 1981-09-30
@@ -86,9 +94,8 @@ circumstances: >
     this accused cannot be ascertained in the absence of the basic guarantees
     of a fair trial. Evidence of guilt The report of this execution did not
     provide a
-event_context: null
-responsible_forces: null
-
+event_context: "execution of anti-revolutionaries"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

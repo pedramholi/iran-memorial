@@ -3,7 +3,7 @@ name_latin: "Hosein Danikani"
 name_farsi: "حسین دنیکانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -37,8 +37,7 @@ circumstances: >
     “corruptor on earth” and sentenced him to death. The sentence was
     immediately carried out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -32,9 +32,8 @@ circumstances: >
     No information is available on Bakht-Avar's defense. Judgment No
     information is available on the judgment or whether an appeal was allowed.
     Bakht-Avar was executed in November, 1988.
-event_context: null
-responsible_forces: null
-
+event_context: "1988 prison massacres"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

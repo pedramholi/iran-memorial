@@ -3,7 +3,7 @@ name_latin: "Ya'ghub Ezati"
 name_farsi: "یعقوب کوحی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -39,9 +39,8 @@ circumstances: >
     defense. Judgment The Anti-Narcotics Islamic Revolutionary Tribunal
     declared Mr. Ezati a corruptor on earth and sentenced him to death. The
     sentence was carried out in prison at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "1984"
+responsible_forces: "Anti-Narcotics Section of the Public Prosecutor's Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

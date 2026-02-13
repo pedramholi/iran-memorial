@@ -1,12 +1,17 @@
 id: amim-mohammad-1981
 name_latin: "Mohammad Amim"
 name_farsi: "محمد عمیم"
-date_of_birth: null
+date_of_birth: "1949-01-01"
 place_of_birth: null
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  children: 1
 
 # --- DEATH ---
 date_of_death: 1981-01-01
@@ -46,9 +51,8 @@ circumstances: >
     No information is available on Mr. Amim s defense. Judgment According to
     the Pekar list, Mr. Amim was executed by firing squad in Esfahan in
     October of 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "executed or killed during clashes with the Islamic Republic security forces from June 1981 to the publication date of the magazine"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

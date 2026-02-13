@@ -27,9 +27,8 @@ circumstances: >
     Babaimani's defense. Judgment The Islamic Revolutionary Tribunal of Islam
     Abad-e Gharb sentenced Mr. Babaimani to death. Having been confirmed by
     the Islamic Revolutionary Tribunals, the sentence was carried out.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on November 17, 1982"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

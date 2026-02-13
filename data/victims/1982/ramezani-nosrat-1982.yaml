@@ -3,10 +3,15 @@ name_latin: "Nosrat Ramezani"
 name_farsi: "نصرت رمضانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of the MKO"
+quotes:
+  - "punished by divine wrath"
 
 # --- DEATH ---
 date_of_death: 1982-01-01
@@ -35,8 +40,7 @@ circumstances: >
     “punished by divine wrath.” This communiqué does not provide any
     information regarding the tribunal which issued the death sentence.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

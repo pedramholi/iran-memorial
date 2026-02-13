@@ -1,12 +1,20 @@
 id: mahmudian-ataollah-haji-1981
 name_latin: "Ata'ollah Haji Mahmudian"
 name_farsi: "عطاءالله حاجی محمودیان"
-date_of_birth: null
+date_of_birth: "1942-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "businessman"
+family:
+  marital_status: "married"
+beliefs: "supporter of Mojahedin Khalq"
+quotes:
+  - "Active membership in the hypocrites [organization], attacking the [Revolutionary] Guards, and counter-revolutionary activities"
 
 # --- DEATH ---
 date_of_death: 1981-08-07
@@ -87,9 +95,8 @@ circumstances: >
     and executed in the following days and weeks. The day after the
     demonstration, the Islamic Republic regime started a repressive campaign –
     unprecedented in mod
-event_context: null
-responsible_forces: null
-
+event_context: "1981 execution of political prisoners"
+responsible_forces: "Central Islamic Revolutionary Prosecutor’s Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,18 @@
 id: daneshkhah-kamran-1981
 name_latin: "Kamran Daneshkhah"
 name_farsi: "کامران دانش خواه"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1958-01-01"
+place_of_birth: "Orumieh"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "sympathizer of Peykar"
+beliefs: "active in the Student Organization of Peykar"
+quotes:
+  - "His will is dated August 9, 1981."
 
 # --- DEATH ---
 date_of_death: 1981-08-17
@@ -63,9 +69,8 @@ circumstances: >
     identified Mr. Daneshkhah “at war with God and the Prophet, and apostate.”
     He was condemned to death and executed in Tabriz prison on August 10, 1981
     at night. Mr. Daneshkhah was 23.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on August 10, 1981"
+responsible_forces: "Islamic Revolutionary Court of Tabriz"
 # --- VERIFICATION ---
 status: unverified
 sources:

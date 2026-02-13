@@ -3,10 +3,13 @@ name_latin: "Asadollah Faramarzi"
 name_farsi: "اسدالله فرامرزی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "landowner"
 
 # --- DEATH ---
 date_of_death: 1979-10-04
@@ -42,8 +45,7 @@ circumstances: >
     Faramarzi was sentenced to death. The sentence was carried out at 1 a.m.,
     based on the Kayhan repor, or at 2:30 a.m., based on the Pars report.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic’s authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

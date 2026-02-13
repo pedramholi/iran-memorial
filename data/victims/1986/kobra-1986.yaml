@@ -36,9 +36,8 @@ circumstances: >
     Judge of the Islamic Revolutionary Tribunal of Hamedan sentenced Ms. Kobra
     to death. The Supreme Judicial Council approved the sentence. She and
     another woman were executed in Hamedan on May 20, 1986.
-event_context: null
-responsible_forces: null
-
+event_context: "1986 execution"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

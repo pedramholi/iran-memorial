@@ -3,10 +3,16 @@ name_latin: "Susan Mirza'i"
 name_farsi: "سوسن میرزایی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  notes: "spouse of the executed Amir Hushang Aqababa"
+beliefs: "active member of the MKO"
 
 # --- DEATH ---
 date_of_death: 1982-01-01
@@ -37,8 +43,7 @@ circumstances: >
     Mirza’i was “punished by divine wrath.” This communiqué does not provide
     any information regarding the tribunal which issued the death sentence.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

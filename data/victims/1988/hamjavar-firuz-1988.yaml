@@ -1,12 +1,18 @@
 id: hamjavar-firuz-1988
 name_latin: "Firuz Hamjavar"
 name_farsi: "فیروز همجوار"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1945-01-01"
+place_of_birth: "Maku"
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "chemical engineer"
+beliefs: "member of the Tudeh Party"
+quotes:
+  - "being single at such an age."
 
 # --- DEATH ---
 date_of_death: 1988-08-27
@@ -85,9 +91,8 @@ circumstances: >
     claims “are false considering the circumstances in prisons; for our
     children faced most difficult conditions [in the prison, with] visitation
     rights of once every 15 days, each visitation lasting ten minutes throu
-event_context: null
-responsible_forces: null
-
+event_context: "1988 mass killings of political prisoners"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Yusef Shafei"
 name_farsi: "یوسف شافعی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -40,8 +40,7 @@ circumstances: >
     sentenced Mr. Shafei to death. The sentence was carried out in Qasr prison
     at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Anti-Drug Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

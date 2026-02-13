@@ -1,12 +1,15 @@
 id: mirbaban-farhad-1982
 name_latin: "Farhad Mirbaban"
 name_farsi: "فرهاد میربابان"
-date_of_birth: null
+date_of_birth: "1950-01-01"
 place_of_birth: null
 gender: male
 ethnicity: null
 religion: "Islam (Sunni)"
 photo: null
+
+# --- LIFE ---
+occupation: "dentist"
 
 # --- DEATH ---
 date_of_death: 1982-12-08

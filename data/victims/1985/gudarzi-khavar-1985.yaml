@@ -3,7 +3,7 @@ name_latin: "Khavar Gudarzi"
 name_farsi: "خاور کرمانیان"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -37,9 +37,8 @@ circumstances: >
     available on Mr. Gudarzi s defense. Judgment The Islamic Revolutionary
     Tribunal of Mashad sentenced Mr. Gudarzi to death. After the Islamic
     Revolution's Supreme Court confirmed the sentence, it was carried out. .
-event_context: null
-responsible_forces: null
-
+event_context: "1985 executions"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

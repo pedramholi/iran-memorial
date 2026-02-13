@@ -35,9 +35,8 @@ circumstances: >
     available on Mr. Gudarzi s defense. Judgment The Special Tribunal for
     Drugs and Narcotics sentenced Mr. Gudarzi to death. He was executed at
     dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "1980"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

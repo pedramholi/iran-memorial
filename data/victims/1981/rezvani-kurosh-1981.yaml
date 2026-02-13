@@ -1,12 +1,20 @@
 id: rezvani-kurosh-1981
 name_latin: "Kurosh Rezvani"
 name_farsi: "کورش رضوانی"
-date_of_birth: null
+date_of_birth: "1953-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "mayor"
+education: "attended the University of Tabriz"
+personality: "assisted needy individuals at every opportunity and to the best of his ability"
+beliefs: "supporter of the Mojahedin Khalq Organization"
+quotes:
+  - "if released, he would engage in armed resistance against the Islamic Republic"
 
 # --- DEATH ---
 date_of_death: 1981-07-26
@@ -85,9 +93,8 @@ circumstances: >
     authorities’ different interpretation of Islam, widened the gap between
     the two. Authorities of the new regime referred to the Mojahedin as
     “Hypocrites” and the Hezbollahi supporters of the regime att
-event_context: null
-responsible_forces: null
-
+event_context: "1981 execution"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

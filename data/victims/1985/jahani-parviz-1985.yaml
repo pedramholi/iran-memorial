@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+quotes:
+  - "allegedly summarily or arbitrarily executed"
+
 # --- DEATH ---
 date_of_death: 1985-03-15
 age_at_death: 27
@@ -30,9 +34,8 @@ circumstances: >
     a fair trial. Evidence of guilt The report of this execution does not
     contain information regarding the evidence provided against the defendant.
     Defense No information is available on Mr. Jahani's defense. Judgment
-event_context: null
-responsible_forces: null
-
+event_context: "executed or killed during clashes with the Islamic Republic security forces from June 1981 to the publication date of the magazine"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

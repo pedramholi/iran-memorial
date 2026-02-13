@@ -8,6 +8,11 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "professional smuggler"
+quotes:
+  - "a professional smuggler"
+
 # --- DEATH ---
 date_of_death: 1985-05-22
 age_at_death: null
@@ -35,8 +40,7 @@ circumstances: >
     Birjand sentenced Mr. Sarvarzuri to death. After having been confirmed by
     the Supreme Court, the sentence was carried out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal of Birjand"
 # --- VERIFICATION ---
 status: unverified
 sources:

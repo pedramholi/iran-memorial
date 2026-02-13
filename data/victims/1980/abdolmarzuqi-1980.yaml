@@ -3,7 +3,7 @@ name_latin: "Abdolmarzuqi"
 name_farsi: "عبدالمرزوقی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -35,9 +35,8 @@ circumstances: >
     defendant. Defense No information is available on Mr. Abdolmarzuqi s
     defense. Judgment The Special Tribunal for Drugs and Narcotics sentenced
     Mr. Abdolmarzuqi to death. He was executed on July 31, 1980 at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "1980"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

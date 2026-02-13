@@ -37,9 +37,8 @@ circumstances: >
     defense. Judgment The Islamic Revolutionary Tribunal of Esfahan sentenced
     Mr. Raeesy to death. The sentence was confirmed by the Supreme Court of
     the Islamic Revolution.
-event_context: null
-responsible_forces: null
-
+event_context: "1982"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

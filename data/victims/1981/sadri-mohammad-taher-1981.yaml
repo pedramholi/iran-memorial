@@ -1,12 +1,19 @@
 id: sadri-mohammad-taher-1981
 name_latin: "Mohammad Taher Sadri"
 name_farsi: "محمد طاهر صدرى"
-date_of_birth: null
+date_of_birth: "1965-01-01"
 place_of_birth: null
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "high school student"
+education: "high school student"
+beliefs: "sympathizer of the Rah-e Kargar Organization"
+quotes:
+  - "There was no charge brought against him other than distribution of leaflets at school."
 
 # --- DEATH ---
 date_of_death: 1981-10-05
@@ -72,9 +79,8 @@ circumstances: >
     5, 1981 at Evin Prison. According to the above book, Mr. Mohammad Taher
     Sadri was executed by a firing squad. He was probably 16 at the time of
     execution.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

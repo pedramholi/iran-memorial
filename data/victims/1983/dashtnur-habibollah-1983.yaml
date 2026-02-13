@@ -3,7 +3,7 @@ name_latin: "Habibollah Dashtnur"
 name_farsi: "حبیب  اله دشت نور"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -37,8 +37,7 @@ circumstances: >
     on earth and sentenced him to death. Having been confirmed by Qom s
     Tribunal, the sentence was carried out at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

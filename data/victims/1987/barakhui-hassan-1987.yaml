@@ -38,9 +38,8 @@ circumstances: >
     were hanged in the central prison of Zahedan at 5 a.m. on October 25, 1987
     in the presence of a representative of the Public Prosecution Office and
     Head of the Police Department.
-event_context: null
-responsible_forces: null
-
+event_context: "1987 execution"
+responsible_forces: "Islamic Republic’s authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

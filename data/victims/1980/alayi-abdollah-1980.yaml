@@ -34,9 +34,8 @@ circumstances: >
     Defense No information is available on the accused’s defense. Judgment The
     Islamic Revolutionary Tribunal of Isfahan declared Mr. A'layi a “corruptor
     on earth.” He was executed at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "1980"
+responsible_forces: "Islamic Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

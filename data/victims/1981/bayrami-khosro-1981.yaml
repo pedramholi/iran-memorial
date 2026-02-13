@@ -2,11 +2,15 @@ id: bayrami-khosro-1981
 name_latin: "Khosro Bayrami"
 name_farsi: "خسرو بایرامی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Hamadan"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "photographer"
+beliefs: "member of Peykar Organization for the Liberation of the Working Class"
 
 # --- DEATH ---
 date_of_death: 1981-01-01
@@ -44,9 +48,8 @@ circumstances: >
     evidence provided against the defendant. Defense No information is
     available on Mr. Bayrami’s defense. Judgment Mr. Khosro Bayrami was
     executed by firing squad in Babol in 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "executed in 1981"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

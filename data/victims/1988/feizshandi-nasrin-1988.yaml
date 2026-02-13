@@ -8,6 +8,12 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+personality: "loved to read"
+beliefs: "member of the People’s Mojahedin of Iran Organization"
+quotes:
+  - "She loved to read. Most of the time when I saw her, she was reading the books, which were available in prison."
+
 # --- DEATH ---
 date_of_death: 1988-01-01
 age_at_death: 28
@@ -85,9 +91,8 @@ circumstances: >
     available information, months after the executions, prison authorities
     informed the families about the executions and handed in the victims’
     belongings to their families. The bodies, however, were not retu
-event_context: null
-responsible_forces: null
-
+event_context: "1988 mass executions of political prisoners"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

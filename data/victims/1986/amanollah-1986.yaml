@@ -3,7 +3,7 @@ name_latin: "Amanollah"
 name_farsi: "امان الله"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -36,8 +36,7 @@ circumstances: >
     sentenced Mr. Amanollah to death. The Supreme Court approved the sentence.
     He was executed at Adelabad prison in Shiraz.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic’s authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

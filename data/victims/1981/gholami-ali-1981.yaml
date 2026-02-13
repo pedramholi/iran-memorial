@@ -8,6 +8,11 @@ ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
 
+# --- LIFE ---
+occupation: "student"
+education: "Technicom Nafisi University"
+beliefs: "follower of the Mojahedin Khalq Organization"
+
 # --- DEATH ---
 date_of_death: 1981-08-22
 age_at_death: 21
@@ -45,9 +50,8 @@ circumstances: >
     by Tehran’s Islamic Revolutionary Tribunal and sentenced to death. Mr.
     Gholami was executed at night in Evin Prison. There are no details
     available regarding his execution sentence.
-event_context: null
-responsible_forces: null
-
+event_context: "uprising on August 19, 1981"
+responsible_forces: "Tehran’s Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

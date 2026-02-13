@@ -3,10 +3,13 @@ name_latin: "Mulan Qaderzirin"
 name_farsi: "مولان قادرزیرین"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+beliefs: "Democratic Party of Iranian Kordestan"
 
 # --- DEATH ---
 date_of_death: 1983-01-01
@@ -41,9 +44,8 @@ circumstances: >
     the evidence provided against the defendant. Defense No information is
     available on Ms. Qaderzirin’s defense. Judgment There is no information on
     the verdict leading to this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "armed clashes between the Revolutionary Guards and the peshmerga"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

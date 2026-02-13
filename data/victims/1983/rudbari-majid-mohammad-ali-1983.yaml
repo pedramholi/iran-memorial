@@ -42,8 +42,7 @@ circumstances: >
     the Public Prosecutor s Office in Tehran sentenced Mr. Rudbari to death.
     The sentence was carried out at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Anti-Narcotics Section of the Public Prosecutor s Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

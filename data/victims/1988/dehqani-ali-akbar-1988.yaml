@@ -2,11 +2,15 @@ id: dehqani-ali-akbar-1988
 name_latin: "Ali Akbar Dehqani"
 name_farsi: "علی اکبر دهقانی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Tehran"
 gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+education: "high school graduate"
+beliefs: "participated in meetings of the Freedom Movement (Nehzat-e Azadi)"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -86,7 +90,7 @@ circumstances: >
     trial was announced as, cooperation with the Mojahedin Khalq Organization.
     No charge has been publicly leveled against the victims of the 1988 mass
     exe
-event_context: null
+event_context: "1988 massacre"
 responsible_forces: null
 
 # --- VERIFICATION ---

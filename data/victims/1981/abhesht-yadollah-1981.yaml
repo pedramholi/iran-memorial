@@ -2,11 +2,17 @@ id: abhesht-yadollah-1981
 name_latin: "Yadollah Abhesht"
 name_farsi: "یدالله آبهشت"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Hamedan"
 gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+family:
+beliefs: "sympathizer of Mojahedin Khalq Organization"
+quotes:
+  - "he was buried in an unmarked, collective grave allocated for the Mojahedin."
 
 # --- DEATH ---
 date_of_death: 1981-10-08
@@ -54,9 +60,8 @@ circumstances: >
     Evin prison on October 8, 1981. The MKO website quotes his daughter saying
     that he was buried in an unmarked, collective grave allocated for the
     Mojahedin. For years, his family did not know where he was buried.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on October 8, 1981"
+responsible_forces: "Islamic Revolutionary Court of Rasht"
 # --- VERIFICATION ---
 status: unverified
 sources:

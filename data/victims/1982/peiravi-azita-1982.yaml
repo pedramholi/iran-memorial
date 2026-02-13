@@ -3,10 +3,14 @@ name_latin: "Azita Peiravi"
 name_farsi: "آزیتا پیروی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+education: "Nabi High School"
+beliefs: "follower of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1982-09-21
@@ -43,9 +47,8 @@ circumstances: >
     executed on September 21, 1982. The sender of one of the forms stated that
     she was executed in Evin prison. The sender of the other form reported
     that she was executed in 1983.
-event_context: null
-responsible_forces: null
-
+event_context: "1981-1985 executions"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

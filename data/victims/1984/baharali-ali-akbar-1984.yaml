@@ -2,11 +2,14 @@ id: baharali-ali-akbar-1984
 name_latin: "Ali Akbar Baharali"
 name_farsi: "علی اکبر بهارعلی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Haji Abad village, near Neyshabur"
 gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "worked in a car dealership"
 
 # --- DEATH ---
 date_of_death: 1984-12-03
@@ -63,9 +66,8 @@ circumstances: >
     Revolutionary Tribunal declared Mr. Baharali a “corruptor on earth” and
     sentenced him to death. The Supreme Court approved the sentence and Mr.
     Ali Akbar Baharali was hanged in Qasr prison at dawn on December 3, 1984.
-event_context: null
-responsible_forces: null
-
+event_context: "1984 execution"
+responsible_forces: "Anti-Narcotics Section of Tehran’s Public Prosecutor’s Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

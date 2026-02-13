@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "university student"
+beliefs: "Mojahedin Khalq Iran"
+
 # --- DEATH ---
 date_of_death: 1982-05-10
 age_at_death: 26
@@ -29,8 +33,7 @@ circumstances: >
     available on Ms. Rashedi Marandi's defense. Judgment There is no
     information on the verdict leading to this execution.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

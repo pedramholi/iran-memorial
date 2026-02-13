@@ -3,7 +3,7 @@ name_latin: "Sheikh Hamed Ravidat"
 name_farsi: "شیخ حامد رویدات"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -40,8 +40,7 @@ circumstances: >
     Judgment The Islamic Revolutionary Tribunal of Abadan and Khoramshahr
     sentenced Mr. Ravidat to death and he was immediately executed.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -8,6 +8,13 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+occupation: "teacher"
+education: "high school graduate"
+family:
+  marital_status: "married"
+beliefs: "sympathizer of the Fadaiyan Organization"
+
 # --- DEATH ---
 date_of_death: 1981-07-26
 age_at_death: 28
@@ -52,9 +59,8 @@ circumstances: >
     execution. The Public and Revolutionary Prosecutor Office of Kerman
     announced that, because the executed individuals are apostate, they have
     no right to be buried in the Moslem cemetery.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on July 26, 1981"
+responsible_forces: "Islamic Revolutionary Court of Kerman"
 # --- VERIFICATION ---
 status: unverified
 sources:

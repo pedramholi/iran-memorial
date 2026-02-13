@@ -38,9 +38,8 @@ circumstances: >
     Tribunal of Kerman sentenced Mr. Safi to death. The Islamic Revolutionary
     Supreme Court approved the sentence. He and ten other men were hanged on
     May 21, 1985 at prison of the Police Department of Kerman.
-event_context: null
-responsible_forces: null
-
+event_context: "1985 execution"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

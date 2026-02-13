@@ -3,10 +3,13 @@ name_latin: "Soqrat Dabiri"
 name_farsi: "سقراط دبیری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of the Komeleh group"
 
 # --- DEATH ---
 date_of_death: 1982-07-14
@@ -40,8 +43,7 @@ circumstances: >
     been confirmed by the Islamic Revolutionary Supreme Tribunal of Qom, the
     sentence was carried out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal of Orumieh"
 # --- VERIFICATION ---
 status: unverified
 sources:

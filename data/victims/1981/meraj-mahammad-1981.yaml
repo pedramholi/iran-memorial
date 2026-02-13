@@ -1,12 +1,15 @@
 id: meraj-mahammad-1981
 name_latin: "Mahammad Me’raj"
 name_farsi: "محمد معراج"
-date_of_birth: null
+date_of_birth: "1960-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-07-20
@@ -86,9 +89,8 @@ circumstances: >
     leaders and many of its members were expelled from France, they went to
     Iraq and founded the National Liberation Army of Iran in 1987, which
     entered I
-event_context: null
-responsible_forces: null
-
+event_context: "1981 protests"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

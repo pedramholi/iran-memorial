@@ -35,9 +35,8 @@ circumstances: >
     defense. Judgment The Islamic Revolutionary Tribunal of Sari declared Mr.
     Rafi’i a “corruptor on earth” and sentenced him to death. He was shot by
     firing squad on September 23, 1979 in Sari.
-event_context: null
-responsible_forces: null
-
+event_context: "1979"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

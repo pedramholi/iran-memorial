@@ -2,7 +2,7 @@ id: avarin-hossein-1981
 name_latin: "Hossein Avarin"
 name_farsi: "حسین آورین"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Afghanistan"
 gender: male
 ethnicity: null
 religion: "Presumed Muslim"
@@ -36,9 +36,8 @@ circumstances: >
     available on Mr. Avarin’s defense. Judgment The Islamic Revolutionary
     Tribunal of Kermanshah condemned Mr. Hossein Avarin to death. He was
     executed on June 25, 1981 at Dizel Abad prison.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on June 25, 1981"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

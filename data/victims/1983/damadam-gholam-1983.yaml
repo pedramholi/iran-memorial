@@ -35,9 +35,8 @@ circumstances: >
     Revolutionary Tribunal of Hormozgan sentenced Mr. Damadam to death. Having
     been confirmed by the Islamic Revolution s Supreme Court, the sentence was
     carried out at dawnon December 18, 1983.
-event_context: null
-responsible_forces: null
-
+event_context: "1983 execution"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

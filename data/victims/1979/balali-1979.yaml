@@ -3,10 +3,13 @@ name_latin: "Balali"
 name_farsi: "بلالی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "Warrant Officer"
 
 # --- DEATH ---
 date_of_death: 1979-04-09
@@ -39,8 +42,7 @@ circumstances: >
     accused. Judgment The defendant was sentenced to death and executed. No
     other details are available.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic’s authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

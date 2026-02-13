@@ -2,8 +2,8 @@ id: gudarzi-minu-1988
 name_latin: "Minu Gudarzi"
 name_farsi: "مینو گودرزی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Nurabad Momseni, Fars province"
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -34,9 +34,8 @@ circumstances: >
     available on Ms. Goodarzi's defense. Judgment No information is available
     on the judgment or whether an appeal was allowed. Ms. Goodarzi was
     executed November 23, 1988.
-event_context: null
-responsible_forces: null
-
+event_context: "1988 prison massacres"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

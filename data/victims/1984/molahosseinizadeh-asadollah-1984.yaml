@@ -3,7 +3,7 @@ name_latin: "Asadollah Molahosseinizadeh"
 name_farsi: "اسداله ملاحسینی زاده"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,9 +38,8 @@ circumstances: >
     Mr. Shahiki to death. Having been confirmed by the Islamic Revolution s
     Supreme Court, the sentence was carried out in the prison of Kerman Police
     Headquarters at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "1984"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

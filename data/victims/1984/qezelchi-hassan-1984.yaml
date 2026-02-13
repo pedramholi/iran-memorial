@@ -1,12 +1,18 @@
 id: qezelchi-hassan-1984
 name_latin: "Hassan Qezelchi"
 name_farsi: "حسن قزلچی"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1914-01-01"
+place_of_birth: "Bukan"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "founder of the Kurdistan Democratic Party of Iran"
+beliefs: "member of the Tudeh Party"
+quotes:
+  - "Mr. Qezelchi died under torture in September of 1984 at the age of 70."
 
 # --- DEATH ---
 date_of_death: 1984-01-01
@@ -40,9 +46,8 @@ circumstances: >
     Mr. Qezelchi died under torture in September of 1984 at the age of 70. The
     officials did not deliver his body to his family. No information is
     available about any possible ruling against him.
-event_context: null
-responsible_forces: null
-
+event_context: "1982 government attacks on the Tudeh Party"
+responsible_forces: "Islamic Republic regime"
 # --- VERIFICATION ---
 status: unverified
 sources:

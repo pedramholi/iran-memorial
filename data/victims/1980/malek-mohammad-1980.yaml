@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "Brigadier General"
+
 # --- DEATH ---
 date_of_death: 1980-07-19
 age_at_death: null
@@ -77,9 +80,8 @@ circumstances: >
     Malek was sentenced to death. At midnight, within hours after the issuance
     of the verdict, the defendant was executed at the same place where he was
     tried.
-event_context: null
-responsible_forces: null
-
+event_context: "Noje coup d'état"
+responsible_forces: "Islamic Revolutionary Tribunal of the Army"
 # --- VERIFICATION ---
 status: unverified
 sources:

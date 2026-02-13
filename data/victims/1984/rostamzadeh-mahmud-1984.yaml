@@ -3,10 +3,13 @@ name_latin: "Mahmud Rostamzadeh"
 name_farsi: "محمود رستم زاده"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "international professional drug trafficker"
 
 # --- DEATH ---
 date_of_death: 1984-07-09
@@ -38,8 +41,7 @@ circumstances: >
     Tribunal declared Mr. Rostamzadeh a corruptor on earth and sentenced him
     to death. The sentence was carried out in prison at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Anti-Narcotics Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

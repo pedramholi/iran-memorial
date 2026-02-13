@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+beliefs: "sympathizer of the Fadaiyan Organization"
+
 # --- DEATH ---
 date_of_death: 1981-07-05
 age_at_death: null
@@ -48,9 +51,8 @@ circumstances: >
     Mr. Khosusi as "a corruptor on earth, at war with God and a rebel." He was
     condemned to death. The ruling was carried out when he was executed by
     firing squad in the Evin prison on July 5, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Islamic Revolutionary Court of Tehran"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,10 +3,13 @@ name_latin: "Habibollah Abedi (Abedin)"
 name_farsi: "حبیب‌الله عابدی (عابدین)"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of the Moslem People's Party of Iran"
 
 # --- DEATH ---
 date_of_death: 1980-01-12
@@ -86,9 +89,8 @@ circumstances: >
     charged with creating fear and apprehension and mayhem among the populace,
     committing arson, holding a club in his hand (insinuating that he was a
     hoodl
-event_context: null
-responsible_forces: null
-
+event_context: "January 1980 protests"
+responsible_forces: "Islamic Revolutionary Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

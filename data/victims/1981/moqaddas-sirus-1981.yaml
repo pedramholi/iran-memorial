@@ -3,10 +3,13 @@ name_latin: "Sirus Moqaddas"
 name_farsi: "سیروس مقدس"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of People's Mojahedin"
 
 # --- DEATH ---
 date_of_death: 1981-07-02
@@ -44,8 +47,7 @@ circumstances: >
     Islamic Revolutionary Tribunal of Ahvaz sentenced Mr. Moqaddas to death.
     He was executed at 1:45 a.m.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal of Ahvaz"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "Brigadier General"
+
 # --- DEATH ---
 date_of_death: 1980-07-05
 age_at_death: null
@@ -62,8 +65,7 @@ circumstances: >
     confiscation of property for six of the accused. It is not clear whether
     or not Brig. Gen. Dehpanah s properties were confiscated.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

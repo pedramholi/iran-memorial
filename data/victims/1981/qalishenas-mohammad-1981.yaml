@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+quotes:
+  - "from the age of 16 to 55, he played the passive role in acts of sodomy, through which he has corrupted many young men"
+
 # --- DEATH ---
 date_of_death: 1981-08-14
 age_at_death: 55
@@ -45,9 +49,8 @@ circumstances: >
     defense. Judgment The Islamic Revolutionary Tribunal of Shiraz condemned
     Mr. Mohammad Qalishenas to death. He, along with another individual, was
     stoned to death on August 14, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 execution"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

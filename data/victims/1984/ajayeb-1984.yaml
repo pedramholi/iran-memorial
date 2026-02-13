@@ -3,10 +3,13 @@ name_latin: "Ajayeb"
 name_farsi: "عجایب"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "international drug trafficker"
 
 # --- DEATH ---
 date_of_death: 1984-05-20
@@ -36,8 +39,7 @@ circumstances: >
     defense. Judgment The Anti-Narcotics Islamic Revolutionary Tribunal
     sentenced Mr. Ajayeb to death. The sentence was carried out at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Anti-Narcotics Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

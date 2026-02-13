@@ -3,10 +3,15 @@ name_latin: "Heshmatollah Baghbani Arani"
 name_farsi: "حشمت الله باغبانی آرانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
+quotes:
+  - "being a leader of the Monafeqin [Mojahedin] Organization in Kashan, a high ranking member [of the organization], and the coordinator for other members and the organizational plans in the surrounding area and in Aran, Jajrud, Natanz, and Mahabad."
 
 # --- DEATH ---
 date_of_death: 1981-07-05
@@ -47,9 +52,8 @@ circumstances: >
     Heshmatollah Baghbani-Arani was executed by firing squad in the Evin
     prison yard on July 5, 1981 at night. No specific information is available
     about the defendant’s execution.
-event_context: null
-responsible_forces: null
-
+event_context: "executed by firing squad in the Evin prison yard on July 5, 1981"
+responsible_forces: "Islamic Revolutionary Court of Kashan"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Ma'sumeh Darabi"
 name_farsi: "معصومه دارابی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Islam"
 photo: null
@@ -33,8 +33,7 @@ circumstances: >
     further information is available on her conviction, sentence, and
     execution.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Ahvaz Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

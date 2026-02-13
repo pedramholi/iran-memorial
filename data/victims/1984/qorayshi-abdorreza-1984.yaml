@@ -1,12 +1,21 @@
 id: qorayshi-abdorreza-1984
 name_latin: "Abdorreza Qorayshi"
 name_farsi: "عبدالرضا قریشی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1960-11-01"
+place_of_birth: "Dezful"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "laborer"
+education: "high school graduate"
+family:
+personality: "very compassionate"
+beliefs: "sympathizer of the Komoleh Organization"
+quotes:
+  - "Those yet to come should know that I never swallowed a mouthful without dignity or took a breath without integrity."
 
 # --- DEATH ---
 date_of_death: 1984-01-01
@@ -68,9 +77,8 @@ circumstances: >
     condemned to death and his sentence was carried out in the Evin Prison in
     November of 1984. According to this source, Mr. Qorayshi was forced to
     donate blood to the war front before his execution.
-event_context: null
-responsible_forces: null
-
+event_context: "1982 arrest and execution"
+responsible_forces: "Evin Prison"
 # --- VERIFICATION ---
 status: unverified
 sources:

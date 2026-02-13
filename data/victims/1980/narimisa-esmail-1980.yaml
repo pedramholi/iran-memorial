@@ -2,8 +2,8 @@ id: narimisa-esmail-1980
 name_latin: "Esma'il Narimisa"
 name_farsi: "اسماعیل نریمیسا"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Haftgerd, Khuzestan province"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -59,8 +59,7 @@ circumstances: >
     punishment for the crime committed by a cleric, a doctor or an engineer is
     heavier and harsher because they are learned and knowledgeable....”
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal of Ahvaz"
 # --- VERIFICATION ---
 status: unverified
 sources:

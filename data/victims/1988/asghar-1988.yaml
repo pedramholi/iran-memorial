@@ -1,12 +1,16 @@
 id: asghar-1988
 name_latin: "Asghar"
 name_farsi: "اصغر"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1971-01-01"
+place_of_birth: "Tehran"
 gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+education: "high school graduate"
+family:
 
 # --- DEATH ---
 date_of_death: 1988-07-31
@@ -85,9 +89,8 @@ circumstances: >
     process that resulted in thousands of executions throughout Iran. In their
     1988 open letter to then-Minister of Justice, Dr. Habibi, they argue that
     the official secrecy surrounding these executions is pr
-event_context: null
-responsible_forces: null
-
+event_context: "1988 massacre"
+responsible_forces: "Mojahedin Khalq Organization"
 # --- VERIFICATION ---
 status: unverified
 sources:

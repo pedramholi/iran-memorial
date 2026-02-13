@@ -1,12 +1,21 @@
 id: kabbout-ghazi-1983
 name_latin: "Ghazi Kabbout"
 name_farsi: "غازي قبوط"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1955-01-01"
+place_of_birth: "Ankoun, Lebanon"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "chef"
+family:
+  marital_status: "single"
+  notes: "one of eight children, had three sisters and four brothers"
+personality: "calm, helpful, and generous young man much loved by his family"
+quotes:
+  - "I was hoping to marry in one or two years."
 
 # --- DEATH ---
 date_of_death: 1983-04-18
@@ -85,9 +94,8 @@ circumstances: >
     that Muslims had a duty to rise up against autocratic leaders and that
     Iran would help them drive America out. In his speeches, he routinely
     called on Muslims, both Sunni and Shia, to fol
-event_context: null
-responsible_forces: null
-
+event_context: "1983 bombing of the American Embassy in Beirut"
+responsible_forces: "Islamic Jihad"
 # --- VERIFICATION ---
 status: unverified
 sources:

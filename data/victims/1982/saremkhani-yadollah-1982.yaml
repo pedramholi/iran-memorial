@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+beliefs: "member of Peykar Organization for the Liberation of the Working Class"
+
 # --- DEATH ---
 date_of_death: 1982-11-25
 age_at_death: null
@@ -41,9 +44,8 @@ circumstances: >
     available on Mr. Saremkhani’s defense. Judgment According to the list of
     Martyrs of the Peykar Organization, Mr. Yadollah Saremkhani was executed
     by firing squad in Shiraz on November 25, 1982.
-event_context: null
-responsible_forces: null
-
+event_context: "1982 execution"
+responsible_forces: "Iranian government"
 # --- VERIFICATION ---
 status: unverified
 sources:

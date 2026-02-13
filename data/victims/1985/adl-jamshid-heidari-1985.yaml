@@ -8,6 +8,11 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+family:
+  notes: "brother of Reza, sons of Mohammad"
+beliefs: "active members of the Mojahedin Khalq Organization"
+
 # --- DEATH ---
 date_of_death: 1985-03-05
 age_at_death: null
@@ -53,9 +58,8 @@ circumstances: >
     The Islamic Revolutionary Tribunal of Tehran sentenced Mr. Jamshid Heidary
     Adl to death. He and his brother were shot by a firing squad on March 5,
     1985 at Evin prison.
-event_context: null
-responsible_forces: null
-
+event_context: "1984-1985"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

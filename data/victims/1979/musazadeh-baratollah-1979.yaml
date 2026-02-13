@@ -3,7 +3,7 @@ name_latin: "Baratollah Musazadeh"
 name_farsi: "برات الله موسی زاده"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -31,8 +31,7 @@ circumstances: >
     Mr. Musazadeh was sentenced to death and was executed in Kashmar after his
     sentence was confirmed by the Islamic Revolutionary court of Khorasan.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary court of Khorasan"
 # --- VERIFICATION ---
 status: unverified
 sources:

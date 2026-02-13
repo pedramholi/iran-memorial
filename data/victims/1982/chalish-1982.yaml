@@ -3,10 +3,13 @@ name_latin: "Chalish"
 name_farsi: "چالیش"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of the Peykar Organization for the Liberation of the Working Class"
 
 # --- DEATH ---
 date_of_death: 1982-01-01
@@ -39,9 +42,8 @@ circumstances: >
     contain information regarding the evidence provided against the defendant.
     Defense No information is available on Mr. Chalish's defense. Judgment Mr.
     Chalish was executed by firing squad in Aghajari in 1982.
-event_context: null
-responsible_forces: null
-
+event_context: "1982"
+responsible_forces: "Iranian government"
 # --- VERIFICATION ---
 status: unverified
 sources:

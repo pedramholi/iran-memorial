@@ -3,10 +3,18 @@ name_latin: "Piruz Ehya"
 name_farsi: "پیروز احیا"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "teacher"
+education: "student at the Elm-o-San at University"
+family:
+  marital_status: "married"
+  children: 2
+beliefs: "sympathizer of the Fadayian Khalq Organization Aksariat (Majority faction)"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -85,9 +93,8 @@ circumstances: >
     with armed members of the Mojahedin Khalq Organization in clashes with
     armed forces of the Islamic Republic, states that such claims are false
     considering the circumstances in prisons; for our c
-event_context: null
-responsible_forces: null
-
+event_context: "mass killings of political prisoners in 1988"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

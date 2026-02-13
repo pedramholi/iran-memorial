@@ -1,12 +1,17 @@
 id: khani-akbar-moslem-1983
 name_latin: "Akbar Moslem Khani"
 name_farsi: "اکبر مسلم خانی"
-date_of_birth: null
+date_of_birth: "1953-01-01"
 place_of_birth: null
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "laborer"
+family:
+beliefs: "affiliated with the Minority faction of the Fadaiyan Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1983-04-08
@@ -39,9 +44,8 @@ circumstances: >
     No information is available on Mr. Moslem Khani s defense. Judgment Mr.
     Moslem Khani was executed in Hamedan on April 8, 1983, along with a friend
     named Mr. Soltan Ali Oshtorani.
-event_context: null
-responsible_forces: null
-
+event_context: "executed in Hamedan on April 8, 1983"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

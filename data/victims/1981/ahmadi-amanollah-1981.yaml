@@ -1,12 +1,16 @@
 id: ahmadi-amanollah-1981
 name_latin: "Amanollah Ahmadi"
 name_farsi: "امان الله احمدی"
-date_of_birth: null
+date_of_birth: "1955-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+family:
+beliefs: "member of Peykar Organization for the Liberation of the Working Class"
 
 # --- DEATH ---
 date_of_death: 1981-01-01
@@ -46,9 +50,8 @@ circumstances: >
     available on Mr. Ahmadi’s defense. Judgment According to the list of
     Martyrs of the Peykar Organization, Mr. Amonollah Ahmadi was executed by
     firing squad in Tabriz in 1981. He was 26 years old.
-event_context: null
-responsible_forces: null
-
+event_context: "executed in 1981"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

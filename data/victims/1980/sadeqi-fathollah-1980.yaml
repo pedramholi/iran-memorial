@@ -2,8 +2,8 @@ id: sadeqi-fathollah-1980
 name_latin: "Fathollah Sadeqi"
 name_farsi: "فتح الله صادقی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Homayun Shahr, Esfahan province"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -49,9 +49,8 @@ circumstances: >
     and Narcotics declared Mr. Fathollah Sadeqi a corruptor on earth and an
     enemy of God and his Prophet and sentenced him to death. He was executed
     in Esfahan at dawn of July 21, 1980.
-event_context: null
-responsible_forces: null
-
+event_context: "1980 execution"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

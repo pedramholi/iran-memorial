@@ -3,7 +3,7 @@ name_latin: "Abas Ali Haqi Barfi"
 name_farsi: "عباسعلی حقی برفی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -39,9 +39,8 @@ circumstances: >
     corruptor on earth and at war with God", and the Supreme Judicial Council
     approved the verdict. He was executed at midnight on Wednesday July 15th,
     1981.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 execution"
+responsible_forces: "Islamic Revolutionary Tribunal of Tabriz"
 # --- VERIFICATION ---
 status: unverified
 sources:

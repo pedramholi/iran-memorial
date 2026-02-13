@@ -1,12 +1,22 @@
 id: mehrpur-irandokht-1983
 name_latin: "Irandokht Mehrpur"
 name_farsi: "ایراندخت مهرپور"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1945-01-01"
+place_of_birth: "Nahavand"
+gender: female
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "hostess"
+education: "completed elementary education in a Zoroastrian school, attended Anushirvan and Kharazmi high schools"
+family:
+  marital_status: "married"
+  children: 1
+  notes: "had a seventeen-day-old baby daughter"
+quotes:
+  - "In this last moment of my life, my heart is full of love for you and all good things. A deep peace has taken over my being."
 
 # --- DEATH ---
 date_of_death: 1983-01-01
@@ -54,7 +64,7 @@ circumstances: >
     Tehran in July of 1983. In her will, she wrote to her family, In this last
     moment of my life, my heart is full of love for you and all good things. A
     deep peace has taken over my being.
-event_context: null
+event_context: "executed in Tehran in July of 1983"
 responsible_forces: null
 
 # --- VERIFICATION ---

@@ -8,6 +8,11 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+beliefs: "member of Peykar Organization for the Liberation of the Working Class"
+quotes:
+  - "Hail to the fighters of the war against the world infidels under the leadership of blood-thirsty America, and hail to the heroic and martyr-producing nation, which obstruct criminals and merciless Hypocrites, and which reports these criminals against the Koran and Islam to the armed forces and the judiciary on a daily basis, and which accepts the calling of the Koran that ‘O Prophet, strive hard against the unbelievers and the Hypocrites, and be firm against them’"
+
 # --- DEATH ---
 date_of_death: 1981-08-29
 age_at_death: null
@@ -67,9 +72,8 @@ circumstances: >
     defense. Judgment َThe Central Islamic Revolutionary Court identified Mr.
     Rahimi as "an enemy of God and the Prophet, a corruptor on earth, and a
     rebel." He was condemned to death and executed on August 29, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "executed on August 29, 1981"
+responsible_forces: "Central Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

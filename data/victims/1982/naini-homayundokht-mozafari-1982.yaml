@@ -3,7 +3,7 @@ name_latin: "Homayundokht Mozafari Na'ini"
 name_farsi: "همایوندخت مظفری نائینی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Islam"
 photo: null
@@ -85,7 +85,7 @@ circumstances: >
     MKO on June 20, 1981, many sympathizers of the organization had no
     military training, were not armed, and did not participate in armed
     conflict.
-event_context: null
+event_context: "1981 protests against the Islamic Republic"
 responsible_forces: null
 
 # --- VERIFICATION ---

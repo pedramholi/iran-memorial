@@ -2,11 +2,15 @@ id: raisi-habibollah-1980
 name_latin: "Habibollah Ra'isi"
 name_farsi: "حبیب‌ الله رئیسی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Nahavand, Hamedan province"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "son of Vali Morad"
 
 # --- DEATH ---
 date_of_death: 1980-07-23
@@ -38,9 +42,8 @@ circumstances: >
     Judgment The religious judge of the Anti-Narcotic Islamic Revolutionary
     Tribunal sentenced Mr. Habibollah Ra isi to death. He was executed early
     in the morning on Wednesday July 23, 1980.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on July 23, 1980"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

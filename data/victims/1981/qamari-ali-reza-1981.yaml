@@ -1,12 +1,18 @@
 id: qamari-ali-reza-1981
 name_latin: "Ali Reza Qamari"
 name_farsi: "علی رضا قمری"
-date_of_birth: null
+date_of_birth: "1956-01-01"
 place_of_birth: null
 gender: male
-ethnicity: null
+ethnicity: "Baluch"
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "technician"
+family:
+  notes: "son of Esma'il"
+beliefs: "member of the Peykar Organization for the Liberation of the Working Class"
 
 # --- DEATH ---
 date_of_death: 1981-09-15
@@ -57,9 +63,8 @@ circumstances: >
     Revolutionary Court identified Mr. Qamari "an enemy of God and His Prophet
     and a corruptor on earth." He was condemned to death, and executed in Evin
     prison on September 19, 1981. He was 25 years old.
-event_context: null
-responsible_forces: null
-
+event_context: "executed in Evin prison on September 19, 1981"
+responsible_forces: "Central Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

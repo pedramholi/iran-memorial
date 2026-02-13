@@ -2,11 +2,14 @@ id: mohammadian-esmail-1980
 name_latin: "Esmail Mohammadian"
 name_farsi: "اسماعیل محمدیان"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Abadan"
 gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+beliefs: "cooperation with the outlawed Democratic Party of Kurdistan"
 
 # --- DEATH ---
 date_of_death: 1980-11-08
@@ -38,8 +41,7 @@ circumstances: >
     Revolutionary Tribunal of Tabriz declared Mr. Mohammadian an enemy of God.
     He was executed at night.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal of Tabriz"
 # --- VERIFICATION ---
 status: unverified
 sources:

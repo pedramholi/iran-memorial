@@ -2,8 +2,8 @@ id: fazlian-hosein-1980
 name_latin: "Hosein Fazlian"
 name_farsi: "حسین فضلیان"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Hamedan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,8 +38,7 @@ circumstances: >
     and he was executed at 7:30 am by the Islamic Revolutionary Guards
     (Pasdaran).
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Guards (Pasdaran)"
 # --- VERIFICATION ---
 status: unverified
 sources:

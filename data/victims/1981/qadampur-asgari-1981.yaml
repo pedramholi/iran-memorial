@@ -2,11 +2,16 @@ id: qadampur-asgari-1981
 name_latin: "Asgari Qadampur"
 name_farsi: "عسگری قدم‌پور"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Babol"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "driver"
+family:
+  notes: "son of Hossein"
 
 # --- DEATH ---
 date_of_death: 1981-11-13
@@ -39,8 +44,7 @@ circumstances: >
     condemned him to death. The ruling was carried out in Babol on November
     13, 1981 at 10 a.m.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

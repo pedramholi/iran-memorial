@@ -8,6 +8,11 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+occupation: "senior student"
+education: "Mer’at High School"
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
+
 # --- DEATH ---
 date_of_death: 1988-07-30
 age_at_death: 29
@@ -85,9 +90,8 @@ circumstances: >
     executions and handed in the victims’ belongings to their families. The
     bodies, however, were not returned to them. The bodies were buried in mass
     graves. Authorities warned the families of prisoners against holding
-event_context: null
-responsible_forces: null
-
+event_context: "1988 mass killings of political prisoners"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

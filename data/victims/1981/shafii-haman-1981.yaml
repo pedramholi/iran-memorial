@@ -3,10 +3,14 @@ name_latin: "Haman Shafi'i"
 name_farsi: "حامان شفیعی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "supporter of Fadayian Khalq Guerrilla Organization"
+beliefs: "supporter of Fadayian Khalq Guerrilla Organization"
 
 # --- DEATH ---
 date_of_death: 1981-08-15
@@ -49,9 +53,8 @@ circumstances: >
     defense. Judgment The Central Islamic Revolutionary Tribunal sentenced Mr.
     Shafi’i to death. Mr. Shafi’i was executed by a firing squad on August 15,
     1981.
-event_context: null
-responsible_forces: null
-
+event_context: "executed on August 15, 1981"
+responsible_forces: "Central Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

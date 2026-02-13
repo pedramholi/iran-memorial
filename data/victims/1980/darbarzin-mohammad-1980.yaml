@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "Sergeant"
+
 # --- DEATH ---
 date_of_death: 1980-01-28
 age_at_death: null
@@ -29,8 +32,7 @@ circumstances: >
     accused s defense. Judgment The second branch of the Islamic Revolutionary
     Tribunal of the Center (Tehran) sentenced Sergeant Darbarzin to death.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

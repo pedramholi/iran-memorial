@@ -3,7 +3,7 @@ name_latin: "Hemat Noruzi"
 name_farsi: "همت نوروزی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -36,8 +36,7 @@ circumstances: >
     but specifies that the Islamic Revolution Supreme Court confirmed the
     death sentence, which was carried out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+beliefs: "opposing the Islamic revolution"
+
 # --- DEATH ---
 date_of_death: 1980-01-01
 age_at_death: null
@@ -34,9 +37,8 @@ circumstances: >
     Kerman declared Mr. Azizian a corruptor on earth and an enemy of God and
     sentenced him to death. The sentence was carried out at 11 p.m., shortly
     after its issuance.
-event_context: null
-responsible_forces: null
-
+event_context: "1980 execution"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

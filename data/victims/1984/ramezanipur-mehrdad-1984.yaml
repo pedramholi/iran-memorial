@@ -1,12 +1,16 @@
 id: ramezanipur-mehrdad-1984
 name_latin: "Mehrdad Ramezanipur"
 name_farsi: "مهرداد رمضانی پور"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1952-01-01"
+place_of_birth: "Tehran"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "member of the Revolutionary Organization"
+education: "high school diploma"
 
 # --- DEATH ---
 date_of_death: 1984-07-19
@@ -36,9 +40,8 @@ circumstances: >
     defense. Judgment No information is available on Mr. Ramazanipur's death
     sentence. According to the above source, he was executed in the Evin
     prison in 1984.
-event_context: null
-responsible_forces: null
-
+event_context: "executions during clashes with the Islamic Republic security forces from June 1981 to 1985"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

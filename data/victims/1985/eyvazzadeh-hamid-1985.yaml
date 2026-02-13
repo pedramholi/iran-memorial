@@ -35,9 +35,8 @@ circumstances: >
     Eyvazzadeh s defense. Judgment The Penal Court of Karaj sentenced Mr.
     Hamid Eyvazzadeh to death. He was hanged in public on May 11, 1985 in
     Karaj.
-event_context: null
-responsible_forces: null
-
+event_context: "1985 execution"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

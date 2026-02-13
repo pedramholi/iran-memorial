@@ -3,7 +3,7 @@ name_latin: "Jan Mohammad Asadkhani"
 name_farsi: "جان محمد اسد خانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -36,8 +36,7 @@ circumstances: >
     on Mr. Asadkhani’s defense. Judgment Based on the communiqué, Mr.
     Asadkhani was declared a “corruptor on earth.” He was sentenced to death.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Public Prosecution Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

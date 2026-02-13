@@ -3,7 +3,7 @@ name_latin: "Farah Arvaneh"
 name_farsi: "فرح آروانه"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Islam"
 photo: null
@@ -30,8 +30,7 @@ circumstances: >
     Judgment No specific information regarding the death sentence is
     available.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+beliefs: "supporter of the Fadayian Khalq Guerrilla Organization (Minority)"
+
 # --- DEATH ---
 date_of_death: 1981-11-04
 age_at_death: null
@@ -47,9 +50,8 @@ circumstances: >
     Gholami guilty of corruption on earth, waging war on God, and rebellion,
     and sentenced him to death. Mr. Gholami was executed by a firing squad on
     November 4, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 execution"
+responsible_forces: "Islamic Revolutionary Prosecutor’s Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

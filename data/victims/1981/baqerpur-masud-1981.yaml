@@ -1,12 +1,18 @@
 id: baqerpur-masud-1981
 name_latin: "Mas'ud Baqerpur"
 name_farsi: "مسعود باقرپور"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1957-01-01"
+place_of_birth: "Takab, Azarbaijan-e Gharbi province"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+education: "high school diploma in Math"
+family:
+  marital_status: "single"
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-12-29
@@ -85,9 +91,8 @@ circumstances: >
     death of several MKO supporters. On June 20, 1981, the MKO called for a
     demonstration protesting their treatment by governmental officials and the
     government officials efforts to impeach th
-event_context: null
-responsible_forces: null
-
+event_context: "execution on December 31, 1981"
+responsible_forces: "Islamic Revolutionary Court of Sanandaj"
 # --- VERIFICATION ---
 status: unverified
 sources:

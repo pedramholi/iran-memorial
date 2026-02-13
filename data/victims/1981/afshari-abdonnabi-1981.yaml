@@ -3,10 +3,13 @@ name_latin: "Abdonnabi Afshari"
 name_farsi: "عبدالنبی افشاری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of Peykar Organization for the Liberation of the Working Class"
 
 # --- DEATH ---
 date_of_death: 1981-10-02
@@ -47,9 +50,8 @@ circumstances: >
     Martyrs of the Peykar Organization, Mr. Abdolnabi Afshari was executed by
     firing squad in Tehran on October 2, 1981. No specific information is
     available about the defendant s execution.
-event_context: null
-responsible_forces: null
-
+event_context: "executed on October 2, 1981"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

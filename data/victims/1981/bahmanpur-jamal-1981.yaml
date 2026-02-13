@@ -2,11 +2,15 @@ id: bahmanpur-jamal-1981
 name_latin: "Jamal Bahmanpur"
 name_farsi: "جمال بهمن پور"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Sanandaj"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "liaison with the Kurdish Pishmargeh"
+beliefs: "sympathizer of the Rah-e Kargar Organization"
 
 # --- DEATH ---
 date_of_death: 1981-12-16
@@ -45,9 +49,8 @@ circumstances: >
     Judgment No specific information is available about the defendant’s
     execution. Mr. Bahmanpur was executed by a firing squad in Sanandaj on
     December 16, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "executed by a firing squad in Sanandaj on December 16, 1981"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

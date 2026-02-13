@@ -1,12 +1,18 @@
 id: kayvanzad-reza-1986
 name_latin: "Reza Kayvanzad"
 name_farsi: "رضا کیوانزاد"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1952-01-01"
+place_of_birth: "Tehran"
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "student"
+education: "industrial engineering"
+family:
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1986-06-08
@@ -47,9 +53,8 @@ circumstances: >
     1985. Prison officials did not return his body to the family and informed
     them about his burial location at Behesh-e Zahra cemetery by telephone the
     next day.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on June 8, 1985"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

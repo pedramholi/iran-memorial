@@ -85,9 +85,8 @@ circumstances: >
     "Mofsed (corruptor on Earth) and Mohareb (fighter) against God." He was
     condemned to death. The ruling was carried out when he was executed by
     firing squad in Teh
-event_context: null
-responsible_forces: null
-
+event_context: "Nojeh coup"
+responsible_forces: "Islamic Revolutionary Court of Tehran Army"
 # --- VERIFICATION ---
 status: unverified
 sources:

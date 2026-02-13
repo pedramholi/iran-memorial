@@ -38,9 +38,8 @@ circumstances: >
     (Kayhan). According to the ABF E-form, his body is buried in Section 41 of
     Behesht Zahra (Tehran’s cemetery) and unknown individuals have broken his
     gravestone with a pickaxe.
-event_context: null
-responsible_forces: null
-
+event_context: "1979 execution"
+responsible_forces: "Revolutionary Tribunal of Tehran"
 # --- VERIFICATION ---
 status: unverified
 sources:

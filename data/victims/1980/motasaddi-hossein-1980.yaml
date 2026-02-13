@@ -48,9 +48,8 @@ circumstances: >
     murderer. Based on the Shari a law, he was sentenced to stoning for sodomy
     followed by execution for murder. He was stoned to death on Friday August
     1, 1980 at 6 p.m. in Kerman.
-event_context: null
-responsible_forces: null
-
+event_context: "1980"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

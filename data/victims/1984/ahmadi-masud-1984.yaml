@@ -3,7 +3,7 @@ name_latin: "Mas'ud Ahmadi"
 name_farsi: "مسعود احمدی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
@@ -32,9 +32,8 @@ circumstances: >
     accused. Defense No information is available concerning Mr. Ahmadi's
     defense. Judgment No specific information is available about the verdict
     leading to this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "1984-1985"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

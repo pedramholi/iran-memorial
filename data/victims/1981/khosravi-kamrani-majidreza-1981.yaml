@@ -1,12 +1,16 @@
 id: khosravi-kamrani-majidreza-1981
 name_latin: "Majidreza Khosravi-Kamrani"
 name_farsi: "مجیدرضا خسروی کرمانی"
-date_of_birth: null
+date_of_birth: "1960-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "civil engineering student"
+beliefs: "member of the Peykar Organization"
 
 # --- DEATH ---
 date_of_death: 1981-08-12
@@ -63,7 +67,7 @@ circumstances: >
     Khosravi-Kamrani was executed by firing squad in the Evin prison on August
     12, 1981. No specific information is available about the defendant’s
     execution.
-event_context: null
+event_context: "1981 August execution"
 responsible_forces: null
 
 # --- VERIFICATION ---

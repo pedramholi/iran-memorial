@@ -3,7 +3,7 @@ name_latin: "Yusef Golriz"
 name_farsi: "یوسف گلریز"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
@@ -84,9 +84,8 @@ circumstances: >
     of the “armed struggle” announcement by the MKO on June 20, 1981, many
     sympathizers of the organization had no military training, were not armed,
     and did not participate in armed conflict.
-event_context: null
-responsible_forces: null
-
+event_context: "June 20, 1981 demonstration"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

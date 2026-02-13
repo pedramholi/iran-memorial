@@ -3,7 +3,7 @@ name_latin: "Biyuk Rasulzadeh"
 name_farsi: "بیوک رسول زاده"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -37,9 +37,8 @@ circumstances: >
     defense. Judgment The Islamic Revolutionary Tribunal of Tabriz declared
     Mr. Rasulzadeh a corruptor on earth and sentenced him to death. He was
     executed in the evening.
-event_context: null
-responsible_forces: null
-
+event_context: "1980"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -8,6 +8,12 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+beliefs: "member of Rah-e Kargar Organization"
+quotes:
+  - "Rah-e Kargar"
+  - "Revolutionary Workers Organization of Iran"
+
 # --- DEATH ---
 date_of_death: 1982-01-01
 age_at_death: 24
@@ -53,9 +59,8 @@ circumstances: >
     specific information is available about the defendant’s execution. Mr.
     Karami was executed by a firing squad in the Evin prison during April,
     1982.
-event_context: null
-responsible_forces: null
-
+event_context: "demonstrations on June 20, 1981"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

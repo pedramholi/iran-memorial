@@ -2,11 +2,18 @@ id: biglari-abbas-1981
 name_latin: "Abbas Biglari"
 name_farsi: "عباس بیگلری"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Qazvin"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "architecture student"
+education: "Building College"
+beliefs: "activist in the student movement"
+quotes:
+  - "Rah-e Kargar or the Revolutionary Workers Organization of Iran was established in the summer of 1979."
 
 # --- DEATH ---
 date_of_death: 1981-01-01
@@ -39,7 +46,7 @@ circumstances: >
     specific information is available about the defendant’s execution.
     According to the above source, Mr. Biglari was executed by a firing squad
     in 1981. The exact date and location of his execution is unknown.
-event_context: null
+event_context: "1981 execution"
 responsible_forces: null
 
 # --- VERIFICATION ---

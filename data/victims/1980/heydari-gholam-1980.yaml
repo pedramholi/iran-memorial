@@ -37,8 +37,7 @@ circumstances: >
     Revolutionary Tribunal of Kerman sentenced Mr. Heidari to death by firing
     squad. He was shot to death at 5:30 in the morning.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

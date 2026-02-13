@@ -3,7 +3,7 @@ name_latin: "Mahmud Hubar"
 name_farsi: "محمود حوبر"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -58,9 +58,8 @@ circumstances: >
     being rebellious against Islam , an enemy of God , and a corruptor on
     earth. The sentence was carried out at dawn in the courtyard of the
     Prison.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 execution of political prisoners"
+responsible_forces: "General Prosecutor's Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Golmir Nakhaee"
 name_farsi: "گل میر نخعی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -35,9 +35,8 @@ circumstances: >
     Tribunal of Birjand sentenced Mr. Nakhaee to death. Having been confirmed
     by the Supreme Judicial Council, the sentence was carried out by the
     Islamic Revolutionary Committee at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "1984 execution"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

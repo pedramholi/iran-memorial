@@ -3,7 +3,7 @@ name_latin: "A'zam Shadbakhti"
 name_farsi: "اعظم شادبختی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
@@ -47,9 +47,8 @@ circumstances: >
     information is available about this execution. According to the Mojahedin
     s website, Ms. Shadbakhti was executed shortly after the execution of her
     brother Mr. Ahmadreza Shadbakhti, at midnight on August 6, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

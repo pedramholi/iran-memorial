@@ -3,7 +3,7 @@ name_latin: "Haj Mohsen Kafash"
 name_farsi: "حاج محسن کفاش"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -36,9 +36,8 @@ circumstances: >
     against the defendant. Defense No information is available on Mr. Kafash s
     defense. Judgment The Anti-Narcotics Islamic Revolutionary Tribunal of
     Tehran sentenced Mr. Kafash to death. The sentence was carried out.
-event_context: null
-responsible_forces: null
-
+event_context: "1982"
+responsible_forces: "Anti-Narcotics Section of the Public Prosecutor's Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

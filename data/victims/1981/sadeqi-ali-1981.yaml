@@ -8,6 +8,18 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+beliefs: "supporter of the Mojahedin Khalq Organization"
+quotes:
+  - "waging war on God and His Prophet"
+  - "supporting anti-people grouplets"
+  - "attacking innocent civilians and assault, battery and murder of the same"
+  - "living in safe houses"
+  - "acting to overthrow the Islamic Republic"
+  - "planning the assassination of state dignitaries"
+  - "attempting to implement the plans of world imperialism, particularly America"
+  - "active membership in the anti-people Hypocrites Organization"
+
 # --- DEATH ---
 date_of_death: 1981-08-15
 age_at_death: null
@@ -86,9 +98,8 @@ circumstances: >
     announced an armed struggle against the Islamic Republic and assassinated
     a number of high-ranking officials and supporters of the Islamic regime.
     In the summer of 1981, the leader of t
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Central Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

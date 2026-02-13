@@ -2,11 +2,19 @@ id: gazorani-morteza-1985
 name_latin: "Morteza Gazorani"
 name_farsi: "مرتضى گازرانى"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Arak"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "student"
+education: "majoring in Science"
+beliefs: "member of Revolutionary Workers Organization of Iran, Rah-e Kargar"
+quotes:
+  - "Rah-e Kargar"
+  - "Revolutionary Workers Organization of Iran"
 
 # --- DEATH ---
 date_of_death: 1985-01-01
@@ -56,9 +64,8 @@ circumstances: >
     available about his defense. Judgment No specific information is available
     about the death sentence. According to the above source, Mr. Morteza
     Gazorani was executed by a firing squad at Evin Prison in 1985.
-event_context: null
-responsible_forces: null
-
+event_context: "June 20, 1981"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

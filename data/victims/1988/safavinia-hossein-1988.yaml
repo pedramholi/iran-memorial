@@ -1,12 +1,18 @@
 id: safavinia-hossein-1988
 name_latin: "Hossein Safavinia"
 name_farsi: "حسین صفوی‌نیا"
-date_of_birth: null
+date_of_birth: "1952-03-10"
 place_of_birth: null
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "industrial engineer"
+family:
+  marital_status: "married"
+beliefs: "affiliate of the Tudeh Party"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -85,7 +91,7 @@ circumstances: >
     the Minister of Justice at the time, Dr. Habibi, they argue that the
     official secrecy surrounding these executions is proof of their
     illegality. They note that an overwhelming majority of these prisoners had
-event_context: null
+event_context: "mass killings of political prisoners in 1988"
 responsible_forces: null
 
 # --- VERIFICATION ---

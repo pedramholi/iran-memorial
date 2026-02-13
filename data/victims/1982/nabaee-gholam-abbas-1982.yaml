@@ -37,9 +37,8 @@ circumstances: >
     Islamic Republic’s Army sentenced Mr. Nabaee to death. The sentence was
     carried out in front of huge numbers of people at Azadi circle in
     Bakhtaran.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on September 13, 1982"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

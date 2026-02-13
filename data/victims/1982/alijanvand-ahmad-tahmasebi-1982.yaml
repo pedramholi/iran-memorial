@@ -1,12 +1,18 @@
 id: alijanvand-ahmad-tahmasebi-1982
 name_latin: "Ahmad Tahmasebi Alijanvand"
 name_farsi: "احمد طهماسبی علیجاموند"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1959-01-01"
+place_of_birth: "Masjed Soleiman"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+education: "high school graduate"
+family:
+  marital_status: "single"
+beliefs: "sympathizer of the Fadaiyan Khalq Minority"
 
 # --- DEATH ---
 date_of_death: 1982-01-01
@@ -45,9 +51,8 @@ circumstances: >
     information is available on the accused’s defense. Judgment According to
     the electronic form report, Mr. Tahmasebi Alijanvand was executed by a
     firing squad in Ahvaz in October or November of 1982.
-event_context: null
-responsible_forces: null
-
+event_context: "execution in October or November of 1982"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

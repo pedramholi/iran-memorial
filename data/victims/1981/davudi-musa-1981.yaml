@@ -8,6 +8,11 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+beliefs: "affiliated with Peykar Organization for the Liberation of the Working Class"
+quotes:
+  - "carrying and possession of weapons and ammunition, uprising against the Islamic Republic, believing in armed fighting against the Islamic Republic, and participation in assassination and explosion plots."
+
 # --- DEATH ---
 date_of_death: 1981-09-27
 age_at_death: 19
@@ -56,9 +61,8 @@ circumstances: >
     available on Mr. Davudi’s defense. Judgment َThe Islamic Revolutionary
     Court of Tabriz condemned Mr. Davudi to death. He was executed on
     September 27, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "executed on September 27, 1981"
+responsible_forces: "Islamic Revolutionary Court of Tabriz"
 # --- VERIFICATION ---
 status: unverified
 sources:

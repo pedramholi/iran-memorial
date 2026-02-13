@@ -2,7 +2,7 @@ id: mehdikhani-mohammad-1980
 name_latin: "Mohammad Mehdikhani"
 name_farsi: "محمد مهدی خانی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Qazvin"
 gender: male
 ethnicity: null
 religion: "Presumed Muslim"
@@ -39,8 +39,7 @@ circumstances: >
     Judgment Mr. Mehdikhani was found guilty of corruption on earth and war
     against God. He was sentenced to death and executed at 1 a.m.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

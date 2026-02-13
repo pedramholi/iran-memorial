@@ -1,12 +1,20 @@
 id: nayer-ali-1981
 name_latin: "Ali Nayer"
 name_farsi: "علی نیر"
-date_of_birth: null
+date_of_birth: "1949-01-01"
 place_of_birth: null
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "assistant to a prosecutor"
+family:
+  marital_status: "married"
+beliefs: "member in the Law Committee of the American Organization of Peykar"
+quotes:
+  - "member in the Law Committee of the American Organization of Peykar, organizing underground meetings, plotting against the Islamic Republic, and supplying and distributing announcements and other publications of the Peykar Organizational."
 
 # --- DEATH ---
 date_of_death: 1981-09-02
@@ -58,9 +66,8 @@ circumstances: >
     Nayer as an "enemy of God, a corruptor on earth, and a rebel against the
     Islamic Regime." He was condemned to death. He was executed in Evin prison
     on September 1, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "executed in Evin prison on September 1, 1981"
+responsible_forces: "Islamic Revolutionary Court of Tehran"
 # --- VERIFICATION ---
 status: unverified
 sources:

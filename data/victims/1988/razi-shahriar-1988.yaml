@@ -1,12 +1,16 @@
 id: razi-shahriar-1988
 name_latin: "Shahriar Razi"
 name_farsi: "شهریار رازی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1959-01-01"
+place_of_birth: "Tehran"
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "member of the Ranjbaran Party"
+beliefs: "member of the Ranjbaran Party"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -73,9 +77,8 @@ circumstances: >
     political groups outside Iran. Judgment No sentence was issued publicly.
     According to the existing information, Mr. Razi was hung in September of
     1988 along with hundreds of other prisoners.
-event_context: null
-responsible_forces: null
-
+event_context: "1988-89 mass execution of political prisoners"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

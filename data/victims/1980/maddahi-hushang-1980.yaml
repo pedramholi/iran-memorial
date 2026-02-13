@@ -3,7 +3,7 @@ name_latin: "Hushang Maddahi"
 name_farsi: "هوشنگ مداحی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -30,8 +30,7 @@ circumstances: >
     accused s defense. Judgment Sentenced to death by the Islamic
     Revolutionary Tribunal of Arak, Mr. Maddahi was executed at 9 p.m.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

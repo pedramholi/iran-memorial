@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+beliefs: "affiliated with the Fadaiyan Khalq Organization"
+
 # --- DEATH ---
 date_of_death: 1981-10-11
 age_at_death: null
@@ -41,9 +44,8 @@ circumstances: >
     evidence provided against the defendant. Defense No information is
     available on Mr. Behruzikhah's defense. Judgment Mr. Behruzikhah was shot
     by firing squad in Tehran on October 11, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "executed on October 11, 1981"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

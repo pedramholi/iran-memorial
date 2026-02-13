@@ -3,7 +3,7 @@ name_latin: "Haji Jodayri"
 name_farsi: "حاجی جدیری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -85,9 +85,8 @@ circumstances: >
     come to Tabriz. They also wanted the prison conditions to be reconsidered
     (Kayhan, Jomhuri Eslami, 28 and 29 August and Khalq Mosalman, 6 September
     1979). In addition, the claims of the newspapers clos
-event_context: null
-responsible_forces: null
-
+event_context: "1979 prison riots"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

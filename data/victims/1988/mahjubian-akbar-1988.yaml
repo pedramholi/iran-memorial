@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+beliefs: "member of the Tudeh Party"
+
 # --- DEATH ---
 date_of_death: 1988-01-01
 age_at_death: null
@@ -77,7 +80,7 @@ circumstances: >
     condemned for insisting on their beliefs. Judgment No specific information
     is available about the defendant’s execution. Mr. Mahjubian was hanged
     during the mass killings of political prisoners in September of 1988.
-event_context: null
+event_context: "mass killings of political prisoners in 1988"
 responsible_forces: null
 
 # --- VERIFICATION ---

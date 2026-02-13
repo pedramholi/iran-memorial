@@ -3,7 +3,7 @@ name_latin: "Jom'e Naruyi"
 name_farsi: "جمعه نارویی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -36,9 +36,8 @@ circumstances: >
     Kerman declared Mr. Naruyi a corruptor on earth and sentenced him to
     death. The sentence was carried out at 11 p.m., shortly after its
     issuance.
-event_context: null
-responsible_forces: null
-
+event_context: "1980 execution"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

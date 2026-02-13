@@ -37,9 +37,8 @@ circumstances: >
     No information is available on Mr. Rudbari s defense. Judgment According
     to this report, Mr. Rudbari was executed. The Tribunal which issued his
     death sentence was not specified.
-event_context: null
-responsible_forces: null
-
+event_context: "1983"
+responsible_forces: "Islamic Revolution s Committee"
 # --- VERIFICATION ---
 status: unverified
 sources:

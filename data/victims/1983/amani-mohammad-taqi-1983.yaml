@@ -1,12 +1,21 @@
 id: amani-mohammad-taqi-1983
 name_latin: "Mohammad Taqi Amani"
 name_farsi: "محمدتقی امانی"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1955-01-01"
+place_of_birth: "Zanjan"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "student"
+education: "Social Science Faculty of Tehran University"
+family:
+personality: "calm and graceful, and very popular among his friends and others"
+beliefs: "active in student and anti-monarchy movements"
+quotes:
+  - "Mother, don t think that I m crying. These are only tears of joy. I m happy that I was able to succeed."
 
 # --- DEATH ---
 date_of_death: 1983-02-17
@@ -67,9 +76,8 @@ circumstances: >
     the prison. The book published by Rah e Kargar reports that he looked at
     his mother with tears in his eyes and said: Mother, don t think that I m
     crying. These are only tears of joy. I m happy that I was able to succeed.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 November protests"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

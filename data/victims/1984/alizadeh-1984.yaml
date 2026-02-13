@@ -3,10 +3,13 @@ name_latin: "Alizadeh"
 name_farsi: "علیزاده"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "international drug trafficker"
 
 # --- DEATH ---
 date_of_death: 1984-08-20
@@ -35,8 +38,7 @@ circumstances: >
     s defense. Judgment The Anti-Narcotics Islamic Revolutionary Tribunal
     sentenced Mr. Alizadeh to death. The sentence was carried out at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Anti-Narcotics Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

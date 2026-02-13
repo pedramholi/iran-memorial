@@ -3,7 +3,7 @@ name_latin: "Zohrab Rohani"
 name_farsi: "ظهراب روحانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -36,9 +36,8 @@ circumstances: >
     the Penal Court of Shiraz sentenced Mr. Rohani to death. The Supreme Court
     approved the sentence. He was executed in Adelabad prison in Shiraz on
     February 25, 1986.
-event_context: null
-responsible_forces: null
-
+event_context: "1986 execution"
+responsible_forces: "Islamic Republic’s authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

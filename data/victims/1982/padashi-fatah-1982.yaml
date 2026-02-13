@@ -3,7 +3,7 @@ name_latin: "Fatah Padashi"
 name_farsi: "فتاح پاداشی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,9 +38,8 @@ circumstances: >
     Anti-Narcotics Islamic Revolutionary Tribunal declared Mr. Padashi a
     corruptor on earth and sentenced him to death. Having been confirmed by
     the Supreme Judicial Council, the sentence was carried out.
-event_context: null
-responsible_forces: null
-
+event_context: "1982 execution"
+responsible_forces: "Anti-Narcotics Section of the Public Prosecutor's Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

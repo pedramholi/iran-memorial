@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "Commander"
+
 # --- DEATH ---
 date_of_death: 1980-01-13
 age_at_death: null
@@ -31,9 +34,8 @@ circumstances: >
     Revolutionary Tribunal declared Commander Mehri an enemy of God and his
     prophet," the murderer of the people of God, and an obvious example of
     corruption of earth. He was executed at 11:39 p.m.
-event_context: null
-responsible_forces: null
-
+event_context: "Tehran massacre of September 8, 1979"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

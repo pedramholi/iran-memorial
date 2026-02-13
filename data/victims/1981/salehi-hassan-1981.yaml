@@ -2,11 +2,20 @@ id: salehi-hassan-1981
 name_latin: "Hassan Salehi"
 name_farsi: "حسن صالحی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Rasht"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+education: "high school diploma"
+family:
+  marital_status: "single"
+beliefs: "follower of The Fadaiyan Khalq Minority"
+quotes:
+  - "one should not flee the city of Rasht"
+  - "one should remain steadfast and continue the struggle"
 
 # --- DEATH ---
 date_of_death: 1981-09-04
@@ -86,9 +95,8 @@ circumstances: >
     the perpetrator to trial as a terrorist, because such a person is the
     implementing agent of the sentence issued by the Islamic Revolutionary
     Court. Therefor
-event_context: null
-responsible_forces: null
-
+event_context: "August 31, 1981"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

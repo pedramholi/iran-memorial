@@ -2,8 +2,8 @@ id: qasemi-mirza-mohammad-1980
 name_latin: "Mirza Mohammad Qasemi"
 name_farsi: "میرزا محمد قاسمی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Malayer"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -39,9 +39,8 @@ circumstances: >
     Revolutionary Court for Campaign against Drugs and Narcotics sentenced him
     to death for corruption on earth and waging war against God , and he was
     executed at 7:30 a.m. by the Islamic Revolutionary Guards (Pasdaran).
-event_context: null
-responsible_forces: null
-
+event_context: "execution on August 7, 1980"
+responsible_forces: "Islamic Revolutionary Guards (Pasdaran)"
 # --- VERIFICATION ---
 status: unverified
 sources:

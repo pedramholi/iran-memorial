@@ -1,7 +1,7 @@
 id: karimian-hadi-1985
 name_latin: "Hadi Karimian"
 name_farsi: "هادی کریمیان"
-date_of_birth: null
+date_of_birth: "1963-01-01"
 place_of_birth: null
 gender: male
 ethnicity: null
@@ -36,8 +36,7 @@ circumstances: >
     of the Penal Court of Qazvin sentenced Mr. Karimian to death. He was
     executed at the police station. He was 22 years old.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic’s authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,10 +3,13 @@ name_latin: "Daryush Jalali"
 name_farsi: "داریوش جلالی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+beliefs: "involved in planning a coup d’etat"
 
 # --- DEATH ---
 date_of_death: 1980-07-31
@@ -63,9 +66,8 @@ circumstances: >
     against the defendant. Defense No information is available on the
     defendant’s defense. Judgment The Islamic Revolutionary Tribunal of the
     Army sentenced Mr. Asangosha to death. He was executed at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "Noje coup d’etat"
+responsible_forces: "Islamic Republic of Iran authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

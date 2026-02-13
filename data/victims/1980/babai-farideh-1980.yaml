@@ -38,9 +38,8 @@ circumstances: >
     report, however, after hours of being in the morgue it became apparent
     that she was still alive. Based on the court order, she was executed again
     by a revolutionary guard (Pasdar) who shot her in the morgue.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on January 07, 1980"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

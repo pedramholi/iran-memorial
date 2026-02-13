@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+occupation: "in charge of the Union propaganda in Esfahan Industrial University"
+beliefs: "member of Ettehadieh Komonist-ha"
+
 # --- DEATH ---
 date_of_death: 1982-07-20
 age_at_death: null
@@ -61,9 +65,8 @@ circumstances: >
     corruptor on earth, an enemy of God and an apostate by nature and
     sentenced him to death. Having been confirmed by the Supreme Judicial
     Council, the sentence was carried out on July 20, 1982.
-event_context: null
-responsible_forces: null
-
+event_context: "Amol clash"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

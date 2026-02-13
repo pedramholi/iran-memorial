@@ -3,7 +3,7 @@ name_latin: "Gholamhosein Bakhshidi"
 name_farsi: "غلامحسین بخشیدی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -22,8 +22,7 @@ circumstances: >
     there had been a lawyer present by the side of the victim or that the
     victim had been allowed to appeal the verdict.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

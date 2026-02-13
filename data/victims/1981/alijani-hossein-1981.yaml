@@ -2,11 +2,15 @@ id: alijani-hossein-1981
 name_latin: "Hossein Alijani"
 name_farsi: "حسین علیجانی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Masjed-e Soleiman, Khuzestan province"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "in charge of the Peykar Organization’s activities"
+beliefs: "member of the Peykar Organization for the Liberation of the Working Class"
 
 # --- DEATH ---
 date_of_death: 1981-08-10
@@ -60,9 +64,8 @@ circumstances: >
     Alijani “at war with God and a rebel against the Islamic Regime” and
     condemned him to death. He was executed in Ahvaz on August 18, 1981,
     immediately after the court verdict was issued.
-event_context: null
-responsible_forces: null
-
+event_context: "1981"
+responsible_forces: "Islamic Revolutionary Court of Ahvaz"
 # --- VERIFICATION ---
 status: unverified
 sources:

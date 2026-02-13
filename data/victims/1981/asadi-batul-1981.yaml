@@ -1,12 +1,21 @@
 id: asadi-batul-1981
 name_latin: "Batul Asadi"
 name_farsi: "بتول اسدی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1957-01-01"
+place_of_birth: "Arak or Tehran"
+gender: female
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "biology student"
+education: "Mashhad University"
+family:
+  marital_status: "married"
+  notes: "married Mr. Eslam Qal esari, a resident of Gorgan in 1979"
+personality: "kind, honest, smart, and beautiful"
+beliefs: "sympathizer of the Mojahedin Khalq Organization since 1977"
 
 # --- DEATH ---
 date_of_death: 1981-11-17
@@ -86,9 +95,8 @@ circumstances: >
     Islamic regime. In the summer of 1981, the leader of the MKO and the
     impeached President (Banisadr) fled Iran to reside in France, where they
     founded the National Counc
-event_context: null
-responsible_forces: null
-
+event_context: "1981 protests"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

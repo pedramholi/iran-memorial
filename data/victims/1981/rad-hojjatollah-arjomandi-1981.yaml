@@ -1,12 +1,16 @@
 id: rad-hojjatollah-arjomandi-1981
 name_latin: "Hojjatollah Arjomandi Rad"
 name_farsi: "حجت‌الله ارجمندی‌راد"
-date_of_birth: null
+date_of_birth: "1956-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "university student"
+beliefs: "supporter of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-07-15
@@ -35,9 +39,8 @@ circumstances: >
     corruption on earth, and sentenced him to death. Mr. Arjomandi Rad was
     executed by a firing squad on July 15, 1981 in Sari. Mr. Arjomandi Rad was
     25 years old at the time of his execution.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

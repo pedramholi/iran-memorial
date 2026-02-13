@@ -1,12 +1,19 @@
 id: daneshmand-mohammad-baqer-fariborz-1981
 name_latin: "Mohammad Baqer (Fariborz) Daneshmand"
 name_farsi: "محمدباقر (فریبرز) دانشمند"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1964-01-01"
+place_of_birth: "Rasht"
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "high school student"
+family:
+personality: "enthusiastic and passionate adolescent"
+quotes:
+  - "I cannot tolerate to see the crying eyes of Vahid s mother. I m going and hoping to be killed, too."
 
 # --- DEATH ---
 date_of_death: 1981-10-11
@@ -62,9 +69,8 @@ circumstances: >
     arrest in October of 1981. The family read the news in a newspaper two
     days after his disappearance. They had to pay bullet money in order to
     know his burial place and receive his will.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 demonstrations"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

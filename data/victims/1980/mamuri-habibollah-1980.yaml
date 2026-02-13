@@ -3,7 +3,7 @@ name_latin: "Habibollah Ma'muri"
 name_farsi: "حبیب الله ماموری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -36,8 +36,7 @@ circumstances: >
     s defense. Judgment The Eastern Special Court for Drugs and Narcotics in
     Mashhad sentenced Mr. Ma muri to death. He was executed at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Pargol Ostovari"
 name_farsi: "پرگل استواری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -41,8 +41,7 @@ circumstances: >
     sentenced Ms. Ostovari to death. The sentence was carried out in Qasr
     Prison.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Anti-Narcotics Section of the Public Prosecutor s Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

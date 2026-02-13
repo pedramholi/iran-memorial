@@ -1,8 +1,8 @@
 id: sadeqlu-majid-1983
 name_latin: "Majid Sadeqlu"
 name_farsi: "مجید صادقلو"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1953-01-01"
+place_of_birth: "Tehran or Ramian (Golestan province)"
 gender: male
 ethnicity: null
 religion: "Presumed Muslim"
@@ -52,9 +52,8 @@ circumstances: >
     tribunals of the Anti-Narcotics Section of the Public Prosecutor’s Office
     in Tehran sentenced Mr. Majid Sadeqlu to death. He was shot by a firing
     squad on December 7, 1983.
-event_context: null
-responsible_forces: null
-
+event_context: "1983 execution"
+responsible_forces: "Anti-Narcotics Section of the Public Prosecutor’s Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

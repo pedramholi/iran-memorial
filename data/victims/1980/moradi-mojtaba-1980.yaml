@@ -8,6 +8,12 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "parachutist"
+family:
+  marital_status: "married"
+  children: 2
+
 # --- DEATH ---
 date_of_death: 1980-07-31
 age_at_death: null
@@ -83,9 +89,8 @@ circumstances: >
     the existing information, Mr. Moradi was executed by firing squad at the
     Evin prison yard in Tehran on July 31, 1980 at dawn. He was buried at the
     Behesht-e Zahra cemetery.
-event_context: null
-responsible_forces: null
-
+event_context: "Nojeh coup"
+responsible_forces: "Islamic Revolutionary Tribunal of the Army"
 # --- VERIFICATION ---
 status: unverified
 sources:

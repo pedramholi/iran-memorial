@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+quotes:
+  - "he confessed to all the charges"
+
 # --- DEATH ---
 date_of_death: 1982-01-01
 age_at_death: null
@@ -32,8 +36,7 @@ circumstances: >
     Hosseiny an insurgent against God and people as well as an enemy of God.
     He was sentenced to death and the sentence was carried out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal of Qaem Shahr"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,10 +3,13 @@ name_latin: "Baqi Osmani"
 name_farsi: "باقی عثمانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "affiliate of the Democratic Party of Iranian Kordestan"
 
 # --- DEATH ---
 date_of_death: 1988-09-08
@@ -85,9 +88,8 @@ circumstances: >
     of the Islamic Republic, states that such claims “are false considering
     the circumstances in prisons; for our children faced the most difficult
     conditions [in prison, with] visitation rights of once e
-event_context: null
-responsible_forces: null
-
+event_context: "1988 mass killings of political prisoners"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

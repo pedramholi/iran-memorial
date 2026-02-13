@@ -2,11 +2,18 @@ id: baqeri-amir-1981
 name_latin: "Amir Baqeri"
 name_farsi: "امیر باقری"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Dorud"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "student"
+education: "Technical University of Tehran (Sharif)"
+beliefs: "sympathizer of the Fedaiyan Khalq Organization, later joined the Rah-e Kargar Organization"
+quotes:
+  - "Rah-e Kargar or the Revolutionary Workers Organization of Iran was established in the summer of 1979."
 
 # --- DEATH ---
 date_of_death: 1981-09-25
@@ -38,7 +45,7 @@ circumstances: >
     Judgment No specific information is available about the defendant’s
     execution. Mr. Amir Baqeri was executed by a firing squad in the Borujerd
     Prison on September 25, 1981.
-event_context: null
+event_context: "1981 execution"
 responsible_forces: null
 
 # --- VERIFICATION ---

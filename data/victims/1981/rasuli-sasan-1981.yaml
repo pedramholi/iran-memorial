@@ -8,6 +8,11 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+beliefs: "member of Peykar Organization for the Liberation of the Working Class"
+quotes:
+  - "a) Being in charge of the Publication and Distribution Committee for Internal Publications under cover of two lithographic companies called Azar and Technofine, b) Armed robbery from Melli Bank in Salsabil and stealing the workers' salaries in General Motors in Karaj, c) Frequenting the organization's houses in order to plan for assassinations and overthrow of the Islamic Republic."
+
 # --- DEATH ---
 date_of_death: 1981-08-30
 age_at_death: 22
@@ -63,9 +68,8 @@ circumstances: >
     against God and the Prophet, Mofsed (corruptor on Earth), and Baghi
     (rebel)." He was condemned to death and the ruling carried out on August
     29, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "executions in 1981"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

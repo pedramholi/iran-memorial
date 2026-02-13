@@ -2,7 +2,7 @@ id: mehdian-hassan-1981
 name_latin: "Hassan Mehdian"
 name_farsi: "حسن مهدیان"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Qaem Shahr"
 gender: male
 ethnicity: null
 religion: "Presumed Muslim"
@@ -34,9 +34,8 @@ circumstances: >
     against the defendant. Defense No information is available on his defense.
     Judgment The Islamic Revolutionary Tribunal of Eshafan condemned Mr.
     Hassan Mahdian to death. He was executed in Esfahan on August 9, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 execution"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

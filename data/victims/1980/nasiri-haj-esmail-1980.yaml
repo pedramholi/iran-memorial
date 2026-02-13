@@ -2,8 +2,8 @@ id: nasiri-haj-esmail-1980
 name_latin: "Haj Esmail Nasiri"
 name_farsi: "حاج اسماعیل نصیری"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Sijan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -37,8 +37,7 @@ circumstances: >
     located at Qasr Prison, sentenced Mr. Nasiri to death. The sentence was
     carried out at Sanjan Cemetery at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Anti-Narcotic Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

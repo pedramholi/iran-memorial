@@ -5,8 +5,16 @@ date_of_birth: null
 place_of_birth: null
 gender: male
 ethnicity: null
-religion: "Presumed Muslim"
+religion: "Shia"
 photo: null
+
+# --- LIFE ---
+occupation: "surgeon and obstetrician"
+education: "assistant professor"
+family:
+  notes: "came from a wealthy and well-known family; the family owned a lighting match manufacturing factory."
+personality: "highly respected and reputable individual and influential among the people"
+beliefs: "follower of Ayatollah Seyed Kazem Shariatmadari"
 
 # --- DEATH ---
 date_of_death: 1980-01-10
@@ -85,9 +93,8 @@ circumstances: >
     in the afternoon of January 10, 1980, on the Ahar Road Death to crony
     capitalism and to bloodsucking feudalists. (Jomhuri Eslami newspaper,
     January 12, 1980). Tabriz and Qom Prote
-event_context: null
-responsible_forces: null
-
+event_context: "murder on January 10, 1980"
+responsible_forces: "Fajr-e Mostaz afin Guerilla Organization"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -2,11 +2,14 @@ id: mahmudi-ali-akbar-1981
 name_latin: "Ali Akbar Mahmudi"
 name_farsi: "علی اکبر محمودی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Dasht-e Bayaz, Gonabad, Khorasan"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "active supporter of the infidel organization of Peykar"
 
 # --- DEATH ---
 date_of_death: 1981-08-17
@@ -59,9 +62,8 @@ circumstances: >
     and condemned him to death. The High Judicial Council approved the
     sentence. Mr. Mahmudi was executed by firing squad in Mashad on August 17,
     1981.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on August 17, 1981"
+responsible_forces: "Islamic Revolutionary Tribunal of Mashad"
 # --- VERIFICATION ---
 status: unverified
 sources:

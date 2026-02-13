@@ -8,6 +8,15 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+occupation: "high school teacher"
+education: "bachelor degree in Physics"
+family:
+  notes: "four brothers, three of them sympathizers of the Fadayian Khalq Organization (Minority), were also killed."
+beliefs: "member of Fadayian Khalq Organization"
+quotes:
+  - "she took a cyanide pill at the time of her arrest"
+
 # --- DEATH ---
 date_of_death: 1983-08-25
 age_at_death: 37
@@ -46,8 +55,7 @@ circumstances: >
     the officials told her family that she was buried in the Khavaran
     cemetery; but, they refused to show the family her grave location.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Revolutionary Guards of the Joint Committee"
 # --- VERIFICATION ---
 status: unverified
 sources:

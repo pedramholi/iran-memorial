@@ -3,7 +3,7 @@ name_latin: "Mahmud Asef Agah (Ashkevari)"
 name_farsi: "محمود آصف آگاه (اشکوری)"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -41,8 +41,7 @@ circumstances: >
     Judgment Mr. Asef Agah was found guilty of corruption on earth. He was
     sentenced to death and executed.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,10 +3,14 @@ name_latin: "Barat Kiani"
 name_farsi: "برات کیانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "The victim’s wife was sentenced to 50 lashes and a prison term of eight and half years."
 
 # --- DEATH ---
 date_of_death: 1985-06-26
@@ -40,8 +44,7 @@ circumstances: >
     According to the newspaper report, “The victim’s wife was sentenced to 50
     lashes and a prison term of eight and half years.”
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic’s authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

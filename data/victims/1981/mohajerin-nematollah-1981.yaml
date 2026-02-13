@@ -3,10 +3,13 @@ name_latin: "Ne'matollah Mohajerin"
 name_farsi: "نعمت الله مهاجرین"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "affiliated with Peykar Organization for the Liberation of the Working Class"
 
 # --- DEATH ---
 date_of_death: 1981-09-09
@@ -59,9 +62,8 @@ circumstances: >
     available on Mr. Mohajerin's defense. Judgment َThe Islamic Revolutionary
     Court of Tabriz condemned Mr. Mohajerin to death. The ruling was carried
     out in Tabriz on November 9 or 10, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "executed on November 9 or 10, 1981"
+responsible_forces: "Islamic Revolutionary Court of Tabriz"
 # --- VERIFICATION ---
 status: unverified
 sources:

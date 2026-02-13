@@ -1,12 +1,18 @@
 id: moheban-mansureh-1981
 name_latin: "Mansureh Moheban"
 name_farsi: "منصوره محبان"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1964-04-09"
+place_of_birth: "Esfahan"
+gender: female
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "single"
+personality: "kind person who always helped others"
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-10-08
@@ -86,9 +92,8 @@ circumstances: >
     [rebel] and Mofsed [corruptor on Earth], and condemned her to death. The
     ruling was carried out on October 7, 1981, and she was executed by firing
     squad a
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Islamic Revolutionary Court of Esfahan"
 # --- VERIFICATION ---
 status: unverified
 sources:

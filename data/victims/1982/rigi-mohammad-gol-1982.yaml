@@ -1,12 +1,17 @@
 id: rigi-mohammad-gol-1982
 name_latin: "Mohammad Gol Rigi"
 name_farsi: "محمد گل ریگی"
-date_of_birth: null
+date_of_birth: "1957-01-01"
 place_of_birth: null
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "student"
+education: "Sistan and Baluchestan University"
+beliefs: "member of Peykar Organization for the Liberation of the Working Class"
 
 # --- DEATH ---
 date_of_death: 1982-01-01

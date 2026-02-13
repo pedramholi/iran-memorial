@@ -3,7 +3,7 @@ name_latin: "Hosein Gusfandi"
 name_farsi: "حسین گوسفندی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -36,8 +36,7 @@ circumstances: >
     Tribunal of Dezful sentenced Mr. Gusfandi to death, and he was executed in
     the morning.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,10 +3,14 @@ name_latin: "Shiraqa Ahmadi"
 name_farsi: "شیرآقا احمدی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "The Anti-Narcotics Section of Tehran s Public Prosecutor s Office declared 25 international professional drug traffickers corruptors on earth and issued a firm and revolutionary death sentence against them."
 
 # --- DEATH ---
 date_of_death: 1984-12-03
@@ -51,8 +55,7 @@ circumstances: >
     Having been confirmed by the Supreme Judicial Court, the sentence was
     carried out in prison at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Anti-Narcotics Section of Tehran s Public Prosecutor s Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

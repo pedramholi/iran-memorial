@@ -3,7 +3,7 @@ name_latin: "Monavar Izadi"
 name_farsi: "منور ایزدی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -40,8 +40,7 @@ circumstances: >
     Office in Tehran sentenced Ms. Izadi to death. The sentence was carried
     out in Qasr Prison.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Anti-Narcotics Section of the Public Prosecutor s Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,20 @@
 id: haqqani-homayun-solati-dehkordi-1988
 name_latin: "Homayun Solati Dehkordi Haqqani"
 name_farsi: "همایون صولتی دهکردی حقانی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1960-01-01"
+place_of_birth: "Tehran"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "student"
+education: "high school diploma; engineering in infrastructure"
+family:
+  notes: "son of Shamsollah; father was a colonel and head of the police department of Kordestan province before the 1979 Revolution."
+personality: "described as brilliant and intelligent"
+beliefs: "member of the People’s Mojahedin of Iran Organization (PMIO)"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -85,9 +93,8 @@ circumstances: >
     conditions for seven years, which proves the truth of our claim.” Judgment
     The details regarding the execution sentence are not available. Mr.
     Homayun Solati Dehkordi H
-event_context: null
-responsible_forces: null
-
+event_context: "1988-89 mass executions of political prisoners"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

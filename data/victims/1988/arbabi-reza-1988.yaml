@@ -2,11 +2,17 @@ id: arbabi-reza-1988
 name_latin: "Reza Arbabi"
 name_farsi: "رضا اربابی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Mashhad"
 gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  children: 2
+beliefs: "member of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -85,7 +91,7 @@ circumstances: >
     edict of the Leader of the Islamic Republic, reproduced in the memoirs of
     Ayatollah Montazeri, his designated successor, corroborates the reported
     claims regarding the charge
-event_context: null
+event_context: "1988-89 mass execution of political prisoners"
 responsible_forces: null
 
 # --- VERIFICATION ---

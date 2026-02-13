@@ -3,7 +3,7 @@ name_latin: "Haj Baba Rahimi"
 name_farsi: "حاج بابا رحیمی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -42,9 +42,8 @@ circumstances: >
     report specifies that the sentence included confiscation of property for
     six of the accused. It is not clear whether or not Mr. Rahimi s properties
     were confiscated.
-event_context: null
-responsible_forces: null
-
+event_context: "July 5, 1980"
+responsible_forces: "Revolutionary Guard (Pasdaran)"
 # --- VERIFICATION ---
 status: unverified
 sources:

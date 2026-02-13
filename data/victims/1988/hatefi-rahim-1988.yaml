@@ -1,12 +1,19 @@
 id: hatefi-rahim-1988
 name_latin: "Rahim Hatefi"
 name_farsi: "رحیم هاتفی"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1948-01-01"
+place_of_birth: "Sanandaj"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "teacher"
+education: "bachelor's degree in Physical Education"
+family:
+  marital_status: "married"
+  children: 1
 
 # --- DEATH ---
 date_of_death: 1988-07-19
@@ -59,9 +66,8 @@ circumstances: >
     defense. Judgment The court condemned Mr. Rahim Hatefi to death. He was
     executed by firing squad in Evin Prison on July 19, 1988. No specific
     information is available about his execution.
-event_context: null
-responsible_forces: null
-
+event_context: "1988 execution"
+responsible_forces: "SAVAK"
 # --- VERIFICATION ---
 status: unverified
 sources:

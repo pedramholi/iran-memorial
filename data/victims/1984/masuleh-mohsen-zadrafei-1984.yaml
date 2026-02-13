@@ -1,12 +1,15 @@
 id: masuleh-mohsen-zadrafei-1984
 name_latin: "Mohsen Zadrafe'i Masuleh"
 name_farsi: "محسن زادرافعی ماسوله"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1956-01-01"
+place_of_birth: "Chalus"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "sympathized with the Razmandegan Organization"
 
 # --- DEATH ---
 date_of_death: 1984-01-01

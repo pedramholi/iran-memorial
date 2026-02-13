@@ -3,7 +3,7 @@ name_latin: "Najim Naruyi"
 name_farsi: "نجیم ناروئی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -35,9 +35,8 @@ circumstances: >
     available on Mr. Naruyi's defense. Judgment The Islamic Revolutionary
     Tribunal of Kerman declared Mr. Naruyi a "corruptor on earth." The death
     sentence was carried out at 6:00 am.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on July 6, 1981"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,10 +3,17 @@ name_latin: "Fakhri Lakkamari"
 name_farsi: "فخری لک کمری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  children: 0
+  notes: "was pregnant"
+beliefs: "member of the Peykar Organization for the Liberation of the Working Class"
 
 # --- DEATH ---
 date_of_death: 1982-01-01
@@ -46,9 +53,8 @@ circumstances: >
     available on Ms. Lakkamari's defense. Judgment According to the list of
     Martyrs of the Peykar Organization, Ms. Lakkamari was executed by firing
     squad in Tehran in January of 1982. She was pregnant.
-event_context: null
-responsible_forces: null
-
+event_context: "executed by firing squad in Tehran in January of 1982"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,10 +3,15 @@ name_latin: "Ramazan Alvandi"
 name_farsi: "رمضان الوندی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "professional smuggler"
+quotes:
+  - "a professional smuggler"
 
 # --- DEATH ---
 date_of_death: 1985-05-22
@@ -35,8 +40,7 @@ circumstances: >
     sentenced Mr.Alvandi to death. After having been confirmed by the Supreme
     Court, the sentence was carried out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal of Birjand"
 # --- VERIFICATION ---
 status: unverified
 sources:

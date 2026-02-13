@@ -3,10 +3,13 @@ name_latin: "Mahmud Salemi"
 name_farsi: "محمود سالمی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "revolutionary guard"
 
 # --- DEATH ---
 date_of_death: 1979-08-30
@@ -55,8 +58,7 @@ circumstances: >
     issued a death sentence against Mr. Salemi. He was executed on Thursday at
     3:35 am.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal of Saveh"
 # --- VERIFICATION ---
 status: unverified
 sources:

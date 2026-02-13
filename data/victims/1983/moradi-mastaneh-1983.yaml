@@ -3,10 +3,13 @@ name_latin: "Mastaneh Moradi"
 name_farsi: "مستانه مرادی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1983-01-09
@@ -85,9 +88,8 @@ circumstances: >
     territory a few times during the Iran-Iraq war. They were defeated in July
     1988 during their last operation, the Forugh Javidan Operation. A few days
     after this operation, thousands of imprisoned Mojahedin supporte
-event_context: null
-responsible_forces: null
-
+event_context: "1981 political repression"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Nosrat"
 name_farsi: "نصرت"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -39,8 +39,7 @@ circumstances: >
     assembly of the Supreme Judicial Council approved the sentence; she was
     shot by a firing squad in Rasht.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal of the Army"
 # --- VERIFICATION ---
 status: unverified
 sources:

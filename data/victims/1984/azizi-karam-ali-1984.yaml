@@ -3,7 +3,7 @@ name_latin: "Karam Ali Azizi"
 name_farsi: "کرمعلی عزیزی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -36,9 +36,8 @@ circumstances: >
     Tribunal of Zahedan declared Mr. Azizi a corruptor on earth and sentenced
     him to death. Having been confirmed by the Supreme Judicial Council, the
     sentence was carried out at night.
-event_context: null
-responsible_forces: null
-
+event_context: "1984 execution"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -40,8 +40,7 @@ circumstances: >
     Anti-Narcotics Islamic Revolutionary Tribunal sentenced Mr. Shafiee to
     death. The sentence was carried out in Qasr Prison at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Anti-Narcotics Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

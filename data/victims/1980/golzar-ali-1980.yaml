@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "policeman"
+
 # --- DEATH ---
 date_of_death: 1980-07-18
 age_at_death: null
@@ -30,8 +33,7 @@ circumstances: >
     Based on the report, Mr. Golzar was sentenced to death and executed at two
     in the morning.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

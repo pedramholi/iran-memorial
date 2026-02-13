@@ -2,11 +2,17 @@ id: maghrebi-mohsen-mehrdad-faghfour-1988
 name_latin: "Mohsen (Mehrdad) Faghfour Maghrebi"
 name_farsi: "محسن (مهرداد) فغفورمغربی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Mashhad"
 gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "medical student"
+family:
+  notes: "son of Hossein"
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1988-07-30
@@ -85,7 +91,7 @@ circumstances: >
     or had already completed when they were retried and sentenced to death.
     Charges According to the electronic form, the charges against Mr. Mohsen
     Faghfur-Maghrebi were, participation in bombing of the Is
-event_context: null
+event_context: "1988 massacre"
 responsible_forces: null
 
 # --- VERIFICATION ---

@@ -3,7 +3,7 @@ name_latin: "Ja'far Farhani"
 name_farsi: "جعفر فرهانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -31,8 +31,7 @@ circumstances: >
     Tribunal of Abadan and Khoramshahr found Mr. Farhani a “Ba’th agent” and
     sentenced him to death.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

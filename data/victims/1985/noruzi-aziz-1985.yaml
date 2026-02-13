@@ -36,8 +36,7 @@ circumstances: >
     Tribunal of Kashan sentenced Mr. Noruzi to death. The Supreme Judicial
     Council approved the sentence. Mr. Noruzi was executed in public.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

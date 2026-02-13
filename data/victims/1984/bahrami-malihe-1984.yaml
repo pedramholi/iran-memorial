@@ -30,9 +30,8 @@ circumstances: >
     information regarding the evidence provided against the defendant. Defense
     No information is available on Ms. Bahrami's defense. Judgment No specific
     information regarding the death sentence is available.
-event_context: null
-responsible_forces: null
-
+event_context: "executions from June 1981 to 1985"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

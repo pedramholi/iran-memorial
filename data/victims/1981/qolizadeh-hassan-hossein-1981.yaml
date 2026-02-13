@@ -1,12 +1,15 @@
 id: qolizadeh-hassan-hossein-1981
 name_latin: "Hassan (Hossein) Qolizadeh"
 name_farsi: "حسن) حسین) قلی‌زاده"
-date_of_birth: null
+date_of_birth: "1957-01-01"
 place_of_birth: null
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+beliefs: "supporter of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-08-16
@@ -86,9 +89,8 @@ circumstances: >
     Hezbollahis. The number of casualties that resulted from this
     demonstration is unknown but a large number of demonstrators were arrested
     and e
-event_context: null
-responsible_forces: null
-
+event_context: "1981 protests"
+responsible_forces: "Central Islamic Revolutionary Prosecutor’s Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+beliefs: "member of Mojahedin Khalq Organization"
+
 # --- DEATH ---
 date_of_death: 1982-05-30
 age_at_death: null
@@ -85,9 +88,8 @@ circumstances: >
     MKO members and sympathizers were arrested or executed. On June 21, 1981,
     the MKO announced an armed struggle against the Islamic Republic and
     assassinated a number of high-ranking officials an
-event_context: null
-responsible_forces: null
-
+event_context: "June 21, 1981, armed struggle against the Islamic Republic"
+responsible_forces: "Islamic Revolutionary Tribunal of Bandar Abbas"
 # --- VERIFICATION ---
 status: unverified
 sources:

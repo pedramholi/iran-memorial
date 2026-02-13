@@ -3,7 +3,7 @@ name_latin: "Jom'eh Goldi Daneshgar"
 name_farsi: "جمعه گلدی دانشگر"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -35,9 +35,8 @@ circumstances: >
     No information is available on the defense. Judgment The Islamic
     Revolutionary Tribunal of Gonbad-e Kavus sentenced Mr. Goldi Daneshgarand
     to death. He was executed at dawn on September 6, 1979.
-event_context: null
-responsible_forces: null
-
+event_context: "1979"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

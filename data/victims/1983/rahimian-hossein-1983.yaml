@@ -40,8 +40,7 @@ circumstances: >
     Prosecutor s Office sentenced Mr. Rahimian to death. The sentence was
     carried out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

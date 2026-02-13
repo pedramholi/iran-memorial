@@ -1,12 +1,19 @@
 id: khaksar-iran-1983
 name_latin: "Iran Khaksar"
 name_farsi: "ایران خاکسار"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1954-01-01"
+place_of_birth: "Tehran"
+gender: female
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "sympathizer of the Komaleh organization"
+education: "Tehran University Law School"
+family:
+  marital_status: "married"
+  notes: "Her husband was also executed."
 
 # --- DEATH ---
 date_of_death: 1983-01-01
@@ -31,9 +38,8 @@ circumstances: >
     Khaksar’s defense. She was denied a defense attorney. Judgment There is no
     information on the verdict leading to this execution. Ms. Khaksar was
     executed in Evin prison in October 1983. She was 29 years old.
-event_context: null
-responsible_forces: null
-
+event_context: "execution in Evin prison in October 1983"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

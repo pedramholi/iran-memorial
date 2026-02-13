@@ -1,12 +1,16 @@
 id: jahromi-abdolhossein-torab-1981
 name_latin: "Abdolhossein Torab Jahromi"
 name_farsi: "عبدالحسین تراب جهرمی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1964-01-01"
+place_of_birth: "Jahrom, Fars province"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "high school student"
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-08-24
@@ -41,9 +45,8 @@ circumstances: >
     presence and that was the basis for his execution. Judgment Khalkhali
     condemned Mr. Torab to death. Based on the Mojahed magazine, he was shot
     by firing squad on August 24, 1981. He was 17 years old.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Revolutionary Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

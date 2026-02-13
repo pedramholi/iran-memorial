@@ -1,12 +1,17 @@
 id: purqoli-esmail-1979
 name_latin: "Esma’il Purqoli"
 name_farsi: "اسماعیل پورقلی"
-date_of_birth: null
+date_of_birth: "1949-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "bus driver"
+quotes:
+  - "ordering the murder of the martyr-warrior, Majid Mohamadzadeh; shooting, arson, robbery, and sedition"
 
 # --- DEATH ---
 date_of_death: 1979-05-05
@@ -39,9 +44,8 @@ circumstances: >
     The Islamic Tribunal of Khoi declared Mr. Purqoli and 3 others guilty of
     “corruption on earth” and sentenced them to death. This verdict was
     carried out at dawn on 5 May 1979 by the firing squads in Khoi (Kayhan).
-event_context: null
-responsible_forces: null
-
+event_context: "1979"
+responsible_forces: "Islamic Tribunal of Khoi"
 # --- VERIFICATION ---
 status: unverified
 sources:

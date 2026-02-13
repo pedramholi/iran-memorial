@@ -2,7 +2,7 @@ id: dadashi-mostafa-1979
 name_latin: "Mostafa Dadashi"
 name_farsi: "مصطفی داداشی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Khorram-Darreh, Zanjan province"
 gender: male
 ethnicity: null
 religion: "Presumed Muslim"
@@ -32,9 +32,8 @@ circumstances: >
     Nahavand declared Mr. Dadashi a “corruptor on earth” and sentenced him to
     death. He was executed by firing squad at dawn in Nahavand on September 8,
     1979.
-event_context: null
-responsible_forces: null
-
+event_context: "September 8, 1979 execution"
+responsible_forces: "Islamic Revolutionary Tribunal of Nahavand"
 # --- VERIFICATION ---
 status: unverified
 sources:

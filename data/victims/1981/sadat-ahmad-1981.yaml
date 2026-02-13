@@ -8,6 +8,11 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+beliefs: "member of Mojahedin Khalq Iran"
+quotes:
+  - "being a member of the armed wing of the People' s Mojahedin Organization."
+
 # --- DEATH ---
 date_of_death: 1981-09-27
 age_at_death: 19
@@ -85,9 +90,8 @@ circumstances: >
     founded the National Council of Resistance. After the MKO leaders and many
     of its members were expelled from France, they went to Iraqand founded the
     National Liberation Army of Iran in 1987, whi
-event_context: null
-responsible_forces: null
-
+event_context: "June 1981 protests"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

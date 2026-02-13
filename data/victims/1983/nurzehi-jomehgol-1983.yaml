@@ -3,7 +3,7 @@ name_latin: "Jom'ehgol Nurzehi"
 name_farsi: "جمعه گل نورزهی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,9 +38,8 @@ circumstances: >
     available on Mr. Nurzehi s defense. Judgment According to this report, Mr.
     Nurzehi was executed. The Tribunal which issued his death sentence was not
     specified.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on December 20, 1983"
+responsible_forces: "Islamic Revolution's Committee"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,19 @@
 id: pur-ebrahim-heibatollah-1981
 name_latin: "Ebrahim Heibatollah Pur"
 name_farsi: "ابراهیم هیبت الله پور"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1962-01-27"
+place_of_birth: "Susan village near Izeh"
 gender: male
 ethnicity: null
-religion: null
+religion: "Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "politically active"
+education: "technical electrician diploma"
+family:
+  notes: "son of Khani Aqa"
+beliefs: "joined the Mojahedin Khalq Organization and continued his political activities"
 
 # --- DEATH ---
 date_of_death: 1981-09-02
@@ -85,9 +92,8 @@ circumstances: >
     streets, some of whom confronted the Revolutionary Guardsmen and
     Hezbollahis. The number of casualties that resulted from this
     demonstration is unknown but a large number of demonstrators were arrested
-event_context: null
-responsible_forces: null
-
+event_context: "1981 protests"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

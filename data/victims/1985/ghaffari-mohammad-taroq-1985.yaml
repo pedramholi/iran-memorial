@@ -42,9 +42,8 @@ circumstances: >
     death and the Supreme Court approved the verdict. Mr. Mohammad Taroq
     Ghaffari and 24 other individuals were hanged at Qasr prison in Tehran on
     January 28, 1985.
-event_context: null
-responsible_forces: null
-
+event_context: "1985 execution"
+responsible_forces: "Islamic Revolutionary Prosecution Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

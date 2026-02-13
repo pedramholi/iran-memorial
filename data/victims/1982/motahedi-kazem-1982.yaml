@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+beliefs: "opposed the involvement of the clergy in the government"
+
 # --- DEATH ---
 date_of_death: 1982-05-05
 age_at_death: null
@@ -42,9 +45,8 @@ circumstances: >
     information regarding the evidence provided against the defendant. Defense
     No information is available on Mr. Motahedi s defense. Judgment There is
     no information on the verdict leading to this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "executed or killed during clashes with the Islamic Republic security forces from June 1981 to 1985"
+responsible_forces: "Islamic Revolutionary Committee"
 # --- VERIFICATION ---
 status: unverified
 sources:

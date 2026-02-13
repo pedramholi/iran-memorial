@@ -3,10 +3,13 @@ name_latin: "Shadi Sadeqi"
 name_farsi: "شادی صادقی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "international drug trafficker"
 
 # --- DEATH ---
 date_of_death: 1984-08-20
@@ -34,9 +37,8 @@ circumstances: >
     against the defendant. Defense No information is available on Ms.Sadeqi s
     defense. Judgment The Anti-Narcotics Islamic Revolutionary Tribunal
     sentenced Ms. Sadeqi to death. The sentence was carried out at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on August 21, 1984"
+responsible_forces: "Anti-Narcotics Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

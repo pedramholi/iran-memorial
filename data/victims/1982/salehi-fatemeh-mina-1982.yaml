@@ -85,9 +85,8 @@ circumstances: >
     the MKO has continued its activities outside of Iran. No information is
     available regarding members and activities of the MKO inside the country.
     In defense: In spite of the “armed struggle” announcement by t
-event_context: null
-responsible_forces: null
-
+event_context: "1981 protests"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

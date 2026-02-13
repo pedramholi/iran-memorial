@@ -2,11 +2,16 @@ id: ara-hassan-jahan-1988
 name_latin: "Hassan Jahan Ara"
 name_farsi: "حسن جهان آرا"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Abadan"
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "had 4 brothers. One brother was the commander of the Revolutionary Guards Corp in Khoramshahr and was killed in the Iran Iraq war; another brother disappeared during the same war; a third brother was killed in detention under torture before the revolution."
+personality: "described as a pious young man"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -86,9 +91,8 @@ circumstances: >
     the executed prisoners. In this edict, Ayatollah Khomeini refers to
     members of the Mojahedin Khalq Organization as hypocrites who do not
     believe in Islam and wage war against G
-event_context: null
-responsible_forces: null
-
+event_context: "1988 mass executions"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

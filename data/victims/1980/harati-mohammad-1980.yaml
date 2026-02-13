@@ -2,11 +2,19 @@ id: harati-mohammad-1980
 name_latin: "Mohammad Harati"
 name_farsi: "محمد هراتی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Yazd"
 gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  children: 1
+  notes: "his wife had passed away"
+quotes:
+  - "he “was a loyalist of the previous regime, who, thanks to his support [for the previous regime] was able to accumulate much wealth and [he] opened opium and entertainment centers for the aristocracy, and has drawn the daughters of the wealthy to drug addiction.”"
 
 # --- DEATH ---
 date_of_death: 1980-07-23
@@ -48,9 +56,8 @@ circumstances: >
     would reduce Mr. Harati’s sentence if the family paid a large fine. He
     received the fine but the execution was still carried out. Mr. Harati’s
     properties in Yazd and Kerman were confiscated.
-event_context: null
-responsible_forces: null
-
+event_context: "1980 execution"
+responsible_forces: "Anti-Narcotic Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

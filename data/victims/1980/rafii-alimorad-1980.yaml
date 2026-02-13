@@ -3,7 +3,7 @@ name_latin: "Alimorad Rafi'i"
 name_farsi: "علیمراد رفیعی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -35,8 +35,7 @@ circumstances: >
     Revolutionary Tribunal of Isfahan declared Mr. Rafi'i a corruptor on
     earth. He was executed at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

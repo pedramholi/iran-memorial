@@ -2,11 +2,15 @@ id: rashti-yaqub-1982
 name_latin: "Ya'qub Rashti"
 name_farsi: "یعقوب رشتی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Shiraz"
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "high school student"
+beliefs: "sympathizer of the Peykar Organization"
 
 # --- DEATH ---
 date_of_death: 1982-11-24
@@ -48,9 +52,8 @@ circumstances: >
     available on Mr. Rashti’s defense. Judgment According to the list of
     Martyrs of the Peykar Organization, Mr. Ya’qub Rashti was hanged in Shiraz
     on November 24, 1982.
-event_context: null
-responsible_forces: null
-
+event_context: "executed or killed during clashes with the Islamic Republic security forces from June 1981 to the publication date of the magazine"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

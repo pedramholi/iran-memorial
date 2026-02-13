@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "welder"
+
 # --- DEATH ---
 date_of_death: 1980-06-06
 age_at_death: null
@@ -38,8 +41,7 @@ circumstances: >
     Khialparast was sentenced to death. The sentence was carried out at
     midnight on a Friday.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal of Tabriz"
 # --- VERIFICATION ---
 status: unverified
 sources:

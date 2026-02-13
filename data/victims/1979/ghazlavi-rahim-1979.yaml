@@ -31,8 +31,7 @@ circumstances: >
     Abadan and Khoramshahr sentenced Mr. Ghazlavi to death. The sentence was
     carried out at 4 a.m.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

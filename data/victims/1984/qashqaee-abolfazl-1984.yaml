@@ -41,9 +41,8 @@ circumstances: >
     declared Mr. Qashqaee a corruptor on earth and sentenced him to death.
     Having been confirmed by the Supreme Court, the sentence was carried out
     in prison at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "1984"
+responsible_forces: "Anti-Narcotics Section of the Public Prosecutor's Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

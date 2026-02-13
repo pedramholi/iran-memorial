@@ -39,9 +39,8 @@ circumstances: >
     Revolutionary Tribunal of Boroujerd sentenced Mr. Heidari to death and the
     verdict was confirmed by the Islamic Revolutionary Tribunal of the Center
     (Tehran). He was executed at 11:20 a.m. on Monday.
-event_context: null
-responsible_forces: null
-
+event_context: "1980"
+responsible_forces: "Islamic Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,18 @@
 id: iravani-habibollah-1980
 name_latin: "Habibollah Iravani"
 name_farsi: "حبیب‌الله ایروانی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1914-01-01"
+place_of_birth: "Tehran"
+gender: male
 ethnicity: null
 religion: null
 photo: null
+
+# --- LIFE ---
+occupation: "entertainer"
+family:
+  marital_status: "married"
+personality: "gentle, simple, and sincere"
 
 # --- DEATH ---
 date_of_death: 1980-01-01
@@ -52,9 +58,8 @@ circumstances: >
     prison yard. The religion judge was waiting outside and told the jailer to
     bring a rope to warm up the prisoner. Mr. Iravni was hanged in Qasr prison
     in 1980.
-event_context: null
-responsible_forces: null
-
+event_context: "execution in Qasr prison in 1980"
+responsible_forces: "Ayatollah Khalkhali"
 # --- VERIFICATION ---
 status: unverified
 sources:

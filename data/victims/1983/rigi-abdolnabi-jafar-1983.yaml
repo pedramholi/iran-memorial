@@ -3,7 +3,7 @@ name_latin: "Abdolnabi Jafar Rigi"
 name_farsi: "عبدالنبی جعفرریگی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -41,8 +41,7 @@ circumstances: >
     the Public Prosecutor s Office in Tehran sentenced Mr. Rigi to death. The
     sentence was carried out at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Anti-Narcotics Section of the Public Prosecutor's Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

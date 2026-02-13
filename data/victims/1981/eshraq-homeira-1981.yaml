@@ -3,10 +3,14 @@ name_latin: "Homeira Eshraq"
 name_farsi: "حمیرا اشراق"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "commander of a high school student battalion"
+beliefs: "MKO sympathizer"
 
 # --- DEATH ---
 date_of_death: 1981-11-26
@@ -63,9 +67,8 @@ circumstances: >
     squad at the Evin Prison on the dawn of November 25, 1981. However,
     according to the MKO website, Ms. Eshraq was executed by the firing squad
     in the Evin prison, while in a wheelchair, on November 26, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "demonstration of June 20, 1981"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

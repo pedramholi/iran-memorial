@@ -2,11 +2,14 @@ id: pur-ramezan-majid-1988
 name_latin: "Majid Pur-Ramezan"
 name_farsi: "مجید پور‌رمضان"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Shiraz"
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+beliefs: "supporter of MKO"
 
 # --- DEATH ---
 date_of_death: 1988-08-03
@@ -85,9 +88,8 @@ circumstances: >
     waging war against God and should be sentenced to death. Evidence of guilt
     No information is available regarding the evidence presented against Mr.
     Pur-Ramezan. Defense According to
-event_context: null
-responsible_forces: null
-
+event_context: "1988-89 mass execution of political prisoners"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

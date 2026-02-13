@@ -39,9 +39,8 @@ circumstances: >
     death. The Supreme Judicial Council approved the sentence. Mr. Mohammad
     Mehrbani was hanged by the victim’s father in the Police station of Qom on
     January 28, 1986.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on January 28, 1986"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

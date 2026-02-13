@@ -1,12 +1,18 @@
 id: omidi-fatemeh-1982
 name_latin: "Fatemeh Omidi"
 name_farsi: "فاطمه امیدی"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1957-01-01"
+place_of_birth: "Tehran"
 gender: female
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "geology student"
+education: "Melli University"
+family:
+  notes: "daughter of Teymour, had two sisters and one brother"
 
 # --- DEATH ---
 date_of_death: 1982-01-01
@@ -85,9 +91,8 @@ circumstances: >
     the National Liberation Army of Iran in 1987, which entered Iranian
     territory a few times during the Iran-Iraq war. They were defeated in July
     1988 during their last operation, the Forugh Javida
-event_context: null
-responsible_forces: null
-
+event_context: "1981 political repression"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

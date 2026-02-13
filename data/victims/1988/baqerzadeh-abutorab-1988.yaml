@@ -2,11 +2,16 @@ id: baqerzadeh-abutorab-1988
 name_latin: "Abutorab Baqerzadeh"
 name_farsi: "ابوتراب باقرزاده"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "near Babol"
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "political prisoner"
+education: "graduated from the Military College"
+beliefs: "member of the Tudeh Party"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -85,9 +90,8 @@ circumstances: >
     collaborated with armed members of the Mojahedin Organization in clashes
     with armed forces of the Islamic Republic, states that such claims “are
     false considering the circumstances in prisons; for our
-event_context: null
-responsible_forces: null
-
+event_context: "1988 mass killings of political prisoners"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

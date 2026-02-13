@@ -3,10 +3,16 @@ name_latin: "Qazi A'zami"
 name_farsi: "قاضی اعظمی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "student"
+beliefs: "sympathizer of the Revolutionary Workers Organization of Iran, Rah-e Kargar"
+quotes:
+  - "Rah-e Kargar or the Revolutionary Workers Organization of Iran was established in the summer of 1979."
 
 # --- DEATH ---
 date_of_death: 1981-01-01
@@ -39,9 +45,8 @@ circumstances: >
     No specific information is available about the execution sentence.
     According to the above book, Mr. Qazi A'zami was executed by a firing
     squad in Gorgan in the summer of 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "executed or killed during clashes with the Islamic Republic security forces from June 1981 to the publication date of the magazine."
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

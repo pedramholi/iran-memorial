@@ -2,7 +2,7 @@ id: keshavarz-esmail-1980
 name_latin: "Esmail Keshavarz"
 name_farsi: "اسماعیل کشاورز"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Shiraz"
 gender: male
 ethnicity: null
 religion: "Presumed Muslim"
@@ -36,8 +36,7 @@ circumstances: >
     Kheshavarz a corruptor on earth and sentenced him to death. He was
     executed at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

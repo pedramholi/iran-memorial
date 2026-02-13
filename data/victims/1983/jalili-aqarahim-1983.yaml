@@ -3,7 +3,7 @@ name_latin: "Aqarahim Jalili"
 name_farsi: "آقا رحیم جلیلی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,8 +38,7 @@ circumstances: >
     a corruptor on earth and sentenced him to death. Having been confirmed by
     the Supreme Judicial Council, the sentence was carried out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

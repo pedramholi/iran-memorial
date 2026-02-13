@@ -8,6 +8,12 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "policeman"
+family:
+  children: 3
+  notes: "father of three"
+
 # --- DEATH ---
 date_of_death: 1980-07-21
 age_at_death: 44
@@ -47,8 +53,7 @@ circumstances: >
     the Center (Ayatollah Meshkini and Ayatollah Montazeri), which was why
     they did not seek consultation from the Center.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "District 14 Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

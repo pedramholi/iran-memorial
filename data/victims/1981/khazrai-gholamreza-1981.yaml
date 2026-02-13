@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+beliefs: "sympathizer of the Revolutionary Workers Organization of Iran-Rah-e Kargar"
+
 # --- DEATH ---
 date_of_death: 1981-09-28
 age_at_death: null
@@ -40,9 +43,8 @@ circumstances: >
     is available about the defendant’s execution sentence. According to the
     book, Mr. Khazra’i was executed by a firing squad on September 28, 1981.
     However, the MKO list dated it on November 13, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "executed by a firing squad on September 28, 1981"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

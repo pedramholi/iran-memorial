@@ -2,11 +2,15 @@ id: abbasi-mohammad-ali-qolipur-1981
 name_latin: "Mohammad Ali Qolipur Abbasi"
 name_farsi: "محمدعلی قلی پورعباسی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Tabriz"
 gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "son of Haj Ahmad"
 
 # --- DEATH ---
 date_of_death: 1981-08-15
@@ -34,9 +38,8 @@ circumstances: >
     available on his defense. Judgment The Islamic Revolutionary Tribunal of
     Tabriz condemned Mr. Mohammad Ali Qolipur Abbasi to death. He was executed
     at Tabriz prison in the evening of August 15, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on August 15, 1981"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

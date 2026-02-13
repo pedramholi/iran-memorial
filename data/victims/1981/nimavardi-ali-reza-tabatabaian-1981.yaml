@@ -1,12 +1,20 @@
 id: nimavardi-ali-reza-tabatabaian-1981
 name_latin: "Ali Reza Tabataba'ian Nimavardi"
 name_farsi: "علیرضا طباطباییان نیماوردی"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1963-10-26"
+place_of_birth: "Esfahan"
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "high school student"
+family:
+  marital_status: "single"
+  children: 0
+personality: "very smart and successful in his education"
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-10-08
@@ -85,9 +93,8 @@ circumstances: >
     individuals. According to the electronic forms, the charges against Mr.
     Ali Reza Tabataba ian Nimavardi were described as, stealing a motorcycle
     and throwing Molotov cocktails at officials houses. The valid
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

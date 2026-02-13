@@ -3,10 +3,16 @@ name_latin: "Mahmud Hajbaqeran"
 name_farsi: "محمود حاج باقران"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+family:
+  children: 1
+  notes: "father of one"
+beliefs: "active member of the Mujahedin-e Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1985-01-27
@@ -38,8 +44,7 @@ circumstances: >
     confirmed by the Islamic Revolution s Supreme Court, the sentence was
     carried out on January 27, 1985.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal of Mashad"
 # --- VERIFICATION ---
 status: unverified
 sources:

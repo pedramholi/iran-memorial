@@ -3,7 +3,7 @@ name_latin: "Ezatollah Rudgari"
 name_farsi: "عزت الله رودگری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
@@ -56,8 +56,7 @@ circumstances: >
     been confirmed by the Supreme Judicial Council, the sentence was carried
     out at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Intelligence Office of Mazandaran"
 # --- VERIFICATION ---
 status: unverified
 sources:

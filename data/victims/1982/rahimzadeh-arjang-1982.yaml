@@ -1,12 +1,18 @@
 id: rahimzadeh-arjang-1982
 name_latin: "Arjang Rahimzadeh"
 name_farsi: "ارژنگ رحیم زاده"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1953-01-01"
+place_of_birth: "Quchanin"
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "member of the editorial board for the Peykar Publication"
+education: "bachelor’s degree in political science and law"
+personality: "enthusiastic human being, hardworking individual, true to his ideals"
+beliefs: "member of the Peykar Organization for the Liberation of the Working Class"
 
 # --- DEATH ---
 date_of_death: 1982-09-21
@@ -68,9 +74,8 @@ circumstances: >
     Organization, Mr. Arjang Rahimzadeh was executed by firing squad in Tehran
     on 21 September 1982. No specific information is available about the
     defendant’s execution.
-event_context: null
-responsible_forces: null
-
+event_context: "executed by firing squad in Tehran on 21 September 1982"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

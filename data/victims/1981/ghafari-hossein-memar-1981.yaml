@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+beliefs: "active member of Peykar"
+
 # --- DEATH ---
 date_of_death: 1981-07-02
 age_at_death: 27
@@ -52,9 +55,8 @@ circumstances: >
     available on Mr. Me mar Ghafari's defense. Judgment The Islamic
     Revolutionary Tribunal of Ahvaz sentenced Mr. Me mar Ghafari to death. He
     was executed at 1:45 a.m.
-event_context: null
-responsible_forces: null
-
+event_context: "1981"
+responsible_forces: "Islamic Revolutionary Tribunal of Ahvaz"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -2,11 +2,16 @@ id: abbasi-mehdi-1981
 name_latin: "Mehdi Abbasi"
 name_farsi: "مهدی عباسی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Arak"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "student"
+education: "Science and Technology University of Tehran"
+beliefs: "sympathizer of the Rah-e Kargar Organization"
 
 # --- DEATH ---
 date_of_death: 1981-01-01
@@ -42,9 +47,8 @@ circumstances: >
     information is available about the defendant s execution. According to the
     above source, Mr. Mehdi Abbasi was executed by a firing squad in Tehran in
     the summer of 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "executed by a firing squad in Tehran in the summer of 1981"
+responsible_forces: "Hezbollah of the Science and Technology University"
 # --- VERIFICATION ---
 status: unverified
 sources:

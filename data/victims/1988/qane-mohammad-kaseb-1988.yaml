@@ -2,11 +2,16 @@ id: qane-mohammad-kaseb-1988
 name_latin: "Mohammad Kaseb Qane'"
 name_farsi: "محمد کاسب قانع"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Astaneh Ashrafieh, Gilan province"
 gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "had two brothers and a sister"
+beliefs: "member of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1988-10-20
@@ -82,9 +87,8 @@ circumstances: >
     bodies, however, were not returned to them. The bodies were buried in mass
     graves. Authorities warned the families of prisoners against holding
     memorial ceremonies.
-event_context: null
-responsible_forces: null
-
+event_context: "1988 mass executions"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

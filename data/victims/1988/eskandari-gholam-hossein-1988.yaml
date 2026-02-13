@@ -2,7 +2,7 @@ id: eskandari-gholam-hossein-1988
 name_latin: "Gholam Hossein Eskandari"
 name_farsi: "غلام حسین اسکندری"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Qaemshahr"
 gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
@@ -64,9 +64,8 @@ circumstances: >
     prisoners were able to engage with any political group outside Iran.
     Judgment No sentence was issued publicly. Mr. Eskandari was executed at
     the Gohardasht Prison on July 30, 1988.
-event_context: null
-responsible_forces: null
-
+event_context: "1988-89 mass execution of political prisoners"
+responsible_forces: "PMIO"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Rasul"
 name_farsi: "رسول"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -35,9 +35,8 @@ circumstances: >
     defendant. Defense No information is available on Rasul s defense.
     Judgment The Islamic Revolutionary Tribunal of Tabriz sentenced Mr. Rasul
     to death. He was executed in the evening.
-event_context: null
-responsible_forces: null
-
+event_context: "1980"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,18 @@
 id: abadkhiz-ardeshir-abadkheir-1981
 name_latin: "Ardeshir Abadkheir (Abadkhiz)"
 name_farsi: "اردشیر آبادخیر (آبادخیز)"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1954-01-01"
+place_of_birth: "Qaemshahr"
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "university student"
+beliefs: "member of the Mojahedin Khalq Organization"
+quotes:
+  - "Mr. Abadkheir was charged with participating in and leading an illegal demonstration, conducting organizational activity in the Khomam and Some e Sara region, clashing with and injuring Muslim brothers with a knife, creating panic, corrupting young women and men of the region and guiding them towards counter-revolutionary activities, and destruction and breaking of doors and windows of shops."
 
 # --- DEATH ---
 date_of_death: 1981-07-13
@@ -86,9 +92,8 @@ circumstances: >
     the gap between the two. Authorities of the new regime referred to the
     Mojahedin as Hypocrites and the Hezbollahi supporters of the regime
     attacked
-event_context: null
-responsible_forces: null
-
+event_context: "1981 execution"
+responsible_forces: "Islamic Revolutionary Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

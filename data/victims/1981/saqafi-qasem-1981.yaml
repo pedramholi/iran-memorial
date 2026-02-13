@@ -61,9 +61,8 @@ circumstances: >
     Revolutionary Tribunal condemned Mr. Qasem Saqafi to death. According to
     the Mojahed magazine, he was shot by a firing squad in Tehran on December
     25, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "June 20, 1981 protests"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

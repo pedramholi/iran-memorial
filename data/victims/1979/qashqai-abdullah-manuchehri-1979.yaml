@@ -1,12 +1,22 @@
 id: qashqai-abdullah-manuchehri-1979
 name_latin: "Abdullah Manuchehri Qashqa'i"
 name_farsi: "عبدالله منوچهری قشقائی"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1941-01-01"
+place_of_birth: "Ahvaz"
 gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "Major"
+education: "bachelor's degree from the military university, bachelor's degree in English literature"
+family:
+  marital_status: "married"
+  children: 4
+  notes: "father of four"
+quotes:
+  - "repressed the people of Tehran"
 
 # --- DEATH ---
 date_of_death: 1979-03-13
@@ -70,9 +80,8 @@ circumstances: >
     times. His body was given to his family to be buried at the Behesht-e
     Zahra cemetery. His family used a different name on his tombstone for a
     long time in order to prevent it from being destroyed.
-event_context: null
-responsible_forces: null
-
+event_context: "March 13, 1979 execution"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

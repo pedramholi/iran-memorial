@@ -1,7 +1,7 @@
 id: ekteshafi-mohammad-reza-1981
 name_latin: "Mohammad Reza Ekteshafi"
 name_farsi: "محمدرضا اکتشافی"
-date_of_birth: null
+date_of_birth: "1960-01-01"
 place_of_birth: null
 gender: male
 ethnicity: null
@@ -86,9 +86,8 @@ circumstances: >
     “Hypocrites” and the Hezbollahi supporters of the regime attacked the
     Mojahedin sympathizers regularly during demonstrations and while
     distributing publicatio
-event_context: null
-responsible_forces: null
-
+event_context: "1981 protests"
+responsible_forces: "Islamic Revolutionary Prosecutor’s Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

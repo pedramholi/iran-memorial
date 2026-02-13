@@ -37,8 +37,7 @@ circumstances: >
     been confirmed by the Supreme Judicial Council, the sentence was carried
     out in the Anti-Narcotics Section of the Public Prosecutor's Office.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Rahmodin Nurzehi"
 name_farsi: "رحم الدین نورزهی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -40,8 +40,7 @@ circumstances: >
     Office in Sistan and Baluchestan sentenced Mr. Nurzehi to death. Having
     been confirmed by the Supreme Court, the sentence was carried out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolution's Public Prosecutor's Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

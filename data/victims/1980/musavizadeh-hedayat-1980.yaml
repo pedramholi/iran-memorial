@@ -3,7 +3,7 @@ name_latin: "Hedayat Musavizadeh"
 name_farsi: "هدایت موسوی‌زاده"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -36,9 +36,8 @@ circumstances: >
     Judgment According to the report, the Islamic Revolutionary Tribunal of
     Ardebil sentenced Mr. Musavizadeh to death and he was immediately executed
     by firing squad in Ardebil on January 07, 1980.
-event_context: null
-responsible_forces: null
-
+event_context: "1980"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

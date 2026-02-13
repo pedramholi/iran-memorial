@@ -3,7 +3,7 @@ name_latin: "Bakhshak Chakerzadeh"
 name_farsi: "بخشک چاکرزاده"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -37,8 +37,7 @@ circumstances: >
     prison at dawn. There is no information regarding the tribunal that issued
     the death sentence.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Zabihollah Amadeh"
 name_farsi: "ذبیح الله آماده"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,9 +38,8 @@ circumstances: >
     Mr. Amadeh a corruptor on earth and sentenced him to death. Having been
     confirmed by the Supreme Judicial Council, the sentence was carried out in
     public at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "1983"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

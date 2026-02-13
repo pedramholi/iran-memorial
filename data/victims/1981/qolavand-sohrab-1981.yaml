@@ -1,12 +1,19 @@
 id: qolavand-sohrab-1981
 name_latin: "Sohrab Qolavand"
 name_farsi: "سهراب قلاوند"
-date_of_birth: null
+date_of_birth: "1957-01-01"
 place_of_birth: null
 gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "conscripted soldier"
+education: "high school graduate"
+family:
+  notes: "son of Aqajan"
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-12-21
@@ -43,9 +50,8 @@ circumstances: >
     he was executed by firing squad in Sanandaj on December 21, 1981. No
     specific information is available about the defendant s execution. Mr.
     Sohrab Qolavand was 24 years old.
-event_context: null
-responsible_forces: null
-
+event_context: "executed by firing squad in Sanandaj on December 21, 1981"
+responsible_forces: "Islamic Revolutionary Court of Army"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Morad Ali Ahmadi"
 name_farsi: "مراد علی احمدی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -35,8 +35,7 @@ circumstances: >
     Judgment The Islamic Revolutionary Tribunal of Hamedan declared Mr. Ahmadi
     a corruptor on earth. He was executed at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

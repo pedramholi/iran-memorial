@@ -3,7 +3,7 @@ name_latin: "Raz Mohammad Moradi"
 name_farsi: "راز محمد مرادی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -37,8 +37,7 @@ circumstances: >
     Judicial Council, and then it was carried out in the Islamic Penitentiary
     of Zahedan’s Police Headquarters at 22:40 p.m.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

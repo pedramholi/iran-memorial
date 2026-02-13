@@ -55,9 +55,8 @@ circumstances: >
     no information about the tribunal which issued the death sentence. Having
     been confirmed by the Supreme Judicial Council, the sentence was carried
     out at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "1984-1985"
+responsible_forces: "Intelligence Office of Mazandaran"
 # --- VERIFICATION ---
 status: unverified
 sources:

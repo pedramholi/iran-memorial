@@ -3,7 +3,7 @@ name_latin: "Mansur Qaseminezhad"
 name_farsi: "منصور قاسمی نژاد"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -53,8 +53,7 @@ circumstances: >
     to death. Having been confirmed by the Supreme Judicial Court, the
     sentence was carried out in prison at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Anti-Narcotics Section of Tehran's Public Prosecutor's Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

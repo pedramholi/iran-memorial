@@ -38,9 +38,8 @@ circumstances: >
     Hosseinkhani s defense. Judgment The Anti-Narcotics Section of the Public
     Prosecutor s Office sentenced Mr. Hosseinkhani to death. The sentence was
     carried out.
-event_context: null
-responsible_forces: null
-
+event_context: "1983"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

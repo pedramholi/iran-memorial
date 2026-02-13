@@ -2,11 +2,19 @@ id: aberi-behzad-1982
 name_latin: "Behzad Aberi"
 name_farsi: "بهزاد عابری"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Sanandaj"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "student"
+education: "Tehran University"
+family:
+  marital_status: "married"
+  notes: "mother was killed during the government attack on Kurdistan in 1980"
+beliefs: "sympathizer of a radical socialist group"
 
 # --- DEATH ---
 date_of_death: 1982-09-12
@@ -58,9 +66,8 @@ circumstances: >
     returned. However, after receiving what they asked for, they refused to
     deliver the body. Mr. Aberi s family does not know where his grave is
     located.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on September 12, 1982"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

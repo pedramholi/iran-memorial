@@ -3,10 +3,13 @@ name_latin: "Mariam Safa'i"
 name_farsi: "مریم صفائی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+beliefs: "follower of the Mojahedin Khalq Organization of Iran"
 
 # --- DEATH ---
 date_of_death: 1983-07-25
@@ -33,9 +36,8 @@ circumstances: >
     information regarding the evidence provided against the defendant. Defense
     No information is available on Ms. Safa’i's defense. Judgment The
     circumstances of this defendant’s sentencing and execution are not known.
-event_context: null
-responsible_forces: null
-
+event_context: "executed or killed during clashes with the Islamic Republic security forces from June 1981 to 1985"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

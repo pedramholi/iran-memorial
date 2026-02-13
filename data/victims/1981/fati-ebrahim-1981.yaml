@@ -8,6 +8,12 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+beliefs: "member of Peykar Organization for the Liberation of the Working Class"
+quotes:
+  - "establishing and frequenting the organizational houses, conspiracy against the Revolution and the Islamic Republic of Iran by sympathizing with the terrorist and American organization of Peykar, and active participation in recent clashes with the Moslem people."
+  - "Mofsed (corruptor on Earth) and Mohareb (fighter against God and the Prophet)"
+
 # --- DEATH ---
 date_of_death: 1981-09-10
 age_at_death: null
@@ -53,9 +59,8 @@ circumstances: >
     as, "Mofsed (corruptor on Earth) and Mohareb (fighter against God and the
     Prophet)." He was condemned to death. The ruling was carried out on
     September 10, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "executed on September 10, 1981"
+responsible_forces: "Islamic Revolutionary Court of Masjedsoleiman"
 # --- VERIFICATION ---
 status: unverified
 sources:

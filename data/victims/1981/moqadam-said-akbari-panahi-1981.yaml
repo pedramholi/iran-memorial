@@ -3,10 +3,13 @@ name_latin: "Sai'd Akbari Panahi Moqadam"
 name_farsi: "سعید اکبری پناهی مقدم"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+beliefs: "sympathizer of Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-08-07
@@ -86,9 +89,8 @@ circumstances: >
     June 21, 1981, the MKO announced an armed struggle against the Islamic
     Republic and assassinated a number of high-ranking officials and
     supporters of the Islamic regime. In the su
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Central Islamic Revolutionary Prosecutor’s Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

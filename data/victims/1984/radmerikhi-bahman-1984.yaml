@@ -1,12 +1,17 @@
 id: radmerikhi-bahman-1984
 name_latin: "Bahman Radmerikhi"
 name_farsi: "بهمن رادمریخی"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1945-01-01"
+place_of_birth: "Lahijan"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "armed Revolutionary"
+family:
+  marital_status: "married"
 
 # --- DEATH ---
 date_of_death: 1984-10-14
@@ -44,9 +49,8 @@ circumstances: >
     addendum to the Mojahed magazine, Mr. Radmerikhi was executed by a firing
     squad on October 23, 1984. But, according to the information provided in
     the electronic form, he was hanged on October 14, 1984.
-event_context: null
-responsible_forces: null
-
+event_context: "executed on October 23, 1984; hanged on October 14, 1984"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,10 +3,15 @@ name_latin: "Nosratollah Darvish Molla"
 name_farsi: "نصرت الله درویش ملا"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "student"
+education: "Technical University of Tehran"
+beliefs: "member of the Tudeh Party"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -85,9 +90,8 @@ circumstances: >
     is available about the defendant’s execution. Mr. Nosratollah Darvish
     Molla was hanged during the mass killings of political prisoners in
     September 1988.
-event_context: null
-responsible_forces: null
-
+event_context: "1988 mass killings of political prisoners"
+responsible_forces: "Iranian authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

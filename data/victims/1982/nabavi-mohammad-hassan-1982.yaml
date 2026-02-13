@@ -8,6 +8,16 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+occupation: "leader of the Revolutionary Workers Organization of Iran"
+family:
+  marital_status: "married"
+  notes: "his wife was also detained at the same time"
+beliefs: "Marxist"
+quotes:
+  - "Rah-e Kargar"
+  - "Revolutionary Workers Organization of Iran"
+
 # --- DEATH ---
 date_of_death: 1982-05-02
 age_at_death: 33
@@ -58,9 +68,8 @@ circumstances: >
     Women prisoners heard the sound of the firing squad and four single shots.
     The authorities returned Mr. Nabavi’s body to his parents, who buried him
     in the public cemetery of Tabriz. His will ends with a poem of Rumi.
-event_context: null
-responsible_forces: null
-
+event_context: "1982 execution"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

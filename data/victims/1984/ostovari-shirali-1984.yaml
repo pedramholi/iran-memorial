@@ -3,10 +3,15 @@ name_latin: "Shirali Ostovari"
 name_farsi: "شیرعلی استواری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "transporting more than 1.5 kg of heroin from Orumieh to Tehran for sale, being actively involved in the supply and distribution of heroin"
+  - "1.5 kg of heroin to officers"
 
 # --- DEATH ---
 date_of_death: 1984-04-08
@@ -38,8 +43,7 @@ circumstances: >
     Revolutionary Tribunal sentenced Mr. Ostovari to death. After being
     confirmed by the Supreme Court, the sentence was carried out at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Anti-Narcotics Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

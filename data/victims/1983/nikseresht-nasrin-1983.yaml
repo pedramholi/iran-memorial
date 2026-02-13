@@ -8,6 +8,14 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+occupation: "member of the Fadaiyan Khalq Organization"
+family:
+  marital_status: "married"
+  notes: "her husband, Rahim Saburi, was killed in clashes with the Islamic police in the winter of 1981"
+personality: "praised by other leftist prisoners for her bravery"
+beliefs: "member of the Fadaiyan Khalq Organization"
+
 # --- DEATH ---
 date_of_death: 1983-01-01
 age_at_death: null
@@ -45,8 +53,7 @@ circumstances: >
     No specific information is available about the verdict leading to this
     execution. Ms. Nikseresht was executed at Evin prison in 1983.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic police"
 # --- VERIFICATION ---
 status: unverified
 sources:

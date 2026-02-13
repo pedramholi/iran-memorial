@@ -28,9 +28,8 @@ circumstances: >
     Defense No information is available on the defense. Judgment The Islamic
     Revolutionary Tribunal of Nahavand sentenced Mr. Kermani to death. He was
     executed by firing squad at dawn in Nahavand on September 8, 1979.
-event_context: null
-responsible_forces: null
-
+event_context: "1979"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

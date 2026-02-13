@@ -3,7 +3,7 @@ name_latin: "Ezatollah (Aziz) Mohseni"
 name_farsi: "عزت الله (عزیز) محسنی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
@@ -85,9 +85,8 @@ circumstances: >
     MKO members from government offices and the closure of their centers and
     publishing houses, in conjunction with to the Islamic Republic authorities
     different interpretation of Islam, widened t
-event_context: null
-responsible_forces: null
-
+event_context: "1984-1985"
+responsible_forces: "Intelligence Office of Mazandaran"
 # --- VERIFICATION ---
 status: unverified
 sources:

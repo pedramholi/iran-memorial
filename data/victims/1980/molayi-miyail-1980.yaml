@@ -3,10 +3,13 @@ name_latin: "Miyail Molayi"
 name_farsi: "میائیل ملائی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+beliefs: "participation in stick-wielding for the Party of the Muslim People s Republic"
 
 # --- DEATH ---
 date_of_death: 1980-08-14
@@ -37,8 +40,7 @@ circumstances: >
     Tribunal of Tabriz declared Mr. Molayi a corruptor on earth and sentenced
     him to death.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

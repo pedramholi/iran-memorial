@@ -3,7 +3,7 @@ name_latin: "Hushang Mohabat Bakhsh"
 name_farsi: "هوشنگ محبت بخش"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
@@ -85,9 +85,8 @@ circumstances: >
     of the organization had no military training, were not armed, and did not
     participate in armed conflict. e char~�aa���| UDHR, Article 9(2);
     ICCPR, %Article 9.2%viol_iccpr_9.2
-event_context: null
-responsible_forces: null
-
+event_context: "1981 protests"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

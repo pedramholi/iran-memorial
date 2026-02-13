@@ -3,7 +3,7 @@ name_latin: "Jom'ehkhan"
 name_farsi: "جمعه خان"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -36,8 +36,7 @@ circumstances: >
     confirmed by the Islamic Revolution s Supreme Court, the sentence was
     carried out in public.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal of Hormozgan"
 # --- VERIFICATION ---
 status: unverified
 sources:

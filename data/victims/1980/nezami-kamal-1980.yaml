@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "Major General"
+
 # --- DEATH ---
 date_of_death: 1980-03-15
 age_at_death: null
@@ -35,8 +38,7 @@ circumstances: >
     verdict to a death sentence. The sentence was immediately carried out and
     Maj. Gen. Nezami was executed at 6:30 p.m.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

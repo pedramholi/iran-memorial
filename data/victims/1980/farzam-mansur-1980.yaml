@@ -3,10 +3,13 @@ name_latin: "Mansur Farzam"
 name_farsi: "منصور فرزام"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "contractor"
 
 # --- DEATH ---
 date_of_death: 1980-06-06
@@ -37,8 +40,7 @@ circumstances: >
     Farzam s defense. Judgment Mr. Farzam was sentenced to death. The sentence
     was carried out at midnight on a Friday.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal of Tabriz"
 # --- VERIFICATION ---
 status: unverified
 sources:

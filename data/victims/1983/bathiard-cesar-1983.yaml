@@ -3,10 +3,13 @@ name_latin: "Cesar Bathiard"
 name_farsi: "سيزار باتيار"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+occupation: "driver"
 
 # --- DEATH ---
 date_of_death: 1983-04-18
@@ -85,9 +88,8 @@ circumstances: >
     was particularly harsh when it came to Egypt and Lebanon: Is it not
     shameful for Muslims that a country which is considered the enemy of Islam
     and the enemy of humanity, reaches out from the oth
-event_context: null
-responsible_forces: null
-
+event_context: "1983 bombing of the American Embassy in Beirut"
+responsible_forces: "Islamic Jihad"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -2,11 +2,15 @@ id: cheraghi-ali-1985
 name_latin: "Ali Cheraghi"
 name_farsi: "علی چراغی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Takab"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "teacher"
+beliefs: "member of Fadayian Khalq Organization (minority)"
 
 # --- DEATH ---
 date_of_death: 1985-01-01
@@ -42,8 +46,7 @@ circumstances: >
     No information is available on Mr. Cheraghi's defense. Judgment No
     specific information regarding the death sentence is available.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

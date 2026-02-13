@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "Colonel"
+
 # --- DEATH ---
 date_of_death: 1979-09-11
 age_at_death: null
@@ -50,9 +53,8 @@ circumstances: >
     Center (Tehran) declared Col. Salari a clear example of a corruptor on
     earth and sentenced him to death. The execution was carried out at Evin
     Prison.
-event_context: null
-responsible_forces: null
-
+event_context: "1979 Islamic Revolution"
+responsible_forces: "SAVAK"
 # --- VERIFICATION ---
 status: unverified
 sources:

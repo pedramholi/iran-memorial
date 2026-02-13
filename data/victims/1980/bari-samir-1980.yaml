@@ -3,7 +3,7 @@ name_latin: "Samir Bari"
 name_farsi: "سمیر بری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -41,9 +41,8 @@ circumstances: >
     results of his shameful acts. Mr. Bari was found guilty of corruption on
     earth and waging war against God. He was executed at 5:42 p.m. on the day
     of his trial.
-event_context: null
-responsible_forces: null
-
+event_context: "July 29, 1980"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

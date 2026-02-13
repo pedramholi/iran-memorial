@@ -1,12 +1,19 @@
 id: ravai-nariman-1981
 name_latin: "Nariman Rava'i"
 name_farsi: "نریمان روائی"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1954-01-01"
+place_of_birth: "Khalkhal"
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "teacher"
+education: "two-year college degree"
+family:
+  marital_status: "married"
+beliefs: "supporter of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-09-28
@@ -85,9 +92,8 @@ circumstances: >
     after this operation, thousands of imprisoned Mojahedin supporters were
     killed during the mass executions of political prisoners in 1988. Ever
     since the summer of 1981, the MKO has continued its activit
-event_context: null
-responsible_forces: null
-
+event_context: "1981 political repression"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

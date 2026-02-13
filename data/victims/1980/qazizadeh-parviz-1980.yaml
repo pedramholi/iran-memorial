@@ -8,6 +8,12 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+quotes:
+  - "corruption on earth"
+  - "war on God"
+  - "drug addiction and trafficking"
+
 # --- DEATH ---
 date_of_death: 1980-07-29
 age_at_death: null
@@ -20,8 +26,7 @@ circumstances: >
     God" allegedly for "drug addiction and trafficking". He was executed at
     midnight. Source : Tehran newspaper Jomhuri Eslami.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

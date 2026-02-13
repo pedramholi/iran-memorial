@@ -8,6 +8,12 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+beliefs: "member of the Ettehadieh Komonista-ha"
+quotes:
+  - "that the people should make revolutions, we took refuge in forest with 70 weapons and 100 forces. We were surrounded by the Revolutionary Guards and had clashes with them several times during our five-month stay there…As our stay was prolonged in the forest, we ran out of provisions and had to buy food from the villagers. By mid-January we decided to attack the city in order to siege the military centers in Amol such as the Revolutionary Guards Corps and Basij (mobilization) forces. We started our revolt from Amol, thinking that people would join us. The clash started at 11 pm and people joined the Police force (Niruye Entezami), so we had to escape to the forest again in the morning."
+  - "the supply of weapons from abroad, garrisons, Kurdestan and the war fronts in southern Iran."
+
 # --- DEATH ---
 date_of_death: 1983-01-25
 age_at_death: null
@@ -85,9 +91,8 @@ circumstances: >
     Defense The report of this execution does not contain actual information
     regarding the defendant’s defense, what is labeled as defense is his
     actual confession. Judgment The 1st division of the
-event_context: null
-responsible_forces: null
-
+event_context: "Amol clash on January 26, 1982"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

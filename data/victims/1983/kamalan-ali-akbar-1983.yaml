@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+beliefs: "member of Mojahedin Khalq Iran"
+
 # --- DEATH ---
 date_of_death: 1983-07-28
 age_at_death: null
@@ -85,9 +88,8 @@ circumstances: >
     1988 during their last operation, the Forugh Javidan Operation. A few days
     after this operation, thousands of imprisoned Mojahedin supporters were
     killed during the mass executions of political prisoners in 19
-event_context: null
-responsible_forces: null
-
+event_context: "1981 political repression and mass executions"
+responsible_forces: "Islamic Revolutionary Tribunal of the Army"
 # --- VERIFICATION ---
 status: unverified
 sources:

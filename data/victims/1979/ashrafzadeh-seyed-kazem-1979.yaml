@@ -1,12 +1,19 @@
 id: ashrafzadeh-seyed-kazem-1979
 name_latin: "Seyed Kazem Ashrafzadeh"
 name_farsi: "سید‌‌کاظم اشرف‌زاده"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1932-01-01"
+place_of_birth: "Dezful"
 gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "head of security"
+education: "primary school"
+family:
+  marital_status: "married"
+  children: 13
 
 # --- DEATH ---
 date_of_death: 1979-04-08
@@ -65,9 +72,8 @@ circumstances: >
     aquitted Mr. Ashrafzadeh, but revolutionary guards took him from his cell
     and executed him by a firing squad of Revolutionary Guards in the Valiabad
     Cemetery of Dezful on April 8, 1979 at 4:00 a.m.
-event_context: null
-responsible_forces: null
-
+event_context: "1979 Iranian Revolution"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

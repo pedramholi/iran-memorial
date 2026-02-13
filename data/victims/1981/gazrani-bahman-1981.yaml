@@ -2,11 +2,14 @@ id: gazrani-bahman-1981
 name_latin: "Bahman Gazrani"
 name_farsi: "بهمن گازرانی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Arak"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "sympathizer of the Revolutionary Workers Organization of Iran-Rah-e Kargar"
 
 # --- DEATH ---
 date_of_death: 1981-01-01
@@ -34,7 +37,7 @@ circumstances: >
     defence. Judgment No specific information is available about the
     defendant’s execution. Mr. Gazerani was executed by a firing squad in the
     Evin Prison during 1981.
-event_context: null
+event_context: "executed by a firing squad in the Evin Prison during 1981"
 responsible_forces: null
 
 # --- VERIFICATION ---

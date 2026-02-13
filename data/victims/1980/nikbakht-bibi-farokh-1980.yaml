@@ -1,12 +1,18 @@
 id: nikbakht-bibi-farokh-1980
 name_latin: "Bibi Farokh Nikbakht"
 name_farsi: "بی بی فرخ نیک بخت"
-date_of_birth: null
+date_of_birth: "1920-01-01"
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  children: 1
+  notes: "mother of Lieutenant Naser Rokni and mother-in-law of Dr. Majid Vesali"
+personality: "described as a good-natured individual with a good sense of humor"
 
 # --- DEATH ---
 date_of_death: 1980-08-26
@@ -85,9 +91,8 @@ circumstances: >
     regarding the defense. Ms. Nikbakht was denied the right to be represented
     by an attorney. The interviewee states that her only crime was making her
     house available for some meetings of persons involve
-event_context: null
-responsible_forces: null
-
+event_context: "attempted Nojeh coup"
+responsible_forces: "Islamic Republic of Iran authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -2,11 +2,19 @@ id: nokhostlotfi-mehran-1983
 name_latin: "Mehran Nokhostlotfi"
 name_farsi: "مهران نخست لطفی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Rasht"
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "activist"
+education: "high school graduate"
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
+quotes:
+  - "My son was deformed because of severe torture and his head was swollen."
+  - "They dug a huge area with a bulldozer and we counted 400 bodies."
 
 # --- DEATH ---
 date_of_death: 1983-01-07
@@ -47,7 +55,7 @@ circumstances: >
     According to him, ‘They dug a huge area with a bulldozer and we counted
     400 bodies.’ They called this section of Behesht-eZahran ‘Kafarabad’ [a
     place for infidels].”
-event_context: null
+event_context: "1984-1985"
 responsible_forces: null
 
 # --- VERIFICATION ---

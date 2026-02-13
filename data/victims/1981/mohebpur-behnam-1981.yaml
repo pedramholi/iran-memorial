@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+beliefs: "Mojahedin Khalq Iran"
+
 # --- DEATH ---
 date_of_death: 1981-09-19
 age_at_death: null

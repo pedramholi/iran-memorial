@@ -3,10 +3,15 @@ name_latin: "Sa'id Rostamkala'i"
 name_farsi: "سعید رستم کلائی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "college graduate"
+education: "college"
+beliefs: "affiliated with Peykar Organization for the Liberation of the Working Class"
 
 # --- DEATH ---
 date_of_death: 1982-02-03
@@ -54,9 +59,8 @@ circumstances: >
     Qezelhesar prison, Section Five, Unit Three, on February 3, 1982. He was
     executed by firing squad in the Evin prison. No specific information is
     available about the defendant’s execution.
-event_context: null
-responsible_forces: null
-
+event_context: "executed on February 3, 1982"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

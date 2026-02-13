@@ -1,12 +1,18 @@
 id: jabbari-jalil-1988
 name_latin: "Jalil Jabbari"
 name_farsi: "جلیل جباری"
-date_of_birth: null
+date_of_birth: "1952-01-01"
 place_of_birth: null
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "industrial engineering"
+family:
+  marital_status: "married"
+  children: 2
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -85,7 +91,7 @@ circumstances: >
     Organization as hypocrites, who do not believe in Islam and who wage war
     against God and decree that prisoners who still approve of the positions
     taken by this organization are also waging war against Go
-event_context: null
+event_context: "1988 mass killings of political prisoners"
 responsible_forces: null
 
 # --- VERIFICATION ---

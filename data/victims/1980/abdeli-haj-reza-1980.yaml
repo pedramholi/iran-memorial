@@ -3,7 +3,7 @@ name_latin: "Haj Reza Abdeli"
 name_farsi: "حاج رضا عبدلی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -35,9 +35,8 @@ circumstances: >
     Defense The report provided no information about the defendant s defense.
     Judgment The Eastern Special Court for Drugs and Narcotics in Mashhad
     sentenced Mr. Abdeli to death. He was executed at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "1980"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

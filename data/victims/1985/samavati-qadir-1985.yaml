@@ -3,7 +3,7 @@ name_latin: "Qadir Samavati"
 name_farsi: "قدیر سماواتی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -39,9 +39,8 @@ circumstances: >
     Samavati to death. The Islamic Revolutionary Supreme Court approved the
     sentence. He and ten other men were hanged on May 21, 1985 at prison of
     the Police Department of Kerman.
-event_context: null
-responsible_forces: null
-
+event_context: "1985 execution"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

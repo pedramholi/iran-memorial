@@ -3,7 +3,7 @@ name_latin: "Abdol-Amir Jaberi"
 name_farsi: "عبدالامیر جابری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -27,8 +27,7 @@ circumstances: >
     Judgment Based on the report, the Islamic Revolutionary Tribunal of Ahvaz
     sentenced Mr. Jaberi to death. The sentence was immediately carried out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

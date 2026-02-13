@@ -3,7 +3,7 @@ name_latin: "Ja'far Sadeq Alizadeh"
 name_farsi: "جعفر صادق علیزاده"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -35,9 +35,8 @@ circumstances: >
     available on his defense. Judgment The Central Islamic Revolutionary
     Tribunal condemned Mr. Ja far Sadeq Alizadeh to death. He was executed at
     Evin prison on August 9, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "1981"
+responsible_forces: "Public Prosecution Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

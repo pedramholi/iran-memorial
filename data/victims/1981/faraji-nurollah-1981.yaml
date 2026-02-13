@@ -1,12 +1,18 @@
 id: faraji-nurollah-1981
 name_latin: "Nurollah Faraji"
 name_farsi: "نورالله فرجی"
-date_of_birth: null
+date_of_birth: "1958-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of Peykar Organization for the Liberation of the Working Class"
+quotes:
+  - "Mr. Faraji is one of the 430 individuals whose name appears on the list of 'Martyrs of the Peykar Organization for the Liberation of the Working Class'"
+  - "The Islamic Revolutionary Court of Amol called Mr. Faraji an 'enemy of God and His Prophet, a rebel, and a corruptor on earth.'"
 
 # --- DEATH ---
 date_of_death: 1981-01-01
@@ -53,9 +59,8 @@ circumstances: >
     Revolutionary Court of Amol called Mr. Faraji an "enemy of God and His
     Prophet, a rebel, and a corruptor on earth." He was condemned to death. He
     was executed in Amol on August 6 or 7, 1981 at dawn. He was 23.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

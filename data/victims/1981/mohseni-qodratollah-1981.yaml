@@ -1,12 +1,16 @@
 id: mohseni-qodratollah-1981
 name_latin: "Qodratollah Mohseni"
 name_farsi: "قدرت‌الله محسنی"
-date_of_birth: null
+date_of_birth: "1960-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "student"
+beliefs: "member of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-07-13
@@ -85,9 +89,8 @@ circumstances: >
     regime called this demonstration illegal, thousands came to the streets,
     some of whom confronted the Revolutionary Guardsmen and Hezbollahis. The
     number of casualties that resulted from this demonstration is unkn
-event_context: null
-responsible_forces: null
-
+event_context: "1981 protests"
+responsible_forces: "Qa em Shahr Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

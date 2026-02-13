@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+quotes:
+  - "pleaded guilty to his crimes and confessed to be a nonaddict"
+
 # --- DEATH ---
 date_of_death: 1983-02-14
 age_at_death: null
@@ -43,8 +47,7 @@ circumstances: >
     death. Having been confirmed by the Supreme Court, the sentence was
     carried out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Tribunal of the Anti-Narcotics Section of the Public Prosecutor s Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

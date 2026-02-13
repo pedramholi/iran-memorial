@@ -2,7 +2,7 @@ id: mostajab-ahmad-1982
 name_latin: "Ahmad Mostajab"
 name_farsi: "احمد مستجاب"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Abadan"
 gender: male
 ethnicity: null
 religion: "Presumed Muslim"
@@ -49,8 +49,7 @@ circumstances: >
     Revolutionary Tribunal of Qom. He was shot by a firing squad in Golestan
     district of Shiraz.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

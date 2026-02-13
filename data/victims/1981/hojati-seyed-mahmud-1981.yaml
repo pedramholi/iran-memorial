@@ -8,6 +8,13 @@ ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
 
+# --- LIFE ---
+occupation: "teacher"
+family:
+  marital_status: "father"
+  children: 1
+beliefs: "supporter of the Mojahedin Khalq Organization of Iran"
+
 # --- DEATH ---
 date_of_death: 1981-08-04
 age_at_death: 27

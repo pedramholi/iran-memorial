@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+beliefs: "Mojahedin Khalq Iran"
+
 # --- DEATH ---
 date_of_death: 1984-01-26
 age_at_death: 26
@@ -85,9 +88,8 @@ circumstances: >
     after this operation, thousands of imprisoned Mojahedin supporters were
     killed during the mass executions of political prisoners in 1988. Ever
     since the summer of 1981, the MKO has
-event_context: null
-responsible_forces: null
-
+event_context: "1981 protests"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

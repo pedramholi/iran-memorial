@@ -1,12 +1,20 @@
 id: sajedi-seyed-hadi-said-1982
 name_latin: "Seyed Hadi (Sa'id) Sajedi"
 name_farsi: "سیدهادی (سعید) ساجدی"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1954-01-01"
+place_of_birth: "Azna, Lorestan"
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "teacher"
+education: "high school graduate"
+family:
+  marital_status: "married"
+  children: 2
+beliefs: "social and guild activist among teachers"
 
 # --- DEATH ---
 date_of_death: 1982-10-04
@@ -85,9 +93,8 @@ circumstances: >
     the National Liberation Army of Iran in 1987, which entered Iranian
     territory a few times during the Iran-Iraq war. They were defeated in July
     1988 during their last operation, the Forugh Javidan Operation.
-event_context: null
-responsible_forces: null
-
+event_context: "1982 detention and killing"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

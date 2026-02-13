@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+occupation: "experienced worker in Benz-e Khavar Company"
+beliefs: "member of Peykar Organization for the Liberation of the Working Class"
+
 # --- DEATH ---
 date_of_death: 1982-01-01
 age_at_death: null
@@ -44,7 +48,7 @@ circumstances: >
     Martyrs of the Peykar Organization, Mr. Ali Khavari was executed by firing
     squad in Tehran during the winter of 1982. No specific information is
     available about the defendant’s execution.
-event_context: null
+event_context: "executed by firing squad in Tehran during the winter of 1982"
 responsible_forces: null
 
 # --- VERIFICATION ---

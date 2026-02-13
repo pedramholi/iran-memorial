@@ -1,12 +1,22 @@
 id: qalehdar-morteza-1983
 name_latin: "Morteza Qal'ehdar"
 name_farsi: "مرتضی قلعه دار"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1953-01-01"
+place_of_birth: "Borujerd, Lorestan"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "member of the Peykar Organization for the Liberation of the Working Class"
+family:
+  marital_status: "married"
+  children: 1
+  notes: "had a daughter"
+personality: "courteous and kind man with a great sense of responsibility"
+quotes:
+  - "My good dear mother, I’m sorry that I was unable to provide for you and could not present you with everything that would make you happy... I only wish you joy and success. I greet my beloved wife and daughter. I wish them health and happiness..."
 
 # --- DEATH ---
 date_of_death: 1983-11-29
@@ -62,9 +72,8 @@ circumstances: >
     could not present you with everything that would make you happy... I only
     wish you joy and success. I greet my beloved wife and daughter. I wish
     them health and happiness...”
-event_context: null
-responsible_forces: null
-
+event_context: "execution on November 29, 1983"
+responsible_forces: "Iranian government"
 # --- VERIFICATION ---
 status: unverified
 sources:

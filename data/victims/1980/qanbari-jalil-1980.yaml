@@ -38,9 +38,8 @@ circumstances: >
     available on the defense of the accused. Judgment The Revolutionary
     Tribunal of Qazvin declared the defendant a corruptor on earth. He was
     executed at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "1980 execution"
+responsible_forces: "Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

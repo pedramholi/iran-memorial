@@ -8,6 +8,11 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "professional drug trafficker"
+quotes:
+  - "a professional drug trafficker"
+
 # --- DEATH ---
 date_of_death: 1985-01-28
 age_at_death: null
@@ -35,8 +40,7 @@ circumstances: >
     Tribunal of Mashad sentenced Mr. Haqi to death. After the sentence was
     confirmed by the Islamic Revolution’s Supreme Court, it was carried out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal of Mashad"
 # --- VERIFICATION ---
 status: unverified
 sources:

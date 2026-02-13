@@ -3,7 +3,7 @@ name_latin: "Marhamatollah Meshkat"
 name_farsi: "مرحمت‌الله مشکات"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -39,8 +39,7 @@ circumstances: >
     Justice Court. He was executed by firing squad in Kazerun. No specific
     information is available about the date of this execution.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

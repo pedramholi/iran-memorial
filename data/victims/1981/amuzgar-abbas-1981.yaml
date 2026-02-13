@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+beliefs: "affiliated with the Mojahedin Khalq Organization"
+
 # --- DEATH ---
 date_of_death: 1981-01-01
 age_at_death: null
@@ -54,9 +57,8 @@ circumstances: >
     against the defendant. Defense No information is available on Mr. Amuzgar
     s defense. Judgment The Central Islamic Revolutionary Tribunal condemned
     Mr. Abbas Amuzgar to death. He was executed in Tehran.
-event_context: null
-responsible_forces: null
-
+event_context: "demonstration of June 20, 1981"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

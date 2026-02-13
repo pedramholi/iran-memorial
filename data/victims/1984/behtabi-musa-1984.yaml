@@ -35,9 +35,8 @@ circumstances: >
     Tribunal of Birjand sentenced Mr. Behtabi to death. Having been confirmed
     by the Supreme Judicial Council, the sentence was carried out by the
     Islamic Revolutionary Committee at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "1984"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

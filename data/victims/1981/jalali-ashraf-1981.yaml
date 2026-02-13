@@ -3,10 +3,14 @@ name_latin: "Ashraf Jalali"
 name_farsi: "اشرف جلالی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "government employee"
+beliefs: "supporter of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-10-05
@@ -65,9 +69,8 @@ circumstances: >
     death for being “rebellious against Islam”, “an enemy of God”, and “a
     corruptor on earth.” The sentence was carried out at dawn in the courtyard
     of the Prison.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

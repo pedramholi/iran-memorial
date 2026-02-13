@@ -37,9 +37,8 @@ circumstances: >
     declared Mr. Hosseinzadeh a “corruptor on earth” and sentenced him to
     death. He and another person were executed in Dizel Abad Prison in
     Kermanshah on September 24, 1979.
-event_context: null
-responsible_forces: null
-
+event_context: "1979"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -8,6 +8,11 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+quotes:
+  - "establishing an international drug-trafficking gang, being actively involved in supplying and distributing narcotics, buying 4300 kg of heroin from eastern Iran and selling it in Tehran, and having contacts with major traffickers on the eastern borderline of Iran."
+  - "in possession of 531 g of heroin when he was arrested, and had a criminal record for supplying and distributing narcotics."
+
 # --- DEATH ---
 date_of_death: 1984-04-08
 age_at_death: null
@@ -42,8 +47,7 @@ circumstances: >
     sentenced Mr. Seyed Hosseini to death. After being confirmed by the
     Supreme Court, the sentence was carried out at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Anti-Narcotics Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,10 +3,14 @@ name_latin: "Abdolkarim Nasimi"
 name_farsi: "عبدالکریم نسیمی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "high school teacher"
+beliefs: "affiliated with various opposition groups"
 
 # --- DEATH ---
 date_of_death: 1982-05-29
@@ -47,9 +51,8 @@ circumstances: >
     available on Mr. Nasimi’s defense. Judgment According to the list of
     Martyrs of the Peykar Organization, Mr. Nasimi was executed by firing
     squad in Esfahan on May 29, 1982.
-event_context: null
-responsible_forces: null
-
+event_context: "executed or killed during clashes with the Islamic Republic security forces from June 1981 to the publication date of the magazine"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

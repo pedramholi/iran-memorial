@@ -1,12 +1,20 @@
 id: afsardir-mojtaba-1985
 name_latin: "Mojtaba Afsardir"
 name_farsi: "مجتبی افسردیر"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1958-01-01"
+place_of_birth: "Abadan"
 gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "student"
+education: "Babolsar University"
+beliefs: "member of the Mojahedin Khalq Organization"
+quotes:
+  - "In the Name of God"
+  - "Due to the favors of God and the wise advice of our respectful Imam about ending the Forest commotion, as well as the continuous efforts and sacrifices of the Islamic Revolution’s Revolutionary Guards, the hellish spidery organization of the hypocrites was destroyed in the verdant forests of Mazandaran. And all the partisans of arrogance were seized by the wrath of the avenging and omnipotent God. Away from their fugitive leaders, the traitors abroad, and their treacherous clamor, all the members were captured by the valiant men of Islam..."
 
 # --- DEATH ---
 date_of_death: 1985-03-10
@@ -58,9 +66,8 @@ circumstances: >
     tribunal which issued the death sentence. The sentenced was confirmed by
     the Supreme Judicial Council. Mr. Mojtana Afsardir was executed by a
     firing squad at dawn on March 10, 1985 in Sari.
-event_context: null
-responsible_forces: null
-
+event_context: "1985 execution"
+responsible_forces: "Intelligence Office of Mazandaran"
 # --- VERIFICATION ---
 status: unverified
 sources:

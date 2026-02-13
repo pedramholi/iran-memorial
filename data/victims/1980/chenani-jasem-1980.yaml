@@ -3,7 +3,7 @@ name_latin: "Jasem Chenani"
 name_farsi: "جاسم چنانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -29,9 +29,8 @@ circumstances: >
     defendant. Defense No information is available on the defendant’s defense.
     Judgment The Islamic Revolutionary Tribunal of Ahvaz found Mr. Chenani and
     guilty of “corruption on earth.” They were executed at 10 a.m.
-event_context: null
-responsible_forces: null
-
+event_context: "1980"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -2,11 +2,22 @@ id: azarian-behnush-1981
 name_latin: "Behnush Azarian"
 name_farsi: "بهنوش آذریان"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Abadan, Khuzestan province"
+gender: female
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "mechanical engineering student"
+education: "mechanical engineering"
+family:
+  marital_status: "single"
+  children: 0
+  notes: "her father sent her to the United States to join her siblings who were students there"
+beliefs: "member of the Fadaiyan Khalq Organization (minority)"
+quotes:
+  - "\"I could not bear to be away from events in Iran.\""
 
 # --- DEATH ---
 date_of_death: 1981-06-21
@@ -86,9 +97,8 @@ circumstances: >
     fiancée were both accused of the same charges. Also the Prosecutor’s
     communiqué states that they were arrested “in relations with the recent
     plo
-event_context: null
-responsible_forces: null
-
+event_context: "June 20, 1981 demonstration"
+responsible_forces: "Islamic Republic’s Central Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

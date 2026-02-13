@@ -43,9 +43,8 @@ circumstances: >
     religious judge of the Special Revolutionary Tribunal and the head of the
     Combat against Drugs and Narcotics sentenced this unnamed individual to
     death. The death sentence was carried out at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "1980 drug smuggling trials"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

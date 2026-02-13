@@ -37,9 +37,8 @@ circumstances: >
     Judgment The Islamic Revolutionary Tribunal of Hamedan found Mr. Mohseni
     guilty of corruption on earth and sentenced him to death. He was executed
     at one a.m.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on June 17, 1980"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

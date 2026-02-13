@@ -4,9 +4,12 @@ name_farsi: "مظفر نیازمند"
 date_of_birth: null
 place_of_birth: null
 gender: male
-ethnicity: null
+ethnicity: "Kurdish"
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "former head of the police department of Sanandaj province"
 
 # --- DEATH ---
 date_of_death: 1979-08-27
@@ -85,9 +88,8 @@ circumstances: >
     According to the same source, one of the defendants was a “sandwich maker,
     [who] belonged to no political party but possessed a handgun.” It appears
     that the gun was used as evidence to prove the “murde
-event_context: null
-responsible_forces: null
-
+event_context: "conflicts in Kurdistan following the Iranian Revolution"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

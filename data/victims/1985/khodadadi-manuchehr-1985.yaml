@@ -3,10 +3,13 @@ name_latin: "Manuchehr Khodadadi"
 name_farsi: "منوچهر خدادادی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of Peykar Organization for the Liberation of the Working Class"
 
 # --- DEATH ---
 date_of_death: 1985-01-01
@@ -41,9 +44,8 @@ circumstances: >
     Khodadadi’s defense. Judgment Mr. Manuchehr Khodadadi was executed in
     November of 1985. No specific information is available about the
     execution.
-event_context: null
-responsible_forces: null
-
+event_context: "executed in November of 1985"
+responsible_forces: "Iranian government"
 # --- VERIFICATION ---
 status: unverified
 sources:

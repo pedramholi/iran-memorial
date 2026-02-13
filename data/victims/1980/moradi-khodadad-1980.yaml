@@ -28,8 +28,7 @@ circumstances: >
     The Islamic Revolutionary Tribunal of Sar e Pol e Zahab sentenced Mr.
     Moradi to death. The sentence was carried out at midnight.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

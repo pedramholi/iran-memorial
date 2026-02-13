@@ -3,7 +3,7 @@ name_latin: "Dadkhoda Sarani"
 name_farsi: "دادخدا سارانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -39,8 +39,7 @@ circumstances: >
     Sistan and Baluchestan sentenced Mr. Sarani to death. Having been
     confirmed by the Supreme Court, the sentence was carried out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolution's Public Prosecutor's Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

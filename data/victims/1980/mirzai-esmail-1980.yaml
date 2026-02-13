@@ -3,7 +3,7 @@ name_latin: "Esma'il Mirza'i"
 name_farsi: "اسماعیل میرزایی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -49,8 +49,7 @@ circumstances: >
     and a “disturber of order and security” and sentenced him to death. The
     sentence was carried out at 6 p.m. on the same day.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

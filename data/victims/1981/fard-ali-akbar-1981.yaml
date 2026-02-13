@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+beliefs: "supporter of the Mojahedin Khalq Organization"
+
 # --- DEATH ---
 date_of_death: 1981-08-16
 age_at_death: null
@@ -86,9 +89,8 @@ circumstances: >
     resulted from this demonstration is unknown but a large number of
     demonstrators were arrested and executed in the following days and weeks.
     The day after the demo
-event_context: null
-responsible_forces: null
-
+event_context: "1981 protests"
+responsible_forces: "Central Islamic Revolutionary Prosecutor's Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

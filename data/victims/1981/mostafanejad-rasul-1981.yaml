@@ -2,11 +2,16 @@ id: mostafanejad-rasul-1981
 name_latin: "Rasul Mostafanejad"
 name_farsi: "رسول مصطفى نژاد"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Tehran"
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "shoe mender"
+education: "elementary education"
+beliefs: "joined the Revolutionary Workers Organization of Iran, Rah-e Kargar in 1979"
 
 # --- DEATH ---
 date_of_death: 1981-01-01
@@ -39,7 +44,7 @@ circumstances: >
     his defense. Judgment No specific information is available about the
     defendant’s execution. Mr. Rasul Mostafanejad was executed by a firing
     squad at Evin Prison in December, 1981.
-event_context: null
+event_context: "executed by a firing squad at Evin Prison in December, 1981"
 responsible_forces: null
 
 # --- VERIFICATION ---

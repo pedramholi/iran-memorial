@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+quotes:
+  - "being a SAVAK [Shah's political police] informant and having illicit sexual relationships with his step daughter"
+
 # --- DEATH ---
 date_of_death: 1979-08-03
 age_at_death: null
@@ -35,8 +39,7 @@ circumstances: >
     the defense. Judgment The Islamic Revolutionary Tribunal of Mahabad
     sentenced Mr. Rahrovi to death. He was executed at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

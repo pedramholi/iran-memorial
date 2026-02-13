@@ -2,11 +2,16 @@ id: saidian-mehdi-1988
 name_latin: "Mehdi Sa'idian"
 name_farsi: "مهدی سعیدیان"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Amol, Mazandaran province"
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "student of electrical engineering"
+family:
+  notes: "had 6 brothers and sisters"
 
 # --- DEATH ---
 date_of_death: 1988-09-28
@@ -82,9 +87,8 @@ circumstances: >
     however, were not returned to them. The bodies were buried in mass graves.
     Authorities warned the families of prisoners against holding memorial
     ceremonies.
-event_context: null
-responsible_forces: null
-
+event_context: "1988 mass killings of political prisoners"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

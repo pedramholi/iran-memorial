@@ -2,11 +2,15 @@ id: nabiollahi-faramarz-1984
 name_latin: "Faramarz Nabiollahi"
 name_farsi: "فرامرز نبی اللهی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Masjed-e Soleyman"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "factory worker"
+beliefs: "sympathizer of the Fadayian Khalq Organization, member of the Revolutionary Workers Organization of Iran-Rah-e Kargar"
 
 # --- DEATH ---
 date_of_death: 1984-01-01
@@ -45,8 +49,7 @@ circumstances: >
     the defendant’s defence. Judgment There is no information regarding this
     defendant’s execution sentence.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

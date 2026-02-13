@@ -30,9 +30,8 @@ circumstances: >
     No information is available on Mr. Heydarian Fakhfuri (Faghfuri)’s
     defense. Judgment There is no information available on the specifics of
     this defendant's judgement.
-event_context: null
-responsible_forces: null
-
+event_context: "executed or killed during clashes with the Islamic Republic security forces from June 1981 to 1985"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,19 @@
 id: daryan-hamideh-manafi-1981
 name_latin: "Hamideh Manafi Daryan"
 name_farsi: "حمیده منافی دریان"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1960-01-01"
+place_of_birth: "Tehran"
+gender: female
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "student"
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
+quotes:
+  - "the Head of the prison, Lajevardi, told him that his daughter had been executed and gave him an envelope containing 150 Tumans."
+  - "that 150 Tumans was his daughter dowry."
 
 # --- DEATH ---
 date_of_death: 1981-01-01
@@ -64,9 +71,8 @@ circumstances: >
     According to the interviewee, the officials forcefully married and raped
     the young girls before their execution on the pretext that a virgin cannot
     be executed. That 150 Tumans was his daughter dowry.
-event_context: null
-responsible_forces: null
-
+event_context: "executed during clashes with the Islamic Republic security forces from June 1981 to the publication date of the magazine."
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

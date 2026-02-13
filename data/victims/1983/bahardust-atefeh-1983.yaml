@@ -2,11 +2,16 @@ id: bahardust-atefeh-1983
 name_latin: "Atefeh Bahardust"
 name_farsi: "عاطفه بهاردوست"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Kermanshah"
 gender: female
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "law student"
+education: "law student"
+beliefs: "sympathizer of the Mojahedin Khalq Organization; member of the pro-Mojahedin Moslem Student Association"
 
 # --- DEATH ---
 date_of_death: 1983-08-03
@@ -45,9 +50,8 @@ circumstances: >
     this execution. According to the web site of the Mojahedin, Ms. Atefeh
     Bahardust and two other persons were hung by towing wire that caused their
     necks to shatter, on August 3, 1983.
-event_context: null
-responsible_forces: null
-
+event_context: "executed on August 3, 1983"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

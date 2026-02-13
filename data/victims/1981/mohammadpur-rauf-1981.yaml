@@ -3,7 +3,7 @@ name_latin: "Ra'uf Mohammadpur"
 name_farsi: "رئوف محمدپور"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
@@ -49,9 +49,8 @@ circumstances: >
     defendant. Defense No information is available on Mr. Mohammadpur s
     defense. Judgment There is no information on the verdict leading to this
     execution.
-event_context: null
-responsible_forces: null
-
+event_context: "executed or killed during clashes with the Islamic Republic security forces from June 1981 to 1985"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

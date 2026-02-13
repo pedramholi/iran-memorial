@@ -2,11 +2,14 @@ id: hambarchian-herach-hamzchian-1980
 name_latin: "Herach Hamzchian (Hambarchian)"
 name_farsi: "هراچ همزچیان (همبرچیان)"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Esfahan"
+gender: male
+ethnicity: "Armenian"
 religion: "Christianity"
 photo: null
+
+# --- LIFE ---
+occupation: "civil engineer"
 
 # --- DEATH ---
 date_of_death: 1980-10-01
@@ -86,7 +89,7 @@ circumstances: >
     (Hambarchian) had been the target of an assassination attempt in his car.
     At that time, he managed to escape with his life Officials Reaction Police
     Station
-event_context: null
+event_context: "extrajudicial killing"
 responsible_forces: null
 
 # --- VERIFICATION ---

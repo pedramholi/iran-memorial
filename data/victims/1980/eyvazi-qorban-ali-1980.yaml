@@ -3,7 +3,7 @@ name_latin: "Qorban Ali Eyvazi"
 name_farsi: "قربانعلی عیوضی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -42,8 +42,7 @@ circumstances: >
     religious judge at the Special Islamic Revolutionary Tribunal for Drugs
     and Narcotics.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

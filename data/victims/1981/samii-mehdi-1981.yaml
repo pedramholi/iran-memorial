@@ -2,11 +2,18 @@ id: samii-mehdi-1981
 name_latin: "Mehdi Sami'i"
 name_farsi: "مهدی سمیعی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Kangavar, Kermanshah"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "teacher"
+education: "graduate of the Tabriz Teacher s College"
+beliefs: "sympathizer of the Fedaiyan Khalq Organization and then joined the Revolutionary Workers Organization of Iran, Rah-e Kargar"
+quotes:
+  - "a leader of the Fedaiyan Khalq Organization (Minority) who had a role in the Kurdistan killings"
 
 # --- DEATH ---
 date_of_death: 1981-08-14
@@ -59,9 +66,8 @@ circumstances: >
     his defence. Judgment No specific information is available about the death
     sentence. According to the above source, Mr. Mehdi Sami'i was executed by
     a firing squad at Evin Prison in September, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "June 20, 1981 demonstrations"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

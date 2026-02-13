@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+beliefs: "leading one of the publicity and military branches of the Mujahedin-e Khalq Organization (MKO) and participation in safe houses"
+
 # --- DEATH ---
 date_of_death: 1982-09-02
 age_at_death: 17
@@ -40,8 +43,7 @@ circumstances: >
     confirmed by the Supreme Judicial Council, the sentence was carried out in
     public.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

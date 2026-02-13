@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
 
+# --- LIFE ---
+occupation: "teacher"
+beliefs: "supporter of the Mojahedin Khalq of Iran Organization"
+
 # --- DEATH ---
 date_of_death: 1983-01-01
 age_at_death: 27
@@ -31,9 +35,8 @@ circumstances: >
     information regarding the evidence provided against the defendant. Defense
     No information is available on Ms. Baqeri's defense. Judgment No specific
     information regarding the death sentence is available.
-event_context: null
-responsible_forces: null
-
+event_context: "executed prisoners listed by the Association of Iranian Women of Köln"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

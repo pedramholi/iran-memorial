@@ -8,6 +8,11 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+family:
+  notes: "sister of Tayebeh Karimollah"
+beliefs: "supporter of the Mojahedin Khalq Organization"
+
 # --- DEATH ---
 date_of_death: 1981-10-07
 age_at_death: null
@@ -86,9 +91,8 @@ circumstances: >
     demonstration protesting their treatment by governmental officials and the
     government officials efforts to impeach their ally, President Abolhassan
     Banisadr. Despite the fact that the regime cal
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Esfahan Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

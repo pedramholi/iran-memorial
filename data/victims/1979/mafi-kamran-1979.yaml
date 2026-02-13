@@ -8,6 +8,12 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "farmer"
+family:
+  children: 7
+  notes: "father of 7"
+
 # --- DEATH ---
 date_of_death: 1979-05-24
 age_at_death: 38
@@ -82,9 +88,8 @@ circumstances: >
     probing into the matter if he wanted to stay alive. All of Mr. Mafi s
     property was confiscated by the Bonyad Mostaz afan (Foundation of the
     Oppressed, a governmental organization) after his execution.
-event_context: null
-responsible_forces: null
-
+event_context: "1979 Iranian Revolution"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

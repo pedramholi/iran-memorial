@@ -3,10 +3,16 @@ name_latin: "Havilush Dabat"
 name_farsi: "هوینوش دبات"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "corruption on earth"
+  - "leading the sabotage operation in the bombings of Sabzab-Andimeshk train and three oil pipelines in Shush"
+  - "illness and mental discomfort"
 
 # --- DEATH ---
 date_of_death: 1980-07-21
@@ -26,8 +32,7 @@ circumstances: >
     then and further investigations were still under way, for judicial
     reasons, his death was kept secret until after the executions."
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

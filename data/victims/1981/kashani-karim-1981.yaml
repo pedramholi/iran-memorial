@@ -31,9 +31,8 @@ circumstances: >
     the Islamic Revolutionary Tribunal of Tabriz, which issued a death
     sentence against him. He was executed at midnight on Wednesday July 15th,
     1981.
-event_context: null
-responsible_forces: null
-
+event_context: "1981"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+family:
+  notes: "son of Nejat"
+
 # --- DEATH ---
 date_of_death: 1980-07-23
 age_at_death: null
@@ -37,9 +41,8 @@ circumstances: >
     is available on the defense. Judgment The religious judge of the
     Anti-Narcotic Islamic Revolutionary Tribunal sentenced Mr. Reza Rahmani to
     death. He was executed early in the morning on Wednesday July 23, 1980.
-event_context: null
-responsible_forces: null
-
+event_context: "1980 execution"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

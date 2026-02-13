@@ -2,9 +2,9 @@ id: khalilzadeh-shamseddin-1983
 name_latin: "Shamseddin Khalilzadeh"
 name_farsi: "شمس الدین خلیلزاده"
 date_of_birth: null
-place_of_birth: null
-gender: null
-ethnicity: null
+place_of_birth: "Kozeresh village, West Azarbaijan province"
+gender: male
+ethnicity: "Mamedi"
 religion: "Presumed Muslim"
 photo: null
 
@@ -33,9 +33,8 @@ circumstances: >
     Defense Mr. Khalilzadeh was not given the opportunity to defend himself in
     a court of law before being killed. Judgment No information is available
     about the sentence leading to this extrajudicial execution.
-event_context: null
-responsible_forces: null
-
+event_context: "extrajudicial execution since the 1979 revolution"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

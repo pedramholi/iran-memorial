@@ -8,6 +8,12 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+occupation: "sympathizer of the Fadayian Khalq Organization, member of the Revolutionary Workers Organization of Iran"
+beliefs: "Marxist-Leninist"
+quotes:
+  - "I have not disclosed my identity or any other secrets of our struggle. My punishment is execution. I will resist until the last moment of my life."
+
 # --- DEATH ---
 date_of_death: 1981-01-01
 age_at_death: null
@@ -46,7 +52,7 @@ circumstances: >
     information is available about the death sentence. According to the above
     source, Mr. Mohammad Seyed Mohsen Damavandi, under a pseudonym, was
     executed by a firing squad in the summer of 1981.
-event_context: null
+event_context: "1981 execution"
 responsible_forces: null
 
 # --- VERIFICATION ---

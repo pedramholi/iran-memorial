@@ -3,8 +3,8 @@ name_latin: "Ja'far Kashkuli"
 name_farsi: "جعفر کشکولی"
 date_of_birth: null
 place_of_birth: null
-gender: null
-ethnicity: null
+gender: male
+ethnicity: "Ashayer"
 religion: "Unknown"
 photo: null
 
@@ -32,9 +32,8 @@ circumstances: >
     not contain information regarding the evidence provided against the
     defendant. Defense No information is available on Mr. Kashkuli s defense.
     Judgment There is no information on the verdict leading to this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "1984-1985"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

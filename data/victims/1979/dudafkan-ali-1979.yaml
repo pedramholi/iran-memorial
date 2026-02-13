@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+quotes:
+  - "six people among the individuals convicted by the Islamic Revolutionary Tribunal of Iran for enticing and sexually abusing minors and earning a living by forcing them into prostitution were shot."
+
 # --- DEATH ---
 date_of_death: 1979-03-07
 age_at_death: null
@@ -41,8 +45,7 @@ circumstances: >
     Iran for enticing and sexually abusing minors and earning a living by
     forcing them into prostitution were shot."
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -2,11 +2,18 @@ id: orumieh-hamid-jalili-1981
 name_latin: "Hamid Jalili Orumieh"
 name_farsi: "حمید جلیلی ارومیه"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Orumieh"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+education: "graduated from the Tehran Polytechnic College"
+beliefs: "member of the Rah-e Kargar Organization"
+quotes:
+  - "His right hand was totally paralyzed due to the use of Dastbande Qapani (a type of handcuff that attaches both hands in the back. The intense pressure usually breaks the shoulder bones. For more severe results, they then hang the prisoner by his hands.) His legs were also injured severely."
+  - "He was denied visitation with his family and access to an attorney."
 
 # --- DEATH ---
 date_of_death: 1981-11-25
@@ -48,9 +55,8 @@ circumstances: >
     available about the defendant’s defence. Judgment No specific information
     is available about the defendant’s execution. Mr. Jalili Orumieh was
     executed by a firing squad in the Evin Prison on January 26, 1982.
-event_context: null
-responsible_forces: null
-
+event_context: "1981-1982 executions"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

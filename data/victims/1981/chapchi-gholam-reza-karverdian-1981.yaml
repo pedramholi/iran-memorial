@@ -2,11 +2,14 @@ id: chapchi-gholam-reza-karverdian-1981
 name_latin: "Gholam Reza Karverdian Chapchi"
 name_farsi: "غلامرضا کاروردیان چاپچی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Tehran"
 gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of Fadaiyan Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-12-04
@@ -46,9 +49,8 @@ circumstances: >
     The Revolutionary Tribunal of Karaj declared Mr. Karverdian Chapchi guilty
     of "corruption on earth", "waging war against God", and "rebelion." He was
     sentenced to death.
-event_context: null
-responsible_forces: null
-
+event_context: "1981"
+responsible_forces: "Revolutionary Tribunal of Karaj"
 # --- VERIFICATION ---
 status: unverified
 sources:

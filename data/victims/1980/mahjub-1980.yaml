@@ -3,7 +3,7 @@ name_latin: "Mahjub"
 name_farsi: "محجوب"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -47,9 +47,8 @@ circumstances: >
     “corruptor on earth” and “at war with God and hid prophet” and condemned
     him to death. He was executed, along with his three codefendants, in Rask
     at 9 p.m. on July 19, 1980.
-event_context: null
-responsible_forces: null
-
+event_context: "1980 execution"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,10 +3,13 @@ name_latin: "Habibollah Eshraqi"
 name_farsi: "حبیب الله اشراقی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "former director of Shir va Khorshid e Sorkh, former head of the Art and Culture Bureau, head of the School of Midwifery"
 
 # --- DEATH ---
 date_of_death: 1979-10-03
@@ -40,8 +43,7 @@ circumstances: >
     against God.” He was condemned to execution and confiscation of property.
     The death sentence was carried out immediately.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

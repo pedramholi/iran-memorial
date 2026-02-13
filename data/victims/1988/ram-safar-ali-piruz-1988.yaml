@@ -3,10 +3,13 @@ name_latin: "Safar Ali Piruz Ram"
 name_farsi: "صفرعلی پیروزرام"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of the Mojahedin"
 
 # --- DEATH ---
 date_of_death: 1988-08-03
@@ -37,9 +40,8 @@ circumstances: >
     available on Mr. Piruzram's defense. Judgment No information is available
     on the judgment or whether an appeal was allowed. No further information
     is available.
-event_context: null
-responsible_forces: null
-
+event_context: "1988-89 mass execution of political prisoners"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

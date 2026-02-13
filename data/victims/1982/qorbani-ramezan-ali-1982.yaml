@@ -3,10 +3,13 @@ name_latin: "Ramezan Ali Qorbani"
 name_farsi: "رمضانعلی قربانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+beliefs: "active member of the Mujahedin-e Khalq Organization (MKO)"
 
 # --- DEATH ---
 date_of_death: 1982-06-30
@@ -85,9 +88,8 @@ circumstances: >
     killed during the mass executions of political prisoners in 1988. Ever
     since the summer of 1981, the MKO has continued its activities outside of
     Iran. No information is available regarding members and activities of th
-event_context: null
-responsible_forces: null
-
+event_context: "1981 protests"
+responsible_forces: "Islamic Revolutionary Tribunal of Mashad"
 # --- VERIFICATION ---
 status: unverified
 sources:

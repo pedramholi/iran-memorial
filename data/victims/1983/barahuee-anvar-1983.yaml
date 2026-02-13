@@ -3,7 +3,7 @@ name_latin: "Anvar Barahuee"
 name_farsi: "انور براهوئی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,9 +38,8 @@ circumstances: >
     Islamic Revolution s Public Prosecutor s Office in Sistan and Baluchestan
     sentenced Mr. Barahuee to death. Having been confirmed by the Supreme
     Court, the sentence was carried out.
-event_context: null
-responsible_forces: null
-
+event_context: "1983"
+responsible_forces: "Islamic Revolution"
 # --- VERIFICATION ---
 status: unverified
 sources:

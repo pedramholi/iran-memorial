@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+quotes:
+  - "the defendant was also sentenced to hand amputation. However, the plaintiffs declared that since he was to be executed, they would forgo hand amputation."
+
 # --- DEATH ---
 date_of_death: 1985-05-21
 age_at_death: null
@@ -41,9 +45,8 @@ circumstances: >
     declared that since he was to be executed, they would forgo hand
     amputation.” Mr. Khaliqi and ten other men were hanged on May 21, 1985 at
     prison of the Police Department of Kerman.
-event_context: null
-responsible_forces: null
-
+event_context: "1985 execution"
+responsible_forces: "Islamic Revolutionary Tribunal of Kerman"
 # --- VERIFICATION ---
 status: unverified
 sources:

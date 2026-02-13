@@ -8,6 +8,15 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+quotes:
+  - "armed robbery from the Kuhpayeh branch of Bank e Melli [National Bank]"
+  - "carrying Kalashnikov guns illegally"
+  - "shooting in the bank and creating terror"
+  - "stealing a Mercedes Benz in Tehran"
+  - "robbery at the Steel Mill terminal"
+  - "buying and selling smuggled goods"
+
 # --- DEATH ---
 date_of_death: 1980-02-02
 age_at_death: 23
@@ -39,8 +48,7 @@ circumstances: >
     declared Mr. Fattahi a “corruptor on earth” and “an enemy of God and his
     prophet” and sentenced him to death.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal of Isfahan"
 # --- VERIFICATION ---
 status: unverified
 sources:

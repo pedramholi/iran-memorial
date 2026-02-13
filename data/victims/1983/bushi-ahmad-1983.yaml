@@ -34,9 +34,8 @@ circumstances: >
     Mr. Bushi to death. Having been confirmed by the Islamic Revolution’s
     Supreme Tribunal of Qom, the sentence was carried out on the anniversary
     of the escape of the former President Banisadr.
-event_context: null
-responsible_forces: null
-
+event_context: "execution in 1983"
+responsible_forces: "Islamic Revolutionary Tribunal of the Army"
 # --- VERIFICATION ---
 status: unverified
 sources:

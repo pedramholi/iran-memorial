@@ -2,11 +2,18 @@ id: ayati-seyed-mohammad-1980
 name_latin: "Seyed Mohammad Ayati"
 name_farsi: "سید محمد آیتی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Esfahan"
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "farmer"
+education: "elementary education"
+family:
+  marital_status: "married"
+  children: 5
 
 # --- DEATH ---
 date_of_death: 1980-06-29
@@ -56,8 +63,7 @@ circumstances: >
     and refused to pay the salary of his son who had been injured and disabled
     during the Iran-Iraq war.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

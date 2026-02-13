@@ -3,10 +3,13 @@ name_latin: "Hosein Abedini"
 name_farsi: "حسین عابدینی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "cab driver"
 
 # --- DEATH ---
 date_of_death: 1980-08-07
@@ -52,9 +55,8 @@ circumstances: >
     Mr. Abedini a “corruptor on earth” and an “enemy of God and his prophet”
     and sentenced him to death. He was executed at 1 a.m., within hours since
     his trial.
-event_context: null
-responsible_forces: null
-
+event_context: "unrealized coup d’etat plan known as Noje"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -35,9 +35,8 @@ circumstances: >
     Defense The report provided no information about the defendant s defense.
     Judgment The Eastern Special Court for Drugs and Narcotics in Mashhad
     sentenced Mr. Maraki to death. He was executed at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "1980"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,10 +3,16 @@ name_latin: "Yar Oveisi"
 name_farsi: "یار اویسی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "worked in the Kermanshah Registration Office, worked for a construction company"
+beliefs: "member of the Tudeh Party"
+quotes:
+  - "his body has been found in a northern city"
 
 # --- DEATH ---
 date_of_death: 1983-01-01
@@ -44,7 +50,7 @@ circumstances: >
     regime's agents informed his family that "his body has been found in a
     northern city." No information is available about the possibility of any
     ruling against the defendant.
-event_context: null
+event_context: "arrested in June 1983"
 responsible_forces: null
 
 # --- VERIFICATION ---

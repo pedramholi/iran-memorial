@@ -3,10 +3,13 @@ name_latin: "Habibollah Heydari"
 name_farsi: "حبیب‌الله حیدری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-08-07
@@ -85,9 +88,8 @@ circumstances: >
     a number of high-ranking officials and supporters of the Islamic regime.
     In the summer of 1981, the leader of the MKO and the impeached President
     (Banisadr) fled Iran to reside in France, where they founded the Na
-event_context: null
-responsible_forces: null
-
+event_context: "1981 protests and repression"
+responsible_forces: "Central Islamic Revolutionary Prosecutor’s Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

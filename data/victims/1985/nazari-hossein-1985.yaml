@@ -8,6 +8,11 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "former police officer"
+quotes:
+  - "was arrested while committing adultery and confessed to all charges at the Islamic Revolutionary Tribunal of Rasht"
+
 # --- DEATH ---
 date_of_death: 1985-10-08
 age_at_death: null
@@ -49,9 +54,8 @@ circumstances: >
     The Supreme Judicial Council approved the verdict. Mr. Nazari was shot by
     a firing squad at the garrison of Basij forces in Rasht in the evening of
     October 8, 1985.
-event_context: null
-responsible_forces: null
-
+event_context: "1985 execution"
+responsible_forces: "Basij"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Mansur Khalilzadeh"
 name_farsi: "منصور خلیل زاده"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -62,9 +62,8 @@ circumstances: >
     being rebellious against Islam , an enemy of God , and a corruptor on
     earth. The sentence was carried out at dawn in the courtyard of the
     Prison.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "General Prosecutor's Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

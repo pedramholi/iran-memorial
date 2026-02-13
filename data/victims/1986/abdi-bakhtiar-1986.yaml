@@ -3,7 +3,7 @@ name_latin: "Bakhtiar Abdi"
 name_farsi: "بختیار عبدی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -37,8 +37,7 @@ circumstances: >
     approved the sentence. He was executed at Gezelhesar prison in the
     presence of the Public Prosecutor of Karaj.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic’s authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

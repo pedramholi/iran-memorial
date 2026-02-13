@@ -1,12 +1,16 @@
 id: erfani-dara-1981
 name_latin: "Dara Erfani"
 name_farsi: "دارا عرفانی"
-date_of_birth: null
+date_of_birth: "1959-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+family:
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-07-13
@@ -85,9 +89,8 @@ circumstances: >
     a number of high-ranking officials and supporters of the Islamic regime.
     In the summer of 1981, the leader of the MKO and the impeached President
     (Banisadr) fled Iran to reside in France, where they founde
-event_context: null
-responsible_forces: null
-
+event_context: "1981 execution"
+responsible_forces: "Langarud Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

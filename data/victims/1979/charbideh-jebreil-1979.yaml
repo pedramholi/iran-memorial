@@ -3,7 +3,7 @@ name_latin: "Jebreil Charbideh"
 name_farsi: "جبرائل  چربیده"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -44,8 +44,7 @@ circumstances: >
     Mr. Charbideh was convicted and sentenced to death. No further information
     is available.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

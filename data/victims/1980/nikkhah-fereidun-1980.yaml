@@ -3,7 +3,7 @@ name_latin: "Fereidun Nikkhah"
 name_farsi: "فریدون نیکخواه"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -36,8 +36,7 @@ circumstances: >
     Revolutionary Tribunal of Hamedan sentenced the five defendants to death.
     Mr. Nikkhah and the other four stood before the firing squad at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

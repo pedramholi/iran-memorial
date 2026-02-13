@@ -1,12 +1,17 @@
 id: manbari-majid-1988
 name_latin: "Majid Manbari"
 name_farsi: "مجید منبری"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1958-04-30"
+place_of_birth: "Tehran"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "high school graduate"
+education: "high school graduate"
+beliefs: "member of the Tudeh Party"
 
 # --- DEATH ---
 date_of_death: 1988-08-27
@@ -85,9 +90,8 @@ circumstances: >
     families reject the claim of the authorities that these prisoners were
     able to engage with the political groups outside Iran. Judgment Mr. Majid
     Manbari was hanged during the mass killings of politic
-event_context: null
-responsible_forces: null
-
+event_context: "1988 mass killings of political prisoners"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

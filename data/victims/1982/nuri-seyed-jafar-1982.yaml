@@ -36,9 +36,8 @@ circumstances: >
     Revolutionary Tribunal of Bakhtaran sentenced Mr. Nuri to death. The
     Supreme Court confirmed the verdict. Mr. Seyed Ja’far Nuri was executed on
     March 31, 1982 in Harsin (Kermanshah province).
-event_context: null
-responsible_forces: null
-
+event_context: "execution on March 31, 1982"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

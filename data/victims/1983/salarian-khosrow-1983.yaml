@@ -8,6 +8,10 @@ ethnicity: null
 religion: null
 photo: null
 
+# --- LIFE ---
+occupation: "Physician"
+beliefs: "MKO"
+
 # --- DEATH ---
 date_of_death: 1983-02-03
 age_at_death: 34
@@ -28,9 +32,8 @@ circumstances: >
     evidence provided against the defendant. Defense No information is
     available on Mr. Salarian’s defense. Judgment There is no information on
     the verdict leading to this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "executed or killed during clashes from June 1981 to 1985"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

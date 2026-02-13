@@ -3,10 +3,13 @@ name_latin: "Firuzeh MalekEftekhari (Malekotojari)"
 name_farsi: "فیروزه ملک‌افتخاری (ملک‌التجاری)"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of the Peykar Organization for the Liberation of the Working Class"
 
 # --- DEATH ---
 date_of_death: 1981-07-29
@@ -63,9 +66,8 @@ circumstances: >
     Islamic regime, a corruptor on earth, and an apostate." She was condemned
     to death. She was executed by a firing squad in Tabriz prison on July 30,
     1981 at 11 p.m.
-event_context: null
-responsible_forces: null
-
+event_context: "executed on July 30, 1981"
+responsible_forces: "Islamic Revolutionary Court of Tabriz"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,9 +1,9 @@
 id: irani-allahbakhsh-1986
 name_latin: "Allahbakhsh Irani"
 name_farsi: "الله بخش ایرانی"
-date_of_birth: null
+date_of_birth: "1965-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -36,8 +36,7 @@ circumstances: >
     verdict. Mr. Irani was hanged at dawn of May 12, 1986 at the police
     station in Meshkin Shahr (today in Ardabil province). He was 21 years old.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic’s authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

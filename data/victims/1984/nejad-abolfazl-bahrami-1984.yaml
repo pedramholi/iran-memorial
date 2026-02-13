@@ -2,11 +2,18 @@ id: nejad-abolfazl-bahrami-1984
 name_latin: "Abolfazl Bahrami Nejad"
 name_farsi: "ابوالفضل بهرامی نژاد"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Ardebil"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "student"
+education: "Technical University of Tehran"
+beliefs: "joined the Tudeh Party"
+quotes:
+  - "one of the charges against him was his authorship of a book called 'A Research on Nature and Metaphysics.'"
 
 # --- DEATH ---
 date_of_death: 1984-02-26
@@ -50,7 +57,7 @@ circumstances: >
     firing squad along with his cousin, Mohammad Bahrami Nejad, and eight
     others who were high ranking members of the military group of the Tudeh
     Party.
-event_context: null
+event_context: "1984-1985"
 responsible_forces: null
 
 # --- VERIFICATION ---

@@ -1,12 +1,18 @@
 id: jamaati-hamid-1981
 name_latin: "Hamid Jama'ati"
 name_farsi: "حمید جماعتی"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1956-01-01"
+place_of_birth: "Tehran"
 gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "student"
+family:
+  marital_status: "single"
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-10-21
@@ -85,9 +91,8 @@ circumstances: >
     impeached President (Banisadr) fled Iran to reside in France, where they
     founded the National Council of Resistance. After the MKO leaders and many
     of its members were expelled from France, they went to Ira
-event_context: null
-responsible_forces: null
-
+event_context: "1981 protests"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

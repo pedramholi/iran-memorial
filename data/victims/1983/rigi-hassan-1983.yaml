@@ -4,7 +4,7 @@ name_farsi: "حسن ریگی"
 date_of_birth: null
 place_of_birth: null
 gender: male
-ethnicity: null
+ethnicity: "Baluch"
 religion: "Presumed Muslim"
 photo: null
 
@@ -38,9 +38,8 @@ circumstances: >
     Revolutionary Tribunal of Sistan and Baluchestan sentenced Mr. Rigi to
     death. Having been confirmed by the Supreme Court, the sentence was
     carried out in the Islamic Revolutionary Committee at 1 a.m.
-event_context: null
-responsible_forces: null
-
+event_context: "execution in 1983"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

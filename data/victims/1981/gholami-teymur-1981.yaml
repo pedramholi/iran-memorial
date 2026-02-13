@@ -3,10 +3,17 @@ name_latin: "Teymur Gholami"
 name_farsi: "تیمور غلامی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+beliefs: "supporter of the Mojahedin Khalq Organization"
+quotes:
+  - "Continuous action towards overthrowing the Islamic Republic, numerous assassinations, arson, possessing firing pins at the time of arrest, and carrying Hypocrites’ leaflets."
+  - "firing pins were recovered from the defendants."
+  - "corruption on earth, waging war on God, and rebellion"
 
 # --- DEATH ---
 date_of_death: 1981-11-04
@@ -86,9 +93,8 @@ circumstances: >
     MKO leaders and many of its members were expelled from France, they went
     to Iraq and founded the National Liberation Army of Iran in 1987, which
     entered Iranian
-event_context: null
-responsible_forces: null
-
+event_context: "1981 political repression"
+responsible_forces: "Islamic Revolutionary Prosecutor’s Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

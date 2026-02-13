@@ -3,7 +3,7 @@ name_latin: "Nejat'ali Salim Abadi"
 name_farsi: "نجاتعلی سلیم آبادی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -36,8 +36,7 @@ circumstances: >
     the death sentence. After being confirmed by the Supreme Judicial Council,
     the sentence was carried out in Bakhtaran’s Dizelabad prison.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic’s authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

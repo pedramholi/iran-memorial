@@ -3,7 +3,7 @@ name_latin: "Seifi Jalali"
 name_farsi: "صیفی جلالی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
@@ -33,9 +33,8 @@ circumstances: >
     No information is available on Mr.Jalali’s defense. Judgment The Islamic
     Revolutionary Tribunal of Mashad sentenced Mr.Jalali to death. The
     sentence was carried out.
-event_context: null
-responsible_forces: null
-
+event_context: "1982 execution"
+responsible_forces: "Islamic Revolutionary Public Prosecutor’s Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Bijar Gomshadpur"
 name_farsi: "بیجار گمشادپور"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -36,9 +36,8 @@ circumstances: >
     Hormozgan sentenced Mr. Gomshadpur to death. Having been confirmed by the
     Islamic Revolution s Supreme Court, the sentence was carried out at dawn
     on December 18, 1983.
-event_context: null
-responsible_forces: null
-
+event_context: "1983"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

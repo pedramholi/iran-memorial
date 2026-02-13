@@ -3,7 +3,7 @@ name_latin: "Pirvali Beiramvand"
 name_farsi: "پیرولی بیرام وند"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -41,8 +41,7 @@ circumstances: >
     talio and physical punishment) as well as article 11 of the Islamic
     Punishment Law.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal of Qom"
 # --- VERIFICATION ---
 status: unverified
 sources:

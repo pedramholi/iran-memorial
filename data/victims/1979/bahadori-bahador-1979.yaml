@@ -3,7 +3,7 @@ name_latin: "Bahador Bahadori"
 name_farsi: "بهادر بهادری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,8 +38,7 @@ circumstances: >
     The defendant was sentenced to death and executed. No other details are
     available.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic’s authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

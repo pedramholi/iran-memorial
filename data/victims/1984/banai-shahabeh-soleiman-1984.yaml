@@ -3,10 +3,14 @@ name_latin: "Shahabeh Soleiman Bana'i"
 name_farsi: "شهابه سلیمان بنائی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "elementary school teacher"
+beliefs: "Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1984-04-07
@@ -29,8 +33,7 @@ circumstances: >
     No information is available on Ms. Soleiman Bana'i's defense. Judgment
     There is no information on the verdict leading to this execution.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

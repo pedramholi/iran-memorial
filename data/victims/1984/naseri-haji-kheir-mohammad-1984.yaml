@@ -3,7 +3,7 @@ name_latin: "Haji Kheir Mohammad Naseri"
 name_farsi: "حاجی خیرمحمد ناصری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -36,8 +36,7 @@ circumstances: >
     Mr. Naseri a corruptor on earth and sentenced him to death. Having been
     confirmed by the Supreme Court, the sentence was carried out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

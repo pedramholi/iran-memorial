@@ -39,8 +39,7 @@ circumstances: >
     Court, the sentence was carried out in the prison of the Police
     Headquarters at night.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

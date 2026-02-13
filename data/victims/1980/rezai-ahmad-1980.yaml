@@ -46,9 +46,8 @@ circumstances: >
     specifies that the sentence included confiscation of property for six of
     the accused. It is not clear whether or not Mr. Rezayi s properties were
     confiscated.
-event_context: null
-responsible_forces: null
-
+event_context: "Shiraz Tribunal"
+responsible_forces: "Revolutionary Guard (Pasdaran)"
 # --- VERIFICATION ---
 status: unverified
 sources:

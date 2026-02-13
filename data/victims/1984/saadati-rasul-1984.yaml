@@ -3,7 +3,7 @@ name_latin: "Rasul Sa'adati"
 name_farsi: "رسول سعادتی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -27,9 +27,8 @@ circumstances: >
     does not contain information regarding the evidence provided against the
     defendant. Defense No information is available on Mr. Sa'adati's defense.
     Judgment There is no information on the verdict leading to this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "executed or killed during clashes with the Islamic Republic security forces from June 1981 to the publication date of the magazine"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -2,11 +2,18 @@ id: rezvani-hassan-1980
 name_latin: "Hassan Rezvani"
 name_farsi: "حسن رضوانی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Varazan, Mazandaran"
 gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "intelligence officer"
+education: "graduate of a military college"
+family:
+  marital_status: "married"
+  children: 5
 
 # --- DEATH ---
 date_of_death: 1980-07-31
@@ -66,9 +73,8 @@ circumstances: >
     birth place. The body of Colonel Hassan Rezvani was taken to Tehran by a
     plane and then to Varazan in Mazandaran by car and buried at the
     Hosseinieh of the village.
-event_context: null
-responsible_forces: null
-
+event_context: "1980"
+responsible_forces: "Tehran-Pars Komiteh"
 # --- VERIFICATION ---
 status: unverified
 sources:

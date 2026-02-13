@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
 
+# --- LIFE ---
+beliefs: "sympathizer of Majahedin Khalq Organization (MKO)"
+
 # --- DEATH ---
 date_of_death: 1979-12-24
 age_at_death: null
@@ -30,9 +33,8 @@ circumstances: >
     about the defendant s execution. According to the MKO website, since the
     Shiraz prison officials refused to execute him, Mr. Hossein Asgari was
     moved to Qom and executed there on December 24, 1979.
-event_context: null
-responsible_forces: null
-
+event_context: "first execution of MKO sympathizers since the advent of the Islamic Republic regime"
+responsible_forces: "Shiraz prison officials"
 # --- VERIFICATION ---
 status: unverified
 sources:

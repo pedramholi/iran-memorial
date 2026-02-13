@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+quotes:
+  - "sodomizing a child"
+
 # --- DEATH ---
 date_of_death: 1982-01-01
 age_at_death: null
@@ -38,8 +42,7 @@ circumstances: >
     in front of the Hezbollah Ummah who were shouting these slogans: Allahu
     Akbar (God is great) and death to America.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

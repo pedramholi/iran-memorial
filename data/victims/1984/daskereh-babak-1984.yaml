@@ -2,11 +2,16 @@ id: daskereh-babak-1984
 name_latin: "Babak Daskereh"
 name_farsi: "بابک دسکره"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Tehran"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "teacher"
+education: "Bachelors Degree"
+beliefs: "sympathizer of the Rah-e Kargar Organization; active in the Independent Teacher’s Association in Tehran"
 
 # --- DEATH ---
 date_of_death: 1984-06-20
@@ -55,9 +60,8 @@ circumstances: >
     called his family to notify them of his death. His family went to the Evin
     Prison; but, officials denied the news for several days, but later
     informed his father of his burial location.
-event_context: null
-responsible_forces: null
-
+event_context: "executed by a firing squad in the Evin Prison on June 20, 1984"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

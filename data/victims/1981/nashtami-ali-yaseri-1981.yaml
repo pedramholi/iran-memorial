@@ -1,12 +1,17 @@
 id: nashtami-ali-yaseri-1981
 name_latin: "Ali Yaseri Nashtami"
 name_farsi: "علی یاسری نشتمی"
-date_of_birth: null
+date_of_birth: "1955-01-01"
 place_of_birth: null
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+beliefs: "affiliated with the Fadaiyan Khalq Organization (Minority branch)"
 
 # --- DEATH ---
 date_of_death: 1981-07-30
@@ -46,9 +51,8 @@ circumstances: >
     Revolutionary Court of Rasht identified Mr. Ali Yaseri Nashtami a “rebel,
     corruptor, and an enemy of God” and condemned him to death. He was shot by
     a firing squad in Rasht on July 30, 1981 at dawn. He was 26 years old.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

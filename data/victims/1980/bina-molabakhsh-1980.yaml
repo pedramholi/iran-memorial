@@ -3,7 +3,7 @@ name_latin: "Molabakhsh Bina"
 name_farsi: "مولابخش بینا"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -39,8 +39,7 @@ circumstances: >
     information about the accused s defense. Judgment Mr. Bina was sentenced
     to death.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Public Prosecutor"
 # --- VERIFICATION ---
 status: unverified
 sources:

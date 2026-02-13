@@ -37,9 +37,8 @@ circumstances: >
     sentenced Mr. Hatefi Majomard to death. The Supreme Judicial Counc
     approved the verdict. He was executed at the prison of the Police
     Department in the presence of some of the plaintiffs on November 3, 1987.
-event_context: null
-responsible_forces: null
-
+event_context: "1987 execution"
+responsible_forces: "Islamic Republic’s authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

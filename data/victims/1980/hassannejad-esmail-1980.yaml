@@ -36,9 +36,8 @@ circumstances: >
     any information regarding the evidence presented against the defendant.
     Defense No information is available on the accused s defense. Judgment
     Based on the report, Mr. Hassannejad was sentenced to death.
-event_context: null
-responsible_forces: null
-
+event_context: "1979 prisoners riot and escape"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

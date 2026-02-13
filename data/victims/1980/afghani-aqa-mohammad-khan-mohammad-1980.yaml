@@ -3,7 +3,7 @@ name_latin: "Aqa Mohammad Khan Mohammad Afghani"
 name_farsi: "آقا محمد خان محمد افغانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -45,8 +45,7 @@ circumstances: >
     essentially corrupt individual and sentenced him to death. He was executed
     at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

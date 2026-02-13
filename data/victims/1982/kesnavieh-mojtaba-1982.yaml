@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+beliefs: "supporting the Hypocrites' organization and being highly and continuously active in the military wing"
+
 # --- DEATH ---
 date_of_death: 1982-04-21
 age_at_death: null
@@ -34,8 +37,7 @@ circumstances: >
     Tribunal of Mashad sentenced Mr. Kesnavieh to death. The sentence, having
     been confirmed by the Supreme Judicial Council, was carried out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal of Mashad"
 # --- VERIFICATION ---
 status: unverified
 sources:

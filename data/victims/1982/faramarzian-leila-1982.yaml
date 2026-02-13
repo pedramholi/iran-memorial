@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+beliefs: "affiliated with the Tudeh Party"
+
 # --- DEATH ---
 date_of_death: 1982-01-01
 age_at_death: null
@@ -38,9 +41,8 @@ circumstances: >
     available concerning the defense. Judgment No specific information is
     available about the verdict leading to this execution. Ms. Leila
     Faramarzian was executed in Ahvaz in 1982.
-event_context: null
-responsible_forces: null
-
+event_context: "1982"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

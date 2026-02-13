@@ -8,6 +8,12 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+occupation: "in charge of the Esfahan Committee of Peykar"
+family:
+  notes: "brother of Mr. Ahmadali Rohani who was executed in Tehran in March of 1982"
+beliefs: "member of Peykar Organization for the Liberation of the Working Class"
+
 # --- DEATH ---
 date_of_death: 1982-01-01
 age_at_death: null
@@ -44,7 +50,7 @@ circumstances: >
     Martyrs of the Peykar Organization, Mr. Jalal Rohani was executed by
     firing squad in March of 1982. No specific information is available about
     the defendant’s execution.
-event_context: null
+event_context: "executed by firing squad in March of 1982"
 responsible_forces: null
 
 # --- VERIFICATION ---

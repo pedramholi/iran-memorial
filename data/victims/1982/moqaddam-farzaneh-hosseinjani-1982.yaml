@@ -36,9 +36,8 @@ circumstances: >
     information is available on Ms. Hoseinjani Moqaddam's defense. Judgment No
     details are available on Ms. Hoseinjani Moqaddam's execution. According to
     existing information, she died under torture on August 5, 1982.
-event_context: null
-responsible_forces: null
-
+event_context: "1982"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

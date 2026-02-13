@@ -1,12 +1,19 @@
 id: khur-hossein-1988
 name_latin: "Hossein Khur"
 name_farsi: "حسین خور"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1961-01-01"
+place_of_birth: "Ramsar, Mazandaran Province"
 gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "fourth-year chemistry student"
+education: "fourth-year chemistry student"
+family:
+quotes:
+  - "they will execute us"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -85,9 +92,8 @@ circumstances: >
     transferred from Qezelhesar prison “to Evin, prior to the Foruq Javidan
     operations. He and 150 other inmates were kept in one cell. In his last
     visit with his sister, he told her ‘they will execute us’ an
-event_context: null
-responsible_forces: null
-
+event_context: "1988-89 mass execution of political prisoners"
+responsible_forces: "Ministry of Intelligence"
 # --- VERIFICATION ---
 status: unverified
 sources:

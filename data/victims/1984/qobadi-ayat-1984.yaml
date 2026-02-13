@@ -36,9 +36,8 @@ circumstances: >
     defense. Judgment Tehran s Islamic Revolutionary Anti-Drug Tribunal
     sentenced Mr. Qobadi to death. The sentence was carried out in Qasr prison
     at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "1984 execution"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

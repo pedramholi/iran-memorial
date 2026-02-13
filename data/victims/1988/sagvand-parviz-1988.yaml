@@ -2,11 +2,14 @@ id: sagvand-parviz-1988
 name_latin: "Parviz Sagvand"
 name_farsi: "پرویز سگوند"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Andimeshk"
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+education: "high school graduate"
 
 # --- DEATH ---
 date_of_death: 1988-08-05
@@ -65,9 +68,8 @@ circumstances: >
     the execution verdict. Mr. Parviz Sagvand was executed by a firing squad
     during the mass killings of political prisoners in Dezful on August 5,
     1988.
-event_context: null
-responsible_forces: null
-
+event_context: "1988-1989 mass execution of political prisoners"
+responsible_forces: "PMOI"
 # --- VERIFICATION ---
 status: unverified
 sources:

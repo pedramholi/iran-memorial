@@ -8,6 +8,11 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
+quotes:
+  - "membership in the hypocrites organization who are enemies of God, armed uprising against the Islamic Republic, causing terror, throwing Molotov cocktails and ‘se rahi’ (kind of explosive) which resulted in arson and destruction, having organizational relationships and being active in the hypocrites organization, membership in the military wing of Esfahan, living in the hiding places of the hypocrites, participation in the attack against the Islamic Republic Party, participation in putting dynamite at the door of a Revolutionary Guard’s house which led to destruction, participation in disarmament of the mobilization forces (Basij) in Mobarakeh."
+
 # --- DEATH ---
 date_of_death: 1982-07-27
 age_at_death: null
@@ -41,9 +46,8 @@ circumstances: >
     Tribunal of Esfahan declared Mr. Panahi “a corruptor on earth, an enemy of
     God and an apostate by nature and sentenced him to death.” Having been
     confirmed by the Supreme Judicial Council, the sentence was carried out.
-event_context: null
-responsible_forces: null
-
+event_context: "executed on July 27, 1982"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

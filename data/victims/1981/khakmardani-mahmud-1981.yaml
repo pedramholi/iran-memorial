@@ -1,12 +1,16 @@
 id: khakmardani-mahmud-1981
 name_latin: "Mahmud Khakmardani"
 name_farsi: "محمود خاکمردانی"
-date_of_birth: null
+date_of_birth: "1951-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "bookseller"
+education: "bachelor’s degree"
 
 # --- DEATH ---
 date_of_death: 1981-01-01
@@ -46,9 +50,8 @@ circumstances: >
     defendant. Defense No information is available on Mr. Khakmardani’s
     defense. Judgment Mr. Khakmardani was executed by firing squad in Tabriz
     in November of 1981. He was 30 years old.
-event_context: null
-responsible_forces: null
-
+event_context: "1981"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

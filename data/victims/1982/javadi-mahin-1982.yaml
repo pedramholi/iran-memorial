@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+beliefs: "membership in the Mujhedin-e Khalq Organization (MKO)"
+
 # --- DEATH ---
 date_of_death: 1982-01-11
 age_at_death: null
@@ -40,8 +43,7 @@ circumstances: >
     to death. The sentence was carried out by several repentants who had
     requested to do the executions at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal of Bandar Abbas"
 # --- VERIFICATION ---
 status: unverified
 sources:

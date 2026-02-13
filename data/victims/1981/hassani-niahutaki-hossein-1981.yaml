@@ -1,12 +1,22 @@
 id: hassani-niahutaki-hossein-1981
 name_latin: "Hossein Hassani-Niahutaki"
 name_farsi: "حسین حسنی نیاهوتکی"
-date_of_birth: null
+date_of_birth: "1959-01-01"
 place_of_birth: null
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "college graduate"
+education: "college graduate"
+family:
+  marital_status: "single"
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
+quotes:
+  - "sympathizing with the deviant and destructive group of Monafeqin [Mojahedin Khalq], practical participation toward the goals of this group, and distribution of its publication."
+  - "those who were annihilated have no right to be buried in the Moslem cemetery because they were apostate."
 
 # --- DEATH ---
 date_of_death: 1981-07-26
@@ -46,9 +56,8 @@ circumstances: >
     Revolutionary Public Prosecution Office in Kerman, “those who were
     annihilated have no right to be buried in the Moslem cemetery because they
     were apostate.” Mr. Hossein Hassani-Niahutaki was 22 years old.
-event_context: null
-responsible_forces: null
-
+event_context: "executed by firing squad in Kerman on July 26, 1981"
+responsible_forces: "Islamic Revolutionary Court of Kerman"
 # --- VERIFICATION ---
 status: unverified
 sources:

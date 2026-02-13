@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+quotes:
+  - "Most of the alleged victims were members of the Mojahedin. However, members of the Tudeh Party, People's Fedaiyan Organization, Rahe Kargar, and Komala Organization and 11 mollahs were also said to be among the alleged victims."
+
 # --- DEATH ---
 date_of_death: 1988-08-13
 age_at_death: 24
@@ -66,9 +70,8 @@ circumstances: >
     conditions the families reject the claim of the authorities that these
     prisoners were able to engage with any political group outside Iran.
     Judgment No sentence was issued publicly.
-event_context: null
-responsible_forces: null
-
+event_context: "1988-89 mass execution of political prisoners"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

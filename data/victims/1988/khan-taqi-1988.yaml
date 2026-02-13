@@ -3,10 +3,16 @@ name_latin: "Taqi Khan"
 name_farsi: "تقی خان"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  children: 3
+beliefs: "member of the Fadaiyan Khalq Organization (Majority branch)"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -86,9 +92,8 @@ circumstances: >
     Republic, states that such claims “are false considering the circumstances
     in prisons; for our children faced most difficult conditions [in prison,
     with] vi
-event_context: null
-responsible_forces: null
-
+event_context: "1988 mass killings of political prisoners"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

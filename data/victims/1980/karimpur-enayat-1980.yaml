@@ -3,7 +3,7 @@ name_latin: "Enayat Karimpur"
 name_farsi: "عنایت کریمپور"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,8 +38,7 @@ circumstances: >
     Islamic Revolutionary Tribunal of Ahvaz sentenced Mr. Karimpur to death,
     and he was executed.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

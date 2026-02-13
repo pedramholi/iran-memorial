@@ -3,10 +3,13 @@ name_latin: "Shahnaz Abdollahi"
 name_farsi: "شهناز عبداللهی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "active cooperation with the Peykar Organization"
 
 # --- DEATH ---
 date_of_death: 1981-10-28
@@ -54,9 +57,8 @@ circumstances: >
     Judgment The Islamic Revolutionary Tribunal of Esfehan called Ms. Shahnaz
     Abdollahi corruptor on earth, at war with God, and a rebel and condemned
     him to death. She was executed in Esfehan on October 28 or 29, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on October 28 or 29, 1981"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

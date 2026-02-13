@@ -2,11 +2,14 @@ id: salehi-iraj-1982
 name_latin: "Iraj Salehi"
 name_farsi: "ایرج صالحی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Farsan, Chahr Mahal o Bakhtiari Province"
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of Nojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1982-07-31
@@ -85,9 +88,8 @@ circumstances: >
     supporters of the Islamic regime. *In the summer of 1981, the leader of
     the MKO and the impeached President (Banisadr) fled Iran to reside in
     France, where they founded the National Council of Resistance
-event_context: null
-responsible_forces: null
-
+event_context: "1981 protests"
+responsible_forces: "Islamic Revolutionary Tribunal of Shahr-e Kord"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "Second Lieutenant"
+
 # --- DEATH ---
 date_of_death: 1979-05-15
 age_at_death: null
@@ -46,8 +49,7 @@ circumstances: >
     defendant was sentenced to death and executed. No further information is
     available.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "SAVAK"
 # --- VERIFICATION ---
 status: unverified
 sources:

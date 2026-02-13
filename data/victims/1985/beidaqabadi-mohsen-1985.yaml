@@ -56,8 +56,7 @@ circumstances: >
     sentence. Having been confirmed by the Supreme Judicial Council, the
     sentence was carried out at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Intelligence Office of Mazandaran"
 # --- VERIFICATION ---
 status: unverified
 sources:

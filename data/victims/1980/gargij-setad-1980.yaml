@@ -3,7 +3,7 @@ name_latin: "Setad Gargij"
 name_farsi: "ستاد گرگیج"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -35,8 +35,7 @@ circumstances: >
     Tomans. Defense No information is available on the accused s defense.
     Judgment Based on the report, Mr. Gargij was sentenced to death.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

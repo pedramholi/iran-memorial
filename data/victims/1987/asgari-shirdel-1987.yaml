@@ -2,11 +2,16 @@ id: asgari-shirdel-1987
 name_latin: "Shirdel Asgari"
 name_farsi: "شیردل عسگری"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Galugah, Mazandaran Province"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "son of Ezzat"
+beliefs: "supporter of the Mojahedin e Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1987-01-01
@@ -85,9 +90,8 @@ circumstances: >
     accepted responsibility for these murders and have even attributed their
     commission to internal strife in opposition groups. Nevertheless, since
     the very inception of the Islamic Republic regime, the Islamic Rep
-event_context: null
-responsible_forces: null
-
+event_context: "extrajudicial killing"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

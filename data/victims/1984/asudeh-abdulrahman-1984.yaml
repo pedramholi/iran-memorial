@@ -3,7 +3,7 @@ name_latin: "Abdulrahman Asudeh"
 name_farsi: "عبدالرحمن آسوده"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -37,9 +37,8 @@ circumstances: >
     defense. Judgment Tehran s Islamic Revolutionary Anti-Drug Tribunal
     sentenced Mr. Asudeh to death. The sentence was carried out in Qasr prison
     at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "1984"
+responsible_forces: "Islamic Revolutionary Anti-Drug Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

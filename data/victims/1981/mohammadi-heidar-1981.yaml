@@ -1,12 +1,18 @@
 id: mohammadi-heidar-1981
 name_latin: "Heidar Mohammadi"
 name_farsi: "حیدر محمدی"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1960-01-01"
+place_of_birth: "Bordestan, Bushehr Province"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "teacher"
+education: "high school graduate"
+family:
+  marital_status: "single"
 
 # --- DEATH ---
 date_of_death: 1981-08-28
@@ -67,9 +73,8 @@ circumstances: >
     Prophet; Baghi (rebel) against the Islamic regime; and condemned him to
     death. The ruling was carried out in Bushehr on Friday August 28, 1981.
     Mr. Mohammadi was 21 years old.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on August 28, 1981"
+responsible_forces: "Islamic Revolutionary Courts of Bushehr"
 # --- VERIFICATION ---
 status: unverified
 sources:

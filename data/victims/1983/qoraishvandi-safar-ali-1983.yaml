@@ -1,12 +1,18 @@
 id: qoraishvandi-safar-ali-1983
 name_latin: "Safar Ali Qoraishvandi"
 name_farsi: "صفرعلی قریشوندی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1950-01-01"
+place_of_birth: "Haftkel, Masjed-e Soleiman"
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "livestock technician"
+family:
+  marital_status: "married"
+beliefs: "sympathizer of the Sarbedaran (Ettehadieh Komonist-ha) group"
 
 # --- DEATH ---
 date_of_death: 1983-12-25
@@ -73,9 +79,8 @@ circumstances: >
     several hours. Mr. Qoraishvandi s house was regularly observed and checked
     by Revolutionary Guards afterwards. His tomb stone was broken many times,
     and the family was denied his benefits from the Agricultural Office.
-event_context: null
-responsible_forces: null
-
+event_context: "Amol clashes"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

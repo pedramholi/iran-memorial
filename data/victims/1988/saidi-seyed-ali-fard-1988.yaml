@@ -2,11 +2,18 @@ id: saidi-seyed-ali-fard-1988
 name_latin: "Seyed Ali Fard Sa'idi"
 name_farsi: "سیدعلی فرد سعیدی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Tehran"
 gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "worked in a business in Tehran Bazar"
+family:
+  marital_status: "married"
+  children: 3
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1988-08-28
@@ -85,7 +92,7 @@ circumstances: >
     prison terms, one which they were either continuing to serve or had
     already completed when they were retried and sentenced to death. Charges
     No charge has been publicly leveled against the victims of t
-event_context: null
+event_context: "1988 massacre"
 responsible_forces: null
 
 # --- VERIFICATION ---

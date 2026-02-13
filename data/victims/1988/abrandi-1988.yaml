@@ -3,10 +3,16 @@ name_latin: "Abrandi"
 name_farsi: "ابرندی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "sympathizer of the Revolutionary Workers Organization of Iran-Rah-e Kargar"
+quotes:
+  - "Trials before Islamic Revolutionary Courts have usually taken place in secret, sometimes inside prisons; defendants have not usually enjoyed the right to be represented by a lawyer, and often have not even been made aware that the proceedings were in fact a trial and not an interrogation session."
+  - "Rah-e Kargar was established in the summer of 1979."
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -45,9 +51,8 @@ circumstances: >
     specific information is available about the defendant’s execution.
     According to the Rah-e Kargar book, Mr. Abrandi was executed by a firing
     squad in the Evin prison in the spring of 1988.
-event_context: null
-responsible_forces: null
-
+event_context: "spring of 1988"
+responsible_forces: "Islamic Revolutionary Courts"
 # --- VERIFICATION ---
 status: unverified
 sources:

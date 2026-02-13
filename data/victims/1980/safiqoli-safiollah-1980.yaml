@@ -3,7 +3,7 @@ name_latin: "Safiollah Safiqoli"
 name_farsi: "صفی اله صفی قلی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -37,9 +37,8 @@ circumstances: >
     information on the accused s defense is available. Judgment The Islamic
     Revolutionary Tribunal of Tonekabon sentenced Mr. Safiqoli to death. He
     was executed immediately.
-event_context: null
-responsible_forces: null
-
+event_context: "1980"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

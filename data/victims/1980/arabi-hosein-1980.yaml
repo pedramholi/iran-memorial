@@ -3,7 +3,7 @@ name_latin: "Hosein A'rabi"
 name_farsi: "حسین اعرابی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -37,9 +37,8 @@ circumstances: >
     A’rabi a “corruptor on earth” and sentenced him to death. The sentence was
     immediately carried out. Based on the report, he had been sentenced to
     life imprisonment in the previous regime.
-event_context: null
-responsible_forces: null
-
+event_context: "1980 execution"
+responsible_forces: "Islamic Republic’s authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

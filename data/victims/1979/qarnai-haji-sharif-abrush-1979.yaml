@@ -3,10 +3,13 @@ name_latin: "Haji Sharif Abrush Qarna'i"
 name_farsi: "حاجی شریف آبروش قارنایی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "farmer"
 
 # --- DEATH ---
 date_of_death: 1979-09-02

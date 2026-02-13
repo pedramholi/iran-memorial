@@ -37,9 +37,8 @@ circumstances: >
     Shah Faramarzi's defense. Judgment The Islamic Revolutionary Tribunal of
     Ilam sentenced Mr. Shah Faramarzi to death. Having been confirmed by the
     Supreme Judicial Council, the sentence was carried out.
-event_context: null
-responsible_forces: null
-
+event_context: "1982 executions"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

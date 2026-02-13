@@ -3,10 +3,13 @@ name_latin: "Mansureh Arabali"
 name_farsi: "منصوره عربعلی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+beliefs: "supporter of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-10-07
@@ -85,9 +88,8 @@ circumstances: >
     Islamic regime. In the summer of 1981, the leader of the MKO and the
     impeached President (Banisadr) fled Iran to reside in France, where they
     founded the National Council of Resistance. After the MKO
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Esfahan Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

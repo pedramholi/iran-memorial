@@ -1,12 +1,16 @@
 id: jarahi-mehdi-1981
 name_latin: "Mehdi Jarahi"
 name_farsi: "مهدی جراحی"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1960-01-01"
+place_of_birth: "Sabzevar"
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "electrical engineering student"
+beliefs: "supporter of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-08-31
@@ -85,9 +89,8 @@ circumstances: >
     the Islamic Republic and assassinated a number of high-ranking officials
     and supporters of the Islamic regime. In the summer of 1981, the leader of
     the MKO and the impeached President (Banisadr) fled Iran
-event_context: null
-responsible_forces: null
-
+event_context: "1981 pro-Banisadr demonstrations"
+responsible_forces: "Sabzevar Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

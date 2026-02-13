@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+occupation: "secretary for the Workers’ Council"
+beliefs: "affiliated with various opposition groups"
+
 # --- DEATH ---
 date_of_death: 1981-01-01
 age_at_death: null
@@ -50,9 +54,8 @@ circumstances: >
     Martyrs of the Peykar Organization, Mr. Farajollah Dashtiani was executed
     by firing squad in Shiraz in 1981. No specific information is available
     about the defendant’s execution.
-event_context: null
-responsible_forces: null
-
+event_context: "executed by firing squad in Shiraz in 1981"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

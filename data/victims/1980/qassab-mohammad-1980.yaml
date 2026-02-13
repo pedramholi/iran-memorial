@@ -45,8 +45,7 @@ circumstances: >
     Center (Tehran) sentenced Mr. Qasab to death. He was executed in the Evin
     prison at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

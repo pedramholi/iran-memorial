@@ -2,11 +2,18 @@ id: alvandpur-parvaneh-1983
 name_latin: "Parvaneh Alvandpur"
 name_farsi: "پروانه الوندپور"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Fuman"
 gender: female
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "high school literature teacher"
+education: "Associate degree"
+family:
+  notes: "daughter of Bahman"
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1983-04-20

@@ -2,8 +2,8 @@ id: salehi-anvar-1981
 name_latin: "Anvar Salehi"
 name_farsi: "انور صالحی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Mahabad, Kordestan"
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -36,9 +36,8 @@ circumstances: >
     Kordestan as "corruptor on earth and enemy of God and of God's Prophet",
     and executed following the confirmation of the verdict by the "Supreme
     Tribunal of the Islamic Revolution". No further information is available.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 clashes with the Islamic Republic security forces"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

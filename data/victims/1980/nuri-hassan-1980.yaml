@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+beliefs: "member of Forqan"
+
 # --- DEATH ---
 date_of_death: 1980-03-03
 age_at_death: null
@@ -47,9 +50,8 @@ circumstances: >
     information is available on the accused s defense. Judgment Mr. Nuri was
     sentenced to death. The sentence was carried out at 1 a.m. in the Evin
     prison courtyard.
-event_context: null
-responsible_forces: null
-
+event_context: "post-revolutionary activity"
+responsible_forces: "Islamic Revolutionary Committee"
 # --- VERIFICATION ---
 status: unverified
 sources:

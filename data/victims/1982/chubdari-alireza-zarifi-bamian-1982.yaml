@@ -2,11 +2,20 @@ id: chubdari-alireza-zarifi-bamian-1982
 name_latin: "Alireza Zarifi Bamian Chubdari"
 name_farsi: "علیرضا ظریفی بامیان چوبدری"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Tehran"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "high school graduate"
+education: "high school graduate"
+family:
+  notes: "visited his mother's residence for a visit"
+beliefs: "sympathizer of the Fadayian Khalq Organization (Minority)"
+quotes:
+  - "her son rolled up his shirt and showed her his back that was black and blue from torture"
 
 # --- DEATH ---
 date_of_death: 1982-01-01
@@ -51,9 +60,8 @@ circumstances: >
     father went to the Khavaran cemetery to find his burial site. A grave
     digger told him that Alireza was buried along with 10 other people
     collectively.
-event_context: null
-responsible_forces: null
-
+event_context: "executed in the Evin prison in the winter of 1982"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

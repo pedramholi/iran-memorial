@@ -3,7 +3,7 @@ name_latin: "Mas'ud Ayazi"
 name_farsi: "مسعود ایاذی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
@@ -56,9 +56,8 @@ circumstances: >
     condemned him to death. The ruling was carried out in the Evin prison yard
     in Tehran on November 3, 1981. No details are available about this
     execution.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

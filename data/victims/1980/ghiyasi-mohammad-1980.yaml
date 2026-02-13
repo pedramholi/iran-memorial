@@ -37,8 +37,7 @@ circumstances: >
     Shirin and Sar e Pol e Zahab found Mr. Ghiyasi guilty of corruption on
     earth. He was executed at 10:30 p.m.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

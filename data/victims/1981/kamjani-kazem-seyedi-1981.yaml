@@ -2,11 +2,15 @@ id: kamjani-kazem-seyedi-1981
 name_latin: "Kazem Seyedi Kamjani"
 name_farsi: "کاظم سیدی کمجانی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Tehran"
 gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "sympathizer of Mojahedin Khalq Organization"
+beliefs: "sympathizer of Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-09-20
@@ -37,9 +41,8 @@ circumstances: >
     contains no evidence provided against the defendant. Defence Mr. Seyedi
     Kamjani never had a chance to defend himself. Judgment No information is
     available about a possible ruling against the defendant.
-event_context: null
-responsible_forces: null
-
+event_context: "executed or killed during clashes with the Islamic Republic security forces from June 20, 1981 to September 6, 1985"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

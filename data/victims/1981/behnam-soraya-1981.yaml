@@ -8,6 +8,13 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+family:
+  notes: "daughter of Yusef"
+beliefs: "sympathizer and member of the Mojahedin Khalq Organization"
+quotes:
+  - "Verily, the hypocrites shall be in the lowest depth of the fire"
+
 # --- DEATH ---
 date_of_death: 1981-12-26
 age_at_death: 17
@@ -45,9 +52,8 @@ circumstances: >
     Baqerzadeh’s defense. Judgment An Islamic Revolutionary tribunal condemned
     Ms. Soraya Behnam Baqerzadeh to death. She and 11 other individuals were
     executed on December 26, 1981 in Mashad.
-event_context: null
-responsible_forces: null
-
+event_context: "executed on December 26, 1981"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

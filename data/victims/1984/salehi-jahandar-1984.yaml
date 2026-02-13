@@ -1,12 +1,16 @@
 id: salehi-jahandar-1984
 name_latin: "Jahandar Salehi"
 name_farsi: "جهاندار صالحی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1992-01-01"
+place_of_birth: "Masjedsoleiman"
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+education: "bachelor’s degree in mathematics"
+beliefs: "member of Peykar Organization for the Liberation of the Working Class"
 
 # --- DEATH ---
 date_of_death: 1984-01-01
@@ -47,7 +51,7 @@ circumstances: >
     According to the list of Martyrs of the Peykar Organization, Mr. Jahandar
     Salehi was executed in 1984 after the second arrest in Tehran. No specific
     information is available about the defendant’s execution.
-event_context: null
+event_context: "1984 execution"
 responsible_forces: null
 
 # --- VERIFICATION ---

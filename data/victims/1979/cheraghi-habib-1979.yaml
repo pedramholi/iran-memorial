@@ -8,6 +8,14 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "peshmerga"
+family:
+  marital_status: "married"
+  children: 3
+personality: "described as honest and a good model for others to live by"
+beliefs: "affiliated with the Democratic Party of Iranian Kurdistan"
+
 # --- DEATH ---
 date_of_death: 1979-08-19
 age_at_death: null
@@ -85,9 +93,8 @@ circumstances: >
     God and his prophet” and condemned them to death ( Kayhan August 21,
     1979). According to Ayatollah Khalkhali, some of the residents of Paveh
     came to him and asked him for amnesty. He repli
-event_context: null
-responsible_forces: null
-
+event_context: "August 1979 executions in Kurdistan"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

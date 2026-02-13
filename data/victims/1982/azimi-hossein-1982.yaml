@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+beliefs: "sympathizer of the Revolutionary Workers Organization of Iran, Rah-e Kargar"
+
 # --- DEATH ---
 date_of_death: 1982-02-04
 age_at_death: null
@@ -35,7 +38,7 @@ circumstances: >
     available about his defense. Judgment No specific information is available
     about the defendant's execution. Mr. Hossein Azimi was executed by a
     firing squad in Tehran on February 4, 1982.
-event_context: null
+event_context: "executed by a firing squad in Tehran on February 4, 1982"
 responsible_forces: null
 
 # --- VERIFICATION ---

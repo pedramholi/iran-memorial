@@ -3,7 +3,7 @@ name_latin: "Ma'sumeh Hozuri"
 name_farsi: "معصومه حضوری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
@@ -31,8 +31,7 @@ circumstances: >
     No information is available on Ms. Hozuri's defense. Judgment No specific
     information regarding the death sentence is available.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

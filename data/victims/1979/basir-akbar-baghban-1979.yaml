@@ -37,9 +37,8 @@ circumstances: >
     people convicted based on trumped-up charges is unknown. Judgment The
     Revolutionary Tribunal of Esfahan sentenced Mr. Baghban Basir to death. He
     was executed by shooting at dawn on 15 July 1979.
-event_context: null
-responsible_forces: null
-
+event_context: "1979 execution"
+responsible_forces: "Revolutionary Tribunal of Esfahan"
 # --- VERIFICATION ---
 status: unverified
 sources:

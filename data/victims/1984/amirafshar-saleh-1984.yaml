@@ -1,12 +1,16 @@
 id: amirafshar-saleh-1984
 name_latin: "Saleh Amirafshar"
 name_farsi: "صالح امیرافشار"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1954-01-07"
+place_of_birth: "Khuzestan"
 gender: male
-ethnicity: null
+ethnicity: "Arab-Iranian"
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "worked at the National Oil Company"
+beliefs: "sympathizer of the Tudeh Party of Iran"
 
 # --- DEATH ---
 date_of_death: 1984-09-15
@@ -69,9 +73,8 @@ circumstances: >
     defended his political party. Judgment No specific information is
     available about Mr. Saleh Amirafshar s execution. According to the
     information sent to Omid , he was executed in Ahvaz in 1984.
-event_context: null
-responsible_forces: null
-
+event_context: "1982 arrest and execution in 1984"
+responsible_forces: "Tudeh Party of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

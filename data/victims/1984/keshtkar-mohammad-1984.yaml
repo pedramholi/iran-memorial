@@ -1,12 +1,17 @@
 id: keshtkar-mohammad-1984
 name_latin: "Mohammad Keshtkar"
 name_farsi: "محمد کشتکار"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1962-03-01"
+place_of_birth: "Shiraz"
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "sophomore student"
+education: "vocational school, majoring in electronics"
+family:
 
 # --- DEATH ---
 date_of_death: 1984-05-23
@@ -67,8 +72,7 @@ circumstances: >
     confirmed this ruling and Mr. Keshtkar was hanged on May 23, 1984.
     According to available information, his body was returned to his family.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Basij"
 # --- VERIFICATION ---
 status: unverified
 sources:

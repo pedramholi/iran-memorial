@@ -3,7 +3,7 @@ name_latin: "Asadollah Moqufe'i"
 name_farsi: "اسدالله موقوفه ای"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,9 +38,8 @@ circumstances: >
     declared Mr. Moqufe’i a “corruptor on earth” and sentenced him to death.
     He and another person were executed in Dizel Abad Prison in Kermanshah on
     September 24, 1979.
-event_context: null
-responsible_forces: null
-
+event_context: "1979"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

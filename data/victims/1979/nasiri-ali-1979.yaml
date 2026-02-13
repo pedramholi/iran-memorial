@@ -37,9 +37,8 @@ circumstances: >
     Defense No information is available on Mr. Nasiri's defense. Judgment Mr.
     Nasiri was convicted and sentenced to death. No further information is
     available.
-event_context: null
-responsible_forces: null
-
+event_context: "execution announced on March 8, 1979"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

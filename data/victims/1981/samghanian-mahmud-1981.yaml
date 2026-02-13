@@ -2,11 +2,18 @@ id: samghanian-mahmud-1981
 name_latin: "Mahmud Samghanian"
 name_farsi: "محمود سمغانیان"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Mashhad"
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "factory worker"
+education: "high school graduate"
+beliefs: "sympathizer of the Fadaiyan Khalq Organization, member of the Revolutionary Workers Organization of Iran, Rah-e Kargar"
+quotes:
+  - "They kept him blindfolded for several weeks. They tortured him many times and hung him by his handcuffs for hours. In the end, they interrogated and tortured him for eight straight hours."
 
 # --- DEATH ---
 date_of_death: 1981-01-01
@@ -45,9 +52,8 @@ circumstances: >
     defense. Judgment No specific information is available about the execution
     sentence. Mr. Mahmud Samghanian was executed by a firing squad in Mashhad
     in late summer of 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "1981"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

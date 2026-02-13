@@ -3,7 +3,7 @@ name_latin: "Hushang Sa'idi"
 name_farsi: "هوشنگ سعیدی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
@@ -24,7 +24,7 @@ circumstances: >
     available concerning Sa’idi’s defense. Judgment No specific information is
     available about the verdict leading to this execution. Mr. Sa’idi was
     executed in 1984.
-event_context: null
+event_context: "1984"
 responsible_forces: null
 
 # --- VERIFICATION ---

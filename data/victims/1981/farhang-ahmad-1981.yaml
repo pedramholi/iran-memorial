@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+beliefs: "member of Mojahedin Khalq Iran"
+
 # --- DEATH ---
 date_of_death: 1981-10-05
 age_at_death: 26
@@ -86,9 +89,8 @@ circumstances: >
     the Prison. *The exclusion of MKO members from government offices and the
     closure of their centers and publishing houses, in conjunction with to the
     Islami
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

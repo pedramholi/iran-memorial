@@ -4,9 +4,12 @@ name_farsi: "خالد فتاحی"
 date_of_birth: null
 place_of_birth: null
 gender: male
-ethnicity: null
+ethnicity: "Kurdish"
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of Democratic Party of Iranian Kordestan"
 
 # --- DEATH ---
 date_of_death: 1982-08-16
@@ -45,9 +48,8 @@ circumstances: >
     Defense No information is available on Mr. Fatahi’s defense. Judgment The
     Islamic Revolutionary Tribunal of Takab sentenced Mr. Fatahi to death. The
     sentence was carried out.
-event_context: null
-responsible_forces: null
-
+event_context: "armed clashes between the Revolutionary Guards and the peshmerga"
+responsible_forces: "Islamic Revolutionary Tribunal of Takab"
 # --- VERIFICATION ---
 status: unverified
 sources:

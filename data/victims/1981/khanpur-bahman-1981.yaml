@@ -1,12 +1,19 @@
 id: khanpur-bahman-1981
 name_latin: "Bahman Khanpur"
 name_farsi: "بهمن خانپور"
-date_of_birth: null
+date_of_birth: "1963-01-01"
 place_of_birth: null
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "high school student"
+education: "high school"
+beliefs: "supporter of the Mojahedin Khalq Organization"
+quotes:
+  - "A day before the presidential election, he, along with a number of his colleagues, attempted to commit an act of destruction and throw Molotov cocktails, but they were confronted by people at the scene. At this point he [Mr. Khanpur] attacked a Muslim with a knife and injured him."
 
 # --- DEATH ---
 date_of_death: 1981-07-20
@@ -86,9 +93,8 @@ circumstances: >
     (Banisadr) fled Iran to reside in France, where they founded the National
     Council of Resistance. After the MKO leaders and many of its members were
     exp
-event_context: null
-responsible_forces: null
-
+event_context: "1981 June protests"
+responsible_forces: "Amol Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

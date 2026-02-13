@@ -3,7 +3,7 @@ name_latin: "Davud Sabri"
 name_farsi: "داوود صبری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
@@ -84,9 +84,8 @@ circumstances: >
     training, were not armed, and did not participate in armed conflict.
     Arrest and detention The circumstances of this defendant’s arrest and
     detention are not known.
-event_context: null
-responsible_forces: null
-
+event_context: "June 20, 1981 demonstration"
+responsible_forces: "Mojahedin Khalq Organization"
 # --- VERIFICATION ---
 status: unverified
 sources:

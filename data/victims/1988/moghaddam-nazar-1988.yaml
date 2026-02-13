@@ -3,7 +3,7 @@ name_latin: "Nazar Moghaddam"
 name_farsi: "نظر مقدم"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -32,9 +32,8 @@ circumstances: >
     available on Mr. Moghaddam's defense. Judgment No information is available
     on the judgment or whether an appeal was allowed. No further information
     is available.
-event_context: null
-responsible_forces: null
-
+event_context: "1988 prison massacres"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

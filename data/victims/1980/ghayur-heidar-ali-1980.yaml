@@ -42,9 +42,8 @@ circumstances: >
     expressed their support for the Islamic Revolutionary Tribunal of Najaf
     Abad and the Revolutionary Guards by demonstrating and issuing a
     declaration.
-event_context: null
-responsible_forces: null
-
+event_context: "July 5, 1980"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

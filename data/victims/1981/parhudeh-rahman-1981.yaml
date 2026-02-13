@@ -8,6 +8,11 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+occupation: "medical student"
+education: "student at Tehran University"
+beliefs: "member of Peykar Organization for the Liberation of the Working Class"
+
 # --- DEATH ---
 date_of_death: 1981-01-01
 age_at_death: null
@@ -45,7 +50,7 @@ circumstances: >
     Judgment According to the list of Martyrs of the Peykar Organization, Mr.
     Parhudeh was executed in 1981. No specific information is available about
     the execution.
-event_context: null
+event_context: "1981"
 responsible_forces: null
 
 # --- VERIFICATION ---

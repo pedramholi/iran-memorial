@@ -2,8 +2,8 @@ id: razi-abou-ali-1983
 name_latin: "Abou Ali Razi"
 name_farsi: "ابو على الرازى"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Jordan"
+gender: male
 ethnicity: null
 religion: null
 photo: null
@@ -85,9 +85,8 @@ circumstances: >
     goals through [Islamic and Arab] governments dependent on it, through
     wicked writers and speakers, and Muslims are just sitting [and doing
     nothing]. Is it not our duty? Do Muslims have no du
-event_context: null
-responsible_forces: null
-
+event_context: "1983 bombing of the American Embassy in Beirut"
+responsible_forces: "Islamic Jihad"
 # --- VERIFICATION ---
 status: unverified
 sources:

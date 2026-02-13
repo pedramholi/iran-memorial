@@ -2,11 +2,14 @@ id: radfar-ali-1981
 name_latin: "Ali Radfar"
 name_farsi: "علی رادفر"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Bojnord"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "affiliated with the Peykar Organization for the Liberation of the Working Class"
 
 # --- DEATH ---
 date_of_death: 1981-11-23
@@ -53,9 +56,8 @@ circumstances: >
     Judgment َThe Islamic Revolutionary Court of Bojnord identified Mr. Ali
     Radfar as "a corruptor on earth, an enemy of God, and a rebel." He was
     condemned to death and executed in Bojnord on November 24, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "executed on November 24, 1981"
+responsible_forces: "Islamic Revolutionary Court of Bojnord"
 # --- VERIFICATION ---
 status: unverified
 sources:

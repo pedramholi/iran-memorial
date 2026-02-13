@@ -37,8 +37,7 @@ circumstances: >
     prisoners in prison at dawn. There is no information regarding the
     tribunal that issued the death sentence.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

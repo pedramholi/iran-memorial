@@ -1,12 +1,19 @@
 id: hamzeluian-ali-1979
 name_latin: "Ali Hamzeluian"
 name_farsi: "علی حمزه لوئیان"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1947-01-01"
+place_of_birth: "Arak"
 gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "officer"
+education: "bachelor's degree"
+family:
+  marital_status: "married"
+  children: 1
 
 # --- DEATH ---
 date_of_death: 1979-06-01
@@ -47,9 +54,8 @@ circumstances: >
     Captain Hamzehluian was condemned to death. He was executed by a firing
     squad on June 1, 1979. His family learned about his execution from the
     news on the radio.
-event_context: null
-responsible_forces: null
-
+event_context: "1980 Amnesty International report"
+responsible_forces: "Savak"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -8,6 +8,13 @@ ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
 
+# --- LIFE ---
+family:
+  marital_status: "married"
+  children: 1
+  notes: "mother of one"
+beliefs: "follower of the Mojahedin Khalq Organization"
+
 # --- DEATH ---
 date_of_death: 1983-05-12
 age_at_death: 23
@@ -43,8 +50,7 @@ circumstances: >
     death. The form mentions that she was executed on May 12, 1983 while the
     Mojahedin List dates her execution as May 18, 1984.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

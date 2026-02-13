@@ -3,10 +3,14 @@ name_latin: "Fazel Badavi Inkehsu"
 name_farsi: "فاضل بدوی اینکه سو"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "son of Jasem, brother of Adel"
 
 # --- DEATH ---
 date_of_death: 1985-01-28
@@ -44,9 +48,8 @@ circumstances: >
     Court approved the verdict. Mr. Fazel Badavi Inkehsu, his brother and 23
     other individuals were hanged at Qasr prison in Tehran on January 28,
     1985.
-event_context: null
-responsible_forces: null
-
+event_context: "1985 execution"
+responsible_forces: "Islamic Revolutionary Prosecution Office to Combat Drugs"
 # --- VERIFICATION ---
 status: unverified
 sources:

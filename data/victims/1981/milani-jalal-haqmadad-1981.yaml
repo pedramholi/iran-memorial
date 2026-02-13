@@ -1,12 +1,19 @@
 id: milani-jalal-haqmadad-1981
 name_latin: "Jalal Haqmadad Milani"
 name_farsi: "جلال حق‌مدد میلانی"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1953-01-01"
+place_of_birth: "Milan, Azarbaijan-e Gharbi"
 gender: male
 ethnicity: null
 religion: null
 photo: null
+
+# --- LIFE ---
+occupation: "teacher"
+education: "bachelor's degree in psychology"
+family:
+  marital_status: "single"
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-09-25
@@ -86,9 +93,8 @@ circumstances: >
     Revolutionary Court condemned Mr. Jalal Haqmadad-Milani to death. The
     ruling was carried out on September 25, 1981, and he was executed by
     firing
-event_context: null
-responsible_forces: null
-
+event_context: "Mojahedin demonstration for defending President Banisadr"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

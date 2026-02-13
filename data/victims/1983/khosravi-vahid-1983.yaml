@@ -1,12 +1,18 @@
 id: khosravi-vahid-1983
 name_latin: "Vahid Khosravi"
 name_farsi: "وحید خسروی"
-date_of_birth: null
+date_of_birth: "1961-01-01"
 place_of_birth: null
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "active member of the Peykar Organization"
+beliefs: "Marxism"
+quotes:
+  - "Mr. Vahid Khosravi defended his organization and Marxism in the court."
 
 # --- DEATH ---
 date_of_death: 1983-08-13
@@ -63,9 +69,8 @@ circumstances: >
     August 13, 1983 whereas Mojahed Magazine has reported the date of
     execution on August 07. No detailed information is available concerning
     this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "executed in the Evin prison on August 13, 1983"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

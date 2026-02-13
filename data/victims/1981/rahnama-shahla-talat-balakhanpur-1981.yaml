@@ -8,6 +8,13 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+occupation: "obstetric student"
+beliefs: "active in the student movement; joined the Rah-e Kargar Organization"
+quotes:
+  - "Rah-e Kargar"
+  - "Revolutionary Workers Organization of Iran"
+
 # --- DEATH ---
 date_of_death: 1981-06-21
 age_at_death: 31
@@ -68,9 +75,8 @@ circumstances: >
     her defense. Judgment No specific information is available about the
     defendant’s execution. According to the above book, Ms. Shahla Balakhanpur
     was executed by a firing squad at Evin Prison on June 21, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "demonstration of June 20, 1981"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

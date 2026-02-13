@@ -3,10 +3,20 @@ name_latin: "Hushang Ajdari Moqadam"
 name_farsi: "هوشنگ اژدری مقدم"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "civil engineer"
+education: "civil engineering"
+family:
+  marital_status: "married"
+  children: 1
+personality: "believed in social justice and equality"
+quotes:
+  - "He was executed without charge. He was at the wrong place at wrong time."
 
 # --- DEATH ---
 date_of_death: 1981-09-29
@@ -38,9 +48,8 @@ circumstances: >
     wrong place at wrong time.” Judgment There is no information on the
     verdict leading to this execution. Mr. Ajdari Moqadam was shot by firing
     squad on September 29, 1981 in Tehran.
-event_context: null
-responsible_forces: null
-
+event_context: "Revolution of 1979"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

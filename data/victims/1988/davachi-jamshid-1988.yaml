@@ -2,11 +2,14 @@ id: davachi-jamshid-1988
 name_latin: "Jamshid Davachi"
 name_farsi: "جمشید دواچی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Tehran"
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "infrastructure engineer"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -74,9 +77,8 @@ circumstances: >
     in the victims’ belongings to their families. The bodies, however, were
     not returned to them. The bodies were buried in mass graves. Authorities
     warned the families of prisoners against holding memorial ceremonies.
-event_context: null
-responsible_forces: null
-
+event_context: "1988-89 mass execution of political prisoners"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

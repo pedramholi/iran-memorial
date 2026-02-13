@@ -1,12 +1,16 @@
 id: sedaqatpur-abbas-1981
 name_latin: "Abbas Sedaqatpur"
 name_farsi: "عباس صداقت پور"
-date_of_birth: null
+date_of_birth: "1959-01-01"
 place_of_birth: null
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+family:
+beliefs: "supporter of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-08-18
@@ -85,9 +89,8 @@ circumstances: >
     sympathizers regularly during demonstrations and while distributing
     publications, leading to the death of several MKO supporters. OnJune 20,
     1981, the MKO called for a demon
-event_context: null
-responsible_forces: null
-
+event_context: "1981 August executions"
+responsible_forces: "Qom Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

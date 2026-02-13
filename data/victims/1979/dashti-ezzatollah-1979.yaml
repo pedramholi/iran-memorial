@@ -2,11 +2,17 @@ id: dashti-ezzatollah-1979
 name_latin: "Ezzatollah Dashti"
 name_farsi: "عزت الله دشتی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Anuj village, Malayer, Hamedan Province"
 gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "lieutenant in the police force"
+family:
+  children: 4
+  notes: "2 daughters and 2 sons"
 
 # --- DEATH ---
 date_of_death: 1979-04-10
@@ -50,9 +56,8 @@ circumstances: >
     April 1979 in the Central Prison of Borujerd by a fire squad. The next
     day, Kayhan published a picture of Mr. Dashti, tied up to an execution
     pole and blindfolded.
-event_context: null
-responsible_forces: null
-
+event_context: "1979 Iranian Revolution"
+responsible_forces: "Revolutionary Tribunal of Borujerd"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -8,6 +8,11 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+beliefs: "sympathizer of the Peykar Organization"
+quotes:
+  - "armed uprising against the Islamic Republic, distribution of announcements and publication for the Peykar Organization, apostate, and frequenting the organization's houses"
+
 # --- DEATH ---
 date_of_death: 1981-11-09
 age_at_death: null
@@ -55,9 +60,8 @@ circumstances: >
     Judgment َThe Islamic Revolutionary Court of Tabriz condemned Mr. Naser
     Ruzpeykar to death. The ruling was carried out in Tabriz on November 9 or
     10, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "executions in 1981"
+responsible_forces: "Islamic Revolutionary Court of Tabriz"
 # --- VERIFICATION ---
 status: unverified
 sources:

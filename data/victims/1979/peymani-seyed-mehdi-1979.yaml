@@ -38,9 +38,8 @@ circumstances: >
     available on the defense. Judgment The Islamic Revolutionary Tribunal of
     Shiraz declared Mr. Peymani a “corruptor on earth” and sentenced him to
     death. He was executed at dawn on 20 September 1979 in Shiraz.
-event_context: null
-responsible_forces: null
-
+event_context: "1979"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

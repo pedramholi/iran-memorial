@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Unknown"
 photo: null
 
+# --- LIFE ---
+beliefs: "highly and continuously active in the military-political wing of the Hypocrites organization"
+
 # --- DEATH ---
 date_of_death: 1982-05-01
 age_at_death: null
@@ -39,9 +42,8 @@ circumstances: >
     information is available on Mr. Qesmati Khorasani s defense. Judgment The
     Islamic Revolutionary Tribunal of Mashad sentenced Mr. Qesmati Khorasani
     to death. The sentence was carried out.
-event_context: null
-responsible_forces: null
-
+event_context: "executed along with 10 others on May 3, 1982"
+responsible_forces: "Islamic Revolutionary Tribunal of Mashad"
 # --- VERIFICATION ---
 status: unverified
 sources:

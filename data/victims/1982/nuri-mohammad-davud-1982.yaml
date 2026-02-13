@@ -1,12 +1,19 @@
 id: nuri-mohammad-davud-1982
 name_latin: "Mohammad Davud Nuri"
 name_farsi: "محمد داوود نوری"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1960-01-01"
+place_of_birth: "Arak"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "medical student"
+beliefs: "sympathizer of the Fadaiyan Khalq Organization (Minority branch)"
+quotes:
+  - "being anti-revolutionary, cooperation with the Communist Minority Organization, and distribution of the newspaper of this Organization"
+  - "a member of the Central Committee of the Fadaiyan Khalq Guerilla Organization (Minority branch) that is at war with God"
 
 # --- DEATH ---
 date_of_death: 1982-10-26
@@ -57,9 +64,8 @@ circumstances: >
     to death. The Supreme Court approved this ruling. Mr. Nuri, along with ten
     other individuals, were shot by a firing squad on the mountains near Arak
     on October, 26, 1982 at 4 a.m.
-event_context: null
-responsible_forces: null
-
+event_context: "1982 execution"
+responsible_forces: "Islamic Revolutionary Tribunal of Arak"
 # --- VERIFICATION ---
 status: unverified
 sources:

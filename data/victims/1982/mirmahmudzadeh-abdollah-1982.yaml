@@ -35,8 +35,7 @@ circumstances: >
     of Mashad sentenced Mr.Mirmahmudzadeh to death. The sentence was carried
     out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Public Prosecutor’s Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

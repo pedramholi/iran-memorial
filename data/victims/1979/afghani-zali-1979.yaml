@@ -3,10 +3,13 @@ name_latin: "Zali Afghani"
 name_farsi: "زالی افغانی (گلزار)"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "laborer"
 
 # --- DEATH ---
 date_of_death: 1979-03-05
@@ -47,9 +50,8 @@ circumstances: >
     Judgment The Islamic Revolutionary Tribunal of Shiraz condemned Mr. Zali
     Afghani to death. He was executed by a firing squad, along with his two
     co-defendants, at the Darolrahma cemetery in Shiraz.
-event_context: null
-responsible_forces: null
-
+event_context: "March 13, 1980 Amnesty International report"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

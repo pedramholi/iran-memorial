@@ -2,11 +2,14 @@ id: mohammadi-shahin-tabe-1984
 name_latin: "Shahin Tabe' Mohammadi"
 name_farsi: "شاهین تابع محمدی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Shiraz"
 gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1984-05-22
@@ -38,9 +41,8 @@ circumstances: >
     available on Mr. Tabe’ Mohammadi’s defense. Judgment No specific
     information is available about the verdict leading to this execution. Mr.
     Shahin Tabe’ Mohammadi was hanged in Shiraz on May 22, 1984
-event_context: null
-responsible_forces: null
-
+event_context: "1984-1985"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

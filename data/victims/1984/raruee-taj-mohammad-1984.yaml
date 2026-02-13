@@ -3,7 +3,7 @@ name_latin: "Taj Mohammad Raruee"
 name_farsi: "تاج محمد راروئی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,8 +38,7 @@ circumstances: >
     Mashad sentenced Mr. Raruee to death. Having been confirmed by the Islamic
     Revolution s Supreme Court, the sentence was carried out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

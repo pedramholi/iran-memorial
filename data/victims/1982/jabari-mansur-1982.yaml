@@ -1,12 +1,17 @@
 id: jabari-mansur-1982
 name_latin: "Mansur Jabari"
 name_farsi: "منصور جابری"
-date_of_birth: null
+date_of_birth: "1947-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: null
 photo: null
+
+# --- LIFE ---
+occupation: "engineer"
+education: "engineering degree"
+beliefs: "sympathizer of the Fadaiyan Organization"
 
 # --- DEATH ---
 date_of_death: 1982-01-01
@@ -41,9 +46,8 @@ circumstances: >
     executed in May of 1982. Based on Bidaran website, he was executed on May
     18, 1982. However, Fadaiyan Minority Organization, Dialogt, and Makunews
     blog reported an execution date of fall 1982.
-event_context: null
-responsible_forces: null
-
+event_context: "execution in May of 1982"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

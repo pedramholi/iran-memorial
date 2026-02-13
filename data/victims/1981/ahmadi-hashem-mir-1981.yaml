@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+quotes:
+  - "participation in creating a drug trafficking band and selling 4 kilogram of heroin"
+
 # --- DEATH ---
 date_of_death: 1981-07-05
 age_at_death: null
@@ -36,8 +40,7 @@ circumstances: >
     Tribunal of Kerman declared Mr. Mirahmadi a "corruptor on earth." The
     death sentence was carried out at 6:00 am.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

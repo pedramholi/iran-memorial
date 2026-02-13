@@ -32,9 +32,8 @@ circumstances: >
     available on Mr. Keyvani's defense. Judgment No information is available
     on the judgment or whether an appeal was allowed. Mr. Keyvani was executed
     in October, 1988.
-event_context: null
-responsible_forces: null
-
+event_context: "1988 prison massacres"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

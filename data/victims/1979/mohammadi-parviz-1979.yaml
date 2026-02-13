@@ -1,12 +1,17 @@
 id: mohammadi-parviz-1979
 name_latin: "Parviz Mohammadi"
 name_farsi: "پرویز محمدی"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1937-01-01"
+place_of_birth: "Behbud, Zanjan"
 gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "Deputy Chief of Borujerd SAVAK"
+family:
+  marital_status: "married"
 
 # --- DEATH ---
 date_of_death: 1979-05-31
@@ -50,9 +55,8 @@ circumstances: >
     execution. According to the Kayhan newspaper, the court condemned Mr.
     Parviz Mohammadi to death, and the ruling was carried out at the police
     station yard in Borujerd on May 31, 1979.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on May 31, 1979"
+responsible_forces: "Borujerd Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

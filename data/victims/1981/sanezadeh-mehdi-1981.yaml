@@ -8,6 +8,14 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+occupation: "mechanical engineer"
+education: "graduate of the Tehran University of Technology and Science"
+family:
+  marital_status: "married"
+  children: 1
+beliefs: "affiliated with the Mojahedin Khalq Organization"
+
 # --- DEATH ---
 date_of_death: 1981-08-06
 age_at_death: 32
@@ -85,9 +93,8 @@ circumstances: >
     MKO leaders and many of its members were expelled from France, they went
     to Iraq and founded the National Liberation Army of Iran in 1987, which
     entered Iranian territory a few times during the
-event_context: null
-responsible_forces: null
-
+event_context: "1981 protests"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -2,11 +2,21 @@ id: ezzati-bahman-1979
 name_latin: "Bahman Ezzati"
 name_farsi: "بهمن عزتی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Kordestan"
 gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "high school teacher"
+education: "master's degree in Literature"
+beliefs: "member of the Kurdish Democratic Party of Iran (PDKI)"
+quotes:
+  - "I will visit all areas of Kurdistan and will bring to justice anybody who was involved in these bloody plots"
+  - "I request the families to look after their children and watch for any anti-Revolutionary behavior or activity. [I also ask them] not to follow up with the cases of their children and let the Revolutionary Tribunals carry out their functions"
+  - "all the executed individuals confessed during the interrogation that they had participated in the armed invasion of Paveh"
+  - "Mr. Bahman Ezzati defended his beliefs until his last breath."
 
 # --- DEATH ---
 date_of_death: 1979-08-21
@@ -86,9 +96,8 @@ circumstances: >
     Ayatollah Khalkhali s writings, Mr. Bahman Ezzati defended his beliefs
     until his last breath ( Times of Solitude p. 96). Judgment Ayatollah
     Khalkhali conde
-event_context: null
-responsible_forces: null
-
+event_context: "August 1979 executions"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

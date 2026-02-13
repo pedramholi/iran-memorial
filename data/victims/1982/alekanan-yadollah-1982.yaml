@@ -28,9 +28,8 @@ circumstances: >
     against the defendant. Defense No information is available on Mr.
     Alekan'an's defense. Judgment Mr. Yadollah Alekan'an was executed on
     August 24, 1982.
-event_context: null
-responsible_forces: null
-
+event_context: "executed on August 24, 1982"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

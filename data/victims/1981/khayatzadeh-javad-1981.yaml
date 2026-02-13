@@ -2,11 +2,15 @@ id: khayatzadeh-javad-1981
 name_latin: "Javad Khayatzadeh"
 name_farsi: "جواد خیاط زاده"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Azarshahr, East Azarbaijan"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "active in the Logistic Section of the Peykar Organization"
+beliefs: "member of the Peykar Organization for the Liberation of the Working Class"
 
 # --- DEATH ---
 date_of_death: 1981-07-29
@@ -67,9 +71,8 @@ circumstances: >
     regime, corruptor on earth, and apostate.” He was condemned to death. The
     ruling was carried out and he was executed by a firing squad in the Tabriz
     prison yard on July 29, 1981 at 11 pm.
-event_context: null
-responsible_forces: null
-
+event_context: "executed on July 29, 1981"
+responsible_forces: "Islamic Revolutionary Court of Tabriz"
 # --- VERIFICATION ---
 status: unverified
 sources:

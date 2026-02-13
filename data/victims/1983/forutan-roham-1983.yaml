@@ -3,7 +3,7 @@ name_latin: "Roham Forutan"
 name_farsi: "روحام فروتن"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -36,8 +36,7 @@ circumstances: >
     Hormozgan sentenced Mr. Forutan to death. Having been confirmed by the
     Islamic Revolutionary Supreme Court, the sentence was carried out at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

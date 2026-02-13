@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "garage owner"
+
 # --- DEATH ---
 date_of_death: 1979-07-03
 age_at_death: null
@@ -76,9 +79,8 @@ circumstances: >
     of July 13, 1979, at 9:30 p.m. The court condemned him to 100 lashes and
     death. According to the newspaper report, the ruling was carried out one
     hour later, and he was executed by firing squad.
-event_context: null
-responsible_forces: null
-
+event_context: "1979"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

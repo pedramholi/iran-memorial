@@ -2,11 +2,17 @@ id: mai-khosro-1981
 name_latin: "Khosro Ma'i"
 name_farsi: "خسرو مائی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Sanandaj"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "member of the Fadayian Khalq of Iran Organization"
+beliefs: "member of the Fadayian Khalq Guerrilla Organization"
+quotes:
+  - "being a member of the People's Fedayin Minority, participation in armed clashes, throwing a hand grenade to the house of a Muslim in Sanandaj and being in charge of the security for the anti-Islamic Republic demonstrations."
 
 # --- DEATH ---
 date_of_death: 1981-07-12
@@ -45,8 +51,7 @@ circumstances: >
     the verdict by the Supreme Judicial Council. No further information is
     available.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Revolutionary Tribunal of Kordestan"
 # --- VERIFICATION ---
 status: unverified
 sources:

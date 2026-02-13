@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
 
+# --- LIFE ---
+beliefs: "active sympathizing with the Monafeqin; participation in the clashes of Shahriar; financial assistance to the People’s Mujahedin"
+
 # --- DEATH ---
 date_of_death: 1981-10-06
 age_at_death: 21
@@ -35,9 +38,8 @@ circumstances: >
     information about the accused's defense. Judgment The Revolutionary
     Tribunal of Karaj declared Mr. Hoseini an "enemy of God and his prophet"
     and a "rebel against the Islamic state." He was sentenced to death.
-event_context: null
-responsible_forces: null
-
+event_context: "clashes of Shahriar, in particular the clash of 31/3/1360 [June 20, 1981]"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

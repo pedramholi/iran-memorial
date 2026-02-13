@@ -1,12 +1,18 @@
 id: nikbakht-giti-1981
 name_latin: "Giti Nikbakht"
 name_farsi: "گیتی نیک بخت"
-date_of_birth: null
+date_of_birth: "1957-01-01"
 place_of_birth: null
 gender: female
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  notes: "pregnant"
+beliefs: "supporter of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-10-07
@@ -86,9 +92,8 @@ circumstances: >
     officials and the government officials’ efforts to impeach their ally,
     President Abolhassan Banisadr. Despite the fact that the regime called
     this demon
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Islamic Revolutionary Prosecutor General’s Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

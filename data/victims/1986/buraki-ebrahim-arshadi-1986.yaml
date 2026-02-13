@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+quotes:
+  - "Mr. Arshadi Buraki was innocent."
+
 # --- DEATH ---
 date_of_death: 1986-11-21
 age_at_death: null
@@ -47,9 +51,8 @@ circumstances: >
     Judicial Council confirmed the sentence. He was hanged in public after the
     Friday prayer of November 21, 1986, in a city in Fars Province. (Kayhan
     Newspaper)
-event_context: null
-responsible_forces: null
-
+event_context: "1986 execution"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

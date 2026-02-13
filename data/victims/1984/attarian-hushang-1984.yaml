@@ -1,12 +1,20 @@
 id: attarian-hushang-1984
 name_latin: "Hushang Attarian"
 name_farsi: "هوشنگ عطاریان"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1941-01-01"
+place_of_birth: "Hamadan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "colonel in the army"
+family:
+  marital_status: "married"
+  children: 4
+quotes:
+  - "Today afternoon, Colonel Attarian recaptured the city of Qasr-e Shirin, destroyed 80 enemy tanks in the west front, and our forces regained possession of a television and radio station."
 
 # --- DEATH ---
 date_of_death: 1984-02-25
@@ -43,7 +51,7 @@ circumstances: >
     different political ideology. Judgment Colonel Attarian was executed on
     February 25, 1984 at the western front. His body was never released to his
     family.
-event_context: null
+event_context: "Iran-Iraq war"
 responsible_forces: null
 
 # --- VERIFICATION ---

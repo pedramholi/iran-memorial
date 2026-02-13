@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
 
+# --- LIFE ---
+beliefs: "supporter of the Mojahedin Khalq of Iran Organization"
+
 # --- DEATH ---
 date_of_death: 1981-11-28
 age_at_death: 20
@@ -30,9 +33,8 @@ circumstances: >
     Defense No information is available on Mr. Haqani’s defense. Judgment
     There is no information available on the specifics of this defendant's
     judgement.
-event_context: null
-responsible_forces: null
-
+event_context: "executed or killed during clashes with the Islamic Republic security forces from June 1981 to 1985"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

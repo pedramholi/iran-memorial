@@ -2,7 +2,7 @@ id: khamoori-fatemeh-1980
 name_latin: "Fatemeh Khamoori"
 name_farsi: "فاطمه خموری"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Shiraz"
 gender: female
 ethnicity: null
 religion: "Presumed Muslim"
@@ -34,9 +34,8 @@ circumstances: >
     defendant. Defense No information on the accused s defense is available.
     Judgment The Special Islamic Revolutionary Tribunal declared Ms. Khamoori
     a corruptor on earth and sentenced her to death. She was executed at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "1980"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

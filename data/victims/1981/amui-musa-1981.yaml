@@ -1,12 +1,16 @@
 id: amui-musa-1981
 name_latin: "Musa Amu'i"
 name_farsi: "موسی عموئی"
-date_of_birth: null
+date_of_birth: "1963-01-01"
 place_of_birth: null
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+family:
+beliefs: "supporter of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-08-16
@@ -85,9 +89,8 @@ circumstances: >
     Revolutionary Guardsmen and Hezbollahis. The number of casualties that
     resulted from this demonstration is unknown but a large number of
     demonstrators were arrested and executed in the following days and wee
-event_context: null
-responsible_forces: null
-
+event_context: "1981 protests"
+responsible_forces: "Central Islamic Revolutionary Prosecutor's Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

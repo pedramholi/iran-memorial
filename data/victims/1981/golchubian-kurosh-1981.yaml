@@ -1,12 +1,17 @@
 id: golchubian-kurosh-1981
 name_latin: "Kurosh Golchubian"
 name_farsi: "کورش گلچوبیان"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1962-01-01"
+place_of_birth: "Mazandaran"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "worked with the Students Sympathizers of the Fadaiyan Khalq (Pishgam)"
+education: "high school graduate"
+beliefs: "Mojahedin Khalq Iran"
 
 # --- DEATH ---
 date_of_death: 1981-10-22
@@ -47,9 +52,8 @@ circumstances: >
     information is available about the execution sentence. According to the
     above source, Mr. Kurosh Golchubian was executed by a firing squad on the
     same day he was arrested (October 22, 1981).
-event_context: null
-responsible_forces: null
-
+event_context: "1981"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -8,6 +8,11 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+beliefs: "sympathizer of the Revolutionary Workers Organization of Iran, Rah-e Kargar"
+quotes:
+  - "Rah-e Kargar or the Revolutionary Workers Organization of Iran was established in the summer of 1979."
+
 # --- DEATH ---
 date_of_death: 1981-09-30
 age_at_death: null
@@ -60,9 +65,8 @@ circumstances: >
     Office, the Central Islamic Revolutionary Tribunal condemned Mr. Ali
     Asghar Ebrahimzadeh to death as a “religious ruling.” He was executed by a
     firing squad at Evin prison on September 30, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "executed by a firing squad at Evin prison on September 30, 1981"
+responsible_forces: "Central Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,23 @@
 id: panahi-ahmad-danesh-shariat-1988
 name_latin: "Ahmad Danesh Shari'at Panahi"
 name_farsi: "احمد دانش شریعت‌پناهی"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1933-01-01"
+place_of_birth: "Bam"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "urologist"
+family:
+  marital_status: "married"
+  children: 2
+  notes: "father of two daughters"
+beliefs: "affiliate of the Tudeh Party"
+quotes:
+  - "On April 27, at dawn, several armed young men attacked my house. After they created fear and intimidation for my wife and two daughters and messed up the house, they blindfolded me and took me away. I was beaten up many times in prison for being falsely accused of touching my blindfold, even when I was asleep. I was denied any contact with anyone outside or my family. I had no visitation for over a year and a half. My phone contact was discontinued, and my family had no news of me for several months. Then, I was allowed to call my family for only a few minutes, blindfolded and under the supervision of a guard, every fortnight or sometimes every month. I received the worst political and honor defamation and spent two and a half years in solitary confinement or even worse conditions."
+  - "They took me to a room, where a young cleric sat behind a desk. He asked me the same questions that my interrogator had asked. He asked me if I still believed in my beliefs. Later, I realized that this session, which did not take more than a few minutes, was my trial."
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -85,9 +96,8 @@ circumstances: >
     of 1988, a large number of prisoners sympathizing with the Mojahedin or
     Leftist groups were executed for not recanting their beliefs. The
     relatives of political prisoners executed in 1988 refute the legality
-event_context: null
-responsible_forces: null
-
+event_context: "mass killings of political prisoners in 1988"
+responsible_forces: "Islamic Republic regime"
 # --- VERIFICATION ---
 status: unverified
 sources:

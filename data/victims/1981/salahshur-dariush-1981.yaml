@@ -8,6 +8,11 @@ ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
 
+# --- LIFE ---
+beliefs: "sympathizer of the Mojahedin Khalq Organization (MKO)"
+quotes:
+  - "With the suppression of freedoms, the ruling regime stands against the revolutionary forces. That's why I took up arms. My action is not anti-revolutionary or fighting against God. On the contrary, follows the path of the revolution."
+
 # --- DEATH ---
 date_of_death: 1981-11-29
 age_at_death: 19
@@ -47,9 +52,8 @@ circumstances: >
     the Public Prosecutor s Office, Mr. Salashur, along with 29 others, were
     declared corruptors, enemies of God and fighters against God and sentenced
     to death. He was executed on November 29, 1981 at the Evin Prison.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

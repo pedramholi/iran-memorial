@@ -1,12 +1,17 @@
 id: ghaffari-hamid-moasses-1983
 name_latin: "Hamid Mo'asses Ghaffari"
 name_farsi: "حمید مؤسس غفاری"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1956-01-01"
+place_of_birth: "Sanandaj"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "studied chemistry"
+education: "chemistry at Razi University"
+beliefs: "joined the Tudeh Party"
 
 # --- DEATH ---
 date_of_death: 1983-06-16
@@ -41,9 +46,8 @@ circumstances: >
     tried unsuccessfully to acquire his family’s signature in an effort to
     falsely the claim that he had committed suicide in prison. No information
     is available about a possible ruling against the defendant.
-event_context: null
-responsible_forces: null
-
+event_context: "1983"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

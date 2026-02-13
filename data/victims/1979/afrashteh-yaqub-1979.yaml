@@ -1,12 +1,19 @@
 id: afrashteh-yaqub-1979
 name_latin: "Ya'qub Afrashteh"
 name_farsi: "یعقوب افراشته"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1952-01-01"
+place_of_birth: "Tabriz"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "police officer"
+education: "graduated from Police College"
+family:
+  marital_status: "married"
+  children: 2
 
 # --- DEATH ---
 date_of_death: 1979-09-13
@@ -42,9 +49,8 @@ circumstances: >
     report, the Public Prosecutor ordered the state to pay a sufficient salary
     to the family of Mr. Afrashteh. However, there is no information available
     regarding such payment.
-event_context: null
-responsible_forces: null
-
+event_context: "1979 September execution"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

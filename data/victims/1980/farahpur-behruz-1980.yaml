@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+quotes:
+  - "carrying a large amount of opium"
+
 # --- DEATH ---
 date_of_death: 1980-10-28
 age_at_death: null
@@ -34,9 +38,8 @@ circumstances: >
     against the defendant. Defense No information is available on the defense.
     Judgment The Anti-Narcotics Islamic Revolutionary Tribunal of Tehran
     sentenced Mr. Farahpur to death. He was executed at 10 p.m.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on November 1, 1980"
+responsible_forces: "Anti-Narcotics Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

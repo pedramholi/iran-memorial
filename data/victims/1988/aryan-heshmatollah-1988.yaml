@@ -3,10 +3,15 @@ name_latin: "Heshmatollah Aryan"
 name_farsi: "حشمت الله آرین"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "student"
+education: "Science School of Melli University"
+beliefs: "member of the Mojahedin"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -38,9 +43,8 @@ circumstances: >
     available on Mr. Arian's defense. Judgment No information is available on
     the judgment or whether an appeal was allowed. Mr. Arian was executed in
     November, 1988.
-event_context: null
-responsible_forces: null
-
+event_context: "1988 prison massacre"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

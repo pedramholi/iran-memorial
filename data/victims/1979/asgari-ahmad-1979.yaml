@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
 
+# --- LIFE ---
+beliefs: "sympathizer of the Mojahedin Khalq Organization (MKO)"
+
 # --- DEATH ---
 date_of_death: 1979-12-24
 age_at_death: null
@@ -30,7 +33,7 @@ circumstances: >
     is available about the defendant’s execution. According to the MKO
     website, since the Shiraz prison officials refused to execute him, Mr.
     Ahmad Asgari was taken to Qom and executed there on December 24, 1979.
-event_context: null
+event_context: "execution on December 24, 1979"
 responsible_forces: null
 
 # --- VERIFICATION ---

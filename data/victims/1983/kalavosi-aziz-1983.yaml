@@ -4,9 +4,12 @@ name_farsi: "عزیز کلاوسی"
 date_of_birth: null
 place_of_birth: null
 gender: male
-ethnicity: null
+ethnicity: "Kurdish"
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of PDKI"
 
 # --- DEATH ---
 date_of_death: 1983-01-01
@@ -41,9 +44,8 @@ circumstances: >
     evidence provided against the defendant. Defense No information is
     available on Mr. Kalavosi s defense. Judgment There is no information on
     the verdict leading to this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "conflicts between the new central Shiite government and the mainly Sunni Kurdistan"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

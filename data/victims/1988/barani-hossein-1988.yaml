@@ -2,11 +2,16 @@ id: barani-hossein-1988
 name_latin: "Hossein Barani"
 name_farsi: "حسین بارانی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Gonaveh, Bushehr province"
 gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "interim mayor"
+education: "bachelor's degree in civil engineering"
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -85,7 +90,7 @@ circumstances: >
     letters to the Minister of Justice (1988) and to the UN Special Rapporteur
     visiting Iran (February 2003), the families of the victims refer to the
     authorities accusations against the pri
-event_context: null
+event_context: "1988 massacre"
 responsible_forces: null
 
 # --- VERIFICATION ---

@@ -1,12 +1,17 @@
 id: emamali-feizollah-1981
 name_latin: "Feizollah Emam'ali"
 name_farsi: "فیض الله امام علی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1959-01-01"
+place_of_birth: "Tehran"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
+quotes:
+  - "being in a team house, causing terror, stealing and burning people’s belongings, throwing Molotov Cocktails at the houses of the pious, threatening the security of the people, carrying and storing weapons and explosives and participating in all of the Organization’s [Mojahedin] demonstrations"
 
 # --- DEATH ---
 date_of_death: 1981-09-01
@@ -45,9 +50,8 @@ circumstances: >
     declared Mr. Emam’ali a “corruptor on earth, an enemy of God, and
     rebellious against God” and sentenced him to death. He was executed at
     Evin Prison.
-event_context: null
-responsible_forces: null
-
+event_context: "execution in 1981"
+responsible_forces: "Public Prosecutor"
 # --- VERIFICATION ---
 status: unverified
 sources:

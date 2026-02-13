@@ -1,12 +1,16 @@
 id: kharmanbiz-jamshid-1982
 name_latin: "Jamshid Kharmanbiz"
 name_farsi: "جمشید خرمن بیز"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1960-01-01"
+place_of_birth: "near Karaj, Tehran province"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "wrestler"
+beliefs: "sympathizer of the Peykar Organization"
 
 # --- DEATH ---
 date_of_death: 1982-02-01
@@ -51,9 +55,8 @@ circumstances: >
     1982 in Noshahr (Mazandaran province); however, the sender of the
     electronic form states that the execution took place in Ghazian, near
     Bandar-e Anzali (Gilan province).
-event_context: null
-responsible_forces: null
-
+event_context: "1981-1982"
+responsible_forces: "Iranian government"
 # --- VERIFICATION ---
 status: unverified
 sources:

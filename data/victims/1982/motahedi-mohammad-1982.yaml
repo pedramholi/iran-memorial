@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+occupation: "head of the Forqan group"
+beliefs: "opposed the involvement of the clergy in the government"
+
 # --- DEATH ---
 date_of_death: 1982-01-29
 age_at_death: 26
@@ -50,9 +54,8 @@ circumstances: >
     information is available on Mr. Motahedi s defense. Judgment The report
     specified that Mr. Motahedi was hanged in public but did not mention the
     tribunal that issued his death sentence.
-event_context: null
-responsible_forces: null
-
+event_context: "post-revolutionary activity"
+responsible_forces: "Islamic Revolutionary Committee"
 # --- VERIFICATION ---
 status: unverified
 sources:

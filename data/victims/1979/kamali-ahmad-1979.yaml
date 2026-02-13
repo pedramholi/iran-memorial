@@ -39,9 +39,8 @@ circumstances: >
     in Mazandaran province) declared Mr. Kamali a “corruptor on earth” and an
     “enemy of God and his people” and sentenced him to death. He was executed
     by firing squad at 1 a.m. on September 10, 1979.
-event_context: null
-responsible_forces: null
-
+event_context: "1979"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

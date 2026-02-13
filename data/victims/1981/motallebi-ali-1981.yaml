@@ -1,12 +1,17 @@
 id: motallebi-ali-1981
 name_latin: "Ali Motallebi"
 name_farsi: "علی مطلبی"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1964-01-01"
+place_of_birth: "Esfahan"
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "high school student"
+family:
+beliefs: "supporter of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-09-23
@@ -86,9 +91,8 @@ circumstances: >
     Guardsmen and Hezbollahis. The number of casualties that resulted from
     this demonstration is unknown but a large number of demonstrators were
     arrested
-event_context: null
-responsible_forces: null
-
+event_context: "1981 protests"
+responsible_forces: "Islamic Revolutionary Prosecutor General's Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

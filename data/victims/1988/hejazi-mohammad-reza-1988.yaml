@@ -75,9 +75,8 @@ circumstances: >
     two yeas after the completion of his prison term, Mr. Mohammad Reza Hejazi
     was hanged during the mass killings of the political prisoners on July 31,
     1988.
-event_context: null
-responsible_forces: null
-
+event_context: "1988-89 mass execution of political prisoners"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

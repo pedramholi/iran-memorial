@@ -3,10 +3,13 @@ name_latin: "Shokrollah Ahmadi"
 name_farsi: "شکرالله احمدی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "belligerent and seditious elements of the Goruhak-e Jangal"
 
 # --- DEATH ---
 date_of_death: 1982-01-28
@@ -34,8 +37,7 @@ circumstances: >
     Ahmadi s defense. Judgment The Islamic Revolutionary Tribunal of Amol
     sentenced Mr. Ahmadi to death. The sentence was carried out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Prosecutor s Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

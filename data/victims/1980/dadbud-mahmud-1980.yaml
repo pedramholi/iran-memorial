@@ -2,8 +2,8 @@ id: dadbud-mahmud-1980
 name_latin: "Mahmud Dadbud"
 name_farsi: "محمود دادبود"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Babol"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -41,9 +41,8 @@ circumstances: >
     sentenced the defendant to death. The Jomhuri Eslami report specifies that
     the sentence included confiscation of property for six of the accused. It
     is not clear whether or not Mr. Dadbud’s properties were confiscated.
-event_context: null
-responsible_forces: null
-
+event_context: "1980 execution"
+responsible_forces: "Revolutionary Guard"
 # --- VERIFICATION ---
 status: unverified
 sources:

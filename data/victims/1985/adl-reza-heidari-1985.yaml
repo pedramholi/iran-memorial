@@ -1,12 +1,17 @@
 id: adl-reza-heidari-1985
 name_latin: "Reza Heidari Adl"
 name_farsi: "رضا حیدری عدل"
-date_of_birth: null
+date_of_birth: "1962-01-01"
 place_of_birth: null
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "brother of Jamshid, sons of Mohammad"
+beliefs: "active member of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1985-03-05
@@ -53,9 +58,8 @@ circumstances: >
     The Islamic Revolutionary Tribunal of Tehran sentenced Mr. Reza Heidary
     Adl to death. He and his brother were shot by a firing squad on March 5,
     1985 at Evin prison. Reza was 23 years old.
-event_context: null
-responsible_forces: null
-
+event_context: "1984-1985"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -2,11 +2,18 @@ id: qodratabadi-mohammad-1988
 name_latin: "Mohammad Qodratabadi"
 name_farsi: "محمد قدرت آبادی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Tehran"
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "worked at the Ministry of Education of District 10 of Tehran"
+education: "master’s degree in mathematics"
+family:
+  marital_status: "married"
+  children: 1
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -81,9 +88,8 @@ circumstances: >
     however, were not returned to them. The bodies were buried in mass graves.
     Authorities warned the families of prisoners against holding memorial
     ceremonies.
-event_context: null
-responsible_forces: null
-
+event_context: "1988-89 mass execution of political prisoners"
+responsible_forces: "Iranian authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,17 @@
 id: moqadam-daryush-kaboli-1982
 name_latin: "Daryush Kaboli Moqadam"
 name_farsi: "داریوش کابلی مقدم"
-date_of_birth: null
+date_of_birth: "1957-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+education: "high school graduate"
+family:
+  notes: "son of Nazar ali"
 
 # --- DEATH ---
 date_of_death: 1982-12-22
@@ -41,7 +46,7 @@ circumstances: >
     According to a poem written on his grave, the execution was on December
     22, 1982. When Mr. Kaboli-Moqadam s mother went to the courthouse the next
     day, she saw his body beside several other bodies.
-event_context: null
+event_context: "execution on December 22, 1982"
 responsible_forces: null
 
 # --- VERIFICATION ---

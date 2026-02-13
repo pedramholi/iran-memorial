@@ -3,7 +3,7 @@ name_latin: "Nayereh Fathali"
 name_farsi: "نیره فتحعلی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -35,9 +35,8 @@ circumstances: >
     information is available on Ms. Fath-Ali's defense. Judgment No
     information is available on the judgment or whether an appeal was allowed.
     Ms. Fath-Ali was executed in September, 1988.
-event_context: null
-responsible_forces: null
-
+event_context: "1988 prison massacres"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

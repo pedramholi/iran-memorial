@@ -3,7 +3,7 @@ name_latin: "Dust Mohammad Kakol"
 name_farsi: "دوست محمد کاکل"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,9 +38,8 @@ circumstances: >
     Baluchestan sentenced Mr. Kakol to death. Having been confirmed by the
     Supreme Judicial Council, the sentence was carried out in public in the
     Addicts Rehabilitation Center.
-event_context: null
-responsible_forces: null
-
+event_context: "1983"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

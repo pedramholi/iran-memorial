@@ -8,6 +8,11 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+quotes:
+  - "being in possession of 51 grams of heroin and 25 grams of opium"
+  - "a corruptor on earth and at war with God"
+
 # --- DEATH ---
 date_of_death: 1981-07-15
 age_at_death: null
@@ -38,9 +43,8 @@ circumstances: >
     issued the death sentence against Mr. Derakhti, for being "a corruptor on
     earth and at war with God", and the Supreme Judicial Council approved the
     verdict. He was executed at midnight on Wednesday July 15th, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 execution"
+responsible_forces: "Islamic Revolutionary Tribunal of Tabriz"
 # --- VERIFICATION ---
 status: unverified
 sources:

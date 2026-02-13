@@ -37,9 +37,8 @@ circumstances: >
     information on the accused’s defense is available. Judgment The Islamic
     Revolutionary Tribunal of Tonekabon sentenced Mr. Alikhani to death. He
     was executed immediately.
-event_context: null
-responsible_forces: null
-
+event_context: "1980"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

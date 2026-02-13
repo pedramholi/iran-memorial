@@ -1,12 +1,15 @@
 id: chegini-hassan-1981
 name_latin: "Hassan Chegini"
 name_farsi: "حسن چگینی"
-date_of_birth: null
+date_of_birth: "1961-01-01"
 place_of_birth: null
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+beliefs: "supporter of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-07-04
@@ -86,9 +89,8 @@ circumstances: >
     The day after the demonstration, the Islamic Republic regime started a
     repressive campaign unprecedented in modern Iranian history. Thousands of
     MKO members and sympathizers were arrested
-event_context: null
-responsible_forces: null
-
+event_context: "1981 protests"
+responsible_forces: "Karaj Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

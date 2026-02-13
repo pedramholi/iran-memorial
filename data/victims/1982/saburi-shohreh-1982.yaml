@@ -8,6 +8,12 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+family:
+  marital_status: "married"
+  notes: "husband is Mr. Fariborz Keshavarz"
+beliefs: "affiliated with Fadaiyan Khalq Organization (Minority branch)"
+
 # --- DEATH ---
 date_of_death: 1982-01-01
 age_at_death: null
@@ -43,9 +49,8 @@ circumstances: >
     afternoon in February/March 1982, Ms. Shohreh Saburi was called from
     section 240 and never returned. She and her husband were shot by a firing
     squad in Evin prison, along with a few other individuals.
-event_context: null
-responsible_forces: null
-
+event_context: "1982 detention and execution"
+responsible_forces: "Revolutionary Guards of Committee 3000"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -2,11 +2,15 @@ id: heidari-hushang-1981
 name_latin: "Hushang Heidari"
 name_farsi: "هوشنگ حیدری"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Andimeshk"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "high school teacher"
+beliefs: "sympathizer of Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-11-29
@@ -33,9 +37,8 @@ circumstances: >
     defense. Judgment Mr. Hushang Heidari was condemned to death. He was
     executed by firing squad in UNESCO prison (former UNESCO’s cultural and
     health center used as a prison) in Dezful on November 29, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "executed by firing squad in UNESCO prison in Dezful on November 29, 1981"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,10 +3,13 @@ name_latin: "Nezam Hassani"
 name_farsi: "نظام حسنی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "affiliated with the Razmandegan Organization"
 
 # --- DEATH ---
 date_of_death: 1983-02-15
@@ -45,9 +48,8 @@ circumstances: >
     sentenced to death by the Revolutionary court and executed in Saqez
     (Kordestan Province). No further information is available regarding this
     execution.
-event_context: null
-responsible_forces: null
-
+event_context: "executed or killed during clashes with the Islamic Republic security forces from June 1981 to 1985"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

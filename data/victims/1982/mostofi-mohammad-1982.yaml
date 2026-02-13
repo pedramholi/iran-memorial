@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+beliefs: "member of Komala"
+
 # --- DEATH ---
 date_of_death: 1982-09-16
 age_at_death: 30
@@ -48,9 +51,8 @@ circumstances: >
     information regarding the evidence provided against the defendant. Defense
     No information is available on Mr. Mostofi s defense. Judgment There is no
     information on the verdict leading to this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "executed or killed during clashes from June 1981 to 1985"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

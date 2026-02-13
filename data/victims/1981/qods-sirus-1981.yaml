@@ -3,10 +3,13 @@ name_latin: "Sirus Qods"
 name_farsi: "سیروس قدس"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of Peykar Organization for the Liberation of the Working Class"
 
 # --- DEATH ---
 date_of_death: 1981-01-01
@@ -47,9 +50,8 @@ circumstances: >
     No information is available on Mr. Qods’ defense. Judgment Mr. Qods was
     executed by firing squad in Tehran in late July or early August 1981. No
     specific information is available about the execution sentence.
-event_context: null
-responsible_forces: null
-
+event_context: "executions during clashes with the Islamic Republic security forces from June 1981 to the publication date of the magazine"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

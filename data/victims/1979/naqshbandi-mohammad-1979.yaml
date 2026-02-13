@@ -4,7 +4,7 @@ name_farsi: "محمد نقشبندی"
 date_of_birth: null
 place_of_birth: null
 gender: male
-ethnicity: null
+ethnicity: "Kurdish"
 religion: "Unknown"
 photo: null
 
@@ -30,9 +30,8 @@ circumstances: >
     against the defendant. Defense No information is available about any
     defense offered by Mr. Naqshbandi. Judgment Mr. Naqshbandi was executed on
     the order of Ayatollah Khalkhali.
-event_context: null
-responsible_forces: null
-
+event_context: "executions of Kurds in Paveh during the latter half of August, 1979"
+responsible_forces: "Ayatollah Khalkhali"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -2,11 +2,16 @@ id: farzaneh-masud-1981
 name_latin: "Mas'ud Farzaneh"
 name_farsi: "مسعود فرزانه"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Masjed Soleiman, Khuzestan province"
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "son of Ali"
+beliefs: "sympathizer of the Fadaiyan Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-01-01
@@ -67,9 +72,8 @@ circumstances: >
     Esfehan condemned Mr. Mas’ud Farzaneh to death as a “corruptor on earth.”
     According to the Mojahed magazine, he was executed by a firing squad on
     June 28, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on June 28, 1981"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

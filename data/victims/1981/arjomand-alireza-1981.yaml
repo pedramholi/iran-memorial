@@ -1,12 +1,16 @@
 id: arjomand-alireza-1981
 name_latin: "Alireza Arjomand"
 name_farsi: "علیرضا ارجمند"
-date_of_birth: null
+date_of_birth: "1954-01-01"
 place_of_birth: null
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+education: "nine years education"
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-08-23
@@ -85,9 +89,8 @@ circumstances: >
     after this operation, thousands of imprisoned Mojahedin supporters were
     killed during the mass executions of political prisoners in 1988. Ever
     since the summer of 1981, the MKO has continued its activities outside
-event_context: null
-responsible_forces: null
-
+event_context: "1981 political repression"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

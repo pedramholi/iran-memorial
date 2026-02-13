@@ -8,6 +8,12 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "archivist"
+quotes:
+  - "...if you participated in such arrests and then realized that people died under torture, how come you still joined the Joint Committee in 1977? So you are guilty of complicity in murder. …Would people surrender to you if you didn’t carry arms? …You were terrorizing people. This is being a corruptor. The armed robbers, I call them enemies of God and corruptors and this is the crime of anyone who has arms. You have to say that you regret…."
+  - "We know that those who served at the Committee had a thousand different faces: some were tou"
+
 # --- DEATH ---
 date_of_death: 1979-05-09
 age_at_death: null
@@ -86,8 +92,7 @@ circumstances: >
     presiding judge said: “We know that those who served at the Committee had
     a thousand different faces: some were tou
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

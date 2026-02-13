@@ -3,10 +3,13 @@ name_latin: "Mo'inullah Mohseni"
 name_farsi: "معین الله محسنی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of the Fadaiyan Khalq guerillas (minority faction)"
 
 # --- DEATH ---
 date_of_death: 1982-01-20
@@ -34,8 +37,7 @@ circumstances: >
     corruptor on earth as well as an enemy of God and the prophet, and
     sentenced him to death.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal of Qaemshahr"
 # --- VERIFICATION ---
 status: unverified
 sources:

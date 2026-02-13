@@ -63,9 +63,8 @@ circumstances: >
     Defense No information is available on the defendant s defense. Judgment
     The Islamic Revolutionary Tribunal of the Army sentenced Mr. Asangosha to
     death. He was executed at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "Noje coup d'etat"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,10 +3,13 @@ name_latin: "Fazlollah Ja'fari"
 name_farsi: "فضل الله جعفری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "high-ranking police officer"
 
 # --- DEATH ---
 date_of_death: 1979-04-19

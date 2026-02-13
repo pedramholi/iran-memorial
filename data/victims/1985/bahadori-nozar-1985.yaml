@@ -2,11 +2,16 @@ id: bahadori-nozar-1985
 name_latin: "Nozar Bahadori"
 name_farsi: "نوذر بهادری"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Masjed Soleyman, Khuzestan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "high school graduate majoring in mathematics and physics"
+education: "high school graduate majoring in mathematics and physics"
+beliefs: "member of Ettehadieh Kominist-ha"
 
 # --- DEATH ---
 date_of_death: 1985-02-20
@@ -45,9 +50,8 @@ circumstances: >
     to 3 years and finally he was sentenced to death. No other information is
     available on the judicial process leading to his execution. He was shot by
     a firing squad on February 20, 1985.
-event_context: null
-responsible_forces: null
-
+event_context: "executed on February 20, 1985"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

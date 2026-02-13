@@ -1,12 +1,17 @@
 id: ghiasi-kobra-1982
 name_latin: "Kobra Ghiasi"
 name_farsi: "کبری غیاثی"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1959-03-22"
+place_of_birth: "Abadan"
 gender: female
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "sympathizer of Peykar Organization for the Liberation of the Working Class"
+personality: "Children loved her and would come around her"
+beliefs: "sympathizer of Peykar Organization for the Liberation of the Working Class"
 
 # --- DEATH ---
 date_of_death: 1982-12-19
@@ -44,9 +49,8 @@ circumstances: >
     available on Ms. Ghiasi's defense. Judgment According to the list of
     Martyrs of the Peykar Organization, Ms. Ghiasi was executed by firing
     squad in Esfahan on December 19, 1982. She was 23 years old.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on December 19, 1982"
+responsible_forces: "Iranian government"
 # --- VERIFICATION ---
 status: unverified
 sources:

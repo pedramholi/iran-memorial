@@ -8,6 +8,14 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+occupation: "employee of a Melli Bank"
+education: "high school diploma"
+family:
+  marital_status: "divorced"
+  children: 1
+beliefs: "supporter of Mojahedin Khalq Organization"
+
 # --- DEATH ---
 date_of_death: 1983-01-01
 age_at_death: 40

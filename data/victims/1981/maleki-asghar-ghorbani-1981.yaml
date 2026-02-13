@@ -8,6 +8,12 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+family:
+  notes: "father had committed suicide after receiving Asghar’s ashes"
+quotes:
+  - "they had been thrown into a furnace by guards, named Jamshid Sohrabi and Mojtaba Halvai."
+
 # --- DEATH ---
 date_of_death: 1981-01-01
 age_at_death: 18

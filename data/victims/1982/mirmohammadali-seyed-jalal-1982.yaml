@@ -4,9 +4,12 @@ name_farsi: "سیدجلال میرمحمدعلی"
 date_of_birth: null
 place_of_birth: null
 gender: male
-ethnicity: null
+ethnicity: "Kurdish"
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of The Democratic Party of Iranian Kordestan"
 
 # --- DEATH ---
 date_of_death: 1982-02-04
@@ -60,9 +63,8 @@ circumstances: >
     him to death. He was executed along with at least 5 other men in February
     1982 at the parking lot of the detention center of the Islamic
     Revolutionary Court, located on 22 Bahman Street, in Sanandaj.
-event_context: null
-responsible_forces: null
-
+event_context: "1982 execution"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

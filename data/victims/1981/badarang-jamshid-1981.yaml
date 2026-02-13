@@ -1,12 +1,15 @@
 id: badarang-jamshid-1981
 name_latin: "Jamshid Badarang"
 name_farsi: "جمشید بادارنگ"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1960-01-01"
+place_of_birth: "Ahvaz"
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "computer science student"
 
 # --- DEATH ---
 date_of_death: 1981-12-06
@@ -36,9 +39,8 @@ circumstances: >
     There is no information on the verdict leading to this execution. Mr.
     Jamshid Badarang was executed on December 6, 1981 in Qasr prison. He was
     21 years old.
-event_context: null
-responsible_forces: null
-
+event_context: "executed on December 6, 1981"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

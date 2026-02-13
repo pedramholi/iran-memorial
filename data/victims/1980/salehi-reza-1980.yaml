@@ -39,9 +39,8 @@ circumstances: >
     Judgment Mr. Salehi was found guilty of corruption on earth and waging war
     against God. The death sentence was carried out within moments after the
     issuance of the verdict.
-event_context: null
-responsible_forces: null
-
+event_context: "1980"
+responsible_forces: "Islamic Revolutionary Tribunals"
 # --- VERIFICATION ---
 status: unverified
 sources:

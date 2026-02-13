@@ -3,7 +3,7 @@ name_latin: "Reysan Mo'avi"
 name_farsi: "ری سان معاوی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -28,8 +28,7 @@ circumstances: >
     death by the Islamic Revolutionary Tribunal of Ahvaz. He was executed in
     the morning.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

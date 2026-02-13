@@ -8,6 +8,13 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "employee of the district's electric company"
+family:
+  marital_status: "married"
+  children: 6
+  notes: "father of six"
+
 # --- DEATH ---
 date_of_death: 1980-07-03
 age_at_death: 38
@@ -50,8 +57,7 @@ circumstances: >
     threw the first stone, followed by five other people. The stoning lasted
     fifteen minutes.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Revolutionary Guard"
 # --- VERIFICATION ---
 status: unverified
 sources:

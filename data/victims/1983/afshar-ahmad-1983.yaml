@@ -38,9 +38,8 @@ circumstances: >
     Having been confirmed by the Supreme Court, the sentence was carried out
     in Bakhtaran prison before the Religious Judge and the male relatives of
     the murdered persons.
-event_context: null
-responsible_forces: null
-
+event_context: "1983"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

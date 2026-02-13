@@ -3,10 +3,15 @@ name_latin: "Nuri"
 name_farsi: "نوری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "raised in a family that supported the Mojahedin Organization; one brother executed in the killings of 1988; another brother disappeared in 1987; another brother spent time in prison."
+beliefs: "supported the Mojahedin Organization"
 
 # --- DEATH ---
 date_of_death: 1988-01-01

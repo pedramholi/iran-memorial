@@ -29,8 +29,7 @@ circumstances: >
     Islamic Revolutionary Tribunal of Ahvaz sentenced Mr. Musavi to death, and
     he was executed.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

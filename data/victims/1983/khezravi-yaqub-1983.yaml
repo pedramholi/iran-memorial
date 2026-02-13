@@ -3,7 +3,7 @@ name_latin: "Ya'qub Khezravi"
 name_farsi: "یعقوب خضراوی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -35,9 +35,8 @@ circumstances: >
     Khezravi's defense. Judgment The Islamic Revolutionary Tribunal of
     Hormozgan sentenced Mr. Khezravi to death. Having been confirmed by the
     Islamic Revolutionary Supreme Court, the sentence was carried out at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "1983 execution"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

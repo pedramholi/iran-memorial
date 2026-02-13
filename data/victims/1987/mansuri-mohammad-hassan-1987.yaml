@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "fighter pilot"
+beliefs: "objected to the government of Iran's persistence in continuing the Iran-Iraq war"
+
 # --- DEATH ---
 date_of_death: 1987-07-25
 age_at_death: null
@@ -85,9 +89,8 @@ circumstances: >
     organization (Cumhuriyet Turkish Newspaper, August 1, 1987). Familys
     Reaction There is no information on the reaction of Mr. Mansuri s family.
     Impacts on Family There is no information on the effect
-event_context: null
-responsible_forces: null
-
+event_context: "Iran-Iraq war"
+responsible_forces: "Iranian backed Islamic groups"
 # --- VERIFICATION ---
 status: unverified
 sources:

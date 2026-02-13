@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+beliefs: "active member of the Mujahedin-e Khalq Organization (MKO)"
+
 # --- DEATH ---
 date_of_death: 1982-01-01
 age_at_death: null
@@ -28,8 +31,7 @@ circumstances: >
     Senobari to death. The sentence was confirmed by the Supreme Judiciary
     Council. She was executed.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal of Mashad"
 # --- VERIFICATION ---
 status: unverified
 sources:

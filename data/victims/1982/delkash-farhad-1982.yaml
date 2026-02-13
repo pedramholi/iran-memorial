@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+family:
+  notes: "His brother, Faramarz was also executed."
+
 # --- DEATH ---
 date_of_death: 1982-01-01
 age_at_death: 22
@@ -31,9 +35,8 @@ circumstances: >
     defense. Judgment No specific information is available about the verdict
     leading to this execution. Mr. Fardah Delkash was shot by a firing squad
     in April/May 1982 in Karaj.
-event_context: null
-responsible_forces: null
-
+event_context: "executed or killed during clashes from June 1981 to 1985"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

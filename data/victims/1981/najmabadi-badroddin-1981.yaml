@@ -3,10 +3,13 @@ name_latin: "Badroddin Najmabadi"
 name_farsi: "بدرالدین نجم آبادی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "Colonel"
 
 # --- DEATH ---
 date_of_death: 1981-12-23
@@ -37,9 +40,8 @@ circumstances: >
     concerning Colonel Najmabadi’s defense. Judgment The Central Islamic
     Revolutionary Tribunal condemned Colonel Badroddin Namjabadi to death. He
     was executed on December 23, 1981 in Tehran.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 execution"
+responsible_forces: "Central Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

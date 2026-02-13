@@ -1,12 +1,15 @@
 id: najafabadi-said-ghayur-1981
 name_latin: "Sa'id Ghayur Najafabadi"
 name_farsi: "سعید غیور نجف آبادی"
-date_of_birth: null
+date_of_birth: "1963-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+beliefs: "supporter of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-08-16
@@ -86,9 +89,8 @@ circumstances: >
     illegal, thousands came to the streets, some of whom confronted the
     Revolutionary Guardsmen and Hezbollahis. The number of casualties that
     resu
-event_context: null
-responsible_forces: null
-
+event_context: "1981 protests"
+responsible_forces: "Central Islamic Revolutionary Prosecutor's Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

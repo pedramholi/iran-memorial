@@ -8,6 +8,11 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+family:
+  notes: "His brother, Manuchehr Nikandam was executed in 1980."
+beliefs: "member of Peykar Organization for the Liberation of the Working Class"
+
 # --- DEATH ---
 date_of_death: 1983-01-01
 age_at_death: null
@@ -46,9 +51,8 @@ circumstances: >
     available on Mr. Nikandam’s defense. Judgment According to the list of
     Martyrs of the Peykar Organization, Mr. Mohammad Nikandam was executed by
     firing squad at the Dastgerd prison in Esfahan in 1983.
-event_context: null
-responsible_forces: null
-
+event_context: "executed by firing squad at the Dastgerd prison in Esfahan in 1983"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

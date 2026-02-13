@@ -1,12 +1,18 @@
 id: memarzadeh-yusef-1981
 name_latin: "Yusef Me'marzadeh"
 name_farsi: "یوسف معمارزاده"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1960-07-01"
+place_of_birth: "Ardebil"
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "junior student of Metallurgy Engineering"
+education: "Metallurgy Engineering student"
+family:
+beliefs: "head of the Ranjbaran Party of Iran"
 
 # --- DEATH ---
 date_of_death: 1981-09-21
@@ -48,9 +54,8 @@ circumstances: >
     based on the list published by the Mojahedin Khalq, he was executed on
     September 18, 1981. According to the electronic form report, he was
     executed along with forty other cellmates.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 repression"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

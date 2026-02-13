@@ -39,9 +39,8 @@ circumstances: >
     No information is available on Mr. Jalalian Mirzapur’s defense. Judgment
     The Islamic Revolutionary Tribunal of Mashad sentenced Mr.Jalalian
     Mirzapur to death. The sentence was carried out.
-event_context: null
-responsible_forces: null
-
+event_context: "1981-1985"
+responsible_forces: "Islamic Revolutionary Public Prosecutor’s Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

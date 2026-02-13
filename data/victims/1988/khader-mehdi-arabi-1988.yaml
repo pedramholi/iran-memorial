@@ -1,12 +1,16 @@
 id: khader-mehdi-arabi-1988
 name_latin: "Mehdi Arabi Khader"
 name_farsi: "مهدی عربی خادر"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1962-01-01"
+place_of_birth: "Mashhad"
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "farmer"
+beliefs: "sympathizer of the Mojahedin Khalq Organization (MKO)"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -68,9 +72,8 @@ circumstances: >
     political groups outside Iran. Judgment No specific information is
     available about death sentence. Mr. Mehdi Arabi Khader was executed during
     the mass killings of the political prisoners in Mashhad in 1988.
-event_context: null
-responsible_forces: null
-
+event_context: "1988 mass execution of political prisoners"
+responsible_forces: "Iranian authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

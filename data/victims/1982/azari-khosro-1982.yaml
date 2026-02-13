@@ -1,12 +1,17 @@
 id: azari-khosro-1982
 name_latin: "Khosro Azari"
 name_farsi: "خسرو آذری"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1963-01-01"
+place_of_birth: "Hamadan"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "conscripted soldier"
+education: "high school graduate"
+beliefs: "sympathizer of the Fadaiyan Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1982-01-01
@@ -43,9 +48,8 @@ circumstances: >
     1982.
     ________________________________________________________________________ *
     The electronic form is the only source of information about this case.
-event_context: null
-responsible_forces: null
-
+event_context: "1982"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

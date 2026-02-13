@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
 
+# --- LIFE ---
+beliefs: "supporter of the Mojahedin Khalq Organization of Iran"
+
 # --- DEATH ---
 date_of_death: 1982-05-01
 age_at_death: 19
@@ -43,9 +46,8 @@ circumstances: >
     against the defendant. Defense No information is available on Mr. Haj Aqa
     Jani’s defense. Judgment The Islamic Revolutionary Tribunal of Mashad
     sentenced Mr. Haj Aqa Jani to death. The sentence was carried out.
-event_context: null
-responsible_forces: null
-
+event_context: "executed along with 10 others on May 3, 1982"
+responsible_forces: "Islamic Revolutionary Public Prosecutor’s Office of Mashad"
 # --- VERIFICATION ---
 status: unverified
 sources:

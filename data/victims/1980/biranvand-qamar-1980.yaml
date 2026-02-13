@@ -3,7 +3,7 @@ name_latin: "Qamar Biranvand"
 name_farsi: "قمر بیران وند"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -40,8 +40,7 @@ circumstances: >
     Biranvand was sentenced to death at the Islamic Revolutionary Tribunal of
     Ahvaz. The sentence was carried out in the city at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

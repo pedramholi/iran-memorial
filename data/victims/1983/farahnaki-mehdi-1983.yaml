@@ -8,6 +8,11 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+beliefs: "member of Mojahedin Khalq Organization"
+quotes:
+  - "allegedly summarily or arbitrarily executed"
+
 # --- DEATH ---
 date_of_death: 1983-11-17
 age_at_death: 26
@@ -86,9 +91,8 @@ circumstances: >
     information is available regarding members and activities of the MKO
     inside the country. In defense: In spite of the “armed struggle”
     announcement by the MKO on J
-event_context: null
-responsible_forces: null
-
+event_context: "June 1981 protests"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+beliefs: "member or sympathizer of the People’s Mojahedin Organization of Iran or other Marxist Leninist organizations"
+
 # --- DEATH ---
 date_of_death: 1988-01-01
 age_at_death: null
@@ -55,7 +58,7 @@ circumstances: >
     against Mr. Afshar. Defense In their open letter, the families of the
     prisoners note that defendants were not given the opportunity to defend
     themselves in court. Judgment No sentence was issued publicly.
-event_context: null
+event_context: "1988-89 mass execution of political prisoners"
 responsible_forces: null
 
 # --- VERIFICATION ---

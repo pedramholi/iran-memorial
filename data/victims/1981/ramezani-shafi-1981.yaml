@@ -2,11 +2,16 @@ id: ramezani-shafi-1981
 name_latin: "Shafi' Ramezani"
 name_farsi: "شفیع رمضانی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Sanandaj"
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of Fadayian Khalq of Iran Organization"
+quotes:
+  - "armed rebellion against the Islamic Republic and active participation in a 1979 sit-in in the Governor's offices demanding the expulsion of the Revolutionary Guards from Sanandaj"
 
 # --- DEATH ---
 date_of_death: 1981-07-12
@@ -36,9 +41,8 @@ circumstances: >
     God and of God's Prophet", and executed following the confirmation of the
     verdict by the Supreme Judicial Council. No further information is
     available.
-event_context: null
-responsible_forces: null
-
+event_context: "1979 sit-in"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

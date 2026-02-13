@@ -3,7 +3,7 @@ name_latin: "Massood Nikayin"
 name_farsi: "مسعود نیک آئین"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -40,9 +40,8 @@ circumstances: >
     Anti-Narcotics Section of the Public Prosecutor s Office in Tehran
     sentenced Mr. Nikayin to death. The sentence was carried out in Qasr
     Prison.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on September 21, 1983"
+responsible_forces: "Anti-Narcotics Section of the Public Prosecutor s Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

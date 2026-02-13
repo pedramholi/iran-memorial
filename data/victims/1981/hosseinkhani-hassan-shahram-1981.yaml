@@ -1,12 +1,20 @@
 id: hosseinkhani-hassan-shahram-1981
 name_latin: "Hassan (Shahram) Hosseinkhani"
 name_farsi: "حسن (شهرام) حسینخانی"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "2003-01-01"
+place_of_birth: "Kermanshah"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "high school graduate"
+family:
+  marital_status: "single"
+beliefs: "sympathizer of the Fadaiyan Khalq Guerilla Organization"
+quotes:
+  - "He wrote a will addressing his mother."
 
 # --- DEATH ---
 date_of_death: 1981-01-01
@@ -50,9 +58,8 @@ circumstances: >
     he was hanged. He is buried at the Kermanshah Cemetery in the section
     where most people who are executed are there. He wrote a will addressing
     his mother.
-event_context: null
-responsible_forces: null
-
+event_context: "1981"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

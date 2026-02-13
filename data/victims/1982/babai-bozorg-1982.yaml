@@ -3,7 +3,7 @@ name_latin: "Bozorg Baba'i"
 name_farsi: "بزرگ بابائی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -34,8 +34,7 @@ circumstances: >
     defense. Judgment The Islamic Revolutionary Tribunal sentenced Mr. Babaee
     to death. The sentence was carried out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

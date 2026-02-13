@@ -3,8 +3,8 @@ name_latin: "Abdolkarim Karimi"
 name_farsi: "عبدالکریم کریمی"
 date_of_birth: null
 place_of_birth: null
-gender: null
-ethnicity: null
+gender: male
+ethnicity: "Kurd"
 religion: "Presumed Muslim"
 photo: null
 
@@ -30,9 +30,8 @@ circumstances: >
     defendant. Defense No information is available about any defense offered
     by Mr. Karimi. Judgment Mr. Karimi was executed on the order of Ayatollah
     Khalkhali.
-event_context: null
-responsible_forces: null
-
+event_context: "executions of Kurds in Paveh during the latter half of August, 1979"
+responsible_forces: "Ayatollah Khalkhali"
 # --- VERIFICATION ---
 status: unverified
 sources:

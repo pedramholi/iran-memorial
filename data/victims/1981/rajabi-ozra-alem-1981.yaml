@@ -1,12 +1,16 @@
 id: rajabi-ozra-alem-1981
 name_latin: "Ozra Alem Rajabi"
 name_farsi: "عذرا عالم رجبی"
-date_of_birth: null
+date_of_birth: "1958-01-01"
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+family:
+beliefs: "supporter of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-10-10
@@ -85,9 +89,8 @@ circumstances: >
     governmental officials and the government officials efforts to impeach
     their ally, President Abolhassan Banisadr. Despite the fact that the
     regime called this demonstration ill
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Esfahan Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

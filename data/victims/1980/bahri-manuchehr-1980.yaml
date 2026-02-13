@@ -3,10 +3,17 @@ name_latin: "Manuchehr Bahri"
 name_farsi: "منوچهر بحری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "participation in the arrest of a Muslim guerilla (Morteza Gudarzi), which resulted in his martyrdom"
+  - "arresting Rafi’i Dastjerdi and turning him in to the Tehran SAVAK (the mentioned individual has disappeared since then)"
+  - "participation in the arrest of the Mojahed and combatant youth of Isfahan and shooting at them"
+  - "assaulting and shooting at the Mojahed brother, Hamid Safari"
 
 # --- DEATH ---
 date_of_death: 1980-02-02
@@ -32,8 +39,7 @@ circumstances: >
     earth” and an “enemy of God and His Prophet.” The death sentence was then
     carried out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Tehran SAVAK"
 # --- VERIFICATION ---
 status: unverified
 sources:

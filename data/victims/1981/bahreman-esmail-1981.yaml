@@ -2,11 +2,16 @@ id: bahreman-esmail-1981
 name_latin: "Esma'il Bahreman"
 name_farsi: "اسماعیل بهرمان"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Omidieh"
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "student"
+education: "Jondishapur University of Ahvaz"
+beliefs: "sympathizer of the Rah-e Kargar Organization"
 
 # --- DEATH ---
 date_of_death: 1981-09-10
@@ -45,9 +50,8 @@ circumstances: >
     a firing squad in Behbahan on September 10, 1981. His body was given to
     his family 34 kilometres away from Behbahan and he was buried in his
     birthplace, Omidieh.
-event_context: null
-responsible_forces: null
-
+event_context: "executed by a firing squad in Behbahan on September 10, 1981"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

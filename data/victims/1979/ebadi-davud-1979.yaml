@@ -3,7 +3,7 @@ name_latin: "Davud Ebadi"
 name_farsi: "داود عبادی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -31,8 +31,7 @@ circumstances: >
     The Islamic Revolutionary Tribunal of Abadan and Khoramshahr sentenced Mr.
     Ebadi to death. The sentence was carried out at 4 a.m.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,10 +3,13 @@ name_latin: "Noruz Ali Ahmadi"
 name_farsi: "نوروز علی احمدی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of Peykar Organization for the Liberation of the Working Class"
 
 # --- DEATH ---
 date_of_death: 1983-01-01
@@ -46,9 +49,8 @@ circumstances: >
     available on Mr. Ahmadi’s defense. Judgment According to the list of
     Martyrs of the Peykar Organization, Mr. Ahmadi was executed by firing
     squad in Esfahan in May of 1983. No further details are available.
-event_context: null
-responsible_forces: null
-
+event_context: "executed in May of 1983"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

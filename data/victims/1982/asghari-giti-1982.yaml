@@ -8,6 +8,11 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+family:
+  marital_status: "married"
+  notes: "husband was Mr. Mahmud Afshar"
+
 # --- DEATH ---
 date_of_death: 1982-01-07
 age_at_death: 23
@@ -53,9 +58,8 @@ circumstances: >
     Judgment According to the Peykar list, Ms. Asghari was executed by a
     firing squad on the 7th of January 1982 in Tehran. The details of the
     court verdict are not known.
-event_context: null
-responsible_forces: null
-
+event_context: "executed on the 7th of January 1982 in Tehran"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

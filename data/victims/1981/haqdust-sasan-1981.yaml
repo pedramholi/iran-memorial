@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+quotes:
+  - "in accordance with the order of the Islamic Revolutionary Prosecutor’s Office of Babol"
+
 # --- DEATH ---
 date_of_death: 1981-01-16
 age_at_death: null
@@ -34,9 +38,8 @@ circumstances: >
     the order of the Islamic Revolutionary Prosecutor’s Office of Babol”, Mr.
     Sasan Haqdust was executed at dawn on January 16, 1981 in Babol
     (Mazandaran province).
-event_context: null
-responsible_forces: null
-
+event_context: "execution on January 16, 1981"
+responsible_forces: "Islamic Revolutionary Prosecutor’s Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

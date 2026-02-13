@@ -3,7 +3,7 @@ name_latin: "Ramezan Ojrati"
 name_farsi: "رمضان اجرتی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -34,9 +34,8 @@ circumstances: >
     provided in the report. Defense No information on the accused s defense is
     available. Judgment The Islamic Revolutionary Tribunal of Mashhad
     sentenced Mr. Ojrati to death. He was executed at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "1980"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

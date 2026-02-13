@@ -3,7 +3,7 @@ name_latin: "Ramezan Qavidel"
 name_farsi: "رمضان قوی دل"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -35,8 +35,7 @@ circumstances: >
     defendant. Defense No information on the accuseds defense is available.
     Judgment The defendant was sentenced to death.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

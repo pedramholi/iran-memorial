@@ -3,7 +3,7 @@ name_latin: "Eshaq Bakhti"
 name_farsi: "اسحاق بختی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -34,9 +34,8 @@ circumstances: >
     available on Mr. Bakhti's defense. Judgment The Islamic Revolutionary
     Tribunal of Ilam found Mr. Bakhti guilty of being the enemy of God and the
     Prophet and sentenced him to death. He was executed on June 22, 1982.
-event_context: null
-responsible_forces: null
-
+event_context: "1982 execution"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -2,11 +2,16 @@ id: saedi-gholam-ali-1981
 name_latin: "Gholam Ali Sa'edi"
 name_farsi: "غلام علی ساعدی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Karaj"
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "high school student"
+education: "high school"
+beliefs: "MKO"
 
 # --- DEATH ---
 date_of_death: 1981-12-04
@@ -85,9 +90,8 @@ circumstances: >
     expelled from France, they went to Iraq and founded the National
     Liberation Army of Iran in 1987, which entered Iranian territory a few
     times during the Iran-Iraq war. They were defeated in July
-event_context: null
-responsible_forces: null
-
+event_context: "June 1981 protests"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

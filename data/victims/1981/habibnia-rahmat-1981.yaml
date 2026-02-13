@@ -3,7 +3,7 @@ name_latin: "Rahmat Habibnia"
 name_farsi: "رحمت حبیب نیا"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -29,8 +29,7 @@ circumstances: >
     evidence provided against the defendant. Defense No information is
     available on Mr. Habibnia’s defense. Judgment
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

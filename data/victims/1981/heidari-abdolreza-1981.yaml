@@ -37,9 +37,8 @@ circumstances: >
     Judgment The Islamic Revolutionary Court of Ahvaz condemned Mr. Abdolreza
     Heidari to death. The ruling was carried out in Ahvaz on October 6, 1981.
     No specific information is available about the defendant’s execution.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 execution"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

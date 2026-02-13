@@ -1,12 +1,23 @@
 id: dejshekan-shahin-1980
 name_latin: "Shahin Dejshekan"
 name_farsi: "شاهین دژشکن"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1950-01-01"
+place_of_birth: "Andimeshk"
 gender: male
-ethnicity: null
+ethnicity: "Armenian"
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "poet"
+family:
+  marital_status: "unmarried"
+  children: 0
+  notes: "only child living with elderly mother"
+personality: "modest and kind-hearted"
+beliefs: "member of the Independent Union of the Unemployed Workers of Andimeshk"
+quotes:
+  - "Shahin was one of the pioneers of modern poetry in Andimeshk, and a book entitled \"Tolou\" (Dawn) was published as part of his literary work."
 
 # --- DEATH ---
 date_of_death: 1980-03-15
@@ -85,9 +96,8 @@ circumstances: >
     dismissal. According to union members, the government ignored their
     demands, which included giving priority to hiring local workers. In
     response, the union organized a sit-in at the Ministry
-event_context: null
-responsible_forces: null
-
+event_context: "1980 Andimeshk Protest"
+responsible_forces: "IRGC"
 # --- VERIFICATION ---
 status: unverified
 sources:

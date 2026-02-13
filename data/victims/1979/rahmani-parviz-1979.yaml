@@ -37,9 +37,8 @@ circumstances: >
     death. He and another individual were shot by a firing squad in Qazvin at
     2:30 a.m. on August 19, 1979, five and a half hours after the beginning of
     their trial.
-event_context: null
-responsible_forces: null
-
+event_context: "1979"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

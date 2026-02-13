@@ -3,7 +3,7 @@ name_latin: "Heshmatollah Reza'i"
 name_farsi: "حشمت الله رضایی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,8 +38,7 @@ circumstances: >
     people, and the victim’s parents in Eslam Abad (Bakhtaran province,
     renamed Kermanshah).
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic’s authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,10 +3,17 @@ name_latin: "Baqer Abashian"
 name_farsi: "باقر عباشیان"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "repeated border crossing on espionage missions to the mercenary country of Iraq"
+  - "giving intelligence reports to the enemy"
+  - "smuggling in arms and ammunitions and distributing them among anti-revolutionaries"
+  - "direct connection to Iraq’s intelligence service"
 
 # --- DEATH ---
 date_of_death: 1980-07-30
@@ -31,8 +38,7 @@ circumstances: >
     Tribunal of Abadan and Khoramshahr found Mr. Abashian a “Ba’th agent” and
     sentenced him to death.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal of Abadan and Khoramshahr"
 # --- VERIFICATION ---
 status: unverified
 sources:

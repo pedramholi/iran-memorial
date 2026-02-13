@@ -3,10 +3,14 @@ name_latin: "Hosein Karimian"
 name_farsi: "حسین کریمیان"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "allegedly summarily or arbitrarily executed"
 
 # --- DEATH ---
 date_of_death: 1985-01-01

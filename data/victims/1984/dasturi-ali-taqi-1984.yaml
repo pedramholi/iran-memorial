@@ -38,9 +38,8 @@ circumstances: >
     Anti-Narcotics Islamic Revolutionary Tribunal of Tehran sentenced Mr.
     Dasturi to death. Having been confirmed by the Islamic Revolution s
     Supreme Court, the sentence was carried out in the morning.
-event_context: null
-responsible_forces: null
-
+event_context: "1984"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

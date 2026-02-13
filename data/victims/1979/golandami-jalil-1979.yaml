@@ -2,11 +2,17 @@ id: golandami-jalil-1979
 name_latin: "Jalil Golandami"
 name_farsi: "جلیل گل اندامی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Mahabad"
 gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "registrar for the Kordish Democratic Party of Iran (PDKI)"
+quotes:
+  - "after the execution, where do you want to be buried?"
+  - "it did not matter, since he would be dead."
 
 # --- DEATH ---
 date_of_death: 1979-09-28
@@ -86,9 +92,8 @@ circumstances: >
     against this defendant cannot be ascertained in the absence of the basic
     guarantees of a fair trial. Evidence of guilt The report of this execution
     does not
-event_context: null
-responsible_forces: null
-
+event_context: "1979 executions"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Avaz Ali Moradi"
 name_farsi: "عوض علی مرادی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -37,8 +37,7 @@ circumstances: >
     the sentence. Mr. Moradi was executed in the presence of the Prosecutor’s
     Deputy at prison of the Police Department Prison in Esfahan.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic’s authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

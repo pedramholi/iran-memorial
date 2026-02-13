@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "retired parachute captain"
+
 # --- DEATH ---
 date_of_death: 1979-05-13
 age_at_death: null
@@ -45,8 +48,7 @@ circumstances: >
     information is available on the defence. Judgment The defendant was
     sentenced to death and executed. No further information is available.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "SAVAK"
 # --- VERIFICATION ---
 status: unverified
 sources:

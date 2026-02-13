@@ -3,10 +3,13 @@ name_latin: "Haj Mahmud Duridavati"
 name_farsi: "حاج محمود دوری دواتی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "international drug trafficker"
 
 # --- DEATH ---
 date_of_death: 1984-08-20
@@ -35,9 +38,8 @@ circumstances: >
     Duridavati s defense. Judgment The Anti-Narcotics Islamic Revolutionary
     Tribunal sentenced Mr. Duridavati to death. The sentence was carried out
     at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "1984"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

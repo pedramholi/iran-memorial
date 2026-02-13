@@ -3,7 +3,7 @@ name_latin: "Haji Jahanian"
 name_farsi: "حاجی جهانیان"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -36,8 +36,7 @@ circumstances: >
     death. Having been confirmed by Qom s Supreme Court, the sentence was
     carried out in public.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

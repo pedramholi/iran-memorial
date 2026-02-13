@@ -3,7 +3,7 @@ name_latin: "Albert Danial-Pur"
 name_farsi: "آلبرت دانیال پور"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Judaism"
 photo: null
@@ -43,9 +43,8 @@ circumstances: >
     s defense. Judgment Mr. Daniel-Pur was sentenced to death and confiscation
     of all his belongings. The death sentence was carried out within moments
     after the issuance of the verdict.
-event_context: null
-responsible_forces: null
-
+event_context: "1980"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

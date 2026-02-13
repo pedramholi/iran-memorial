@@ -3,7 +3,7 @@ name_latin: "Qodrat Afshar"
 name_farsi: "قدرت افشار"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -39,8 +39,7 @@ circumstances: >
     Judgment The Anti-Narcotics Islamic Revolutionary Tribunal sentenced Mr.
     Afshar to death. The sentence was carried out in prison at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Anti-Narcotics Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

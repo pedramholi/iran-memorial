@@ -35,8 +35,7 @@ circumstances: >
     The Islamic Revolutionary Tribunal of Dezful sentenced Ms. Khanderish to
     death, and she was executed in the morning.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+quotes:
+  - "murdering a youngster in Tajrish Square"
+
 # --- DEATH ---
 date_of_death: 1980-03-11
 age_at_death: null
@@ -36,8 +40,7 @@ circumstances: >
     information is available on the accused’s defense. Judgment Mr. Pazuki was
     sentenced to death. The sentence was carried out in the morning .
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

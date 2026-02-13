@@ -3,7 +3,7 @@ name_latin: "Sa'adat Entezari"
 name_farsi: "سعادت انتظاری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
@@ -34,8 +34,7 @@ circumstances: >
     was found guilty of "armed rebellion against the Islamic Republic" and
     sentenced to death. He was executed on Sunday night, September 27th.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Esfahan Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

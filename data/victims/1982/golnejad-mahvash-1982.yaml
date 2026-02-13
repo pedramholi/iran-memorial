@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "student"
+education: "masters"
+
 # --- DEATH ---
 date_of_death: 1982-08-04
 age_at_death: null

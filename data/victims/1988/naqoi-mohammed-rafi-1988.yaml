@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Unknown"
 photo: null
 
+# --- LIFE ---
+beliefs: "member of the Mojahedin"
+
 # --- DEATH ---
 date_of_death: 1988-01-01
 age_at_death: null
@@ -32,9 +35,8 @@ circumstances: >
     No information is available on Mr. Naqoi's defense. Judgment No
     information is available on the judgment or whether an appeal was allowed.
     No further information is available.
-event_context: null
-responsible_forces: null
-
+event_context: "July-December 1988"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

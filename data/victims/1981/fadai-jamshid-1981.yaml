@@ -1,12 +1,18 @@
 id: fadai-jamshid-1981
 name_latin: "Jamshid Fada'i"
 name_farsi: "جمشید فدائی"
-date_of_birth: null
+date_of_birth: "1957-01-01"
 place_of_birth: null
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+family:
+beliefs: "sympathizer or member of the Mojahedin Khalq Organization"
+quotes:
+  - "Verily, the hypocrites shall be in the lowest depth of the fire"
 
 # --- DEATH ---
 date_of_death: 1981-12-29
@@ -45,9 +51,8 @@ circumstances: >
     condemned to death. He and 2 other individuals were executed on December
     29, 1981 in Masjed-e Soleyman (Khuzestan province). He was 24 at the time
     of execution.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -35,8 +35,7 @@ circumstances: >
     defense. Judgment The Islamic Revolutionary Tribunal of Tabriz sentenced
     Mr. Sediqi to death. He was executed at midnight.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

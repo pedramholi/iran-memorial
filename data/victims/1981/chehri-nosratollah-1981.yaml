@@ -2,11 +2,16 @@ id: chehri-nosratollah-1981
 name_latin: "Nosratollah Chehri"
 name_farsi: "نصرت الله چهری"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Kermanshah"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "high school student, worker"
+education: "high school student"
+beliefs: "sympathizer of the Mojahedin Khalq Organization (MKO)"
 
 # --- DEATH ---
 date_of_death: 1981-08-14
@@ -30,7 +35,7 @@ circumstances: >
     available about his defense. Judgment Mr. Nosratollah Chehri was condemned
     to death. He was executed by a firing squad in the Kermanshah prison on
     August 14, 1981.
-event_context: null
+event_context: "1981"
 responsible_forces: null
 
 # --- VERIFICATION ---

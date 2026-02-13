@@ -47,9 +47,8 @@ circumstances: >
     Martyrs of the Peykar Organization, Mr. Seyed Mohammad Arang was executed
     by firing squad in Qom in 1981. No specific information is available about
     the defendant s execution.
-event_context: null
-responsible_forces: null
-
+event_context: "1981"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

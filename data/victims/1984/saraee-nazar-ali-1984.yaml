@@ -3,7 +3,7 @@ name_latin: "Nazar Ali Saraee"
 name_farsi: "نظرعلی سارائی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -36,8 +36,7 @@ circumstances: >
     by the Supreme Judicial Council, the sentence was carried out by the
     Islamic Revolutionary Committee at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

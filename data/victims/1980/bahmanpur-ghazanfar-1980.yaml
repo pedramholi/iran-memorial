@@ -3,7 +3,7 @@ name_latin: "Ghazanfar Bahmanpur"
 name_farsi: "غضنفر بهمن پور"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -66,8 +66,7 @@ circumstances: >
     sentence included confiscation of property for six of the accused. It is
     not clear whether or not Col. Bahrampur’s properties were confiscated.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

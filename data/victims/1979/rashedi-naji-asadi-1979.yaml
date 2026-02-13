@@ -1,12 +1,20 @@
 id: rashedi-naji-asadi-1979
 name_latin: "Naji Asadi Rashedi"
 name_farsi: "ناجی اسدی راشدی"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1950-01-01"
+place_of_birth: "Arvand Kenar"
 gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "barge captain"
+education: "sixth grade graduate"
+family:
+  marital_status: "married"
+  children: 2
+beliefs: "affiliated with the Khalq-e Arab political organization"
 
 # --- DEATH ---
 date_of_death: 1979-09-28
@@ -52,9 +60,8 @@ circumstances: >
     Rashedi to death. One day after this judgment, on September 28, 1979 at 2
     a.m., Mr. Asadi Rashedi was executed by a firing squad inside one of
     Revolutionary Guards’ locations in Khorram Shahr.
-event_context: null
-responsible_forces: null
-
+event_context: "1979 September execution"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

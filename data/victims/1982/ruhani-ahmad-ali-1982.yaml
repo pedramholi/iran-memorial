@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+occupation: "high ranking member of the Peykar Organization"
+beliefs: "Marxism-Leninism"
+
 # --- DEATH ---
 date_of_death: 1982-01-01
 age_at_death: 32
@@ -48,9 +52,8 @@ circumstances: >
     available on Mr. Ruhani's defense. Judgment According to the list of
     Martyrs of the Peykar Organization, Mr. Ruhani was executed by firing
     squad in Tehran in March of 1982.
-event_context: null
-responsible_forces: null
-
+event_context: "executed by firing squad in Tehran in March of 1982"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

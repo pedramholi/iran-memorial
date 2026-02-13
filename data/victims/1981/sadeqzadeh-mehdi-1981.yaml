@@ -43,9 +43,8 @@ circumstances: >
     “corruptor on earth, at war with God and the honorable Prophet, and a
     rebel” and condemned him to death. He and 5 other codefendants were
     executed on December 29, 1981 in Yazd.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 execution"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

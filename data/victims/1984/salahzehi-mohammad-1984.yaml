@@ -8,6 +8,11 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+beliefs: "member of the anti-revolutionary gang of mercenary thugs"
+quotes:
+  - "a member of the anti-revolutionary gang of mercenary thugs"
+
 # --- DEATH ---
 date_of_death: 1984-02-25
 age_at_death: null
@@ -42,8 +47,7 @@ circumstances: >
     the Supreme Judicial Council, the sentence was carried out in public in
     the town of Iranshahr.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

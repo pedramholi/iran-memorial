@@ -35,9 +35,8 @@ circumstances: >
     against the defendant. Defense No information is available on Mr. Kata s
     defense. Judgment The Anti-Narcotics Islamic Revolutionary Tribunal
     sentenced Mr. Kata to death. The sentence was carried out at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "1984"
+responsible_forces: "Anti-Narcotics Section of the Public Prosecutor's Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

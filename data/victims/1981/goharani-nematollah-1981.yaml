@@ -3,10 +3,13 @@ name_latin: "Ne'matollah Goharani"
 name_farsi: "نعمت الله گوهرانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of Mojahedin Khalq Iran"
 
 # --- DEATH ---
 date_of_death: 1981-09-27
@@ -85,9 +88,8 @@ circumstances: >
     France, where they founded the National Council of Resistance. After the
     MKO leaders and many of its members were expelled from France, they went
     to Iraq and founded the National Liberation Army
-event_context: null
-responsible_forces: null
-
+event_context: "June 1981 protests"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

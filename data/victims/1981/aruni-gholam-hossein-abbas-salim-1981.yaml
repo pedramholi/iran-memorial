@@ -1,12 +1,18 @@
 id: aruni-gholam-hossein-abbas-salim-1981
 name_latin: "Gholam Hossein (Abbas) Salim Aruni"
 name_farsi: "غلامحسین (عباس) سلیم آرونی"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1954-01-01"
+place_of_birth: "Mashhad"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  notes: "husband of Ms. Edna Sabet, another member of the Peykar Organization"
+beliefs: "sympathizer of the Fadaiyan Khalq Organization; joined the Marxist-Leninist Faction of the Mojahedin Khalq Organization; member of the Tehran Committee of the Peykar Organization"
 
 # --- DEATH ---
 date_of_death: 1981-08-12
@@ -60,9 +66,8 @@ circumstances: >
     Gholamhossein Salim-Aruni was executed by firing squad in Tehran on August
     12, 1981. The officials did not know his real name. No specific
     information is available about the defendant’s execution.
-event_context: null
-responsible_forces: null
-
+event_context: "executed by firing squad in Tehran on August 12, 1981"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

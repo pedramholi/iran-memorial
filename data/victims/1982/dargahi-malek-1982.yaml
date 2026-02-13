@@ -3,7 +3,7 @@ name_latin: "Malek Dargahi"
 name_farsi: "مالک درگاهی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -41,9 +41,8 @@ circumstances: >
     Anti-Narcotics Islamic Revolutionary Tribunal declared Mr. Dargahi a
     corruptor on earth and sentenced him to death. Having been confirmed by
     the Supreme Judicial Council, the sentence was carried out.
-event_context: null
-responsible_forces: null
-
+event_context: "1982"
+responsible_forces: "Anti-Narcotics Section of the Public Prosecutor's Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

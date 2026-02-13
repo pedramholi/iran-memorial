@@ -1,12 +1,15 @@
 id: davudi-yusef-1981
 name_latin: "Yusef Davudi"
 name_farsi: "یوسف داوودی"
-date_of_birth: null
+date_of_birth: "1964-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "high school student"
 
 # --- DEATH ---
 date_of_death: 1981-07-28
@@ -46,8 +49,7 @@ circumstances: >
     condemned to death. The ruling was carried out when he was executed in the
     Ramhormoz on July 28, 1981 at 4:30 am. He was 17 years old.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Court of Behbahan"
 # --- VERIFICATION ---
 status: unverified
 sources:

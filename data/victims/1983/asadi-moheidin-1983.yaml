@@ -3,7 +3,7 @@ name_latin: "Moheidin As'adi"
 name_farsi: "محی الدین اسعدی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -40,9 +40,8 @@ circumstances: >
     defense. Judgment The Islamic Revolutionary Tribunal of Anti-Drug Campaign
     in Tehran sentenced Mr. As adi to death. Having been confirmed by the
     Supreme Court, the sentence was carried out in Shurabad at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "1983"
+responsible_forces: "Islamic Revolutionary Tribunal of Anti-Drug Campaign"
 # --- VERIFICATION ---
 status: unverified
 sources:

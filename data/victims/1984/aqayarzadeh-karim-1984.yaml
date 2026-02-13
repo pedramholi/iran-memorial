@@ -38,9 +38,8 @@ circumstances: >
     No information is available on Mr. Aqayarzadeh’s defense. Judgment The 6th
     division of the Islamic Revolutionary Tribunal of Tehran sentenced Mr.
     Aqayarzadeh to death. The sentence was carried out in the afternoon.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on June 30, 1984"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

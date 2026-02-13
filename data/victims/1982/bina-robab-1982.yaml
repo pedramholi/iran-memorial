@@ -3,10 +3,13 @@ name_latin: "Robab Bina"
 name_farsi: "رباب بینا"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of the Mujahedin-e Khalq Organization (MKO)"
 
 # --- DEATH ---
 date_of_death: 1982-08-24
@@ -26,8 +29,7 @@ circumstances: >
     Tribunal of Shiraz sentenced Ms. Bina to death. Having been confirmed by
     the Supreme Judicial Council, the sentence was carried out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal of Shiraz"
 # --- VERIFICATION ---
 status: unverified
 sources:

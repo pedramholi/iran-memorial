@@ -1,12 +1,19 @@
 id: ahmadi-ali-1981
 name_latin: "Ali Ahmadi"
 name_farsi: "علی احمدی"
-date_of_birth: null
+date_of_birth: "1963-01-01"
 place_of_birth: null
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "high school student"
+education: "high school"
+family:
+  notes: "son of Ja’far"
+beliefs: "affiliated with the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-12-25
@@ -61,9 +68,8 @@ circumstances: >
     Central Islamic Revolutionary Tribunal condemned Mr. Ali Ahmadi to death.
     According to the Mojahed magazine, he was shot by a firing squad in Tehran
     on December 25, 1981. He was 18 years old.
-event_context: null
-responsible_forces: null
-
+event_context: "June 20, 1981 demonstration"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

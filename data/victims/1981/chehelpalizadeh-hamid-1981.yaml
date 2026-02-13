@@ -2,11 +2,17 @@ id: chehelpalizadeh-hamid-1981
 name_latin: "Hamid Chehelpalizadeh"
 name_farsi: "حمید چهل پلی زاده"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Shushtar, Khuzestan province"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "worked in a shop that repaired radio and television sets"
+education: "bachelor’s degree in agriculture"
+quotes:
+  - "I don’t believe in your heaven and hell."
 
 # --- DEATH ---
 date_of_death: 1981-12-31
@@ -72,9 +78,8 @@ circumstances: >
     to hell.’ But [Hamid’s] reply was: ‘I don’t believe in your heaven and
     hell.’” Mr. Chehelpolizadeh was executed in Shushtar on December 21, 1981
     at midnight.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on December 21, 1981"
+responsible_forces: "Islamic Revolutionary Court of Masjed Soleyman"
 # --- VERIFICATION ---
 status: unverified
 sources:

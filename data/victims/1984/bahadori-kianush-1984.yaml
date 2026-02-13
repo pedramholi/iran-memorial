@@ -39,9 +39,8 @@ circumstances: >
     Kianush Bahadori was shot by a firing squad in Masjed-e Soleyman on
     December 5, 1984. The authorities demanded the cost of the bullets from
     his family.
-event_context: null
-responsible_forces: null
-
+event_context: "executed or killed during clashes with the Islamic Republic security forces from June 1981 to the publication date of the magazine."
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

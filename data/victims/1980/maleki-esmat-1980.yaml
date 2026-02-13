@@ -3,7 +3,7 @@ name_latin: "Esmat Maleki"
 name_farsi: "عصمت مالکی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -36,8 +36,7 @@ circumstances: >
     Judgment the Religious Court of Zarrinshahr found Ms. Maleki a corruptor,
     and she was executed.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

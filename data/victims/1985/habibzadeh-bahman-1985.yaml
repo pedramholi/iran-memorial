@@ -2,11 +2,14 @@ id: habibzadeh-bahman-1985
 name_latin: "Bahman Habibzadeh"
 name_farsi: "بهمن حبیب زاده"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Qaemshahr"
 gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1985-05-13

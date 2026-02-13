@@ -3,7 +3,7 @@ name_latin: "Hezbion Purgiorkin"
 name_farsi: "حزبیون پورگیورکین"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,8 +38,7 @@ circumstances: >
     Judicial Council, the sentence was carried out in the Anti-Narcotics
     Section of the Public Prosecutor's Office.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

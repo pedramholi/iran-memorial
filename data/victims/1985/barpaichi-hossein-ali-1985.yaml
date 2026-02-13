@@ -40,9 +40,8 @@ circumstances: >
     Supreme Court approved the sentence. Mr. Hossein Ali Barpaichi was hanged
     in the afternoon of January 16, 1985 at by the river near the Motahhari
     Square in Qom.
-event_context: null
-responsible_forces: null
-
+event_context: "1985 execution"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

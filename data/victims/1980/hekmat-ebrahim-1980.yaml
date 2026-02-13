@@ -2,7 +2,7 @@ id: hekmat-ebrahim-1980
 name_latin: "Ebrahim Hekmat"
 name_farsi: "ابراهیم حکمت"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Baneh, Kordestan"
 gender: male
 ethnicity: null
 religion: "Presumed Muslim"
@@ -29,8 +29,7 @@ circumstances: >
     Islamic Revolutionary Tribunal of Baneh declared Mr. Hekmat a “corruptor
     on earth.” He was executed on the day of his trial.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

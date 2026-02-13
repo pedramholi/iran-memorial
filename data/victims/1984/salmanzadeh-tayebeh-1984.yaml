@@ -3,7 +3,7 @@ name_latin: "Tayebeh Salmanzadeh"
 name_farsi: "طیبه سلمان زاده"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -37,9 +37,8 @@ circumstances: >
     Salmanzadeh s defense. Judgment The Anti-Narcotics Islamic Revolutionary
     Tribunal sentenced Ms. Salmanzadeh to death. The sentence was carried out
     at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on August 21, 1984"
+responsible_forces: "Anti-Narcotics Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

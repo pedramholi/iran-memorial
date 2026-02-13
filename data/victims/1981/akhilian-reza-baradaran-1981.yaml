@@ -38,9 +38,8 @@ circumstances: >
     Akhilian’s defense. Judgment An Islamic Revolutionary tribunal condemned
     Mr. Reza Baradaran Akhilian to death. He and 11 other individuals were
     executed on December 26, 1981 in Mashad.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Islamic Revolutionary tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

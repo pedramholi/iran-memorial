@@ -2,11 +2,15 @@ id: kurdkoy-masud-shahriyari-balajaddeh-1981
 name_latin: "Mas'ud Shahriyari ( Balajaddeh Kurdkoy)"
 name_farsi: "مسعود شهریاری ( بالا جاده کردکوی)"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Balajaddeh Kordkoy"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "member of Mojahedin Khalq Organization"
+beliefs: "member of Mojahedin Khalq"
 
 # --- DEATH ---
 date_of_death: 1981-10-18
@@ -84,9 +88,8 @@ circumstances: >
     organization had no military training, were not armed, and did not
     participate in armed conflict. Arrest and detention The circumstances of
     this defendant’s arrest and detention are not known.
-event_context: null
-responsible_forces: null
-
+event_context: "June 20, 1981 demonstration"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

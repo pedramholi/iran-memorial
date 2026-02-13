@@ -1,12 +1,21 @@
 id: kuchesfehani-mir-ahmad-masumi-1979
 name_latin: "Mir Ahmad Ma’sumi Kuchesfehani"
 name_farsi: "میر احمد معصومی کوچصفهانی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1924-01-01"
+place_of_birth: "Rasht"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "teacher"
+education: "master’s degree in sociology"
+family:
+  marital_status: "married"
+  children: 4
+quotes:
+  - "I have an LL.B from University of Tehran. In 1959 when I was searching for a job in the Judiciary as a judge, a person named Farhang Sa’adatmand encouraged me to work in SAVAK. I started working in the Judicial Section which was supervised by Dr. Farzin… If you want to know what happened, ask Ayatollah Taleqani [high ranking cleric and member of the revolutionary clerical elite led by Ayatollah Khomeini] Considering all that happened, I do not have anything to say. I am confident that the judges of this court will consider the case fairly. So I end my defense here."
 
 # --- DEATH ---
 date_of_death: 1979-03-13
@@ -59,9 +68,8 @@ circumstances: >
     guilty of “corruption on earth” and sentenced them to death. This verdict
     was carried out at 6:58 a.m. by the a firing squad in Qasr Prison (Kayhan,
     12 March 1980).
-event_context: null
-responsible_forces: null
-
+event_context: "Revolutionary Tribunal of Tehran trial"
+responsible_forces: "SAVAK"
 # --- VERIFICATION ---
 status: unverified
 sources:

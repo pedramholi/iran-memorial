@@ -8,6 +8,11 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+occupation: "political activist"
+education: "student"
+beliefs: "member of Mojahedin Khalq"
+
 # --- DEATH ---
 date_of_death: 1981-07-27
 age_at_death: 32
@@ -56,9 +61,8 @@ circumstances: >
     publication, Mr. Karim Sa’i was killed in Tabriz while being tortured in
     the prison on July 27, 1981. No more specific information is available
     about the defendant’s murder.
-event_context: null
-responsible_forces: null
-
+event_context: "1981"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

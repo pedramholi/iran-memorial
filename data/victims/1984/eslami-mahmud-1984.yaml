@@ -3,10 +3,13 @@ name_latin: "Mahmud Eslami"
 name_farsi: "محمود اسلامی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of Peykar Organization for the Liberation of the Working Class"
 
 # --- DEATH ---
 date_of_death: 1984-01-01
@@ -41,9 +44,8 @@ circumstances: >
     the list of Martyrs of the Peykar Organization, Mr. Eslami was executed by
     firing squad in Tehran during the summer of 1984. No other information is
     available about the execution.
-event_context: null
-responsible_forces: null
-
+event_context: "executed by firing squad in Tehran during the summer of 1984"
+responsible_forces: "Iranian government"
 # --- VERIFICATION ---
 status: unverified
 sources:

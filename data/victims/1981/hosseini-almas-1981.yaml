@@ -3,10 +3,18 @@ name_latin: "Almas Hosseini"
 name_farsi: "الماس حسینی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "revolutionary guard"
+family:
+  marital_status: "married"
+  children: 1
+  notes: "father of one"
+beliefs: "supporter of the Mojahedin Khalq Organization of Iran"
 
 # --- DEATH ---
 date_of_death: 1981-01-01
@@ -30,9 +38,8 @@ circumstances: >
     information regarding the evidence provided against the defendant. Defense
     No information is available on Mr. Hosseini’s defense. Judgment There is
     no information available on the specifics of this defendant's judgement.
-event_context: null
-responsible_forces: null
-
+event_context: "executed or killed during clashes with the Islamic Republic security forces from June 1981 to the publication date of the magazine"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

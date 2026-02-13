@@ -3,10 +3,13 @@ name_latin: "Abolfazael Ahmadi"
 name_farsi: "ابوالفضائل احمدی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "Head of Lorestan Police Stations"
 
 # --- DEATH ---
 date_of_death: 1979-04-14
@@ -34,9 +37,8 @@ circumstances: >
     a fair trial. Judgment The Revolutionary Tribunal of Khoramabad recognized
     Colonel Ahmadi guilty of “corruption on earth” and “treason” and sentenced
     him to death. The verdict was carried out at 6:00 a.m., 14 April 1979.
-event_context: null
-responsible_forces: null
-
+event_context: "1979"
+responsible_forces: "Revolutionary Tribunal of Khoramabad"
 # --- VERIFICATION ---
 status: unverified
 sources:

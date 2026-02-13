@@ -3,7 +3,7 @@ name_latin: "Hushang Javanpur"
 name_farsi: "هوشنگ جوان پور"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -41,8 +41,7 @@ circumstances: >
     been confirmed by the Supreme Judicial Council, the sentence was carried
     out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic Public Prosecution Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

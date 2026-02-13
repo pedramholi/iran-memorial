@@ -1,12 +1,18 @@
 id: peyro-hasan-1979
 name_latin: "Hasan Peyro"
 name_farsi: "حسن پیرو"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1955-01-01"
+place_of_birth: "Shiraz"
 gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "driver"
+family:
+  marital_status: "married"
+  children: 3
 
 # --- DEATH ---
 date_of_death: 1979-08-30
@@ -38,9 +44,8 @@ circumstances: >
     Defense No information is available on the defense. Judgment The Islamic
     Revolutionary Tribunal of Shiraz declared Mr. Peyro a “corruptor on
     earth.” He was executed at 4 a.m.
-event_context: null
-responsible_forces: null
-
+event_context: "1979"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

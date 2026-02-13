@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "Lt. General"
+
 # --- DEATH ---
 date_of_death: 1979-04-11
 age_at_death: null

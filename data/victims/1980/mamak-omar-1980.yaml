@@ -2,7 +2,7 @@ id: mamak-omar-1980
 name_latin: "Omar Mamak"
 name_farsi: "عمر ممک"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Orumieh"
 gender: male
 ethnicity: null
 religion: "Presumed Muslim"
@@ -38,8 +38,7 @@ circumstances: >
     sentenced Mr. Mamak to death. He was executed at dawn the day after his
     trial.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Special Revolutionary Tribunals"
 # --- VERIFICATION ---
 status: unverified
 sources:

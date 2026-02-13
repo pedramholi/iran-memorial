@@ -3,10 +3,14 @@ name_latin: "Senobar Qorbani Ardestani"
 name_farsi: "صنوبر قربانی اردستانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "university student"
+beliefs: "affiliated with the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -85,9 +89,8 @@ circumstances: >
     with armed members of the Mojahedin Organization in clashes with armed
     forces of the Islamic Republic, states that such claims are false
     considering the circumstances in prisons; f
-event_context: null
-responsible_forces: null
-
+event_context: "1988-89 mass execution of political prisoners"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

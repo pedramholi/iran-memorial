@@ -2,11 +2,16 @@ id: bamyar-farhad-1981
 name_latin: "Farhad Bamyar"
 name_farsi: "فرهاد بامیار"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Gorgan"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "Marxist-Leninist"
+quotes:
+  - "Rah-e Kargar or the Revolutionary Workers Organization of Iran was established in the summer of 1979."
 
 # --- DEATH ---
 date_of_death: 1981-11-23
@@ -43,9 +48,8 @@ circumstances: >
     is available about the defendant’s execution. According to the book, Mr.
     Farhad Bamiar was executed by a firing squad in the Revolutionary Guards
     Center in Gorgan on November 23, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "executed by a firing squad on November 23, 1981"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

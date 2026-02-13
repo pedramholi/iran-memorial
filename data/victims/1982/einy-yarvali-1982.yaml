@@ -3,7 +3,7 @@ name_latin: "Yarvali Einy"
 name_farsi: "یارولی عینی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -35,8 +35,7 @@ circumstances: >
     sentenced Mr. Einy to death. The sentence was confirmed by the Islamic
     Revolutionary Supreme Court of Qom. It was carried out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

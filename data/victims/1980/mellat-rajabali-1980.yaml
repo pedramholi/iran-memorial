@@ -3,7 +3,7 @@ name_latin: "Rajabali Mellat"
 name_farsi: "رجبعلی ملت"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -37,8 +37,7 @@ circumstances: >
     Islamic Revolutionary Tribunal of Mashhad declared Mr. Mellat a "corruptor
     on earth and he was sentenced to death.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

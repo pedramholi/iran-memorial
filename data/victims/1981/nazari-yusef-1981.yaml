@@ -3,10 +3,15 @@ name_latin: "Yusef Nazari"
 name_farsi: "یوسف نظری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "active membership in terrorist and anti-people groups"
+quotes:
+  - "armed uprising and conspiracy against the Islamic Republic, participation in clashes, active membership in terrorist and anti-people groups, and connection to American groups."
 
 # --- DEATH ---
 date_of_death: 1981-10-09
@@ -55,9 +60,8 @@ circumstances: >
     Court of Bandar Abbas identified Mr. Yusef Nazari as “at war with God and
     a rebel against the Islamic regime.” He was condemned to death and
     executed in Bandar Abbas on October 6, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

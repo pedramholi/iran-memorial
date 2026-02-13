@@ -3,10 +3,13 @@ name_latin: "Amjad Parviz"
 name_farsi: "امجد پرویز"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "tailor"
 
 # --- DEATH ---
 date_of_death: 1985-03-03
@@ -35,8 +38,7 @@ circumstances: >
     Penal Court sentenced Mr. Parviz to death. After being confirmed by the
     Supreme Court, the sentence was carried out in the evening.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

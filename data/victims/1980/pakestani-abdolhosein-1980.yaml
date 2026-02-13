@@ -3,7 +3,7 @@ name_latin: "Abdolhosein Pakestani"
 name_farsi: "عبدالحسین پاکستانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -36,8 +36,7 @@ circumstances: >
     defense is available. Judgment Mr. Pakestani was sentenced to death. He
     was executed at 11:30 pm, on the same night as his trial.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

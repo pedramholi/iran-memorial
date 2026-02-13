@@ -3,10 +3,15 @@ name_latin: "Sirus (Gholam Reza) Adibi"
 name_farsi: "سیروس (غلامرضا) ادیبی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "assistant manager of accounting"
+education: "bachelor's degree in accounting"
+beliefs: "sympathizer of the Fadaiyan Khalq Organization - Majority"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -86,7 +91,7 @@ circumstances: >
     members of the Mojahedin Khalq Organization as hypocrites who do not
     believe in Islam and who wage war against God and decrees that prisoners
     who still
-event_context: null
+event_context: "1988 mass killings of political prisoners"
 responsible_forces: null
 
 # --- VERIFICATION ---

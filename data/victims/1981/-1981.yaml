@@ -38,9 +38,8 @@ circumstances: >
     Revolutionary Tribunal of Shiraz condemned these two individuals, charged
     with “sodomy”, to death. They were executed by a firing squad on February
     25, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 execution"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

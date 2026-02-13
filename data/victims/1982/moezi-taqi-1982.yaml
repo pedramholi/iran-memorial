@@ -3,7 +3,7 @@ name_latin: "Taqi Mo'ezi"
 name_farsi: "تقی معزی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -26,9 +26,8 @@ circumstances: >
     execution. Mr. Mo’ezi was executed along with at least 5 other men in
     February 1982 at the parking lot of the detention center of the Islamic
     Revolutionary Court, located on 22 Bahman Street, in Sanandaj.
-event_context: null
-responsible_forces: null
-
+event_context: "February 1982"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

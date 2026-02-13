@@ -3,10 +3,13 @@ name_latin: "Yusef Abkhun"
 name_farsi: "یوسف آبخون"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "affiliate of the Rah-e Kargar Organization"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -85,9 +88,8 @@ circumstances: >
     The details regarding the execution sentence are not available. According
     to available information, leftist prisoners executed in 1988 were found to
     be “apostates.” Months after the executions, prison aut
-event_context: null
-responsible_forces: null
-
+event_context: "1988 mass killings of political prisoners"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

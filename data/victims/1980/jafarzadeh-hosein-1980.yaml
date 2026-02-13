@@ -3,7 +3,7 @@ name_latin: "Hosein Jafarzadeh"
 name_farsi: "حسین جعفرزاده"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -39,8 +39,7 @@ circumstances: >
     Tribunal of the Center (Tehran) sentenced Mr. Jafarzadeh to death and he
     was executed at night in the Evin Prison.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

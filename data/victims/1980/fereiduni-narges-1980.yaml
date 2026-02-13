@@ -35,9 +35,8 @@ circumstances: >
     evidence provided against the defendant. Defense No information is
     available on the accused s defense. Judgment Based on the report, Ms.
     Fereiduni was sentenced to death. She was executed at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on June 24, 1980"
+responsible_forces: "Islamic Revolutionary Tribunal for Combatting Drugs and Narcotics"
 # --- VERIFICATION ---
 status: unverified
 sources:

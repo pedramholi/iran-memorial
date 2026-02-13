@@ -1,12 +1,19 @@
 id: foq-daryush-naseri-1981
 name_latin: "Daryush Naseri Foq"
 name_farsi: "داریوش ناصری فوق"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1953-01-01"
+place_of_birth: "Ferdos, Khorassan Province"
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "advising engineer"
+education: "Master's Degree in Civil Engineering"
+family:
+  marital_status: "married"
+beliefs: "supporter of the Peykar Organization for the Liberation of the Working Class"
 
 # --- DEATH ---
 date_of_death: 1981-12-23
@@ -75,9 +82,8 @@ circumstances: >
     Mohareb ( one who wages war with God ) and sentenced him to death. The
     sentence was carried out on Wednesday, December 23, 1981 and he was shot
     by a firing squad at Evin Prison. Mr. Naseri Foq was 28 years old.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on December 23, 1981"
+responsible_forces: "Central Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

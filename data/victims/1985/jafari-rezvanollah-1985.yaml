@@ -1,12 +1,15 @@
 id: jafari-rezvanollah-1985
 name_latin: "Rezvanollah Jafari"
 name_farsi: "رضوان الله جعفری"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1945-01-01"
+place_of_birth: "Qazvin"
+gender: male
 ethnicity: null
 religion: null
 photo: null
+
+# --- LIFE ---
+education: "Master’s degree"
 
 # --- DEATH ---
 date_of_death: 1985-01-01
@@ -28,7 +31,7 @@ circumstances: >
     presented against Mr. Ja’fari. Defense No information is available on Mr.
     Ja’fari’s defense. Judgment According to the electronic form report, Mr.
     Ja’fari was executed in Tehran in 1985.
-event_context: null
+event_context: "execution in Tehran in 1985"
 responsible_forces: null
 
 # --- VERIFICATION ---

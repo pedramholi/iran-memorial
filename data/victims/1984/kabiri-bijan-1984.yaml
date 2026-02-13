@@ -2,11 +2,19 @@ id: kabiri-bijan-1984
 name_latin: "Bijan Kabiri"
 name_farsi: "بیژن کبیری"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Tehran"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "army colonel"
+education: "graduated from the Military College"
+beliefs: "member of the Tudeh Party"
+quotes:
+  - "His connection with the party was not based on ideology, but social justice ….He did not imagine that he was spying for the Soviet Union nor did he intend to overthrow the government."
+  - "the statements of his Party's high ranking members."
 
 # --- DEATH ---
 date_of_death: 1984-02-26
@@ -62,9 +70,8 @@ circumstances: >
     Union nor did he intend to overthrow the government." Judgment The court
     condemned Colonel Kabiri to death. He was executed by a firing squad in
     Tehran on February 26, 1984.
-event_context: null
-responsible_forces: null
-
+event_context: "1984-1985"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

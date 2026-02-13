@@ -30,8 +30,7 @@ circumstances: >
     Judgment Mr. Al-e Naser was sentenced to death by the Special
     Revolutionary Tribunal and the sentence was carried out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Special Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

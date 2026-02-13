@@ -1,12 +1,17 @@
 id: safarinejad-hamid-1982
 name_latin: "Hamid Safarinejad"
 name_farsi: "حمید صفری‌نژاد"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1953-01-01"
+place_of_birth: "Bushehr"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "teacher"
+education: "associate degree"
+beliefs: "sympathizer of the Fadaiyan Khalq Minority Organization"
 
 # --- DEATH ---
 date_of_death: 1982-04-29
@@ -49,9 +54,8 @@ circumstances: >
     executed on April 29, 1982. According to the list of the Fadaiyan Khalq
     Minority Organization, he was executed by firing squad in Bushehr on May
     2, 1982.
-event_context: null
-responsible_forces: null
-
+event_context: "executed on April 29, 1982"
+responsible_forces: "Fadaiyan Khalq Minority Organization"
 # --- VERIFICATION ---
 status: unverified
 sources:

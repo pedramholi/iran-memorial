@@ -3,10 +3,13 @@ name_latin: "Rahmatullah Ruhi"
 name_farsi: "رحمت الله روحی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+beliefs: "active member of the Mujahedin-e Khalq Organization (MKO)"
 
 # --- DEATH ---
 date_of_death: 1982-01-20
@@ -29,8 +32,7 @@ circumstances: >
     found Mr. Ruhi guilty of being a corruptor on earth as well as an enemy of
     God and the prophet, and sentenced him to death.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal of Qaemshahr"
 # --- VERIFICATION ---
 status: unverified
 sources:

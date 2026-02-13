@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Unknown"
 photo: null
 
+# --- LIFE ---
+occupation: "high school student"
+
 # --- DEATH ---
 date_of_death: 1981-08-31
 age_at_death: 18

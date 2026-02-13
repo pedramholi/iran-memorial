@@ -2,11 +2,16 @@ id: afzali-ameneh-malek-1981
 name_latin: "Ameneh Malek Afzali"
 name_farsi: "آمنه ملک افضلی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "village close to Qa'emshahr, Mazandaran"
 gender: female
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "high school student"
+education: "high school"
+beliefs: "MKO sympathizer"
 
 # --- DEATH ---
 date_of_death: 1981-09-18
@@ -53,9 +58,8 @@ circumstances: >
     Tribunal sentenced Ms. Malek Afzali to death and this sentence was
     confirmed by the Supreme Judicial Council. She was executed at 4:30 pm in
     Babol on July 18, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "anti-regime demonstrations during 1980 and 1981"
+responsible_forces: "Babol Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

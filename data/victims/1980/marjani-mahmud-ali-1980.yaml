@@ -3,7 +3,7 @@ name_latin: "Mahmud Ali Marjani"
 name_farsi: "محمود علی مرجانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -40,9 +40,8 @@ circumstances: >
     Judgment Mr. Marjani was found guilty of corruption on earth and waging
     war against God. The death sentence was carried out within moments after
     the issuance of the verdict.
-event_context: null
-responsible_forces: null
-
+event_context: "1980"
+responsible_forces: "Islamic Revolutionary Tribunals"
 # --- VERIFICATION ---
 status: unverified
 sources:

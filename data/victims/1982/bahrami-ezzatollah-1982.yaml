@@ -8,6 +8,11 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+beliefs: "member of the Central Committee of the Fadaiyan Khalq Guerilla Organization (minority faction)"
+quotes:
+  - "a member of the Central Committee of the Fadaiyan Khalq Guerilla Organization (minority faction) that is at war with God"
+
 # --- DEATH ---
 date_of_death: 1982-10-26
 age_at_death: null
@@ -33,8 +38,7 @@ circumstances: >
     to death. Having been confirmed by the Supreme Court of the Islamic
     Republic of Iran, the sentence was carried out at midnight.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal of Arak"
 # --- VERIFICATION ---
 status: unverified
 sources:

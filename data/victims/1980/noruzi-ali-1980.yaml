@@ -37,8 +37,7 @@ circumstances: >
     sentenced Mr. Noruzi to death. He was executed at dawn, three days after
     his trial.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

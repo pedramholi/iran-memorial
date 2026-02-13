@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+beliefs: "member of Mojahedin Khalq Iran"
+
 # --- DEATH ---
 date_of_death: 1982-06-19
 age_at_death: 19
@@ -85,9 +88,8 @@ circumstances: >
     the National Liberation Army of Iran in 1987, which entered Iranian
     territory a few times during the Iran-Iraq war. They were defeated in July
     1988 during their last operation, the Forugh Javidan Operation. A fe
-event_context: null
-responsible_forces: null
-
+event_context: "1981 protests"
+responsible_forces: "Islamic Revolutionary Tribunal of Sari"
 # --- VERIFICATION ---
 status: unverified
 sources:

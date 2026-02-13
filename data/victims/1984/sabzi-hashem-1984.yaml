@@ -8,6 +8,11 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+quotes:
+  - "being actively involved in supplying and distributing heroin and supplying and storing 1 kg of heroin"
+  - "in possession of 713 g of heroin at the time of his arrest, he also sold 10 g of heroin to officers, and had a criminal record for evil-doing"
+
 # --- DEATH ---
 date_of_death: 1984-04-08
 age_at_death: null
@@ -39,8 +44,7 @@ circumstances: >
     Sabzi to death. After being confirmed by the Supreme Court, the sentence
     was carried out at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Anti-Narcotics Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

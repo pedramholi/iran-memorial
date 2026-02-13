@@ -2,8 +2,8 @@ id: narui-qolaqa-1987
 name_latin: "Qolaqa Naru'i"
 name_farsi: "گل آقا ناروئی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Afghanistan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,9 +38,8 @@ circumstances: >
     in the central prison of Zahedan at 5 a.m. on October 25, 1987 in the
     presence of a representative of the Public Prosecution Office and Head of
     the Police Department.
-event_context: null
-responsible_forces: null
-
+event_context: "1987 execution"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

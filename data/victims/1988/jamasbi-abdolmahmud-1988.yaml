@@ -3,10 +3,13 @@ name_latin: "Abdolmahmud Jamasbi"
 name_farsi: "عبدالمحمود جاماسبی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "mathematics teacher"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -78,9 +81,8 @@ circumstances: >
     belongings to their families. The bodies, however, were not returned to
     them. The bodies were buried in mass graves. Authorities warned the
     families of prisoners against holding memorial ceremonies.
-event_context: null
-responsible_forces: null
-
+event_context: "1988-89 mass execution of political prisoners"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

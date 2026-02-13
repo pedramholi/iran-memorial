@@ -3,7 +3,7 @@ name_latin: "Esma'il Alizehi"
 name_farsi: "اسماعیل عالی زهی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,9 +38,8 @@ circumstances: >
     confirmed by the Supreme Judicial Council, the sentence was carried out in
     the Anti-Narcotics Section of the Public Prosecutor s Office in the
     afternoon.
-event_context: null
-responsible_forces: null
-
+event_context: "1986"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

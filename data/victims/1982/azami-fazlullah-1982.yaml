@@ -3,10 +3,13 @@ name_latin: "Fazlullah A'zami"
 name_farsi: "فضل الله اعظمی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+beliefs: "active member of the Mujahedin-e Khalq Organization (MKO)"
 
 # --- DEATH ---
 date_of_death: 1982-01-20
@@ -28,9 +31,8 @@ circumstances: >
     A’zami’s defense. Judgment The Islamic Revolutionary Tribunal of Qaemshahr
     found Mr. A’zami guilty of being a corruptor on earth as well as an enemy
     of God and the prophet, and sentenced him to death.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on January 26, 1982"
+responsible_forces: "Islamic Revolutionary Tribunal of Qaemshahr"
 # --- VERIFICATION ---
 status: unverified
 sources:

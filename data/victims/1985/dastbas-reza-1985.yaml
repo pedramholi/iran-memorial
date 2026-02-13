@@ -53,9 +53,8 @@ circumstances: >
     Tribunal of Tehran sentenced Mr. Dastbas to death. He and 5 others were
     executed in Evin prison on June 15, 1985 “in the presence of the honorable
     family members of the persons that they have martyred.”
-event_context: null
-responsible_forces: null
-
+event_context: "executed in Evin prison on June 15, 1985"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

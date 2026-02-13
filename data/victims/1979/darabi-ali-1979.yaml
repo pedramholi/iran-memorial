@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "employee of the Kuhdasht Judiciary"
+
 # --- DEATH ---
 date_of_death: 1979-09-01
 age_at_death: null
@@ -38,8 +41,7 @@ circumstances: >
     whom the defendant allegedly had an illegitimate relationship was
     sentenced to 100 lashes.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

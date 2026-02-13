@@ -3,7 +3,7 @@ name_latin: "Cheragh Hooti"
 name_farsi: "چراغ هوتی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -43,8 +43,7 @@ circumstances: >
     maintaining security in the region, the defendant was executed immediately
     at 9 p.m.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

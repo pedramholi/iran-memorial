@@ -33,9 +33,8 @@ circumstances: >
     No information is available on his defense. Judgment In accordance with
     the Islamic Revolutionary Tribunal of Qom, Mr. Mehdi Namavar was executed
     in Qom on September 12 or 13, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 execution"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

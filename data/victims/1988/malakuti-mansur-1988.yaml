@@ -2,11 +2,16 @@ id: malakuti-mansur-1988
 name_latin: "Mansur Malakuti"
 name_farsi: "منصور ملکوتی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Gazbarkhar, Esfahan"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "arrested based on information provided by his cousin who was a Revolutionary Guard"
+beliefs: "member of the People's Mojahedin of Iran Organization (PMIO)"
 
 # --- DEATH ---
 date_of_death: 1988-08-06
@@ -85,9 +90,8 @@ circumstances: >
     action or with various [opposition] groups based near the borders. An
     edict of the Leader of the Islamic Republic, Ayatollah Khomeini,
     reproduced in the memoirs of Ayatollah Montazeri, his designated successor
-event_context: null
-responsible_forces: null
-
+event_context: "1988 mass execution of political prisoners"
+responsible_forces: "Revolutionary Guard"
 # --- VERIFICATION ---
 status: unverified
 sources:

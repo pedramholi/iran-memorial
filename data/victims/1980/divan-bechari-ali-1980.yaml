@@ -32,8 +32,7 @@ circumstances: >
     executed at dawn after being convicted by the Islamic Revolutionary
     Tribunal of Abadan and Khoramshahr.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

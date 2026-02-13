@@ -8,6 +8,12 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+beliefs: "member of the Nima Group"
+quotes:
+  - "being a member of the Nima group, based on his own confessions, holding a military meeting and discussing a radical military action, participation in armed kidnapping, participation in providing and distributing the pamphlets of a terrorist group called Pars, and participation in the identification of a TV antenna in Qazvin’s plains in order to carry out the menacing objectives of the group."
+  - "nationalistic opinions."
+
 # --- DEATH ---
 date_of_death: 1982-12-11
 age_at_death: null
@@ -50,8 +56,7 @@ circumstances: >
     Amir Farzan to death. Having been confirmed by the Supreme Court, the
     sentence was carried out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Revolutionary Tribunal of the Islamic Republic of Iran Army"
 # --- VERIFICATION ---
 status: unverified
 sources:

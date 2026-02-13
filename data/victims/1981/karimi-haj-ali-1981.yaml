@@ -3,7 +3,7 @@ name_latin: "Haj Ali Karimi"
 name_farsi: "حاج علی کریمی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -37,9 +37,8 @@ circumstances: >
     defense. Judgment The Islamic Revolutionary Tribunal of Hamedan issued the
     death sentence against Mr. Karimi and the Supreme Judicial Council
     approved it. Mr. Karimi was executed at dawn on Thursday July 16th, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 execution"
+responsible_forces: "Islamic Revolutionary Tribunal of Hamedan"
 # --- VERIFICATION ---
 status: unverified
 sources:

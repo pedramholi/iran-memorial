@@ -1,12 +1,15 @@
 id: pakbaz-alborz-1988
 name_latin: "Alborz Pakbaz"
 name_farsi: "البرز پاکباز"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1961-01-01"
+place_of_birth: "Sisakht, Kohgiluye va Boyeahmad"
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+occupation: "student"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -85,7 +88,7 @@ circumstances: >
     renounced his or her beliefs. Evidence of guilt The report of this
     execution does not contain information regarding the evidence provided
     against the defendant. Defense No information is availab
-event_context: null
+event_context: "1988 mass killings of political prisoners"
 responsible_forces: null
 
 # --- VERIFICATION ---

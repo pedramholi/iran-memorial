@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+beliefs: "actively supporting the Mujahedin-e Khalq Organization"
+
 # --- DEATH ---
 date_of_death: 1982-05-30
 age_at_death: null
@@ -40,8 +43,7 @@ circumstances: >
     guilty of being a corruptor and an enemy of God and was sentenced to
     death. The sentence was carried out .
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal of Bandarabbas"
 # --- VERIFICATION ---
 status: unverified
 sources:

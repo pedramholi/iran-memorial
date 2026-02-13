@@ -1,12 +1,17 @@
 id: alavicheh-ahmad-mirzai-1988
 name_latin: "Ahmad Mirza'i Alavicheh"
 name_farsi: "احمد میرزایی علویچه"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1958-01-01"
+place_of_birth: "Esfahan"
 gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "professional"
+education: "high school graduate"
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -86,7 +91,7 @@ circumstances: >
     revolutionary activity. No charge has been publicly leveled against the
     victims of the 1988 mass executions. In their letters to the Minister of
     Ju
-event_context: null
+event_context: "1988 massacre"
 responsible_forces: null
 
 # --- VERIFICATION ---

@@ -8,6 +8,11 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+occupation: "political activist"
+education: "bachelor's degree in chemistry"
+beliefs: "sympathizer of the Fadaiyan Khalq Organization (Majority)"
+
 # --- DEATH ---
 date_of_death: 1988-01-01
 age_at_death: 39
@@ -86,9 +91,8 @@ circumstances: >
     organization are also waging war against God and should be sentenced to
     death. Defendants, who did not belong to the Organization named by the
     leader of the
-event_context: null
-responsible_forces: null
-
+event_context: "mass killings of political prisoners in 1988"
+responsible_forces: "Ministry of Intelligence"
 # --- VERIFICATION ---
 status: unverified
 sources:

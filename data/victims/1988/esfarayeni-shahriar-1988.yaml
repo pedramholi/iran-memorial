@@ -3,10 +3,13 @@ name_latin: "Shahriar Esfarayeni"
 name_farsi: "شهریار اسفراینی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+beliefs: "sympathizer of the Mojahedin Khalq Organization, changed ideology to communism"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -86,9 +89,8 @@ circumstances: >
     prisoners at Vakilabad Prison in Mashhad in 1988. Based on the Boroumand
     Foundation s research, leftist prisoners executed in 1988 had been found
     to be apostates
-event_context: null
-responsible_forces: null
-
+event_context: "mass killings of political prisoners in 1988"
+responsible_forces: "Mojahedin Khalq Organization"
 # --- VERIFICATION ---
 status: unverified
 sources:

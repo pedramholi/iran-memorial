@@ -3,7 +3,7 @@ name_latin: "Hosein Malekinezhad"
 name_farsi: "حسین ملکی نژاد"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -37,8 +37,7 @@ circumstances: >
     Judgment The Islamic Revolutionary Tribunal of Arak sentenced Mr.
     Malekinezhad to death. He was executed at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

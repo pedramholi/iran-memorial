@@ -3,10 +3,13 @@ name_latin: "Hushang Saneie"
 name_farsi: "هوشنگ صانعی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+beliefs: "membership in the Mujahedin-e Khalq Organization (MKO)"
 
 # --- DEATH ---
 date_of_death: 1982-07-18
@@ -34,8 +37,7 @@ circumstances: >
     and was sentenced to death. There is no reference to the court which
     issued the death sentence in this report.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolution’s Public Prosecutor’s Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

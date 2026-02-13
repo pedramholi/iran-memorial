@@ -3,7 +3,7 @@ name_latin: "Ebadollah Ebadi"
 name_farsi: "عبادالله عبادی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,9 +38,8 @@ circumstances: >
     with the act of sodomy and condemned to death. This incident is also
     reported by Kayhan . Mr. Ebadollah Ebadi, along his co-defendant, was
     executed by a firing squad on May 5, 1981 in Tabriz.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 execution"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

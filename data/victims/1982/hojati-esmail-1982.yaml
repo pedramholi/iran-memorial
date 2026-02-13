@@ -3,10 +3,15 @@ name_latin: "Esma'il Hojati"
 name_farsi: "اسماعیل حجتی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+beliefs: "supporter of the Mojahedin Khalq Organization of Iran"
+quotes:
+  - "The Islamic Revolutionary Tribunal of Mashad declared Mr. Hojati an enemy of God and the Prophet as well as rebellious against God and people and sentenced him to death since his culpability was obvious."
 
 # --- DEATH ---
 date_of_death: 1982-07-23
@@ -44,8 +49,7 @@ circumstances: >
     Having been confirmed by the Islamic Revolutionary Supreme Tribunal, the
     sentence was carried out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

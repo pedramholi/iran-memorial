@@ -2,11 +2,15 @@ id: davari-gholamali-1988
 name_latin: "Gholamali Davari"
 name_farsi: "غلامعلی داوری"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Tehran"
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "Air Force Officer"
+beliefs: "joined the Tudeh Party in 1981"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -78,7 +82,7 @@ circumstances: >
     their beliefs. Judgment No specific information is available about the
     defendant’s execution. Mr. Davari was hanged during the mass killings of
     political prisoners in September 1988.
-event_context: null
+event_context: "mass killings of political prisoners in 1988"
 responsible_forces: null
 
 # --- VERIFICATION ---

@@ -3,7 +3,7 @@ name_latin: "Zaki Khoshijan"
 name_farsi: "زکی خوشی جان"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -36,8 +36,7 @@ circumstances: >
     the enemy of God and the Prophet and sentenced him to death. He was
     executed by firing squad.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

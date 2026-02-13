@@ -1,12 +1,17 @@
 id: arianfar-yusef-1981
 name_latin: "Yusef Arianfar"
 name_farsi: "یوسف آریانفر"
-date_of_birth: null
+date_of_birth: "1957-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "son of Vali"
+beliefs: "membership in Peykar and Vahdat-e Enqelabi Organizations"
 
 # --- DEATH ---
 date_of_death: 1981-09-08
@@ -56,9 +61,8 @@ circumstances: >
     Judgment The Islamic Revolutionary Court of Qazvin condemned Mr. Yusef
     Arianfar to death. He was executed in Qazvin on September 8, 1981. He was
     24 years old.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Islamic Revolutionary Court of Qazvin"
 # --- VERIFICATION ---
 status: unverified
 sources:

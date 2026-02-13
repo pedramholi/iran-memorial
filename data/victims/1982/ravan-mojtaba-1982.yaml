@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+beliefs: "highly active in the military-political wing of the hypocrites (term used for the Mujahedin-e Khalq organization or MKO)"
+
 # --- DEATH ---
 date_of_death: 1982-01-19
 age_at_death: null
@@ -34,8 +37,7 @@ circumstances: >
     Tribunal of Hamedan sentenced Mr. Ravan to death. The sentence was carried
     out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal of Hamedan"
 # --- VERIFICATION ---
 status: unverified
 sources:

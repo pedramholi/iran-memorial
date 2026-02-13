@@ -3,7 +3,7 @@ name_latin: "Sharif Navaseri"
 name_farsi: "شریف نواصری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -31,8 +31,7 @@ circumstances: >
     defendant. Defense The report provides no information about the accused s
     defense. Judgment Mr. Navaseri was found guilty. He was, then, executed.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

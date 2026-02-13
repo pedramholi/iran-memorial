@@ -1,12 +1,18 @@
 id: sahrabadri-hassan-1979
 name_latin: "Hassan Sahrabadri"
 name_farsi: "حسن صحرابدری"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1953-01-01"
+place_of_birth: "Dezful"
 gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "driver"
+education: "middle school"
+family:
+  marital_status: "single"
 
 # --- DEATH ---
 date_of_death: 1979-07-16
@@ -45,9 +51,8 @@ circumstances: >
     verdict of the Islamic Revolutionary Court of Dezful, Mr. Sahrabadri was
     executed by a firing squad at dawn on July 16, 1979 in Dezful. He was
     buried quietly and unceremoniously.
-event_context: null
-responsible_forces: null
-
+event_context: "1978/79"
+responsible_forces: "Islamic Revolutionary Court of Dezful"
 # --- VERIFICATION ---
 status: unverified
 sources:

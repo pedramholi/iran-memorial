@@ -34,9 +34,8 @@ circumstances: >
     not contain information regarding the evidence provided against the
     defendant. Defense No information is available on Mr. Molavi s defense.
     Judgment There is no information on the verdict leading to this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 massive repression"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

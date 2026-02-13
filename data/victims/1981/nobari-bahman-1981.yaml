@@ -48,9 +48,8 @@ circumstances: >
     defense. Judgment The Islamic Revolutionary Tribunal of Tabriz condemned
     Mr. Bahman Nobari to death. He was executed by a firing squad along with 4
     other individuals on June 12, 1981 at Tarbiz prison.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 execution"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

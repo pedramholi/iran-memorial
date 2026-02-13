@@ -1,12 +1,15 @@
 id: deilami-ali-asghar-nikpur-1988
 name_latin: "Ali Asghar Nikpur Deilami"
 name_farsi: "علی اصغر نیکپور دیلمی"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1960-01-01"
+place_of_birth: "Shiraz"
 gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+education: "high school graduate"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -85,9 +88,8 @@ circumstances: >
     throughout Iran. In their 1988 open letter to then-Minister of Justice,
     Dr. Habibi, they argue that the official secrecy surrounding these
     executions is proof of their illegality. They note that an overwhelming
-event_context: null
-responsible_forces: null
-
+event_context: "1988 massacre"
+responsible_forces: "Islamic Revolutionary Court of Ahvaz"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,16 @@
 id: purbakhtegan-abdorreza-1981
 name_latin: "Abdorreza Purbakhtegan"
 name_farsi: "عبدالرضا پوربختگان"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1963-01-01"
+place_of_birth: "Shiraz"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "high school student"
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-09-06
@@ -85,9 +89,8 @@ circumstances: >
     regime called this demonstration illegal, thousands came to the streets,
     some of whom confronted the Revolutionary Guardsmen and Hezbollahis. The
     number of casualties that resulted from this demonstr
-event_context: null
-responsible_forces: null
-
+event_context: "1981 protests"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

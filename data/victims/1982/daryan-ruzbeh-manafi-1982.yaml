@@ -2,11 +2,17 @@ id: daryan-ruzbeh-manafi-1982
 name_latin: "Ruzbeh Manafi Daryan"
 name_farsi: "روزبه منافى دريان"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Tehran"
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+family:
+beliefs: "sympathizer of the Union of Iranian Communists (Sarbedaran)"
+quotes:
+  - "Take off my blindfold. I want to see the people."
 
 # --- DEATH ---
 date_of_death: 1982-01-28
@@ -70,9 +76,8 @@ circumstances: >
     interviewee, a friend of the family who was present at the execution, said
     : "A Revolutionary Guard shouted that 'It's the people who are executing
     you!' Ruzbeh replied, 'Take off my blindfold. I want to see the people.'"
-event_context: null
-responsible_forces: null
-
+event_context: "armed uprising of Sarbedaran in Amol"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

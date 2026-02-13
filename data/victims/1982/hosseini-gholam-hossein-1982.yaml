@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+beliefs: "member of Peykar Organization for the Liberation of the Working Class"
+
 # --- DEATH ---
 date_of_death: 1982-02-03
 age_at_death: null
@@ -44,7 +47,7 @@ circumstances: >
     Martyrs of the Peykar Organization, Mr. Gholam Hossein Hosseini was
     executed in Karaj on February 3, 1982. No specific information is
     available about the defendant’s execution.
-event_context: null
+event_context: "executed in Karaj on February 3, 1982"
 responsible_forces: null
 
 # --- VERIFICATION ---

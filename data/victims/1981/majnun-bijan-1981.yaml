@@ -8,6 +8,11 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+beliefs: "sympathizer of Fadaiyan Khalq Organization (Minority branch)"
+quotes:
+  - "Mr. Majnun denied the charge of training on how to use grenades"
+
 # --- DEATH ---
 date_of_death: 1981-07-25
 age_at_death: 17
@@ -43,9 +48,8 @@ circumstances: >
     charge of training on how to use grenades (electronic form). Judgment Mr.
     Bijan Majnun was executed by a firing squad on July 25, 1981 ( Mojahed
     magazine). The cost of bullet was taken from his family.
-event_context: null
-responsible_forces: null
-
+event_context: "executed on July 25, 1981"
+responsible_forces: "Basij Resistance Force"
 # --- VERIFICATION ---
 status: unverified
 sources:

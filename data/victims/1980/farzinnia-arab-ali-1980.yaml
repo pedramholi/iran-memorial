@@ -3,7 +3,7 @@ name_latin: "Arab Ali Farzinnia"
 name_farsi: "عربعلی فرزین نیا"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -30,9 +30,8 @@ circumstances: >
     Farzinnia an “enemy of God and his prophet," the “murderer of the people
     of God,” and an “obvious example of corruption of earth.” He was executed
     at 11:39 p.m.
-event_context: null
-responsible_forces: null
-
+event_context: "February 10, 1979"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

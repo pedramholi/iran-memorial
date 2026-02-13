@@ -45,9 +45,8 @@ circumstances: >
     available on Ms. Hamidi's defense. Judgment According to the list of
     Martyrs of the Peykar Organization, Ms. Hamidi was executed by firing
     squad in Shiraz on November 25, 1982.
-event_context: null
-responsible_forces: null
-
+event_context: "1982 execution"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

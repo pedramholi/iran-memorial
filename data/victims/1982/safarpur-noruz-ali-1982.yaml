@@ -3,7 +3,7 @@ name_latin: "Noruz 'Ali Safarpur"
 name_farsi: "نوروز علی صفرپور"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -35,8 +35,7 @@ circumstances: >
     Kord sentenced Mr. Safarpur to death. Having been confirmed by Tehran s
     Supreme Court, the sentence was carried out at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

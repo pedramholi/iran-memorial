@@ -3,7 +3,7 @@ name_latin: "Qodratollah Firuzi"
 name_farsi: "قدرت الله فیروزی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -36,8 +36,7 @@ circumstances: >
     Penal Court sentenced Mr. Firuzi to death. The sentence was carried out by
     the lawyer of the victim’s parents.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

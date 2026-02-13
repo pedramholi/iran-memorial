@@ -3,7 +3,7 @@ name_latin: "Abolqasem Momenzadeh Afshar"
 name_farsi: "ابوالقاسم مومن زاده افشار"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,8 +38,7 @@ circumstances: >
     death. Based on the communiqu , the sentence was carried out by the
     representative of the religious judge in Orumiyeh.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Public Prosecution Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

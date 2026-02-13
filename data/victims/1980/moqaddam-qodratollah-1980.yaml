@@ -3,7 +3,7 @@ name_latin: "Qodratollah Moqaddam"
 name_farsi: "قدرت الله مقدم"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -36,8 +36,7 @@ circumstances: >
     Tribunal for Combating Drugs and Narcotics sentenced Mr. Moqaddam to
     death. He was executed at 11 a.m.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Special Islamic Revolutionary Tribunal for Combating Drugs and Narcotics"
 # --- VERIFICATION ---
 status: unverified
 sources:

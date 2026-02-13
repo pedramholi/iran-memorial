@@ -43,9 +43,8 @@ circumstances: >
     trumped-up charges is unknown. Judgment The Revolutionary Tribunal of
     Mashhad sentenced Mr. Bohluli to death. This verdict was carried out at
     dawn on 21 December 1979.
-event_context: null
-responsible_forces: null
-
+event_context: "1979 Iranian Revolution"
+responsible_forces: "Revolutionary Tribunal of Mashhad"
 # --- VERIFICATION ---
 status: unverified
 sources:

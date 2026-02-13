@@ -3,7 +3,7 @@ name_latin: "Rajabali Mohammad Salehi"
 name_farsi: "رجبعلی محمد صالحی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -44,9 +44,8 @@ circumstances: >
     defense. Judgment The Islamic Revolutionary Tribunal of the Center
     (Tehran) sentenced Mr. Mohammad Salehi to death. He was executed in the
     Evin prison at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "1980"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -32,9 +32,8 @@ circumstances: >
     the evidence presented against Mr. Qarib Zadeh. Defense No information is
     available concerning Mr. Gharib-Zadeh's defense. Judgment No specific
     information is available about the verdict leading to this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "1984-1985"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

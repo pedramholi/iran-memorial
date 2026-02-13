@@ -3,7 +3,7 @@ name_latin: "Sattar Qorbani"
 name_farsi: "ستار قربانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,9 +38,8 @@ circumstances: >
     information is available on Mr. Qorbani s defense. Judgment Mr. Qorbani
     was sentenced to death and confiscation of all his belongings. The death
     sentence was carried out within moments after the issuance of the verdict.
-event_context: null
-responsible_forces: null
-
+event_context: "1980"
+responsible_forces: "Islamic Revolutionary Tribunals"
 # --- VERIFICATION ---
 status: unverified
 sources:

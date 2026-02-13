@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+beliefs: "Democratic Party of Iranian Kordestan"
+
 # --- DEATH ---
 date_of_death: 1981-10-30
 age_at_death: null
@@ -41,9 +44,8 @@ circumstances: >
     the evidence provided against the defendant. Defense No information is
     available on Mr. Fattah’s defense. Judgment There is no information on the
     verdict leading to this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "armed clashes between the Revolutionary Guards and the peshmerga"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

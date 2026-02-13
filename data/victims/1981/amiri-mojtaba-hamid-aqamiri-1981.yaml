@@ -2,11 +2,16 @@ id: amiri-mojtaba-hamid-aqamiri-1981
 name_latin: "Mojtaba (Hamid) Aqamiri (Amiri)"
 name_farsi: "مجتبی (حمید) آقامیری (امیری)"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Ahvaz, Kuzestan province"
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "high school student"
+education: "high school"
+beliefs: "sympathizer of the Mojahedin Khalq Organization (MKO)"
 
 # --- DEATH ---
 date_of_death: 1981-07-02
@@ -54,9 +59,8 @@ circumstances: >
     his defense. Judgment The Islamic Revolutionary Tribunal of Ahvaz
     sentenced Mr. Mojtaba Aqamiri to death. He was executed by a firing squad
     at 1:45 a.m. on July 2nd, 1981 in Ahvaz.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 execution"
+responsible_forces: "Islamic Revolutionary Tribunal of Ahvaz"
 # --- VERIFICATION ---
 status: unverified
 sources:

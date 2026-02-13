@@ -3,10 +3,13 @@ name_latin: "Mahmud Moqadam"
 name_farsi: "محمود مقدم"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "affiliated with various opposition groups, member of Peykar Organization for the Liberation of the Working Class"
 
 # --- DEATH ---
 date_of_death: 1981-08-15
@@ -40,9 +43,8 @@ circumstances: >
     provided against the defendant. Defense No information is available on Mr.
     Moqadam s defense. Judgment There is no information on the verdict leading
     to this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "executed or killed during clashes from June 1981 to 1985"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

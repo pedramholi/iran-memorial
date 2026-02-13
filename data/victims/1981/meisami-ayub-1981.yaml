@@ -3,7 +3,7 @@ name_latin: "Ayub Meisami"
 name_farsi: "ایوب میثمی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -43,8 +43,7 @@ circumstances: >
     the verdict of the Islamic Revolutionary Tribunal of Tabriz, Mr. Ayub
     Meisami was executed in Bonab (in East Azarbaijan province).
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+beliefs: "member of Mojahedin Khalq Organization"
+
 # --- DEATH ---
 date_of_death: 1982-10-14
 age_at_death: 23
@@ -85,9 +88,8 @@ circumstances: >
     of 1981, the MKO has continued its activities outside of Iran. No
     information is available regarding members and activities of the MKO
     inside the country. In defense: In spite o
-event_context: null
-responsible_forces: null
-
+event_context: "1981 protests"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

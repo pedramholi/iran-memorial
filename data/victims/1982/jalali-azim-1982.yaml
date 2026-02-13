@@ -2,11 +2,16 @@ id: jalali-azim-1982
 name_latin: "Azim Jalali"
 name_farsi: "عظیم جلالی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Dashtemoghan"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "student"
+education: "Bachelors Degree in chemistry"
+beliefs: "member of Rah-e Kargar Organization"
 
 # --- DEATH ---
 date_of_death: 1982-01-01
@@ -38,9 +43,8 @@ circumstances: >
     available about the defendant’s defence. Judgment No specific information
     is available about the defendant’s execution. Mr. Jalali was executed by a
     firing squad in the Evin Prison in March 1982.
-event_context: null
-responsible_forces: null
-
+event_context: "execution in Evin Prison in March 1982"
+responsible_forces: "firing squad"
 # --- VERIFICATION ---
 status: unverified
 sources:

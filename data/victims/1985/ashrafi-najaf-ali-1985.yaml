@@ -3,10 +3,15 @@ name_latin: "Najaf Ali Ashrafi"
 name_farsi: "نجفعلی اشرفی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of the Mujahedin Khalq Organization"
+quotes:
+  - "a member of the Hypocrites small group [term used by officials of the Islamic Republic to refer to the Mujahedin Khalq Organization] and involved in the assassinations of that time in Shiraz."
 
 # --- DEATH ---
 date_of_death: 1985-02-22
@@ -33,9 +38,8 @@ circumstances: >
     Judgment The Islamic Revolutionary Tribunal of Shiraz sentenced Mr.
     Ashrafi to death. The High Judicial Council confirmed the sentence and he
     was hanged in public in Shiraz.
-event_context: null
-responsible_forces: null
-
+event_context: "executions during clashes with the Islamic Republic security forces from June 1981 to 1985"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,9 +1,9 @@
 id: sadati-ramezan-1985
 name_latin: "Ramezan Sadati"
 name_farsi: "رمضان ساداتی"
-date_of_birth: null
+date_of_birth: "1965-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -37,8 +37,7 @@ circumstances: >
     parking of the City Hall of Amol in the presence of more than 4 thousand
     bystanders. He was 20 years old.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic’s authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

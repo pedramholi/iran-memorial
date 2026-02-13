@@ -1,12 +1,17 @@
 id: masumi-hossein-1988
 name_latin: "Hossein Ma'sumi"
 name_farsi: "حسین معصومی"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1974-01-01"
+place_of_birth: "Baft, Kerman"
 gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "high school student"
+family:
+  notes: "son of Ahmad"
 
 # --- DEATH ---
 date_of_death: 1988-07-30
@@ -85,9 +90,8 @@ circumstances: >
     action or with various [opposition] groups based near the borders, and
     would be sentenced to death. The authorities never informed prisoners
     about the delegation s purpose and the serious implications of their resp
-event_context: null
-responsible_forces: null
-
+event_context: "1988 massacre"
+responsible_forces: "Mojahedin Khalq Organization"
 # --- VERIFICATION ---
 status: unverified
 sources:

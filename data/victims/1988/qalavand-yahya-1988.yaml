@@ -1,12 +1,19 @@
 id: qalavand-yahya-1988
 name_latin: "Yahya Qalavand"
 name_farsi: "یحیی قلاوند"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1963-01-01"
+place_of_birth: "Andimeshk"
 gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "self-employed"
+education: "high school graduate"
+family:
+  marital_status: "unmarried"
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1988-08-05
@@ -85,9 +92,8 @@ circumstances: >
     Charges No charge has been publicly leveled against the victims of the
     1988 mass executions. In their letters to the Minister of Justice (1988)
     and to the UN Special R
-event_context: null
-responsible_forces: null
-
+event_context: "1988 massacre"
+responsible_forces: "Ava i and Khalaf"
 # --- VERIFICATION ---
 status: unverified
 sources:

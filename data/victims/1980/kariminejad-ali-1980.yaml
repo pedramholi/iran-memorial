@@ -1,12 +1,16 @@
 id: kariminejad-ali-1980
 name_latin: "Ali Kariminejad"
 name_farsi: "علی کریمی نژاد"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1954-01-01"
+place_of_birth: "Esfahan"
 gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "son of Ebrahim"
 
 # --- DEATH ---
 date_of_death: 1980-07-21
@@ -54,9 +58,8 @@ circumstances: >
     to the days preceding the success of the Revolution). The Court sentenced
     him to death. Mr. Kariminejad was executed in Esfahan at dawn of July 21,
     1980. He was 26 years old.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on July 21, 1980"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

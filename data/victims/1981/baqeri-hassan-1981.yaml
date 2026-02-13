@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+occupation: "farmer"
+beliefs: "supporter of the Mojahedin Khalq of Iran Organization"
+
 # --- DEATH ---
 date_of_death: 1981-07-12
 age_at_death: 33
@@ -49,9 +53,8 @@ circumstances: >
     Tribunal of Behshahr found Mr. Baqeri guilty of "corruption on earth" and
     "rebellion against God and the People". He was executed at dawn on July
     12, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Islamic Revolutionary Tribunal of Behshahr"
 # --- VERIFICATION ---
 status: unverified
 sources:

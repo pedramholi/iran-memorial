@@ -3,10 +3,15 @@ name_latin: "Esma'il Musa'i"
 name_farsi: "اسماعیل موسایی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "sympathizer of the Peykar Organization"
+quotes:
+  - "I would defend Marxism on my trial."
 
 # --- DEATH ---
 date_of_death: 1988-08-31
@@ -86,9 +91,8 @@ circumstances: >
     Mr. Esma’il Musa’i’s defence. In their open letter, the families of the
     prisoners note that defendants were not given the opportunity to defend
     themselv
-event_context: null
-responsible_forces: null
-
+event_context: "1988-89 mass execution of political prisoners"
+responsible_forces: "Iranian authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,10 +3,13 @@ name_latin: "Shamsedin Kushali Etrati"
 name_farsi: "شمس الدین کوشالی عترتی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of Mojahedin Khalq Iran"
 
 # --- DEATH ---
 date_of_death: 1984-01-01
@@ -86,7 +89,7 @@ circumstances: >
     killed during the mass executions of political prisoners in 1988. Ever
     since the summer of 1981, the MKO has continued its activities outside of
     I
-event_context: null
+event_context: "1981 protests against the Islamic Republic"
 responsible_forces: null
 
 # --- VERIFICATION ---

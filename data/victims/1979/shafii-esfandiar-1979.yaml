@@ -38,9 +38,8 @@ circumstances: >
     however, according to Kauhan , “the execution was to take place in Shiraz
     for certain reasons”. Mr. Esfandiar Shafi’i and his brother were executed
     by firing squad in Shiraz at 2 a.m. on December 7, 1979.
-event_context: null
-responsible_forces: null
-
+event_context: "1979"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -8,6 +8,11 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+occupation: "seismologist"
+education: "PhD in civil engineering"
+beliefs: "secret member of the Revolutionary Organization"
+
 # --- DEATH ---
 date_of_death: 1982-01-01
 age_at_death: 37
@@ -41,9 +46,8 @@ circumstances: >
     on Mr. Iraj Farhumand's defense. Judgment No detail information is
     available on Mr. Iraj Farhumand's execution. According to the published
     list by the Mojahedin Khalq, he was executed in January, 1982.
-event_context: null
-responsible_forces: null
-
+event_context: "executed in January, 1982"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

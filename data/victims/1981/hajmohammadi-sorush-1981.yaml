@@ -3,10 +3,15 @@ name_latin: "Sorush Hajmohammadi"
 name_farsi: "سروش حاج‌محمدی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+beliefs: "supporter of the Mojahedin Khalq Organization"
+quotes:
+  - "hiding arms and combat equipment, providing housing and funds for armed operations, participating in June 20 demonstration, and cooperating with the misguided group of Arman-e Mostazafin."
 
 # --- DEATH ---
 date_of_death: 1981-08-23
@@ -86,9 +91,8 @@ circumstances: >
     a number of high-ranking officials and supporters of the Islamic regime.
     *In the summer of 1981, the leader of the MKO and the impeached President
     (Banisadr)
-event_context: null
-responsible_forces: null
-
+event_context: "June 20 demonstration"
+responsible_forces: "Islamic Revolutionary Prosecutor’s Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

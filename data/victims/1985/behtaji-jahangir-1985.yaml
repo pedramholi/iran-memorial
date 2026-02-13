@@ -3,10 +3,18 @@ name_latin: "Jahangir Behtaji"
 name_farsi: "جهانگیر بهتاجی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "student activist"
+education: "studied agriculture at Shiraz University; biology major student at Tehran University"
+family:
+  notes: "his wife and mother received condolences after his execution"
+personality: "known for his compassionate nature and modesty"
+beliefs: "supporter of guerilla groups; member of Fadayian Khalq Organization Majority"
 
 # --- DEATH ---
 date_of_death: 1985-08-13
@@ -86,9 +94,8 @@ circumstances: >
     transferred to Gohar Dasht prison in Tehran province, where he was in
     solitary confinement for one year. Then he was returned to Evin. His
     family would not be informed o
-event_context: null
-responsible_forces: null
-
+event_context: "Cultural Revolution"
+responsible_forces: "Islamic Republic authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

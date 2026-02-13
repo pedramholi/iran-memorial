@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+family:
+  notes: "son of Seyed Ja’far, brother of Seyed Ata and Seyed Morteza Hossein Hosseini"
+
 # --- DEATH ---
 date_of_death: 1984-08-22
 age_at_death: null
@@ -38,9 +42,8 @@ circumstances: >
     available on Mr. Hosseini’s defense. Judgment The Islamic Revolutionary
     Tribunal sentenced Mr. Seyed Hossein Hosseini to death. He was executed at
     Evin prison on August 22, 1984.
-event_context: null
-responsible_forces: null
-
+event_context: "1984 execution"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

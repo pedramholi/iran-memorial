@@ -3,7 +3,7 @@ name_latin: "Javanmardi"
 name_farsi: "جوانمردی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -32,9 +32,8 @@ circumstances: >
     Revolutionary Tribunal of Bushehr recognized Sergeant Javanmardi guilty of
     corruption on earth and waging war on God and sentenced him to death. He
     was shot dead on 6 February 1979.
-event_context: null
-responsible_forces: null
-
+event_context: "1979"
+responsible_forces: "Revolutionary Tribunal of Bushehr"
 # --- VERIFICATION ---
 status: unverified
 sources:

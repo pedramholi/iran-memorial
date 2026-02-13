@@ -1,12 +1,15 @@
 id: rezai-hojjat-1988
 name_latin: "Hojjat Reza'i"
 name_farsi: "حجت رضائی"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1968-01-01"
+place_of_birth: "Chalus"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of Peykar Organization for the Liberation of the Working Class"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -85,9 +88,8 @@ circumstances: >
     available on Mr. Hojat Reza’i’s defence. In their open letter, the
     families of the prisoners note that defendants were not given the
     opportunity to defend themselves in court. The same lette
-event_context: null
-responsible_forces: null
-
+event_context: "1988-89 mass execution of political prisoners"
+responsible_forces: "Iranian authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

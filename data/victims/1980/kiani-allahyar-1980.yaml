@@ -2,11 +2,15 @@ id: kiani-allahyar-1980
 name_latin: "Allahyar Kiani"
 name_farsi: "الهیار کیانی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Kian Nahavand, Hamedan province"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "son of Mohammad Ebrahim"
 
 # --- DEATH ---
 date_of_death: 1980-07-23
@@ -37,9 +41,8 @@ circumstances: >
     is available on the defense. Judgment The religious judge of the
     Anti-Narcotic Islamic Revolutionary Tribunal sentenced Mr. Allahyar Kiani
     to death. He was executed early in the morning on Wednesday July 23, 1980.
-event_context: null
-responsible_forces: null
-
+event_context: "1980 execution"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

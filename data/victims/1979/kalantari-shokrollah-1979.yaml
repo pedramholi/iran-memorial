@@ -1,12 +1,17 @@
 id: kalantari-shokrollah-1979
 name_latin: "Shokrollah Kalantari"
 name_farsi: "شکرالله کلانتری"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1940-01-01"
+place_of_birth: "Dehagh, Esfahan Province"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "Sergeant Major"
+family:
+  marital_status: "married"
 
 # --- DEATH ---
 date_of_death: 1979-10-11
@@ -85,9 +90,8 @@ circumstances: >
     one session on June 26, 1979. At the trail session, which started at 6:00
     PM and lasted until 8:00 PM, Mr. Kalantari was tried simultaneously with
     the other defenda
-event_context: null
-responsible_forces: null
-
+event_context: "Islamic Revolution"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

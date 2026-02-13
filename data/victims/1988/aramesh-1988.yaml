@@ -3,10 +3,13 @@ name_latin: "Aramesh"
 name_farsi: "آرامش"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "affiliate of the Fadaiyan Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -85,9 +88,8 @@ circumstances: >
     to available information, leftist prisoners executed in 1988 were found to
     be “apostates.” Months after the executions, prison authorities informed
     the families about the executions and handed o
-event_context: null
-responsible_forces: null
-
+event_context: "mass killings of political prisoners in 1988"
+responsible_forces: "Fadaiyan Khalq Organization"
 # --- VERIFICATION ---
 status: unverified
 sources:

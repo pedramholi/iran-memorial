@@ -3,7 +3,7 @@ name_latin: "Taj Mohamad Naruyi"
 name_farsi: "تاج محمد ناروئی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -35,9 +35,8 @@ circumstances: >
     Defense No information is available on Mr. Naruyi's defense. Judgment The
     Islamic Revolutionary Tribunal of Kerman declared Mr. Naruyi a "corruptor
     on earth." The death sentence was carried out at 6:00 am.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 execution"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

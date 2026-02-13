@@ -1,12 +1,17 @@
 id: oveissi-gholam-hossein-1984
 name_latin: "Gholam Hossein Oveissi"
 name_farsi: "غلام‌حسین اویسی"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1926-01-01"
+place_of_birth: "Fordow, Qom"
 gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "mid-ranking civil servant"
+family:
+  notes: "brother of Field Marshal Gholam Ali Oveissi"
 
 # --- DEATH ---
 date_of_death: 1984-02-07
@@ -87,8 +92,7 @@ circumstances: >
     existence of a long term government policy for these extrajudicial
     killings and in some cases
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

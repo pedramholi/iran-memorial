@@ -3,7 +3,7 @@ name_latin: "Yusef Arghani"
 name_farsi: "یوسف ارغانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -33,9 +33,8 @@ circumstances: >
     available on his defense. Judgment In accordance with the Islamic
     Revolutionary Tribunal of Ahvaz, Mr. Yusef Arghani was executed on October
     6, 1981 at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "1981"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

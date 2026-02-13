@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+quotes:
+  - "participation in an international drug-trafficking gang, selling 35 kg of opium, and being a repeat drug offender"
+
 # --- DEATH ---
 date_of_death: 1984-05-30
 age_at_death: null
@@ -38,9 +42,8 @@ circumstances: >
     Revolutionary Tribunal of Tehran sentenced Mr. Abbasi to death. Having
     been confirmed by the Islamic Revolution’s Supreme Court, the sentence was
     carried out in the morning.
-event_context: null
-responsible_forces: null
-
+event_context: "1984 execution"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

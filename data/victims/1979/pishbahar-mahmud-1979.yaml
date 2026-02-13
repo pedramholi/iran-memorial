@@ -3,7 +3,7 @@ name_latin: "Mahmud Pishbahar"
 name_farsi: "محمود پیشبهار"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -39,8 +39,7 @@ circumstances: >
     Revolutionary Tribunal sentenced Mr. Pishbahar to death. He was executed
     at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

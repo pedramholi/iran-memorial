@@ -3,10 +3,14 @@ name_latin: "Alaeddin Mohammadi"
 name_farsi: "علاالدین محمدی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "worker for the United Bus Company of Tehran"
+beliefs: "sympathizer of the Revolutionary Workers Organization of Iran-Rah-e Kargar"
 
 # --- DEATH ---
 date_of_death: 1985-01-01

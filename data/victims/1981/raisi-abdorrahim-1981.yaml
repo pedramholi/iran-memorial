@@ -1,12 +1,19 @@
 id: raisi-abdorrahim-1981
 name_latin: "Abdorrahim Ra'isi"
 name_farsi: "عبدالرحیم رئیسی"
-date_of_birth: null
+date_of_birth: "1956-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "student"
+education: "Zahedan Teacher’s College"
+beliefs: "member of the Peykar Organization for the Liberation of the Working Class"
+quotes:
+  - "confessed to the charges considering the content of the indictment"
 
 # --- DEATH ---
 date_of_death: 1981-07-10
@@ -67,9 +74,8 @@ circumstances: >
     Revolutionary Court of Zahedan identified Mr. Ra’isi as a "corruptor on
     earth, rebel, enemy of God, and apostate." He was condemned to death. He
     was executed on July 18, 1981. He was 25 years old.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Islamic Revolutionary Court of Sistan and Baluchestan"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "Lieutenant"
+
 # --- DEATH ---
 date_of_death: 1980-08-07
 age_at_death: null
@@ -52,9 +55,8 @@ circumstances: >
     Najafabadi a corruptor on earth and an enemy of God and his prophet and
     sentenced him to death. He was executed at 1 a.m., within hours since his
     trial.
-event_context: null
-responsible_forces: null
-
+event_context: "unrealized coup d'etat plan known as Noje"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

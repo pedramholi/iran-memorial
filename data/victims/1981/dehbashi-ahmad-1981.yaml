@@ -2,11 +2,15 @@ id: dehbashi-ahmad-1981
 name_latin: "Ahmad Dehbashi"
 name_farsi: "احمد ده باشی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Bonab, East Azarbaijan"
 gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "father of Abazar"
 
 # --- DEATH ---
 date_of_death: 1981-01-08
@@ -41,8 +45,7 @@ circumstances: >
     accordance with the verdict of the Islamic Revolutionary Tribunal of
     Tabriz, Mr. Ahmad Dehbashi was executed in Tabriz.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

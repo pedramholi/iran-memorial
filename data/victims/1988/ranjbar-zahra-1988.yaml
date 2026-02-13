@@ -1,12 +1,23 @@
 id: ranjbar-zahra-1988
 name_latin: "Zahra Ranjbar"
 name_farsi: "زهرا رنجبر"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1990-01-01"
+place_of_birth: "Shiraz, Fars"
 gender: female
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "student"
+family:
+  marital_status: "single"
+  children: 0
+  notes: "her brother and fianc were executed"
+quotes:
+  - "It was like they were both burned up to her knees."
+  - "She just kept her feet and legs lubricated."
+  - "Zahra told her cellmate that once she became unconscious during flogging. When she gained consciousness, she realized that she had been raped and had to change her underwear."
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -85,9 +96,8 @@ circumstances: >
     opinion and/or speech; War on God, God's Prophet and the deputy of the
     Twelfth Imam. In their letters to the Minister of Justice (1988), and to
     the UN Special Rapporteur visiting Iran (Febr
-event_context: null
-responsible_forces: null
-
+event_context: "1988 mass executions"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,10 +3,15 @@ name_latin: "Mahbubeh Safa'i"
 name_farsi: "محبوبه صفائی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "Her brother, Majid Safa’i, also an MKO sympathizer, was executed in 1986."
+beliefs: "sympathizer of the Mojahedin Khalq Organization (MKO)"
 
 # --- DEATH ---
 date_of_death: 1988-10-20
@@ -68,9 +73,8 @@ circumstances: >
     Judgment According to the MKO website, Ms. Mahbubeh Safa’i was executed
     during the mass killings of the political prisoners in Gohardasht Prison
     in 1988.
-event_context: null
-responsible_forces: null
-
+event_context: "1988 mass execution of political prisoners"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,10 +3,13 @@ name_latin: "Hafez Sarnevesht"
 name_farsi: "حافظ سرنوشت"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+occupation: "Head of Rafsanjan Criminal Police"
 
 # --- DEATH ---
 date_of_death: 1979-06-04
@@ -38,9 +41,8 @@ circumstances: >
     guarantees of a fair trial. Judgment The Revolutionary Tribunal of
     Rafsanjan sentenced Lieutenant Sarnevesht along with one other to death.
     The verdict was carried out at 5:00 a.m. on 4 June 1979.
-event_context: null
-responsible_forces: null
-
+event_context: "1979"
+responsible_forces: "Revolutionary Tribunal of Rafsanjan"
 # --- VERIFICATION ---
 status: unverified
 sources:

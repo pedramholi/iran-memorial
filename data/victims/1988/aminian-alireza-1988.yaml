@@ -1,12 +1,19 @@
 id: aminian-alireza-1988
 name_latin: "Alireza Aminian"
 name_farsi: "علیرضا امینیان"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1956-01-01"
+place_of_birth: "Torbat-e Heidarieh"
 gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "high school teacher"
+education: "student"
+family:
+  marital_status: "single"
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1988-08-10
@@ -85,9 +92,8 @@ circumstances: >
     retried and sentenced to death. Charges The charges against Mr. Aminian
     during his first trial were announced as "sympathizing with the Mojahedin
     Khalq and activity in the Moslem Teacher Association." No charge has bee
-event_context: null
-responsible_forces: null
-
+event_context: "1988 massacre"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

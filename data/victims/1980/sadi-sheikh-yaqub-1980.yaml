@@ -3,7 +3,7 @@ name_latin: "Sheikh Ya'qub Sa'di"
 name_farsi: "شیخ یعقوب سعدی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -31,8 +31,7 @@ circumstances: >
     found Mr. Sa di guilty of corruption on earth. They were executed at 10
     a.m.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

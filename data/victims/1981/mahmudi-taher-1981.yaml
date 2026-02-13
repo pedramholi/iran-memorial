@@ -39,8 +39,7 @@ circumstances: >
     Judgment In accordance with the verdict of the Islamic Revolutionary
     Tribunal of Tabriz, Mr. Taher Mahmudi was executed in Tabriz.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

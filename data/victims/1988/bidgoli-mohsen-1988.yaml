@@ -8,6 +8,11 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+occupation: "vice-admiral in the Iranian Navy"
+education: "attended the University for Military Officers"
+beliefs: "member of the Tudeh Party"
+
 # --- DEATH ---
 date_of_death: 1988-09-08
 age_at_death: null
@@ -86,9 +91,8 @@ circumstances: >
     in prisons; for our children faced most difficult conditions [in prison,
     with] visitation rights of once every 15 days, each visitation lasting ten
     minutes thro
-event_context: null
-responsible_forces: null
-
+event_context: "1988 mass executions"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

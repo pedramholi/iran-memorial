@@ -50,9 +50,8 @@ circumstances: >
     available. Judgment The Second Special Branch of the Army’s Office of
     Prosecution in Isfahan sentenced Mr. Dari to death. The sentence was
     carried immediately on the night of the trial.
-event_context: null
-responsible_forces: null
-
+event_context: "unrealized coup d’etat plan known as Noje"
+responsible_forces: "Army’s Office of Prosecution"
 # --- VERIFICATION ---
 status: unverified
 sources:

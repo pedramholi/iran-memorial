@@ -8,6 +8,12 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+family:
+beliefs: "member of the Mojahedin Khalq Organization (MKO)"
+quotes:
+  - "Yusef Mojtabavi"
+
 # --- DEATH ---
 date_of_death: 1981-08-24
 age_at_death: 25
@@ -86,9 +92,8 @@ circumstances: >
     repressive campaign unprecedented in modern Iranian history. Thousands of
     MKO members and sympathizers were arrested or executed. On June 21, 1981,
     t
-event_context: null
-responsible_forces: null
-
+event_context: "1981 political repression"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

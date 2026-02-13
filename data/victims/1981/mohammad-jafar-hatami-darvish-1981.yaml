@@ -1,12 +1,18 @@
 id: mohammad-jafar-hatami-darvish-1981
 name_latin: "Ja'far Hatami (Darvish Mohammad)"
 name_farsi: "جعفر حاتمی (درویش محمد)"
-date_of_birth: null
+date_of_birth: "1958-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+education: "high school graduate"
+family:
+  marital_status: "single"
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-07-05
@@ -73,9 +79,8 @@ circumstances: >
     by firing squad in the Evin prison yard on July 5, 1981 at night. No
     specific information is available about the defendant’s execution. Mr.
     Ja’far Hatami was 23 years old.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

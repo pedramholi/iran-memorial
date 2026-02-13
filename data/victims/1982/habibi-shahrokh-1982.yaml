@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
 
+# --- LIFE ---
+occupation: "teacher"
+beliefs: "supporter of the Mojahedin Khalq Organization of Iran"
+
 # --- DEATH ---
 date_of_death: 1982-01-01
 age_at_death: null
@@ -29,9 +33,8 @@ circumstances: >
     report of this execution does not contain information regarding the
     evidence provided against the defendant. Defense No information is
     available on Mr. Habibi’s defense. Judgment
-event_context: null
-responsible_forces: null
-
+event_context: "executed or killed during clashes from June 1981 to 1985"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

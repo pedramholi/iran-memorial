@@ -3,7 +3,7 @@ name_latin: "Sediq Alinia"
 name_farsi: "صدیق علی نیا"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -26,9 +26,8 @@ circumstances: >
     against the defendant. Defense No information is available on Mr. Alinia’s
     defense. Judgment The Islamic Revolutionary Tribunal of Takab sentenced
     Mr. Alinia to death. The sentence was carried out.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on August 29, 1982"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

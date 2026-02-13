@@ -2,11 +2,21 @@ id: azdanlu-masumeh-qajar-1982
 name_latin: "Ma'sumeh Qajar Azdanlu"
 name_farsi: "معصومه قجرعضدانلو"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Tehran"
+gender: female
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "industrial engineering student"
+education: "Tehran College of Science and Technology (Elmosan'at)"
+family:
+  marital_status: "married"
+  notes: "husband was Mas’ud Izadkhah, who was killed during the Revolutionary Guards' attack"
+beliefs: "MKO sympathizer"
+quotes:
+  - "Due to the torture, she miscarried her baby and was not able to walk. Since they did not treat her jaw; she had hard time talking and eating. They didn't give her any pain killers so she was very weak and in constant pain."
 
 # --- DEATH ---
 date_of_death: 1982-09-29
@@ -63,9 +73,8 @@ circumstances: >
     is available about this execution. According to the MKO website, Ms. Qajar
     Azdanlu was executed by a firing squad in the Evin prison on September 29,
     1982.
-event_context: null
-responsible_forces: null
-
+event_context: "June 20, 1981 demonstrations"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

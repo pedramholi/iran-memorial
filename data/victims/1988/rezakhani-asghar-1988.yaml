@@ -8,6 +8,12 @@ ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
 
+# --- LIFE ---
+occupation: "employee of the Niru Ministry"
+family:
+  marital_status: "single"
+beliefs: "member of the Mojahedin Khalq Organization"
+
 # --- DEATH ---
 date_of_death: 1988-08-09
 age_at_death: null
@@ -85,7 +91,7 @@ circumstances: >
     led to their executions. These accusations include being
     counter-revolutionary, anti-religion, and anti-Islam, as well as being
     associated with military action or with various [opposition] groups based
-event_context: null
+event_context: "1988 massacre"
 responsible_forces: null
 
 # --- VERIFICATION ---

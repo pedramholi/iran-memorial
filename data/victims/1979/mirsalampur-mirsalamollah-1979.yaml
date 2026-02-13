@@ -3,7 +3,7 @@ name_latin: "Mirsalamollah Mirsalampur"
 name_farsi: "میرسلام الله میرسلامپور"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -28,9 +28,8 @@ circumstances: >
     Defense No information is available on the defense. Judgment The Islamic
     Revolutionary Tribunal of Orumieh sentenced Mr. Mirsalampur to death. He
     was executed at dawn, 3 days after the issuance of the verdict.
-event_context: null
-responsible_forces: null
-
+event_context: "1979"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

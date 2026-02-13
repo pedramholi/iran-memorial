@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "member of Organization of Intelligence and National Security (SAVAK)"
+
 # --- DEATH ---
 date_of_death: 1979-12-21
 age_at_death: null
@@ -31,9 +34,8 @@ circumstances: >
     cannot be ascertained in the absence of the basic guarantees of a fair
     trial. Judgment The Revolutionary Tribunal of Mashhad sentenced Mr. Rajabi
     to death. This verdict was carried out at dawn on 21 December 1979.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on 21 December 1979"
+responsible_forces: "Revolutionary Tribunal of Mashhad"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Unknown"
 photo: null
 
+# --- LIFE ---
+quotes:
+  - "luring girls and spreading prostitution"
+
 # --- DEATH ---
 date_of_death: 1980-05-08
 age_at_death: null
@@ -37,8 +41,7 @@ circumstances: >
     available on the accused defense. Judgment The Revolutionary Tribunal
     declared Ms. Sadeqi a "corruptor on earth." She was executed at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic’s authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

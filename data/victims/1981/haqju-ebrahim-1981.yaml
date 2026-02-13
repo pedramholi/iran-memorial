@@ -2,7 +2,7 @@ id: haqju-ebrahim-1981
 name_latin: "Ebrahim Haqju"
 name_farsi: "ابراهیم حق جو"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Shiraz, Fars Province"
 gender: male
 ethnicity: null
 religion: "Presumed Muslim"
@@ -33,9 +33,8 @@ circumstances: >
     against the defendant. Defense No information is available on his defense.
     Judgment The Islamic Revolutionary Tribunal of Eshefan condemned Mr.
     Ebrahim Haqju to death. He was executed in Esfahan on August 9, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on August 9, 1981"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

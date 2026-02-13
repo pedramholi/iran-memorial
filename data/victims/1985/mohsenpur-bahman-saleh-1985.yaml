@@ -85,9 +85,8 @@ circumstances: >
     *The exclusion of MKO members from government offices and the closure of
     their centers and publishing houses, in conjunction with to the Islamic
     Republic authorities different i
-event_context: null
-responsible_forces: null
-
+event_context: "1984-1985"
+responsible_forces: "Intelligence Office of Mazandaran"
 # --- VERIFICATION ---
 status: unverified
 sources:

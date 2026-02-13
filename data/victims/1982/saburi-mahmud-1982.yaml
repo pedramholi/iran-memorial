@@ -3,7 +3,7 @@ name_latin: "Mahmud Saburi"
 name_farsi: "محمود صبوری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -26,9 +26,8 @@ circumstances: >
     the evidence provided against the defendant. Defense No information is
     available on Mr.Saburi’s defense. Judgment There is no information on the
     verdict leading to this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "executed or killed during clashes with the Islamic Republic security forces from June 1981 to 1985"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

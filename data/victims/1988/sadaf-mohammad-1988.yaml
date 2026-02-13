@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+beliefs: "member of the People's Mojahedin Organization of Iran (PMOI)"
+
 # --- DEATH ---
 date_of_death: 1988-08-02
 age_at_death: 25
@@ -58,9 +61,8 @@ circumstances: >
     the families reject the claim of the authorities that these prisoners were
     able to engage with any political group outside Iran. Judgment No sentence
     was issued publicly.
-event_context: null
-responsible_forces: null
-
+event_context: "1988-89 mass execution of political prisoners"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

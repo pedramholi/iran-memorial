@@ -1,12 +1,22 @@
 id: daryani-sima-1981
 name_latin: "Sima Daryani"
 name_farsi: "سیما دریانی"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1952-06-27"
+place_of_birth: "Babolsar, Mazandaran province"
 gender: female
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "student"
+education: "Social Sciences School of Tehran University"
+family:
+  notes: "lived with her cousin in Tehran"
+personality: "kind and had a good sense of humor"
+beliefs: "sympathizer of Fadaiyan Khalq Organization"
+quotes:
+  - "\"She asked me to take care of her cousin, who was younger than her and whose mother had passed away.\""
 
 # --- DEATH ---
 date_of_death: 1981-11-29
@@ -85,9 +95,8 @@ circumstances: >
     her and whose mother had passed away. She told me that during the
     interrogation she defended her political views and she wanted me to tell
     her
-event_context: null
-responsible_forces: null
-
+event_context: "1981"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

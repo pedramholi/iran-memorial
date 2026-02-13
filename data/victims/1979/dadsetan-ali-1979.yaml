@@ -4,9 +4,12 @@ name_farsi: "علی دادستان"
 date_of_birth: null
 place_of_birth: null
 gender: male
-ethnicity: null
+ethnicity: "Kurdish"
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+occupation: "Peshmerga"
 
 # --- DEATH ---
 date_of_death: 1979-08-25
@@ -31,9 +34,8 @@ circumstances: >
     provided against the defendant. Defense No information is available about
     any defense offered by Mr. Dadsetan. Judgment Mr. Dadsetan was executed on
     the order of Ayatollah Khalkhali.
-event_context: null
-responsible_forces: null
-
+event_context: "executions of Kurds in Marivan during the latter half of August, 1979"
+responsible_forces: "Ayatollah Khalkhali"
 # --- VERIFICATION ---
 status: unverified
 sources:

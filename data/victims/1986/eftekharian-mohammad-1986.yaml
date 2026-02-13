@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+quotes:
+  - "promoting evil deeds and establishing corruption and prostitution centers"
+
 # --- DEATH ---
 date_of_death: 1986-04-23
 age_at_death: 33
@@ -42,9 +46,8 @@ circumstances: >
     Karaj sentenced Mr. Eftekharian to death by stoning. The Supreme Judicial
     Council confirmed the sentence. He and another man were stoned to death in
     public on April 23, 1986.
-event_context: null
-responsible_forces: null
-
+event_context: "1986 execution"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

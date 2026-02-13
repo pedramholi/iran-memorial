@@ -3,7 +3,7 @@ name_latin: "Sharif Qanbarzehigargij"
 name_farsi: "شریف قنبرزهی گرگیج"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -39,9 +39,8 @@ circumstances: >
     Sistan and Baluchestan sentenced Mr. Qanbarzehigargij to death. Having
     been confirmed by the Supreme Court, the sentence was carried out in the
     Islamic Revolutionary Committee at 1 a.m.
-event_context: null
-responsible_forces: null
-
+event_context: "1983"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,10 +3,13 @@ name_latin: "Sa'id Saburi Jahromi"
 name_farsi: "سعید صبوری جهرمی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "high school student"
 
 # --- DEATH ---
 date_of_death: 1981-11-25
@@ -49,9 +52,8 @@ circumstances: >
     Peykar Organization, Mr. Sa’id Saburi-Jahromi was executed in Shiraz on
     November 25, 1982. No specific information is available about the
     defendant’s execution.
-event_context: null
-responsible_forces: null
-
+event_context: "executed in Shiraz on November 25, 1982"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Havalkhan Alizehi"
 name_farsi: "حول خان یوسف زهی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,9 +38,8 @@ circumstances: >
     and Baluchestan sentenced Mr. Yusefzehi to death. Having been confirmed by
     the Supreme Judicial Council, the sentence was carried out in public in
     the Addicts Rehabilitation Center.
-event_context: null
-responsible_forces: null
-
+event_context: "1983"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

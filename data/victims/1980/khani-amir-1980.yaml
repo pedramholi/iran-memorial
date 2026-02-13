@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "former police officer"
+
 # --- DEATH ---
 date_of_death: 1980-02-06
 age_at_death: null
@@ -43,9 +46,8 @@ circumstances: >
     Defense No information is available on the accused s defense. Judgment The
     Islamic Revolutionary Tribunal of the Center (Tehran) sentenced Mr. Khani
     to death. He was executed in the Evin prison at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "execution in Evin prison"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

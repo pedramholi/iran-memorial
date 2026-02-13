@@ -3,10 +3,15 @@ name_latin: "Byok Amini Afshar"
 name_farsi: "بیوک امینی افشار"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "Lieutenant General"
+family:
+  notes: "brother of Brigadier General Iraj Amini Afshar who was executed in Qasr prison in April 1979"
 
 # --- DEATH ---
 date_of_death: 1982-01-01
@@ -35,8 +40,7 @@ circumstances: >
     General Amini Afshar to death. He was executed in Tehran. The exact date
     of the execution is not known.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Public Prosecutor’s Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

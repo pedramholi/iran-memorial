@@ -1,12 +1,18 @@
 id: mahdiun-farhad-1988
 name_latin: "Farhad Mahdiun"
 name_farsi: "فرهاد مهدیون"
-date_of_birth: null
+date_of_birth: "1958-01-01"
 place_of_birth: null
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "teacher"
+education: "bachelor's degree from Allameh-Tabataba'i University"
+personality: "very smart: a Marxist theorist"
+beliefs: "Marxist"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -85,7 +91,7 @@ circumstances: >
     1988, and to the UN Special Rapporteur visiting Iran in February 2003, the
     families of the victims refer to the authorities accusations against the
     prisoners accusations that may have led to their executions. These
-event_context: null
+event_context: "1988 mass killings of political prisoners"
 responsible_forces: null
 
 # --- VERIFICATION ---

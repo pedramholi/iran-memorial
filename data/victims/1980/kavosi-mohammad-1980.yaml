@@ -36,8 +36,7 @@ circumstances: >
     report, the Islamic Revolutionary Tribunal of Mashhad sentenced Mr. Kavosi
     to death. He was executed at two in the morning.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

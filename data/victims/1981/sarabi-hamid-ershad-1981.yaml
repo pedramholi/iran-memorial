@@ -1,12 +1,15 @@
 id: sarabi-hamid-ershad-1981
 name_latin: "Hamid Ershad Sarabi"
 name_farsi: "حمید ارشاد سرابی"
-date_of_birth: null
+date_of_birth: "1962-01-01"
 place_of_birth: null
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-08-29
@@ -31,9 +34,8 @@ circumstances: >
     available on Mr. Ershad Sarabi’s defense. Judgment There is no information
     on the verdict leading to this execution. Mr. Hamid Ershad Sarabi was shot
     by firing squad in Sabzevar on August 29, 1981. He was 19 years old.
-event_context: null
-responsible_forces: null
-
+event_context: "executed during clashes with the Islamic Republic security forces from June 1981 to August 29, 1981"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

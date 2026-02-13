@@ -38,9 +38,8 @@ circumstances: >
     Supreme Court confirmed the sentenced. He and 12 other individuals were
     hanged in the prison of the Police Department of Kerman on October 22,
     1985.
-event_context: null
-responsible_forces: null
-
+event_context: "1985 execution"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

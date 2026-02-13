@@ -3,10 +3,14 @@ name_latin: "Bushehr Niknam"
 name_farsi: "بوشهر نیکنام"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "The Islamic Revolutionary Tribunal of Shiraz had tried and condemned the accused to imprisonment; however, he had been released due to his young age and expressing regrets [about what he had done]."
 
 # --- DEATH ---
 date_of_death: 1981-01-05
@@ -39,9 +43,8 @@ circumstances: >
     Second Branch of the Islamic Revolutionary Tribunal of Shiraz condemned
     Mr. Bushehr Niknam to death. He was shot by a firing squad in the
     afternoon of January 5, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 execution"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

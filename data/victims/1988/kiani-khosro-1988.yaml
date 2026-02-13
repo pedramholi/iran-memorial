@@ -2,7 +2,7 @@ id: kiani-khosro-1988
 name_latin: "Khosro Kiani"
 name_farsi: "خسرو کیانی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Tehran"
 gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
@@ -70,9 +70,8 @@ circumstances: >
     engage with any political group outside Iran. Judgment No sentence was
     issued publicly. Mr. Kiani was executed at the Gohardasht Prison in the
     August of 1988.
-event_context: null
-responsible_forces: null
-
+event_context: "1988-89 mass execution of political prisoners"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

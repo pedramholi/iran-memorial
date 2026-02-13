@@ -1,12 +1,20 @@
 id: karami-jalil-1981
 name_latin: "Jalil Karami"
 name_farsi: "جلیل کرمی"
-date_of_birth: null
+date_of_birth: "1962-01-01"
 place_of_birth: null
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+education: "high school graduate"
+family:
+  marital_status: "single"
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
+quotes:
+  - "armed uprising against the Islamic Republic of Iran"
 
 # --- DEATH ---
 date_of_death: 1981-07-02
@@ -42,8 +50,7 @@ circumstances: >
     on July 2, 1981 at 1:45 am. No specific information is available about the
     defendant’s execution. Mr. Jalil Karami was 19 years old.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Court of Ahvaz"
 # --- VERIFICATION ---
 status: unverified
 sources:

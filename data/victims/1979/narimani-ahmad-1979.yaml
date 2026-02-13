@@ -34,9 +34,8 @@ circumstances: >
     people convicted based on trumped-up charges is unknown. Judgment The
     Revolutionary Tribunal of Mashhad sentenced Mr. Narimani to death. This
     verdict was carried out at dawn on 21 December 1979.
-event_context: null
-responsible_forces: null
-
+event_context: "1979"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

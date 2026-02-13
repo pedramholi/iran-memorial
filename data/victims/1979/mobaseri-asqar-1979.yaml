@@ -3,8 +3,8 @@ name_latin: "Asqar Mobaseri"
 name_farsi: "اصغر مبصری"
 date_of_birth: null
 place_of_birth: null
-gender: null
-ethnicity: null
+gender: male
+ethnicity: "Kurdish"
 religion: "Presumed Muslim"
 photo: null
 
@@ -31,9 +31,8 @@ circumstances: >
     information regarding the evidence provided against the defendant. Defense
     No information is available about any defense offered by Mr. Mobaseri.
     Judgment Mr. Mobaseri was executed on the order of Ayatollah Khalkhali.
-event_context: null
-responsible_forces: null
-
+event_context: "executions of Kurds in Sanandaj during the latter half of August, 1979"
+responsible_forces: "Ayatollah Khalkhali"
 # --- VERIFICATION ---
 status: unverified
 sources:

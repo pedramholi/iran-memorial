@@ -42,8 +42,7 @@ circumstances: >
     Judgment The Anti-Narcotics Islamic Revolutionary Tribunal of Tehran
     sentenced Mr. Qasemzadeh Purmotlaq to death. The sentence was carried out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Anti-Narcotics Section of the Public Prosecutor's Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

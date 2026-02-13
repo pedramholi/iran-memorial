@@ -3,10 +3,13 @@ name_latin: "Ne'matollah Mo'tamedi"
 name_farsi: "نعمت الله معتمدی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "Brigadier General"
 
 # --- DEATH ---
 date_of_death: 1979-02-20

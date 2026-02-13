@@ -3,10 +3,13 @@ name_latin: "Chizam Hassani"
 name_farsi: "چیزام حسنی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of Peykar Organization for the Liberation of the Working Class"
 
 # --- DEATH ---
 date_of_death: 1983-02-28
@@ -47,9 +50,8 @@ circumstances: >
     Martyrs of the Peykar Organization, Mr. Chizam Hassani was executed by
     firing squad on February 28, 1983. No specific information is available
     about the defendant’s execution.
-event_context: null
-responsible_forces: null
-
+event_context: "executed on February 28, 1983"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

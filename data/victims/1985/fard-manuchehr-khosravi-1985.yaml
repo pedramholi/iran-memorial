@@ -3,7 +3,7 @@ name_latin: "Manuchehr Khosravi Fard"
 name_farsi: "منوچهر خسروی فرد"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -41,9 +41,8 @@ circumstances: >
     sentenced Mr. Khosravi Fard to death and the Supreme Court approved the
     verdict. Mr. Manuchehr Khosravi Fard and 24 other individuals were hanged
     at Qasr prison in Tehran on January 28, 1985.
-event_context: null
-responsible_forces: null
-
+event_context: "1985 execution"
+responsible_forces: "Islamic Revolutionary Prosecution Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

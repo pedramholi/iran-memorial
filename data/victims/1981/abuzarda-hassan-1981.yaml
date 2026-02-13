@@ -1,12 +1,16 @@
 id: abuzarda-hassan-1981
 name_latin: "Hassan Abuzarda'"
 name_farsi: "حسن ابوذرداء"
-date_of_birth: null
+date_of_birth: "1953-01-01"
 place_of_birth: null
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "teacher"
+beliefs: "supporter of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-07-15
@@ -40,9 +44,8 @@ circumstances: >
     and rebellion, and sentenced him to death. Mr. Abuzarda was executed by a
     firing squad on July 15, 1981. Mr. Abuzarda was 28 years old at the time
     of his execution.
-event_context: null
-responsible_forces: null
-
+event_context: "executed on July 15, 1981"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

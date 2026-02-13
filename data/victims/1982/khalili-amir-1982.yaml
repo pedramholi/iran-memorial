@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+beliefs: "sympathizer of the Revolutionary Workers Organization of Iran-Rah-e Kargar"
+
 # --- DEATH ---
 date_of_death: 1982-06-21
 age_at_death: 22
@@ -39,9 +42,8 @@ circumstances: >
     defence. Judgment No specific information is available about the
     defendant’s execution sentence. According to the Mojahedin list, Mr.
     Khalili was executed in the winter of 1983 by the firing squad in Tehran.
-event_context: null
-responsible_forces: null
-
+event_context: "executed in the winter of 1983"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

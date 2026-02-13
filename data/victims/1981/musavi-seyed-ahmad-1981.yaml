@@ -34,9 +34,8 @@ circumstances: >
     against the defendant. Defense No information is available on his defense.
     Judgment Pursuant to the verdict of Islamic Revolutionary Tribunal of
     Ahvaz, Mr. Seyed Ahmad Musavi was executed on October 6, 1981 at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "1981"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -85,9 +85,8 @@ circumstances: >
     The details regarding the execution sentence are not available. According
     to available information, leftist prisoners executed in 1988 were found to
     be “apostates.” Months after the executions, pri
-event_context: null
-responsible_forces: null
-
+event_context: "1988 mass killings of political prisoners"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

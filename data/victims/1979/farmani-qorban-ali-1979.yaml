@@ -3,10 +3,15 @@ name_latin: "Qorban Ali Farmani"
 name_farsi: "قربان علی فرمانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "police officer"
+family:
+  marital_status: "married"
 
 # --- DEATH ---
 date_of_death: 1979-01-01
@@ -34,9 +39,8 @@ circumstances: >
     to be represented by an attorney. Judgment The Islamic Revolutionary
     Tribunal condemned Mr. Qorban Ali Farmani to death. He was shot by a
     firing squad in the cellar of the courthouse in 1979.
-event_context: null
-responsible_forces: null
-
+event_context: "1979"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

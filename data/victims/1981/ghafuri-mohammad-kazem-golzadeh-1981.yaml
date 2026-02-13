@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+family:
+  notes: "His brother, Mohammad Sadeq, and his sister, Maryam were also executed in the 1980’s."
+
 # --- DEATH ---
 date_of_death: 1981-10-05
 age_at_death: 19
@@ -66,9 +70,8 @@ circumstances: >
     death for being “rebellious against Islam”, “an enemy of God”, and “a
     corruptor on earth.” The sentence was carried out at dawn in the courtyard
     of the Prison.
-event_context: null
-responsible_forces: null
-
+event_context: "executions during clashes with the Islamic Republic security forces from June 1981 to the publication date of the magazine."
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

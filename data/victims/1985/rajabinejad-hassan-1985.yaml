@@ -8,6 +8,11 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+beliefs: "member of the Mujahedin Khalq Organization"
+quotes:
+  - "a member of the Hypocrites small group [term used by officials of the Islamic Republic to refer to the Mujahedin Khalq Organization]"
+
 # --- DEATH ---
 date_of_death: 1985-01-01
 age_at_death: null
@@ -29,8 +34,7 @@ circumstances: >
     death. The High Judicial Council confirmed the sentence and he was hanged
     in public in Shiraz.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

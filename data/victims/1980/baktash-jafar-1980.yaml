@@ -3,7 +3,7 @@ name_latin: "Ja'far Baktash"
 name_farsi: "جعفر بکتاش"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -26,8 +26,7 @@ circumstances: >
     present by the side of the victim or that the victim had been allowed to
     use his right to appeal the verdict.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Mr. Sadeq Khalkhali"
 # --- VERIFICATION ---
 status: unverified
 sources:

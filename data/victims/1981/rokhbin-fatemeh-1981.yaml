@@ -1,12 +1,18 @@
 id: rokhbin-fatemeh-1981
 name_latin: "Fatemeh Rokhbin"
 name_farsi: "فاطمه رخ بین"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1966-01-01"
+place_of_birth: "Bandar Abbas"
 gender: female
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "student"
+education: "17-Shahrivar High School"
+family:
+  marital_status: "engaged"
 
 # --- DEATH ---
 date_of_death: 1981-10-13
@@ -71,9 +77,8 @@ circumstances: >
     earth, at war with God and his Prophet; and as rebels. The court condemned
     them to death. They were shot by firing squad on October 13, 1981 in
     Bandar Abbas. She was 15 years old.
-event_context: null
-responsible_forces: null
-
+event_context: "protest against the mass execution of 70 individuals in Bandar Abbas"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

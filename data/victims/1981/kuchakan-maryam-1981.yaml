@@ -8,6 +8,11 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+occupation: "secretary"
+personality: "described as beautiful and very pleasant person who always helped the students"
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
+
 # --- DEATH ---
 date_of_death: 1981-01-01
 age_at_death: 24
@@ -30,7 +35,7 @@ circumstances: >
     concerning Ms. Kuchakan’s defense. Judgment No specific information is
     available about the verdict leading to this execution. Ms. Kuchakan was
     executed in 1981.
-event_context: null
+event_context: "1981"
 responsible_forces: null
 
 # --- VERIFICATION ---

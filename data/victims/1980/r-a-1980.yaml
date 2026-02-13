@@ -3,7 +3,7 @@ name_latin: "A. R."
 name_farsi: "ع. ر."
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -34,9 +34,8 @@ circumstances: >
     available on the accused s defense. Judgment The Islamic Revolutionary
     Tribunal of Isfahan declared Mr. A. R. a corruptor on earth. He was
     executed at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "1980 execution"
+responsible_forces: "Islamic Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

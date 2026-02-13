@@ -1,12 +1,16 @@
 id: gorgani-ali-azarash-1988
 name_latin: "Ali Azarash Gorgani"
 name_farsi: "علی آذرش گرگانی"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1960-01-01"
+place_of_birth: "Tehran"
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "sympathizer of the PMIO"
+family:
 
 # --- DEATH ---
 date_of_death: 1988-08-03
@@ -72,9 +76,8 @@ circumstances: >
     According to the PMIO website, Mr. Ali Azaresh Gorgani was hanged during
     the mass killings of the political prisoners at Gohardasht Prison in
     August 1988.
-event_context: null
-responsible_forces: null
-
+event_context: "1988-89 mass execution of political prisoners"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+education: "Master’s Degree"
+
 # --- DEATH ---
 date_of_death: 1988-01-01
 age_at_death: 29
@@ -74,9 +77,8 @@ circumstances: >
     specific information is available about the defendant’s execution. Ms.
     Parvin Ha'eri was executed during the mass killings of the political
     prisoners at Evin Prison in August 1988.
-event_context: null
-responsible_forces: null
-
+event_context: "1988 mass execution of political prisoners"
+responsible_forces: "Iranian authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

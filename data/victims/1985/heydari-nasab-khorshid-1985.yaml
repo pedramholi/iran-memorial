@@ -3,10 +3,14 @@ name_latin: "Khorshid Heydari-Nasab"
 name_farsi: "خورشید حیدری نسب"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "sister of Ebrahim Heydari-Nasab"
 
 # --- DEATH ---
 date_of_death: 1985-10-22
@@ -37,9 +41,8 @@ circumstances: >
     to death. The Islamic Revolution’s Supreme Court confirmed the sentenced.
     She and 12 other individuals, including her brother Ebrahim, were hanged
     in the prison of the Police Department of Kerman on October 22, 1985.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on October 22, 1985"
+responsible_forces: "Islamic Revolutionary Tribunal of Kerman"
 # --- VERIFICATION ---
 status: unverified
 sources:

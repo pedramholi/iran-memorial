@@ -34,9 +34,8 @@ circumstances: >
     available on Mr. Sarati's defense. Judgment According to this report, Mr.
     Sarati was declared a corruptor on earth and was executed. But there is no
     information about the court which issued his death sentence in the report.
-event_context: null
-responsible_forces: null
-
+event_context: "1983"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

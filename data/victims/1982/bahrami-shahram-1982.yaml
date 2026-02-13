@@ -38,9 +38,8 @@ circumstances: >
     No information is available on Mr.Bahrami’s defense. Judgment The Islamic
     Revolutionary Tribunal of Mashad sentenced Mr. Bahrami to death. The
     sentence was carried out.
-event_context: null
-responsible_forces: null
-
+event_context: "1981-1985 executions"
+responsible_forces: "Islamic Revolutionary Public Prosecutor’s Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

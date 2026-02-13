@@ -1,12 +1,16 @@
 id: dehbozorgi-masud-1981
 name_latin: "Mas'ud Dehbozorgi"
 name_farsi: "مسعود  ده‌ بزرگی"
-date_of_birth: null
+date_of_birth: "1958-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "industrial worker"
+beliefs: "supporter of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-07-08
@@ -44,9 +48,8 @@ circumstances: >
     sentenced him to death. Mr. Deh Bozorgi was executed by a firing squad on
     July 8, 1981 in Shiraz. Mr. Deh Bozorgi was 23 years old at the time of
     his execution.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on July 8, 1981"
+responsible_forces: "Bandar Anzali Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

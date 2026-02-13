@@ -2,7 +2,7 @@ id: saman-hasan-1987
 name_latin: "Hasan Saman"
 name_farsi: "حسن سامان"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Damghan"
 gender: male
 ethnicity: null
 religion: "Presumed Muslim"
@@ -36,8 +36,7 @@ circumstances: >
     Mr. Saman to death. Having been confirmed by the Supreme Judicial Council,
     the sentence was carried out in public at 3 p.m.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic’s authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

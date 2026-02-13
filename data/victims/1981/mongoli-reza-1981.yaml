@@ -2,11 +2,16 @@ id: mongoli-reza-1981
 name_latin: "Reza Mongoli"
 name_farsi: "رضا منگلی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Karaj"
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "high school student"
+education: "high school"
+beliefs: "sympathizer of the Mojahedin"
 
 # --- DEATH ---
 date_of_death: 1981-08-29
@@ -35,9 +40,8 @@ circumstances: >
     verdict leading to this execution are unknown. Mr. Reza Mangoli was
     condemned to death and executed by a firing squad in Karaj Prison on the
     29th of August, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "executed or killed during clashes with the Islamic Republic security forces from June 1981 to the publication date of the magazine"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

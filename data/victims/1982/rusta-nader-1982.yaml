@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+beliefs: "member of Peykar Organization for the Liberation of the Working Class"
+
 # --- DEATH ---
 date_of_death: 1982-11-24
 age_at_death: null
@@ -46,9 +49,8 @@ circumstances: >
     available on Mr. Rusta's defense. Judgment According to the list of
     Martyrs of the Peykar Organization, Mr. Nader Rusta was hanged on November
     24, 1982.
-event_context: null
-responsible_forces: null
-
+event_context: "executed on November 24, 1982"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

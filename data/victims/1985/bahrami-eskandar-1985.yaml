@@ -3,7 +3,7 @@ name_latin: "Eskandar Bahrami"
 name_farsi: "اسکندر بهرامی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -47,9 +47,8 @@ circumstances: >
     sentenced Mr. Eskandar Bahrami to death. The Supreme Judicial Council
     approved the sentence. He and four other individuals were executed at
     Dizel Abad prison in Bakhtaran on November 15, 1985.
-event_context: null
-responsible_forces: null
-
+event_context: "1985 execution"
+responsible_forces: "Islamic Revolutionary Tribunal of Bakhtaran"
 # --- VERIFICATION ---
 status: unverified
 sources:

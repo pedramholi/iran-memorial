@@ -1,12 +1,18 @@
 id: ganji-seyed-ali-1988
 name_latin: "Seyed Ali Ganji"
 name_farsi: "سید علی گنجی"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1951-01-01"
+place_of_birth: "Eqlid, Fars Province"
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "mathematics teacher"
+quotes:
+  - "membership in the Mojahedin Khalq Organization"
+  - "opposition to [the regime of] the Islamic Republic"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -67,9 +73,8 @@ circumstances: >
     bodies, however, were not returned to them. The bodies were buried in mass
     graves. Authorities warned the families of prisoners against holding
     memorial ceremonies.
-event_context: null
-responsible_forces: null
-
+event_context: "1988 mass killings of political prisoners"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

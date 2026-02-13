@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+occupation: "member of the Razmandegan Organization"
+education: "degree in Chemistry from the Sharif University of Technology in Tehran"
+
 # --- DEATH ---
 date_of_death: 1982-01-01
 age_at_death: 24
@@ -38,9 +42,8 @@ circumstances: >
     defendant. Defense No information is available on Ms. Marzban's defense.
     Judgment No specific information regarding the death sentence is
     available. Ms. Marzban was executed at the Evin Prison in 1982.
-event_context: null
-responsible_forces: null
-
+event_context: "executed at the Evin Prison in 1982"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

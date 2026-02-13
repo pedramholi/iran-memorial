@@ -3,7 +3,7 @@ name_latin: "Qaderbakhsh Qanbarzehi Gargij"
 name_farsi: "قادربخش قنبرزهی گرگیج"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -41,8 +41,7 @@ circumstances: >
     Revolutionary Tribunal sentenced Mr. Qanbarzehi Gargij to death. The
     sentence was carried out at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Anti-Narcotics Section of the Public Prosecutor's Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

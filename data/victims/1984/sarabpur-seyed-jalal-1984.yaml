@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "international drug trafficker"
+
 # --- DEATH ---
 date_of_death: 1984-08-20
 age_at_death: null
@@ -34,9 +37,8 @@ circumstances: >
     against the defendant. Defense No information is available on Mr. Sarabpur
     s defense. Judgment The Anti-Narcotics Islamic Revolutionary Tribunal
     sentenced Mr. Sarabpur to death. The sentence was carried out at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on August 21, 1984"
+responsible_forces: "Anti-Narcotics Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

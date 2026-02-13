@@ -3,7 +3,7 @@ name_latin: "Hushang Rahimi"
 name_farsi: "هوشنگ رحیمی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -37,8 +37,7 @@ circumstances: >
     Based on the report, Mr. Rahimi was sentenced to death and confiscation of
     all his belongings.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

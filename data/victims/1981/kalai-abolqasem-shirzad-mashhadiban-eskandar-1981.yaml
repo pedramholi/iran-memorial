@@ -3,7 +3,7 @@ name_latin: "Abolqasem (Shirzad) Mashhadiban Eskandar Kala'i"
 name_farsi: "ابوالقاسم (شیرزاد) مشهدی بان اسکندر کلائی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
@@ -88,8 +88,7 @@ circumstances: >
     individuals listed in an addendum to the Mojahed magazine (No 261),
     published by Mojahedin Khalq Organization in 1985. The l
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Mojahedin Khalq Organization"
 # --- VERIFICATION ---
 status: unverified
 sources:

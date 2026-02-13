@@ -3,10 +3,13 @@ name_latin: "Abbas'ali Hojati"
 name_farsi: "عباسعلی حجتی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+beliefs: "supporter of the Mojahedin Khalq Organization of Iran"
 
 # --- DEATH ---
 date_of_death: 1981-08-05
@@ -28,9 +31,8 @@ circumstances: >
     a fair trial. Evidence of guilt The report of this execution does not
     contain information regarding the evidence provided against the defendant.
     Defense No information is available on Mr. Hojati’s defense. Judgment
-event_context: null
-responsible_forces: null
-
+event_context: "executed or killed during clashes with the Islamic Republic security forces from June 1981 to 1985"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,10 +3,15 @@ name_latin: "Qorban Ali Kamandar"
 name_farsi: "قربان علی کماندار"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+quotes:
+  - "addiction"
+  - "selling his own daughter"
 
 # --- DEATH ---
 date_of_death: 1980-07-29
@@ -20,8 +25,7 @@ circumstances: >
     God" allegedly for "addiction" and "selling his own daughter". He was
     executed at midnight. Source : Tehran newspaper Jomhuri Eslami.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

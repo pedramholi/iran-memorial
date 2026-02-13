@@ -3,10 +3,13 @@ name_latin: "Yusef PurReza'i"
 name_farsi: "یوسف پور رضایی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "Brigadier General"
 
 # --- DEATH ---
 date_of_death: 1980-07-19
@@ -77,9 +80,8 @@ circumstances: >
     Purrezayi was sentenced to death. At midnight, within hours after the
     issuance of the verdict, the defendant was executed at the same place
     where he was tried.
-event_context: null
-responsible_forces: null
-
+event_context: "coup d'état known as Noje"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

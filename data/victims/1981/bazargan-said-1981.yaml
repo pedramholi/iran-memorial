@@ -2,11 +2,16 @@ id: bazargan-said-1981
 name_latin: "Sa'id Bazargan"
 name_farsi: "سعید بازرگان"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Ba'abadaran, Esfahan"
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "university student, worker for Tavanir"
+education: "university student"
+beliefs: "member of Rah-e Kargar Organization"
 
 # --- DEATH ---
 date_of_death: 1981-12-03
@@ -52,9 +57,8 @@ circumstances: >
     the defendant’s defence. Judgment No specific information is available
     about the defendant’s execution. Mr. Bazargan was executed by a firing
     squad in Esfahan in December 3, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

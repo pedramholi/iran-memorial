@@ -2,7 +2,7 @@ id: qasemi-salman-1988
 name_latin: "Salman Qasemi"
 name_farsi: "سلمان قاسمی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Shekaryazi, near the city of Salmas, West Azarbaijan province"
 gender: male
 ethnicity: null
 religion: "Unknown"
@@ -81,9 +81,8 @@ circumstances: >
     victims’ belongings to their families. The bodies, however, were not
     returned to them. The bodies were buried in mass graves. Authorities
     warned the families of prisoners against holding memorial ceremonies.
-event_context: null
-responsible_forces: null
-
+event_context: "1988 mass executions"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

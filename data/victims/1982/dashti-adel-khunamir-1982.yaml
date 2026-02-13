@@ -8,6 +8,14 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+occupation: "electrical engineer"
+family:
+  marital_status: "married"
+  children: 2
+  notes: "son of Nurollah"
+beliefs: "sympathizer of the Revolutionary Workers Organization of Iran; member of Fadayian Khalq"
+
 # --- DEATH ---
 date_of_death: 1982-02-11
 age_at_death: 34
@@ -49,7 +57,7 @@ circumstances: >
     No information is available about the accused’s defense. Judgment Based on
     the addendum to the Mojahed magazine, Mr. Khunamir Dashti was executed by
     a firing squad in Tehran on February 11, 1982.
-event_context: null
+event_context: "executed by a firing squad in Tehran on February 11, 1982"
 responsible_forces: null
 
 # --- VERIFICATION ---

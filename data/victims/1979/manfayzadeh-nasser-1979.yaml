@@ -31,9 +31,8 @@ circumstances: >
     the defendant’s defense. Judgment The Islamic Revolutionary Tribunal of
     Abadan and Khoramshahr sentenced Mr. Manfayzadeh to death. The sentence
     was carried out at 4 a.m.
-event_context: null
-responsible_forces: null
-
+event_context: "1979"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

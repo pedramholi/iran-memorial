@@ -1,12 +1,22 @@
 id: khorasani-marziyeh-mohammad-hassani-1988
 name_latin: "Marziyeh Mohammad Hassani Khorasani"
 name_farsi: "مرضیه محمدحسنی خراسانی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1963-01-01"
+place_of_birth: "Khorasani neighborhood, Behbahan, Khuzestan Province"
+gender: female
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "taught Quran to the girls in her neighborhood"
+family:
+  marital_status: "married"
+  notes: "daughter of Sakineh Beigom and Mahmud, lived with her husband"
+personality: "very kind, spirited, and big-hearted"
+beliefs: "supporter and sympathizer of the Mojahedin Khalq Organization (MKO)"
+quotes:
+  - "the judiciary had asked her to shoot a fellow MEK sympathizer at an execution"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -85,9 +95,8 @@ circumstances: >
     illegality. They note that an overwhelming majority of these prisoners had
     been tried and sentenced to prison terms, which they were either serving
     or had already completed serving at the time they were retried and sente
-event_context: null
-responsible_forces: null
-
+event_context: "1988-89 mass execution of political prisoners"
+responsible_forces: "MKO"
 # --- VERIFICATION ---
 status: unverified
 sources:

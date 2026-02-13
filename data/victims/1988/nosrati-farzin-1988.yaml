@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+occupation: "medical doctor"
+
 # --- DEATH ---
 date_of_death: 1988-08-01
 age_at_death: 34
@@ -85,9 +88,8 @@ circumstances: >
     belongings to their families. The bodies, however, were not returned to
     them. The bodies were buried in mass graves. Authorities warned the
     families of prisoners against holding memorial ceremonies.
-event_context: null
-responsible_forces: null
-
+event_context: "1988 mass executions"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -2,11 +2,16 @@ id: rezai-asghar-1988
 name_latin: "Asghar Reza'i"
 name_farsi: "اصغر رضائی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Tafresh"
 gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "baker"
+education: "high school graduate"
+beliefs: "sympathizer of Ali Shari ati"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -85,9 +90,8 @@ circumstances: >
     1988 mass executions. In their letters to the Minister of Justice (1988)
     and to the UN Special Rapporteur visiting Iran (February 2003), the
     families of the victims refer to the authorities accusations against the
-event_context: null
-responsible_forces: null
-
+event_context: "1988 massacre"
+responsible_forces: "Mojahedin Khalq Organization"
 # --- VERIFICATION ---
 status: unverified
 sources:

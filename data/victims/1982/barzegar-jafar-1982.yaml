@@ -3,10 +3,13 @@ name_latin: "Ja'far Barzegar"
 name_farsi: "جعفر برزگر"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of Peykar Organization for the Liberation of the Working Class"
 
 # --- DEATH ---
 date_of_death: 1982-04-17
@@ -44,9 +47,8 @@ circumstances: >
     defendant. Defense No information is available on Mr. Barzegar’s defense.
     Judgment Mr. Ja’far Barzegar was executed by firing squad in Shirvan on
     April 17, 1982.
-event_context: null
-responsible_forces: null
-
+event_context: "executed during clashes with the Islamic Republic security forces"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

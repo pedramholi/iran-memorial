@@ -3,10 +3,13 @@ name_latin: "Mirza Mohammad Mirza-Mohammadi"
 name_farsi: "میرزا محمد میرزا محمدی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of the Mojahedin"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -33,9 +36,8 @@ circumstances: >
     Mirza-Mohammadi's defense. Judgment No information is available on the
     judgment or whether an appeal was allowed. Mr. Mirza-Mohammadi was
     executed in November, 1988.
-event_context: null
-responsible_forces: null
-
+event_context: "1988 prison massacres"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

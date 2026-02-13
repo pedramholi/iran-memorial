@@ -35,8 +35,7 @@ circumstances: >
     Tribunal of Qom sentenced Mr. Kuhkan to death. This sentence was carried
     out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal of Qom"
 # --- VERIFICATION ---
 status: unverified
 sources:

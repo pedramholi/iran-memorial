@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+family:
+  notes: "Mr. Delkash’s brother, Farhad, was also executed in 1982."
+
 # --- DEATH ---
 date_of_death: 1988-01-01
 age_at_death: 25
@@ -84,9 +88,8 @@ circumstances: >
     however, were not returned to them. The bodies were buried in mass graves.
     Authorities warned the families of prisoners against holding memorial
     ceremonies.
-event_context: null
-responsible_forces: null
-
+event_context: "1988 mass executions"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

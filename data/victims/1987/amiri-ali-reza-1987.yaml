@@ -37,9 +37,8 @@ circumstances: >
     was hanged at dawn of May 17, 1987 in the presence of the head of the
     prison, representatives of Tehran’s Prosecutor, forensic doctor and the
     judge at Qasr Prison in Tehran.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on May 17, 1987"
+responsible_forces: "Islamic Republic’s authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

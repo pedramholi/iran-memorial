@@ -1,12 +1,15 @@
 id: madani-ali-reza-1982
 name_latin: "Ali Reza Madani"
 name_farsi: "علی رضا مدنی"
-date_of_birth: null
+date_of_birth: "1963-01-01"
 place_of_birth: null
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of Peykar Organization for the Liberation of the Working Class"
 
 # --- DEATH ---
 date_of_death: 1982-01-01
@@ -46,9 +49,8 @@ circumstances: >
     available on Mr. Madani’s defense. Judgment According to the list of
     Martyrs of the Peykar Organization, Mr. Ali Reza Madani was executed by
     firing squad in Arak on January 1, 1982. He was 19.
-event_context: null
-responsible_forces: null
-
+event_context: "executed by firing squad in Arak on January 1, 1982"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

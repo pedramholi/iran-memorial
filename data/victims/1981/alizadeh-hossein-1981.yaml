@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+beliefs: "supporter of the Fadaiyan Khalq Organization"
+
 # --- DEATH ---
 date_of_death: 1981-09-23
 age_at_death: null
@@ -57,9 +60,8 @@ circumstances: >
     The sentence was carried out between Wednesday, September 23, and Friday,
     September 25, 1981, in [the city of] Tabriz and he was shot by a firing
     squad.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Islamic Revolutionary Prosecutor General's Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,19 @@
 id: nikkhah-parviz-1979
 name_latin: "Parviz Nikkhah"
 name_farsi: "پرویز نیکخواه"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1932-01-01"
+place_of_birth: "Tehran"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "author"
+education: "Bachelor of Science degree in Physics"
+family:
+  marital_status: "married"
+  children: 0
 
 # --- DEATH ---
 date_of_death: 1979-03-13
@@ -44,9 +51,8 @@ circumstances: >
     Nikkhah. Defense No information is available regarding the defense of the
     accused. Judgment The details of the execution verdict are not known. Mr.
     Parviz Nikkhah was condemned to death and executed on March 13, 1979.
-event_context: null
-responsible_forces: null
-
+event_context: "March 13, 1979"
+responsible_forces: "Revolutionary Tribunals"
 # --- VERIFICATION ---
 status: unverified
 sources:

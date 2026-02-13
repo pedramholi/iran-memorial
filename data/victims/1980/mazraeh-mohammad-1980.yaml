@@ -32,8 +32,7 @@ circumstances: >
     no information about the accused’s defense. Judgment Mr. Mazra’eh was
     found guilty. He was, then, executed.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

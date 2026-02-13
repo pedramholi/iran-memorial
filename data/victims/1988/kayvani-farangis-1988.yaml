@@ -1,12 +1,17 @@
 id: kayvani-farangis-1988
 name_latin: "Farangis Kayvani"
 name_farsi: "فرنگیس کیوانی"
-date_of_birth: null
+date_of_birth: "1961-01-01"
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "high school graduate"
+education: "high school graduate"
+beliefs: "member of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -86,9 +91,8 @@ circumstances: >
     charge has been publicly leveled against the victims of the 1988 mass
     executions. In their letters to the Minister of Justice (1988) and to the
     UN Special Ra
-event_context: null
-responsible_forces: null
-
+event_context: "1988 mass executions"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

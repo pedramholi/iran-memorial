@@ -2,11 +2,15 @@ id: danablu-jebreil-amirjahed-1984
 name_latin: "Jebre'il Amirjahed Danablu"
 name_farsi: "جبرئیل امیرجاهد دانابلو"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Ardebil"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "tailor"
+beliefs: "political affiliation"
 
 # --- DEATH ---
 date_of_death: 1984-08-07
@@ -52,9 +56,8 @@ circumstances: >
     Danablu a “corruptor on earth” and sentenced him to death. Having been
     confirmed by the Supreme Court, the sentence was carried out in prison at
     dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "1984"
+responsible_forces: "Anti-Narcotics Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

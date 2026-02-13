@@ -2,11 +2,16 @@ id: asadi-masud-1981
 name_latin: "Mas'ud Asadi"
 name_farsi: "مسعود اسدی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Samirom"
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "sympathizer of the Mojahedin Khalq Organization"
+education: "Bachelor's degree in physics"
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-01-01
@@ -85,9 +90,8 @@ circumstances: >
     territory a few times during the Iran-Iraq war. They were defeated in July
     1988 during their last operation, the Forugh Javidan Operation. A few days
     after this operation
-event_context: null
-responsible_forces: null
-
+event_context: "1981 protests"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

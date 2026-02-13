@@ -28,8 +28,7 @@ circumstances: >
     No information is available on Mr. Fatehi’s defense. Judgment There is no
     information on the verdict leading to this execution.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

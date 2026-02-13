@@ -3,7 +3,7 @@ name_latin: "Mas'ud Samadian"
 name_farsi: "مسعود صمدیان"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
@@ -86,9 +86,8 @@ circumstances: >
     Thousands of MKO members and sympathizers were arrested or executed. On
     June 21, 1981, the MKO announced an armed struggle against the Islamic
     Republic and assassinate
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Islamic Revolutionary Prosecutor’s Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

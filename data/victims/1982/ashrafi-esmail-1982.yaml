@@ -3,7 +3,7 @@ name_latin: "Esma'il Ashrafi"
 name_farsi: "اسماعیل اشرفی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -32,8 +32,7 @@ circumstances: >
     specific information is available about the verdict leading to this
     execution.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

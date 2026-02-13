@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "Constable"
+
 # --- DEATH ---
 date_of_death: 1979-04-08
 age_at_death: null
@@ -36,9 +39,8 @@ circumstances: >
     “corruption on earth” and sentenced him to death. He was shot dead at 4:00
     a.m. on 8 April 1979 in Valiabad Cemetery of Dezful by the Revolutionary
     Guards.
-event_context: null
-responsible_forces: null
-
+event_context: "1979 Revolution"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

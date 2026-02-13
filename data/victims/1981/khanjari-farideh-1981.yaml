@@ -49,9 +49,8 @@ circumstances: >
     available on Ms. Khanjari's defense. Judgment According to the list of
     Martyrs of the Peykar Organization, Ms. Khanjari was executed by firing
     squad in Tabriz during the summer of 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "summer of 1981"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

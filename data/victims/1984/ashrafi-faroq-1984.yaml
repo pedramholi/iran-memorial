@@ -3,7 +3,7 @@ name_latin: "Faroq Ashrafi"
 name_farsi: "فارق اشرفی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -47,8 +47,7 @@ circumstances: >
     confirmed by the Supreme Court, the sentence was carried out in Qasr
     prison at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Anti-Narcotics Section of the Islamic Revolution's Public Prosecutor's Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

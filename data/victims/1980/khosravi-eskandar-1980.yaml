@@ -3,7 +3,7 @@ name_latin: "Eskandar Khosravi"
 name_farsi: "اسکندر خسروی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -39,8 +39,7 @@ circumstances: >
     guilty of corruption on earth and waging war against God and his prophet.
     He was executed immediately after his trial in the afternoon.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Public Prosecutor"
 # --- VERIFICATION ---
 status: unverified
 sources:

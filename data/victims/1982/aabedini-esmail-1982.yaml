@@ -3,10 +3,13 @@ name_latin: "Esma'il A'abedini"
 name_farsi: "اسماعیل عابدینی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1982-01-01
@@ -86,9 +89,8 @@ circumstances: >
     of 1981, the MKO has continued its activities outside of Iran. No
     information is available regarding members and activities of the MKO
     inside the countr
-event_context: null
-responsible_forces: null
-
+event_context: "1981 protests"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

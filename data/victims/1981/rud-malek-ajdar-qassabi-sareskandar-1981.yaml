@@ -1,12 +1,17 @@
 id: rud-malek-ajdar-qassabi-sareskandar-1981
 name_latin: "Malek Ajdar Qassabi Sareskandar Rud"
 name_farsi: "مالک اژدر قصابی سراسکندررود"
-date_of_birth: null
+date_of_birth: "1955-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "defending Marxism-Leninism as a science for liberation of the working class and all hard working people of the world, and defending the children of workers, farmers, and the disadvantaged"
+quotes:
+  - "defending Marxism-Leninism as a science for liberation of the working class and all hard working people of the world, and defending the children of workers, farmers, and the disadvantaged"
 
 # --- DEATH ---
 date_of_death: 1981-01-01
@@ -51,8 +56,7 @@ circumstances: >
     defense. Judgment Mr. Qassabi Sareskandar Rud’s will is dated December 7,
     1981. He was executed by firing squad in Tabriz. He was 26 years old.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

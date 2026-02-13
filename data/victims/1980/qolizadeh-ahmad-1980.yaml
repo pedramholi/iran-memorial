@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "professional drug dealer"
+
 # --- DEATH ---
 date_of_death: 1980-07-14
 age_at_death: null
@@ -38,8 +41,7 @@ circumstances: >
     Based on the report, Mr. Qolizadeh was sentenced to death and executed at
     three in the morning.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Public Prosecution Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

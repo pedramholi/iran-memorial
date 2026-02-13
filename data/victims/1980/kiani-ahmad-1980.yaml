@@ -8,6 +8,11 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "cab driver"
+quotes:
+  - "corruptor on earth"
+
 # --- DEATH ---
 date_of_death: 1980-07-03
 age_at_death: null
@@ -38,8 +43,7 @@ circumstances: >
     prosecutor announced that Mr. Kiani declared a “corruptor on earth” and
     that he was executed at dawn on a Wednesday.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic’s authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

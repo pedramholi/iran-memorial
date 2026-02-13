@@ -2,7 +2,7 @@ id: rusta-behruz-1980
 name_latin: "Behruz Rusta"
 name_farsi: "بهروز روستا"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Tabriz"
 gender: male
 ethnicity: null
 religion: "Presumed Muslim"
@@ -38,8 +38,7 @@ circumstances: >
     Narcotics sentenced Mr. Rusta to death. He was executed at dawn the day
     after his trial.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Special Revolutionary Tribunals"
 # --- VERIFICATION ---
 status: unverified
 sources:

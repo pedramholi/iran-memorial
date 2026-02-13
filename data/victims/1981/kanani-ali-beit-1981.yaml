@@ -37,9 +37,8 @@ circumstances: >
     Revolutionary Court of Shadegan condemned Mr. Ali Beitkan ani to death.
     The ruling was carried out in Shadegan on October 10, 1981 at 10:30 p. m.
     No specific information is available about the defendant s execution.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 execution"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

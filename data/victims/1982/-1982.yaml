@@ -33,9 +33,8 @@ circumstances: >
     against the defendant. Defense No information is available on this unnamed
     person's defense. Judgment The Islamic Revolutionary Tribunal of Shirvan
     sentenced this unnamed person to death. The sentence was carried out.
-event_context: null
-responsible_forces: null
-
+event_context: "1982"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

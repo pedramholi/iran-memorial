@@ -85,9 +85,8 @@ circumstances: >
     illegal, on March 15, 1980, thousands of people gathered in front of the
     Andimeshk Railway Office and prevented officials from leaving. The crowd
     was dispersed after the Revolutionary Guards opened fire
-event_context: null
-responsible_forces: null
-
+event_context: "1980 Andimeshk Protest"
+responsible_forces: "IRGC"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -2,11 +2,17 @@ id: daknama-elaheh-laleh-1983
 name_latin: "Elaheh (Laleh) Daknama"
 name_farsi: "الهه (لاله) دکنما"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Shiraz"
 gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "student"
+family:
+  marital_status: "single"
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1983-07-01
@@ -86,9 +92,8 @@ circumstances: >
     operation, thousands of imprisoned Mojahedin supporters were killed during
     the mass executions of political prisoners in 1988. Ever since the summer
     o
-event_context: null
-responsible_forces: null
-
+event_context: "June 20, 1981 demonstration"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

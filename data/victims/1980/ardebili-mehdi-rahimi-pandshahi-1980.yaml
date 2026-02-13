@@ -39,9 +39,8 @@ circumstances: >
     Judgment Mr. Rahimi was sentenced to death. The sentence was carried out
     immediately after the issuance of the verdict, a couple of hours past
     midnight.
-event_context: null
-responsible_forces: null
-
+event_context: "1980"
+responsible_forces: "Tehran police"
 # --- VERIFICATION ---
 status: unverified
 sources:

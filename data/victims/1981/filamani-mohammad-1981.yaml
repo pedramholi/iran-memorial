@@ -1,12 +1,16 @@
 id: filamani-mohammad-1981
 name_latin: "Mohammad Filamani"
 name_farsi: "محمد فیلامانی"
-date_of_birth: null
+date_of_birth: "1954-01-01"
 place_of_birth: null
 gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "son of Ali"
 
 # --- DEATH ---
 date_of_death: 1981-05-31
@@ -35,8 +39,7 @@ circumstances: >
     Revolutionary Tribunal of Tabriz condemned Mr. Mohammad Filamani to death.
     He was executed on May 31, 1981 at 8 p.m.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

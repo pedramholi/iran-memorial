@@ -3,10 +3,13 @@ name_latin: "Manuchehr Hosseinzadeh"
 name_farsi: "منوچهر  حسین زاده"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of the People's Mojahedin of Iran Organization (PMIO)"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -37,9 +40,8 @@ circumstances: >
     Defense No information is available on Mr. Hossein-Zadeh's defense.
     Judgment No information is available on the judgment or whether an appeal
     was allowed. Mr. Hossein-Zadeh was executed in November, 1988.
-event_context: null
-responsible_forces: null
-
+event_context: "1988-89 mass execution of political prisoners"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

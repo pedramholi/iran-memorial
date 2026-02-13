@@ -34,9 +34,8 @@ circumstances: >
     against the defendant. Defense No information is available on his defense.
     Judgment In accordance with the Central Islamic Revolutionary Tribunal,
     Mr. Hassan Seraji was executed at Evin prison on September 6, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "1981"
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

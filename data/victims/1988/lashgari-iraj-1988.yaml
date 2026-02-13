@@ -1,12 +1,18 @@
 id: lashgari-iraj-1988
 name_latin: "Iraj Lashgari"
 name_farsi: "ایرج لشگری"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1955-01-01"
+place_of_birth: "Kerman"
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "law student"
+education: "Tehran University"
+family:
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1988-07-30
@@ -82,9 +88,8 @@ circumstances: >
     years, which proves the truth of our claim.” Judgment The details
     regarding the execution sentence are not available. Mr. Iraj Lashgari was
     executed some time between July – September 1988.
-event_context: null
-responsible_forces: null
-
+event_context: "1988 mass killings of political prisoners"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

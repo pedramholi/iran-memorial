@@ -2,7 +2,7 @@ id: aqilipur-seyed-mohammad-1980
 name_latin: "Seyed Mohammad Aqilipur"
 name_farsi: "سید محمد عقیلی پور"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Fariman"
 gender: male
 ethnicity: null
 religion: "Presumed Muslim"
@@ -36,9 +36,8 @@ circumstances: >
     s defense is available. Judgment The Islamic Revolutionary Tribunal of
     Sabzevar sentenced Mr. Aliqolipur to death. He was executed at dawn, three
     days after his trial.
-event_context: null
-responsible_forces: null
-
+event_context: "1980"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

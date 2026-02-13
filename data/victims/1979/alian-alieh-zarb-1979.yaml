@@ -3,7 +3,7 @@ name_latin: "Alieh Zarb Alian"
 name_farsi: "عالیه ضرب علیان"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -39,9 +39,8 @@ circumstances: >
     in Mazandaran province) declared Ms. Zarb Alianand a corruptor on earth
     and an enemy of God and his people and sentenced her to death. She was
     executed by firing squad at 1 a.m. on September 10, 1979.
-event_context: null
-responsible_forces: null
-
+event_context: "1979 execution"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

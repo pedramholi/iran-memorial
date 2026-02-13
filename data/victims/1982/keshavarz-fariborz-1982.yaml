@@ -3,10 +3,16 @@ name_latin: "Fariborz Keshavarz"
 name_farsi: "فریبرز کشاورز"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  notes: "wife is Ms. Shohreh Saburi"
+beliefs: "affiliated with Fadaiyan Khalq Organization (Minority branch)"
 
 # --- DEATH ---
 date_of_death: 1982-01-01
@@ -39,9 +45,8 @@ circumstances: >
     the verdict leading to this execution. Mr. Fariborz Keshavarz and his wife
     were shot by a firing squad in Evin prison in February/March 1982, along
     with a few other individuals.
-event_context: null
-responsible_forces: null
-
+event_context: "February/March 1982 execution in Evin prison"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

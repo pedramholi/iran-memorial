@@ -3,10 +3,13 @@ name_latin: "Ata'ollah Hanifi"
 name_farsi: "عطاءالله حنیفی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Unknown"
 photo: null
+
+# --- LIFE ---
+beliefs: "supporter of the Mojahedin Khalq of Iran Organization"
 
 # --- DEATH ---
 date_of_death: 1982-01-01
@@ -30,9 +33,8 @@ circumstances: >
     against the defendant. Defense No information is available on Mr. Hanifi’s
     defense. Judgment There is no information available on the specifics of
     this defendant's judgement.
-event_context: null
-responsible_forces: null
-
+event_context: "executed or killed during clashes from June 1981 to 1985"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

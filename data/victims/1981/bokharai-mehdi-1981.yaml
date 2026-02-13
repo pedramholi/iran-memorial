@@ -1,12 +1,19 @@
 id: bokharai-mehdi-1981
 name_latin: "Mehdi Bokhara'i"
 name_farsi: "مهدی بخارائی"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1950-01-01"
+place_of_birth: "Tehran"
 gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "high ranking member of the Mojahedin Khalq Organization"
+family:
+  notes: "son of Ali Akbar"
+personality: "known among his friends and relatives for his sense of humor"
+beliefs: "high ranking member of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-12-28
@@ -85,9 +92,8 @@ circumstances: >
     so that they ended up turning their back to Islam; (6) being a decision
     maker in the armed opposition to the Islamic Regime; (7) serious attempt
     to overthrow the Islamic Regime of Ira
-event_context: null
-responsible_forces: null
-
+event_context: "1981"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -8,6 +8,11 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "Sergeant"
+quotes:
+  - "intentionally running over 4 children in the line for oil with an army automobile"
+
 # --- DEATH ---
 date_of_death: 1979-03-01
 age_at_death: null

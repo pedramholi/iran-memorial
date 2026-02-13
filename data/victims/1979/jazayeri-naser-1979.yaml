@@ -1,12 +1,22 @@
 id: jazayeri-naser-1979
 name_latin: "Naser Jazayeri"
 name_farsi: "ناصر جزایری"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1950-01-01"
+place_of_birth: "Khoramabad"
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "first lieutenant"
+family:
+  marital_status: "married"
+  children: 2
+personality: "kind and family oriented"
+quotes:
+  - "I didn t do anything wrong to escape."
+  - "I didn t do anything wrong to escape."
 
 # --- DEATH ---
 date_of_death: 1979-06-11
@@ -84,9 +94,8 @@ circumstances: >
     cemetery. The family experienced some difficulties afterwards including
     the prevention of Mr. Jazayeri s one brother from any state jobs. Mr.
     Naser Jazayeri was 29 years old.
-event_context: null
-responsible_forces: null
-
+event_context: "1979 Iranian Revolution"
+responsible_forces: "Islamic Revolutionary Court of Khoramabad"
 # --- VERIFICATION ---
 status: unverified
 sources:

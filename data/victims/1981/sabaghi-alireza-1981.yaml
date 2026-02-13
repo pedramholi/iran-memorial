@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+beliefs: "member of Mojahedin Khalq Iran"
+
 # --- DEATH ---
 date_of_death: 1981-08-21
 age_at_death: null
@@ -84,9 +87,8 @@ circumstances: >
     training, were not armed, and did not participate in armed conflict.
     Arrest and detention The circumstances of this defendant’s arrest and
     detention are not known.
-event_context: null
-responsible_forces: null
-
+event_context: "June 20, 1981 demonstration"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

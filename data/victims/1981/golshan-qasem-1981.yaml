@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+beliefs: "active membership in Peykar"
+
 # --- DEATH ---
 date_of_death: 1981-06-22
 age_at_death: null
@@ -70,9 +73,8 @@ circumstances: >
     enemy of God, an apostate, a corruptor on earth, and a rebel." He was
     condemned to death and the ruling was carried out in Evin prison on June
     22, 1981 at 9 pm.
-event_context: null
-responsible_forces: null
-
+event_context: "executions in Evin prison on June 22, 1981"
+responsible_forces: "Central Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

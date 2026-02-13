@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+beliefs: "active member of the Mujahedin-e Khalq Organization"
+
 # --- DEATH ---
 date_of_death: 1982-09-16
 age_at_death: null
@@ -28,8 +31,7 @@ circumstances: >
     enemy of God” and sentenced him to death. The sentence was carried out at
     dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal of Sari"
 # --- VERIFICATION ---
 status: unverified
 sources:

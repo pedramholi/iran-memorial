@@ -8,6 +8,14 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+beliefs: "sympathizer of the Monafeqin"
+quotes:
+  - "a sympathizer of the Monafeqin [Hypocrites; term used by the Islamic Republic to refer to members of the People's Mojahedin of Iran]"
+  - "armed rebellion against the regime of the Islamic Republic of Iran"
+  - "martyring two Muslim brothers in Some'eh Sara"
+  - "injuring 7 people"
+
 # --- DEATH ---
 date_of_death: 1981-12-02
 age_at_death: 19
@@ -86,9 +94,8 @@ circumstances: >
     Liberation Army of Iran in 1987, which entered Iranian territory a few
     times during the Iran-Iraq war. They were defeated in July 1988 during
     their last operation, the
-event_context: null
-responsible_forces: null
-
+event_context: "June 20, 1981 demonstration"
+responsible_forces: "Islamic Revolutionary Tribunal of Some'eh Sara"
 # --- VERIFICATION ---
 status: unverified
 sources:

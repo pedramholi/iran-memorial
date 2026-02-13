@@ -8,6 +8,9 @@ ethnicity: null
 religion: null
 photo: null
 
+# --- LIFE ---
+beliefs: "affiliated with various opposition groups"
+
 # --- DEATH ---
 date_of_death: 1981-11-11
 age_at_death: null
@@ -54,9 +57,8 @@ circumstances: >
     defense. Judgment َThe Islamic Revolutionary Tribunal of Tabriz condemned
     Mr. Ebrahimzadeh to death. He and 8 other men were shot by firing squad in
     Tabriz on November 9 or 10, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Islamic Revolutionary Tribunal of Tabriz"
 # --- VERIFICATION ---
 status: unverified
 sources:

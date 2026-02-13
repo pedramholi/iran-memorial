@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "Sergeant"
+
 # --- DEATH ---
 date_of_death: 1979-08-18
 age_at_death: null
@@ -26,8 +29,7 @@ circumstances: >
     “corruptor on earth” and sentenced him to death. The sentence was carried
     out at 1a.m., shortly after its issuance.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

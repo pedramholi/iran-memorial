@@ -32,9 +32,8 @@ circumstances: >
     available on Mr. Ghadiani's defense. Judgment No information is available
     on the judgment or whether an appeal was allowed. Mr. Ghadiani was
     executed in September, 1988.
-event_context: null
-responsible_forces: null
-
+event_context: "1988"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

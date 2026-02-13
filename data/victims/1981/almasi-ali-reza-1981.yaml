@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+beliefs: "sympathizer of the Fadaiyan Khalq Organization"
+
 # --- DEATH ---
 date_of_death: 1981-06-28
 age_at_death: null
@@ -65,9 +68,8 @@ circumstances: >
     the defense. Judgment Branch 5 of the Islamic Revolutionary Tribunal of
     Esfehan condemned Mr. Ali Reza Almasi to death. According to the Mojahed
     magazine, he was executed by a firing squad on June 28, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "executed on June 28, 1981"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

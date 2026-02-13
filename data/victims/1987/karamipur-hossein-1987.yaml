@@ -1,12 +1,16 @@
 id: karamipur-hossein-1987
 name_latin: "Hossein Karamipur"
 name_farsi: "حسین کرمی پور"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1966-01-01"
+place_of_birth: "Ilam"
 gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "son of Musa"
 
 # --- DEATH ---
 date_of_death: 1987-08-13
@@ -47,9 +51,8 @@ circumstances: >
     Supreme Judicial Council approved the sentence. Mr. Hossein Karamipur was
     hanged in public on August 13, 1987 at Takhti Stadium in Ilam. He was 21
     years old.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on August 13, 1987"
+responsible_forces: "Islamic Republic’s authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

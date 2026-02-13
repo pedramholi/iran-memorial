@@ -3,7 +3,7 @@ name_latin: "Asad Postdar (Kharat)"
 name_farsi: "اسد پست دار (خراط)"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -41,8 +41,7 @@ circumstances: >
     Shirin and Sar e Pol e Zahab found Mr. Postdar guilty of corruption on
     earth. He was executed at 10:30 p.m.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

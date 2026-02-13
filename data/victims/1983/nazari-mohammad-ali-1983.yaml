@@ -30,8 +30,7 @@ circumstances: >
     Mr. Nazari was executed. There is no information about the Tribunal which
     issued the death sentence.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolution’s Public Prosecutor’s Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

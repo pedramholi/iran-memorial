@@ -1,12 +1,24 @@
 id: kandovani-hamid-zamani-1987
 name_latin: "Hamid Zamani Kandovani"
 name_farsi: "حمید زمانی کندوانی"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1960-11-28"
+place_of_birth: "Tehran"
 gender: male
-ethnicity: null
+ethnicity: "Azeri"
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+family:
+  marital_status: "married"
+  children: 1
+  notes: "father of one daughter named Ronak"
+personality: "affable and had a good sense of humor"
+beliefs: "sympathizer of the Fadaiyan Khalq Organization"
+quotes:
+  - "Hamid said: ‘I called to say happy birthday to Ronak – our daughter.’"
+  - "I’m sure Ronak will grow up to become a fine and amazing person with your care."
+  - "All the love you feel for me – give it to Ronak. I’m going with your memories and your gift."
 
 # --- DEATH ---
 date_of_death: 1987-05-03

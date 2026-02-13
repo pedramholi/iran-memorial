@@ -1,12 +1,22 @@
 id: ansari-masud-1987
 name_latin: "Mas'ud Ansari"
 name_farsi: "مسعود انصاری"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1957-01-01"
+place_of_birth: "Khorramabad"
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "student"
+family:
+  marital_status: "married"
+  children: 2
+beliefs: "sympathizer of the Fadaiyan Khalq Organization"
+quotes:
+  - "he told his cellmate that he hit his interrogator."
+  - "he did not recognize her and spoke gibberish."
 
 # --- DEATH ---
 date_of_death: 1987-05-04
@@ -61,9 +71,8 @@ circumstances: >
     some time, the regime's agents destroyed all the graves with a bulldozer.
     Today, Mr. Ansari's mother has no idea about the location of her son's
     remains.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on May 4, 1987"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -8,6 +8,14 @@ ethnicity: null
 religion: "Islam"
 photo: null
 
+# --- LIFE ---
+family:
+  marital_status: "married"
+  children: 4
+  notes: "mother of four children"
+quotes:
+  - "I, her husband, had no complaint against my wife. All our neighbors know that she was innocent and pure. Now, I am left alone with four young children and do not know what to do."
+
 # --- DEATH ---
 date_of_death: 1979-08-30
 age_at_death: 32
@@ -48,9 +56,8 @@ circumstances: >
     executed three days after her arrest on Thursday, at 3:35 am. The man
     charged with having committed adultery with the defendant was sentenced to
     100 lashes.
-event_context: null
-responsible_forces: null
-
+event_context: "1979 execution"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,18 @@
 id: nurbakhsh-hassan-1988
 name_latin: "Hassan Nurbakhsh"
 name_farsi: "حسن نوربخش"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1957-01-01"
+place_of_birth: "Azarbaijan"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "computer science student"
+family:
+  marital_status: "married"
+  children: 1
 
 # --- DEATH ---
 date_of_death: 1988-08-30
@@ -86,9 +92,8 @@ circumstances: >
     designated successor, corroborates the reported claims regarding the
     charges against the executed prisoners. In this edict, Ayatollah Khomeini
     refers to members
-event_context: null
-responsible_forces: null
-
+event_context: "mass killings of political prisoners in 1988"
+responsible_forces: "Fadaiyan Khalq Organization"
 # --- VERIFICATION ---
 status: unverified
 sources:

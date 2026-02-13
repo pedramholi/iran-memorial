@@ -2,11 +2,18 @@ id: omumi-fariba-1988
 name_latin: "Fariba Omumi"
 name_farsi: "فریبا عمومی"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Esfahan"
 gender: female
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "student"
+education: "student at Tehran University"
+family:
+  notes: "sister was tortured and killed in Esfahan prison in September 1981"
+beliefs: "sympathizer of the Mojahedin Organization"
 
 # --- DEATH ---
 date_of_death: 1988-12-13
@@ -70,9 +77,8 @@ circumstances: >
     According to the Mojahedin website, her body was taken to the coroner s
     office after her execution, and the officials asked her mother to identify
     her body.
-event_context: null
-responsible_forces: null
-
+event_context: "1988-89 mass execution of political prisoners"
+responsible_forces: "People's Mojahedin of Iran Organization"
 # --- VERIFICATION ---
 status: unverified
 sources:

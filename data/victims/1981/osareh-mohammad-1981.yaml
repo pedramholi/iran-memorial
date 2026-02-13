@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Unknown"
 photo: null
 
+# --- LIFE ---
+beliefs: "member of the Organization of Allied Combatants"
+
 # --- DEATH ---
 date_of_death: 1981-07-02
 age_at_death: null
@@ -36,8 +39,7 @@ circumstances: >
     Judgment The Islamic Revolutionary Tribunal of Ahvaz sentenced Mr. Osareh
     to death. He was executed at 1:45 a.m.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal of Ahvaz"
 # --- VERIFICATION ---
 status: unverified
 sources:

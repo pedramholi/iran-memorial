@@ -3,7 +3,7 @@ name_latin: "Aqdas Ja'farzadeh"
 name_farsi: "اقدس جعفرزاده"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Unknown"
 photo: null
@@ -36,8 +36,7 @@ circumstances: >
     Ms. Ja'farzadeh was convicted, sentenced as a "corruptor on earth," and
     executed in Revolutionary Guards building of Kashmar.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic"
 # --- VERIFICATION ---
 status: unverified
 sources:

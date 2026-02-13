@@ -1,12 +1,18 @@
 id: hadidi-aria-1981
 name_latin: "Aria Hadidi"
 name_farsi: "آریا حدیدی"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1961-01-01"
+place_of_birth: "Mashhad"
 gender: male
 ethnicity: null
 religion: null
 photo: null
+
+# --- LIFE ---
+education: "high school graduate"
+family:
+  marital_status: "single"
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-07-18
@@ -44,9 +50,8 @@ circumstances: >
     Supreme Judicial Council confirmed the ruling. No specific information is
     available about the defendant s execution. Mr. Aria Hadidi was 20 years
     old.
-event_context: null
-responsible_forces: null
-
+event_context: "executed in 1981"
+responsible_forces: "Islamic Revolutionary Court of Mashhad"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -2,11 +2,14 @@ id: musavi-nozhat-1981
 name_latin: "Nozhat Musavi"
 name_farsi: "نزهت موسوی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Some’ehsara, Gilan province"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "teacher"
 
 # --- DEATH ---
 date_of_death: 1981-07-30
@@ -39,9 +42,8 @@ circumstances: >
     Revolutionary Court of Rasht identified Mr. Nezhat Musavi a “rebel,
     corruptor, and an enemy of God” and condemned him to death. He was shot by
     a firing squad in Rasht on July 30, 1981 at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

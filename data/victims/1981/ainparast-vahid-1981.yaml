@@ -1,12 +1,20 @@
 id: ainparast-vahid-1981
 name_latin: "Vahid A'inparast"
 name_farsi: "وحید آیین پرست"
-date_of_birth: null
+date_of_birth: "1966-01-01"
 place_of_birth: null
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+family:
+  notes: "oldest child in his family"
+personality: "described as a youngster who loved to live, dressed well, and always smiled"
+quotes:
+  - "Mother, tell them that I am not a sympathizer of any group. I was just there to watch."
+  - "Vahid s voice and his entreaties are always in my ears. He was terrified and asked for my help. I could not do anything for him."
 
 # --- DEATH ---
 date_of_death: 1981-01-01
@@ -53,7 +61,7 @@ circumstances: >
     visit him. This report quotes Vahid s mother, feeling a lump in her
     throat, saying, Vahid s voice and his entreaties are always in my ears. He
     was terrified and asked for my help. I could not do anything for him.
-event_context: null
+event_context: "demonstration turning into a clash around Enqelab Square, in Tehran, in June of 1981"
 responsible_forces: null
 
 # --- VERIFICATION ---

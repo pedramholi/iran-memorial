@@ -3,7 +3,7 @@ name_latin: "Mansureh Khosro Abadi"
 name_farsi: "منصوره خسرو آبادی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Islam"
 photo: null
@@ -36,9 +36,8 @@ circumstances: >
     available on Ms. Khosro Abadi's defense. Judgment No information is
     available on the judgment or whether an appeal was allowed. Ms. Khoshro
     Abadi was executed in November, 1988.
-event_context: null
-responsible_forces: null
-
+event_context: "1988 prison massacres"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Davud Ahangari (Ahangaran)"
 name_farsi: "داود آهنگری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -41,9 +41,8 @@ circumstances: >
     declared Mr. Ahangari a corruptor on earth and sentenced him to death.
     Having been confirmed by the Supreme Court, the sentence was carried out
     in prison at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "1984"
+responsible_forces: "Anti-Narcotics Section of the Public Prosecutor's Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

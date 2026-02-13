@@ -39,9 +39,8 @@ circumstances: >
     does not contain information regarding the evidence provided against the
     defendant. Defense No information is available on Mr. Ebrahimi's defense.
     Judgment No information is available about the verdict.
-event_context: null
-responsible_forces: null
-
+event_context: "1988-89 mass execution of political prisoners"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -3,7 +3,7 @@ name_latin: "Sharifeh Afvian"
 name_farsi: "شریفه عفویان"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Islam"
 photo: null
@@ -40,8 +40,7 @@ circumstances: >
     to death. The sentence was carried out by several repentants who had
     requested to do the executions at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Public Prosecutor’s Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

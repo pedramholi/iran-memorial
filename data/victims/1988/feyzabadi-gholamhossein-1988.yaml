@@ -1,12 +1,16 @@
 id: feyzabadi-gholamhossein-1988
 name_latin: "Gholamhossein Feyzabadi"
 name_farsi: "غلامحسین فیض آبادی"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1961-01-01"
+place_of_birth: "Arak"
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "student"
+beliefs: "sympathizer of the MKO"
 
 # --- DEATH ---
 date_of_death: 1988-08-13
@@ -38,9 +42,8 @@ circumstances: >
     Defense No information is available on Mr. Feiz-Abadi's defense. Judgment
     No information is available on the judgment or whether an appeal was
     allowed. Mr. Feiz-Abadi was executed in November, 1988.
-event_context: null
-responsible_forces: null
-
+event_context: "1988-89 mass execution of political prisoners"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

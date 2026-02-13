@@ -33,9 +33,8 @@ circumstances: >
     Judgment The Tribunal for Combating Evil-doing condemned Mr. Morteza
     Nazari to death. After the Supreme Court of the Islamic Revolution of Iran
     confirmed the ruling, he was executed by a firing squad on August 8, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 execution"
+responsible_forces: "Islamic Republic’s authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

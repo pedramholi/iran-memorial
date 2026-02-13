@@ -2,11 +2,16 @@ id: rashidi-jafar-1979
 name_latin: "Ja'far Rashidi"
 name_farsi: "جعفر رشیدی"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Azarshahr, East Azarbaijan Province"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "worker at the Tabriz car factory"
+quotes:
+  - "the Islamic Revolutionary Tribunal condemned the deluded youth and the other two rapists to 100 and 80 lashes respectively."
 
 # --- DEATH ---
 date_of_death: 1979-09-24
@@ -39,9 +44,8 @@ circumstances: >
     firing squad at 9:30 p.m. on September 24, 1979 in Tabriz. According to
     the newspaper, “the Islamic Revolutionary Tribunal condemned the deluded
     youth and the other two rapists to 100 and 80 lashes respectively.”
-event_context: null
-responsible_forces: null
-
+event_context: "execution on September 24, 1979"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

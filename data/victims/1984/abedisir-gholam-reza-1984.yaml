@@ -37,9 +37,8 @@ circumstances: >
     s defense. Judgment Tehran s Islamic Revolutionary Anti-Drug Tribunal
     sentenced Mr. Abedisir to death. The sentence was carried out in Qasr
     prison at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "1984"
+responsible_forces: "Islamic Revolutionary Anti-Drug Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

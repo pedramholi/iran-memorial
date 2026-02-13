@@ -38,9 +38,8 @@ circumstances: >
     Tribunal of Behshahr found Mr. Faghfuri guilty of "corruption on earth"
     and "rebellion against God and the People". He was executed at dawn on
     July 12, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 execution"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

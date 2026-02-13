@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "Colonel"
+beliefs: "member of the Nima Group"
+
 # --- DEATH ---
 date_of_death: 1982-12-11
 age_at_death: null
@@ -41,8 +45,7 @@ circumstances: >
     Republic of Iran Army sentenced Colonel Purmusa to death. Having been
     confirmed by the Supreme Court, the sentence was carried out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Revolutionary Tribunal of the Islamic Republic of Iran Army"
 # --- VERIFICATION ---
 status: unverified
 sources:

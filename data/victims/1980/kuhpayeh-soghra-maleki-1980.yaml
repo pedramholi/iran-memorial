@@ -3,7 +3,7 @@ name_latin: "Soghra Maleki Kuhpayeh"
 name_farsi: "صغری ملکی کوهپایه"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -38,8 +38,7 @@ circumstances: >
     Tribunal of Kerman declared Ms. Maleki a corruptor on earth and sentenced
     her to death.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

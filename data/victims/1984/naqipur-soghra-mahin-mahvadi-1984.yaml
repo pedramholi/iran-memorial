@@ -3,10 +3,13 @@ name_latin: "Soghra (Mahin) Mahvadi Naqipur"
 name_farsi: "صغری (مهین) مهدوی نقی پور"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+beliefs: "Mojahedin Khalq Iran"
 
 # --- DEATH ---
 date_of_death: 1984-07-04
@@ -85,7 +88,7 @@ circumstances: >
     after this operation, thousands of imprisoned Mojahedin supporters were
     killed during the mass executions of political prisoners in 1988. Ever
     since the summer of 1981, the MKO has continued its activities outside
-event_context: null
+event_context: "1981 protests"
 responsible_forces: null
 
 # --- VERIFICATION ---

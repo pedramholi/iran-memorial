@@ -1,12 +1,18 @@
 id: ramezanpur-mohammad-amin-1981
 name_latin: "Mohammad Amin Ramezanpur"
 name_farsi: "محمد امین رمضانپور"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1959-01-01"
+place_of_birth: "Bandar Abbas"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "technical high school graduate"
+beliefs: "sympathizer of the Peykar Organization with atheist beliefs"
+quotes:
+  - "Moharebeh (fighting) against God and the Occult Imam, and cooperation with the anti-revolutionary groups."
 
 # --- DEATH ---
 date_of_death: 1981-01-01
@@ -51,9 +57,8 @@ circumstances: >
     the information of the electronic form, Mr. Mohammadamin Ramezanpur was
     executed in Bandar Abbas in September 1981. No specific information is
     available about the defendant’s execution.
-event_context: null
-responsible_forces: null
-
+event_context: "executed in Bandar Abbas in September 1981"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

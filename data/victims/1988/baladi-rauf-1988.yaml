@@ -2,11 +2,15 @@ id: baladi-rauf-1988
 name_latin: "Ra'uf Baladi"
 name_farsi: "رئوف بلدى"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Kermanshah"
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "teacher"
+education: "degree in Interior Design"
 
 # --- DEATH ---
 date_of_death: 1988-09-06
@@ -85,9 +89,8 @@ circumstances: >
     were members of organizations other than the MKO were charge for being
     "anti religious" and were condemned for insisting on their beliefs.
     Judgment The court condemned Mr. Ra'uf Baladi to death. He
-event_context: null
-responsible_forces: null
-
+event_context: "1988 mass killings of political prisoners"
+responsible_forces: "Iranian authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

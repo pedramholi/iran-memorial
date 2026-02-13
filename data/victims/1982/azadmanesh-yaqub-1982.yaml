@@ -3,7 +3,7 @@ name_latin: "Ya'qub Azadmanesh"
 name_farsi: "یعقوب آزادمنش"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
@@ -39,9 +39,8 @@ circumstances: >
     to the Islamic Revolutionary Tribunal of Bandarabbas,Mr. Azadmanesh was
     found guilty of being a corruptor and an enemy of God and was sentenced to
     death. The sentence was carried out.
-event_context: null
-responsible_forces: null
-
+event_context: "1982"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

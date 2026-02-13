@@ -8,6 +8,12 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+occupation: "high school student"
+beliefs: "sympathizer of the fighting organization of Peykar"
+quotes:
+  - "being at war with God and a rebel against the Islamic Regime"
+
 # --- DEATH ---
 date_of_death: 1981-08-18
 age_at_death: null
@@ -62,9 +68,8 @@ circumstances: >
     “being at war with God and a rebel against the Islamic Regime.” He was
     condemned to death and was executed by firing squad in Qom on August 18,
     1981. He was a high school student.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Islamic Revolutionary Court of Qom"
 # --- VERIFICATION ---
 status: unverified
 sources:

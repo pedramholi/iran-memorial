@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "Lieutenant Sergeant"
+
 # --- DEATH ---
 date_of_death: 1980-01-11
 age_at_death: null
@@ -37,8 +40,7 @@ circumstances: >
     Neyshabur declared Lieutenant Sergeant Saburi a corruptor on earth." He
     was executed at dawn.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

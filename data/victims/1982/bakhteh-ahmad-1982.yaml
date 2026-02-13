@@ -37,8 +37,7 @@ circumstances: >
     Public Prosecutor’s Office in Mahabad declared Mr. Bakhteh an enemy of God
     and the Prophet and sentenced him to death. The sentence was carried out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

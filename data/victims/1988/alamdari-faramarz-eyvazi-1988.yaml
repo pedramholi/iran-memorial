@@ -1,12 +1,22 @@
 id: alamdari-faramarz-eyvazi-1988
 name_latin: "Faramarz Eyvazi Alamdari"
 name_farsi: "فرامرز عیوضی علمداری"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1962-01-01"
+place_of_birth: "Tehran"
 gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "freelancer"
+education: "high school diploma"
+family:
+  marital_status: "single"
+  children: 0
+  notes: "had two sisters and an older brother who was killed during the Iran-Iraq war in 1980"
+personality: "honest and good man"
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -85,7 +95,7 @@ circumstances: >
     Charges According to the electronic form, during his first trial, the
     charge against Mr. Eyvazi Alamdari was financial support of the Mojahedin
     Khalq Organization.
-event_context: null
+event_context: "1988 massacre"
 responsible_forces: null
 
 # --- VERIFICATION ---

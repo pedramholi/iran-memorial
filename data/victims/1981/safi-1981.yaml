@@ -3,7 +3,7 @@ name_latin: "Safi"
 name_farsi: "صافی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -33,9 +33,8 @@ circumstances: >
     available on his defense. Judgment In accordance with the Islamic
     Revolutionary Tribunal of Sistan va Baluchestan, Mr. Safi was executed on
     October 27, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "execution on October 27, 1981"
+responsible_forces: "Islamic Revolutionary Tribunal of Sistan va Baluchestan"
 # --- VERIFICATION ---
 status: unverified
 sources:

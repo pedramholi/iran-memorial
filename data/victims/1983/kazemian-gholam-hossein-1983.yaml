@@ -40,9 +40,8 @@ circumstances: >
     and Baluchestan sentenced Mr. Kazemian to death. Having been confirmed by
     the Supreme Court, the sentence was carried out in the Islamic
     Revolutionary Committee at 1 a.m.
-event_context: null
-responsible_forces: null
-
+event_context: "1983"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -8,6 +8,10 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+occupation: "engineer"
+beliefs: "affiliated with various opposition groups"
+
 # --- DEATH ---
 date_of_death: 1981-08-04
 age_at_death: 32
@@ -46,9 +50,8 @@ circumstances: >
     the evidence provided against the defendant. Defense No information is
     available on Mr. Saburi Jahromi's defense. Judgment Mr. Saburi Jahromi was
     executed in Shiraz in August of 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "executed in Shiraz in August of 1981"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

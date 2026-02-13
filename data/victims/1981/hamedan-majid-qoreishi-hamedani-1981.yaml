@@ -2,11 +2,14 @@ id: hamedan-majid-qoreishi-hamedani-1981
 name_latin: "Majid Qoreishi Hamedani (Hamedan)"
 name_farsi: "مجید قریشی همدانی (همدان)"
 date_of_birth: null
-place_of_birth: null
+place_of_birth: "Hamedan"
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-08-07
@@ -86,9 +89,8 @@ circumstances: >
     announced an armed struggle against the Islamic Republic and assassinated
     a number of high-ranking officials and supporters of the Islamic regime.
     In the summer of 1981, t
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Central Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

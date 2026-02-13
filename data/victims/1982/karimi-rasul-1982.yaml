@@ -1,12 +1,21 @@
 id: karimi-rasul-1982
 name_latin: "Rasul Karimi"
 name_farsi: "رسول کریمی"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1964-01-01"
+place_of_birth: "Shiraz"
+gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "sympathizer of the Mojahedin Khalq Organization"
+family:
+personality: "always had a happy attitude and could laugh and joke under hardship"
+beliefs: "sympathizer of the Mojahedin Khalq Organization"
+quotes:
+  - "Death to Khomeini!"
+  - "Long live the Mojahedin!"
 
 # --- DEATH ---
 date_of_death: 1982-01-06
@@ -85,9 +94,8 @@ circumstances: >
     firing squad, along with four others, at Chogan Garrison in Shiraz on
     January 6, 1982 at dawn. According to the interviewee, his body was not
     given to his family. Authorities told the fam
-event_context: null
-responsible_forces: null
-
+event_context: "1981 demonstrations"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

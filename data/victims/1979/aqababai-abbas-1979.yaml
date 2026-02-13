@@ -35,9 +35,8 @@ circumstances: >
     Judgment The Islamic Revolutionary Tribunal of Mashhad declared Mr.
     Aqababa’i a “corruptor on earth” and an “enemy of God” and sentenced him
     to death. He was executed at dawn in Mashhad on November 17, 1979.
-event_context: null
-responsible_forces: null
-
+event_context: "1979"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

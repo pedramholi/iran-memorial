@@ -3,10 +3,13 @@ name_latin: "Batul Farhadi"
 name_farsi: "بتول فرهادی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+beliefs: "Mojahedin Khalq Iran"
 
 # --- DEATH ---
 date_of_death: 1982-08-15
@@ -85,9 +88,8 @@ circumstances: >
     to Iraq and founded the National Liberation Army of Iran in 1987, which
     entered Iranian territory a few times during the Iran-Iraq war. They were
     defeated in July 1988 during their last operation, the Forugh Javidan Op
-event_context: null
-responsible_forces: null
-
+event_context: "1981 protests"
+responsible_forces: "Islamic Revolution Guards Corps"
 # --- VERIFICATION ---
 status: unverified
 sources:

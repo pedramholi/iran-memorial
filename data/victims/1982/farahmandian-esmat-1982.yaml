@@ -3,7 +3,7 @@ name_latin: "Esmat Farahmandian"
 name_farsi: "عصمت فرهمندیان"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Islam"
 photo: null
@@ -84,7 +84,7 @@ circumstances: >
     of the “armed struggle” announcement by the MKO on June 20, 1981, many
     sympathizers of the organization had no military training, were not armed,
     and did not participate in armed conflict.
-event_context: null
+event_context: "1981 protests against the Islamic Republic"
 responsible_forces: null
 
 # --- VERIFICATION ---

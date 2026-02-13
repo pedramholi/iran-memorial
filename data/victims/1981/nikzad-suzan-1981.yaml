@@ -2,11 +2,21 @@ id: nikzad-suzan-1981
 name_latin: "Suzan Nikzad"
 name_farsi: "سوزان نیکزاد"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Tehran"
+gender: female
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "hospital technician"
+education: "master’s of science degree in Nursing"
+personality: "in good spirits in prison and always tried to strengthen the moral of her inmates"
+beliefs: "active member of the Fadayian Khalq Minority Organization"
+quotes:
+  - "Am I trying you, or are you trying me?"
+  - "it is these hands that created God."
+  - "When her name was called in the afternoon of November 19, she raised her hands with a smile on her face as she was going out of the cell and this is how she said goodbye to all of us who had gathered to see her for the last time."
 
 # --- DEATH ---
 date_of_death: 1981-11-19
@@ -85,9 +95,8 @@ circumstances: >
     all of us who had gathered to see her for the last time.” According to the
     interviewee, when Ms. Suzan Nikzad’s mother went to visit her at Evin
     Prison, officials t
-event_context: null
-responsible_forces: null
-
+event_context: "1981"
+responsible_forces: "Revolutionary Guard"
 # --- VERIFICATION ---
 status: unverified
 sources:

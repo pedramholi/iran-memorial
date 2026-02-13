@@ -2,11 +2,17 @@ id: manuchehri-sirus-1979
 name_latin: "Sirus Manuchehri"
 name_farsi: "سیروس منوچهری"
 date_of_birth: null
-place_of_birth: null
-gender: null
+place_of_birth: "Sanandaj, Kordestan"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "former head security police SAVAK"
+quotes:
+  - "10 handcuffed men filled a wooden bench before the judge, a black-bearded Shiite cleric named Sadegh Khalkhali. An injured 11th prisoner lay on a stretcher beside the door. The judge removed his turban… removed his shoes. He put his feet on a chair. Scanning the prisoners through thick eyeglasses, he asked their names. Officers of the court told of the defendants’ alleged crimes."
+  - "No evidence was presented… It was pure speculation."
 
 # --- DEATH ---
 date_of_death: 1979-08-27
@@ -85,9 +91,8 @@ circumstances: >
     [who] belonged to no political party but possessed a handgun.” It appears
     that the gun was used as evidence to prove the “murder” charge. Defense
     The defendants “denied the accusa
-event_context: null
-responsible_forces: null
-
+event_context: "Sanandaj conflicts"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

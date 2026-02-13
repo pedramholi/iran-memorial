@@ -3,7 +3,7 @@ name_latin: "Mahut Mozduri"
 name_farsi: "ماهوت مزدوری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -37,8 +37,7 @@ circumstances: >
     to this report, Mr. Mozduri was executed. The Tribunal which issued his
     death sentence was not specified.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolution s Committee"
 # --- VERIFICATION ---
 status: unverified
 sources:

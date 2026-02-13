@@ -8,6 +8,12 @@ ethnicity: null
 religion: "Presumed Muslim"
 photo: null
 
+# --- LIFE ---
+occupation: "fighter pilot"
+education: "Ferdosi High School"
+personality: "described as a true patriot"
+beliefs: "involved in planning a coup d’état, known as Nojeh"
+
 # --- DEATH ---
 date_of_death: 1980-07-31
 age_at_death: 29
@@ -78,9 +84,8 @@ circumstances: >
     information is available regarding Mr. Behruzfar’s defense. Judgment The
     Islamic Revolutionary Court Martial condemned Mr. Mohammad Behruzfar to
     death. He was shot by a firing squad on July 31, 1980 at Evin prison.
-event_context: null
-responsible_forces: null
-
+event_context: "Nojeh coup"
+responsible_forces: "Islamic Revolutionary Court Martial"
 # --- VERIFICATION ---
 status: unverified
 sources:

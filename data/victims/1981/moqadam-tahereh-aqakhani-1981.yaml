@@ -1,12 +1,19 @@
 id: moqadam-tahereh-aqakhani-1981
 name_latin: "Tahereh Aqakhani Moqadam"
 name_farsi: "طاهره آقاخانی مقدم"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1959-01-01"
+place_of_birth: "Tehran"
 gender: female
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "physics student"
+family:
+  marital_status: "married"
+  notes: "husband was Ali Alemzadeh, who was in charge of the Labor Committee of the Nabard Organization and was also executed with her"
+beliefs: "sympathizer of the Nabard Organization"
 
 # --- DEATH ---
 date_of_death: 1981-06-21
@@ -62,9 +69,8 @@ circumstances: >
     form, Ms. Aqakhani Moqadam was executed in the Evin prison on June 21,
     1981. According to the the addendum to the Mojahed magazine, she was
     executed by a firing squad.
-event_context: null
-responsible_forces: null
-
+event_context: "executed on June 21, 1981"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

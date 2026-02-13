@@ -3,10 +3,13 @@ name_latin: "Sa'id Saburi"
 name_farsi: "سعید صبوری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "affiliated with Peykar Organization"
 
 # --- DEATH ---
 date_of_death: 1982-11-25
@@ -40,9 +43,8 @@ circumstances: >
     against the defendant. Defense No information is available on Mr. Saburi’s
     defense. Judgment No specific information is available about the verdict
     leading to this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "executed or killed during clashes from June 1981 to 1985"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,9 +1,9 @@
 id: hamal-faezeh-bi-1981
 name_latin: "Faezeh Bi Hamal"
 name_farsi: "فائزه بی‌همال"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1964-01-01"
+place_of_birth: "Babolsar"
+gender: female
 ethnicity: null
 religion: "Islam"
 photo: null
@@ -85,9 +85,8 @@ circumstances: >
     Republic regime started a repressive campaign unprecedented in modern
     Iranian history. Thousands of MKO members and sympathizers were arrested
     or executed. On June 21, 1981, the MKO announced an armed strug
-event_context: null
-responsible_forces: null
-
+event_context: "1981 protests"
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

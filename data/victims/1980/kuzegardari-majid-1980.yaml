@@ -1,12 +1,18 @@
 id: kuzegardari-majid-1980
 name_latin: "Majid Kuzegardari"
 name_farsi: "مجید کوزه گردری"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1933-01-01"
+place_of_birth: "Tabriz"
 gender: male
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
+
+# --- LIFE ---
+occupation: "worked at the main vegetable market"
+education: "elementary education"
+family:
+  marital_status: "married"
 
 # --- DEATH ---
 date_of_death: 1980-08-14
@@ -37,8 +43,7 @@ circumstances: >
     report, the Islamic Revolutionary Tribunal of Tabriz declared Mr. Majid
     Kuzegardari a corruptor on earth and sentenced him to death.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

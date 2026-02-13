@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+beliefs: "member of the Peykar Organization for the Liberation of the Working Class"
+
 # --- DEATH ---
 date_of_death: 1981-09-13
 age_at_death: null
@@ -53,9 +56,8 @@ circumstances: >
     Judgment According to Jomhuri Eslami , the Islamic Revolutionary Tribunal
     of Shiraz called Mr. Dalvand “an enemy of God” and condemned him to death.
     He was executed in Shiraz on September 13, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Islamic Revolutionary Tribunal of Shiraz"
 # --- VERIFICATION ---
 status: unverified
 sources:

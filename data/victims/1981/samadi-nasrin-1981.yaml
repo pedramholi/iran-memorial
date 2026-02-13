@@ -1,7 +1,7 @@
 id: samadi-nasrin-1981
 name_latin: "Nasrin Samadi"
 name_farsi: "نسرین صمدی"
-date_of_birth: null
+date_of_birth: "1955-01-01"
 place_of_birth: null
 gender: female
 ethnicity: null
@@ -46,9 +46,8 @@ circumstances: >
     available on Ms. Samadi's defense. Judgment According to the list of
     Martyrs of the Peykar Organization, Ms. Nasrin Samadi was executed by
     firing squad in Tehran in August of 1981. She was 26.
-event_context: null
-responsible_forces: null
-
+event_context: "executed or killed during clashes with the Islamic Republic security forces from June 1981 to the publication date of the magazine"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -35,9 +35,8 @@ circumstances: >
     evidence provided against the defendant. Defense No information is
     available on Mr. Malek Mohammadi s defense. Judgment There is no
     information on the verdict leading to this execution.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 repression"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

@@ -1,12 +1,19 @@
 id: ahangari-alireza-1981
 name_latin: "Alireza Ahangari"
 name_farsi: "علیرضا آهنگری"
-date_of_birth: null
+date_of_birth: "1951-01-01"
 place_of_birth: null
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+occupation: "student"
+family:
+  marital_status: "single"
+  children: 0
+  notes: "one brother was killed during the clashes in Amol"
 
 # --- DEATH ---
 date_of_death: 1981-11-18
@@ -85,9 +92,8 @@ circumstances: >
     death of several MKO supporters. On June 20, 1981, the MKO called for a
     demonstration protesting their treatment by governmental officials and the
     government officials efforts to impeach their ally, Pr
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Islamic Revolutionary Court"
 # --- VERIFICATION ---
 status: unverified
 sources:

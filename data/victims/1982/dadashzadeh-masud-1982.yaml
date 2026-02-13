@@ -3,10 +3,13 @@ name_latin: "Mas'ud Dadashzadeh"
 name_farsi: "مسعود داداش زاده"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+beliefs: "sympathizer of the Mojahedin Organization"
 
 # --- DEATH ---
 date_of_death: 1982-03-01
@@ -33,9 +36,8 @@ circumstances: >
     Dadashzadeh's defence. Judgment No specific information is available about
     this execution. Mr. Dadashzadeh was executed by the firing squad at the
     Evin prison in June 1982.
-event_context: null
-responsible_forces: null
-
+event_context: "executed by the firing squad at the Evin prison in June 1982"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

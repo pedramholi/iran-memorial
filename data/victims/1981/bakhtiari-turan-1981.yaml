@@ -3,7 +3,7 @@ name_latin: "Turan Bakhtiari"
 name_farsi: "توران بختیاری"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
@@ -30,9 +30,8 @@ circumstances: >
     information regarding the evidence provided against the defendant. Defense
     No information is available on Ms. Bakhtiari's defense. Judgment No
     specific information regarding the death sentence is available.
-event_context: null
-responsible_forces: null
-
+event_context: "executed prisoners listed by the Association of Iranian Women of Köln"
+responsible_forces: "Islamic Republic security forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

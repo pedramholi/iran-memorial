@@ -3,10 +3,13 @@ name_latin: "Sa'id Arabyazdi"
 name_farsi: "سعید عرب یزدی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+beliefs: "member of Peykar Organization for the Liberation of the Working Class"
 
 # --- DEATH ---
 date_of_death: 1981-08-15
@@ -68,9 +71,8 @@ circumstances: >
     available on Mr. Arabyazdi’s defense. Judgment The Central Islamic
     Revolutionary Court condemned Mr. Sa’id Arabyazdi to death. He was
     executed in Evin prison in Tehran on August 15, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "executed on August 15, 1981"
+responsible_forces: "Central Revolutionary Prosecutor’s Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

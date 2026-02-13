@@ -3,7 +3,7 @@ name_latin: "Allah Karam Rezvani"
 name_farsi: "اله کرم رضوانی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
@@ -34,8 +34,7 @@ circumstances: >
     and rebellious against the Islamic government. She was sentenced to death.
     The sentence was carried out.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal of Bushehr"
 # --- VERIFICATION ---
 status: unverified
 sources:

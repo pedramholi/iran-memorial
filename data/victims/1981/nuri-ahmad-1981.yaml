@@ -1,12 +1,15 @@
 id: nuri-ahmad-1981
 name_latin: "Ahmad Nuri"
 name_farsi: "احمد نوری"
-date_of_birth: null
+date_of_birth: "1958-01-01"
 place_of_birth: null
 gender: male
 ethnicity: null
 religion: "Islam"
 photo: null
+
+# --- LIFE ---
+beliefs: "supporter of the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1981-07-13
@@ -86,9 +89,8 @@ circumstances: >
     the Islamic Republic and assassinated a number of high-ranking officials
     and supporters of the Islamic regime. In the summer of 1981, the leader of
     the MKO and the impe
-event_context: null
-responsible_forces: null
-
+event_context: "1981 protests"
+responsible_forces: "Lahijan Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

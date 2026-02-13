@@ -3,7 +3,7 @@ name_latin: "Rezwan Ahmad-Zadeh"
 name_farsi: "رضوان احمد زاده"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: female
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -32,9 +32,8 @@ circumstances: >
     Defense No information is available on Ms. Ahmad-Zadeh's defense. Judgment
     No information is available on the judgment or whether she was allowed to
     appeal her conviction. No details are available about her execution.
-event_context: null
-responsible_forces: null
-
+event_context: "July-December 1988"
+responsible_forces: "Islamic Republic of Iran"
 # --- VERIFICATION ---
 status: unverified
 sources:

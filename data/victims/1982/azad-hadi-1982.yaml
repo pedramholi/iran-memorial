@@ -1,12 +1,16 @@
 id: azad-hadi-1982
 name_latin: "Hadi Azad"
 name_farsi: "هادی آزاد"
-date_of_birth: null
+date_of_birth: "1965-01-01"
 place_of_birth: null
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "sympathizer of the Revolutionary Workers Organization of Iran-Rah-e Kargar"
+beliefs: "sympathizer of the Revolutionary Workers Organization of Iran-Rah-e Kargar"
 
 # --- DEATH ---
 date_of_death: 1982-10-29
@@ -63,9 +67,8 @@ circumstances: >
     Revolutionary Court of Arak condemned Mr. Azad to death. The Islamic
     Revolutionary Supreme Court confirmed the ruling and he was executed on
     October 27, 1982.
-event_context: null
-responsible_forces: null
-
+event_context: "June 20, 1981 demonstrations"
+responsible_forces: "Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

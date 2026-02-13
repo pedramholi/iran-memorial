@@ -1,12 +1,16 @@
 id: homayunnejad-mohammad-ali-1981
 name_latin: "Mohammad Ali Homayunnejad"
 name_farsi: "محمد علی همایون نژاد"
-date_of_birth: null
-place_of_birth: null
+date_of_birth: "1952-01-01"
+place_of_birth: "Zahedan"
 gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "worked in the coroner’s office"
+beliefs: "sympathizer of the Peykar Organization"
 
 # --- DEATH ---
 date_of_death: 1981-09-03
@@ -61,9 +65,8 @@ circumstances: >
     God, a corruptor on earth, and a rebel against the Islamic Regime” and the
     Court condemned him to death. He was shot by firing squad in Evin prison
     on September 1, 1981.
-event_context: null
-responsible_forces: null
-
+event_context: "executed on September 1, 1981"
+responsible_forces: "Islamic Revolutionary Court of Tehran"
 # --- VERIFICATION ---
 status: unverified
 sources:

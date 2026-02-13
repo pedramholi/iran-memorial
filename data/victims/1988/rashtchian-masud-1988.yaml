@@ -1,12 +1,16 @@
 id: rashtchian-masud-1988
 name_latin: "Mas'ud Rashtchian"
 name_farsi: "مسعود رشتچیان"
-date_of_birth: null
-place_of_birth: null
-gender: null
+date_of_birth: "1953-04-21"
+place_of_birth: "Tehran"
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
+
+# --- LIFE ---
+occupation: "electrical engineer"
+beliefs: "affiliated with the Mojahedin Khalq Organization"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -85,9 +89,8 @@ circumstances: >
     prison. His family was informed of the execution when they were given Mr.
     Rashtchian s clothes. His body was never returned to the family. They also
     were never information of the place of burial.
-event_context: null
-responsible_forces: null
-
+event_context: "1988 mass killings of political prisoners"
+responsible_forces: "Intelligence Ministry"
 # --- VERIFICATION ---
 status: unverified
 sources:

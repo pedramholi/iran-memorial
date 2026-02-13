@@ -38,9 +38,8 @@ circumstances: >
     No information is available on Mr. Mohammadian s defense. Judgment The
     Anti-Narcotics Islamic Revolutionary Tribunal sentenced Mr. Mohammadian to
     death. The sentence was carried out at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "1984"
+responsible_forces: "Anti-Narcotics Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

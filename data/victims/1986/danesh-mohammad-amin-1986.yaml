@@ -33,8 +33,7 @@ circumstances: >
     executed on 12 January 1986 in Iranshahr and that his body was burned by
     the Guardians of the revolution.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Guardians of the revolution"
 # --- VERIFICATION ---
 status: unverified
 sources:

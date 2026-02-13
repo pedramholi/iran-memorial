@@ -39,9 +39,8 @@ circumstances: >
     available on Mr. Mostafapur's defense. Judgment The Anti-Narcotics Islamic
     Revolutionary Tribunal sentenced Mr. Mostafapur to death. The sentence was
     carried out at dawn.
-event_context: null
-responsible_forces: null
-
+event_context: "1984 execution"
+responsible_forces: "Anti-Narcotics Islamic Revolutionary Tribunal"
 # --- VERIFICATION ---
 status: unverified
 sources:

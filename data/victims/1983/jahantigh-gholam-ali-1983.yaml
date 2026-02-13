@@ -40,9 +40,8 @@ circumstances: >
     Revolutionary Tribunal in Tehran declared Mr. Jahantigh a corruptor on
     earth and sentenced him to death. Having been confirmed by the Supreme
     Court, the sentence was carried out at 5 a.m.
-event_context: null
-responsible_forces: null
-
+event_context: "1983 execution"
+responsible_forces: "Anti-Narcotics Section of the Public Prosecutor's Office"
 # --- VERIFICATION ---
 status: unverified
 sources:

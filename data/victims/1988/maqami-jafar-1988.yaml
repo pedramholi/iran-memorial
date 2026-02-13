@@ -1,12 +1,17 @@
 id: maqami-jafar-1988
 name_latin: "Ja'far Maqami"
 name_farsi: "جعفر مقامی"
-date_of_birth: null
+date_of_birth: "1958-01-01"
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "student pilot training to fly F14 jets"
+family:
+beliefs: "sympathizer of the Peykar Organization"
 
 # --- DEATH ---
 date_of_death: 1988-01-01
@@ -85,9 +90,8 @@ circumstances: >
     families of the prisoners note that defendants were not given the
     opportunity to defend themselves in court. The same letter, rebutting the
     accusation that these prisoners (from inside the prison)
-event_context: null
-responsible_forces: null
-
+event_context: "1988-89 mass execution of political prisoners"
+responsible_forces: "Iranian authorities"
 # --- VERIFICATION ---
 status: unverified
 sources:

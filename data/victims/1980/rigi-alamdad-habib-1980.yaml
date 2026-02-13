@@ -3,7 +3,7 @@ name_latin: "Alamdad Habib Rigi"
 name_farsi: "المداد حبیب ریگی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Presumed Muslim"
 photo: null
@@ -36,8 +36,7 @@ circumstances: >
     Revolutionary Tribunal of Sistan and Baluchestan found Mr. Habib Rigi
     guilty of corruption on earth. He was sentenced to death and executed.
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Revolutionary Tribunal of Sistan and Baluchestan"
 # --- VERIFICATION ---
 status: unverified
 sources:

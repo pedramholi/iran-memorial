@@ -3,10 +3,17 @@ name_latin: "Nabi Mofidi"
 name_farsi: "نبی مفیدی"
 date_of_birth: null
 place_of_birth: null
-gender: null
+gender: male
 ethnicity: null
 religion: "Non-Believer"
 photo: null
+
+# --- LIFE ---
+occupation: "high school student"
+family:
+  marital_status: "single"
+  notes: "born in a hardworking family"
+beliefs: "active supporter of the Tufan Party"
 
 # --- DEATH ---
 date_of_death: 1981-07-07
@@ -86,8 +93,7 @@ circumstances: >
     officially accepted responsibility for these murders and have even
     attributed their commission to their opposition. Nevertheless,
 event_context: null
-responsible_forces: null
-
+responsible_forces: "Islamic Republic police forces"
 # --- VERIFICATION ---
 status: unverified
 sources:

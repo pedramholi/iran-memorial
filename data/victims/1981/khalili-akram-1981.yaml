@@ -8,6 +8,9 @@ ethnicity: null
 religion: "Islam (Shi'a)"
 photo: null
 
+# --- LIFE ---
+beliefs: "active support of the Mojahedin Khalq Organization, anti-revolutionary activities, approval of the theory of armed struggle, causing disturbances in schools, spreading poisonous and anti-revolutionary ideology and distributing banned pamphlets and publications in schools"
+
 # --- DEATH ---
 date_of_death: 1981-09-20
 age_at_death: 16
@@ -46,9 +49,8 @@ circumstances: >
     Khalili to death. She was executed, along with 4 others, on September 20,
     1981. According to the form, she was buried an hour or two after her
     execution, without the presence of her family.
-event_context: null
-responsible_forces: null
-
+event_context: "1981 executions"
+responsible_forces: "Najaf Abad Revolutionary Guards"
 # --- VERIFICATION ---
 status: unverified
 sources:

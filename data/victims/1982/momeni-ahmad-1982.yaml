@@ -8,6 +8,11 @@ ethnicity: null
 religion: "Non-Believer"
 photo: null
 
+# --- LIFE ---
+beliefs: "sympathizer of the Revolutionary Workers Organization of Iran-Rah-e Kargar"
+quotes:
+  - "Rah-e Kargar or the Revolutionary Workers Organization of Iran was established in the summer of 1979."
+
 # --- DEATH ---
 date_of_death: 1982-01-01
 age_at_death: null
@@ -33,7 +38,7 @@ circumstances: >
     available about the defendant’s defence. Judgment No specific information
     is available about the defendant’s execution. Mr. Ahmad Momeni was
     executed by a firing squad in February 1982.
-event_context: null
+event_context: "executed by a firing squad in February 1982"
 responsible_forces: null
 
 # --- VERIFICATION ---
