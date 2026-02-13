@@ -247,7 +247,7 @@ border-start: 2px solid;     /* NOT border-left */
 | No local PostgreSQL | ✅ Fixed | Local PostgreSQL synced from production via pg_dump. 31,203 victims. |
 | Middleware deprecation | ⚠️ Cosmetic | Next.js 16 warns about middleware → proxy migration. next-intl still uses middleware. Functional. |
 | No tests | ⚠️ Open | 0% coverage. |
-| Server disk at 90% | ⚠️ Monitor | 3.9 GB free. Docker build cache reclaimable: ~3.8 GB. Prune regularly. |
+| Server disk at 95% | ⚠️ Critical | 2.0 GB free. Docker reclaimable: ~6.2 GB (images 2.4 GB + build cache 3.9 GB). Prune ASAP. |
 | Neda Soltan duplicate | ⚠️ Low | Two YAML entries for same person (different slugs). Low priority. |
 | Boroumand fetch | ✅ Complete | All 26,815 entries processed. 12,290 new in final run. Pipeline: gender → seed → dedup → deploy done. |
 | External image optimization | ✅ Fixed | iranrights.org Cloudflare blocks server IP → `unoptimized` prop on `<Image>`. Browser fetches directly. |
@@ -311,6 +311,7 @@ border-start: 2px solid;     /* NOT border-left */
 | Event Death Tolls | Research | 0 | Corrected with diaspora/NGO sources | DONE |
 | UI: Show highest estimate | Code change | 0 | formatKilledRange → only high | DONE |
 | Fallback data sync | Code change | 0 | All death tolls + counts updated | DONE |
+| Event Linking | SQL mapping | 0 | 13,704 new event links (15% → 59%) | DONE |
 | **Total in DB** | | **31,203** | | |
 
 **Open:** HRANA 20-Day (~0–20), Amnesty other reports (~10–30), IHR direct contact, KHRN 2025/2026

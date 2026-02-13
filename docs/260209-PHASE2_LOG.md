@@ -1369,6 +1369,46 @@ Deploy: docker compose up -d --build auf Server
 
 ---
 
+#### LOG-P3-017 | 2026-02-13 | EVENT LINKING: 13.704 NEUE ZUORDNUNGEN
+
+**Was:** Victims mit ihren historischen Events verknüpft (event_id) via Context+Datum-Mapping
+**Warum:** Nur 15.3% (4.780) der 31.203 Victims hatten einen Event-Link — Event-Seiten zeigten kaum Opfer
+
+```
+Mapping-Strategie (2-stufig):
+
+1. Context-basiert (Priorität):
+   - event_context ILIKE '%1988%mass%' → massacre-1988
+   - event_context ILIKE '%1981 protest%' / '%clashes%1981%' → reign-of-terror
+   - event_context ILIKE '%Mojahedin%' + Datum 1980-88 → reign-of-terror
+   - event_context ILIKE '%November 2019%' → bloody-november-2019
+   - + 9 weitere Patterns
+
+2. Datum-Fallback (nur eindeutige Zeiträume):
+   - 1979-02-12 bis 1979-12-31 → post-revolution-executions
+   - 1988-07-19 bis 1988-12-31 (ohne Context) → massacre-1988
+   - 2019-11-15 bis 2019-11-27 → bloody-november-2019
+   - + 5 weitere Ranges
+
+Ergebnis:
+  - Vorher: 4.780 verlinkt (15.3%)
+  - Nachher: 18.484 verlinkt (59.2%)
+  - Neu: 13.704 Event-Links
+  - Top: Reign of Terror 8.645, 1988 Massacres 3.272, 2026 Massacres 3.982
+
+Verbleibend (12.719 / 41%):
+  - Vor allem Hinrichtungen 1986-2021 ohne spezifischen Event-Kontext
+  - Allgemeine Hinrichtungspolitik, Drogendelikte, etc.
+  - Korrekt unverlinkt — gehören zu keinem der 12 Events
+
+Angewandt auf: Lokale DB + Produktions-DB (identisch)
+Deploy: docker compose up --force-recreate (ISR-Cache erneuert)
+```
+
+**Lesson Learned:** Zeitraum-Überlappungen (Iran-Irak-Krieg 1980-88 vs. Reign of Terror 1981-85 vs. 1988-Massaker) machen reines Datum-Mapping unmöglich. `event_context` als Primär-Signal, Datum nur als Fallback für eindeutige Zeiträume. ~41% der Victims gehören korrekt zu keinem Event — nicht jeder Tod ist Teil eines historischen Events.
+
+---
+
 ## Phase 3 — Zusammenfassung (FINAL)
 
 | Metrik | Vorher | Nachher |
@@ -1381,6 +1421,7 @@ Deploy: docker compose up -d --build auf Server
 | Event Death Tolls | Teils offiziell | Alle mit Diaspora-Quellen korrigiert |
 | Foto-Anzeige | Cloudflare-blockiert | unoptimized Fix deployed |
 | AI-Extraktion (total) | 15.787 Felder | 35.764 Felder (AI: 31.600 + Regex: 4.164) |
+| Event-Links | 15.3% (4.780) | 59.2% (18.484) — +13.704 neue Links |
 | Lokale DB | Nicht vorhanden | Synchron mit Produktion (pg_dump) |
 | Neue Scripts | — | seed-new-only.ts, sync-gender-to-db.ts, dedup_2026_internal.py, infer_gender.py, dedup-db.ts, dedup-round5.ts, extract-fields-regex.ts |
 | UI | Range-Anzeige | Nur höchste Opferzahl pro Event |
@@ -1389,4 +1430,4 @@ Deploy: docker compose up -d --build auf Server
 ---
 
 *Erstellt: 2026-02-09*
-*Letzte Aktualisierung: 2026-02-13 (Phase 3: 31.203 Victims, Dedup ×6, AI+Regex-Extraktion 35.764 Felder, Prod-DB sync)*
+*Letzte Aktualisierung: 2026-02-13 (Phase 3: 31.203 Victims, Dedup ×6, AI+Regex 35.764 Felder, Event-Links 59.2%, Prod-DB sync)*
