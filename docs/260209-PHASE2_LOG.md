@@ -1185,20 +1185,54 @@ Commit: (Teil von Phase 3 Final Batch)
 
 ---
 
+#### LOG-P3-012 | 2026-02-13 | DEDUP ROUND 4: DB-LEVEL COMPREHENSIVE DEDUP
+
+**Was:** Umfassende Duplikat-Bereinigung auf DB-Ebene (Named + Unknown)
+**Warum:** Trotz 3 vorheriger Dedup-Runden noch 3.786 Duplikate in der DB (boroumand-import internal duplicates + cross-source)
+
+```
+Script: scripts/dedup-db.ts (NEU)
+
+Analyse:
+  - 3.100 Named-Duplikat-Gruppen (gleicher Farsi-Name + Todesdatum): 3.124 entfernbar
+  - 117 Unknown-Duplikat-Gruppen (gleicher Text-Anfang + Datum): 662 entfernbar
+  - 1.854 Unknown ohne Text (gleiches Datum) → NICHT gelöscht (könnten verschiedene Opfer sein)
+
+Scoring-System:
+  - Non-null Felder (+1 je), Photo (+10), Circumstances-Länge (+0-10)
+  - Event-Link (+5), Age (+2), Non-boroumand source (+3)
+  - Höchster Score = Keeper, Rest = Losers
+
+Merge + Delete:
+  - 3.100 Named-Gruppen: 3.124 DB-Einträge gelöscht
+  - 117 Unknown-Gruppen: 662 DB-Einträge gelöscht
+  - 493 unique Sources in Keeper verschoben
+  - 120 Felder aus Duplikaten in Keeper gemergt
+  - 1.176 YAML-Dateien gelöscht, 60 aktualisiert
+  - ~2.610 Duplikate hatten keine YAML (nur in DB aus Seed-Runs)
+
+DB: 35.152 → 31.366 Victims
+Commit: bed0072a3
+```
+
+**Lesson Learned:** Mehrere Scrape-Runs gegen dieselbe Quelle erzeugen massive interne Duplikate. Boroumand-Import hatte allein 61.333 Duplikat-Paare (gleicher Name + Datum). DB-Level-Dedup nach allen Imports ist unverzichtbar.
+
+---
+
 ## Phase 3 — Zusammenfassung (FINAL)
 
 | Metrik | Vorher | Nachher |
 |--------|--------|---------|
-| YAML-Dateien | 14.430 | ~32.500 |
-| DB Victims | 17.515 | 35.152 |
+| YAML-Dateien | 14.430 | ~28.400 |
+| DB Victims | 17.515 | 31.366 |
 | Boroumand importiert | 7.636 | 26.815 (alle verarbeitet) |
 | Gender Coverage | ~85% | ~72% (28% unknown bei historischen) |
-| Duplikate entfernt (total) | 206 | 1.410 (206 + 265 + 939) |
+| Duplikate entfernt (total) | 206 | 5.185 (206 + 265 + 939 + 3.786) |
 | Event Death Tolls | Teils offiziell | Alle mit Diaspora-Quellen korrigiert |
 | Foto-Anzeige | Cloudflare-blockiert | unoptimized Fix deployed |
-| Neue Scripts | — | seed-new-only.ts, sync-gender-to-db.ts, dedup_2026_internal.py, infer_gender.py |
+| Neue Scripts | — | seed-new-only.ts, sync-gender-to-db.ts, dedup_2026_internal.py, infer_gender.py, dedup-db.ts |
 
 ---
 
 *Erstellt: 2026-02-09*
-*Letzte Aktualisierung: 2026-02-13 (Phase 3 FINAL: 35.152 Victims, Boroumand complete, Dedup ×3, Death Toll corrections)*
+*Letzte Aktualisierung: 2026-02-13 (Phase 3 FINAL: 31.366 Victims, Boroumand complete, Dedup ×4, Death Toll corrections)*

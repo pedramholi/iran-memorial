@@ -462,6 +462,13 @@ IHR und HRANA haben eigene Datenformate. Pro Import-Quelle ein eigenes Mapping-S
 - **Fix:** Merge-Script: Farsi-Name + Todesdatum vergleichen → wenn identisch: Felder + Sources in Original mergen → Duplikat-Datei + DB-Eintrag löschen. 939 Merges nach strenger Prüfung (Original muss existieren + exakter Match).
 - **Prevention:** Scraper sollte beim Import direkt gegen DB prüfen statt blind `-2` Dateien zu erstellen. Alternativ: Dedup als fester Pipeline-Schritt nach jedem Batch-Import.
 
+### BUG-014: Mehrfach-Seed erzeugt DB-Duplikate ohne YAML-Gegenstück (2026-02-13)
+
+- **Symptom:** 3.786 Duplikate in DB, aber nur 1.176 davon hatten YAML-Dateien. ~2.610 Duplikate existierten nur in der DB.
+- **Root Cause:** Mehrere Runs von `seed-new-only.ts` und `prisma db seed` (upsert) gegen dieselbe DB. Boroumand-Einträge mit leicht verschiedenen Slugs aus verschiedenen Scrape-Runs → gleiche Person, verschiedene DB-Einträge.
+- **Fix:** `scripts/dedup-db.ts` — Scoring-basiertes Dedup: Non-null-Felder zählen, besten Eintrag behalten, Felder + Sources mergen, Rest löschen. 3.100 Named-Gruppen (Farsi-Name + Todesdatum) + 117 Unknown-Gruppen (gleicher Text).
+- **Prevention:** DB-Level-Dedup als fester Pipeline-Schritt nach jedem Batch-Import. Scraper sollte vor dem Erstellen neuer Einträge die DB auf Farsi-Name + Todesdatum prüfen.
+
 ---
 
 ## Patterns That Work (Ergänzung 2026-02-13)
@@ -477,4 +484,9 @@ IHR und HRANA haben eigene Datenformate. Pro Import-Quelle ein eigenes Mapping-S
 ---
 
 *Erstellt: 2026-02-09*
-*Letzte Aktualisierung: 2026-02-13 (BUG-013 -2 Suffix Dedup, Death Toll Corrections, Pipeline Complete: 35.152 Victims)*
+- **Scoring-basiertes Dedup (dedup-db.ts):** Bei Duplikat-Gruppen den "besten" Eintrag per Scoring bestimmen: Non-null-Felder (+1), Photo (+10), Circumstances-Länge (+0-10), Event-Link (+5), Non-Boroumand-Source (+3). Höchster Score = Keeper. Sicherer als Heuristiken wie "erster Eintrag" oder "ältester".
+- **Unknown/ناشناس Dedup nur mit Text-Match:** Unbenannte Opfer (name_farsi = 'ناشناس') mit gleichem Datum sind NICHT automatisch Duplikate — es können verschiedene Personen sein. Nur dedupen wenn auch `circumstances_en` Text identisch ist (LEFT 200 chars). Ohne Text: nicht anfassen.
+
+---
+
+*Letzte Aktualisierung: 2026-02-13 (BUG-014 DB-Level Dedup Round 4: 31.366 Victims)*
