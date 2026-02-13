@@ -490,6 +490,9 @@ IHR und HRANA haben eigene Datenformate. Pro Import-Quelle ein eigenes Mapping-S
 - **Fallback-Daten synchron halten (lib/fallback-data.ts):** Docker-Build hat keinen DB-Zugang → nutzt statische Fallback-Daten. Wenn Event-Opferzahlen oder Victim-Count in der DB geändert werden, MUSS `fallback-data.ts` manuell aktualisiert werden. Sonst zeigt die Website nach jedem Docker-Build alte Zahlen bis ISR die Seiten neu generiert.
 - **ISR-Cache: Nie `.next/server/app/` komplett löschen:** ISR-Cache in `/app/.next/server/app/` persists across container restarts. Einzelne Cache-Dateien löschen ist OK, aber das gesamte Verzeichnis löschen verursacht 500-Fehler (Route-Handler fehlen). Stattdessen: `docker compose up -d --build --force-recreate` für sauberen Rebuild.
 
+- **OpenAI Rate-Limit bei Massen-Extraktion:** GPT-4o-mini hat ein tägliches Token-Limit. Nach ~12.000 Calls in einer Session wird jeder Request mit 429 geblockt. Retry-Delay auf mindestens 60s setzen (nicht 5s — erzeugt Endlos-Loop ohne Fortschritt). Batch-Delay zwischen Requests auf 1s erhöhen. Am besten: Extraktion über mehrere Tage verteilen, `--resume` Flag für Wiederaufnahme.
+- **pg_dump für DB-Sync statt Seed:** Wenn lokale DB stark veraltet ist, ist `pg_dump` → `psql -f` schneller und vollständiger als Seed-Scripts. Seed kann nur Einträge erstellen die als YAML existieren; pg_dump überträgt auch DB-only Einträge. Wichtig: Plain-SQL-Format (`-F p`) verwenden wenn pg_dump/pg_restore Versionen nicht matchen.
+
 ---
 
-*Letzte Aktualisierung: 2026-02-13 (Dedup Round 5 + UI highest-only + Fallback sync: 31.223 Victims)*
+*Letzte Aktualisierung: 2026-02-13 (Dedup ×6 + AI-Extraktion R2 85% + lokale DB sync: 31.203 Victims)*

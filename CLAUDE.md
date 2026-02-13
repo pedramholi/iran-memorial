@@ -235,7 +235,7 @@ border-start: 2px solid;     /* NOT border-left */
 | Events | 12 | `data/events/timeline.yaml` |
 | Victims | ~28,400 | `data/victims/{year}/slug.yaml` |
 
-**Victims:** ~28,400 YAML files across 8 sources (Wikipedia, HRANA, IHR, iranvictims.com, Amnesty International, Boroumand Foundation historical, Boroumand Foundation enrichment, manual). Deduplicated via `scripts/dedup_victims.py` (206) + `scripts/dedup_2026_internal.py` (254) + `-2` suffix dedup (939) + `scripts/dedup-db.ts` (3,786) + `scripts/dedup-round5.ts` (102) = 5,298 total duplicates removed. 31,223 victims in production DB.
+**Victims:** ~28,400 YAML files across 8 sources (Wikipedia, HRANA, IHR, iranvictims.com, Amnesty International, Boroumand Foundation historical, Boroumand Foundation enrichment, manual). Deduplicated via `scripts/dedup_victims.py` (206) + `scripts/dedup_2026_internal.py` (254) + `-2` suffix dedup (939) + `scripts/dedup-db.ts` (3,786) + `scripts/dedup-round5.ts` (102) + `-2` suffix round 6 (20) = 5,318 total duplicates removed. 31,203 victims in production DB.
 **Events:** Revolution 1979, Reign of Terror 1981–85, Iran-Iraq War, 1988 Massacre, Chain Murders, Student Protests 1999, Green Movement 2009, Bloody November 2019, Woman Life Freedom 2022, 2026 Massacres
 
 ---
@@ -244,7 +244,7 @@ border-start: 2px solid;     /* NOT border-left */
 
 | Issue | Status | Details |
 |-------|--------|---------|
-| No local PostgreSQL | ⚠️ Open | Docker not installed on dev machine. DB queries fall back to empty state. SSH tunnel to server: `ssh -L 5434:localhost:5434 root@188.245.96.212` |
+| No local PostgreSQL | ✅ Fixed | Local PostgreSQL synced from production via pg_dump. 31,203 victims. |
 | Middleware deprecation | ⚠️ Cosmetic | Next.js 16 warns about middleware → proxy migration. next-intl still uses middleware. Functional. |
 | No tests | ⚠️ Open | 0% coverage. |
 | Server disk at 90% | ⚠️ Monitor | 3.9 GB free. Docker build cache reclaimable: ~3.8 GB. Prune regularly. |
@@ -261,9 +261,9 @@ border-start: 2px solid;     /* NOT border-left */
 | v0.1.0 | 2026-02-09 | Phase 1: Full project setup — Next.js 16, Prisma, i18n, 8 pages, seed script, Docker, docs |
 | v0.2.0 | 2026-02-09 | Phase 2A/B: Multi-source data collection — 7 sources, 4,378 victims, dedup, enrichment |
 | v0.3.0 | 2026-02-12 | Phase 2C: Deployment + AI enrichment (14K fields), source dedup (222K removed), pagination, security hardening |
-| v0.4.0 | 2026-02-13 | Phase 3: Boroumand historical import — 31,223 victims in DB, 5,298 duplicates removed, parallel scraper (8× faster) |
+| v0.4.0 | 2026-02-13 | Phase 3: Boroumand historical import — 31,203 victims in DB, 5,318 duplicates removed, parallel scraper (8× faster), AI extraction round 2 (31,600 fields) |
 
-**Current:** v0.4.0 | Next.js 16 | TypeScript | Prisma 6 | Tailwind v4 | 3 languages | 31,223 victims | Live at memorial.n8ncloud.de
+**Current:** v0.4.0 | Next.js 16 | TypeScript | Prisma 6 | Tailwind v4 | 3 languages | 31,203 victims | Live at memorial.n8ncloud.de
 
 ---
 
@@ -278,7 +278,7 @@ border-start: 2px solid;     /* NOT border-left */
 | `scripts/dedup_victims.py` | Deduplication (3 strategies) | -206 duplicates |
 | `scripts/dedup_2026_internal.py` | Internal 2026 dedup (Farsi name) | -254 duplicates |
 | `scripts/scrape_boroumand.py` | Boroumand Foundation scraper (4 workers) | 26,815 entries (all processed) |
-| `scripts/extract-fields.ts` | AI field extraction (GPT-4o-mini) | 15,787 fields from 8,051 victims |
+| `scripts/extract-fields.ts` | AI field extraction (GPT-4o-mini) | 47,387 fields from 20,251 victims (2,083 remaining) |
 | `scripts/dedup-sources.ts` | Source deduplication | -221,800 duplicate sources |
 | `scripts/seed-new-only.ts` | Create-only DB seed (no upsert) | Incremental DB population |
 | `scripts/sync-gender-to-db.ts` | Sync gender YAML → DB | 6,271 gender updates |
@@ -302,12 +302,14 @@ border-start: 2px solid;     /* NOT border-left */
 | Deduplication (Round 3) | Script | -939 | -2 suffix duplicates merged | DONE |
 | Deduplication (Round 4) | Script | -3,786 | Named + Unknown text dedup | DONE |
 | Deduplication (Round 5) | Script | -102 | Farsi normalization + NULL-date | DONE |
-| AI Field Extraction | GPT-4o-mini | 0 | 15,787 fields from 8,051 victims | DONE |
+| Deduplication (Round 6) | SQL | -20 | -2 suffix merge (Farsi+date match) | DONE |
+| AI Field Extraction R1 | GPT-4o-mini | 0 | 15,787 fields from 8,051 victims | DONE |
+| AI Field Extraction R2 | GPT-4o-mini | 0 | 31,600 fields from 12,200 victims | 85% (2,083 remaining) |
 | Source Dedup | SQL script | 0 | -221,800 duplicate sources | DONE |
 | Event Death Tolls | Research | 0 | Corrected with diaspora/NGO sources | DONE |
 | UI: Show highest estimate | Code change | 0 | formatKilledRange → only high | DONE |
 | Fallback data sync | Code change | 0 | All death tolls + counts updated | DONE |
-| **Total in DB** | | **31,223** | | |
+| **Total in DB** | | **31,203** | | |
 
 **Open:** HRANA 20-Day (~0–20), Amnesty other reports (~10–30), IHR direct contact, KHRN 2025/2026
 

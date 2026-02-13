@@ -1283,17 +1283,58 @@ Commit: (amended in Phase 3 Final)
 
 ---
 
+#### LOG-P3-015 | 2026-02-13 | LOCAL DB SYNC + DEDUP ROUND 6 + AI EXTRACTION R2
+
+**Was:** Lokale DB synchronisiert, 20 weitere Duplikate gemergt, AI-Extraktion auf 12.200 neue Victims
+**Warum:** Lokale DB war auf 15.480, Produktion auf 31.223. Nach Sync noch `-2` Duplikate gefunden.
+
+```
+1. Lokale DB Sync:
+   - seed-new-only.ts: 15.480 → 31.398 (15.918 neue aus YAML)
+   - dedup-db.ts: 31.398 → 30.661 (737 Duplikate gemergt)
+   - dedup-round5.ts: 30.661 → 30.637 (24 Duplikate gemergt)
+   - pg_dump von Produktion → exakte Kopie: 31.223
+
+2. Dedup Round 6 (-2 Suffix, lokal + Produktion):
+   - 343 Einträge mit -2 Suffix geprüft
+   - 323 verschiedene Personen (behalten)
+   - 3 exakte Duplikate (gleicher Farsi-Name + Datum)
+   - 17 wahrscheinliche (gleicher Farsi-Name, NULL Datum)
+   - 20 gemergt + gelöscht (SQL direkt, beide DBs)
+   - DB: 31.223 → 31.203
+
+3. AI-Extraktion Round 2:
+   - 14.283 Kandidaten (Boroumand, >200 chars, leere Felder)
+   - 12.200 / 14.283 verarbeitet (85%)
+   - 31.600 neue Felder extrahiert
+   - 9.657 YAML-Dateien aktualisiert
+   - 1 Fehler, 0 Datenverlust
+   - 2.083 verbleibend (OpenAI tägliches Rate-Limit)
+
+4. Script-Fix: extract-fields.ts
+   - Rate-Limit-Backoff: 5s → 60s (verhindert Endlos-Loop)
+   - Batch-Delay: 200ms → 1s
+
+Commits: 1a43b6b93, 1fe2d9733, 49768d4c6
+```
+
+**Lesson Learned:** OpenAI GPT-4o-mini hat ein tägliches Token-Limit (~12K Calls in einer Session). Bei Massen-Extraktion: Rate-Limit-Retry auf mindestens 60s setzen, nicht 5s (Endlos-Loop). Am besten: Batch-Job über mehrere Tage verteilen.
+
+---
+
 ## Phase 3 — Zusammenfassung (FINAL)
 
 | Metrik | Vorher | Nachher |
 |--------|--------|---------|
 | YAML-Dateien | 14.430 | ~28.400 |
-| DB Victims | 17.515 | 31.223 |
+| DB Victims | 17.515 | 31.203 |
 | Boroumand importiert | 7.636 | 26.815 (alle verarbeitet) |
 | Gender Coverage | ~85% | ~72% (28% unknown bei historischen) |
-| Duplikate entfernt (total) | 206 | 5.298 (206 + 265 + 939 + 3.786 + 102) |
+| Duplikate entfernt (total) | 206 | 5.318 (206 + 265 + 939 + 3.786 + 102 + 20) |
 | Event Death Tolls | Teils offiziell | Alle mit Diaspora-Quellen korrigiert |
 | Foto-Anzeige | Cloudflare-blockiert | unoptimized Fix deployed |
+| AI-Extraktion (total) | 15.787 Felder | 47.387 Felder (85%, 2.083 offen) |
+| Lokale DB | Nicht vorhanden | Synchron mit Produktion (pg_dump) |
 | Neue Scripts | — | seed-new-only.ts, sync-gender-to-db.ts, dedup_2026_internal.py, infer_gender.py, dedup-db.ts, dedup-round5.ts |
 | UI | Range-Anzeige | Nur höchste Opferzahl pro Event |
 | Fallback-Daten | Veraltet (17.515) | Synchron mit DB (31.223) |
@@ -1301,4 +1342,4 @@ Commit: (amended in Phase 3 Final)
 ---
 
 *Erstellt: 2026-02-09*
-*Letzte Aktualisierung: 2026-02-13 (Phase 3 FINAL: 31.223 Victims, Boroumand complete, Dedup ×5, Death Toll corrections, UI highest-only)*
+*Letzte Aktualisierung: 2026-02-13 (Phase 3: 31.203 Victims, Dedup ×6, AI-Extraktion R2 85%, lokale DB sync)*
