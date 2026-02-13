@@ -4,7 +4,7 @@
  */
 
 export const fallbackStats = {
-  victimCount: 31223,
+  victimCount: 31203,
   eventCount: 12,
   sourceCount: 29000,
   yearsOfRepression: new Date().getFullYear() - 1979,
@@ -248,8 +248,8 @@ export const fallbackRecentVictims = [
 
 export const fallbackVictimsList = {
   victims: fallbackRecentVictims,
-  total: 31223,
+  total: 31203,
   page: 1,
   pageSize: 24,
-  totalPages: Math.ceil(31223 / 24),
+  totalPages: Math.ceil(31203 / 24),
 };
