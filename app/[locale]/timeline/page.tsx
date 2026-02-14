@@ -76,36 +76,15 @@ function TimelineContent({ events, locale }: { events: any[]; locale: Locale }) 
                 : 0;
               const gapRem = index === 0 ? 0 : timeGapRem(gap);
 
-              // Show year gap marker for gaps >= 3 years
-              const showGapMarker = index > 0 && gap >= 3;
-              const prevYear = prevStart ? new Date(prevStart).getFullYear() : 0;
-              const currYear = new Date(event.dateStart).getFullYear();
-
               return (
                 <div key={event.slug}>
-                  {/* Year gap marker */}
-                  {showGapMarker && (
-                    <div
-                      className="relative flex justify-center"
-                      style={{ paddingTop: `${gapRem * 0.4}rem`, paddingBottom: `${gapRem * 0.4}rem` }}
-                    >
-                      <div className="flex items-center gap-3 px-4 py-1.5 rounded-full border border-memorial-800/60 bg-memorial-900/80 backdrop-blur-sm">
-                        <div className="h-px w-6 bg-memorial-700" />
-                        <span className="text-xs text-memorial-500 tabular-nums whitespace-nowrap">
-                          {currYear - prevYear} {locale === "de" ? "Jahre" : locale === "fa" ? "سال" : "years"}
-                        </span>
-                        <div className="h-px w-6 bg-memorial-700" />
-                      </div>
-                    </div>
-                  )}
-
                   {/* Event entry */}
                   <div
                     className={`relative flex items-start gap-8 ${
                       isLeft ? "sm:flex-row" : "sm:flex-row-reverse"
                     }`}
                     style={{
-                      marginTop: showGapMarker ? `${gapRem * 0.2}rem` : `${gapRem}rem`,
+                      marginTop: `${gapRem}rem`,
                     }}
                   >
                     {/* Dot on timeline */}
