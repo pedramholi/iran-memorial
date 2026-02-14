@@ -55,6 +55,9 @@ tools/.iranvictims_photos_cache.json
 tools/.telegram_rtn_cache/
 .extract-progress.json
 
+# enricher state (progress, cache, run logs)
+tools/enricher/state/
+
 # temporary processing files
 .tmp/
 
