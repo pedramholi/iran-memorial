@@ -206,7 +206,7 @@ function YearlyBarChart({
 
   return (
     <div className="overflow-x-auto -mx-4 px-4">
-      <div dir="ltr" className="flex items-end gap-px min-w-[700px] h-64 sm:h-72">
+      <div dir="ltr" className="flex gap-px min-w-[700px] h-64 sm:h-72 pb-6">
         {data.map(({ year, count }) => {
           const heightPercent = (count / maxCount) * 100;
           const isPeak = count > 1000;
@@ -230,7 +230,7 @@ function YearlyBarChart({
               />
               {/* Year label every 5 years */}
               {year % 5 === 0 && (
-                <span className="text-[10px] text-memorial-500 mt-1.5 whitespace-nowrap">
+                <span className="absolute top-full mt-1 text-[10px] text-memorial-500 whitespace-nowrap">
                   {year}
                 </span>
               )}
