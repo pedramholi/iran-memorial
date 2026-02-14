@@ -30,8 +30,8 @@ export default async function TimelinePage({
 /** Calculate proportional gap (in rem) based on years between events.
  *  Linear scaling: close events stay tight, distant ones spread out. */
 function timeGapRem(yearsDiff: number): number {
-  if (yearsDiff <= 0) return 1;
-  return Math.min(14, 1 + yearsDiff * 1.2);
+  if (yearsDiff <= 0) return 0.5;
+  return Math.min(8, 0.5 + yearsDiff * 0.6);
 }
 
 /** Get the fractional year difference between two dates. */
