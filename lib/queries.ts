@@ -457,14 +457,21 @@ export async function getStatistics() {
     prisma.victim.count({ where: { verificationStatus: "verified" } }),
   ]);
 
-  const years = deathsByYear.map((r) => Number(r.year)).filter(Boolean);
+  const yearMap = new Map(deathsByYear.map((r) => [Number(r.year), Number(r.count)]));
+  const years = [...yearMap.keys()].filter(Boolean);
+  const minYear = years.length > 0 ? Math.min(...years) : 0;
+  const maxYear = years.length > 0 ? Math.max(...years) : 0;
+  const fullYears: { year: number; count: number }[] = [];
+  for (let y = minYear; y <= maxYear; y++) {
+    fullYears.push({ year: y, count: yearMap.get(y) || 0 });
+  }
   const provinceCount = new Set(
     deathsByProvince.map((r) => r.province)
   ).size;
 
   return {
     totalVictims,
-    deathsByYear: deathsByYear.map((r) => ({ year: Number(r.year), count: Number(r.count) })),
+    deathsByYear: fullYears,
     deathsByProvince: deathsByProvince.map((r) => ({ label: r.province, count: Number(r.count) })),
     deathsByCause: deathsByCause.map((r) => ({ label: r.cause, count: Number(r.count) })),
     ageDistribution: ageDistribution.map((r) => ({ label: r.bucket, count: Number(r.count) })),
