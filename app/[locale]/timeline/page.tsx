@@ -46,7 +46,7 @@ function TimelineContent({ events, locale }: { events: any[]; locale: Locale }) 
   const t = useTranslations("timeline");
 
   return (
-    <div className="mx-auto max-w-4xl px-4 py-12">
+    <div className="mx-auto max-w-2xl px-4 py-12">
       <div className="text-center mb-12">
         <h1 className="text-3xl sm:text-4xl font-bold text-memorial-50 mb-2">{t("title")}</h1>
         <p className="text-memorial-400">{t("subtitle")}</p>
