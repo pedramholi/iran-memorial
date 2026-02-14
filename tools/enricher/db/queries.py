@@ -28,26 +28,28 @@ LOAD_SOURCE_URLS = """
 # Enrich: update only NULL fields using COALESCE
 ENRICH_VICTIM = """
     UPDATE victims SET
-        name_farsi          = COALESCE(name_farsi, $2),
-        date_of_birth       = COALESCE(date_of_birth, $3),
-        place_of_birth      = COALESCE(place_of_birth, $4),
-        gender              = CASE WHEN gender IS NULL OR gender = 'unknown' THEN COALESCE($5, gender) ELSE gender END,
-        religion            = COALESCE(religion, $6),
-        photo_url           = COALESCE(photo_url, $7),
-        occupation_en       = COALESCE(occupation_en, $8),
-        education           = COALESCE(education, $9),
-        age_at_death        = COALESCE(age_at_death, $10),
-        place_of_death      = COALESCE(place_of_death, $11),
-        province            = COALESCE(province, $12),
-        cause_of_death      = COALESCE(cause_of_death, $13),
+        name_farsi          = COALESCE(name_farsi, $2::text),
+        date_of_birth       = COALESCE(date_of_birth, $3::date),
+        place_of_birth      = COALESCE(place_of_birth, $4::text),
+        gender              = CASE WHEN gender IS NULL OR gender = 'unknown'
+                                THEN COALESCE($5::text, gender) ELSE gender END,
+        religion            = COALESCE(religion, $6::text),
+        photo_url           = COALESCE(photo_url, $7::text),
+        occupation_en       = COALESCE(occupation_en, $8::text),
+        education           = COALESCE(education, $9::text),
+        age_at_death        = COALESCE(age_at_death, $10::int),
+        place_of_death      = COALESCE(place_of_death, $11::text),
+        province            = COALESCE(province, $12::text),
+        cause_of_death      = COALESCE(cause_of_death, $13::text),
         circumstances_en    = CASE
-                                WHEN circumstances_en IS NULL THEN $14
-                                WHEN $14 IS NOT NULL AND LENGTH($14) > LENGTH(circumstances_en) * 3 / 2
-                                THEN $14
+                                WHEN circumstances_en IS NULL THEN $14::text
+                                WHEN $14::text IS NOT NULL
+                                  AND LENGTH($14::text) > LENGTH(circumstances_en) * 3 / 2
+                                THEN $14::text
                                 ELSE circumstances_en
                               END,
-        event_context       = COALESCE(event_context, $15),
-        responsible_forces  = COALESCE(responsible_forces, $16),
+        event_context       = COALESCE(event_context, $15::text),
+        responsible_forces  = COALESCE(responsible_forces, $16::text),
         updated_at          = NOW()
     WHERE id = $1
     RETURNING id, slug
