@@ -23,6 +23,7 @@ export async function getVictimBySlug(slug: string) {
     include: {
       event: true,
       sources: true,
+      photos: { orderBy: [{ isPrimary: "desc" }, { sortOrder: "asc" }] },
     },
   });
 }
@@ -46,6 +47,7 @@ export async function getEventBySlug(slug: string, page = 1, pageSize = 50) {
         take: pageSize,
       },
       sources: true,
+      photos: { orderBy: [{ isPrimary: "desc" }, { sortOrder: "asc" }] },
       _count: { select: { victims: true } },
     },
   });
@@ -66,6 +68,7 @@ export async function getAllEvents() {
       _count: {
         select: { victims: true },
       },
+      photos: { where: { isPrimary: true }, take: 1 },
     },
   });
 }
@@ -467,6 +470,7 @@ export type VictimDetail = NonNullable<Awaited<ReturnType<typeof getVictimBySlug
 export type EventDetail = NonNullable<Awaited<ReturnType<typeof getEventBySlug>>>;
 export type EventWithCount = Awaited<ReturnType<typeof getAllEvents>>[number];
 export type VictimListItem = Awaited<ReturnType<typeof getRecentVictims>>[number];
+export type PhotoItem = VictimDetail["photos"][number];
 export type StatsResult = Awaited<ReturnType<typeof getStats>>;
 
 // Helper to get localized field

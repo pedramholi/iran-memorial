@@ -29,6 +29,7 @@ def format_stats(stats: RunStats) -> str:
         f"  Matched:       {stats.matched:>6}",
         f"  Enriched:      {stats.enriched:>6}  ({stats.fields_updated} fields)",
         f"  Sources added: {stats.sources_added:>6}",
+        f"  Photos added:  {stats.photos_added:>6}",
         f"  No new data:   {stats.no_new_data:>6}",
         f"  Ambiguous:     {stats.ambiguous:>6}",
         f"  Unmatched:     {stats.unmatched:>6}",

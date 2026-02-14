@@ -64,7 +64,13 @@
     "unverified": "Unverified",
     "disputed": "Disputed",
     "relatedEvent": "Related Event",
-    "children": "children"
+    "children": "children",
+    "photos": "Photos",
+    "photoOf": "Photo of {name}",
+    "photoCredit": "Source: {credit}",
+    "closeGallery": "Close gallery",
+    "previousPhoto": "Previous photo",
+    "nextPhoto": "Next photo"
   },
   "event": {
     "estimatedKilled": "Estimated Killed",

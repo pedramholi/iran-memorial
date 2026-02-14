@@ -62,6 +62,24 @@ INSERT_SOURCE = """
     )
 """
 
+# Load photo URLs grouped by victim (for dedup)
+LOAD_VICTIM_PHOTO_URLS = """
+    SELECT victim_id::text, url
+    FROM photos
+    WHERE victim_id IS NOT NULL
+"""
+
+# Insert photo if not already present (dedup by victim_id + url)
+INSERT_PHOTO = """
+    INSERT INTO photos (victim_id, url, source_credit, photo_type, is_primary, sort_order)
+    SELECT $1, $2, $3, $4,
+        NOT EXISTS (SELECT 1 FROM photos WHERE victim_id = $1),
+        COALESCE((SELECT MAX(sort_order) + 1 FROM photos WHERE victim_id = $1), 0)
+    WHERE NOT EXISTS (
+        SELECT 1 FROM photos WHERE victim_id = $1 AND url = $2
+    )
+"""
+
 # Insert new victim
 INSERT_VICTIM = """
     INSERT INTO victims (
@@ -139,3 +157,28 @@ async def batch_insert_victims(
             if result:
                 count += 1
     return count
+
+
+async def load_all_photo_urls(pool: asyncpg.Pool) -> dict[str, set[str]]:
+    """Load all photo URLs grouped by victim UUID."""
+    async with pool.acquire() as conn:
+        rows = await conn.fetch(LOAD_VICTIM_PHOTO_URLS)
+    result: dict[str, set[str]] = {}
+    for r in rows:
+        result.setdefault(r["victim_id"], set()).add(r["url"])
+    return result
+
+
+async def batch_insert_photos(
+    pool: asyncpg.Pool,
+    photos: list[tuple[str, str, str | None, str]],
+    batch_size: int = 100,
+) -> int:
+    """Insert photos in batches, skipping duplicates."""
+    total = 0
+    async with pool.acquire() as conn:
+        for i in range(0, len(photos), batch_size):
+            batch = photos[i : i + batch_size]
+            await conn.executemany(INSERT_PHOTO, batch)
+            total += len(batch)
+    return total

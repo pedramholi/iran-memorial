@@ -1,5 +1,6 @@
 import { setRequestLocale } from "next-intl/server";
 import { useTranslations } from "next-intl";
+import Image from "next/image";
 import { getAllEvents, localized } from "@/lib/queries";
 import { fallbackEvents } from "@/lib/fallback-data";
 import { formatDate, formatKilledRange } from "@/lib/utils";
@@ -49,6 +50,7 @@ function TimelineContent({ events, locale }: { events: any[]; locale: Locale }) 
               const description = localized(event, "description", locale);
               const killed = formatKilledRange(event.estimatedKilledLow, event.estimatedKilledHigh, locale);
               const isLeft = index % 2 === 0;
+              const eventPhoto = event.photos?.[0]?.url;
 
               return (
                 <div
@@ -66,12 +68,21 @@ function TimelineContent({ events, locale }: { events: any[]; locale: Locale }) 
                       href={`/events/${event.slug}`}
                       className="group block"
                     >
-                      <time className="text-xs text-memorial-500">
-                        {formatDate(event.dateStart, locale)}
-                      </time>
-                      <h3 className="text-lg font-semibold text-memorial-100 group-hover:text-gold-400 transition-colors mt-1">
-                        {title}
-                      </h3>
+                      <div className="flex items-start gap-3">
+                        {eventPhoto && (
+                          <div className="relative w-12 h-12 flex-shrink-0 rounded overflow-hidden bg-memorial-800">
+                            <Image src={eventPhoto} alt={title || ""} fill sizes="48px" className="object-cover" unoptimized />
+                          </div>
+                        )}
+                        <div>
+                          <time className="text-xs text-memorial-500">
+                            {formatDate(event.dateStart, locale)}
+                          </time>
+                          <h3 className="text-lg font-semibold text-memorial-100 group-hover:text-gold-400 transition-colors mt-1">
+                            {title}
+                          </h3>
+                        </div>
+                      </div>
                       {killed && (
                         <p className="text-sm text-blood-400 mt-1">
                           {killed} {t("killed")}

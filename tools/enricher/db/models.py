@@ -57,6 +57,16 @@ class MatchResult:
 
 
 @dataclass
+class ExternalPhoto:
+    """Photo from an external source."""
+
+    victim_id: str
+    url: str
+    source_credit: Optional[str] = None
+    photo_type: str = "portrait"
+
+
+@dataclass
 class RunStats:
     """Statistics for an enrichment run."""
 
@@ -68,5 +78,6 @@ class RunStats:
     new_imported: int = 0
     ambiguous: int = 0
     sources_added: int = 0
+    photos_added: int = 0
     fields_updated: int = 0
     errors: int = 0

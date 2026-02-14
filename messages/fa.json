@@ -64,7 +64,13 @@
     "unverified": "تأیید نشده",
     "disputed": "مورد اختلاف",
     "relatedEvent": "رویداد مرتبط",
-    "children": "فرزند"
+    "children": "فرزند",
+    "photos": "تصاویر",
+    "photoOf": "تصویر {name}",
+    "photoCredit": "منبع: {credit}",
+    "closeGallery": "بستن گالری",
+    "previousPhoto": "تصویر قبلی",
+    "nextPhoto": "تصویر بعدی"
   },
   "event": {
     "estimatedKilled": "تعداد تخمینی کشته‌شدگان",

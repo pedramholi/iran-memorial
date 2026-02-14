@@ -12,8 +12,10 @@ from ..db.models import ExternalVictim, RunStats
 from ..db.pool import close_pool, get_pool
 from ..db.queries import (
     batch_enrich,
+    batch_insert_photos,
     batch_insert_sources,
     batch_insert_victims,
+    load_all_photo_urls,
     load_all_source_urls,
     load_all_victims,
 )
@@ -73,10 +75,12 @@ async def run_enrichment(
     t0 = time.time()
     victims = await load_all_victims(pool)
     source_urls = await load_all_source_urls(pool)
+    photo_urls = await load_all_photo_urls(pool)
     index = build_index(victims, source_urls)
     log.info(
         f"Index built: {len(victims)} victims, "
-        f"{sum(len(v) for v in source_urls.values())} source URLs "
+        f"{sum(len(v) for v in source_urls.values())} source URLs, "
+        f"{sum(len(v) for v in photo_urls.values())} photo URLs "
         f"({time.time()-t0:.1f}s)"
     )
 
@@ -100,6 +104,7 @@ async def run_enrichment(
 
         enrich_batch: list[tuple] = []
         source_batch: list[tuple[str, str, str, str]] = []
+        photo_batch: list[tuple[str, str, str | None, str]] = []
         new_victims: list[ExternalVictim] = []
         field_counts: dict[str, int] = {}
 
@@ -137,7 +142,18 @@ async def run_enrichment(
                             f"  ENRICH {victim['slug']} "
                             f"(+{n} fields, score={result.score})"
                         )
-                else:
+                # Add photo if available and not already present
+                if ext.photo_url:
+                    vid = str(victim["id"])
+                    existing_photos = photo_urls.get(vid, set())
+                    if ext.photo_url not in existing_photos:
+                        credit = ext.source_name if ext.source_name else None
+                        photo_batch.append((vid, ext.photo_url, credit, "portrait"))
+                        existing_photos.add(ext.photo_url)
+                        photo_urls.setdefault(vid, set()).add(ext.photo_url)
+                        stats.photos_added += 1
+
+                if not update:
                     # Source URL still might be new
                     vid = str(victim["id"])
                     existing = source_urls.get(vid, set())
@@ -173,8 +189,11 @@ async def run_enrichment(
                 if not dry_run:
                     await batch_enrich(pool, enrich_batch, batch_size)
                     await batch_insert_sources(pool, source_batch, batch_size)
+                    if photo_batch:
+                        await batch_insert_photos(pool, photo_batch, batch_size)
                 enrich_batch.clear()
                 source_batch.clear()
+                photo_batch.clear()
                 progress.save(stats)
                 log.info(
                     f"  Progress: {stats.processed} processed, "
@@ -186,6 +205,8 @@ async def run_enrichment(
             await batch_enrich(pool, enrich_batch, batch_size)
         if source_batch and not dry_run:
             await batch_insert_sources(pool, source_batch, batch_size)
+        if photo_batch and not dry_run:
+            await batch_insert_photos(pool, photo_batch, batch_size)
 
         if new_victims and not dry_run and mode in ("import-new", "full"):
             tuples = []

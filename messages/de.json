@@ -64,7 +64,13 @@
     "unverified": "Nicht verifiziert",
     "disputed": "Umstritten",
     "relatedEvent": "Zugehöriges Ereignis",
-    "children": "Kinder"
+    "children": "Kinder",
+    "photos": "Fotos",
+    "photoOf": "Foto von {name}",
+    "photoCredit": "Quelle: {credit}",
+    "closeGallery": "Galerie schließen",
+    "previousPhoto": "Vorheriges Foto",
+    "nextPhoto": "Nächstes Foto"
   },
   "event": {
     "estimatedKilled": "Geschätzte Todesopfer",

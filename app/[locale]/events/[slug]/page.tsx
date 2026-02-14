@@ -4,6 +4,8 @@ import { useTranslations } from "next-intl";
 import { getEventBySlug, localized } from "@/lib/queries";
 import { formatDateRange, formatKilledRange } from "@/lib/utils";
 import { VictimCard } from "@/components/VictimCard";
+import { EventHero } from "@/components/EventHero";
+import { PhotoGallery } from "@/components/PhotoGallery";
 import { Link } from "@/i18n/navigation";
 import type { Locale } from "@/i18n/config";
 import type { Metadata } from "next";
@@ -60,15 +62,12 @@ function EventDetail({ event, locale, slug }: { event: any; locale: Locale; slug
   const description = localized(event, "description", locale);
   const killed = formatKilledRange(event.estimatedKilledLow, event.estimatedKilledHigh, locale);
   const { page, totalPages, totalVictims } = event;
+  const primaryPhoto = event.photos?.find((p: any) => p.isPrimary) || event.photos?.[0];
 
   return (
     <div>
       {/* Hero */}
-      <section className="relative py-16 sm:py-20 px-4 overflow-hidden">
-        <div className="absolute inset-0 bg-gradient-to-b from-memorial-950 via-memorial-900/30 to-memorial-950" />
-        <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_center,_var(--color-blood-600)_0%,_transparent_70%)] opacity-[0.04]" />
-
-        <div className="relative mx-auto max-w-4xl">
+      <EventHero title={title || ""} photoUrl={primaryPhoto?.url}>
           <h1 className="text-3xl sm:text-4xl font-bold text-memorial-50 mb-3">{title}</h1>
           <p className="text-memorial-400 mb-6">
             {formatDateRange(event.dateStart, event.dateEnd, locale)}
@@ -88,8 +87,7 @@ function EventDetail({ event, locale, slug }: { event: any; locale: Locale; slug
               </div>
             )}
           </div>
-        </div>
-      </section>
+      </EventHero>
 
       <div className="mx-auto max-w-4xl px-4 pb-16">
         {/* Description */}
@@ -100,6 +98,30 @@ function EventDetail({ event, locale, slug }: { event: any; locale: Locale; slug
                 {paragraph.trim()}
               </p>
             ))}
+          </section>
+        )}
+
+        {/* Event Photo Gallery */}
+        {event.photos && event.photos.length > 1 && (
+          <section className="mb-8">
+            <div className="flex items-center gap-4 mb-4">
+              <h2 className="text-lg font-semibold text-memorial-200 flex-shrink-0">
+                {tv("photos")}
+              </h2>
+              <div className="h-px flex-1 bg-memorial-800" />
+            </div>
+            <PhotoGallery
+              photos={event.photos}
+              name={localized(event, "title", locale) || ""}
+              locale={locale}
+              labels={{
+                photoOf: tv("photoOf"),
+                photoCredit: tv("photoCredit"),
+                closeGallery: tv("closeGallery"),
+                previousPhoto: tv("previousPhoto"),
+                nextPhoto: tv("nextPhoto"),
+              }}
+            />
           </section>
         )}
 
