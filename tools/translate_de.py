@@ -5,7 +5,7 @@ Usage:
     python3 tools/translate_de.py --field occupation   # Different field
     python3 tools/translate_de.py --dry-run            # Preview without DB update
     python3 tools/translate_de.py --limit 100          # Only first 100
-    python3 tools/translate_de.py --batch-size 20      # API concurrency (default 10)
+    python3 tools/translate_de.py --batch-size 60      # API concurrency (default 45)
 """
 
 from __future__ import annotations
@@ -41,7 +41,7 @@ SYSTEM_PROMPT = (
 )
 
 MODEL = "gpt-4o-mini"
-DEFAULT_BATCH_SIZE = 10
+DEFAULT_CONCURRENCY = 45
 MAX_RETRIES = 5
 BASE_RETRY_DELAY = 5  # seconds
 
@@ -123,54 +123,50 @@ async def translate_batch(
     victims: list[dict],
     de_col: str,
     dry_run: bool,
-    batch_size: int,
+    concurrency: int,
 ):
-    """Translate victims in batches with concurrency control."""
+    """Translate victims with semaphore-based concurrency (no batch gaps)."""
     total = len(victims)
     translated = 0
     failed = 0
-    skipped = 0
     start_time = time.time()
+    sem = asyncio.Semaphore(concurrency)
+    last_log = [0]  # mutable for closure
 
     print(f"\nTranslating {total} texts → {de_col}")
-    print(f"Model: {MODEL} | Batch size: {batch_size} | Dry run: {dry_run}\n")
+    print(f"Model: {MODEL} | Concurrency: {concurrency} | Dry run: {dry_run}\n")
 
-    for i in range(0, total, batch_size):
-        batch = victims[i : i + batch_size]
-        tasks = [translate_text(client, v["text_en"]) for v in batch]
-        results = await asyncio.gather(*tasks)
+    async def process_one(victim: dict):
+        nonlocal translated, failed
+        async with sem:
+            text_de = await translate_text(client, victim["text_en"])
 
-        for victim, text_de in zip(batch, results):
-            if text_de is None:
-                failed += 1
-                continue
-
-            if dry_run:
-                preview_en = victim["text_en"][:80].replace("\n", " ")
-                preview_de = text_de[:80].replace("\n", " ")
-                print(f"  [{translated + 1}] EN: {preview_en}...")
-                print(f"       DE: {preview_de}...")
-                print()
-            else:
+        if text_de is None:
+            failed += 1
+        else:
+            if not dry_run:
                 await save_translation(pool, victim["id"], de_col, text_de)
-
             translated += 1
 
-        # Progress log
-        elapsed = time.time() - start_time
-        rate = (translated + failed) / elapsed if elapsed > 0 else 0
-        remaining = (total - translated - failed) / rate if rate > 0 else 0
-        print(
-            f"  Progress: {translated + failed}/{total} "
-            f"({translated} OK, {failed} failed) "
-            f"| {rate:.1f}/s | ~{remaining / 60:.0f}min remaining"
-        )
+        # Log every 45 completions
+        done = translated + failed
+        if done - last_log[0] >= concurrency:
+            last_log[0] = done
+            elapsed = time.time() - start_time
+            rate = done / elapsed if elapsed > 0 else 0
+            remaining = (total - done) / rate if rate > 0 else 0
+            print(
+                f"  Progress: {done}/{total} "
+                f"({translated} OK, {failed} failed) "
+                f"| {rate:.1f}/s | ~{remaining / 60:.0f}min remaining"
+            )
+
+    await asyncio.gather(*[process_one(v) for v in victims])
 
     elapsed = time.time() - start_time
     print(f"\nDone in {elapsed:.0f}s")
     print(f"  Translated: {translated}")
     print(f"  Failed: {failed}")
-    print(f"  Skipped (already done): {skipped}")
 
 
 # ── Main ─────────────────────────────────────────────────────────────────────
@@ -181,8 +177,8 @@ async def main():
                         help="Field to translate (default: circumstances)")
     parser.add_argument("--dry-run", action="store_true", help="Preview without DB update")
     parser.add_argument("--limit", type=int, default=None, help="Max victims to translate")
-    parser.add_argument("--batch-size", type=int, default=DEFAULT_BATCH_SIZE,
-                        help=f"API concurrency (default: {DEFAULT_BATCH_SIZE})")
+    parser.add_argument("--batch-size", type=int, default=DEFAULT_CONCURRENCY,
+                        help=f"API concurrency (default: {DEFAULT_CONCURRENCY})")
     args = parser.parse_args()
 
     en_col, de_col = TRANSLATABLE_FIELDS[args.field]

@@ -582,4 +582,44 @@ IHR und HRANA haben eigene Datenformate. Pro Import-Quelle ein eigenes Mapping-S
 
 ---
 
-*Letzte Aktualisierung: 2026-02-14 (Enricher Upgrade: iranvictims CSV + iranrevolution + circumstances_fa + 53 Tests)*
+---
+
+## Deutsche Übersetzung — Batch Translation Pipeline (2026-02-14)
+
+### Schema-Erweiterung
+- **7 neue `_de` Spalten** in `victims` Tabelle: `circumstances_de`, `occupation_de`, `beliefs_de`, `personality_de`, `dreams_de`, `burial_circumstances_de`, `family_persecution_de`
+- Prisma Schema + Migration (`20260214180000_add_german_victim_fields`)
+- `lib/queries.ts`: VICTIM_COLUMNS + mapRawVictims mit `_de` Feldern aktualisiert
+- `localized()` Helper unterstützt `De` Suffix bereits seit Phase 1 — funktioniert sofort
+
+### Übersetzungs-Script (`tools/translate_de.py`)
+- **Standalone async Python-Script** (nicht im Enricher, da einmaliger Batch-Job)
+- GPT-4o-mini via AsyncOpenAI + asyncpg für DB
+- **Semaphore-basierte Concurrency** — kein Warten auf langsamsten Text pro Batch
+  - Vorher: `asyncio.gather()` mit festen Batches → wartet bis ALLE N fertig → nächste N
+  - Nachher: `asyncio.Semaphore(N)` → sobald einer fertig, startet sofort der nächste
+  - **Speedup: ~30% schneller** (1.3/s → 1.7/s bei gleicher Concurrency)
+- Resume-safe: Überspringt `circumstances_de IS NOT NULL` Einträge
+- CLI: `--field`, `--dry-run`, `--limit`, `--batch-size`
+- Rate-Limit-Handling mit exponential Backoff
+
+### Kosten & Performance
+- **Modell:** GPT-4o-mini ($0.15/1M input, $0.60/1M output)
+- **Geschätzte Kosten:** ~$10 für 22K circumstances_de
+- **Rate:** ~1.7/s mit Concurrency 45 (Tier 1: 500 RPM, 200K TPM)
+- **Dauer:** ~3h für 22K Texte
+- Texte nach Länge sortiert (längste zuerst) → Rate steigt mit der Zeit
+
+### Prisma Migration Pitfall (erneut)
+- `prisma migrate dev` scheiterte: (1) non-interactive Umgebung, (2) will `search_vector` Spalte droppen
+- **Lösung wie gehabt:** SQL manuell ausführen + `prisma migrate resolve --applied`
+- Gleicher Fehler wie bei Multi-Photo Migration — dokumentiert als Pattern
+
+### Technische Erkenntnisse
+- **Python Output-Buffering:** Script-Ausgabe bei Pipe-Redirect (`2>&1`) unsichtbar ohne `-u` Flag oder `PYTHONUNBUFFERED=1`
+- **asyncio.Semaphore vs. feste Batches:** Bei heterogenen Aufgaben (unterschiedlich lange Texte) ist Semaphore signifikant schneller, weil kein Warten auf den langsamsten Text im Batch
+- **OpenAI Rate Limits (GPT-4o-mini):** Tier 1 = 500 RPM, 200K TPM — batch-size 45 nutzt ~30% des Limits
+
+---
+
+*Letzte Aktualisierung: 2026-02-14 (Deutsche Übersetzung: Schema + translate_de.py + Semaphore-Concurrency)*

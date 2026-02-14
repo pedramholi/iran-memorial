@@ -134,6 +134,7 @@ iran-memorial/
 │   │   ├── sources/             # boroumand, iranvictims, iranrevolution, wikipedia_wlf
 │   │   ├── tests/               # pytest test suite (53 tests)
 │   │   └── utils/               # farsi, latin, http, progress, provinces
+│   ├── translate_de.py           # Batch EN→DE translation (GPT-4o-mini, asyncpg)
 │   └── legacy/                  # Historical one-shot scripts (Phase 1–3)
 ├── workflows/                   # WAT: Markdown SOPs
 │   ├── data-import.md           # Enricher-based import workflow
@@ -161,7 +162,7 @@ iran-memorial/
 
 | Model | Fields | Purpose |
 |-------|--------|---------|
-| `Victim` | 44 | Complete life record (identity, life, death, aftermath, admin) |
+| `Victim` | 51 | Complete life record (identity, life, death, aftermath, admin) + 7 `_de` fields |
 | `Event` | 15 | Timeline events with 3-language titles/descriptions |
 | `Source` | 7 | Links (victim/event → URL), cascading delete |
 | `Photo` | 11 | Attached to victim/event (sort order, primary flag) |
@@ -203,6 +204,12 @@ python3 -m tools.enricher enrich -s iranvictims --resume # Enrich
 python3 -m tools.enricher dedup --dry-run -v             # Dedup preview
 python3 -m tools.enricher dedup --apply                  # Execute dedup
 python3 -m tools.enricher status                         # Progress
+
+# Translation (EN → DE)
+python3 tools/translate_de.py                     # Translate circumstances_en → _de
+python3 tools/translate_de.py --field occupation   # Different field
+python3 tools/translate_de.py --dry-run --limit 5  # Preview 5 texts
+python3 tools/translate_de.py --batch-size 60      # Higher concurrency
 
 # Docker
 docker compose up -d db        # Start PostgreSQL only
@@ -298,7 +305,8 @@ POSTGRES_PASSWORD=memorial_dev_password
 |-------|--------|---------|
 | Middleware deprecation | ⚠️ Cosmetic | Next.js 16 warns about middleware → proxy migration. next-intl still uses middleware. |
 | Server disk at 95% | ⚠️ Critical | Docker reclaimable: ~6.2 GB. Prune ASAP. |
-| German content sparse | ⚠️ Low | Many `descriptionDe`/`titleDe` fields null in DB |
+| German content: victims | ✅ Done | `circumstances_de` batch-translated via GPT-4o-mini (~22K texts, ~$10) |
+| German content: other fields | ⚠️ Low | `occupation_de`, `beliefs_de`, etc. — columns exist, translation pending |
 
 ---
 
@@ -312,8 +320,9 @@ POSTGRES_PASSWORD=memorial_dev_password
 | v0.4.0 | 2026-02-13 | Phase 3: Boroumand historical — 31,203 victims, 5,318 dedups removed |
 | v0.5.0 | 2026-02-14 | Enricher framework, Multi-Photo, Dedup (30,795), Timeline, force-dynamic, WAT cleanup |
 | v0.5.1 | 2026-02-14 | Enricher upgrade: iranvictims CSV, iranrevolution plugin, circumstances_fa, provinces utility, 53 pytest tests |
+| v0.6.0 | 2026-02-14 | German translation: 7 `_de` columns, translate_de.py (GPT-4o-mini), semaphore concurrency, ~22K circumstances_de |
 
-**Current:** v0.5.1 | 30,795 victims | 43K+ sources | 4,942 photos | 124 Vitest + 53 pytest tests | Live at memorial.n8ncloud.de
+**Current:** v0.6.0 | 30,795 victims | 43K+ sources | 4,942 photos | 124 Vitest + 53 pytest tests | Live at memorial.n8ncloud.de
 
 ---
 

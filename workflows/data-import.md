@@ -54,6 +54,17 @@ Siehe auch `workflows/dedup-pipeline.md`
 | `iranrevolution` | iranrevolution.online (Supabase) | Name FA/EN, Ort, Datum, Bio EN/FA, Foto | Einzige Quelle mit `circumstances_fa` |
 | `wikipedia_wlf` | Wikipedia WLF-Tabelle | Name, Ort, Datum, Umstände | ~420 Opfer |
 
+## 6. Deutsche Übersetzung
+Nach Enrichment können Textfelder ins Deutsche übersetzt werden:
+```bash
+python3 tools/translate_de.py --field circumstances   # circumstances_en → _de
+python3 tools/translate_de.py --field occupation       # occupation_en → _de
+python3 tools/translate_de.py --dry-run --limit 5      # Vorschau
+```
+- GPT-4o-mini, ~$10 für 22K Texte, Semaphore-Concurrency (default 45)
+- Resume-safe (überspringt bereits übersetzte)
+- Verfügbare Felder: circumstances, occupation, beliefs, personality, dreams, burial_circumstances, family_persecution
+
 ## Edge Cases
 - **Cloudflare-Blockade:** Wayback Machine als Fallback (`web.archive.org/web/URL`)
 - **SSL-Fehler auf macOS:** `curl` als Fallback, Cache-File speichern
