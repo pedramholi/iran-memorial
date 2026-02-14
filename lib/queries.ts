@@ -122,17 +122,28 @@ export async function getVictimsList(params: {
     };
   }
 
-  const [victims, total] = await Promise.all([
-    prisma.victim.findMany({
-      where,
-      orderBy: { dateOfDeath: "desc" },
-      skip: (page - 1) * pageSize,
-      take: pageSize,
-    }),
-    prisma.victim.count({ where }),
+  // Use raw SQL to sort photos-first
+  const safePageSize = Math.min(100, Math.max(1, Math.floor(Number(pageSize) || 24)));
+  const safePage = Math.max(1, Math.floor(Number(page) || 1));
+  const safeOffset = (safePage - 1) * safePageSize;
+  const filterFrag = buildFilterFragment({ province, year, gender });
+  const columns = Prisma.raw(VICTIM_COLUMNS);
+
+  const [victims, countResult] = await Promise.all([
+    prisma.$queryRaw<any[]>`
+      SELECT ${columns}
+      FROM victims v
+      WHERE 1=1 ${filterFrag}
+      ORDER BY (v.photo_url IS NOT NULL) DESC, v.date_of_death DESC NULLS LAST
+      LIMIT ${safePageSize} OFFSET ${safeOffset}
+    `,
+    prisma.$queryRaw<{ total: number }[]>`
+      SELECT COUNT(*)::int AS total FROM victims v WHERE 1=1 ${filterFrag}
+    `,
   ]);
 
-  return { victims, total, page, pageSize, totalPages: Math.ceil(total / pageSize) };
+  const total = Number(countResult[0]?.total) || 0;
+  return { victims: mapRawVictims(victims), total, page: safePage, pageSize: safePageSize, totalPages: Math.ceil(total / safePageSize) };
 }
 
 /** Build safe parameterized filter fragment for raw SQL */
