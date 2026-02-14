@@ -517,4 +517,20 @@ IHR und HRANA haben eigene Datenformate. Pro Import-Quelle ein eigenes Mapping-S
 
 ---
 
-*Letzte Aktualisierung: 2026-02-14 (WAT-Restructuring + Vitest 124 Tests)*
+### BUG-015: Statistics Bar Chart — Lückenlose Jahresreihe (2026-02-14)
+
+- **Symptom:** "Todesfälle nach Jahr" Bar Chart zeigte Balken direkt nebeneinander obwohl Jahre dazwischen fehlen (z.B. 1981 direkt neben 1988)
+- **Ursache:** SQL-Query `GROUP BY EXTRACT(YEAR FROM date_of_death)` liefert nur Jahre mit Daten. Frontend rendert Bars sequentiell ohne Lücken.
+- **Fix:** In `getStatistics()` (lib/queries.ts): Sparse DB-Ergebnis in kontinuierliche Jahresreihe (minYear–maxYear) umwandeln, fehlende Jahre mit `count: 0` auffüllen.
+- **Pattern:** Bei Zeitreihen-Charts immer die vollständige Zeitachse generieren — SQL-Aggregation liefert nur Non-NULL-Gruppen.
+
+### BUG-016: Statistics Bar Chart — CSS `items-end` verhindert Prozent-Höhen (2026-02-14)
+
+- **Symptom:** Bar Chart komplett leer (keine Balken sichtbar), obwohl HTML korrekte `height: 18%` Styles enthält
+- **Ursache:** `align-items: flex-end` (Tailwind `items-end`) auf dem Flex-Container verhindert, dass Flex-Items die volle Container-Höhe (`h-64`) bekommen. Bar-Divs mit `height: percentage` haben dadurch keinen Referenzwert → Browser rendert 0px.
+- **Fix:** `items-end` entfernt (default `stretch` → Items füllen `h-64`), Year-Labels von In-Flow zu `absolute top-full` geändert um Bar-Positionen nicht zu verschieben. `pb-6` für Label-Platz.
+- **Pattern:** CSS-Prozent-Höhen brauchen eine explizite Eltern-Höhe. In Flexbox-Layouts verhindert `align-items: flex-end` das Stretching der Cross-Axis — Items schrumpfen auf Inhaltshöhe.
+
+---
+
+*Letzte Aktualisierung: 2026-02-14 (Statistics Bar Chart Fixes + WAT-Restructuring)*
