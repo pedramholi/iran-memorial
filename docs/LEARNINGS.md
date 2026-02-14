@@ -67,12 +67,13 @@
 - **Rationale:** Nachträgliche i18n ist 10x schwieriger als von Anfang an. Farsi für Opfer/Familien, Englisch für internationale Öffentlichkeit, Deutsch für die große iranische Diaspora in DACH
 - **Outcome:** next-intl mit 102 UI-Keys pro Sprache, `localized()` Helper für DB-Felder, RTL-Support über Tailwind logical properties
 
-### AD-004: Next.js 16 mit ISR statt SSG
+### AD-004: Next.js 16 mit ISR statt SSG → force-dynamic
 
 - **Decision:** Incremental Static Regeneration (revalidate: 3600) für Opfer-/Event-Seiten
 - **Alternatives:** Full SSG (Astro), Full SSR, SvelteKit
 - **Rationale:** 500k+ Seiten können nicht alle zur Build-Zeit generiert werden. ISR generiert on-demand beim ersten Aufruf und cached danach
 - **Outcome:** Build in 831ms (nur statische Seiten), dynamische Seiten on-demand, Dev-Start in 454ms
+- **Update 2026-02-14:** Alle 8 DB-Seiten verwenden jetzt `export const dynamic = "force-dynamic"`. ISR und `lib/fallback-data.ts` wurden entfernt — DB wird bei jedem Request direkt abgefragt. Docker-Build braucht kein DATABASE_URL mehr (force-dynamic überspringt SSG).
 
 ### AD-005: Prisma 6 statt Prisma 7
 
@@ -487,8 +488,8 @@ IHR und HRANA haben eigene Datenformate. Pro Import-Quelle ein eigenes Mapping-S
 - **Scoring-basiertes Dedup (dedup-db.ts):** Bei Duplikat-Gruppen den "besten" Eintrag per Scoring bestimmen: Non-null-Felder (+1), Photo (+10), Circumstances-Länge (+0-10), Event-Link (+5), Non-Boroumand-Source (+3). Höchster Score = Keeper. Sicherer als Heuristiken wie "erster Eintrag" oder "ältester".
 - **Unknown/ناشناس Dedup nur mit Text-Match:** Unbenannte Opfer (name_farsi = 'ناشناس') mit gleichem Datum sind NICHT automatisch Duplikate — es können verschiedene Personen sein. Nur dedupen wenn auch `circumstances_en` Text identisch ist (LEFT 200 chars). Ohne Text: nicht anfassen.
 - **Farsi-Normalisierung für Dedup (dedup-round5.ts):** Persisch hat unsichtbare Zeichenvarianten die zu falschen "Unterschieden" führen: ZWNJ (U+200C), Arabic Kaf ك vs Persian Kaf ک, Arabic Yeh ي vs Persian Yeh ی, Hamza-auf-Yeh ئ → ی, Ta Marbuta ة → ه, Alef Madda آ → ا, Arabic Diacritics (Fathatan–Hamza). Normalisierungsfunktion entfernt diese → zuverlässiges Matching. ABER: unterschiedliche normalisierte Farsi-Namen bei gleichem Latin-Namen = verschiedene Personen (23 korrekt übersprungen).
-- **Fallback-Daten synchron halten (lib/fallback-data.ts):** Docker-Build hat keinen DB-Zugang → nutzt statische Fallback-Daten. Wenn Event-Opferzahlen oder Victim-Count in der DB geändert werden, MUSS `fallback-data.ts` manuell aktualisiert werden. Sonst zeigt die Website nach jedem Docker-Build alte Zahlen bis ISR die Seiten neu generiert.
-- **ISR-Cache: Nie `.next/server/app/` komplett löschen:** ISR-Cache in `/app/.next/server/app/` persists across container restarts. Einzelne Cache-Dateien löschen ist OK, aber das gesamte Verzeichnis löschen verursacht 500-Fehler (Route-Handler fehlen). Stattdessen: `docker compose up -d --build --force-recreate` für sauberen Rebuild.
+- ~~**Fallback-Daten synchron halten (lib/fallback-data.ts):**~~ **Veraltet (2026-02-14):** Alle Seiten nutzen jetzt `force-dynamic` — keine Fallback-Daten, kein ISR mehr. `lib/fallback-data.ts` wurde gelöscht. Docker-Build braucht kein DATABASE_URL (force-dynamic überspringt SSG).
+- ~~**ISR-Cache: Nie `.next/server/app/` komplett löschen:**~~ **Veraltet (2026-02-14):** ISR wurde durch `force-dynamic` ersetzt — kein Cache mehr. `docker compose up -d --build` reicht.
 
 - **OpenAI Rate-Limit bei Massen-Extraktion:** GPT-4o-mini hat ein tägliches Token-Limit (10K RPD pro Org). Nach ~12.000 Calls in einer Session wird jeder Request mit 429 geblockt. Zweiter API-Key hilft NICHT wenn er in derselben Organisation ist (shared rate limits). Retry-Delay auf mindestens 60s setzen (nicht 5s — erzeugt Endlos-Loop ohne Fortschritt). Am besten: Extraktion über mehrere Tage verteilen, `--resume` Flag für Wiederaufnahme, oder auf Claude Haiku umstellen.
 - **pg_dump für DB-Sync statt Seed:** Wenn lokale DB stark veraltet ist, ist `pg_dump` → `psql -f` schneller und vollständiger als Seed-Scripts. Seed kann nur Einträge erstellen die als YAML existieren; pg_dump überträgt auch DB-only Einträge. Wichtig: Plain-SQL-Format (`-F p`) verwenden wenn pg_dump/pg_restore Versionen nicht matchen.

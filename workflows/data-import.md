@@ -14,42 +14,35 @@ Opferdaten aus einer neuen Quelle importieren, deduplizieren und in die Produkti
 - Erwartete Felder und Opferzahl schätzen
 - Gegen 5 Opferkategorien prüfen (Protest-Tote, Hingerichtete, Hafttode, verdächtige Tode, Hijab-Enforcement)
 
-### 2. Parser/Scraper erstellen oder vorhandenen nutzen
-- Prüfe `tools/` auf existierende Scripts für ähnliche Quellen
-- Neues Script in `tools/` erstellen falls nötig
-- Output: YAML-Dateien in `data/victims/{year}/`
+### 2. Enricher-Plugin erstellen oder vorhandenen nutzen
+- Prüfe `tools/enricher/sources/` auf existierende Plugins
+- Neues Plugin mit `@register` Decorator erstellen falls nötig
+- Historische Einmalskripte als Referenz in `tools/legacy/`
 
-| Quelltyp | Vorhandenes Tool |
-|----------|-----------------|
-| Wikipedia-Tabelle | `tools/parse_wikipedia_wlf.py` |
-| CSV-Export | `tools/import_iranvictims_csv.py` |
-| PDF-Report | `tools/parse_hrana_82day.py`, `tools/parse_amnesty_children.py` |
-| HTML-Scrape | `tools/scrape_boroumand.py` |
+| Quelltyp | Aktives Tool (Enricher) | Historische Referenz (Legacy) |
+|----------|------------------------|------------------------------|
+| Wikipedia-Tabelle | `enricher/sources/wikipedia_wlf.py` | `legacy/parse_wikipedia_wlf.py` |
+| CSV-Export | — | `legacy/import_iranvictims_csv.py` |
+| PDF-Report | — | `legacy/parse_hrana_82day.py`, `legacy/parse_amnesty_children.py` |
+| HTML-Scrape | `enricher/sources/boroumand.py` | `legacy/scrape_boroumand.py` |
+| iranvictims.com | `enricher/sources/iranvictims.py` | `legacy/scrape_iranvictims_photos.py` |
 
-### 3. Gender-Inferenz
+### 3. Enrichment durchführen
 ```bash
-python tools/infer_gender.py
-```
-- Prüfe ob neue Vornamen in die Namensliste aufgenommen werden müssen
-
-### 4. Seed in DB
-```bash
-npx tsx tools/seed-new-only.ts --dry-run    # Erst testen
-npx tsx tools/seed-new-only.ts              # Dann importieren
+python3 -m tools.enricher check -s <plugin> -v     # Dry-Run
+python3 -m tools.enricher enrich -s <plugin>        # Ausführen
 ```
 
-### 5. Gender in DB synchronisieren
+### 4. Deduplizierung
 ```bash
-npx tsx tools/sync-gender-to-db.ts
+python3 -m tools.enricher dedup --dry-run -v        # Vorschau
+python3 -m tools.enricher dedup --apply              # Ausführen
 ```
+Siehe auch `workflows/dedup-pipeline.md`
 
-### 6. Deduplizierung
-Siehe `workflows/dedup-pipeline.md`
-
-### 7. Verifizierung
+### 5. Verifizierung
 - `SELECT COUNT(*) FROM "Victim"` — Zahl prüfen
 - Stichprobe auf der Website: `http://localhost:3000/en/victims/`
-- `lib/fallback-data.ts` aktualisieren falls sich Gesamtzahlen ändern
 
 ## Edge Cases
 - **Cloudflare-Blockade:** Wayback Machine als Fallback (`web.archive.org/web/URL`)

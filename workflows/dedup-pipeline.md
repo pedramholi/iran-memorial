@@ -7,41 +7,27 @@ Duplikate nach einem Datenimport erkennen und mergen, ohne echte verschiedene Pe
 - Datenimport abgeschlossen (YAML + DB)
 - Lokale PostgreSQL läuft
 
-## Pipeline (Reihenfolge einhalten!)
+## Aktives Tool: Enricher Dedup
 
-### Schritt 1: YAML-Level Dedup
 ```bash
-python tools/dedup_victims.py --dry-run     # Vorschau
-python tools/dedup_victims.py               # Ausführen
+python3 -m tools.enricher dedup --dry-run -v     # Vorschau mit Details
+python3 -m tools.enricher dedup --apply           # Ausführen (nur Score ≥50)
+python3 -m tools.enricher dedup --apply --include-review  # Auch 30-49 Score
 ```
-- 3 Matching-Strategien: Familienname + Vorname, normalisierter Vollname, Cross-Year-Slug
-- Scoring: Gleiches Todesdatum (+50), gleicher Farsi-Name (+50), verschiedenes Datum (-100)
-- Score >= 50: automatisch mergen, 30-49: manuell prüfen
 
-### Schritt 2: Internes Dedup (Farsi-basiert)
-```bash
-python tools/dedup_2026_internal.py --dry-run
-python tools/dedup_2026_internal.py
-```
-- Farsi-Normalisierung (ZWNJ, Kaf/Yeh-Varianten, Diacritics)
-- Nur für Einträge mit Farsi-Namen
+### Wie es funktioniert
+1. Gruppierung nach normalisiertem Farsi-Namen (strips Parenthesen wie "(ژینا)")
+2. Sekundäre Gruppierung nach Latin-Name-Word-Set für Einträge ohne Farsi
+3. Scoring: Farsi +50, Todesdatum +50, Provinz +20, Alter +15, Ort +10, Todesursache +10
+4. Todesdatum-Mismatch = -100 (verschiedene Personen)
+5. Winner = höchster Completeness-Score (verified +100, Felder +1, Sources +5, Photos +3)
+6. Merge: COALESCE-Felder, Sources/Photos migrieren (URL-Dedup), Loser löschen
 
-### Schritt 3: DB-Level Dedup
-```bash
-npx tsx tools/dedup-db.ts --dry-run
-npx tsx tools/dedup-db.ts
-```
-- Scoring: Non-null-Felder (+1), Photo (+10), Circumstances-Länge (+0-10), Event-Link (+5)
-- Bester Eintrag = Keeper, Rest wird gelöscht
-- Sources werden in den Keeper gemergt
-
-### Schritt 4: Farsi-Normalisierung Dedup
-```bash
-npx tsx tools/dedup-round5.ts --dry-run
-npx tsx tools/dedup-round5.ts
-```
-- Unsichtbare Unicode-Varianten normalisieren
-- NULL-Datum Matches nur mit identischem Text
+### Historische Skripte (in `tools/legacy/`, nur als Referenz)
+- `dedup_victims.py` — YAML-Level Dedup (3 Strategien)
+- `dedup_2026_internal.py` — Farsi-Normalisierung
+- `dedup-db.ts` — DB-Level Smart-Dedup mit Scoring
+- `dedup-round5.ts` — Unicode-Normalisierung
 
 ## Wichtige Regeln
 - **Merge statt Delete:** Immer Felder + Sources aus dem Duplikat ins Original kopieren
@@ -51,6 +37,5 @@ npx tsx tools/dedup-round5.ts
 - **Verschiedener normalisierter Farsi-Name:** Verschiedene Person, auch bei gleichem Latin-Namen
 
 ## Nach der Deduplizierung
-- `lib/fallback-data.ts` aktualisieren (Gesamtzahlen)
 - CLAUDE.md "Data Collection Status" Tabelle aktualisieren
 - Eintrag in `docs/LEARNINGS.md`
