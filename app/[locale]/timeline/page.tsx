@@ -102,7 +102,7 @@ function TimelineContent({ events, locale }: { events: any[]; locale: Locale }) 
                               <Image src={eventPhoto} alt={title || ""} fill sizes="48px" className="object-cover" unoptimized />
                             </div>
                           )}
-                          <div>
+                          <div className="flex-1">
                             <time className="text-xs text-memorial-500">
                               {formatDate(event.dateStart, locale)}
                             </time>
