@@ -169,7 +169,8 @@
     "withKnownGender": "with known gender",
     "under18": "Under 18",
     "over50": "Over 50",
-    "noResultsHint": "Try broadening your search or removing filters."
+    "noResultsHint": "Try broadening your search or removing filters.",
+    "unavailable": "Statistics are currently unavailable."
   },
   "footer": {
     "remembrance": "So that no one is forgotten.",

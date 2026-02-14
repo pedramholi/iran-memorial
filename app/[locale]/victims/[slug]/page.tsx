@@ -5,24 +5,34 @@ import Image from "next/image";
 import { getVictimBySlug, localized } from "@/lib/queries";
 import { PhotoGallery } from "@/components/PhotoGallery";
 import { formatDate } from "@/lib/utils";
+import { translateCause } from "@/lib/translate";
 import { Link } from "@/i18n/navigation";
 import type { Locale } from "@/i18n/config";
 import type { Metadata } from "next";
 
 export const revalidate = 3600; // ISR: revalidate every hour
 
+const metaFallback: Record<string, string> = {
+  en: "Memorial page for",
+  de: "Gedenkseite für",
+  fa: "صفحه یادبود",
+};
+
 export async function generateMetadata({
   params,
 }: {
   params: Promise<{ locale: string; slug: string }>;
 }): Promise<Metadata> {
-  const { slug } = await params;
+  const { locale, slug } = await params;
   try {
     const victim = await getVictimBySlug(slug);
     if (!victim) return { title: "Not Found" };
+    const name = locale === "fa" && victim.nameFarsi ? victim.nameFarsi : victim.nameLatin;
+    const secondaryName = locale === "fa" ? victim.nameLatin : victim.nameFarsi;
+    const circumstances = localized(victim, "circumstances", locale as Locale);
     return {
-      title: `${victim.nameLatin}${victim.nameFarsi ? ` — ${victim.nameFarsi}` : ""}`,
-      description: victim.circumstancesEn?.slice(0, 160) || `Memorial page for ${victim.nameLatin}`,
+      title: `${name}${secondaryName ? ` — ${secondaryName}` : ""}`,
+      description: circumstances?.slice(0, 160) || `${metaFallback[locale] || metaFallback.en} ${name}`,
     };
   } catch {
     return { title: "Victim" };
@@ -182,7 +192,7 @@ function VictimDetail({ victim, locale }: { victim: any; locale: Locale }) {
           </h2>
           <div className="rounded-lg border border-memorial-800/60 bg-gradient-to-b from-blood-600/5 to-memorial-900/30 p-6 space-y-6">
             {victim.placeOfDeath && <Field label={t("placeOfDeath")} value={victim.placeOfDeath} />}
-            {victim.causeOfDeath && <Field label={t("causeOfDeath")} value={victim.causeOfDeath} />}
+            {victim.causeOfDeath && <Field label={t("causeOfDeath")} value={translateCause(victim.causeOfDeath, locale) || victim.causeOfDeath} />}
             {victim.responsibleForces && <Field label={t("responsibleForces")} value={victim.responsibleForces} />}
             {circumstances && (
               <div>

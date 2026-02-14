@@ -2,6 +2,7 @@ import Image from "next/image";
 import { Link } from "@/i18n/navigation";
 import type { Locale } from "@/i18n/config";
 import { formatDate } from "@/lib/utils";
+import { translateCause } from "@/lib/translate";
 
 type VictimCardProps = {
   slug: string;
@@ -58,7 +59,7 @@ export function VictimCard({
           <h3 className="font-medium text-memorial-100 group-hover:text-gold-400 transition-colors truncate flex items-center gap-1.5">
             {displayName}
             {verificationStatus === "verified" && (
-              <span className="inline-block w-2 h-2 rounded-full bg-green-500 flex-shrink-0" title="Verified" />
+              <span className="inline-block w-2 h-2 rounded-full bg-green-500 flex-shrink-0" title={{ en: "Verified", de: "Verifiziert", fa: "تأیید شده" }[locale]} />
             )}
           </h3>
           {locale !== "fa" && nameFarsi && (
@@ -74,7 +75,7 @@ export function VictimCard({
             {placeOfDeath && <span>{placeOfDeath}</span>}
           </div>
           {causeOfDeath && (
-            <p className="mt-1 text-xs text-blood-400">{causeOfDeath}</p>
+            <p className="mt-1 text-xs text-blood-400">{translateCause(causeOfDeath, locale)}</p>
           )}
         </div>
       </div>

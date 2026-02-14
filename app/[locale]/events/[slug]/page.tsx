@@ -17,14 +17,13 @@ export async function generateMetadata({
 }: {
   params: Promise<{ locale: string; slug: string }>;
 }): Promise<Metadata> {
-  const { slug } = await params;
+  const { locale, slug } = await params;
   try {
     const event = await getEventBySlug(slug);
     if (!event) return { title: "Not Found" };
-    return {
-      title: event.titleEn,
-      description: event.descriptionEn?.slice(0, 160),
-    };
+    const title = localized(event, "title", locale as Locale) || event.titleEn;
+    const description = localized(event, "description", locale as Locale)?.slice(0, 160) || event.descriptionEn?.slice(0, 160);
+    return { title, description };
   } catch {
     return { title: "Event" };
   }

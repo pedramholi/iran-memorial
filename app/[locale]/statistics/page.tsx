@@ -2,6 +2,7 @@ import { setRequestLocale } from "next-intl/server";
 import { useTranslations } from "next-intl";
 import { getStatistics, type Statistics } from "@/lib/queries";
 import { formatNumber } from "@/lib/utils";
+import { translateCause, translateAgeBucket, translateDataSource } from "@/lib/translate";
 import type { Locale } from "@/i18n/config";
 
 export const revalidate = 3600;
@@ -22,11 +23,7 @@ export default async function StatisticsPage({
   }
 
   if (!stats) {
-    return (
-      <div className="mx-auto max-w-4xl px-4 py-20 text-center text-memorial-400">
-        Statistics are currently unavailable.
-      </div>
-    );
+    return <StatisticsUnavailable />;
   }
 
   return <StatisticsContent stats={stats} locale={locale as Locale} />;
@@ -91,7 +88,10 @@ function StatisticsContent({
       {/* Cause of Death */}
       <Section title={t("causeOfDeath")}>
         <HorizontalBars
-          data={stats.deathsByCause}
+          data={stats.deathsByCause.map((d) => ({
+            ...d,
+            label: translateCause(d.label, locale) || d.label,
+          }))}
           locale={locale}
           color="bg-blood-500"
         />
@@ -107,7 +107,10 @@ function StatisticsContent({
           {t("withKnownAge")}
         </p>
         <HorizontalBars
-          data={stats.ageDistribution}
+          data={stats.ageDistribution.map((d) => ({
+            ...d,
+            label: translateAgeBucket(d.label, locale),
+          }))}
           locale={locale}
           color="bg-gold-500"
         />
@@ -142,7 +145,10 @@ function StatisticsContent({
         <div>
           <Section title={t("dataSources")}>
             <HorizontalBars
-              data={stats.dataSources}
+              data={stats.dataSources.map((d) => ({
+                ...d,
+                label: translateDataSource(d.label, locale),
+              }))}
               locale={locale}
               color="bg-memorial-500"
             />
@@ -241,6 +247,15 @@ function YearlyBarChart({
           );
         })}
       </div>
+    </div>
+  );
+}
+
+function StatisticsUnavailable() {
+  const t = useTranslations("statistics");
+  return (
+    <div className="mx-auto max-w-4xl px-4 py-20 text-center text-memorial-400">
+      {t("unavailable")}
     </div>
   );
 }
