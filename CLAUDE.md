@@ -9,6 +9,22 @@ A digital memorial for the victims of the Islamic Republic of Iran (1979–prese
 
 ---
 
+## WAT Architecture (Workflows, Agents, Tools)
+
+This project follows the WAT framework, which separates concerns so that probabilistic AI handles reasoning while deterministic code handles execution.
+
+**Layer 1: Workflows** — Markdown SOPs in `workflows/`. Each workflow defines objectives, required inputs, which tools to use, expected outputs, and edge case handling. Written in plain language.
+
+**Layer 2: Agents** — The AI (you). Read the relevant workflow, run tools in the correct sequence, handle failures gracefully, ask clarifying questions when needed. Connect intent to execution without trying to do everything yourself.
+
+**Layer 3: Tools** — Python and TypeScript scripts in `tools/` that do actual work: API calls, data transformations, scraping, database operations. These scripts are consistent, testable, and fast.
+
+**Why this matters:** When AI tries to handle every step directly, accuracy drops. By offloading execution to deterministic scripts, the AI stays focused on orchestration and decision-making.
+
+**Self-Improvement Loop:** Every failure improves the system: (1) identify what broke, (2) fix the tool, (3) verify the fix, (4) update the workflow, (5) move on with a more robust system.
+
+---
+
 ## AI Working Principles
 
 1. **Analyze First** — Search codebase for relevant files before suggesting changes
@@ -21,6 +37,9 @@ A digital memorial for the victims of the Islamic Republic of Iran (1979–prese
 8. **Plan Before Implementing** — Non-trivial changes need Plan + Log documents (see `docs/PLANNING_GUIDE.md`)
 9. **Data Over Features** — More documented victims is always higher priority than new UI features
 10. **Respect Sensitivity** — This documents real people who were killed. Every code change affects how their stories are told.
+11. **Use Existing Tools First** — Before building anything new, check `tools/` for existing scripts. Only create new tools when nothing exists for the task.
+12. **Learn From Failures** — When a tool fails: read the full error, fix the script, verify, and update the workflow so it never happens again. Check before re-running if it uses paid API credits.
+13. **Keep Workflows Current** — Update workflow SOPs when you find better methods, discover constraints, or encounter recurring issues. Never overwrite workflows without asking.
 
 ---
 
@@ -116,6 +135,13 @@ iran-memorial/
 ├── data/                        # Seed data (YAML)
 │   ├── events/timeline.yaml     # 12 historical events
 │   └── victims/                 # 4,378 victim YAML files + template
+├── tools/                       # WAT: Data pipeline scripts (Python + TypeScript)
+│   ├── parse_wiki_wlf.py        # Wikipedia WLF parser
+│   ├── scrape_boroumand.py      # Boroumand Foundation scraper
+│   ├── extract-fields.ts        # AI field extraction
+│   └── ...                      # 20+ data processing scripts
+├── workflows/                   # WAT: Markdown SOPs for repeatable processes
+├── .tmp/                        # Temporary processing files (gitignored, disposable)
 ├── docs/                        # All documentation
 ├── docker-compose.yml           # PostgreSQL 16 + Next.js app
 ├── Dockerfile                   # Multi-stage production build
@@ -150,6 +176,11 @@ iran-memorial/
 npm run dev                    # Next.js dev server (Turbopack, port 3000)
 npm run build                  # Production build
 npm run lint                   # ESLint
+
+# Testing
+npm test                       # Run all 124 tests
+npm run test:watch             # Watch mode
+npm run test:coverage          # Coverage report (v8)
 
 # Database
 npx prisma generate            # Generate Prisma client after schema changes
@@ -235,7 +266,7 @@ border-start: 2px solid;     /* NOT border-left */
 | Events | 12 | `data/events/timeline.yaml` |
 | Victims | ~28,400 | `data/victims/{year}/slug.yaml` |
 
-**Victims:** ~28,400 YAML files across 8 sources (Wikipedia, HRANA, IHR, iranvictims.com, Amnesty International, Boroumand Foundation historical, Boroumand Foundation enrichment, manual). Deduplicated via `scripts/dedup_victims.py` (206) + `scripts/dedup_2026_internal.py` (254) + `-2` suffix dedup (939) + `scripts/dedup-db.ts` (3,786) + `scripts/dedup-round5.ts` (102) + `-2` suffix round 6 (20) = 5,318 total duplicates removed. 31,203 victims in production DB.
+**Victims:** ~28,400 YAML files across 8 sources (Wikipedia, HRANA, IHR, iranvictims.com, Amnesty International, Boroumand Foundation historical, Boroumand Foundation enrichment, manual). Deduplicated via `tools/dedup_victims.py` (206) + `tools/dedup_2026_internal.py` (254) + `-2` suffix dedup (939) + `tools/dedup-db.ts` (3,786) + `tools/dedup-round5.ts` (102) + `-2` suffix round 6 (20) = 5,318 total duplicates removed. 31,203 victims in production DB.
 **Events:** Revolution 1979, Reign of Terror 1981–85, Iran-Iraq War, 1988 Massacre, Chain Murders, Student Protests 1999, Green Movement 2009, Bloody November 2019, Woman Life Freedom 2022, 2026 Massacres
 
 ---
@@ -246,7 +277,7 @@ border-start: 2px solid;     /* NOT border-left */
 |-------|--------|---------|
 | No local PostgreSQL | ✅ Fixed | Local PostgreSQL synced from production via pg_dump. 31,203 victims. |
 | Middleware deprecation | ⚠️ Cosmetic | Next.js 16 warns about middleware → proxy migration. next-intl still uses middleware. Functional. |
-| No tests | ⚠️ Open | 0% coverage. |
+| Tests | ✅ Done | Vitest suite — 124 tests (lib, API, components). Run: `npm test`. SOP: `workflows/testing.md` |
 | Server disk at 95% | ⚠️ Critical | 2.0 GB free. Docker reclaimable: ~6.2 GB (images 2.4 GB + build cache 3.9 GB). Prune ASAP. |
 | Neda Soltan duplicate | ⚠️ Low | Two YAML entries for same person (different slugs). Low priority. |
 | Boroumand fetch | ✅ Complete | All 26,815 entries processed. 12,290 new in final run. Pipeline: gender → seed → dedup → deploy done. |
@@ -271,21 +302,21 @@ border-start: 2px solid;     /* NOT border-left */
 
 | Script | Purpose | Output |
 |--------|---------|--------|
-| `scripts/parse_wiki_wlf.py` | Wikipedia WLF table parser | 422 YAML files |
-| `scripts/parse_hrana_82day.py` | HRANA 82-Day PDF parser | 352 new victims |
-| `scripts/import_iranvictims_csv.py` | iranvictims.com CSV import | 3,752 victims |
-| `scripts/parse_amnesty_children.py` | Amnesty children report | 41 enriched + 3 new |
-| `scripts/dedup_victims.py` | Deduplication (3 strategies) | -206 duplicates |
-| `scripts/dedup_2026_internal.py` | Internal 2026 dedup (Farsi name) | -254 duplicates |
-| `scripts/scrape_boroumand.py` | Boroumand Foundation scraper (4 workers) | 26,815 entries (all processed) |
-| `scripts/extract-fields.ts` | AI field extraction (Claude Haiku / GPT-4o-mini) | 31,600 fields from 12,200 victims |
-| `scripts/extract-fields-regex.ts` | Pattern-based field extraction (no API) | 4,164 fields from 1,980 victims |
-| `scripts/dedup-sources.ts` | Source deduplication | -221,800 duplicate sources |
-| `scripts/seed-new-only.ts` | Create-only DB seed (no upsert) | Incremental DB population |
-| `scripts/sync-gender-to-db.ts` | Sync gender YAML → DB | 6,271 gender updates |
-| `scripts/infer_gender.py` | Gender inference from first names | ~500 Persian names, 100% coverage on named victims |
-| `scripts/dedup-db.ts` | DB-level dedup (named + Unknown text) | -3,786 duplicates (493 sources moved) |
-| `scripts/dedup-round5.ts` | Farsi normalization dedup (NULL-date + char variants) | -102 duplicates (68 sources moved) |
+| `tools/parse_wiki_wlf.py` | Wikipedia WLF table parser | 422 YAML files |
+| `tools/parse_hrana_82day.py` | HRANA 82-Day PDF parser | 352 new victims |
+| `tools/import_iranvictims_csv.py` | iranvictims.com CSV import | 3,752 victims |
+| `tools/parse_amnesty_children.py` | Amnesty children report | 41 enriched + 3 new |
+| `tools/dedup_victims.py` | Deduplication (3 strategies) | -206 duplicates |
+| `tools/dedup_2026_internal.py` | Internal 2026 dedup (Farsi name) | -254 duplicates |
+| `tools/scrape_boroumand.py` | Boroumand Foundation scraper (4 workers) | 26,815 entries (all processed) |
+| `tools/extract-fields.ts` | AI field extraction (Claude Haiku / GPT-4o-mini) | 31,600 fields from 12,200 victims |
+| `tools/extract-fields-regex.ts` | Pattern-based field extraction (no API) | 4,164 fields from 1,980 victims |
+| `tools/dedup-sources.ts` | Source deduplication | -221,800 duplicate sources |
+| `tools/seed-new-only.ts` | Create-only DB seed (no upsert) | Incremental DB population |
+| `tools/sync-gender-to-db.ts` | Sync gender YAML → DB | 6,271 gender updates |
+| `tools/infer_gender.py` | Gender inference from first names | ~500 Persian names, 100% coverage on named victims |
+| `tools/dedup-db.ts` | DB-level dedup (named + Unknown text) | -3,786 duplicates (493 sources moved) |
+| `tools/dedup-round5.ts` | Farsi normalization dedup (NULL-date + char variants) | -102 duplicates (68 sources moved) |
 
 ## Data Collection Status
 
@@ -345,5 +376,5 @@ Co-Authored-By: Claude <model> <noreply@anthropic.com>
 
 ---
 
-**Last Updated:** 2026-02-13
+**Last Updated:** 2026-02-14
 **Maintainer:** Pedram Holi

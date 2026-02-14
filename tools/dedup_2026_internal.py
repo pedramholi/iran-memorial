@@ -8,9 +8,9 @@ the richest file as the "winner," merges any unique data from the
 losers into the winner, then deletes the losers.
 
 Usage:
-    python3 scripts/dedup_2026_internal.py              # Dry-run report
-    python3 scripts/dedup_2026_internal.py --dry-run    # Same as above
-    python3 scripts/dedup_2026_internal.py --apply       # Actually merge + delete
+    python3 tools/dedup_2026_internal.py              # Dry-run report
+    python3 tools/dedup_2026_internal.py --dry-run    # Same as above
+    python3 tools/dedup_2026_internal.py --apply       # Actually merge + delete
 """
 
 import argparse

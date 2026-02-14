@@ -9,7 +9,7 @@ Finds YAML files that:
 Then fetches each detail page and extracts the photo URL.
 
 Usage:
-    python scripts/scrape_boroumand_photos.py [--dry-run] [--limit N] [--years 2021-2026]
+    python tools/scrape_boroumand_photos.py [--dry-run] [--limit N] [--years 2021-2026]
 """
 
 import os

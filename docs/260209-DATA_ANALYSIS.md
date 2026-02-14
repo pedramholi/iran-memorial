@@ -1,5 +1,7 @@
 # Phase 2A: Data Analysis Report — WLF Victims
 
+> **Hinweis (2026-02-14):** `scripts/` wurde zu `tools/` umbenannt (WAT-Framework). Historische Referenzen in diesem Dokument beziehen sich auf den alten Pfad.
+
 **Date:** 2026-02-09
 **Source:** Wikipedia "Deaths during the Mahsa Amini protests"
 **Method:** Automated parsing via `scripts/parse_wikipedia_wlf.py`

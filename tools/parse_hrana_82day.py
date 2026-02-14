@@ -4,7 +4,7 @@ Parse HRANA 82-day report (pdftotext output) to extract victim data.
 Compares against existing YAML files and creates missing ones.
 
 Usage:
-    python3 scripts/parse_hrana_82day.py [--dry-run]
+    python3 tools/parse_hrana_82day.py [--dry-run]
 
 Input: /tmp/hrana_82day_text.txt (pdftotext output)
 Output: YAML files in data/victims/2022/

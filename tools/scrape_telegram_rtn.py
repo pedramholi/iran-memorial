@@ -7,9 +7,9 @@ Extracts: post number, name (Farsi), date (Shamsi→Gregorian), location, age.
 Then creates YAML files for victims not already in our database.
 
 Usage:
-  python3 scripts/scrape_telegram_rtn.py scrape [--resume] [--limit N]
-  python3 scripts/scrape_telegram_rtn.py import [--dry-run]
-  python3 scripts/scrape_telegram_rtn.py stats
+  python3 tools/scrape_telegram_rtn.py scrape [--resume] [--limit N]
+  python3 tools/scrape_telegram_rtn.py import [--dry-run]
+  python3 tools/scrape_telegram_rtn.py stats
 """
 
 import argparse

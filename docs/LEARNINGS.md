@@ -142,7 +142,7 @@
 - **Symptom:** `urllib.request.urlopen()` schlägt fehl mit `SSL: CERTIFICATE_VERIFY_FAILED` beim Zugriff auf Wikipedia API
 - **Root Cause:** macOS Python-Installation hat keine System-Zertifikate konfiguriert. Bekanntes Problem bei `python.org`-Installationen.
 - **Fix:** `curl` als Fallback nutzen (hat eigene CA-Zertifikate), Output als Cache-File speichern, dann in Python einlesen.
-- **Prevention:** Parser-Scripts immer mit Cache-File-Fallback bauen (`scripts/.wiki_cache.txt`, in `.gitignore`).
+- **Prevention:** Parser-Scripts immer mit Cache-File-Fallback bauen (`tools/.wiki_cache.txt`, in `.gitignore`).
 
 ### BUG-005: Seed-Script ignoriert `province` aus YAML (2026-02-09)
 
@@ -169,7 +169,7 @@
 
 - **Symptom:** 251.118 Source-Einträge in DB, aber nur 29.318 unique (221.800 Duplikate)
 - **Root Cause:** `prisma/seed.ts` Zeile 184 — Source-Creation-Loop ohne vorheriges deleteMany. Jeder Seed-Run fügte alle Sources erneut hinzu.
-- **Fix:** (a) `scripts/dedup-sources.ts` für Cleanup (221.800 gelöscht), (b) `prisma/seed.ts`: `deleteMany({ where: { victimId } })` vor Source-Creation
+- **Fix:** (a) `tools/dedup-sources.ts` für Cleanup (221.800 gelöscht), (b) `prisma/seed.ts`: `deleteMany({ where: { victimId } })` vor Source-Creation
 - **Prevention:** Seed-Scripts müssen idempotent sein. Immer `deleteMany` vor Create-Loop.
 
 ---
@@ -184,7 +184,7 @@
 - **poppler für PDF-Parsing:** `pdftotext` (aus dem poppler-Paket) wird zum Extrahieren von Text aus NGO-PDFs benötigt. Installation: `brew install poppler` (macOS). Ohne poppler scheitern alle PDF-Import-Scripts.
 - **Server package-lock.json Divergenz:** `npm install` auf Server erzeugt lokale Änderungen in `package-lock.json` (andere npm-Version). `git stash` vor `git pull` nötig.
 - **Docker Disk-Usage:** Build-Cache wächst schnell. Vor `docker compose up --build` prüfen: `df -h /`. Bei >90% erst `docker system prune -a -f && docker builder prune --all -f`.
-- **tsconfig exclude für scripts/:** `scripts/` muss in `tsconfig.json` `exclude` stehen — OpenAI SDK Types sind mit ES2017 Target inkompatibel und brechen den Next.js Build.
+- **tsconfig exclude für tools/:** `tools/` muss in `tsconfig.json` `exclude` stehen — OpenAI SDK Types sind mit ES2017 Target inkompatibel und brechen den Next.js Build.
 - **.next/standalone/.env:** Build-Output kopiert `.env` in `.next/standalone/` — nie dieses Verzeichnis direkt deployen.
 
 ---
@@ -220,7 +220,7 @@
 - **Zod Schema Validation an API-Grenzen:** `z.object({...}).safeParse(body)` statt manuelle Checks. Gibt strukturierte Fehlermeldungen zurück (`fieldErrors`). Immer `.max()` auf Strings setzen um Memory-Exhaustion zu verhindern.
 - **Security Headers in next.config.ts:** `headers()` async function gibt Array von Header-Rules zurück. CSP muss `'unsafe-inline'` für Next.js enthalten (Inline-Styles). `frame-ancestors 'none'` ist stärker als X-Frame-Options.
 - **splitCircumstances() für lange Boroumand-Texte:** 3-Tier Paragraph-Splitting: (1) `\n\n`, (2) Section-Headers (Arrest, Trial, Charges...), (3) Satz-Grenzen alle ~500 Zeichen. Verhindert Wall-of-Text auf Opfer-Detailseiten.
-- **Name-based Dedup reicht für Erstimport:** `name.lower()` Matching fängt ~95% der Duplikate. Für die restlichen 5% (Transliterations-Varianten wie "Shirouzi" vs "Shirouzehi") braucht es ein dediziertes Dedup-Script. → Erledigt: `scripts/dedup_victims.py` hat 206 Duplikate in 4.581 Dateien gefunden (4.5%).
+- **Name-based Dedup reicht für Erstimport:** `name.lower()` Matching fängt ~95% der Duplikate. Für die restlichen 5% (Transliterations-Varianten wie "Shirouzi" vs "Shirouzehi") braucht es ein dediziertes Dedup-Script. → Erledigt: `tools/dedup_victims.py` hat 206 Duplikate in 4.581 Dateien gefunden (4.5%).
 - **Dedup-Scoring mit negativen Signalen:** Verschiedene Todesdaten (beide non-null) = -100 verhindert zuverlässig falsche Merges bei Namenszwillingen (z.B. "Mohammad Amini" in 2022 und 2026 — verschiedene Personen). Gleiches Farsi-Name (+50) + gleiches Todesdatum (+50) = fast sichere Duplikate.
 - **Union-Find für transitive Duplikat-Cluster:** Paarweise Duplikat-Erkennung erzeugt transitive Ketten (A≈B, B≈C → A,B,C sind ein Cluster). Union-Find gruppiert diese korrekt und verhindert Konflikte beim Merge (z.B. "Nima Khan Ahmadi" existierte 4x → 1 Cluster, 3 gelöscht).
 - **Province-Diskrepanz als Warnsignal:** iranvictims.com listet viele Opfer mit falscher/generischer Provinz (oft "Tehran" als Default). Gleicher Farsi-Name + verschiedene Provinz (score 35) ist kein sicherer Match — manuelle Prüfung aller 55 Paare ergab 27 echte Duplikate und 28 verschiedene Personen (49% false positive rate bei Score 30-49).
@@ -263,7 +263,7 @@ Die bestehenden YAML-Dateien verwenden ein flaches Format mit verschachtelten Ob
 
 ### Wikipedia-Import: Erkenntnisse aus Phase 2A (2026-02-09)
 
-**Script:** `scripts/parse_wikipedia_wlf.py` — parst Wikipedia-Wikitext via API → YAML-Dateien.
+**Script:** `tools/parse_wikipedia_wlf.py` — parst Wikipedia-Wikitext via API → YAML-Dateien.
 
 **Namens-Transliteration ist das größte Datenqualitätsproblem:**
 - Viele Opfer haben 2-3 Schreibvarianten (z.B. "Shirouzi / Shiroozehi", "Mohammadpour / Mahmoudpour")
@@ -279,7 +279,7 @@ Die bestehenden YAML-Dateien verwenden ein flaches Format mit verschachtelten Ob
 **Feldabdeckung aus Wikipedia allein:**
 - 100%: Name, 99%: Datum + Ort, 96%: Provinz (auto-gemappt)
 - 30%: Alter, 27%: Todesursache, 29%: Umstände
-- 100%: Geschlecht (via `scripts/infer_gender.py`, ~500 Namen in 6 Passes)
+- 100%: Geschlecht (via `tools/infer_gender.py`, ~500 Namen in 6 Passes)
 - 0%: Farsi-Name, Ethnie, Foto, Beruf, Familie, alle "Life"-Felder
 
 **City-to-Province Mapping:** Manuell gepflegt in `determine_province()` — ~80 Städte gemappt. Bei neuen Importen erweitern.
@@ -314,10 +314,10 @@ Die 551 Toten (IHR, Stand Sept. 2023) sind das **verifizierte Minimum**, nicht d
 
 **Erledigte Quellen-Importe:**
 1. ~~Wikipedia "Deaths during" — Re-Parse auf Lücken~~ → ERLEDIGT: Nur 1 Tabelle mit 422 Zeilen, Parser hat alles erfasst
-2. ~~HRANA 82-Day Report~~ → ERLEDIGT: 352 neue Opfer importiert (scripts/parse_hrana_82day.py)
-3. ~~iranvictims.com CSV~~ → ERLEDIGT: 3.752 Opfer der 2025-2026 Proteste (scripts/import_iranvictims_csv.py)
+2. ~~HRANA 82-Day Report~~ → ERLEDIGT: 352 neue Opfer importiert (tools/parse_hrana_82day.py)
+3. ~~iranvictims.com CSV~~ → ERLEDIGT: 3.752 Opfer der 2025-2026 Proteste (tools/import_iranvictims_csv.py)
 4. ~~IHR One-Year Report~~ → BLOCKIERT: Cloudflare, aber Coverage bereits > IHR 551
-5. ~~Deduplizierung~~ → ERLEDIGT: 206 Duplikate entfernt (scripts/dedup_victims.py), 4.581 → 4.375
+5. ~~Deduplizierung~~ → ERLEDIGT: 206 Duplikate entfernt (tools/dedup_victims.py), 4.581 → 4.375
 
 **Noch offene Quellen:**
 
@@ -341,7 +341,7 @@ Vor jedem Import gegen diese 5 Opferkategorien prüfen:
 
 ### Deduplizierung: Ergebnisse und Erkenntnisse (2026-02-09)
 
-**Script:** `scripts/dedup_victims.py` — findet und merged Duplikate via 3 Strategien + Scoring.
+**Script:** `tools/dedup_victims.py` — findet und merged Duplikate via 3 Strategien + Scoring.
 
 **Ergebnis:** 4.581 → 4.375 Opfer (206 Duplikate entfernt, 0 Fehler)
 - 158 Cluster in Runde 1 (davon 14 mit 3+ Dateien, z.B. Nika Shakarami 3x, Mohammad Mehdi Karami 3x)
@@ -387,7 +387,7 @@ Vor jedem Import gegen diese 5 Opferkategorien prüfen:
 
 ### Boroumand Foundation Import (2026-02-09)
 
-**Script:** `scripts/scrape_boroumand.py` — 4-Phasen HTML-Scraper für iranrights.org/memorial.
+**Script:** `tools/scrape_boroumand.py` — 4-Phasen HTML-Scraper für iranrights.org/memorial.
 
 **Ergebnis:** 203 YAML-Dateien angereichert (64 Farsi-Namen, 33 Fotos, 202 Source-Links)
 - 27.202 Opfer in Boroumand-DB (6× unsere DB), aber Overlap nur ~419 Name-Matches
@@ -466,7 +466,7 @@ IHR und HRANA haben eigene Datenformate. Pro Import-Quelle ein eigenes Mapping-S
 
 - **Symptom:** 3.786 Duplikate in DB, aber nur 1.176 davon hatten YAML-Dateien. ~2.610 Duplikate existierten nur in der DB.
 - **Root Cause:** Mehrere Runs von `seed-new-only.ts` und `prisma db seed` (upsert) gegen dieselbe DB. Boroumand-Einträge mit leicht verschiedenen Slugs aus verschiedenen Scrape-Runs → gleiche Person, verschiedene DB-Einträge.
-- **Fix:** `scripts/dedup-db.ts` — Scoring-basiertes Dedup: Non-null-Felder zählen, besten Eintrag behalten, Felder + Sources mergen, Rest löschen. 3.100 Named-Gruppen (Farsi-Name + Todesdatum) + 117 Unknown-Gruppen (gleicher Text).
+- **Fix:** `tools/dedup-db.ts` — Scoring-basiertes Dedup: Non-null-Felder zählen, besten Eintrag behalten, Felder + Sources mergen, Rest löschen. 3.100 Named-Gruppen (Farsi-Name + Todesdatum) + 117 Unknown-Gruppen (gleicher Text).
 - **Prevention:** DB-Level-Dedup als fester Pipeline-Schritt nach jedem Batch-Import. Scraper sollte vor dem Erstellen neuer Einträge die DB auf Farsi-Name + Todesdatum prüfen.
 
 ---
@@ -474,7 +474,7 @@ IHR und HRANA haben eigene Datenformate. Pro Import-Quelle ein eigenes Mapping-S
 ## Patterns That Work (Ergänzung 2026-02-13)
 
 - **Create-only Seed (seed-new-only.ts):** Bei inkrementellen Imports nie `upsert` verwenden — das überschreibt AI-extrahierte Felder die nur in der DB, nicht im YAML existieren. Stattdessen: alle existierenden Slugs laden → `findUnique` → nur `create` für neue.
-- **Farsi-Name-basierte Duplikat-Erkennung:** Lateinische Transliterationen haben zu viele Varianten (Bayat/Bayati, Menbari/Monbari). Farsi-Name normalisieren (ZWNJ, Diacritics, Kaf/Yeh-Varianten entfernen) → zuverlässigste Matching-Methode. Implementiert in `scripts/dedup_2026_internal.py`.
+- **Farsi-Name-basierte Duplikat-Erkennung:** Lateinische Transliterationen haben zu viele Varianten (Bayat/Bayati, Menbari/Monbari). Farsi-Name normalisieren (ZWNJ, Diacritics, Kaf/Yeh-Varianten entfernen) → zuverlässigste Matching-Methode. Implementiert in `tools/dedup_2026_internal.py`.
 - **Parallel Scraping mit ThreadPoolExecutor:** 4 Worker × 1s Delay = ~100 Entries/min statt 13/min (8× schneller). Fetch parallel, YAML-Erstellung sequentiell (Slug-Eindeutigkeit). Batch-Größe = Worker × 4.
 - **Source-Merge bei Duplikat-Löschung:** Beim Löschen von Duplikaten immer unique Sources (Twitter/Telegram-Links) in das Original mergen. iranvictims.com hat oft Primärquellen die Boroumand nicht hat.
 - **`unoptimized` für externe Bilder hinter Cloudflare:** Next.js Image Optimization proxied Bilder serverseitig — Datacenter-IPs werden von Cloudflare geblockt (`cf-mitigated: challenge`). Mit `unoptimized` Prop fetcht der Browser direkt → Cloudflare-Challenge wird im Browser gelöst. Trade-off: keine WebP/AVIF-Konvertierung, aber Bilder werden überhaupt angezeigt.
@@ -497,4 +497,23 @@ IHR und HRANA haben eigene Datenformate. Pro Import-Quelle ein eigenes Mapping-S
 
 ---
 
-*Letzte Aktualisierung: 2026-02-13 (Dedup ×6 + AI+Regex 35.764 Felder + Event-Links 59.2% + Prod-DB sync: 31.203 Victims)*
+### AD-012: Vitest Test Suite mit 4-Tier-Struktur (2026-02-14)
+
+- **Decision:** Vitest 4 mit jsdom + @testing-library/react für 4-Tier Test Suite (Pure Functions → Schema → API Routes → Components)
+- **Alternatives:** Jest, Playwright (E2E), Bun Test, keine Tests
+- **Rationale:** Vitest ist Vite-nativ (gleiche Transform-Pipeline wie Next.js), schneller als Jest, native TypeScript/ESM-Unterstützung. @testing-library/react v16 unterstützt React 19.
+- **Outcome:**
+  - 124 Tests in 11 Dateien, Laufzeit <1.2s
+  - Tier 1 (Pure Functions): 43 Tests — formatDate, localized(), mapRawVictims(), rateLimit — keine Mocks
+  - Tier 2+3 (Schema + API): 35 Tests — Zod-Schema direkt, Route-Handler mit vi.mock
+  - Tier 4 (Components): 46 Tests — VictimCard, SearchBar, LanguageSwitcher, Header, FilterBar
+  - SOP: `workflows/testing.md`
+- **Test-Patterns:**
+  - `vi.mock()` mit `vi.fn()` in Factory + `vi.mocked()` nach Import für Hooks
+  - `require("react").createElement()` statt JSX in `vi.mock()` Factories (Hoisting-Safety)
+  - `vi.useFakeTimers()` für deterministische Zeit-Tests (rate-limit)
+  - Inline Zod-Schema für Schema-Tests (keine Import-Abhängigkeit zur Route)
+
+---
+
+*Letzte Aktualisierung: 2026-02-14 (WAT-Restructuring + Vitest 124 Tests)*

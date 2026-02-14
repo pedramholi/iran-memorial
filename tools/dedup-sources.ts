@@ -6,8 +6,8 @@
  * for each (victim_id, name, url) combination and deletes the rest.
  *
  * Usage:
- *   npx tsx scripts/dedup-sources.ts           # Execute deduplication
- *   npx tsx scripts/dedup-sources.ts --dry-run  # Preview without deleting
+ *   npx tsx tools/dedup-sources.ts           # Execute deduplication
+ *   npx tsx tools/dedup-sources.ts --dry-run  # Preview without deleting
  */
 
 import { PrismaClient } from "@prisma/client";

@@ -10,11 +10,11 @@ Phases:
   5. import-new  — Create new YAML files for unmatched entries
 
 Usage:
-  python scripts/scrape_boroumand.py browse [--start N] [--end N] [--resume]
-  python scripts/scrape_boroumand.py match
-  python scripts/scrape_boroumand.py detail [--limit N] [--force]
-  python scripts/scrape_boroumand.py enrich [--dry-run]
-  python scripts/scrape_boroumand.py import-new [--years 2022-2026] [--limit N] [--dry-run] [--resume]
+  python tools/scrape_boroumand.py browse [--start N] [--end N] [--resume]
+  python tools/scrape_boroumand.py match
+  python tools/scrape_boroumand.py detail [--limit N] [--force]
+  python tools/scrape_boroumand.py enrich [--dry-run]
+  python tools/scrape_boroumand.py import-new [--years 2022-2026] [--limit N] [--dry-run] [--resume]
 
 Year → Page mapping (ascending by date):
   Pages   1– 15: Unknown date

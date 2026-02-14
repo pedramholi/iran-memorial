@@ -7,11 +7,11 @@
  * Updates both the PostgreSQL database and the corresponding YAML files.
  *
  * Usage:
- *   npx tsx scripts/extract-fields.ts                    # Full run
- *   npx tsx scripts/extract-fields.ts --dry-run           # Preview extraction for first 5
- *   npx tsx scripts/extract-fields.ts --limit 100         # Process first 100
- *   npx tsx scripts/extract-fields.ts --resume            # Resume from last progress
- *   npx tsx scripts/extract-fields.ts --dry-run --limit 3 # Quick test
+ *   npx tsx tools/extract-fields.ts                    # Full run
+ *   npx tsx tools/extract-fields.ts --dry-run           # Preview extraction for first 5
+ *   npx tsx tools/extract-fields.ts --limit 100         # Process first 100
+ *   npx tsx tools/extract-fields.ts --resume            # Resume from last progress
+ *   npx tsx tools/extract-fields.ts --dry-run --limit 3 # Quick test
  *
  * Requires: ANTHROPIC_API_KEY environment variable
  */

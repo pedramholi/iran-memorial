@@ -6,9 +6,9 @@
  * Only fills fields that are currently null/empty.
  *
  * Usage:
- *   npx tsx scripts/extract-fields-regex.ts                    # Full run
- *   npx tsx scripts/extract-fields-regex.ts --dry-run           # Preview only
- *   npx tsx scripts/extract-fields-regex.ts --limit 10          # First 10
+ *   npx tsx tools/extract-fields-regex.ts                    # Full run
+ *   npx tsx tools/extract-fields-regex.ts --dry-run           # Preview only
+ *   npx tsx tools/extract-fields-regex.ts --limit 10          # First 10
  */
 
 import { PrismaClient } from "@prisma/client";

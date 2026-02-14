@@ -4,7 +4,7 @@ Parse Wikipedia "Deaths during the Mahsa Amini protests" wikitext
 into individual YAML victim files for the iran-memorial project.
 
 Usage:
-    python3 scripts/parse_wikipedia_wlf.py
+    python3 tools/parse_wikipedia_wlf.py
 
 Input: Fetches wikitext via Wikipedia API (or reads from cached file)
 Output: YAML files in data/victims/2022/

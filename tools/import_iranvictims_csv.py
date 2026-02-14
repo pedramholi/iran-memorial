@@ -3,7 +3,7 @@
 Import iranvictims.com CSV into YAML victim files for the iran-memorial project.
 
 Usage:
-    python3 scripts/import_iranvictims_csv.py [--dry-run]
+    python3 tools/import_iranvictims_csv.py [--dry-run]
 
 Input: data/victims/iranvictims_2026.csv
 Output: YAML files in data/victims/2025/ and data/victims/2026/

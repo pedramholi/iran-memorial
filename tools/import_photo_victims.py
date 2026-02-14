@@ -7,9 +7,9 @@ in our YAML yet, fetches their detail pages (EN + FA), and creates
 YAML files.
 
 Usage:
-  python scripts/import_photo_victims.py --dry-run    # Preview
-  python scripts/import_photo_victims.py               # Run
-  python scripts/import_photo_victims.py --resume      # Resume after interrupt
+  python tools/import_photo_victims.py --dry-run    # Preview
+  python tools/import_photo_victims.py               # Run
+  python tools/import_photo_victims.py --resume      # Resume after interrupt
 """
 
 import argparse

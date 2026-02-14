@@ -3,6 +3,8 @@
 > Gestartet: 2026-02-09
 > Ansatz: Datengetriebene Iteration — WLF-Bewegung als Testfall
 
+> **Hinweis (2026-02-14):** `scripts/` wurde zu `tools/` umbenannt (WAT-Framework). Historische Referenzen in diesem Log beziehen sich auf den alten Pfad.
+
 ---
 
 ## Phase 2A: Daten sammeln & analysieren
@@ -1429,5 +1431,73 @@ Deploy: docker compose up --force-recreate (ISR-Cache erneuert)
 
 ---
 
+---
+
+## Phase 4: WAT-Restructuring + Test Suite
+
+---
+
+#### LOG-P4-001 | 2026-02-14 | WAT FRAMEWORK RESTRUCTURING
+
+**Was:** Repo nach WAT-Framework (Workflows, Agents, Tools) umstrukturiert
+**Warum:** Klare Trennung von AI-Reasoning (Workflows) und deterministischer Ausführung (Tools)
+
+```
+Änderungen:
+  1. scripts/ → tools/ umbenannt (20 Dateien)
+  2. tsconfig.json: exclude "scripts" → "tools" (Build-kritisch)
+  3. .gitignore: 11 Cache-Pfade aktualisiert, .tmp/ hinzugefügt
+  4. CLAUDE.md: WAT-Section, 3 neue AI-Prinzipien (#11-13), Projektstruktur aktualisiert
+  5. docs/LEARNINGS.md: Alle scripts/ → tools/ Referenzen
+  6. 19 Tool-Scripts: Usage-Kommentare aktualisiert
+  7. workflows/ erstellt: data-import.md, dedup-pipeline.md, deploy.md
+  8. .tmp/ erstellt (gitignored, für temporäre Processing-Files)
+
+Verifiziert: npm run build ✅, keine kaputten Referenzen in App-Code
+```
+
+---
+
+#### LOG-P4-002 | 2026-02-14 | VITEST TEST SUITE: 124 TESTS
+
+**Was:** Vollständige Test Suite mit Vitest aufgebaut — 124 Tests in 11 Dateien
+**Warum:** 0% Test-Coverage → strukturierte Tests für Regression Prevention
+
+```
+Infrastruktur:
+  - vitest 4.0.18, @testing-library/react 16, jsdom, @vitejs/plugin-react
+  - vitest.config.ts: jsdom, @/* Alias, v8 Coverage, JSON-Reporter
+  - __tests__/setup.ts: jest-dom Matcher
+  - __tests__/helpers/: fixtures.ts, mock-next-intl.ts, mock-navigation.ts
+
+Tier 1 — Pure Functions (43 Tests):
+  - utils.test.ts (23): formatDate, formatDateRange, formatNumber, formatKilledRange
+  - queries.test.ts (12): localized() + mapRawVictims()
+  - rate-limit.test.ts (8): Sliding Window, IP-Isolation, Window-Reset
+
+Tier 2+3 — Schema + API Routes (35 Tests):
+  - submit-schema.test.ts (15): Zod-Validierung, Edge Cases
+  - search-route.test.ts (10): GET /api/search, Rate-Limit, IP-Extraktion
+  - submit-route.test.ts (10): POST /api/submit, Validation, DB-Fehler
+
+Tier 4 — Components (46 Tests):
+  - VictimCard.test.tsx (16): Name-Logik, Locale, Photo/Fallback, Verified Badge
+  - SearchBar.test.tsx (8): Form Submit, URL-Encoding, Styling
+  - LanguageSwitcher.test.tsx (6): Locale-Switching, Active State
+  - Header.test.tsx (6): Nav Items, Mobile Menu Toggle
+  - FilterBar.test.tsx (10): Province/Year/Gender, URL-Params, Clear Filters
+
+Dokumentation:
+  - workflows/testing.md: Test-Workflow SOP mit Patterns und TODOs
+  - CLAUDE.md: Known Issues + Essential Commands aktualisiert
+
+Quellcode-Änderung:
+  - lib/queries.ts: mapRawVictims() exportiert (für direkte Unit Tests)
+
+Ergebnis: 124/124 Tests bestanden, <1.2s Laufzeit
+```
+
+---
+
 *Erstellt: 2026-02-09*
-*Letzte Aktualisierung: 2026-02-13 (Phase 3: 31.203 Victims, Dedup ×6, AI+Regex 35.764 Felder, Event-Links 59.2%, Prod-DB sync)*
+*Letzte Aktualisierung: 2026-02-14 (Phase 4: WAT-Restructuring + Vitest 124 Tests)*

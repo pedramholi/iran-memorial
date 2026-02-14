@@ -6,8 +6,8 @@
  * 2. Same Latin name + death date with Farsi character variants (ZWNJ, ئی/یی, ک/ك, etc.)
  *
  * Usage:
- *   npx tsx scripts/dedup-round5.ts --dry-run    # Preview
- *   npx tsx scripts/dedup-round5.ts              # Execute
+ *   npx tsx tools/dedup-round5.ts --dry-run    # Preview
+ *   npx tsx tools/dedup-round5.ts              # Execute
  */
 
 import { PrismaClient } from "@prisma/client";

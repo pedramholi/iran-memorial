@@ -5,8 +5,8 @@
  * Only updates gender field, leaves all other fields untouched.
  *
  * Usage:
- *   npx tsx scripts/sync-gender-to-db.ts              # Full run
- *   npx tsx scripts/sync-gender-to-db.ts --dry-run     # Preview only
+ *   npx tsx tools/sync-gender-to-db.ts              # Full run
+ *   npx tsx tools/sync-gender-to-db.ts --dry-run     # Preview only
  */
 
 import { PrismaClient } from "@prisma/client";

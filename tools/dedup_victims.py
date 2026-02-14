@@ -11,8 +11,8 @@ Scores candidates using death date, province, age, Farsi name.
 Different death dates (both non-null) = NEVER merge.
 
 Usage:
-    python3 scripts/dedup_victims.py              # Dry-run report
-    python3 scripts/dedup_victims.py --apply       # Merge duplicates
+    python3 tools/dedup_victims.py              # Dry-run report
+    python3 tools/dedup_victims.py --apply       # Merge duplicates
 """
 
 import os

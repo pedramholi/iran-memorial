@@ -10,7 +10,7 @@ Matching strategy:
   2. Name match: Normalized name comparison (word-order-independent)
 
 Usage:
-    python scripts/scrape_iranvictims_photos.py [--dry-run] [--cache FILE] [--years 2021-2026]
+    python tools/scrape_iranvictims_photos.py [--dry-run] [--cache FILE] [--years 2021-2026]
 """
 
 import os

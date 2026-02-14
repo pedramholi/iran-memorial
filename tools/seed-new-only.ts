@@ -6,8 +6,8 @@
  * This protects AI-extracted fields that exist in DB but not in YAML.
  *
  * Usage:
- *   npx tsx scripts/seed-new-only.ts              # Full run
- *   npx tsx scripts/seed-new-only.ts --dry-run     # Preview only
+ *   npx tsx tools/seed-new-only.ts              # Full run
+ *   npx tsx tools/seed-new-only.ts --dry-run     # Preview only
  */
 
 import { PrismaClient } from "@prisma/client";

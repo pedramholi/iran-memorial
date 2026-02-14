@@ -12,8 +12,8 @@
  * - Deletes losers from DB + YAML files
  *
  * Usage:
- *   npx tsx scripts/dedup-db.ts              # Full run
- *   npx tsx scripts/dedup-db.ts --dry-run    # Preview only
+ *   npx tsx tools/dedup-db.ts              # Full run
+ *   npx tsx tools/dedup-db.ts --dry-run    # Preview only
  */
 
 import { PrismaClient } from "@prisma/client";

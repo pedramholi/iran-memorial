@@ -301,7 +301,7 @@ export async function searchVictims(query: string, limit = 20) {
 }
 
 /** Map snake_case raw SQL rows to camelCase Prisma-style objects */
-function mapRawVictims(rows: any[]) {
+export function mapRawVictims(rows: any[]) {
   return rows.map((r) => ({
     id: r.id,
     slug: r.slug,

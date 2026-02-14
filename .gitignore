@@ -42,15 +42,21 @@ next-env.d.ts
 # prisma
 prisma/migrations/migration_lock.toml
 
-# script caches
-scripts/.wiki_cache.txt
-scripts/.boroumand_cache/
-scripts/boroumand_master.json
-scripts/boroumand_matches.json
-scripts/boroumand_details.json
-scripts/__pycache__/
-scripts/.boroumand_photo_cache/
-scripts/.boroumand_photo_progress.json
-scripts/.iranvictims_photos_cache.json
-scripts/.telegram_rtn_cache/
+# tool caches
+tools/.wiki_cache.txt
+tools/.boroumand_cache/
+tools/boroumand_master.json
+tools/boroumand_matches.json
+tools/boroumand_details.json
+tools/__pycache__/
+tools/.boroumand_photo_cache/
+tools/.boroumand_photo_progress.json
+tools/.iranvictims_photos_cache.json
+tools/.telegram_rtn_cache/
 .extract-progress.json
+
+# temporary processing files
+.tmp/
+
+# test output
+test-results.json

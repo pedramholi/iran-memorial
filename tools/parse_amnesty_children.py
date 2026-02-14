@@ -10,7 +10,7 @@ Extracts 44 child victims and enriches existing YAML files with:
 - Amnesty as additional source
 
 Usage:
-    python3 scripts/parse_amnesty_children.py [--dry-run]
+    python3 tools/parse_amnesty_children.py [--dry-run]
 """
 
 import os

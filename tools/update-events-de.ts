@@ -2,7 +2,7 @@
  * Update German translations for events in the database.
  * Reads title_de and description_de from timeline.yaml and updates the DB.
  *
- * Usage: npx tsx scripts/update-events-de.ts
+ * Usage: npx tsx tools/update-events-de.ts
  * Requires: DATABASE_URL env var or SSH tunnel to server DB
  */
 
