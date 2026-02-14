@@ -48,7 +48,7 @@ tools/.boroumand_cache/
 tools/boroumand_master.json
 tools/boroumand_matches.json
 tools/boroumand_details.json
-tools/__pycache__/
+__pycache__/
 tools/.boroumand_photo_cache/
 tools/.boroumand_photo_progress.json
 tools/.iranvictims_photos_cache.json
