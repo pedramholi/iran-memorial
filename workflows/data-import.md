@@ -22,10 +22,11 @@ Opferdaten aus einer neuen Quelle importieren, deduplizieren und in die Produkti
 | Quelltyp | Aktives Tool (Enricher) | Historische Referenz (Legacy) |
 |----------|------------------------|------------------------------|
 | Wikipedia-Tabelle | `enricher/sources/wikipedia_wlf.py` | `legacy/parse_wikipedia_wlf.py` |
-| CSV-Export | — | `legacy/import_iranvictims_csv.py` |
+| CSV-Export | `enricher/sources/iranvictims.py` | `legacy/import_iranvictims_csv.py` |
 | PDF-Report | — | `legacy/parse_hrana_82day.py`, `legacy/parse_amnesty_children.py` |
 | HTML-Scrape | `enricher/sources/boroumand.py` | `legacy/scrape_boroumand.py` |
-| iranvictims.com | `enricher/sources/iranvictims.py` | `legacy/scrape_iranvictims_photos.py` |
+| Supabase REST API | `enricher/sources/iranrevolution.py` | — |
+| iranvictims.com (Foto-Scrape) | — | `legacy/scrape_iranvictims_photos.py` |
 
 ### 3. Enrichment durchführen
 ```bash
@@ -44,11 +45,21 @@ Siehe auch `workflows/dedup-pipeline.md`
 - `SELECT COUNT(*) FROM "Victim"` — Zahl prüfen
 - Stichprobe auf der Website: `http://localhost:3000/en/victims/`
 
+## Verfügbare Plugins
+
+| Plugin | Quelle | Felder | Besonderheit |
+|--------|--------|--------|-------------|
+| `boroumand` | iranrights.org/memorial (HTML) | Name FA/EN, Foto, Umstände, Quellen | 26K historische Opfer |
+| `iranvictims` | iranvictims.com/victims.csv | Name, Alter, Ort, Datum, Status, Quellen, Notizen | CSV-basiert, filtert `killed` |
+| `iranrevolution` | iranrevolution.online (Supabase) | Name FA/EN, Ort, Datum, Bio EN/FA, Foto | Einzige Quelle mit `circumstances_fa` |
+| `wikipedia_wlf` | Wikipedia WLF-Tabelle | Name, Ort, Datum, Umstände | ~420 Opfer |
+
 ## Edge Cases
 - **Cloudflare-Blockade:** Wayback Machine als Fallback (`web.archive.org/web/URL`)
 - **SSL-Fehler auf macOS:** `curl` als Fallback, Cache-File speichern
 - **YAML-ID als Zahl geparst:** IDs mit `-` Prefix immer in Anführungszeichen oder `String()` Coercion
 - **Bezahlte API-Calls:** Vor erneutem Laufen nach Fehler immer nachfragen
+- **Supabase API:** Anon Key als `extra_headers` übergeben, Paginierung via `Range` Header (0-999, 1000-1999, ...)
 
 ## Dokumentation
 - Eintrag in `docs/LEARNINGS.md` (Data Import Notes)

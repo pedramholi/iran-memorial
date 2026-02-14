@@ -82,7 +82,7 @@ A digital memorial for the victims of the Islamic Republic of Iran (1979–prese
 | i18n | next-intl (URL-based: `/fa/`, `/en/`, `/de/`) |
 | Styling | Tailwind CSS v4 (`@tailwindcss/postcss`) |
 | Validation | Zod (API input validation) |
-| Testing | Vitest + Testing Library (124 tests) |
+| Testing | Vitest + Testing Library (124 tests) + pytest (53 enricher tests) |
 | Container | Docker Compose (PostgreSQL + App) |
 | Webserver | Nginx (reverse proxy, Cloudflare) |
 | Data Pipeline | Python asyncpg + aiohttp (`tools/enricher/`) |
@@ -131,8 +131,9 @@ iran-memorial/
 │   │   ├── cli.py               # CLI: enrich, check, dedup, status, list
 │   │   ├── db/                  # pool, queries, models (asyncpg)
 │   │   ├── pipeline/            # orchestrator, matcher, enricher, dedup
-│   │   ├── sources/             # boroumand, iranvictims, wikipedia_wlf
-│   │   └── utils/               # farsi, latin, http, progress
+│   │   ├── sources/             # boroumand, iranvictims, iranrevolution, wikipedia_wlf
+│   │   ├── tests/               # pytest test suite (53 tests)
+│   │   └── utils/               # farsi, latin, http, progress, provinces
 │   └── legacy/                  # Historical one-shot scripts (Phase 1–3)
 ├── workflows/                   # WAT: Markdown SOPs
 │   ├── data-import.md           # Enricher-based import workflow
@@ -182,10 +183,13 @@ npm run dev                    # Next.js dev (Turbopack, port 3000)
 npm run build                  # Production build
 npm run lint                   # ESLint
 
-# Testing
+# Testing (Frontend — Vitest)
 npm test                       # 124 Vitest tests
 npm run test:watch             # Watch mode
 npm run test:coverage          # v8 coverage report
+
+# Testing (Enricher — pytest)
+python3 -m pytest tools/enricher/tests/ -v   # 53 pytest tests
 
 # Database
 npx prisma generate            # Regenerate client after schema changes
@@ -307,8 +311,9 @@ POSTGRES_PASSWORD=memorial_dev_password
 | v0.3.0 | 2026-02-12 | Phase 2C: Deployment + AI enrichment, security hardening |
 | v0.4.0 | 2026-02-13 | Phase 3: Boroumand historical — 31,203 victims, 5,318 dedups removed |
 | v0.5.0 | 2026-02-14 | Enricher framework, Multi-Photo, Dedup (30,795), Timeline, force-dynamic, WAT cleanup |
+| v0.5.1 | 2026-02-14 | Enricher upgrade: iranvictims CSV, iranrevolution plugin, circumstances_fa, provinces utility, 53 pytest tests |
 
-**Current:** v0.5.0 | 30,795 victims | 43K+ sources | 4,942 photos | 124 tests | Live at memorial.n8ncloud.de
+**Current:** v0.5.1 | 30,795 victims | 43K+ sources | 4,942 photos | 124 Vitest + 53 pytest tests | Live at memorial.n8ncloud.de
 
 ---
 

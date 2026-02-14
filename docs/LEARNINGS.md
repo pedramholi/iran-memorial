@@ -533,4 +533,53 @@ IHR und HRANA haben eigene Datenformate. Pro Import-Quelle ein eigenes Mapping-S
 
 ---
 
-*Letzte Aktualisierung: 2026-02-14 (Statistics Bar Chart Fixes + WAT-Restructuring)*
+---
+
+## Enricher Framework Upgrade (2026-02-14)
+
+### Neue/Aktualisierte Plugins
+
+#### iranvictims.com — CSV-basierter Import (Upgrade)
+- **Vorher:** HTML-Scraping, nur 3 Felder (name_en, name_fa, photo)
+- **Nachher:** CSV-Download von `iranvictims.com/victims.csv`, 7 Felder + Notizen
+- **Felder:** Card ID→source_id, English Name→name_latin, Persian Name→name_farsi, Age→age_at_death, Location→place_of_death+province, Date→date_of_death, Notes→circumstances_en
+- **Filter:** Nur `status=killed` wird importiert (arrested/detained ignoriert)
+- **4.791 Einträge** im CSV verfügbar
+
+#### iranrevolution.online — Supabase REST API (Neu)
+- **Quelle:** Öffentliche Supabase DB (`umkenikezuigjqspgaub.supabase.co/rest/v1/memorials`)
+- **API:** Öffentlicher Anon Key (im Frontend-JS sichtbar), Paginierung via `Range` Header (1000er Batches)
+- **Besonderheit:** Einzige Quelle mit `bio_fa` — Farsi-Umstände (circumstances_fa)
+- **Felder:** id→source_id, name→name_latin, name_fa→name_farsi, city→place_of_death+province, date→date_of_death, bio→circumstances_en, bio_fa→circumstances_fa, media.photo→photo_url
+
+### Shared Province Mapping (`utils/provinces.py`)
+- **Extrahiert** aus boroumand.py, erweitert von 10 auf **72 Städte**
+- **Genutzt von:** boroumand, iranvictims, iranrevolution Plugins
+- **Funktion:** `extract_province(location)` — case-insensitive Substring-Match gegen PROVINCE_MAP
+
+### circumstances_fa Pipeline-Erweiterung
+- **ExternalVictim** (`db/models.py`): Neues Feld `circumstances_fa: Optional[str]`
+- **Enricher** (`pipeline/enricher.py`): `circumstances_fa` in Feld-Check-Listen + Ergebnis-Tuple (Position 14)
+- **SQL** (`db/queries.py`): ENRICH_VICTIM UPDATE mit CASE-Logik (NULL-fill + 1.5× Längenersetzung wie bei circumstances_en)
+- **LOAD_VICTIMS** SELECT: circumstances_fa hinzugefügt
+
+### fetch_with_retry Erweiterung (`utils/http.py`)
+- Neuer Parameter `extra_headers: Optional[dict[str, str]]` für API-Key-Authentifizierung (Supabase benötigt `apikey` Header)
+
+### Python Enricher Test Suite
+- **53 Tests** in 4 Dateien, Laufzeit 0.21s
+- `test_provinces.py` — 8 Tests (Province-Mapping: exact, case-insensitive, substring, None/empty)
+- `test_iranvictims.py` — 26 Tests (CSV-Parsing, Age, Date, URL-Parsing, Edge Cases)
+- `test_iranrevolution.py` — 10 Tests (Supabase Record-Parsing, Farsi-Only, None Media, Province)
+- `test_enricher_pipeline.py` — 9 Tests (circumstances_fa Fill/No-Overwrite, Tuple-Length, count_new_fields)
+- **Framework:** pytest (gleich wie hotel-price-crawler)
+- **Alle Tests bestanden:** 53/53 passed ✅
+
+### Technische Erkenntnisse
+- **Supabase Reverse-Engineering:** Anon Key + Tabellen-Name aus minifiziertem Frontend-JS extrahierbar
+- **Tuple-Index-Fehler:** Bei Erweiterung des Enricher-Tuples um neue Felder verschieben sich alle nachfolgenden Indizes — Tests müssen die genauen Positionen prüfen (id=0, ..., circumstances_en=13, circumstances_fa=14, event_context=15, responsible_forces=16)
+- **extra_headers in fetch_with_retry:** Supabase REST API braucht `apikey` Header, nicht Query-Parameter — bestehende HTTP-Utility musste erweitert werden
+
+---
+
+*Letzte Aktualisierung: 2026-02-14 (Enricher Upgrade: iranvictims CSV + iranrevolution + circumstances_fa + 53 Tests)*

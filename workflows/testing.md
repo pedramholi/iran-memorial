@@ -155,11 +155,57 @@ npm run test:coverage
 
 ---
 
+## Python Enricher Tests (pytest)
+
+The enricher data pipeline has its own test suite using pytest.
+
+### Running Enricher Tests
+
+```bash
+python3 -m pytest tools/enricher/tests/ -v        # All enricher tests (53)
+python3 -m pytest tools/enricher/tests/test_provinces.py -v   # Province mapping only
+python3 -m pytest tools/enricher/tests/test_iranvictims.py -v # iranvictims CSV only
+```
+
+### Enricher Test Structure
+
+```
+tools/enricher/tests/
+├── __init__.py
+├── test_provinces.py           # 8 tests — Province mapping utility
+├── test_iranvictims.py         # 26 tests — CSV parsing, age, date, URL parsing
+├── test_iranrevolution.py      # 10 tests — Supabase record parsing
+└── test_enricher_pipeline.py   # 9 tests — circumstances_fa enrichment pipeline
+```
+
+### Test Results (2026-02-14)
+
+```
+53 passed in 0.21s
+- test_provinces: 8/8 ✅
+- test_iranvictims: 26/26 ✅
+- test_iranrevolution: 10/10 ✅
+- test_enricher_pipeline: 9/9 ✅
+```
+
+---
+
+## Combined Test Summary
+
+| Suite | Framework | Tests | Time |
+|-------|-----------|-------|------|
+| Frontend | Vitest + Testing Library | 124 | <1.2s |
+| Enricher | pytest | 53 | 0.21s |
+| **Total** | | **177** | **<1.5s** |
+
+---
+
 ## TODOs for Future Testing
 
 - [ ] Integration tests: Full page render with mocked DB data
 - [ ] E2E tests: Playwright/Cypress for critical user flows (search, submit, navigate)
-- [ ] CI pipeline: GitHub Actions workflow running `npm test` on push/PR
+- [ ] CI pipeline: GitHub Actions workflow running `npm test` + `pytest` on push/PR
 - [ ] Visual regression: Screenshot testing for VictimCard, Header
 - [ ] Accessibility: axe-core integration for a11y checks
 - [ ] Performance: Lighthouse CI for page load budgets
+- [ ] Enricher: Integration tests with mocked asyncpg/aiohttp for full pipeline
