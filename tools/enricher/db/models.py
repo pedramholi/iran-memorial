@@ -81,3 +81,17 @@ class RunStats:
     photos_added: int = 0
     fields_updated: int = 0
     errors: int = 0
+
+
+@dataclass
+class DedupStats:
+    """Statistics for a deduplication run."""
+
+    groups_found: int = 0
+    auto_merge: int = 0
+    review: int = 0
+    skipped: int = 0
+    victims_merged: int = 0
+    sources_migrated: int = 0
+    photos_migrated: int = 0
+    victims_deleted: int = 0

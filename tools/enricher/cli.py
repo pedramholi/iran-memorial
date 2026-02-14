@@ -9,7 +9,7 @@ import sys
 
 from . import __version__
 from .config import load_config
-from .db.models import RunStats
+from .db.models import DedupStats, RunStats
 from .sources import list_plugins
 
 
@@ -126,6 +126,43 @@ async def cmd_status(args: argparse.Namespace) -> int:
     return 0
 
 
+def format_dedup_stats(stats: DedupStats) -> str:
+    """Format dedup statistics for display."""
+    return "\n".join([
+        f"  Groups found:      {stats.groups_found:>6}",
+        f"  Auto-merge (>=50): {stats.auto_merge:>6}",
+        f"  Review (30-49):    {stats.review:>6}",
+        f"  Skipped (<30):     {stats.skipped:>6}",
+        f"",
+        f"  Victims merged:    {stats.victims_merged:>6}",
+        f"  Sources migrated:  {stats.sources_migrated:>6}",
+        f"  Photos migrated:   {stats.photos_migrated:>6}",
+        f"  Victims deleted:   {stats.victims_deleted:>6}",
+    ])
+
+
+async def cmd_dedup(args: argparse.Namespace) -> int:
+    """Find and merge duplicate victim records."""
+    from .pipeline.dedup import run_dedup
+
+    cfg = load_config(args.config)
+    setup_logging(cfg.log_level if not args.verbose else "DEBUG")
+    log = logging.getLogger("enricher")
+
+    dry_run = args.dry_run
+    stats = await run_dedup(
+        database_url=cfg.database_url,
+        dry_run=dry_run,
+        include_review=args.include_review,
+        limit=args.limit,
+        verbose=args.verbose,
+    )
+
+    prefix = "[DRY RUN] " if dry_run else ""
+    log.info(f"\n{prefix}Dedup Results:\n{format_dedup_stats(stats)}")
+    return 0
+
+
 async def cmd_list(args: argparse.Namespace) -> int:
     """List available source plugins."""
     plugins = list_plugins()
@@ -219,6 +256,31 @@ def build_parser() -> argparse.ArgumentParser:
     )
     p_check.add_argument("--config", dest="_config_dup", help=argparse.SUPPRESS)
 
+    # --- dedup ---
+    p_dedup = sub.add_parser(
+        "dedup", help="Find and merge duplicate victim records"
+    )
+    p_dedup.add_argument(
+        "--dry-run", "-n", action="store_true", default=True,
+        help="Preview without writing to DB (default)",
+    )
+    p_dedup.add_argument(
+        "--apply", action="store_true",
+        help="Actually execute merges (disables dry-run)",
+    )
+    p_dedup.add_argument(
+        "--include-review", action="store_true",
+        help="Also merge review-tier duplicates (score 30-49)",
+    )
+    p_dedup.add_argument(
+        "--limit", "-l", type=int, default=None,
+        help="Max groups to process",
+    )
+    p_dedup.add_argument(
+        "--verbose", "-v", action="store_true",
+        help="Verbose output",
+    )
+
     # --- status ---
     sub.add_parser("status", help="Show progress status for all sources")
 
@@ -233,9 +295,14 @@ def main() -> None:
     parser = build_parser()
     args = parser.parse_args()
 
+    # Handle dedup --apply flag
+    if args.command == "dedup" and getattr(args, "apply", False):
+        args.dry_run = False
+
     commands = {
         "enrich": cmd_enrich,
         "check": cmd_check,
+        "dedup": cmd_dedup,
         "status": cmd_status,
         "list": cmd_list,
     }
