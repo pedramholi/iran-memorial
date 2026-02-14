@@ -32,6 +32,7 @@ def compute_enrichment(
         ("province", ext.province),
         ("cause_of_death", ext.cause_of_death),
         ("circumstances_en", ext.circumstances_en),
+        ("circumstances_fa", ext.circumstances_fa),
         ("event_context", ext.event_context),
         ("responsible_forces", ext.responsible_forces),
     ]
@@ -77,6 +78,7 @@ def compute_enrichment(
         ext.province,
         ext.cause_of_death,
         ext.circumstances_en,
+        ext.circumstances_fa,
         ext.event_context,
         ext.responsible_forces,
     )
@@ -99,6 +101,7 @@ def count_new_fields(victim: dict, ext: ExternalVictim) -> int:
         ("province", ext.province),
         ("cause_of_death", ext.cause_of_death),
         ("circumstances_en", ext.circumstances_en),
+        ("circumstances_fa", ext.circumstances_fa),
         ("event_context", ext.event_context),
         ("responsible_forces", ext.responsible_forces),
     ]

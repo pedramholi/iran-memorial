@@ -37,6 +37,7 @@ class ExternalVictim:
     province: Optional[str] = None
     cause_of_death: Optional[str] = None
     circumstances_en: Optional[str] = None
+    circumstances_fa: Optional[str] = None
     event_context: Optional[str] = None
     responsible_forces: Optional[str] = None
 

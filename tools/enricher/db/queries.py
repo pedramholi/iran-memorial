@@ -10,7 +10,7 @@ import asyncpg
 LOAD_VICTIMS = """
     SELECT id, slug, name_latin, name_farsi, aliases,
            date_of_death, age_at_death, place_of_death, province,
-           cause_of_death, photo_url, circumstances_en,
+           cause_of_death, photo_url, circumstances_en, circumstances_fa,
            gender, religion, place_of_birth, date_of_birth,
            occupation_en, education, responsible_forces,
            event_context, verification_status, data_source
@@ -48,8 +48,15 @@ ENRICH_VICTIM = """
                                 THEN $14::text
                                 ELSE circumstances_en
                               END,
-        event_context       = COALESCE(event_context, $15::text),
-        responsible_forces  = COALESCE(responsible_forces, $16::text),
+        circumstances_fa    = CASE
+                                WHEN circumstances_fa IS NULL THEN $15::text
+                                WHEN $15::text IS NOT NULL
+                                  AND LENGTH($15::text) > LENGTH(circumstances_fa) * 3 / 2
+                                THEN $15::text
+                                ELSE circumstances_fa
+                              END,
+        event_context       = COALESCE(event_context, $16::text),
+        responsible_forces  = COALESCE(responsible_forces, $17::text),
         updated_at          = NOW()
     WHERE id = $1
     RETURNING id, slug

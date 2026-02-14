@@ -9,6 +9,7 @@ from typing import AsyncIterator, Optional
 
 from ..db.models import ExternalVictim
 from ..utils.http import fetch_with_retry
+from ..utils.provinces import extract_province
 from . import register
 from .base import SourcePlugin
 
@@ -133,29 +134,6 @@ def parse_boroumand_date(date_str: str | None) -> datetime | None:
             continue
     return None
 
-
-def extract_province(location: str | None) -> str | None:
-    """Extract province from location string."""
-    if not location:
-        return None
-    # Common mappings
-    province_map = {
-        "tehran": "Tehran",
-        "isfahan": "Isfahan",
-        "mashhad": "Khorasan-e Razavi",
-        "shiraz": "Fars",
-        "tabriz": "East Azerbaijan",
-        "ahvaz": "Khuzestan",
-        "kermanshah": "Kermanshah",
-        "zahedan": "Sistan va Baluchestan",
-        "sanandaj": "Kurdistan",
-        "rasht": "Gilan",
-    }
-    loc_lower = location.lower()
-    for city, prov in province_map.items():
-        if city in loc_lower:
-            return prov
-    return None
 
 
 @register

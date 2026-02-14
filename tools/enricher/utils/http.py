@@ -53,6 +53,7 @@ async def fetch_with_retry(
     backoff_base: float = 5.0,
     rate_limit: tuple[float, float] = (0.8, 1.2),
     cache_dir: Optional[str] = None,
+    extra_headers: Optional[dict[str, str]] = None,
 ) -> Optional[str]:
     """Fetch a URL with retry, rate limiting, and optional disk cache."""
     # Check cache first
@@ -63,7 +64,7 @@ async def fetch_with_retry(
 
     for attempt in range(retries):
         try:
-            async with session.get(url) as resp:
+            async with session.get(url, headers=extra_headers) as resp:
                 if resp.status == 200:
                     text = await resp.text()
                     await asyncio.sleep(random.uniform(*rate_limit))

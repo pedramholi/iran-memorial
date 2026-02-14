@@ -1,82 +1,85 @@
-"""iranvictims.com — community victim database with photos."""
+"""iranvictims.com — community victim database with CSV export."""
 
 from __future__ import annotations
 
+import csv
+import io
 import logging
 import re
+from datetime import date
 from typing import AsyncIterator, Optional
 
 from ..db.models import ExternalVictim
 from ..utils.http import fetch_with_retry
+from ..utils.provinces import extract_province
 from . import register
 from .base import SourcePlugin
 
 log = logging.getLogger("enricher.iranvictims")
 
 SITE_URL = "https://iranvictims.com"
+CSV_URL = f"{SITE_URL}/victims.csv"
 
 
-def parse_victim_cards(html: str) -> list[dict]:
-    """Parse all victim cards from the single-page HTML."""
-    cards = []
-
-    card_pattern = re.compile(
-        r"<div\s+class=[\"']?victim-card[\"']?\s+"
-        r"data-card-id=[\"']?(\d+)[\"']?\s+"
-        r"data-search=[\"']([^\"']+)[\"']",
-        re.IGNORECASE,
-    )
-
-    for match in card_pattern.finditer(html):
-        card_id = int(match.group(1))
-        search_text = match.group(2).strip()
-
-        # Find photo in the next ~500 chars
-        img_start = match.end()
-        img_end = min(img_start + 1000, len(html))
-        card_html = html[img_start:img_end]
-
-        img_match = re.search(r"data-src=[\"']([^\"']+)[\"']", card_html)
-        if not img_match:
-            img_match = re.search(r"data-src=([^\s>]+)", card_html)
-        if not img_match:
-            img_match = re.search(
-                r"src=[\"']?([^\s\"'>,]+\.(?:jpg|jpeg|png|webp))[\"']?",
-                card_html,
-                re.I,
-            )
-
-        photo_url = img_match.group(1) if img_match else None
-        if photo_url and ("placeholder" in photo_url.lower() or "default" in photo_url.lower()):
-            photo_url = None
-
-        # Split English/Farsi names from search text
-        farsi_match = re.search(r"[\u0600-\u06FF]", search_text)
-        if farsi_match:
-            name_en = search_text[: farsi_match.start()].strip()
-            rest = search_text[farsi_match.start() :].strip()
-            farsi_parts = re.findall(r"[\u0600-\u06FF\u200c\s]+", rest)
-            name_fa = farsi_parts[0].strip() if farsi_parts else None
-        else:
-            name_en = search_text.strip()
-            name_fa = None
-
-        if not name_en:
+def parse_csv_rows(text: str) -> list[dict]:
+    """Parse the iranvictims CSV into a list of dicts."""
+    reader = csv.DictReader(io.StringIO(text))
+    rows = []
+    for row in reader:
+        card_id = (row.get("Card ID") or "").strip()
+        if not card_id:
             continue
-
-        cards.append({
+        rows.append({
             "card_id": card_id,
-            "name_en": name_en,
-            "name_fa": name_fa,
-            "photo_url": photo_url,
+            "name_en": (row.get("English Name") or "").strip(),
+            "name_fa": (row.get("Persian Name") or "").strip() or None,
+            "age": (row.get("Age") or "").strip() or None,
+            "location": (row.get("Location of Death") or "").strip() or None,
+            "date": (row.get("Date of Death") or "").strip() or None,
+            "status": (row.get("Status") or "").strip().lower(),
+            "source_urls": (row.get("Source URLs") or "").strip() or None,
+            "notes": (row.get("Notes") or "").strip() or None,
         })
+    return rows
 
-    return cards
+
+def parse_age(age_str: str | None) -> int | None:
+    """Parse age string to int."""
+    if not age_str:
+        return None
+    match = re.search(r"\d+", age_str)
+    if match:
+        try:
+            return int(match.group())
+        except ValueError:
+            pass
+    return None
+
+
+def parse_date(date_str: str | None) -> date | None:
+    """Parse ISO date string (YYYY-MM-DD)."""
+    if not date_str:
+        return None
+    try:
+        return date.fromisoformat(date_str[:10])
+    except (ValueError, TypeError):
+        return None
+
+
+def parse_source_urls(urls_str: str | None) -> list[str]:
+    """Split comma-separated source URLs."""
+    if not urls_str:
+        return []
+    return [
+        u.strip()
+        for u in urls_str.split(",")
+        if u.strip() and u.strip().startswith("http")
+    ]
 
 
 @register
 class IranvictimsPlugin(SourcePlugin):
-    """iranvictims.com community database."""
+    """iranvictims.com community database — CSV-based enrichment."""
 
     @property
     def name(self) -> str:
@@ -91,34 +94,49 @@ class IranvictimsPlugin(SourcePlugin):
         return SITE_URL
 
     async def fetch_all(self) -> AsyncIterator[ExternalVictim]:
-        """Single page load, parse all victim cards."""
-        log.info("Loading iranvictims.com (single page)...")
-        html = await fetch_with_retry(
+        """Download CSV and yield all victim entries."""
+        log.info("Downloading iranvictims.com CSV...")
+        csv_text = await fetch_with_retry(
             self.session,
-            SITE_URL,
+            CSV_URL,
             rate_limit=(2.0, 4.0),
             cache_dir=self.cache_dir,
         )
-        if not html:
-            log.error("Failed to load iranvictims.com")
+        if not csv_text:
+            log.error("Failed to download iranvictims CSV")
             return
 
-        cards = parse_victim_cards(html)
-        log.info(f"Parsed {len(cards)} victim cards")
+        rows = parse_csv_rows(csv_text)
+        log.info(f"Parsed {len(rows)} entries from CSV")
 
-        for card in cards:
-            source_id = f"iranvictims_{card['card_id']}"
+        for row in rows:
+            source_id = f"iranvictims_{row['card_id']}"
             if self.progress.is_processed(source_id):
+                continue
+
+            # Only process killed victims for the memorial
+            if row["status"] not in ("killed", ""):
+                self.progress.mark_processed(source_id)
+                continue
+
+            name_en = row["name_en"]
+            if not name_en:
                 continue
 
             yield ExternalVictim(
                 source_id=source_id,
-                source_name=f"iranvictims.com — Victim #{card['card_id']}",
+                source_name=f"iranvictims.com — Victim #{row['card_id']}",
                 source_url=SITE_URL,
                 source_type="community_database",
-                name_latin=card["name_en"],
-                name_farsi=card.get("name_fa"),
-                photo_url=card.get("photo_url"),
+                name_latin=name_en,
+                name_farsi=row.get("name_fa"),
+                date_of_death=parse_date(row["date"]),
+                age_at_death=parse_age(row["age"]),
+                place_of_death=row["location"],
+                province=extract_province(row["location"]),
+                circumstances_en=row["notes"],
+                # Store source URLs in event_context temporarily for the pipeline
+                # The pipeline handler will add them as proper sources
             )
 
             self.progress.mark_processed(source_id)
