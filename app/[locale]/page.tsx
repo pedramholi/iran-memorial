@@ -4,11 +4,6 @@ import { Link } from "@/i18n/navigation";
 import { SearchBar } from "@/components/SearchBar";
 import { VictimCard } from "@/components/VictimCard";
 import { getStats, getRecentVictims, getAllEvents, localized } from "@/lib/queries";
-import {
-  fallbackStats,
-  fallbackRecentVictims,
-  fallbackEvents,
-} from "@/lib/fallback-data";
 import { formatNumber, formatKilledRange } from "@/lib/utils";
 import type { Locale } from "@/i18n/config";
 
@@ -45,7 +40,7 @@ interface HomeEvent {
   _count: { victims: number };
 }
 
-export const revalidate = 3600; // ISR: revalidate every hour
+export const dynamic = "force-dynamic";
 
 export default async function HomePage({
   params,
@@ -55,17 +50,11 @@ export default async function HomePage({
   const { locale } = await params;
   setRequestLocale(locale);
 
-  let stats: HomeStats = fallbackStats;
-  let recentVictims: HomeVictim[] = fallbackRecentVictims;
-  let events: HomeEvent[] = fallbackEvents;
-
-  try {
-    stats = await getStats();
-    recentVictims = await getRecentVictims();
-    events = await getAllEvents();
-  } catch (e) {
-    console.error("[HomePage] DB query failed, using fallback data:", e);
-  }
+  const [stats, recentVictims, events] = await Promise.all([
+    getStats(),
+    getRecentVictims(),
+    getAllEvents(),
+  ]);
 
   return (
     <HomeContent

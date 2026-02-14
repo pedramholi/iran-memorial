@@ -4,7 +4,6 @@ import { VictimCard } from "@/components/VictimCard";
 import { SearchBar } from "@/components/SearchBar";
 import { FilterBar } from "@/components/FilterBar";
 import { getVictimsList, getFilterOptions } from "@/lib/queries";
-import { fallbackVictimsList } from "@/lib/fallback-data";
 import { Link } from "@/i18n/navigation";
 import { formatNumber } from "@/lib/utils";
 import type { Locale } from "@/i18n/config";
@@ -26,17 +25,10 @@ export default async function VictimsPage({
   const year = sp.year ? Number(sp.year) : undefined;
   const gender = sp.gender || "";
 
-  let result: { victims: any[]; total: number; page: number; pageSize: number; totalPages: number } = fallbackVictimsList;
-  let filterOptions = { provinces: [] as string[], minYear: 1988, maxYear: new Date().getFullYear() };
-
-  try {
-    [result, filterOptions] = await Promise.all([
-      getVictimsList({ page, search, province, year, gender }),
-      getFilterOptions(),
-    ]);
-  } catch (e) {
-    console.error("[Victims] getVictimsList/getFilterOptions failed:", e);
-  }
+  const [result, filterOptions] = await Promise.all([
+    getVictimsList({ page, search, province, year, gender }),
+    getFilterOptions(),
+  ]);
 
   return (
     <VictimsContent

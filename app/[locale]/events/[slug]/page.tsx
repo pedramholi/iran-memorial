@@ -10,7 +10,7 @@ import { Link } from "@/i18n/navigation";
 import type { Locale } from "@/i18n/config";
 import type { Metadata } from "next";
 
-export const revalidate = 3600;
+export const dynamic = "force-dynamic";
 
 export async function generateMetadata({
   params,

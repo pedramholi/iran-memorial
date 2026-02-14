@@ -2,9 +2,10 @@ import { setRequestLocale } from "next-intl/server";
 import { useTranslations } from "next-intl";
 import { Link } from "@/i18n/navigation";
 import { getStats } from "@/lib/queries";
-import { fallbackStats } from "@/lib/fallback-data";
 import { formatNumber } from "@/lib/utils";
 import type { Locale } from "@/i18n/config";
+
+export const dynamic = "force-dynamic";
 
 export default async function AboutPage({
   params,
@@ -14,12 +15,7 @@ export default async function AboutPage({
   const { locale } = await params;
   setRequestLocale(locale);
 
-  let stats = fallbackStats;
-  try {
-    stats = await getStats();
-  } catch (e) {
-    console.error("[About] getStats() failed:", e);
-  }
+  const stats = await getStats();
 
   return <AboutContent locale={locale as Locale} stats={stats} />;
 }

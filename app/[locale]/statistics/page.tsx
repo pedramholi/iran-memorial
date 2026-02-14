@@ -5,7 +5,7 @@ import { formatNumber } from "@/lib/utils";
 import { translateCause, translateAgeBucket, translateDataSource } from "@/lib/translate";
 import type { Locale } from "@/i18n/config";
 
-export const revalidate = 3600;
+export const dynamic = "force-dynamic";
 
 export default async function StatisticsPage({
   params,
@@ -15,16 +15,7 @@ export default async function StatisticsPage({
   const { locale } = await params;
   setRequestLocale(locale);
 
-  let stats: Statistics | null = null;
-  try {
-    stats = await getStatistics();
-  } catch (e) {
-    console.error("[Statistics] getStatistics() failed:", e);
-  }
-
-  if (!stats) {
-    return <StatisticsUnavailable />;
-  }
+  const stats = await getStatistics();
 
   return <StatisticsContent stats={stats} locale={locale as Locale} />;
 }

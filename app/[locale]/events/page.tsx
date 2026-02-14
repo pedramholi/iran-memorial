@@ -1,10 +1,11 @@
 import { setRequestLocale } from "next-intl/server";
 import { useTranslations } from "next-intl";
 import { getAllEvents, localized } from "@/lib/queries";
-import { fallbackEvents } from "@/lib/fallback-data";
 import { formatDateRange, formatKilledRange } from "@/lib/utils";
 import { Link } from "@/i18n/navigation";
 import type { Locale } from "@/i18n/config";
+
+export const dynamic = "force-dynamic";
 
 export default async function EventsPage({
   params,
@@ -14,12 +15,7 @@ export default async function EventsPage({
   const { locale } = await params;
   setRequestLocale(locale);
 
-  let events: any[] = fallbackEvents;
-  try {
-    events = await getAllEvents();
-  } catch (e) {
-    console.error("[Events] getAllEvents() failed:", e);
-  }
+  const events = await getAllEvents();
 
   return <EventsList events={events} locale={locale as Locale} />;
 }

@@ -10,7 +10,7 @@ import { Link } from "@/i18n/navigation";
 import type { Locale } from "@/i18n/config";
 import type { Metadata } from "next";
 
-export const revalidate = 3600; // ISR: revalidate every hour
+export const dynamic = "force-dynamic";
 
 const metaFallback: Record<string, string> = {
   en: "Memorial page for",

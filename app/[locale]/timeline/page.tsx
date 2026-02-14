@@ -2,12 +2,11 @@ import { setRequestLocale } from "next-intl/server";
 import { useTranslations } from "next-intl";
 import Image from "next/image";
 import { getAllEvents, localized } from "@/lib/queries";
-import { fallbackEvents } from "@/lib/fallback-data";
 import { formatDate, formatKilledRange } from "@/lib/utils";
 import { Link } from "@/i18n/navigation";
 import type { Locale } from "@/i18n/config";
 
-export const revalidate = 3600; // ISR: revalidate every hour
+export const dynamic = "force-dynamic";
 
 export default async function TimelinePage({
   params,
@@ -17,12 +16,7 @@ export default async function TimelinePage({
   const { locale } = await params;
   setRequestLocale(locale);
 
-  let events: any[] = fallbackEvents;
-  try {
-    events = await getAllEvents();
-  } catch (e) {
-    console.error("[Timeline] getAllEvents() failed:", e);
-  }
+  const events = await getAllEvents();
 
   return <TimelineContent events={events} locale={locale as Locale} />;
 }
