@@ -7,6 +7,8 @@ import { formatDate, formatKilledRange } from "@/lib/utils";
 import { Link } from "@/i18n/navigation";
 import type { Locale } from "@/i18n/config";
 
+export const revalidate = 3600; // ISR: revalidate every hour
+
 export default async function TimelinePage({
   params,
 }: {
@@ -26,18 +28,18 @@ export default async function TimelinePage({
 }
 
 /** Calculate proportional gap (in rem) based on years between events.
- *  Uses sqrt scaling so large gaps are visible but don't dominate. */
+ *  Linear scaling: close events stay tight, distant ones spread out. */
 function timeGapRem(yearsDiff: number): number {
-  if (yearsDiff <= 0) return 3;
-  return Math.min(14, 3 + Math.sqrt(yearsDiff) * 3);
+  if (yearsDiff <= 0) return 1;
+  return Math.min(14, 1 + yearsDiff * 1.2);
 }
 
-/** Get the year difference between two dates. */
+/** Get the fractional year difference between two dates. */
 function yearsBetween(a: Date | string, b: Date | string): number {
   const da = new Date(a);
   const db = new Date(b);
-  return Math.abs(db.getFullYear() - da.getFullYear()) +
-    Math.abs(db.getMonth() - da.getMonth()) / 12;
+  const diffMs = Math.abs(db.getTime() - da.getTime());
+  return diffMs / (365.25 * 24 * 60 * 60 * 1000);
 }
 
 function TimelineContent({ events, locale }: { events: any[]; locale: Locale }) {
