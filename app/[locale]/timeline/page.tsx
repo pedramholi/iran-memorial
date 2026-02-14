@@ -25,6 +25,21 @@ export default async function TimelinePage({
   return <TimelineContent events={events} locale={locale as Locale} />;
 }
 
+/** Calculate proportional gap (in rem) based on years between events.
+ *  Uses sqrt scaling so large gaps are visible but don't dominate. */
+function timeGapRem(yearsDiff: number): number {
+  if (yearsDiff <= 0) return 3;
+  return Math.min(14, 3 + Math.sqrt(yearsDiff) * 3);
+}
+
+/** Get the year difference between two dates. */
+function yearsBetween(a: Date | string, b: Date | string): number {
+  const da = new Date(a);
+  const db = new Date(b);
+  return Math.abs(db.getFullYear() - da.getFullYear()) +
+    Math.abs(db.getMonth() - da.getMonth()) / 12;
+}
+
 function TimelineContent({ events, locale }: { events: any[]; locale: Locale }) {
   const t = useTranslations("timeline");
 
@@ -44,7 +59,7 @@ function TimelineContent({ events, locale }: { events: any[]; locale: Locale }) 
           {/* Vertical line */}
           <div className="absolute start-4 sm:start-1/2 top-0 bottom-0 w-px timeline-line" />
 
-          <div className="space-y-12">
+          <div>
             {events.map((event: any, index: number) => {
               const title = localized(event, "title", locale);
               const description = localized(event, "description", locale);
@@ -52,57 +67,90 @@ function TimelineContent({ events, locale }: { events: any[]; locale: Locale }) 
               const isLeft = index % 2 === 0;
               const eventPhoto = event.photos?.[0]?.url;
 
+              // Calculate proportional spacing based on time gap between start dates
+              const prevStart = index > 0 ? events[index - 1].dateStart : null;
+              const gap = prevStart
+                ? yearsBetween(prevStart, event.dateStart)
+                : 0;
+              const gapRem = index === 0 ? 0 : timeGapRem(gap);
+
+              // Show year gap marker for gaps >= 3 years
+              const showGapMarker = index > 0 && gap >= 3;
+              const prevYear = prevStart ? new Date(prevStart).getFullYear() : 0;
+              const currYear = new Date(event.dateStart).getFullYear();
+
               return (
-                <div
-                  key={event.slug}
-                  className={`relative flex items-start gap-8 ${
-                    isLeft ? "sm:flex-row" : "sm:flex-row-reverse"
-                  }`}
-                >
-                  {/* Dot on timeline */}
-                  <div className="absolute start-4 sm:start-1/2 -translate-x-1/2 w-3 h-3 rounded-full bg-blood-500 border-2 border-memorial-950 z-10 mt-2" />
-
-                  {/* Content */}
-                  <div className={`ms-12 sm:ms-0 sm:w-[calc(50%-2rem)] ${isLeft ? "sm:text-end sm:pe-8" : "sm:ps-8"}`}>
-                    <Link
-                      href={`/events/${event.slug}`}
-                      className="group block"
+                <div key={event.slug}>
+                  {/* Year gap marker */}
+                  {showGapMarker && (
+                    <div
+                      className="relative flex justify-center"
+                      style={{ paddingTop: `${gapRem * 0.4}rem`, paddingBottom: `${gapRem * 0.4}rem` }}
                     >
-                      <div className="flex items-start gap-3">
-                        {eventPhoto && (
-                          <div className="relative w-12 h-12 flex-shrink-0 rounded overflow-hidden bg-memorial-800">
-                            <Image src={eventPhoto} alt={title || ""} fill sizes="48px" className="object-cover" unoptimized />
-                          </div>
-                        )}
-                        <div>
-                          <time className="text-xs text-memorial-500">
-                            {formatDate(event.dateStart, locale)}
-                          </time>
-                          <h3 className="text-lg font-semibold text-memorial-100 group-hover:text-gold-400 transition-colors mt-1">
-                            {title}
-                          </h3>
-                        </div>
+                      <div className="flex items-center gap-3 px-4 py-1.5 rounded-full border border-memorial-800/60 bg-memorial-900/80 backdrop-blur-sm">
+                        <div className="h-px w-6 bg-memorial-700" />
+                        <span className="text-xs text-memorial-500 tabular-nums whitespace-nowrap">
+                          {currYear - prevYear} {locale === "de" ? "Jahre" : locale === "fa" ? "سال" : "years"}
+                        </span>
+                        <div className="h-px w-6 bg-memorial-700" />
                       </div>
-                      {killed && (
-                        <p className="text-sm text-blood-400 mt-1">
-                          {killed} {t("killed")}
-                        </p>
-                      )}
-                      {description && (
-                        <p className="text-sm text-memorial-400 mt-2 line-clamp-3 leading-relaxed">
-                          {description}
-                        </p>
-                      )}
-                      {event._count?.victims > 0 && (
-                        <p className="text-xs text-memorial-500 mt-2">
-                          {event._count.victims} {t("documented")}
-                        </p>
-                      )}
-                    </Link>
-                  </div>
+                    </div>
+                  )}
 
-                  {/* Spacer for the other side */}
-                  <div className="hidden sm:block sm:w-[calc(50%-2rem)]" />
+                  {/* Event entry */}
+                  <div
+                    className={`relative flex items-start gap-8 ${
+                      isLeft ? "sm:flex-row" : "sm:flex-row-reverse"
+                    }`}
+                    style={{
+                      marginTop: showGapMarker ? `${gapRem * 0.2}rem` : `${gapRem}rem`,
+                    }}
+                  >
+                    {/* Dot on timeline */}
+                    <div className="absolute start-4 sm:start-1/2 -translate-x-1/2 w-3 h-3 rounded-full bg-blood-500 border-2 border-memorial-950 z-10 mt-2" />
+
+                    {/* Content */}
+                    <div className={`ms-12 sm:ms-0 sm:w-[calc(50%-2rem)] ${isLeft ? "sm:text-end sm:pe-8" : "sm:ps-8"}`}>
+                      <Link
+                        href={`/events/${event.slug}`}
+                        className="group block"
+                      >
+                        <div className="flex items-start gap-3">
+                          {eventPhoto && (
+                            <div className="relative w-12 h-12 flex-shrink-0 rounded overflow-hidden bg-memorial-800">
+                              <Image src={eventPhoto} alt={title || ""} fill sizes="48px" className="object-cover" unoptimized />
+                            </div>
+                          )}
+                          <div>
+                            <time className="text-xs text-memorial-500">
+                              {formatDate(event.dateStart, locale)}
+                            </time>
+                            <h3 className="text-lg font-semibold text-memorial-100 group-hover:text-gold-400 transition-colors mt-1">
+                              {title}
+                            </h3>
+                          </div>
+                        </div>
+                        {killed && (
+                          <p className="text-sm text-blood-400 mt-1">
+                            {killed} {t("killed")}
+                          </p>
+                        )}
+                        {description && (
+                          <p className="text-sm text-memorial-400 mt-2 line-clamp-3 leading-relaxed">
+                            {description}
+                          </p>
+                        )}
+                        {event._count?.victims > 0 && (
+                          <p className="text-xs text-memorial-500 mt-2">
+                            {event._count.victims} {t("documented")}
+                          </p>
+                        )}
+                      </Link>
+                    </div>
+
+                    {/* Spacer for the other side */}
+                    <div className="hidden sm:block sm:w-[calc(50%-2rem)]" />
+                  </div>
                 </div>
               );
             })}
