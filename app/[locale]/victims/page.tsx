@@ -3,7 +3,7 @@ import { useTranslations } from "next-intl";
 import { VictimCard } from "@/components/VictimCard";
 import { SearchBar } from "@/components/SearchBar";
 import { FilterBar } from "@/components/FilterBar";
-import { getVictimsList, getFilterOptions } from "@/lib/queries";
+import { getVictimsList, getFilterOptions, localized } from "@/lib/queries";
 import { Link } from "@/i18n/navigation";
 import { formatNumber } from "@/lib/utils";
 import type { Locale } from "@/i18n/config";
@@ -27,7 +27,7 @@ export default async function VictimsPage({
 
   const [result, filterOptions] = await Promise.all([
     getVictimsList({ page, search, province, year, gender }),
-    getFilterOptions(),
+    getFilterOptions(locale as Locale),
   ]);
 
   return (
@@ -58,7 +58,7 @@ function VictimsContent({
   province: string;
   year: number | undefined;
   gender: string;
-  filterOptions: { provinces: string[]; minYear: number; maxYear: number };
+  filterOptions: { provinces: { slug: string; name: string }[]; minYear: number; maxYear: number };
 }) {
   const t = useTranslations("search");
   const tc = useTranslations("common");
@@ -121,7 +121,7 @@ function VictimsContent({
                 nameLatin={victim.nameLatin}
                 nameFarsi={victim.nameFarsi}
                 dateOfDeath={victim.dateOfDeath}
-                placeOfDeath={victim.placeOfDeath}
+                placeOfDeath={localized(victim, "cityName", locale) || victim.placeOfDeath}
                 causeOfDeath={victim.causeOfDeath}
                 photoUrl={victim.photoUrl}
                 locale={locale}

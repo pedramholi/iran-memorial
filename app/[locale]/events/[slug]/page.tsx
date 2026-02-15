@@ -23,7 +23,18 @@ export async function generateMetadata({
     if (!event) return { title: "Not Found" };
     const title = localized(event, "title", locale as Locale) || event.titleEn;
     const description = localized(event, "description", locale as Locale)?.slice(0, 160) || event.descriptionEn?.slice(0, 160);
-    return { title, description };
+    return {
+      title,
+      description,
+      openGraph: {
+        title: title || "Event",
+        description: description || undefined,
+        url: `https://memorial.n8ncloud.de/${locale}/events/${slug}`,
+        siteName: "Iran Memorial",
+        type: "article",
+      },
+      twitter: { card: "summary", title: title || "Event", description: description || undefined },
+    };
   } catch {
     return { title: "Event" };
   }

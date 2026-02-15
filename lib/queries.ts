@@ -14,8 +14,13 @@ const VICTIM_COLUMNS = `
   v.burial_location, v.burial_date, v.burial_circumstances_en, v.burial_circumstances_fa, v.burial_circumstances_de,
   v.grave_status, v.family_persecution_en, v.family_persecution_fa, v.family_persecution_de,
   v.legal_proceedings, v.tributes,
-  v.verification_status, v.data_source, v.notes, v.created_at, v.updated_at
+  v.verification_status, v.data_source, v.notes, v.created_at, v.updated_at,
+  c.name_en AS city_name_en, c.name_fa AS city_name_fa, c.name_de AS city_name_de,
+  p.name_en AS province_name_en, p.name_fa AS province_name_fa, p.name_de AS province_name_de,
+  p.slug AS province_slug
 `.trim();
+
+const VICTIM_FROM = `FROM victims v LEFT JOIN cities c ON v.city_id = c.id LEFT JOIN provinces p ON c.province_id = p.id`;
 
 export async function getVictimBySlug(slug: string) {
   return prisma.victim.findUnique({
@@ -24,6 +29,7 @@ export async function getVictimBySlug(slug: string) {
       event: true,
       sources: true,
       photos: { orderBy: [{ isPrimary: "desc" }, { sortOrder: "asc" }] },
+      city: { include: { province: true } },
     },
   });
 }
@@ -41,6 +47,7 @@ export async function getEventBySlug(slug: string, page = 1, pageSize = 50) {
           placeOfDeath: true,
           causeOfDeath: true,
           photoUrl: true,
+          city: { select: { nameEn: true, nameFa: true, nameDe: true } },
         },
         orderBy: { dateOfDeath: "asc" },
         skip: (page - 1) * pageSize,
@@ -73,12 +80,18 @@ export async function getAllEvents() {
   });
 }
 
-export async function getFilterOptions() {
+export async function getFilterOptions(locale: Locale) {
+  const nameCol = locale === "fa" ? "p.name_fa" : locale === "de" ? "p.name_de" : "p.name_en";
   const [provinceRows, yearRange] = await Promise.all([
-    prisma.$queryRaw<{ province: string }[]>`
-      SELECT DISTINCT province FROM victims
-      WHERE province IS NOT NULL AND province != ''
-      ORDER BY province
+    prisma.$queryRaw<{ slug: string; name: string }[]>`
+      SELECT p.slug, ${Prisma.raw(nameCol)} AS name
+      FROM provinces p
+      WHERE EXISTS (
+        SELECT 1 FROM cities ci
+        JOIN victims vi ON vi.city_id = ci.id
+        WHERE ci.province_id = p.id
+      )
+      ORDER BY name
     `,
     prisma.$queryRaw<{ min_year: number; max_year: number }[]>`
       SELECT
@@ -89,11 +102,10 @@ export async function getFilterOptions() {
     `,
   ]);
 
-  const provinces = provinceRows.map((r) => r.province);
   const minYear = Number(yearRange[0]?.min_year) || 1988;
   const maxYear = Number(yearRange[0]?.max_year) || new Date().getFullYear();
 
-  return { provinces, minYear, maxYear };
+  return { provinces: provinceRows, minYear, maxYear };
 }
 
 export async function getVictimsList(params: {
@@ -111,34 +123,24 @@ export async function getVictimsList(params: {
     return searchVictimsList({ page, pageSize, province, year, gender, search: search.trim() });
   }
 
-  const where: Prisma.VictimWhereInput = {};
-
-  if (province) where.province = province;
-  if (gender) where.gender = gender;
-  if (year) {
-    where.dateOfDeath = {
-      gte: new Date(`${year}-01-01`),
-      lte: new Date(`${year}-12-31`),
-    };
-  }
-
   // Use raw SQL to sort photos-first
   const safePageSize = Math.min(100, Math.max(1, Math.floor(Number(pageSize) || 24)));
   const safePage = Math.max(1, Math.floor(Number(page) || 1));
   const safeOffset = (safePage - 1) * safePageSize;
   const filterFrag = buildFilterFragment({ province, year, gender });
   const columns = Prisma.raw(VICTIM_COLUMNS);
+  const from = Prisma.raw(VICTIM_FROM);
 
   const [victims, countResult] = await Promise.all([
     prisma.$queryRaw<any[]>`
       SELECT ${columns}
-      FROM victims v
+      ${from}
       WHERE 1=1 ${filterFrag}
       ORDER BY (v.photo_url IS NOT NULL) DESC, v.date_of_death DESC NULLS LAST
       LIMIT ${safePageSize} OFFSET ${safeOffset}
     `,
     prisma.$queryRaw<{ total: number }[]>`
-      SELECT COUNT(*)::int AS total FROM victims v WHERE 1=1 ${filterFrag}
+      SELECT COUNT(*)::int AS total ${from} WHERE 1=1 ${filterFrag}
     `,
   ]);
 
@@ -151,7 +153,7 @@ function buildFilterFragment(params: { province?: string; year?: number; gender?
   const clauses: Prisma.Sql[] = [];
 
   if (params.province && typeof params.province === "string") {
-    clauses.push(Prisma.sql`v.province = ${params.province}`);
+    clauses.push(Prisma.sql`p.slug = ${params.province}`);
   }
   if (params.gender && typeof params.gender === "string") {
     // Whitelist valid genders
@@ -198,12 +200,13 @@ async function searchVictimsList(params: {
 
   const filterFrag = buildFilterFragment({ province, year, gender });
   const columns = Prisma.raw(VICTIM_COLUMNS);
+  const from = Prisma.raw(VICTIM_FROM);
 
   // Step 1: Fast tsvector search (uses GIN index, ~1ms)
   const tsResults = await prisma.$queryRaw<any[]>`
     SELECT ${columns},
       ts_rank(v.search_vector, to_tsquery('simple', ${tsQuery})) AS ts_score
-    FROM victims v
+    ${from}
     WHERE v.search_vector @@ to_tsquery('simple', ${tsQuery})
     ${filterFrag}
     ORDER BY ts_score DESC
@@ -211,7 +214,7 @@ async function searchVictimsList(params: {
   `;
 
   const tsCount = await prisma.$queryRaw<{ total: number }[]>`
-    SELECT COUNT(*)::int AS total FROM victims v
+    SELECT COUNT(*)::int AS total ${from}
     WHERE v.search_vector @@ to_tsquery('simple', ${tsQuery}) ${filterFrag}
   `;
 
@@ -237,7 +240,7 @@ async function searchVictimsList(params: {
           similarity(v.name_latin, ${cleanSearch}),
           similarity(coalesce(v.name_farsi, ''), ${cleanSearch})
         ) AS trgm_score
-      FROM victims v
+      ${from}
       WHERE v.search_vector @@ to_tsquery('simple', ${tsQuery})
         OR similarity(v.name_latin, ${cleanSearch}) > 0.15
         OR similarity(coalesce(v.name_farsi, ''), ${cleanSearch}) > 0.15
@@ -246,7 +249,7 @@ async function searchVictimsList(params: {
       LIMIT ${safePageSize} OFFSET ${safeOffset}
     `,
     prisma.$queryRaw<{ total: number }[]>`
-      SELECT COUNT(*)::int AS total FROM victims v
+      SELECT COUNT(*)::int AS total ${from}
       WHERE v.search_vector @@ to_tsquery('simple', ${tsQuery})
         OR similarity(v.name_latin, ${cleanSearch}) > 0.15
         OR similarity(coalesce(v.name_farsi, ''), ${cleanSearch}) > 0.15
@@ -273,6 +276,7 @@ export async function searchVictims(query: string, limit = 20) {
   const safeLimit = Math.min(50, Math.max(1, Math.floor(Number(limit) || 20)));
   const MIN_TSVECTOR_RESULTS = 5;
   const columns = Prisma.raw(VICTIM_COLUMNS);
+  const from = Prisma.raw(VICTIM_FROM);
 
   // Build tsquery with prefix matching
   const tsQuery = trimmed
@@ -285,7 +289,7 @@ export async function searchVictims(query: string, limit = 20) {
   const tsResults = await prisma.$queryRaw<any[]>`
     SELECT ${columns},
       ts_rank(v.search_vector, to_tsquery('simple', ${tsQuery})) AS ts_score
-    FROM victims v
+    ${from}
     WHERE v.search_vector @@ to_tsquery('simple', ${tsQuery})
     ORDER BY ts_score DESC
     LIMIT ${safeLimit}
@@ -303,7 +307,7 @@ export async function searchVictims(query: string, limit = 20) {
         similarity(v.name_latin, ${trimmed}),
         similarity(coalesce(v.name_farsi, ''), ${trimmed})
       ) AS trgm_score
-    FROM victims v
+    ${from}
     WHERE v.search_vector @@ to_tsquery('simple', ${tsQuery})
       OR similarity(v.name_latin, ${trimmed}) > 0.15
       OR similarity(coalesce(v.name_farsi, ''), ${trimmed}) > 0.15
@@ -347,6 +351,13 @@ export function mapRawVictims(rows: any[]) {
     ageAtDeath: r.age_at_death,
     placeOfDeath: r.place_of_death,
     province: r.province,
+    cityNameEn: r.city_name_en || null,
+    cityNameFa: r.city_name_fa || null,
+    cityNameDe: r.city_name_de || null,
+    provinceNameEn: r.province_name_en || null,
+    provinceNameFa: r.province_name_fa || null,
+    provinceNameDe: r.province_name_de || null,
+    provinceSlug: r.province_slug || null,
     causeOfDeath: r.cause_of_death,
     circumstancesEn: r.circumstances_en,
     circumstancesFa: r.circumstances_fa,
@@ -400,13 +411,21 @@ export async function getRecentVictims(limit = 6) {
       placeOfDeath: true,
       causeOfDeath: true,
       photoUrl: true,
+      city: {
+        select: {
+          nameEn: true,
+          nameFa: true,
+          nameDe: true,
+        },
+      },
     },
     orderBy: { createdAt: "desc" },
     take: limit,
   });
 }
 
-export async function getStatistics() {
+export async function getStatistics(locale: Locale = "en") {
+  const nameCol = locale === "fa" ? "p.name_fa" : locale === "de" ? "p.name_de" : "p.name_en";
   const [
     totalVictims,
     deathsByYear,
@@ -426,9 +445,12 @@ export async function getStatistics() {
     `,
 
     prisma.$queryRaw<{ province: string; count: number }[]>`
-      SELECT province, COUNT(*)::int AS count
-      FROM victims WHERE province IS NOT NULL AND province != ''
-      GROUP BY province ORDER BY count DESC LIMIT 15
+      SELECT ${Prisma.raw(nameCol)} AS province, COUNT(*)::int AS count
+      FROM victims v
+      JOIN cities c ON v.city_id = c.id
+      JOIN provinces p ON c.province_id = p.id
+      GROUP BY p.id, ${Prisma.raw(nameCol)}
+      ORDER BY count DESC LIMIT 15
     `,
 
     prisma.$queryRaw<{ cause: string; count: number }[]>`

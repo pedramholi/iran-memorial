@@ -1,21 +1,37 @@
 import { setRequestLocale } from "next-intl/server";
 import { useTranslations } from "next-intl";
 import { prisma } from "@/lib/db";
+import { Prisma } from "@prisma/client";
 import { IranMap } from "@/components/IranMap";
 import { formatNumber } from "@/lib/utils";
 import type { Locale } from "@/i18n/config";
 
 export const dynamic = "force-dynamic";
 
-async function getMapData() {
-  const byProvince = await prisma.$queryRaw<{ province: string; count: number }[]>`
-    SELECT province, COUNT(*)::int AS count
-    FROM victims
-    WHERE province IS NOT NULL AND province != ''
-    GROUP BY province
+async function getMapData(locale: Locale) {
+  const nameCol = locale === "fa" ? "p.name_fa" : locale === "de" ? "p.name_de" : "p.name_en";
+  const byProvince = await prisma.$queryRaw<{
+    slug: string;
+    name: string;
+    latitude: number;
+    longitude: number;
+    count: number;
+  }[]>`
+    SELECT p.slug, ${Prisma.raw(nameCol)} AS name,
+      p.latitude, p.longitude, COUNT(*)::int AS count
+    FROM victims v
+    JOIN cities c ON v.city_id = c.id
+    JOIN provinces p ON c.province_id = p.id
+    GROUP BY p.id, p.slug, ${Prisma.raw(nameCol)}, p.latitude, p.longitude
     ORDER BY count DESC
   `;
-  return byProvince.map((r) => ({ province: r.province, count: Number(r.count) }));
+  return byProvince.map((r) => ({
+    slug: r.slug,
+    name: r.name,
+    latitude: Number(r.latitude),
+    longitude: Number(r.longitude),
+    count: Number(r.count),
+  }));
 }
 
 export default async function MapPage({
@@ -26,7 +42,7 @@ export default async function MapPage({
   const { locale } = await params;
   setRequestLocale(locale);
 
-  const data = await getMapData();
+  const data = await getMapData(locale as Locale);
   const totalMapped = data.reduce((sum, d) => sum + d.count, 0);
 
   return <MapContent data={data} totalMapped={totalMapped} locale={locale as Locale} />;
@@ -37,7 +53,7 @@ function MapContent({
   totalMapped,
   locale,
 }: {
-  data: { province: string; count: number }[];
+  data: { slug: string; name: string; latitude: number; longitude: number; count: number }[];
   totalMapped: number;
   locale: Locale;
 }) {
@@ -63,12 +79,12 @@ function MapContent({
       <div className="mt-8">
         <h2 className="text-lg font-semibold text-gold-400 mb-4">{t("byProvince")}</h2>
         <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-2">
-          {data.map(({ province, count }) => (
+          {data.map(({ slug, name, count }) => (
             <div
-              key={province}
+              key={slug}
               className="flex items-center justify-between px-3 py-2 rounded border border-memorial-800/60 bg-memorial-900/30"
             >
-              <span className="text-sm text-memorial-300 truncate">{province}</span>
+              <span className="text-sm text-memorial-300 truncate">{name}</span>
               <span className="text-sm text-gold-400 tabular-nums ms-2 flex-shrink-0">
                 {formatNumber(count, locale)}
               </span>

@@ -9,24 +9,43 @@ CREATE INDEX IF NOT EXISTS "victims_place_of_death_trgm_idx" ON "victims" USING 
 -- tsvector column for full-text search
 ALTER TABLE "victims" ADD COLUMN IF NOT EXISTS "search_vector" tsvector;
 
--- Populate search_vector for existing rows
+-- Populate search_vector for existing rows (using city/province relations)
+UPDATE "victims" v SET "search_vector" =
+  setweight(to_tsvector('simple', coalesce(v."name_latin", '')), 'A') ||
+  setweight(to_tsvector('simple', coalesce(v."name_farsi", '')), 'A') ||
+  setweight(to_tsvector('simple', coalesce(c."name_en", '')), 'B') ||
+  setweight(to_tsvector('simple', coalesce(p."name_en", '')), 'C')
+FROM "cities" c
+JOIN "provinces" p ON c."province_id" = p."id"
+WHERE v."city_id" = c."id";
+
+-- Also update rows without city_id (fallback to old text fields)
 UPDATE "victims" SET "search_vector" =
   setweight(to_tsvector('simple', coalesce("name_latin", '')), 'A') ||
   setweight(to_tsvector('simple', coalesce("name_farsi", '')), 'A') ||
   setweight(to_tsvector('simple', coalesce("place_of_death", '')), 'B') ||
-  setweight(to_tsvector('simple', coalesce("province", '')), 'C');
+  setweight(to_tsvector('simple', coalesce("province", '')), 'C')
+WHERE "city_id" IS NULL;
 
 -- GIN index on search_vector
 CREATE INDEX IF NOT EXISTS "victims_search_vector_idx" ON "victims" USING gin ("search_vector");
 
 -- Trigger function to auto-update search_vector on insert/update
 CREATE OR REPLACE FUNCTION victims_search_vector_update() RETURNS trigger AS $$
+DECLARE
+  city_name TEXT;
+  province_name TEXT;
 BEGIN
+  IF NEW.city_id IS NOT NULL THEN
+    SELECT c.name_en, p.name_en INTO city_name, province_name
+    FROM cities c JOIN provinces p ON c.province_id = p.id
+    WHERE c.id = NEW.city_id;
+  END IF;
   NEW.search_vector :=
     setweight(to_tsvector('simple', coalesce(NEW.name_latin, '')), 'A') ||
     setweight(to_tsvector('simple', coalesce(NEW.name_farsi, '')), 'A') ||
-    setweight(to_tsvector('simple', coalesce(NEW.place_of_death, '')), 'B') ||
-    setweight(to_tsvector('simple', coalesce(NEW.province, '')), 'C');
+    setweight(to_tsvector('simple', coalesce(city_name, coalesce(NEW.place_of_death, ''))), 'B') ||
+    setweight(to_tsvector('simple', coalesce(province_name, coalesce(NEW.province, ''))), 'C');
   RETURN NEW;
 END;
 $$ LANGUAGE plpgsql;

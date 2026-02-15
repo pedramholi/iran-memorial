@@ -130,8 +130,9 @@ model Victim {
   createdAt             DateTime  @default(now()) @map("created_at") @db.Timestamptz()
   updatedAt             DateTime  @default(now()) @updatedAt @map("updated_at") @db.Timestamptz()
 
-  sources Source[]
-  photos  Photo[]
+  sources  Source[]
+  photos   Photo[]
+  comments Comment[]
 
   @@index([slug])
   @@index([dateOfDeath])
@@ -175,6 +176,20 @@ model Photo {
   @@index([eventId])
   @@index([victimId, isPrimary])
   @@map("photos")
+}
+
+model Comment {
+  id             String   @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
+  victimId       String   @map("victim_id") @db.Uuid
+  victim         Victim   @relation(fields: [victimId], references: [id], onDelete: Cascade)
+  authorName     String?  @map("author_name")
+  content        String
+  status         String   @default("pending") // pending, approved, rejected
+  createdAt      DateTime @default(now()) @map("created_at") @db.Timestamptz()
+
+  @@index([victimId])
+  @@index([status])
+  @@map("comments")
 }
 
 model Submission {

@@ -30,9 +30,23 @@ export async function generateMetadata({
     const name = locale === "fa" && victim.nameFarsi ? victim.nameFarsi : victim.nameLatin;
     const secondaryName = locale === "fa" ? victim.nameLatin : victim.nameFarsi;
     const circumstances = localized(victim, "circumstances", locale as Locale);
+    const desc = circumstances?.slice(0, 160) || `${metaFallback[locale] || metaFallback.en} ${name}`;
     return {
       title: `${name}${secondaryName ? ` — ${secondaryName}` : ""}`,
-      description: circumstances?.slice(0, 160) || `${metaFallback[locale] || metaFallback.en} ${name}`,
+      description: desc,
+      openGraph: {
+        title: name,
+        description: desc,
+        url: `https://memorial.n8ncloud.de/${locale}/victims/${slug}`,
+        siteName: "Iran Memorial",
+        type: "profile",
+        ...(victim.photoUrl ? { images: [{ url: victim.photoUrl, alt: name }] } : {}),
+      },
+      twitter: {
+        card: victim.photoUrl ? "summary_large_image" : "summary",
+        title: name,
+        description: desc,
+      },
     };
   } catch {
     return { title: "Victim" };
@@ -183,7 +197,7 @@ function VictimDetail({ victim, locale }: { victim: any; locale: Locale }) {
       )}
 
       {/* Death Section */}
-      {(victim.placeOfDeath || victim.causeOfDeath || victim.responsibleForces || circumstances || victim.event) && (
+      {(victim.placeOfDeath || victim.city || victim.causeOfDeath || victim.responsibleForces || circumstances || victim.event) && (
         <section className="mb-12">
           <h2 className="text-xl font-semibold text-blood-400 mb-6 flex items-center gap-2">
             <span className="h-px flex-1 bg-memorial-800" />
@@ -191,7 +205,16 @@ function VictimDetail({ victim, locale }: { victim: any; locale: Locale }) {
             <span className="h-px flex-1 bg-memorial-800" />
           </h2>
           <div className="rounded-lg border border-memorial-800/60 bg-gradient-to-b from-blood-600/5 to-memorial-900/30 p-6 space-y-6">
-            {victim.placeOfDeath && <Field label={t("placeOfDeath")} value={victim.placeOfDeath} />}
+            {(victim.city || victim.placeOfDeath) && (
+              <Field
+                label={t("placeOfDeath")}
+                value={
+                  victim.city
+                    ? `${localized(victim.city, "name", locale)}${victim.city.province ? `, ${localized(victim.city.province, "name", locale)}` : ""}`
+                    : victim.placeOfDeath!
+                }
+              />
+            )}
             {victim.causeOfDeath && <Field label={t("causeOfDeath")} value={translateCause(victim.causeOfDeath, locale) || victim.causeOfDeath} />}
             {victim.responsibleForces && <Field label={t("responsibleForces")} value={victim.responsibleForces} />}
             {circumstances && (

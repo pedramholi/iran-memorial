@@ -10,7 +10,7 @@ export function FilterBar({
   minYear,
   maxYear,
 }: {
-  provinces: string[];
+  provinces: { slug: string; name: string }[];
   minYear: number;
   maxYear: number;
 }) {
@@ -74,8 +74,8 @@ export function FilterBar({
       >
         <option value="">{t("allProvinces")}</option>
         {provinces.map((p) => (
-          <option key={p} value={p}>
-            {p}
+          <option key={p.slug} value={p.slug}>
+            {p.name}
           </option>
         ))}
       </select>

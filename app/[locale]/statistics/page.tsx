@@ -15,7 +15,7 @@ export default async function StatisticsPage({
   const { locale } = await params;
   setRequestLocale(locale);
 
-  const stats = await getStatistics();
+  const stats = await getStatistics(locale as Locale);
 
   return <StatisticsContent stats={stats} locale={locale as Locale} />;
 }
