@@ -82,7 +82,7 @@ A digital memorial for the victims of the Islamic Republic of Iran (1979–prese
 | i18n | next-intl (URL-based: `/fa/`, `/en/`, `/de/`) |
 | Styling | Tailwind CSS v4 (`@tailwindcss/postcss`) |
 | Validation | Zod (API input validation) |
-| Testing | Vitest + Testing Library (124 tests) + pytest (112 enricher tests) = **236 total** |
+| Testing | Vitest + Testing Library (144 tests) + pytest (112 enricher tests) = **256 total** |
 | Maps | Leaflet + react-leaflet (province-level visualization) |
 | Container | Docker Compose (PostgreSQL + App) |
 | Webserver | Nginx (reverse proxy, Cloudflare) |
@@ -123,11 +123,12 @@ iran-memorial/
 │   └── layout.tsx               # Root layout (Open Graph, Twitter Cards)
 ├── components/                  # Header, Footer, LanguageSwitcher, VictimCard,
 │                                # SearchBar, FilterBar, PhotoGallery, EventHero,
-│                                # IranMap, InteractiveTimeline, AdminPanel
+│                                # IranMap, InteractiveTimeline, AdminPanel,
+│                                # EventStatistics, charts/ (StatCard, Section, HorizontalBars)
 ├── i18n/                        # config, routing, request, navigation
 ├── lib/
 │   ├── db.ts                    # Prisma client singleton
-│   ├── queries.ts               # DB queries + localized() helper
+│   ├── queries.ts               # DB queries + localized() + getEventStatistics()
 │   ├── rate-limit.ts            # In-memory rate limiter
 │   ├── translate.ts             # DB value translations (cause, age, source)
 │   └── utils.ts                 # formatDate, formatNumber, formatKilledRange
@@ -136,7 +137,7 @@ iran-memorial/
 │   ├── schema.prisma            # 8 models: Victim, Event, Source, Photo, Submission, Province, City, Comment
 │   ├── seed.ts                  # Event seed (timeline.yaml → DB)
 │   └── init.sql                 # pg_trgm extension
-├── __tests__/                   # Vitest test suite (124 tests, 11 files, ~1.0s)
+├── __tests__/                   # Vitest test suite (144 tests, 13 files, ~1.0s)
 ├── e2e/                         # Playwright E2E tests (navigation, API)
 ├── .github/workflows/test.yml   # CI/CD: Vitest + pytest + build
 ├── tools/
@@ -202,7 +203,7 @@ npm run build                  # Production build
 npm run lint                   # ESLint
 
 # Testing (Frontend — Vitest)
-npm test                       # 124 Vitest tests
+npm test                       # 144 Vitest tests
 npm run test:watch             # Watch mode
 npm run test:coverage          # v8 coverage report
 
@@ -344,8 +345,9 @@ POSTGRES_PASSWORD=memorial_dev_password
 | v0.7.0 | 2026-02-15 | Interactive Map (Leaflet), Data Export API (JSON/CSV), API Docs page, Admin Review Panel, Interactive Timeline (zoom/expand), 2 new nav items |
 | v0.7.1 | 2026-02-15 | SEO (sitemap, robots, Open Graph), Comments API, Photo Upload API, Province/City DB tables (31+112), CI/CD pipeline, E2E tests, Telegram RTN enricher run (+2070 photos, +413 enrichments) |
 | v0.7.2 | 2026-02-15 | Province/City normalization: enricher city_id resolution, homepage localized city names, 12 new pytest tests (city resolver), server deployment fix (missing _de columns) |
+| v0.7.3 | 2026-02-15 | Event statistics (per-event province/cause/age/gender charts), shared chart components (StatCard, Section, HorizontalBars), map fix (Leaflet CSS from node_modules + overflow wrapper), 20 new Vitest tests |
 
-**Current:** v0.7.2 | 30,795 victims | 43.5K sources | 6,995 photos | 124 Vitest + 112 pytest tests = 236 total | Live at memorial.n8ncloud.de
+**Current:** v0.7.3 | 30,795 victims | 43.5K sources | 6,995 photos | 144 Vitest + 112 pytest tests = 256 total | Live at memorial.n8ncloud.de
 
 ---
 
