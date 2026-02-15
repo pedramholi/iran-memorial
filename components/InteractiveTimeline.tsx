@@ -20,10 +20,20 @@ function yearsBetween(a: Date | string, b: Date | string): number {
   return diffMs / (365.25 * 24 * 60 * 60 * 1000);
 }
 
-function truncateText(text: string, maxSentences = 2): string {
+function truncateText(text: string, maxChars = 250): string {
   const sentences = text.match(/[^.!?]+[.!?]+/g);
-  if (!sentences) return text.length > 200 ? text.slice(0, 200) + "…" : text;
-  return sentences.slice(0, maxSentences).join("").trim();
+  if (!sentences) {
+    return text.length > maxChars ? text.slice(0, maxChars).trimEnd() + "…" : text;
+  }
+  let result = "";
+  for (const s of sentences) {
+    if (result.length + s.length > maxChars) break;
+    result += s;
+  }
+  if (!result) {
+    return text.slice(0, maxChars).trimEnd() + "…";
+  }
+  return result.trim();
 }
 
 export function InteractiveTimeline({
