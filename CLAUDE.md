@@ -76,13 +76,13 @@ A digital memorial for the victims of the Islamic Republic of Iran (1979–prese
 |-------|------------|
 | Framework | Next.js 16 (App Router, Turbopack) |
 | Language | TypeScript (strict) |
-| Database | PostgreSQL 16 (Docker, 30.798 victims) |
+| Database | PostgreSQL 16 (Docker, 30.795 victims) |
 | ORM | Prisma 6 |
 | Search | PostgreSQL `tsvector` + `pg_trgm` |
 | i18n | next-intl (URL-based: `/fa/`, `/en/`, `/de/`) |
 | Styling | Tailwind CSS v4 (`@tailwindcss/postcss`) |
 | Validation | Zod (API input validation) |
-| Testing | Vitest + Testing Library (124 tests) + pytest (100 enricher tests) = **224 total** |
+| Testing | Vitest + Testing Library (124 tests) + pytest (112 enricher tests) = **236 total** |
 | Maps | Leaflet + react-leaflet (province-level visualization) |
 | Container | Docker Compose (PostgreSQL + App) |
 | Webserver | Nginx (reverse proxy, Cloudflare) |
@@ -136,7 +136,7 @@ iran-memorial/
 │   ├── schema.prisma            # 8 models: Victim, Event, Source, Photo, Submission, Province, City, Comment
 │   ├── seed.ts                  # Event seed (timeline.yaml → DB)
 │   └── init.sql                 # pg_trgm extension
-├── __tests__/                   # Vitest test suite (124 tests, 11 files, <1.2s)
+├── __tests__/                   # Vitest test suite (124 tests, 11 files, ~1.0s)
 ├── e2e/                         # Playwright E2E tests (navigation, API)
 ├── .github/workflows/test.yml   # CI/CD: Vitest + pytest + build
 ├── tools/
@@ -148,7 +148,7 @@ iran-memorial/
 │   │   ├── tests/               # pytest test suite (100 tests)
 │   │   └── utils/               # farsi, jalali, latin, http, progress, provinces
 │   ├── translate_de.py           # Batch EN→DE translation (GPT-4o-mini, asyncpg)
-│   ├── seed-provinces.ts        # Province/City seed script (31 provinces, 63 cities)
+│   ├── seed-provinces.ts        # Province/City seed script (31 provinces, 112 cities)
 │   └── legacy/                  # Historical one-shot scripts (Phase 1–3)
 ├── workflows/                   # WAT: Markdown SOPs
 │   ├── data-import.md           # Enricher-based import workflow
@@ -172,7 +172,7 @@ iran-memorial/
 
 ## Database
 
-**ORM:** Prisma 6 | **Schema:** `prisma/schema.prisma` | **30.798 Victims** (nach Dedup + Enricher)
+**ORM:** Prisma 6 | **Schema:** `prisma/schema.prisma` | **30.795 Victims** (nach Dedup + Enricher)
 
 | Model | Fields | Purpose |
 |-------|--------|---------|
@@ -182,7 +182,7 @@ iran-memorial/
 | `Photo` | 11 | Attached to victim/event (sort order, primary flag) |
 | `Submission` | 8 | Community submissions with review workflow |
 | `Province` | 7 | 31 Iranian provinces with coordinates (slug, nameEn/Fa/De, lat/lng) |
-| `City` | 6 | 63 cities linked to provinces (slug, nameEn/Fa/De) |
+| `City` | 6 | 112 cities linked to provinces (slug, nameEn/Fa/De) |
 | `Comment` | 6 | Community comments on victims (pending/approved moderation) |
 
 **Relations:** Victim → Event (many-to-one), Victim/Event → Source (one-to-many), Victim/Event → Photo (one-to-many), Victim → City (many-to-one), City → Province (many-to-one), Victim → Comment (one-to-many)
@@ -207,7 +207,7 @@ npm run test:watch             # Watch mode
 npm run test:coverage          # v8 coverage report
 
 # Testing (Enricher — pytest)
-python3 -m pytest tools/enricher/tests/ -v   # 100 pytest tests
+python3 -m pytest tools/enricher/tests/ -v   # 112 pytest tests
 
 # Database
 npx prisma generate            # Regenerate client after schema changes
@@ -325,6 +325,7 @@ POSTGRES_PASSWORD=memorial_dev_password
 | Server disk usage | ✅ Pruned | Docker prune freed 2.4 GB (2026-02-15). Monitor regularly. |
 | German content: victims | ✅ Done | `circumstances_de` batch-translated via GPT-4o-mini (~22K texts, ~$10) |
 | German content: other fields | ⚠️ Low | `occupation_de`, `beliefs_de`, etc. — columns exist, translation pending |
+| ~4,511 victims without city_id | ⚠️ Low | Generic "Iran", foreign locations, "Unknown" — manual mapping needed |
 
 ---
 
@@ -341,9 +342,10 @@ POSTGRES_PASSWORD=memorial_dev_password
 | v0.6.0 | 2026-02-14 | German translation: 7 `_de` columns, translate_de.py (GPT-4o-mini), semaphore concurrency, ~22K circumstances_de |
 | v0.6.1 | 2026-02-15 | Telegram @RememberTheirNames plugin, Jalali date conversion, 100 Farsi city mappings, 47 new pytest tests |
 | v0.7.0 | 2026-02-15 | Interactive Map (Leaflet), Data Export API (JSON/CSV), API Docs page, Admin Review Panel, Interactive Timeline (zoom/expand), 2 new nav items |
-| v0.7.1 | 2026-02-15 | SEO (sitemap, robots, Open Graph), Comments API, Photo Upload API, Province/City DB tables (31+63), CI/CD pipeline, E2E tests, Telegram RTN enricher run (+2070 photos, +413 enrichments) |
+| v0.7.1 | 2026-02-15 | SEO (sitemap, robots, Open Graph), Comments API, Photo Upload API, Province/City DB tables (31+112), CI/CD pipeline, E2E tests, Telegram RTN enricher run (+2070 photos, +413 enrichments) |
+| v0.7.2 | 2026-02-15 | Province/City normalization: enricher city_id resolution, homepage localized city names, 12 new pytest tests (city resolver), server deployment fix (missing _de columns) |
 
-**Current:** v0.7.1 | 30,798 victims | 43.5K sources | 6,995 photos | 124 Vitest + 100 pytest tests = 224 total | Live at memorial.n8ncloud.de
+**Current:** v0.7.2 | 30,795 victims | 43.5K sources | 6,995 photos | 124 Vitest + 112 pytest tests = 236 total | Live at memorial.n8ncloud.de
 
 ---
 
