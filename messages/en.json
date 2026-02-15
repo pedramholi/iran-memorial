@@ -13,7 +13,8 @@
     "loading": "Loading...",
     "noResults": "No results found",
     "backToHome": "Back to Home",
-    "statistics": "Statistics"
+    "statistics": "Statistics",
+    "map": "Map"
   },
   "home": {
     "heroTitle": "Every victim has a name.",
@@ -146,6 +147,12 @@
     "privacy": "Ethics & Privacy",
     "privacyText": "We treat the data of victims and their families with the utmost respect. Submitted information is reviewed before publication. The identity of contributors is never disclosed. We document facts, not opinions.",
     "quote": "\"As long as we remember, they live on.\""
+  },
+  "map": {
+    "title": "Map",
+    "subtitle": "Geographic distribution of documented victims across Iran",
+    "victimsWithProvince": "victims with known province",
+    "byProvince": "Victims by Province"
   },
   "statistics": {
     "title": "Statistics",

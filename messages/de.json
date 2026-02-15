@@ -13,7 +13,8 @@
     "loading": "Laden...",
     "noResults": "Keine Ergebnisse gefunden",
     "backToHome": "Zurück zur Startseite",
-    "statistics": "Statistik"
+    "statistics": "Statistik",
+    "map": "Karte"
   },
   "home": {
     "heroTitle": "Jedes Opfer hat einen Namen.",
@@ -146,6 +147,12 @@
     "privacy": "Ethik & Datenschutz",
     "privacyText": "Wir behandeln die Daten der Opfer und ihrer Familien mit höchstem Respekt. Eingereichte Informationen werden geprüft, bevor sie veröffentlicht werden. Die Identität von Einreichenden wird nicht offengelegt. Wir dokumentieren Fakten, nicht Meinungen.",
     "quote": "«Solange wir uns erinnern, leben sie weiter.»"
+  },
+  "map": {
+    "title": "Karte",
+    "subtitle": "Geografische Verteilung der dokumentierten Opfer im Iran",
+    "victimsWithProvince": "Opfer mit bekannter Provinz",
+    "byProvince": "Opfer nach Provinz"
   },
   "statistics": {
     "title": "Statistik",

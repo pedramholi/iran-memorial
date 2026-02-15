@@ -40,7 +40,9 @@ describe("Header", () => {
     expect(screen.getByText("timeline")).toBeInTheDocument();
     expect(screen.getByText("victims")).toBeInTheDocument();
     expect(screen.getByText("events")).toBeInTheDocument();
+    expect(screen.getByText("map")).toBeInTheDocument();
     expect(screen.getByText("statistics")).toBeInTheDocument();
+    expect(screen.getByText("API")).toBeInTheDocument();
     expect(screen.getByText("about")).toBeInTheDocument();
   });
 
@@ -64,8 +66,8 @@ describe("Header", () => {
     await user.click(screen.getByLabelText("Menu"));
     const linksAfter = screen.getAllByRole("link");
 
-    // Mobile nav adds 6 duplicate nav links
-    expect(linksAfter.length).toBe(linksBefore.length + 6);
+    // Mobile nav adds 8 duplicate nav links (home, timeline, victims, events, map, statistics, api, about)
+    expect(linksAfter.length).toBe(linksBefore.length + 8);
   });
 
   it("closes mobile menu on second toggle click", async () => {
