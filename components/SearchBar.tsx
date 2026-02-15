@@ -35,6 +35,7 @@ export function SearchBar({
       />
       <button
         type="submit"
+        aria-label={t("searchPlaceholder")}
         className={`absolute end-2 rounded-md bg-memorial-700 text-memorial-300 hover:bg-memorial-600 hover:text-memorial-100 transition-colors ${
           large ? "top-2.5 px-4 py-2" : "top-1.5 px-3 py-1.5 text-sm"
         }`}

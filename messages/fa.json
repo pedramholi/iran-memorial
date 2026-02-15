@@ -14,7 +14,8 @@
     "noResults": "نتیجه‌ای یافت نشد",
     "backToHome": "بازگشت به خانه",
     "statistics": "آمار",
-    "map": "نقشه"
+    "map": "نقشه",
+    "apiDocs": "API"
   },
   "home": {
     "heroTitle": "هر قربانی یک نام دارد.",
@@ -86,7 +87,9 @@
     "zoomIn": "بزرگ‌نمایی",
     "zoomOut": "کوچک‌نمایی",
     "killed": "کشته",
-    "documented": "مستند شده"
+    "documented": "مستند شده",
+    "noEvents": "رویدادی یافت نشد",
+    "viewDetails": "مشاهده جزئیات"
   },
   "search": {
     "title": "جستجو",
@@ -153,7 +156,9 @@
     "title": "نقشه",
     "subtitle": "توزیع جغرافیایی قربانیان مستند شده در ایران",
     "victimsWithProvince": "قربانی با استان مشخص",
-    "byProvince": "قربانیان بر اساس استان"
+    "byProvince": "قربانیان بر اساس استان",
+    "loadingMap": "در حال بارگذاری نقشه...",
+    "victims": "قربانی"
   },
   "statistics": {
     "title": "آمار",

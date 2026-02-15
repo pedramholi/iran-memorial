@@ -38,8 +38,8 @@ const nextConfig: NextConfig = {
           value: [
             "default-src 'self'",
             "script-src 'self' 'unsafe-inline'",
-            "style-src 'self' 'unsafe-inline' https://fonts.googleapis.com",
-            "font-src 'self' https://fonts.gstatic.com",
+            "style-src 'self' 'unsafe-inline'",
+            "font-src 'self'",
             "img-src 'self' https://storage.googleapis.com https://www.iranrights.org https://*.basemaps.cartocdn.com data:",
             "connect-src 'self' https://*.basemaps.cartocdn.com",
             "frame-ancestors 'none'",

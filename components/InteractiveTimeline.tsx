@@ -66,7 +66,7 @@ export function InteractiveTimeline({
 
       {events.length === 0 ? (
         <p className="text-memorial-400 py-12 text-center">
-          {t("noEvents") || "No events found"}
+          {t("noEvents")}
         </p>
       ) : (
         <div className="relative">
@@ -110,8 +110,10 @@ export function InteractiveTimeline({
                         isLeft ? "sm:text-end sm:pe-8" : "sm:ps-8"
                       }`}
                     >
-                      <div
-                        className="group cursor-pointer"
+                      <button
+                        type="button"
+                        className="group cursor-pointer text-start w-full"
+                        aria-expanded={isExpanded}
                         onClick={() =>
                           setExpandedSlug(isExpanded ? null : event.slug)
                         }
@@ -125,7 +127,6 @@ export function InteractiveTimeline({
                                 fill
                                 sizes="48px"
                                 className="object-cover"
-                                unoptimized
                               />
                             </div>
                           )}
@@ -146,7 +147,7 @@ export function InteractiveTimeline({
                             {killed} {t("killed")}
                           </p>
                         )}
-                      </div>
+                      </button>
 
                       {/* Expandable details */}
                       {isExpanded && (
@@ -165,7 +166,7 @@ export function InteractiveTimeline({
                             href={`/events/${event.slug}`}
                             className="inline-block mt-3 text-sm text-gold-400 hover:text-gold-300 underline"
                           >
-                            View details →
+                            {t("viewDetails")} →
                           </Link>
                         </div>
                       )}

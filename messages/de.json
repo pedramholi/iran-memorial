@@ -14,7 +14,8 @@
     "noResults": "Keine Ergebnisse gefunden",
     "backToHome": "Zurück zur Startseite",
     "statistics": "Statistik",
-    "map": "Karte"
+    "map": "Karte",
+    "apiDocs": "API"
   },
   "home": {
     "heroTitle": "Jedes Opfer hat einen Namen.",
@@ -86,7 +87,9 @@
     "zoomIn": "Vergrößern",
     "zoomOut": "Verkleinern",
     "killed": "getötet",
-    "documented": "dokumentiert"
+    "documented": "dokumentiert",
+    "noEvents": "Keine Ereignisse gefunden",
+    "viewDetails": "Details ansehen"
   },
   "search": {
     "title": "Suche",
@@ -153,7 +156,9 @@
     "title": "Karte",
     "subtitle": "Geografische Verteilung der dokumentierten Opfer im Iran",
     "victimsWithProvince": "Opfer mit bekannter Provinz",
-    "byProvince": "Opfer nach Provinz"
+    "byProvince": "Opfer nach Provinz",
+    "loadingMap": "Karte wird geladen...",
+    "victims": "Opfer"
   },
   "statistics": {
     "title": "Statistik",

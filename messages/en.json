@@ -14,7 +14,8 @@
     "noResults": "No results found",
     "backToHome": "Back to Home",
     "statistics": "Statistics",
-    "map": "Map"
+    "map": "Map",
+    "apiDocs": "API"
   },
   "home": {
     "heroTitle": "Every victim has a name.",
@@ -86,7 +87,9 @@
     "zoomIn": "Zoom In",
     "zoomOut": "Zoom Out",
     "killed": "killed",
-    "documented": "documented"
+    "documented": "documented",
+    "noEvents": "No events found",
+    "viewDetails": "View details"
   },
   "search": {
     "title": "Search",
@@ -153,7 +156,9 @@
     "title": "Map",
     "subtitle": "Geographic distribution of documented victims across Iran",
     "victimsWithProvince": "victims with known province",
-    "byProvince": "Victims by Province"
+    "byProvince": "Victims by Province",
+    "loadingMap": "Loading map...",
+    "victims": "victims"
   },
   "statistics": {
     "title": "Statistics",

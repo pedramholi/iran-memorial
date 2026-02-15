@@ -107,7 +107,7 @@ function VictimsContent({
               href="/victims"
               className="inline-block mt-4 text-sm text-gold-400 hover:text-gold-300 underline underline-offset-2"
             >
-              {ts("clearFilters")}
+              {t("clearFilters")}
             </Link>
           )}
         </div>

@@ -26,7 +26,6 @@ services:
       - "127.0.0.1:5555:3000"
     environment:
       DATABASE_URL: postgresql://memorial:${POSTGRES_PASSWORD:-memorial_dev_password}@db:5432/iran_memorial
-      NEXTAUTH_SECRET: ${NEXTAUTH_SECRET:-dev-secret-change-in-production}
     depends_on:
       db:
         condition: service_healthy

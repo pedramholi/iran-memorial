@@ -6,7 +6,7 @@ export default function robots(): MetadataRoute.Robots {
       {
         userAgent: "*",
         allow: "/",
-        disallow: ["/api/admin/", "/admin"],
+        disallow: ["/api/admin/", "/admin", "/fa/admin", "/en/admin", "/de/admin"],
       },
     ],
     sitemap: "https://memorial.n8ncloud.de/sitemap.xml",

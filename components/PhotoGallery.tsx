@@ -61,7 +61,7 @@ export function PhotoGallery({ photos, name, locale, labels }: PhotoGalleryProps
           fill
           sizes="(min-width: 640px) 400px, 300px"
           className="object-cover group-hover:scale-105 transition-transform duration-300"
-          unoptimized
+
         />
         {photos.length > 1 && (
           <div className="absolute bottom-2 end-2 bg-black/60 text-white text-xs px-2 py-1 rounded">
@@ -101,7 +101,6 @@ export function PhotoGallery({ photos, name, locale, labels }: PhotoGalleryProps
                 fill
                 sizes="60px"
                 className="object-cover"
-                unoptimized
               />
             </button>
           ))}
@@ -154,7 +153,7 @@ export function PhotoGallery({ photos, name, locale, labels }: PhotoGalleryProps
               fill
               sizes="90vw"
               className="object-contain"
-              unoptimized
+    
             />
           </div>
 

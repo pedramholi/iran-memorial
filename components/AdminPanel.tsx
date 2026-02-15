@@ -137,11 +137,11 @@ function SubmissionCard({
       <div className="flex justify-between items-start mb-3">
         <div>
           <h3 className="text-lg font-semibold text-memorial-100">
-            {data.nameLatin || "Unknown"}
+            {data.name_latin || data.nameLatin || "Unknown"}
           </h3>
-          {data.nameFarsi && (
+          {(data.name_farsi || data.nameFarsi) && (
             <p className="text-sm text-memorial-400" dir="rtl">
-              {data.nameFarsi}
+              {data.name_farsi || data.nameFarsi}
             </p>
           )}
         </div>

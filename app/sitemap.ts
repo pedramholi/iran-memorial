@@ -2,6 +2,7 @@ import { prisma } from "@/lib/db";
 import type { MetadataRoute } from "next";
 
 const BASE_URL = "https://memorial.n8ncloud.de";
+const MAX_URLS_PER_SITEMAP = 45000; // Google recommends max 50K, we keep margin
 
 export const dynamic = "force-dynamic";
 
@@ -44,18 +45,6 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     }
   }
 
-  // Victim pages for each locale
-  for (const victim of victims) {
-    for (const locale of locales) {
-      entries.push({
-        url: `${BASE_URL}/${locale}/victims/${victim.slug}`,
-        lastModified: victim.updatedAt,
-        changeFrequency: "monthly",
-        priority: 0.7,
-      });
-    }
-  }
-
   // Event pages for each locale
   for (const event of events) {
     for (const locale of locales) {
@@ -64,6 +53,21 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
         lastModified: event.updatedAt,
         changeFrequency: "monthly",
         priority: 0.8,
+      });
+    }
+  }
+
+  // Victim pages — limit to stay under sitemap URL cap
+  const maxVictims = Math.floor((MAX_URLS_PER_SITEMAP - entries.length) / locales.length);
+  const victimSlice = victims.slice(0, maxVictims);
+
+  for (const victim of victimSlice) {
+    for (const locale of locales) {
+      entries.push({
+        url: `${BASE_URL}/${locale}/victims/${victim.slug}`,
+        lastModified: victim.updatedAt,
+        changeFrequency: "monthly",
+        priority: 0.7,
       });
     }
   }

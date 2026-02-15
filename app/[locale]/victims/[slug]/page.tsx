@@ -114,7 +114,7 @@ function VictimDetail({ victim, locale }: { victim: any; locale: Locale }) {
             </div>
           ) : victim.photoUrl ? (
             <div className="relative h-24 w-24 sm:h-32 sm:w-32 flex-shrink-0 rounded-full bg-memorial-800/80 flex items-center justify-center overflow-hidden ring-2 ring-memorial-700/50">
-              <Image src={victim.photoUrl} alt={victim.nameLatin} fill sizes="(min-width: 640px) 128px, 96px" className="object-cover" unoptimized />
+              <Image src={victim.photoUrl} alt={victim.nameLatin} fill sizes="(min-width: 640px) 128px, 96px" className="object-cover" />
             </div>
           ) : (
             <div className="relative h-24 w-24 sm:h-32 sm:w-32 flex-shrink-0 rounded-full bg-memorial-800/80 flex items-center justify-center overflow-hidden ring-2 ring-memorial-700/50">

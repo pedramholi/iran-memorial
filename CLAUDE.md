@@ -346,8 +346,9 @@ POSTGRES_PASSWORD=memorial_dev_password
 | v0.7.1 | 2026-02-15 | SEO (sitemap, robots, Open Graph), Comments API, Photo Upload API, Province/City DB tables (31+112), CI/CD pipeline, E2E tests, Telegram RTN enricher run (+2070 photos, +413 enrichments) |
 | v0.7.2 | 2026-02-15 | Province/City normalization: enricher city_id resolution, homepage localized city names, 12 new pytest tests (city resolver), server deployment fix (missing _de columns) |
 | v0.7.3 | 2026-02-15 | Event statistics (per-event province/cause/age/gender charts), shared chart components (StatCard, Section, HorizontalBars), map fix (Leaflet CSS from node_modules + overflow wrapper), 20 new Vitest tests |
+| v0.7.4 | 2026-02-15 | Audit fixes: Admin auth allowlist + Zod validation, hardcoded strings → i18n, next/font self-hosting, Image optimization enabled, sitemap URL cap, accessibility (aria-*, semantic HTML), unused devDeps removed |
 
-**Current:** v0.7.3 | 30,795 victims | 43.5K sources | 6,995 photos | 144 Vitest + 112 pytest tests = 256 total | Live at memorial.n8ncloud.de
+**Current:** v0.7.4 | 30,795 victims | 43.5K sources | 6,995 photos | 144 Vitest + 112 pytest tests = 256 total | Live at memorial.n8ncloud.de
 
 ---
 

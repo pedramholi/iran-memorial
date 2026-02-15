@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import { useTranslations } from "next-intl";
 import "leaflet/dist/leaflet.css";
 import type { Locale } from "@/i18n/config";
 
@@ -19,6 +20,7 @@ export function IranMap({
   data: ProvinceMapData[];
   locale: Locale;
 }) {
+  const t = useTranslations("map");
   const [mounted, setMounted] = useState(false);
 
   useEffect(() => {
@@ -28,7 +30,7 @@ export function IranMap({
   if (!mounted) {
     return (
       <div className="w-full h-[500px] bg-memorial-900/50 rounded-lg border border-memorial-800/60 flex items-center justify-center">
-        <p className="text-memorial-500">Loading map...</p>
+        <p className="text-memorial-500">{t("loadingMap")}</p>
       </div>
     );
   }
@@ -37,6 +39,7 @@ export function IranMap({
 }
 
 function MapInner({ data, locale }: { data: ProvinceMapData[]; locale: Locale }) {
+  const t = useTranslations("map");
   const [MapContainer, setMapContainer] = useState<any>(null);
   const [TileLayer, setTileLayer] = useState<any>(null);
   const [CircleMarker, setCircleMarker] = useState<any>(null);
@@ -59,7 +62,7 @@ function MapInner({ data, locale }: { data: ProvinceMapData[]; locale: Locale })
   if (!MapContainer) {
     return (
       <div className="w-full h-[500px] bg-memorial-900/50 rounded-lg border border-memorial-800/60 flex items-center justify-center">
-        <p className="text-memorial-500">Loading map...</p>
+        <p className="text-memorial-500">{t("loadingMap")}</p>
       </div>
     );
   }
@@ -106,7 +109,7 @@ function MapInner({ data, locale }: { data: ProvinceMapData[]; locale: Locale })
           <Tooltip>
             <strong>{item.name}</strong>
             <br />
-            {item.count.toLocaleString(locale === "fa" ? "fa-IR" : locale === "de" ? "de-DE" : "en-US")} victims
+            {item.count.toLocaleString(locale === "fa" ? "fa-IR" : locale === "de" ? "de-DE" : "en-US")} {t("victims")}
           </Tooltip>
         </CircleMarker>
       ))}

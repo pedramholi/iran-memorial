@@ -71,6 +71,7 @@ export function FilterBar({
         value={currentProvince}
         onChange={(e) => updateParams({ province: e.target.value })}
         className={selectClasses}
+        aria-label={t("allProvinces")}
       >
         <option value="">{t("allProvinces")}</option>
         {provinces.map((p) => (
@@ -85,6 +86,7 @@ export function FilterBar({
         value={currentYear}
         onChange={(e) => updateParams({ year: e.target.value })}
         className={selectClasses}
+        aria-label={t("allYears")}
       >
         <option value="">{t("allYears")}</option>
         {years.map((y) => (
@@ -99,18 +101,21 @@ export function FilterBar({
         <button
           onClick={() => updateParams({ gender: "" })}
           className={`${genderBtnBase} ${!currentGender ? genderBtnActive : genderBtnInactive}`}
+          aria-pressed={!currentGender}
         >
           {t("allGenders")}
         </button>
         <button
           onClick={() => updateParams({ gender: "male" })}
           className={`${genderBtnBase} ${currentGender === "male" ? genderBtnActive : genderBtnInactive}`}
+          aria-pressed={currentGender === "male"}
         >
           {t("male")}
         </button>
         <button
           onClick={() => updateParams({ gender: "female" })}
           className={`${genderBtnBase} ${currentGender === "female" ? genderBtnActive : genderBtnInactive}`}
+          aria-pressed={currentGender === "female"}
         >
           {t("female")}
         </button>

@@ -791,4 +791,58 @@ IHR und HRANA haben eigene Datenformate. Pro Import-Quelle ein eigenes Mapping-S
 - **Province Backfill Match-Rate**: Step 1 (Slug) = 62%, Step 2 (Hyphenated) = 2%, Step 4 (Substring) = 6%
 - **FilterBar Test-Format**: Props geändert von `string[]` auf `{ slug: string; name: string }[]` — Tests müssen Mock-Daten anpassen
 
-*Letzte Aktualisierung: 2026-02-15 (v0.7.1: SEO, Comments, Upload, Province DB, CI/CD, E2E, Enricher Run)*
+---
+
+## v0.7.4 Audit & Hardening (2026-02-15)
+
+### BUG-017: AdminPanel camelCase vs. snake_case (2026-02-15)
+
+- **Symptom:** Admin Panel zeigt "Unknown" bei allen Submissions
+- **Ursache:** Submit-Formular sendet `name_latin` / `name_farsi` (snake_case), AdminPanel liest `data.nameLatin` / `data.nameFarsi` (camelCase)
+- **Fix:** Rückwärtskompatibel `data.name_latin || data.nameLatin` in `components/AdminPanel.tsx`
+- **Pattern:** Bei API→Frontend immer prüfen, welche Konvention die API nutzt. Prisma gibt camelCase, raw SQL gibt snake_case.
+
+### BUG-018: Falscher Translation-Namespace (2026-02-15)
+
+- **Symptom:** `clearFilters` Button auf Victims-Seite zeigt Key statt Text
+- **Ursache:** `ts("clearFilters")` nutzt `statistics`-Namespace, der diesen Key nicht hat. Richtig wäre `t("clearFilters")` aus `search`-Namespace.
+- **Fix:** `ts(...)` → `t(...)` in `app/[locale]/victims/page.tsx:110`
+- **Pattern:** Wenn eine Seite mehrere `useTranslations()` Hooks hat, genau prüfen welcher Namespace welche Keys hat.
+
+### AD-013: Admin-Auth Allowlist statt Header-Check (2026-02-15)
+
+- **Decision:** Admin-Authentifizierung von "Header vorhanden?" auf Allowlist-basiert (`ADMIN_USERS` env var) geändert
+- **Vorher:** `isAdmin()` prüfte nur ob `x-forwarded-user` Header existiert — jeder authentifizierte User war Admin
+- **Nachher:** `ADMIN_USERS` env var mit Komma-separierter Liste, `isAdmin()` prüft Mitgliedschaft
+- **Zusätzlich:** Zod-Validierung (`z.string().uuid()` für ID, `z.enum()` für Status, `z.string().max(2000)` für Notes) + try/catch für 404
+
+### AD-014: next/font statt Google Fonts CDN (2026-02-15)
+
+- **Decision:** Externe Google Fonts Links durch `next/font/google` ersetzt
+- **Vorher:** `<link href="fonts.googleapis.com/css2?...">` in `<head>` — render-blocking CSS-Request
+- **Nachher:** `Inter` + `Vazirmatn` über `next/font/google` mit CSS-Variablen (`--font-inter`, `--font-vazirmatn`), `display: "swap"`, Fonts self-hosted
+- **CSP-Impact:** `fonts.googleapis.com` und `fonts.gstatic.com` konnten aus `style-src` und `font-src` entfernt werden
+- **Performance:** Eliminiert 2 externe CSS-Requests + DNS-Lookups
+
+### AD-015: Image Optimization aktiviert (2026-02-15)
+
+- **Decision:** `unoptimized` Prop von allen 7 `<Image>`-Instanzen entfernt
+- **Vorher:** Alle Images wurden unoptimiert ausgeliefert (volle Größe, kein WebP/AVIF)
+- **Nachher:** Next.js Image Optimization aktiv — automatisches Resizing, Format-Konvertierung (AVIF/WebP), Lazy Loading
+- **Betroffene Dateien:** InteractiveTimeline, EventHero, VictimCard, PhotoGallery (3×), victims/[slug]/page
+- **`remotePatterns`** für `storage.googleapis.com` und `iranrights.org` waren bereits konfiguriert
+
+### Accessibility-Fixes (2026-02-15)
+
+- **InteractiveTimeline:** `<div onClick>` → `<button type="button">` mit `aria-expanded` — Keyboard-Navigation + Screenreader-Support
+- **SearchBar:** `aria-label` auf Submit-Button
+- **FilterBar:** `aria-label` auf `<select>` Dropdowns, `aria-pressed` auf Gender-Toggle-Buttons
+- **Pattern:** Interaktive Elemente immer als `<button>` oder `<a>`, nie als `<div onClick>`. Toggle-Buttons brauchen `aria-pressed`.
+
+### Cleanup (2026-02-15)
+
+- **docker-compose.yml:** `NEXTAUTH_SECRET` entfernt (NextAuth wurde nie verwendet)
+- **package.json:** `@anthropic-ai/sdk` + `openai` aus devDeps entfernt (nur in `tools/legacy/` verwendet, kein Build-Dependency)
+- **Sitemap:** URL-Cap bei 45.000 (Google-Limit: 50K) — `victims.slice(0, maxVictims)` nach statischen + Event-URLs
+
+*Letzte Aktualisierung: 2026-02-15 (v0.7.4: Audit fixes — Security, i18n, Performance, Accessibility, Cleanup)*

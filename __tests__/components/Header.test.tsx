@@ -42,7 +42,7 @@ describe("Header", () => {
     expect(screen.getByText("events")).toBeInTheDocument();
     expect(screen.getByText("map")).toBeInTheDocument();
     expect(screen.getByText("statistics")).toBeInTheDocument();
-    expect(screen.getByText("API")).toBeInTheDocument();
+    expect(screen.getByText("apiDocs")).toBeInTheDocument();
     expect(screen.getByText("about")).toBeInTheDocument();
   });
 

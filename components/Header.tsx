@@ -18,7 +18,7 @@ export function Header({ locale }: { locale: Locale }) {
     { href: "/events", label: t("events") },
     { href: "/map", label: t("map") },
     { href: "/statistics", label: t("statistics") },
-    { href: "/api-docs", label: "API" },
+    { href: "/api-docs", label: t("apiDocs") },
     { href: "/about", label: t("about") },
   ];
 

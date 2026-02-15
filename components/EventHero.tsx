@@ -27,7 +27,6 @@ export function EventHero({ title, photoUrl, children }: EventHeroProps) {
         fill
         sizes="100vw"
         className="object-cover"
-        unoptimized
       />
       <div className="absolute inset-0 bg-black/70" />
       <div className="relative mx-auto max-w-4xl">
