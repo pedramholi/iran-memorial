@@ -26,7 +26,11 @@ const mockUseSearchParams = vi.mocked(useSearchParams);
 const mockPush = vi.fn();
 
 const defaultProps = {
-  provinces: ["Tehran", "Isfahan", "Shiraz"],
+  provinces: [
+    { slug: "Tehran", name: "Tehran" },
+    { slug: "Isfahan", name: "Isfahan" },
+    { slug: "Shiraz", name: "Shiraz" },
+  ],
   minYear: 2020,
   maxYear: 2023,
 };
