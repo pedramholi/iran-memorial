@@ -26,6 +26,8 @@ Opferdaten aus einer neuen Quelle importieren, deduplizieren und in die Produkti
 | PDF-Report | — | `legacy/parse_hrana_82day.py`, `legacy/parse_amnesty_children.py` |
 | HTML-Scrape | `enricher/sources/boroumand.py` | `legacy/scrape_boroumand.py` |
 | Supabase REST API | `enricher/sources/iranrevolution.py` | — |
+| Telegram Channel | `enricher/sources/telegram_rtn.py` | — |
+| Community API (JSON) | `enricher/sources/iranmonitor.py` | — |
 | iranvictims.com (Foto-Scrape) | — | `legacy/scrape_iranvictims_photos.py` |
 
 ### 3. Enrichment durchführen
@@ -53,6 +55,8 @@ Siehe auch `workflows/dedup-pipeline.md`
 | `iranvictims` | iranvictims.com/victims.csv | Name, Alter, Ort, Datum, Status, Quellen, Notizen | CSV-basiert, filtert `killed` |
 | `iranrevolution` | iranrevolution.online (Supabase) | Name FA/EN, Ort, Datum, Bio EN/FA, Foto | Einzige Quelle mit `circumstances_fa` |
 | `wikipedia_wlf` | Wikipedia WLF-Tabelle | Name, Ort, Datum, Umstände | ~420 Opfer |
+| `iranmonitor` | iranmonitor.org/api/memorial (JSON) | Name FA/EN, Foto, Datum, Alter, Ort | Strukturierte API von @RememberTheirNames |
+| `telegram_rtn` | t.me/s/RememberTheirNames (HTML) | Name FA, Foto, Datum (Jalali), Ort, Alter | ~2.865 Opfer, per-Post Source-URLs |
 
 ## 6. Deutsche Übersetzung
 Nach Enrichment können Textfelder ins Deutsche übersetzt werden:

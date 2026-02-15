@@ -622,4 +622,65 @@ IHR und HRANA haben eigene Datenformate. Pro Import-Quelle ein eigenes Mapping-S
 
 ---
 
-*Letzte Aktualisierung: 2026-02-14 (Deutsche Übersetzung: Schema + translate_de.py + Semaphore-Concurrency)*
+---
+
+## Telegram @RememberTheirNames Plugin (2026-02-15)
+
+### Neues Plugin: `telegram_rtn`
+- **Quelle:** Öffentlicher Telegram-Kanal [@RememberTheirNames](https://t.me/RememberTheirNames) (~119K Abonnenten, ~2.865+ Einträge)
+- **Zugang:** `https://t.me/s/RememberTheirNames` — öffentliche Web-Ansicht ohne Telegram-Account
+- **Daten:** Name (Farsi), Todesdatum (Jalali-Kalender), Ort, Foto, optionales Alter
+- **Post-Format:**
+  ```
+  ۲۷۰۹. حسن صداقتکار
+  ۱۸ دی ۱۴۰۴ مشهد
+  @RememberTheirNames
+  ```
+
+### Jalali-Datumskonvertierung (`utils/jalali.py`)
+- **Pure Python** — kein `jdatetime` Dependency nötig
+- Standard-Algorithmus via Julian Day Number (~40 Zeilen)
+- Funktionen: `persian_to_int()` (۱۲۳→123), `jalali_to_gregorian()`, `parse_jalali_date()`
+- Edge Case: Fehlender Tag im Datum → Default Tag 1 des Monats
+
+### Farsi-Stadt-Mapping (~100 Einträge)
+- Inline-Dict `FARSI_CITY_MAP` in `telegram_rtn.py`: تهران→tehran, مشهد→mashhad, etc.
+- Vorstädte auf Elternstadt gemapped (اسلامشهر→tehran, گوهردشت→karaj)
+- Unbekannte Städte → Warning-Log, Victim wird trotzdem mit `province=None` importiert
+- Lookup via bestehendes `extract_province()` aus `utils/provinces.py`
+
+### HTML-Scraping Pattern (Telegram)
+- `data-post="RememberTheirNames/{N}"` → Post-Nummer
+- `tgme_widget_message_text` → Text-Content
+- `background-image:url('...')` → Foto-URL (CDN4 Telesco.pe)
+- `<link rel="prev" href="?before=X">` → Pagination rückwärts
+- ~20 Posts pro Seite, ~144 Seiten total
+- Rate-Limit: 2-4s Delay zwischen Seiten
+
+### Beziehung zu iranmonitor Plugin
+- `iranmonitor.org/api/memorial` ist die strukturierte API-Version desselben Kanals
+- `telegram_rtn` liefert per-Post Source-URLs (`t.me/RememberTheirNames/{N}`)
+- Kein Duplikat-Problem: verschiedene `source_id` Prefixes (`iranmonitor_` vs `telegram_rtn_`)
+- Matching läuft über Stage 2 (Farsi-Name + Todesdatum = 100 Punkte)
+
+### Dry-Run Ergebnisse (40 Posts)
+- 13 Matches gegen bestehende 30.795 Victims
+- 4 Enrichments (neue Felder ausgefüllt)
+- 13 Fotos hinzugefügt
+- 14 unmatched (neue Opfer, bei vollem Run als neue Einträge importiert)
+
+### Test Suite Erweiterung
+- **47 neue Tests** in `test_telegram_rtn.py` → Enricher-Tests von 53 auf **100**
+- Test-Klassen: `TestPersianToInt`, `TestJalaliToGregorian`, `TestParseJalaliDate`, `TestParsePostText`, `TestExtractPosts`, `TestExtractPrevLink`, `TestFarsiCityToLatin`
+- Gesamt: 124 Vitest + 100 pytest = **224 Tests**
+
+### Technische Erkenntnisse
+- **Regex statt BeautifulSoup:** Konsistent mit boroumand.py — HTML-Struktur ist stabil genug für Regex
+- **Persische Nummern:** `۰-۹` müssen vor jeder int()-Operation konvertiert werden
+- **Klammernotizen im Namen:** `(از اتباع افغانستان)` muss aus dem Namen entfernt werden → `note` Feld
+- **Doppelte Leerzeichen nach Klammerentfernung:** `re.sub(r'\s{2,}', ' ', name)` nötig
+- **Esfand 29 (1403):** 1403 ist kein Schaltjahr → letzter Tag Esfand = 29. Dez → 19. März 2025
+
+---
+
+*Letzte Aktualisierung: 2026-02-15 (Telegram @RememberTheirNames Plugin + Jalali-Konvertierung + 47 neue Tests)*

@@ -82,7 +82,7 @@ A digital memorial for the victims of the Islamic Republic of Iran (1979–prese
 | i18n | next-intl (URL-based: `/fa/`, `/en/`, `/de/`) |
 | Styling | Tailwind CSS v4 (`@tailwindcss/postcss`) |
 | Validation | Zod (API input validation) |
-| Testing | Vitest + Testing Library (124 tests) + pytest (53 enricher tests) |
+| Testing | Vitest + Testing Library (124 tests) + pytest (100 enricher tests) |
 | Container | Docker Compose (PostgreSQL + App) |
 | Webserver | Nginx (reverse proxy, Cloudflare) |
 | Data Pipeline | Python asyncpg + aiohttp (`tools/enricher/`) |
@@ -131,9 +131,9 @@ iran-memorial/
 │   │   ├── cli.py               # CLI: enrich, check, dedup, status, list
 │   │   ├── db/                  # pool, queries, models (asyncpg)
 │   │   ├── pipeline/            # orchestrator, matcher, enricher, dedup
-│   │   ├── sources/             # boroumand, iranvictims, iranrevolution, wikipedia_wlf
-│   │   ├── tests/               # pytest test suite (53 tests)
-│   │   └── utils/               # farsi, latin, http, progress, provinces
+│   │   ├── sources/             # boroumand, iranvictims, iranrevolution, wikipedia_wlf, iranmonitor, telegram_rtn
+│   │   ├── tests/               # pytest test suite (100 tests)
+│   │   └── utils/               # farsi, jalali, latin, http, progress, provinces
 │   ├── translate_de.py           # Batch EN→DE translation (GPT-4o-mini, asyncpg)
 │   └── legacy/                  # Historical one-shot scripts (Phase 1–3)
 ├── workflows/                   # WAT: Markdown SOPs
@@ -322,8 +322,9 @@ POSTGRES_PASSWORD=memorial_dev_password
 | v0.5.0 | 2026-02-14 | Enricher framework, Multi-Photo, Dedup (30,795), Timeline, force-dynamic, WAT cleanup |
 | v0.5.1 | 2026-02-14 | Enricher upgrade: iranvictims CSV, iranrevolution plugin, circumstances_fa, provinces utility, 53 pytest tests |
 | v0.6.0 | 2026-02-14 | German translation: 7 `_de` columns, translate_de.py (GPT-4o-mini), semaphore concurrency, ~22K circumstances_de |
+| v0.6.1 | 2026-02-15 | Telegram @RememberTheirNames plugin, Jalali date conversion, 100 Farsi city mappings, 47 new pytest tests |
 
-**Current:** v0.6.0 | 30,795 victims | 43K+ sources | 4,942 photos | 124 Vitest + 53 pytest tests | Live at memorial.n8ncloud.de
+**Current:** v0.6.1 | 30,795 victims | 43K+ sources | 4,942 photos | 124 Vitest + 100 pytest tests | Live at memorial.n8ncloud.de
 
 ---
 
@@ -348,5 +349,5 @@ Stay pragmatic. Stay reliable. Keep learning.
 
 ---
 
-**Last Updated:** 2026-02-14
+**Last Updated:** 2026-02-15
 **Maintainer:** Pedram Holi
