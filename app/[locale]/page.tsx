@@ -22,6 +22,7 @@ interface HomeVictim {
   placeOfDeath: string | null;
   causeOfDeath: string | null;
   photoUrl: string | null;
+  city: { nameEn: string; nameFa: string | null; nameDe: string | null } | null;
 }
 
 interface HomeEvent {
@@ -293,7 +294,7 @@ function HomeContent({
                   nameLatin={victim.nameLatin}
                   nameFarsi={victim.nameFarsi}
                   dateOfDeath={victim.dateOfDeath}
-                  placeOfDeath={victim.placeOfDeath}
+                  placeOfDeath={victim.city ? localized(victim.city, "name", locale) : victim.placeOfDeath}
                   causeOfDeath={victim.causeOfDeath}
                   photoUrl={victim.photoUrl}
                   locale={locale}

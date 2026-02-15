@@ -6,16 +6,25 @@ from typing import Any
 
 import asyncpg
 
+# Load all cities for building city resolver
+LOAD_CITIES = """
+    SELECT id, slug, name_en FROM cities ORDER BY slug
+"""
+
 # Load all victims (lightweight fields for matching)
 LOAD_VICTIMS = """
-    SELECT id, slug, name_latin, name_farsi, aliases,
-           date_of_death, age_at_death, place_of_death, province,
-           cause_of_death, photo_url, circumstances_en, circumstances_fa,
-           gender, religion, place_of_birth, date_of_birth,
-           occupation_en, education, responsible_forces,
-           event_context, verification_status, data_source
-    FROM victims
-    ORDER BY slug
+    SELECT v.id, v.slug, v.name_latin, v.name_farsi, v.aliases,
+           v.date_of_death, v.age_at_death, v.place_of_death, v.province,
+           v.cause_of_death, v.photo_url, v.circumstances_en, v.circumstances_fa,
+           v.gender, v.religion, v.place_of_birth, v.date_of_birth,
+           v.occupation_en, v.education, v.responsible_forces,
+           v.event_context, v.verification_status, v.data_source,
+           v.city_id,
+           COALESCE(p.name_en, v.province) AS effective_province
+    FROM victims v
+    LEFT JOIN cities c ON v.city_id = c.id
+    LEFT JOIN provinces p ON c.province_id = p.id
+    ORDER BY v.slug
 """
 
 # Load source URLs grouped by victim
@@ -57,6 +66,7 @@ ENRICH_VICTIM = """
                               END,
         event_context       = COALESCE(event_context, $16::text),
         responsible_forces  = COALESCE(responsible_forces, $17::text),
+        city_id             = COALESCE(city_id, $18::int),
         updated_at          = NOW()
     WHERE id = $1
     RETURNING id, slug
@@ -96,15 +106,22 @@ INSERT_VICTIM = """
         gender, religion, photo_url, occupation_en, education,
         date_of_death, age_at_death, place_of_death, province,
         cause_of_death, circumstances_en, event_context, responsible_forces,
-        verification_status, data_source
+        verification_status, data_source, city_id
     ) VALUES (
         $1, $2, $3, $4, $5, $6, $7, $8, $9, $10,
         $11, $12, $13, $14, $15, $16, $17, $18,
-        'unverified', $19
+        'unverified', $19, $20::int
     )
     ON CONFLICT (slug) DO NOTHING
     RETURNING id, slug
 """
+
+
+async def load_all_cities(pool: asyncpg.Pool) -> list[dict]:
+    """Load all cities for building the city resolver."""
+    async with pool.acquire() as conn:
+        rows = await conn.fetch(LOAD_CITIES)
+    return [dict(r) for r in rows]
 
 
 async def load_all_victims(pool: asyncpg.Pool) -> list[dict]:
@@ -261,6 +278,7 @@ MERGE_VICTIM = """
         witnesses           = COALESCE(witnesses, $22::text[]),
         last_seen           = COALESCE(last_seen, $23::text),
         burial_location     = COALESCE(burial_location, $24::text),
+        city_id             = COALESCE(city_id, $25::int),
         updated_at          = NOW()
     WHERE id = $1
 """
@@ -329,6 +347,7 @@ async def merge_victim_data(
             loser.get("witnesses"),
             loser.get("last_seen"),
             loser.get("burial_location"),
+            loser.get("city_id"),
         )
 
 

@@ -15,12 +15,14 @@ from ..db.queries import (
     batch_insert_photos,
     batch_insert_sources,
     batch_insert_victims,
+    load_all_cities,
     load_all_photo_urls,
     load_all_source_urls,
     load_all_victims,
 )
 from ..sources import get_plugin, list_plugins
 from ..utils.http import create_session
+from ..utils.provinces import build_city_resolver, resolve_city_id
 from ..utils.progress import ProgressTracker
 from .enricher import compute_enrichment, count_new_fields
 from .matcher import build_index, match
@@ -76,11 +78,14 @@ async def run_enrichment(
     victims = await load_all_victims(pool)
     source_urls = await load_all_source_urls(pool)
     photo_urls = await load_all_photo_urls(pool)
+    cities = await load_all_cities(pool)
+    city_resolver = build_city_resolver(cities)
     index = build_index(victims, source_urls)
     log.info(
         f"Index built: {len(victims)} victims, "
         f"{sum(len(v) for v in source_urls.values())} source URLs, "
-        f"{sum(len(v) for v in photo_urls.values())} photo URLs "
+        f"{sum(len(v) for v in photo_urls.values())} photo URLs, "
+        f"{len(cities)} cities "
         f"({time.time()-t0:.1f}s)"
     )
 
@@ -126,7 +131,11 @@ async def run_enrichment(
                 # 5a. Compute enrichment
                 update = compute_enrichment(victim, ext)
                 if update:
-                    enrich_batch.append(update)
+                    # Append resolved city_id ($18) to the tuple
+                    city_id = resolve_city_id(
+                        ext.place_of_death, city_resolver
+                    )
+                    enrich_batch.append(update + (city_id,))
                     source_batch.append((
                         str(victim["id"]),
                         ext.source_url,
@@ -215,6 +224,9 @@ async def run_enrichment(
                     ext.name_latin or "unknown",
                     ext.date_of_birth.year if ext.date_of_birth else None,
                 )
+                city_id = resolve_city_id(
+                    ext.place_of_death, city_resolver
+                )
                 tuples.append((
                     slug,
                     ext.name_latin or "Unknown",
@@ -235,6 +247,7 @@ async def run_enrichment(
                     ext.event_context,
                     ext.responsible_forces,
                     source_name,
+                    city_id,
                 ))
             stats.new_imported = await batch_insert_victims(pool, tuples)
 

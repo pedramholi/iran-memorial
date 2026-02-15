@@ -55,9 +55,10 @@ def build_index(
         if words:
             idx.by_latin_words.setdefault(words, []).append(v)
 
-        # Date + province index
+        # Date + province index (prefer canonical province from city relation)
         dod = v.get("date_of_death")
-        prov = v.get("province", "").lower().strip() if v.get("province") else ""
+        prov_raw = v.get("effective_province") or v.get("province") or ""
+        prov = prov_raw.lower().strip()
         if dod and prov:
             idx.by_date_province.setdefault((dod, prov), []).append(v)
 
@@ -210,9 +211,9 @@ def _score_pair(ext: ExternalVictim, existing: dict) -> tuple[int, list[str]]:
         score += 5
         reasons.append("one has date (+5)")
 
-    # Province
+    # Province (prefer canonical province from city relation)
     ext_prov = (ext.province or "").lower().strip()
-    db_prov = (existing.get("province") or "").lower().strip()
+    db_prov = (existing.get("effective_province") or existing.get("province") or "").lower().strip()
     if ext_prov and db_prov:
         if ext_prov == db_prov:
             score += 20

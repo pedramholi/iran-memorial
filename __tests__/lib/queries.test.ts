@@ -65,6 +65,9 @@ describe("mapRawVictims()", () => {
     expect(result[0].dateOfDeath).toEqual(mockVictimRow.date_of_death);
     expect(result[0].placeOfDeath).toBe("Tehran");
     expect(result[0].causeOfDeath).toBe("Head injuries");
+    expect(result[0].cityNameEn).toBe("Tehran");
+    expect(result[0].cityNameFa).toBe("تهران");
+    expect(result[0].provinceSlug).toBe("tehran");
   });
 
   it("handles empty array", () => {

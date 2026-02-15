@@ -80,6 +80,68 @@ PROVINCE_MAP: dict[str, str] = {
 }
 
 
+def build_city_resolver(cities: list[dict]) -> dict[str, int]:
+    """Build a text → city_id lookup from DB cities and PROVINCE_MAP aliases.
+
+    Args:
+        cities: List of dicts with 'id', 'slug', 'name_en' from the cities table.
+
+    Returns:
+        Dict mapping normalized text variants to city IDs.
+    """
+    resolver: dict[str, int] = {}
+    slug_to_id: dict[str, int] = {}
+
+    for c in cities:
+        cid = c["id"]
+        slug = c["slug"]
+        slug_to_id[slug] = cid
+        resolver[slug] = cid
+        # Also map name_en lowercase
+        if c.get("name_en"):
+            resolver[c["name_en"].lower()] = cid
+
+    # Map PROVINCE_MAP keys to city IDs (aliases like "esfahan", "ahwaz")
+    for key in PROVINCE_MAP:
+        if key in resolver:
+            continue
+        # Try slug form (spaces → hyphens)
+        slug_form = key.replace(" ", "-")
+        if slug_form in slug_to_id:
+            resolver[key] = slug_to_id[slug_form]
+
+    return resolver
+
+
+def resolve_city_id(
+    location: str | None, resolver: dict[str, int]
+) -> int | None:
+    """Resolve a location text to a city_id using the pre-built resolver."""
+    if not location or not resolver:
+        return None
+
+    loc = location.lower().strip()
+
+    # Direct match
+    if loc in resolver:
+        return resolver[loc]
+
+    # Try with spaces replaced by hyphens
+    loc_hyphen = loc.replace(" ", "-")
+    if loc_hyphen in resolver:
+        return resolver[loc_hyphen]
+
+    # Substring match (find longest matching key to avoid partial false matches)
+    best_key: str | None = None
+    for key in resolver:
+        if key in loc and (best_key is None or len(key) > len(best_key)):
+            best_key = key
+    if best_key:
+        return resolver[best_key]
+
+    return None
+
+
 def extract_province(location: str | None) -> str | None:
     """Extract province from a location string using city mapping.
 
