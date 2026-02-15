@@ -728,4 +728,67 @@ IHR und HRANA haben eigene Datenformate. Pro Import-Quelle ein eigenes Mapping-S
 
 ---
 
-*Letzte Aktualisierung: 2026-02-15 (v0.7.0: Map, Export API, API Docs, Admin Panel, Interactive Timeline)*
+---
+
+## v0.7.1 Deployment, SEO, Comments, Province DB, Enricher Run (2026-02-15)
+
+### SEO-Implementierung
+- **Dynamische Sitemap** (`app/sitemap.ts`): Generiert URLs für alle 30.798 Opfer + 12 Events × 3 Sprachen = ~90K URLs
+- **robots.txt** (`app/robots.ts`): Erlaubt alles außer `/api/admin/` und `/admin`
+- **Open Graph + Twitter Cards**: Auf Opfer- und Event-Detailseiten mit dynamischen Metadaten (Name, Foto, Beschreibung)
+- **metadataBase**: `https://memorial.n8ncloud.de` in Root-Layout für absolute OG-URLs
+
+### Province/City DB-Schema
+- **Migration `20260215120000`**: `provinces` (31) + `cities` (63) Tabellen mit Koordinaten
+- `victims.city_id` FK zu `cities` → **21.363 Opfer** (69%) automatisch verknüpft via 5-Step Backfill
+- Backfill-Strategie: Slug-Match → Hyphenated-Match → Province-Capital → Substring → Province-Normalisierung
+- **IranMap refactored**: Koordinaten kommen jetzt aus DB statt hardcoded
+- **FilterBar refactored**: Provinz-Dropdown aus DB-Query statt hardcoded Array
+- `getFilterOptions()` in `lib/queries.ts`: JOIN provinces für `{ slug, name }` Objekte
+
+### Community Comments API
+- **Prisma Model** `Comment`: victimId, authorName, content, status (pending/approved), createdAt
+- **GET** `/api/comments?victimId=`: Nur approved Comments zurückgeben
+- **POST** `/api/comments`: Rate-limited (10/h), max 2000 chars, pending Moderation
+- Victim-Existenz-Check vor Comment-Erstellung
+
+### Photo Upload API
+- **POST** `/api/upload`: Auth via `X-Forwarded-User`, FormData mit file + victimId
+- Validierung: JPEG/PNG/WebP only, max 5MB
+- Speichert in `public/uploads/`, erstellt Photo-Record mit auto-isPrimary
+
+### CI/CD Pipeline
+- **GitHub Actions** (`.github/workflows/test.yml`): 3 Jobs
+  - `vitest`: Node 22, npm ci, npm test
+  - `pytest`: Python 3.12, pip install pytest beautifulsoup4, pytest
+  - `build`: Node 22, prisma generate, next build (depends on vitest)
+
+### E2E Tests (Playwright)
+- `playwright.config.ts` + `e2e/navigation.spec.ts`
+- Tests: Homepage Load, Navigation (Victims, Timeline, Map), Language Switcher RTL, Search Form, Submit Form, API Endpoints
+
+### Telegram RTN Full Enricher Run (Produktions-Ergebnisse)
+- **2.709 Posts** verarbeitet (137 Seiten)
+- **2.070 Matches** mit bestehenden Opfern (76% Match-Rate)
+- **413 Opfer enriched** (432 Felder aktualisiert — meist Foto-URLs)
+- **2.070 Fotos** hinzugefügt (4.925 → 6.995 total, +42%)
+- **642 Source-URLs** hinzugefügt (per-Post Telegram-Links)
+- **1 neues Opfer** importiert
+- **48 ambiguous Matches** (Score 30-49) → nicht automatisch gemergt
+
+### Deployment-Erkenntnisse
+- **3 Migrationen auf Server angewandt**: German fields, Province/City + Seed, Comments
+- Docker Build erfolgreich mit allen neuen Routen (22 total)
+- `docker system prune` befreite **2.4 GB**
+- **beautifulsoup4 fehlte auf Server** — `pip3 install --break-system-packages beautifulsoup4` nötig
+- Province/City Migration enthält Seed-Data direkt im SQL — kein separater Seed-Script-Run nötig auf Server
+- Enricher `nohup` im Hintergrund — Output in `/tmp/enricher-telegram-rtn.log`
+
+### Technische Erkenntnisse
+- **CSP für Leaflet**: `img-src` braucht `*.basemaps.cartocdn.com` und `unpkg.com` für Tiles/Icons
+- **Open Graph Fotos**: `victim.photoUrl` direkt als OG-Image — kein Upload nötig
+- **sitemap.ts Performance**: `prisma.victim.findMany({ select: { slug: true, updatedAt: true } })` ist schnell genug für 30K Einträge
+- **Province Backfill Match-Rate**: Step 1 (Slug) = 62%, Step 2 (Hyphenated) = 2%, Step 4 (Substring) = 6%
+- **FilterBar Test-Format**: Props geändert von `string[]` auf `{ slug: string; name: string }[]` — Tests müssen Mock-Daten anpassen
+
+*Letzte Aktualisierung: 2026-02-15 (v0.7.1: SEO, Comments, Upload, Province DB, CI/CD, E2E, Enricher Run)*

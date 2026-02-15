@@ -201,11 +201,15 @@ iran-memorial/
 │   │   │   └── [slug]/page.tsx   # Einzelnes Ereignis + verknüpfte Opfer
 │   │   ├── submit/page.tsx       # Einreichungsformular für die Community
 │   │   └── about/page.tsx        # Über das Projekt
-│   └── api/
-│       ├── search/route.ts       # Öffentliche Such-API
-│       ├── submit/route.ts       # Einreichungs-API
-│       ├── export/route.ts       # Datenexport (JSON/CSV)
-│       └── admin/submissions/    # Admin Review API
+│   ├── api/
+│   │   ├── search/route.ts       # Öffentliche Such-API
+│   │   ├── submit/route.ts       # Einreichungs-API
+│   │   ├── export/route.ts       # Datenexport (JSON/CSV)
+│   │   ├── comments/route.ts     # Community-Kommentare (GET/POST, rate-limited)
+│   │   ├── upload/route.ts       # Foto-Upload (Auth, Validierung)
+│   │   └── admin/submissions/    # Admin Review API
+│   ├── sitemap.ts                # Dynamische Sitemap (30K+ URLs)
+│   └── robots.ts                 # robots.txt
 ├── components/                   # React-Komponenten (Header, Footer, VictimCard, etc.)
 ├── i18n/                         # Internationalisierung (Routing, Navigation, Config)
 ├── lib/                          # Datenbank-Client, Abfragen, Hilfsfunktionen
@@ -457,9 +461,9 @@ Das einzige Ziel ist Dokumentation und Erinnerung. Keine Parteinahme für eine b
 ### Phase 3 — Interaktivität (größtenteils abgeschlossen)
 
 - [x] Interaktiver Zeitstrahl mit Zoom (50%–300%) und Click-to-Expand
-- [x] Kartenvisualisierung (Provinz-Level Leaflet-Karte mit proportionalen Markern)
+- [x] Kartenvisualisierung (Provinz-Level Leaflet-Karte mit proportionalen Markern, DB-driven)
 - [x] Statistische Dashboards (Tötungen nach Jahr, Region, Geschlecht — Statistics-Seite)
-- [ ] Community-Kommentare und Ergänzungen zu bestehenden Einträgen
+- [x] Community-Kommentare API (pending/approved Moderation, Rate-Limited)
 - [ ] Benachrichtigungssystem für Datenänderungen
 
 ### Phase 4 — Reichweite (geplant)

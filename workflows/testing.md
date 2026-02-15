@@ -203,11 +203,52 @@ tools/enricher/tests/
 
 ---
 
+## E2E Tests (Playwright)
+
+Playwright E2E tests verify critical user flows against a running app.
+
+### Setup
+```bash
+npx playwright install chromium   # Install browser
+npx playwright test               # Run E2E tests
+npx playwright test --headed      # Run with visible browser
+```
+
+### E2E Test Structure
+```
+e2e/
+└── navigation.spec.ts   # Homepage, navigation, search, submit, API endpoints
+```
+
+### What E2E Tests Cover
+- Homepage loads with victim count
+- Navigation to victims, timeline, map pages
+- Language switcher (RTL for Farsi)
+- Search form submission
+- Submit form presence
+- API endpoints respond (search, export, sitemap, robots.txt)
+
+---
+
+## CI/CD Pipeline (GitHub Actions)
+
+Automated testing runs on every push to `main` and every pull request.
+
+### Workflow: `.github/workflows/test.yml`
+
+| Job | Runner | What it does |
+|-----|--------|-------------|
+| `vitest` | Node 22 | `npm ci && npm test` |
+| `pytest` | Python 3.12 | `pip install pytest beautifulsoup4 && python -m pytest tools/enricher/tests/ -v` |
+| `build` | Node 22 | `npm ci && npx prisma generate && npm run build` (depends on vitest) |
+
+---
+
 ## TODOs for Future Testing
 
 - [ ] Integration tests: Full page render with mocked DB data
-- [ ] E2E tests: Playwright/Cypress for critical user flows (search, submit, navigate)
-- [ ] CI pipeline: GitHub Actions workflow running `npm test` + `pytest` on push/PR
+- [x] ~~E2E tests: Playwright for critical user flows~~ (**Done** — `e2e/navigation.spec.ts`)
+- [x] ~~CI pipeline: GitHub Actions workflow~~ (**Done** — `.github/workflows/test.yml`)
 - [ ] Visual regression: Screenshot testing for VictimCard, Header
 - [ ] Accessibility: axe-core integration for a11y checks
 - [ ] Performance: Lighthouse CI for page load budgets

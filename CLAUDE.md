@@ -76,7 +76,7 @@ A digital memorial for the victims of the Islamic Republic of Iran (1979–prese
 |-------|------------|
 | Framework | Next.js 16 (App Router, Turbopack) |
 | Language | TypeScript (strict) |
-| Database | PostgreSQL 16 (Docker, 30.795 victims) |
+| Database | PostgreSQL 16 (Docker, 30.798 victims) |
 | ORM | Prisma 6 |
 | Search | PostgreSQL `tsvector` + `pg_trgm` |
 | i18n | next-intl (URL-based: `/fa/`, `/en/`, `/de/`) |
@@ -115,8 +115,12 @@ iran-memorial/
 │   │   ├── search/route.ts      # GET /api/search?q=...
 │   │   ├── submit/route.ts      # POST submission
 │   │   ├── export/route.ts      # GET /api/export?format=json|csv (rate-limited)
+│   │   ├── comments/route.ts    # GET/POST community comments (rate-limited, moderated)
+│   │   ├── upload/route.ts      # POST photo upload (auth, file validation)
 │   │   └── admin/submissions/route.ts  # GET/PATCH admin review API
-│   └── layout.tsx               # Root layout
+│   ├── sitemap.ts               # Dynamic sitemap.xml (30K+ URLs, 3 locales)
+│   ├── robots.ts                # robots.txt
+│   └── layout.tsx               # Root layout (Open Graph, Twitter Cards)
 ├── components/                  # Header, Footer, LanguageSwitcher, VictimCard,
 │                                # SearchBar, FilterBar, PhotoGallery, EventHero,
 │                                # IranMap, InteractiveTimeline, AdminPanel
@@ -129,10 +133,12 @@ iran-memorial/
 │   └── utils.ts                 # formatDate, formatNumber, formatKilledRange
 ├── messages/                    # fa.json, en.json, de.json (~102 keys each)
 ├── prisma/
-│   ├── schema.prisma            # 5 models: Victim, Event, Source, Photo, Submission
+│   ├── schema.prisma            # 8 models: Victim, Event, Source, Photo, Submission, Province, City, Comment
 │   ├── seed.ts                  # Event seed (timeline.yaml → DB)
 │   └── init.sql                 # pg_trgm extension
 ├── __tests__/                   # Vitest test suite (124 tests, 11 files, <1.2s)
+├── e2e/                         # Playwright E2E tests (navigation, API)
+├── .github/workflows/test.yml   # CI/CD: Vitest + pytest + build
 ├── tools/
 │   ├── enricher/                # WAT: Active data pipeline framework
 │   │   ├── cli.py               # CLI: enrich, check, dedup, status, list
@@ -142,6 +148,7 @@ iran-memorial/
 │   │   ├── tests/               # pytest test suite (100 tests)
 │   │   └── utils/               # farsi, jalali, latin, http, progress, provinces
 │   ├── translate_de.py           # Batch EN→DE translation (GPT-4o-mini, asyncpg)
+│   ├── seed-provinces.ts        # Province/City seed script (31 provinces, 63 cities)
 │   └── legacy/                  # Historical one-shot scripts (Phase 1–3)
 ├── workflows/                   # WAT: Markdown SOPs
 │   ├── data-import.md           # Enricher-based import workflow
@@ -165,7 +172,7 @@ iran-memorial/
 
 ## Database
 
-**ORM:** Prisma 6 | **Schema:** `prisma/schema.prisma` | **30.795 Victims** (nach Dedup)
+**ORM:** Prisma 6 | **Schema:** `prisma/schema.prisma` | **30.798 Victims** (nach Dedup + Enricher)
 
 | Model | Fields | Purpose |
 |-------|--------|---------|
@@ -174,8 +181,11 @@ iran-memorial/
 | `Source` | 7 | Links (victim/event → URL), cascading delete |
 | `Photo` | 11 | Attached to victim/event (sort order, primary flag) |
 | `Submission` | 8 | Community submissions with review workflow |
+| `Province` | 7 | 31 Iranian provinces with coordinates (slug, nameEn/Fa/De, lat/lng) |
+| `City` | 6 | 63 cities linked to provinces (slug, nameEn/Fa/De) |
+| `Comment` | 6 | Community comments on victims (pending/approved moderation) |
 
-**Relations:** Victim → Event (many-to-one), Victim/Event → Source (one-to-many), Victim/Event → Photo (one-to-many)
+**Relations:** Victim → Event (many-to-one), Victim/Event → Source (one-to-many), Victim/Event → Photo (one-to-many), Victim → City (many-to-one), City → Province (many-to-one), Victim → Comment (one-to-many)
 
 **Localized Fields:** `fieldEn`, `fieldFa`, `fieldDe` — accessed via `localized(item, 'field', locale)` in `lib/queries.ts`
 
@@ -312,7 +322,7 @@ POSTGRES_PASSWORD=memorial_dev_password
 | Issue | Status | Details |
 |-------|--------|---------|
 | Middleware deprecation | ⚠️ Cosmetic | Next.js 16 warns about middleware → proxy migration. next-intl still uses middleware. |
-| Server disk at 95% | ⚠️ Critical | Docker reclaimable: ~6.2 GB. Prune ASAP. |
+| Server disk usage | ✅ Pruned | Docker prune freed 2.4 GB (2026-02-15). Monitor regularly. |
 | German content: victims | ✅ Done | `circumstances_de` batch-translated via GPT-4o-mini (~22K texts, ~$10) |
 | German content: other fields | ⚠️ Low | `occupation_de`, `beliefs_de`, etc. — columns exist, translation pending |
 
@@ -331,8 +341,9 @@ POSTGRES_PASSWORD=memorial_dev_password
 | v0.6.0 | 2026-02-14 | German translation: 7 `_de` columns, translate_de.py (GPT-4o-mini), semaphore concurrency, ~22K circumstances_de |
 | v0.6.1 | 2026-02-15 | Telegram @RememberTheirNames plugin, Jalali date conversion, 100 Farsi city mappings, 47 new pytest tests |
 | v0.7.0 | 2026-02-15 | Interactive Map (Leaflet), Data Export API (JSON/CSV), API Docs page, Admin Review Panel, Interactive Timeline (zoom/expand), 2 new nav items |
+| v0.7.1 | 2026-02-15 | SEO (sitemap, robots, Open Graph), Comments API, Photo Upload API, Province/City DB tables (31+63), CI/CD pipeline, E2E tests, Telegram RTN enricher run (+2070 photos, +413 enrichments) |
 
-**Current:** v0.7.0 | 30,795 victims | 43K+ sources | 4,999 photos | 124 Vitest + 100 pytest tests = 224 total | Live at memorial.n8ncloud.de
+**Current:** v0.7.1 | 30,798 victims | 43.5K sources | 6,995 photos | 124 Vitest + 100 pytest tests = 224 total | Live at memorial.n8ncloud.de
 
 ---
 
