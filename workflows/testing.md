@@ -162,9 +162,10 @@ The enricher data pipeline has its own test suite using pytest.
 ### Running Enricher Tests
 
 ```bash
-python3 -m pytest tools/enricher/tests/ -v        # All enricher tests (53)
+python3 -m pytest tools/enricher/tests/ -v        # All enricher tests (100)
 python3 -m pytest tools/enricher/tests/test_provinces.py -v   # Province mapping only
 python3 -m pytest tools/enricher/tests/test_iranvictims.py -v # iranvictims CSV only
+python3 -m pytest tools/enricher/tests/test_telegram_rtn.py -v # Telegram RTN plugin
 ```
 
 ### Enricher Test Structure
@@ -175,17 +176,19 @@ tools/enricher/tests/
 ├── test_provinces.py           # 8 tests — Province mapping utility
 ├── test_iranvictims.py         # 26 tests — CSV parsing, age, date, URL parsing
 ├── test_iranrevolution.py      # 10 tests — Supabase record parsing
-└── test_enricher_pipeline.py   # 9 tests — circumstances_fa enrichment pipeline
+├── test_enricher_pipeline.py   # 9 tests — circumstances_fa enrichment pipeline
+└── test_telegram_rtn.py        # 47 tests — Telegram parsing, Jalali dates, Farsi city mapping
 ```
 
-### Test Results (2026-02-14)
+### Test Results (2026-02-15)
 
 ```
-53 passed in 0.21s
+100 passed in 0.10s
 - test_provinces: 8/8 ✅
 - test_iranvictims: 26/26 ✅
 - test_iranrevolution: 10/10 ✅
 - test_enricher_pipeline: 9/9 ✅
+- test_telegram_rtn: 47/47 ✅
 ```
 
 ---
@@ -195,8 +198,8 @@ tools/enricher/tests/
 | Suite | Framework | Tests | Time |
 |-------|-----------|-------|------|
 | Frontend | Vitest + Testing Library | 124 | <1.2s |
-| Enricher | pytest | 53 | 0.21s |
-| **Total** | | **177** | **<1.5s** |
+| Enricher | pytest | 100 | 0.10s |
+| **Total** | | **224** | **<1.3s** |
 
 ---
 

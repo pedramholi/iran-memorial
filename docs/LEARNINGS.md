@@ -683,4 +683,49 @@ IHR und HRANA haben eigene Datenformate. Pro Import-Quelle ein eigenes Mapping-S
 
 ---
 
-*Letzte Aktualisierung: 2026-02-15 (Telegram @RememberTheirNames Plugin + Jalali-Konvertierung + 47 neue Tests)*
+## v0.7.0 Feature-Batch: Map, Export, API Docs, Admin, Timeline (2026-02-15)
+
+### Neue Seiten & Komponenten
+
+#### Interaktive Karte (`/map`) — IranMap.tsx
+- **Client Component** mit dynamischem Leaflet-Import (`next/dynamic`, `ssr: false`)
+- 31 iranische Provinzen mit hardcodierten Koordinaten
+- Proportionale Kreismarker (Radius: `Math.sqrt(count) * scaleFactor`), farbcodiert nach Schweregrad
+- Dunkle CartoDB-Tiles passend zum Memorial-Design
+- Tooltip mit lokalisierter Opferzahl
+
+#### Datenexport-API (`/api/export`)
+- JSON + CSV Download der gesamten Opferdatenbank
+- **Rate Limiting:** 10 Requests/Stunde pro IP
+- 25 Felder exportiert, CC BY-SA 4.0 Lizenz in JSON-Meta
+- CSV mit korrektem Escaping (Kommas, Anführungszeichen, Newlines)
+
+#### API-Dokumentation (`/api-docs`)
+- Server-Seite mit Live-Stats aus der DB
+- Dokumentiert 3 Endpoints: `/api/search`, `/api/export`, `/api/submit`
+- Parameter-Tabellen, Code-Beispiele, Response-Strukturen
+
+#### Admin Review Panel (`/admin`)
+- **AdminPanel.tsx:** Tab-basierte UI (Pending/Approved/Rejected)
+- Approve/Reject Buttons mit sofortigem State-Update
+- Stats-Dashboard mit Counts
+- **API:** `/api/admin/submissions` — Auth via `X-Forwarded-User` (Nginx Basic Auth)
+
+#### Interaktiver Zeitstrahl (Upgrade)
+- **InteractiveTimeline.tsx** ersetzt statischen Zeitstrahl
+- Zoom-Controls (50%–300%) skalieren proportionalen Abstand
+- Click-to-expand Event-Cards mit Beschreibung + Detail-Link
+- `timeGapRem(yearsDiff, zoom)` nimmt jetzt Zoom-Parameter
+
+### Technische Erkenntnisse
+
+- **Leaflet + SSR:** Leaflet greift auf `window` zu — `next/dynamic` mit `ssr: false` ist zwingend
+- **Leaflet CSS:** Muss separat importiert werden (`leaflet/dist/leaflet.css`), sonst sind Tiles verzerrt
+- **Header Nav-Count in Tests:** Beim Hinzufügen neuer Nav-Items müssen die Header-Tests aktualisiert werden (Mobile-Menu-Test zählt Link-Differenz)
+- **Rate Limiting auf Export-API:** Wichtig da ganzer DB-Dump — ohne Limit könnte ein Bot die DB-Last hochjagen
+- **CSV-Escaping:** Felder mit Kommas oder Newlines müssen in Anführungszeichen, Anführungszeichen werden verdoppelt (`""`)
+- **Admin Auth Pattern:** `X-Forwarded-User` Header von Nginx Basic Auth — gleiche Konvention wie housekeeping-api
+
+---
+
+*Letzte Aktualisierung: 2026-02-15 (v0.7.0: Map, Export API, API Docs, Admin Panel, Interactive Timeline)*

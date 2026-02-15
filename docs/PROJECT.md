@@ -1,6 +1,6 @@
 # Iran Memorial — Projektdokumentation
 
-> Letzte Aktualisierung: 9. Februar 2026
+> Letzte Aktualisierung: 15. Februar 2026
 
 ---
 
@@ -188,10 +188,14 @@ iran-memorial/
 │   ├── [locale]/                 # Sprachbasierte Routen (/fa/, /en/, /de/)
 │   │   ├── page.tsx              # Startseite: Statistiken, Suche, Intro
 │   │   ├── layout.tsx            # RTL/LTR Layout pro Sprache
-│   │   ├── timeline/page.tsx     # Interaktiver Zeitstrahl
+│   │   ├── timeline/page.tsx     # Interaktiver Zeitstrahl (Zoom, Expand)
+│   │   ├── map/page.tsx          # Provinz-Karte (Leaflet)
+│   │   ├── statistics/page.tsx   # Diagramme und Statistiken
+│   │   ├── api-docs/page.tsx     # API-Dokumentation
+│   │   ├── admin/page.tsx        # Admin Submission-Review
 │   │   ├── victims/
 │   │   │   ├── page.tsx          # Opferliste mit Suche und Filtern
-│   │   │   └── [slug]/page.tsx   # Opfer-Einzelseite (ISR, stündlich aktualisiert)
+│   │   │   └── [slug]/page.tsx   # Opfer-Einzelseite
 │   │   ├── events/
 │   │   │   ├── page.tsx          # Alle Ereignisse chronologisch
 │   │   │   └── [slug]/page.tsx   # Einzelnes Ereignis + verknüpfte Opfer
@@ -199,7 +203,9 @@ iran-memorial/
 │   │   └── about/page.tsx        # Über das Projekt
 │   └── api/
 │       ├── search/route.ts       # Öffentliche Such-API
-│       └── submit/route.ts       # Einreichungs-API
+│       ├── submit/route.ts       # Einreichungs-API
+│       ├── export/route.ts       # Datenexport (JSON/CSV)
+│       └── admin/submissions/    # Admin Review API
 ├── components/                   # React-Komponenten (Header, Footer, VictimCard, etc.)
 ├── i18n/                         # Internationalisierung (Routing, Navigation, Config)
 ├── lib/                          # Datenbank-Client, Abfragen, Hilfsfunktionen
@@ -438,21 +444,21 @@ Das einzige Ziel ist Dokumentation und Erinnerung. Keine Parteinahme für eine b
 - [x] Docker-Compose für lokale Entwicklung und Deployment
 - [x] 3 Opfer-Einträge + 12 Ereignisse als Seed-Daten
 
-### Phase 2 — Wachstum (geplant)
+### Phase 2 — Wachstum (größtenteils abgeschlossen)
 
-- [ ] Admin-Panel mit NextAuth.js (GitHub OAuth) für Editoren
-- [ ] Bulk-Import von Opferdaten aus externen Quellen (Boroumand Foundation, IHR)
-- [ ] Deutsche Übersetzungen der Opfer-Inhalte (nicht nur UI)
-- [ ] Foto-Upload und Verwaltung
-- [ ] Erweiterte Suchfilter (Provinz, Jahr, Geschlecht, Todesursache)
-- [ ] Offener Datenexport (JSON/CSV-Download)
-- [ ] Öffentliche API-Dokumentation
+- [x] Admin-Panel für Submission-Review (Approve/Reject via Nginx Basic Auth)
+- [x] Bulk-Import von Opferdaten aus externen Quellen (Boroumand, IHR, HRANA, iranvictims, iranrevolution, Wikipedia, Telegram RTN)
+- [x] Deutsche Übersetzungen der Opfer-Inhalte (~22K circumstances_de via GPT-4o-mini)
+- [ ] Foto-Upload und CDN (Multi-Photo Support existiert, Upload-UI fehlt)
+- [x] Erweiterte Suchfilter (Provinz, Jahr, Geschlecht in FilterBar)
+- [x] Offener Datenexport (JSON/CSV-Download via `/api/export`, rate-limited)
+- [x] Öffentliche API-Dokumentation (`/api-docs` Seite mit Live-Stats)
 
-### Phase 3 — Interaktivität (geplant)
+### Phase 3 — Interaktivität (größtenteils abgeschlossen)
 
-- [ ] Interaktiver Zeitstrahl mit Zoom und Filterung
-- [ ] Kartenvisualisierung (Todesorte, Begräbnisstätten, Massengräber)
-- [ ] Statistische Dashboards (Tötungen nach Jahr, Region, Methode)
+- [x] Interaktiver Zeitstrahl mit Zoom (50%–300%) und Click-to-Expand
+- [x] Kartenvisualisierung (Provinz-Level Leaflet-Karte mit proportionalen Markern)
+- [x] Statistische Dashboards (Tötungen nach Jahr, Region, Geschlecht — Statistics-Seite)
 - [ ] Community-Kommentare und Ergänzungen zu bestehenden Einträgen
 - [ ] Benachrichtigungssystem für Datenänderungen
 

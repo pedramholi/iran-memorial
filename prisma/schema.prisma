@@ -7,6 +7,37 @@ datasource db {
   url      = env("DATABASE_URL")
 }
 
+model Province {
+  id        Int      @id @default(autoincrement())
+  slug      String   @unique
+  nameEn    String   @map("name_en")
+  nameFa    String   @map("name_fa")
+  nameDe    String   @map("name_de")
+  latitude  Float
+  longitude Float
+  createdAt DateTime @default(now()) @map("created_at") @db.Timestamptz()
+
+  cities City[]
+
+  @@map("provinces")
+}
+
+model City {
+  id         Int      @id @default(autoincrement())
+  slug       String   @unique
+  nameEn     String   @map("name_en")
+  nameFa     String?  @map("name_fa")
+  nameDe     String?  @map("name_de")
+  provinceId Int      @map("province_id")
+  province   Province @relation(fields: [provinceId], references: [id])
+  createdAt  DateTime @default(now()) @map("created_at") @db.Timestamptz()
+
+  victims Victim[] @relation("death_city")
+
+  @@index([provinceId])
+  @@map("cities")
+}
+
 model Event {
   id                 String    @id @default(dbgenerated("gen_random_uuid()")) @db.Uuid
   slug               String    @unique
@@ -66,6 +97,8 @@ model Victim {
   ageAtDeath            Int?      @map("age_at_death")
   placeOfDeath          String?   @map("place_of_death")
   province              String?
+  cityId                Int?      @map("city_id")
+  city                  City?     @relation("death_city", fields: [cityId], references: [id])
   causeOfDeath          String?   @map("cause_of_death")
   circumstancesEn       String?   @map("circumstances_en")
   circumstancesFa       String?   @map("circumstances_fa")
@@ -104,6 +137,7 @@ model Victim {
   @@index([dateOfDeath])
   @@index([eventId])
   @@index([province])
+  @@index([cityId])
   @@map("victims")
 }
 

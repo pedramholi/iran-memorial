@@ -82,7 +82,8 @@ A digital memorial for the victims of the Islamic Republic of Iran (1979–prese
 | i18n | next-intl (URL-based: `/fa/`, `/en/`, `/de/`) |
 | Styling | Tailwind CSS v4 (`@tailwindcss/postcss`) |
 | Validation | Zod (API input validation) |
-| Testing | Vitest + Testing Library (124 tests) + pytest (100 enricher tests) |
+| Testing | Vitest + Testing Library (124 tests) + pytest (100 enricher tests) = **224 total** |
+| Maps | Leaflet + react-leaflet (province-level visualization) |
 | Container | Docker Compose (PostgreSQL + App) |
 | Webserver | Nginx (reverse proxy, Cloudflare) |
 | Data Pipeline | Python asyncpg + aiohttp (`tools/enricher/`) |
@@ -97,8 +98,11 @@ iran-memorial/
 │   ├── [locale]/                # /fa/, /en/, /de/
 │   │   ├── page.tsx             # Homepage (stats, search, recent victims)
 │   │   ├── layout.tsx           # RTL/LTR per locale, fonts, header/footer
-│   │   ├── timeline/page.tsx    # Chronological timeline (proportional spacing)
+│   │   ├── timeline/page.tsx    # Interactive timeline (zoom, expand)
 │   │   ├── statistics/page.tsx  # Charts and statistics
+│   │   ├── map/page.tsx         # Province-level victim map (Leaflet)
+│   │   ├── api-docs/page.tsx    # API documentation page
+│   │   ├── admin/page.tsx       # Admin submission review panel
 │   │   ├── victims/
 │   │   │   ├── page.tsx         # Search + paginated list (photos-first sort)
 │   │   │   └── [slug]/page.tsx  # Victim detail with PhotoGallery
@@ -109,10 +113,13 @@ iran-memorial/
 │   │   └── about/page.tsx       # About the project
 │   ├── api/
 │   │   ├── search/route.ts      # GET /api/search?q=...
-│   │   └── submit/route.ts      # POST submission
+│   │   ├── submit/route.ts      # POST submission
+│   │   ├── export/route.ts      # GET /api/export?format=json|csv (rate-limited)
+│   │   └── admin/submissions/route.ts  # GET/PATCH admin review API
 │   └── layout.tsx               # Root layout
 ├── components/                  # Header, Footer, LanguageSwitcher, VictimCard,
-│                                # SearchBar, FilterBar, PhotoGallery, EventHero
+│                                # SearchBar, FilterBar, PhotoGallery, EventHero,
+│                                # IranMap, InteractiveTimeline, AdminPanel
 ├── i18n/                        # config, routing, request, navigation
 ├── lib/
 │   ├── db.ts                    # Prisma client singleton
@@ -125,7 +132,7 @@ iran-memorial/
 │   ├── schema.prisma            # 5 models: Victim, Event, Source, Photo, Submission
 │   ├── seed.ts                  # Event seed (timeline.yaml → DB)
 │   └── init.sql                 # pg_trgm extension
-├── __tests__/                   # Vitest test suite (124 tests, 11 files)
+├── __tests__/                   # Vitest test suite (124 tests, 11 files, <1.2s)
 ├── tools/
 │   ├── enricher/                # WAT: Active data pipeline framework
 │   │   ├── cli.py               # CLI: enrich, check, dedup, status, list
@@ -190,7 +197,7 @@ npm run test:watch             # Watch mode
 npm run test:coverage          # v8 coverage report
 
 # Testing (Enricher — pytest)
-python3 -m pytest tools/enricher/tests/ -v   # 53 pytest tests
+python3 -m pytest tools/enricher/tests/ -v   # 100 pytest tests
 
 # Database
 npx prisma generate            # Regenerate client after schema changes
@@ -323,8 +330,9 @@ POSTGRES_PASSWORD=memorial_dev_password
 | v0.5.1 | 2026-02-14 | Enricher upgrade: iranvictims CSV, iranrevolution plugin, circumstances_fa, provinces utility, 53 pytest tests |
 | v0.6.0 | 2026-02-14 | German translation: 7 `_de` columns, translate_de.py (GPT-4o-mini), semaphore concurrency, ~22K circumstances_de |
 | v0.6.1 | 2026-02-15 | Telegram @RememberTheirNames plugin, Jalali date conversion, 100 Farsi city mappings, 47 new pytest tests |
+| v0.7.0 | 2026-02-15 | Interactive Map (Leaflet), Data Export API (JSON/CSV), API Docs page, Admin Review Panel, Interactive Timeline (zoom/expand), 2 new nav items |
 
-**Current:** v0.6.1 | 30,795 victims | 43K+ sources | 4,942 photos | 124 Vitest + 100 pytest tests | Live at memorial.n8ncloud.de
+**Current:** v0.7.0 | 30,795 victims | 43K+ sources | 4,999 photos | 124 Vitest + 100 pytest tests = 224 total | Live at memorial.n8ncloud.de
 
 ---
 
