@@ -267,9 +267,9 @@
 | Vitest Tests | 144 | 144 | ~200 |
 | pytest Tests | 112 | 112 | 112 |
 | Hardcoded Strings | ~60 | ~55 (5 gefixt) | 0 |
-| Bugs (bekannt) | 5 | 2 (B3, B5) | 0 |
+| Bugs (bekannt) | 5 | **0** ✅ | 0 |
 | `unoptimized` Images | 7 | **0** ✅ | 0 |
-| Accessibility Issues | 7 | 3 (A5, A7, A4) | ≤2 |
+| Accessibility Issues | 7 | 1 (A5) | ≤2 |
 | Sitemap URLs | 90K+ (kein Cap) | 45K Cap ✅ | Index-Dateien |
 
 ---

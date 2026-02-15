@@ -65,7 +65,8 @@ test.describe("API", () => {
     const response = await request.get("/api/search?q=test");
     expect(response.status()).toBe(200);
     const data = await response.json();
-    expect(Array.isArray(data)).toBeTruthy();
+    expect(data.results).toBeDefined();
+    expect(Array.isArray(data.results)).toBeTruthy();
   });
 
   test("export API returns data", async ({ request }) => {

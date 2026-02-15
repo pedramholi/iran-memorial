@@ -139,6 +139,7 @@ function VictimsContent({
                 <Link
                   href={`/victims?page=${result.page - 1}${filterQs}`}
                   className="px-3 py-2 rounded-md border border-memorial-700 text-memorial-300 hover:bg-memorial-800 text-sm"
+                  aria-label={t("previousPage")}
                 >
                   &larr;
                 </Link>
@@ -174,6 +175,7 @@ function VictimsContent({
                 <Link
                   href={`/victims?page=${result.page + 1}${filterQs}`}
                   className="px-3 py-2 rounded-md border border-memorial-700 text-memorial-300 hover:bg-memorial-800 text-sm"
+                  aria-label={t("nextPage")}
                 >
                   &rarr;
                 </Link>

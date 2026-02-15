@@ -105,7 +105,9 @@
     "female": "زن",
     "results": "نتیجه",
     "showing": "نمایش",
-    "clearFilters": "پاک کردن فیلترها"
+    "clearFilters": "پاک کردن فیلترها",
+    "previousPage": "صفحه قبلی",
+    "nextPage": "صفحه بعدی"
   },
   "submit": {
     "title": "ارسال اطلاعات",

@@ -105,7 +105,9 @@
     "female": "Female",
     "results": "results",
     "showing": "Showing",
-    "clearFilters": "Clear filters"
+    "clearFilters": "Clear filters",
+    "previousPage": "Previous page",
+    "nextPage": "Next page"
   },
   "submit": {
     "title": "Submit Information",

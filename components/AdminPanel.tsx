@@ -22,22 +22,27 @@ export function AdminPanel({
   const [submissions, setSubmissions] = useState(initialSubmissions);
   const [activeTab, setActiveTab] = useState<"pending" | "approved" | "rejected">("pending");
   const [loading, setLoading] = useState<string | null>(null);
+  const [error, setError] = useState<string | null>(null);
 
   async function loadTab(status: string) {
     setActiveTab(status as any);
+    setError(null);
     try {
       const res = await fetch(`/api/admin/submissions?status=${status}`);
       if (res.ok) {
         const data = await res.json();
         setSubmissions(data.submissions);
+      } else {
+        setError(`Failed to load submissions (${res.status})`);
       }
     } catch {
-      // silently fail
+      setError("Network error — could not load submissions");
     }
   }
 
   async function reviewSubmission(id: string, status: "approved" | "rejected", notes?: string) {
     setLoading(id);
+    setError(null);
     try {
       const res = await fetch("/api/admin/submissions", {
         method: "PATCH",
@@ -46,9 +51,11 @@ export function AdminPanel({
       });
       if (res.ok) {
         setSubmissions((prev) => prev.filter((s) => s.id !== id));
+      } else {
+        setError(`Failed to update submission (${res.status})`);
       }
     } catch {
-      // silently fail
+      setError("Network error — could not update submission");
     }
     setLoading(null);
   }
@@ -93,6 +100,13 @@ export function AdminPanel({
           Rejected
         </button>
       </div>
+
+      {/* Error */}
+      {error && (
+        <div className="mb-4 rounded-lg border border-red-800/50 bg-red-900/20 px-4 py-3 text-sm text-red-400">
+          {error}
+        </div>
+      )}
 
       {/* Submissions */}
       {submissions.length === 0 ? (

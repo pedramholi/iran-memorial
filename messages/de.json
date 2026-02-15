@@ -105,7 +105,9 @@
     "female": "Weiblich",
     "results": "Ergebnisse",
     "showing": "Anzeige",
-    "clearFilters": "Filter zurücksetzen"
+    "clearFilters": "Filter zurücksetzen",
+    "previousPage": "Vorherige Seite",
+    "nextPage": "Nächste Seite"
   },
   "submit": {
     "title": "Informationen einreichen",
