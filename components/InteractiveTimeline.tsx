@@ -20,6 +20,12 @@ function yearsBetween(a: Date | string, b: Date | string): number {
   return diffMs / (365.25 * 24 * 60 * 60 * 1000);
 }
 
+function truncateText(text: string, maxSentences = 2): string {
+  const sentences = text.match(/[^.!?]+[.!?]+/g);
+  if (!sentences) return text.length > 200 ? text.slice(0, 200) + "…" : text;
+  return sentences.slice(0, maxSentences).join("").trim();
+}
+
 export function InteractiveTimeline({
   events,
   locale,
@@ -29,7 +35,6 @@ export function InteractiveTimeline({
 }) {
   const t = useTranslations("timeline");
   const [zoom, setZoom] = useState(1);
-  const [expandedSlug, setExpandedSlug] = useState<string | null>(null);
 
   const zoomIn = () => setZoom((z) => Math.min(3, z + 0.5));
   const zoomOut = () => setZoom((z) => Math.max(0.5, z - 0.5));
@@ -76,7 +81,6 @@ export function InteractiveTimeline({
           <div>
             {events.map((event: any, index: number) => {
               const title = localized(event, "title", locale);
-              const description = localized(event, "description", locale);
               const killed = formatKilledRange(
                 event.estimatedKilledLow,
                 event.estimatedKilledHigh,
@@ -84,7 +88,8 @@ export function InteractiveTimeline({
               );
               const isLeft = index % 2 === 0;
               const eventPhoto = event.photos?.[0]?.url;
-              const isExpanded = expandedSlug === event.slug;
+              const description = localized(event, "description", locale);
+              const shortDesc = description ? truncateText(description) : null;
 
               const prevStart =
                 index > 0 ? events[index - 1].dateStart : null;
@@ -110,65 +115,46 @@ export function InteractiveTimeline({
                         isLeft ? "sm:text-end sm:pe-8" : "sm:ps-8"
                       }`}
                     >
-                      <button
-                        type="button"
-                        className="group cursor-pointer text-start w-full"
-                        aria-expanded={isExpanded}
-                        onClick={() =>
-                          setExpandedSlug(isExpanded ? null : event.slug)
-                        }
-                      >
-                        <div className="flex items-start gap-3">
-                          {eventPhoto && (
-                            <div className="relative w-12 h-12 flex-shrink-0 rounded overflow-hidden bg-memorial-800">
-                              <Image
-                                src={eventPhoto}
-                                alt={title || ""}
-                                fill
-                                sizes="48px"
-                                className="object-cover"
-                              />
-                            </div>
-                          )}
-                          <div className="flex-1">
-                            <time className="text-xs text-memorial-500">
-                              {formatDate(event.dateStart, locale)}
-                            </time>
-                            <h3 className="text-lg font-semibold text-memorial-100 group-hover:text-gold-400 transition-colors mt-1">
-                              {title}
-                              <span className="inline-block ms-2 text-xs text-memorial-500">
-                                {isExpanded ? "▲" : "▼"}
-                              </span>
-                            </h3>
+                      <div className="flex items-start gap-3">
+                        {eventPhoto && (
+                          <div className="relative w-12 h-12 flex-shrink-0 rounded overflow-hidden bg-memorial-800">
+                            <Image
+                              src={eventPhoto}
+                              alt={title || ""}
+                              fill
+                              sizes="48px"
+                              className="object-cover"
+                            />
                           </div>
-                        </div>
-                        {killed && (
-                          <p className="text-sm text-blood-400 mt-1">
-                            {killed} {t("killed")}
-                          </p>
                         )}
-                      </button>
-
-                      {/* Expandable details */}
-                      {isExpanded && (
-                        <div className="mt-3 border-t border-memorial-800 pt-3 text-start">
-                          {description && (
-                            <p className="text-sm text-memorial-400 leading-relaxed">
-                              {description}
-                            </p>
-                          )}
-                          {event._count?.victims > 0 && (
-                            <p className="text-xs text-memorial-500 mt-2">
-                              {event._count.victims} {t("documented")}
-                            </p>
-                          )}
-                          <Link
-                            href={`/events/${event.slug}`}
-                            className="inline-block mt-3 text-sm text-gold-400 hover:text-gold-300 underline"
-                          >
-                            {t("viewDetails")} →
-                          </Link>
+                        <div className="flex-1">
+                          <time className="text-xs text-memorial-500">
+                            {formatDate(event.dateStart, locale)}
+                          </time>
+                          <h3 className="text-lg font-semibold mt-1">
+                            <Link
+                              href={`/events/${event.slug}`}
+                              className="text-memorial-100 hover:text-gold-400 transition-colors"
+                            >
+                              {title}
+                            </Link>
+                          </h3>
                         </div>
+                      </div>
+                      {killed && (
+                        <p className="text-sm text-blood-400 mt-1">
+                          {killed} {t("killed")}
+                        </p>
+                      )}
+                      {shortDesc && (
+                        <p className="text-sm text-memorial-400 leading-relaxed mt-2">
+                          {shortDesc}
+                        </p>
+                      )}
+                      {event._count?.victims > 0 && (
+                        <p className="text-xs text-memorial-500 mt-1">
+                          {event._count.victims} {t("documented")}
+                        </p>
                       )}
                     </div>
 
