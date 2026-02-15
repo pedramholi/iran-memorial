@@ -3,6 +3,7 @@ import { useTranslations } from "next-intl";
 import { getStatistics, type Statistics } from "@/lib/queries";
 import { formatNumber } from "@/lib/utils";
 import { translateCause, translateAgeBucket, translateDataSource } from "@/lib/translate";
+import { StatCard, Section, HorizontalBars } from "@/components/charts";
 import type { Locale } from "@/i18n/config";
 
 export const dynamic = "force-dynamic";
@@ -150,50 +151,7 @@ function StatisticsContent({
   );
 }
 
-/* ---------- Reusable sub-components ---------- */
-
-function StatCard({
-  value,
-  label,
-  highlight,
-}: {
-  value: string;
-  label: string;
-  highlight?: boolean;
-}) {
-  return (
-    <div className="rounded-lg border border-memorial-800/60 bg-memorial-900/30 p-4 sm:p-6 text-center">
-      <div
-        className={`text-2xl sm:text-3xl font-bold tabular-nums ${
-          highlight ? "text-gold-400" : "text-memorial-100"
-        }`}
-      >
-        {value}
-      </div>
-      <div className="text-xs sm:text-sm text-memorial-500 mt-1">{label}</div>
-    </div>
-  );
-}
-
-function Section({
-  title,
-  children,
-}: {
-  title: string;
-  children: React.ReactNode;
-}) {
-  return (
-    <div className="mt-12 sm:mt-16 first:mt-0">
-      <div className="flex items-center gap-4 mb-6">
-        <h2 className="text-lg font-semibold text-gold-400 flex-shrink-0">
-          {title}
-        </h2>
-        <div className="h-px flex-1 bg-memorial-800" />
-      </div>
-      {children}
-    </div>
-  );
-}
+/* ---------- Page-specific components ---------- */
 
 function YearlyBarChart({
   data,
@@ -238,48 +196,6 @@ function YearlyBarChart({
           );
         })}
       </div>
-    </div>
-  );
-}
-
-function StatisticsUnavailable() {
-  const t = useTranslations("statistics");
-  return (
-    <div className="mx-auto max-w-4xl px-4 py-20 text-center text-memorial-400">
-      {t("unavailable")}
-    </div>
-  );
-}
-
-function HorizontalBars({
-  data,
-  locale,
-  color,
-}: {
-  data: { label: string; count: number }[];
-  locale: Locale;
-  color: string;
-}) {
-  const maxCount = Math.max(...data.map((d) => d.count), 1);
-
-  return (
-    <div className="space-y-2">
-      {data.map(({ label, count }) => (
-        <div key={label} className="flex items-center gap-3">
-          <span className="text-sm text-memorial-300 w-36 sm:w-44 text-end flex-shrink-0 truncate">
-            {label}
-          </span>
-          <div className="flex-1 h-6 bg-memorial-800/50 rounded overflow-hidden">
-            <div
-              className={`h-full rounded ${color}`}
-              style={{ width: `${(count / maxCount) * 100}%` }}
-            />
-          </div>
-          <span className="text-xs text-memorial-400 w-14 text-end tabular-nums flex-shrink-0">
-            {formatNumber(count, locale)}
-          </span>
-        </div>
-      ))}
     </div>
   );
 }

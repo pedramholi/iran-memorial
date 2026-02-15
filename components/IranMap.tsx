@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import "leaflet/dist/leaflet.css";
 import type { Locale } from "@/i18n/config";
 
 type ProvinceMapData = {
@@ -53,13 +54,6 @@ function MapInner({ data, locale }: { data: ProvinceMapData[]; locale: Locale })
       setTooltip(() => rl.Tooltip);
     });
 
-    // Load Leaflet CSS
-    if (!document.querySelector('link[href*="leaflet"]')) {
-      const link = document.createElement("link");
-      link.rel = "stylesheet";
-      link.href = "https://unpkg.com/leaflet@1.9.4/dist/leaflet.css";
-      document.head.appendChild(link);
-    }
   }, []);
 
   if (!MapContainer) {
@@ -85,11 +79,11 @@ function MapInner({ data, locale }: { data: ProvinceMapData[]; locale: Locale })
   };
 
   return (
+    <div className="relative overflow-hidden rounded-lg border border-memorial-800/60" style={{ height: "500px" }}>
     <MapContainer
       center={[32.4279, 53.6880] as [number, number]}
       zoom={5}
-      style={{ width: "100%", height: "500px" }}
-      className="rounded-lg border border-memorial-800/60"
+      style={{ width: "100%", height: "100%" }}
       scrollWheelZoom={false}
     >
       <TileLayer
@@ -117,5 +111,6 @@ function MapInner({ data, locale }: { data: ProvinceMapData[]; locale: Locale })
         </CircleMarker>
       ))}
     </MapContainer>
+    </div>
   );
 }

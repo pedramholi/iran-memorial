@@ -513,6 +513,112 @@ export async function getStatistics(locale: Locale = "en") {
 }
 
 export type Statistics = Awaited<ReturnType<typeof getStatistics>>;
+
+export type EventStatistics = {
+  totalVictims: number;
+  verifiedCount: number;
+  provincesAffected: number;
+  deathsByProvince: { label: string; count: number }[];
+  deathsByCause: { label: string; count: number }[];
+  ageDistribution: { label: string; count: number }[];
+  genderBreakdown: { label: string; count: number }[];
+};
+
+export async function getEventStatistics(
+  eventId: string,
+  locale: Locale = "en"
+): Promise<EventStatistics> {
+  const nameCol =
+    locale === "fa" ? "p.name_fa" : locale === "de" ? "p.name_de" : "p.name_en";
+
+  const [
+    totalResult,
+    deathsByProvince,
+    deathsByCause,
+    ageDistribution,
+    genderBreakdown,
+    verifiedResult,
+    provinceCountResult,
+  ] = await Promise.all([
+    prisma.$queryRaw<{ count: number }[]>`
+      SELECT COUNT(*)::int AS count FROM victims WHERE event_id = ${eventId}::uuid
+    `,
+
+    prisma.$queryRaw<{ province: string; count: number }[]>`
+      SELECT ${Prisma.raw(nameCol)} AS province, COUNT(*)::int AS count
+      FROM victims v
+      JOIN cities c ON v.city_id = c.id
+      JOIN provinces p ON c.province_id = p.id
+      WHERE v.event_id = ${eventId}::uuid
+      GROUP BY p.id, ${Prisma.raw(nameCol)}
+      ORDER BY count DESC LIMIT 15
+    `,
+
+    prisma.$queryRaw<{ cause: string; count: number }[]>`
+      SELECT cause_of_death AS cause, COUNT(*)::int AS count
+      FROM victims
+      WHERE event_id = ${eventId}::uuid
+        AND cause_of_death IS NOT NULL AND cause_of_death != ''
+      GROUP BY cause_of_death ORDER BY count DESC LIMIT 10
+    `,
+
+    prisma.$queryRaw<{ bucket: string; count: number }[]>`
+      SELECT
+        CASE
+          WHEN age_at_death < 18 THEN 'Under 18'
+          WHEN age_at_death BETWEEN 18 AND 25 THEN '18-25'
+          WHEN age_at_death BETWEEN 26 AND 35 THEN '26-35'
+          WHEN age_at_death BETWEEN 36 AND 50 THEN '36-50'
+          WHEN age_at_death > 50 THEN 'Over 50'
+        END AS bucket, COUNT(*)::int AS count
+      FROM victims
+      WHERE event_id = ${eventId}::uuid AND age_at_death IS NOT NULL
+      GROUP BY bucket ORDER BY MIN(age_at_death)
+    `,
+
+    prisma.$queryRaw<{ gender: string; count: number }[]>`
+      SELECT COALESCE(gender, 'unknown') AS gender, COUNT(*)::int AS count
+      FROM victims
+      WHERE event_id = ${eventId}::uuid
+      GROUP BY gender ORDER BY count DESC
+    `,
+
+    prisma.$queryRaw<{ count: number }[]>`
+      SELECT COUNT(*)::int AS count FROM victims
+      WHERE event_id = ${eventId}::uuid AND verification_status = 'verified'
+    `,
+
+    prisma.$queryRaw<{ count: number }[]>`
+      SELECT COUNT(DISTINCT p.id)::int AS count
+      FROM victims v
+      JOIN cities c ON v.city_id = c.id
+      JOIN provinces p ON c.province_id = p.id
+      WHERE v.event_id = ${eventId}::uuid
+    `,
+  ]);
+
+  return {
+    totalVictims: Number(totalResult[0]?.count) || 0,
+    verifiedCount: Number(verifiedResult[0]?.count) || 0,
+    provincesAffected: Number(provinceCountResult[0]?.count) || 0,
+    deathsByProvince: deathsByProvince.map((r) => ({
+      label: r.province,
+      count: Number(r.count),
+    })),
+    deathsByCause: deathsByCause.map((r) => ({
+      label: r.cause,
+      count: Number(r.count),
+    })),
+    ageDistribution: ageDistribution.map((r) => ({
+      label: r.bucket,
+      count: Number(r.count),
+    })),
+    genderBreakdown: genderBreakdown.map((r) => ({
+      label: r.gender,
+      count: Number(r.count),
+    })),
+  };
+}
 export type VictimDetail = NonNullable<Awaited<ReturnType<typeof getVictimBySlug>>>;
 export type EventDetail = NonNullable<Awaited<ReturnType<typeof getEventBySlug>>>;
 export type EventWithCount = Awaited<ReturnType<typeof getAllEvents>>[number];

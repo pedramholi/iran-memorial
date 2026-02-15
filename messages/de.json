@@ -77,7 +77,8 @@
     "estimatedKilled": "Geschätzte Todesopfer",
     "dateRange": "Zeitraum",
     "relatedVictims": "Dokumentierte Opfer",
-    "tags": "Schlagwörter"
+    "tags": "Schlagwörter",
+    "statistics": "Statistik"
   },
   "timeline": {
     "title": "Zeitstrahl",

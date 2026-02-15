@@ -77,7 +77,8 @@
     "estimatedKilled": "Estimated Killed",
     "dateRange": "Date Range",
     "relatedVictims": "Documented Victims",
-    "tags": "Tags"
+    "tags": "Tags",
+    "statistics": "Statistics"
   },
   "timeline": {
     "title": "Timeline",

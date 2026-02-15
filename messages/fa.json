@@ -77,7 +77,8 @@
     "estimatedKilled": "تعداد تخمینی کشته‌شدگان",
     "dateRange": "بازه زمانی",
     "relatedVictims": "قربانیان مستندشده",
-    "tags": "برچسب‌ها"
+    "tags": "برچسب‌ها",
+    "statistics": "آمار"
   },
   "timeline": {
     "title": "خط زمانی",

@@ -1,11 +1,12 @@
 import { notFound } from "next/navigation";
 import { setRequestLocale } from "next-intl/server";
 import { useTranslations } from "next-intl";
-import { getEventBySlug, localized } from "@/lib/queries";
+import { getEventBySlug, getEventStatistics, localized, type EventStatistics as EventStatsData } from "@/lib/queries";
 import { formatDateRange, formatKilledRange } from "@/lib/utils";
 import { VictimCard } from "@/components/VictimCard";
 import { EventHero } from "@/components/EventHero";
 import { PhotoGallery } from "@/components/PhotoGallery";
+import { EventStatistics } from "@/components/EventStatistics";
 import { Link } from "@/i18n/navigation";
 import type { Locale } from "@/i18n/config";
 import type { Metadata } from "next";
@@ -61,10 +62,20 @@ export default async function EventPage({
   }
   if (!event) notFound();
 
-  return <EventDetail event={event} locale={locale as Locale} slug={slug} />;
+  // Fetch event statistics only if event has >= 10 victims
+  let eventStats: EventStatsData | null = null;
+  if (event.totalVictims >= 10) {
+    try {
+      eventStats = await getEventStatistics(event.id, locale as Locale);
+    } catch {
+      eventStats = null;
+    }
+  }
+
+  return <EventDetail event={event} locale={locale as Locale} slug={slug} statistics={eventStats} />;
 }
 
-function EventDetail({ event, locale, slug }: { event: any; locale: Locale; slug: string }) {
+function EventDetail({ event, locale, slug, statistics }: { event: any; locale: Locale; slug: string; statistics: EventStatsData | null }) {
   const t = useTranslations("event");
   const tv = useTranslations("victim");
 
@@ -144,6 +155,11 @@ function EventDetail({ event, locale, slug }: { event: any; locale: Locale; slug
               </span>
             ))}
           </div>
+        )}
+
+        {/* Event Statistics */}
+        {statistics && (
+          <EventStatistics statistics={statistics} locale={locale} />
         )}
 
         {/* Linked Victims */}

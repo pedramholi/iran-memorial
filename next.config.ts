@@ -40,7 +40,7 @@ const nextConfig: NextConfig = {
             "script-src 'self' 'unsafe-inline'",
             "style-src 'self' 'unsafe-inline' https://fonts.googleapis.com",
             "font-src 'self' https://fonts.gstatic.com",
-            "img-src 'self' https://storage.googleapis.com https://www.iranrights.org https://*.basemaps.cartocdn.com https://unpkg.com data:",
+            "img-src 'self' https://storage.googleapis.com https://www.iranrights.org https://*.basemaps.cartocdn.com data:",
             "connect-src 'self' https://*.basemaps.cartocdn.com",
             "frame-ancestors 'none'",
           ].join("; "),
