@@ -239,11 +239,15 @@
 
 | Quelle | Opferzahl | Stand |
 |--------|-----------|-------|
-| Iranische Regierung | 3.117 | Jan. 2026 |
-| Iran International (Recherche) | 36.500+ | Jan. 2026 |
+| **HRANA** (verifiziert) | **7.003+ getötet**, 11.021+ verletzt, 42.486+ inhaftiert | 14. Feb. 2026 |
+| Iran International (namentlich + Foto) | 6.634 | Feb. 2026 |
+| Iranische Regierung | 3.117 (enthält mind. 25 duplizierte National-IDs) | Jan. 2026 |
+| Iran International (klassifizierte Dokumente) | 36.500+ | Jan. 2026 |
+| TIME (zwei Beamte des Gesundheitsministeriums) | ~30.000 (allein 8.–9. Jan.) | Jan. 2026 |
+| Ärztenetzwerk (Sky News) | 20.000–30.000 | Jan. 2026 |
 | KHRN (nur kurdische Opfer) | 150+ namentlich identifiziert, 53 davon verifiziert | Jan. 2026 |
 
-**Anmerkung:** Die Zahlen divergieren extrem. Internet-Blackouts waren noch umfassender als 2019 und 2022. Unabhängige Verifizierung ist derzeit kaum möglich.
+**Anmerkung:** Die Zahlen divergieren extrem. Internet-Blackouts waren noch umfassender als 2019 und 2022. Unabhängige Verifizierung ist derzeit kaum möglich. Die verifizierten Zahlen sind ein Minimum — die tatsächliche Opferzahl hängt stark davon ab, wie viele der 42.486+ Inhaftierten noch leben. Siehe `docs/2026_UPRISING_GUIDE.md` für ausführliche Dokumentation.
 
 ---
 

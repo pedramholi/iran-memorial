@@ -282,6 +282,7 @@ POSTGRES_PASSWORD=memorial_dev_password
 | `docs/PROJECT.md` | Full project documentation (14 chapters) |
 | `docs/PLANNING_GUIDE.md` | Plan + Log templates, 9 principles |
 | `docs/IRAN_KNOWLEDGE.md` | Historical context 1979–2026 |
+| `docs/2026_UPRISING_GUIDE.md` | External guide: 2026 uprising, documentation efforts, internet blackout, Starlink, cyberattacks, movement symbols |
 | `docs/archive/` | Completed phase plans and execution logs |
 
 ---
